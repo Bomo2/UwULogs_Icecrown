@@ -1,0 +1,1 @@
+# UwULogs Tooltip Addon Data
