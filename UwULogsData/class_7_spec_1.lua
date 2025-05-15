@@ -19,7 +19,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 8,
         ["dps_max"] = 21440.73,
-        ["points"] = 9972.189114024632,
+        ["points"] = 9972.200158856234,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1,
@@ -96,7 +96,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 13,
         ["dps_max"] = 21180.17,
-        ["points"] = 9952.3241954708,
+        ["points"] = 9952.34312946783,
       },
       ["Festergut"] = {
         ["rank_raids"] = 20,
@@ -173,7 +173,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 21,
         ["dps_max"] = 20610.64,
-        ["points"] = 9920.540325784665,
+        ["points"] = 9920.571882446386,
       },
       ["Festergut"] = {
         ["rank_raids"] = 31,
@@ -250,7 +250,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 61,
         ["dps_max"] = 19762.87,
-        ["points"] = 9761.620977353992,
+        ["points"] = 9761.715647339157,
       },
       ["Festergut"] = {
         ["rank_raids"] = 34,
@@ -327,7 +327,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 68,
         ["dps_max"] = 19680.57,
-        ["points"] = 9733.810091378626,
+        ["points"] = 9733.915806195393,
       },
       ["Festergut"] = {
         ["rank_raids"] = 16,
@@ -444,7 +444,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 12,
         ["dps_max"] = 14073.81,
-        ["points"] = 9962.559564329476,
+        ["points"] = 9962.572303504594,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -481,7 +481,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 40,
         ["dps_max"] = 20084.26,
-        ["points"] = 9845.053635280095,
+        ["points"] = 9845.115170770454,
       },
       ["Festergut"] = {
         ["rank_raids"] = 27,
@@ -558,7 +558,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 132,
         ["dps_max"] = 19131.84,
-        ["points"] = 9479.539133889552,
+        ["points"] = 9479.745830023829,
       },
       ["Festergut"] = {
         ["rank_raids"] = 35,
@@ -635,7 +635,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 29,
         ["dps_max"] = 20427.28,
-        ["points"] = 9888.75645609853,
+        ["points"] = 9888.800635424941,
       },
       ["Festergut"] = {
         ["rank_raids"] = 101,
@@ -675,7 +675,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 65,
         ["dps_max"] = 11780.83,
-        ["points"] = 9782.16473791695,
+        ["points"] = 9782.238856753998,
       },
       ["Halion"] = {
         ["rank_raids"] = 9,
@@ -712,7 +712,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 59,
         ["dps_max"] = 19798.11,
-        ["points"] = 9769.566944775526,
+        ["points"] = 9769.658459094519,
       },
       ["Festergut"] = {
         ["rank_raids"] = 32,
@@ -752,7 +752,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 20,
         ["dps_max"] = 13267.94,
-        ["points"] = 9935.330156569094,
+        ["points"] = 9935.352160598843,
       },
       ["Halion"] = {
         ["rank_raids"] = 10,
@@ -789,7 +789,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 5,
         ["dps_max"] = 21846.35,
-        ["points"] = 9984.108065156932,
+        ["points"] = 9984.114376489277,
       },
       ["Festergut"] = {
         ["rank_raids"] = 11,
@@ -866,7 +866,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 33,
         ["dps_max"] = 20262.9,
-        ["points"] = 9872.864521255464,
+        ["points"] = 9872.915011914218,
       },
       ["Festergut"] = {
         ["rank_raids"] = 29,
@@ -943,7 +943,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 42,
         ["dps_max"] = 20059.63,
-        ["points"] = 9837.107667858561,
+        ["points"] = 9837.172359015092,
       },
       ["Festergut"] = {
         ["rank_raids"] = 24,
@@ -983,7 +983,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 59,
         ["dps_max"] = 11938.96,
-        ["points"] = 9802.586793737235,
+        ["points"] = 9802.653963933311,
       },
       ["Halion"] = {
         ["rank_raids"] = 122,
@@ -1020,7 +1020,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 17,
         ["dps_max"] = 20863.18,
-        ["points"] = 9936.432260627731,
+        ["points"] = 9936.457505957109,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5,
@@ -1097,7 +1097,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 43,
         ["dps_max"] = 20059.27,
-        ["points"] = 9833.134684147795,
+        ["points"] = 9833.200953137411,
       },
       ["Festergut"] = {
         ["rank_raids"] = 98,
@@ -1137,7 +1137,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 55,
         ["dps_max"] = 12036.49,
-        ["points"] = 9816.201497617427,
+        ["points"] = 9816.264035386186,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -1174,7 +1174,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 20,
         ["dps_max"] = 20738.9,
-        ["points"] = 9924.51330949543,
+        ["points"] = 9924.543288324066,
       },
       ["Festergut"] = {
         ["rank_raids"] = 14,
@@ -1251,7 +1251,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 64,
         ["dps_max"] = 19712.49,
-        ["points"] = 9749.702026221692,
+        ["points"] = 9749.801429706116,
       },
       ["Festergut"] = {
         ["rank_raids"] = 17,
@@ -1291,7 +1291,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 32,
         ["dps_max"] = 12612.83,
-        ["points"] = 9894.486044928522,
+        ["points"] = 9894.521946240218,
       },
       ["Halion"] = {
         ["rank_raids"] = 3,
@@ -1328,7 +1328,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 30,
         ["dps_max"] = 20322.16,
-        ["points"] = 9884.783472387764,
+        ["points"] = 9884.82922954726,
       },
       ["Festergut"] = {
         ["rank_raids"] = 92,
@@ -1405,7 +1405,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 94,
         ["dps_max"] = 19437.22,
-        ["points"] = 9630.51251489869,
+        ["points"] = 9630.659253375696,
       },
       ["Festergut"] = {
         ["rank_raids"] = 7,
@@ -1482,7 +1482,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 18,
         ["dps_max"] = 20786.49,
-        ["points"] = 9932.459276916965,
+        ["points"] = 9932.486100079428,
       },
       ["Festergut"] = {
         ["rank_raids"] = 26,
@@ -1522,7 +1522,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 18,
         ["dps_max"] = 13433.57,
-        ["points"] = 9942.13750850919,
+        ["points"] = 9942.15719632528,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -1559,7 +1559,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 99,
         ["dps_max"] = 19422.62,
-        ["points"] = 9610.647596344854,
+        ["points"] = 9610.802223987292,
       },
       ["Festergut"] = {
         ["rank_raids"] = 115,
@@ -1636,7 +1636,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 15,
         ["dps_max"] = 20930.11,
-        ["points"] = 9944.378228049265,
+        ["points"] = 9944.40031771247,
       },
       ["Festergut"] = {
         ["rank_raids"] = 99,
@@ -1676,7 +1676,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 82,
         ["dps_max"] = 11523.26,
-        ["points"] = 9724.30224642614,
+        ["points"] = 9724.39605307928,
       },
       ["Halion"] = {
         ["rank_raids"] = 62,
@@ -1696,7 +1696,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Vertund"] = {
-    ["percentile"] = 93.907,
+    ["percentile"] = 93.908,
     ["server"] = "Icecrown",
     ["overall_rank"] = 23,
     ["bosses"] = {
@@ -1713,7 +1713,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 118,
         ["dps_max"] = 19253.45,
-        ["points"] = 9535.160905840286,
+        ["points"] = 9535.345512311358,
       },
       ["Festergut"] = {
         ["rank_raids"] = 59,
@@ -1773,7 +1773,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Figureitout"] = {
-    ["percentile"] = 93.538,
+    ["percentile"] = 93.539,
     ["server"] = "Icecrown",
     ["overall_rank"] = 24,
     ["bosses"] = {
@@ -1790,7 +1790,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 202,
         ["dps_max"] = 18764.14,
-        ["points"] = 9360.07640878701,
+        ["points"] = 9360.687022900764,
       },
       ["Festergut"] = {
         ["rank_raids"] = 79,
@@ -1867,7 +1867,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 46,
         ["dps_max"] = 19971.78,
-        ["points"] = 9821.215733015495,
+        ["points"] = 9821.286735504369,
       },
       ["Festergut"] = {
         ["rank_raids"] = 116,
@@ -1905,9 +1905,9 @@ UWULogsData[7][1] = {
         ["points"] = 8421.77128652294,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1504,
+        ["rank_raids"] = 1505,
         ["dps_max"] = 6357.51,
-        ["points"] = 4884.27501701838,
+        ["points"] = 4882.613133718952,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -1927,7 +1927,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Mspuiyi"] = {
-    ["percentile"] = 93.141,
+    ["percentile"] = 93.142,
     ["server"] = "Icecrown",
     ["overall_rank"] = 26,
     ["bosses"] = {
@@ -1944,7 +1944,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 143,
         ["dps_max"] = 19082.52,
-        ["points"] = 9435.836313071117,
+        ["points"] = 9436.060365369342,
       },
       ["Festergut"] = {
         ["rank_raids"] = 131,
@@ -2021,7 +2021,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 126,
         ["dps_max"] = 19162.8,
-        ["points"] = 9503.377036154152,
+        ["points"] = 9503.574265289912,
       },
       ["Festergut"] = {
         ["rank_raids"] = 153,
@@ -2098,7 +2098,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 55,
         ["dps_max"] = 19867.83,
-        ["points"] = 9785.458879618594,
+        ["points"] = 9785.544082605242,
       },
       ["Festergut"] = {
         ["rank_raids"] = 12,
@@ -2175,7 +2175,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 58,
         ["dps_max"] = 19803.87,
-        ["points"] = 9773.539928486294,
+        ["points"] = 9773.6298649722,
       },
       ["Festergut"] = {
         ["rank_raids"] = 77,
@@ -2215,7 +2215,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 64,
         ["dps_max"] = 11789.78,
-        ["points"] = 9785.568413886998,
+        ["points"] = 9785.641374617217,
       },
       ["Halion"] = {
         ["rank_raids"] = 40,
@@ -2252,7 +2252,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 51,
         ["dps_max"] = 19943.71,
-        ["points"] = 9801.35081446166,
+        ["points"] = 9801.429706115965,
       },
       ["Festergut"] = {
         ["rank_raids"] = 81,
@@ -2290,7 +2290,7 @@ UWULogsData[7][1] = {
         ["points"] = 8128.385677936978,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1925,
+        ["rank_raids"] = 1926,
         ["dps_max"] = 5524.36,
         ["points"] = 3522.1038417375257,
       },
@@ -2312,7 +2312,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Zeanfa"] = {
-    ["percentile"] = 92.045,
+    ["percentile"] = 92.046,
     ["server"] = "Icecrown",
     ["overall_rank"] = 31,
     ["bosses"] = {
@@ -2329,7 +2329,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 66,
         ["dps_max"] = 19699.56,
-        ["points"] = 9741.756058800158,
+        ["points"] = 9741.858617950755,
       },
       ["Festergut"] = {
         ["rank_raids"] = 36,
@@ -2369,7 +2369,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 22,
         ["dps_max"] = 13190.58,
-        ["points"] = 9928.522804629,
+        ["points"] = 9928.547124872406,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -2389,7 +2389,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Yapycckuu"] = {
-    ["percentile"] = 91.985,
+    ["percentile"] = 91.986,
     ["server"] = "Icecrown",
     ["overall_rank"] = 32,
     ["bosses"] = {
@@ -2406,7 +2406,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 276,
         ["dps_max"] = 18429.57,
-        ["points"] = 9178.605539637058,
+        ["points"] = 9179.389312977099,
       },
       ["Festergut"] = {
         ["rank_raids"] = 287,
@@ -2446,7 +2446,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 13,
         ["dps_max"] = 14048.46,
-        ["points"] = 9959.155888359428,
+        ["points"] = 9959.169785641374,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -2483,7 +2483,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2,
         ["dps_max"] = 21905.45,
-        ["points"] = 9996.027016289232,
+        ["points"] = 9996.02859412232,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4,
@@ -2523,7 +2523,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 26,
         ["dps_max"] = 12864.35,
-        ["points"] = 9914.908100748808,
+        ["points"] = 9914.93705341953,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -2543,7 +2543,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Themidnight"] = {
-    ["percentile"] = 91.696,
+    ["percentile"] = 91.697,
     ["server"] = "Icecrown",
     ["overall_rank"] = 34,
     ["bosses"] = {
@@ -2560,7 +2560,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 142,
         ["dps_max"] = 19083.6,
-        ["points"] = 9439.809296781883,
+        ["points"] = 9440.031771247022,
       },
       ["Festergut"] = {
         ["rank_raids"] = 149,
@@ -2637,7 +2637,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 6,
         ["dps_max"] = 21458.63,
-        ["points"] = 9980.135081446166,
+        ["points"] = 9980.142970611596,
       },
       ["Festergut"] = {
         ["rank_raids"] = 67,
@@ -2714,7 +2714,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 53,
         ["dps_max"] = 19931.88,
-        ["points"] = 9793.404847040127,
+        ["points"] = 9793.486894360603,
       },
       ["Festergut"] = {
         ["rank_raids"] = 140,
@@ -2791,7 +2791,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 311,
         ["dps_max"] = 18294.46,
-        ["points"] = 9130.850047755492,
+        ["points"] = 9131.679389312976,
       },
       ["Festergut"] = {
         ["rank_raids"] = 390,
@@ -2851,7 +2851,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Birui"] = {
-    ["percentile"] = 90.021,
+    ["percentile"] = 90.022,
     ["server"] = "Icecrown",
     ["overall_rank"] = 38,
     ["bosses"] = {
@@ -2868,7 +2868,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 458,
         ["dps_max"] = 17566.09,
-        ["points"] = 8777.4594078319,
+        ["points"] = 8778.625954198473,
       },
       ["Festergut"] = {
         ["rank_raids"] = 158,
@@ -2928,7 +2928,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Arsussham"] = {
-    ["percentile"] = 89.774,
+    ["percentile"] = 89.775,
     ["server"] = "Icecrown",
     ["overall_rank"] = 39,
     ["bosses"] = {
@@ -2945,7 +2945,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 48,
         ["dps_max"] = 19965.02,
-        ["points"] = 9813.269765593961,
+        ["points"] = 9813.343923749007,
       },
       ["Festergut"] = {
         ["rank_raids"] = 54,
@@ -3005,7 +3005,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Sscarface"] = {
-    ["percentile"] = 89.391,
+    ["percentile"] = 89.392,
     ["server"] = "Icecrown",
     ["overall_rank"] = 40,
     ["bosses"] = {
@@ -3022,7 +3022,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 204,
         ["dps_max"] = 18757.28,
-        ["points"] = 9350.525310410696,
+        ["points"] = 9351.145038167939,
       },
       ["Festergut"] = {
         ["rank_raids"] = 119,
@@ -3099,7 +3099,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 26,
         ["dps_max"] = 20497.17,
-        ["points"] = 9900.67540723083,
+        ["points"] = 9900.714853057982,
       },
       ["Festergut"] = {
         ["rank_raids"] = 187,
@@ -3159,7 +3159,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Yourlastwatt"] = {
-    ["percentile"] = 89.075,
+    ["percentile"] = 89.076,
     ["server"] = "Icecrown",
     ["overall_rank"] = 42,
     ["bosses"] = {
@@ -3176,7 +3176,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 161,
         ["dps_max"] = 18978.67,
-        ["points"] = 9407.831900668578,
+        ["points"] = 9408.396946564886,
       },
       ["Festergut"] = {
         ["rank_raids"] = 927,
@@ -3214,7 +3214,7 @@ UWULogsData[7][1] = {
         ["points"] = 8233.72986701558,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2192,
+        ["rank_raids"] = 2193,
         ["dps_max"] = 4906.44,
         ["points"] = 3128.14356292035,
       },
@@ -3236,7 +3236,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Yourlastvolt"] = {
-    ["percentile"] = 88.817,
+    ["percentile"] = 88.818,
     ["server"] = "Icecrown",
     ["overall_rank"] = 43,
     ["bosses"] = {
@@ -3253,7 +3253,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 266,
         ["dps_max"] = 18471.2,
-        ["points"] = 9226.361031518625,
+        ["points"] = 9227.099236641221,
       },
       ["Festergut"] = {
         ["rank_raids"] = 112,
@@ -3330,7 +3330,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 135,
         ["dps_max"] = 19120.53,
-        ["points"] = 9467.62018275725,
+        ["points"] = 9467.831612390786,
       },
       ["Festergut"] = {
         ["rank_raids"] = 33,
@@ -3390,7 +3390,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Gubics"] = {
-    ["percentile"] = 88.311,
+    ["percentile"] = 88.312,
     ["server"] = "Icecrown",
     ["overall_rank"] = 45,
     ["bosses"] = {
@@ -3407,7 +3407,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 237,
         ["dps_max"] = 18622.0,
-        ["points"] = 9293.218720152818,
+        ["points"] = 9293.893129770993,
       },
       ["Festergut"] = {
         ["rank_raids"] = 61,
@@ -3484,7 +3484,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 85,
         ["dps_max"] = 19511.78,
-        ["points"] = 9666.26936829559,
+        ["points"] = 9666.401906274821,
       },
       ["Festergut"] = {
         ["rank_raids"] = 268,
@@ -3544,7 +3544,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Flyingfork"] = {
-    ["percentile"] = 87.619,
+    ["percentile"] = 87.62,
     ["server"] = "Icecrown",
     ["overall_rank"] = 47,
     ["bosses"] = {
@@ -3561,7 +3561,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 247,
         ["dps_max"] = 18573.97,
-        ["points"] = 9255.014326647564,
+        ["points"] = 9255.725190839694,
       },
       ["Festergut"] = {
         ["rank_raids"] = 76,
@@ -3601,7 +3601,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 58,
         ["dps_max"] = 11940.11,
-        ["points"] = 9805.990469707283,
+        ["points"] = 9806.05648179653,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -3638,7 +3638,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 100,
         ["dps_max"] = 19413.38,
-        ["points"] = 9606.674612634088,
+        ["points"] = 9606.83081810961,
       },
       ["Festergut"] = {
         ["rank_raids"] = 82,
@@ -3678,7 +3678,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 24,
         ["dps_max"] = 13117.82,
-        ["points"] = 9921.715452688904,
+        ["points"] = 9921.742089145968,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -3698,7 +3698,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Impluse"] = {
-    ["percentile"] = 86.708,
+    ["percentile"] = 86.709,
     ["server"] = "Icecrown",
     ["overall_rank"] = 49,
     ["bosses"] = {
@@ -3715,7 +3715,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 420,
         ["dps_max"] = 17770.22,
-        ["points"] = 8911.174785100286,
+        ["points"] = 8912.213740458015,
       },
       ["Festergut"] = {
         ["rank_raids"] = 315,
@@ -3755,7 +3755,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 213,
         ["dps_max"] = 10283.88,
-        ["points"] = 9278.420694349898,
+        ["points"] = 9278.666212997618,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -3775,7 +3775,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Live"] = {
-    ["percentile"] = 86.567,
+    ["percentile"] = 86.568,
     ["server"] = "Icecrown",
     ["overall_rank"] = 50,
     ["bosses"] = {
@@ -3792,7 +3792,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 472,
         ["dps_max"] = 17515.9,
-        ["points"] = 8729.703915950335,
+        ["points"] = 8730.916030534352,
       },
       ["Festergut"] = {
         ["rank_raids"] = 166,
@@ -3852,7 +3852,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Nethercrx"] = {
-    ["percentile"] = 86.248,
+    ["percentile"] = 86.249,
     ["server"] = "Icecrown",
     ["overall_rank"] = 51,
     ["bosses"] = {
@@ -3869,7 +3869,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 370,
         ["dps_max"] = 17977.07,
-        ["points"] = 9044.890162368672,
+        ["points"] = 9045.801526717558,
       },
       ["Festergut"] = {
         ["rank_raids"] = 479,
@@ -3929,7 +3929,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Thunderklng"] = {
-    ["percentile"] = 85.536,
+    ["percentile"] = 85.537,
     ["server"] = "Icecrown",
     ["overall_rank"] = 52,
     ["bosses"] = {
@@ -3946,7 +3946,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 289,
         ["dps_max"] = 18387.94,
-        ["points"] = 9149.952244508118,
+        ["points"] = 9150.763358778626,
       },
       ["Festergut"] = {
         ["rank_raids"] = 597,
@@ -4023,7 +4023,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 32,
         ["dps_max"] = 20281.48,
-        ["points"] = 9876.83750496623,
+        ["points"] = 9876.886417791899,
       },
       ["Festergut"] = {
         ["rank_raids"] = 450,
@@ -4061,9 +4061,9 @@ UWULogsData[7][1] = {
         ["points"] = 8641.729583446993,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 971,
+        ["rank_raids"] = 972,
         ["dps_max"] = 7513.43,
-        ["points"] = 6698.434309053778,
+        ["points"] = 6696.155154814563,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -4083,7 +4083,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Zwarcie"] = {
-    ["percentile"] = 84.503,
+    ["percentile"] = 84.504,
     ["server"] = "Icecrown",
     ["overall_rank"] = 54,
     ["bosses"] = {
@@ -4100,7 +4100,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 246,
         ["dps_max"] = 18578.39,
-        ["points"] = 9264.565425023877,
+        ["points"] = 9265.267175572519,
       },
       ["Festergut"] = {
         ["rank_raids"] = 397,
@@ -4177,7 +4177,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 195,
         ["dps_max"] = 18805.04,
-        ["points"] = 9379.178605539637,
+        ["points"] = 9379.770992366412,
       },
       ["Festergut"] = {
         ["rank_raids"] = 89,
@@ -4217,7 +4217,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 139,
         ["dps_max"] = 10878.82,
-        ["points"] = 9530.292716133425,
+        ["points"] = 9530.452534875809,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -4254,7 +4254,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 97,
         ["dps_max"] = 19431.31,
-        ["points"] = 9618.59356376639,
+        ["points"] = 9618.745035742653,
       },
       ["Festergut"] = {
         ["rank_raids"] = 230,
@@ -4314,7 +4314,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Busted"] = {
-    ["percentile"] = 83.929,
+    ["percentile"] = 83.93,
     ["server"] = "Icecrown",
     ["overall_rank"] = 57,
     ["bosses"] = {
@@ -4331,7 +4331,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 130,
         ["dps_max"] = 19145.53,
-        ["points"] = 9487.485101311086,
+        ["points"] = 9487.68864177919,
       },
       ["Festergut"] = {
         ["rank_raids"] = 210,
@@ -4391,7 +4391,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Davidshaman"] = {
-    ["percentile"] = 83.682,
+    ["percentile"] = 83.685,
     ["server"] = "Icecrown",
     ["overall_rank"] = 58,
     ["bosses"] = {
@@ -4408,7 +4408,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 870,
         ["dps_max"] = 15717.72,
-        ["points"] = 7526.265520534862,
+        ["points"] = 7528.625954198474,
       },
       ["Festergut"] = {
         ["rank_raids"] = 360,
@@ -4485,7 +4485,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 107,
         ["dps_max"] = 19366.76,
-        ["points"] = 9578.863726658721,
+        ["points"] = 9579.030976965845,
       },
       ["Festergut"] = {
         ["rank_raids"] = 22,
@@ -4545,7 +4545,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Rekroa"] = {
-    ["percentile"] = 83.271,
+    ["percentile"] = 83.273,
     ["server"] = "Icecrown",
     ["overall_rank"] = 60,
     ["bosses"] = {
@@ -4562,7 +4562,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 764,
         ["dps_max"] = 16221.4,
-        ["points"] = 7879.656160458452,
+        ["points"] = 7881.679389312977,
       },
       ["Festergut"] = {
         ["rank_raids"] = 478,
@@ -4639,7 +4639,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 69,
         ["dps_max"] = 19657.21,
-        ["points"] = 9729.837107667858,
+        ["points"] = 9729.944400317712,
       },
       ["Festergut"] = {
         ["rank_raids"] = 13,
@@ -4716,7 +4716,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 80,
         ["dps_max"] = 19605.43,
-        ["points"] = 9686.134286849423,
+        ["points"] = 9686.258935663225,
       },
       ["Festergut"] = {
         ["rank_raids"] = 48,
@@ -4776,7 +4776,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Zixiafaery"] = {
-    ["percentile"] = 82.528,
+    ["percentile"] = 82.529,
     ["server"] = "Icecrown",
     ["overall_rank"] = 63,
     ["bosses"] = {
@@ -4793,7 +4793,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 398,
         ["dps_max"] = 17852.65,
-        ["points"] = 8978.03247373448,
+        ["points"] = 8979.007633587787,
       },
       ["Festergut"] = {
         ["rank_raids"] = 148,
@@ -4870,7 +4870,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 136,
         ["dps_max"] = 19116.51,
-        ["points"] = 9463.647199046485,
+        ["points"] = 9463.860206513105,
       },
       ["Festergut"] = {
         ["rank_raids"] = 279,
@@ -4910,7 +4910,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 57,
         ["dps_max"] = 12031.03,
-        ["points"] = 9809.394145677332,
+        ["points"] = 9809.458999659748,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -4930,7 +4930,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Pablele"] = {
-    ["percentile"] = 82.405,
+    ["percentile"] = 82.407,
     ["server"] = "Icecrown",
     ["overall_rank"] = 65,
     ["bosses"] = {
@@ -4947,7 +4947,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 476,
         ["dps_max"] = 17497.83,
-        ["points"] = 8710.601719197708,
+        ["points"] = 8711.832061068702,
       },
       ["Festergut"] = {
         ["rank_raids"] = 575,
@@ -5007,7 +5007,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Xhank"] = {
-    ["percentile"] = 81.041,
+    ["percentile"] = 81.042,
     ["server"] = "Icecrown",
     ["overall_rank"] = 66,
     ["bosses"] = {
@@ -5024,7 +5024,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 309,
         ["dps_max"] = 18296.35,
-        ["points"] = 9140.401146131804,
+        ["points"] = 9141.221374045801,
       },
       ["Festergut"] = {
         ["rank_raids"] = 183,
@@ -5084,7 +5084,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Rakzthunder"] = {
-    ["percentile"] = 80.733,
+    ["percentile"] = 80.734,
     ["server"] = "Icecrown",
     ["overall_rank"] = 67,
     ["bosses"] = {
@@ -5101,7 +5101,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 462,
         ["dps_max"] = 17553.18,
-        ["points"] = 8758.357211079274,
+        ["points"] = 8759.541984732825,
       },
       ["Festergut"] = {
         ["rank_raids"] = 441,
@@ -5141,7 +5141,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 4,
         ["dps_max"] = 14303.31,
-        ["points"] = 9989.788972089857,
+        ["points"] = 9989.792446410343,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -5161,7 +5161,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Imoondark"] = {
-    ["percentile"] = 80.391,
+    ["percentile"] = 80.392,
     ["server"] = "Icecrown",
     ["overall_rank"] = 68,
     ["bosses"] = {
@@ -5178,7 +5178,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 348,
         ["dps_max"] = 18101.95,
-        ["points"] = 9073.543457497613,
+        ["points"] = 9074.42748091603,
       },
       ["Festergut"] = {
         ["rank_raids"] = 411,
@@ -5218,7 +5218,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 79,
         ["dps_max"] = 11543.66,
-        ["points"] = 9734.513274336283,
+        ["points"] = 9734.603606668934,
       },
       ["Halion"] = {
         ["rank_raids"] = 142,
@@ -5238,7 +5238,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Mitryth"] = {
-    ["percentile"] = 79.936,
+    ["percentile"] = 79.937,
     ["server"] = "Icecrown",
     ["overall_rank"] = 69,
     ["bosses"] = {
@@ -5255,7 +5255,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 410,
         ["dps_max"] = 17813.17,
-        ["points"] = 8958.930276981853,
+        ["points"] = 8959.923664122138,
       },
       ["Festergut"] = {
         ["rank_raids"] = 483,
@@ -5295,7 +5295,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 47,
         ["dps_max"] = 12247.11,
-        ["points"] = 9843.430905377809,
+        ["points"] = 9843.484178291936,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -5315,7 +5315,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Xiaocaism"] = {
-    ["percentile"] = 79.825,
+    ["percentile"] = 79.826,
     ["server"] = "Icecrown",
     ["overall_rank"] = 70,
     ["bosses"] = {
@@ -5332,7 +5332,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 238,
         ["dps_max"] = 18616.8,
-        ["points"] = 9283.667621776505,
+        ["points"] = 9284.351145038168,
       },
       ["Festergut"] = {
         ["rank_raids"] = 371,
@@ -5409,7 +5409,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 283,
         ["dps_max"] = 18410.0,
-        ["points"] = 9169.054441260745,
+        ["points"] = 9169.847328244276,
       },
       ["Festergut"] = {
         ["rank_raids"] = 328,
@@ -5449,7 +5449,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 23,
         ["dps_max"] = 13132.54,
-        ["points"] = 9925.119128658951,
+        ["points"] = 9925.144607009186,
       },
       ["Halion"] = {
         ["rank_raids"] = 143,
@@ -5469,7 +5469,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Zexon"] = {
-    ["percentile"] = 79.583,
+    ["percentile"] = 79.584,
     ["server"] = "Icecrown",
     ["overall_rank"] = 72,
     ["bosses"] = {
@@ -5486,7 +5486,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 564,
         ["dps_max"] = 17157.32,
-        ["points"] = 8538.681948424068,
+        ["points"] = 8540.076335877862,
       },
       ["Festergut"] = {
         ["rank_raids"] = 317,
@@ -5546,7 +5546,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Magicshrooms"] = {
-    ["percentile"] = 79.3,
+    ["percentile"] = 79.301,
     ["server"] = "Icecrown",
     ["overall_rank"] = 73,
     ["bosses"] = {
@@ -5563,7 +5563,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 691,
         ["dps_max"] = 16507.48,
-        ["points"] = 8156.638013371537,
+        ["points"] = 8158.396946564885,
       },
       ["Festergut"] = {
         ["rank_raids"] = 754,
@@ -5623,7 +5623,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Andorra"] = {
-    ["percentile"] = 78.711,
+    ["percentile"] = 78.713,
     ["server"] = "Icecrown",
     ["overall_rank"] = 74,
     ["bosses"] = {
@@ -5640,7 +5640,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 767,
         ["dps_max"] = 16215.08,
-        ["points"] = 7860.553963705826,
+        ["points"] = 7862.595419847328,
       },
       ["Festergut"] = {
         ["rank_raids"] = 513,
@@ -5700,7 +5700,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Rageshamy"] = {
-    ["percentile"] = 78.633,
+    ["percentile"] = 78.634,
     ["server"] = "Icecrown",
     ["overall_rank"] = 75,
     ["bosses"] = {
@@ -5717,7 +5717,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 257,
         ["dps_max"] = 18521.27,
-        ["points"] = 9245.463228271252,
+        ["points"] = 9246.18320610687,
       },
       ["Festergut"] = {
         ["rank_raids"] = 480,
@@ -5777,7 +5777,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Foxcz"] = {
-    ["percentile"] = 78.529,
+    ["percentile"] = 78.531,
     ["server"] = "Icecrown",
     ["overall_rank"] = 76,
     ["bosses"] = {
@@ -5794,7 +5794,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 488,
         ["dps_max"] = 17475.52,
-        ["points"] = 8681.948424068769,
+        ["points"] = 8683.20610687023,
       },
       ["Festergut"] = {
         ["rank_raids"] = 285,
@@ -5854,7 +5854,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Quappa"] = {
-    ["percentile"] = 77.667,
+    ["percentile"] = 77.669,
     ["server"] = "Icecrown",
     ["overall_rank"] = 77,
     ["bosses"] = {
@@ -5871,7 +5871,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 725,
         ["dps_max"] = 16377.65,
-        ["points"] = 8042.024832855778,
+        ["points"] = 8043.893129770992,
       },
       ["Festergut"] = {
         ["rank_raids"] = 562,
@@ -5931,7 +5931,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Drhate"] = {
-    ["percentile"] = 76.836,
+    ["percentile"] = 76.838,
     ["server"] = "Icecrown",
     ["overall_rank"] = 78,
     ["bosses"] = {
@@ -5948,7 +5948,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 587,
         ["dps_max"] = 17059.58,
-        ["points"] = 8490.926456542502,
+        ["points"] = 8492.366412213742,
       },
       ["Festergut"] = {
         ["rank_raids"] = 172,
@@ -6008,7 +6008,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Stormkill"] = {
-    ["percentile"] = 76.44,
+    ["percentile"] = 76.442,
     ["server"] = "Icecrown",
     ["overall_rank"] = 79,
     ["bosses"] = {
@@ -6025,7 +6025,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 453,
         ["dps_max"] = 17599.9,
-        ["points"] = 8796.561604584527,
+        ["points"] = 8797.709923664122,
       },
       ["Festergut"] = {
         ["rank_raids"] = 494,
@@ -6085,7 +6085,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Electrochamo"] = {
-    ["percentile"] = 76.43,
+    ["percentile"] = 76.432,
     ["server"] = "Icecrown",
     ["overall_rank"] = 80,
     ["bosses"] = {
@@ -6102,7 +6102,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 770,
         ["dps_max"] = 16207.64,
-        ["points"] = 7831.900668576886,
+        ["points"] = 7833.969465648855,
       },
       ["Festergut"] = {
         ["rank_raids"] = 658,
@@ -6179,7 +6179,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 111,
         ["dps_max"] = 19288.72,
-        ["points"] = 9562.971791815653,
+        ["points"] = 9563.145353455124,
       },
       ["Festergut"] = {
         ["rank_raids"] = 21,
@@ -6239,7 +6239,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Venari"] = {
-    ["percentile"] = 75.501,
+    ["percentile"] = 75.502,
     ["server"] = "Icecrown",
     ["overall_rank"] = 82,
     ["bosses"] = {
@@ -6256,7 +6256,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 484,
         ["dps_max"] = 17487.65,
-        ["points"] = 8691.499522445081,
+        ["points"] = 8692.748091603053,
       },
       ["Festergut"] = {
         ["rank_raids"] = 406,
@@ -6316,7 +6316,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Smokingballz"] = {
-    ["percentile"] = 75.371,
+    ["percentile"] = 75.372,
     ["server"] = "Icecrown",
     ["overall_rank"] = 83,
     ["bosses"] = {
@@ -6333,7 +6333,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 449,
         ["dps_max"] = 17637.64,
-        ["points"] = 8815.663801337154,
+        ["points"] = 8816.79389312977,
       },
       ["Festergut"] = {
         ["rank_raids"] = 327,
@@ -6373,7 +6373,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 98,
         ["dps_max"] = 11351.13,
-        ["points"] = 9669.84343090538,
+        ["points"] = 9669.955767267778,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -6393,7 +6393,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Stormbound"] = {
-    ["percentile"] = 75.32,
+    ["percentile"] = 75.321,
     ["server"] = "Icecrown",
     ["overall_rank"] = 84,
     ["bosses"] = {
@@ -6410,7 +6410,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 515,
         ["dps_max"] = 17371.72,
-        ["points"] = 8634.192932187201,
+        ["points"] = 8635.496183206107,
       },
       ["Festergut"] = {
         ["rank_raids"] = 274,
@@ -6450,7 +6450,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 115,
         ["dps_max"] = 11140.2,
-        ["points"] = 9611.980939414567,
+        ["points"] = 9612.11296359306,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -6470,7 +6470,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Nulaless"] = {
-    ["percentile"] = 75.14,
+    ["percentile"] = 75.142,
     ["server"] = "Icecrown",
     ["overall_rank"] = 85,
     ["bosses"] = {
@@ -6487,7 +6487,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 841,
         ["dps_max"] = 15838.27,
-        ["points"] = 7679.083094555874,
+        ["points"] = 7681.297709923664,
       },
       ["Festergut"] = {
         ["rank_raids"] = 426,
@@ -6527,7 +6527,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 54,
         ["dps_max"] = 12090.45,
-        ["points"] = 9819.605173587475,
+        ["points"] = 9819.666553249404,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -6547,7 +6547,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Handyunicorn"] = {
-    ["percentile"] = 74.582,
+    ["percentile"] = 74.583,
     ["server"] = "Icecrown",
     ["overall_rank"] = 86,
     ["bosses"] = {
@@ -6564,7 +6564,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 232,
         ["dps_max"] = 18635.69,
-        ["points"] = 9321.872015281757,
+        ["points"] = 9322.519083969466,
       },
       ["Festergut"] = {
         ["rank_raids"] = 9,
@@ -6604,7 +6604,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 189,
         ["dps_max"] = 10437.26,
-        ["points"] = 9360.108917631042,
+        ["points"] = 9360.32664171487,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -6624,7 +6624,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Pahoehoe"] = {
-    ["percentile"] = 73.792,
+    ["percentile"] = 73.794,
     ["server"] = "Icecrown",
     ["overall_rank"] = 87,
     ["bosses"] = {
@@ -6641,7 +6641,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 742,
         ["dps_max"] = 16311.27,
-        ["points"] = 7984.718242597899,
+        ["points"] = 7986.641221374046,
       },
       ["Festergut"] = {
         ["rank_raids"] = 388,
@@ -6701,7 +6701,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Solisurky"] = {
-    ["percentile"] = 73.682,
+    ["percentile"] = 73.683,
     ["server"] = "Icecrown",
     ["overall_rank"] = 88,
     ["bosses"] = {
@@ -6718,7 +6718,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 596,
         ["dps_max"] = 17021.8,
-        ["points"] = 8471.824259789877,
+        ["points"] = 8473.282442748092,
       },
       ["Festergut"] = {
         ["rank_raids"] = 243,
@@ -6778,7 +6778,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Notgeorge"] = {
-    ["percentile"] = 73.557,
+    ["percentile"] = 73.558,
     ["server"] = "Icecrown",
     ["overall_rank"] = 89,
     ["bosses"] = {
@@ -6795,7 +6795,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 448,
         ["dps_max"] = 17643.5,
-        ["points"] = 8825.214899713466,
+        ["points"] = 8826.335877862595,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -6855,7 +6855,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Mindrust"] = {
-    ["percentile"] = 73.452,
+    ["percentile"] = 73.454,
     ["server"] = "Icecrown",
     ["overall_rank"] = 90,
     ["bosses"] = {
@@ -6872,7 +6872,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 962,
         ["dps_max"] = 15355.18,
-        ["points"] = 7106.017191977077,
+        ["points"] = 7108.778625954198,
       },
       ["Festergut"] = {
         ["rank_raids"] = 314,
@@ -6912,7 +6912,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 174,
         ["dps_max"] = 10546.24,
-        ["points"] = 9411.164057181757,
+        ["points"] = 9411.36440966315,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -6932,7 +6932,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Seriously"] = {
-    ["percentile"] = 73.354,
+    ["percentile"] = 73.355,
     ["server"] = "Icecrown",
     ["overall_rank"] = 91,
     ["bosses"] = {
@@ -6949,7 +6949,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 387,
         ["dps_max"] = 17911.62,
-        ["points"] = 9006.685768863419,
+        ["points"] = 9007.633587786258,
       },
       ["Festergut"] = {
         ["rank_raids"] = 674,
@@ -6989,7 +6989,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 352,
         ["dps_max"] = 9523.34,
-        ["points"] = 8805.309734513276,
+        ["points"] = 8805.716230010208,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -7009,7 +7009,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Marzipan"] = {
-    ["percentile"] = 73.043,
+    ["percentile"] = 73.045,
     ["server"] = "Icecrown",
     ["overall_rank"] = 92,
     ["bosses"] = {
@@ -7026,7 +7026,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 760,
         ["dps_max"] = 16231.26,
-        ["points"] = 7908.309455587392,
+        ["points"] = 7910.30534351145,
       },
       ["Festergut"] = {
         ["rank_raids"] = 474,
@@ -7086,7 +7086,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Maluyzs"] = {
-    ["percentile"] = 72.78,
+    ["percentile"] = 72.783,
     ["server"] = "Icecrown",
     ["overall_rank"] = 93,
     ["bosses"] = {
@@ -7103,7 +7103,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 847,
         ["dps_max"] = 15808.6,
-        ["points"] = 7631.327602674307,
+        ["points"] = 7633.587786259543,
       },
       ["Festergut"] = {
         ["rank_raids"] = 366,
@@ -7143,7 +7143,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 39,
         ["dps_max"] = 12447.58,
-        ["points"] = 9870.660313138189,
+        ["points"] = 9870.704321197687,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -7180,7 +7180,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 206,
         ["dps_max"] = 18746.09,
-        ["points"] = 9340.974212034384,
+        ["points"] = 9341.603053435114,
       },
       ["Festergut"] = {
         ["rank_raids"] = 65,
@@ -7240,7 +7240,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Getpiss"] = {
-    ["percentile"] = 72.578,
+    ["percentile"] = 72.58,
     ["server"] = "Icecrown",
     ["overall_rank"] = 95,
     ["bosses"] = {
@@ -7257,7 +7257,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 622,
         ["dps_max"] = 16865.82,
-        ["points"] = 8404.966571155683,
+        ["points"] = 8406.488549618321,
       },
       ["Festergut"] = {
         ["rank_raids"] = 417,
@@ -7317,7 +7317,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Pandemounium"] = {
-    ["percentile"] = 72.443,
+    ["percentile"] = 72.445,
     ["server"] = "Icecrown",
     ["overall_rank"] = 96,
     ["bosses"] = {
@@ -7334,7 +7334,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 817,
         ["dps_max"] = 15962.79,
-        ["points"] = 7717.287488061127,
+        ["points"] = 7719.465648854962,
       },
       ["Festergut"] = {
         ["rank_raids"] = 737,
@@ -7374,7 +7374,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 112,
         ["dps_max"] = 11159.55,
-        ["points"] = 9622.19196732471,
+        ["points"] = 9622.320517182716,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -7471,7 +7471,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Fichobrt"] = {
-    ["percentile"] = 71.21,
+    ["percentile"] = 71.212,
     ["server"] = "Icecrown",
     ["overall_rank"] = 98,
     ["bosses"] = {
@@ -7488,7 +7488,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 765,
         ["dps_max"] = 16220.11,
-        ["points"] = 7870.105062082139,
+        ["points"] = 7872.137404580153,
       },
       ["Festergut"] = {
         ["rank_raids"] = 669,
@@ -7548,7 +7548,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Freezeergirl"] = {
-    ["percentile"] = 70.988,
+    ["percentile"] = 70.99,
     ["server"] = "Icecrown",
     ["overall_rank"] = 99,
     ["bosses"] = {
@@ -7565,7 +7565,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 857,
         ["dps_max"] = 15772.07,
-        ["points"] = 7583.572110792741,
+        ["points"] = 7585.877862595419,
       },
       ["Festergut"] = {
         ["rank_raids"] = 610,
@@ -7605,7 +7605,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 149,
         ["dps_max"] = 10751.8,
-        ["points"] = 9496.255956432948,
+        ["points"] = 9496.427356243621,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -7642,7 +7642,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 12,
         ["dps_max"] = 21216.48,
-        ["points"] = 9956.297179181565,
+        ["points"] = 9956.314535345511,
       },
       ["Festergut"] = {
         ["rank_raids"] = 354,
@@ -7702,7 +7702,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Coneyy"] = {
-    ["percentile"] = 70.949,
+    ["percentile"] = 70.951,
     ["server"] = "Icecrown",
     ["overall_rank"] = 101,
     ["bosses"] = {
@@ -7719,7 +7719,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 692,
         ["dps_max"] = 16499.78,
-        ["points"] = 8147.086914995224,
+        ["points"] = 8148.854961832061,
       },
       ["Festergut"] = {
         ["rank_raids"] = 409,
@@ -7779,7 +7779,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Dihogmll"] = {
-    ["percentile"] = 70.917,
+    ["percentile"] = 70.918,
     ["server"] = "Icecrown",
     ["overall_rank"] = 102,
     ["bosses"] = {
@@ -7796,7 +7796,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 342,
         ["dps_max"] = 18142.32,
-        ["points"] = 9092.645654250238,
+        ["points"] = 9093.511450381679,
       },
       ["Festergut"] = {
         ["rank_raids"] = 190,
@@ -7834,7 +7834,7 @@ UWULogsData[7][1] = {
         ["points"] = 6199.99599305257,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2725,
+        ["rank_raids"] = 2726,
         ["dps_max"] = 3237.57,
         ["points"] = 2064.140956580339,
       },
@@ -7856,7 +7856,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Legendarno"] = {
-    ["percentile"] = 70.842,
+    ["percentile"] = 70.845,
     ["server"] = "Icecrown",
     ["overall_rank"] = 103,
     ["bosses"] = {
@@ -7873,7 +7873,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 879,
         ["dps_max"] = 15689.67,
-        ["points"] = 7488.0611270296085,
+        ["points"] = 7490.458015267175,
       },
       ["Festergut"] = {
         ["rank_raids"] = 381,
@@ -7913,7 +7913,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 71,
         ["dps_max"] = 11659.9,
-        ["points"] = 9761.742682096665,
+        ["points"] = 9761.823749574685,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -7933,7 +7933,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Embers"] = {
-    ["percentile"] = 70.392,
+    ["percentile"] = 70.393,
     ["server"] = "Icecrown",
     ["overall_rank"] = 104,
     ["bosses"] = {
@@ -7950,7 +7950,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 502,
         ["dps_max"] = 17418.68,
-        ["points"] = 8672.397325692455,
+        ["points"] = 8673.664122137405,
       },
       ["Festergut"] = {
         ["rank_raids"] = 394,
@@ -8010,7 +8010,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Herbashaman"] = {
-    ["percentile"] = 70.269,
+    ["percentile"] = 70.27,
     ["server"] = "Icecrown",
     ["overall_rank"] = 105,
     ["bosses"] = {
@@ -8027,7 +8027,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 416,
         ["dps_max"] = 17778.95,
-        ["points"] = 8930.276981852912,
+        ["points"] = 8931.297709923665,
       },
       ["Festergut"] = {
         ["rank_raids"] = 205,
@@ -8067,7 +8067,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 19,
         ["dps_max"] = 13364.62,
-        ["points"] = 9938.733832539143,
+        ["points"] = 9938.75467846206,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -8087,7 +8087,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Smallfat"] = {
-    ["percentile"] = 69.756,
+    ["percentile"] = 69.757,
     ["server"] = "Icecrown",
     ["overall_rank"] = 106,
     ["bosses"] = {
@@ -8104,7 +8104,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 381,
         ["dps_max"] = 17918.86,
-        ["points"] = 9025.787965616046,
+        ["points"] = 9026.717557251908,
       },
       ["Festergut"] = {
         ["rank_raids"] = 634,
@@ -8164,7 +8164,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Roycekiing"] = {
-    ["percentile"] = 69.182,
+    ["percentile"] = 69.184,
     ["server"] = "Icecrown",
     ["overall_rank"] = 107,
     ["bosses"] = {
@@ -8181,7 +8181,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 698,
         ["dps_max"] = 16477.4,
-        ["points"] = 8108.882521489972,
+        ["points"] = 8110.687022900764,
       },
       ["Festergut"] = {
         ["rank_raids"] = 447,
@@ -8241,7 +8241,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Malayzia"] = {
-    ["percentile"] = 68.939,
+    ["percentile"] = 68.94,
     ["server"] = "Icecrown",
     ["overall_rank"] = 108,
     ["bosses"] = {
@@ -8258,7 +8258,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 606,
         ["dps_max"] = 16979.44,
-        ["points"] = 8433.619866284624,
+        ["points"] = 8435.114503816794,
       },
       ["Festergut"] = {
         ["rank_raids"] = 398,
@@ -8298,7 +8298,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 398,
         ["dps_max"] = 9324.33,
-        ["points"] = 8648.740639891083,
+        ["points"] = 8649.200408302144,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -8318,7 +8318,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Dumbs"] = {
-    ["percentile"] = 68.907,
+    ["percentile"] = 68.91,
     ["server"] = "Icecrown",
     ["overall_rank"] = 109,
     ["bosses"] = {
@@ -8335,7 +8335,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 995,
         ["dps_max"] = 15222.61,
-        ["points"] = 6953.199617956065,
+        ["points"] = 6956.106870229008,
       },
       ["Festergut"] = {
         ["rank_raids"] = 530,
@@ -8395,7 +8395,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Dadixshamy"] = {
-    ["percentile"] = 68.795,
+    ["percentile"] = 68.796,
     ["server"] = "Icecrown",
     ["overall_rank"] = 110,
     ["bosses"] = {
@@ -8412,7 +8412,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 527,
         ["dps_max"] = 17330.46,
-        ["points"] = 8615.090735434575,
+        ["points"] = 8616.412213740457,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1071,
@@ -8472,7 +8472,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Kassasham"] = {
-    ["percentile"] = 68.214,
+    ["percentile"] = 68.215,
     ["server"] = "Icecrown",
     ["overall_rank"] = 111,
     ["bosses"] = {
@@ -8489,7 +8489,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 423,
         ["dps_max"] = 17735.92,
-        ["points"] = 8901.623686723973,
+        ["points"] = 8902.67175572519,
       },
       ["Festergut"] = {
         ["rank_raids"] = 147,
@@ -8549,7 +8549,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Shinigaymi"] = {
-    ["percentile"] = 68.164,
+    ["percentile"] = 68.166,
     ["server"] = "Icecrown",
     ["overall_rank"] = 112,
     ["bosses"] = {
@@ -8566,7 +8566,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 639,
         ["dps_max"] = 16778.66,
-        ["points"] = 8347.659980897804,
+        ["points"] = 8349.236641221374,
       },
       ["Festergut"] = {
         ["rank_raids"] = 209,
@@ -8626,7 +8626,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Wergilsham"] = {
-    ["percentile"] = 67.838,
+    ["percentile"] = 67.839,
     ["server"] = "Icecrown",
     ["overall_rank"] = 113,
     ["bosses"] = {
@@ -8643,7 +8643,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 334,
         ["dps_max"] = 18205.32,
-        ["points"] = 9111.747851002865,
+        ["points"] = 9112.595419847328,
       },
       ["Festergut"] = {
         ["rank_raids"] = 122,
@@ -8681,9 +8681,9 @@ UWULogsData[7][1] = {
         ["points"] = 3662.766057456544,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 744,
+        ["rank_raids"] = 745,
         ["dps_max"] = 8075.68,
-        ["points"] = 7471.068754254595,
+        ["points"] = 7468.526709765227,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -8703,7 +8703,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Mowax"] = {
-    ["percentile"] = 67.769,
+    ["percentile"] = 67.771,
     ["server"] = "Icecrown",
     ["overall_rank"] = 114,
     ["bosses"] = {
@@ -8720,7 +8720,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 708,
         ["dps_max"] = 16433.34,
-        ["points"] = 8080.229226361032,
+        ["points"] = 8082.06106870229,
       },
       ["Festergut"] = {
         ["rank_raids"] = 427,
@@ -8780,7 +8780,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Getomami"] = {
-    ["percentile"] = 67.7,
+    ["percentile"] = 67.701,
     ["server"] = "Icecrown",
     ["overall_rank"] = 115,
     ["bosses"] = {
@@ -8797,7 +8797,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 652,
         ["dps_max"] = 16720.69,
-        ["points"] = 8299.904489016237,
+        ["points"] = 8301.526717557252,
       },
       ["Festergut"] = {
         ["rank_raids"] = 938,
@@ -8857,7 +8857,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Lavabeam"] = {
-    ["percentile"] = 67.328,
+    ["percentile"] = 67.329,
     ["server"] = "Icecrown",
     ["overall_rank"] = 116,
     ["bosses"] = {
@@ -8874,7 +8874,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 439,
         ["dps_max"] = 17686.28,
-        ["points"] = 8863.41929321872,
+        ["points"] = 8864.503816793893,
       },
       ["Festergut"] = {
         ["rank_raids"] = 348,
@@ -8934,7 +8934,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Charlizewit"] = {
-    ["percentile"] = 67.103,
+    ["percentile"] = 67.105,
     ["server"] = "Icecrown",
     ["overall_rank"] = 117,
     ["bosses"] = {
@@ -8951,7 +8951,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 743,
         ["dps_max"] = 16310.35,
-        ["points"] = 7975.167144221586,
+        ["points"] = 7977.099236641222,
       },
       ["Festergut"] = {
         ["rank_raids"] = 773,
@@ -9011,7 +9011,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Brokhan"] = {
-    ["percentile"] = 66.84,
+    ["percentile"] = 66.841,
     ["server"] = "Icecrown",
     ["overall_rank"] = 118,
     ["bosses"] = {
@@ -9028,7 +9028,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 535,
         ["dps_max"] = 17292.33,
-        ["points"] = 8595.988538681948,
+        ["points"] = 8597.32824427481,
       },
       ["Festergut"] = {
         ["rank_raids"] = 233,
@@ -9088,7 +9088,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Voodooblast"] = {
-    ["percentile"] = 66.768,
+    ["percentile"] = 66.769,
     ["server"] = "Icecrown",
     ["overall_rank"] = 119,
     ["bosses"] = {
@@ -9105,7 +9105,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 268,
         ["dps_max"] = 18460.78,
-        ["points"] = 9216.809933142311,
+        ["points"] = 9217.557251908396,
       },
       ["Festergut"] = {
         ["rank_raids"] = 349,
@@ -9259,7 +9259,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 95,
         ["dps_max"] = 19434.42,
-        ["points"] = 9626.539531187922,
+        ["points"] = 9626.687847498015,
       },
       ["Festergut"] = {
         ["rank_raids"] = 97,
@@ -9319,7 +9319,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Elementz"] = {
-    ["percentile"] = 65.57,
+    ["percentile"] = 65.572,
     ["server"] = "Icecrown",
     ["overall_rank"] = 122,
     ["bosses"] = {
@@ -9336,7 +9336,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 660,
         ["dps_max"] = 16691.37,
-        ["points"] = 8252.148997134671,
+        ["points"] = 8253.81679389313,
       },
       ["Festergut"] = {
         ["rank_raids"] = 503,
@@ -9396,7 +9396,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Anhela"] = {
-    ["percentile"] = 65.12,
+    ["percentile"] = 65.121,
     ["server"] = "Icecrown",
     ["overall_rank"] = 123,
     ["bosses"] = {
@@ -9413,7 +9413,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 269,
         ["dps_max"] = 18453.09,
-        ["points"] = 9207.258834765998,
+        ["points"] = 9208.015267175571,
       },
       ["Festergut"] = {
         ["rank_raids"] = 690,
@@ -9473,7 +9473,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Hadary"] = {
-    ["percentile"] = 64.802,
+    ["percentile"] = 64.803,
     ["server"] = "Icecrown",
     ["overall_rank"] = 124,
     ["bosses"] = {
@@ -9490,7 +9490,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 355,
         ["dps_max"] = 18040.99,
-        ["points"] = 9063.9923591213,
+        ["points"] = 9064.885496183206,
       },
       ["Festergut"] = {
         ["rank_raids"] = 555,
@@ -9550,7 +9550,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Oishee"] = {
-    ["percentile"] = 63.982,
+    ["percentile"] = 63.985,
     ["server"] = "Icecrown",
     ["overall_rank"] = 125,
     ["bosses"] = {
@@ -9567,7 +9567,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1007,
         ["dps_max"] = 15152.49,
-        ["points"] = 6905.444126074498,
+        ["points"] = 6908.396946564885,
       },
       ["Festergut"] = {
         ["rank_raids"] = 578,
@@ -9605,9 +9605,9 @@ UWULogsData[7][1] = {
         ["points"] = 5147.748480827528,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1272,
+        ["rank_raids"] = 1273,
         ["dps_max"] = 6811.74,
-        ["points"] = 5673.927842069435,
+        ["points"] = 5671.99727798571,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -9627,7 +9627,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Summerflows"] = {
-    ["percentile"] = 63.812,
+    ["percentile"] = 63.814,
     ["server"] = "Icecrown",
     ["overall_rank"] = 126,
     ["bosses"] = {
@@ -9644,7 +9644,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 786,
         ["dps_max"] = 16125.98,
-        ["points"] = 7784.14517669532,
+        ["points"] = 7786.259541984732,
       },
       ["Festergut"] = {
         ["rank_raids"] = 850,
@@ -9704,7 +9704,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Panithian"] = {
-    ["percentile"] = 63.771,
+    ["percentile"] = 63.773,
     ["server"] = "Icecrown",
     ["overall_rank"] = 127,
     ["bosses"] = {
@@ -9721,7 +9721,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 845,
         ["dps_max"] = 15816.14,
-        ["points"] = 7650.429799426935,
+        ["points"] = 7652.671755725191,
       },
       ["Festergut"] = {
         ["rank_raids"] = 511,
@@ -9781,7 +9781,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Trotskiy"] = {
-    ["percentile"] = 63.734,
+    ["percentile"] = 63.737,
     ["server"] = "Icecrown",
     ["overall_rank"] = 128,
     ["bosses"] = {
@@ -9798,7 +9798,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 957,
         ["dps_max"] = 15363.58,
-        ["points"] = 7144.221585482331,
+        ["points"] = 7146.946564885496,
       },
       ["Festergut"] = {
         ["rank_raids"] = 504,
@@ -9873,7 +9873,7 @@ UWULogsData[7][1] = {
         ["points"] = 5993.076294548601,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1507,
+        ["rank_raids"] = 1508,
         ["dps_max"] = 13282.45,
         ["points"] = 6015.703161692474,
       },
@@ -10012,7 +10012,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Pikapikachuu"] = {
-    ["percentile"] = 63.457,
+    ["percentile"] = 63.458,
     ["server"] = "Icecrown",
     ["overall_rank"] = 131,
     ["bosses"] = {
@@ -10029,7 +10029,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 658,
         ["dps_max"] = 16705.22,
-        ["points"] = 8271.251193887298,
+        ["points"] = 8272.900763358779,
       },
       ["Festergut"] = {
         ["rank_raids"] = 515,
@@ -10166,7 +10166,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Extaze"] = {
-    ["percentile"] = 62.985,
+    ["percentile"] = 62.988,
     ["server"] = "Icecrown",
     ["overall_rank"] = 133,
     ["bosses"] = {
@@ -10183,7 +10183,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 988,
         ["dps_max"] = 15240.94,
-        ["points"] = 6991.404011461318,
+        ["points"] = 6994.274809160306,
       },
       ["Festergut"] = {
         ["rank_raids"] = 509,
@@ -10223,7 +10223,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 187,
         ["dps_max"] = 10446.22,
-        ["points"] = 9366.916269571137,
+        ["points"] = 9367.131677441306,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -10260,7 +10260,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 108,
         ["dps_max"] = 19357.13,
-        ["points"] = 9574.890742947953,
+        ["points"] = 9575.059571088164,
       },
       ["Festergut"] = {
         ["rank_raids"] = 704,
@@ -10300,7 +10300,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 5,
         ["dps_max"] = 14293.75,
-        ["points"] = 9986.38529611981,
+        ["points"] = 9986.389928547125,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -10320,7 +10320,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Raydenlord"] = {
-    ["percentile"] = 62.561,
+    ["percentile"] = 62.562,
     ["server"] = "Icecrown",
     ["overall_rank"] = 135,
     ["bosses"] = {
@@ -10337,7 +10337,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 461,
         ["dps_max"] = 17558.71,
-        ["points"] = 8767.908309455588,
+        ["points"] = 8769.083969465648,
       },
       ["Festergut"] = {
         ["rank_raids"] = 100,
@@ -10397,7 +10397,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Pestamono"] = {
-    ["percentile"] = 62.342,
+    ["percentile"] = 62.344,
     ["server"] = "Icecrown",
     ["overall_rank"] = 136,
     ["bosses"] = {
@@ -10414,7 +10414,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 730,
         ["dps_max"] = 16355.72,
-        ["points"] = 8022.9226361031515,
+        ["points"] = 8024.8091603053435,
       },
       ["Festergut"] = {
         ["rank_raids"] = 589,
@@ -10474,7 +10474,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Quiri"] = {
-    ["percentile"] = 62.099,
+    ["percentile"] = 62.1,
     ["server"] = "Icecrown",
     ["overall_rank"] = 137,
     ["bosses"] = {
@@ -10491,7 +10491,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 536,
         ["dps_max"] = 17289.57,
-        ["points"] = 8586.437440305635,
+        ["points"] = 8587.786259541985,
       },
       ["Festergut"] = {
         ["rank_raids"] = 890,
@@ -10531,7 +10531,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 6,
         ["dps_max"] = 14253.19,
-        ["points"] = 9982.981620149762,
+        ["points"] = 9982.987410683905,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -10551,7 +10551,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Karlau"] = {
-    ["percentile"] = 61.397,
+    ["percentile"] = 61.4,
     ["server"] = "Icecrown",
     ["overall_rank"] = 138,
     ["bosses"] = {
@@ -10568,7 +10568,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 971,
         ["dps_max"] = 15306.29,
-        ["points"] = 7039.159503342885,
+        ["points"] = 7041.984732824428,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1196,
@@ -10628,7 +10628,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Dundersztyca"] = {
-    ["percentile"] = 61.348,
+    ["percentile"] = 61.35,
     ["server"] = "Icecrown",
     ["overall_rank"] = 139,
     ["bosses"] = {
@@ -10645,7 +10645,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 934,
         ["dps_max"] = 15445.17,
-        ["points"] = 7211.079274116523,
+        ["points"] = 7213.740458015268,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1020,
@@ -10704,87 +10704,10 @@ UWULogsData[7][1] = {
       },
     },
   },
-  ["Insanerony"] = {
-    ["percentile"] = 61.339,
+  ["Elementioss"] = {
+    ["percentile"] = 61.34,
     ["server"] = "Icecrown",
     ["overall_rank"] = 140,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 981,
-        ["dps_max"] = 11849.18,
-        ["points"] = 5907.761740681669,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 221,
-        ["dps_max"] = 12363.3,
-        ["points"] = 7099.008758274942,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 262,
-        ["dps_max"] = 18497.68,
-        ["points"] = 9235.912129894938,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 1238,
-        ["dps_max"] = 10853.96,
-        ["points"] = 5423.652589136564,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 1000,
-        ["dps_max"] = 11648.86,
-        ["points"] = 5764.576457645765,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 487,
-        ["dps_max"] = 10540.36,
-        ["points"] = 6079.038644985887,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 574,
-        ["dps_max"] = 11455.18,
-        ["points"] = 6979.86577181208,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 959,
-        ["dps_max"] = 12080.32,
-        ["points"] = 4641.407307171854,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 294,
-        ["dps_max"] = 8064.13,
-        ["points"] = 5481.6933156232535,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 441,
-        ["dps_max"] = 5746.93,
-        ["points"] = 4428.393537718475,
-      },
-      ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Halion"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Anub'arak"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Valithria Dreamwalker"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-    },
-  },
-  ["Elementioss"] = {
-    ["percentile"] = 61.337,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 141,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 381,
@@ -10799,7 +10722,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 882,
         ["dps_max"] = 15680.33,
-        ["points"] = 7478.510028653294,
+        ["points"] = 7480.916030534351,
       },
       ["Festergut"] = {
         ["rank_raids"] = 362,
@@ -10858,8 +10781,85 @@ UWULogsData[7][1] = {
       },
     },
   },
+  ["Insanerony"] = {
+    ["percentile"] = 61.339,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 141,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 981,
+        ["dps_max"] = 11849.18,
+        ["points"] = 5907.761740681669,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 221,
+        ["dps_max"] = 12363.3,
+        ["points"] = 7099.008758274942,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 262,
+        ["dps_max"] = 18497.68,
+        ["points"] = 9236.641221374046,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 1238,
+        ["dps_max"] = 10853.96,
+        ["points"] = 5423.652589136564,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 1000,
+        ["dps_max"] = 11648.86,
+        ["points"] = 5764.576457645765,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 487,
+        ["dps_max"] = 10540.36,
+        ["points"] = 6079.038644985887,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 574,
+        ["dps_max"] = 11455.18,
+        ["points"] = 6979.86577181208,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 959,
+        ["dps_max"] = 12080.32,
+        ["points"] = 4641.407307171854,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 294,
+        ["dps_max"] = 8064.13,
+        ["points"] = 5481.6933156232535,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 441,
+        ["dps_max"] = 5746.93,
+        ["points"] = 4428.393537718475,
+      },
+      ["Toravon the Ice Watcher"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Halion"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Anub'arak"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Valithria Dreamwalker"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+    },
+  },
   ["Xyliganka"] = {
-    ["percentile"] = 61.228,
+    ["percentile"] = 61.229,
     ["server"] = "Icecrown",
     ["overall_rank"] = 142,
     ["bosses"] = {
@@ -10876,7 +10876,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 386,
         ["dps_max"] = 17912.85,
-        ["points"] = 9016.236867239733,
+        ["points"] = 9017.175572519083,
       },
       ["Festergut"] = {
         ["rank_raids"] = 766,
@@ -10916,7 +10916,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 29,
         ["dps_max"] = 12758.42,
-        ["points"] = 9904.697072838666,
+        ["points"] = 9904.729499829875,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -10936,7 +10936,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Gamberge"] = {
-    ["percentile"] = 60.708,
+    ["percentile"] = 60.71,
     ["server"] = "Icecrown",
     ["overall_rank"] = 143,
     ["bosses"] = {
@@ -10953,7 +10953,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 636,
         ["dps_max"] = 16820.52,
-        ["points"] = 8366.76217765043,
+        ["points"] = 8368.320610687024,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1389,
@@ -10993,7 +10993,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 31,
         ["dps_max"] = 12731.16,
-        ["points"] = 9897.88972089857,
+        ["points"] = 9897.924464103437,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -11013,7 +11013,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Braylee"] = {
-    ["percentile"] = 60.398,
+    ["percentile"] = 60.401,
     ["server"] = "Icecrown",
     ["overall_rank"] = 144,
     ["bosses"] = {
@@ -11030,7 +11030,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 958,
         ["dps_max"] = 15362.85,
-        ["points"] = 7134.670487106017,
+        ["points"] = 7137.404580152672,
       },
       ["Festergut"] = {
         ["rank_raids"] = 981,
@@ -11105,7 +11105,7 @@ UWULogsData[7][1] = {
         ["points"] = 5469.836404634255,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1532,
+        ["rank_raids"] = 1533,
         ["dps_max"] = 13187.76,
         ["points"] = 5972.817479278412,
       },
@@ -11145,9 +11145,9 @@ UWULogsData[7][1] = {
         ["points"] = 6612.32629497606,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 851,
+        ["rank_raids"] = 852,
         ["dps_max"] = 7773.65,
-        ["points"] = 7106.875425459497,
+        ["points"] = 7104.457298400817,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -11167,7 +11167,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Niv"] = {
-    ["percentile"] = 60.24,
+    ["percentile"] = 60.243,
     ["server"] = "Icecrown",
     ["overall_rank"] = 146,
     ["bosses"] = {
@@ -11184,7 +11184,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1045,
         ["dps_max"] = 14933.21,
-        ["points"] = 6771.728748806113,
+        ["points"] = 6774.8091603053435,
       },
       ["Festergut"] = {
         ["rank_raids"] = 778,
@@ -11244,7 +11244,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Budulay"] = {
-    ["percentile"] = 60.167,
+    ["percentile"] = 60.171,
     ["server"] = "Icecrown",
     ["overall_rank"] = 147,
     ["bosses"] = {
@@ -11261,7 +11261,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1017,
         ["dps_max"] = 15095.18,
-        ["points"] = 6857.688634192932,
+        ["points"] = 6860.687022900764,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1061,
@@ -11321,7 +11321,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Amorpopallus"] = {
-    ["percentile"] = 60.022,
+    ["percentile"] = 60.023,
     ["server"] = "Icecrown",
     ["overall_rank"] = 148,
     ["bosses"] = {
@@ -11338,7 +11338,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 640,
         ["dps_max"] = 16774.2,
-        ["points"] = 8338.10888252149,
+        ["points"] = 8339.69465648855,
       },
       ["Festergut"] = {
         ["rank_raids"] = 500,
@@ -11398,7 +11398,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Eddydrunk"] = {
-    ["percentile"] = 59.983,
+    ["percentile"] = 59.986,
     ["server"] = "Icecrown",
     ["overall_rank"] = 149,
     ["bosses"] = {
@@ -11415,7 +11415,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1038,
         ["dps_max"] = 14995.04,
-        ["points"] = 6819.484240687679,
+        ["points"] = 6822.519083969466,
       },
       ["Festergut"] = {
         ["rank_raids"] = 770,
@@ -11475,7 +11475,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Freaya"] = {
-    ["percentile"] = 59.843,
+    ["percentile"] = 59.844,
     ["server"] = "Icecrown",
     ["overall_rank"] = 150,
     ["bosses"] = {
@@ -11492,7 +11492,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 162,
         ["dps_max"] = 18976.5,
-        ["points"] = 9398.280802292264,
+        ["points"] = 9398.854961832061,
       },
       ["Festergut"] = {
         ["rank_raids"] = 316,
@@ -11567,7 +11567,7 @@ UWULogsData[7][1] = {
         ["points"] = 6255.8704788197665,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1546,
+        ["rank_raids"] = 1547,
         ["dps_max"] = 13118.56,
         ["points"] = 5941.47637437765,
       },
@@ -11706,7 +11706,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Lalalachi"] = {
-    ["percentile"] = 59.194,
+    ["percentile"] = 59.195,
     ["server"] = "Icecrown",
     ["overall_rank"] = 153,
     ["bosses"] = {
@@ -11723,7 +11723,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 598,
         ["dps_max"] = 17017.22,
-        ["points"] = 8452.722063037249,
+        ["points"] = 8454.198473282442,
       },
       ["Festergut"] = {
         ["rank_raids"] = 854,
@@ -11860,7 +11860,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Darkyshaman"] = {
-    ["percentile"] = 59.102,
+    ["percentile"] = 59.103,
     ["server"] = "Icecrown",
     ["overall_rank"] = 155,
     ["bosses"] = {
@@ -11877,7 +11877,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 597,
         ["dps_max"] = 17017.93,
-        ["points"] = 8462.273161413563,
+        ["points"] = 8463.740458015267,
       },
       ["Festergut"] = {
         ["rank_raids"] = 551,
@@ -11917,7 +11917,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 471,
         ["dps_max"] = 8973.31,
-        ["points"] = 8400.272294077604,
+        ["points"] = 8400.816604287173,
       },
       ["Halion"] = {
         ["rank_raids"] = 68,
@@ -12091,7 +12091,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Ragemist"] = {
-    ["percentile"] = 58.226,
+    ["percentile"] = 58.228,
     ["server"] = "Icecrown",
     ["overall_rank"] = 158,
     ["bosses"] = {
@@ -12108,7 +12108,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 682,
         ["dps_max"] = 16559.51,
-        ["points"] = 8213.944603629418,
+        ["points"] = 8215.648854961832,
       },
       ["Festergut"] = {
         ["rank_raids"] = 805,
@@ -12168,7 +12168,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Eleqq"] = {
-    ["percentile"] = 58.18,
+    ["percentile"] = 58.182,
     ["server"] = "Icecrown",
     ["overall_rank"] = 159,
     ["bosses"] = {
@@ -12185,7 +12185,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 740,
         ["dps_max"] = 16313.41,
-        ["points"] = 7994.269340974211,
+        ["points"] = 7996.183206106871,
       },
       ["Festergut"] = {
         ["rank_raids"] = 440,
@@ -12245,7 +12245,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Monljii"] = {
-    ["percentile"] = 57.536,
+    ["percentile"] = 57.539,
     ["server"] = "Icecrown",
     ["overall_rank"] = 160,
     ["bosses"] = {
@@ -12262,7 +12262,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 911,
         ["dps_max"] = 15563.44,
-        ["points"] = 7325.692454632283,
+        ["points"] = 7328.244274809161,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1239,
@@ -12337,7 +12337,7 @@ UWULogsData[7][1] = {
         ["points"] = 5728.525057807601,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1591,
+        ["rank_raids"] = 1592,
         ["dps_max"] = 12973.91,
         ["points"] = 5875.963501199974,
       },
@@ -12416,7 +12416,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 45,
         ["dps_max"] = 19998.3,
-        ["points"] = 9825.188716726261,
+        ["points"] = 9825.25814138205,
       },
       ["Festergut"] = {
         ["rank_raids"] = 111,
@@ -12456,7 +12456,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 2,
         ["dps_max"] = 14458.75,
-        ["points"] = 9996.596324029953,
+        ["points"] = 9996.597482136782,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -12476,7 +12476,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Sintrexed"] = {
-    ["percentile"] = 57.344,
+    ["percentile"] = 57.345,
     ["server"] = "Icecrown",
     ["overall_rank"] = 163,
     ["bosses"] = {
@@ -12493,7 +12493,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 235,
         ["dps_max"] = 18623.81,
-        ["points"] = 9302.76981852913,
+        ["points"] = 9303.435114503816,
       },
       ["Festergut"] = {
         ["rank_raids"] = 10,
@@ -12533,7 +12533,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 76,
         ["dps_max"] = 11591.86,
-        ["points"] = 9744.724302246426,
+        ["points"] = 9744.811160258592,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -12784,7 +12784,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Hodasele"] = {
-    ["percentile"] = 56.831,
+    ["percentile"] = 56.833,
     ["server"] = "Icecrown",
     ["overall_rank"] = 167,
     ["bosses"] = {
@@ -12801,7 +12801,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 902,
         ["dps_max"] = 15591.54,
-        ["points"] = 7363.896848137536,
+        ["points"] = 7366.412213740457,
       },
       ["Festergut"] = {
         ["rank_raids"] = 462,
@@ -12839,9 +12839,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 590,
+        ["rank_raids"] = 591,
         ["dps_max"] = 8559.85,
-        ["points"] = 7995.234853641934,
+        ["points"] = 7992.514460700919,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -12861,7 +12861,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Flamingfatty"] = {
-    ["percentile"] = 56.611,
+    ["percentile"] = 56.613,
     ["server"] = "Icecrown",
     ["overall_rank"] = 168,
     ["bosses"] = {
@@ -12878,7 +12878,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 776,
         ["dps_max"] = 16178.67,
-        ["points"] = 7812.79847182426,
+        ["points"] = 7814.885496183206,
       },
       ["Festergut"] = {
         ["rank_raids"] = 302,
@@ -12993,7 +12993,7 @@ UWULogsData[7][1] = {
         ["points"] = 6755.7441903115105,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2685,
+        ["rank_raids"] = 2686,
         ["dps_max"] = 3465.8,
         ["points"] = 2209.6509812347344,
       },
@@ -13092,7 +13092,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Ferrarelle"] = {
-    ["percentile"] = 56.471,
+    ["percentile"] = 56.473,
     ["server"] = "Icecrown",
     ["overall_rank"] = 171,
     ["bosses"] = {
@@ -13109,7 +13109,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 761,
         ["dps_max"] = 16227.41,
-        ["points"] = 7898.75835721108,
+        ["points"] = 7900.763358778627,
       },
       ["Festergut"] = {
         ["rank_raids"] = 269,
@@ -13169,7 +13169,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Kisune"] = {
-    ["percentile"] = 56.352,
+    ["percentile"] = 56.354,
     ["server"] = "Icecrown",
     ["overall_rank"] = 172,
     ["bosses"] = {
@@ -13186,7 +13186,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 755,
         ["dps_max"] = 16245.36,
-        ["points"] = 7927.41165234002,
+        ["points"] = 7929.389312977099,
       },
       ["Festergut"] = {
         ["rank_raids"] = 199,
@@ -13246,7 +13246,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Nekrrokrist"] = {
-    ["percentile"] = 56.08,
+    ["percentile"] = 56.081,
     ["server"] = "Icecrown",
     ["overall_rank"] = 173,
     ["bosses"] = {
@@ -13263,7 +13263,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 344,
         ["dps_max"] = 18138.25,
-        ["points"] = 9083.094555873926,
+        ["points"] = 9083.969465648854,
       },
       ["Festergut"] = {
         ["rank_raids"] = 169,
@@ -13323,7 +13323,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Cursedtotem"] = {
-    ["percentile"] = 56.058,
+    ["percentile"] = 56.06,
     ["server"] = "Icecrown",
     ["overall_rank"] = 174,
     ["bosses"] = {
@@ -13340,7 +13340,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 993,
         ["dps_max"] = 15225.36,
-        ["points"] = 6962.750716332379,
+        ["points"] = 6965.6488549618325,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1310,
@@ -13378,9 +13378,9 @@ UWULogsData[7][1] = {
         ["points"] = 6300.292969502508,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 789,
+        ["rank_raids"] = 790,
         ["dps_max"] = 7953.6,
-        ["points"] = 7317.90333560245,
+        ["points"] = 7315.413405920382,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -13457,7 +13457,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 190,
         ["dps_max"] = 10433.88,
-        ["points"] = 9356.705241660995,
+        ["points"] = 9356.92412385165,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -13477,7 +13477,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Hd"] = {
-    ["percentile"] = 56.039,
+    ["percentile"] = 56.04,
     ["server"] = "Icecrown",
     ["overall_rank"] = 176,
     ["bosses"] = {
@@ -13494,7 +13494,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 374,
         ["dps_max"] = 17951.47,
-        ["points"] = 9035.33906399236,
+        ["points"] = 9036.259541984733,
       },
       ["Festergut"] = {
         ["rank_raids"] = 275,
@@ -13554,7 +13554,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Chuknorriss"] = {
-    ["percentile"] = 55.918,
+    ["percentile"] = 55.921,
     ["server"] = "Icecrown",
     ["overall_rank"] = 177,
     ["bosses"] = {
@@ -13571,7 +13571,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 893,
         ["dps_max"] = 15629.31,
-        ["points"] = 7402.101241642789,
+        ["points"] = 7404.580152671756,
       },
       ["Festergut"] = {
         ["rank_raids"] = 339,
@@ -13631,7 +13631,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Heeroic"] = {
-    ["percentile"] = 55.681,
+    ["percentile"] = 55.683,
     ["server"] = "Icecrown",
     ["overall_rank"] = 178,
     ["bosses"] = {
@@ -13648,7 +13648,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 689,
         ["dps_max"] = 16510.32,
-        ["points"] = 8175.740210124164,
+        ["points"] = 8177.480916030534,
       },
       ["Festergut"] = {
         ["rank_raids"] = 598,
@@ -13723,7 +13723,7 @@ UWULogsData[7][1] = {
         ["points"] = 5839.914145593044,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1935,
+        ["rank_raids"] = 1936,
         ["dps_max"] = 11659.58,
         ["points"] = 5280.695373971394,
       },
@@ -13765,7 +13765,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 72,
         ["dps_max"] = 11655.39,
-        ["points"] = 9758.339006126616,
+        ["points"] = 9758.421231711465,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -13785,7 +13785,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Kajsi"] = {
-    ["percentile"] = 55.579,
+    ["percentile"] = 55.582,
     ["server"] = "Icecrown",
     ["overall_rank"] = 180,
     ["bosses"] = {
@@ -13802,7 +13802,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 968,
         ["dps_max"] = 15316.63,
-        ["points"] = 7058.261700095511,
+        ["points"] = 7061.0687022900765,
       },
       ["Festergut"] = {
         ["rank_raids"] = 606,
@@ -13842,7 +13842,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 117,
         ["dps_max"] = 11135.72,
-        ["points"] = 9605.173587474472,
+        ["points"] = 9605.307927866621,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -13877,7 +13877,7 @@ UWULogsData[7][1] = {
         ["points"] = 4309.079310247807,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2298,
+        ["rank_raids"] = 2299,
         ["dps_max"] = 9909.24,
         ["points"] = 4487.955640561006,
       },
@@ -13939,7 +13939,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Tblkva"] = {
-    ["percentile"] = 55.264,
+    ["percentile"] = 55.266,
     ["server"] = "Icecrown",
     ["overall_rank"] = 182,
     ["bosses"] = {
@@ -13956,7 +13956,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 885,
         ["dps_max"] = 15657.57,
-        ["points"] = 7449.856733524355,
+        ["points"] = 7452.2900763358775,
       },
       ["Festergut"] = {
         ["rank_raids"] = 762,
@@ -14031,7 +14031,7 @@ UWULogsData[7][1] = {
         ["points"] = 5792.433534896727,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1518,
+        ["rank_raids"] = 1519,
         ["dps_max"] = 13254.92,
         ["points"] = 6003.234655653197,
       },
@@ -14093,7 +14093,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Thunderkiing"] = {
-    ["percentile"] = 54.922,
+    ["percentile"] = 54.924,
     ["server"] = "Icecrown",
     ["overall_rank"] = 184,
     ["bosses"] = {
@@ -14110,7 +14110,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 842,
         ["dps_max"] = 15834.35,
-        ["points"] = 7669.53199617956,
+        ["points"] = 7671.755725190839,
       },
       ["Festergut"] = {
         ["rank_raids"] = 906,
@@ -14170,7 +14170,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Toquero"] = {
-    ["percentile"] = 54.849,
+    ["percentile"] = 54.85,
     ["server"] = "Icecrown",
     ["overall_rank"] = 185,
     ["bosses"] = {
@@ -14187,7 +14187,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 445,
         ["dps_max"] = 17657.05,
-        ["points"] = 8844.317096466093,
+        ["points"] = 8845.419847328245,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1395,
@@ -14247,7 +14247,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Ziratide"] = {
-    ["percentile"] = 54.633,
+    ["percentile"] = 54.635,
     ["server"] = "Icecrown",
     ["overall_rank"] = 186,
     ["bosses"] = {
@@ -14264,7 +14264,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 719,
         ["dps_max"] = 16398.88,
-        ["points"] = 8051.5759312320915,
+        ["points"] = 8053.435114503816,
       },
       ["Festergut"] = {
         ["rank_raids"] = 636,
@@ -14324,7 +14324,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Bezimkata"] = {
-    ["percentile"] = 54.382,
+    ["percentile"] = 54.384,
     ["server"] = "Icecrown",
     ["overall_rank"] = 187,
     ["bosses"] = {
@@ -14341,7 +14341,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 429,
         ["dps_max"] = 17707.89,
-        ["points"] = 8872.970391595032,
+        ["points"] = 8874.045801526718,
       },
       ["Festergut"] = {
         ["rank_raids"] = 208,
@@ -14379,9 +14379,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 615,
+        ["rank_raids"] = 616,
         ["dps_max"] = 8488.22,
-        ["points"] = 7910.142954390742,
+        ["points"] = 7907.451514120449,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -14456,7 +14456,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2385,
+        ["rank_raids"] = 2386,
         ["dps_max"] = 4443.78,
         ["points"] = 2833.170649602195,
       },
@@ -14478,7 +14478,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Siupek"] = {
-    ["percentile"] = 54.319,
+    ["percentile"] = 54.322,
     ["server"] = "Icecrown",
     ["overall_rank"] = 189,
     ["bosses"] = {
@@ -14495,7 +14495,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 965,
         ["dps_max"] = 15345.05,
-        ["points"] = 7086.914995224451,
+        ["points"] = 7089.69465648855,
       },
       ["Festergut"] = {
         ["rank_raids"] = 580,
@@ -14535,7 +14535,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 10,
         ["dps_max"] = 14124.51,
-        ["points"] = 9969.366916269571,
+        ["points"] = 9969.377339231032,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -14709,7 +14709,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Eternalsham"] = {
-    ["percentile"] = 53.798,
+    ["percentile"] = 53.799,
     ["server"] = "Icecrown",
     ["overall_rank"] = 192,
     ["bosses"] = {
@@ -14726,7 +14726,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 532,
         ["dps_max"] = 17302.12,
-        ["points"] = 8605.539637058262,
+        ["points"] = 8606.870229007634,
       },
       ["Festergut"] = {
         ["rank_raids"] = 159,
@@ -14940,7 +14940,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Saani"] = {
-    ["percentile"] = 53.687,
+    ["percentile"] = 53.689,
     ["server"] = "Icecrown",
     ["overall_rank"] = 195,
     ["bosses"] = {
@@ -14957,7 +14957,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 694,
         ["dps_max"] = 16498.38,
-        ["points"] = 8137.535816618912,
+        ["points"] = 8139.312977099236,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1799,
@@ -15017,7 +15017,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Desstypwn"] = {
-    ["percentile"] = 53.674,
+    ["percentile"] = 53.675,
     ["server"] = "Icecrown",
     ["overall_rank"] = 196,
     ["bosses"] = {
@@ -15034,7 +15034,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 549,
         ["dps_max"] = 17213.15,
-        ["points"] = 8576.886341929321,
+        ["points"] = 8578.24427480916,
       },
       ["Festergut"] = {
         ["rank_raids"] = 218,
@@ -15109,7 +15109,7 @@ UWULogsData[7][1] = {
         ["points"] = 5944.068311443866,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1676,
+        ["rank_raids"] = 1677,
         ["dps_max"] = 12675.87,
         ["points"] = 5740.979355179412,
       },
@@ -15171,7 +15171,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Zerototemz"] = {
-    ["percentile"] = 53.217,
+    ["percentile"] = 53.218,
     ["server"] = "Icecrown",
     ["overall_rank"] = 198,
     ["bosses"] = {
@@ -15188,7 +15188,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 507,
         ["dps_max"] = 17394.42,
-        ["points"] = 8662.84622731614,
+        ["points"] = 8664.12213740458,
       },
       ["Festergut"] = {
         ["rank_raids"] = 451,
@@ -15248,7 +15248,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Ostschwanz"] = {
-    ["percentile"] = 52.86,
+    ["percentile"] = 52.861,
     ["server"] = "Icecrown",
     ["overall_rank"] = 199,
     ["bosses"] = {
@@ -15265,7 +15265,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 631,
         ["dps_max"] = 16833.87,
-        ["points"] = 8376.313276026744,
+        ["points"] = 8377.862595419847,
       },
       ["Festergut"] = {
         ["rank_raids"] = 142,
@@ -15325,7 +15325,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Sesca"] = {
-    ["percentile"] = 52.552,
+    ["percentile"] = 52.554,
     ["server"] = "Icecrown",
     ["overall_rank"] = 200,
     ["bosses"] = {
@@ -15342,7 +15342,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 886,
         ["dps_max"] = 15651.92,
-        ["points"] = 7440.305635148043,
+        ["points"] = 7442.748091603053,
       },
       ["Festergut"] = {
         ["rank_raids"] = 248,
@@ -15380,9 +15380,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 881,
+        ["rank_raids"] = 882,
         ["dps_max"] = 7707.2,
-        ["points"] = 7004.765146358066,
+        ["points"] = 7002.381762504253,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -15402,7 +15402,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Sotallytober"] = {
-    ["percentile"] = 52.104,
+    ["percentile"] = 52.106,
     ["server"] = "Icecrown",
     ["overall_rank"] = 201,
     ["bosses"] = {
@@ -15419,7 +15419,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 618,
         ["dps_max"] = 16890.73,
-        ["points"] = 8414.517669531995,
+        ["points"] = 8416.030534351146,
       },
       ["Festergut"] = {
         ["rank_raids"] = 484,
@@ -15479,7 +15479,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Flatraa"] = {
-    ["percentile"] = 51.854,
+    ["percentile"] = 51.855,
     ["server"] = "Icecrown",
     ["overall_rank"] = 202,
     ["bosses"] = {
@@ -15496,7 +15496,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 565,
         ["dps_max"] = 17157.07,
-        ["points"] = 8529.130850047755,
+        ["points"] = 8530.534351145037,
       },
       ["Festergut"] = {
         ["rank_raids"] = 607,
@@ -15556,7 +15556,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Surprisedu"] = {
-    ["percentile"] = 51.81,
+    ["percentile"] = 51.811,
     ["server"] = "Icecrown",
     ["overall_rank"] = 203,
     ["bosses"] = {
@@ -15573,7 +15573,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 444,
         ["dps_max"] = 17657.53,
-        ["points"] = 8853.868194842407,
+        ["points"] = 8854.96183206107,
       },
       ["Festergut"] = {
         ["rank_raids"] = 246,
@@ -15611,7 +15611,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2621,
+        ["rank_raids"] = 2622,
         ["dps_max"] = 3693.76,
         ["points"] = 2354.9888650371095,
       },
@@ -15633,7 +15633,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Rayomakuin"] = {
-    ["percentile"] = 51.546,
+    ["percentile"] = 51.548,
     ["server"] = "Icecrown",
     ["overall_rank"] = 204,
     ["bosses"] = {
@@ -15650,7 +15650,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 851,
         ["dps_max"] = 15800.43,
-        ["points"] = 7612.225405921681,
+        ["points"] = 7614.503816793893,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1146,
@@ -15725,7 +15725,7 @@ UWULogsData[7][1] = {
         ["points"] = 5070.4342618341225,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1738,
+        ["rank_raids"] = 1739,
         ["dps_max"] = 12455.52,
         ["points"] = 5641.181487189776,
       },
@@ -15787,7 +15787,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Juicybolts"] = {
-    ["percentile"] = 51.169,
+    ["percentile"] = 51.172,
     ["server"] = "Icecrown",
     ["overall_rank"] = 206,
     ["bosses"] = {
@@ -15804,7 +15804,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 933,
         ["dps_max"] = 15447.25,
-        ["points"] = 7220.630372492837,
+        ["points"] = 7223.282442748091,
       },
       ["Festergut"] = {
         ["rank_raids"] = 627,
@@ -15958,7 +15958,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 25,
         ["dps_max"] = 20505.37,
-        ["points"] = 9904.648390941597,
+        ["points"] = 9904.686258935662,
       },
       ["Festergut"] = {
         ["rank_raids"] = 376,
@@ -16033,7 +16033,7 @@ UWULogsData[7][1] = {
         ["points"] = 4510.554660122316,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2030,
+        ["rank_raids"] = 2031,
         ["dps_max"] = 11250.41,
         ["points"] = 5095.379768592136,
       },
@@ -16152,7 +16152,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 503,
         ["dps_max"] = 8853.95,
-        ["points"] = 8291.35466303608,
+        ["points"] = 8291.93603266417,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -16172,7 +16172,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Szkorbut"] = {
-    ["percentile"] = 50.366,
+    ["percentile"] = 50.368,
     ["server"] = "Icecrown",
     ["overall_rank"] = 211,
     ["bosses"] = {
@@ -16189,7 +16189,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 654,
         ["dps_max"] = 16720.01,
-        ["points"] = 8280.80229226361,
+        ["points"] = 8282.442748091604,
       },
       ["Festergut"] = {
         ["rank_raids"] = 986,
@@ -16229,7 +16229,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 221,
         ["dps_max"] = 10240.24,
-        ["points"] = 9251.191286589516,
+        ["points"] = 9251.446070091868,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -16249,7 +16249,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Nelson"] = {
-    ["percentile"] = 50.228,
+    ["percentile"] = 50.229,
     ["server"] = "Icecrown",
     ["overall_rank"] = 212,
     ["bosses"] = {
@@ -16266,7 +16266,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 513,
         ["dps_max"] = 17372.82,
-        ["points"] = 8643.744030563515,
+        ["points"] = 8645.03816793893,
       },
       ["Festergut"] = {
         ["rank_raids"] = 543,
@@ -16403,7 +16403,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Alfalordqt"] = {
-    ["percentile"] = 49.841,
+    ["percentile"] = 49.844,
     ["server"] = "Icecrown",
     ["overall_rank"] = 214,
     ["bosses"] = {
@@ -16420,7 +16420,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1013,
         ["dps_max"] = 15124.01,
-        ["points"] = 6876.790830945558,
+        ["points"] = 6879.7709923664115,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1170,
@@ -16460,7 +16460,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 211,
         ["dps_max"] = 10301.79,
-        ["points"] = 9285.228046289993,
+        ["points"] = 9285.471248724056,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -16495,7 +16495,7 @@ UWULogsData[7][1] = {
         ["points"] = 4277.5901738276125,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1463,
+        ["rank_raids"] = 1464,
         ["dps_max"] = 13412.05,
         ["points"] = 6074.3997974603735,
       },
@@ -16557,7 +16557,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Qiuchuweiyan"] = {
-    ["percentile"] = 49.59,
+    ["percentile"] = 49.592,
     ["server"] = "Icecrown",
     ["overall_rank"] = 216,
     ["bosses"] = {
@@ -16574,7 +16574,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 690,
         ["dps_max"] = 16509.44,
-        ["points"] = 8166.189111747852,
+        ["points"] = 8167.93893129771,
       },
       ["Festergut"] = {
         ["rank_raids"] = 277,
@@ -16651,7 +16651,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 196,
         ["dps_max"] = 18804.63,
-        ["points"] = 9369.627507163324,
+        ["points"] = 9370.229007633588,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1335,
@@ -16711,7 +16711,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Ransid"] = {
-    ["percentile"] = 49.164,
+    ["percentile"] = 49.166,
     ["server"] = "Icecrown",
     ["overall_rank"] = 218,
     ["bosses"] = {
@@ -16728,7 +16728,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 769,
         ["dps_max"] = 16208.41,
-        ["points"] = 7841.451766953199,
+        ["points"] = 7843.511450381679,
       },
       ["Festergut"] = {
         ["rank_raids"] = 795,
@@ -16788,7 +16788,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Restobaby"] = {
-    ["percentile"] = 48.962,
+    ["percentile"] = 48.964,
     ["server"] = "Icecrown",
     ["overall_rank"] = 219,
     ["bosses"] = {
@@ -16805,7 +16805,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 733,
         ["dps_max"] = 16347.93,
-        ["points"] = 8003.820439350525,
+        ["points"] = 8005.725190839694,
       },
       ["Festergut"] = {
         ["rank_raids"] = 192,
@@ -16843,9 +16843,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 527,
+        ["rank_raids"] = 528,
         ["dps_max"] = 8744.26,
-        ["points"] = 8209.666439754936,
+        ["points"] = 8206.873086083702,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -16865,7 +16865,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Sennsham"] = {
-    ["percentile"] = 48.957,
+    ["percentile"] = 48.959,
     ["server"] = "Icecrown",
     ["overall_rank"] = 220,
     ["bosses"] = {
@@ -16882,7 +16882,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 576,
         ["dps_max"] = 17123.83,
-        ["points"] = 8510.028653295129,
+        ["points"] = 8511.45038167939,
       },
       ["Festergut"] = {
         ["rank_raids"] = 491,
@@ -16920,9 +16920,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 611,
+        ["rank_raids"] = 612,
         ["dps_max"] = 8493.31,
-        ["points"] = 7923.757658270933,
+        ["points"] = 7921.061585573325,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -16942,7 +16942,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Kaliczka"] = {
-    ["percentile"] = 48.815,
+    ["percentile"] = 48.817,
     ["server"] = "Icecrown",
     ["overall_rank"] = 221,
     ["bosses"] = {
@@ -16959,7 +16959,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 894,
         ["dps_max"] = 15626.13,
-        ["points"] = 7392.550143266475,
+        ["points"] = 7395.038167938931,
       },
       ["Festergut"] = {
         ["rank_raids"] = 782,
@@ -17096,7 +17096,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Crixmatq"] = {
-    ["percentile"] = 48.477,
+    ["percentile"] = 48.478,
     ["server"] = "Icecrown",
     ["overall_rank"] = 223,
     ["bosses"] = {
@@ -17113,7 +17113,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 223,
         ["dps_max"] = 18661.35,
-        ["points"] = 9331.423113658071,
+        ["points"] = 9332.061068702289,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -17173,7 +17173,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Fadeforever"] = {
-    ["percentile"] = 48.438,
+    ["percentile"] = 48.439,
     ["server"] = "Icecrown",
     ["overall_rank"] = 224,
     ["bosses"] = {
@@ -17190,7 +17190,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 627,
         ["dps_max"] = 16849.6,
-        ["points"] = 8395.41547277937,
+        ["points"] = 8396.946564885497,
       },
       ["Festergut"] = {
         ["rank_raids"] = 433,
@@ -17250,7 +17250,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Indetectable"] = {
-    ["percentile"] = 48.402,
+    ["percentile"] = 48.405,
     ["server"] = "Icecrown",
     ["overall_rank"] = 225,
     ["bosses"] = {
@@ -17267,7 +17267,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1003,
         ["dps_max"] = 15161.88,
-        ["points"] = 6924.546322827126,
+        ["points"] = 6927.480916030534,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1052,
@@ -17327,7 +17327,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Lickmytotem"] = {
-    ["percentile"] = 48.326,
+    ["percentile"] = 48.328,
     ["server"] = "Icecrown",
     ["overall_rank"] = 226,
     ["bosses"] = {
@@ -17344,7 +17344,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 897,
         ["dps_max"] = 15607.09,
-        ["points"] = 7382.999044890163,
+        ["points"] = 7385.496183206107,
       },
       ["Festergut"] = {
         ["rank_raids"] = 250,
@@ -17406,7 +17406,7 @@ UWULogsData[7][1] = {
   ["Behemoth"] = {
     ["percentile"] = 48.235,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 1248,
+    ["overall_rank"] = 1249,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -17481,7 +17481,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Elegbele"] = {
-    ["percentile"] = 48.007,
+    ["percentile"] = 48.009,
     ["server"] = "Icecrown",
     ["overall_rank"] = 228,
     ["bosses"] = {
@@ -17498,7 +17498,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 791,
         ["dps_max"] = 16091.95,
-        ["points"] = 7765.042979942694,
+        ["points"] = 7767.175572519084,
       },
       ["Festergut"] = {
         ["rank_raids"] = 596,
@@ -17558,7 +17558,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Inpulse"] = {
-    ["percentile"] = 47.942,
+    ["percentile"] = 47.944,
     ["server"] = "Icecrown",
     ["overall_rank"] = 229,
     ["bosses"] = {
@@ -17575,7 +17575,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 852,
         ["dps_max"] = 15795.58,
-        ["points"] = 7602.674307545367,
+        ["points"] = 7604.961832061069,
       },
       ["Festergut"] = {
         ["rank_raids"] = 672,
@@ -17635,7 +17635,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Specialty"] = {
-    ["percentile"] = 47.747,
+    ["percentile"] = 47.748,
     ["server"] = "Icecrown",
     ["overall_rank"] = 230,
     ["bosses"] = {
@@ -17652,7 +17652,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 478,
         ["dps_max"] = 17495.04,
-        ["points"] = 8701.050620821394,
+        ["points"] = 8702.290076335878,
       },
       ["Festergut"] = {
         ["rank_raids"] = 155,
@@ -17712,7 +17712,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Paadron"] = {
-    ["percentile"] = 47.354,
+    ["percentile"] = 47.356,
     ["server"] = "Icecrown",
     ["overall_rank"] = 231,
     ["bosses"] = {
@@ -17729,7 +17729,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 697,
         ["dps_max"] = 16478.16,
-        ["points"] = 8118.433619866284,
+        ["points"] = 8120.2290076335885,
       },
       ["Festergut"] = {
         ["rank_raids"] = 567,
@@ -17804,7 +17804,7 @@ UWULogsData[7][1] = {
         ["points"] = 4714.005258525007,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1606,
+        ["rank_raids"] = 1607,
         ["dps_max"] = 12911.9,
         ["points"] = 5847.878791447139,
       },
@@ -17846,7 +17846,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 229,
         ["dps_max"] = 10217.25,
-        ["points"] = 9223.961878829135,
+        ["points"] = 9224.225927186118,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -17866,7 +17866,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Dobrerejnouu"] = {
-    ["percentile"] = 47.289,
+    ["percentile"] = 47.291,
     ["server"] = "Icecrown",
     ["overall_rank"] = 233,
     ["bosses"] = {
@@ -17883,7 +17883,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 935,
         ["dps_max"] = 15444.18,
-        ["points"] = 7201.528175740211,
+        ["points"] = 7204.198473282443,
       },
       ["Festergut"] = {
         ["rank_raids"] = 656,
@@ -17943,7 +17943,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Sscabyss"] = {
-    ["percentile"] = 47.236,
+    ["percentile"] = 47.238,
     ["server"] = "Icecrown",
     ["overall_rank"] = 234,
     ["bosses"] = {
@@ -17960,7 +17960,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 688,
         ["dps_max"] = 16528.32,
-        ["points"] = 8185.2913085004775,
+        ["points"] = 8187.022900763359,
       },
       ["Festergut"] = {
         ["rank_raids"] = 595,
@@ -17998,9 +17998,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 630,
+        ["rank_raids"] = 631,
         ["dps_max"] = 8439.44,
-        ["points"] = 7859.087814840027,
+        ["points"] = 7856.4137461721675,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -18020,7 +18020,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Lobosaurus"] = {
-    ["percentile"] = 47.23,
+    ["percentile"] = 47.231,
     ["server"] = "Icecrown",
     ["overall_rank"] = 235,
     ["bosses"] = {
@@ -18037,7 +18037,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 703,
         ["dps_max"] = 16457.62,
-        ["points"] = 8089.780324737345,
+        ["points"] = 8091.603053435115,
       },
       ["Festergut"] = {
         ["rank_raids"] = 471,
@@ -18077,7 +18077,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 38,
         ["dps_max"] = 12463.25,
-        ["points"] = 9874.063989108237,
+        ["points"] = 9874.106839060905,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -18097,7 +18097,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Cyberschwanz"] = {
-    ["percentile"] = 47.081,
+    ["percentile"] = 47.082,
     ["server"] = "Icecrown",
     ["overall_rank"] = 236,
     ["bosses"] = {
@@ -18114,7 +18114,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 525,
         ["dps_max"] = 17336.6,
-        ["points"] = 8624.641833810889,
+        ["points"] = 8625.954198473282,
       },
       ["Festergut"] = {
         ["rank_raids"] = 423,
@@ -18174,7 +18174,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Dexiusham"] = {
-    ["percentile"] = 46.984,
+    ["percentile"] = 46.986,
     ["server"] = "Icecrown",
     ["overall_rank"] = 237,
     ["bosses"] = {
@@ -18191,7 +18191,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 700,
         ["dps_max"] = 16474.92,
-        ["points"] = 8099.331423113658,
+        ["points"] = 8101.145038167939,
       },
       ["Festergut"] = {
         ["rank_raids"] = 917,
@@ -18251,7 +18251,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Naglash"] = {
-    ["percentile"] = 46.767,
+    ["percentile"] = 46.769,
     ["server"] = "Icecrown",
     ["overall_rank"] = 238,
     ["bosses"] = {
@@ -18268,7 +18268,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 877,
         ["dps_max"] = 15704.97,
-        ["points"] = 7507.163323782235,
+        ["points"] = 7509.541984732825,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1048,
@@ -18345,7 +18345,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 10,
         ["dps_max"] = 21380.14,
-        ["points"] = 9964.2431466031,
+        ["points"] = 9964.257347100873,
       },
       ["Festergut"] = {
         ["rank_raids"] = 18,
@@ -18462,7 +18462,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 497,
         ["dps_max"] = 8873.18,
-        ["points"] = 8311.776718856365,
+        ["points"] = 8312.351139843484,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -18482,7 +18482,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Firelust"] = {
-    ["percentile"] = 46.466,
+    ["percentile"] = 46.467,
     ["server"] = "Icecrown",
     ["overall_rank"] = 241,
     ["bosses"] = {
@@ -18499,7 +18499,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 685,
         ["dps_max"] = 16538.02,
-        ["points"] = 8204.393505253103,
+        ["points"] = 8206.106870229007,
       },
       ["Festergut"] = {
         ["rank_raids"] = 517,
@@ -18559,7 +18559,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Hammsham"] = {
-    ["percentile"] = 46.439,
+    ["percentile"] = 46.44,
     ["server"] = "Icecrown",
     ["overall_rank"] = 242,
     ["bosses"] = {
@@ -18576,7 +18576,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 424,
         ["dps_max"] = 17734.8,
-        ["points"] = 8892.07258834766,
+        ["points"] = 8893.129770992366,
       },
       ["Festergut"] = {
         ["rank_raids"] = 413,
@@ -18616,7 +18616,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 309,
         ["dps_max"] = 9767.36,
-        ["points"] = 8951.667801225323,
+        ["points"] = 8952.024498128616,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -18636,7 +18636,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Concealsm"] = {
-    ["percentile"] = 46.425,
+    ["percentile"] = 46.428,
     ["server"] = "Icecrown",
     ["overall_rank"] = 243,
     ["bosses"] = {
@@ -18653,7 +18653,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 992,
         ["dps_max"] = 15225.49,
-        ["points"] = 6972.301814708691,
+        ["points"] = 6975.1908396946565,
       },
       ["Festergut"] = {
         ["rank_raids"] = 896,
@@ -18693,7 +18693,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 36,
         ["dps_max"] = 12497.03,
-        ["points"] = 9880.871341048332,
+        ["points"] = 9880.911874787342,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -18713,7 +18713,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Mipp"] = {
-    ["percentile"] = 46.38,
+    ["percentile"] = 46.382,
     ["server"] = "Icecrown",
     ["overall_rank"] = 244,
     ["bosses"] = {
@@ -18730,7 +18730,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 629,
         ["dps_max"] = 16838.36,
-        ["points"] = 8385.864374403056,
+        ["points"] = 8387.404580152672,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -18790,7 +18790,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Drivenz"] = {
-    ["percentile"] = 46.337,
+    ["percentile"] = 46.339,
     ["server"] = "Icecrown",
     ["overall_rank"] = 245,
     ["bosses"] = {
@@ -18807,7 +18807,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 773,
         ["dps_max"] = 16202.83,
-        ["points"] = 7822.349570200573,
+        ["points"] = 7824.427480916031,
       },
       ["Festergut"] = {
         ["rank_raids"] = 323,
@@ -18847,7 +18847,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 53,
         ["dps_max"] = 12136.18,
-        ["points"] = 9823.008849557522,
+        ["points"] = 9823.069071112623,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -18867,7 +18867,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Haizaki"] = {
-    ["percentile"] = 46.184,
+    ["percentile"] = 46.186,
     ["server"] = "Icecrown",
     ["overall_rank"] = 246,
     ["bosses"] = {
@@ -18884,7 +18884,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 768,
         ["dps_max"] = 16211.27,
-        ["points"] = 7851.002865329513,
+        ["points"] = 7853.053435114504,
       },
       ["Festergut"] = {
         ["rank_raids"] = 389,
@@ -18944,7 +18944,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Treniz"] = {
-    ["percentile"] = 46.073,
+    ["percentile"] = 46.075,
     ["server"] = "Icecrown",
     ["overall_rank"] = 247,
     ["bosses"] = {
@@ -18961,7 +18961,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 744,
         ["dps_max"] = 16309.11,
-        ["points"] = 7965.616045845271,
+        ["points"] = 7967.557251908397,
       },
       ["Festergut"] = {
         ["rank_raids"] = 402,
@@ -19078,7 +19078,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 158,
         ["dps_max"] = 10689.74,
-        ["points"] = 9465.622872702519,
+        ["points"] = 9465.804695474651,
       },
       ["Halion"] = {
         ["rank_raids"] = 84,
@@ -19098,7 +19098,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Porottex"] = {
-    ["percentile"] = 45.451,
+    ["percentile"] = 45.453,
     ["server"] = "Icecrown",
     ["overall_rank"] = 249,
     ["bosses"] = {
@@ -19115,7 +19115,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 839,
         ["dps_max"] = 15842.29,
-        ["points"] = 7688.634192932188,
+        ["points"] = 7690.839694656488,
       },
       ["Festergut"] = {
         ["rank_raids"] = 777,
@@ -19190,7 +19190,7 @@ UWULogsData[7][1] = {
         ["points"] = 3362.475905126057,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2096,
+        ["rank_raids"] = 2097,
         ["dps_max"] = 10988.63,
         ["points"] = 4976.81799921466,
       },
@@ -19252,7 +19252,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Minimalsham"] = {
-    ["percentile"] = 45.406,
+    ["percentile"] = 45.407,
     ["server"] = "Icecrown",
     ["overall_rank"] = 251,
     ["bosses"] = {
@@ -19269,7 +19269,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 425,
         ["dps_max"] = 17727.01,
-        ["points"] = 8882.521489971346,
+        ["points"] = 8883.587786259543,
       },
       ["Festergut"] = {
         ["rank_raids"] = 558,
@@ -19329,7 +19329,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Viessftw"] = {
-    ["percentile"] = 45.398,
+    ["percentile"] = 45.401,
     ["server"] = "Icecrown",
     ["overall_rank"] = 252,
     ["bosses"] = {
@@ -19346,7 +19346,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 984,
         ["dps_max"] = 15259.76,
-        ["points"] = 7010.506208213945,
+        ["points"] = 7013.358778625954,
       },
       ["Festergut"] = {
         ["rank_raids"] = 338,
@@ -19463,7 +19463,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 101,
         ["dps_max"] = 11313.99,
-        ["points"] = 9659.632402995236,
+        ["points"] = 9659.748213678122,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -19483,7 +19483,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Gigachadele"] = {
-    ["percentile"] = 44.695,
+    ["percentile"] = 44.696,
     ["server"] = "Icecrown",
     ["overall_rank"] = 254,
     ["bosses"] = {
@@ -19500,7 +19500,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 400,
         ["dps_max"] = 17849.82,
-        ["points"] = 8968.481375358166,
+        ["points"] = 8969.465648854963,
       },
       ["Festergut"] = {
         ["rank_raids"] = 461,
@@ -19540,7 +19540,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 85,
         ["dps_max"] = 11496.07,
-        ["points"] = 9714.091218515998,
+        ["points"] = 9714.188499489623,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -19575,7 +19575,7 @@ UWULogsData[7][1] = {
         ["points"] = 1672.8919533313083,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1506,
+        ["rank_raids"] = 1507,
         ["dps_max"] = 13282.84,
         ["points"] = 6015.879795087146,
       },
@@ -19714,7 +19714,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Showmercy"] = {
-    ["percentile"] = 44.228,
+    ["percentile"] = 44.231,
     ["server"] = "Icecrown",
     ["overall_rank"] = 257,
     ["bosses"] = {
@@ -19731,7 +19731,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 919,
         ["dps_max"] = 15508.86,
-        ["points"] = 7277.936962750716,
+        ["points"] = 7280.534351145038,
       },
       ["Festergut"] = {
         ["rank_raids"] = 271,
@@ -19806,7 +19806,7 @@ UWULogsData[7][1] = {
         ["points"] = 4297.583823173915,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2073,
+        ["rank_raids"] = 2074,
         ["dps_max"] = 11090.02,
         ["points"] = 5022.738152767958,
       },
@@ -19945,7 +19945,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Aaravozs"] = {
-    ["percentile"] = 44.09,
+    ["percentile"] = 44.093,
     ["server"] = "Icecrown",
     ["overall_rank"] = 260,
     ["bosses"] = {
@@ -19962,7 +19962,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1040,
         ["dps_max"] = 14985.64,
-        ["points"] = 6800.382043935053,
+        ["points"] = 6803.435114503816,
       },
       ["Festergut"] = {
         ["rank_raids"] = 573,
@@ -20002,7 +20002,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 37,
         ["dps_max"] = 12480.25,
-        ["points"] = 9877.467665078284,
+        ["points"] = 9877.509356924123,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -20037,7 +20037,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1667,
+        ["rank_raids"] = 1668,
         ["dps_max"] = 12718.6,
         ["points"] = 5760.332034549492,
       },
@@ -20079,7 +20079,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 144,
         ["dps_max"] = 10808.05,
-        ["points"] = 9513.274336283186,
+        ["points"] = 9513.439945559714,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -20154,7 +20154,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2915,
+        ["rank_raids"] = 2916,
         ["dps_max"] = 1456.38,
         ["points"] = 928.5277557997122,
       },
@@ -20176,7 +20176,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Bratach"] = {
-    ["percentile"] = 43.861,
+    ["percentile"] = 43.864,
     ["server"] = "Icecrown",
     ["overall_rank"] = 263,
     ["bosses"] = {
@@ -20193,7 +20193,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 924,
         ["dps_max"] = 15485.83,
-        ["points"] = 7249.283667621777,
+        ["points"] = 7251.908396946565,
       },
       ["Festergut"] = {
         ["rank_raids"] = 739,
@@ -20310,7 +20310,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 142,
         ["dps_max"] = 10828.49,
-        ["points"] = 9520.081688223281,
+        ["points"] = 9520.244981286152,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -20330,7 +20330,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Vivification"] = {
-    ["percentile"] = 43.775,
+    ["percentile"] = 43.777,
     ["server"] = "Icecrown",
     ["overall_rank"] = 265,
     ["bosses"] = {
@@ -20347,7 +20347,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 828,
         ["dps_max"] = 15912.34,
-        ["points"] = 7707.736389684814,
+        ["points"] = 7709.923664122137,
       },
       ["Festergut"] = {
         ["rank_raids"] = 211,
@@ -20407,7 +20407,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Cladzwaves"] = {
-    ["percentile"] = 43.729,
+    ["percentile"] = 43.731,
     ["server"] = "Icecrown",
     ["overall_rank"] = 266,
     ["bosses"] = {
@@ -20424,7 +20424,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 714,
         ["dps_max"] = 16411.85,
-        ["points"] = 8061.127029608405,
+        ["points"] = 8062.977099236641,
       },
       ["Festergut"] = {
         ["rank_raids"] = 650,
@@ -20464,7 +20464,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 432,
         ["dps_max"] = 9133.93,
-        ["points"] = 8533.015656909462,
+        ["points"] = 8533.514800952706,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -20499,7 +20499,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1614,
+        ["rank_raids"] = 1615,
         ["dps_max"] = 12883.48,
         ["points"] = 5835.007198943097,
       },
@@ -20561,7 +20561,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Chainblast"] = {
-    ["percentile"] = 43.476,
+    ["percentile"] = 43.479,
     ["server"] = "Icecrown",
     ["overall_rank"] = 268,
     ["bosses"] = {
@@ -20578,7 +20578,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 989,
         ["dps_max"] = 15232.63,
-        ["points"] = 6981.852913085005,
+        ["points"] = 6984.732824427481,
       },
       ["Festergut"] = {
         ["rank_raids"] = 645,
@@ -20715,7 +20715,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Moriwarlord"] = {
-    ["percentile"] = 43.323,
+    ["percentile"] = 43.325,
     ["server"] = "Icecrown",
     ["overall_rank"] = 270,
     ["bosses"] = {
@@ -20732,7 +20732,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 925,
         ["dps_max"] = 15475.03,
-        ["points"] = 7239.732569245462,
+        ["points"] = 7242.366412213741,
       },
       ["Festergut"] = {
         ["rank_raids"] = 705,
@@ -20770,7 +20770,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2617,
+        ["rank_raids"] = 2618,
         ["dps_max"] = 3710.49,
         ["points"] = 2365.655222275281,
       },
@@ -20849,7 +20849,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 281,
         ["dps_max"] = 9923.95,
-        ["points"] = 9046.970728386657,
+        ["points"] = 9047.294998298741,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -20869,7 +20869,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Sataniachan"] = {
-    ["percentile"] = 43.142,
+    ["percentile"] = 43.143,
     ["server"] = "Icecrown",
     ["overall_rank"] = 272,
     ["bosses"] = {
@@ -20886,7 +20886,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 643,
         ["dps_max"] = 16766.37,
-        ["points"] = 8309.455587392551,
+        ["points"] = 8311.068702290077,
       },
       ["Festergut"] = {
         ["rank_raids"] = 882,
@@ -20946,7 +20946,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Chirokez"] = {
-    ["percentile"] = 43.091,
+    ["percentile"] = 43.093,
     ["server"] = "Icecrown",
     ["overall_rank"] = 273,
     ["bosses"] = {
@@ -20963,7 +20963,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 475,
         ["dps_max"] = 17499.01,
-        ["points"] = 8720.15281757402,
+        ["points"] = 8721.374045801527,
       },
       ["Festergut"] = {
         ["rank_raids"] = 439,
@@ -21023,7 +21023,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Haduoken"] = {
-    ["percentile"] = 42.954,
+    ["percentile"] = 42.955,
     ["server"] = "Icecrown",
     ["overall_rank"] = 274,
     ["bosses"] = {
@@ -21040,7 +21040,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 653,
         ["dps_max"] = 16720.14,
-        ["points"] = 8290.353390639924,
+        ["points"] = 8291.984732824429,
       },
       ["Festergut"] = {
         ["rank_raids"] = 853,
@@ -21100,7 +21100,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Delcimar"] = {
-    ["percentile"] = 42.743,
+    ["percentile"] = 42.745,
     ["server"] = "Icecrown",
     ["overall_rank"] = 275,
     ["bosses"] = {
@@ -21117,7 +21117,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 758,
         ["dps_max"] = 16233.12,
-        ["points"] = 7917.860553963706,
+        ["points"] = 7919.847328244275,
       },
       ["Festergut"] = {
         ["rank_raids"] = 493,
@@ -21269,7 +21269,7 @@ UWULogsData[7][1] = {
         ["points"] = 3149.6773282237177,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1826,
+        ["rank_raids"] = 1827,
         ["dps_max"] = 12096.96,
         ["points"] = 5478.787461565252,
       },
@@ -21309,9 +21309,9 @@ UWULogsData[7][1] = {
         ["points"] = 4887.204429834498,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 819,
+        ["rank_raids"] = 820,
         ["dps_max"] = 7858.02,
-        ["points"] = 7215.793056501021,
+        ["points"] = 7213.337870023817,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -21346,7 +21346,7 @@ UWULogsData[7][1] = {
         ["points"] = 3571.174692932113,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2165,
+        ["rank_raids"] = 2166,
         ["dps_max"] = 10657.55,
         ["points"] = 4826.869834322404,
       },
@@ -21423,7 +21423,7 @@ UWULogsData[7][1] = {
         ["points"] = 4831.92300205621,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1505,
+        ["rank_raids"] = 1506,
         ["dps_max"] = 13282.88,
         ["points"] = 6015.897911332752,
       },
@@ -21500,7 +21500,7 @@ UWULogsData[7][1] = {
         ["points"] = 5620.58691294494,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1525,
+        ["rank_raids"] = 1526,
         ["dps_max"] = 13223.62,
         ["points"] = 5989.058693465426,
       },
@@ -21562,7 +21562,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Zimniy"] = {
-    ["percentile"] = 42.376,
+    ["percentile"] = 42.377,
     ["server"] = "Icecrown",
     ["overall_rank"] = 281,
     ["bosses"] = {
@@ -21579,7 +21579,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 678,
         ["dps_max"] = 16598.42,
-        ["points"] = 8223.49570200573,
+        ["points"] = 8225.190839694656,
       },
       ["Festergut"] = {
         ["rank_raids"] = 883,
@@ -21639,7 +21639,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Cogollista"] = {
-    ["percentile"] = 42.295,
+    ["percentile"] = 42.297,
     ["server"] = "Icecrown",
     ["overall_rank"] = 282,
     ["bosses"] = {
@@ -21656,7 +21656,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 871,
         ["dps_max"] = 15715.99,
-        ["points"] = 7516.714422158548,
+        ["points"] = 7519.083969465649,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1294,
@@ -21696,7 +21696,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 45,
         ["dps_max"] = 12311.86,
-        ["points"] = 9850.238257317904,
+        ["points"] = 9850.289214018374,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -21793,7 +21793,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Binhosz"] = {
-    ["percentile"] = 42.248,
+    ["percentile"] = 42.25,
     ["server"] = "Icecrown",
     ["overall_rank"] = 284,
     ["bosses"] = {
@@ -21810,7 +21810,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 920,
         ["dps_max"] = 15507.8,
-        ["points"] = 7268.385864374402,
+        ["points"] = 7270.992366412213,
       },
       ["Festergut"] = {
         ["rank_raids"] = 584,
@@ -21962,7 +21962,7 @@ UWULogsData[7][1] = {
         ["points"] = 2831.713993200322,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1684,
+        ["rank_raids"] = 1685,
         ["dps_max"] = 12652.47,
         ["points"] = 5730.381351499096,
       },
@@ -22116,7 +22116,7 @@ UWULogsData[7][1] = {
         ["points"] = 6287.072515163191,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1490,
+        ["rank_raids"] = 1491,
         ["dps_max"] = 13327.91,
         ["points"] = 6036.292274825257,
       },
@@ -22156,7 +22156,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2045,
+        ["rank_raids"] = 2046,
         ["dps_max"] = 5270.84,
         ["points"] = 3360.4699572771906,
       },
@@ -22178,7 +22178,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Swiftnesky"] = {
-    ["percentile"] = 41.897,
+    ["percentile"] = 41.899,
     ["server"] = "Icecrown",
     ["overall_rank"] = 289,
     ["bosses"] = {
@@ -22195,7 +22195,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 794,
         ["dps_max"] = 16077.51,
-        ["points"] = 7755.49188156638,
+        ["points"] = 7757.633587786259,
       },
       ["Festergut"] = {
         ["rank_raids"] = 730,
@@ -22255,7 +22255,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Kameshameha"] = {
-    ["percentile"] = 41.871,
+    ["percentile"] = 41.873,
     ["server"] = "Icecrown",
     ["overall_rank"] = 290,
     ["bosses"] = {
@@ -22272,7 +22272,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 674,
         ["dps_max"] = 16609.49,
-        ["points"] = 8233.046800382044,
+        ["points"] = 8234.732824427481,
       },
       ["Festergut"] = {
         ["rank_raids"] = 497,
@@ -22332,7 +22332,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Kajdzu"] = {
-    ["percentile"] = 41.855,
+    ["percentile"] = 41.857,
     ["server"] = "Icecrown",
     ["overall_rank"] = 291,
     ["bosses"] = {
@@ -22349,7 +22349,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 726,
         ["dps_max"] = 16373.34,
-        ["points"] = 8032.473734479465,
+        ["points"] = 8034.3511450381675,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1640,
@@ -22409,7 +22409,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Strij"] = {
-    ["percentile"] = 41.846,
+    ["percentile"] = 41.847,
     ["server"] = "Icecrown",
     ["overall_rank"] = 292,
     ["bosses"] = {
@@ -22426,7 +22426,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 417,
         ["dps_max"] = 17778.26,
-        ["points"] = 8920.7258834766,
+        ["points"] = 8921.75572519084,
       },
       ["Festergut"] = {
         ["rank_raids"] = 521,
@@ -22543,7 +22543,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 116,
         ["dps_max"] = 11138.49,
-        ["points"] = 9608.57726344452,
+        ["points"] = 9608.71044572984,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -22563,7 +22563,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Necromantica"] = {
-    ["percentile"] = 41.689,
+    ["percentile"] = 41.691,
     ["server"] = "Icecrown",
     ["overall_rank"] = 294,
     ["bosses"] = {
@@ -22580,7 +22580,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 796,
         ["dps_max"] = 16075.65,
-        ["points"] = 7745.940783190067,
+        ["points"] = 7748.091603053435,
       },
       ["Festergut"] = {
         ["rank_raids"] = 744,
@@ -22618,7 +22618,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2927,
+        ["rank_raids"] = 2928,
         ["dps_max"] = 694.85,
         ["points"] = 443.0076704688543,
       },
@@ -22717,7 +22717,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Everton"] = {
-    ["percentile"] = 41.548,
+    ["percentile"] = 41.551,
     ["server"] = "Icecrown",
     ["overall_rank"] = 296,
     ["bosses"] = {
@@ -22734,7 +22734,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 848,
         ["dps_max"] = 15806.53,
-        ["points"] = 7621.7765042979945,
+        ["points"] = 7624.045801526718,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1149,
@@ -22809,7 +22809,7 @@ UWULogsData[7][1] = {
         ["points"] = 4357.863355292661,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1587,
+        ["rank_raids"] = 1588,
         ["dps_max"] = 12984.9,
         ["points"] = 5880.940939680601,
       },
@@ -22851,7 +22851,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 484,
         ["dps_max"] = 8919.79,
-        ["points"] = 8356.024506466985,
+        ["points"] = 8356.583872065328,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -23042,7 +23042,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 65,
         ["dps_max"] = 19711.63,
-        ["points"] = 9745.729042510926,
+        ["points"] = 9745.830023828436,
       },
       ["Festergut"] = {
         ["rank_raids"] = 236,
@@ -23117,7 +23117,7 @@ UWULogsData[7][1] = {
         ["points"] = 3939.7997075024423,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1454,
+        ["rank_raids"] = 1455,
         ["dps_max"] = 13447.63,
         ["points"] = 6090.514197928135,
       },
@@ -23157,9 +23157,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 537,
+        ["rank_raids"] = 538,
         ["dps_max"] = 8713.3,
-        ["points"] = 8175.62968005446,
+        ["points"] = 8172.8479074515135,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -23179,7 +23179,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Electrostat"] = {
-    ["percentile"] = 41.302,
+    ["percentile"] = 41.304,
     ["server"] = "Icecrown",
     ["overall_rank"] = 302,
     ["bosses"] = {
@@ -23196,7 +23196,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 846,
         ["dps_max"] = 15814.52,
-        ["points"] = 7640.87870105062,
+        ["points"] = 7643.1297709923665,
       },
       ["Festergut"] = {
         ["rank_raids"] = 617,
@@ -23256,7 +23256,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Daisyshaman"] = {
-    ["percentile"] = 41.295,
+    ["percentile"] = 41.296,
     ["server"] = "Icecrown",
     ["overall_rank"] = 303,
     ["bosses"] = {
@@ -23273,7 +23273,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 559,
         ["dps_max"] = 17164.75,
-        ["points"] = 8548.233046800382,
+        ["points"] = 8549.618320610687,
       },
       ["Festergut"] = {
         ["rank_raids"] = 387,
@@ -23313,7 +23313,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 458,
         ["dps_max"] = 9026.56,
-        ["points"] = 8444.520081688224,
+        ["points"] = 8445.049336509017,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -23333,7 +23333,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Haisina"] = {
-    ["percentile"] = 41.246,
+    ["percentile"] = 41.248,
     ["server"] = "Icecrown",
     ["overall_rank"] = 304,
     ["bosses"] = {
@@ -23350,7 +23350,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 947,
         ["dps_max"] = 15415.87,
-        ["points"] = 7182.425978987583,
+        ["points"] = 7185.114503816794,
       },
       ["Festergut"] = {
         ["rank_raids"] = 891,
@@ -23410,7 +23410,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Swifton"] = {
-    ["percentile"] = 41.228,
+    ["percentile"] = 41.23,
     ["server"] = "Icecrown",
     ["overall_rank"] = 305,
     ["bosses"] = {
@@ -23427,7 +23427,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 789,
         ["dps_max"] = 16099.54,
-        ["points"] = 7774.594078319007,
+        ["points"] = 7776.717557251909,
       },
       ["Festergut"] = {
         ["rank_raids"] = 713,
@@ -23467,7 +23467,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 122,
         ["dps_max"] = 11085.54,
-        ["points"] = 9588.155207624233,
+        ["points"] = 9588.295338550528,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -23502,7 +23502,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1471,
+        ["rank_raids"] = 1472,
         ["dps_max"] = 13382.51,
         ["points"] = 6061.020950079326,
       },
@@ -23544,7 +23544,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 238,
         ["dps_max"] = 10182.08,
-        ["points"] = 9193.328795098707,
+        ["points"] = 9193.603266417149,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -23579,7 +23579,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1544,
+        ["rank_raids"] = 1545,
         ["dps_max"] = 13122.12,
         ["points"] = 5943.088720236707,
       },
@@ -23698,7 +23698,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 214,
         ["dps_max"] = 10270.15,
-        ["points"] = 9275.01701837985,
+        ["points"] = 9275.2636951344,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -23718,7 +23718,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Healingtotem"] = {
-    ["percentile"] = 40.639,
+    ["percentile"] = 40.642,
     ["server"] = "Icecrown",
     ["overall_rank"] = 309,
     ["bosses"] = {
@@ -23735,7 +23735,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1010,
         ["dps_max"] = 15132.85,
-        ["points"] = 6895.8930276981855,
+        ["points"] = 6898.854961832061,
       },
       ["Festergut"] = {
         ["rank_raids"] = 563,
@@ -23775,7 +23775,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 128,
         ["dps_max"] = 10998.29,
-        ["points"] = 9567.733151803948,
+        ["points"] = 9567.880231371215,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -23795,7 +23795,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Nitam"] = {
-    ["percentile"] = 40.55,
+    ["percentile"] = 40.552,
     ["server"] = "Icecrown",
     ["overall_rank"] = 310,
     ["bosses"] = {
@@ -23812,7 +23812,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 861,
         ["dps_max"] = 15761.97,
-        ["points"] = 7554.918815663801,
+        ["points"] = 7557.251908396947,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1346,
@@ -23872,7 +23872,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Elebreaker"] = {
-    ["percentile"] = 40.478,
+    ["percentile"] = 40.479,
     ["server"] = "Icecrown",
     ["overall_rank"] = 311,
     ["bosses"] = {
@@ -23889,7 +23889,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 611,
         ["dps_max"] = 16922.81,
-        ["points"] = 8424.06876790831,
+        ["points"] = 8425.57251908397,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1268,
@@ -23964,7 +23964,7 @@ UWULogsData[7][1] = {
         ["points"] = 4714.068420541896,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2212,
+        ["rank_raids"] = 2213,
         ["dps_max"] = 10442.69,
         ["points"] = 4729.558421042381,
       },
@@ -24026,7 +24026,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Tomny"] = {
-    ["percentile"] = 40.423,
+    ["percentile"] = 40.425,
     ["server"] = "Icecrown",
     ["overall_rank"] = 313,
     ["bosses"] = {
@@ -24043,7 +24043,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 927,
         ["dps_max"] = 15465.96,
-        ["points"] = 7230.18147086915,
+        ["points"] = 7232.824427480916,
       },
       ["Festergut"] = {
         ["rank_raids"] = 392,
@@ -24118,7 +24118,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1673,
+        ["rank_raids"] = 1674,
         ["dps_max"] = 12685.4,
         ["points"] = 5745.295550695369,
       },
@@ -24158,9 +24158,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 665,
+        ["rank_raids"] = 666,
         ["dps_max"] = 8320.52,
-        ["points"] = 7739.959155888359,
+        ["points"] = 7737.32562095951,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -24272,7 +24272,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1938,
+        ["rank_raids"] = 1939,
         ["dps_max"] = 11657.87,
         ["points"] = 5279.920904471679,
       },
@@ -24334,7 +24334,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Powerke"] = {
-    ["percentile"] = 40.151,
+    ["percentile"] = 40.153,
     ["server"] = "Icecrown",
     ["overall_rank"] = 317,
     ["bosses"] = {
@@ -24351,7 +24351,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 605,
         ["dps_max"] = 16982.72,
-        ["points"] = 8443.170964660936,
+        ["points"] = 8444.656488549617,
       },
       ["Festergut"] = {
         ["rank_raids"] = 940,
@@ -24391,7 +24391,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 3,
         ["dps_max"] = 14338.27,
-        ["points"] = 9993.192648059905,
+        ["points"] = 9993.194964273564,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -24426,7 +24426,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1466,
+        ["rank_raids"] = 1467,
         ["dps_max"] = 13408.57,
         ["points"] = 6072.823684092532,
       },
@@ -24503,7 +24503,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1512,
+        ["rank_raids"] = 1513,
         ["dps_max"] = 13264.41,
         ["points"] = 6007.532734923547,
       },
@@ -24543,9 +24543,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 530,
+        ["rank_raids"] = 531,
         ["dps_max"] = 8736.07,
-        ["points"] = 8199.455411844792,
+        ["points"] = 8196.665532494046,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -24565,7 +24565,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Stasik"] = {
-    ["percentile"] = 40.098,
+    ["percentile"] = 40.099,
     ["server"] = "Icecrown",
     ["overall_rank"] = 320,
     ["bosses"] = {
@@ -24582,7 +24582,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 392,
         ["dps_max"] = 17898.68,
-        ["points"] = 8987.583572110794,
+        ["points"] = 8988.54961832061,
       },
       ["Festergut"] = {
         ["rank_raids"] = 421,
@@ -24657,7 +24657,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1458,
+        ["rank_raids"] = 1459,
         ["dps_max"] = 13442.18,
         ["points"] = 6088.04585946413,
       },
@@ -24719,7 +24719,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Serowyfiut"] = {
-    ["percentile"] = 39.82,
+    ["percentile"] = 39.822,
     ["server"] = "Icecrown",
     ["overall_rank"] = 322,
     ["bosses"] = {
@@ -24736,7 +24736,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 964,
         ["dps_max"] = 15345.57,
-        ["points"] = 7096.466093600764,
+        ["points"] = 7099.236641221373,
       },
       ["Festergut"] = {
         ["rank_raids"] = 581,
@@ -24776,7 +24776,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 202,
         ["dps_max"] = 10376.76,
-        ["points"] = 9315.861130020421,
+        ["points"] = 9316.093909493025,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -24873,7 +24873,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Joytide"] = {
-    ["percentile"] = 39.662,
+    ["percentile"] = 39.665,
     ["server"] = "Icecrown",
     ["overall_rank"] = 324,
     ["bosses"] = {
@@ -24890,7 +24890,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 952,
         ["dps_max"] = 15400.88,
-        ["points"] = 7172.874880611271,
+        ["points"] = 7175.572519083969,
       },
       ["Festergut"] = {
         ["rank_raids"] = 764,
@@ -25005,9 +25005,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 831,
+        ["rank_raids"] = 832,
         ["dps_max"] = 7805.79,
-        ["points"] = 7174.94894486045,
+        ["points"] = 7172.507655665192,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -25104,7 +25104,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Pepeweaver"] = {
-    ["percentile"] = 39.54,
+    ["percentile"] = 39.543,
     ["server"] = "Icecrown",
     ["overall_rank"] = 327,
     ["bosses"] = {
@@ -25121,7 +25121,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 955,
         ["dps_max"] = 15381.04,
-        ["points"] = 7153.772683858643,
+        ["points"] = 7156.488549618321,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1200,
@@ -25161,7 +25161,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 42,
         ["dps_max"] = 12385.71,
-        ["points"] = 9860.449285228047,
+        ["points"] = 9860.49676760803,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -25196,7 +25196,7 @@ UWULogsData[7][1] = {
         ["points"] = 4957.586705658685,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2114,
+        ["rank_raids"] = 2115,
         ["dps_max"] = 10922.86,
         ["points"] = 4947.030362374732,
       },
@@ -25335,7 +25335,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Exicutive"] = {
-    ["percentile"] = 39.115,
+    ["percentile"] = 39.116,
     ["server"] = "Icecrown",
     ["overall_rank"] = 330,
     ["bosses"] = {
@@ -25352,7 +25352,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 415,
         ["dps_max"] = 17781.26,
-        ["points"] = 8939.828080229227,
+        ["points"] = 8940.839694656488,
       },
       ["Festergut"] = {
         ["rank_raids"] = 644,
@@ -25427,7 +25427,7 @@ UWULogsData[7][1] = {
         ["points"] = 2262.9572571147705,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1804,
+        ["rank_raids"] = 1805,
         ["dps_max"] = 12194.38,
         ["points"] = 5522.909577742018,
       },
@@ -25469,7 +25469,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 332,
         ["dps_max"] = 9656.71,
-        ["points"] = 8873.383253914228,
+        ["points"] = 8873.766587274584,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -25566,7 +25566,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Pressingx"] = {
-    ["percentile"] = 38.987,
+    ["percentile"] = 38.99,
     ["server"] = "Icecrown",
     ["overall_rank"] = 333,
     ["bosses"] = {
@@ -25583,7 +25583,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 959,
         ["dps_max"] = 15361.67,
-        ["points"] = 7125.119388729704,
+        ["points"] = 7127.862595419847,
       },
       ["Festergut"] = {
         ["rank_raids"] = 448,
@@ -25658,7 +25658,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1623,
+        ["rank_raids"] = 1624,
         ["dps_max"] = 12848.98,
         ["points"] = 5819.381937106736,
       },
@@ -25720,7 +25720,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Aanvera"] = {
-    ["percentile"] = 38.882,
+    ["percentile"] = 38.885,
     ["server"] = "Icecrown",
     ["overall_rank"] = 335,
     ["bosses"] = {
@@ -25737,7 +25737,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 887,
         ["dps_max"] = 15649.35,
-        ["points"] = 7430.754536771728,
+        ["points"] = 7433.20610687023,
       },
       ["Festergut"] = {
         ["rank_raids"] = 290,
@@ -25777,7 +25777,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 388,
         ["dps_max"] = 9362.48,
-        ["points"] = 8682.77739959156,
+        ["points"] = 8683.225586934332,
       },
       ["Halion"] = {
         ["rank_raids"] = 93,
@@ -25812,7 +25812,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1501,
+        ["rank_raids"] = 1502,
         ["dps_max"] = 13295.0,
         ["points"] = 6021.387133751788,
       },
@@ -25889,7 +25889,7 @@ UWULogsData[7][1] = {
         ["points"] = 4288.44255672954,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1775,
+        ["rank_raids"] = 1776,
         ["dps_max"] = 12319.43,
         ["points"] = 5579.545490572079,
       },
@@ -25966,7 +25966,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1669,
+        ["rank_raids"] = 1670,
         ["dps_max"] = 12702.92,
         ["points"] = 5753.2304662714005,
       },
@@ -26008,7 +26008,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 66,
         ["dps_max"] = 11756.53,
-        ["points"] = 9778.761061946901,
+        ["points"] = 9778.83633889078,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -26105,7 +26105,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Banegoat"] = {
-    ["percentile"] = 38.599,
+    ["percentile"] = 38.602,
     ["server"] = "Icecrown",
     ["overall_rank"] = 340,
     ["bosses"] = {
@@ -26122,7 +26122,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 977,
         ["dps_max"] = 15290.23,
-        ["points"] = 7020.057306590258,
+        ["points"] = 7022.900763358778,
       },
       ["Festergut"] = {
         ["rank_raids"] = 693,
@@ -26197,7 +26197,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1502,
+        ["rank_raids"] = 1503,
         ["dps_max"] = 13293.65,
         ["points"] = 6020.775710462539,
       },
@@ -26239,7 +26239,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 284,
         ["dps_max"] = 9909.4,
-        ["points"] = 9036.759700476514,
+        ["points"] = 9037.087444709085,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -26274,7 +26274,7 @@ UWULogsData[7][1] = {
         ["points"] = 4268.8163954815045,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1609,
+        ["rank_raids"] = 1610,
         ["dps_max"] = 12909.12,
         ["points"] = 5846.619712377426,
       },
@@ -26314,7 +26314,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2692,
+        ["rank_raids"] = 2693,
         ["dps_max"] = 3440.61,
         ["points"] = 2193.5908772999137,
       },
@@ -26336,7 +26336,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Waawaashamyx"] = {
-    ["percentile"] = 38.556,
+    ["percentile"] = 38.557,
     ["server"] = "Icecrown",
     ["overall_rank"] = 343,
     ["bosses"] = {
@@ -26353,7 +26353,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 245,
         ["dps_max"] = 18580.13,
-        ["points"] = 9274.116523400191,
+        ["points"] = 9274.809160305344,
       },
       ["Festergut"] = {
         ["rank_raids"] = 127,
@@ -26413,7 +26413,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Wtshealguide"] = {
-    ["percentile"] = 38.431,
+    ["percentile"] = 38.433,
     ["server"] = "Icecrown",
     ["overall_rank"] = 344,
     ["bosses"] = {
@@ -26430,7 +26430,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 457,
         ["dps_max"] = 17572.73,
-        ["points"] = 8787.010506208213,
+        ["points"] = 8788.167938931298,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1044,
@@ -26505,7 +26505,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1697,
+        ["rank_raids"] = 1698,
         ["dps_max"] = 12599.63,
         ["points"] = 5706.449791051752,
       },
@@ -26624,7 +26624,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 27,
         ["dps_max"] = 12777.22,
-        ["points"] = 9911.504424778761,
+        ["points"] = 9911.534535556311,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -26701,7 +26701,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 134,
         ["dps_max"] = 10947.24,
-        ["points"] = 9547.311095983663,
+        ["points"] = 9547.465124191902,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -26778,7 +26778,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 160,
         ["dps_max"] = 10682.82,
-        ["points"] = 9458.815520762424,
+        ["points"] = 9458.999659748213,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -26815,7 +26815,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 44,
         ["dps_max"] = 20023.42,
-        ["points"] = 9829.161700437027,
+        ["points"] = 9829.22954725973,
       },
       ["Festergut"] = {
         ["rank_raids"] = 186,
@@ -26855,7 +26855,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 132,
         ["dps_max"] = 10967.3,
-        ["points"] = 9554.118447923758,
+        ["points"] = 9554.27015991834,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -26875,7 +26875,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Drdeep"] = {
-    ["percentile"] = 37.907,
+    ["percentile"] = 37.909,
     ["server"] = "Icecrown",
     ["overall_rank"] = 350,
     ["bosses"] = {
@@ -26892,7 +26892,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 593,
         ["dps_max"] = 17028.89,
-        ["points"] = 8481.37535816619,
+        ["points"] = 8482.824427480917,
       },
       ["Festergut"] = {
         ["rank_raids"] = 154,
@@ -26967,7 +26967,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1503,
+        ["rank_raids"] = 1504,
         ["dps_max"] = 13293.61,
         ["points"] = 6020.757594216932,
       },
@@ -27044,7 +27044,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1824,
+        ["rank_raids"] = 1825,
         ["dps_max"] = 12100.08,
         ["points"] = 5480.2005287226275,
       },
@@ -27086,7 +27086,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 164,
         ["dps_max"] = 10641.48,
-        ["points"] = 9445.200816882234,
+        ["points"] = 9445.389588295338,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -27161,9 +27161,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1593,
+        ["rank_raids"] = 1594,
         ["dps_max"] = 6166.67,
-        ["points"] = 4581.347855684138,
+        ["points"] = 4579.789043892481,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -27198,7 +27198,7 @@ UWULogsData[7][1] = {
         ["points"] = 4389.427137732817,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2164,
+        ["rank_raids"] = 2165,
         ["dps_max"] = 10662.43,
         ["points"] = 4829.080016286505,
       },
@@ -27275,7 +27275,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1828,
+        ["rank_raids"] = 1829,
         ["dps_max"] = 12093.5,
         ["points"] = 5477.220406320214,
       },
@@ -27337,7 +27337,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Savious"] = {
-    ["percentile"] = 37.524,
+    ["percentile"] = 37.525,
     ["server"] = "Icecrown",
     ["overall_rank"] = 356,
     ["bosses"] = {
@@ -27354,7 +27354,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 413,
         ["dps_max"] = 17792.08,
-        ["points"] = 8949.379178605539,
+        ["points"] = 8950.381679389313,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1057,
@@ -27414,7 +27414,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Shamilia"] = {
-    ["percentile"] = 37.466,
+    ["percentile"] = 37.467,
     ["server"] = "Icecrown",
     ["overall_rank"] = 357,
     ["bosses"] = {
@@ -27431,7 +27431,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 508,
         ["dps_max"] = 17393.96,
-        ["points"] = 8653.295128939828,
+        ["points"] = 8654.580152671755,
       },
       ["Festergut"] = {
         ["rank_raids"] = 872,
@@ -27814,7 +27814,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2353,
+        ["rank_raids"] = 2354,
         ["dps_max"] = 9461.14,
         ["points"] = 4285.008399144369,
       },
@@ -27891,7 +27891,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1978,
+        ["rank_raids"] = 1979,
         ["dps_max"] = 11484.15,
         ["points"] = 5201.2420497988405,
       },
@@ -27931,9 +27931,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1600,
+        ["rank_raids"] = 1601,
         ["dps_max"] = 6147.74,
-        ["points"] = 4557.522123893805,
+        ["points"] = 4555.971418849949,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -28122,7 +28122,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1619,
+        ["rank_raids"] = 1620,
         ["dps_max"] = 12864.77,
         ["points"] = 5826.533325060248,
       },
@@ -28201,7 +28201,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 234,
         ["dps_max"] = 18626.41,
-        ["points"] = 9312.320916905444,
+        ["points"] = 9312.977099236641,
       },
       ["Festergut"] = {
         ["rank_raids"] = 322,
@@ -28241,7 +28241,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 15,
         ["dps_max"] = 13698.2,
-        ["points"] = 9952.348536419333,
+        ["points"] = 9952.364749914937,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -28338,7 +28338,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Makanix"] = {
-    ["percentile"] = 36.753,
+    ["percentile"] = 36.754,
     ["server"] = "Icecrown",
     ["overall_rank"] = 369,
     ["bosses"] = {
@@ -28355,7 +28355,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 109,
         ["dps_max"] = 19323.18,
-        ["points"] = 9570.917759237187,
+        ["points"] = 9571.088165210484,
       },
       ["Festergut"] = {
         ["rank_raids"] = 94,
@@ -28415,7 +28415,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Amirel"] = {
-    ["percentile"] = 36.738,
+    ["percentile"] = 36.741,
     ["server"] = "Icecrown",
     ["overall_rank"] = 370,
     ["bosses"] = {
@@ -28432,7 +28432,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 878,
         ["dps_max"] = 15700.56,
-        ["points"] = 7497.612225405922,
+        ["points"] = 7500.0,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1258,
@@ -28470,9 +28470,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 549,
+        ["rank_raids"] = 550,
         ["dps_max"] = 8688.49,
-        ["points"] = 8134.785568413887,
+        ["points"] = 8132.017693092889,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -28547,9 +28547,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 905,
+        ["rank_raids"] = 906,
         ["dps_max"] = 7640.71,
-        ["points"] = 6923.076923076923,
+        ["points"] = 6920.721333787003,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -28584,7 +28584,7 @@ UWULogsData[7][1] = {
         ["points"] = 2794.47711324318,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2297,
+        ["rank_raids"] = 2298,
         ["dps_max"] = 9911.06,
         ["points"] = 4488.779929736141,
       },
@@ -28738,7 +28738,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2084,
+        ["rank_raids"] = 2085,
         ["dps_max"] = 11043.86,
         ["points"] = 5001.832005337045,
       },
@@ -28778,9 +28778,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 669,
+        ["rank_raids"] = 670,
         ["dps_max"] = 8305.75,
-        ["points"] = 7726.344452008169,
+        ["points"] = 7723.7155495066345,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -28800,7 +28800,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Pddw"] = {
-    ["percentile"] = 36.509,
+    ["percentile"] = 36.512,
     ["server"] = "Icecrown",
     ["overall_rank"] = 375,
     ["bosses"] = {
@@ -28817,7 +28817,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1044,
         ["dps_max"] = 14941.05,
-        ["points"] = 6781.279847182426,
+        ["points"] = 6784.3511450381675,
       },
       ["Festergut"] = {
         ["rank_raids"] = 577,
@@ -28857,7 +28857,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 60,
         ["dps_max"] = 11934.2,
-        ["points"] = 9799.183117767188,
+        ["points"] = 9799.251446070091,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -28954,7 +28954,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Chipseet"] = {
-    ["percentile"] = 36.43,
+    ["percentile"] = 36.433,
     ["server"] = "Icecrown",
     ["overall_rank"] = 377,
     ["bosses"] = {
@@ -28971,7 +28971,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 913,
         ["dps_max"] = 15548.49,
-        ["points"] = 7306.590257879656,
+        ["points"] = 7309.160305343512,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -29046,7 +29046,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1481,
+        ["rank_raids"] = 1482,
         ["dps_max"] = 13343.77,
         ["points"] = 6043.475366208582,
       },
@@ -29088,7 +29088,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 323,
         ["dps_max"] = 9701.94,
-        ["points"] = 8904.016337644656,
+        ["points"] = 8904.389248043553,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -29200,7 +29200,7 @@ UWULogsData[7][1] = {
         ["points"] = 5581.380526461154,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1943,
+        ["rank_raids"] = 1944,
         ["dps_max"] = 11640.5,
         ["points"] = 5272.053924816674,
       },
@@ -29240,9 +29240,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1218,
+        ["rank_raids"] = 1219,
         ["dps_max"] = 6918.05,
-        ["points"] = 5857.726344452008,
+        ["points"] = 5855.733242599524,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -29339,7 +29339,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Dbulla"] = {
-    ["percentile"] = 36.121,
+    ["percentile"] = 36.124,
     ["server"] = "Icecrown",
     ["overall_rank"] = 382,
     ["bosses"] = {
@@ -29356,7 +29356,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1033,
         ["dps_max"] = 15007.59,
-        ["points"] = 6829.035339063992,
+        ["points"] = 6832.06106870229,
       },
       ["Festergut"] = {
         ["rank_raids"] = 990,
@@ -29416,7 +29416,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Minjjo"] = {
-    ["percentile"] = 36.117,
+    ["percentile"] = 36.119,
     ["server"] = "Icecrown",
     ["overall_rank"] = 383,
     ["bosses"] = {
@@ -29433,7 +29433,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 712,
         ["dps_max"] = 16415.85,
-        ["points"] = 8070.678127984718,
+        ["points"] = 8072.519083969466,
       },
       ["Festergut"] = {
         ["rank_raids"] = 862,
@@ -29508,7 +29508,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1425,
+        ["rank_raids"] = 1426,
         ["dps_max"] = 13540.29,
         ["points"] = 6132.480480877623,
       },
@@ -29550,7 +29550,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 342,
         ["dps_max"] = 9595.84,
-        ["points"] = 8839.34649421375,
+        ["points"] = 8839.741408642396,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -29585,7 +29585,7 @@ UWULogsData[7][1] = {
         ["points"] = 3259.533301599205,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1658,
+        ["rank_raids"] = 1659,
         ["dps_max"] = 12760.29,
         ["points"] = 5779.21369153378,
       },
@@ -29625,9 +29625,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 587,
+        ["rank_raids"] = 588,
         ["dps_max"] = 8564.09,
-        ["points"] = 8005.445881552076,
+        ["points"] = 8002.722014290575,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -29662,7 +29662,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1635,
+        ["rank_raids"] = 1636,
         ["dps_max"] = 12819.15,
         ["points"] = 5805.871746945035,
       },
@@ -29816,7 +29816,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2403,
+        ["rank_raids"] = 2404,
         ["dps_max"] = 8851.05,
         ["points"] = 4008.6948920792597,
       },
@@ -29878,7 +29878,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Nejefis"] = {
-    ["percentile"] = 35.782,
+    ["percentile"] = 35.785,
     ["server"] = "Icecrown",
     ["overall_rank"] = 389,
     ["bosses"] = {
@@ -29895,7 +29895,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1012,
         ["dps_max"] = 15124.79,
-        ["points"] = 6886.341929321872,
+        ["points"] = 6889.312977099236,
       },
       ["Festergut"] = {
         ["rank_raids"] = 334,
@@ -29970,7 +29970,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1580,
+        ["rank_raids"] = 1581,
         ["dps_max"] = 13019.1,
         ["points"] = 5896.4303296749085,
       },
@@ -30012,7 +30012,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 317,
         ["dps_max"] = 9720.05,
-        ["points"] = 8924.438393464941,
+        ["points"] = 8924.804355222865,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -30047,7 +30047,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1618,
+        ["rank_raids"] = 1619,
         ["dps_max"] = 12868.28,
         ["points"] = 5828.123025612295,
       },
@@ -30201,7 +30201,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1686,
+        ["rank_raids"] = 1687,
         ["dps_max"] = 12641.9,
         ["points"] = 5725.594133597347,
       },
@@ -30243,7 +30243,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 475,
         ["dps_max"] = 8952.81,
-        ["points"] = 8386.657590197412,
+        ["points"] = 8387.206532834298,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -30263,7 +30263,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Dagestana"] = {
-    ["percentile"] = 35.556,
+    ["percentile"] = 35.558,
     ["server"] = "Icecrown",
     ["overall_rank"] = 394,
     ["bosses"] = {
@@ -30280,7 +30280,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 753,
         ["dps_max"] = 16248.66,
-        ["points"] = 7936.962750716332,
+        ["points"] = 7938.9312977099235,
       },
       ["Festergut"] = {
         ["rank_raids"] = 535,
@@ -30494,7 +30494,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Lucianee"] = {
-    ["percentile"] = 35.332,
+    ["percentile"] = 35.335,
     ["server"] = "Icecrown",
     ["overall_rank"] = 397,
     ["bosses"] = {
@@ -30511,7 +30511,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 907,
         ["dps_max"] = 15569.33,
-        ["points"] = 7335.243553008596,
+        ["points"] = 7337.786259541986,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -30586,7 +30586,7 @@ UWULogsData[7][1] = {
         ["points"] = 4700.907753022733,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1595,
+        ["rank_raids"] = 1596,
         ["dps_max"] = 12962.08,
         ["points"] = 5870.605621561594,
       },
@@ -30626,9 +30626,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1641,
+        ["rank_raids"] = 1642,
         ["dps_max"] = 6070.31,
-        ["points"] = 4417.971409121851,
+        ["points"] = 4416.468186457979,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -30663,7 +30663,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1917,
+        ["rank_raids"] = 1918,
         ["dps_max"] = 11758.85,
         ["points"] = 5325.6553665075,
       },
@@ -30703,7 +30703,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2396,
+        ["rank_raids"] = 2397,
         ["dps_max"] = 4412.59,
         ["points"] = 2813.2851934002474,
       },
@@ -30725,7 +30725,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Tidebinder"] = {
-    ["percentile"] = 35.266,
+    ["percentile"] = 35.269,
     ["server"] = "Icecrown",
     ["overall_rank"] = 400,
     ["bosses"] = {
@@ -30742,7 +30742,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 974,
         ["dps_max"] = 15301.75,
-        ["points"] = 7029.608404966571,
+        ["points"] = 7032.442748091603,
       },
       ["Festergut"] = {
         ["rank_raids"] = 687,
@@ -30802,7 +30802,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Onespec"] = {
-    ["percentile"] = 35.241,
+    ["percentile"] = 35.242,
     ["server"] = "Icecrown",
     ["overall_rank"] = 401,
     ["bosses"] = {
@@ -30819,7 +30819,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 659,
         ["dps_max"] = 16703.12,
-        ["points"] = 8261.700095510983,
+        ["points"] = 8263.358778625954,
       },
       ["Festergut"] = {
         ["rank_raids"] = 368,
@@ -30859,7 +30859,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 245,
         ["dps_max"] = 10140.5,
-        ["points"] = 9169.503063308373,
+        ["points"] = 9169.785641374618,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -30896,7 +30896,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 86,
         ["dps_max"] = 19511.74,
-        ["points"] = 9662.296384584823,
+        ["points"] = 9662.43050039714,
       },
       ["Festergut"] = {
         ["rank_raids"] = 487,
@@ -30973,7 +30973,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 28,
         ["dps_max"] = 20429.95,
-        ["points"] = 9892.729439809296,
+        ["points"] = 9892.772041302622,
       },
       ["Festergut"] = {
         ["rank_raids"] = 242,
@@ -31125,7 +31125,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1829,
+        ["rank_raids"] = 1830,
         ["dps_max"] = 12085.59,
         ["points"] = 5473.637918751356,
       },
@@ -31202,7 +31202,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1657,
+        ["rank_raids"] = 1658,
         ["dps_max"] = 12761.35,
         ["points"] = 5779.693772042376,
       },
@@ -31242,9 +31242,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1875,
+        ["rank_raids"] = 1876,
         ["dps_max"] = 5609.67,
-        ["points"] = 3621.5112321307015,
+        ["points"] = 3620.279006464784,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -31341,7 +31341,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Fakeindian"] = {
-    ["percentile"] = 34.86,
+    ["percentile"] = 34.862,
     ["server"] = "Icecrown",
     ["overall_rank"] = 408,
     ["bosses"] = {
@@ -31358,7 +31358,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 843,
         ["dps_max"] = 15826.78,
-        ["points"] = 7659.980897803247,
+        ["points"] = 7662.213740458014,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1018,
@@ -31473,9 +31473,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 758,
+        ["rank_raids"] = 759,
         ["dps_max"] = 8041.42,
-        ["points"] = 7423.417290673929,
+        ["points"] = 7420.891459680163,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -31510,7 +31510,7 @@ UWULogsData[7][1] = {
         ["points"] = 4549.588786560042,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2003,
+        ["rank_raids"] = 2004,
         ["dps_max"] = 11380.51,
         ["points"] = 5154.302857430129,
       },
@@ -31587,7 +31587,7 @@ UWULogsData[7][1] = {
         ["points"] = 3762.7163801503607,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1973,
+        ["rank_raids"] = 1974,
         ["dps_max"] = 11506.03,
         ["points"] = 5211.151636146076,
       },
@@ -31741,7 +31741,7 @@ UWULogsData[7][1] = {
         ["points"] = 5272.592909891345,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1652,
+        ["rank_raids"] = 1653,
         ["dps_max"] = 12767.84,
         ["points"] = 5782.633132892172,
       },
@@ -31818,7 +31818,7 @@ UWULogsData[7][1] = {
         ["points"] = 4131.944304881908,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2303,
+        ["rank_raids"] = 2304,
         ["dps_max"] = 9894.13,
         ["points"] = 4481.112228782818,
       },
@@ -31895,7 +31895,7 @@ UWULogsData[7][1] = {
         ["points"] = 1967.3647600733368,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2273,
+        ["rank_raids"] = 2274,
         ["dps_max"] = 10142.79,
         ["points"] = 4593.731869601076,
       },
@@ -31972,7 +31972,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1882,
+        ["rank_raids"] = 1883,
         ["dps_max"] = 11927.94,
         ["points"] = 5402.237265751283,
       },
@@ -32049,7 +32049,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1598,
+        ["rank_raids"] = 1599,
         ["dps_max"] = 12943.02,
         ["points"] = 5861.9732305296775,
       },
@@ -32111,7 +32111,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Hatfu"] = {
-    ["percentile"] = 34.428,
+    ["percentile"] = 34.43,
     ["server"] = "Icecrown",
     ["overall_rank"] = 418,
     ["bosses"] = {
@@ -32128,7 +32128,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 884,
         ["dps_max"] = 15667.55,
-        ["points"] = 7459.4078319006685,
+        ["points"] = 7461.832061068702,
       },
       ["Festergut"] = {
         ["rank_raids"] = 434,
@@ -32203,7 +32203,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1440,
+        ["rank_raids"] = 1441,
         ["dps_max"] = 13492.15,
         ["points"] = 6110.677579289146,
       },
@@ -32243,9 +32243,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 658,
+        ["rank_raids"] = 659,
         ["dps_max"] = 8338.2,
-        ["points"] = 7763.784887678693,
+        ["points"] = 7761.143246002041,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -32280,7 +32280,7 @@ UWULogsData[7][1] = {
         ["points"] = 2839.6551813237957,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1878,
+        ["rank_raids"] = 1879,
         ["dps_max"] = 11934.61,
         ["points"] = 5405.258149706314,
       },
@@ -32397,9 +32397,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1377,
+        ["rank_raids"] = 1378,
         ["dps_max"] = 6603.91,
-        ["points"] = 5316.541865214432,
+        ["points"] = 5314.732902347738,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -32511,7 +32511,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1791,
+        ["rank_raids"] = 1792,
         ["dps_max"] = 12248.03,
         ["points"] = 5547.207992162913,
       },
@@ -32650,7 +32650,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Ketsuru"] = {
-    ["percentile"] = 34.24,
+    ["percentile"] = 34.243,
     ["server"] = "Icecrown",
     ["overall_rank"] = 425,
     ["bosses"] = {
@@ -32667,7 +32667,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 987,
         ["dps_max"] = 15245.73,
-        ["points"] = 7000.955109837631,
+        ["points"] = 7003.816793893129,
       },
       ["Festergut"] = {
         ["rank_raids"] = 532,
@@ -32742,7 +32742,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1631,
+        ["rank_raids"] = 1632,
         ["dps_max"] = 12828.84,
         ["points"] = 5810.260407443422,
       },
@@ -32819,7 +32819,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1522,
+        ["rank_raids"] = 1523,
         ["dps_max"] = 13235.64,
         ["points"] = 5994.502625270441,
       },
@@ -32973,7 +32973,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1428,
+        ["rank_raids"] = 1429,
         ["dps_max"] = 13535.02,
         ["points"] = 6130.093665518851,
       },
@@ -33013,9 +33013,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 548,
+        ["rank_raids"] = 549,
         ["dps_max"] = 8690.87,
-        ["points"] = 8138.189244383934,
+        ["points"] = 8135.420210956108,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -33050,7 +33050,7 @@ UWULogsData[7][1] = {
         ["points"] = 3731.5832478253606,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2302,
+        ["rank_raids"] = 2303,
         ["dps_max"] = 9897.66,
         ["points"] = 4482.71098745767,
       },
@@ -33112,7 +33112,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Iluminatsham"] = {
-    ["percentile"] = 34.118,
+    ["percentile"] = 34.12,
     ["server"] = "Icecrown",
     ["overall_rank"] = 431,
     ["bosses"] = {
@@ -33129,7 +33129,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 451,
         ["dps_max"] = 17624.38,
-        ["points"] = 8806.112702960841,
+        ["points"] = 8807.251908396947,
       },
       ["Festergut"] = {
         ["rank_raids"] = 47,
@@ -33281,7 +33281,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1487,
+        ["rank_raids"] = 1488,
         ["dps_max"] = 13333.81,
         ["points"] = 6038.964421052346,
       },
@@ -33435,7 +33435,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1465,
+        ["rank_raids"] = 1466,
         ["dps_max"] = 13409.23,
         ["points"] = 6073.122602145054,
       },
@@ -33512,7 +33512,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1771,
+        ["rank_raids"] = 1772,
         ["dps_max"] = 12329.28,
         ["points"] = 5584.006616052896,
       },
@@ -33574,7 +33574,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Piivecko"] = {
-    ["percentile"] = 33.897,
+    ["percentile"] = 33.898,
     ["server"] = "Icecrown",
     ["overall_rank"] = 437,
     ["bosses"] = {
@@ -33591,7 +33591,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 275,
         ["dps_max"] = 18440.13,
-        ["points"] = 9188.156638013372,
+        ["points"] = 9188.931297709923,
       },
       ["Festergut"] = {
         ["rank_raids"] = 330,
@@ -33666,7 +33666,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1528,
+        ["rank_raids"] = 1529,
         ["dps_max"] = 13210.66,
         ["points"] = 5983.189029888635,
       },
@@ -33706,9 +33706,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 815,
+        ["rank_raids"] = 816,
         ["dps_max"] = 7868.66,
-        ["points"] = 7229.407760381211,
+        ["points"] = 7226.947941476692,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -33743,7 +33743,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1870,
+        ["rank_raids"] = 1871,
         ["dps_max"] = 11954.93,
         ["points"] = 5414.46120247486,
       },
@@ -34128,7 +34128,7 @@ UWULogsData[7][1] = {
         ["points"] = 4893.092544412946,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1707,
+        ["rank_raids"] = 1708,
         ["dps_max"] = 12561.39,
         ["points"] = 5689.1306602510995,
       },
@@ -34205,7 +34205,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1438,
+        ["rank_raids"] = 1439,
         ["dps_max"] = 13497.95,
         ["points"] = 6113.304434902216,
       },
@@ -34282,7 +34282,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1567,
+        ["rank_raids"] = 1568,
         ["dps_max"] = 13075.85,
         ["points"] = 5922.132753130373,
       },
@@ -34359,7 +34359,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2161,
+        ["rank_raids"] = 2162,
         ["dps_max"] = 10668.46,
         ["points"] = 4831.811040311816,
       },
@@ -34436,7 +34436,7 @@ UWULogsData[7][1] = {
         ["points"] = 5346.561373670512,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1665,
+        ["rank_raids"] = 1666,
         ["dps_max"] = 12725.18,
         ["points"] = 5763.312156951905,
       },
@@ -34590,7 +34590,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1520,
+        ["rank_raids"] = 1521,
         ["dps_max"] = 13245.77,
         ["points"] = 5999.09056447051,
       },
@@ -34630,9 +34630,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 560,
+        ["rank_raids"] = 561,
         ["dps_max"] = 8644.58,
-        ["points"] = 8097.345132743363,
+        ["points"] = 8094.589996597482,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -34667,7 +34667,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1745,
+        ["rank_raids"] = 1746,
         ["dps_max"] = 12420.24,
         ["points"] = 5625.202958564069,
       },
@@ -34707,9 +34707,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 847,
+        ["rank_raids"] = 848,
         ["dps_max"] = 7777.71,
-        ["points"] = 7120.490129339687,
+        ["points"] = 7118.067369853692,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -34744,7 +34744,7 @@ UWULogsData[7][1] = {
         ["points"] = 3299.842152377792,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2238,
+        ["rank_raids"] = 2239,
         ["dps_max"] = 10337.39,
         ["points"] = 4681.867404480962,
       },
@@ -34821,7 +34821,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1737,
+        ["rank_raids"] = 1738,
         ["dps_max"] = 12460.96,
         ["points"] = 5643.645296592379,
       },
@@ -34898,7 +34898,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1758,
+        ["rank_raids"] = 1759,
         ["dps_max"] = 12379.95,
         ["points"] = 5606.95537017604,
       },
@@ -35052,7 +35052,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1417,
+        ["rank_raids"] = 1418,
         ["dps_max"] = 13558.56,
         ["points"] = 6140.755076058793,
       },
@@ -35092,7 +35092,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2088,
+        ["rank_raids"] = 2089,
         ["dps_max"] = 5162.36,
         ["points"] = 3291.3075882875364,
       },
@@ -35129,7 +35129,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1650,
+        ["rank_raids"] = 1651,
         ["dps_max"] = 12772.63,
         ["points"] = 5784.802553303655,
       },
@@ -35206,7 +35206,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1478,
+        ["rank_raids"] = 1479,
         ["dps_max"] = 13354.95,
         ["points"] = 6048.538856855844,
       },
@@ -35437,7 +35437,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2068,
+        ["rank_raids"] = 2069,
         ["dps_max"] = 11107.48,
         ["points"] = 5030.6458939755785,
       },
@@ -35479,7 +35479,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 185,
         ["dps_max"] = 10475.63,
-        ["points"] = 9373.723621511232,
+        ["points"] = 9373.936713167745,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -35668,7 +35668,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1497,
+        ["rank_raids"] = 1498,
         ["dps_max"] = 13314.24,
         ["points"] = 6030.101047888936,
       },
@@ -35710,7 +35710,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 161,
         ["dps_max"] = 10680.66,
-        ["points"] = 9455.411844792376,
+        ["points"] = 9455.597141884995,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -35976,7 +35976,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1410,
+        ["rank_raids"] = 1411,
         ["dps_max"] = 13576.41,
         ["points"] = 6148.839450661085,
       },
@@ -36053,7 +36053,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1634,
+        ["rank_raids"] = 1635,
         ["dps_max"] = 12821.56,
         ["points"] = 5806.96325074288,
       },
@@ -36130,7 +36130,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1854,
+        ["rank_raids"] = 1855,
         ["dps_max"] = 12011.35,
         ["points"] = 5440.014166904065,
       },
@@ -36207,7 +36207,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1682,
+        ["rank_raids"] = 1683,
         ["dps_max"] = 12657.0,
         ["points"] = 5732.433016314131,
       },
@@ -36284,7 +36284,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1666,
+        ["rank_raids"] = 1667,
         ["dps_max"] = 12723.59,
         ["points"] = 5762.592036189011,
       },
@@ -36326,7 +36326,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 252,
         ["dps_max"] = 10080.29,
-        ["points"] = 9145.67733151804,
+        ["points"] = 9145.968016332086,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -36361,7 +36361,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2082,
+        ["rank_raids"] = 2083,
         ["dps_max"] = 11048.39,
         ["points"] = 5003.88367015208,
       },
@@ -36438,7 +36438,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1605,
+        ["rank_raids"] = 1606,
         ["dps_max"] = 12916.56,
         ["points"] = 5849.9893340603985,
       },
@@ -36480,7 +36480,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 373,
         ["dps_max"] = 9442.55,
-        ["points"] = 8733.832539142273,
+        ["points"] = 8734.263354882612,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -36515,7 +36515,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1974,
+        ["rank_raids"] = 1975,
         ["dps_max"] = 11503.49,
         ["points"] = 5210.0012545500085,
       },
@@ -36555,7 +36555,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2254,
+        ["rank_raids"] = 2255,
         ["dps_max"] = 4773.02,
         ["points"] = 3043.080479673672,
       },
@@ -36592,7 +36592,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1717,
+        ["rank_raids"] = 1718,
         ["dps_max"] = 12512.38,
         ["points"] = 5666.933730320661,
       },
@@ -36669,7 +36669,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1641,
+        ["rank_raids"] = 1642,
         ["dps_max"] = 12811.51,
         ["points"] = 5802.4115440340265,
       },
@@ -36709,9 +36709,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1664,
+        ["rank_raids"] = 1665,
         ["dps_max"] = 6025.03,
-        ["points"] = 4339.6868618107555,
+        ["points"] = 4338.210275603947,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -36746,7 +36746,7 @@ UWULogsData[7][1] = {
         ["points"] = 4421.203374229783,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2311,
+        ["rank_raids"] = 2312,
         ["dps_max"] = 9837.15,
         ["points"] = 4455.305636915111,
       },
@@ -36977,7 +36977,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1932,
+        ["rank_raids"] = 1933,
         ["dps_max"] = 11674.82,
         ["points"] = 5287.597663547804,
       },
@@ -37054,7 +37054,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1958,
+        ["rank_raids"] = 1959,
         ["dps_max"] = 11559.75,
         ["points"] = 5235.4817539967835,
       },
@@ -37131,7 +37131,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1563,
+        ["rank_raids"] = 1564,
         ["dps_max"] = 13088.78,
         ["points"] = 5927.988829522958,
       },
@@ -37208,7 +37208,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2020,
+        ["rank_raids"] = 2021,
         ["dps_max"] = 11288.11,
         ["points"] = 5112.45433007709,
       },
@@ -37285,7 +37285,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1751,
+        ["rank_raids"] = 1752,
         ["dps_max"] = 12399.41,
         ["points"] = 5615.768923664028,
       },
@@ -37327,7 +37327,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 183,
         ["dps_max"] = 10478.72,
-        ["points"] = 9380.530973451328,
+        ["points"] = 9380.741748894181,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -37362,7 +37362,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1416,
+        ["rank_raids"] = 1417,
         ["dps_max"] = 13560.05,
         ["points"] = 6141.429906207667,
       },
@@ -37402,9 +37402,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 724,
+        ["rank_raids"] = 725,
         ["dps_max"] = 8126.62,
-        ["points"] = 7539.142273655548,
+        ["points"] = 7536.5770670296015,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -37439,7 +37439,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1788,
+        ["rank_raids"] = 1789,
         ["dps_max"] = 12258.19,
         ["points"] = 5551.809518547186,
       },
@@ -37479,7 +37479,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1948,
+        ["rank_raids"] = 1949,
         ["dps_max"] = 5468.74,
         ["points"] = 3486.6428262212594,
       },
@@ -37516,7 +37516,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1664,
+        ["rank_raids"] = 1665,
         ["dps_max"] = 12729.17,
         ["points"] = 5765.119252451241,
       },
@@ -37593,7 +37593,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1529,
+        ["rank_raids"] = 1530,
         ["dps_max"] = 13202.23,
         ["points"] = 5979.37103112688,
       },
@@ -37635,7 +37635,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 385,
         ["dps_max"] = 9389.17,
-        ["points"] = 8692.988427501703,
+        ["points"] = 8693.433140523988,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -37670,7 +37670,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1429,
+        ["rank_raids"] = 1430,
         ["dps_max"] = 13528.18,
         ["points"] = 6126.99578751999,
       },
@@ -37710,9 +37710,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 713,
+        ["rank_raids"] = 714,
         ["dps_max"] = 8169.66,
-        ["points"] = 7576.582709326071,
+        ["points"] = 7574.0047635250085,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -37732,7 +37732,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Watertroll"] = {
-    ["percentile"] = 30.989,
+    ["percentile"] = 30.991,
     ["server"] = "Icecrown",
     ["overall_rank"] = 491,
     ["bosses"] = {
@@ -37749,7 +37749,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 668,
         ["dps_max"] = 16664.8,
-        ["points"] = 8242.597898758357,
+        ["points"] = 8244.274809160306,
       },
       ["Festergut"] = {
         ["rank_raids"] = 201,
@@ -37824,7 +37824,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1482,
+        ["rank_raids"] = 1483,
         ["dps_max"] = 13340.98,
         ["points"] = 6042.211758077467,
       },
@@ -37866,7 +37866,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 243,
         ["dps_max"] = 10150.58,
-        ["points"] = 9176.310415248468,
+        ["points"] = 9176.590677101056,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -37886,7 +37886,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Shambulator"] = {
-    ["percentile"] = 30.95,
+    ["percentile"] = 30.953,
     ["server"] = "Icecrown",
     ["overall_rank"] = 493,
     ["bosses"] = {
@@ -37903,7 +37903,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1024,
         ["dps_max"] = 15056.25,
-        ["points"] = 6848.137535816619,
+        ["points"] = 6851.145038167939,
       },
       ["Festergut"] = {
         ["rank_raids"] = 796,
@@ -37963,7 +37963,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Mazga"] = {
-    ["percentile"] = 30.933,
+    ["percentile"] = 30.934,
     ["server"] = "Icecrown",
     ["overall_rank"] = 494,
     ["bosses"] = {
@@ -37980,7 +37980,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 366,
         ["dps_max"] = 17989.73,
-        ["points"] = 9054.441260744985,
+        ["points"] = 9055.343511450383,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1005,
@@ -38055,7 +38055,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1905,
+        ["rank_raids"] = 1906,
         ["dps_max"] = 11814.4,
         ["points"] = 5350.814302594744,
       },
@@ -38097,7 +38097,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 135,
         ["dps_max"] = 10925.71,
-        ["points"] = 9543.907420013615,
+        ["points"] = 9544.062606328684,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -38132,7 +38132,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1621,
+        ["rank_raids"] = 1622,
         ["dps_max"] = 12859.64,
         ["points"] = 5824.209916561102,
       },
@@ -38209,7 +38209,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1648,
+        ["rank_raids"] = 1649,
         ["dps_max"] = 12783.45,
         ["points"] = 5789.702997740451,
       },
@@ -38363,7 +38363,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1539,
+        ["rank_raids"] = 1540,
         ["dps_max"] = 13145.8,
         ["points"] = 5953.813537636273,
       },
@@ -38440,7 +38440,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1744,
+        ["rank_raids"] = 1745,
         ["dps_max"] = 12428.01,
         ["points"] = 5628.7220392733025,
       },
@@ -38480,9 +38480,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 889,
+        ["rank_raids"] = 890,
         ["dps_max"] = 7685.89,
-        ["points"] = 6977.535738597686,
+        ["points"] = 6975.161619598503,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -38517,7 +38517,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1677,
+        ["rank_raids"] = 1678,
         ["dps_max"] = 12674.88,
         ["points"] = 5740.530978100629,
       },
@@ -38594,7 +38594,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1486,
+        ["rank_raids"] = 1487,
         ["dps_max"] = 13334.74,
         ["points"] = 6039.385623762716,
       },
@@ -38671,7 +38671,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1972,
+        ["rank_raids"] = 1973,
         ["dps_max"] = 11507.42,
         ["points"] = 5211.781175680933,
       },
@@ -38711,9 +38711,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 617,
+        ["rank_raids"] = 618,
         ["dps_max"] = 8482.9,
-        ["points"] = 7903.335602450647,
+        ["points"] = 7900.646478394011,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -38748,7 +38748,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1918,
+        ["rank_raids"] = 1919,
         ["dps_max"] = 11758.09,
         ["points"] = 5325.31115784096,
       },
@@ -38788,9 +38788,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1458,
+        ["rank_raids"] = 1459,
         ["dps_max"] = 6463.74,
-        ["points"] = 5040.844111640572,
+        ["points"] = 5039.128955427016,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -38825,7 +38825,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1772,
+        ["rank_raids"] = 1773,
         ["dps_max"] = 12328.02,
         ["points"] = 5583.435954316264,
       },
@@ -38867,7 +38867,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 208,
         ["dps_max"] = 10331.34,
-        ["points"] = 9295.439074200136,
+        ["points"] = 9295.678802313712,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -38902,7 +38902,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1853,
+        ["rank_raids"] = 1854,
         ["dps_max"] = 12015.23,
         ["points"] = 5441.77144272798,
       },
@@ -38979,7 +38979,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1892,
+        ["rank_raids"] = 1893,
         ["dps_max"] = 11899.29,
         ["points"] = 5389.261504835,
       },
@@ -39056,7 +39056,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1927,
+        ["rank_raids"] = 1928,
         ["dps_max"] = 11692.48,
         ["points"] = 5295.59598598346,
       },
@@ -39098,7 +39098,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 70,
         ["dps_max"] = 11689.16,
-        ["points"] = 9765.146358066711,
+        ["points"] = 9765.226267437904,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -39133,7 +39133,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1929,
+        ["rank_raids"] = 1930,
         ["dps_max"] = 11683.08,
         ["points"] = 5291.338668265727,
       },
@@ -39195,7 +39195,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Saisir"] = {
-    ["percentile"] = 30.313,
+    ["percentile"] = 30.316,
     ["server"] = "Icecrown",
     ["overall_rank"] = 510,
     ["bosses"] = {
@@ -39212,7 +39212,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 967,
         ["dps_max"] = 15341.36,
-        ["points"] = 7067.812798471824,
+        ["points"] = 7070.610687022901,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1188,
@@ -39272,7 +39272,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Crazydiomond"] = {
-    ["percentile"] = 30.308,
+    ["percentile"] = 30.311,
     ["server"] = "Icecrown",
     ["overall_rank"] = 511,
     ["bosses"] = {
@@ -39289,7 +39289,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 912,
         ["dps_max"] = 15550.3,
-        ["points"] = 7316.141356255969,
+        ["points"] = 7318.702290076336,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1482,
@@ -39327,9 +39327,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 880,
+        ["rank_raids"] = 881,
         ["dps_max"] = 7714.03,
-        ["points"] = 7008.168822328114,
+        ["points"] = 7005.784280367472,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -39441,7 +39441,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1784,
+        ["rank_raids"] = 1785,
         ["dps_max"] = 12286.5,
         ["points"] = 5564.6312913758065,
       },
@@ -39483,7 +39483,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 265,
         ["dps_max"] = 10017.01,
-        ["points"] = 9101.42954390742,
+        ["points"] = 9101.735284110242,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -39518,7 +39518,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1560,
+        ["rank_raids"] = 1561,
         ["dps_max"] = 13096.97,
         ["points"] = 5931.698130811068,
       },
@@ -39558,9 +39558,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 955,
+        ["rank_raids"] = 956,
         ["dps_max"] = 7538.12,
-        ["points"] = 6752.893124574541,
+        ["points"] = 6750.5954406260635,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -39595,7 +39595,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1470,
+        ["rank_raids"] = 1471,
         ["dps_max"] = 13389.43,
         ["points"] = 6064.155060569403,
       },
@@ -39635,7 +39635,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2027,
+        ["rank_raids"] = 2028,
         ["dps_max"] = 5298.04,
         ["points"] = 3377.811554221499,
       },
@@ -39672,7 +39672,7 @@ UWULogsData[7][1] = {
         ["points"] = 4325.679436686682,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2046,
+        ["rank_raids"] = 2047,
         ["dps_max"] = 11202.86,
         ["points"] = 5073.844081626367,
       },
@@ -39712,9 +39712,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1053,
+        ["rank_raids"] = 1054,
         ["dps_max"] = 7304.46,
-        ["points"] = 6419.3328795098705,
+        ["points"] = 6417.148690030623,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -39789,9 +39789,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 534,
+        ["rank_raids"] = 535,
         ["dps_max"] = 8718.51,
-        ["points"] = 8185.840707964602,
+        ["points"] = 8183.055461041171,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -39826,7 +39826,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1912,
+        ["rank_raids"] = 1913,
         ["dps_max"] = 11786.68,
         ["points"] = 5338.259744388833,
       },
@@ -39945,7 +39945,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 369,
         ["dps_max"] = 9466.89,
-        ["points"] = 8747.447243022465,
+        ["points"] = 8747.873426335489,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -39980,7 +39980,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2075,
+        ["rank_raids"] = 2076,
         ["dps_max"] = 11074.94,
         ["points"] = 5015.908328173978,
       },
@@ -40057,7 +40057,7 @@ UWULogsData[7][1] = {
         ["points"] = 3559.8284978981405,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2200,
+        ["rank_raids"] = 2201,
         ["dps_max"] = 10497.61,
         ["points"] = 4754.43202626131,
       },
@@ -40211,7 +40211,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1626,
+        ["rank_raids"] = 1627,
         ["dps_max"] = 12839.07,
         ["points"] = 5814.893637257508,
       },
@@ -40251,9 +40251,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1793,
+        ["rank_raids"] = 1794,
         ["dps_max"] = 5772.79,
-        ["points"] = 3900.6126616746083,
+        ["points"] = 3899.285471248724,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -40288,7 +40288,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2072,
+        ["rank_raids"] = 2073,
         ["dps_max"] = 11091.07,
         ["points"] = 5023.213704215152,
       },
@@ -40330,7 +40330,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 141,
         ["dps_max"] = 10856.45,
-        ["points"] = 9523.48536419333,
+        ["points"] = 9523.64749914937,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -40365,7 +40365,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1876,
+        ["rank_raids"] = 1877,
         ["dps_max"] = 11938.39,
         ["points"] = 5406.970134916209,
       },
@@ -40442,7 +40442,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1735,
+        ["rank_raids"] = 1736,
         ["dps_max"] = 12468.71,
         ["points"] = 5647.155319178808,
       },
@@ -40484,7 +40484,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 167,
         ["dps_max"] = 10616.05,
-        ["points"] = 9434.98978897209,
+        ["points"] = 9435.182034705682,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -40504,7 +40504,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Tracktor"] = {
-    ["percentile"] = 29.572,
+    ["percentile"] = 29.573,
     ["server"] = "Icecrown",
     ["overall_rank"] = 527,
     ["bosses"] = {
@@ -40521,7 +40521,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 388,
         ["dps_max"] = 17911.23,
-        ["points"] = 8997.134670487107,
+        ["points"] = 8998.091603053435,
       },
       ["Festergut"] = {
         ["rank_raids"] = 62,
@@ -40581,7 +40581,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Swaattele"] = {
-    ["percentile"] = 29.483,
+    ["percentile"] = 29.484,
     ["server"] = "Icecrown",
     ["overall_rank"] = 528,
     ["bosses"] = {
@@ -40598,7 +40598,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 556,
         ["dps_max"] = 17184.63,
-        ["points"] = 8557.784145176696,
+        ["points"] = 8559.160305343512,
       },
       ["Festergut"] = {
         ["rank_raids"] = 714,
@@ -40675,7 +40675,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 31,
         ["dps_max"] = 20300.36,
-        ["points"] = 9880.810488676996,
+        ["points"] = 9880.85782366958,
       },
       ["Festergut"] = {
         ["rank_raids"] = 15,
@@ -40750,7 +40750,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1940,
+        ["rank_raids"] = 1941,
         ["dps_max"] = 11651.5,
         ["points"] = 5277.035892358704,
       },
@@ -40827,7 +40827,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1469,
+        ["rank_raids"] = 1470,
         ["dps_max"] = 13399.35,
         ["points"] = 6068.647889480032,
       },
@@ -40904,7 +40904,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2009,
+        ["rank_raids"] = 2010,
         ["dps_max"] = 11342.18,
         ["points"] = 5136.942965076861,
       },
@@ -40981,7 +40981,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1967,
+        ["rank_raids"] = 1968,
         ["dps_max"] = 11513.58,
         ["points"] = 5214.571077504468,
       },
@@ -41023,7 +41023,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 246,
         ["dps_max"] = 10140.43,
-        ["points"] = 9166.099387338325,
+        ["points"] = 9166.383123511398,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -41058,7 +41058,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1607,
+        ["rank_raids"] = 1608,
         ["dps_max"] = 12910.68,
         ["points"] = 5847.326245956114,
       },
@@ -41100,7 +41100,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 421,
         ["dps_max"] = 9191.76,
-        ["points"] = 8570.456092579987,
+        ["points"] = 8570.942497448112,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -41135,7 +41135,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1770,
+        ["rank_raids"] = 1771,
         ["dps_max"] = 12332.25,
         ["points"] = 5585.351747289244,
       },
@@ -41175,9 +41175,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1190,
+        ["rank_raids"] = 1191,
         ["dps_max"] = 7005.7,
-        ["points"] = 5953.029271613343,
+        ["points"] = 5951.00374276965,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -41197,7 +41197,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Bulbaism"] = {
-    ["percentile"] = 28.997,
+    ["percentile"] = 29.0,
     ["server"] = "Icecrown",
     ["overall_rank"] = 536,
     ["bosses"] = {
@@ -41214,7 +41214,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1039,
         ["dps_max"] = 14991.51,
-        ["points"] = 6809.933142311366,
+        ["points"] = 6812.977099236641,
       },
       ["Festergut"] = {
         ["rank_raids"] = 470,
@@ -41289,7 +41289,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1864,
+        ["rank_raids"] = 1865,
         ["dps_max"] = 11975.81,
         ["points"] = 5423.91788268191,
       },
@@ -41331,7 +41331,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 255,
         ["dps_max"] = 10058.15,
-        ["points"] = 9135.466303607896,
+        ["points"] = 9135.76046274243,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -41366,7 +41366,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1452,
+        ["rank_raids"] = 1453,
         ["dps_max"] = 13467.11,
         ["points"] = 6099.336809538928,
       },
@@ -41408,7 +41408,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 111,
         ["dps_max"] = 11199.22,
-        ["points"] = 9625.595643294759,
+        ["points"] = 9625.723035045934,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -41520,7 +41520,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1716,
+        ["rank_raids"] = 1717,
         ["dps_max"] = 12514.59,
         ["points"] = 5667.93465289047,
       },
@@ -41597,7 +41597,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1577,
+        ["rank_raids"] = 1578,
         ["dps_max"] = 13034.61,
         ["points"] = 5903.454903909169,
       },
@@ -41674,7 +41674,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1865,
+        ["rank_raids"] = 1866,
         ["dps_max"] = 11968.6,
         ["points"] = 5420.652429411181,
       },
@@ -41716,7 +41716,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 195,
         ["dps_max"] = 10399.88,
-        ["points"] = 9339.686861810755,
+        ["points"] = 9339.911534535557,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -41751,7 +41751,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2130,
+        ["rank_raids"] = 2131,
         ["dps_max"] = 10852.46,
         ["points"] = 4915.145770105748,
       },
@@ -41828,7 +41828,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1839,
+        ["rank_raids"] = 1840,
         ["dps_max"] = 12059.75,
         ["points"] = 5461.934824088991,
       },
@@ -41870,7 +41870,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 251,
         ["dps_max"] = 10089.24,
-        ["points"] = 9149.081007488086,
+        ["points"] = 9149.370534195305,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -41982,7 +41982,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1690,
+        ["rank_raids"] = 1691,
         ["dps_max"] = 12625.66,
         ["points"] = 5718.238937880752,
       },
@@ -42059,7 +42059,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1957,
+        ["rank_raids"] = 1958,
         ["dps_max"] = 11563.01,
         ["points"] = 5236.958228013785,
       },
@@ -42213,7 +42213,7 @@ UWULogsData[7][1] = {
         ["points"] = 3842.851753578559,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2382,
+        ["rank_raids"] = 2383,
         ["dps_max"] = 9176.54,
         ["points"] = 4156.1113116478855,
       },
@@ -42275,7 +42275,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Skur"] = {
-    ["percentile"] = 28.557,
+    ["percentile"] = 28.559,
     ["server"] = "Icecrown",
     ["overall_rank"] = 550,
     ["bosses"] = {
@@ -42292,7 +42292,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 751,
         ["dps_max"] = 16272.29,
-        ["points"] = 7946.513849092646,
+        ["points"] = 7948.473282442748,
       },
       ["Festergut"] = {
         ["rank_raids"] = 523,
@@ -42352,7 +42352,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Blmachine"] = {
-    ["percentile"] = 28.521,
+    ["percentile"] = 28.522,
     ["server"] = "Icecrown",
     ["overall_rank"] = 551,
     ["bosses"] = {
@@ -42369,7 +42369,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 272,
         ["dps_max"] = 18444.66,
-        ["points"] = 9197.707736389686,
+        ["points"] = 9198.473282442748,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1984,
@@ -42409,7 +42409,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 275,
         ["dps_max"] = 9971.5,
-        ["points"] = 9067.392784206944,
+        ["points"] = 9067.710105478054,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -42444,7 +42444,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1461,
+        ["rank_raids"] = 1462,
         ["dps_max"] = 13422.24,
         ["points"] = 6079.014911028853,
       },
@@ -42521,7 +42521,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2087,
+        ["rank_raids"] = 2088,
         ["dps_max"] = 11030.14,
         ["points"] = 4995.618133093715,
       },
@@ -42598,7 +42598,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2016,
+        ["rank_raids"] = 2017,
         ["dps_max"] = 11309.58,
         ["points"] = 5122.178224906848,
       },
@@ -42675,7 +42675,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2117,
+        ["rank_raids"] = 2118,
         ["dps_max"] = 10913.1,
         ["points"] = 4942.609998446532,
       },
@@ -42752,7 +42752,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1748,
+        ["rank_raids"] = 1749,
         ["dps_max"] = 12412.8,
         ["points"] = 5621.833336881098,
       },
@@ -42829,7 +42829,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2143,
+        ["rank_raids"] = 2144,
         ["dps_max"] = 10791.72,
         ["points"] = 4887.636251150948,
       },
@@ -42906,7 +42906,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1746,
+        ["rank_raids"] = 1747,
         ["dps_max"] = 12415.55,
         ["points"] = 5623.078828766605,
       },
@@ -42983,7 +42983,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1483,
+        ["rank_raids"] = 1484,
         ["dps_max"] = 13340.04,
         ["points"] = 6041.786026305695,
       },
@@ -43060,7 +43060,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1457,
+        ["rank_raids"] = 1458,
         ["dps_max"] = 13442.57,
         ["points"] = 6088.222492858802,
       },
@@ -43179,7 +43179,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 440,
         ["dps_max"] = 9104.8,
-        ["points"] = 8505.786249149081,
+        ["points"] = 8506.294658046954,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -43214,7 +43214,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2134,
+        ["rank_raids"] = 2135,
         ["dps_max"] = 10825.75,
         ["points"] = 4903.048647101423,
       },
@@ -43254,9 +43254,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 918,
+        ["rank_raids"] = 919,
         ["dps_max"] = 7611.61,
-        ["points"] = 6878.829135466303,
+        ["points"] = 6876.488601565158,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -43276,7 +43276,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Onlybl"] = {
-    ["percentile"] = 28.059,
+    ["percentile"] = 28.06,
     ["server"] = "Icecrown",
     ["overall_rank"] = 563,
     ["bosses"] = {
@@ -43293,7 +43293,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 335,
         ["dps_max"] = 18202.9,
-        ["points"] = 9102.196752626553,
+        ["points"] = 9103.053435114503,
       },
       ["Festergut"] = {
         ["rank_raids"] = 38,
@@ -43368,7 +43368,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1794,
+        ["rank_raids"] = 1795,
         ["dps_max"] = 12235.6,
         ["points"] = 5541.57836884042,
       },
@@ -43445,7 +43445,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1534,
+        ["rank_raids"] = 1535,
         ["dps_max"] = 13170.32,
         ["points"] = 5964.918796193596,
       },
@@ -43522,7 +43522,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1823,
+        ["rank_raids"] = 1824,
         ["dps_max"] = 12111.23,
         ["points"] = 5485.250432185684,
       },
@@ -43676,7 +43676,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1474,
+        ["rank_raids"] = 1475,
         ["dps_max"] = 13367.16,
         ["points"] = 6054.0688408274955,
       },
@@ -43907,7 +43907,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1994,
+        ["rank_raids"] = 1995,
         ["dps_max"] = 11402.2,
         ["points"] = 5164.126391610729,
       },
@@ -43969,7 +43969,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Shammyheal"] = {
-    ["percentile"] = 27.766,
+    ["percentile"] = 27.767,
     ["server"] = "Icecrown",
     ["overall_rank"] = 572,
     ["bosses"] = {
@@ -43986,7 +43986,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 554,
         ["dps_max"] = 17189.12,
-        ["points"] = 8567.335243553009,
+        ["points"] = 8568.702290076335,
       },
       ["Festergut"] = {
         ["rank_raids"] = 545,
@@ -44046,7 +44046,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Thotalicious"] = {
-    ["percentile"] = 27.753,
+    ["percentile"] = 27.755,
     ["server"] = "Icecrown",
     ["overall_rank"] = 573,
     ["bosses"] = {
@@ -44063,7 +44063,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 578,
         ["dps_max"] = 17105.24,
-        ["points"] = 8500.477554918816,
+        ["points"] = 8501.908396946565,
       },
       ["Festergut"] = {
         ["rank_raids"] = 273,
@@ -44180,7 +44180,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 209,
         ["dps_max"] = 10329.66,
-        ["points"] = 9292.03539823009,
+        ["points"] = 9292.276284450494,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -44215,7 +44215,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1964,
+        ["rank_raids"] = 1965,
         ["dps_max"] = 11537.49,
         ["points"] = 5225.400063316278,
       },
@@ -44255,7 +44255,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1899,
+        ["rank_raids"] = 1900,
         ["dps_max"] = 5575.0,
         ["points"] = 3554.389814872077,
       },
@@ -44292,7 +44292,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1954,
+        ["rank_raids"] = 1955,
         ["dps_max"] = 11584.86,
         ["points"] = 5246.854227176814,
       },
@@ -44369,7 +44369,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1628,
+        ["rank_raids"] = 1629,
         ["dps_max"] = 12836.75,
         ["points"] = 5813.84289501228,
       },
@@ -44446,7 +44446,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1723,
+        ["rank_raids"] = 1724,
         ["dps_max"] = 12499.15,
         ["points"] = 5660.941782086022,
       },
@@ -44523,7 +44523,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1694,
+        ["rank_raids"] = 1695,
         ["dps_max"] = 12605.6,
         ["points"] = 5709.153640708653,
       },
@@ -44565,7 +44565,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 453,
         ["dps_max"] = 9043.8,
-        ["points"] = 8461.538461538461,
+        ["points"] = 8462.06192582511,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -44600,7 +44600,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1477,
+        ["rank_raids"] = 1478,
         ["dps_max"] = 13359.92,
         ["points"] = 6050.78980037256,
       },
@@ -44677,7 +44677,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1814,
+        ["rank_raids"] = 1815,
         ["dps_max"] = 12134.92,
         ["points"] = 5495.979778646652,
       },
@@ -44908,7 +44908,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1729,
+        ["rank_raids"] = 1730,
         ["dps_max"] = 12492.54,
         ["points"] = 5657.948072499404,
       },
@@ -44985,7 +44985,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2001,
+        ["rank_raids"] = 2002,
         ["dps_max"] = 11381.64,
         ["points"] = 5154.814641368537,
       },
@@ -45062,7 +45062,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2132,
+        ["rank_raids"] = 2133,
         ["dps_max"] = 10851.94,
         ["points"] = 4914.910258912853,
       },
@@ -45124,7 +45124,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Burnquist"] = {
-    ["percentile"] = 27.306,
+    ["percentile"] = 27.309,
     ["server"] = "Icecrown",
     ["overall_rank"] = 587,
     ["bosses"] = {
@@ -45141,7 +45141,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 916,
         ["dps_max"] = 15537.18,
-        ["points"] = 7287.48806112703,
+        ["points"] = 7290.076335877863,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1152,
@@ -45201,7 +45201,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Naturecal"] = {
-    ["percentile"] = 27.178,
+    ["percentile"] = 27.18,
     ["server"] = "Icecrown",
     ["overall_rank"] = 588,
     ["bosses"] = {
@@ -45218,7 +45218,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 904,
         ["dps_max"] = 15582.28,
-        ["points"] = 7354.345749761223,
+        ["points"] = 7356.8702290076335,
       },
       ["Festergut"] = {
         ["rank_raids"] = 826,
@@ -45293,7 +45293,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1913,
+        ["rank_raids"] = 1914,
         ["dps_max"] = 11783.6,
         ["points"] = 5336.864793477064,
       },
@@ -45370,7 +45370,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1722,
+        ["rank_raids"] = 1723,
         ["dps_max"] = 12500.13,
         ["points"] = 5661.385630103403,
       },
@@ -45447,7 +45447,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1822,
+        ["rank_raids"] = 1823,
         ["dps_max"] = 12111.66,
         ["points"] = 5485.445181825963,
       },
@@ -45487,9 +45487,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 648,
+        ["rank_raids"] = 649,
         ["dps_max"] = 8366.16,
-        ["points"] = 7797.82164737917,
+        ["points"] = 7795.168424634229,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -45524,7 +45524,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2118,
+        ["rank_raids"] = 2119,
         ["dps_max"] = 10895.34,
         ["points"] = 4934.566385396856,
       },
@@ -45601,7 +45601,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2111,
+        ["rank_raids"] = 2112,
         ["dps_max"] = 10935.8,
         ["points"] = 4952.890967828717,
       },
@@ -45643,7 +45643,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 504,
         ["dps_max"] = 8845.77,
-        ["points"] = 8287.950987066031,
+        ["points"] = 8288.533514800953,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -45678,7 +45678,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1950,
+        ["rank_raids"] = 1951,
         ["dps_max"] = 11614.7,
         ["points"] = 5260.368946399917,
       },
@@ -45755,7 +45755,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2371,
+        ["rank_raids"] = 2372,
         ["dps_max"] = 9268.99,
         ["points"] = 4197.982484307934,
       },
@@ -45832,7 +45832,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1730,
+        ["rank_raids"] = 1731,
         ["dps_max"] = 12488.73,
         ["points"] = 5656.2225001053,
       },
@@ -45909,7 +45909,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2128,
+        ["rank_raids"] = 2129,
         ["dps_max"] = 10860.68,
         ["points"] = 4918.868658578065,
       },
@@ -45949,9 +45949,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 620,
+        ["rank_raids"] = 621,
         ["dps_max"] = 8462.1,
-        ["points"] = 7893.124574540503,
+        ["points"] = 7890.438924804355,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -45986,7 +45986,7 @@ UWULogsData[7][1] = {
         ["points"] = 3093.026741075351,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2438,
+        ["rank_raids"] = 2439,
         ["dps_max"] = 8076.47,
         ["points"] = 3657.882854015217,
       },
@@ -46026,9 +46026,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 929,
+        ["rank_raids"] = 930,
         ["dps_max"] = 7595.55,
-        ["points"] = 6841.38869979578,
+        ["points"] = 6839.060905069751,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -46063,7 +46063,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2031,
+        ["rank_raids"] = 2032,
         ["dps_max"] = 11249.95,
         ["points"] = 5095.171431767652,
       },
@@ -46125,7 +46125,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Shop"] = {
-    ["percentile"] = 26.781,
+    ["percentile"] = 26.783,
     ["server"] = "Icecrown",
     ["overall_rank"] = 600,
     ["bosses"] = {
@@ -46142,7 +46142,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 797,
         ["dps_max"] = 16072.97,
-        ["points"] = 7736.389684813754,
+        ["points"] = 7738.5496183206105,
       },
       ["Festergut"] = {
         ["rank_raids"] = 405,
@@ -46217,7 +46217,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2139,
+        ["rank_raids"] = 2140,
         ["dps_max"] = 10802.51,
         ["points"] = 4892.523108403538,
       },
@@ -46294,7 +46294,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1847,
+        ["rank_raids"] = 1848,
         ["dps_max"] = 12026.73,
         ["points"] = 5446.9798633401015,
       },
@@ -46334,9 +46334,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1225,
+        ["rank_raids"] = 1226,
         ["dps_max"] = 6912.83,
-        ["points"] = 5833.900612661674,
+        ["points"] = 5831.915617556992,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -46371,7 +46371,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2070,
+        ["rank_raids"] = 2071,
         ["dps_max"] = 11093.36,
         ["points"] = 5024.250859276175,
       },
@@ -46448,7 +46448,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2099,
+        ["rank_raids"] = 2100,
         ["dps_max"] = 10983.37,
         ["points"] = 4974.435712917291,
       },
@@ -46488,9 +46488,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 699,
+        ["rank_raids"] = 700,
         ["dps_max"] = 8217.27,
-        ["points"] = 7624.234172906739,
+        ["points"] = 7621.640013610071,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -46602,7 +46602,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1930,
+        ["rank_raids"] = 1931,
         ["dps_max"] = 11677.6,
         ["points"] = 5288.856742617517,
       },
@@ -46756,7 +46756,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1966,
+        ["rank_raids"] = 1967,
         ["dps_max"] = 11515.4,
         ["points"] = 5215.395366679604,
       },
@@ -46833,7 +46833,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2348,
+        ["rank_raids"] = 2349,
         ["dps_max"] = 9499.7,
         ["points"] = 4302.472459909881,
       },
@@ -46910,7 +46910,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1833,
+        ["rank_raids"] = 1834,
         ["dps_max"] = 12079.35,
         ["points"] = 5470.811784436605,
       },
@@ -46950,7 +46950,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2490,
+        ["rank_raids"] = 2491,
         ["dps_max"] = 4126.68,
         ["points"] = 2631.0007822845387,
       },
@@ -46987,7 +46987,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2107,
+        ["rank_raids"] = 2108,
         ["dps_max"] = 10948.83,
         ["points"] = 4958.792334835321,
       },
@@ -47064,7 +47064,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1492,
+        ["rank_raids"] = 1493,
         ["dps_max"] = 13325.45,
         ["points"] = 6035.178125720404,
       },
@@ -47106,7 +47106,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 350,
         ["dps_max"] = 9537.27,
-        ["points"] = 8812.117086453369,
+        ["points"] = 8812.521265736645,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -47141,7 +47141,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1599,
+        ["rank_raids"] = 1600,
         ["dps_max"] = 12941.07,
         ["points"] = 5861.090063556318,
       },
@@ -47181,9 +47181,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 969,
+        ["rank_raids"] = 970,
         ["dps_max"] = 7514.53,
-        ["points"] = 6705.241660993874,
+        ["points"] = 6702.960190541001,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -47218,7 +47218,7 @@ UWULogsData[7][1] = {
         ["points"] = 1965.7971936541696,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2467,
+        ["rank_raids"] = 2468,
         ["dps_max"] = 7209.69,
         ["points"] = 3265.31286982617,
       },
@@ -47260,7 +47260,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 162,
         ["dps_max"] = 10674.76,
-        ["points"] = 9452.008168822327,
+        ["points"] = 9452.194624021777,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -47295,7 +47295,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2089,
+        ["rank_raids"] = 2090,
         ["dps_max"] = 11025.76,
         ["points"] = 4993.634404199708,
       },
@@ -47372,7 +47372,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2034,
+        ["rank_raids"] = 2035,
         ["dps_max"] = 11240.9,
         ["points"] = 5091.072631198983,
       },
@@ -47449,7 +47449,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1423,
+        ["rank_raids"] = 1424,
         ["dps_max"] = 13543.13,
         ["points"] = 6133.766734315746,
       },
@@ -47526,7 +47526,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1960,
+        ["rank_raids"] = 1961,
         ["dps_max"] = 11553.37,
         ["points"] = 5232.5922128224065,
       },
@@ -47566,9 +47566,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1220,
+        ["rank_raids"] = 1221,
         ["dps_max"] = 6917.17,
-        ["points"] = 5850.9189925119135,
+        ["points"] = 5848.928206873086,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -47603,7 +47603,7 @@ UWULogsData[7][1] = {
         ["points"] = 4506.862553135047,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1998,
+        ["rank_raids"] = 1999,
         ["dps_max"] = 11394.12,
         ["points"] = 5160.466909998039,
       },
@@ -47680,7 +47680,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2039,
+        ["rank_raids"] = 2040,
         ["dps_max"] = 11217.32,
         ["points"] = 5080.393104413434,
       },
@@ -47757,7 +47757,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2179,
+        ["rank_raids"] = 2180,
         ["dps_max"] = 10611.42,
         ["points"] = 4805.977274075698,
       },
@@ -47834,7 +47834,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2023,
+        ["rank_raids"] = 2024,
         ["dps_max"] = 11269.86,
         ["points"] = 5104.188793018723,
       },
@@ -47911,7 +47911,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1781,
+        ["rank_raids"] = 1782,
         ["dps_max"] = 12301.56,
         ["points"] = 5571.452057846983,
       },
@@ -47951,9 +47951,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 623,
+        ["rank_raids"] = 624,
         ["dps_max"] = 8453.92,
-        ["points"] = 7882.913546630361,
+        ["points"] = 7880.231371214699,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -47988,7 +47988,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2103,
+        ["rank_raids"] = 2104,
         ["dps_max"] = 10961.52,
         ["points"] = 4964.539713754261,
       },
@@ -48028,9 +48028,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 618,
+        ["rank_raids"] = 619,
         ["dps_max"] = 8476.26,
-        ["points"] = 7899.931926480599,
+        ["points"] = 7897.243960530793,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -48065,7 +48065,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1817,
+        ["rank_raids"] = 1818,
         ["dps_max"] = 12121.69,
         ["points"] = 5489.987830412013,
       },
@@ -48105,9 +48105,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 825,
+        ["rank_raids"] = 826,
         ["dps_max"] = 7827.15,
-        ["points"] = 7195.371000680735,
+        ["points"] = 7192.922762844505,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -48127,7 +48127,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Smouldering"] = {
-    ["percentile"] = 25.601,
+    ["percentile"] = 25.603,
     ["server"] = "Icecrown",
     ["overall_rank"] = 626,
     ["bosses"] = {
@@ -48144,7 +48144,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 641,
         ["dps_max"] = 16773.87,
-        ["points"] = 8328.557784145176,
+        ["points"] = 8330.152671755724,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -48219,7 +48219,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1947,
+        ["rank_raids"] = 1948,
         ["dps_max"] = 11621.36,
         ["points"] = 5263.385301293545,
       },
@@ -48373,7 +48373,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2119,
+        ["rank_raids"] = 2120,
         ["dps_max"] = 10893.03,
         ["points"] = 4933.5201722130305,
       },
@@ -48435,7 +48435,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Ccoa"] = {
-    ["percentile"] = 25.411,
+    ["percentile"] = 25.413,
     ["server"] = "Icecrown",
     ["overall_rank"] = 630,
     ["bosses"] = {
@@ -48452,7 +48452,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 732,
         ["dps_max"] = 16352.92,
-        ["points"] = 8013.371537726839,
+        ["points"] = 8015.267175572519,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1129,
@@ -48527,7 +48527,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2204,
+        ["rank_raids"] = 2205,
         ["dps_max"] = 10485.76,
         ["points"] = 4749.065088500124,
       },
@@ -48604,7 +48604,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2215,
+        ["rank_raids"] = 2216,
         ["dps_max"] = 10428.15,
         ["points"] = 4722.9731657641,
       },
@@ -48681,7 +48681,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2066,
+        ["rank_raids"] = 2067,
         ["dps_max"] = 11119.19,
         ["points"] = 5035.949424877137,
       },
@@ -48758,7 +48758,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1977,
+        ["rank_raids"] = 1978,
         ["dps_max"] = 11485.69,
         ["points"] = 5201.9395252547265,
       },
@@ -48875,9 +48875,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1048,
+        ["rank_raids"] = 1049,
         ["dps_max"] = 7319.44,
-        ["points"] = 6436.351259360109,
+        ["points"] = 6434.161279346717,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -48912,7 +48912,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1583,
+        ["rank_raids"] = 1584,
         ["dps_max"] = 13015.2,
         ["points"] = 5894.66399572819,
       },
@@ -48974,7 +48974,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Huolongguo"] = {
-    ["percentile"] = 25.228,
+    ["percentile"] = 25.231,
     ["server"] = "Icecrown",
     ["overall_rank"] = 637,
     ["bosses"] = {
@@ -48991,7 +48991,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1001,
         ["dps_max"] = 15171.85,
-        ["points"] = 6934.097421203438,
+        ["points"] = 6937.022900763359,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -49066,7 +49066,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1904,
+        ["rank_raids"] = 1905,
         ["dps_max"] = 11821.13,
         ["points"] = 5353.862360918185,
       },
@@ -49143,7 +49143,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2019,
+        ["rank_raids"] = 2020,
         ["dps_max"] = 11288.2,
         ["points"] = 5112.495091629707,
       },
@@ -49220,7 +49220,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1841,
+        ["rank_raids"] = 1842,
         ["dps_max"] = 12046.34,
         ["points"] = 5455.861352749117,
       },
@@ -49297,7 +49297,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1663,
+        ["rank_raids"] = 1664,
         ["dps_max"] = 12731.68,
         ["points"] = 5766.2560468631045,
       },
@@ -49374,7 +49374,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1638,
+        ["rank_raids"] = 1639,
         ["dps_max"] = 12814.9,
         ["points"] = 5803.94689584925,
       },
@@ -49414,9 +49414,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1054,
+        ["rank_raids"] = 1055,
         ["dps_max"] = 7300.26,
-        ["points"] = 6415.929203539823,
+        ["points"] = 6413.7461721674035,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -49451,7 +49451,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2069,
+        ["rank_raids"] = 2070,
         ["dps_max"] = 11096.68,
         ["points"] = 5025.754507661586,
       },
@@ -49528,7 +49528,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2225,
+        ["rank_raids"] = 2226,
         ["dps_max"] = 10388.71,
         ["points"] = 4705.110547595226,
       },
@@ -49568,9 +49568,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1085,
+        ["rank_raids"] = 1086,
         ["dps_max"] = 7242.07,
-        ["points"] = 6310.415248468346,
+        ["points"] = 6308.268118407622,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -49605,7 +49605,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2121,
+        ["rank_raids"] = 2122,
         ["dps_max"] = 10889.27,
         ["points"] = 4931.817245125937,
       },
@@ -49682,7 +49682,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1696,
+        ["rank_raids"] = 1697,
         ["dps_max"] = 12600.36,
         ["points"] = 5706.780412534087,
       },
@@ -49724,7 +49724,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 491,
         ["dps_max"] = 8891.05,
-        ["points"] = 8332.198774676652,
+        ["points"] = 8332.766247022797,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -49759,7 +49759,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1970,
+        ["rank_raids"] = 1971,
         ["dps_max"] = 11510.35,
         ["points"] = 5213.108190671674,
       },
@@ -49799,7 +49799,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2735,
+        ["rank_raids"] = 2736,
         ["dps_max"] = 3174.1,
         ["points"] = 2023.6751051812482,
       },
@@ -49836,7 +49836,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2053,
+        ["rank_raids"] = 2054,
         ["dps_max"] = 11177.81,
         ["points"] = 5062.498782814749,
       },
@@ -49913,7 +49913,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1920,
+        ["rank_raids"] = 1921,
         ["dps_max"] = 11728.38,
         ["points"] = 5311.855316416081,
       },
@@ -49990,7 +49990,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1597,
+        ["rank_raids"] = 1598,
         ["dps_max"] = 12943.36,
         ["points"] = 5862.127218617341,
       },
@@ -50067,7 +50067,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1765,
+        ["rank_raids"] = 1766,
         ["dps_max"] = 12349.15,
         ["points"] = 5593.00586105836,
       },
@@ -50144,7 +50144,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1569,
+        ["rank_raids"] = 1570,
         ["dps_max"] = 13061.71,
         ["points"] = 5915.728660308166,
       },
@@ -50221,7 +50221,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1795,
+        ["rank_raids"] = 1796,
         ["dps_max"] = 12231.26,
         ["points"] = 5539.612756192019,
       },
@@ -50261,9 +50261,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1858,
+        ["rank_raids"] = 1859,
         ["dps_max"] = 5654.91,
-        ["points"] = 3679.373723621511,
+        ["points"] = 3678.121810139503,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -50283,7 +50283,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Oojindoo"] = {
-    ["percentile"] = 24.51,
+    ["percentile"] = 24.512,
     ["server"] = "Icecrown",
     ["overall_rank"] = 654,
     ["bosses"] = {
@@ -50300,7 +50300,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 782,
         ["dps_max"] = 16143.27,
-        ["points"] = 7803.247373447947,
+        ["points"] = 7805.343511450382,
       },
       ["Festergut"] = {
         ["rank_raids"] = 267,
@@ -50340,7 +50340,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 14,
         ["dps_max"] = 13899.0,
-        ["points"] = 9955.75221238938,
+        ["points"] = 9955.767267778156,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -50375,7 +50375,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2318,
+        ["rank_raids"] = 2319,
         ["dps_max"] = 9757.83,
         ["points"] = 4419.381121875684,
       },
@@ -50452,7 +50452,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2234,
+        ["rank_raids"] = 2235,
         ["dps_max"] = 10349.97,
         ["points"] = 4687.564963724482,
       },
@@ -50494,7 +50494,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 156,
         ["dps_max"] = 10716.41,
-        ["points"] = 9472.430224642614,
+        ["points"] = 9472.60973120109,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -50529,7 +50529,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2418,
+        ["rank_raids"] = 2419,
         ["dps_max"] = 8557.21,
         ["points"] = 3875.6129518474713,
       },
@@ -50760,7 +50760,7 @@ UWULogsData[7][1] = {
         ["points"] = 4458.463222193066,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1581,
+        ["rank_raids"] = 1582,
         ["dps_max"] = 13017.05,
         ["points"] = 5895.50187208753,
       },
@@ -50837,7 +50837,7 @@ UWULogsData[7][1] = {
         ["points"] = 74.6268656716418,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2036,
+        ["rank_raids"] = 2037,
         ["dps_max"] = 11231.38,
         ["points"] = 5086.760964744427,
       },
@@ -50956,7 +50956,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 226,
         ["dps_max"] = 10222.0,
-        ["points"] = 9234.172906739279,
+        ["points"] = 9234.433480775775,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -50976,7 +50976,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Binshock"] = {
-    ["percentile"] = 24.094,
+    ["percentile"] = 24.097,
     ["server"] = "Icecrown",
     ["overall_rank"] = 663,
     ["bosses"] = {
@@ -50993,7 +50993,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1016,
         ["dps_max"] = 15110.89,
-        ["points"] = 6867.2397325692455,
+        ["points"] = 6870.2290076335885,
       },
       ["Festergut"] = {
         ["rank_raids"] = 548,
@@ -51068,7 +51068,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1989,
+        ["rank_raids"] = 1990,
         ["dps_max"] = 11441.6,
         ["points"] = 5181.970893533995,
       },
@@ -51145,7 +51145,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1705,
+        ["rank_raids"] = 1706,
         ["dps_max"] = 12565.36,
         ["points"] = 5690.928697627632,
       },
@@ -51222,7 +51222,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2389,
+        ["rank_raids"] = 2390,
         ["dps_max"] = 9068.57,
         ["points"] = 4107.211035692174,
       },
@@ -51301,7 +51301,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 75,
         ["dps_max"] = 19631.91,
-        ["points"] = 9705.999205403257,
+        ["points"] = 9706.115965051627,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -51376,7 +51376,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2108,
+        ["rank_raids"] = 2109,
         ["dps_max"] = 10944.43,
         ["points"] = 4956.799547818509,
       },
@@ -51453,7 +51453,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2173,
+        ["rank_raids"] = 2174,
         ["dps_max"] = 10633.39,
         ["points"] = 4815.927621975548,
       },
@@ -51530,7 +51530,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1713,
+        ["rank_raids"] = 1714,
         ["dps_max"] = 12531.34,
         ["points"] = 5675.520830738558,
       },
@@ -51649,7 +51649,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 253,
         ["dps_max"] = 10072.3,
-        ["points"] = 9142.273655547991,
+        ["points"] = 9142.565498468866,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -51684,7 +51684,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2216,
+        ["rank_raids"] = 2217,
         ["dps_max"] = 10426.41,
         ["points"] = 4722.185109080179,
       },
@@ -51761,7 +51761,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1517,
+        ["rank_raids"] = 1518,
         ["dps_max"] = 13258.12,
         ["points"] = 6004.683955301787,
       },
@@ -51915,7 +51915,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2209,
+        ["rank_raids"] = 2210,
         ["dps_max"] = 10461.82,
         ["points"] = 4738.222515504109,
       },
@@ -51992,7 +51992,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1869,
+        ["rank_raids"] = 1870,
         ["dps_max"] = 11956.66,
         ["points"] = 5415.244730097379,
       },
@@ -52034,7 +52034,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 389,
         ["dps_max"] = 9361.6,
-        ["points"] = 8679.373723621511,
+        ["points"] = 8679.823069071113,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -52069,7 +52069,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1649,
+        ["rank_raids"] = 1650,
         ["dps_max"] = 12778.18,
         ["points"] = 5787.316182381679,
       },
@@ -52146,7 +52146,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1997,
+        ["rank_raids"] = 1998,
         ["dps_max"] = 11396.46,
         ["points"] = 5161.52671036607,
       },
@@ -52263,9 +52263,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1103,
+        ["rank_raids"] = 1104,
         ["dps_max"] = 7202.88,
-        ["points"] = 6249.149081007488,
+        ["points"] = 6247.022796869684,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -52300,7 +52300,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1821,
+        ["rank_raids"] = 1822,
         ["dps_max"] = 12112.14,
         ["points"] = 5485.662576773251,
       },
@@ -52340,9 +52340,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1720,
+        ["rank_raids"] = 1721,
         ["dps_max"] = 5910.01,
-        ["points"] = 4149.081007488087,
+        ["points"] = 4147.669275263695,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -52377,7 +52377,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2301,
+        ["rank_raids"] = 2302,
         ["dps_max"] = 9902.33,
         ["points"] = 4484.8260591323315,
       },
@@ -52454,7 +52454,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2407,
+        ["rank_raids"] = 2408,
         ["dps_max"] = 8788.47,
         ["points"] = 3980.352025826519,
       },
@@ -52608,7 +52608,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2429,
+        ["rank_raids"] = 2430,
         ["dps_max"] = 8391.92,
         ["points"] = 3800.75209593639,
       },
@@ -52685,7 +52685,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2146,
+        ["rank_raids"] = 2147,
         ["dps_max"] = 10782.93,
         ["points"] = 4883.655206178726,
       },
@@ -52762,7 +52762,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2078,
+        ["rank_raids"] = 2079,
         ["dps_max"] = 11056.13,
         ["points"] = 5007.389163677109,
       },
@@ -52839,7 +52839,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2405,
+        ["rank_raids"] = 2406,
         ["dps_max"] = 8833.13,
         ["points"] = 4000.578814047155,
       },
@@ -52916,7 +52916,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2319,
+        ["rank_raids"] = 2320,
         ["dps_max"] = 9748.4,
         ["points"] = 4415.110216973744,
       },
@@ -52993,7 +52993,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2393,
+        ["rank_raids"] = 2394,
         ["dps_max"] = 9039.77,
         ["points"] = 4094.1673388548634,
       },
@@ -53070,7 +53070,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1602,
+        ["rank_raids"] = 1603,
         ["dps_max"] = 12925.47,
         ["points"] = 5854.024727769442,
       },
@@ -53147,7 +53147,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1819,
+        ["rank_raids"] = 1820,
         ["dps_max"] = 12115.69,
         ["points"] = 5487.270393570907,
       },
@@ -53224,7 +53224,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1887,
+        ["rank_raids"] = 1888,
         ["dps_max"] = 11915.66,
         ["points"] = 5396.675578349817,
       },
@@ -53301,7 +53301,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2254,
+        ["rank_raids"] = 2255,
         ["dps_max"] = 10250.63,
         ["points"] = 4642.573267758562,
       },
@@ -53378,7 +53378,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2021,
+        ["rank_raids"] = 2022,
         ["dps_max"] = 11285.08,
         ["points"] = 5111.08202447233,
       },
@@ -53418,9 +53418,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1846,
+        ["rank_raids"] = 1847,
         ["dps_max"] = 5679.04,
-        ["points"] = 3720.217835262083,
+        ["points"] = 3718.952024498128,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -53455,7 +53455,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2122,
+        ["rank_raids"] = 2123,
         ["dps_max"] = 10886.7,
         ["points"] = 4930.6532763456635,
       },
@@ -53532,7 +53532,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1413,
+        ["rank_raids"] = 1414,
         ["dps_max"] = 13566.64,
         ["points"] = 6144.414557671483,
       },
@@ -53574,7 +53574,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 338,
         ["dps_max"] = 9622.05,
-        ["points"] = 8852.96119809394,
+        ["points"] = 8853.35148009527,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -53609,7 +53609,7 @@ UWULogsData[7][1] = {
         ["points"] = 0.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2148,
+        ["rank_raids"] = 2149,
         ["dps_max"] = 10755.93,
         ["points"] = 4871.426740393747,
       },
@@ -53649,9 +53649,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 612,
+        ["rank_raids"] = 613,
         ["dps_max"] = 8492.77,
-        ["points"] = 7920.353982300885,
+        ["points"] = 7917.659067710106,
       },
       ["Halion"] = {
         ["rank_raids"] = 144,
@@ -53686,7 +53686,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2272,
+        ["rank_raids"] = 2273,
         ["dps_max"] = 10143.01,
         ["points"] = 4593.8315089519165,
       },
@@ -53726,9 +53726,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 859,
+        ["rank_raids"] = 860,
         ["dps_max"] = 7758.79,
-        ["points"] = 7079.646017699115,
+        ["points"] = 7077.237155495066,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -53763,7 +53763,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2326,
+        ["rank_raids"] = 2327,
         ["dps_max"] = 9685.95,
         ["points"] = 4386.826228519228,
       },
@@ -53840,7 +53840,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2510,
+        ["rank_raids"] = 2511,
         ["dps_max"] = 3182.55,
         ["points"] = 1441.3964364439078,
       },
@@ -53880,9 +53880,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 638,
+        ["rank_raids"] = 639,
         ["dps_max"] = 8405.38,
-        ["points"] = 7831.858407079646,
+        ["points"] = 7829.193603266417,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -53917,7 +53917,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2026,
+        ["rank_raids"] = 2027,
         ["dps_max"] = 11260.58,
         ["points"] = 5099.985824037812,
       },
@@ -54056,7 +54056,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Kumuy"] = {
-    ["percentile"] = 22.325,
+    ["percentile"] = 22.326,
     ["server"] = "Icecrown",
     ["overall_rank"] = 703,
     ["bosses"] = {
@@ -54073,7 +54073,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 638,
         ["dps_max"] = 16789.28,
-        ["points"] = 8357.211079274117,
+        ["points"] = 8358.778625954199,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -54148,7 +54148,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2149,
+        ["rank_raids"] = 2150,
         ["dps_max"] = 10750.73,
         ["points"] = 4869.071628464789,
       },
@@ -54188,9 +54188,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1540,
+        ["rank_raids"] = 1541,
         ["dps_max"] = 6270.85,
-        ["points"] = 4761.742682096665,
+        ["points"] = 4760.122490643076,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -54225,7 +54225,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2269,
+        ["rank_raids"] = 2270,
         ["dps_max"] = 10157.91,
         ["points"] = 4600.579810440664,
       },
@@ -54302,7 +54302,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2207,
+        ["rank_raids"] = 2208,
         ["dps_max"] = 10472.55,
         ["points"] = 4743.082198388288,
       },
@@ -54379,7 +54379,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2362,
+        ["rank_raids"] = 2363,
         ["dps_max"] = 9355.86,
         ["points"] = 4237.326440705755,
       },
@@ -54456,7 +54456,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1789,
+        ["rank_raids"] = 1790,
         ["dps_max"] = 12251.12,
         ["points"] = 5548.607472136082,
       },
@@ -54533,7 +54533,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2156,
+        ["rank_raids"] = 2157,
         ["dps_max"] = 10731.51,
         ["points"] = 4860.366772450444,
       },
@@ -54573,7 +54573,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2895,
+        ["rank_raids"] = 2896,
         ["dps_max"] = 1843.99,
         ["points"] = 1175.6518878432219,
       },
@@ -54610,7 +54610,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2015,
+        ["rank_raids"] = 2016,
         ["dps_max"] = 11311.54,
         ["points"] = 5123.06592094161,
       },
@@ -54650,9 +54650,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 765,
+        ["rank_raids"] = 766,
         ["dps_max"] = 8030.69,
-        ["points"] = 7399.591558883595,
+        ["points"] = 7397.073834637632,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -54687,7 +54687,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2014,
+        ["rank_raids"] = 2015,
         ["dps_max"] = 11312.5,
         ["points"] = 5123.500710836186,
       },
@@ -54764,7 +54764,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1642,
+        ["rank_raids"] = 1643,
         ["dps_max"] = 12802.0,
         ["points"] = 5798.104406640871,
       },
@@ -54806,7 +54806,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 248,
         ["dps_max"] = 10103.35,
-        ["points"] = 9159.29203539823,
+        ["points"] = 9159.578087784961,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -54918,7 +54918,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1866,
+        ["rank_raids"] = 1867,
         ["dps_max"] = 11963.7,
         ["points"] = 5418.433189324278,
       },
@@ -54960,7 +54960,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 322,
         ["dps_max"] = 9706.58,
-        ["points"] = 8907.420013614705,
+        ["points"] = 8907.79176590677,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -54980,7 +54980,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Ebolaa"] = {
-    ["percentile"] = 22.03,
+    ["percentile"] = 22.032,
     ["server"] = "Icecrown",
     ["overall_rank"] = 715,
     ["bosses"] = {
@@ -54997,7 +54997,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 866,
         ["dps_max"] = 15731.96,
-        ["points"] = 7535.816618911175,
+        ["points"] = 7538.167938931298,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -55072,7 +55072,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2411,
+        ["rank_raids"] = 2412,
         ["dps_max"] = 8720.4,
         ["points"] = 3949.5227048641664,
       },
@@ -55112,9 +55112,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1612,
+        ["rank_raids"] = 1613,
         ["dps_max"] = 6124.8,
-        ["points"] = 4516.678012253234,
+        ["points"] = 4515.141204491324,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -55149,7 +55149,7 @@ UWULogsData[7][1] = {
         ["points"] = 1981.4211798320237,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2504,
+        ["rank_raids"] = 2505,
         ["dps_max"] = 4229.66,
         ["points"] = 1915.6389848924096,
       },
@@ -55226,7 +55226,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2152,
+        ["rank_raids"] = 2153,
         ["dps_max"] = 10744.59,
         ["points"] = 4866.290784764056,
       },
@@ -55303,7 +55303,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2266,
+        ["rank_raids"] = 2267,
         ["dps_max"] = 10178.78,
         ["points"] = 4610.031961586313,
       },
@@ -55457,7 +55457,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2180,
+        ["rank_raids"] = 2181,
         ["dps_max"] = 10602.25,
         ["points"] = 4801.824124770206,
       },
@@ -55534,7 +55534,7 @@ UWULogsData[7][1] = {
         ["points"] = 37.3134328358209,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2276,
+        ["rank_raids"] = 2277,
         ["dps_max"] = 10131.72,
         ["points"] = 4588.7181986292335,
       },
@@ -55611,7 +55611,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1862,
+        ["rank_raids"] = 1863,
         ["dps_max"] = 11980.85,
         ["points"] = 5426.20052962844,
       },
@@ -55688,7 +55688,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2138,
+        ["rank_raids"] = 2139,
         ["dps_max"] = 10805.5,
         ["points"] = 4893.877297762689,
       },
@@ -55728,9 +55728,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1112,
+        ["rank_raids"] = 1113,
         ["dps_max"] = 7189.14,
-        ["points"] = 6218.515997277059,
+        ["points"] = 6216.400136100715,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -55765,7 +55765,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2291,
+        ["rank_raids"] = 2292,
         ["dps_max"] = 9954.37,
         ["points"] = 4508.395294667529,
       },
@@ -55805,9 +55805,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 544,
+        ["rank_raids"] = 545,
         ["dps_max"] = 8693.06,
-        ["points"] = 8151.803948264126,
+        ["points"] = 8149.030282408982,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -55919,7 +55919,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1432,
+        ["rank_raids"] = 1433,
         ["dps_max"] = 13518.09,
         ["points"] = 6122.425964565528,
       },
@@ -55996,7 +55996,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2366,
+        ["rank_raids"] = 2367,
         ["dps_max"] = 9291.57,
         ["points"] = 4208.209104953298,
       },
@@ -56073,7 +56073,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1693,
+        ["rank_raids"] = 1694,
         ["dps_max"] = 12608.36,
         ["points"] = 5710.403661655562,
       },
@@ -56150,7 +56150,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2125,
+        ["rank_raids"] = 2126,
         ["dps_max"] = 10865.34,
         ["points"] = 4920.979201191324,
       },
@@ -56227,7 +56227,7 @@ UWULogsData[7][1] = {
         ["points"] = 3948.671099874652,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1856,
+        ["rank_raids"] = 1857,
         ["dps_max"] = 12009.21,
         ["points"] = 5439.0449477640705,
       },
@@ -56269,7 +56269,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 393,
         ["dps_max"] = 9342.24,
-        ["points"] = 8665.759019741321,
+        ["points"] = 8666.212997618239,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -56304,7 +56304,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2471,
+        ["rank_raids"] = 2472,
         ["dps_max"] = 7066.77,
         ["points"] = 3200.5835242710136,
       },
@@ -56381,7 +56381,7 @@ UWULogsData[7][1] = {
         ["points"] = 2657.0365644915773,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2480,
+        ["rank_raids"] = 2481,
         ["dps_max"] = 6749.58,
         ["points"] = 3056.926225665919,
       },
@@ -56458,7 +56458,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2160,
+        ["rank_raids"] = 2161,
         ["dps_max"] = 10673.34,
         ["points"] = 4834.021222275916,
       },
@@ -56535,7 +56535,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1787,
+        ["rank_raids"] = 1788,
         ["dps_max"] = 12274.04,
         ["points"] = 5558.98808086911,
       },
@@ -56612,7 +56612,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1911,
+        ["rank_raids"] = 1912,
         ["dps_max"] = 11793.89,
         ["points"] = 5341.525197659561,
       },
@@ -56689,7 +56689,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1575,
+        ["rank_raids"] = 1576,
         ["dps_max"] = 13040.92,
         ["points"] = 5906.312741653732,
       },
@@ -56766,7 +56766,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2264,
+        ["rank_raids"] = 2265,
         ["dps_max"] = 10188.08,
         ["points"] = 4614.243988690027,
       },
@@ -56920,7 +56920,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2244,
+        ["rank_raids"] = 2245,
         ["dps_max"] = 10330.95,
         ["points"] = 4678.9506889381755,
       },
@@ -56962,7 +56962,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 230,
         ["dps_max"] = 10216.94,
-        ["points"] = 9220.558202859089,
+        ["points"] = 9220.823409322898,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -56997,7 +56997,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2281,
+        ["rank_raids"] = 2282,
         ["dps_max"] = 10083.0,
         ["points"] = 4566.65261147945,
       },
@@ -57074,7 +57074,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2249,
+        ["rank_raids"] = 2250,
         ["dps_max"] = 10279.25,
         ["points"] = 4655.535441490641,
       },
@@ -57151,7 +57151,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1611,
+        ["rank_raids"] = 1612,
         ["dps_max"] = 12901.9,
         ["points"] = 5843.3497300452955,
       },
@@ -57228,7 +57228,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1703,
+        ["rank_raids"] = 1704,
         ["dps_max"] = 12575.95,
         ["points"] = 5695.724973652185,
       },
@@ -57268,9 +57268,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1102,
+        ["rank_raids"] = 1103,
         ["dps_max"] = 7206.27,
-        ["points"] = 6252.552756977535,
+        ["points"] = 6250.425314732903,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -57305,7 +57305,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2372,
+        ["rank_raids"] = 2373,
         ["dps_max"] = 9255.26,
         ["points"] = 4191.764083003202,
       },
@@ -57382,7 +57382,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2203,
+        ["rank_raids"] = 2204,
         ["dps_max"] = 10487.73,
         ["points"] = 4749.957313596287,
       },
@@ -57459,7 +57459,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2332,
+        ["rank_raids"] = 2333,
         ["dps_max"] = 9649.87,
         ["points"] = 4370.485374981375,
       },
@@ -57499,7 +57499,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2423,
+        ["rank_raids"] = 2424,
         ["dps_max"] = 4336.06,
         ["points"] = 2764.492825233044,
       },
@@ -57536,7 +57536,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1526,
+        ["rank_raids"] = 1527,
         ["dps_max"] = 13223.1,
         ["points"] = 5988.823182272529,
       },
@@ -57613,7 +57613,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2157,
+        ["rank_raids"] = 2158,
         ["dps_max"] = 10723.51,
         ["points"] = 4856.743523328969,
       },
@@ -57732,7 +57732,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 63,
         ["dps_max"] = 11796.91,
-        ["points"] = 9788.972089857045,
+        ["points"] = 9789.043892480437,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -57767,7 +57767,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2426,
+        ["rank_raids"] = 2427,
         ["dps_max"] = 8443.36,
         ["points"] = 3824.0495877874764,
       },
@@ -57807,7 +57807,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2382,
+        ["rank_raids"] = 2383,
         ["dps_max"] = 4451.03,
         ["points"] = 2837.7929502583065,
       },
@@ -57844,7 +57844,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1630,
+        ["rank_raids"] = 1631,
         ["dps_max"] = 12832.86,
         ["points"] = 5812.081090126963,
       },
@@ -57921,7 +57921,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2398,
+        ["rank_raids"] = 2399,
         ["dps_max"] = 8984.78,
         ["points"] = 4069.2620302061223,
       },
@@ -57998,7 +57998,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2218,
+        ["rank_raids"] = 2219,
         ["dps_max"] = 10414.66,
         ["points"] = 4716.863461933012,
       },
@@ -58038,7 +58038,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2771,
+        ["rank_raids"] = 2772,
         ["dps_max"] = 2982.67,
         ["points"] = 1901.6272410985646,
       },
@@ -58075,7 +58075,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2314,
+        ["rank_raids"] = 2315,
         ["dps_max"] = 9816.54,
         ["points"] = 4445.971241365911,
       },
@@ -58115,9 +58115,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1142,
+        ["rank_raids"] = 1143,
         ["dps_max"] = 7129.65,
-        ["points"] = 6116.405718175629,
+        ["points"] = 6114.324600204151,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -58152,7 +58152,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1627,
+        ["rank_raids"] = 1628,
         ["dps_max"] = 12839.05,
         ["points"] = 5814.884579134704,
       },
@@ -58229,7 +58229,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1845,
+        ["rank_raids"] = 1846,
         ["dps_max"] = 12029.94,
         ["points"] = 5448.433692050093,
       },
@@ -58306,7 +58306,7 @@ UWULogsData[7][1] = {
         ["points"] = 4068.6329959524633,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1739,
+        ["rank_raids"] = 1740,
         ["dps_max"] = 12454.48,
         ["points"] = 5640.710464803984,
       },
@@ -58348,7 +58348,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 138,
         ["dps_max"] = 10879.13,
-        ["points"] = 9533.696392103471,
+        ["points"] = 9533.855052739027,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -58460,7 +58460,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1798,
+        ["rank_raids"] = 1799,
         ["dps_max"] = 12206.55,
         ["points"] = 5528.421445468062,
       },
@@ -58537,7 +58537,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2323,
+        ["rank_raids"] = 2324,
         ["dps_max"] = 9707.78,
         ["points"] = 4396.7131695594535,
       },
@@ -58599,7 +58599,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Daendra"] = {
-    ["percentile"] = 19.982,
+    ["percentile"] = 19.985,
     ["server"] = "Icecrown",
     ["overall_rank"] = 762,
     ["bosses"] = {
@@ -58616,7 +58616,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 953,
         ["dps_max"] = 15398.88,
-        ["points"] = 7163.323782234957,
+        ["points"] = 7166.030534351145,
       },
       ["Festergut"] = {
         ["rank_raids"] = 968,
@@ -58691,7 +58691,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2236,
+        ["rank_raids"] = 2237,
         ["dps_max"] = 10344.45,
         ["points"] = 4685.064921830665,
       },
@@ -58731,9 +58731,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 809,
+        ["rank_raids"] = 810,
         ["dps_max"] = 7891.54,
-        ["points"] = 7249.829816201497,
+        ["points"] = 7247.363048656006,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -58768,7 +58768,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2140,
+        ["rank_raids"] = 2141,
         ["dps_max"] = 10800.75,
         ["points"] = 4891.725993596812,
       },
@@ -58845,7 +58845,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2049,
+        ["rank_raids"] = 2050,
         ["dps_max"] = 11193.34,
         ["points"] = 5069.532415171812,
       },
@@ -58922,7 +58922,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2414,
+        ["rank_raids"] = 2415,
         ["dps_max"] = 8632.19,
         ["points"] = 3909.5718542384993,
       },
@@ -59039,7 +59039,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2441,
+        ["rank_raids"] = 2442,
         ["dps_max"] = 4281.39,
         ["points"] = 2729.637490492406,
       },
@@ -59076,7 +59076,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1753,
+        ["rank_raids"] = 1754,
         ["dps_max"] = 12392.46,
         ["points"] = 5612.621225989747,
       },
@@ -59116,9 +59116,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 792,
+        ["rank_raids"] = 793,
         ["dps_max"] = 7949.65,
-        ["points"] = 7307.692307692308,
+        ["points"] = 7305.205852330725,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -59153,7 +59153,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2263,
+        ["rank_raids"] = 2264,
         ["dps_max"] = 10192.94,
         ["points"] = 4616.445112531324,
       },
@@ -59230,7 +59230,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2280,
+        ["rank_raids"] = 2281,
         ["dps_max"] = 10083.8,
         ["points"] = 4567.014936391597,
       },
@@ -59307,7 +59307,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2012,
+        ["rank_raids"] = 2013,
         ["dps_max"] = 11317.59,
         ["points"] = 5125.806003089726,
       },
@@ -59384,7 +59384,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1681,
+        ["rank_raids"] = 1682,
         ["dps_max"] = 12662.88,
         ["points"] = 5735.096104418416,
       },
@@ -59538,7 +59538,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1836,
+        ["rank_raids"] = 1837,
         ["dps_max"] = 12071.47,
         ["points"] = 5467.2428840519515,
       },
@@ -59615,7 +59615,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2351,
+        ["rank_raids"] = 2352,
         ["dps_max"] = 9474.82,
         ["points"] = 4291.2041551420925,
       },
@@ -59657,7 +59657,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 207,
         ["dps_max"] = 10336.07,
-        ["points"] = 9298.842750170184,
+        ["points"] = 9299.08132017693,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -59692,7 +59692,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2144,
+        ["rank_raids"] = 2145,
         ["dps_max"] = 10785.56,
         ["points"] = 4884.846349327411,
       },
@@ -59769,7 +59769,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1445,
+        ["rank_raids"] = 1446,
         ["dps_max"] = 13476.39,
         ["points"] = 6103.539778519838,
       },
@@ -59846,7 +59846,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1780,
+        ["rank_raids"] = 1781,
         ["dps_max"] = 12304.04,
         ["points"] = 5572.575265074642,
       },
@@ -59923,7 +59923,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2355,
+        ["rank_raids"] = 2356,
         ["dps_max"] = 9435.46,
         ["points"] = 4273.377769464433,
       },
@@ -60000,7 +60000,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2247,
+        ["rank_raids"] = 2248,
         ["dps_max"] = 10291.8,
         ["points"] = 4661.219413549955,
       },
@@ -60077,7 +60077,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2386,
+        ["rank_raids"] = 2387,
         ["dps_max"] = 9111.55,
         ["points"] = 4126.676941597299,
       },
@@ -60117,9 +60117,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1192,
+        ["rank_raids"] = 1193,
         ["dps_max"] = 6997.19,
-        ["points"] = 5946.221919673247,
+        ["points"] = 5944.198707043212,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -60154,7 +60154,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1883,
+        ["rank_raids"] = 1884,
         ["dps_max"] = 11927.36,
         ["points"] = 5401.974580189976,
       },
@@ -60194,9 +60194,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 785,
+        ["rank_raids"] = 786,
         ["dps_max"] = 7967.45,
-        ["points"] = 7331.518039482642,
+        ["points"] = 7329.023477373256,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -60308,7 +60308,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2413,
+        ["rank_raids"] = 2414,
         ["dps_max"] = 8639.89,
         ["points"] = 3913.059231517919,
       },
@@ -60348,9 +60348,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1777,
+        ["rank_raids"] = 1778,
         ["dps_max"] = 5791.69,
-        ["points"] = 3955.071477195371,
+        ["points"] = 3953.7257570602246,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -60385,7 +60385,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2363,
+        ["rank_raids"] = 2364,
         ["dps_max"] = 9339.93,
         ["points"] = 4230.111645892617,
       },
@@ -60462,7 +60462,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2305,
+        ["rank_raids"] = 2306,
         ["dps_max"] = 9880.39,
         ["points"] = 4474.889298416685,
       },
@@ -60539,7 +60539,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2090,
+        ["rank_raids"] = 2091,
         ["dps_max"] = 11018.3,
         ["points"] = 4990.255724393932,
       },
@@ -60693,7 +60693,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2191,
+        ["rank_raids"] = 2192,
         ["dps_max"] = 10549.22,
         ["points"] = 4777.806512156227,
       },
@@ -60735,7 +60735,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 371,
         ["dps_max"] = 9444.85,
-        ["points"] = 8740.639891082368,
+        ["points"] = 8741.06839060905,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -60847,7 +60847,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1785,
+        ["rank_raids"] = 1786,
         ["dps_max"] = 12277.95,
         ["points"] = 5560.75894387723,
       },
@@ -60889,7 +60889,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 351,
         ["dps_max"] = 9527.82,
-        ["points"] = 8808.713410483322,
+        ["points"] = 8809.118747873426,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -60924,7 +60924,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2141,
+        ["rank_raids"] = 2142,
         ["dps_max"] = 10799.56,
         ["points"] = 4891.187035289993,
       },
@@ -60964,9 +60964,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1212,
+        ["rank_raids"] = 1213,
         ["dps_max"] = 6934.03,
-        ["points"] = 5878.148400272294,
+        ["points"] = 5876.148349778836,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -61001,7 +61001,7 @@ UWULogsData[7][1] = {
         ["points"] = 1277.7446336689152,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2246,
+        ["rank_raids"] = 2247,
         ["dps_max"] = 10297.62,
         ["points"] = 4663.855327285829,
       },
@@ -61041,9 +61041,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1397,
+        ["rank_raids"] = 1398,
         ["dps_max"] = 6562.65,
-        ["points"] = 5248.468345813479,
+        ["points"] = 5246.682545083362,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -61062,87 +61062,10 @@ UWULogsData[7][1] = {
       },
     },
   },
-  ["Repuestos"] = {
-    ["percentile"] = 18.572,
+  ["Shamanzito"] = {
+    ["percentile"] = 18.573,
     ["server"] = "Icecrown",
     ["overall_rank"] = 794,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 1950,
-        ["dps_max"] = 6427.23,
-        ["points"] = 3204.487018727155,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2441,
-        ["dps_max"] = 8044.04,
-        ["points"] = 3643.195107889036,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 2020,
-        ["dps_max"] = 6348.81,
-        ["points"] = 3172.4586965896424,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 1884,
-        ["dps_max"] = 6388.36,
-        ["points"] = 3132.6853858752684,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 1621,
-        ["dps_max"] = 5493.08,
-        ["points"] = 3093.8894180159405,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1538,
-        ["dps_max"] = 7872.31,
-        ["points"] = 2235.4939985937845,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2331,
-        ["dps_max"] = 4599.62,
-        ["points"] = 2932.5277991537046,
-      },
-      ["Halion"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Anub'arak"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Valithria Dreamwalker"] = {
-        ["rank_raids"] = 368,
-        ["dps_max"] = 140.73,
-        ["points"] = 1384.9765258215962,
-      },
-    },
-  },
-  ["Shamanzito"] = {
-    ["percentile"] = 18.57,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 795,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -61157,7 +61080,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 899,
         ["dps_max"] = 15605.8,
-        ["points"] = 7373.447946513849,
+        ["points"] = 7375.954198473282,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -61197,7 +61120,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 34,
         ["dps_max"] = 12568.64,
-        ["points"] = 9887.678692988427,
+        ["points"] = 9887.71691051378,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -61213,6 +61136,83 @@ UWULogsData[7][1] = {
         ["rank_raids"] = nil,
         ["dps_max"] = nil,
         ["points"] = nil,
+      },
+    },
+  },
+  ["Repuestos"] = {
+    ["percentile"] = 18.572,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 795,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 1950,
+        ["dps_max"] = 6427.23,
+        ["points"] = 3204.487018727155,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 2442,
+        ["dps_max"] = 8044.04,
+        ["points"] = 3643.195107889036,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 2020,
+        ["dps_max"] = 6348.81,
+        ["points"] = 3172.4586965896424,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 1884,
+        ["dps_max"] = 6388.36,
+        ["points"] = 3132.6853858752684,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 1621,
+        ["dps_max"] = 5493.08,
+        ["points"] = 3093.8894180159405,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 1538,
+        ["dps_max"] = 7872.31,
+        ["points"] = 2235.4939985937845,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Toravon the Ice Watcher"] = {
+        ["rank_raids"] = 2332,
+        ["dps_max"] = 4599.62,
+        ["points"] = 2932.5277991537046,
+      },
+      ["Halion"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Anub'arak"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Valithria Dreamwalker"] = {
+        ["rank_raids"] = 368,
+        ["dps_max"] = 140.73,
+        ["points"] = 1384.9765258215962,
       },
     },
   },
@@ -61232,7 +61232,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2133,
+        ["rank_raids"] = 2134,
         ["dps_max"] = 10847.01,
         ["points"] = 4912.677431641744,
       },
@@ -61309,7 +61309,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2256,
+        ["rank_raids"] = 2257,
         ["dps_max"] = 10230.46,
         ["points"] = 4633.438150911043,
       },
@@ -61386,7 +61386,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2437,
+        ["rank_raids"] = 2438,
         ["dps_max"] = 8187.94,
         ["points"] = 3708.368301461573,
       },
@@ -61463,7 +61463,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1777,
+        ["rank_raids"] = 1778,
         ["dps_max"] = 12313.52,
         ["points"] = 5576.86881528359,
       },
@@ -61617,7 +61617,7 @@ UWULogsData[7][1] = {
         ["points"] = 6538.04966027448,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1801,
+        ["rank_raids"] = 1802,
         ["dps_max"] = 12202.4,
         ["points"] = 5526.541884986297,
       },
@@ -61694,7 +61694,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2188,
+        ["rank_raids"] = 2189,
         ["dps_max"] = 10573.9,
         ["points"] = 4788.984235695978,
       },
@@ -61771,7 +61771,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2336,
+        ["rank_raids"] = 2337,
         ["dps_max"] = 9635.07,
         ["points"] = 4363.782364106645,
       },
@@ -61848,7 +61848,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1450,
+        ["rank_raids"] = 1451,
         ["dps_max"] = 13470.35,
         ["points"] = 6100.804225433125,
       },
@@ -61925,7 +61925,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1999,
+        ["rank_raids"] = 2000,
         ["dps_max"] = 11390.61,
         ["points"] = 5158.877209445991,
       },
@@ -62002,7 +62002,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2422,
+        ["rank_raids"] = 2423,
         ["dps_max"] = 8523.24,
         ["points"] = 3860.227730265407,
       },
@@ -62156,7 +62156,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2194,
+        ["rank_raids"] = 2195,
         ["dps_max"] = 10525.34,
         ["points"] = 4766.991113528623,
       },
@@ -62233,7 +62233,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1915,
+        ["rank_raids"] = 1916,
         ["dps_max"] = 11761.19,
         ["points"] = 5326.715166875532,
       },
@@ -62310,7 +62310,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1807,
+        ["rank_raids"] = 1808,
         ["dps_max"] = 12173.7,
         ["points"] = 5513.543478763005,
       },
@@ -62464,7 +62464,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2252,
+        ["rank_raids"] = 2253,
         ["dps_max"] = 10264.13,
         ["points"] = 4648.687500651052,
       },
@@ -62618,7 +62618,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2354,
+        ["rank_raids"] = 2355,
         ["dps_max"] = 9436.36,
         ["points"] = 4273.7853849906,
       },
@@ -62695,7 +62695,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2337,
+        ["rank_raids"] = 2338,
         ["dps_max"] = 9634.31,
         ["points"] = 4363.438155440104,
       },
@@ -62735,7 +62735,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2166,
+        ["rank_raids"] = 2167,
         ["dps_max"] = 4969.25,
         ["points"] = 3168.188625570057,
       },
@@ -62772,7 +62772,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2221,
+        ["rank_raids"] = 2222,
         ["dps_max"] = 10407.9,
         ["points"] = 4713.801816425365,
       },
@@ -62812,7 +62812,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2777,
+        ["rank_raids"] = 2778,
         ["dps_max"] = 2941.55,
         ["points"] = 1875.410826894522,
       },
@@ -62849,7 +62849,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1651,
+        ["rank_raids"] = 1652,
         ["dps_max"] = 12771.85,
         ["points"] = 5784.449286514312,
       },
@@ -62926,7 +62926,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2115,
+        ["rank_raids"] = 2116,
         ["dps_max"] = 10916.94,
         ["points"] = 4944.34915802484,
       },
@@ -63003,7 +63003,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2395,
+        ["rank_raids"] = 2396,
         ["dps_max"] = 9016.09,
         ["points"] = 4083.442521455296,
       },
@@ -63157,7 +63157,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2267,
+        ["rank_raids"] = 2268,
         ["dps_max"] = 10177.44,
         ["points"] = 4609.425067358466,
       },
@@ -63197,9 +63197,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 523,
+        ["rank_raids"] = 524,
         ["dps_max"] = 8761.9,
-        ["points"] = 8223.281143635126,
+        ["points"] = 8220.483157536577,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -63234,7 +63234,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2235,
+        ["rank_raids"] = 2236,
         ["dps_max"] = 10344.67,
         ["points"] = 4685.164561181505,
       },
@@ -63311,7 +63311,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2327,
+        ["rank_raids"] = 2328,
         ["dps_max"] = 9683.92,
         ["points"] = 4385.906829054653,
       },
@@ -63465,7 +63465,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2375,
+        ["rank_raids"] = 2376,
         ["dps_max"] = 9226.05,
         ["points"] = 4178.534694648415,
       },
@@ -63619,7 +63619,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1885,
+        ["rank_raids"] = 1886,
         ["dps_max"] = 11917.86,
         ["points"] = 5397.671971858224,
       },
@@ -63696,7 +63696,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1891,
+        ["rank_raids"] = 1892,
         ["dps_max"] = 11903.69,
         ["points"] = 5391.254291851811,
       },
@@ -63773,7 +63773,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1767,
+        ["rank_raids"] = 1768,
         ["dps_max"] = 12346.23,
         ["points"] = 5591.6833751290205,
       },
@@ -63850,7 +63850,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2338,
+        ["rank_raids"] = 2339,
         ["dps_max"] = 9625.06,
         ["points"] = 4359.248773643399,
       },
@@ -64004,7 +64004,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1564,
+        ["rank_raids"] = 1565,
         ["dps_max"] = 13078.36,
         ["points"] = 5923.269547542237,
       },
@@ -64081,7 +64081,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2190,
+        ["rank_raids"] = 2191,
         ["dps_max"] = 10564.01,
         ["points"] = 4784.504993969555,
       },
@@ -64121,9 +64121,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1527,
+        ["rank_raids"] = 1528,
         ["dps_max"] = 6302.48,
-        ["points"] = 4805.990469707283,
+        ["points"] = 4804.35522286492,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -64158,7 +64158,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2392,
+        ["rank_raids"] = 2393,
         ["dps_max"] = 9061.88,
         ["points"] = 4104.181093614339,
       },
@@ -64235,7 +64235,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2430,
+        ["rank_raids"] = 2431,
         ["dps_max"] = 8342.39,
         ["points"] = 3778.319654813056,
       },
@@ -64312,7 +64312,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1661,
+        ["rank_raids"] = 1662,
         ["dps_max"] = 12748.71,
         ["points"] = 5773.969038430444,
       },
@@ -64389,7 +64389,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2329,
+        ["rank_raids"] = 2330,
         ["dps_max"] = 9664.93,
         ["points"] = 4377.306141452552,
       },
@@ -64451,7 +64451,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Malignna"] = {
-    ["percentile"] = 16.697,
+    ["percentile"] = 16.7,
     ["server"] = "Icecrown",
     ["overall_rank"] = 838,
     ["bosses"] = {
@@ -64468,7 +64468,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 997,
         ["dps_max"] = 15204.33,
-        ["points"] = 6943.648519579751,
+        ["points"] = 6946.564885496184,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -64506,9 +64506,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 666,
+        ["rank_raids"] = 667,
         ["dps_max"] = 8316.94,
-        ["points"] = 7736.555479918312,
+        ["points"] = 7733.923103096291,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -64543,7 +64543,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2250,
+        ["rank_raids"] = 2251,
         ["dps_max"] = 10277.21,
         ["points"] = 4654.611512964664,
       },
@@ -64620,7 +64620,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2198,
+        ["rank_raids"] = 2199,
         ["dps_max"] = 10506.81,
         ["points"] = 4758.598762751006,
       },
@@ -64697,7 +64697,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1956,
+        ["rank_raids"] = 1957,
         ["dps_max"] = 11566.6,
         ["points"] = 5238.584161057047,
       },
@@ -64737,9 +64737,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 776,
+        ["rank_raids"] = 777,
         ["dps_max"] = 7993.43,
-        ["points"] = 7362.15112321307,
+        ["points"] = 7359.646138142225,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -64774,7 +64774,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1895,
+        ["rank_raids"] = 1896,
         ["dps_max"] = 11886.83,
         ["points"] = 5383.618294328302,
       },
@@ -64928,7 +64928,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2170,
+        ["rank_raids"] = 2171,
         ["dps_max"] = 10635.66,
         ["points"] = 4816.955718913768,
       },
@@ -65005,7 +65005,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2098,
+        ["rank_raids"] = 2099,
         ["dps_max"] = 10985.79,
         ["points"] = 4975.531745776538,
       },
@@ -65082,7 +65082,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1922,
+        ["rank_raids"] = 1923,
         ["dps_max"] = 11721.24,
         ["points"] = 5308.621566575164,
       },
@@ -65159,7 +65159,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2475,
+        ["rank_raids"] = 2476,
         ["dps_max"] = 7037.8,
         ["points"] = 3187.462833389871,
       },
@@ -65199,9 +65199,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 906,
+        ["rank_raids"] = 907,
         ["dps_max"] = 7638.44,
-        ["points"] = 6919.673247106875,
+        ["points"] = 6917.318815923783,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -65236,7 +65236,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2229,
+        ["rank_raids"] = 2230,
         ["dps_max"] = 10372.8,
         ["points"] = 4697.904810904892,
       },
@@ -65313,7 +65313,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2497,
+        ["rank_raids"] = 2498,
         ["dps_max"] = 5286.66,
         ["points"] = 2394.360775067336,
       },
@@ -65390,7 +65390,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2277,
+        ["rank_raids"] = 2278,
         ["dps_max"] = 10115.08,
         ["points"] = 4581.181840456566,
       },
@@ -65467,7 +65467,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2230,
+        ["rank_raids"] = 2231,
         ["dps_max"] = 10372.7,
         ["points"] = 4697.859520290875,
       },
@@ -65507,9 +65507,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 568,
+        ["rank_raids"] = 569,
         ["dps_max"] = 8621.07,
-        ["points"] = 8070.115724982981,
+        ["points"] = 8067.369853691732,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -65621,7 +65621,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2361,
+        ["rank_raids"] = 2362,
         ["dps_max"] = 9358.88,
         ["points"] = 4238.694217249111,
       },
@@ -65661,7 +65661,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2654,
+        ["rank_raids"] = 2655,
         ["dps_max"] = 3588.79,
         ["points"] = 2288.064327123724,
       },
@@ -65698,7 +65698,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1485,
+        ["rank_raids"] = 1486,
         ["dps_max"] = 13334.86,
         ["points"] = 6039.439972499539,
       },
@@ -65852,7 +65852,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2409,
+        ["rank_raids"] = 2410,
         ["dps_max"] = 8741.03,
         ["points"] = 3958.866158536171,
       },
@@ -65929,7 +65929,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2101,
+        ["rank_raids"] = 2102,
         ["dps_max"] = 10971.1,
         ["points"] = 4968.878554577228,
       },
@@ -66006,7 +66006,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1899,
+        ["rank_raids"] = 1900,
         ["dps_max"] = 11868.99,
         ["points"] = 5375.538448787412,
       },
@@ -66160,7 +66160,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2380,
+        ["rank_raids"] = 2381,
         ["dps_max"] = 9190.26,
         ["points"] = 4162.325183891216,
       },
@@ -66222,7 +66222,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Drogobert"] = {
-    ["percentile"] = 15.933,
+    ["percentile"] = 15.936,
     ["server"] = "Icecrown",
     ["overall_rank"] = 861,
     ["bosses"] = {
@@ -66239,7 +66239,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 923,
         ["dps_max"] = 15489.72,
-        ["points"] = 7258.83476599809,
+        ["points"] = 7261.4503816793895,
       },
       ["Festergut"] = {
         ["rank_raids"] = 384,
@@ -66299,7 +66299,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Selinabenz"] = {
-    ["percentile"] = 15.891,
+    ["percentile"] = 15.893,
     ["server"] = "Icecrown",
     ["overall_rank"] = 862,
     ["bosses"] = {
@@ -66316,7 +66316,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 855,
         ["dps_max"] = 15780.59,
-        ["points"] = 7593.1232091690545,
+        ["points"] = 7595.419847328244,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -66376,7 +66376,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Sandokankaa"] = {
-    ["percentile"] = 15.869,
+    ["percentile"] = 15.871,
     ["server"] = "Icecrown",
     ["overall_rank"] = 863,
     ["bosses"] = {
@@ -66393,7 +66393,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 889,
         ["dps_max"] = 15635.52,
-        ["points"] = 7421.203438395415,
+        ["points"] = 7423.664122137405,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -66433,7 +66433,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 83,
         ["dps_max"] = 11521.3,
-        ["points"] = 9720.898570456093,
+        ["points"] = 9720.993535216061,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -66622,7 +66622,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2278,
+        ["rank_raids"] = 2279,
         ["dps_max"] = 10115.03,
         ["points"] = 4581.159195149557,
       },
@@ -66662,9 +66662,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 887,
+        ["rank_raids"] = 888,
         ["dps_max"] = 7691.82,
-        ["points"] = 6984.343090537781,
+        ["points"] = 6981.966655324941,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -66699,7 +66699,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2344,
+        ["rank_raids"] = 2345,
         ["dps_max"] = 9547.77,
         ["points"] = 4324.243658068545,
       },
@@ -66930,7 +66930,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1708,
+        ["rank_raids"] = 1709,
         ["dps_max"] = 12551.37,
         ["points"] = 5684.592540726453,
       },
@@ -67007,7 +67007,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2136,
+        ["rank_raids"] = 2137,
         ["dps_max"] = 10818.96,
         ["points"] = 4899.973414409571,
       },
@@ -67084,7 +67084,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1636,
+        ["rank_raids"] = 1637,
         ["dps_max"] = 12818.29,
         ["points"] = 5805.482247664477,
       },
@@ -67161,7 +67161,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2029,
+        ["rank_raids"] = 2030,
         ["dps_max"] = 11257.83,
         ["points"] = 5098.740332152305,
       },
@@ -67238,7 +67238,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1688,
+        ["rank_raids"] = 1689,
         ["dps_max"] = 12638.27,
         ["points"] = 5723.950084308478,
       },
@@ -67392,7 +67392,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2041,
+        ["rank_raids"] = 2042,
         ["dps_max"] = 11209.67,
         ["points"] = 5076.928372441023,
       },
@@ -67469,7 +67469,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2035,
+        ["rank_raids"] = 2036,
         ["dps_max"] = 11237.03,
         ["points"] = 5089.31988443647,
       },
@@ -67509,7 +67509,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2067,
+        ["rank_raids"] = 2068,
         ["dps_max"] = 5215.41,
         ["points"] = 3325.1300779160497,
       },
@@ -67546,7 +67546,7 @@ UWULogsData[7][1] = {
         ["points"] = 4170.886559295066,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1600,
+        ["rank_raids"] = 1601,
         ["dps_max"] = 12939.31,
         ["points"] = 5860.292948749594,
       },
@@ -67665,7 +67665,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 240,
         ["dps_max"] = 10176.03,
-        ["points"] = 9186.521443158612,
+        ["points"] = 9186.79823069071,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -67777,7 +67777,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2181,
+        ["rank_raids"] = 2182,
         ["dps_max"] = 10599.91,
         ["points"] = 4800.764324402175,
       },
@@ -67854,7 +67854,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1810,
+        ["rank_raids"] = 1811,
         ["dps_max"] = 12156.76,
         ["points"] = 5505.871248748281,
       },
@@ -67894,9 +67894,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1111,
+        ["rank_raids"] = 1112,
         ["dps_max"] = 7190.04,
-        ["points"] = 6221.919673247107,
+        ["points"] = 6219.802653963933,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -67971,9 +67971,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1582,
+        ["rank_raids"] = 1583,
         ["dps_max"] = 6179.97,
-        ["points"] = 4618.788291354663,
+        ["points"] = 4617.2167403878875,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -68008,7 +68008,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1988,
+        ["rank_raids"] = 1989,
         ["dps_max"] = 11441.98,
         ["points"] = 5182.142997867265,
       },
@@ -68050,7 +68050,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 274,
         ["dps_max"] = 9980.25,
-        ["points"] = 9070.79646017699,
+        ["points"] = 9071.112623341272,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -68085,7 +68085,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2425,
+        ["rank_raids"] = 2426,
         ["dps_max"] = 8448.22,
         ["points"] = 3826.2507116287725,
       },
@@ -68162,7 +68162,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2439,
+        ["rank_raids"] = 2440,
         ["dps_max"] = 8070.69,
         ["points"] = 3655.2650565249505,
       },
@@ -68239,7 +68239,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2457,
+        ["rank_raids"] = 2458,
         ["dps_max"] = 7558.04,
         ["points"] = 3423.082723759411,
       },
@@ -68316,7 +68316,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2168,
+        ["rank_raids"] = 2169,
         ["dps_max"] = 10647.76,
         ["points"] = 4822.43588321,
       },
@@ -68356,9 +68356,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 528,
+        ["rank_raids"] = 529,
         ["dps_max"] = 8738.46,
-        ["points"] = 8206.262763784887,
+        ["points"] = 8203.470568220484,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -68393,7 +68393,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1949,
+        ["rank_raids"] = 1950,
         ["dps_max"] = 11616.4,
         ["points"] = 5261.13888683823,
       },
@@ -68470,7 +68470,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2171,
+        ["rank_raids"] = 2172,
         ["dps_max"] = 10635.34,
         ["points"] = 4816.810788948908,
       },
@@ -68547,7 +68547,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2410,
+        ["rank_raids"] = 2411,
         ["dps_max"] = 8735.57,
         ["points"] = 3956.393291010764,
       },
@@ -68587,9 +68587,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 843,
+        ["rank_raids"] = 844,
         ["dps_max"] = 7783.69,
-        ["points"] = 7134.104833219878,
+        ["points"] = 7131.677441306567,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -68763,7 +68763,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Neoxit"] = {
-    ["percentile"] = 14.229,
+    ["percentile"] = 14.232,
     ["server"] = "Icecrown",
     ["overall_rank"] = 7184,
     ["bosses"] = {
@@ -68855,7 +68855,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2163,
+        ["rank_raids"] = 2164,
         ["dps_max"] = 10665.69,
         ["points"] = 4830.556490303506,
       },
@@ -68895,9 +68895,9 @@ UWULogsData[7][1] = {
         ["points"] = 7061.335577223895,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1387,
+        ["rank_raids"] = 1388,
         ["dps_max"] = 6588.21,
-        ["points"] = 5282.505105513955,
+        ["points"] = 5280.70772371555,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -68932,7 +68932,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2432,
+        ["rank_raids"] = 2433,
         ["dps_max"] = 8265.77,
         ["points"] = 3743.617986352126,
       },
@@ -69086,7 +69086,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2368,
+        ["rank_raids"] = 2369,
         ["dps_max"] = 9285.6,
         ["points"] = 4205.505255296398,
       },
@@ -69163,7 +69163,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2123,
+        ["rank_raids"] = 2124,
         ["dps_max"] = 10884.49,
         ["points"] = 4929.652353775856,
       },
@@ -69317,7 +69317,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2176,
+        ["rank_raids"] = 2177,
         ["dps_max"] = 10625.42,
         ["points"] = 4812.317960038279,
       },
@@ -69513,7 +69513,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 424,
         ["dps_max"] = 9180.69,
-        ["points"] = 8560.245064669843,
+        ["points"] = 8560.734943858455,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -69548,7 +69548,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2124,
+        ["rank_raids"] = 2125,
         ["dps_max"] = 10882.96,
         ["points"] = 4928.959407381373,
       },
@@ -69590,7 +69590,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 194,
         ["dps_max"] = 10416.76,
-        ["points"] = 9343.090537780803,
+        ["points"] = 9343.314052398775,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -69625,7 +69625,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2427,
+        ["rank_raids"] = 2428,
         ["dps_max"] = 8429.13,
         ["points"] = 3817.6047334126515,
       },
@@ -69779,7 +69779,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2223,
+        ["rank_raids"] = 2224,
         ["dps_max"] = 10392.13,
         ["points"] = 4706.659486594657,
       },
@@ -69918,7 +69918,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Casterboy"] = {
-    ["percentile"] = 13.279,
+    ["percentile"] = 13.281,
     ["server"] = "Icecrown",
     ["overall_rank"] = 909,
     ["bosses"] = {
@@ -69935,7 +69935,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 915,
         ["dps_max"] = 15538.94,
-        ["points"] = 7297.0391595033425,
+        ["points"] = 7299.618320610687,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -69995,7 +69995,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Gniida"] = {
-    ["percentile"] = 13.229,
+    ["percentile"] = 13.232,
     ["server"] = "Icecrown",
     ["overall_rank"] = 910,
     ["bosses"] = {
@@ -70012,7 +70012,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 938,
         ["dps_max"] = 15437.03,
-        ["points"] = 7191.977077363897,
+        ["points"] = 7194.656488549618,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -70087,7 +70087,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2390,
+        ["rank_raids"] = 2391,
         ["dps_max"] = 9068.46,
         ["points"] = 4107.161216016753,
       },
@@ -70164,7 +70164,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2444,
+        ["rank_raids"] = 2445,
         ["dps_max"] = 7940.93,
         ["points"] = 3596.495955774621,
       },
@@ -70204,7 +70204,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2257,
+        ["rank_raids"] = 2258,
         ["dps_max"] = 4765.3,
         ["points"] = 3038.1585264233017,
       },
@@ -70303,7 +70303,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Dumyss"] = {
-    ["percentile"] = 12.992,
+    ["percentile"] = 12.994,
     ["server"] = "Icecrown",
     ["overall_rank"] = 914,
     ["bosses"] = {
@@ -70320,7 +70320,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 687,
         ["dps_max"] = 16529.94,
-        ["points"] = 8194.84240687679,
+        ["points"] = 8196.564885496184,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -70395,7 +70395,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2494,
+        ["rank_raids"] = 2495,
         ["dps_max"] = 5597.21,
         ["points"] = 2535.0107769016054,
       },
@@ -70472,7 +70472,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2292,
+        ["rank_raids"] = 2293,
         ["dps_max"] = 9949.17,
         ["points"] = 4506.0401827385695,
       },
@@ -70534,7 +70534,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Pankh"] = {
-    ["percentile"] = 12.951,
+    ["percentile"] = 12.954,
     ["server"] = "Icecrown",
     ["overall_rank"] = 917,
     ["bosses"] = {
@@ -70551,7 +70551,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1006,
         ["dps_max"] = 15155.74,
-        ["points"] = 6914.995224450811,
+        ["points"] = 6917.93893129771,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -70626,7 +70626,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1963,
+        ["rank_raids"] = 1964,
         ["dps_max"] = 11538.04,
         ["points"] = 5225.64916169338,
       },
@@ -70703,7 +70703,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2174,
+        ["rank_raids"] = 2175,
         ["dps_max"] = 10628.39,
         ["points"] = 4813.663091274627,
       },
@@ -70780,7 +70780,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1871,
+        ["rank_raids"] = 1872,
         ["dps_max"] = 11952.42,
         ["points"] = 5413.3244080629975,
       },
@@ -70934,7 +70934,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2184,
+        ["rank_raids"] = 2185,
         ["dps_max"] = 10593.78,
         ["points"] = 4797.988009762845,
       },
@@ -70974,9 +70974,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 570,
+        ["rank_raids"] = 571,
         ["dps_max"] = 8615.09,
-        ["points"] = 8063.308373042887,
+        ["points"] = 8060.564817965294,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -71011,7 +71011,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2167,
+        ["rank_raids"] = 2168,
         ["dps_max"] = 10652.66,
         ["points"] = 4824.655123296902,
       },
@@ -71130,7 +71130,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 279,
         ["dps_max"] = 9950.36,
-        ["points"] = 9053.778080326752,
+        ["points"] = 9054.10003402518,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -71242,7 +71242,7 @@ UWULogsData[7][1] = {
         ["points"] = 1798.2857828616184,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2490,
+        ["rank_raids"] = 2491,
         ["dps_max"] = 5813.21,
         ["points"] = 2632.8385031814387,
       },
@@ -71282,7 +71282,7 @@ UWULogsData[7][1] = {
         ["points"] = 38.512929340564334,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2113,
+        ["rank_raids"] = 2114,
         ["dps_max"] = 5114.09,
         ["points"] = 3260.5326292985005,
       },
@@ -71319,7 +71319,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2483,
+        ["rank_raids"] = 2484,
         ["dps_max"] = 6647.63,
         ["points"] = 3010.752444674118,
       },
@@ -71396,7 +71396,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2507,
+        ["rank_raids"] = 2508,
         ["dps_max"] = 3672.28,
         ["points"] = 1663.198160476421,
       },
@@ -71473,7 +71473,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2469,
+        ["rank_raids"] = 2470,
         ["dps_max"] = 7157.63,
         ["points"] = 3241.7345761681695,
       },
@@ -71550,7 +71550,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2352,
+        ["rank_raids"] = 2353,
         ["dps_max"] = 9467.27,
         ["points"] = 4287.7847137837,
       },
@@ -71704,7 +71704,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1613,
+        ["rank_raids"] = 1614,
         ["dps_max"] = 12891.68,
         ["points"] = 5838.72102929261,
       },
@@ -71781,7 +71781,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1495,
+        ["rank_raids"] = 1496,
         ["dps_max"] = 13320.78,
         ["points"] = 6033.063054045743,
       },
@@ -71935,7 +71935,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1796,
+        ["rank_raids"] = 1797,
         ["dps_max"] = 12219.21,
         ["points"] = 5534.155237202797,
       },
@@ -72012,7 +72012,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2446,
+        ["rank_raids"] = 2447,
         ["dps_max"] = 7855.61,
         ["points"] = 3557.8540038940864,
       },
@@ -72166,7 +72166,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1646,
+        ["rank_raids"] = 1647,
         ["dps_max"] = 12790.4,
         ["points"] = 5792.850695414733,
       },
@@ -72243,7 +72243,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2243,
+        ["rank_raids"] = 2244,
         ["dps_max"] = 10333.44,
         ["points"] = 4680.078425227234,
       },
@@ -72397,7 +72397,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1863,
+        ["rank_raids"] = 1864,
         ["dps_max"] = 11977.28,
         ["points"] = 5424.583654707982,
       },
@@ -72551,7 +72551,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1881,
+        ["rank_raids"] = 1882,
         ["dps_max"] = 11928.81,
         ["points"] = 5402.631294093243,
       },
@@ -72628,7 +72628,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2412,
+        ["rank_raids"] = 2413,
         ["dps_max"] = 8647.69,
         ["points"] = 3916.591899411358,
       },
@@ -72782,7 +72782,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2489,
+        ["rank_raids"] = 2490,
         ["dps_max"] = 6006.31,
         ["points"] = 2720.2946788510494,
       },
@@ -72859,7 +72859,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2482,
+        ["rank_raids"] = 2483,
         ["dps_max"] = 6677.94,
         ["points"] = 3024.4800297831075,
       },
@@ -72936,7 +72936,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2349,
+        ["rank_raids"] = 2350,
         ["dps_max"] = 9486.81,
         ["points"] = 4296.634499762903,
       },
@@ -72976,9 +72976,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1375,
+        ["rank_raids"] = 1376,
         ["dps_max"] = 6604.4,
-        ["points"] = 5323.349217154527,
+        ["points"] = 5321.537938074174,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -73013,7 +73013,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2450,
+        ["rank_raids"] = 2451,
         ["dps_max"] = 7843.61,
         ["points"] = 3552.4191302118734,
       },
@@ -73090,7 +73090,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2462,
+        ["rank_raids"] = 2463,
         ["dps_max"] = 7250.13,
         ["points"] = 3283.628394135228,
       },
@@ -73167,7 +73167,7 @@ UWULogsData[7][1] = {
         ["points"] = 5323.15123341064,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1849,
+        ["rank_raids"] = 1850,
         ["dps_max"] = 12023.52,
         ["points"] = 5445.526034630109,
       },
@@ -73207,9 +73207,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 609,
+        ["rank_raids"] = 610,
         ["dps_max"] = 8512.57,
-        ["points"] = 7930.5650102110285,
+        ["points"] = 7927.866621299761,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -73244,7 +73244,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2137,
+        ["rank_raids"] = 2138,
         ["dps_max"] = 10810.39,
         ["points"] = 4896.0920087881905,
       },
@@ -73321,7 +73321,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1672,
+        ["rank_raids"] = 1673,
         ["dps_max"] = 12688.75,
         ["points"] = 5746.812786264986,
       },
@@ -73475,7 +73475,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2129,
+        ["rank_raids"] = 2130,
         ["dps_max"] = 10854.82,
         ["points"] = 4916.214628596584,
       },
@@ -73517,7 +73517,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 120,
         ["dps_max"] = 11131.05,
-        ["points"] = 9594.96255956433,
+        ["points"] = 9595.100374276964,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -73629,7 +73629,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1668,
+        ["rank_raids"] = 1669,
         ["dps_max"] = 12708.14,
         ["points"] = 5755.594636323162,
       },
@@ -73860,7 +73860,7 @@ UWULogsData[7][1] = {
         ["points"] = 340.6557250913409,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2456,
+        ["rank_raids"] = 2457,
         ["dps_max"] = 7565.65,
         ["points"] = 3426.5293394862138,
       },
@@ -74054,7 +74054,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2798,
+        ["rank_raids"] = 2799,
         ["dps_max"] = 2823.24,
         ["points"] = 1799.981255773891,
       },
@@ -74093,7 +74093,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 288,
         ["dps_max"] = 18392.0,
-        ["points"] = 9159.503342884433,
+        ["points"] = 9160.30534351145,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2155,
@@ -74168,7 +74168,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2360,
+        ["rank_raids"] = 2361,
         ["dps_max"] = 9366.9,
         ["points"] = 4242.32652449339,
       },
@@ -74245,7 +74245,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2461,
+        ["rank_raids"] = 2462,
         ["dps_max"] = 7446.04,
         ["points"] = 3372.3572360587564,
       },
@@ -74322,7 +74322,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2357,
+        ["rank_raids"] = 2358,
         ["dps_max"] = 9384.81,
         ["points"] = 4250.438073464093,
       },
@@ -74401,7 +74401,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 39,
         ["dps_max"] = 20087.08,
-        ["points"] = 9849.026618990863,
+        ["points"] = 9849.086576648135,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -74439,9 +74439,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 561,
+        ["rank_raids"] = 562,
         ["dps_max"] = 8643.76,
-        ["points"] = 8093.941456773315,
+        ["points"] = 8091.187478734263,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -74555,7 +74555,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 73,
         ["dps_max"] = 19647.62,
-        ["points"] = 9713.945172824791,
+        ["points"] = 9714.058776806989,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -74630,7 +74630,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2158,
+        ["rank_raids"] = 2159,
         ["dps_max"] = 10702.74,
         ["points"] = 4847.336662797338,
       },
@@ -74707,7 +74707,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2120,
+        ["rank_raids"] = 2121,
         ["dps_max"] = 10891.86,
         ["points"] = 4932.990272029015,
       },
@@ -75092,7 +75092,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2373,
+        ["rank_raids"] = 2374,
         ["dps_max"] = 9242.79,
         ["points"] = 4186.116343435103,
       },
@@ -75154,7 +75154,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Lucidetou"] = {
-    ["percentile"] = 9.434,
+    ["percentile"] = 9.435,
     ["server"] = "Icecrown",
     ["overall_rank"] = 977,
     ["bosses"] = {
@@ -75171,7 +75171,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 181,
         ["dps_max"] = 18886.45,
-        ["points"] = 9388.72970391595,
+        ["points"] = 9389.312977099236,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -75246,7 +75246,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1955,
+        ["rank_raids"] = 1956,
         ["dps_max"] = 11572.32,
         ["points"] = 5241.174784178901,
       },
@@ -75323,7 +75323,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2085,
+        ["rank_raids"] = 2086,
         ["dps_max"] = 11040.96,
         ["points"] = 5000.518577530511,
       },
@@ -75363,9 +75363,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1282,
+        ["rank_raids"] = 1283,
         ["dps_max"] = 6784.98,
-        ["points"] = 5639.891082368958,
+        ["points"] = 5637.972099353522,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -75477,7 +75477,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2048,
+        ["rank_raids"] = 2049,
         ["dps_max"] = 11195.64,
         ["points"] = 5070.5740992942365,
       },
@@ -75539,7 +75539,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Xxsmgg"] = {
-    ["percentile"] = 9.166,
+    ["percentile"] = 9.167,
     ["server"] = "Icecrown",
     ["overall_rank"] = 982,
     ["bosses"] = {
@@ -75556,7 +75556,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 323,
         ["dps_max"] = 18246.95,
-        ["points"] = 9121.29894937918,
+        ["points"] = 9122.137404580153,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -75708,7 +75708,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2509,
+        ["rank_raids"] = 2510,
         ["dps_max"] = 3339.39,
         ["points"] = 1512.4302354704312,
       },
@@ -75770,7 +75770,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Sturmy"] = {
-    ["percentile"] = 8.878,
+    ["percentile"] = 8.879,
     ["server"] = "Icecrown",
     ["overall_rank"] = 985,
     ["bosses"] = {
@@ -75787,7 +75787,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 447,
         ["dps_max"] = 17647.95,
-        ["points"] = 8834.76599808978,
+        ["points"] = 8835.87786259542,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -75981,7 +75981,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 51,
         ["dps_max"] = 12169.02,
-        ["points"] = 9829.816201497617,
+        ["points"] = 9829.874106839061,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -76078,7 +76078,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Slicemasta"] = {
-    ["percentile"] = 8.791,
+    ["percentile"] = 8.793,
     ["server"] = "Icecrown",
     ["overall_rank"] = 989,
     ["bosses"] = {
@@ -76095,7 +76095,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 463,
         ["dps_max"] = 17547.77,
-        ["points"] = 8748.80611270296,
+        ["points"] = 8750.0,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -76155,7 +76155,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Ml"] = {
-    ["percentile"] = 8.782,
+    ["percentile"] = 8.783,
     ["server"] = "Icecrown",
     ["overall_rank"] = 990,
     ["bosses"] = {
@@ -76172,7 +76172,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 471,
         ["dps_max"] = 17517.54,
-        ["points"] = 8739.255014326647,
+        ["points"] = 8740.458015267175,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -76366,7 +76366,7 @@ UWULogsData[7][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 486,
         ["dps_max"] = 8914.84,
-        ["points"] = 8349.217154526888,
+        ["points"] = 8349.77883633889,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -76540,7 +76540,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Drakah"] = {
-    ["percentile"] = 8.561,
+    ["percentile"] = 8.563,
     ["server"] = "Icecrown",
     ["overall_rank"] = 995,
     ["bosses"] = {
@@ -76557,7 +76557,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 569,
         ["dps_max"] = 17148.64,
-        ["points"] = 8519.579751671443,
+        ["points"] = 8520.992366412213,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -76632,7 +76632,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2186,
+        ["rank_raids"] = 2187,
         ["dps_max"] = 10588.48,
         ["points"] = 4795.587607219867,
       },
@@ -76694,7 +76694,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Kaiccy"] = {
-    ["percentile"] = 8.36,
+    ["percentile"] = 8.361,
     ["server"] = "Icecrown",
     ["overall_rank"] = 997,
     ["bosses"] = {
@@ -76711,7 +76711,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 642,
         ["dps_max"] = 16770.33,
-        ["points"] = 8319.006685768863,
+        ["points"] = 8320.610687022901,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -76786,7 +76786,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2445,
+        ["rank_raids"] = 2446,
         ["dps_max"] = 7863.61,
         ["points"] = 3561.477253015562,
       },
@@ -76863,7 +76863,7 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2240,
+        ["rank_raids"] = 2241,
         ["dps_max"] = 10335.72,
         ["points"] = 4681.111051226854,
       },
@@ -76903,9 +76903,9 @@ UWULogsData[7][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1624,
+        ["rank_raids"] = 1625,
         ["dps_max"] = 6104.64,
-        ["points"] = 4475.833900612662,
+        ["points"] = 4474.310990132698,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,

@@ -22411,7 +22411,7 @@ UWULogsData[3][1] = {
   ["Itan"] = {
     ["percentile"] = 34.545,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7750,
+    ["overall_rank"] = 7752,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -65189,9 +65189,9 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 20593,
+        ["rank_raids"] = 20598,
         ["dps_max"] = 149.8,
-        ["points"] = 5491.699999999999,
+        ["points"] = 5491.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = nil,
@@ -65199,9 +65199,9 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 8126,
+        ["rank_raids"] = 8128,
         ["dps_max"] = 11.4,
-        ["points"] = 61.52794394120663,
+        ["points"] = 61.50691952844695,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -65214,9 +65214,9 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Valithria Dreamwalker"] = {
-        ["rank_raids"] = 43707,
+        ["rank_raids"] = 43717,
         ["dps_max"] = 21690.64,
-        ["points"] = 3180.2999999999997,
+        ["points"] = 3179.2999999999993,
       },
     },
   },
