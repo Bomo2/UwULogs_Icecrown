@@ -136,7 +136,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 39,
         ["dps_max"] = 13339.68,
-        ["points"] = 9801.255230125524,
+        ["points"] = 9801.359121798223,
       },
       ["Halion"] = {
         ["rank_raids"] = 20,
@@ -752,7 +752,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 11,
         ["dps_max"] = 14637.8,
-        ["points"] = 9947.698744769874,
+        ["points"] = 9947.726084683742,
       },
       ["Halion"] = {
         ["rank_raids"] = 23,
@@ -906,7 +906,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 17,
         ["dps_max"] = 14300.69,
-        ["points"] = 9916.317991631799,
+        ["points"] = 9916.361735493989,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -1291,7 +1291,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 32,
         ["dps_max"] = 13565.32,
-        ["points"] = 9837.866108786611,
+        ["points"] = 9837.950862519603,
       },
       ["Halion"] = {
         ["rank_raids"] = 37,
@@ -1599,7 +1599,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 96,
         ["dps_max"] = 12096.45,
-        ["points"] = 9503.138075313807,
+        ["points"] = 9503.397804495557,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -1984,7 +1984,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 8,
         ["dps_max"] = 15123.95,
-        ["points"] = 9963.389121338912,
+        ["points"] = 9963.40825927862,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -2138,7 +2138,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 829,
         ["dps_max"] = 7045.69,
-        ["points"] = 5669.456066945606,
+        ["points"] = 5671.719811813905,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -2369,7 +2369,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 40,
         ["dps_max"] = 13239.06,
-        ["points"] = 9796.02510460251,
+        ["points"] = 9796.131730266598,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -2446,7 +2446,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 446,
         ["dps_max"] = 8731.17,
-        ["points"] = 7672.594142259414,
+        ["points"] = 7673.810768426555,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -2831,7 +2831,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 111,
         ["dps_max"] = 11854.09,
-        ["points"] = 9424.686192468618,
+        ["points"] = 9424.98693152117,
       },
       ["Halion"] = {
         ["rank_raids"] = 128,
@@ -3755,7 +3755,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 167,
         ["dps_max"] = 11037.27,
-        ["points"] = 9131.799163179916,
+        ["points"] = 9132.25300575013,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -4217,7 +4217,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 297,
         ["dps_max"] = 9663.53,
-        ["points"] = 8451.882845188284,
+        ["points"] = 8452.692106638788,
       },
       ["Halion"] = {
         ["rank_raids"] = 52,
@@ -4292,9 +4292,9 @@ UWULogsData[3][1] = {
         ["points"] = 7000.9977049998115,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1205,
+        ["rank_raids"] = 1206,
         ["dps_max"] = 5775.63,
-        ["points"] = 3702.928870292887,
+        ["points"] = 3700.993204391009,
       },
       ["Halion"] = {
         ["rank_raids"] = 46,
@@ -4448,7 +4448,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 14,
         ["dps_max"] = 14402.99,
-        ["points"] = 9932.008368200837,
+        ["points"] = 9932.043910088865,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -4679,7 +4679,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 114,
         ["dps_max"] = 11799.02,
-        ["points"] = 9408.995815899581,
+        ["points"] = 9409.304756926293,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -5757,7 +5757,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 301,
         ["dps_max"] = 9639.06,
-        ["points"] = 8430.962343096235,
+        ["points"] = 8431.782540512284,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -6912,7 +6912,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 133,
         ["dps_max"] = 11552.05,
-        ["points"] = 9309.623430962343,
+        ["points"] = 9309.984317825405,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -8067,7 +8067,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 175,
         ["dps_max"] = 10938.48,
-        ["points"] = 9089.958158995816,
+        ["points"] = 9090.433873497124,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -9068,7 +9068,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 74,
         ["dps_max"] = 12614.95,
-        ["points"] = 9618.200836820084,
+        ["points"] = 9618.400418191322,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -9222,7 +9222,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 9,
         ["dps_max"] = 15046.71,
-        ["points"] = 9958.1589958159,
+        ["points"] = 9958.180867746994,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -9530,7 +9530,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 93,
         ["dps_max"] = 12139.35,
-        ["points"] = 9518.828451882844,
+        ["points"] = 9519.079979090433,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -9684,7 +9684,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 7,
         ["dps_max"] = 15135.38,
-        ["points"] = 9968.619246861925,
+        ["points"] = 9968.635650810245,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -9990,9 +9990,9 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1114,
+        ["rank_raids"] = 1115,
         ["dps_max"] = 6042.73,
-        ["points"] = 4178.870292887029,
+        ["points"] = 4176.685833768949,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -10762,7 +10762,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 59,
         ["dps_max"] = 12883.79,
-        ["points"] = 9696.652719665271,
+        ["points"] = 9696.811291165708,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -11301,7 +11301,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 52,
         ["dps_max"] = 12994.74,
-        ["points"] = 9733.263598326359,
+        ["points"] = 9733.403031887088,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -11684,7 +11684,7 @@ UWULogsData[3][1] = {
         ["points"] = 4830.06965820243,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1902,
+        ["rank_raids"] = 1903,
         ["dps_max"] = 955.83,
         ["points"] = 580.3577120853059,
       },
@@ -12071,7 +12071,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 125,
         ["dps_max"] = 11694.39,
-        ["points"] = 9351.464435146443,
+        ["points"] = 9351.80345007841,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -12148,7 +12148,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 23,
         ["dps_max"] = 14101.37,
-        ["points"] = 9884.937238493723,
+        ["points"] = 9884.997386304234,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -12379,7 +12379,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 744,
         ["dps_max"] = 7332.72,
-        ["points"] = 6114.016736401674,
+        ["points"] = 6116.048092002091,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -12764,7 +12764,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 5,
         ["dps_max"] = 15716.93,
-        ["points"] = 9979.07949790795,
+        ["points"] = 9979.090433873498,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -12841,7 +12841,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 146,
         ["dps_max"] = 11352.17,
-        ["points"] = 9241.63179916318,
+        ["points"] = 9242.02822791427,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -12918,7 +12918,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 36,
         ["dps_max"] = 13421.8,
-        ["points"] = 9816.94560669456,
+        ["points"] = 9817.0412963931,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -13149,7 +13149,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 120,
         ["dps_max"] = 11759.8,
-        ["points"] = 9377.615062761506,
+        ["points"] = 9377.94040773654,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -13226,7 +13226,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 33,
         ["dps_max"] = 13555.99,
-        ["points"] = 9832.635983263597,
+        ["points"] = 9832.723470987978,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -13457,7 +13457,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 487,
         ["dps_max"] = 8536.72,
-        ["points"] = 7458.1589958159,
+        ["points"] = 7459.487715629901,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -13611,7 +13611,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 270,
         ["dps_max"] = 9927.95,
-        ["points"] = 8593.096234309623,
+        ["points"] = 8593.83167799268,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -13688,7 +13688,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 431,
         ["dps_max"] = 8811.99,
-        ["points"] = 7751.046025104602,
+        ["points"] = 7752.221641400941,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -13763,7 +13763,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1487,
+        ["rank_raids"] = 1488,
         ["dps_max"] = 4775.16,
         ["points"] = 2899.3659253646247,
       },
@@ -13842,7 +13842,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 70,
         ["dps_max"] = 12673.77,
-        ["points"] = 9639.121338912135,
+        ["points"] = 9639.309984317826,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -13919,7 +13919,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 4,
         ["dps_max"] = 15770.62,
-        ["points"] = 9984.309623430963,
+        ["points"] = 9984.317825405122,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -14150,7 +14150,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 121,
         ["dps_max"] = 11754.73,
-        ["points"] = 9372.384937238494,
+        ["points"] = 9372.713016204912,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -14268,7 +14268,7 @@ UWULogsData[3][1] = {
       },
       ["Festergut"] = {
         ["rank_raids"] = 517,
-        ["dps_max"] = 14507.71,
+        ["dps_max"] = 14508.37,
         ["points"] = 7570.224719101124,
       },
       ["Rotface"] = {
@@ -14381,7 +14381,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 78,
         ["dps_max"] = 12516.38,
-        ["points"] = 9597.280334728033,
+        ["points"] = 9597.490852064819,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -14458,7 +14458,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 401,
         ["dps_max"] = 8968.01,
-        ["points"] = 7907.949790794979,
+        ["points"] = 7909.043387349712,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -14535,7 +14535,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 157,
         ["dps_max"] = 11129.72,
-        ["points"] = 9184.100418410042,
+        ["points"] = 9184.526921066388,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -14612,7 +14612,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 618,
         ["dps_max"] = 7857.36,
-        ["points"] = 6773.012552301255,
+        ["points"] = 6774.699424986932,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -14689,7 +14689,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 10,
         ["dps_max"] = 14820.27,
-        ["points"] = 9952.928870292888,
+        ["points"] = 9952.953476215369,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -14843,7 +14843,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 562,
         ["dps_max"] = 8139.41,
-        ["points"] = 7065.899581589958,
+        ["points"] = 7067.433350757972,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -14920,7 +14920,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 752,
         ["dps_max"] = 7282.35,
-        ["points"] = 6072.175732217573,
+        ["points"] = 6074.228959749085,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -15228,7 +15228,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 88,
         ["dps_max"] = 12193.9,
-        ["points"] = 9544.979079497909,
+        ["points"] = 9545.216936748562,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -15305,7 +15305,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 389,
         ["dps_max"] = 9042.13,
-        ["points"] = 7970.7112970711305,
+        ["points"] = 7971.772085729221,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -15536,7 +15536,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 25,
         ["dps_max"] = 14033.76,
-        ["points"] = 9874.476987447699,
+        ["points"] = 9874.542603240981,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -15690,7 +15690,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 256,
         ["dps_max"] = 10076.46,
-        ["points"] = 8666.317991631799,
+        ["points"] = 8667.015159435441,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -16152,7 +16152,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 205,
         ["dps_max"] = 10536.07,
-        ["points"] = 8937.753721244926,
+        ["points"] = 8938.471940500338,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -16843,7 +16843,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1382,
+        ["rank_raids"] = 1383,
         ["dps_max"] = 5192.95,
         ["points"] = 3153.038281884215,
       },
@@ -16999,7 +16999,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 3,
         ["dps_max"] = 15792.19,
-        ["points"] = 9989.539748953976,
+        ["points"] = 9989.545216936749,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -17076,7 +17076,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 610,
         ["dps_max"] = 7892.26,
-        ["points"] = 6814.8535564853555,
+        ["points"] = 6816.518557239938,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -17230,7 +17230,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 268,
         ["dps_max"] = 9947.19,
-        ["points"] = 8603.55648535565,
+        ["points"] = 8604.286461055934,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -17538,7 +17538,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 71,
         ["dps_max"] = 12672.47,
-        ["points"] = 9633.89121338912,
+        ["points"] = 9634.082592786199,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -17692,7 +17692,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 452,
         ["dps_max"] = 8711.22,
-        ["points"] = 7641.213389121339,
+        ["points"] = 7642.446419236801,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -18000,7 +18000,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 422,
         ["dps_max"] = 8876.97,
-        ["points"] = 7798.117154811715,
+        ["points"] = 7799.268165185572,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -18462,7 +18462,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 286,
         ["dps_max"] = 9755.23,
-        ["points"] = 8509.414225941422,
+        ["points"] = 8510.19341348667,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -18539,7 +18539,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 79,
         ["dps_max"] = 12491.86,
-        ["points"] = 9592.050209205021,
+        ["points"] = 9592.263460533193,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -18770,7 +18770,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 246,
         ["dps_max"] = 10148.26,
-        ["points"] = 8718.619246861925,
+        ["points"] = 8719.2890747517,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -19001,7 +19001,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 123,
         ["dps_max"] = 11703.62,
-        ["points"] = 9361.92468619247,
+        ["points"] = 9362.258233141663,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -19076,7 +19076,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1606,
+        ["rank_raids"] = 1607,
         ["dps_max"] = 4261.53,
         ["points"] = 2587.5017532227425,
       },
@@ -19309,7 +19309,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 75,
         ["dps_max"] = 12592.73,
-        ["points"] = 9612.97071129707,
+        ["points"] = 9613.173026659697,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -19463,7 +19463,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 255,
         ["dps_max"] = 10088.83,
-        ["points"] = 8671.54811715481,
+        ["points"] = 8672.242550967068,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -19540,7 +19540,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 872,
         ["dps_max"] = 6906.26,
-        ["points"] = 5444.5606694560665,
+        ["points"] = 5446.941975954,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -19848,7 +19848,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 89,
         ["dps_max"] = 12184.81,
-        ["points"] = 9539.748953974897,
+        ["points"] = 9539.989545216937,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -20002,7 +20002,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 405,
         ["dps_max"] = 8939.39,
-        ["points"] = 7887.029288702929,
+        ["points"] = 7888.13382122321,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -20079,7 +20079,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 634,
         ["dps_max"] = 7777.64,
-        ["points"] = 6689.330543933054,
+        ["points"] = 6691.06116048092,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -20310,7 +20310,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 124,
         ["dps_max"] = 11695.9,
-        ["points"] = 9356.694560669457,
+        ["points"] = 9357.030841610036,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -20926,7 +20926,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 407,
         ["dps_max"] = 8929.57,
-        ["points"] = 7876.569037656905,
+        ["points"] = 7877.6790381599585,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -21003,7 +21003,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 625,
         ["dps_max"] = 7826.93,
-        ["points"] = 6736.401673640168,
+        ["points"] = 6738.107684265552,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -21311,7 +21311,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 180,
         ["dps_max"] = 10814.02,
-        ["points"] = 9063.807531380753,
+        ["points"] = 9064.296915838997,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -21465,7 +21465,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 81,
         ["dps_max"] = 12430.6,
-        ["points"] = 9581.589958158997,
+        ["points"] = 9581.808677469942,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -21619,7 +21619,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 290,
         ["dps_max"] = 9698.32,
-        ["points"] = 8488.493723849371,
+        ["points"] = 8489.283847360168,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -21925,9 +21925,9 @@ UWULogsData[3][1] = {
         ["points"] = 4259.956496717746,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1212,
+        ["rank_raids"] = 1213,
         ["dps_max"] = 5757.76,
-        ["points"] = 3666.317991631799,
+        ["points"] = 3664.401463669629,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -22235,7 +22235,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 161,
         ["dps_max"] = 11077.95,
-        ["points"] = 9163.179916317991,
+        ["points"] = 9163.617354939885,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -22312,7 +22312,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 565,
         ["dps_max"] = 8111.65,
-        ["points"] = 7050.209205020921,
+        ["points"] = 7051.751176163095,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -22389,7 +22389,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 30,
         ["dps_max"] = 13629.09,
-        ["points"] = 9848.326359832636,
+        ["points"] = 9848.405645582854,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -22618,9 +22618,9 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1130,
+        ["rank_raids"] = 1131,
         ["dps_max"] = 6003.34,
-        ["points"] = 4106.901217861976,
+        ["points"] = 4104.124408384043,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -22774,7 +22774,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 218,
         ["dps_max"] = 10440.45,
-        ["points"] = 8865.062761506277,
+        ["points"] = 8865.65603763722,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -23467,7 +23467,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 210,
         ["dps_max"] = 10488.66,
-        ["points"] = 8906.903765690377,
+        ["points"] = 8907.475169890224,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -23621,7 +23621,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 50,
         ["dps_max"] = 13040.19,
-        ["points"] = 9743.723849372385,
+        ["points"] = 9743.85781495034,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -23929,7 +23929,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 356,
         ["dps_max"] = 9284.46,
-        ["points"] = 8143.305439330544,
+        ["points"] = 8144.27600627287,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -24545,7 +24545,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 62,
         ["dps_max"] = 12833.2,
-        ["points"] = 9680.962343096235,
+        ["points"] = 9681.129116570832,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -24622,7 +24622,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 12,
         ["dps_max"] = 14431.44,
-        ["points"] = 9942.468619246862,
+        ["points"] = 9942.498693152118,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -24699,7 +24699,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 216,
         ["dps_max"] = 10444.47,
-        ["points"] = 8875.523012552301,
+        ["points"] = 8876.11082070047,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -24853,7 +24853,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 427,
         ["dps_max"] = 8843.91,
-        ["points"] = 7771.966527196653,
+        ["points"] = 7773.131207527444,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -25161,7 +25161,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 543,
         ["dps_max"] = 8234.53,
-        ["points"] = 7165.271966527197,
+        ["points"] = 7166.753789858861,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -25931,7 +25931,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 237,
         ["dps_max"] = 10215.49,
-        ["points"] = 8765.690376569037,
+        ["points"] = 8766.33559853633,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -26085,7 +26085,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 324,
         ["dps_max"] = 9496.45,
-        ["points"] = 8310.669456066946,
+        ["points"] = 8311.552535284893,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -26237,7 +26237,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1451,
+        ["rank_raids"] = 1452,
         ["dps_max"] = 4932.51,
         ["points"] = 2994.9051802495137,
       },
@@ -26470,7 +26470,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 204,
         ["dps_max"] = 10536.58,
-        ["points"] = 8944.519621109608,
+        ["points"] = 8945.23326572008,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -26624,7 +26624,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 522,
         ["dps_max"] = 8347.25,
-        ["points"] = 7275.104602510461,
+        ["points"] = 7276.529012023001,
       },
       ["Halion"] = {
         ["rank_raids"] = 112,
@@ -26776,9 +26776,9 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1155,
+        ["rank_raids"] = 1156,
         ["dps_max"] = 5943.15,
-        ["points"] = 3964.8173207036534,
+        ["points"] = 3962.362780972295,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -26855,7 +26855,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 189,
         ["dps_max"] = 10751.23,
-        ["points"] = 9025.710419485791,
+        ["points"] = 9026.369168356998,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -27317,7 +27317,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 687,
         ["dps_max"] = 7543.98,
-        ["points"] = 6412.13389121339,
+        ["points"] = 6414.009409304757,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -28164,7 +28164,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 143,
         ["dps_max"] = 11423.01,
-        ["points"] = 9257.322175732217,
+        ["points"] = 9257.710402509148,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -28241,7 +28241,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 307,
         ["dps_max"] = 9587.03,
-        ["points"] = 8399.58158995816,
+        ["points"] = 8400.41819132253,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -28395,7 +28395,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 581,
         ["dps_max"] = 8049.73,
-        ["points"] = 6966.52719665272,
+        ["points"] = 6968.112911657083,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -28549,7 +28549,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 824,
         ["dps_max"] = 7064.13,
-        ["points"] = 5695.60669456067,
+        ["points"] = 5697.856769472034,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -28626,7 +28626,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 253,
         ["dps_max"] = 10096.94,
-        ["points"] = 8682.008368200837,
+        ["points"] = 8682.69733403032,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -28703,7 +28703,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 132,
         ["dps_max"] = 11553.3,
-        ["points"] = 9314.853556485356,
+        ["points"] = 9315.21170935703,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -29165,7 +29165,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 66,
         ["dps_max"] = 12750.41,
-        ["points"] = 9660.041841004184,
+        ["points"] = 9660.219550444328,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -29548,9 +29548,9 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 970,
+        ["rank_raids"] = 971,
         ["dps_max"] = 6550.06,
-        ["points"] = 4932.008368200837,
+        ["points"] = 4929.4302143230525,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -29704,7 +29704,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 649,
         ["dps_max"] = 7700.99,
-        ["points"] = 6610.878661087866,
+        ["points"] = 6612.650287506534,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -30320,7 +30320,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 774,
         ["dps_max"] = 7205.7,
-        ["points"] = 5957.112970711297,
+        ["points"] = 5959.226346053319,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -30397,7 +30397,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 862,
         ["dps_max"] = 6947.27,
-        ["points"] = 5496.861924686193,
+        ["points"] = 5499.215891270256,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -30782,7 +30782,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 539,
         ["dps_max"] = 8256.48,
-        ["points"] = 7186.192468619247,
+        ["points"] = 7187.6633559853635,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -30936,7 +30936,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 15,
         ["dps_max"] = 14369.12,
-        ["points"] = 9926.778242677823,
+        ["points"] = 9926.81651855724,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -31013,7 +31013,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 483,
         ["dps_max"] = 8561.82,
-        ["points"] = 7479.07949790795,
+        ["points"] = 7480.397281756404,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -31783,7 +31783,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 196,
         ["dps_max"] = 10625.06,
-        ["points"] = 8980.125523012552,
+        ["points"] = 8980.658651332984,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -32091,7 +32091,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 261,
         ["dps_max"] = 10034.5,
-        ["points"] = 8640.167364016737,
+        ["points"] = 8640.878201777314,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -32245,7 +32245,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 233,
         ["dps_max"] = 10260.91,
-        ["points"] = 8786.610878661088,
+        ["points"] = 8787.245164662834,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -32322,7 +32322,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 135,
         ["dps_max"] = 11513.04,
-        ["points"] = 9299.163179916317,
+        ["points"] = 9299.529534762152,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -32474,7 +32474,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1285,
+        ["rank_raids"] = 1286,
         ["dps_max"] = 5509.25,
         ["points"] = 3345.088274385583,
       },
@@ -32707,7 +32707,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 453,
         ["dps_max"] = 8709.0,
-        ["points"] = 7635.983263598326,
+        ["points"] = 7637.219027705176,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -32938,7 +32938,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 762,
         ["dps_max"] = 7247.52,
-        ["points"] = 6019.874476987448,
+        ["points"] = 6021.955044432829,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -33246,7 +33246,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 370,
         ["dps_max"] = 9135.86,
-        ["points"] = 8070.083682008368,
+        ["points"] = 8071.09252483011,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -33400,7 +33400,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 194,
         ["dps_max"] = 10650.0,
-        ["points"] = 8991.880920162383,
+        ["points"] = 8992.562542258282,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -33475,9 +33475,9 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1201,
+        ["rank_raids"] = 1202,
         ["dps_max"] = 5782.46,
-        ["points"] = 3723.849372384937,
+        ["points"] = 3721.9027705175117,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -33631,7 +33631,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 451,
         ["dps_max"] = 8711.61,
-        ["points"] = 7646.443514644351,
+        ["points"] = 7647.673810768426,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -33706,9 +33706,9 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 920,
+        ["rank_raids"] = 921,
         ["dps_max"] = 6734.47,
-        ["points"] = 5196.211096075778,
+        ["points"] = 5192.697768762678,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -34245,9 +34245,9 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1070,
+        ["rank_raids"] = 1071,
         ["dps_max"] = 6184.73,
-        ["points"] = 4408.995815899581,
+        ["points"] = 4406.691061160481,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -34401,7 +34401,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 16,
         ["dps_max"] = 14312.62,
-        ["points"] = 9921.54811715481,
+        ["points"] = 9921.589127025614,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -34632,7 +34632,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 362,
         ["dps_max"] = 9198.67,
-        ["points"] = 8111.9246861924685,
+        ["points"] = 8112.911657083115,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -34863,7 +34863,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 336,
         ["dps_max"] = 9429.68,
-        ["points"] = 8247.907949790795,
+        ["points"] = 8248.823836905385,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -35400,7 +35400,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1752,
+        ["rank_raids"] = 1753,
         ["dps_max"] = 3513.5,
         ["points"] = 2133.315360902799,
       },
@@ -35787,7 +35787,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 150,
         ["dps_max"] = 11291.35,
-        ["points"] = 9221.92151556157,
+        ["points"] = 9222.447599729547,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -35939,7 +35939,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1896,
+        ["rank_raids"] = 1897,
         ["dps_max"] = 1161.48,
         ["points"] = 705.2236019300934,
       },
@@ -36170,7 +36170,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1478,
+        ["rank_raids"] = 1479,
         ["dps_max"] = 4794.49,
         ["points"] = 2911.102651115657,
       },
@@ -36249,7 +36249,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 658,
         ["dps_max"] = 7679.01,
-        ["points"] = 6563.807531380753,
+        ["points"] = 6565.603763721902,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -36634,7 +36634,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 441,
         ["dps_max"] = 8764.26,
-        ["points"] = 7698.744769874477,
+        ["points"] = 7699.947726084683,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -36788,7 +36788,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 131,
         ["dps_max"] = 11595.11,
-        ["points"] = 9320.083682008368,
+        ["points"] = 9320.439100888656,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -37019,7 +37019,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 754,
         ["dps_max"] = 7266.24,
-        ["points"] = 6061.715481171548,
+        ["points"] = 6063.7741766858335,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -37404,7 +37404,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 333,
         ["dps_max"] = 9446.86,
-        ["points"] = 8263.598326359832,
+        ["points"] = 8264.506011500262,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -37866,7 +37866,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 231,
         ["dps_max"] = 10268.89,
-        ["points"] = 8797.071129707112,
+        ["points"] = 8797.699947726083,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -38020,7 +38020,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 773,
         ["dps_max"] = 7209.1,
-        ["points"] = 5962.343096234309,
+        ["points"] = 5964.453737584945,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -38251,7 +38251,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 274,
         ["dps_max"] = 9909.56,
-        ["points"] = 8572.175732217573,
+        ["points"] = 8572.922111866179,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -39712,7 +39712,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1527,
+        ["rank_raids"] = 1528,
         ["dps_max"] = 4627.45,
         ["points"] = 2809.679853937572,
       },
@@ -39789,9 +39789,9 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1215,
+        ["rank_raids"] = 1216,
         ["dps_max"] = 5750.2,
-        ["points"] = 3650.6276150627614,
+        ["points"] = 3648.7192890747515,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -40099,7 +40099,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 587,
         ["dps_max"] = 8014.72,
-        ["points"] = 6935.1464435146445,
+        ["points"] = 6936.748562467329,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -40405,7 +40405,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1838,
+        ["rank_raids"] = 1839,
         ["dps_max"] = 2851.68,
         ["points"] = 1731.4736725143855,
       },
@@ -40715,7 +40715,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 355,
         ["dps_max"] = 9284.47,
-        ["points"] = 8148.535564853556,
+        ["points"] = 8149.503397804495,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -40946,7 +40946,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 423,
         ["dps_max"] = 8862.16,
-        ["points"] = 7792.887029288703,
+        ["points"] = 7794.040773653946,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -41100,7 +41100,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 44,
         ["dps_max"] = 13184.51,
-        ["points"] = 9775.10460251046,
+        ["points"] = 9775.222164140094,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -41252,7 +41252,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1568,
+        ["rank_raids"] = 1569,
         ["dps_max"] = 4427.61,
         ["points"] = 2688.3416607618733,
       },
@@ -41331,7 +41331,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 859,
         ["dps_max"] = 6954.0,
-        ["points"] = 5512.55230125523,
+        ["points"] = 5514.8980658651335,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -42101,7 +42101,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 640,
         ["dps_max"] = 7736.44,
-        ["points"] = 6657.949790794979,
+        ["points"] = 6659.696811291165,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -42330,9 +42330,9 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1132,
+        ["rank_raids"] = 1133,
         ["dps_max"] = 5997.93,
-        ["points"] = 4093.369418132612,
+        ["points"] = 4090.601757944557,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -42871,7 +42871,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 844,
         ["dps_max"] = 6985.08,
-        ["points"] = 5591.004184100419,
+        ["points"] = 5593.308938839519,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -42948,7 +42948,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 285,
         ["dps_max"] = 9761.39,
-        ["points"] = 8514.644351464436,
+        ["points"] = 8515.420805018295,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -43025,7 +43025,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 381,
         ["dps_max"] = 9060.99,
-        ["points"] = 8012.55230125523,
+        ["points"] = 8013.591217982226,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -43100,7 +43100,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1794,
+        ["rank_raids"] = 1795,
         ["dps_max"] = 3231.54,
         ["points"] = 1962.1158165282002,
       },
@@ -43718,7 +43718,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 905,
         ["dps_max"] = 6818.06,
-        ["points"] = 5271.966527196653,
+        ["points"] = 5274.43805541035,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -44101,7 +44101,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1887,
+        ["rank_raids"] = 1888,
         ["dps_max"] = 1858.29,
         ["points"] = 1128.3104033049844,
       },
@@ -44563,7 +44563,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1671,
+        ["rank_raids"] = 1672,
         ["dps_max"] = 3890.04,
         ["points"] = 2361.9416782485623,
       },
@@ -44719,7 +44719,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 410,
         ["dps_max"] = 8923.41,
-        ["points"] = 7860.878661087866,
+        ["points"] = 7861.99686356508,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -44794,9 +44794,9 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 991,
+        ["rank_raids"] = 992,
         ["dps_max"] = 6462.68,
-        ["points"] = 4822.175732217574,
+        ["points"] = 4819.654992158913,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -44948,7 +44948,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1828,
+        ["rank_raids"] = 1829,
         ["dps_max"] = 2930.05,
         ["points"] = 1779.0581110611206,
       },
@@ -45410,7 +45410,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1803,
+        ["rank_raids"] = 1804,
         ["dps_max"] = 3148.72,
         ["points"] = 1911.8294416342283,
       },
@@ -45564,9 +45564,9 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1204,
+        ["rank_raids"] = 1205,
         ["dps_max"] = 5776.71,
-        ["points"] = 3708.1589958158993,
+        ["points"] = 3706.220595922635,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -45797,7 +45797,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 327,
         ["dps_max"] = 9479.22,
-        ["points"] = 8294.979079497909,
+        ["points"] = 8295.870360690014,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -45872,9 +45872,9 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 944,
+        ["rank_raids"] = 945,
         ["dps_max"] = 6636.75,
-        ["points"] = 5067.991631799164,
+        ["points"] = 5065.342394145321,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -46336,7 +46336,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 514,
         ["dps_max"] = 8391.09,
-        ["points"] = 7316.94560669456,
+        ["points"] = 7318.348144276007,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -46798,7 +46798,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 58,
         ["dps_max"] = 12911.73,
-        ["points"] = 9701.882845188284,
+        ["points"] = 9702.038682697334,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -46950,7 +46950,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1706,
+        ["rank_raids"] = 1707,
         ["dps_max"] = 3735.57,
         ["points"] = 2268.151092280538,
       },
@@ -47797,9 +47797,9 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1134,
+        ["rank_raids"] = 1135,
         ["dps_max"] = 5989.33,
-        ["points"] = 4079.8376184032477,
+        ["points"] = 4077.079107505071,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -48107,7 +48107,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 572,
         ["dps_max"] = 8089.28,
-        ["points"] = 7013.598326359832,
+        ["points"] = 7015.159435441715,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -48567,7 +48567,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1589,
+        ["rank_raids"] = 1590,
         ["dps_max"] = 4339.27,
         ["points"] = 2634.703670443914,
       },
@@ -48954,7 +48954,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 294,
         ["dps_max"] = 9673.57,
-        ["points"] = 8467.573221757322,
+        ["points"] = 8468.374281233664,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -49262,7 +49262,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 722,
         ["dps_max"] = 7424.88,
-        ["points"] = 6229.07949790795,
+        ["points"] = 6231.050705697857,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -49799,7 +49799,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1377,
+        ["rank_raids"] = 1378,
         ["dps_max"] = 5202.04,
         ["points"] = 3158.557518153066,
       },
@@ -49955,7 +49955,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 213,
         ["dps_max"] = 10465.93,
-        ["points"] = 8891.213389121338,
+        ["points"] = 8891.792995295347,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -50417,7 +50417,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 288,
         ["dps_max"] = 9717.31,
-        ["points"] = 8498.953974895398,
+        ["points"] = 8499.738630423419,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -51108,7 +51108,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1383,
+        ["rank_raids"] = 1384,
         ["dps_max"] = 5189.65,
         ["points"] = 3151.034598750309,
       },
@@ -51726,7 +51726,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 118,
         ["dps_max"] = 11765.25,
-        ["points"] = 9388.07531380753,
+        ["points"] = 9388.39519079979,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -51801,9 +51801,9 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1076,
+        ["rank_raids"] = 1077,
         ["dps_max"] = 6173.74,
-        ["points"] = 4377.615062761506,
+        ["points"] = 4375.326711970727,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -51880,7 +51880,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 863,
         ["dps_max"] = 6944.2,
-        ["points"] = 5491.63179916318,
+        ["points"] = 5493.98849973863,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -51955,9 +51955,9 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 931,
+        ["rank_raids"] = 932,
         ["dps_max"] = 6682.06,
-        ["points"] = 5135.983263598326,
+        ["points"] = 5133.298484056456,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -52188,7 +52188,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 534,
         ["dps_max"] = 8305.98,
-        ["points"] = 7212.343096234309,
+        ["points"] = 7213.800313643492,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -52287,7 +52287,7 @@ UWULogsData[3][1] = {
   ["Unknown-0B028EE"] = {
     ["percentile"] = 12.678,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -52826,7 +52826,7 @@ UWULogsData[3][1] = {
   ["Unknown-03E084E"] = {
     ["percentile"] = 12.159,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -53651,7 +53651,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 311,
         ["dps_max"] = 9558.11,
-        ["points"] = 8378.661087866109,
+        ["points"] = 8379.508625196027,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -54344,7 +54344,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 312,
         ["dps_max"] = 9554.47,
-        ["points"] = 8373.430962343096,
+        ["points"] = 8374.281233664402,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -54597,7 +54597,7 @@ UWULogsData[3][1] = {
   ["Unknown-0BB7A96"] = {
     ["percentile"] = 11.046,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -55499,7 +55499,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 873,
         ["dps_max"] = 6905.73,
-        ["points"] = 5439.330543933054,
+        ["points"] = 5441.714584422373,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -56038,7 +56038,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 271,
         ["dps_max"] = 9927.89,
-        ["points"] = 8587.866108786611,
+        ["points"] = 8588.604286461055,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -56115,7 +56115,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 35,
         ["dps_max"] = 13428.94,
-        ["points"] = 9822.175732217573,
+        ["points"] = 9822.268687924725,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -56500,7 +56500,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 302,
         ["dps_max"] = 9623.26,
-        ["points"] = 8425.732217573222,
+        ["points"] = 8426.555148980658,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -57193,7 +57193,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 276,
         ["dps_max"] = 9888.38,
-        ["points"] = 8561.715481171548,
+        ["points"] = 8562.467328802928,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -57268,7 +57268,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1801,
+        ["rank_raids"] = 1802,
         ["dps_max"] = 3159.49,
         ["points"] = 1918.3687347712494,
       },
@@ -57732,7 +57732,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 440,
         ["dps_max"] = 8767.19,
-        ["points"] = 7703.9748953974895,
+        ["points"] = 7705.17511761631,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -57908,7 +57908,7 @@ UWULogsData[3][1] = {
   ["Unknown-0A8E2F3"] = {
     ["percentile"] = 8.877,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -58370,7 +58370,7 @@ UWULogsData[3][1] = {
   ["Unknown-09106D9"] = {
     ["percentile"] = 8.713,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -59270,7 +59270,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1909,
+        ["rank_raids"] = 1910,
         ["dps_max"] = 120.43,
         ["points"] = 73.12229085342938,
       },
@@ -59525,7 +59525,7 @@ UWULogsData[3][1] = {
   ["Unknown-00029D7"] = {
     ["percentile"] = 8.246,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -59888,7 +59888,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 906,
         ["dps_max"] = 6808.23,
-        ["points"] = 5266.736401673641,
+        ["points"] = 5269.210663878725,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -59963,7 +59963,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1866,
+        ["rank_raids"] = 1867,
         ["dps_max"] = 2380.84,
         ["points"] = 1445.590591675486,
       },
@@ -60141,7 +60141,7 @@ UWULogsData[3][1] = {
   ["Unknown-07E177E"] = {
     ["percentile"] = 7.922,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -60218,7 +60218,7 @@ UWULogsData[3][1] = {
   ["Unknown-0BA13D6"] = {
     ["percentile"] = 7.912,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -60988,7 +60988,7 @@ UWULogsData[3][1] = {
   ["Unknown-01AEE6C"] = {
     ["percentile"] = 7.435,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -61296,7 +61296,7 @@ UWULogsData[3][1] = {
   ["Unknown-07778C8"] = {
     ["percentile"] = 7.243,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -61450,7 +61450,7 @@ UWULogsData[3][1] = {
   ["Unknown-000D5A6"] = {
     ["percentile"] = 7.207,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -61604,7 +61604,7 @@ UWULogsData[3][1] = {
   ["Unknown-0914FB9"] = {
     ["percentile"] = 7.16,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -61734,9 +61734,9 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1013,
+        ["rank_raids"] = 1014,
         ["dps_max"] = 6349.37,
-        ["points"] = 4707.112970711297,
+        ["points"] = 4704.652378463146,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -62660,7 +62660,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 184,
         ["dps_max"] = 10793.84,
-        ["points"] = 9046.008119079837,
+        ["points"] = 9046.653144016227,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -62735,7 +62735,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1540,
+        ["rank_raids"] = 1541,
         ["dps_max"] = 4561.25,
         ["points"] = 2769.484755918,
       },
@@ -62812,9 +62812,9 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1260,
+        ["rank_raids"] = 1261,
         ["dps_max"] = 5603.2,
-        ["points"] = 3415.271966527197,
+        ["points"] = 3413.4866701515944,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -63144,7 +63144,7 @@ UWULogsData[3][1] = {
   ["Unknown-0A8BB68"] = {
     ["percentile"] = 6.536,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -63375,7 +63375,7 @@ UWULogsData[3][1] = {
   ["Unknown-0A81D14"] = {
     ["percentile"] = 6.507,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -63606,7 +63606,7 @@ UWULogsData[3][1] = {
   ["Unknown-0A9DE70"] = {
     ["percentile"] = 6.425,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -63892,7 +63892,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 771,
         ["dps_max"] = 7214.2,
-        ["points"] = 5972.8033472803345,
+        ["points"] = 5974.908520648197,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -64121,9 +64121,9 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1206,
+        ["rank_raids"] = 1207,
         ["dps_max"] = 5771.48,
-        ["points"] = 3697.6987447698743,
+        ["points"] = 3695.7658128593835,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -64354,7 +64354,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 82,
         ["dps_max"] = 12361.27,
-        ["points"] = 9576.359832635982,
+        ["points"] = 9576.581285938317,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -64530,7 +64530,7 @@ UWULogsData[3][1] = {
   ["Unknown-035DBFE"] = {
     ["percentile"] = 6.217,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -64739,7 +64739,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 363,
         ["dps_max"] = 9197.02,
-        ["points"] = 8106.694560669456,
+        ["points"] = 8107.68426555149,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -64915,7 +64915,7 @@ UWULogsData[3][1] = {
   ["Unknown-0B12FA2"] = {
     ["percentile"] = 6.044,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -65189,9 +65189,9 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 20588,
+        ["rank_raids"] = 20593,
         ["dps_max"] = 149.8,
-        ["points"] = 5492.200000000001,
+        ["points"] = 5491.699999999999,
       },
       ["The Lich King"] = {
         ["rank_raids"] = nil,
@@ -65199,9 +65199,9 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 8120,
+        ["rank_raids"] = 8126,
         ["dps_max"] = 11.4,
-        ["points"] = 61.55950752393981,
+        ["points"] = 61.52794394120663,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -65214,9 +65214,9 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Valithria Dreamwalker"] = {
-        ["rank_raids"] = 43693,
+        ["rank_raids"] = 43700,
         ["dps_max"] = 21690.64,
-        ["points"] = 3181.6999999999994,
+        ["points"] = 3180.9999999999995,
       },
     },
   },
@@ -65762,7 +65762,7 @@ UWULogsData[3][1] = {
   ["Unknown-051ABE6"] = {
     ["percentile"] = 5.795,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -65969,7 +65969,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1893,
+        ["rank_raids"] = 1894,
         ["dps_max"] = 1556.75,
         ["points"] = 945.2223390025423,
       },
@@ -66048,7 +66048,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 191,
         ["dps_max"] = 10693.53,
-        ["points"] = 9012.178619756429,
+        ["points"] = 9012.846517917513,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -66125,7 +66125,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 734,
         ["dps_max"] = 7383.65,
-        ["points"] = 6166.317991631799,
+        ["points"] = 6168.322007318348,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -66895,7 +66895,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 770,
         ["dps_max"] = 7217.09,
-        ["points"] = 5978.033472803347,
+        ["points"] = 5980.135912179822,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -67302,7 +67302,7 @@ UWULogsData[3][1] = {
   ["Unknown-01C9C58"] = {
     ["percentile"] = 5.179,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -67687,7 +67687,7 @@ UWULogsData[3][1] = {
   ["Unknown-001D8CF"] = {
     ["percentile"] = 4.959,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -67764,7 +67764,7 @@ UWULogsData[3][1] = {
   ["Unknown-0731318"] = {
     ["percentile"] = 4.933,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -68380,7 +68380,7 @@ UWULogsData[3][1] = {
   ["Unknown-0858A6D"] = {
     ["percentile"] = 4.769,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -68611,7 +68611,7 @@ UWULogsData[3][1] = {
   ["Unknown-0A97324"] = {
     ["percentile"] = 4.69,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -68688,7 +68688,7 @@ UWULogsData[3][1] = {
   ["Unknown-07EE866"] = {
     ["percentile"] = 4.59,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -68919,7 +68919,7 @@ UWULogsData[3][1] = {
   ["Unknown-0739998"] = {
     ["percentile"] = 4.574,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -68996,7 +68996,7 @@ UWULogsData[3][1] = {
   ["Unknown-07995F6"] = {
     ["percentile"] = 4.556,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -69205,7 +69205,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 229,
         ["dps_max"] = 10293.56,
-        ["points"] = 8807.531380753138,
+        ["points"] = 8808.154730789336,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -69282,7 +69282,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 851,
         ["dps_max"] = 6976.12,
-        ["points"] = 5554.39330543933,
+        ["points"] = 5556.71719811814,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -69359,7 +69359,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 190,
         ["dps_max"] = 10696.04,
-        ["points"] = 9018.944519621109,
+        ["points"] = 9019.607843137255,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -69612,7 +69612,7 @@ UWULogsData[3][1] = {
   ["Unknown-0571776"] = {
     ["percentile"] = 4.485,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -70050,9 +70050,9 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 960,
+        ["rank_raids"] = 961,
         ["dps_max"] = 6574.08,
-        ["points"] = 4984.309623430962,
+        ["points"] = 4981.70412963931,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -70228,7 +70228,7 @@ UWULogsData[3][1] = {
   ["Unknown-0090CCA"] = {
     ["percentile"] = 4.337,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -70437,7 +70437,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 296,
         ["dps_max"] = 9668.96,
-        ["points"] = 8457.112970711298,
+        ["points"] = 8457.919498170413,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -70514,7 +70514,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 22,
         ["dps_max"] = 14122.39,
-        ["points"] = 9890.167364016737,
+        ["points"] = 9890.22477783586,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -70745,7 +70745,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 547,
         ["dps_max"] = 8214.46,
-        ["points"] = 7144.351464435147,
+        ["points"] = 7145.844223732357,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -70899,7 +70899,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 674,
         ["dps_max"] = 7626.46,
-        ["points"] = 6480.125523012552,
+        ["points"] = 6481.965499215891,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -71152,7 +71152,7 @@ UWULogsData[3][1] = {
   ["Unknown-011EE3F"] = {
     ["percentile"] = 4.059,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -71383,7 +71383,7 @@ UWULogsData[3][1] = {
   ["Unknown-03AEF60"] = {
     ["percentile"] = 3.945,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -71537,7 +71537,7 @@ UWULogsData[3][1] = {
   ["Unknown-0AC85A2"] = {
     ["percentile"] = 3.903,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -71768,7 +71768,7 @@ UWULogsData[3][1] = {
   ["Unknown-0A4472F"] = {
     ["percentile"] = 3.812,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -72054,7 +72054,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 753,
         ["dps_max"] = 7269.81,
-        ["points"] = 6066.94560669456,
+        ["points"] = 6069.001568217459,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -72131,7 +72131,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 27,
         ["dps_max"] = 13883.08,
-        ["points"] = 9864.016736401674,
+        ["points"] = 9864.087820177732,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -72153,7 +72153,7 @@ UWULogsData[3][1] = {
   ["Unknown-07FF9B1"] = {
     ["percentile"] = 3.676,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -72283,7 +72283,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1684,
+        ["rank_raids"] = 1685,
         ["dps_max"] = 3833.58,
         ["points"] = 2327.66048135755,
       },
@@ -72538,7 +72538,7 @@ UWULogsData[3][1] = {
   ["Unknown-014EC3F"] = {
     ["percentile"] = 3.501,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -72615,7 +72615,7 @@ UWULogsData[3][1] = {
   ["Unknown-0A48D04"] = {
     ["percentile"] = 3.486,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -72769,7 +72769,7 @@ UWULogsData[3][1] = {
   ["Unknown-0927BF2"] = {
     ["percentile"] = 3.447,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -72899,7 +72899,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1440,
+        ["rank_raids"] = 1441,
         ["dps_max"] = 4970.42,
         ["points"] = 3017.9232492211445,
       },
@@ -73154,7 +73154,7 @@ UWULogsData[3][1] = {
   ["Unknown-015C3B9"] = {
     ["percentile"] = 3.273,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -73308,7 +73308,7 @@ UWULogsData[3][1] = {
   ["Unknown-0A18324"] = {
     ["percentile"] = 3.188,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -73592,9 +73592,9 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 965,
+        ["rank_raids"] = 966,
         ["dps_max"] = 6565.43,
-        ["points"] = 4958.158995815899,
+        ["points"] = 4955.567171981181,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -73924,7 +73924,7 @@ UWULogsData[3][1] = {
   ["Unknown-09FF141"] = {
     ["percentile"] = 2.815,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -74232,7 +74232,7 @@ UWULogsData[3][1] = {
   ["Unknown-07DB2D0"] = {
     ["percentile"] = 2.565,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -74540,7 +74540,7 @@ UWULogsData[3][1] = {
   ["Unknown-02698A7"] = {
     ["percentile"] = 2.396,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -74903,7 +74903,7 @@ UWULogsData[3][1] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 678,
         ["dps_max"] = 7604.89,
-        ["points"] = 6459.205020920502,
+        ["points"] = 6461.055933089388,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -75079,7 +75079,7 @@ UWULogsData[3][1] = {
   ["Unknown-0698624"] = {
     ["percentile"] = 1.915,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -75233,7 +75233,7 @@ UWULogsData[3][1] = {
   ["Unknown-0A561A6"] = {
     ["percentile"] = 1.703,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -75387,7 +75387,7 @@ UWULogsData[3][1] = {
   ["Unknown-087694E"] = {
     ["percentile"] = 1.314,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -75517,7 +75517,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1855,
+        ["rank_raids"] = 1856,
         ["dps_max"] = 2595.73,
         ["points"] = 1576.0667942952107,
       },
@@ -75594,7 +75594,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1642,
+        ["rank_raids"] = 1643,
         ["dps_max"] = 4061.53,
         ["points"] = 2466.066411773885,
       },
@@ -75618,7 +75618,7 @@ UWULogsData[3][1] = {
   ["Unknown-0BB66F6"] = {
     ["percentile"] = 0.969,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -75849,7 +75849,7 @@ UWULogsData[3][1] = {
   ["Unknown-0B5EB5E"] = {
     ["percentile"] = 0.479,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7179,
+    ["overall_rank"] = 7182,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -75979,7 +75979,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1420,
+        ["rank_raids"] = 1421,
         ["dps_max"] = 5074.17,
         ["points"] = 3080.917832597739,
       },

@@ -141,7 +141,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 5,
         ["dps_max"] = 3729.37,
-        ["points"] = 9976.717112922002,
+        ["points"] = 9976.73065735893,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 96,
@@ -218,7 +218,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 6,
         ["dps_max"] = 3705.65,
-        ["points"] = 9970.896391152502,
+        ["points"] = 9970.913321698663,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 156,
@@ -295,7 +295,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 14,
         ["dps_max"] = 3341.31,
-        ["points"] = 9924.330616996507,
+        ["points"] = 9924.374636416522,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 55,
@@ -372,7 +372,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 13,
         ["dps_max"] = 3349.57,
-        ["points"] = 9930.151338766007,
+        ["points"] = 9930.19197207679,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -444,12 +444,12 @@ UWULogsData[9][3] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 8,
         ["dps_max"] = 5529.5,
-        ["points"] = 9947.328818660646,
+        ["points"] = 9947.368421052632,
       },
       ["Halion"] = {
         ["rank_raids"] = 20,
         ["dps_max"] = 3213.55,
-        ["points"] = 9889.406286379512,
+        ["points"] = 9889.470622454915,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -524,9 +524,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1487,
+        ["rank_raids"] = 1488,
         ["dps_max"] = 462.4,
-        ["points"] = 1350.407450523865,
+        ["points"] = 1349.6218731820825,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -603,7 +603,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 110,
         ["dps_max"] = 2278.7,
-        ["points"] = 9365.541327124563,
+        ["points"] = 9365.910413030831,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -673,14 +673,14 @@ UWULogsData[9][3] = {
         ["points"] = 9261.083743842364,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 69,
+        ["rank_raids"] = 70,
         ["dps_max"] = 3917.47,
-        ["points"] = 9488.337095560571,
+        ["points"] = 9481.203007518798,
       },
       ["Halion"] = {
         ["rank_raids"] = 3,
         ["dps_max"] = 3956.79,
-        ["points"] = 9988.358556461,
+        ["points"] = 9988.365328679465,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 115,
@@ -832,9 +832,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 566,
+        ["rank_raids"] = 567,
         ["dps_max"] = 1244.24,
-        ["points"] = 6711.292200232829,
+        ["points"] = 6707.38801628854,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -988,7 +988,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 42,
         ["dps_max"] = 2999.12,
-        ["points"] = 9761.350407450524,
+        ["points"] = 9761.489237929029,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -1219,7 +1219,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 19,
         ["dps_max"] = 3230.76,
-        ["points"] = 9895.22700814901,
+        ["points"] = 9895.287958115183,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 68,
@@ -1294,9 +1294,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 744,
+        ["rank_raids"] = 745,
         ["dps_max"] = 1091.14,
-        ["points"] = 5675.203725261933,
+        ["points"] = 5671.902268760908,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 91,
@@ -1373,7 +1373,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 155,
         ["dps_max"] = 2020.78,
-        ["points"] = 9103.60884749709,
+        ["points"] = 9104.13030831879,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -1448,9 +1448,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 364,
+        ["rank_raids"] = 365,
         ["dps_max"] = 1515.08,
-        ["points"] = 7887.077997671711,
+        ["points"] = 7882.4898196625945,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -1525,9 +1525,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 425,
+        ["rank_raids"] = 426,
         ["dps_max"] = 1415.89,
-        ["points"] = 7532.013969732247,
+        ["points"] = 7527.632344386271,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 49,
@@ -1602,9 +1602,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 592,
+        ["rank_raids"] = 593,
         ["dps_max"] = 1224.43,
-        ["points"] = 6559.953434225844,
+        ["points"] = 6556.1372891215815,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -1679,9 +1679,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 357,
+        ["rank_raids"] = 358,
         ["dps_max"] = 1523.96,
-        ["points"] = 7927.823050058207,
+        ["points"] = 7923.211169284467,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -1758,7 +1758,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 104,
         ["dps_max"] = 2365.76,
-        ["points"] = 9400.46565774156,
+        ["points"] = 9400.814426992438,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -1835,7 +1835,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 41,
         ["dps_max"] = 3010.44,
-        ["points"] = 9767.171129220023,
+        ["points"] = 9767.306573589296,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -1912,7 +1912,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 71,
         ["dps_max"] = 2733.26,
-        ["points"] = 9592.54947613504,
+        ["points"] = 9592.786503781268,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -1989,7 +1989,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 64,
         ["dps_max"] = 2790.4,
-        ["points"] = 9633.294528521537,
+        ["points"] = 9633.507853403142,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -2141,9 +2141,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 752,
+        ["rank_raids"] = 753,
         ["dps_max"] = 1085.86,
-        ["points"] = 5628.637951105937,
+        ["points"] = 5625.3635834787665,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 40,
@@ -2218,9 +2218,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 665,
+        ["rank_raids"] = 666,
         ["dps_max"] = 1153.61,
-        ["points"] = 6135.040745052387,
+        ["points"] = 6131.471785922048,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 97,
@@ -2297,7 +2297,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 8,
         ["dps_max"] = 3552.26,
-        ["points"] = 9959.254947613505,
+        ["points"] = 9959.278650378128,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -2372,9 +2372,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1008,
+        ["rank_raids"] = 1009,
         ["dps_max"] = 909.77,
-        ["points"] = 4138.533178114086,
+        ["points"] = 4136.125654450262,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -2446,12 +2446,12 @@ UWULogsData[9][3] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 12,
         ["dps_max"] = 5237.89,
-        ["points"] = 9917.231000752445,
+        ["points"] = 9917.293233082706,
       },
       ["Halion"] = {
-        ["rank_raids"] = 275,
+        ["rank_raids"] = 276,
         ["dps_max"] = 1659.23,
-        ["points"] = 8405.12223515716,
+        ["points"] = 8400.232693426411,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -2682,7 +2682,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 27,
         ["dps_max"] = 3165.25,
-        ["points"] = 9848.661233993014,
+        ["points"] = 9848.749272833044,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -2757,9 +2757,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 908,
+        ["rank_raids"] = 909,
         ["dps_max"] = 985.0,
-        ["points"] = 4720.605355064028,
+        ["points"] = 4717.859220477021,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 93,
@@ -2913,7 +2913,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 66,
         ["dps_max"] = 2783.5,
-        ["points"] = 9621.653084982538,
+        ["points"] = 9621.873182082607,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 47,
@@ -3060,14 +3060,14 @@ UWULogsData[9][3] = {
         ["points"] = 8965.51724137931,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 170,
+        ["rank_raids"] = 171,
         ["dps_max"] = 3398.2,
-        ["points"] = 8728.36719337848,
+        ["points"] = 8721.804511278195,
       },
       ["Halion"] = {
-        ["rank_raids"] = 817,
+        ["rank_raids"] = 818,
         ["dps_max"] = 1044.53,
-        ["points"] = 5250.291036088474,
+        ["points"] = 5247.2367655613725,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -3142,9 +3142,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 756,
+        ["rank_raids"] = 757,
         ["dps_max"] = 1083.08,
-        ["points"] = 5605.355064027939,
+        ["points"] = 5602.094240837696,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -3375,7 +3375,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 79,
         ["dps_max"] = 2647.49,
-        ["points"] = 9545.983701979045,
+        ["points"] = 9546.247818499127,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -3450,9 +3450,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 485,
+        ["rank_raids"] = 486,
         ["dps_max"] = 1323.33,
-        ["points"] = 7182.770663562281,
+        ["points"] = 7178.592204770215,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -3527,9 +3527,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1130,
+        ["rank_raids"] = 1131,
         ["dps_max"] = 822.86,
-        ["points"] = 3428.405122235157,
+        ["points"] = 3426.410703897615,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -3606,7 +3606,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 192,
         ["dps_max"] = 1880.29,
-        ["points"] = 8888.24214202561,
+        ["points"] = 8888.888888888889,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -3753,14 +3753,14 @@ UWULogsData[9][3] = {
         ["points"] = 2975.544710042005,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 263,
+        ["rank_raids"] = 264,
         ["dps_max"] = 3074.3,
-        ["points"] = 8028.592927012792,
+        ["points"] = 8022.556390977444,
       },
       ["Halion"] = {
-        ["rank_raids"] = 794,
+        ["rank_raids"] = 795,
         ["dps_max"] = 1056.27,
-        ["points"] = 5384.167636786961,
+        ["points"] = 5381.035485747528,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -3835,9 +3835,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 418,
+        ["rank_raids"] = 419,
         ["dps_max"] = 1431.98,
-        ["points"] = 7572.759022118742,
+        ["points"] = 7568.353694008144,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -3907,9 +3907,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 328,
+        ["rank_raids"] = 329,
         ["dps_max"] = 2927.53,
-        ["points"] = 7539.503386004515,
+        ["points"] = 7533.834586466165,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -4220,9 +4220,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 241,
+        ["rank_raids"] = 242,
         ["dps_max"] = 1754.49,
-        ["points"] = 8603.026775320139,
+        ["points"] = 8598.022105875509,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -4451,9 +4451,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 607,
+        ["rank_raids"] = 608,
         ["dps_max"] = 1203.08,
-        ["points"] = 6472.642607683353,
+        ["points"] = 6468.877254217568,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -4528,9 +4528,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 305,
+        ["rank_raids"] = 306,
         ["dps_max"] = 1608.12,
-        ["points"] = 8230.500582072176,
+        ["points"] = 8225.712623618383,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 101,
@@ -4682,9 +4682,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 343,
+        ["rank_raids"] = 344,
         ["dps_max"] = 1546.17,
-        ["points"] = 8009.313154831199,
+        ["points"] = 8004.653868528214,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -4754,12 +4754,12 @@ UWULogsData[9][3] = {
         ["points"] = 4532.019704433497,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 51,
+        ["rank_raids"] = 52,
         ["dps_max"] = 4077.63,
-        ["points"] = 9623.777276147479,
+        ["points"] = 9616.541353383458,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1621,
+        ["rank_raids"] = 1622,
         ["dps_max"] = 304.59,
         ["points"] = 739.9570490146539,
       },
@@ -4838,7 +4838,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 88,
         ["dps_max"] = 2509.42,
-        ["points"] = 9493.597206053551,
+        ["points"] = 9493.89179755672,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -5144,9 +5144,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 977,
+        ["rank_raids"] = 978,
         ["dps_max"] = 934.97,
-        ["points"] = 4318.975552968568,
+        ["points"] = 4316.4630599185575,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 89,
@@ -5375,9 +5375,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 895,
+        ["rank_raids"] = 896,
         ["dps_max"] = 990.61,
-        ["points"] = 4796.27473806752,
+        ["points"] = 4793.4845840605,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -5606,9 +5606,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 571,
+        ["rank_raids"] = 572,
         ["dps_max"] = 1237.76,
-        ["points"] = 6682.188591385332,
+        ["points"] = 6678.301337987202,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 42,
@@ -5685,7 +5685,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 100,
         ["dps_max"] = 2395.33,
-        ["points"] = 9423.748544819558,
+        ["points"] = 9424.083769633507,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -5762,7 +5762,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 176,
         ["dps_max"] = 1930.98,
-        ["points"] = 8981.373690337601,
+        ["points"] = 8981.966259453171,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -5832,14 +5832,14 @@ UWULogsData[9][3] = {
         ["points"] = 2929.837418029071,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 599,
+        ["rank_raids"] = 600,
         ["dps_max"] = 2420.33,
-        ["points"] = 5500.376222723853,
+        ["points"] = 5496.240601503759,
       },
       ["Halion"] = {
-        ["rank_raids"] = 670,
+        ["rank_raids"] = 671,
         ["dps_max"] = 1150.71,
-        ["points"] = 6105.93713620489,
+        ["points"] = 6102.385107620709,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -5909,9 +5909,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 217,
+        ["rank_raids"] = 218,
         ["dps_max"] = 3209.47,
-        ["points"] = 8374.71783295711,
+        ["points"] = 8368.42105263158,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -5986,14 +5986,14 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 504,
+        ["rank_raids"] = 505,
         ["dps_max"] = 2554.11,
-        ["points"] = 6215.199398043642,
+        ["points"] = 6210.526315789474,
       },
       ["Halion"] = {
-        ["rank_raids"] = 459,
+        ["rank_raids"] = 460,
         ["dps_max"] = 1364.34,
-        ["points"] = 7334.1094295692665,
+        ["points"] = 7329.842931937173,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -6070,7 +6070,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 46,
         ["dps_max"] = 2964.72,
-        ["points"] = 9738.067520372526,
+        ["points"] = 9738.219895287959,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -6301,7 +6301,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 7,
         ["dps_max"] = 3574.13,
-        ["points"] = 9965.075669383003,
+        ["points"] = 9965.095986038395,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -6530,9 +6530,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 822,
+        ["rank_raids"] = 823,
         ["dps_max"] = 1043.34,
-        ["points"] = 5221.187427240978,
+        ["points"] = 5218.150087260035,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -6602,14 +6602,14 @@ UWULogsData[9][3] = {
         ["points"] = 2548.8048109757938,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 40,
+        ["rank_raids"] = 41,
         ["dps_max"] = 4243.46,
-        ["points"] = 9706.546275395034,
+        ["points"] = 9699.248120300752,
       },
       ["Halion"] = {
-        ["rank_raids"] = 991,
+        ["rank_raids"] = 992,
         ["dps_max"] = 923.46,
-        ["points"] = 4237.485448195576,
+        ["points"] = 4235.020360674811,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -6679,9 +6679,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 381,
+        ["rank_raids"] = 382,
         ["dps_max"] = 2800.95,
-        ["points"] = 7140.707298720843,
+        ["points"] = 7135.338345864661,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -6840,7 +6840,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 117,
         ["dps_max"] = 2220.98,
-        ["points"] = 9324.796274738068,
+        ["points"] = 9325.189063408958,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -6910,14 +6910,14 @@ UWULogsData[9][3] = {
         ["points"] = 4950.738916256158,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 269,
+        ["rank_raids"] = 270,
         ["dps_max"] = 3063.63,
-        ["points"] = 7983.446200150489,
+        ["points"] = 7977.443609022556,
       },
       ["Halion"] = {
-        ["rank_raids"] = 666,
+        ["rank_raids"] = 667,
         ["dps_max"] = 1153.3,
-        ["points"] = 6129.220023282887,
+        ["points"] = 6125.654450261781,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -6992,9 +6992,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1105,
+        ["rank_raids"] = 1106,
         ["dps_max"] = 840.88,
-        ["points"] = 3573.923166472643,
+        ["points"] = 3571.8440954043044,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -7146,9 +7146,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1065,
+        ["rank_raids"] = 1066,
         ["dps_max"] = 874.38,
-        ["points"] = 3806.752037252619,
+        ["points"] = 3804.5375218150084,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -7223,9 +7223,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1273,
+        ["rank_raids"] = 1274,
         ["dps_max"] = 717.87,
-        ["points"] = 2596.04190919674,
+        ["points"] = 2594.5317044793487,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -7300,9 +7300,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1039,
+        ["rank_raids"] = 1040,
         ["dps_max"] = 893.92,
-        ["points"] = 3958.090803259604,
+        ["points"] = 3955.7882489819663,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -7377,9 +7377,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1291,
+        ["rank_raids"] = 1292,
         ["dps_max"] = 703.54,
-        ["points"] = 2491.2689173457507,
+        ["points"] = 2489.819662594532,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -7449,9 +7449,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 144,
+        ["rank_raids"] = 145,
         ["dps_max"] = 3510.91,
-        ["points"] = 8924.00300978179,
+        ["points"] = 8917.293233082708,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -7531,9 +7531,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 933,
+        ["rank_raids"] = 934,
         ["dps_max"] = 968.89,
-        ["points"] = 4575.087310826542,
+        ["points"] = 4572.425828970332,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -7608,9 +7608,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1096,
+        ["rank_raids"] = 1097,
         ["dps_max"] = 849.62,
-        ["points"] = 3626.3096623981373,
+        ["points"] = 3624.200116346713,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -7757,9 +7757,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 444,
+        ["rank_raids"] = 445,
         ["dps_max"] = 2666.75,
-        ["points"] = 6666.666666666666,
+        ["points"] = 6661.654135338346,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -7839,9 +7839,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 414,
+        ["rank_raids"] = 415,
         ["dps_max"] = 1443.11,
-        ["points"] = 7596.041909196741,
+        ["points"] = 7591.623036649215,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -7916,9 +7916,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1036,
+        ["rank_raids"] = 1037,
         ["dps_max"] = 895.71,
-        ["points"] = 3975.552968568102,
+        ["points"] = 3973.240255962769,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -7988,14 +7988,14 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 704,
+        ["rank_raids"] = 705,
         ["dps_max"] = 2300.23,
-        ["points"] = 4710.308502633559,
+        ["points"] = 4706.766917293233,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1045,
+        ["rank_raids"] = 1046,
         ["dps_max"] = 890.18,
-        ["points"] = 3923.1664726426075,
+        ["points"] = 3920.8842350203604,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -8065,14 +8065,14 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 602,
+        ["rank_raids"] = 603,
         ["dps_max"] = 2418.4,
-        ["points"] = 5477.802859292701,
+        ["points"] = 5473.684210526316,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1081,
+        ["rank_raids"] = 1082,
         ["dps_max"] = 858.07,
-        ["points"] = 3713.620488940629,
+        ["points"] = 3711.4601512507274,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -8147,9 +8147,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 362,
+        ["rank_raids"] = 363,
         ["dps_max"] = 1518.49,
-        ["points"] = 7898.71944121071,
+        ["points"] = 7894.12449098313,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -8224,9 +8224,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1137,
+        ["rank_raids"] = 1138,
         ["dps_max"] = 818.09,
-        ["points"] = 3387.6600698486614,
+        ["points"] = 3385.6893542757416,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -8303,7 +8303,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 166,
         ["dps_max"] = 1974.41,
-        ["points"] = 9039.580908032596,
+        ["points"] = 9040.139616055847,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 158,
@@ -8373,9 +8373,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 267,
+        ["rank_raids"] = 268,
         ["dps_max"] = 3065.66,
-        ["points"] = 7998.49510910459,
+        ["points"] = 7992.481203007519,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -8532,9 +8532,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 576,
+        ["rank_raids"] = 577,
         ["dps_max"] = 1232.63,
-        ["points"] = 6653.084982537835,
+        ["points"] = 6649.214659685864,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -8917,9 +8917,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 233,
+        ["rank_raids"] = 234,
         ["dps_max"] = 1782.64,
-        ["points"] = 8649.592549476134,
+        ["points"] = 8644.56079115765,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 75,
@@ -8989,14 +8989,14 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 52,
+        ["rank_raids"] = 53,
         ["dps_max"] = 4054.8,
-        ["points"] = 9616.252821670429,
+        ["points"] = 9609.022556390977,
       },
       ["Halion"] = {
-        ["rank_raids"] = 572,
+        ["rank_raids"] = 573,
         ["dps_max"] = 1236.58,
-        ["points"] = 6676.367869615832,
+        ["points"] = 6672.4840023269335,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -9071,9 +9071,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1075,
+        ["rank_raids"] = 1076,
         ["dps_max"] = 862.67,
-        ["points"] = 3748.5448195576255,
+        ["points"] = 3746.3641652123324,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 154,
@@ -9148,9 +9148,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1256,
+        ["rank_raids"] = 1257,
         ["dps_max"] = 730.87,
-        ["points"] = 2694.9941792782306,
+        ["points"] = 2693.4264107038975,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -9244,10 +9244,10 @@ UWULogsData[9][3] = {
   ["Honor"] = {
     ["percentile"] = 45.68,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 8869,
+    ["overall_rank"] = 8870,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 20456,
+        ["rank_raids"] = 20462,
         ["dps_max"] = 16191.83,
         ["points"] = 6602.560965863031,
       },
@@ -9257,17 +9257,17 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 40864,
+        ["rank_raids"] = 40871,
         ["dps_max"] = 16202.61,
         ["points"] = 6624.986404610248,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 17580,
+        ["rank_raids"] = 17582,
         ["dps_max"] = 16653.29,
         ["points"] = 7761.090457795233,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 21678,
+        ["rank_raids"] = 21683,
         ["dps_max"] = 16894.27,
         ["points"] = 7626.59704998876,
       },
@@ -9277,12 +9277,12 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 43919,
+        ["rank_raids"] = 43933,
         ["dps_max"] = 9664.17,
         ["points"] = 4706.8750630113045,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 45954,
+        ["rank_raids"] = 45963,
         ["dps_max"] = 13153.07,
         ["points"] = 3405.5839057823673,
       },
@@ -9297,7 +9297,7 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 440,
+        ["rank_raids"] = 441,
         ["dps_max"] = 13605.34,
         ["points"] = 9671.967196719672,
       },
@@ -9312,9 +9312,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Valithria Dreamwalker"] = {
-        ["rank_raids"] = 13998,
+        ["rank_raids"] = 14000,
         ["dps_max"] = 529.29,
-        ["points"] = 6151.2,
+        ["points"] = 6151.0,
       },
     },
   },
@@ -9535,7 +9535,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 145,
         ["dps_max"] = 2087.28,
-        ["points"] = 9161.816065192084,
+        ["points"] = 9162.303664921466,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -9687,9 +9687,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1134,
+        ["rank_raids"] = 1135,
         ["dps_max"] = 819.44,
-        ["points"] = 3405.1222351571596,
+        ["points"] = 3403.1413612565448,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -9764,9 +9764,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 954,
+        ["rank_raids"] = 955,
         ["dps_max"] = 952.24,
-        ["points"] = 4452.852153667054,
+        ["points"] = 4450.261780104713,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -9836,14 +9836,14 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 436,
+        ["rank_raids"] = 437,
         ["dps_max"] = 2683.77,
-        ["points"] = 6726.8623024830695,
+        ["points"] = 6721.804511278196,
       },
       ["Halion"] = {
-        ["rank_raids"] = 998,
+        ["rank_raids"] = 999,
         ["dps_max"] = 916.29,
-        ["points"] = 4196.740395809081,
+        ["points"] = 4194.299011052938,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 86,
@@ -9995,9 +9995,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1120,
+        ["rank_raids"] = 1121,
         ["dps_max"] = 828.83,
-        ["points"] = 3486.6123399301514,
+        ["points"] = 3484.584060500291,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -10067,7 +10067,7 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1295,
+        ["rank_raids"] = 1296,
         ["dps_max"] = 1004.36,
         ["points"] = 1474.5821190254217,
       },
@@ -10151,7 +10151,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 69,
         ["dps_max"] = 2746.74,
-        ["points"] = 9604.19091967404,
+        ["points"] = 9604.421175101805,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -10459,7 +10459,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 144,
         ["dps_max"] = 2093.58,
-        ["points"] = 9167.636786961582,
+        ["points"] = 9168.121000581734,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -10534,9 +10534,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 722,
+        ["rank_raids"] = 723,
         ["dps_max"] = 1115.72,
-        ["points"] = 5803.25960419092,
+        ["points"] = 5799.8836532867945,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -10842,9 +10842,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 399,
+        ["rank_raids"] = 400,
         ["dps_max"] = 1455.55,
-        ["points"] = 7683.352735739231,
+        ["points"] = 7678.883071553229,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -10991,14 +10991,14 @@ UWULogsData[9][3] = {
         ["points"] = 1405.3103562902297,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 594,
+        ["rank_raids"] = 595,
         ["dps_max"] = 2424.11,
-        ["points"] = 5537.998495109105,
+        ["points"] = 5533.834586466165,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1295,
+        ["rank_raids"] = 1296,
         ["dps_max"] = 702.68,
-        ["points"] = 2467.986030267753,
+        ["points"] = 2466.5503199534614,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -11145,9 +11145,9 @@ UWULogsData[9][3] = {
         ["points"] = 6600.985221674877,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 413,
+        ["rank_raids"] = 414,
         ["dps_max"] = 2724.65,
-        ["points"] = 6899.924755455229,
+        ["points"] = 6894.736842105263,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -11227,9 +11227,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 770,
+        ["rank_raids"] = 771,
         ["dps_max"] = 1073.88,
-        ["points"] = 5523.864959254947,
+        ["points"] = 5520.651541593949,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -11304,9 +11304,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 842,
+        ["rank_raids"] = 843,
         ["dps_max"] = 1031.27,
-        ["points"] = 5104.7729918509895,
+        ["points"] = 5101.803374054683,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -11838,14 +11838,14 @@ UWULogsData[9][3] = {
         ["points"] = 3891.625615763547,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 229,
+        ["rank_raids"] = 230,
         ["dps_max"] = 3156.5,
-        ["points"] = 8284.424379232505,
+        ["points"] = 8278.195488721805,
       },
       ["Halion"] = {
-        ["rank_raids"] = 257,
+        ["rank_raids"] = 258,
         ["dps_max"] = 1702.48,
-        ["points"] = 8509.895227008148,
+        ["points"] = 8504.944735311226,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 100,
@@ -12305,9 +12305,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 777,
+        ["rank_raids"] = 778,
         ["dps_max"] = 1068.66,
-        ["points"] = 5483.119906868452,
+        ["points"] = 5479.9301919720765,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -12459,9 +12459,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 697,
+        ["rank_raids"] = 698,
         ["dps_max"] = 1132.77,
-        ["points"] = 5948.777648428405,
+        ["points"] = 5945.3170447934845,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -12692,7 +12692,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 129,
         ["dps_max"] = 2153.0,
-        ["points"] = 9254.947613504075,
+        ["points"] = 9255.381035485749,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -13070,9 +13070,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 555,
+        ["rank_raids"] = 556,
         ["dps_max"] = 2464.43,
-        ["points"] = 5831.45221971407,
+        ["points"] = 5827.067669172933,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -13152,9 +13152,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 481,
+        ["rank_raids"] = 482,
         ["dps_max"] = 1328.55,
-        ["points"] = 7206.053550640279,
+        ["points"] = 7201.861547411286,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 77,
@@ -13301,14 +13301,14 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 787,
+        ["rank_raids"] = 788,
         ["dps_max"] = 2198.4,
-        ["points"] = 4085.7787810383743,
+        ["points"] = 4082.7067669172934,
       },
       ["Halion"] = {
-        ["rank_raids"] = 262,
+        ["rank_raids"] = 263,
         ["dps_max"] = 1696.22,
-        ["points"] = 8480.791618160652,
+        ["points"] = 8475.85805700989,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -13532,9 +13532,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 28,
+        ["rank_raids"] = 29,
         ["dps_max"] = 4506.87,
-        ["points"] = 9796.839729119638,
+        ["points"] = 9789.473684210527,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -13768,9 +13768,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1138,
+        ["rank_raids"] = 1139,
         ["dps_max"] = 817.43,
-        ["points"] = 3381.839348079162,
+        ["points"] = 3379.872018615474,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 114,
@@ -13922,9 +13922,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 718,
+        ["rank_raids"] = 719,
         ["dps_max"] = 1119.36,
-        ["points"] = 5826.542491268918,
+        ["points"] = 5823.152995927865,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -14230,9 +14230,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1042,
+        ["rank_raids"] = 1043,
         ["dps_max"] = 893.63,
-        ["points"] = 3940.6286379511057,
+        ["points"] = 3938.3362420011636,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -14302,9 +14302,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 365,
+        ["rank_raids"] = 366,
         ["dps_max"] = 2825.68,
-        ["points"] = 7261.098570353649,
+        ["points"] = 7255.639097744361,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -14692,9 +14692,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1093,
+        ["rank_raids"] = 1094,
         ["dps_max"] = 851.11,
-        ["points"] = 3643.7718277066356,
+        ["points"] = 3641.652123327516,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -14918,9 +14918,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 450,
+        ["rank_raids"] = 451,
         ["dps_max"] = 2652.87,
-        ["points"] = 6621.519939804364,
+        ["points"] = 6616.541353383458,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -15072,14 +15072,14 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 554,
+        ["rank_raids"] = 555,
         ["dps_max"] = 2465.19,
-        ["points"] = 5838.976674191121,
+        ["points"] = 5834.586466165413,
       },
       ["Halion"] = {
-        ["rank_raids"] = 789,
+        ["rank_raids"] = 790,
         ["dps_max"] = 1060.35,
-        ["points"] = 5413.271245634459,
+        ["points"] = 5410.122164048867,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -15308,9 +15308,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1376,
+        ["rank_raids"] = 1377,
         ["dps_max"] = 614.13,
-        ["points"] = 1996.5075669383004,
+        ["points"] = 1995.346131471786,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -15464,7 +15464,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 225,
         ["dps_max"] = 1804.26,
-        ["points"] = 8696.158323632131,
+        ["points"] = 8696.916812100058,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -15611,9 +15611,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 95,
+        ["rank_raids"] = 96,
         ["dps_max"] = 3744.67,
-        ["points"] = 9292.701279157262,
+        ["points"] = 9285.714285714286,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -15765,14 +15765,14 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 332,
+        ["rank_raids"] = 333,
         ["dps_max"] = 2916.59,
-        ["points"] = 7509.405568096314,
+        ["points"] = 7503.7593984962405,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1405,
+        ["rank_raids"] = 1406,
         ["dps_max"] = 582.16,
-        ["points"] = 1827.7066356228172,
+        ["points"] = 1826.6433973240257,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 163,
@@ -15924,9 +15924,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 831,
+        ["rank_raids"] = 832,
         ["dps_max"] = 1038.71,
-        ["points"] = 5168.800931315483,
+        ["points"] = 5165.794066317626,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -16001,9 +16001,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 646,
+        ["rank_raids"] = 647,
         ["dps_max"] = 1172.57,
-        ["points"] = 6245.634458672876,
+        ["points"] = 6242.001163467133,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -16458,7 +16458,7 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 969,
+        ["rank_raids"] = 970,
         ["dps_max"] = 1949.59,
         ["points"] = 2862.350704359763,
       },
@@ -16689,9 +16689,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 25,
+        ["rank_raids"] = 26,
         ["dps_max"] = 4553.8,
-        ["points"] = 9819.41309255079,
+        ["points"] = 9812.03007518797,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -16773,7 +16773,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 92,
         ["dps_max"] = 2470.07,
-        ["points"] = 9470.314318975554,
+        ["points"] = 9470.622454915649,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 122,
@@ -16920,9 +16920,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 863,
+        ["rank_raids"] = 864,
         ["dps_max"] = 2108.45,
-        ["points"] = 3513.9202407825433,
+        ["points"] = 3511.278195488722,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -17233,9 +17233,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 351,
+        ["rank_raids"] = 352,
         ["dps_max"] = 1534.3,
-        ["points"] = 7962.747380675203,
+        ["points"] = 7958.115183246073,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -17697,7 +17697,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 182,
         ["dps_max"] = 1909.85,
-        ["points"] = 8946.449359720606,
+        ["points"] = 8947.062245491565,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -17849,7 +17849,7 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1693,
+        ["rank_raids"] = 1694,
         ["dps_max"] = 213.09,
         ["points"] = 517.6711237221597,
       },
@@ -17926,9 +17926,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1333,
+        ["rank_raids"] = 1334,
         ["dps_max"] = 656.65,
-        ["points"] = 2246.7986030267753,
+        ["points"] = 2245.4915648632928,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -18234,9 +18234,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1375,
+        ["rank_raids"] = 1376,
         ["dps_max"] = 614.22,
-        ["points"] = 2002.3282887077999,
+        ["points"] = 2001.1634671320535,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -18306,9 +18306,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 22,
+        ["rank_raids"] = 23,
         ["dps_max"] = 4610.97,
-        ["points"] = 9841.986455981942,
+        ["points"] = 9834.586466165414,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -18388,9 +18388,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1411,
+        ["rank_raids"] = 1412,
         ["dps_max"] = 576.75,
-        ["points"] = 1792.7823050058205,
+        ["points"] = 1791.73938336242,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -18460,9 +18460,9 @@ UWULogsData[9][3] = {
         ["points"] = 1922.652685020096,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 93,
+        ["rank_raids"] = 94,
         ["dps_max"] = 3753.08,
-        ["points"] = 9307.750188111362,
+        ["points"] = 9300.751879699248,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -18845,14 +18845,14 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 60,
+        ["rank_raids"] = 61,
         ["dps_max"] = 3966.9,
-        ["points"] = 9556.057185854026,
+        ["points"] = 9548.872180451128,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1135,
+        ["rank_raids"] = 1136,
         ["dps_max"] = 819.4,
-        ["points"] = 3399.30151338766,
+        ["points"] = 3397.3240255962764,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -19389,9 +19389,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1401,
+        ["rank_raids"] = 1402,
         ["dps_max"] = 582.9,
-        ["points"] = 1850.9895227008149,
+        ["points"] = 1849.912739965096,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 76,
@@ -19538,9 +19538,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 187,
+        ["rank_raids"] = 188,
         ["dps_max"] = 3336.52,
-        ["points"] = 8600.451467268622,
+        ["points"] = 8593.984962406015,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -19697,9 +19697,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 506,
+        ["rank_raids"] = 507,
         ["dps_max"] = 1300.81,
-        ["points"] = 7060.535506402794,
+        ["points"] = 7056.428155904596,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -20077,7 +20077,7 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1125,
+        ["rank_raids"] = 1126,
         ["dps_max"] = 1693.66,
         ["points"] = 2486.599179286905,
       },
@@ -20313,9 +20313,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 302,
+        ["rank_raids"] = 303,
         ["dps_max"] = 1620.87,
-        ["points"] = 8247.962747380674,
+        ["points"] = 8243.164630599185,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -21309,14 +21309,14 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 183,
+        ["rank_raids"] = 184,
         ["dps_max"] = 3343.74,
-        ["points"] = 8630.549285176825,
+        ["points"] = 8624.060150375939,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1280,
+        ["rank_raids"] = 1281,
         ["dps_max"] = 712.66,
-        ["points"] = 2555.2968568102447,
+        ["points"] = 2553.8103548574754,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -21547,7 +21547,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 229,
         ["dps_max"] = 1793.02,
-        ["points"] = 8672.875436554134,
+        ["points"] = 8673.647469458989,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -21853,9 +21853,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 594,
+        ["rank_raids"] = 595,
         ["dps_max"] = 1215.94,
-        ["points"] = 6548.311990686845,
+        ["points"] = 6544.502617801047,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -21932,7 +21932,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 60,
         ["dps_max"] = 2825.26,
-        ["points"] = 9656.577415599535,
+        ["points"] = 9656.777196044211,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 61,
@@ -22161,9 +22161,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1076,
+        ["rank_raids"] = 1077,
         ["dps_max"] = 862.41,
-        ["points"] = 3742.724097788126,
+        ["points"] = 3740.546829552065,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -22238,9 +22238,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 427,
+        ["rank_raids"] = 428,
         ["dps_max"] = 1409.73,
-        ["points"] = 7520.372526193248,
+        ["points"] = 7515.997673065736,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -22464,9 +22464,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 526,
+        ["rank_raids"] = 527,
         ["dps_max"] = 2503.0,
-        ["points"] = 6049.661399548532,
+        ["points"] = 6045.112781954887,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -22772,14 +22772,14 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1286,
+        ["rank_raids"] = 1287,
         ["dps_max"] = 1089.27,
         ["points"] = 1599.2453550428343,
       },
       ["Halion"] = {
         ["rank_raids"] = 171,
         ["dps_max"] = 1949.41,
-        ["points"] = 9010.477299185099,
+        ["points"] = 9011.052937754508,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -23003,9 +23003,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 438,
+        ["rank_raids"] = 439,
         ["dps_max"] = 2677.91,
-        ["points"] = 6711.813393528969,
+        ["points"] = 6706.766917293233,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -23080,9 +23080,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 456,
+        ["rank_raids"] = 457,
         ["dps_max"] = 2646.5,
-        ["points"] = 6576.373212942061,
+        ["points"] = 6571.428571428572,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -23234,9 +23234,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 464,
+        ["rank_raids"] = 465,
         ["dps_max"] = 2633.44,
-        ["points"] = 6516.177577125658,
+        ["points"] = 6511.278195488722,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -23547,9 +23547,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1068,
+        ["rank_raids"] = 1069,
         ["dps_max"] = 871.91,
-        ["points"] = 3789.289871944121,
+        ["points"] = 3787.0855148342057,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -23619,9 +23619,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 835,
+        ["rank_raids"] = 836,
         ["dps_max"] = 2143.81,
-        ["points"] = 3724.6049661399547,
+        ["points"] = 3721.8045112781956,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -23775,7 +23775,7 @@ UWULogsData[9][3] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 19,
         ["dps_max"] = 4782.58,
-        ["points"] = 9864.559819413093,
+        ["points"] = 9864.661654135338,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -24009,9 +24009,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1285,
+        ["rank_raids"] = 1286,
         ["dps_max"] = 708.64,
-        ["points"] = 2526.1932479627476,
+        ["points"] = 2524.723676556137,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -24312,14 +24312,14 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 962,
+        ["rank_raids"] = 963,
         ["dps_max"] = 1960.42,
         ["points"] = 2878.251102970864,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1275,
+        ["rank_raids"] = 1276,
         ["dps_max"] = 716.24,
-        ["points"] = 2584.4004656577413,
+        ["points"] = 2582.897033158813,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -24394,9 +24394,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1464,
+        ["rank_raids"] = 1465,
         ["dps_max"] = 487.77,
-        ["points"] = 1484.2840512223515,
+        ["points"] = 1483.4205933682374,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 53,
@@ -25320,7 +25320,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 99,
         ["dps_max"] = 2412.59,
-        ["points"] = 9429.569266589056,
+        ["points"] = 9429.901105293775,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -25395,9 +25395,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 469,
+        ["rank_raids"] = 470,
         ["dps_max"] = 1343.15,
-        ["points"] = 7275.902211874272,
+        ["points"] = 7271.6695753344975,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -25568,7 +25568,7 @@ UWULogsData[9][3] = {
   ["Shieldblock"] = {
     ["percentile"] = 15.972,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 15643,
+    ["overall_rank"] = 15644,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -25857,9 +25857,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 557,
+        ["rank_raids"] = 558,
         ["dps_max"] = 1255.39,
-        ["points"] = 6763.678696158324,
+        ["points"] = 6759.744037230948,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -25934,9 +25934,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1247,
+        ["rank_raids"] = 1248,
         ["dps_max"] = 738.6,
-        ["points"] = 2747.3806752037253,
+        ["points"] = 2745.7824316463057,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -26083,14 +26083,14 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 45,
+        ["rank_raids"] = 46,
         ["dps_max"] = 4137.49,
-        ["points"] = 9668.924003009783,
+        ["points"] = 9661.654135338345,
       },
       ["Halion"] = {
-        ["rank_raids"] = 717,
+        ["rank_raids"] = 718,
         ["dps_max"] = 1120.09,
-        ["points"] = 5832.363213038418,
+        ["points"] = 5828.9703315881325,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -26314,9 +26314,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 390,
+        ["rank_raids"] = 391,
         ["dps_max"] = 2769.45,
-        ["points"] = 7072.987208427389,
+        ["points"] = 7067.66917293233,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -26853,9 +26853,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 415,
+        ["rank_raids"] = 416,
         ["dps_max"] = 2722.96,
-        ["points"] = 6884.875846501129,
+        ["points"] = 6879.6992481203015,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -26930,9 +26930,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 138,
+        ["rank_raids"] = 139,
         ["dps_max"] = 3545.06,
-        ["points"] = 8969.149736644093,
+        ["points"] = 8962.406015037594,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -27623,9 +27623,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 347,
+        ["rank_raids"] = 348,
         ["dps_max"] = 2880.83,
-        ["points"] = 7396.538750940556,
+        ["points"] = 7390.977443609023,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -28316,9 +28316,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 336,
+        ["rank_raids"] = 337,
         ["dps_max"] = 2908.42,
-        ["points"] = 7479.307750188111,
+        ["points"] = 7473.684210526316,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -28398,9 +28398,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 250,
+        ["rank_raids"] = 251,
         ["dps_max"] = 1731.57,
-        ["points"] = 8550.640279394645,
+        ["points"] = 8545.6660849331,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -28629,9 +28629,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 868,
+        ["rank_raids"] = 869,
         ["dps_max"] = 1009.25,
-        ["points"] = 4953.434225844005,
+        ["points"] = 4950.552646887725,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 59,
@@ -28855,9 +28855,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 177,
+        ["rank_raids"] = 178,
         ["dps_max"] = 3371.34,
-        ["points"] = 8675.696012039127,
+        ["points"] = 8669.172932330828,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -29553,9 +29553,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1388,
+        ["rank_raids"] = 1389,
         ["dps_max"] = 602.08,
-        ["points"] = 1926.6589057043075,
+        ["points"] = 1925.5381035485748,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -29861,9 +29861,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 426,
+        ["rank_raids"] = 427,
         ["dps_max"] = 1412.82,
-        ["points"] = 7526.193247962747,
+        ["points"] = 7521.815008726004,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -30037,14 +30037,14 @@ UWULogsData[9][3] = {
     ["overall_rank"] = 1733,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 4939,
+        ["rank_raids"] = 4941,
         ["dps_max"] = 18543.93,
-        ["points"] = 8658.86588658866,
+        ["points"] = 8657.865786578657,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 11715,
+        ["rank_raids"] = 11717,
         ["dps_max"] = 14809.67,
-        ["points"] = 7056.98108661607,
+        ["points"] = 7056.131052758371,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 7315,
@@ -30052,44 +30052,44 @@ UWULogsData[9][3] = {
         ["points"] = 8443.844384438444,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 11366,
+        ["rank_raids"] = 11367,
         ["dps_max"] = 17301.54,
         ["points"] = 8063.200544706934,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4244,
+        ["rank_raids"] = 4245,
         ["dps_max"] = 18871.08,
         ["points"] = 8912.891289128913,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 15652,
+        ["rank_raids"] = 15656,
         ["dps_max"] = 13206.87,
-        ["points"] = 6688.793008076115,
+        ["points"] = 6689.159292035398,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 13507,
+        ["rank_raids"] = 13511,
         ["dps_max"] = 13355.35,
         ["points"] = 7257.725772577258,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2059,
+        ["rank_raids"] = 2060,
         ["dps_max"] = 23190.15,
         ["points"] = 8993.899389938993,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4970,
+        ["rank_raids"] = 4971,
         ["dps_max"] = 12615.9,
         ["points"] = 8421.354106999657,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 25658,
+        ["rank_raids"] = 25661,
         ["dps_max"] = 10292.65,
         ["points"] = 5893.604594568285,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 765,
+        ["rank_raids"] = 766,
         ["dps_max"] = 13012.2,
-        ["points"] = 9468.5,
+        ["points"] = 9468.0,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -30102,9 +30102,9 @@ UWULogsData[9][3] = {
         ["points"] = 3906.511729475083,
       },
       ["Valithria Dreamwalker"] = {
-        ["rank_raids"] = 3466,
+        ["rank_raids"] = 3467,
         ["dps_max"] = 1939.32,
-        ["points"] = 8654.865486548655,
+        ["points"] = 8653.865386538653,
       },
     },
   },
@@ -30395,9 +30395,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 465,
+        ["rank_raids"] = 466,
         ["dps_max"] = 2633.21,
-        ["points"] = 6508.653122648608,
+        ["points"] = 6503.7593984962405,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -30472,9 +30472,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 203,
+        ["rank_raids"] = 204,
         ["dps_max"] = 3265.6,
-        ["points"] = 8480.060195635817,
+        ["points"] = 8473.684210526315,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -30549,9 +30549,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 175,
+        ["rank_raids"] = 176,
         ["dps_max"] = 3380.33,
-        ["points"] = 8690.744920993227,
+        ["points"] = 8684.21052631579,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -30708,9 +30708,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 460,
+        ["rank_raids"] = 461,
         ["dps_max"] = 1358.73,
-        ["points"] = 7328.2887077997675,
+        ["points"] = 7324.025596276905,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -30785,9 +30785,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 796,
+        ["rank_raids"] = 797,
         ["dps_max"] = 1055.64,
-        ["points"] = 5372.5261932479625,
+        ["points"] = 5369.400814426992,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -31016,9 +31016,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 536,
+        ["rank_raids"] = 537,
         ["dps_max"] = 1273.18,
-        ["points"] = 6885.913853317811,
+        ["points"] = 6881.908086096568,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -31343,7 +31343,7 @@ UWULogsData[9][3] = {
   ["Unknown-0B398DC"] = {
     ["percentile"] = 8.918,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 8166,
+    ["overall_rank"] = 8167,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -31709,9 +31709,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 643,
+        ["rank_raids"] = 644,
         ["dps_max"] = 1173.32,
-        ["points"] = 6263.096623981373,
+        ["points"] = 6259.453170447935,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -31786,7 +31786,7 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1641,
+        ["rank_raids"] = 1642,
         ["dps_max"] = 288.43,
         ["points"] = 700.6986823181873,
       },
@@ -32096,7 +32096,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 159,
         ["dps_max"] = 2005.19,
-        ["points"] = 9080.325960419092,
+        ["points"] = 9080.860965677719,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -32166,14 +32166,14 @@ UWULogsData[9][3] = {
         ["points"] = 8103.448275862069,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 340,
+        ["rank_raids"] = 341,
         ["dps_max"] = 2901.66,
-        ["points"] = 7449.2099322799095,
+        ["points"] = 7443.609022556391,
       },
       ["Halion"] = {
         ["rank_raids"] = 11,
         ["dps_max"] = 3388.17,
-        ["points"] = 9941.792782305005,
+        ["points"] = 9941.826643397324,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -32325,9 +32325,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 623,
+        ["rank_raids"] = 624,
         ["dps_max"] = 1188.48,
-        ["points"] = 6379.5110593713625,
+        ["points"] = 6375.799883653287,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -32402,9 +32402,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1477,
+        ["rank_raids"] = 1478,
         ["dps_max"] = 470.24,
-        ["points"] = 1408.6146682188592,
+        ["points"] = 1407.7952297847585,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -32782,9 +32782,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 741,
+        ["rank_raids"] = 742,
         ["dps_max"] = 2259.86,
-        ["points"] = 4431.903686982694,
+        ["points"] = 4428.571428571428,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -32864,9 +32864,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 610,
+        ["rank_raids"] = 611,
         ["dps_max"] = 1200.98,
-        ["points"] = 6455.1804423748545,
+        ["points"] = 6451.425247236765,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -32941,9 +32941,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 388,
+        ["rank_raids"] = 389,
         ["dps_max"] = 1471.2,
-        ["points"] = 7747.380675203725,
+        ["points"] = 7742.873763816173,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 73,
@@ -33097,7 +33097,7 @@ UWULogsData[9][3] = {
       ["Halion"] = {
         ["rank_raids"] = 87,
         ["dps_max"] = 2513.2,
-        ["points"] = 9499.417927823051,
+        ["points"] = 9499.709133216988,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -33114,7 +33114,7 @@ UWULogsData[9][3] = {
   ["Unknown-0B5F0C7"] = {
     ["percentile"] = 7.06,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 8166,
+    ["overall_rank"] = 8167,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -33480,9 +33480,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 505,
+        ["rank_raids"] = 506,
         ["dps_max"] = 1301.72,
-        ["points"] = 7066.356228172293,
+        ["points"] = 7062.245491564863,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -33788,9 +33788,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 693,
+        ["rank_raids"] = 694,
         ["dps_max"] = 1133.4,
-        ["points"] = 5972.060535506403,
+        ["points"] = 5968.586387434555,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -34014,7 +34014,7 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1241,
+        ["rank_raids"] = 1242,
         ["dps_max"] = 1383.06,
         ["points"] = 2030.5822071162727,
       },
@@ -34091,9 +34091,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 605,
+        ["rank_raids"] = 606,
         ["dps_max"] = 2412.12,
-        ["points"] = 5455.22949586155,
+        ["points"] = 5451.127819548872,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -34173,9 +34173,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1327,
+        ["rank_raids"] = 1328,
         ["dps_max"] = 660.27,
-        ["points"] = 2281.7229336437717,
+        ["points"] = 2280.395578824898,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -34247,7 +34247,7 @@ UWULogsData[9][3] = {
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 17,
         ["dps_max"] = 4862.5,
-        ["points"] = 9879.608728367193,
+        ["points"] = 9879.6992481203,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -34327,9 +34327,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 277,
+        ["rank_raids"] = 278,
         ["dps_max"] = 1654.26,
-        ["points"] = 8393.480791618162,
+        ["points"] = 8388.598022105876,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -34558,9 +34558,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1374,
+        ["rank_raids"] = 1375,
         ["dps_max"] = 615.54,
-        ["points"] = 2008.1490104772993,
+        ["points"] = 2006.9808027923211,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -34654,7 +34654,7 @@ UWULogsData[9][3] = {
   ["Unknown-0A05A37"] = {
     ["percentile"] = 5.914,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 8166,
+    ["overall_rank"] = 8167,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -34789,7 +34789,7 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1634,
+        ["rank_raids"] = 1635,
         ["dps_max"] = 295.82,
         ["points"] = 718.6516111478214,
       },
@@ -34943,9 +34943,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 526,
+        ["rank_raids"] = 527,
         ["dps_max"] = 1283.71,
-        ["points"] = 6944.121071012805,
+        ["points"] = 6940.081442699244,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -35328,9 +35328,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1416,
+        ["rank_raids"] = 1417,
         ["dps_max"] = 564.6,
-        ["points"] = 1763.6786961583236,
+        ["points"] = 1762.652705061082,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -35713,9 +35713,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 899,
+        ["rank_raids"] = 900,
         ["dps_max"] = 988.48,
-        ["points"] = 4772.991850989522,
+        ["points"] = 4770.21524141943,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -36329,9 +36329,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 963,
+        ["rank_raids"] = 964,
         ["dps_max"] = 944.56,
-        ["points"] = 4400.46565774156,
+        ["points"] = 4397.905759162304,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -36406,9 +36406,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1429,
+        ["rank_raids"] = 1430,
         ["dps_max"] = 548.05,
-        ["points"] = 1688.0093131548313,
+        ["points"] = 1687.0273414776032,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -36714,9 +36714,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 629,
+        ["rank_raids"] = 630,
         ["dps_max"] = 1184.76,
-        ["points"] = 6344.586728754365,
+        ["points"] = 6340.895869691682,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -36810,7 +36810,7 @@ UWULogsData[9][3] = {
   ["Unknown-0B5B6FD"] = {
     ["percentile"] = 4.355,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 8166,
+    ["overall_rank"] = 8167,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -36945,9 +36945,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 380,
+        ["rank_raids"] = 381,
         ["dps_max"] = 1483.68,
-        ["points"] = 7793.946449359721,
+        ["points"] = 7789.412449098313,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -37272,7 +37272,7 @@ UWULogsData[9][3] = {
   ["Unknown-05B64DA"] = {
     ["percentile"] = 4.165,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 8166,
+    ["overall_rank"] = 8167,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -38023,9 +38023,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 645,
+        ["rank_raids"] = 646,
         ["dps_max"] = 1172.81,
-        ["points"] = 6251.4551804423745,
+        ["points"] = 6247.8184991274,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -38095,7 +38095,7 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1324,
+        ["rank_raids"] = 1325,
         ["dps_max"] = 427.77,
         ["points"] = 628.0437224257283,
       },
@@ -38119,7 +38119,7 @@ UWULogsData[9][3] = {
   ["Unknown-08EFCA5"] = {
     ["percentile"] = 3.601,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 8166,
+    ["overall_rank"] = 8167,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -38326,9 +38326,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 350,
+        ["rank_raids"] = 351,
         ["dps_max"] = 2874.02,
-        ["points"] = 7373.965387509405,
+        ["points"] = 7368.421052631578,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -38408,9 +38408,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 497,
+        ["rank_raids"] = 498,
         ["dps_max"] = 1308.17,
-        ["points"] = 7112.922002328289,
+        ["points"] = 7108.784176847004,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -38557,14 +38557,14 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 240,
+        ["rank_raids"] = 241,
         ["dps_max"] = 3128.81,
-        ["points"] = 8201.655379984952,
+        ["points"] = 8195.488721804511,
       },
       ["Halion"] = {
-        ["rank_raids"] = 673,
+        ["rank_raids"] = 674,
         ["dps_max"] = 1149.48,
-        ["points"] = 6088.474970896392,
+        ["points"] = 6084.933100639906,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 31,
@@ -38716,9 +38716,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1069,
+        ["rank_raids"] = 1070,
         ["dps_max"] = 871.52,
-        ["points"] = 3783.4691501746215,
+        ["points"] = 3781.2681791739383,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -38947,9 +38947,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1569,
+        ["rank_raids"] = 1570,
         ["dps_max"] = 355.26,
-        ["points"] = 873.1082654249127,
+        ["points"] = 872.6003490401396,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -39505,7 +39505,7 @@ UWULogsData[9][3] = {
   ["Unknown-0B2650C"] = {
     ["percentile"] = 2.979,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 8166,
+    ["overall_rank"] = 8167,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -39582,7 +39582,7 @@ UWULogsData[9][3] = {
   ["Unknown-09DDF27"] = {
     ["percentile"] = 2.95,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 8166,
+    ["overall_rank"] = 8167,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -39871,9 +39871,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 307,
+        ["rank_raids"] = 308,
         ["dps_max"] = 1605.91,
-        ["points"] = 8218.859138533178,
+        ["points"] = 8214.077952297848,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -40405,9 +40405,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 641,
+        ["rank_raids"] = 642,
         ["dps_max"] = 2375.05,
-        ["points"] = 5184.3491346877345,
+        ["points"] = 5180.451127819549,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -40482,7 +40482,7 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1080,
+        ["rank_raids"] = 1081,
         ["dps_max"] = 1758.08,
         ["points"] = 2581.1793896772206,
       },
@@ -40891,7 +40891,7 @@ UWULogsData[9][3] = {
   ["Unknown-0A9903A"] = {
     ["percentile"] = 2.46,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 8166,
+    ["overall_rank"] = 8167,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -41642,9 +41642,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1223,
+        ["rank_raids"] = 1224,
         ["dps_max"] = 759.23,
-        ["points"] = 2887.0779976717113,
+        ["points"] = 2885.3984874927287,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -42046,7 +42046,7 @@ UWULogsData[9][3] = {
   ["Unknown-084B39F"] = {
     ["percentile"] = 1.935,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 8166,
+    ["overall_rank"] = 8167,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -42181,9 +42181,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1350,
+        ["rank_raids"] = 1351,
         ["dps_max"] = 635.08,
-        ["points"] = 2147.846332945285,
+        ["points"] = 2146.5968586387435,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -42489,9 +42489,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1157,
+        ["rank_raids"] = 1158,
         ["dps_max"] = 805.88,
-        ["points"] = 3271.2456344586726,
+        ["points"] = 3269.3426410703896,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -42508,7 +42508,7 @@ UWULogsData[9][3] = {
   ["Unknown-0AC52FE"] = {
     ["percentile"] = 1.381,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 8166,
+    ["overall_rank"] = 8167,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -43952,9 +43952,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1351,
+        ["rank_raids"] = 1352,
         ["dps_max"] = 633.02,
-        ["points"] = 2142.025611175786,
+        ["points"] = 2140.779522978476,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -44048,7 +44048,7 @@ UWULogsData[9][3] = {
   ["Unknown-02C1F5B"] = {
     ["percentile"] = 0.736,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 8166,
+    ["overall_rank"] = 8167,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -44664,7 +44664,7 @@ UWULogsData[9][3] = {
   ["Unknown-041C8BC"] = {
     ["percentile"] = 0.47,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 8166,
+    ["overall_rank"] = 8167,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -44794,7 +44794,7 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1136,
+        ["rank_raids"] = 1137,
         ["dps_max"] = 1671.19,
         ["points"] = 2453.609155575784,
       },
@@ -45049,7 +45049,7 @@ UWULogsData[9][3] = {
   ["Unknown-0854447"] = {
     ["percentile"] = 0.323,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 8166,
+    ["overall_rank"] = 8167,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -45434,7 +45434,7 @@ UWULogsData[9][3] = {
   ["Unknown-002F33D"] = {
     ["percentile"] = 0.101,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 8166,
+    ["overall_rank"] = 8167,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -45564,9 +45564,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 32,
+        ["rank_raids"] = 33,
         ["dps_max"] = 4447.07,
-        ["points"] = 9766.741911211437,
+        ["points"] = 9759.398496240601,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -45588,7 +45588,7 @@ UWULogsData[9][3] = {
   ["Unknown-0AB7180"] = {
     ["percentile"] = 0.05,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 8166,
+    ["overall_rank"] = 8167,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -45795,9 +45795,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 589,
+        ["rank_raids"] = 590,
         ["dps_max"] = 2430.18,
-        ["points"] = 5575.620767494357,
+        ["points"] = 5571.428571428572,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
