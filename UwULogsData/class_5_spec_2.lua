@@ -15558,7 +15558,7 @@ UWULogsData[5][2] = {
   ["Benegesserit"] = {
     ["percentile"] = 34.256,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 1155,
+    ["overall_rank"] = 1156,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1331,
@@ -15566,12 +15566,12 @@ UWULogsData[5][2] = {
         ["points"] = 9570.957095709571,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 10872,
+        ["rank_raids"] = 10875,
         ["dps_max"] = 18210.04,
         ["points"] = 7448.5497653147195,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9201,
+        ["rank_raids"] = 9202,
         ["dps_max"] = 23380.64,
         ["points"] = 8326.832683268327,
       },
@@ -15586,9 +15586,9 @@ UWULogsData[5][2] = {
         ["points"] = 8844.884488448846,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 7581,
+        ["rank_raids"] = 7582,
         ["dps_max"] = 18754.77,
-        ["points"] = 8627.647714604236,
+        ["points"] = 8626.532887402453,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4240,
@@ -15606,9 +15606,9 @@ UWULogsData[5][2] = {
         ["points"] = 9757.158390721275,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 18830,
+        ["rank_raids"] = 18832,
         ["dps_max"] = 13328.68,
-        ["points"] = 6464.095572003636,
+        ["points"] = 6462.797039345539,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,

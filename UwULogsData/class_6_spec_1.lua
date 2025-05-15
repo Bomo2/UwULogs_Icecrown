@@ -7265,9 +7265,9 @@ UWULogsData[6][1] = {
         ["points"] = 5347.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 26916,
+        ["rank_raids"] = 26917,
         ["dps_max"] = 182.5,
-        ["points"] = 4859.4,
+        ["points"] = 4859.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 13565,
@@ -7280,9 +7280,9 @@ UWULogsData[6][1] = {
         ["points"] = 6243.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 32608,
+        ["rank_raids"] = 32609,
         ["dps_max"] = 119.67,
-        ["points"] = 4290.2,
+        ["points"] = 4290.099999999999,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5768,
@@ -7290,9 +7290,9 @@ UWULogsData[6][1] = {
         ["points"] = 7820.600000000001,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6464,
+        ["rank_raids"] = 6465,
         ["dps_max"] = 236.86,
-        ["points"] = 7611.800000000001,
+        ["points"] = 7611.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -7310,7 +7310,7 @@ UWULogsData[6][1] = {
         ["points"] = nil,
       },
       ["Valithria Dreamwalker"] = {
-        ["rank_raids"] = 3441,
+        ["rank_raids"] = 3442,
         ["dps_max"] = 39703.27,
         ["points"] = 8660.866086608661,
       },

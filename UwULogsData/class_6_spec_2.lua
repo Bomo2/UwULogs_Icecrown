@@ -285,7 +285,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 109,
         ["dps_max"] = 16215.3,
-        ["points"] = 9924.98827941866,
+        ["points"] = 9925.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 102,
@@ -362,7 +362,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 37,
         ["dps_max"] = 16739.0,
-        ["points"] = 9968.745116424441,
+        ["points"] = 9968.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 789,
@@ -519,9 +519,9 @@ UWULogsData[6][2] = {
         ["points"] = 9994.0,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 3671,
+        ["rank_raids"] = 3672,
         ["dps_max"] = 11009.96,
-        ["points"] = 8449.7,
+        ["points"] = 8449.4,
       },
       ["Halion"] = {
         ["rank_raids"] = 2629,
@@ -593,7 +593,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 74,
         ["dps_max"] = 16424.44,
-        ["points"] = 9943.741209563994,
+        ["points"] = 9943.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -747,7 +747,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 34,
         ["dps_max"] = 16748.38,
-        ["points"] = 9970.30786060322,
+        ["points"] = 9970.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 353,
@@ -824,7 +824,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 26,
         ["dps_max"] = 16937.39,
-        ["points"] = 9979.684325675888,
+        ["points"] = 9979.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1023,
@@ -901,7 +901,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 222,
         ["dps_max"] = 15871.77,
-        ["points"] = 9856.22753555243,
+        ["points"] = 9856.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 59,
@@ -978,7 +978,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 66,
         ["dps_max"] = 16461.98,
-        ["points"] = 9946.86669792155,
+        ["points"] = 9946.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -1055,7 +1055,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 59,
         ["dps_max"] = 16503.95,
-        ["points"] = 9953.117674636662,
+        ["points"] = 9953.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 28,
@@ -1132,7 +1132,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 25,
         ["dps_max"] = 16984.71,
-        ["points"] = 9981.247069854666,
+        ["points"] = 9981.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 42,
@@ -1209,7 +1209,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 306,
         ["dps_max"] = 15676.44,
-        ["points"] = 9809.345210189093,
+        ["points"] = 9809.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -1286,7 +1286,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 71,
         ["dps_max"] = 16428.1,
-        ["points"] = 9945.303953742772,
+        ["points"] = 9945.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -1363,7 +1363,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 15,
         ["dps_max"] = 17196.27,
-        ["points"] = 9987.498046569775,
+        ["points"] = 9987.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 619,
@@ -1440,12 +1440,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 119,
         ["dps_max"] = 16157.0,
-        ["points"] = 9918.737302703548,
+        ["points"] = 9918.75,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2222,
+        ["rank_raids"] = 2223,
         ["dps_max"] = 12524.95,
-        ["points"] = 8884.400000000001,
+        ["points"] = 8884.1,
       },
       ["Halion"] = {
         ["rank_raids"] = 62,
@@ -1517,7 +1517,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 106,
         ["dps_max"] = 16253.09,
-        ["points"] = 9926.551023597438,
+        ["points"] = 9926.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 40,
@@ -1594,7 +1594,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 226,
         ["dps_max"] = 15861.09,
-        ["points"] = 9851.539303016096,
+        ["points"] = 9851.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 266,
@@ -1671,7 +1671,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 11,
         ["dps_max"] = 17348.09,
-        ["points"] = 9990.623534927332,
+        ["points"] = 9990.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -1748,7 +1748,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 118,
         ["dps_max"] = 16171.42,
-        ["points"] = 9920.300046882325,
+        ["points"] = 9920.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 58,
@@ -1825,7 +1825,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 188,
         ["dps_max"] = 15938.62,
-        ["points"] = 9876.543209876543,
+        ["points"] = 9876.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -1902,7 +1902,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 584,
         ["dps_max"] = 15352.16,
-        ["points"] = 9676.511954992968,
+        ["points"] = 9676.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 104,
@@ -1979,7 +1979,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 606,
         ["dps_max"] = 15327.34,
-        ["points"] = 9665.572745741521,
+        ["points"] = 9665.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -2056,7 +2056,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 53,
         ["dps_max"] = 16554.12,
-        ["points"] = 9957.805907172997,
+        ["points"] = 9957.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -2133,12 +2133,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 546,
         ["dps_max"] = 15393.8,
-        ["points"] = 9684.325675886857,
+        ["points"] = 9684.375,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 6074,
+        ["rank_raids"] = 6075,
         ["dps_max"] = 9070.05,
-        ["points"] = 7728.8,
+        ["points"] = 7728.5,
       },
       ["Halion"] = {
         ["rank_raids"] = 3802,
@@ -2210,7 +2210,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 103,
         ["dps_max"] = 16256.44,
-        ["points"] = 9928.113767776216,
+        ["points"] = 9928.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -2287,7 +2287,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 825,
         ["dps_max"] = 15123.72,
-        ["points"] = 9581.184560087513,
+        ["points"] = 9581.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -2364,7 +2364,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 382,
         ["dps_max"] = 15566.49,
-        ["points"] = 9767.151117362087,
+        ["points"] = 9767.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 36,
@@ -2441,7 +2441,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 65,
         ["dps_max"] = 16463.22,
-        ["points"] = 9948.429442100329,
+        ["points"] = 9948.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -2518,7 +2518,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 393,
         ["dps_max"] = 15549.96,
-        ["points"] = 9762.462884825754,
+        ["points"] = 9762.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 29,
@@ -2595,7 +2595,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 46,
         ["dps_max"] = 16663.58,
-        ["points"] = 9962.49413970933,
+        ["points"] = 9962.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -2672,7 +2672,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 491,
         ["dps_max"] = 15442.2,
-        ["points"] = 9709.329582747305,
+        ["points"] = 9709.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -2749,7 +2749,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 310,
         ["dps_max"] = 15672.18,
-        ["points"] = 9804.656977652758,
+        ["points"] = 9804.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -2826,7 +2826,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 138,
         ["dps_max"] = 16074.6,
-        ["points"] = 9909.36083763088,
+        ["points"] = 9909.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -2903,12 +2903,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 99,
         ["dps_max"] = 16265.86,
-        ["points"] = 9931.239256133771,
+        ["points"] = 9931.25,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 4944,
+        ["rank_raids"] = 4945,
         ["dps_max"] = 9935.63,
-        ["points"] = 8067.8,
+        ["points"] = 8067.500000000001,
       },
       ["Halion"] = {
         ["rank_raids"] = 204,
@@ -2928,7 +2928,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Andryx"] = {
-    ["percentile"] = 98.662,
+    ["percentile"] = 98.663,
     ["server"] = "Icecrown",
     ["overall_rank"] = 39,
     ["bosses"] = {
@@ -2980,7 +2980,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 573,
         ["dps_max"] = 15360.23,
-        ["points"] = 9678.074699171746,
+        ["points"] = 9678.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -3057,12 +3057,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1163,
         ["dps_max"] = 14937.67,
-        ["points"] = 9460.853258321613,
+        ["points"] = 9460.9375,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 9117,
+        ["rank_raids"] = 9118,
         ["dps_max"] = 6573.45,
-        ["points"] = 6815.900000000001,
+        ["points"] = 6815.6,
       },
       ["Halion"] = {
         ["rank_raids"] = 2451,
@@ -3134,7 +3134,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 176,
         ["dps_max"] = 15983.5,
-        ["points"] = 9887.48241912799,
+        ["points"] = 9887.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1143,
@@ -3211,7 +3211,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 84,
         ["dps_max"] = 16336.65,
-        ["points"] = 9935.927488670104,
+        ["points"] = 9935.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1154,
@@ -3288,7 +3288,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 136,
         ["dps_max"] = 16083.98,
-        ["points"] = 9912.486325988435,
+        ["points"] = 9912.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 79,
@@ -3365,7 +3365,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 62,
         ["dps_max"] = 16491.15,
-        ["points"] = 9949.992186279107,
+        ["points"] = 9950.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -3442,7 +3442,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 28,
         ["dps_max"] = 16926.24,
-        ["points"] = 9976.558837318331,
+        ["points"] = 9976.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 841,
@@ -3519,7 +3519,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 652,
         ["dps_max"] = 15275.18,
-        ["points"] = 9649.945303953744,
+        ["points"] = 9650.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -3596,7 +3596,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 475,
         ["dps_max"] = 15453.99,
-        ["points"] = 9718.706047819971,
+        ["points"] = 9718.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -3673,12 +3673,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 278,
         ["dps_max"] = 15729.36,
-        ["points"] = 9821.847163619315,
+        ["points"] = 9821.875,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 4845,
+        ["rank_raids"] = 4846,
         ["dps_max"] = 10005.72,
-        ["points"] = 8097.500000000001,
+        ["points"] = 8097.2,
       },
       ["Halion"] = {
         ["rank_raids"] = 257,
@@ -3750,7 +3750,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 149,
         ["dps_max"] = 16059.8,
-        ["points"] = 9901.54711673699,
+        ["points"] = 9901.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 109,
@@ -3775,7 +3775,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Undanie"] = {
-    ["percentile"] = 98.468,
+    ["percentile"] = 98.469,
     ["server"] = "Icecrown",
     ["overall_rank"] = 50,
     ["bosses"] = {
@@ -3827,7 +3827,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1185,
         ["dps_max"] = 14925.26,
-        ["points"] = 9451.476793248945,
+        ["points"] = 9451.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -3904,7 +3904,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 548,
         ["dps_max"] = 15391.6,
-        ["points"] = 9682.76293170808,
+        ["points"] = 9682.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 848,
@@ -3981,7 +3981,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 929,
         ["dps_max"] = 15067.9,
-        ["points"] = 9537.427723081732,
+        ["points"] = 9537.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -4058,7 +4058,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 32,
         ["dps_max"] = 16825.9,
-        ["points"] = 9973.433348960774,
+        ["points"] = 9973.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 552,
@@ -4135,7 +4135,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 47,
         ["dps_max"] = 16653.52,
-        ["points"] = 9960.931395530552,
+        ["points"] = 9960.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 84,
@@ -4212,7 +4212,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 277,
         ["dps_max"] = 15730.4,
-        ["points"] = 9823.409907798094,
+        ["points"] = 9823.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -4289,7 +4289,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 409,
         ["dps_max"] = 15521.13,
-        ["points"] = 9749.96093139553,
+        ["points"] = 9750.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 97,
@@ -4366,7 +4366,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 240,
         ["dps_max"] = 15808.44,
-        ["points"] = 9846.851070479763,
+        ["points"] = 9846.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -4443,7 +4443,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 383,
         ["dps_max"] = 15566.26,
-        ["points"] = 9765.588373183311,
+        ["points"] = 9765.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -4520,7 +4520,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 303,
         ["dps_max"] = 15678.84,
-        ["points"] = 9810.90795436787,
+        ["points"] = 9810.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -4597,7 +4597,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 734,
         ["dps_max"] = 15192.61,
-        ["points"] = 9610.876699484294,
+        ["points"] = 9610.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 21,
@@ -4674,7 +4674,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 14,
         ["dps_max"] = 17254.59,
-        ["points"] = 9989.060790748554,
+        ["points"] = 9989.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -4699,7 +4699,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Neilylol"] = {
-    ["percentile"] = 98.143,
+    ["percentile"] = 98.144,
     ["server"] = "Icecrown",
     ["overall_rank"] = 62,
     ["bosses"] = {
@@ -4751,7 +4751,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1907,
         ["dps_max"] = 14611.86,
-        ["points"] = 9201.437724644476,
+        ["points"] = 9201.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1365,
@@ -4828,7 +4828,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 699,
         ["dps_max"] = 15222.14,
-        ["points"] = 9629.62962962963,
+        ["points"] = 9629.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -4905,7 +4905,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 269,
         ["dps_max"] = 15752.86,
-        ["points"] = 9829.660884513205,
+        ["points"] = 9829.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -4982,7 +4982,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1306,
         ["dps_max"] = 14863.44,
-        ["points"] = 9396.780746991717,
+        ["points"] = 9396.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 81,
@@ -5059,7 +5059,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 641,
         ["dps_max"] = 15289.73,
-        ["points"] = 9653.070792311299,
+        ["points"] = 9653.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -5136,7 +5136,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 276,
         ["dps_max"] = 15736.87,
-        ["points"] = 9824.97265197687,
+        ["points"] = 9825.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -5213,7 +5213,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 110,
         ["dps_max"] = 16207.07,
-        ["points"] = 9923.425535239881,
+        ["points"] = 9923.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 697,
@@ -5290,7 +5290,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 851,
         ["dps_max"] = 15106.51,
-        ["points"] = 9568.68260665729,
+        ["points"] = 9568.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -5367,7 +5367,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 50,
         ["dps_max"] = 16613.74,
-        ["points"] = 9959.368651351773,
+        ["points"] = 9959.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -5444,7 +5444,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 397,
         ["dps_max"] = 15543.44,
-        ["points"] = 9759.337396468198,
+        ["points"] = 9759.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 26,
@@ -5521,7 +5521,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 42,
         ["dps_max"] = 16695.57,
-        ["points"] = 9965.619628066885,
+        ["points"] = 9965.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -5598,7 +5598,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 16,
         ["dps_max"] = 17193.51,
-        ["points"] = 9985.935302390999,
+        ["points"] = 9985.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -5675,12 +5675,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 158,
         ["dps_max"] = 16037.39,
-        ["points"] = 9896.858884200657,
+        ["points"] = 9896.875,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2832,
+        ["rank_raids"] = 2833,
         ["dps_max"] = 11843.68,
-        ["points"] = 8701.4,
+        ["points"] = 8701.1,
       },
       ["Halion"] = {
         ["rank_raids"] = 2120,
@@ -5752,7 +5752,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 356,
         ["dps_max"] = 15610.46,
-        ["points"] = 9782.778559149867,
+        ["points"] = 9782.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -5829,7 +5829,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 60,
         ["dps_max"] = 16503.82,
-        ["points"] = 9951.554930457884,
+        ["points"] = 9951.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -5906,7 +5906,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 458,
         ["dps_max"] = 15470.3,
-        ["points"] = 9726.51976871386,
+        ["points"] = 9726.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -5983,7 +5983,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 212,
         ["dps_max"] = 15894.97,
-        ["points"] = 9862.478512267542,
+        ["points"] = 9862.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 48,
@@ -6060,7 +6060,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2308,
         ["dps_max"] = 14496.05,
-        ["points"] = 9074.855446163463,
+        ["points"] = 9075.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -6137,7 +6137,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 43,
         ["dps_max"] = 16693.33,
-        ["points"] = 9964.056883888106,
+        ["points"] = 9964.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 94,
@@ -6214,7 +6214,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 234,
         ["dps_max"] = 15831.32,
-        ["points"] = 9848.413814658541,
+        ["points"] = 9848.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -6291,7 +6291,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 649,
         ["dps_max"] = 15281.45,
-        ["points"] = 9651.50804813252,
+        ["points"] = 9651.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 471,
@@ -6368,7 +6368,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 195,
         ["dps_max"] = 15918.96,
-        ["points"] = 9870.292233161432,
+        ["points"] = 9870.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -6445,7 +6445,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 899,
         ["dps_max"] = 15083.01,
-        ["points"] = 9542.115955618066,
+        ["points"] = 9542.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 473,
@@ -6522,7 +6522,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 298,
         ["dps_max"] = 15689.38,
-        ["points"] = 9812.470698546647,
+        ["points"] = 9812.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -6599,7 +6599,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 221,
         ["dps_max"] = 15872.6,
-        ["points"] = 9857.790279731207,
+        ["points"] = 9857.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -6676,7 +6676,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 142,
         ["dps_max"] = 16068.53,
-        ["points"] = 9906.235349273324,
+        ["points"] = 9906.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -6753,7 +6753,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 720,
         ["dps_max"] = 15206.69,
-        ["points"] = 9618.690420378185,
+        ["points"] = 9618.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -6830,7 +6830,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 203,
         ["dps_max"] = 15912.12,
-        ["points"] = 9865.604000625097,
+        ["points"] = 9865.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -6855,7 +6855,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Quetrash"] = {
-    ["percentile"] = 97.553,
+    ["percentile"] = 97.554,
     ["server"] = "Icecrown",
     ["overall_rank"] = 90,
     ["bosses"] = {
@@ -6907,7 +6907,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 681,
         ["dps_max"] = 15245.25,
-        ["points"] = 9639.006094702298,
+        ["points"] = 9639.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -6984,7 +6984,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 522,
         ["dps_max"] = 15415.75,
-        ["points"] = 9695.264885138302,
+        ["points"] = 9695.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -7061,7 +7061,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 874,
         ["dps_max"] = 15096.22,
-        ["points"] = 9559.306141584622,
+        ["points"] = 9559.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 387,
@@ -7138,7 +7138,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 530,
         ["dps_max"] = 15410.97,
-        ["points"] = 9689.01390842319,
+        ["points"] = 9689.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -7215,7 +7215,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 270,
         ["dps_max"] = 15751.4,
-        ["points"] = 9828.098140334427,
+        ["points"] = 9828.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 201,
@@ -7292,7 +7292,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 186,
         ["dps_max"] = 15955.3,
-        ["points"] = 9878.105954055321,
+        ["points"] = 9878.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -7369,12 +7369,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 738,
         ["dps_max"] = 15191.83,
-        ["points"] = 9609.313955305517,
+        ["points"] = 9609.375,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2500,
+        ["rank_raids"] = 2501,
         ["dps_max"] = 12191.86,
-        ["points"] = 8801.000000000002,
+        ["points"] = 8800.7,
       },
       ["Halion"] = {
         ["rank_raids"] = 319,
@@ -7446,7 +7446,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 259,
         ["dps_max"] = 15777.32,
-        ["points"] = 9835.911861228316,
+        ["points"] = 9835.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -7471,7 +7471,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Sardigne"] = {
-    ["percentile"] = 97.397,
+    ["percentile"] = 97.398,
     ["server"] = "Icecrown",
     ["overall_rank"] = 98,
     ["bosses"] = {
@@ -7523,7 +7523,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 323,
         ["dps_max"] = 15656.42,
-        ["points"] = 9801.531489295203,
+        ["points"] = 9801.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -7600,12 +7600,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1916,
         ["dps_max"] = 14609.16,
-        ["points"] = 9195.186747929363,
+        ["points"] = 9195.3125,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 6151,
+        ["rank_raids"] = 6152,
         ["dps_max"] = 9004.97,
-        ["points"] = 7705.700000000001,
+        ["points"] = 7705.4,
       },
       ["Halion"] = {
         ["rank_raids"] = 469,
@@ -7677,7 +7677,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 811,
         ["dps_max"] = 15132.28,
-        ["points"] = 9588.998280981403,
+        ["points"] = 9589.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -7754,7 +7754,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 144,
         ["dps_max"] = 16067.3,
-        ["points"] = 9904.672605094545,
+        ["points"] = 9904.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -7831,7 +7831,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 307,
         ["dps_max"] = 15676.3,
-        ["points"] = 9807.782466010314,
+        ["points"] = 9807.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -7908,7 +7908,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 639,
         ["dps_max"] = 15293.11,
-        ["points"] = 9654.633536490077,
+        ["points"] = 9654.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -7985,7 +7985,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 173,
         ["dps_max"] = 15991.29,
-        ["points"] = 9889.045163306766,
+        ["points"] = 9889.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -8062,7 +8062,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 245,
         ["dps_max"] = 15804.62,
-        ["points"] = 9843.725582122206,
+        ["points"] = 9843.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -8087,7 +8087,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Poisonouss"] = {
-    ["percentile"] = 97.335,
+    ["percentile"] = 97.336,
     ["server"] = "Icecrown",
     ["overall_rank"] = 106,
     ["bosses"] = {
@@ -8139,7 +8139,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3176,
         ["dps_max"] = 14249.68,
-        ["points"] = 8820.12814502266,
+        ["points"] = 8820.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -8216,7 +8216,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 38,
         ["dps_max"] = 16738.36,
-        ["points"] = 9967.182372245663,
+        ["points"] = 9967.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -8241,7 +8241,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Plecygaming"] = {
-    ["percentile"] = 97.292,
+    ["percentile"] = 97.293,
     ["server"] = "Icecrown",
     ["overall_rank"] = 108,
     ["bosses"] = {
@@ -8293,7 +8293,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1160,
         ["dps_max"] = 14939.17,
-        ["points"] = 9463.97874667917,
+        ["points"] = 9464.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 909,
@@ -8370,7 +8370,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 377,
         ["dps_max"] = 15573.32,
-        ["points"] = 9770.276605719644,
+        ["points"] = 9770.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -8447,7 +8447,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 613,
         ["dps_max"] = 15320.75,
-        ["points"] = 9664.010001562743,
+        ["points"] = 9664.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 2,
@@ -8524,7 +8524,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 954,
         ["dps_max"] = 15058.13,
-        ["points"] = 9531.17674636662,
+        ["points"] = 9531.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -8601,7 +8601,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 405,
         ["dps_max"] = 15525.77,
-        ["points"] = 9753.086419753086,
+        ["points"] = 9753.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -8678,7 +8678,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 554,
         ["dps_max"] = 15387.47,
-        ["points"] = 9681.200187529303,
+        ["points"] = 9681.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -8755,7 +8755,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 712,
         ["dps_max"] = 15213.83,
-        ["points"] = 9624.941397093296,
+        ["points"] = 9625.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -8832,7 +8832,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 362,
         ["dps_max"] = 15603.65,
-        ["points"] = 9778.090326613534,
+        ["points"] = 9778.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -8909,7 +8909,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 678,
         ["dps_max"] = 15249.23,
-        ["points"] = 9640.568838881076,
+        ["points"] = 9640.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -8986,7 +8986,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1342,
         ["dps_max"] = 14842.59,
-        ["points"] = 9384.278793561494,
+        ["points"] = 9384.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -9063,7 +9063,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 416,
         ["dps_max"] = 15515.83,
-        ["points"] = 9745.272698859197,
+        ["points"] = 9745.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 431,
@@ -9140,12 +9140,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 77,
         ["dps_max"] = 16391.93,
-        ["points"] = 9942.178465385216,
+        ["points"] = 9942.1875,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 4786,
+        ["rank_raids"] = 4787,
         ["dps_max"] = 10049.47,
-        ["points"] = 8115.2,
+        ["points"] = 8114.900000000001,
       },
       ["Halion"] = {
         ["rank_raids"] = 4016,
@@ -9217,12 +9217,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 19,
         ["dps_max"] = 17166.27,
-        ["points"] = 9984.37255821222,
+        ["points"] = 9984.375,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 3722,
+        ["rank_raids"] = 3723,
         ["dps_max"] = 10955.26,
-        ["points"] = 8434.400000000001,
+        ["points"] = 8434.1,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -9294,7 +9294,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 29,
         ["dps_max"] = 16918.23,
-        ["points"] = 9974.996093139553,
+        ["points"] = 9975.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -9371,7 +9371,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 528,
         ["dps_max"] = 15413.3,
-        ["points"] = 9690.576652601969,
+        ["points"] = 9690.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 11,
@@ -9448,7 +9448,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 408,
         ["dps_max"] = 15521.49,
-        ["points"] = 9751.523675574308,
+        ["points"] = 9751.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -9473,7 +9473,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Herash"] = {
-    ["percentile"] = 96.913,
+    ["percentile"] = 96.914,
     ["server"] = "Icecrown",
     ["overall_rank"] = 124,
     ["bosses"] = {
@@ -9525,7 +9525,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 957,
         ["dps_max"] = 15056.69,
-        ["points"] = 9529.614002187842,
+        ["points"] = 9529.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 395,
@@ -9602,7 +9602,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1656,
         ["dps_max"] = 14714.02,
-        ["points"] = 9292.076887013596,
+        ["points"] = 9292.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 55,
@@ -9627,7 +9627,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Luisdiaz"] = {
-    ["percentile"] = 96.904,
+    ["percentile"] = 96.905,
     ["server"] = "Icecrown",
     ["overall_rank"] = 126,
     ["bosses"] = {
@@ -9679,7 +9679,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2117,
         ["dps_max"] = 14548.08,
-        ["points"] = 9135.802469135802,
+        ["points"] = 9135.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1345,
@@ -9756,12 +9756,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 82,
         ["dps_max"] = 16363.95,
-        ["points"] = 9937.490232848882,
+        ["points"] = 9937.5,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 4903,
+        ["rank_raids"] = 4904,
         ["dps_max"] = 9962.31,
-        ["points"] = 8080.100000000001,
+        ["points"] = 8079.8,
       },
       ["Halion"] = {
         ["rank_raids"] = 5621,
@@ -9781,7 +9781,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Amalie"] = {
-    ["percentile"] = 96.844,
+    ["percentile"] = 96.845,
     ["server"] = "Icecrown",
     ["overall_rank"] = 128,
     ["bosses"] = {
@@ -9833,7 +9833,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 842,
         ["dps_max"] = 15112.96,
-        ["points"] = 9574.933583372402,
+        ["points"] = 9575.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -9910,7 +9910,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 27,
         ["dps_max"] = 16929.74,
-        ["points"] = 9978.12158149711,
+        ["points"] = 9978.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -9987,7 +9987,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 121,
         ["dps_max"] = 16149.74,
-        ["points"] = 9917.17455852477,
+        ["points"] = 9917.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -10064,7 +10064,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 524,
         ["dps_max"] = 15415.51,
-        ["points"] = 9692.139396780747,
+        ["points"] = 9692.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -10089,7 +10089,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Purorogue"] = {
-    ["percentile"] = 96.741,
+    ["percentile"] = 96.742,
     ["server"] = "Icecrown",
     ["overall_rank"] = 132,
     ["bosses"] = {
@@ -10141,12 +10141,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1175,
         ["dps_max"] = 14930.69,
-        ["points"] = 9456.16502578528,
+        ["points"] = 9456.25,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1914,
+        ["rank_raids"] = 1915,
         ["dps_max"] = 12846.42,
-        ["points"] = 8985.4,
+        ["points"] = 8985.0,
       },
       ["Halion"] = {
         ["rank_raids"] = 4935,
@@ -10218,7 +10218,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 588,
         ["dps_max"] = 15349.83,
-        ["points"] = 9674.94921081419,
+        ["points"] = 9675.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -10295,7 +10295,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 296,
         ["dps_max"] = 15689.91,
-        ["points"] = 9814.033442725426,
+        ["points"] = 9814.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -10372,7 +10372,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 822,
         ["dps_max"] = 15124.48,
-        ["points"] = 9582.747304266291,
+        ["points"] = 9582.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -10449,7 +10449,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2515,
         ["dps_max"] = 14432.69,
-        ["points"] = 9013.908423191124,
+        ["points"] = 9014.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 46,
@@ -10526,12 +10526,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1815,
         ["dps_max"] = 14649.96,
-        ["points"] = 9232.692608220035,
+        ["points"] = 9232.8125,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 11839,
+        ["rank_raids"] = 11842,
         ["dps_max"] = 2746.62,
-        ["points"] = 6367.1,
+        ["points"] = 6366.8,
       },
       ["Halion"] = {
         ["rank_raids"] = 4607,
@@ -10603,7 +10603,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 164,
         ["dps_max"] = 16016.81,
-        ["points"] = 9892.170651664323,
+        ["points"] = 9892.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -10680,12 +10680,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 200,
         ["dps_max"] = 15913.54,
-        ["points"] = 9867.166744803875,
+        ["points"] = 9867.1875,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 3318,
+        ["rank_raids"] = 3319,
         ["dps_max"] = 11337.68,
-        ["points"] = 8555.6,
+        ["points"] = 8555.3,
       },
       ["Halion"] = {
         ["rank_raids"] = 4383,
@@ -10757,7 +10757,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3250,
         ["dps_max"] = 14230.87,
-        ["points"] = 8798.249726519769,
+        ["points"] = 8798.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -10834,7 +10834,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3309,
         ["dps_max"] = 14217.73,
-        ["points"] = 8774.8085638381,
+        ["points"] = 8775.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -10911,7 +10911,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1472,
         ["dps_max"] = 14783.71,
-        ["points"] = 9345.210189092046,
+        ["points"] = 9345.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -10988,7 +10988,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 327,
         ["dps_max"] = 15651.0,
-        ["points"] = 9798.406000937646,
+        ["points"] = 9798.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -11065,12 +11065,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 345,
         ["dps_max"] = 15623.57,
-        ["points"] = 9785.904047507423,
+        ["points"] = 9785.9375,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 7010,
+        ["rank_raids"] = 7011,
         ["dps_max"] = 8330.28,
-        ["points"] = 7448.0,
+        ["points"] = 7447.700000000001,
       },
       ["Halion"] = {
         ["rank_raids"] = 1383,
@@ -11142,7 +11142,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 492,
         ["dps_max"] = 15439.49,
-        ["points"] = 9707.766838568527,
+        ["points"] = 9707.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -11219,7 +11219,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 853,
         ["dps_max"] = 15106.35,
-        ["points"] = 9567.119862478512,
+        ["points"] = 9567.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -11296,7 +11296,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 184,
         ["dps_max"] = 15958.54,
-        ["points"] = 9881.231442412876,
+        ["points"] = 9881.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -11373,7 +11373,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1218,
         ["dps_max"] = 14904.17,
-        ["points"] = 9435.849351461165,
+        ["points"] = 9435.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -11450,7 +11450,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1387,
         ["dps_max"] = 14820.26,
-        ["points"] = 9367.088607594937,
+        ["points"] = 9367.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -11527,7 +11527,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 148,
         ["dps_max"] = 16060.12,
-        ["points"] = 9903.109860915769,
+        ["points"] = 9903.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -11604,7 +11604,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 457,
         ["dps_max"] = 15470.37,
-        ["points"] = 9728.082512892639,
+        ["points"] = 9728.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1298,
@@ -11681,7 +11681,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 256,
         ["dps_max"] = 15791.58,
-        ["points"] = 9839.037349585873,
+        ["points"] = 9839.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -11758,7 +11758,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 79,
         ["dps_max"] = 16380.18,
-        ["points"] = 9940.615721206439,
+        ["points"] = 9940.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -11835,7 +11835,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 418,
         ["dps_max"] = 15513.77,
-        ["points"] = 9743.709954680418,
+        ["points"] = 9743.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -11912,7 +11912,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 294,
         ["dps_max"] = 15695.6,
-        ["points"] = 9817.158931082982,
+        ["points"] = 9817.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -11989,7 +11989,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 282,
         ["dps_max"] = 15720.98,
-        ["points"] = 9820.284419440539,
+        ["points"] = 9820.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -12066,7 +12066,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1375,
         ["dps_max"] = 14827.75,
-        ["points"] = 9373.339584310048,
+        ["points"] = 9373.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -12143,7 +12143,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1091,
         ["dps_max"] = 14968.63,
-        ["points"] = 9492.108141897172,
+        ["points"] = 9492.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -12220,7 +12220,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2981,
         ["dps_max"] = 14299.62,
-        ["points"] = 8863.884982028441,
+        ["points"] = 8864.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -12297,7 +12297,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1695,
         ["dps_max"] = 14697.62,
-        ["points"] = 9278.012189404593,
+        ["points"] = 9278.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -12374,7 +12374,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1046,
         ["dps_max"] = 14992.57,
-        ["points"] = 9499.921862791061,
+        ["points"] = 9500.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -12451,7 +12451,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 178,
         ["dps_max"] = 15976.03,
-        ["points"] = 9885.919674949211,
+        ["points"] = 9885.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 45,
@@ -12528,7 +12528,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 127,
         ["dps_max"] = 16118.02,
-        ["points"] = 9915.611814345992,
+        ["points"] = 9915.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -12605,7 +12605,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 714,
         ["dps_max"] = 15213.01,
-        ["points"] = 9623.378652914518,
+        ["points"] = 9623.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -12682,7 +12682,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 343,
         ["dps_max"] = 15626.92,
-        ["points"] = 9789.02953586498,
+        ["points"] = 9789.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -12759,7 +12759,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 81,
         ["dps_max"] = 16373.66,
-        ["points"] = 9939.05297702766,
+        ["points"] = 9939.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -12836,7 +12836,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1741,
         ["dps_max"] = 14680.46,
-        ["points"] = 9260.822003438037,
+        ["points"] = 9260.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -12913,7 +12913,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1099,
         ["dps_max"] = 14962.5,
-        ["points"] = 9485.85716518206,
+        ["points"] = 9485.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 491,
@@ -12990,7 +12990,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 336,
         ["dps_max"] = 15642.11,
-        ["points"] = 9793.717768401313,
+        ["points"] = 9793.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -13067,7 +13067,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 150,
         ["dps_max"] = 16058.94,
-        ["points"] = 9899.984372558212,
+        ["points"] = 9900.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -13144,7 +13144,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 167,
         ["dps_max"] = 16009.63,
-        ["points"] = 9890.607907485544,
+        ["points"] = 9890.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -13221,7 +13221,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1926,
         ["dps_max"] = 14606.06,
-        ["points"] = 9192.061259571808,
+        ["points"] = 9192.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -13298,7 +13298,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 937,
         ["dps_max"] = 15063.43,
-        ["points"] = 9535.864978902953,
+        ["points"] = 9535.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 169,
@@ -13375,7 +13375,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 474,
         ["dps_max"] = 15454.93,
-        ["points"] = 9720.26879199875,
+        ["points"] = 9720.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -13452,7 +13452,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 162,
         ["dps_max"] = 16023.49,
-        ["points"] = 9893.7333958431,
+        ["points"] = 9893.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -13529,7 +13529,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 841,
         ["dps_max"] = 15114.04,
-        ["points"] = 9576.49632755118,
+        ["points"] = 9576.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 160,
@@ -13606,7 +13606,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 426,
         ["dps_max"] = 15505.83,
-        ["points"] = 9742.14721050164,
+        ["points"] = 9742.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -13683,7 +13683,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1441,
         ["dps_max"] = 14801.1,
-        ["points"] = 9351.461165807157,
+        ["points"] = 9351.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -13760,7 +13760,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 783,
         ["dps_max"] = 15155.12,
-        ["points"] = 9593.686513517738,
+        ["points"] = 9593.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -13837,7 +13837,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 974,
         ["dps_max"] = 15043.74,
-        ["points"] = 9521.800281293952,
+        ["points"] = 9521.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -13914,7 +13914,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 308,
         ["dps_max"] = 15674.26,
-        ["points"] = 9806.219721831536,
+        ["points"] = 9806.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -13991,12 +13991,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1224,
         ["dps_max"] = 14901.97,
-        ["points"] = 9434.286607282389,
+        ["points"] = 9434.375,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2357,
+        ["rank_raids"] = 2358,
         ["dps_max"] = 12357.27,
-        ["points"] = 8843.9,
+        ["points"] = 8843.6,
       },
       ["Halion"] = {
         ["rank_raids"] = 6583,
@@ -14068,7 +14068,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 893,
         ["dps_max"] = 15085.16,
-        ["points"] = 9546.804188154398,
+        ["points"] = 9546.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -14145,7 +14145,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2356,
         ["dps_max"] = 14482.75,
-        ["points"] = 9062.35349273324,
+        ["points"] = 9062.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -14222,7 +14222,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6713,
         ["dps_max"] = 13570.82,
-        ["points"] = 7868.416940146898,
+        ["points"] = 7868.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 196,
@@ -14299,7 +14299,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 337,
         ["dps_max"] = 15638.69,
-        ["points"] = 9792.155024222535,
+        ["points"] = 9792.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -14376,7 +14376,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1159,
         ["dps_max"] = 14939.58,
-        ["points"] = 9465.541490857946,
+        ["points"] = 9465.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -14453,7 +14453,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1589,
         ["dps_max"] = 14735.98,
-        ["points"] = 9313.955305516487,
+        ["points"] = 9314.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 187,
@@ -14530,7 +14530,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 189,
         ["dps_max"] = 15934.22,
-        ["points"] = 9874.980465697765,
+        ["points"] = 9875.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -14607,7 +14607,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 191,
         ["dps_max"] = 15928.66,
-        ["points"] = 9873.417721518988,
+        ["points"] = 9873.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -14632,7 +14632,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Shankurbutt"] = {
-    ["percentile"] = 95.537,
+    ["percentile"] = 95.538,
     ["server"] = "Icecrown",
     ["overall_rank"] = 191,
     ["bosses"] = {
@@ -14684,7 +14684,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3670,
         ["dps_max"] = 14131.43,
-        ["points"] = 8673.230192217534,
+        ["points"] = 8673.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -14761,7 +14761,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 265,
         ["dps_max"] = 15760.6,
-        ["points"] = 9832.786372870762,
+        ["points"] = 9832.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -14838,12 +14838,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 331,
         ["dps_max"] = 15647.82,
-        ["points"] = 9796.843256758868,
+        ["points"] = 9796.875,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1915,
+        ["rank_raids"] = 1916,
         ["dps_max"] = 12846.07,
-        ["points"] = 8985.0,
+        ["points"] = 8984.599999999999,
       },
       ["Halion"] = {
         ["rank_raids"] = 1826,
@@ -14915,7 +14915,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 839,
         ["dps_max"] = 15115.6,
-        ["points"] = 9578.059071729958,
+        ["points"] = 9578.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -14992,7 +14992,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2405,
         ["dps_max"] = 14466.73,
-        ["points"] = 9043.600562587904,
+        ["points"] = 9043.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -15069,7 +15069,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1653,
         ["dps_max"] = 14714.63,
-        ["points"] = 9293.639631192375,
+        ["points"] = 9293.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -15146,7 +15146,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 718,
         ["dps_max"] = 15208.7,
-        ["points"] = 9620.253164556962,
+        ["points"] = 9620.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -15223,7 +15223,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 223,
         ["dps_max"] = 15868.09,
-        ["points"] = 9854.664791373652,
+        ["points"] = 9854.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -15300,7 +15300,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2894,
         ["dps_max"] = 14323.75,
-        ["points"] = 8895.139865604,
+        ["points"] = 8895.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -15377,7 +15377,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 483,
         ["dps_max"] = 15448.44,
-        ["points"] = 9715.580559462416,
+        ["points"] = 9715.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 351,
@@ -15454,7 +15454,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2194,
         ["dps_max"] = 14525.82,
-        ["points"] = 9110.798562275355,
+        ["points"] = 9110.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 118,
@@ -15531,7 +15531,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2331,
         ["dps_max"] = 14489.33,
-        ["points"] = 9073.292701984685,
+        ["points"] = 9073.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -15608,7 +15608,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6930,
         ["dps_max"] = 13532.57,
-        ["points"] = 7823.097358962337,
+        ["points"] = 7823.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1431,
@@ -15685,7 +15685,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 763,
         ["dps_max"] = 15171.01,
-        ["points"] = 9598.37474605407,
+        ["points"] = 9598.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -15762,7 +15762,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 248,
         ["dps_max"] = 15801.45,
-        ["points"] = 9842.16283794343,
+        ["points"] = 9842.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -15839,7 +15839,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 742,
         ["dps_max"] = 15187.42,
-        ["points"] = 9606.18846694796,
+        ["points"] = 9606.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -15916,12 +15916,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2587,
         ["dps_max"] = 14411.74,
-        ["points"] = 8996.718237224566,
+        ["points"] = 8996.875,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 6105,
+        ["rank_raids"] = 6106,
         ["dps_max"] = 9047.05,
-        ["points"] = 7719.5,
+        ["points"] = 7719.200000000001,
       },
       ["Halion"] = {
         ["rank_raids"] = 801,
@@ -15993,7 +15993,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3476,
         ["dps_max"] = 14174.76,
-        ["points"] = 8715.424285044539,
+        ["points"] = 8715.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -16070,7 +16070,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2168,
         ["dps_max"] = 14530.56,
-        ["points"] = 9118.612283169245,
+        ["points"] = 9118.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -16147,7 +16147,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2030,
         ["dps_max"] = 14573.88,
-        ["points"] = 9157.680887638693,
+        ["points"] = 9157.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -16224,7 +16224,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 870,
         ["dps_max"] = 15097.85,
-        ["points"] = 9560.8688857634,
+        ["points"] = 9560.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -16301,7 +16301,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1122,
         ["dps_max"] = 14952.5,
-        ["points"] = 9478.04344428817,
+        ["points"] = 9478.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 179,
@@ -16378,7 +16378,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1243,
         ["dps_max"] = 14897.13,
-        ["points"] = 9426.472886388497,
+        ["points"] = 9426.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -16403,7 +16403,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Sheazzy"] = {
-    ["percentile"] = 95.178,
+    ["percentile"] = 95.179,
     ["server"] = "Icecrown",
     ["overall_rank"] = 214,
     ["bosses"] = {
@@ -16455,7 +16455,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 340,
         ["dps_max"] = 15634.27,
-        ["points"] = 9790.592280043757,
+        ["points"] = 9790.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -16532,7 +16532,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 889,
         ["dps_max"] = 15088.08,
-        ["points"] = 9548.366932333176,
+        ["points"] = 9548.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -16609,7 +16609,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2269,
         ["dps_max"] = 14506.01,
-        ["points"] = 9087.357399593686,
+        ["points"] = 9087.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 203,
@@ -16686,7 +16686,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 488,
         ["dps_max"] = 15445.39,
-        ["points"] = 9712.45507110486,
+        ["points"] = 9712.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -16763,7 +16763,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2119,
         ["dps_max"] = 14547.43,
-        ["points"] = 9134.239724957026,
+        ["points"] = 9134.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 52,
@@ -16840,12 +16840,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2798,
         ["dps_max"] = 14349.72,
-        ["points"] = 8926.394749179559,
+        ["points"] = 8926.5625,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2463,
+        ["rank_raids"] = 2464,
         ["dps_max"] = 12235.65,
-        ["points"] = 8812.1,
+        ["points"] = 8811.800000000001,
       },
       ["Halion"] = {
         ["rank_raids"] = 116,
@@ -16917,7 +16917,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 977,
         ["dps_max"] = 15040.57,
-        ["points"] = 9520.237537115174,
+        ["points"] = 9520.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -16994,7 +16994,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1725,
         ["dps_max"] = 14685.37,
-        ["points"] = 9267.072980153149,
+        ["points"] = 9267.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -17071,7 +17071,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3276,
         ["dps_max"] = 14225.19,
-        ["points"] = 8787.310517268323,
+        ["points"] = 8787.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -17148,7 +17148,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1162,
         ["dps_max"] = 14937.86,
-        ["points"] = 9462.416002500391,
+        ["points"] = 9462.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 110,
@@ -17225,7 +17225,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1939,
         ["dps_max"] = 14598.67,
-        ["points"] = 9185.810282856697,
+        ["points"] = 9185.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -17302,7 +17302,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3473,
         ["dps_max"] = 14176.46,
-        ["points"] = 8716.987029223317,
+        ["points"] = 8717.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 7,
@@ -17379,7 +17379,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 826,
         ["dps_max"] = 15123.64,
-        ["points"] = 9579.621815908735,
+        ["points"] = 9579.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -17456,7 +17456,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 708,
         ["dps_max"] = 15217.44,
-        ["points"] = 9626.504141272075,
+        ["points"] = 9626.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -17533,7 +17533,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1719,
         ["dps_max"] = 14688.07,
-        ["points"] = 9270.198468510705,
+        ["points"] = 9270.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 23,
@@ -17610,7 +17610,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 508,
         ["dps_max"] = 15426.73,
-        ["points"] = 9701.515861853415,
+        ["points"] = 9701.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -17687,7 +17687,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1133,
         ["dps_max"] = 14948.72,
-        ["points"] = 9473.355211751836,
+        ["points"] = 9473.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 175,
@@ -17764,7 +17764,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2745,
         ["dps_max"] = 14363.99,
-        ["points"] = 8949.835911861228,
+        ["points"] = 8950.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -17841,7 +17841,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 847,
         ["dps_max"] = 15108.72,
-        ["points"] = 9573.370839193625,
+        ["points"] = 9573.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -17918,12 +17918,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2525,
         ["dps_max"] = 14430.23,
-        ["points"] = 9010.782934833567,
+        ["points"] = 9010.9375,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 3377,
+        ["rank_raids"] = 3378,
         ["dps_max"] = 11277.83,
-        ["points"] = 8537.9,
+        ["points"] = 8537.6,
       },
       ["Halion"] = {
         ["rank_raids"] = 531,
@@ -17995,7 +17995,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3317,
         ["dps_max"] = 14216.15,
-        ["points"] = 8771.683075480543,
+        ["points"] = 8771.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -18072,7 +18072,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1899,
         ["dps_max"] = 14615.62,
-        ["points"] = 9204.563213002031,
+        ["points"] = 9204.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 137,
@@ -18149,7 +18149,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4145,
         ["dps_max"] = 14022.77,
-        ["points"] = 8548.210657915299,
+        ["points"] = 8548.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -18226,7 +18226,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1135,
         ["dps_max"] = 14948.15,
-        ["points"] = 9471.792467573057,
+        ["points"] = 9471.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -18303,7 +18303,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1212,
         ["dps_max"] = 14907.64,
-        ["points"] = 9438.974839818722,
+        ["points"] = 9439.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -18380,7 +18380,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1291,
         ["dps_max"] = 14870.04,
-        ["points"] = 9404.594467885607,
+        ["points"] = 9404.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -18457,7 +18457,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 23,
         ["dps_max"] = 16987.26,
-        ["points"] = 9982.809814033442,
+        ["points"] = 9982.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -18534,7 +18534,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 180,
         ["dps_max"] = 15968.54,
-        ["points"] = 9884.356930770433,
+        ["points"] = 9884.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -18594,9 +18594,9 @@ UWULogsData[6][2] = {
         ["points"] = 9732.677217715122,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5888,
+        ["rank_raids"] = 5890,
         ["dps_max"] = 15995.99,
-        ["points"] = 8629.862986298629,
+        ["points"] = 8628.862886288629,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 206,
@@ -18611,7 +18611,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2002,
         ["dps_max"] = 14579.9,
-        ["points"] = 9165.494608532583,
+        ["points"] = 9165.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 392,
@@ -18688,7 +18688,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 595,
         ["dps_max"] = 15340.19,
-        ["points"] = 9668.698234099078,
+        ["points"] = 9668.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -18765,7 +18765,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 435,
         ["dps_max"] = 15491.98,
-        ["points"] = 9735.896233786529,
+        ["points"] = 9735.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -18842,7 +18842,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2729,
         ["dps_max"] = 14367.34,
-        ["points"] = 8954.524144397563,
+        ["points"] = 8954.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 22,
@@ -18867,7 +18867,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Gerimus"] = {
-    ["percentile"] = 94.66,
+    ["percentile"] = 94.661,
     ["server"] = "Icecrown",
     ["overall_rank"] = 246,
     ["bosses"] = {
@@ -18919,7 +18919,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 523,
         ["dps_max"] = 15415.63,
-        ["points"] = 9693.702140959525,
+        ["points"] = 9693.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -18996,7 +18996,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 744,
         ["dps_max"] = 15186.47,
-        ["points"] = 9604.625722769182,
+        ["points"] = 9604.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -19073,7 +19073,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 360,
         ["dps_max"] = 15606.69,
-        ["points"] = 9779.653070792312,
+        ["points"] = 9779.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -19168,9 +19168,9 @@ UWULogsData[6][2] = {
         ["points"] = 8785.61736770692,
       },
       ["Valithria Dreamwalker"] = {
-        ["rank_raids"] = 2190,
+        ["rank_raids"] = 2191,
         ["dps_max"] = 114.43,
-        ["points"] = 4271.133211201256,
+        ["points"] = 4270.015698587127,
       },
     },
   },
@@ -19227,7 +19227,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3919,
         ["dps_max"] = 14070.4,
-        ["points"] = 8606.032192530083,
+        ["points"] = 8606.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -19304,7 +19304,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2600,
         ["dps_max"] = 14406.61,
-        ["points"] = 8988.904516330676,
+        ["points"] = 8989.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -19381,7 +19381,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 326,
         ["dps_max"] = 15651.42,
-        ["points"] = 9799.968745116425,
+        ["points"] = 9800.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -19458,7 +19458,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 154,
         ["dps_max"] = 16047.66,
-        ["points"] = 9898.421628379434,
+        ["points"] = 9898.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 8,
@@ -19535,7 +19535,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3738,
         ["dps_max"] = 14114.74,
-        ["points"] = 8646.663541178308,
+        ["points"] = 8646.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -19612,12 +19612,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1364,
         ["dps_max"] = 14832.34,
-        ["points"] = 9376.465072667605,
+        ["points"] = 9376.5625,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 3102,
+        ["rank_raids"] = 3103,
         ["dps_max"] = 11577.4,
-        ["points"] = 8620.4,
+        ["points"] = 8620.1,
       },
       ["Halion"] = {
         ["rank_raids"] = 2552,
@@ -19689,7 +19689,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1301,
         ["dps_max"] = 14864.73,
-        ["points"] = 9401.468979528052,
+        ["points"] = 9401.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -19766,7 +19766,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1189,
         ["dps_max"] = 14922.99,
-        ["points"] = 9448.351304891388,
+        ["points"] = 9448.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -19843,7 +19843,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 98,
         ["dps_max"] = 16268.97,
-        ["points"] = 9932.802000312548,
+        ["points"] = 9932.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -19920,7 +19920,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1377,
         ["dps_max"] = 14826.16,
-        ["points"] = 9370.214095952493,
+        ["points"] = 9370.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -19997,7 +19997,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 896,
         ["dps_max"] = 15084.45,
-        ["points"] = 9543.678699796843,
+        ["points"] = 9543.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -20074,7 +20074,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 739,
         ["dps_max"] = 15190.42,
-        ["points"] = 9607.751211126739,
+        ["points"] = 9607.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -20151,7 +20151,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 54,
         ["dps_max"] = 16531.68,
-        ["points"] = 9956.243162994218,
+        ["points"] = 9956.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -20228,7 +20228,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2258,
         ["dps_max"] = 14508.87,
-        ["points"] = 9090.482887951242,
+        ["points"] = 9090.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -20305,7 +20305,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 617,
         ["dps_max"] = 15318.35,
-        ["points"] = 9662.447257383967,
+        ["points"] = 9662.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -20382,7 +20382,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1076,
         ["dps_max"] = 14979.05,
-        ["points"] = 9495.233630254726,
+        ["points"] = 9495.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 80,
@@ -20407,7 +20407,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Azaciel"] = {
-    ["percentile"] = 94.413,
+    ["percentile"] = 94.414,
     ["server"] = "Icecrown",
     ["overall_rank"] = 266,
     ["bosses"] = {
@@ -20459,7 +20459,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4673,
         ["dps_max"] = 13926.08,
-        ["points"] = 8387.248007501172,
+        ["points"] = 8387.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -20484,7 +20484,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Awnirogue"] = {
-    ["percentile"] = 94.397,
+    ["percentile"] = 94.396,
     ["server"] = "Icecrown",
     ["overall_rank"] = 267,
     ["bosses"] = {
@@ -20519,9 +20519,9 @@ UWULogsData[6][2] = {
         ["points"] = 9283.149354967416,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5733,
+        ["rank_raids"] = 5734,
         ["dps_max"] = 16037.21,
-        ["points"] = 8661.866186618661,
+        ["points"] = 8660.866086608661,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 452,
@@ -20536,12 +20536,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1532,
         ["dps_max"] = 14760.78,
-        ["points"] = 9328.020003125488,
+        ["points"] = 9328.125,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 3469,
+        ["rank_raids"] = 3470,
         ["dps_max"] = 11192.87,
-        ["points"] = 8510.300000000001,
+        ["points"] = 8510.0,
       },
       ["Halion"] = {
         ["rank_raids"] = 700,
@@ -20613,7 +20613,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1036,
         ["dps_max"] = 15000.52,
-        ["points"] = 9504.610095327394,
+        ["points"] = 9504.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -20690,7 +20690,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2783,
         ["dps_max"] = 14354.71,
-        ["points"] = 8935.771214252227,
+        ["points"] = 8935.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -20767,12 +20767,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1740,
         ["dps_max"] = 14680.54,
-        ["points"] = 9262.384747616816,
+        ["points"] = 9262.5,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 4450,
+        ["rank_raids"] = 4451,
         ["dps_max"] = 10308.96,
-        ["points"] = 8216.000000000002,
+        ["points"] = 8215.7,
       },
       ["Halion"] = {
         ["rank_raids"] = 1059,
@@ -20844,7 +20844,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2262,
         ["dps_max"] = 14508.26,
-        ["points"] = 9088.920143772464,
+        ["points"] = 9089.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 399,
@@ -20879,7 +20879,7 @@ UWULogsData[6][2] = {
         ["points"] = 9891.989198919891,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7239,
+        ["rank_raids"] = 7240,
         ["dps_max"] = 17232.76,
         ["points"] = 7717.107173976183,
       },
@@ -20921,7 +20921,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1477,
         ["dps_max"] = 14781.63,
-        ["points"] = 9342.08470073449,
+        ["points"] = 9342.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -20998,7 +20998,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 468,
         ["dps_max"] = 15459.96,
-        ["points"] = 9723.394280356306,
+        ["points"] = 9723.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -21075,7 +21075,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 987,
         ["dps_max"] = 15034.23,
-        ["points"] = 9518.674792936397,
+        ["points"] = 9518.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -21152,7 +21152,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2978,
         ["dps_max"] = 14300.17,
-        ["points"] = 8867.010470385998,
+        ["points"] = 8867.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -21229,7 +21229,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1249,
         ["dps_max"] = 14893.36,
-        ["points"] = 9423.347398030943,
+        ["points"] = 9423.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -21306,7 +21306,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1357,
         ["dps_max"] = 14835.07,
-        ["points"] = 9378.027816846383,
+        ["points"] = 9378.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -21383,7 +21383,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 909,
         ["dps_max"] = 15075.85,
-        ["points"] = 9538.99046726051,
+        ["points"] = 9539.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -21408,7 +21408,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Rogmania"] = {
-    ["percentile"] = 94.193,
+    ["percentile"] = 94.194,
     ["server"] = "Icecrown",
     ["overall_rank"] = 279,
     ["bosses"] = {
@@ -21460,7 +21460,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2954,
         ["dps_max"] = 14307.22,
-        ["points"] = 8873.26144710111,
+        ["points"] = 8873.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -21537,7 +21537,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1576,
         ["dps_max"] = 14743.39,
-        ["points"] = 9318.64353805282,
+        ["points"] = 9318.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1574,
@@ -21614,7 +21614,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3140,
         ["dps_max"] = 14258.91,
-        ["points"] = 8827.94186591655,
+        ["points"] = 8828.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 327,
@@ -21691,7 +21691,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2950,
         ["dps_max"] = 14309.7,
-        ["points"] = 8874.824191279888,
+        ["points"] = 8875.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -21716,7 +21716,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Immigrating"] = {
-    ["percentile"] = 94.119,
+    ["percentile"] = 94.118,
     ["server"] = "Icecrown",
     ["overall_rank"] = 283,
     ["bosses"] = {
@@ -21751,9 +21751,9 @@ UWULogsData[6][2] = {
         ["points"] = 9440.085117701821,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4605,
+        ["rank_raids"] = 4606,
         ["dps_max"] = 16384.43,
-        ["points"] = 8873.887388738875,
+        ["points"] = 8872.887288728873,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 648,
@@ -21768,7 +21768,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2302,
         ["dps_max"] = 14497.74,
-        ["points"] = 9077.98093452102,
+        ["points"] = 9078.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 183,
@@ -21845,7 +21845,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1686,
         ["dps_max"] = 14700.81,
-        ["points"] = 9281.13767776215,
+        ["points"] = 9281.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -21922,7 +21922,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 399,
         ["dps_max"] = 15536.19,
-        ["points"] = 9756.211908110643,
+        ["points"] = 9756.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -21999,7 +21999,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 363,
         ["dps_max"] = 15597.81,
-        ["points"] = 9776.527582434755,
+        ["points"] = 9776.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -22076,7 +22076,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1103,
         ["dps_max"] = 14959.33,
-        ["points"] = 9482.731676824504,
+        ["points"] = 9482.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -22153,7 +22153,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 185,
         ["dps_max"] = 15955.32,
-        ["points"] = 9879.668698234098,
+        ["points"] = 9879.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -22230,7 +22230,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1933,
         ["dps_max"] = 14601.91,
-        ["points"] = 9188.935771214252,
+        ["points"] = 9189.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -22255,7 +22255,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Styrixa"] = {
-    ["percentile"] = 93.944,
+    ["percentile"] = 93.945,
     ["server"] = "Icecrown",
     ["overall_rank"] = 290,
     ["bosses"] = {
@@ -22307,7 +22307,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 879,
         ["dps_max"] = 15091.64,
-        ["points"] = 9554.61790904829,
+        ["points"] = 9554.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -22384,7 +22384,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 625,
         ["dps_max"] = 15307.53,
-        ["points"] = 9659.32176902641,
+        ["points"] = 9659.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -22461,7 +22461,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1604,
         ["dps_max"] = 14730.35,
-        ["points"] = 9309.267072980154,
+        ["points"] = 9309.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -22538,7 +22538,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1084,
         ["dps_max"] = 14971.94,
-        ["points"] = 9493.670886075948,
+        ["points"] = 9493.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -22615,7 +22615,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4594,
         ["dps_max"] = 13943.49,
-        ["points"] = 8415.377402719176,
+        ["points"] = 8415.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -22692,7 +22692,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1045,
         ["dps_max"] = 14992.86,
-        ["points"] = 9501.48460696984,
+        ["points"] = 9501.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 759,
@@ -22769,7 +22769,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1282,
         ["dps_max"] = 14875.57,
-        ["points"] = 9407.719956243163,
+        ["points"] = 9407.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -22846,7 +22846,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 268,
         ["dps_max"] = 15755.29,
-        ["points"] = 9831.223628691983,
+        ["points"] = 9831.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -22923,7 +22923,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 209,
         ["dps_max"] = 15902.16,
-        ["points"] = 9864.04125644632,
+        ["points"] = 9864.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 546,
@@ -23000,7 +23000,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 670,
         ["dps_max"] = 15259.45,
-        ["points"] = 9643.69432723863,
+        ["points"] = 9643.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 30,
@@ -23077,7 +23077,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 746,
         ["dps_max"] = 15184.72,
-        ["points"] = 9603.062978590404,
+        ["points"] = 9603.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -23154,7 +23154,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1750,
         ["dps_max"] = 14675.9,
-        ["points"] = 9256.133770901703,
+        ["points"] = 9256.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -23231,7 +23231,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 55,
         ["dps_max"] = 16523.07,
-        ["points"] = 9954.68041881544,
+        ["points"] = 9954.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -23308,7 +23308,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1643,
         ["dps_max"] = 14718.68,
-        ["points"] = 9296.76511954993,
+        ["points"] = 9296.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 87,
@@ -23333,7 +23333,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Tide"] = {
-    ["percentile"] = 93.699,
+    ["percentile"] = 93.7,
     ["server"] = "Icecrown",
     ["overall_rank"] = 304,
     ["bosses"] = {
@@ -23385,7 +23385,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 726,
         ["dps_max"] = 15201.53,
-        ["points"] = 9615.564932020628,
+        ["points"] = 9615.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -23410,7 +23410,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Robinhoud"] = {
-    ["percentile"] = 93.694,
+    ["percentile"] = 93.695,
     ["server"] = "Icecrown",
     ["overall_rank"] = 305,
     ["bosses"] = {
@@ -23462,7 +23462,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1874,
         ["dps_max"] = 14624.61,
-        ["points"] = 9213.9396780747,
+        ["points"] = 9214.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -23522,7 +23522,7 @@ UWULogsData[6][2] = {
         ["points"] = 9037.105998138051,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 8122,
+        ["rank_raids"] = 8124,
         ["dps_max"] = 15468.52,
         ["points"] = 8197.819781978198,
       },
@@ -23539,7 +23539,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 880,
         ["dps_max"] = 15090.49,
-        ["points"] = 9553.055164869511,
+        ["points"] = 9553.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -23616,7 +23616,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 452,
         ["dps_max"] = 15478.24,
-        ["points"] = 9731.208001250196,
+        ["points"] = 9731.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -23693,7 +23693,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1245,
         ["dps_max"] = 14896.76,
-        ["points"] = 9424.910142209721,
+        ["points"] = 9425.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -23770,7 +23770,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 500,
         ["dps_max"] = 15432.78,
-        ["points"] = 9704.64135021097,
+        ["points"] = 9704.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -23795,7 +23795,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Catchmebaby"] = {
-    ["percentile"] = 93.643,
+    ["percentile"] = 93.644,
     ["server"] = "Icecrown",
     ["overall_rank"] = 310,
     ["bosses"] = {
@@ -23847,7 +23847,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1489,
         ["dps_max"] = 14775.85,
-        ["points"] = 9337.396468198156,
+        ["points"] = 9337.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -23872,7 +23872,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Goodsap"] = {
-    ["percentile"] = 93.636,
+    ["percentile"] = 93.635,
     ["server"] = "Icecrown",
     ["overall_rank"] = 311,
     ["bosses"] = {
@@ -23887,9 +23887,9 @@ UWULogsData[6][2] = {
         ["points"] = 9469.93900668022,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7958,
+        ["rank_raids"] = 7959,
         ["dps_max"] = 21493.96,
-        ["points"] = 8262.826282628263,
+        ["points"] = 8261.82618261826,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1419,
@@ -23924,7 +23924,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2133,
         ["dps_max"] = 14540.87,
-        ["points"] = 9127.988748241913,
+        ["points"] = 9128.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 283,
@@ -24001,7 +24001,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1952,
         ["dps_max"] = 14594.11,
-        ["points"] = 9181.122050320362,
+        ["points"] = 9181.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 290,
@@ -24026,7 +24026,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Mikirogue"] = {
-    ["percentile"] = 93.623,
+    ["percentile"] = 93.622,
     ["server"] = "Icecrown",
     ["overall_rank"] = 313,
     ["bosses"] = {
@@ -24061,9 +24061,9 @@ UWULogsData[6][2] = {
         ["points"] = 9675.488761803432,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4653,
+        ["rank_raids"] = 4654,
         ["dps_max"] = 16367.12,
-        ["points"] = 8860.88608860886,
+        ["points"] = 8859.88598859886,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1548,
@@ -24078,7 +24078,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4982,
         ["dps_max"] = 13870.04,
-        ["points"] = 8296.608845132052,
+        ["points"] = 8296.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 154,
@@ -24103,7 +24103,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Smashorpass"] = {
-    ["percentile"] = 93.613,
+    ["percentile"] = 93.614,
     ["server"] = "Icecrown",
     ["overall_rank"] = 314,
     ["bosses"] = {
@@ -24155,7 +24155,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2479,
         ["dps_max"] = 14444.04,
-        ["points"] = 9021.722144085013,
+        ["points"] = 9021.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 441,
@@ -24232,12 +24232,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3371,
         ["dps_max"] = 14202.26,
-        ["points"] = 8752.930145335209,
+        ["points"] = 8753.125,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 10467,
+        ["rank_raids"] = 10469,
         ["dps_max"] = 5219.11,
-        ["points"] = 6504.299999999999,
+        ["points"] = 6504.099999999999,
       },
       ["Halion"] = {
         ["rank_raids"] = 5820,
@@ -24309,7 +24309,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3503,
         ["dps_max"] = 14167.81,
-        ["points"] = 8710.736052508204,
+        ["points"] = 8710.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 77,
@@ -24386,7 +24386,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 128,
         ["dps_max"] = 16117.96,
-        ["points"] = 9914.049070167213,
+        ["points"] = 9914.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -24463,7 +24463,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1988,
         ["dps_max"] = 14583.1,
-        ["points"] = 9170.182841068918,
+        ["points"] = 9170.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -24540,7 +24540,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 905,
         ["dps_max"] = 15077.85,
-        ["points"] = 9540.553211439288,
+        ["points"] = 9540.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -24617,7 +24617,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8879,
         ["dps_max"] = 13242.28,
-        ["points"] = 7323.019221753399,
+        ["points"] = 7323.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -24694,7 +24694,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1744,
         ["dps_max"] = 14678.94,
-        ["points"] = 9259.25925925926,
+        ["points"] = 9259.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -24771,7 +24771,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 752,
         ["dps_max"] = 15179.18,
-        ["points"] = 9601.500234411627,
+        ["points"] = 9601.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -24848,7 +24848,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1005,
         ["dps_max"] = 15023.82,
-        ["points"] = 9513.986560400062,
+        ["points"] = 9514.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -24925,7 +24925,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2253,
         ["dps_max"] = 14510.07,
-        ["points"] = 9092.04563213002,
+        ["points"] = 9092.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -25002,7 +25002,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1989,
         ["dps_max"] = 14583.0,
-        ["points"] = 9168.62009689014,
+        ["points"] = 9168.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1487,
@@ -25079,7 +25079,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 379,
         ["dps_max"] = 15570.43,
-        ["points"] = 9768.713861540866,
+        ["points"] = 9768.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -25156,7 +25156,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 592,
         ["dps_max"] = 15345.9,
-        ["points"] = 9671.823722456635,
+        ["points"] = 9671.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -25181,7 +25181,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Envenomm"] = {
-    ["percentile"] = 93.348,
+    ["percentile"] = 93.349,
     ["server"] = "Icecrown",
     ["overall_rank"] = 328,
     ["bosses"] = {
@@ -25233,7 +25233,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 396,
         ["dps_max"] = 15547.55,
-        ["points"] = 9760.900140646976,
+        ["points"] = 9760.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -25310,7 +25310,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 510,
         ["dps_max"] = 15424.16,
-        ["points"] = 9699.953117674637,
+        ["points"] = 9700.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -25387,7 +25387,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 537,
         ["dps_max"] = 15404.14,
-        ["points"] = 9687.451164244412,
+        ["points"] = 9687.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -25464,12 +25464,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 965,
         ["dps_max"] = 15053.66,
-        ["points"] = 9526.488513830285,
+        ["points"] = 9526.5625,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 5480,
+        ["rank_raids"] = 5481,
         ["dps_max"] = 9512.87,
-        ["points"] = 7907.000000000001,
+        ["points"] = 7906.700000000001,
       },
       ["Halion"] = {
         ["rank_raids"] = 10152,
@@ -25541,7 +25541,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2233,
         ["dps_max"] = 14515.29,
-        ["points"] = 9101.422097202689,
+        ["points"] = 9101.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -25618,7 +25618,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1283,
         ["dps_max"] = 14875.56,
-        ["points"] = 9406.157212064385,
+        ["points"] = 9406.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -25643,7 +25643,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Trobador"] = {
-    ["percentile"] = 93.246,
+    ["percentile"] = 93.247,
     ["server"] = "Icecrown",
     ["overall_rank"] = 334,
     ["bosses"] = {
@@ -25695,7 +25695,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1391,
         ["dps_max"] = 14818.41,
-        ["points"] = 9365.525863416158,
+        ["points"] = 9365.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 10,
@@ -25772,7 +25772,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1557,
         ["dps_max"] = 14750.04,
-        ["points"] = 9323.331770589155,
+        ["points"] = 9323.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 338,
@@ -25797,7 +25797,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Nocass"] = {
-    ["percentile"] = 93.238,
+    ["percentile"] = 93.237,
     ["server"] = "Icecrown",
     ["overall_rank"] = 336,
     ["bosses"] = {
@@ -25832,9 +25832,9 @@ UWULogsData[6][2] = {
         ["points"] = 8985.237398590238,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4879,
+        ["rank_raids"] = 4880,
         ["dps_max"] = 16295.96,
-        ["points"] = 8815.881588158816,
+        ["points"] = 8814.881488148814,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 214,
@@ -25849,7 +25849,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 227,
         ["dps_max"] = 15859.24,
-        ["points"] = 9849.976558837317,
+        ["points"] = 9850.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -25926,7 +25926,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 819,
         ["dps_max"] = 15125.72,
-        ["points"] = 9585.872792623848,
+        ["points"] = 9585.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1739,
@@ -26003,7 +26003,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5632,
         ["dps_max"] = 13753.18,
-        ["points"] = 8146.5854039693695,
+        ["points"] = 8146.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -26080,7 +26080,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 264,
         ["dps_max"] = 15768.97,
-        ["points"] = 9834.349117049538,
+        ["points"] = 9834.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 335,
@@ -26157,12 +26157,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 876,
         ["dps_max"] = 15093.28,
-        ["points"] = 9557.743397405844,
+        ["points"] = 9557.8125,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 11311,
+        ["rank_raids"] = 11314,
         ["dps_max"] = 4050.03,
-        ["points"] = 6419.9,
+        ["points"] = 6419.599999999999,
       },
       ["Halion"] = {
         ["rank_raids"] = 5038,
@@ -26234,7 +26234,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2458,
         ["dps_max"] = 14448.85,
-        ["points"] = 9031.098609157681,
+        ["points"] = 9031.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -26311,7 +26311,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 101,
         ["dps_max"] = 16262.31,
-        ["points"] = 9929.676511954993,
+        ["points"] = 9929.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -26336,7 +26336,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Fagletrshbag"] = {
-    ["percentile"] = 93.1,
+    ["percentile"] = 93.101,
     ["server"] = "Icecrown",
     ["overall_rank"] = 343,
     ["bosses"] = {
@@ -26388,12 +26388,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1187,
         ["dps_max"] = 14923.91,
-        ["points"] = 9449.914049070167,
+        ["points"] = 9450.0,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2487,
+        ["rank_raids"] = 2488,
         ["dps_max"] = 12206.58,
-        ["points"] = 8804.900000000001,
+        ["points"] = 8804.6,
       },
       ["Halion"] = {
         ["rank_raids"] = 1682,
@@ -26465,7 +26465,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2469,
         ["dps_max"] = 14446.33,
-        ["points"] = 9026.410376621347,
+        ["points"] = 9026.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -26490,7 +26490,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Roseville"] = {
-    ["percentile"] = 93.061,
+    ["percentile"] = 93.062,
     ["server"] = "Icecrown",
     ["overall_rank"] = 345,
     ["bosses"] = {
@@ -26542,7 +26542,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2244,
         ["dps_max"] = 14513.35,
-        ["points"] = 9098.296608845132,
+        ["points"] = 9098.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -26619,7 +26619,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3288,
         ["dps_max"] = 14222.94,
-        ["points"] = 8782.62228473199,
+        ["points"] = 8782.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -26649,7 +26649,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 347,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9774,
+        ["rank_raids"] = 9775,
         ["dps_max"] = 18630.22,
         ["points"] = 7582.758275827582,
       },
@@ -26696,7 +26696,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 197,
         ["dps_max"] = 15918.05,
-        ["points"] = 9868.729488982653,
+        ["points"] = 9868.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -26773,7 +26773,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 669,
         ["dps_max"] = 15259.76,
-        ["points"] = 9645.257071417409,
+        ["points"] = 9645.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 511,
@@ -26850,7 +26850,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 728,
         ["dps_max"] = 15199.77,
-        ["points"] = 9612.439443663072,
+        ["points"] = 9612.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -26927,7 +26927,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5600,
         ["dps_max"] = 13758.94,
-        ["points"] = 8152.836380684482,
+        ["points"] = 8153.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -26952,7 +26952,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Seafoodsoup"] = {
-    ["percentile"] = 92.965,
+    ["percentile"] = 92.964,
     ["server"] = "Icecrown",
     ["overall_rank"] = 351,
     ["bosses"] = {
@@ -26987,9 +26987,9 @@ UWULogsData[6][2] = {
         ["points"] = 9913.552334086979,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4661,
+        ["rank_raids"] = 4662,
         ["dps_max"] = 16364.08,
-        ["points"] = 8859.88598859886,
+        ["points"] = 8858.885888588859,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2610,
@@ -27004,7 +27004,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1484,
         ["dps_max"] = 14779.22,
-        ["points"] = 9340.521956555713,
+        ["points"] = 9340.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -27029,7 +27029,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Lilpumpy"] = {
-    ["percentile"] = 92.958,
+    ["percentile"] = 92.957,
     ["server"] = "Icecrown",
     ["overall_rank"] = 352,
     ["bosses"] = {
@@ -27064,9 +27064,9 @@ UWULogsData[6][2] = {
         ["points"] = 9513.233142705147,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5261,
+        ["rank_raids"] = 5262,
         ["dps_max"] = 16182.32,
-        ["points"] = 8739.87398739874,
+        ["points"] = 8738.873887388738,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1414,
@@ -27081,7 +27081,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1878,
         ["dps_max"] = 14623.65,
-        ["points"] = 9210.814189717144,
+        ["points"] = 9210.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -27158,7 +27158,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 810,
         ["dps_max"] = 15133.87,
-        ["points"] = 9590.561025160181,
+        ["points"] = 9590.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 4,
@@ -27183,7 +27183,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Jessicahyde"] = {
-    ["percentile"] = 92.922,
+    ["percentile"] = 92.921,
     ["server"] = "Icecrown",
     ["overall_rank"] = 354,
     ["bosses"] = {
@@ -27218,9 +27218,9 @@ UWULogsData[6][2] = {
         ["points"] = 9593.030988163318,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4775,
+        ["rank_raids"] = 4776,
         ["dps_max"] = 16325.23,
-        ["points"] = 8832.883288328834,
+        ["points"] = 8831.883188318832,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 186,
@@ -27235,7 +27235,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2375,
         ["dps_max"] = 14478.34,
-        ["points"] = 9056.102516018127,
+        ["points"] = 9056.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 31,
@@ -27312,12 +27312,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2789,
         ["dps_max"] = 14352.91,
-        ["points"] = 8931.082981715894,
+        ["points"] = 8931.25,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 11269,
+        ["rank_raids"] = 11272,
         ["dps_max"] = 4114.36,
-        ["points"] = 6424.099999999999,
+        ["points"] = 6423.799999999999,
       },
       ["Halion"] = {
         ["rank_raids"] = 7115,
@@ -27389,7 +27389,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 481,
         ["dps_max"] = 15449.91,
-        ["points"] = 9717.143303641195,
+        ["points"] = 9717.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -27466,7 +27466,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 225,
         ["dps_max"] = 15863.67,
-        ["points"] = 9853.102047194874,
+        ["points"] = 9853.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -27543,7 +27543,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1714,
         ["dps_max"] = 14690.4,
-        ["points"] = 9271.761212689484,
+        ["points"] = 9271.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -27578,7 +27578,7 @@ UWULogsData[6][2] = {
         ["points"] = 9702.970297029702,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 8813,
+        ["rank_raids"] = 8814,
         ["dps_max"] = 16737.67,
         ["points"] = 7297.415045018879,
       },
@@ -27620,7 +27620,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 467,
         ["dps_max"] = 15460.6,
-        ["points"] = 9724.957024535084,
+        ["points"] = 9725.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -27697,7 +27697,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1657,
         ["dps_max"] = 14713.66,
-        ["points"] = 9290.514142834818,
+        ["points"] = 9290.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -27774,7 +27774,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1275,
         ["dps_max"] = 14880.62,
-        ["points"] = 9412.408188779496,
+        ["points"] = 9412.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -27799,7 +27799,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Handsken"] = {
-    ["percentile"] = 92.829,
+    ["percentile"] = 92.83,
     ["server"] = "Icecrown",
     ["overall_rank"] = 362,
     ["bosses"] = {
@@ -27851,7 +27851,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2009,
         ["dps_max"] = 14578.78,
-        ["points"] = 9163.931864353804,
+        ["points"] = 9164.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -27928,7 +27928,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3630,
         ["dps_max"] = 14140.79,
-        ["points"] = 8687.294889826535,
+        ["points"] = 8687.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -27953,7 +27953,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Mcpickle"] = {
-    ["percentile"] = 92.811,
+    ["percentile"] = 92.812,
     ["server"] = "Icecrown",
     ["overall_rank"] = 364,
     ["bosses"] = {
@@ -28005,7 +28005,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1207,
         ["dps_max"] = 14911.17,
-        ["points"] = 9440.537583997499,
+        ["points"] = 9440.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -28082,7 +28082,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3937,
         ["dps_max"] = 14066.09,
-        ["points"] = 8598.218471636193,
+        ["points"] = 8598.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -28159,7 +28159,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4664,
         ["dps_max"] = 13927.33,
-        ["points"] = 8390.373495858728,
+        ["points"] = 8390.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -28236,7 +28236,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 317,
         ["dps_max"] = 15666.77,
-        ["points"] = 9803.09423347398,
+        ["points"] = 9803.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 54,
@@ -28271,7 +28271,7 @@ UWULogsData[6][2] = {
         ["points"] = 9393.939393939394,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 10517,
+        ["rank_raids"] = 10518,
         ["dps_max"] = 16219.28,
         ["points"] = 6895.149578855649,
       },
@@ -28313,7 +28313,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 799,
         ["dps_max"] = 15144.88,
-        ["points"] = 9592.12376933896,
+        ["points"] = 9592.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 518,
@@ -28390,7 +28390,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1278,
         ["dps_max"] = 14879.19,
-        ["points"] = 9410.845444600718,
+        ["points"] = 9410.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -28467,7 +28467,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3114,
         ["dps_max"] = 14265.84,
-        ["points"] = 8835.75558681044,
+        ["points"] = 8835.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -28544,7 +28544,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4947,
         ["dps_max"] = 13877.22,
-        ["points"] = 8309.110798562277,
+        ["points"] = 8309.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -28621,7 +28621,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1732,
         ["dps_max"] = 14683.48,
-        ["points"] = 9265.51023597437,
+        ["points"] = 9265.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -28698,7 +28698,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1351,
         ["dps_max"] = 14838.66,
-        ["points"] = 9381.15330520394,
+        ["points"] = 9381.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -28775,7 +28775,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 658,
         ["dps_max"] = 15267.38,
-        ["points"] = 9648.382559774966,
+        ["points"] = 9648.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -28800,7 +28800,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Tinkywiinky"] = {
-    ["percentile"] = 92.692,
+    ["percentile"] = 92.691,
     ["server"] = "Icecrown",
     ["overall_rank"] = 375,
     ["bosses"] = {
@@ -28835,9 +28835,9 @@ UWULogsData[6][2] = {
         ["points"] = 9727.357361351244,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4448,
+        ["rank_raids"] = 4449,
         ["dps_max"] = 16434.54,
-        ["points"] = 8901.8901890189,
+        ["points"] = 8900.8900890089,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4245,
@@ -28852,7 +28852,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 273,
         ["dps_max"] = 15747.3,
-        ["points"] = 9826.535396155648,
+        ["points"] = 9826.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -28929,7 +28929,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1664,
         ["dps_max"] = 14711.59,
-        ["points"] = 9287.388654477261,
+        ["points"] = 9287.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -28954,7 +28954,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Vairusr"] = {
-    ["percentile"] = 92.684,
+    ["percentile"] = 92.685,
     ["server"] = "Icecrown",
     ["overall_rank"] = 377,
     ["bosses"] = {
@@ -29006,7 +29006,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6964,
         ["dps_max"] = 13526.96,
-        ["points"] = 7816.846382247226,
+        ["points"] = 7817.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -29036,7 +29036,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 378,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7384,
+        ["rank_raids"] = 7385,
         ["dps_max"] = 19050.26,
         ["points"] = 8035.803580358036,
       },
@@ -29083,12 +29083,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1774,
         ["dps_max"] = 14664.86,
-        ["points"] = 9249.882794186591,
+        ["points"] = 9250.0,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 5264,
+        ["rank_raids"] = 5265,
         ["dps_max"] = 9690.91,
-        ["points"] = 7971.8,
+        ["points"] = 7971.5,
       },
       ["Halion"] = {
         ["rank_raids"] = 2137,
@@ -29160,7 +29160,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2191,
         ["dps_max"] = 14526.59,
-        ["points"] = 9112.361306454133,
+        ["points"] = 9112.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -29185,7 +29185,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Gginko"] = {
-    ["percentile"] = 92.628,
+    ["percentile"] = 92.629,
     ["server"] = "Icecrown",
     ["overall_rank"] = 380,
     ["bosses"] = {
@@ -29237,7 +29237,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2547,
         ["dps_max"] = 14424.63,
-        ["points"] = 9007.657446476012,
+        ["points"] = 9007.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -29314,7 +29314,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2154,
         ["dps_max"] = 14534.17,
-        ["points"] = 9120.175027348023,
+        ["points"] = 9120.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -29391,7 +29391,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2144,
         ["dps_max"] = 14537.3,
-        ["points"] = 9126.426004063134,
+        ["points"] = 9126.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 292,
@@ -29468,7 +29468,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1317,
         ["dps_max"] = 14853.8,
-        ["points"] = 9390.529770276606,
+        ["points"] = 9390.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -29545,7 +29545,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3416,
         ["dps_max"] = 14189.39,
-        ["points"] = 8735.739959368651,
+        ["points"] = 8735.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -29622,7 +29622,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1851,
         ["dps_max"] = 14633.77,
-        ["points"] = 9221.753398968589,
+        ["points"] = 9221.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -29699,7 +29699,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3147,
         ["dps_max"] = 14257.24,
-        ["points"] = 8826.379121737771,
+        ["points"] = 8826.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 161,
@@ -29776,7 +29776,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1981,
         ["dps_max"] = 14584.22,
-        ["points"] = 9173.308329426472,
+        ["points"] = 9173.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 776,
@@ -29836,9 +29836,9 @@ UWULogsData[6][2] = {
         ["points"] = 9445.4049740657,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4365,
+        ["rank_raids"] = 4366,
         ["dps_max"] = 16461.09,
-        ["points"] = 8914.891489148915,
+        ["points"] = 8913.891389138913,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 212,
@@ -29853,7 +29853,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2195,
         ["dps_max"] = 14525.44,
-        ["points"] = 9109.235818096577,
+        ["points"] = 9109.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 195,
@@ -29878,7 +29878,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Dadix"] = {
-    ["percentile"] = 92.505,
+    ["percentile"] = 92.504,
     ["server"] = "Icecrown",
     ["overall_rank"] = 389,
     ["bosses"] = {
@@ -29913,9 +29913,9 @@ UWULogsData[6][2] = {
         ["points"] = 8736.534113578933,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4606,
+        ["rank_raids"] = 4607,
         ["dps_max"] = 16384.19,
-        ["points"] = 8872.887288728873,
+        ["points"] = 8871.887188718872,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 223,
@@ -29930,7 +29930,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1179,
         ["dps_max"] = 14927.52,
-        ["points"] = 9453.039537427723,
+        ["points"] = 9453.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -29955,7 +29955,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Greenceni"] = {
-    ["percentile"] = 92.5,
+    ["percentile"] = 92.499,
     ["server"] = "Icecrown",
     ["overall_rank"] = 390,
     ["bosses"] = {
@@ -29990,9 +29990,9 @@ UWULogsData[6][2] = {
         ["points"] = 9378.906769517223,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5156,
+        ["rank_raids"] = 5157,
         ["dps_max"] = 16223.77,
-        ["points"] = 8756.875687568758,
+        ["points"] = 8755.875587558756,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1313,
@@ -30007,7 +30007,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 887,
         ["dps_max"] = 15088.52,
-        ["points"] = 9549.929676511954,
+        ["points"] = 9550.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 182,
@@ -30084,7 +30084,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2569,
         ["dps_max"] = 14417.42,
-        ["points"] = 9001.4064697609,
+        ["points"] = 9001.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -30161,7 +30161,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1841,
         ["dps_max"] = 14637.71,
-        ["points"] = 9228.0043756837,
+        ["points"] = 9228.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -30238,7 +30238,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 401,
         ["dps_max"] = 15531.34,
-        ["points"] = 9754.649163931865,
+        ["points"] = 9754.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -30315,7 +30315,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5033,
         ["dps_max"] = 13861.29,
-        ["points"] = 8280.981403344273,
+        ["points"] = 8281.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -30392,7 +30392,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2980,
         ["dps_max"] = 14299.65,
-        ["points"] = 8865.44772620722,
+        ["points"] = 8865.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -30546,7 +30546,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 353,
         ["dps_max"] = 15614.79,
-        ["points"] = 9784.341303328645,
+        ["points"] = 9784.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -30623,12 +30623,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 780,
         ["dps_max"] = 15156.14,
-        ["points"] = 9596.812001875292,
+        ["points"] = 9596.875,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 7073,
+        ["rank_raids"] = 7074,
         ["dps_max"] = 8275.9,
-        ["points"] = 7429.1,
+        ["points"] = 7428.800000000001,
       },
       ["Halion"] = {
         ["rank_raids"] = 2579,
@@ -30648,7 +30648,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Pumping"] = {
-    ["percentile"] = 92.384,
+    ["percentile"] = 92.383,
     ["server"] = "Icecrown",
     ["overall_rank"] = 399,
     ["bosses"] = {
@@ -30683,9 +30683,9 @@ UWULogsData[6][2] = {
         ["points"] = 9366.937092698498,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4789,
+        ["rank_raids"] = 4790,
         ["dps_max"] = 16322.15,
-        ["points"] = 8831.883188318832,
+        ["points"] = 8830.88308830883,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 325,
@@ -30700,7 +30700,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5116,
         ["dps_max"] = 13844.47,
-        ["points"] = 8257.540240662604,
+        ["points"] = 8257.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -30777,7 +30777,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 490,
         ["dps_max"] = 15442.66,
-        ["points"] = 9710.892326926083,
+        ["points"] = 9710.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -30854,7 +30854,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 183,
         ["dps_max"] = 15962.96,
-        ["points"] = 9882.794186591655,
+        ["points"] = 9882.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 366,
@@ -30931,7 +30931,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1606,
         ["dps_max"] = 14729.34,
-        ["points"] = 9307.704328801376,
+        ["points"] = 9307.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -31008,7 +31008,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2397,
         ["dps_max"] = 14469.97,
-        ["points"] = 9048.28879512424,
+        ["points"] = 9048.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -31085,7 +31085,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1378,
         ["dps_max"] = 14825.19,
-        ["points"] = 9368.651351773715,
+        ["points"] = 9368.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -31110,7 +31110,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Shewy"] = {
-    ["percentile"] = 92.284,
+    ["percentile"] = 92.285,
     ["server"] = "Icecrown",
     ["overall_rank"] = 405,
     ["bosses"] = {
@@ -31162,12 +31162,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2866,
         ["dps_max"] = 14331.39,
-        ["points"] = 8901.390842319111,
+        ["points"] = 8901.5625,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2323,
+        ["rank_raids"] = 2324,
         ["dps_max"] = 12392.65,
-        ["points"] = 8854.1,
+        ["points"] = 8853.800000000001,
       },
       ["Halion"] = {
         ["rank_raids"] = 8536,
@@ -31239,7 +31239,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6278,
         ["dps_max"] = 13642.47,
-        ["points"] = 7984.060009376464,
+        ["points"] = 7984.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 500,
@@ -31316,7 +31316,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4369,
         ["dps_max"] = 13982.12,
-        ["points"] = 8484.138146585403,
+        ["points"] = 8484.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -31341,7 +31341,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Gruchaczson"] = {
-    ["percentile"] = 92.249,
+    ["percentile"] = 92.25,
     ["server"] = "Icecrown",
     ["overall_rank"] = 408,
     ["bosses"] = {
@@ -31393,7 +31393,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 621,
         ["dps_max"] = 15310.84,
-        ["points"] = 9660.884513205188,
+        ["points"] = 9660.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1643,
@@ -31453,9 +31453,9 @@ UWULogsData[6][2] = {
         ["points"] = 8599.54781220907,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4515,
+        ["rank_raids"] = 4516,
         ["dps_max"] = 16417.72,
-        ["points"] = 8892.889288928893,
+        ["points"] = 8891.889188918893,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 327,
@@ -31470,7 +31470,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1376,
         ["dps_max"] = 14826.51,
-        ["points"] = 9371.776840131271,
+        ["points"] = 9371.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -31495,7 +31495,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Dodlika"] = {
-    ["percentile"] = 92.195,
+    ["percentile"] = 92.194,
     ["server"] = "Icecrown",
     ["overall_rank"] = 410,
     ["bosses"] = {
@@ -31530,9 +31530,9 @@ UWULogsData[6][2] = {
         ["points"] = 9743.316930442877,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6425,
+        ["rank_raids"] = 6427,
         ["dps_max"] = 15857.06,
-        ["points"] = 8542.854285428542,
+        ["points"] = 8541.854185418542,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 960,
@@ -31547,7 +31547,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6294,
         ["dps_max"] = 13637.7,
-        ["points"] = 7982.497265197687,
+        ["points"] = 7982.812500000001,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 991,
@@ -31572,7 +31572,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Tesellate"] = {
-    ["percentile"] = 92.159,
+    ["percentile"] = 92.158,
     ["server"] = "Icecrown",
     ["overall_rank"] = 411,
     ["bosses"] = {
@@ -31607,9 +31607,9 @@ UWULogsData[6][2] = {
         ["points"] = 9541.162388615507,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6688,
+        ["rank_raids"] = 6690,
         ["dps_max"] = 15786.06,
-        ["points"] = 8492.849284928494,
+        ["points"] = 8491.849184918492,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 358,
@@ -31624,7 +31624,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2282,
         ["dps_max"] = 14502.71,
-        ["points"] = 9084.231911236131,
+        ["points"] = 9084.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -31701,7 +31701,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1913,
         ["dps_max"] = 14610.21,
-        ["points"] = 9199.874980465698,
+        ["points"] = 9200.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 317,
@@ -31778,7 +31778,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1875,
         ["dps_max"] = 14624.2,
-        ["points"] = 9212.376933895921,
+        ["points"] = 9212.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -31855,7 +31855,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2072,
         ["dps_max"] = 14562.29,
-        ["points"] = 9142.053445850914,
+        ["points"] = 9142.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -31880,7 +31880,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Oldfuxk"] = {
-    ["percentile"] = 92.137,
+    ["percentile"] = 92.138,
     ["server"] = "Icecrown",
     ["overall_rank"] = 415,
     ["bosses"] = {
@@ -31932,7 +31932,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2742,
         ["dps_max"] = 14364.61,
-        ["points"] = 8951.398656040006,
+        ["points"] = 8951.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -32009,7 +32009,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1069,
         ["dps_max"] = 14982.74,
-        ["points"] = 9496.796374433505,
+        ["points"] = 9496.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -32086,12 +32086,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4085,
         ["dps_max"] = 14035.05,
-        ["points"] = 8566.963588060635,
+        ["points"] = 8567.1875,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 4538,
+        ["rank_raids"] = 4539,
         ["dps_max"] = 10230.43,
-        ["points"] = 8189.6,
+        ["points"] = 8189.3,
       },
       ["Halion"] = {
         ["rank_raids"] = 2439,
@@ -32163,7 +32163,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2148,
         ["dps_max"] = 14535.65,
-        ["points"] = 9123.30051570558,
+        ["points"] = 9123.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -32240,7 +32240,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 374,
         ["dps_max"] = 15586.82,
-        ["points"] = 9771.83934989842,
+        ["points"] = 9771.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -32265,7 +32265,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Darknightx"] = {
-    ["percentile"] = 92.096,
+    ["percentile"] = 92.095,
     ["server"] = "Icecrown",
     ["overall_rank"] = 420,
     ["bosses"] = {
@@ -32300,9 +32300,9 @@ UWULogsData[6][2] = {
         ["points"] = 9220.641042691846,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6849,
+        ["rank_raids"] = 6851,
         ["dps_max"] = 15745.75,
-        ["points"] = 8470.84708470847,
+        ["points"] = 8469.84698469847,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 261,
@@ -32317,7 +32317,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1432,
         ["dps_max"] = 14804.11,
-        ["points"] = 9354.586654164712,
+        ["points"] = 9354.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -32394,7 +32394,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3324,
         ["dps_max"] = 14215.29,
-        ["points"] = 8768.557587122988,
+        ["points"] = 8768.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -32471,7 +32471,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2304,
         ["dps_max"] = 14497.36,
-        ["points"] = 9076.418190342241,
+        ["points"] = 9076.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -32496,7 +32496,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Scaras"] = {
-    ["percentile"] = 92.055,
+    ["percentile"] = 92.054,
     ["server"] = "Icecrown",
     ["overall_rank"] = 423,
     ["bosses"] = {
@@ -32531,9 +32531,9 @@ UWULogsData[6][2] = {
         ["points"] = 9680.80861816731,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5745,
+        ["rank_raids"] = 5746,
         ["dps_max"] = 16034.6,
-        ["points"] = 8660.866086608661,
+        ["points"] = 8659.86598659866,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 8633,
@@ -32548,7 +32548,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 113,
         ["dps_max"] = 16202.92,
-        ["points"] = 9921.862791061103,
+        ["points"] = 9921.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -32625,7 +32625,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1329,
         ["dps_max"] = 14849.8,
-        ["points"] = 9388.967026097827,
+        ["points"] = 9389.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -32650,7 +32650,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Totglypho"] = {
-    ["percentile"] = 92.013,
+    ["percentile"] = 92.012,
     ["server"] = "Icecrown",
     ["overall_rank"] = 425,
     ["bosses"] = {
@@ -32685,9 +32685,9 @@ UWULogsData[6][2] = {
         ["points"] = 9059.715387684533,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4358,
+        ["rank_raids"] = 4359,
         ["dps_max"] = 16462.93,
-        ["points"] = 8917.891789178917,
+        ["points"] = 8916.891689168917,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 253,
@@ -32702,7 +32702,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3436,
         ["dps_max"] = 14185.34,
-        ["points"] = 8729.48898265354,
+        ["points"] = 8729.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -32779,7 +32779,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2620,
         ["dps_max"] = 14399.74,
-        ["points"] = 8984.216283794343,
+        ["points"] = 8984.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -32804,7 +32804,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Lkingvi"] = {
-    ["percentile"] = 91.998,
+    ["percentile"] = 91.999,
     ["server"] = "Icecrown",
     ["overall_rank"] = 427,
     ["bosses"] = {
@@ -32814,7 +32814,7 @@ UWULogsData[6][2] = {
         ["points"] = 9846.984698469847,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7877,
+        ["rank_raids"] = 7878,
         ["dps_max"] = 17037.7,
         ["points"] = 7558.814986930002,
       },
@@ -32856,7 +32856,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1025,
         ["dps_max"] = 15008.88,
-        ["points"] = 9506.172839506173,
+        ["points"] = 9506.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -32881,7 +32881,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Jessxl"] = {
-    ["percentile"] = 91.996,
+    ["percentile"] = 91.997,
     ["server"] = "Icecrown",
     ["overall_rank"] = 428,
     ["bosses"] = {
@@ -32933,7 +32933,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4836,
         ["dps_max"] = 13895.93,
-        ["points"] = 8334.114705422722,
+        ["points"] = 8334.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 76,
@@ -33010,7 +33010,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2814,
         ["dps_max"] = 14345.64,
-        ["points"] = 8915.455539928113,
+        ["points"] = 8915.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -33087,7 +33087,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1338,
         ["dps_max"] = 14845.26,
-        ["points"] = 9385.84153774027,
+        ["points"] = 9385.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 809,
@@ -33112,7 +33112,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Rackovic"] = {
-    ["percentile"] = 91.979,
+    ["percentile"] = 91.98,
     ["server"] = "Icecrown",
     ["overall_rank"] = 431,
     ["bosses"] = {
@@ -33122,7 +33122,7 @@ UWULogsData[6][2] = {
         ["points"] = 9996.999699969998,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7788,
+        ["rank_raids"] = 7789,
         ["dps_max"] = 17065.03,
         ["points"] = 7574.789427824572,
       },
@@ -33164,7 +33164,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6545,
         ["dps_max"] = 13594.32,
-        ["points"] = 7913.736521331458,
+        ["points"] = 7914.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -33189,7 +33189,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Parsed"] = {
-    ["percentile"] = 91.973,
+    ["percentile"] = 91.972,
     ["server"] = "Icecrown",
     ["overall_rank"] = 432,
     ["bosses"] = {
@@ -33224,9 +33224,9 @@ UWULogsData[6][2] = {
         ["points"] = 9178.082191780823,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4385,
+        ["rank_raids"] = 4386,
         ["dps_max"] = 16455.67,
-        ["points"] = 8912.891289128913,
+        ["points"] = 8911.891189118913,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 392,
@@ -33241,7 +33241,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2654,
         ["dps_max"] = 14391.0,
-        ["points"] = 8981.090795436787,
+        ["points"] = 8981.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -33271,7 +33271,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 433,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10974,
+        ["rank_raids"] = 10975,
         ["dps_max"] = 18441.19,
         ["points"] = 7384.738473847384,
       },
@@ -33301,9 +33301,9 @@ UWULogsData[6][2] = {
         ["points"] = 9521.212927250965,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5085,
+        ["rank_raids"] = 5086,
         ["dps_max"] = 16247.22,
-        ["points"] = 8774.877487748774,
+        ["points"] = 8773.877387738774,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3847,
@@ -33318,7 +33318,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 541,
         ["dps_max"] = 15399.07,
-        ["points"] = 9685.888420065634,
+        ["points"] = 9685.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -33395,7 +33395,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1844,
         ["dps_max"] = 14636.74,
-        ["points"] = 9226.441631504922,
+        ["points"] = 9226.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -33420,7 +33420,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Casairus"] = {
-    ["percentile"] = 91.941,
+    ["percentile"] = 91.94,
     ["server"] = "Icecrown",
     ["overall_rank"] = 435,
     ["bosses"] = {
@@ -33455,9 +33455,9 @@ UWULogsData[6][2] = {
         ["points"] = 9275.169570421598,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6501,
+        ["rank_raids"] = 6503,
         ["dps_max"] = 15837.84,
-        ["points"] = 8524.852485248526,
+        ["points"] = 8523.852385238524,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 653,
@@ -33472,7 +33472,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1853,
         ["dps_max"] = 14632.96,
-        ["points"] = 9218.627910611032,
+        ["points"] = 9218.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -33549,7 +33549,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 816,
         ["dps_max"] = 15128.12,
-        ["points"] = 9587.435536802624,
+        ["points"] = 9587.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1098,
@@ -33626,7 +33626,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 451,
         ["dps_max"] = 15478.44,
-        ["points"] = 9732.770745428974,
+        ["points"] = 9732.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -33651,7 +33651,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Kyssy"] = {
-    ["percentile"] = 91.893,
+    ["percentile"] = 91.894,
     ["server"] = "Icecrown",
     ["overall_rank"] = 438,
     ["bosses"] = {
@@ -33703,12 +33703,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1241,
         ["dps_max"] = 14898.13,
-        ["points"] = 9428.035630567276,
+        ["points"] = 9428.125,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 5449,
+        ["rank_raids"] = 5450,
         ["dps_max"] = 9542.33,
-        ["points"] = 7916.3,
+        ["points"] = 7916.000000000001,
       },
       ["Halion"] = {
         ["rank_raids"] = 124,
@@ -33780,7 +33780,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 193,
         ["dps_max"] = 15923.1,
-        ["points"] = 9871.85497734021,
+        ["points"] = 9871.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -33857,7 +33857,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4465,
         ["dps_max"] = 13963.64,
-        ["points"] = 8456.0087513674,
+        ["points"] = 8456.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 326,
@@ -33907,7 +33907,7 @@ UWULogsData[6][2] = {
         ["points"] = 9352.935293529354,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 11382,
+        ["rank_raids"] = 11383,
         ["dps_max"] = 19358.66,
         ["points"] = 8076.1901106548,
       },
@@ -33934,7 +33934,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3133,
         ["dps_max"] = 14260.02,
-        ["points"] = 8829.504610095328,
+        ["points"] = 8829.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -34011,7 +34011,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2120,
         ["dps_max"] = 14547.34,
-        ["points"] = 9132.676980778248,
+        ["points"] = 9132.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -34071,7 +34071,7 @@ UWULogsData[6][2] = {
         ["points"] = 9138.183269051735,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 8496,
+        ["rank_raids"] = 8498,
         ["dps_max"] = 15397.95,
         ["points"] = 8139.81398139814,
       },
@@ -34088,7 +34088,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1094,
         ["dps_max"] = 14967.37,
-        ["points"] = 9488.982653539617,
+        ["points"] = 9489.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -34165,7 +34165,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 91,
         ["dps_max"] = 16277.57,
-        ["points"] = 9934.364744491326,
+        ["points"] = 9934.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -34190,7 +34190,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Swiftknives"] = {
-    ["percentile"] = 91.79,
+    ["percentile"] = 91.791,
     ["server"] = "Icecrown",
     ["overall_rank"] = 445,
     ["bosses"] = {
@@ -34242,7 +34242,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2678,
         ["dps_max"] = 14383.13,
-        ["points"] = 8971.714330364119,
+        ["points"] = 8971.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -34319,7 +34319,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2281,
         ["dps_max"] = 14502.73,
-        ["points"] = 9085.794655414908,
+        ["points"] = 9085.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -34396,7 +34396,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1858,
         ["dps_max"] = 14630.58,
-        ["points"] = 9217.065166432254,
+        ["points"] = 9217.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 590,
@@ -34473,7 +34473,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1095,
         ["dps_max"] = 14966.78,
-        ["points"] = 9487.419909360839,
+        ["points"] = 9487.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 720,
@@ -34550,7 +34550,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4531,
         ["dps_max"] = 13953.86,
-        ["points"] = 8427.879356149399,
+        ["points"] = 8428.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -34575,7 +34575,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Daggersart"] = {
-    ["percentile"] = 91.699,
+    ["percentile"] = 91.698,
     ["server"] = "Icecrown",
     ["overall_rank"] = 450,
     ["bosses"] = {
@@ -34610,9 +34610,9 @@ UWULogsData[6][2] = {
         ["points"] = 9170.102407235005,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4527,
+        ["rank_raids"] = 4528,
         ["dps_max"] = 16414.27,
-        ["points"] = 8886.888688868887,
+        ["points"] = 8885.888588858885,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 554,
@@ -34627,7 +34627,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 255,
         ["dps_max"] = 15792.89,
-        ["points"] = 9840.600093764651,
+        ["points"] = 9840.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -34704,7 +34704,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1831,
         ["dps_max"] = 14641.23,
-        ["points"] = 9229.567119862479,
+        ["points"] = 9229.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -34781,7 +34781,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 848,
         ["dps_max"] = 15108.65,
-        ["points"] = 9571.808095014847,
+        ["points"] = 9571.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -34858,7 +34858,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1803,
         ["dps_max"] = 14653.02,
-        ["points"] = 9240.506329113925,
+        ["points"] = 9240.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -34935,12 +34935,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3320,
         ["dps_max"] = 14215.74,
-        ["points"] = 8770.120331301767,
+        ["points"] = 8770.3125,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 7503,
+        ["rank_raids"] = 7504,
         ["dps_max"] = 7912.36,
-        ["points"] = 7300.1,
+        ["points"] = 7299.800000000001,
       },
       ["Halion"] = {
         ["rank_raids"] = 6871,
@@ -34960,7 +34960,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Awakeniing"] = {
-    ["percentile"] = 91.656,
+    ["percentile"] = 91.655,
     ["server"] = "Icecrown",
     ["overall_rank"] = 455,
     ["bosses"] = {
@@ -34995,9 +34995,9 @@ UWULogsData[6][2] = {
         ["points"] = 9640.909695438224,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5183,
+        ["rank_raids"] = 5184,
         ["dps_max"] = 16210.71,
-        ["points"] = 8754.875487548754,
+        ["points"] = 8753.875387538754,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 7245,
@@ -35012,7 +35012,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4285,
         ["dps_max"] = 13997.59,
-        ["points"] = 8512.267541803407,
+        ["points"] = 8512.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -35089,7 +35089,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 684,
         ["dps_max"] = 15236.24,
-        ["points"] = 9635.880606344741,
+        ["points"] = 9635.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1358,
@@ -35114,7 +35114,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Hugebullocks"] = {
-    ["percentile"] = 91.623,
+    ["percentile"] = 91.624,
     ["server"] = "Icecrown",
     ["overall_rank"] = 457,
     ["bosses"] = {
@@ -35166,12 +35166,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1814,
         ["dps_max"] = 14651.31,
-        ["points"] = 9234.255352398812,
+        ["points"] = 9234.375,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2745,
+        ["rank_raids"] = 2746,
         ["dps_max"] = 11930.49,
-        ["points"] = 8727.5,
+        ["points"] = 8727.2,
       },
       ["Halion"] = {
         ["rank_raids"] = 1315,
@@ -35243,7 +35243,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 359,
         ["dps_max"] = 15606.76,
-        ["points"] = 9781.215814971089,
+        ["points"] = 9781.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 70,
@@ -35320,7 +35320,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1720,
         ["dps_max"] = 14688.04,
-        ["points"] = 9268.635724331927,
+        ["points"] = 9268.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -35355,7 +35355,7 @@ UWULogsData[6][2] = {
         ["points"] = 9951.995199519952,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7674,
+        ["rank_raids"] = 7675,
         ["dps_max"] = 17098.77,
         ["points"] = 7615.451641010746,
       },
@@ -35397,7 +35397,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1125,
         ["dps_max"] = 14951.04,
-        ["points"] = 9476.480700109392,
+        ["points"] = 9476.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 178,
@@ -35474,7 +35474,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3688,
         ["dps_max"] = 14127.37,
-        ["points"] = 8663.853727144868,
+        ["points"] = 8664.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -35551,7 +35551,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 697,
         ["dps_max"] = 15222.55,
-        ["points"] = 9631.192373808408,
+        ["points"] = 9631.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -35628,7 +35628,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4857,
         ["dps_max"] = 13892.93,
-        ["points"] = 8329.42647288639,
+        ["points"] = 8329.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -35705,7 +35705,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4306,
         ["dps_max"] = 13993.15,
-        ["points"] = 8504.453820909517,
+        ["points"] = 8504.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -35730,7 +35730,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Razorfever"] = {
-    ["percentile"] = 91.496,
+    ["percentile"] = 91.497,
     ["server"] = "Icecrown",
     ["overall_rank"] = 465,
     ["bosses"] = {
@@ -35782,7 +35782,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9992,
         ["dps_max"] = 13078.73,
-        ["points"] = 7055.7899671823725,
+        ["points"] = 7056.249999999999,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 798,
@@ -35807,7 +35807,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Samonaruci"] = {
-    ["percentile"] = 91.495,
+    ["percentile"] = 91.496,
     ["server"] = "Icecrown",
     ["overall_rank"] = 466,
     ["bosses"] = {
@@ -35859,7 +35859,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7568,
         ["dps_max"] = 13431.78,
-        ["points"] = 7679.324894514767,
+        ["points"] = 7679.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -35884,7 +35884,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Mmethoomy"] = {
-    ["percentile"] = 91.491,
+    ["percentile"] = 91.49,
     ["server"] = "Icecrown",
     ["overall_rank"] = 467,
     ["bosses"] = {
@@ -35919,9 +35919,9 @@ UWULogsData[6][2] = {
         ["points"] = 9176.752227689853,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5783,
+        ["rank_raids"] = 5784,
         ["dps_max"] = 16022.27,
-        ["points"] = 8650.865086508651,
+        ["points"] = 8649.86498649865,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1694,
@@ -35936,7 +35936,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7623,
         ["dps_max"] = 13424.52,
-        ["points"] = 7662.13470854821,
+        ["points"] = 7662.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 166,
@@ -36013,7 +36013,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2788,
         ["dps_max"] = 14353.11,
-        ["points"] = 8932.645725894672,
+        ["points"] = 8932.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 605,
@@ -36090,7 +36090,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2703,
         ["dps_max"] = 14373.61,
-        ["points"] = 8965.463353649007,
+        ["points"] = 8965.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -36135,7 +36135,7 @@ UWULogsData[6][2] = {
         ["points"] = 7519.456976389184,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 13915,
+        ["rank_raids"] = 13916,
         ["dps_max"] = 14007.44,
         ["points"] = 6365.990942370663,
       },
@@ -36150,9 +36150,9 @@ UWULogsData[6][2] = {
         ["points"] = 8863.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 11195,
+        ["rank_raids"] = 11196,
         ["dps_max"] = 11386.63,
-        ["points"] = 6576.159928390272,
+        ["points"] = 6574.668059078025,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 13789,
@@ -36244,7 +36244,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1260,
         ["dps_max"] = 14886.69,
-        ["points"] = 9420.221909673386,
+        ["points"] = 9420.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 267,
@@ -36269,7 +36269,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Freaqu"] = {
-    ["percentile"] = 91.339,
+    ["percentile"] = 91.34,
     ["server"] = "Icecrown",
     ["overall_rank"] = 472,
     ["bosses"] = {
@@ -36321,7 +36321,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1647,
         ["dps_max"] = 14717.71,
-        ["points"] = 9295.202375371153,
+        ["points"] = 9295.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -36346,7 +36346,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Rogueliinda"] = {
-    ["percentile"] = 91.328,
+    ["percentile"] = 91.327,
     ["server"] = "Icecrown",
     ["overall_rank"] = 473,
     ["bosses"] = {
@@ -36361,9 +36361,9 @@ UWULogsData[6][2] = {
         ["points"] = 9853.32558814987,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9907,
+        ["rank_raids"] = 9908,
         ["dps_max"] = 21217.97,
-        ["points"] = 7969.79697969797,
+        ["points"] = 7968.7968796879695,
       },
       ["Festergut"] = {
         ["rank_raids"] = 335,
@@ -36398,12 +36398,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6145,
         ["dps_max"] = 13663.88,
-        ["points"] = 8010.62666041569,
+        ["points"] = 8010.937500000001,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 4503,
+        ["rank_raids"] = 4504,
         ["dps_max"] = 10260.52,
-        ["points"] = 8200.1,
+        ["points"] = 8199.800000000001,
       },
       ["Halion"] = {
         ["rank_raids"] = 3389,
@@ -36423,7 +36423,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Vanten"] = {
-    ["percentile"] = 91.311,
+    ["percentile"] = 91.31,
     ["server"] = "Icecrown",
     ["overall_rank"] = 474,
     ["bosses"] = {
@@ -36458,9 +36458,9 @@ UWULogsData[6][2] = {
         ["points"] = 9073.015028594227,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4650,
+        ["rank_raids"] = 4651,
         ["dps_max"] = 16369.32,
-        ["points"] = 8862.886288628863,
+        ["points"] = 8861.886188618862,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 841,
@@ -36475,7 +36475,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2246,
         ["dps_max"] = 14512.76,
-        ["points"] = 9095.171120487576,
+        ["points"] = 9095.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -36552,7 +36552,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 505,
         ["dps_max"] = 15429.94,
-        ["points"] = 9703.078606032193,
+        ["points"] = 9703.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -36629,7 +36629,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7393,
         ["dps_max"] = 13459.86,
-        ["points"] = 7721.518987341772,
+        ["points"] = 7721.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -36706,7 +36706,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2056,
         ["dps_max"] = 14565.23,
-        ["points"] = 9145.17893420847,
+        ["points"] = 9145.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -36783,7 +36783,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4518,
         ["dps_max"] = 13956.7,
-        ["points"] = 8432.567588685732,
+        ["points"] = 8432.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -36860,7 +36860,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 371,
         ["dps_max"] = 15588.29,
-        ["points"] = 9773.402094077199,
+        ["points"] = 9773.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 152,
@@ -36937,7 +36937,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4700,
         ["dps_max"] = 13921.59,
-        ["points"] = 8374.746054070949,
+        ["points"] = 8375.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -37014,12 +37014,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9438,
         ["dps_max"] = 13160.07,
-        ["points"] = 7188.623222378496,
+        ["points"] = 7189.0625,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 10897,
+        ["rank_raids"] = 10900,
         ["dps_max"] = 4695.56,
-        ["points"] = 6461.3,
+        ["points"] = 6461.0,
       },
       ["Halion"] = {
         ["rank_raids"] = 576,
@@ -37091,7 +37091,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 998,
         ["dps_max"] = 15026.88,
-        ["points"] = 9515.54930457884,
+        ["points"] = 9515.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -37168,7 +37168,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1754,
         ["dps_max"] = 14674.5,
-        ["points"] = 9254.571026722926,
+        ["points"] = 9254.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 34,
@@ -37245,7 +37245,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1620,
         ["dps_max"] = 14726.16,
-        ["points"] = 9304.578840443819,
+        ["points"] = 9304.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 551,
@@ -37322,7 +37322,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 511,
         ["dps_max"] = 15423.69,
-        ["points"] = 9698.390373495859,
+        ["points"] = 9698.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -37382,7 +37382,7 @@ UWULogsData[6][2] = {
         ["points"] = 8588.908099481314,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 8934,
+        ["rank_raids"] = 8936,
         ["dps_max"] = 15313.53,
         ["points"] = 8061.806180618062,
       },
@@ -37399,7 +37399,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1272,
         ["dps_max"] = 14882.8,
-        ["points"] = 9415.533677137053,
+        ["points"] = 9415.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -37476,12 +37476,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5167,
         ["dps_max"] = 13834.54,
-        ["points"] = 8243.475543053602,
+        ["points"] = 8243.75,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 3688,
+        ["rank_raids"] = 3689,
         ["dps_max"] = 10990.07,
-        ["points"] = 8444.6,
+        ["points"] = 8444.3,
       },
       ["Halion"] = {
         ["rank_raids"] = 5795,
@@ -37553,7 +37553,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1237,
         ["dps_max"] = 14899.45,
-        ["points"] = 9431.161118924832,
+        ["points"] = 9431.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -37630,7 +37630,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1490,
         ["dps_max"] = 14775.46,
-        ["points"] = 9335.833724019378,
+        ["points"] = 9335.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -37707,7 +37707,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7076,
         ["dps_max"] = 13508.78,
-        ["points"] = 7790.279731208001,
+        ["points"] = 7790.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -37784,7 +37784,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 440,
         ["dps_max"] = 15490.77,
-        ["points"] = 9734.333489607752,
+        ["points"] = 9734.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 462,
@@ -37861,7 +37861,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3252,
         ["dps_max"] = 14230.22,
-        ["points"] = 8796.68698234099,
+        ["points"] = 8796.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -37891,7 +37891,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 493,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7275,
+        ["rank_raids"] = 7276,
         ["dps_max"] = 19068.68,
         ["points"] = 8058.805880588059,
       },
@@ -37938,7 +37938,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1429,
         ["dps_max"] = 14805.66,
-        ["points"] = 9356.14939834349,
+        ["points"] = 9356.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -37963,7 +37963,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Nino"] = {
-    ["percentile"] = 90.985,
+    ["percentile"] = 90.986,
     ["server"] = "Icecrown",
     ["overall_rank"] = 494,
     ["bosses"] = {
@@ -38015,7 +38015,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1799,
         ["dps_max"] = 14655.56,
-        ["points"] = 9243.63181747148,
+        ["points"] = 9243.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -38092,7 +38092,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4036,
         ["dps_max"] = 14044.12,
-        ["points"] = 8574.777308954524,
+        ["points"] = 8575.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -38169,7 +38169,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2850,
         ["dps_max"] = 14336.86,
-        ["points"] = 8906.079074855446,
+        ["points"] = 8906.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -38194,7 +38194,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Tayyr"] = {
-    ["percentile"] = 90.957,
+    ["percentile"] = 90.956,
     ["server"] = "Icecrown",
     ["overall_rank"] = 497,
     ["bosses"] = {
@@ -38229,9 +38229,9 @@ UWULogsData[6][2] = {
         ["points"] = 9311.078600877778,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4853,
+        ["rank_raids"] = 4854,
         ["dps_max"] = 16304.32,
-        ["points"] = 8820.882088208822,
+        ["points"] = 8819.88198819882,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 266,
@@ -38246,7 +38246,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1312,
         ["dps_max"] = 14857.36,
-        ["points"] = 9393.655258634162,
+        ["points"] = 9393.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -38306,7 +38306,7 @@ UWULogsData[6][2] = {
         ["points"] = 9803.165314536507,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 9419,
+        ["rank_raids"] = 9421,
         ["dps_max"] = 15218.28,
         ["points"] = 7965.796579657966,
       },
@@ -38323,12 +38323,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 886,
         ["dps_max"] = 15089.38,
-        ["points"] = 9551.492420690733,
+        ["points"] = 9551.5625,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2211,
+        ["rank_raids"] = 2212,
         ["dps_max"] = 12540.8,
-        ["points"] = 8887.7,
+        ["points"] = 8887.400000000001,
       },
       ["Halion"] = {
         ["rank_raids"] = 3118,
@@ -38400,7 +38400,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 594,
         ["dps_max"] = 15341.78,
-        ["points"] = 9670.260978277856,
+        ["points"] = 9670.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 402,
@@ -38425,7 +38425,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Pennybro"] = {
-    ["percentile"] = 90.906,
+    ["percentile"] = 90.907,
     ["server"] = "Icecrown",
     ["overall_rank"] = 500,
     ["bosses"] = {
@@ -38435,7 +38435,7 @@ UWULogsData[6][2] = {
         ["points"] = 9353.935393539354,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7680,
+        ["rank_raids"] = 7681,
         ["dps_max"] = 17096.09,
         ["points"] = 7613.99941911124,
       },
@@ -38460,7 +38460,7 @@ UWULogsData[6][2] = {
         ["points"] = 9676.8187258944,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 9325,
+        ["rank_raids"] = 9327,
         ["dps_max"] = 15238.13,
         ["points"] = 7984.798479847985,
       },
@@ -38477,7 +38477,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4386,
         ["dps_max"] = 13979.52,
-        ["points"] = 8477.887169870291,
+        ["points"] = 8478.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 711,
@@ -38537,9 +38537,9 @@ UWULogsData[6][2] = {
         ["points"] = 9578.401383162654,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5774,
+        ["rank_raids"] = 5775,
         ["dps_max"] = 16025.55,
-        ["points"] = 8652.865286528653,
+        ["points"] = 8651.865186518651,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6834,
@@ -38554,7 +38554,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3226,
         ["dps_max"] = 14238.29,
-        ["points"] = 8806.063447413659,
+        ["points"] = 8806.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 57,
@@ -38631,7 +38631,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2150,
         ["dps_max"] = 14534.83,
-        ["points"] = 9121.737771526801,
+        ["points"] = 9121.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 194,
@@ -38666,7 +38666,7 @@ UWULogsData[6][2] = {
         ["points"] = 9330.93309330933,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7907,
+        ["rank_raids"] = 7908,
         ["dps_max"] = 17026.43,
         ["points"] = 7550.101655532966,
       },
@@ -38708,7 +38708,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2466,
         ["dps_max"] = 14446.93,
-        ["points"] = 9027.973120800125,
+        ["points"] = 9028.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -38785,7 +38785,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1667,
         ["dps_max"] = 14709.98,
-        ["points"] = 9285.825910298485,
+        ["points"] = 9285.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1041,
@@ -38862,7 +38862,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2648,
         ["dps_max"] = 14391.94,
-        ["points"] = 8982.653539615565,
+        ["points"] = 8982.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -38922,7 +38922,7 @@ UWULogsData[6][2] = {
         ["points"] = 9760.606463625481,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7642,
+        ["rank_raids"] = 7644,
         ["dps_max"] = 15568.28,
         ["points"] = 8286.828682868287,
       },
@@ -38939,7 +38939,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2114,
         ["dps_max"] = 14548.58,
-        ["points"] = 9137.36521331458,
+        ["points"] = 9137.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -38964,7 +38964,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Mekkai"] = {
-    ["percentile"] = 90.812,
+    ["percentile"] = 90.811,
     ["server"] = "Icecrown",
     ["overall_rank"] = 507,
     ["bosses"] = {
@@ -38984,9 +38984,9 @@ UWULogsData[6][2] = {
         ["points"] = 9157.915791579158,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7717,
+        ["rank_raids"] = 7718,
         ["dps_max"] = 18690.18,
-        ["points"] = 8132.813281328133,
+        ["points"] = 8131.813181318132,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2578,
@@ -39016,7 +39016,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3405,
         ["dps_max"] = 14192.24,
-        ["points"] = 8741.990936083763,
+        ["points"] = 8742.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -39041,7 +39041,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Tinkywinkyu"] = {
-    ["percentile"] = 90.793,
+    ["percentile"] = 90.792,
     ["server"] = "Icecrown",
     ["overall_rank"] = 508,
     ["bosses"] = {
@@ -39061,9 +39061,9 @@ UWULogsData[6][2] = {
         ["points"] = 8824.882488248826,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 8579,
+        ["rank_raids"] = 8580,
         ["dps_max"] = 18581.25,
-        ["points"] = 7999.799979998,
+        ["points"] = 7998.799879987999,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1713,
@@ -39093,7 +39093,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2722,
         ["dps_max"] = 14369.29,
-        ["points"] = 8957.649632755118,
+        ["points"] = 8957.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -39170,7 +39170,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1365,
         ["dps_max"] = 14830.6,
-        ["points"] = 9374.902328488826,
+        ["points"] = 9375.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 281,
@@ -39247,7 +39247,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1191,
         ["dps_max"] = 14922.19,
-        ["points"] = 9446.788560712612,
+        ["points"] = 9446.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -39324,7 +39324,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3122,
         ["dps_max"] = 14263.53,
-        ["points"] = 8834.19284263166,
+        ["points"] = 8834.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -39349,7 +39349,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Poisonstouch"] = {
-    ["percentile"] = 90.703,
+    ["percentile"] = 90.704,
     ["server"] = "Icecrown",
     ["overall_rank"] = 512,
     ["bosses"] = {
@@ -39401,7 +39401,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5942,
         ["dps_max"] = 13699.29,
-        ["points"] = 8071.573683388029,
+        ["points"] = 8071.874999999999,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -39461,7 +39461,7 @@ UWULogsData[6][2] = {
         ["points"] = 8009.043755818593,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7631,
+        ["rank_raids"] = 7633,
         ["dps_max"] = 15570.36,
         ["points"] = 8290.82908290829,
       },
@@ -39478,12 +39478,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1168,
         ["dps_max"] = 14934.84,
-        ["points"] = 9459.290514142835,
+        ["points"] = 9459.375,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 3270,
+        ["rank_raids"] = 3271,
         ["dps_max"] = 11383.17,
-        ["points"] = 8570.000000000002,
+        ["points"] = 8569.7,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -39555,7 +39555,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3536,
         ["dps_max"] = 14161.24,
-        ["points"] = 8702.922331614314,
+        ["points"] = 8703.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 429,
@@ -39632,7 +39632,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3341,
         ["dps_max"] = 14210.51,
-        ["points"] = 8759.18112205032,
+        ["points"] = 8759.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 415,
@@ -39709,7 +39709,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4099,
         ["dps_max"] = 14032.34,
-        ["points"] = 8560.712611345522,
+        ["points"] = 8560.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -39786,7 +39786,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3533,
         ["dps_max"] = 14161.68,
-        ["points"] = 8704.485075793093,
+        ["points"] = 8704.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -39811,7 +39811,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Mithrillos"] = {
-    ["percentile"] = 90.689,
+    ["percentile"] = 90.688,
     ["server"] = "Icecrown",
     ["overall_rank"] = 518,
     ["bosses"] = {
@@ -39846,9 +39846,9 @@ UWULogsData[6][2] = {
         ["points"] = 9486.633860885755,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4862,
+        ["rank_raids"] = 4863,
         ["dps_max"] = 16299.64,
-        ["points"] = 8818.881888188818,
+        ["points"] = 8817.881788178818,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3487,
@@ -39863,7 +39863,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1458,
         ["dps_max"] = 14788.56,
-        ["points"] = 9346.772933270824,
+        ["points"] = 9346.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -39898,7 +39898,7 @@ UWULogsData[6][2] = {
         ["points"] = 9212.921292129213,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 9373,
+        ["rank_raids"] = 9374,
         ["dps_max"] = 16555.42,
         ["points"] = 7166.715074063317,
       },
@@ -39923,9 +39923,9 @@ UWULogsData[6][2] = {
         ["points"] = 9759.276499534513,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4673,
+        ["rank_raids"] = 4674,
         ["dps_max"] = 16360.25,
-        ["points"] = 8856.885688568856,
+        ["points"] = 8855.885588558856,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 527,
@@ -39940,7 +39940,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2594,
         ["dps_max"] = 14409.12,
-        ["points"] = 8992.030004688233,
+        ["points"] = 8992.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -40017,7 +40017,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4223,
         ["dps_max"] = 14007.21,
-        ["points"] = 8529.457727769965,
+        ["points"] = 8529.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -40047,7 +40047,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 521,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7445,
+        ["rank_raids"] = 7446,
         ["dps_max"] = 19040.01,
         ["points"] = 8024.802480248024,
       },
@@ -40094,7 +40094,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1703,
         ["dps_max"] = 14693.97,
-        ["points"] = 9276.449445225817,
+        ["points"] = 9276.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -40129,7 +40129,7 @@ UWULogsData[6][2] = {
         ["points"] = 9516.951695169517,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 9892,
+        ["rank_raids"] = 9893,
         ["dps_max"] = 16402.64,
         ["points"] = 7044.728434504792,
       },
@@ -40171,7 +40171,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5857,
         ["dps_max"] = 13714.85,
-        ["points"] = 8090.326613533365,
+        ["points"] = 8090.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -40196,7 +40196,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Immersionn"] = {
-    ["percentile"] = 90.626,
+    ["percentile"] = 90.627,
     ["server"] = "Icecrown",
     ["overall_rank"] = 523,
     ["bosses"] = {
@@ -40248,12 +40248,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 753,
         ["dps_max"] = 15178.58,
-        ["points"] = 9599.937490232849,
+        ["points"] = 9600.0,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 10271,
+        ["rank_raids"] = 10273,
         ["dps_max"] = 5440.35,
-        ["points"] = 6523.900000000001,
+        ["points"] = 6523.7,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -40325,12 +40325,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3109,
         ["dps_max"] = 14266.97,
-        ["points"] = 8838.881075167994,
+        ["points"] = 8839.0625,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 3001,
+        ["rank_raids"] = 3002,
         ["dps_max"] = 11675.48,
-        ["points"] = 8650.7,
+        ["points"] = 8650.4,
       },
       ["Halion"] = {
         ["rank_raids"] = 718,
@@ -40350,7 +40350,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Cipa"] = {
-    ["percentile"] = 90.584,
+    ["percentile"] = 90.585,
     ["server"] = "Icecrown",
     ["overall_rank"] = 525,
     ["bosses"] = {
@@ -40402,7 +40402,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5103,
         ["dps_max"] = 13847.97,
-        ["points"] = 8262.228473198937,
+        ["points"] = 8262.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -40427,7 +40427,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Elpidoraste"] = {
-    ["percentile"] = 90.571,
+    ["percentile"] = 90.57,
     ["server"] = "Icecrown",
     ["overall_rank"] = 526,
     ["bosses"] = {
@@ -40462,9 +40462,9 @@ UWULogsData[6][2] = {
         ["points"] = 9168.772443144035,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7065,
+        ["rank_raids"] = 7067,
         ["dps_max"] = 15699.48,
-        ["points"] = 8419.84198419842,
+        ["points"] = 8418.84188418842,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 122,
@@ -40479,7 +40479,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1560,
         ["dps_max"] = 14748.04,
-        ["points"] = 9321.769026410377,
+        ["points"] = 9321.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -40504,7 +40504,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Notirotot"] = {
-    ["percentile"] = 90.567,
+    ["percentile"] = 90.568,
     ["server"] = "Icecrown",
     ["overall_rank"] = 527,
     ["bosses"] = {
@@ -40556,7 +40556,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5340,
         ["dps_max"] = 13805.77,
-        ["points"] = 8213.783403656822,
+        ["points"] = 8214.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1491,
@@ -40633,7 +40633,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6042,
         ["dps_max"] = 13680.44,
-        ["points"] = 8045.007032348804,
+        ["points"] = 8045.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 428,
@@ -40658,7 +40658,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Cousin"] = {
-    ["percentile"] = 90.555,
+    ["percentile"] = 90.554,
     ["server"] = "Icecrown",
     ["overall_rank"] = 529,
     ["bosses"] = {
@@ -40693,9 +40693,9 @@ UWULogsData[6][2] = {
         ["points"] = 8691.31533448597,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6491,
+        ["rank_raids"] = 6493,
         ["dps_max"] = 15839.62,
-        ["points"] = 8527.852785278528,
+        ["points"] = 8526.852685268526,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 289,
@@ -40710,7 +40710,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5508,
         ["dps_max"] = 13777.33,
-        ["points"] = 8177.840287544928,
+        ["points"] = 8178.125000000001,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -40735,7 +40735,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Dilerr"] = {
-    ["percentile"] = 90.551,
+    ["percentile"] = 90.55,
     ["server"] = "Icecrown",
     ["overall_rank"] = 530,
     ["bosses"] = {
@@ -40745,7 +40745,7 @@ UWULogsData[6][2] = {
         ["points"] = 9799.9799979998,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 11337,
+        ["rank_raids"] = 11339,
         ["dps_max"] = 16002.88,
         ["points"] = 6671.507406331687,
       },
@@ -40770,9 +40770,9 @@ UWULogsData[6][2] = {
         ["points"] = 9017.156536773507,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4518,
+        ["rank_raids"] = 4519,
         ["dps_max"] = 16417.59,
-        ["points"] = 8889.888988898889,
+        ["points"] = 8888.888888888889,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 239,
@@ -40787,7 +40787,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1330,
         ["dps_max"] = 14849.78,
-        ["points"] = 9387.404281919049,
+        ["points"] = 9387.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -40817,7 +40817,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 531,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7252,
+        ["rank_raids"] = 7253,
         ["dps_max"] = 19073.46,
         ["points"] = 8062.806280628063,
       },
@@ -40847,7 +40847,7 @@ UWULogsData[6][2] = {
         ["points"] = 9135.523340869797,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7478,
+        ["rank_raids"] = 7480,
         ["dps_max"] = 15604.35,
         ["points"] = 8319.83198319832,
       },
@@ -40864,7 +40864,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3771,
         ["dps_max"] = 14108.28,
-        ["points"] = 8640.412564463197,
+        ["points"] = 8640.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -40941,7 +40941,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 161,
         ["dps_max"] = 16024.6,
-        ["points"] = 9895.29614002188,
+        ["points"] = 9895.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -41018,7 +41018,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1199,
         ["dps_max"] = 14918.46,
-        ["points"] = 9445.225816533833,
+        ["points"] = 9445.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 32,
@@ -41095,7 +41095,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6623,
         ["dps_max"] = 13583.73,
-        ["points"] = 7890.29535864979,
+        ["points"] = 7890.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -41145,7 +41145,7 @@ UWULogsData[6][2] = {
         ["points"] = 8761.876187618762,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 11868,
+        ["rank_raids"] = 11869,
         ["dps_max"] = 19306.41,
         ["points"] = 8054.392066095842,
       },
@@ -41172,7 +41172,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3649,
         ["dps_max"] = 14135.95,
-        ["points"] = 8676.35568057509,
+        ["points"] = 8676.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -41249,7 +41249,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2174,
         ["dps_max"] = 14528.78,
-        ["points"] = 9115.48679481169,
+        ["points"] = 9115.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 581,
@@ -41284,7 +41284,7 @@ UWULogsData[6][2] = {
         ["points"] = 9728.97289728973,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 9808,
+        ["rank_raids"] = 9809,
         ["dps_max"] = 16429.04,
         ["points"] = 7063.607319198374,
       },
@@ -41299,7 +41299,7 @@ UWULogsData[6][2] = {
         ["points"] = 9702.970297029702,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9832,
+        ["rank_raids"] = 9833,
         ["dps_max"] = 19540.5,
         ["points"] = 8152.05147759453,
       },
@@ -41326,7 +41326,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1354,
         ["dps_max"] = 14837.21,
-        ["points"] = 9379.590561025161,
+        ["points"] = 9379.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 15,
@@ -41351,7 +41351,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Micayla"] = {
-    ["percentile"] = 90.371,
+    ["percentile"] = 90.372,
     ["server"] = "Icecrown",
     ["overall_rank"] = 538,
     ["bosses"] = {
@@ -41403,7 +41403,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7677,
         ["dps_max"] = 13417.95,
-        ["points"] = 7643.381778402876,
+        ["points"] = 7643.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -41428,7 +41428,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Negr"] = {
-    ["percentile"] = 90.361,
+    ["percentile"] = 90.36,
     ["server"] = "Icecrown",
     ["overall_rank"] = 539,
     ["bosses"] = {
@@ -41463,9 +41463,9 @@ UWULogsData[6][2] = {
         ["points"] = 9586.381167708472,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6411,
+        ["rank_raids"] = 6413,
         ["dps_max"] = 15860.45,
-        ["points"] = 8545.854585458546,
+        ["points"] = 8544.854485448544,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1152,
@@ -41480,7 +41480,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1140,
         ["dps_max"] = 14946.45,
-        ["points"] = 9470.22972339428,
+        ["points"] = 9470.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -41505,7 +41505,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Roxyslice"] = {
-    ["percentile"] = 90.36,
+    ["percentile"] = 90.359,
     ["server"] = "Icecrown",
     ["overall_rank"] = 540,
     ["bosses"] = {
@@ -41540,9 +41540,9 @@ UWULogsData[6][2] = {
         ["points"] = 9553.132065434233,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4732,
+        ["rank_raids"] = 4733,
         ["dps_max"] = 16337.72,
-        ["points"] = 8847.884788478848,
+        ["points"] = 8846.884688468846,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 7792,
@@ -41557,12 +41557,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1671,
         ["dps_max"] = 14708.91,
-        ["points"] = 9284.263166119707,
+        ["points"] = 9284.375,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2874,
+        ["rank_raids"] = 2875,
         ["dps_max"] = 11812.5,
-        ["points"] = 8688.800000000001,
+        ["points"] = 8688.5,
       },
       ["Halion"] = {
         ["rank_raids"] = 4860,
@@ -41592,7 +41592,7 @@ UWULogsData[6][2] = {
         ["points"] = 9320.932093209321,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 8768,
+        ["rank_raids"] = 8769,
         ["dps_max"] = 16752.67,
         ["points"] = 7309.032820214929,
       },
@@ -41617,9 +41617,9 @@ UWULogsData[6][2] = {
         ["points"] = 9590.37105998138,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7250,
+        ["rank_raids"] = 7252,
         ["dps_max"] = 15653.55,
-        ["points"] = 8376.837683768377,
+        ["points"] = 8375.837583758375,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 364,
@@ -41634,7 +41634,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3686,
         ["dps_max"] = 14128.42,
-        ["points"] = 8665.416471323644,
+        ["points"] = 8665.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -41711,7 +41711,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3414,
         ["dps_max"] = 14190.33,
-        ["points"] = 8737.30270354743,
+        ["points"] = 8737.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -41788,7 +41788,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5665,
         ["dps_max"] = 13745.55,
-        ["points"] = 8137.208938896702,
+        ["points"] = 8137.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -41813,7 +41813,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Luxero"] = {
-    ["percentile"] = 90.254,
+    ["percentile"] = 90.253,
     ["server"] = "Icecrown",
     ["overall_rank"] = 544,
     ["bosses"] = {
@@ -41828,9 +41828,9 @@ UWULogsData[6][2] = {
         ["points"] = 9137.38019169329,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8441,
+        ["rank_raids"] = 8442,
         ["dps_max"] = 21423.4,
-        ["points"] = 8192.819281928194,
+        ["points"] = 8191.819181918192,
       },
       ["Festergut"] = {
         ["rank_raids"] = 886,
@@ -41865,7 +41865,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1852,
         ["dps_max"] = 14633.15,
-        ["points"] = 9220.19065478981,
+        ["points"] = 9220.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -41890,7 +41890,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Maybebaby"] = {
-    ["percentile"] = 90.246,
+    ["percentile"] = 90.245,
     ["server"] = "Icecrown",
     ["overall_rank"] = 545,
     ["bosses"] = {
@@ -41925,9 +41925,9 @@ UWULogsData[6][2] = {
         ["points"] = 9307.088708604868,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6317,
+        ["rank_raids"] = 6319,
         ["dps_max"] = 15886.12,
-        ["points"] = 8561.856185618562,
+        ["points"] = 8560.85608560856,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1345,
@@ -41942,7 +41942,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1022,
         ["dps_max"] = 15009.99,
-        ["points"] = 9507.735583684951,
+        ["points"] = 9507.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -42019,7 +42019,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3677,
         ["dps_max"] = 14129.47,
-        ["points"] = 8668.541959681199,
+        ["points"] = 8668.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -42096,7 +42096,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2066,
         ["dps_max"] = 14563.52,
-        ["points"] = 9143.616190029692,
+        ["points"] = 9143.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 131,
@@ -42156,7 +42156,7 @@ UWULogsData[6][2] = {
         ["points"] = 9140.843197233675,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7287,
+        ["rank_raids"] = 7289,
         ["dps_max"] = 15646.65,
         ["points"] = 8360.836083608361,
       },
@@ -42173,12 +42173,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2130,
         ["dps_max"] = 14543.18,
-        ["points"] = 9131.11423659947,
+        ["points"] = 9131.25,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 10354,
+        ["rank_raids"] = 10356,
         ["dps_max"] = 5343.65,
-        ["points"] = 6515.6,
+        ["points"] = 6515.4,
       },
       ["Halion"] = {
         ["rank_raids"] = 4260,
@@ -42198,12 +42198,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Darkndirty"] = {
-    ["percentile"] = 90.165,
+    ["percentile"] = 90.166,
     ["server"] = "Icecrown",
     ["overall_rank"] = 549,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7653,
+        ["rank_raids"] = 7654,
         ["dps_max"] = 18997.32,
         ["points"] = 7984.798479847985,
       },
@@ -42250,7 +42250,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5917,
         ["dps_max"] = 13704.67,
-        ["points"] = 8077.8246601031415,
+        ["points"] = 8078.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -42275,7 +42275,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Dolosaksdik"] = {
-    ["percentile"] = 90.158,
+    ["percentile"] = 90.157,
     ["server"] = "Icecrown",
     ["overall_rank"] = 550,
     ["bosses"] = {
@@ -42295,9 +42295,9 @@ UWULogsData[6][2] = {
         ["points"] = 8816.881688168818,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 8134,
+        ["rank_raids"] = 8135,
         ["dps_max"] = 18635.85,
-        ["points"] = 8067.806780678067,
+        ["points"] = 8066.806680668067,
       },
       ["Rotface"] = {
         ["rank_raids"] = 7076,
@@ -42327,7 +42327,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3338,
         ["dps_max"] = 14211.26,
-        ["points"] = 8760.743866229099,
+        ["points"] = 8760.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -42387,9 +42387,9 @@ UWULogsData[6][2] = {
         ["points"] = 9171.432371325975,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4716,
+        ["rank_raids"] = 4717,
         ["dps_max"] = 16344.68,
-        ["points"] = 8851.885188518852,
+        ["points"] = 8850.88508850885,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4257,
@@ -42404,7 +42404,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5442,
         ["dps_max"] = 13788.12,
-        ["points"] = 8191.90498515393,
+        ["points"] = 8192.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -42464,7 +42464,7 @@ UWULogsData[6][2] = {
         ["points"] = 9104.934166777497,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 8322,
+        ["rank_raids"] = 8324,
         ["dps_max"] = 15432.63,
         ["points"] = 8168.816881688169,
       },
@@ -42481,7 +42481,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1867,
         ["dps_max"] = 14628.13,
-        ["points"] = 9215.502422253478,
+        ["points"] = 9215.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -42506,7 +42506,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Rodram"] = {
-    ["percentile"] = 90.071,
+    ["percentile"] = 90.07,
     ["server"] = "Icecrown",
     ["overall_rank"] = 553,
     ["bosses"] = {
@@ -42541,9 +42541,9 @@ UWULogsData[6][2] = {
         ["points"] = 9505.25335815933,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7237,
+        ["rank_raids"] = 7239,
         ["dps_max"] = 15656.77,
-        ["points"] = 8378.83788378838,
+        ["points"] = 8377.837783778377,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2949,
@@ -42558,7 +42558,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2054,
         ["dps_max"] = 14565.52,
-        ["points"] = 9146.741678387249,
+        ["points"] = 9146.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -42583,7 +42583,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Adoarautism"] = {
-    ["percentile"] = 90.052,
+    ["percentile"] = 90.051,
     ["server"] = "Icecrown",
     ["overall_rank"] = 554,
     ["bosses"] = {
@@ -42598,9 +42598,9 @@ UWULogsData[6][2] = {
         ["points"] = 9905.605576532094,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9846,
+        ["rank_raids"] = 9847,
         ["dps_max"] = 21226.96,
-        ["points"] = 7981.798179817982,
+        ["points"] = 7980.798079807981,
       },
       ["Festergut"] = {
         ["rank_raids"] = 415,
@@ -42635,12 +42635,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7870,
         ["dps_max"] = 13388.37,
-        ["points"] = 7598.062197218315,
+        ["points"] = 7598.4375,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 8479,
+        ["rank_raids"] = 8480,
         ["dps_max"] = 7132.66,
-        ["points"] = 7007.300000000001,
+        ["points"] = 7007.000000000001,
       },
       ["Halion"] = {
         ["rank_raids"] = 16227,
@@ -42712,7 +42712,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1204,
         ["dps_max"] = 14912.73,
-        ["points"] = 9443.663072355055,
+        ["points"] = 9443.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -42789,7 +42789,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3722,
         ["dps_max"] = 14118.64,
-        ["points"] = 8656.040006250976,
+        ["points"] = 8656.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -42849,7 +42849,7 @@ UWULogsData[6][2] = {
         ["points"] = 9253.890144966086,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10762,
+        ["rank_raids"] = 10764,
         ["dps_max"] = 14973.34,
         ["points"] = 7726.772677267727,
       },
@@ -42866,7 +42866,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2774,
         ["dps_max"] = 14357.27,
-        ["points"] = 8943.584935146117,
+        ["points"] = 8943.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -42891,7 +42891,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Darrow"] = {
-    ["percentile"] = 89.928,
+    ["percentile"] = 89.929,
     ["server"] = "Icecrown",
     ["overall_rank"] = 558,
     ["bosses"] = {
@@ -42926,7 +42926,7 @@ UWULogsData[6][2] = {
         ["points"] = 9702.088043622822,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10539,
+        ["rank_raids"] = 10541,
         ["dps_max"] = 15008.85,
         ["points"] = 7763.776377637763,
       },
@@ -42943,7 +42943,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5272,
         ["dps_max"] = 13816.03,
-        ["points"] = 8224.722612908266,
+        ["points"] = 8225.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -43020,7 +43020,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5986,
         ["dps_max"] = 13689.35,
-        ["points"] = 8055.946241600251,
+        ["points"] = 8056.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -43045,7 +43045,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Otirogue"] = {
-    ["percentile"] = 89.925,
+    ["percentile"] = 89.926,
     ["server"] = "Icecrown",
     ["overall_rank"] = 560,
     ["bosses"] = {
@@ -43097,7 +43097,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3129,
         ["dps_max"] = 14260.81,
-        ["points"] = 8831.067354274106,
+        ["points"] = 8831.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -43174,7 +43174,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3750,
         ["dps_max"] = 14112.01,
-        ["points"] = 8645.100796999532,
+        ["points"] = 8645.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -43251,7 +43251,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5960,
         ["dps_max"] = 13695.07,
-        ["points"] = 8062.197218315362,
+        ["points"] = 8062.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -43276,7 +43276,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Crimsonblaze"] = {
-    ["percentile"] = 89.888,
+    ["percentile"] = 89.887,
     ["server"] = "Icecrown",
     ["overall_rank"] = 563,
     ["bosses"] = {
@@ -43291,9 +43291,9 @@ UWULogsData[6][2] = {
         ["points"] = 9131.571304095267,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8432,
+        ["rank_raids"] = 8433,
         ["dps_max"] = 21425.02,
-        ["points"] = 8193.819381938194,
+        ["points"] = 8192.819281928194,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3014,
@@ -43328,7 +43328,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6384,
         ["dps_max"] = 13624.35,
-        ["points"] = 7963.744335052352,
+        ["points"] = 7964.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -43363,7 +43363,7 @@ UWULogsData[6][2] = {
         ["points"] = 9219.92199219922,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7524,
+        ["rank_raids"] = 7525,
         ["dps_max"] = 17144.99,
         ["points"] = 7645.948300900377,
       },
@@ -43405,7 +43405,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1937,
         ["dps_max"] = 14600.18,
-        ["points"] = 9187.373027035475,
+        ["points"] = 9187.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -43482,7 +43482,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2341,
         ["dps_max"] = 14487.75,
-        ["points"] = 9070.16721362713,
+        ["points"] = 9070.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -43542,9 +43542,9 @@ UWULogsData[6][2] = {
         ["points"] = 9634.259874983376,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5712,
+        ["rank_raids"] = 5713,
         ["dps_max"] = 16043.07,
-        ["points"] = 8665.866586658665,
+        ["points"] = 8664.866486648665,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4350,
@@ -43559,7 +43559,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1304,
         ["dps_max"] = 14864.36,
-        ["points"] = 9399.906235349274,
+        ["points"] = 9400.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -43636,7 +43636,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2777,
         ["dps_max"] = 14356.24,
-        ["points"] = 8942.02219096734,
+        ["points"] = 8942.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -43713,7 +43713,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4610,
         ["dps_max"] = 13939.91,
-        ["points"] = 8410.68917018284,
+        ["points"] = 8410.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -43738,7 +43738,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Poizonn"] = {
-    ["percentile"] = 89.852,
+    ["percentile"] = 89.853,
     ["server"] = "Icecrown",
     ["overall_rank"] = 569,
     ["bosses"] = {
@@ -43790,7 +43790,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6362,
         ["dps_max"] = 13627.15,
-        ["points"] = 7968.432567588686,
+        ["points"] = 7968.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -43830,9 +43830,9 @@ UWULogsData[6][2] = {
         ["points"] = 8588.44031367993,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8456,
+        ["rank_raids"] = 8457,
         ["dps_max"] = 21421.59,
-        ["points"] = 8188.818881888189,
+        ["points"] = 8187.818781878188,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1741,
@@ -43867,7 +43867,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2338,
         ["dps_max"] = 14488.27,
-        ["points"] = 9071.729957805908,
+        ["points"] = 9071.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -43892,7 +43892,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Qiyanax"] = {
-    ["percentile"] = 89.811,
+    ["percentile"] = 89.809,
     ["server"] = "Icecrown",
     ["overall_rank"] = 571,
     ["bosses"] = {
@@ -43912,9 +43912,9 @@ UWULogsData[6][2] = {
         ["points"] = 9551.955195519551,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7438,
+        ["rank_raids"] = 7439,
         ["dps_max"] = 18730.85,
-        ["points"] = 8182.818281828182,
+        ["points"] = 8181.818181818182,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2095,
@@ -43927,9 +43927,9 @@ UWULogsData[6][2] = {
         ["points"] = 8552.999069025136,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6874,
+        ["rank_raids"] = 6876,
         ["dps_max"] = 15740.08,
-        ["points"] = 8463.846384638464,
+        ["points"] = 8462.846284628462,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1390,
@@ -43944,7 +43944,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4681,
         ["dps_max"] = 13924.3,
-        ["points"] = 8382.559774964839,
+        ["points"] = 8382.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -44021,7 +44021,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1269,
         ["dps_max"] = 14883.33,
-        ["points"] = 9417.09642131583,
+        ["points"] = 9417.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -44071,7 +44071,7 @@ UWULogsData[6][2] = {
         ["points"] = 9705.970597059706,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 10930,
+        ["rank_raids"] = 10931,
         ["dps_max"] = 19411.62,
         ["points"] = 8098.284358307286,
       },
@@ -44098,7 +44098,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1500,
         ["dps_max"] = 14773.37,
-        ["points"] = 9331.145491483045,
+        ["points"] = 9331.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 971,
@@ -44123,7 +44123,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Yran"] = {
-    ["percentile"] = 89.713,
+    ["percentile"] = 89.712,
     ["server"] = "Icecrown",
     ["overall_rank"] = 574,
     ["bosses"] = {
@@ -44143,9 +44143,9 @@ UWULogsData[6][2] = {
         ["points"] = 9637.963796379638,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7073,
+        ["rank_raids"] = 7074,
         ["dps_max"] = 18781.76,
-        ["points"] = 8235.823582358236,
+        ["points"] = 8234.823482348234,
       },
       ["Rotface"] = {
         ["rank_raids"] = 7418,
@@ -44175,7 +44175,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3631,
         ["dps_max"] = 14140.54,
-        ["points"] = 8685.732145647758,
+        ["points"] = 8685.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -44252,7 +44252,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8773,
         ["dps_max"] = 13259.1,
-        ["points"] = 7352.711361150179,
+        ["points"] = 7353.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -44329,7 +44329,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5024,
         ["dps_max"] = 13862.74,
-        ["points"] = 8285.669635880606,
+        ["points"] = 8285.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 555,
@@ -44359,7 +44359,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 577,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8729,
+        ["rank_raids"] = 8730,
         ["dps_max"] = 18802.65,
         ["points"] = 7768.776877687768,
       },
@@ -44406,7 +44406,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1411,
         ["dps_max"] = 14810.39,
-        ["points"] = 9359.274886701047,
+        ["points"] = 9359.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -44483,7 +44483,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5852,
         ["dps_max"] = 13715.32,
-        ["points"] = 8091.889357712142,
+        ["points"] = 8092.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -44548,9 +44548,9 @@ UWULogsData[6][2] = {
         ["points"] = 9966.996699669966,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 24370,
+        ["rank_raids"] = 24372,
         ["dps_max"] = 15792.2,
-        ["points"] = 5114.0,
+        ["points"] = 5113.799999999999,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 591,
@@ -44560,12 +44560,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2049,
         ["dps_max"] = 14567.43,
-        ["points"] = 9151.429910923582,
+        ["points"] = 9151.5625,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 7274,
+        ["rank_raids"] = 7275,
         ["dps_max"] = 8095.58,
-        ["points"] = 7368.800000000001,
+        ["points"] = 7368.5,
       },
       ["Halion"] = {
         ["rank_raids"] = 12244,
@@ -44585,7 +44585,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Ninofensivo"] = {
-    ["percentile"] = 89.631,
+    ["percentile"] = 89.632,
     ["server"] = "Icecrown",
     ["overall_rank"] = 580,
     ["bosses"] = {
@@ -44637,7 +44637,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5985,
         ["dps_max"] = 13689.49,
-        ["points"] = 8057.508985779028,
+        ["points"] = 8057.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -44662,7 +44662,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Strychnin"] = {
-    ["percentile"] = 89.599,
+    ["percentile"] = 89.597,
     ["server"] = "Icecrown",
     ["overall_rank"] = 581,
     ["bosses"] = {
@@ -44682,9 +44682,9 @@ UWULogsData[6][2] = {
         ["points"] = 9411.941194119412,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 10661,
+        ["rank_raids"] = 10662,
         ["dps_max"] = 18347.11,
-        ["points"] = 7662.766276627663,
+        ["points"] = 7661.766176617662,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2197,
@@ -44697,9 +44697,9 @@ UWULogsData[6][2] = {
         ["points"] = 8942.678547679212,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4609,
+        ["rank_raids"] = 4610,
         ["dps_max"] = 16383.4,
-        ["points"] = 8871.887188718872,
+        ["points"] = 8870.88708870887,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3714,
@@ -44714,7 +44714,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1217,
         ["dps_max"] = 14904.24,
-        ["points"] = 9437.412095639944,
+        ["points"] = 9437.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 19,
@@ -44739,7 +44739,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Ichiga"] = {
-    ["percentile"] = 89.589,
+    ["percentile"] = 89.588,
     ["server"] = "Icecrown",
     ["overall_rank"] = 582,
     ["bosses"] = {
@@ -44774,9 +44774,9 @@ UWULogsData[6][2] = {
         ["points"] = 8338.87485037904,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5827,
+        ["rank_raids"] = 5828,
         ["dps_max"] = 16010.77,
-        ["points"] = 8640.864086408641,
+        ["points"] = 8639.863986398641,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 602,
@@ -44791,7 +44791,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8677,
         ["dps_max"] = 13272.35,
-        ["points"] = 7382.4035005469605,
+        ["points"] = 7382.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1196,
@@ -44831,7 +44831,7 @@ UWULogsData[6][2] = {
         ["points"] = 9615.161196630845,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 12102,
+        ["rank_raids"] = 12103,
         ["dps_max"] = 20942.3,
         ["points"] = 7848.090545176277,
       },
@@ -44868,7 +44868,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1900,
         ["dps_max"] = 14615.04,
-        ["points"] = 9203.000468823253,
+        ["points"] = 9203.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -44893,7 +44893,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Floow"] = {
-    ["percentile"] = 89.561,
+    ["percentile"] = 89.562,
     ["server"] = "Icecrown",
     ["overall_rank"] = 584,
     ["bosses"] = {
@@ -44928,7 +44928,7 @@ UWULogsData[6][2] = {
         ["points"] = 8043.622822183801,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10147,
+        ["rank_raids"] = 10149,
         ["dps_max"] = 15078.92,
         ["points"] = 7838.783878387839,
       },
@@ -44945,7 +44945,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5062,
         ["dps_max"] = 13855.31,
-        ["points"] = 8274.730426629161,
+        ["points"] = 8275.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -45005,7 +45005,7 @@ UWULogsData[6][2] = {
         ["points"] = 8642.106663120096,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7803,
+        ["rank_raids"] = 7805,
         ["dps_max"] = 15530.39,
         ["points"] = 8266.826682668267,
       },
@@ -45022,12 +45022,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1231,
         ["dps_max"] = 14900.63,
-        ["points"] = 9432.72386310361,
+        ["points"] = 9432.8125,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 1917,
+        ["rank_raids"] = 1918,
         ["dps_max"] = 12845.15,
-        ["points"] = 8984.2,
+        ["points"] = 8983.8,
       },
       ["Halion"] = {
         ["rank_raids"] = 10408,
@@ -45047,7 +45047,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Droprogue"] = {
-    ["percentile"] = 89.536,
+    ["percentile"] = 89.535,
     ["server"] = "Icecrown",
     ["overall_rank"] = 586,
     ["bosses"] = {
@@ -45082,9 +45082,9 @@ UWULogsData[6][2] = {
         ["points"] = 8648.756483574944,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4996,
+        ["rank_raids"] = 4997,
         ["dps_max"] = 16269.74,
-        ["points"] = 8795.879587958796,
+        ["points"] = 8794.879487948794,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 705,
@@ -45099,7 +45099,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1778,
         ["dps_max"] = 14663.21,
-        ["points"] = 9248.320050007813,
+        ["points"] = 9248.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1183,
@@ -45159,9 +45159,9 @@ UWULogsData[6][2] = {
         ["points"] = 8760.473467216385,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5002,
+        ["rank_raids"] = 5003,
         ["dps_max"] = 16266.19,
-        ["points"] = 8793.879387938794,
+        ["points"] = 8792.879287928794,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2179,
@@ -45176,7 +45176,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3191,
         ["dps_max"] = 14246.18,
-        ["points"] = 8817.002656665103,
+        ["points"] = 8817.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -45236,9 +45236,9 @@ UWULogsData[6][2] = {
         ["points"] = 9551.802101343264,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5016,
+        ["rank_raids"] = 5017,
         ["dps_max"] = 16264.03,
-        ["points"] = 8790.87908790879,
+        ["points"] = 8789.87898789879,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1463,
@@ -45253,7 +45253,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4098,
         ["dps_max"] = 14032.41,
-        ["points"] = 8562.2753555243,
+        ["points"] = 8562.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -45283,7 +45283,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 589,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9138,
+        ["rank_raids"] = 9139,
         ["dps_max"] = 18732.9,
         ["points"] = 7693.769376937694,
       },
@@ -45313,7 +45313,7 @@ UWULogsData[6][2] = {
         ["points"] = 9474.664184067029,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7853,
+        ["rank_raids"] = 7855,
         ["dps_max"] = 15520.25,
         ["points"] = 8260.82608260826,
       },
@@ -45330,7 +45330,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1818,
         ["dps_max"] = 14649.07,
-        ["points"] = 9231.129864041257,
+        ["points"] = 9231.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -45365,7 +45365,7 @@ UWULogsData[6][2] = {
         ["points"] = 9614.961496149615,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7259,
+        ["rank_raids"] = 7260,
         ["dps_max"] = 17226.62,
         ["points"] = 7711.298286378159,
       },
@@ -45375,9 +45375,9 @@ UWULogsData[6][2] = {
         ["points"] = 8986.898689868987,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 8364,
+        ["rank_raids"] = 8365,
         ["dps_max"] = 18607.54,
-        ["points"] = 8034.803480348035,
+        ["points"] = 8033.803380338034,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3099,
@@ -45407,7 +45407,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3178,
         ["dps_max"] = 14249.12,
-        ["points"] = 8818.565400843881,
+        ["points"] = 8818.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -45432,7 +45432,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Ozzalu"] = {
-    ["percentile"] = 89.498,
+    ["percentile"] = 89.497,
     ["server"] = "Icecrown",
     ["overall_rank"] = 591,
     ["bosses"] = {
@@ -45467,9 +45467,9 @@ UWULogsData[6][2] = {
         ["points"] = 8951.988296316,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5027,
+        ["rank_raids"] = 5028,
         ["dps_max"] = 16259.95,
-        ["points"] = 8785.878587858786,
+        ["points"] = 8784.878487848786,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3458,
@@ -45484,7 +45484,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 33,
         ["dps_max"] = 16796.48,
-        ["points"] = 9971.870604781998,
+        ["points"] = 9971.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -45519,7 +45519,7 @@ UWULogsData[6][2] = {
         ["points"] = 8919.89198919892,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7769,
+        ["rank_raids"] = 7770,
         ["dps_max"] = 17070.24,
         ["points"] = 7582.050537322102,
       },
@@ -45539,12 +45539,12 @@ UWULogsData[6][2] = {
         ["points"] = 9096.909690969098,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9790,
+        ["rank_raids"] = 9791,
         ["dps_max"] = 15600.08,
         ["points"] = 7483.707939885623,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7587,
+        ["rank_raids"] = 7589,
         ["dps_max"] = 15578.46,
         ["points"] = 8302.830283028303,
       },
@@ -45561,7 +45561,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 668,
         ["dps_max"] = 15259.8,
-        ["points"] = 9646.819815596187,
+        ["points"] = 9646.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -45591,7 +45591,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 593,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7980,
+        ["rank_raids"] = 7981,
         ["dps_max"] = 18935.74,
         ["points"] = 7914.791479147914,
       },
@@ -45611,7 +45611,7 @@ UWULogsData[6][2] = {
         ["points"] = 9606.960696069607,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 14768,
+        ["rank_raids"] = 14769,
         ["dps_max"] = 18991.76,
         ["points"] = 7923.124033168071,
       },
@@ -45638,7 +45638,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 243,
         ["dps_max"] = 15805.93,
-        ["points"] = 9845.288326300984,
+        ["points"] = 9845.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -45663,7 +45663,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Roughness"] = {
-    ["percentile"] = 89.404,
+    ["percentile"] = 89.403,
     ["server"] = "Icecrown",
     ["overall_rank"] = 594,
     ["bosses"] = {
@@ -45673,7 +45673,7 @@ UWULogsData[6][2] = {
         ["points"] = 9603.960396039603,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7160,
+        ["rank_raids"] = 7161,
         ["dps_max"] = 17255.39,
         ["points"] = 7731.6293929712465,
       },
@@ -45698,9 +45698,9 @@ UWULogsData[6][2] = {
         ["points"] = 7892.006915813274,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6330,
+        ["rank_raids"] = 6332,
         ["dps_max"] = 15882.44,
-        ["points"] = 8558.855885588559,
+        ["points"] = 8557.855785578558,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1017,
@@ -45715,7 +45715,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1993,
         ["dps_max"] = 14581.72,
-        ["points"] = 9167.057352711361,
+        ["points"] = 9167.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -45792,7 +45792,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3785,
         ["dps_max"] = 14106.53,
-        ["points"] = 8637.287076105642,
+        ["points"] = 8637.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1110,
@@ -45817,7 +45817,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Debelak"] = {
-    ["percentile"] = 89.363,
+    ["percentile"] = 89.364,
     ["server"] = "Icecrown",
     ["overall_rank"] = 596,
     ["bosses"] = {
@@ -45869,7 +45869,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9943,
         ["dps_max"] = 13086.32,
-        ["points"] = 7066.729176433818,
+        ["points"] = 7067.187499999999,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -45924,7 +45924,7 @@ UWULogsData[6][2] = {
         ["points"] = 8574.857485748575,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8934,
+        ["rank_raids"] = 8935,
         ["dps_max"] = 15791.31,
         ["points"] = 7661.923128075542,
       },
@@ -45946,7 +45946,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3803,
         ["dps_max"] = 14103.13,
-        ["points"] = 8635.724331926864,
+        ["points"] = 8635.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -46023,7 +46023,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4808,
         ["dps_max"] = 13902.82,
-        ["points"] = 8341.928426316612,
+        ["points"] = 8342.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -46048,7 +46048,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Shizushaonv"] = {
-    ["percentile"] = 89.327,
+    ["percentile"] = 89.326,
     ["server"] = "Icecrown",
     ["overall_rank"] = 599,
     ["bosses"] = {
@@ -46083,9 +46083,9 @@ UWULogsData[6][2] = {
         ["points"] = 7962.495012634659,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5677,
+        ["rank_raids"] = 5678,
         ["dps_max"] = 16052.19,
-        ["points"] = 8673.867386738673,
+        ["points"] = 8672.867286728673,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1027,
@@ -46100,7 +46100,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5456,
         ["dps_max"] = 13786.05,
-        ["points"] = 8190.342240975153,
+        ["points"] = 8190.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -46177,7 +46177,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2810,
         ["dps_max"] = 14347.2,
-        ["points"] = 8918.58102828567,
+        ["points"] = 8918.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 881,
@@ -46254,7 +46254,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4535,
         ["dps_max"] = 13953.09,
-        ["points"] = 8426.31661197062,
+        ["points"] = 8426.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -46331,7 +46331,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 602,
         ["dps_max"] = 15336.73,
-        ["points"] = 9667.1354899203,
+        ["points"] = 9667.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -46356,7 +46356,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Millianoski"] = {
-    ["percentile"] = 89.255,
+    ["percentile"] = 89.256,
     ["server"] = "Icecrown",
     ["overall_rank"] = 603,
     ["bosses"] = {
@@ -46408,7 +46408,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3567,
         ["dps_max"] = 14154.76,
-        ["points"] = 8696.671354899203,
+        ["points"] = 8696.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -46433,7 +46433,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Teadora"] = {
-    ["percentile"] = 89.245,
+    ["percentile"] = 89.244,
     ["server"] = "Icecrown",
     ["overall_rank"] = 604,
     ["bosses"] = {
@@ -46468,9 +46468,9 @@ UWULogsData[6][2] = {
         ["points"] = 7881.367203085517,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5347,
+        ["rank_raids"] = 5348,
         ["dps_max"] = 16149.99,
-        ["points"] = 8725.872587258726,
+        ["points"] = 8724.872487248726,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 7975,
@@ -46485,7 +46485,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3563,
         ["dps_max"] = 14155.67,
-        ["points"] = 8699.796843256758,
+        ["points"] = 8700.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -46562,7 +46562,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1130,
         ["dps_max"] = 14949.48,
-        ["points"] = 9474.917955930614,
+        ["points"] = 9475.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -46622,7 +46622,7 @@ UWULogsData[6][2] = {
         ["points"] = 9482.643968612847,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 9135,
+        ["rank_raids"] = 9137,
         ["dps_max"] = 15275.73,
         ["points"] = 8023.802380238024,
       },
@@ -46639,7 +46639,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 820,
         ["dps_max"] = 15125.41,
-        ["points"] = 9584.31004844507,
+        ["points"] = 9584.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -46716,12 +46716,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6599,
         ["dps_max"] = 13587.37,
-        ["points"] = 7896.546335364901,
+        ["points"] = 7896.875,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 4291,
+        ["rank_raids"] = 4292,
         ["dps_max"] = 10463.19,
-        ["points"] = 8263.7,
+        ["points"] = 8263.400000000001,
       },
       ["Halion"] = {
         ["rank_raids"] = 261,
@@ -46751,7 +46751,7 @@ UWULogsData[6][2] = {
         ["points"] = 9092.909290929094,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 10116,
+        ["rank_raids"] = 10117,
         ["dps_max"] = 16334.05,
         ["points"] = 6986.639558524542,
       },
@@ -46793,7 +46793,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4329,
         ["dps_max"] = 13988.93,
-        ["points"] = 8496.640100015627,
+        ["points"] = 8496.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -46870,7 +46870,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 365,
         ["dps_max"] = 15595.12,
-        ["points"] = 9774.964838255977,
+        ["points"] = 9775.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -46930,9 +46930,9 @@ UWULogsData[6][2] = {
         ["points"] = 7854.767921266126,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4669,
+        ["rank_raids"] = 4670,
         ["dps_max"] = 16361.56,
-        ["points"] = 8857.885788578858,
+        ["points"] = 8856.885688568856,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2959,
@@ -46947,7 +46947,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3328,
         ["dps_max"] = 14214.1,
-        ["points"] = 8765.432098765432,
+        ["points"] = 8765.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -46972,12 +46972,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Reisen"] = {
-    ["percentile"] = 89.184,
+    ["percentile"] = 89.183,
     ["server"] = "Icecrown",
     ["overall_rank"] = 611,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10003,
+        ["rank_raids"] = 10004,
         ["dps_max"] = 18591.92,
         ["points"] = 7548.754875487549,
       },
@@ -47007,9 +47007,9 @@ UWULogsData[6][2] = {
         ["points"] = 8318.925389014497,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5034,
+        ["rank_raids"] = 5035,
         ["dps_max"] = 16258.43,
-        ["points"] = 8783.878387838784,
+        ["points"] = 8782.878287828782,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1800,
@@ -47024,7 +47024,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 284,
         ["dps_max"] = 15715.84,
-        ["points"] = 9818.72167526176,
+        ["points"] = 9818.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -47101,7 +47101,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5955,
         ["dps_max"] = 13695.86,
-        ["points"] = 8065.322706672917,
+        ["points"] = 8065.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 101,
@@ -47126,7 +47126,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Totic"] = {
-    ["percentile"] = 89.171,
+    ["percentile"] = 89.17,
     ["server"] = "Icecrown",
     ["overall_rank"] = 613,
     ["bosses"] = {
@@ -47156,14 +47156,14 @@ UWULogsData[6][2] = {
         ["points"] = 9282.928292829283,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8746,
+        ["rank_raids"] = 8747,
         ["dps_max"] = 15835.06,
         ["points"] = 7696.50219444075,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5132,
+        ["rank_raids"] = 5133,
         ["dps_max"] = 16230.73,
-        ["points"] = 8762.876287628762,
+        ["points"] = 8761.876187618762,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2040,
@@ -47178,7 +47178,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2983,
         ["dps_max"] = 14298.97,
-        ["points"] = 8862.322237849663,
+        ["points"] = 8862.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -47213,7 +47213,7 @@ UWULogsData[6][2] = {
         ["points"] = 9577.957795779577,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 11785,
+        ["rank_raids"] = 11787,
         ["dps_max"] = 15885.86,
         ["points"] = 6550.972988672669,
       },
@@ -47255,7 +47255,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2222,
         ["dps_max"] = 14518.68,
-        ["points"] = 9104.547585560244,
+        ["points"] = 9104.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -47332,7 +47332,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1915,
         ["dps_max"] = 14609.63,
-        ["points"] = 9196.749492108142,
+        ["points"] = 9196.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -47357,7 +47357,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Wec"] = {
-    ["percentile"] = 89.107,
+    ["percentile"] = 89.106,
     ["server"] = "Icecrown",
     ["overall_rank"] = 616,
     ["bosses"] = {
@@ -47392,9 +47392,9 @@ UWULogsData[6][2] = {
         ["points"] = 8531.719643569624,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5596,
+        ["rank_raids"] = 5597,
         ["dps_max"] = 16074.76,
-        ["points"] = 8688.86888688869,
+        ["points"] = 8687.868786878687,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4827,
@@ -47409,7 +47409,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2588,
         ["dps_max"] = 14410.92,
-        ["points"] = 8995.15549304579,
+        ["points"] = 8995.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 225,
@@ -47486,7 +47486,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2593,
         ["dps_max"] = 14409.31,
-        ["points"] = 8993.592748867011,
+        ["points"] = 8993.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -47521,7 +47521,7 @@ UWULogsData[6][2] = {
         ["points"] = 9537.953795379537,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 9761,
+        ["rank_raids"] = 9762,
         ["dps_max"] = 16442.07,
         ["points"] = 7073.772872494917,
       },
@@ -47563,12 +47563,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3754,
         ["dps_max"] = 14111.58,
-        ["points"] = 8643.538052820753,
+        ["points"] = 8643.75,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 9995,
+        ["rank_raids"] = 9997,
         ["dps_max"] = 5745.14,
-        ["points"] = 6552.500000000001,
+        ["points"] = 6551.900000000001,
       },
       ["Halion"] = {
         ["rank_raids"] = 5392,
@@ -47640,7 +47640,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5216,
         ["dps_max"] = 13825.32,
-        ["points"] = 8235.661822159713,
+        ["points"] = 8235.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -47680,7 +47680,7 @@ UWULogsData[6][2] = {
         ["points"] = 9552.715654952077,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10100,
+        ["rank_raids"] = 10101,
         ["dps_max"] = 21194.35,
         ["points"] = 7942.545844828735,
       },
@@ -47717,7 +47717,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3017,
         ["dps_max"] = 14292.16,
-        ["points"] = 8857.63400531333,
+        ["points"] = 8857.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -47794,7 +47794,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2131,
         ["dps_max"] = 14541.98,
-        ["points"] = 9129.551492420691,
+        ["points"] = 9129.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -47819,7 +47819,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Fernande"] = {
-    ["percentile"] = 88.956,
+    ["percentile"] = 88.955,
     ["server"] = "Icecrown",
     ["overall_rank"] = 622,
     ["bosses"] = {
@@ -47839,9 +47839,9 @@ UWULogsData[6][2] = {
         ["points"] = 8997.899789978997,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7099,
+        ["rank_raids"] = 7100,
         ["dps_max"] = 18778.05,
-        ["points"] = 8231.823182318232,
+        ["points"] = 8230.82308230823,
       },
       ["Rotface"] = {
         ["rank_raids"] = 7811,
@@ -47871,7 +47871,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2395,
         ["dps_max"] = 14472.41,
-        ["points"] = 9049.851539303016,
+        ["points"] = 9050.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -47926,7 +47926,7 @@ UWULogsData[6][2] = {
         ["points"] = 9712.971297129714,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9433,
+        ["rank_raids"] = 9434,
         ["dps_max"] = 15674.38,
         ["points"] = 7547.546216252161,
       },
@@ -47948,7 +47948,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1581,
         ["dps_max"] = 14740.03,
-        ["points"] = 9315.518049695265,
+        ["points"] = 9315.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -48025,7 +48025,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1746,
         ["dps_max"] = 14678.19,
-        ["points"] = 9257.69651508048,
+        ["points"] = 9257.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 6,
@@ -48090,9 +48090,9 @@ UWULogsData[6][2] = {
         ["points"] = 9439.94399439944,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 27850,
+        ["rank_raids"] = 27852,
         ["dps_max"] = 15511.3,
-        ["points"] = 4766.0,
+        ["points"] = 4765.799999999999,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1936,
@@ -48102,7 +48102,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1425,
         ["dps_max"] = 14806.58,
-        ["points"] = 9357.712142522269,
+        ["points"] = 9357.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -48179,7 +48179,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5840,
         ["dps_max"] = 13718.03,
-        ["points"] = 8099.703078606032,
+        ["points"] = 8100.000000000001,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -48204,12 +48204,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Rogster"] = {
-    ["percentile"] = 88.903,
+    ["percentile"] = 88.902,
     ["server"] = "Icecrown",
     ["overall_rank"] = 627,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8372,
+        ["rank_raids"] = 8373,
         ["dps_max"] = 18864.18,
         ["points"] = 7836.783678367837,
       },
@@ -48239,9 +48239,9 @@ UWULogsData[6][2] = {
         ["points"] = 9889.612980449529,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6942,
+        ["rank_raids"] = 6944,
         ["dps_max"] = 15727.83,
-        ["points"] = 8445.844584458446,
+        ["points"] = 8444.844484448446,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 526,
@@ -48256,7 +48256,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2727,
         ["dps_max"] = 14367.75,
-        ["points"] = 8956.08688857634,
+        ["points"] = 8956.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -48316,7 +48316,7 @@ UWULogsData[6][2] = {
         ["points"] = 8689.985370395,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 8140,
+        ["rank_raids"] = 8142,
         ["dps_max"] = 15465.52,
         ["points"] = 8194.819481948194,
       },
@@ -48333,7 +48333,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7571,
         ["dps_max"] = 13431.48,
-        ["points"] = 7676.199406157212,
+        ["points"] = 7676.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -48368,7 +48368,7 @@ UWULogsData[6][2] = {
         ["points"] = 8732.873287328734,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 9466,
+        ["rank_raids"] = 9467,
         ["dps_max"] = 16531.33,
         ["points"] = 7149.288411269243,
       },
@@ -48410,7 +48410,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1238,
         ["dps_max"] = 14898.99,
-        ["points"] = 9429.598374746054,
+        ["points"] = 9429.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -48445,7 +48445,7 @@ UWULogsData[6][2] = {
         ["points"] = 8268.826882688269,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 9608,
+        ["rank_raids"] = 9609,
         ["dps_max"] = 16491.51,
         ["points"] = 7108.626198083067,
       },
@@ -48470,7 +48470,7 @@ UWULogsData[6][2] = {
         ["points"] = 9213.991222236999,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 8929,
+        ["rank_raids"] = 8931,
         ["dps_max"] = 15314.58,
         ["points"] = 8063.806380638063,
       },
@@ -48487,7 +48487,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2884,
         ["dps_max"] = 14326.2,
-        ["points"] = 8898.265353961557,
+        ["points"] = 8898.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -48542,7 +48542,7 @@ UWULogsData[6][2] = {
         ["points"] = 8886.888688868887,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 27041,
+        ["rank_raids"] = 27043,
         ["dps_max"] = 12794.03,
         ["points"] = 5443.1887123659735,
       },
@@ -48564,7 +48564,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 591,
         ["dps_max"] = 15347.0,
-        ["points"] = 9673.386466635411,
+        ["points"] = 9673.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -48599,7 +48599,7 @@ UWULogsData[6][2] = {
         ["points"] = 8671.867186718671,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7672,
+        ["rank_raids"] = 7673,
         ["dps_max"] = 17100.93,
         ["points"] = 7616.903862910252,
       },
@@ -48641,7 +48641,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1280,
         ["dps_max"] = 14876.72,
-        ["points"] = 9409.282700421942,
+        ["points"] = 9409.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -48718,7 +48718,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1174,
         ["dps_max"] = 14931.16,
-        ["points"] = 9457.727769964056,
+        ["points"] = 9457.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -48778,7 +48778,7 @@ UWULogsData[6][2] = {
         ["points"] = 9385.556589972071,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7932,
+        ["rank_raids"] = 7934,
         ["dps_max"] = 15502.98,
         ["points"] = 8235.823582358236,
       },
@@ -48795,7 +48795,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 473,
         ["dps_max"] = 15455.31,
-        ["points"] = 9721.831536177528,
+        ["points"] = 9721.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -48820,12 +48820,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Ultraenergy"] = {
-    ["percentile"] = 88.821,
+    ["percentile"] = 88.82,
     ["server"] = "Icecrown",
     ["overall_rank"] = 635,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7853,
+        ["rank_raids"] = 7854,
         ["dps_max"] = 18960.5,
         ["points"] = 7937.793779377937,
       },
@@ -48855,9 +48855,9 @@ UWULogsData[6][2] = {
         ["points"] = 9489.293789067695,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5006,
+        ["rank_raids"] = 5007,
         ["dps_max"] = 16265.37,
-        ["points"] = 8792.879287928794,
+        ["points"] = 8791.879187918792,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2173,
@@ -48872,7 +48872,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2715,
         ["dps_max"] = 14370.76,
-        ["points"] = 8960.775121112674,
+        ["points"] = 8960.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -48897,7 +48897,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Sethrion"] = {
-    ["percentile"] = 88.765,
+    ["percentile"] = 88.766,
     ["server"] = "Icecrown",
     ["overall_rank"] = 636,
     ["bosses"] = {
@@ -48949,7 +48949,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4193,
         ["dps_max"] = 14013.25,
-        ["points"] = 8535.708704485076,
+        ["points"] = 8535.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -48984,7 +48984,7 @@ UWULogsData[6][2] = {
         ["points"] = 9245.924592459245,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 11075,
+        ["rank_raids"] = 11077,
         ["dps_max"] = 16069.12,
         ["points"] = 6738.309613708975,
       },
@@ -49026,7 +49026,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1974,
         ["dps_max"] = 14586.94,
-        ["points"] = 9176.433817784029,
+        ["points"] = 9176.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -49103,7 +49103,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8635,
         ["dps_max"] = 13278.13,
-        ["points"] = 7396.468198155962,
+        ["points"] = 7396.875000000001,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -49163,7 +49163,7 @@ UWULogsData[6][2] = {
         ["points"] = 8914.749301768852,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7607,
+        ["rank_raids"] = 7609,
         ["dps_max"] = 15574.79,
         ["points"] = 8297.829782978297,
       },
@@ -49180,7 +49180,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3236,
         ["dps_max"] = 14235.43,
-        ["points"] = 8801.375214877326,
+        ["points"] = 8801.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -49257,7 +49257,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 973,
         ["dps_max"] = 15044.77,
-        ["points"] = 9523.36302547273,
+        ["points"] = 9523.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -49282,7 +49282,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Sunscape"] = {
-    ["percentile"] = 88.73,
+    ["percentile"] = 88.729,
     ["server"] = "Icecrown",
     ["overall_rank"] = 641,
     ["bosses"] = {
@@ -49297,9 +49297,9 @@ UWULogsData[6][2] = {
         ["points"] = 9737.14783618937,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8258,
+        ["rank_raids"] = 8259,
         ["dps_max"] = 21451.02,
-        ["points"] = 8218.821882188218,
+        ["points"] = 8217.821782178218,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3245,
@@ -49334,7 +49334,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4394,
         ["dps_max"] = 13977.32,
-        ["points"] = 8474.761681512737,
+        ["points"] = 8475.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -49411,7 +49411,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 398,
         ["dps_max"] = 15538.51,
-        ["points"] = 9757.774652289421,
+        ["points"] = 9757.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -49436,7 +49436,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Malkokote"] = {
-    ["percentile"] = 88.723,
+    ["percentile"] = 88.722,
     ["server"] = "Icecrown",
     ["overall_rank"] = 643,
     ["bosses"] = {
@@ -49471,9 +49471,9 @@ UWULogsData[6][2] = {
         ["points"] = 9087.644633594893,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6751,
+        ["rank_raids"] = 6753,
         ["dps_max"] = 15769.64,
-        ["points"] = 8482.848284828482,
+        ["points"] = 8481.848184818482,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 211,
@@ -49488,7 +49488,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5672,
         ["dps_max"] = 13744.13,
-        ["points"] = 8132.520706360368,
+        ["points"] = 8132.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -49543,7 +49543,7 @@ UWULogsData[6][2] = {
         ["points"] = 9334.933493349334,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9402,
+        ["rank_raids"] = 9403,
         ["dps_max"] = 15679.27,
         ["points"] = 7554.19603670701,
       },
@@ -49565,7 +49565,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5598,
         ["dps_max"] = 13759.26,
-        ["points"] = 8154.39912486326,
+        ["points"] = 8154.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -49625,9 +49625,9 @@ UWULogsData[6][2] = {
         ["points"] = 8615.507381300704,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5349,
+        ["rank_raids"] = 5350,
         ["dps_max"] = 16149.66,
-        ["points"] = 8724.872487248726,
+        ["points"] = 8723.872387238724,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1814,
@@ -49642,12 +49642,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2457,
         ["dps_max"] = 14449.47,
-        ["points"] = 9032.661353336458,
+        ["points"] = 9032.8125,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2910,
+        ["rank_raids"] = 2911,
         ["dps_max"] = 11768.92,
-        ["points"] = 8678.0,
+        ["points"] = 8677.7,
       },
       ["Halion"] = {
         ["rank_raids"] = 4556,
@@ -49702,9 +49702,9 @@ UWULogsData[6][2] = {
         ["points"] = 8724.564436760207,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5112,
+        ["rank_raids"] = 5113,
         ["dps_max"] = 16236.4,
-        ["points"] = 8768.87688768877,
+        ["points"] = 8767.876787678768,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1191,
@@ -49719,7 +49719,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8221,
         ["dps_max"] = 13337.05,
-        ["points"] = 7493.358337240194,
+        ["points"] = 7493.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -49796,7 +49796,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2669,
         ["dps_max"] = 14386.42,
-        ["points"] = 8974.839818721675,
+        ["points"] = 8975.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -49821,7 +49821,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Wut"] = {
-    ["percentile"] = 88.62,
+    ["percentile"] = 88.619,
     ["server"] = "Icecrown",
     ["overall_rank"] = 648,
     ["bosses"] = {
@@ -49856,9 +49856,9 @@ UWULogsData[6][2] = {
         ["points"] = 8563.638781752892,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5716,
+        ["rank_raids"] = 5717,
         ["dps_max"] = 16041.97,
-        ["points"] = 8663.866386638663,
+        ["points"] = 8662.866286628663,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2197,
@@ -49873,7 +49873,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1038,
         ["dps_max"] = 14997.31,
-        ["points"] = 9503.047351148616,
+        ["points"] = 9503.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 430,
@@ -49898,12 +49898,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Rompecvulos"] = {
-    ["percentile"] = 88.592,
+    ["percentile"] = 88.591,
     ["server"] = "Icecrown",
     ["overall_rank"] = 649,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9545,
+        ["rank_raids"] = 9546,
         ["dps_max"] = 18663.77,
         ["points"] = 7627.762776277628,
       },
@@ -49933,9 +49933,9 @@ UWULogsData[6][2] = {
         ["points"] = 9573.081526798776,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5017,
+        ["rank_raids"] = 5018,
         ["dps_max"] = 16263.61,
-        ["points"] = 8789.87898789879,
+        ["points"] = 8788.87888788879,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1190,
@@ -49950,7 +49950,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2537,
         ["dps_max"] = 14425.99,
-        ["points"] = 9009.220190654789,
+        ["points"] = 9009.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -49975,7 +49975,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Kromaladroit"] = {
-    ["percentile"] = 88.579,
+    ["percentile"] = 88.578,
     ["server"] = "Icecrown",
     ["overall_rank"] = 650,
     ["bosses"] = {
@@ -49985,7 +49985,7 @@ UWULogsData[6][2] = {
         ["points"] = 9695.969596959696,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7461,
+        ["rank_raids"] = 7462,
         ["dps_max"] = 17166.76,
         ["points"] = 7659.0182979959345,
       },
@@ -50010,9 +50010,9 @@ UWULogsData[6][2] = {
         ["points"] = 9057.055459502593,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5634,
+        ["rank_raids"] = 5635,
         ["dps_max"] = 16062.34,
-        ["points"] = 8683.868386838683,
+        ["points"] = 8682.868286828683,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1623,
@@ -50027,7 +50027,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6064,
         ["dps_max"] = 13677.97,
-        ["points"] = 8035.630567276137,
+        ["points"] = 8035.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -50104,7 +50104,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3036,
         ["dps_max"] = 14287.71,
-        ["points"] = 8852.945772776997,
+        ["points"] = 8853.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -50129,7 +50129,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Tonystrike"] = {
-    ["percentile"] = 88.567,
+    ["percentile"] = 88.566,
     ["server"] = "Icecrown",
     ["overall_rank"] = 652,
     ["bosses"] = {
@@ -50164,9 +50164,9 @@ UWULogsData[6][2] = {
         ["points"] = 9611.650485436894,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5148,
+        ["rank_raids"] = 5149,
         ["dps_max"] = 16225.5,
-        ["points"] = 8758.875887588758,
+        ["points"] = 8757.875787578758,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 620,
@@ -50181,7 +50181,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3729,
         ["dps_max"] = 14116.29,
-        ["points"] = 8651.351773714643,
+        ["points"] = 8651.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -50206,7 +50206,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Jackalqt"] = {
-    ["percentile"] = 88.55,
+    ["percentile"] = 88.551,
     ["server"] = "Icecrown",
     ["overall_rank"] = 653,
     ["bosses"] = {
@@ -50258,7 +50258,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2401,
         ["dps_max"] = 14468.27,
-        ["points"] = 9045.163306766683,
+        ["points"] = 9045.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -50283,7 +50283,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Micol"] = {
-    ["percentile"] = 88.538,
+    ["percentile"] = 88.537,
     ["server"] = "Icecrown",
     ["overall_rank"] = 654,
     ["bosses"] = {
@@ -50318,9 +50318,9 @@ UWULogsData[6][2] = {
         ["points"] = 8727.224364942147,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4745,
+        ["rank_raids"] = 4746,
         ["dps_max"] = 16333.16,
-        ["points"] = 8843.884388438844,
+        ["points"] = 8842.884288428842,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5876,
@@ -50335,7 +50335,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9137,
         ["dps_max"] = 13202.7,
-        ["points"] = 7268.323175496171,
+        ["points"] = 7268.750000000001,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 659,
@@ -50375,7 +50375,7 @@ UWULogsData[6][2] = {
         ["points"] = 9241.94016845774,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 12486,
+        ["rank_raids"] = 12487,
         ["dps_max"] = 20897.29,
         ["points"] = 7831.2231258652,
       },
@@ -50395,9 +50395,9 @@ UWULogsData[6][2] = {
         ["points"] = 9082.324777231015,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5475,
+        ["rank_raids"] = 5476,
         ["dps_max"] = 16108.63,
-        ["points"] = 8706.870687068707,
+        ["points"] = 8705.870587058705,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1495,
@@ -50412,7 +50412,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6200,
         ["dps_max"] = 13654.55,
-        ["points"] = 7999.6874511642445,
+        ["points"] = 8000.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -50437,7 +50437,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Stealthfish"] = {
-    ["percentile"] = 88.516,
+    ["percentile"] = 88.517,
     ["server"] = "Icecrown",
     ["overall_rank"] = 656,
     ["bosses"] = {
@@ -50489,7 +50489,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4671,
         ["dps_max"] = 13926.44,
-        ["points"] = 8388.81075167995,
+        ["points"] = 8389.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -50514,7 +50514,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Dreamteh"] = {
-    ["percentile"] = 88.516,
+    ["percentile"] = 88.515,
     ["server"] = "Icecrown",
     ["overall_rank"] = 657,
     ["bosses"] = {
@@ -50549,9 +50549,9 @@ UWULogsData[6][2] = {
         ["points"] = 8364.144168107461,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7178,
+        ["rank_raids"] = 7180,
         ["dps_max"] = 15670.37,
-        ["points"] = 8397.839783978397,
+        ["points"] = 8396.839683968397,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3784,
@@ -50566,7 +50566,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2236,
         ["dps_max"] = 14514.99,
-        ["points"] = 9099.85935302391,
+        ["points"] = 9100.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -50621,12 +50621,12 @@ UWULogsData[6][2] = {
         ["points"] = 8919.89198919892,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 12158,
+        ["rank_raids"] = 12159,
         ["dps_max"] = 15106.05,
         ["points"] = 6931.772842133262,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 8294,
+        ["rank_raids"] = 8296,
         ["dps_max"] = 15437.58,
         ["points"] = 8170.81708170817,
       },
@@ -50643,7 +50643,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2414,
         ["dps_max"] = 14462.88,
-        ["points"] = 9042.037818409126,
+        ["points"] = 9042.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 51,
@@ -50720,7 +50720,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7783,
         ["dps_max"] = 13402.06,
-        ["points"] = 7619.940615721207,
+        ["points"] = 7620.312500000001,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 156,
@@ -50745,7 +50745,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Rajputkhan"] = {
-    ["percentile"] = 88.482,
+    ["percentile"] = 88.483,
     ["server"] = "Icecrown",
     ["overall_rank"] = 660,
     ["bosses"] = {
@@ -50760,7 +50760,7 @@ UWULogsData[6][2] = {
         ["points"] = 9487.365669474295,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 11333,
+        ["rank_raids"] = 11334,
         ["dps_max"] = 21034.89,
         ["points"] = 7882.788486833968,
       },
@@ -50797,12 +50797,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6518,
         ["dps_max"] = 13600.46,
-        ["points"] = 7923.112986404126,
+        ["points"] = 7923.4375,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 4068,
+        ["rank_raids"] = 4069,
         ["dps_max"] = 10641.89,
-        ["points"] = 8330.6,
+        ["points"] = 8330.300000000001,
       },
       ["Halion"] = {
         ["rank_raids"] = 624,
@@ -50822,7 +50822,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Wompa"] = {
-    ["percentile"] = 88.474,
+    ["percentile"] = 88.473,
     ["server"] = "Icecrown",
     ["overall_rank"] = 661,
     ["bosses"] = {
@@ -50832,7 +50832,7 @@ UWULogsData[6][2] = {
         ["points"] = 8876.887688768877,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 9578,
+        ["rank_raids"] = 9579,
         ["dps_max"] = 16499.85,
         ["points"] = 7117.339529480105,
       },
@@ -50857,9 +50857,9 @@ UWULogsData[6][2] = {
         ["points"] = 8809.682138582259,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5402,
+        ["rank_raids"] = 5403,
         ["dps_max"] = 16130.96,
-        ["points"] = 8717.871787178718,
+        ["points"] = 8716.871687168717,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3146,
@@ -50874,7 +50874,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 960,
         ["dps_max"] = 15055.37,
-        ["points"] = 9528.051258009064,
+        ["points"] = 9528.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 25,
@@ -50904,7 +50904,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 662,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7748,
+        ["rank_raids"] = 7749,
         ["dps_max"] = 18979.54,
         ["points"] = 7959.7959795979605,
       },
@@ -50951,7 +50951,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2444,
         ["dps_max"] = 14452.82,
-        ["points"] = 9035.786841694015,
+        ["points"] = 9035.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -51028,7 +51028,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6678,
         ["dps_max"] = 13575.69,
-        ["points"] = 7879.356149398343,
+        ["points"] = 7879.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -51058,7 +51058,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 664,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9513,
+        ["rank_raids"] = 9514,
         ["dps_max"] = 18669.7,
         ["points"] = 7633.763376337633,
       },
@@ -51105,7 +51105,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1706,
         ["dps_max"] = 14692.63,
-        ["points"] = 9274.886701047039,
+        ["points"] = 9275.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -51182,7 +51182,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3217,
         ["dps_max"] = 14240.32,
-        ["points"] = 8809.188935771213,
+        ["points"] = 8809.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1160,
@@ -51217,7 +51217,7 @@ UWULogsData[6][2] = {
         ["points"] = 8851.885188518852,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7687,
+        ["rank_raids"] = 7688,
         ["dps_max"] = 17095.25,
         ["points"] = 7611.094975312228,
       },
@@ -51259,7 +51259,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2172,
         ["dps_max"] = 14529.81,
-        ["points"] = 9117.049538990466,
+        ["points"] = 9117.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -51336,7 +51336,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2085,
         ["dps_max"] = 14557.24,
-        ["points"] = 9140.490701672135,
+        ["points"] = 9140.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -51371,7 +51371,7 @@ UWULogsData[6][2] = {
         ["points"] = 9414.941494149414,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 12396,
+        ["rank_raids"] = 12398,
         ["dps_max"] = 15729.5,
         ["points"] = 6397.037467325007,
       },
@@ -51413,7 +51413,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 140,
         ["dps_max"] = 16073.32,
-        ["points"] = 9907.798093452102,
+        ["points"] = 9907.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -51490,7 +51490,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3486,
         ["dps_max"] = 14172.35,
-        ["points"] = 8712.298796686982,
+        ["points"] = 8712.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -51525,7 +51525,7 @@ UWULogsData[6][2] = {
         ["points"] = 9825.982598259827,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 19675,
+        ["rank_raids"] = 19677,
         ["dps_max"] = 13911.83,
         ["points"] = 5586.719091657125,
       },
@@ -51567,7 +51567,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5559,
         ["dps_max"] = 13767.28,
-        ["points"] = 8170.0265666510395,
+        ["points"] = 8170.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 38,
@@ -51627,9 +51627,9 @@ UWULogsData[6][2] = {
         ["points"] = 8267.056789466684,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4490,
+        ["rank_raids"] = 4491,
         ["dps_max"] = 16424.26,
-        ["points"] = 8896.889688968897,
+        ["points"] = 8895.889588958897,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 961,
@@ -51644,12 +51644,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2518,
         ["dps_max"] = 14432.08,
-        ["points"] = 9012.345679012345,
+        ["points"] = 9012.5,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2287,
+        ["rank_raids"] = 2288,
         ["dps_max"] = 12429.24,
-        ["points"] = 8864.9,
+        ["points"] = 8864.6,
       },
       ["Halion"] = {
         ["rank_raids"] = 5401,
@@ -51669,7 +51669,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Qiyanna"] = {
-    ["percentile"] = 88.323,
+    ["percentile"] = 88.322,
     ["server"] = "Icecrown",
     ["overall_rank"] = 672,
     ["bosses"] = {
@@ -51679,7 +51679,7 @@ UWULogsData[6][2] = {
         ["points"] = 9473.947394739474,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 9900,
+        ["rank_raids"] = 9901,
         ["dps_max"] = 16399.65,
         ["points"] = 7040.371768806274,
       },
@@ -51704,9 +51704,9 @@ UWULogsData[6][2] = {
         ["points"] = 9392.20641042692,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5899,
+        ["rank_raids"] = 5901,
         ["dps_max"] = 15991.19,
-        ["points"] = 8627.862786278629,
+        ["points"] = 8626.862686268627,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3871,
@@ -51721,7 +51721,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7757,
         ["dps_max"] = 13407.31,
-        ["points"] = 7627.754336615096,
+        ["points"] = 7628.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -51751,7 +51751,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 673,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7824,
+        ["rank_raids"] = 7825,
         ["dps_max"] = 18965.32,
         ["points"] = 7941.794179417941,
       },
@@ -51798,7 +51798,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1889,
         ["dps_max"] = 14618.78,
-        ["points"] = 9207.688701359588,
+        ["points"] = 9207.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -51833,7 +51833,7 @@ UWULogsData[6][2] = {
         ["points"] = 8358.83588358836,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 8023,
+        ["rank_raids"] = 8024,
         ["dps_max"] = 16985.42,
         ["points"] = 7510.891664246296,
       },
@@ -51853,7 +51853,7 @@ UWULogsData[6][2] = {
         ["points"] = 9770.97709770977,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 11707,
+        ["rank_raids"] = 11708,
         ["dps_max"] = 15192.26,
         ["points"] = 7031.520148955979,
       },
@@ -51875,7 +51875,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1713,
         ["dps_max"] = 14690.47,
-        ["points"] = 9273.32395686826,
+        ["points"] = 9273.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -51952,7 +51952,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1021,
         ["dps_max"] = 15010.51,
-        ["points"] = 9509.29832786373,
+        ["points"] = 9509.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -51987,7 +51987,7 @@ UWULogsData[6][2] = {
         ["points"] = 9189.91899189919,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 8082,
+        ["rank_raids"] = 8083,
         ["dps_max"] = 16969.88,
         ["points"] = 7487.6561138541965,
       },
@@ -52012,9 +52012,9 @@ UWULogsData[6][2] = {
         ["points"] = 9432.105333156005,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5201,
+        ["rank_raids"] = 5202,
         ["dps_max"] = 16205.25,
-        ["points"] = 8751.875187518752,
+        ["points"] = 8750.87508750875,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 844,
@@ -52029,7 +52029,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3805,
         ["dps_max"] = 14102.56,
-        ["points"] = 8632.598843569307,
+        ["points"] = 8632.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -52054,7 +52054,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Find"] = {
-    ["percentile"] = 88.276,
+    ["percentile"] = 88.274,
     ["server"] = "Icecrown",
     ["overall_rank"] = 677,
     ["bosses"] = {
@@ -52074,9 +52074,9 @@ UWULogsData[6][2] = {
         ["points"] = 9703.970397039704,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 10615,
+        ["rank_raids"] = 10616,
         ["dps_max"] = 18351.53,
-        ["points"] = 7672.767276727673,
+        ["points"] = 7671.767176717672,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2523,
@@ -52089,9 +52089,9 @@ UWULogsData[6][2] = {
         ["points"] = 8417.342731746243,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4637,
+        ["rank_raids"] = 4638,
         ["dps_max"] = 16373.66,
-        ["points"] = 8864.886488648865,
+        ["points"] = 8863.886388638864,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2962,
@@ -52106,12 +52106,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6484,
         ["dps_max"] = 13606.23,
-        ["points"] = 7930.926707298015,
+        ["points"] = 7931.25,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2439,
+        ["rank_raids"] = 2440,
         ["dps_max"] = 12269.44,
-        ["points"] = 8819.300000000001,
+        ["points"] = 8819.0,
       },
       ["Halion"] = {
         ["rank_raids"] = 2200,
@@ -52136,7 +52136,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 678,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8506,
+        ["rank_raids"] = 8507,
         ["dps_max"] = 18842.01,
         ["points"] = 7806.7806780678075,
       },
@@ -52166,7 +52166,7 @@ UWULogsData[6][2] = {
         ["points"] = 9461.364543157335,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 9417,
+        ["rank_raids"] = 9419,
         ["dps_max"] = 15218.48,
         ["points"] = 7966.796679667967,
       },
@@ -52183,7 +52183,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3760,
         ["dps_max"] = 14109.72,
-        ["points"] = 8641.975308641975,
+        ["points"] = 8642.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -52208,7 +52208,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Qftence"] = {
-    ["percentile"] = 88.227,
+    ["percentile"] = 88.226,
     ["server"] = "Icecrown",
     ["overall_rank"] = 679,
     ["bosses"] = {
@@ -52223,7 +52223,7 @@ UWULogsData[6][2] = {
         ["points"] = 9134.47574789428,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 11993,
+        ["rank_raids"] = 11994,
         ["dps_max"] = 20957.01,
         ["points"] = 7853.603092122865,
       },
@@ -52243,9 +52243,9 @@ UWULogsData[6][2] = {
         ["points"] = 8550.339140843198,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4577,
+        ["rank_raids"] = 4578,
         ["dps_max"] = 16394.16,
-        ["points"] = 8878.887888788879,
+        ["points"] = 8877.887788778879,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4178,
@@ -52260,7 +52260,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1790,
         ["dps_max"] = 14659.43,
-        ["points"] = 9245.194561650258,
+        ["points"] = 9245.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -52315,7 +52315,7 @@ UWULogsData[6][2] = {
         ["points"] = 8864.886488648865,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9955,
+        ["rank_raids"] = 9956,
         ["dps_max"] = 15565.42,
         ["points"] = 7442.479053065567,
       },
@@ -52340,9 +52340,9 @@ UWULogsData[6][2] = {
         ["points"] = 6786.62575525405,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 6575,
+        ["rank_raids"] = 6576,
         ["dps_max"] = 8663.84,
-        ["points"] = 7578.5,
+        ["points"] = 7578.200000000001,
       },
       ["Halion"] = {
         ["rank_raids"] = 8552,
@@ -52367,7 +52367,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 681,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10752,
+        ["rank_raids"] = 10753,
         ["dps_max"] = 18473.29,
         ["points"] = 7423.742374237424,
       },
@@ -52414,7 +52414,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 411,
         ["dps_max"] = 15520.07,
-        ["points"] = 9748.398187216753,
+        ["points"] = 9748.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -52439,7 +52439,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Mafalda"] = {
-    ["percentile"] = 88.207,
+    ["percentile"] = 88.206,
     ["server"] = "Icecrown",
     ["overall_rank"] = 682,
     ["bosses"] = {
@@ -52459,9 +52459,9 @@ UWULogsData[6][2] = {
         ["points"] = 9492.949294929493,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 9629,
+        ["rank_raids"] = 9630,
         ["dps_max"] = 18457.4,
-        ["points"] = 7815.781578157816,
+        ["points"] = 7814.7814781478155,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3769,
@@ -52491,7 +52491,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5069,
         ["dps_max"] = 13853.5,
-        ["points"] = 8270.042194092826,
+        ["points"] = 8270.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -52568,7 +52568,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 878,
         ["dps_max"] = 15091.81,
-        ["points"] = 9556.180653227066,
+        ["points"] = 9556.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -52598,7 +52598,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 684,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9223,
+        ["rank_raids"] = 9224,
         ["dps_max"] = 18719.38,
         ["points"] = 7676.767676767677,
       },
@@ -52608,7 +52608,7 @@ UWULogsData[6][2] = {
         ["points"] = 8154.225965727563,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 14563,
+        ["rank_raids"] = 14564,
         ["dps_max"] = 20662.64,
         ["points"] = 7743.288445986408,
       },
@@ -52645,7 +52645,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1401,
         ["dps_max"] = 14811.44,
-        ["points"] = 9363.96311923738,
+        ["points"] = 9364.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -52669,87 +52669,10 @@ UWULogsData[6][2] = {
       },
     },
   },
-  ["Rgu"] = {
+  ["Mma"] = {
     ["percentile"] = 88.17,
     ["server"] = "Icecrown",
     ["overall_rank"] = 685,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 1839,
-        ["dps_max"] = 20923.09,
-        ["points"] = 9390.93909390939,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 4380,
-        ["dps_max"] = 18235.86,
-        ["points"] = 8435.957014231773,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5458,
-        ["dps_max"] = 21912.15,
-        ["points"] = 8683.868386838683,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 5859,
-        ["dps_max"] = 18952.89,
-        ["points"] = 8475.847584758476,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 2478,
-        ["dps_max"] = 20824.26,
-        ["points"] = 9225.922592259225,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 2536,
-        ["dps_max"] = 18027.14,
-        ["points"] = 9244.5803963293,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 4969,
-        ["dps_max"] = 16276.09,
-        ["points"] = 8801.880188018802,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4303,
-        ["dps_max"] = 21022.06,
-        ["points"] = 8260.1,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 1123,
-        ["dps_max"] = 15225.8,
-        ["points"] = 9494.034785108524,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 5791,
-        ["dps_max"] = 13724.94,
-        ["points"] = 8109.0795436787,
-      },
-      ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Halion"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Anub'arak"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Valithria Dreamwalker"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-    },
-  },
-  ["Mma"] = {
-    ["percentile"] = 88.169,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 686,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3145,
@@ -52799,7 +52722,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5724,
         ["dps_max"] = 13733.66,
-        ["points"] = 8124.706985466479,
+        ["points"] = 8125.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 171,
@@ -52823,8 +52746,85 @@ UWULogsData[6][2] = {
       },
     },
   },
+  ["Rgu"] = {
+    ["percentile"] = 88.169,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 686,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 1839,
+        ["dps_max"] = 20923.09,
+        ["points"] = 9390.93909390939,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 4380,
+        ["dps_max"] = 18235.86,
+        ["points"] = 8435.957014231773,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 5458,
+        ["dps_max"] = 21912.15,
+        ["points"] = 8683.868386838683,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 5859,
+        ["dps_max"] = 18952.89,
+        ["points"] = 8475.847584758476,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 2478,
+        ["dps_max"] = 20824.26,
+        ["points"] = 9225.922592259225,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 2536,
+        ["dps_max"] = 18027.14,
+        ["points"] = 9244.5803963293,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 4970,
+        ["dps_max"] = 16276.09,
+        ["points"] = 8800.880088008802,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 4303,
+        ["dps_max"] = 21022.06,
+        ["points"] = 8260.1,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 1123,
+        ["dps_max"] = 15225.8,
+        ["points"] = 9494.034785108524,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 5791,
+        ["dps_max"] = 13724.94,
+        ["points"] = 8109.375,
+      },
+      ["Toravon the Ice Watcher"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Halion"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Anub'arak"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Valithria Dreamwalker"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+    },
+  },
   ["Rogagoodx"] = {
-    ["percentile"] = 88.14,
+    ["percentile"] = 88.139,
     ["server"] = "Icecrown",
     ["overall_rank"] = 687,
     ["bosses"] = {
@@ -52859,9 +52859,9 @@ UWULogsData[6][2] = {
         ["points"] = 8896.129804495278,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5251,
+        ["rank_raids"] = 5252,
         ["dps_max"] = 16186.44,
-        ["points"] = 8742.874287428742,
+        ["points"] = 8741.874187418742,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 463,
@@ -52876,7 +52876,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3056,
         ["dps_max"] = 14282.87,
-        ["points"] = 8849.82028441944,
+        ["points"] = 8850.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -52901,7 +52901,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Beigmog"] = {
-    ["percentile"] = 88.127,
+    ["percentile"] = 88.126,
     ["server"] = "Icecrown",
     ["overall_rank"] = 688,
     ["bosses"] = {
@@ -52916,7 +52916,7 @@ UWULogsData[6][2] = {
         ["points"] = 9718.26895149579,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10268,
+        ["rank_raids"] = 10269,
         ["dps_max"] = 21173.19,
         ["points"] = 7934.616171586736,
       },
@@ -52936,9 +52936,9 @@ UWULogsData[6][2] = {
         ["points"] = 8944.008511770182,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4392,
+        ["rank_raids"] = 4393,
         ["dps_max"] = 16451.6,
-        ["points"] = 8909.890989098909,
+        ["points"] = 8908.890889088909,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4808,
@@ -52953,7 +52953,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3564,
         ["dps_max"] = 14155.64,
-        ["points"] = 8698.234099077981,
+        ["points"] = 8698.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -52978,7 +52978,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Joselynn"] = {
-    ["percentile"] = 88.127,
+    ["percentile"] = 88.126,
     ["server"] = "Icecrown",
     ["overall_rank"] = 689,
     ["bosses"] = {
@@ -52993,7 +52993,7 @@ UWULogsData[6][2] = {
         ["points"] = 9648.562300319489,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 15838,
+        ["rank_raids"] = 15840,
         ["dps_max"] = 20523.24,
         ["points"] = 7691.048538144501,
       },
@@ -53013,9 +53013,9 @@ UWULogsData[6][2] = {
         ["points"] = 9647.55951589307,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4532,
+        ["rank_raids"] = 4533,
         ["dps_max"] = 16413.68,
-        ["points"] = 8884.888488848885,
+        ["points"] = 8883.888388838885,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1447,
@@ -53030,7 +53030,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5585,
         ["dps_max"] = 13761.97,
-        ["points"] = 8160.6501015783715,
+        ["points"] = 8160.937499999999,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 520,
@@ -53070,7 +53070,7 @@ UWULogsData[6][2] = {
         ["points"] = 9549.811211153065,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 12812,
+        ["rank_raids"] = 12813,
         ["dps_max"] = 20859.49,
         ["points"] = 7817.057641529303,
       },
@@ -53107,12 +53107,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5958,
         ["dps_max"] = 13695.39,
-        ["points"] = 8063.7599624941395,
+        ["points"] = 8064.0625,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2008,
+        ["rank_raids"] = 2009,
         ["dps_max"] = 12728.86,
-        ["points"] = 8948.6,
+        ["points"] = 8948.3,
       },
       ["Halion"] = {
         ["rank_raids"] = 8005,
@@ -53137,7 +53137,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 691,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 11791,
+        ["rank_raids"] = 11792,
         ["dps_max"] = 18316.41,
         ["points"] = 7237.723772377238,
       },
@@ -53167,9 +53167,9 @@ UWULogsData[6][2] = {
         ["points"] = 8674.025801303364,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4972,
+        ["rank_raids"] = 4973,
         ["dps_max"] = 16275.11,
-        ["points"] = 8800.880088008802,
+        ["points"] = 8799.8799879988,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1023,
@@ -53184,7 +53184,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2831,
         ["dps_max"] = 14341.13,
-        ["points"] = 8909.204563213003,
+        ["points"] = 8909.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -53261,7 +53261,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2249,
         ["dps_max"] = 14511.88,
-        ["points"] = 9093.608376308799,
+        ["points"] = 9093.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -53316,7 +53316,7 @@ UWULogsData[6][2] = {
         ["points"] = 9291.929192919291,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9575,
+        ["rank_raids"] = 9576,
         ["dps_max"] = 15647.93,
         ["points"] = 7527.596754887618,
       },
@@ -53338,7 +53338,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2857,
         ["dps_max"] = 14335.59,
-        ["points"] = 8904.516330676668,
+        ["points"] = 8904.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -53398,9 +53398,9 @@ UWULogsData[6][2] = {
         ["points"] = 8781.752892671899,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4920,
+        ["rank_raids"] = 4921,
         ["dps_max"] = 16285.64,
-        ["points"] = 8808.88088808881,
+        ["points"] = 8807.880788078808,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2068,
@@ -53415,7 +53415,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3950,
         ["dps_max"] = 14063.68,
-        ["points"] = 8590.404750742304,
+        ["points"] = 8590.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -53492,7 +53492,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1634,
         ["dps_max"] = 14720.31,
-        ["points"] = 9298.327863728708,
+        ["points"] = 9298.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -53517,7 +53517,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Pewrogue"] = {
-    ["percentile"] = 88.034,
+    ["percentile"] = 88.035,
     ["server"] = "Icecrown",
     ["overall_rank"] = 696,
     ["bosses"] = {
@@ -53569,7 +53569,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4320,
         ["dps_max"] = 13990.79,
-        ["points"] = 8501.328332551962,
+        ["points"] = 8501.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -53594,7 +53594,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Surprise"] = {
-    ["percentile"] = 87.997,
+    ["percentile"] = 87.996,
     ["server"] = "Icecrown",
     ["overall_rank"] = 697,
     ["bosses"] = {
@@ -53629,9 +53629,9 @@ UWULogsData[6][2] = {
         ["points"] = 9406.836015427583,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7193,
+        ["rank_raids"] = 7195,
         ["dps_max"] = 15665.55,
-        ["points"] = 8393.839383938393,
+        ["points"] = 8392.839283928393,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1678,
@@ -53646,7 +53646,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9893,
         ["dps_max"] = 13092.38,
-        ["points"] = 7077.668385685263,
+        ["points"] = 7078.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -53671,7 +53671,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Svetidiler"] = {
-    ["percentile"] = 87.994,
+    ["percentile"] = 87.995,
     ["server"] = "Icecrown",
     ["overall_rank"] = 698,
     ["bosses"] = {
@@ -53701,7 +53701,7 @@ UWULogsData[6][2] = {
         ["points"] = 9725.972597259726,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9467,
+        ["rank_raids"] = 9468,
         ["dps_max"] = 15668.51,
         ["points"] = 7542.226359888284,
       },
@@ -53723,7 +53723,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3298,
         ["dps_max"] = 14219.97,
-        ["points"] = 8781.059540553211,
+        ["points"] = 8781.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -53748,7 +53748,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Jaballoni"] = {
-    ["percentile"] = 87.992,
+    ["percentile"] = 87.993,
     ["server"] = "Icecrown",
     ["overall_rank"] = 699,
     ["bosses"] = {
@@ -53800,7 +53800,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7832,
         ["dps_max"] = 13393.78,
-        ["points"] = 7609.001406469761,
+        ["points"] = 7609.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -53877,7 +53877,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1349,
         ["dps_max"] = 14840.39,
-        ["points"] = 9382.716049382716,
+        ["points"] = 9382.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -53952,7 +53952,7 @@ UWULogsData[6][2] = {
         ["points"] = 7028.8917636912465,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 15857,
+        ["rank_raids"] = 15858,
         ["dps_max"] = 12311.39,
         ["points"] = 6511.933582603093,
       },
@@ -53989,7 +53989,7 @@ UWULogsData[6][2] = {
         ["points"] = 9721.972197219722,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 11548,
+        ["rank_raids"] = 11550,
         ["dps_max"] = 15948.43,
         ["points"] = 6601.800755155388,
       },
@@ -54004,7 +54004,7 @@ UWULogsData[6][2] = {
         ["points"] = 9885.988598859885,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 18170,
+        ["rank_raids"] = 18171,
         ["dps_max"] = 18648.78,
         ["points"] = 7780.037079621059,
       },
@@ -54031,7 +54031,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6067,
         ["dps_max"] = 13677.25,
-        ["points"] = 8032.505078918582,
+        ["points"] = 8032.812499999999,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -54091,9 +54091,9 @@ UWULogsData[6][2] = {
         ["points"] = 8062.242319457375,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6195,
+        ["rank_raids"] = 6197,
         ["dps_max"] = 15917.82,
-        ["points"] = 8580.85808580858,
+        ["points"] = 8579.85798579858,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1569,
@@ -54108,7 +54108,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7529,
         ["dps_max"] = 13436.85,
-        ["points"] = 7690.264103766213,
+        ["points"] = 7690.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 117,
@@ -54138,7 +54138,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 704,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8881,
+        ["rank_raids"] = 8882,
         ["dps_max"] = 18778.33,
         ["points"] = 7742.774277427743,
       },
@@ -54185,7 +54185,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 861,
         ["dps_max"] = 15102.02,
-        ["points"] = 9565.557118299734,
+        ["points"] = 9565.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -54220,7 +54220,7 @@ UWULogsData[6][2] = {
         ["points"] = 9476.947694769477,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 11163,
+        ["rank_raids"] = 11165,
         ["dps_max"] = 16045.76,
         ["points"] = 6713.621841417369,
       },
@@ -54262,7 +54262,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8841,
         ["dps_max"] = 13247.62,
-        ["points"] = 7329.270198468511,
+        ["points"] = 7329.687499999999,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -54287,7 +54287,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Combolirious"] = {
-    ["percentile"] = 87.927,
+    ["percentile"] = 87.926,
     ["server"] = "Icecrown",
     ["overall_rank"] = 706,
     ["bosses"] = {
@@ -54322,9 +54322,9 @@ UWULogsData[6][2] = {
         ["points"] = 9225.960899055724,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5695,
+        ["rank_raids"] = 5696,
         ["dps_max"] = 16046.03,
-        ["points"] = 8670.867086708671,
+        ["points"] = 8669.86698669867,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4036,
@@ -54339,7 +54339,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9752,
         ["dps_max"] = 13112.36,
-        ["points"] = 7102.67229254571,
+        ["points"] = 7103.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -54416,7 +54416,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8888,
         ["dps_max"] = 13241.25,
-        ["points"] = 7316.768245038287,
+        ["points"] = 7317.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1349,
@@ -54441,7 +54441,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Zefiros"] = {
-    ["percentile"] = 87.905,
+    ["percentile"] = 87.906,
     ["server"] = "Icecrown",
     ["overall_rank"] = 708,
     ["bosses"] = {
@@ -54471,7 +54471,7 @@ UWULogsData[6][2] = {
         ["points"] = 8399.8399839984,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9811,
+        ["rank_raids"] = 9812,
         ["dps_max"] = 15595.69,
         ["points"] = 7474.398191248837,
       },
@@ -54493,7 +54493,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4945,
         ["dps_max"] = 13877.42,
-        ["points"] = 8310.673542741053,
+        ["points"] = 8310.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -54553,7 +54553,7 @@ UWULogsData[6][2] = {
         ["points"] = 8640.776699029126,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10957,
+        ["rank_raids"] = 10959,
         ["dps_max"] = 14939.64,
         ["points"] = 7692.769276927692,
       },
@@ -54570,12 +54570,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2498,
         ["dps_max"] = 14437.4,
-        ["points"] = 9017.03391154868,
+        ["points"] = 9017.1875,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2808,
+        ["rank_raids"] = 2809,
         ["dps_max"] = 11863.88,
-        ["points"] = 8708.6,
+        ["points"] = 8708.300000000001,
       },
       ["Halion"] = {
         ["rank_raids"] = 4907,
@@ -54605,9 +54605,9 @@ UWULogsData[6][2] = {
         ["points"] = 8618.861886188619,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 16623,
+        ["rank_raids"] = 16625,
         ["dps_max"] = 14652.78,
-        ["points"] = 5888.7,
+        ["points"] = 5888.5,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 739,
@@ -54647,7 +54647,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4246,
         ["dps_max"] = 14003.84,
-        ["points"] = 8523.206751054853,
+        ["points"] = 8523.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -54672,12 +54672,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Goturnose"] = {
-    ["percentile"] = 87.903,
+    ["percentile"] = 87.902,
     ["server"] = "Icecrown",
     ["overall_rank"] = 711,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8044,
+        ["rank_raids"] = 8045,
         ["dps_max"] = 18922.95,
         ["points"] = 7900.790079007901,
       },
@@ -54707,9 +54707,9 @@ UWULogsData[6][2] = {
         ["points"] = 7894.666843995212,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5549,
+        ["rank_raids"] = 5550,
         ["dps_max"] = 16083.64,
-        ["points"] = 8695.869586958695,
+        ["points"] = 8694.869486948695,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1985,
@@ -54724,7 +54724,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3207,
         ["dps_max"] = 14241.5,
-        ["points"] = 8812.31442412877,
+        ["points"] = 8812.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -54749,7 +54749,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Melledrugo"] = {
-    ["percentile"] = 87.894,
+    ["percentile"] = 87.893,
     ["server"] = "Icecrown",
     ["overall_rank"] = 712,
     ["bosses"] = {
@@ -54769,9 +54769,9 @@ UWULogsData[6][2] = {
         ["points"] = 9217.921792179217,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7516,
+        ["rank_raids"] = 7517,
         ["dps_max"] = 18718.81,
-        ["points"] = 8166.816681668166,
+        ["points"] = 8165.816581658166,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2483,
@@ -54801,7 +54801,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1625,
         ["dps_max"] = 14724.3,
-        ["points"] = 9303.01609626504,
+        ["points"] = 9303.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -54836,7 +54836,7 @@ UWULogsData[6][2] = {
         ["points"] = 9676.967696769678,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 12582,
+        ["rank_raids"] = 12584,
         ["dps_max"] = 15677.12,
         ["points"] = 6349.114144641301,
       },
@@ -54878,7 +54878,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1577,
         ["dps_max"] = 14742.99,
-        ["points"] = 9317.080793874044,
+        ["points"] = 9317.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -54908,7 +54908,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 714,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 11960,
+        ["rank_raids"] = 11961,
         ["dps_max"] = 18294.21,
         ["points"] = 7202.7202720272035,
       },
@@ -54955,7 +54955,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4331,
         ["dps_max"] = 13988.64,
-        ["points"] = 8495.07735583685,
+        ["points"] = 8495.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -54980,7 +54980,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Nykk"] = {
-    ["percentile"] = 87.855,
+    ["percentile"] = 87.856,
     ["server"] = "Icecrown",
     ["overall_rank"] = 715,
     ["bosses"] = {
@@ -55005,7 +55005,7 @@ UWULogsData[6][2] = {
         ["points"] = 9520.95209520952,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 14460,
+        ["rank_raids"] = 14461,
         ["dps_max"] = 19027.4,
         ["points"] = 7937.992594088287,
       },
@@ -55032,7 +55032,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7014,
         ["dps_max"] = 13518.73,
-        ["points"] = 7804.344428817003,
+        ["points"] = 7804.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -55109,12 +55109,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8120,
         ["dps_max"] = 13350.95,
-        ["points"] = 7515.236755743084,
+        ["points"] = 7515.625,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 6259,
+        ["rank_raids"] = 6260,
         ["dps_max"] = 8917.92,
-        ["points"] = 7673.300000000001,
+        ["points"] = 7673.000000000001,
       },
       ["Halion"] = {
         ["rank_raids"] = 10049,
@@ -55134,12 +55134,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Verey"] = {
-    ["percentile"] = 87.828,
+    ["percentile"] = 87.829,
     ["server"] = "Icecrown",
     ["overall_rank"] = 717,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 13265,
+        ["rank_raids"] = 13266,
         ["dps_max"] = 18106.01,
         ["points"] = 6977.697769776978,
       },
@@ -55186,7 +55186,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5112,
         ["dps_max"] = 13845.97,
-        ["points"] = 8259.102984841382,
+        ["points"] = 8259.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -55211,12 +55211,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Antishockzt"] = {
-    ["percentile"] = 87.807,
+    ["percentile"] = 87.808,
     ["server"] = "Icecrown",
     ["overall_rank"] = 718,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9655,
+        ["rank_raids"] = 9656,
         ["dps_max"] = 18647.0,
         ["points"] = 7605.760576057605,
       },
@@ -55263,7 +55263,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5999,
         ["dps_max"] = 13687.81,
-        ["points"] = 8049.695264885138,
+        ["points"] = 8050.000000000001,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -55293,7 +55293,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 719,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7543,
+        ["rank_raids"] = 7544,
         ["dps_max"] = 19019.56,
         ["points"] = 8006.800680068007,
       },
@@ -55340,7 +55340,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8792,
         ["dps_max"] = 13256.09,
-        ["points"] = 7351.148616971402,
+        ["points"] = 7351.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -55400,7 +55400,7 @@ UWULogsData[6][2] = {
         ["points"] = 9038.43596222902,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7376,
+        ["rank_raids"] = 7378,
         ["dps_max"] = 15627.03,
         ["points"] = 8344.834483448345,
       },
@@ -55417,12 +55417,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7848,
         ["dps_max"] = 13392.16,
-        ["points"] = 7605.875918112205,
+        ["points"] = 7606.25,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 8333,
+        ["rank_raids"] = 8334,
         ["dps_max"] = 7243.92,
-        ["points"] = 7051.1,
+        ["points"] = 7050.8,
       },
       ["Halion"] = {
         ["rank_raids"] = 1808,
@@ -55452,7 +55452,7 @@ UWULogsData[6][2] = {
         ["points"] = 9109.91099109911,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 8793,
+        ["rank_raids"] = 8794,
         ["dps_max"] = 16742.71,
         ["points"] = 7301.771710717398,
       },
@@ -55494,12 +55494,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6334,
         ["dps_max"] = 13631.89,
-        ["points"] = 7977.809032661354,
+        ["points"] = 7978.125,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2209,
+        ["rank_raids"] = 2210,
         ["dps_max"] = 12541.39,
-        ["points"] = 8888.3,
+        ["points"] = 8888.0,
       },
       ["Halion"] = {
         ["rank_raids"] = 7800,
@@ -55519,7 +55519,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Baelrouge"] = {
-    ["percentile"] = 87.77,
+    ["percentile"] = 87.769,
     ["server"] = "Icecrown",
     ["overall_rank"] = 722,
     ["bosses"] = {
@@ -55554,9 +55554,9 @@ UWULogsData[6][2] = {
         ["points"] = 9333.687990424258,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5117,
+        ["rank_raids"] = 5118,
         ["dps_max"] = 16235.84,
-        ["points"] = 8765.876587658766,
+        ["points"] = 8764.876487648766,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4968,
@@ -55571,7 +55571,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6480,
         ["dps_max"] = 13607.17,
-        ["points"] = 7932.489451476793,
+        ["points"] = 7932.812500000001,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -55596,7 +55596,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Denoxsap"] = {
-    ["percentile"] = 87.75,
+    ["percentile"] = 87.749,
     ["server"] = "Icecrown",
     ["overall_rank"] = 723,
     ["bosses"] = {
@@ -55631,9 +55631,9 @@ UWULogsData[6][2] = {
         ["points"] = 8090.171565367736,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4514,
+        ["rank_raids"] = 4515,
         ["dps_max"] = 16418.37,
-        ["points"] = 8893.889388938893,
+        ["points"] = 8892.889288928893,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 317,
@@ -55648,7 +55648,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4554,
         ["dps_max"] = 13949.91,
-        ["points"] = 8421.628379434285,
+        ["points"] = 8421.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 409,
@@ -55725,7 +55725,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3108,
         ["dps_max"] = 14267.42,
-        ["points"] = 8840.443819346772,
+        ["points"] = 8840.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -55750,7 +55750,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Politik"] = {
-    ["percentile"] = 87.712,
+    ["percentile"] = 87.713,
     ["server"] = "Icecrown",
     ["overall_rank"] = 725,
     ["bosses"] = {
@@ -55802,7 +55802,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3594,
         ["dps_max"] = 14147.64,
-        ["points"] = 8691.98312236287,
+        ["points"] = 8692.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -55827,7 +55827,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Venoxa"] = {
-    ["percentile"] = 87.71,
+    ["percentile"] = 87.709,
     ["server"] = "Icecrown",
     ["overall_rank"] = 726,
     ["bosses"] = {
@@ -55837,7 +55837,7 @@ UWULogsData[6][2] = {
         ["points"] = 8683.868386838683,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 12007,
+        ["rank_raids"] = 12009,
         ["dps_max"] = 15824.13,
         ["points"] = 6481.2663374963695,
       },
@@ -55862,9 +55862,9 @@ UWULogsData[6][2] = {
         ["points"] = 8763.133395398323,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7232,
+        ["rank_raids"] = 7234,
         ["dps_max"] = 15657.14,
-        ["points"] = 8381.838183818381,
+        ["points"] = 8380.838083808381,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1376,
@@ -55879,7 +55879,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 701,
         ["dps_max"] = 15221.54,
-        ["points"] = 9628.066885450853,
+        ["points"] = 9628.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -55939,7 +55939,7 @@ UWULogsData[6][2] = {
         ["points"] = 9623.62016225562,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 8009,
+        ["rank_raids"] = 8011,
         ["dps_max"] = 15487.01,
         ["points"] = 8220.82208220822,
       },
@@ -55956,7 +55956,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2863,
         ["dps_max"] = 14333.27,
-        ["points"] = 8902.95358649789,
+        ["points"] = 8903.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -56033,7 +56033,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1632,
         ["dps_max"] = 14720.81,
-        ["points"] = 9299.890607907486,
+        ["points"] = 9300.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -56068,7 +56068,7 @@ UWULogsData[6][2] = {
         ["points"] = 9013.901390139014,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 9928,
+        ["rank_raids"] = 9929,
         ["dps_max"] = 16390.39,
         ["points"] = 7028.753993610224,
       },
@@ -56110,7 +56110,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3735,
         ["dps_max"] = 14115.32,
-        ["points"] = 8648.226285357086,
+        ["points"] = 8648.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -56135,7 +56135,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Rayerogue"] = {
-    ["percentile"] = 87.667,
+    ["percentile"] = 87.666,
     ["server"] = "Icecrown",
     ["overall_rank"] = 730,
     ["bosses"] = {
@@ -56150,7 +56150,7 @@ UWULogsData[6][2] = {
         ["points"] = 9497.53122277084,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 18639,
+        ["rank_raids"] = 18641,
         ["dps_max"] = 20231.19,
         ["points"] = 7581.6033079778645,
       },
@@ -56170,9 +56170,9 @@ UWULogsData[6][2] = {
         ["points"] = 9358.95730815268,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5845,
+        ["rank_raids"] = 5846,
         ["dps_max"] = 16006.57,
-        ["points"] = 8637.863786378637,
+        ["points"] = 8636.863686368637,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3803,
@@ -56187,7 +56187,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8614,
         ["dps_max"] = 13281.55,
-        ["points"] = 7401.156430692296,
+        ["points"] = 7401.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -56212,7 +56212,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Samsey"] = {
-    ["percentile"] = 87.664,
+    ["percentile"] = 87.663,
     ["server"] = "Icecrown",
     ["overall_rank"] = 731,
     ["bosses"] = {
@@ -56227,9 +56227,9 @@ UWULogsData[6][2] = {
         ["points"] = 8681.38251524833,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9975,
+        ["rank_raids"] = 9976,
         ["dps_max"] = 21211.08,
-        ["points"] = 7954.7954795479545,
+        ["points"] = 7953.7953795379535,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3075,
@@ -56264,7 +56264,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2681,
         ["dps_max"] = 14382.64,
-        ["points"] = 8968.588842006564,
+        ["points"] = 8968.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -56341,7 +56341,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6104,
         ["dps_max"] = 13670.02,
-        ["points"] = 8020.003125488358,
+        ["points"] = 8020.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 992,
@@ -56366,7 +56366,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Zayka"] = {
-    ["percentile"] = 87.649,
+    ["percentile"] = 87.648,
     ["server"] = "Icecrown",
     ["overall_rank"] = 733,
     ["bosses"] = {
@@ -56401,9 +56401,9 @@ UWULogsData[6][2] = {
         ["points"] = 7808.219178082192,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4891,
+        ["rank_raids"] = 4892,
         ["dps_max"] = 16293.44,
-        ["points"] = 8812.881288128814,
+        ["points"] = 8811.881188118812,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 453,
@@ -56418,7 +56418,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5461,
         ["dps_max"] = 13785.22,
-        ["points"] = 8188.779496796375,
+        ["points"] = 8189.062499999999,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 246,
@@ -56443,7 +56443,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Iamcoward"] = {
-    ["percentile"] = 87.642,
+    ["percentile"] = 87.643,
     ["server"] = "Icecrown",
     ["overall_rank"] = 734,
     ["bosses"] = {
@@ -56453,7 +56453,7 @@ UWULogsData[6][2] = {
         ["points"] = 9375.937593759376,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 20428,
+        ["rank_raids"] = 20430,
         ["dps_max"] = 13729.76,
         ["points"] = 5513.603337294255,
       },
@@ -56478,7 +56478,7 @@ UWULogsData[6][2] = {
         ["points"] = 8529.059715387684,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7279,
+        ["rank_raids"] = 7281,
         ["dps_max"] = 15648.15,
         ["points"] = 8364.836483648365,
       },
@@ -56495,7 +56495,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6396,
         ["dps_max"] = 13622.84,
-        ["points"] = 7957.493358337239,
+        ["points"] = 7957.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -56572,7 +56572,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5161,
         ["dps_max"] = 13835.03,
-        ["points"] = 8246.601031411159,
+        ["points"] = 8246.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 248,
@@ -56597,7 +56597,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Fisirog"] = {
-    ["percentile"] = 87.636,
+    ["percentile"] = 87.635,
     ["server"] = "Icecrown",
     ["overall_rank"] = 736,
     ["bosses"] = {
@@ -56632,9 +56632,9 @@ UWULogsData[6][2] = {
         ["points"] = 9245.910360420268,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5721,
+        ["rank_raids"] = 5722,
         ["dps_max"] = 16041.32,
-        ["points"] = 8662.866286628663,
+        ["points"] = 8661.866186618661,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 8586,
@@ -56649,7 +56649,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4404,
         ["dps_max"] = 13975.05,
-        ["points"] = 8470.073448976404,
+        ["points"] = 8470.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -56726,7 +56726,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3996,
         ["dps_max"] = 14052.77,
-        ["points"] = 8582.591029848414,
+        ["points"] = 8582.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -56803,7 +56803,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7429,
         ["dps_max"] = 13455.29,
-        ["points"] = 7716.830754805438,
+        ["points"] = 7717.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 710,
@@ -56838,7 +56838,7 @@ UWULogsData[6][2] = {
         ["points"] = 8622.862286228623,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7584,
+        ["rank_raids"] = 7585,
         ["dps_max"] = 17126.13,
         ["points"] = 7637.23496950334,
       },
@@ -56863,7 +56863,7 @@ UWULogsData[6][2] = {
         ["points"] = 9147.493017688523,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 8436,
+        ["rank_raids"] = 8438,
         ["dps_max"] = 15408.94,
         ["points"] = 8150.815081508151,
       },
@@ -56880,12 +56880,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 683,
         ["dps_max"] = 15236.89,
-        ["points"] = 9637.44335052352,
+        ["points"] = 9637.5,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 4289,
+        ["rank_raids"] = 4290,
         ["dps_max"] = 10464.12,
-        ["points"] = 8264.3,
+        ["points"] = 8264.0,
       },
       ["Halion"] = {
         ["rank_raids"] = 8107,
@@ -56905,7 +56905,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Sccn"] = {
-    ["percentile"] = 87.573,
+    ["percentile"] = 87.572,
     ["server"] = "Icecrown",
     ["overall_rank"] = 740,
     ["bosses"] = {
@@ -56915,7 +56915,7 @@ UWULogsData[6][2] = {
         ["points"] = 9845.984598459845,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7444,
+        ["rank_raids"] = 7445,
         ["dps_max"] = 17169.55,
         ["points"] = 7664.827185593958,
       },
@@ -56940,9 +56940,9 @@ UWULogsData[6][2] = {
         ["points"] = 8938.688655406304,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6288,
+        ["rank_raids"] = 6290,
         ["dps_max"] = 15894.56,
-        ["points"] = 8566.856685668567,
+        ["points"] = 8565.856585658565,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2708,
@@ -56957,7 +56957,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4644,
         ["dps_max"] = 13932.68,
-        ["points"] = 8396.62447257384,
+        ["points"] = 8396.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 712,
@@ -56981,10 +56981,87 @@ UWULogsData[6][2] = {
       },
     },
   },
-  ["Kloze"] = {
+  ["Zetyrog"] = {
     ["percentile"] = 87.554,
     ["server"] = "Icecrown",
     ["overall_rank"] = 741,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 4835,
+        ["dps_max"] = 19628.3,
+        ["points"] = 8575.857585758577,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 8953,
+        ["dps_max"] = 16690.93,
+        ["points"] = 7265.466163229741,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 2674,
+        ["dps_max"] = 22567.23,
+        ["points"] = 9237.923792379237,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 1393,
+        ["dps_max"] = 20086.13,
+        ["points"] = 9516.951695169517,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 6765,
+        ["dps_max"] = 19949.43,
+        ["points"] = 8340.834083408341,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 3182,
+        ["dps_max"] = 17670.01,
+        ["points"] = 9106.264130868467,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 2109,
+        ["dps_max"] = 17504.38,
+        ["points"] = 9387.938793879388,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 1072,
+        ["dps_max"] = 27941.45,
+        ["points"] = 9395.939593959396,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 1060,
+        ["dps_max"] = 15282.38,
+        ["points"] = 9521.345407503235,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 9534,
+        ["dps_max"] = 13147.09,
+        ["points"] = 7157.8125,
+      },
+      ["Toravon the Ice Watcher"] = {
+        ["rank_raids"] = 255,
+        ["dps_max"] = 16014.99,
+        ["points"] = 9767.0,
+      },
+      ["Halion"] = {
+        ["rank_raids"] = 22734,
+        ["dps_max"] = 5511.71,
+        ["points"] = 5277.6,
+      },
+      ["Anub'arak"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Valithria Dreamwalker"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+    },
+  },
+  ["Kloze"] = {
+    ["percentile"] = 87.554,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 742,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4020,
@@ -57032,7 +57109,7 @@ UWULogsData[6][2] = {
         ["points"] = 9067.12663504384,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 12897,
+        ["rank_raids"] = 12898,
         ["dps_max"] = 12684.04,
         ["points"] = 6709.041468029276,
       },
@@ -57058,85 +57135,8 @@ UWULogsData[6][2] = {
       },
     },
   },
-  ["Zetyrog"] = {
-    ["percentile"] = 87.554,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 742,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 4835,
-        ["dps_max"] = 19628.3,
-        ["points"] = 8575.857585758577,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 8952,
-        ["dps_max"] = 16690.93,
-        ["points"] = 7265.466163229741,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2674,
-        ["dps_max"] = 22567.23,
-        ["points"] = 9237.923792379237,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 1393,
-        ["dps_max"] = 20086.13,
-        ["points"] = 9516.951695169517,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 6765,
-        ["dps_max"] = 19949.43,
-        ["points"] = 8340.834083408341,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 3182,
-        ["dps_max"] = 17670.01,
-        ["points"] = 9106.264130868467,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 2109,
-        ["dps_max"] = 17504.38,
-        ["points"] = 9387.938793879388,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1072,
-        ["dps_max"] = 27941.45,
-        ["points"] = 9395.939593959396,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 1060,
-        ["dps_max"] = 15282.38,
-        ["points"] = 9521.345407503235,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 9534,
-        ["dps_max"] = 13147.09,
-        ["points"] = 7157.368338802938,
-      },
-      ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 255,
-        ["dps_max"] = 16014.99,
-        ["points"] = 9767.0,
-      },
-      ["Halion"] = {
-        ["rank_raids"] = 22734,
-        ["dps_max"] = 5511.71,
-        ["points"] = 5277.6,
-      },
-      ["Anub'arak"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Valithria Dreamwalker"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-    },
-  },
   ["Ridiot"] = {
-    ["percentile"] = 87.552,
+    ["percentile"] = 87.553,
     ["server"] = "Icecrown",
     ["overall_rank"] = 743,
     ["bosses"] = {
@@ -57188,7 +57188,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5583,
         ["dps_max"] = 13762.22,
-        ["points"] = 8162.21284575715,
+        ["points"] = 8162.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -57212,87 +57212,10 @@ UWULogsData[6][2] = {
       },
     },
   },
-  ["Instasamka"] = {
-    ["percentile"] = 87.545,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 744,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8078,
-        ["dps_max"] = 18917.96,
-        ["points"] = 7895.789578957896,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 4919,
-        ["dps_max"] = 18039.38,
-        ["points"] = 8286.378158582631,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6091,
-        ["dps_max"] = 21792.32,
-        ["points"] = 8571.857185718573,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 6795,
-        ["dps_max"] = 18818.34,
-        ["points"] = 8284.828482848285,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 7440,
-        ["dps_max"] = 19854.77,
-        ["points"] = 8283.160979289145,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 2320,
-        ["dps_max"] = 18164.74,
-        ["points"] = 9304.428780422928,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 5544,
-        ["dps_max"] = 16085.9,
-        ["points"] = 8697.869786978697,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 135,
-        ["dps_max"] = 34680.82,
-        ["points"] = 9921.992199219922,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 1853,
-        ["dps_max"] = 14646.12,
-        ["points"] = 9183.556130516028,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 2349,
-        ["dps_max"] = 14484.99,
-        ["points"] = 9067.041725269573,
-      },
-      ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Halion"] = {
-        ["rank_raids"] = 642,
-        ["dps_max"] = 11643.96,
-        ["points"] = 9530.0,
-      },
-      ["Anub'arak"] = {
-        ["rank_raids"] = 196,
-        ["dps_max"] = 10934.82,
-        ["points"] = 9335.8310626703,
-      },
-      ["Valithria Dreamwalker"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-    },
-  },
   ["Vanishyou"] = {
     ["percentile"] = 87.544,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 745,
+    ["overall_rank"] = 744,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1730,
@@ -57342,7 +57265,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2813,
         ["dps_max"] = 14346.17,
-        ["points"] = 8917.01828410689,
+        ["points"] = 8917.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1185,
@@ -57366,8 +57289,85 @@ UWULogsData[6][2] = {
       },
     },
   },
+  ["Instasamka"] = {
+    ["percentile"] = 87.543,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 745,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 8079,
+        ["dps_max"] = 18917.96,
+        ["points"] = 7895.789578957896,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 4919,
+        ["dps_max"] = 18039.38,
+        ["points"] = 8286.378158582631,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 6091,
+        ["dps_max"] = 21792.32,
+        ["points"] = 8571.857185718573,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 6796,
+        ["dps_max"] = 18818.34,
+        ["points"] = 8283.828382838285,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 7440,
+        ["dps_max"] = 19854.77,
+        ["points"] = 8283.160979289145,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 2320,
+        ["dps_max"] = 18164.74,
+        ["points"] = 9304.428780422928,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 5545,
+        ["dps_max"] = 16085.9,
+        ["points"] = 8696.869686968697,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 135,
+        ["dps_max"] = 34680.82,
+        ["points"] = 9921.992199219922,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 1853,
+        ["dps_max"] = 14646.12,
+        ["points"] = 9183.556130516028,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 2349,
+        ["dps_max"] = 14484.99,
+        ["points"] = 9067.1875,
+      },
+      ["Toravon the Ice Watcher"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Halion"] = {
+        ["rank_raids"] = 642,
+        ["dps_max"] = 11643.96,
+        ["points"] = 9530.0,
+      },
+      ["Anub'arak"] = {
+        ["rank_raids"] = 196,
+        ["dps_max"] = 10934.82,
+        ["points"] = 9335.8310626703,
+      },
+      ["Valithria Dreamwalker"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+    },
+  },
   ["Suffix"] = {
-    ["percentile"] = 87.513,
+    ["percentile"] = 87.512,
     ["server"] = "Icecrown",
     ["overall_rank"] = 746,
     ["bosses"] = {
@@ -57402,9 +57402,9 @@ UWULogsData[6][2] = {
         ["points"] = 8866.870594493948,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5908,
+        ["rank_raids"] = 5910,
         ["dps_max"] = 15988.53,
-        ["points"] = 8626.862686268627,
+        ["points"] = 8625.862586258625,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4232,
@@ -57419,7 +57419,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2051,
         ["dps_max"] = 14566.92,
-        ["points"] = 9149.867166744803,
+        ["points"] = 9150.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -57444,7 +57444,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Niedajetotow"] = {
-    ["percentile"] = 87.499,
+    ["percentile"] = 87.5,
     ["server"] = "Icecrown",
     ["overall_rank"] = 747,
     ["bosses"] = {
@@ -57484,9 +57484,9 @@ UWULogsData[6][2] = {
         ["points"] = 9534.953495349535,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 22972,
+        ["rank_raids"] = 22973,
         ["dps_max"] = 15903.2,
-        ["points"] = 5253.799999999999,
+        ["points"] = 5253.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5373,
@@ -57496,7 +57496,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2923,
         ["dps_max"] = 14315.7,
-        ["points"] = 8887.326144710112,
+        ["points"] = 8887.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -57521,7 +57521,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Zornix"] = {
-    ["percentile"] = 87.487,
+    ["percentile"] = 87.485,
     ["server"] = "Icecrown",
     ["overall_rank"] = 748,
     ["bosses"] = {
@@ -57541,9 +57541,9 @@ UWULogsData[6][2] = {
         ["points"] = 8448.84488448845,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7131,
+        ["rank_raids"] = 7132,
         ["dps_max"] = 18774.25,
-        ["points"] = 8225.822582258226,
+        ["points"] = 8224.822482248224,
       },
       ["Rotface"] = {
         ["rank_raids"] = 9219,
@@ -57556,9 +57556,9 @@ UWULogsData[6][2] = {
         ["points"] = 8994.547147227024,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6402,
+        ["rank_raids"] = 6404,
         ["dps_max"] = 15862.89,
-        ["points"] = 8546.854685468546,
+        ["points"] = 8545.854585458546,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1319,
@@ -57573,12 +57573,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4616,
         ["dps_max"] = 13938.48,
-        ["points"] = 8409.126426004063,
+        ["points"] = 8409.375,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 3191,
+        ["rank_raids"] = 3192,
         ["dps_max"] = 11471.82,
-        ["points"] = 8593.7,
+        ["points"] = 8593.400000000001,
       },
       ["Halion"] = {
         ["rank_raids"] = 3609,
@@ -57598,7 +57598,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Xastron"] = {
-    ["percentile"] = 87.47,
+    ["percentile"] = 87.469,
     ["server"] = "Icecrown",
     ["overall_rank"] = 749,
     ["bosses"] = {
@@ -57613,9 +57613,9 @@ UWULogsData[6][2] = {
         ["points"] = 8260.23816439152,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8245,
+        ["rank_raids"] = 8246,
         ["dps_max"] = 21452.65,
-        ["points"] = 8221.822182218222,
+        ["points"] = 8220.82208220822,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3884,
@@ -57628,7 +57628,7 @@ UWULogsData[6][2] = {
         ["points"] = 9133.913391339134,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9926,
+        ["rank_raids"] = 9927,
         ["dps_max"] = 15572.01,
         ["points"] = 7447.798909429445,
       },
@@ -57650,7 +57650,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3880,
         ["dps_max"] = 14082.22,
-        ["points"] = 8612.283169245195,
+        ["points"] = 8612.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -57685,7 +57685,7 @@ UWULogsData[6][2] = {
         ["points"] = 8538.853885388538,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7389,
+        ["rank_raids"] = 7390,
         ["dps_max"] = 17184.24,
         ["points"] = 7677.897182689515,
       },
@@ -57727,7 +57727,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4403,
         ["dps_max"] = 13975.17,
-        ["points"] = 8471.63619315518,
+        ["points"] = 8471.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -57757,12 +57757,12 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 751,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 13593,
+        ["rank_raids"] = 13594,
         ["dps_max"] = 18066.12,
         ["points"] = 6919.69196919692,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7629,
+        ["rank_raids"] = 7630,
         ["dps_max"] = 17116.35,
         ["points"] = 7624.164972407784,
       },
@@ -57804,7 +57804,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2433,
         ["dps_max"] = 14456.29,
-        ["points"] = 9037.349585872793,
+        ["points"] = 9037.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -57834,7 +57834,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 752,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7704,
+        ["rank_raids"] = 7705,
         ["dps_max"] = 18987.41,
         ["points"] = 7972.797279727973,
       },
@@ -57844,9 +57844,9 @@ UWULogsData[6][2] = {
         ["points"] = 8318.327040371769,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8587,
+        ["rank_raids"] = 8588,
         ["dps_max"] = 21403.5,
-        ["points"] = 8165.816581658166,
+        ["points"] = 8164.816481648165,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3868,
@@ -57864,7 +57864,7 @@ UWULogsData[6][2] = {
         ["points"] = 8442.612049474663,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10161,
+        ["rank_raids"] = 10163,
         ["dps_max"] = 15076.83,
         ["points"] = 7834.783478347835,
       },
@@ -57881,7 +57881,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4173,
         ["dps_max"] = 14016.63,
-        ["points"] = 8543.522425378966,
+        ["points"] = 8543.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -57906,12 +57906,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Zetablade"] = {
-    ["percentile"] = 87.413,
+    ["percentile"] = 87.414,
     ["server"] = "Icecrown",
     ["overall_rank"] = 753,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 11881,
+        ["rank_raids"] = 11882,
         ["dps_max"] = 18305.35,
         ["points"] = 7222.722272227222,
       },
@@ -57958,12 +57958,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9116,
         ["dps_max"] = 13206.21,
-        ["points"] = 7273.011408032505,
+        ["points"] = 7273.4375,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 3894,
+        ["rank_raids"] = 3895,
         ["dps_max"] = 10789.27,
-        ["points"] = 8382.800000000001,
+        ["points"] = 8382.5,
       },
       ["Halion"] = {
         ["rank_raids"] = 7126,
@@ -57988,7 +57988,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 754,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 15071,
+        ["rank_raids"] = 15072,
         ["dps_max"] = 17864.26,
         ["points"] = 6680.668066806681,
       },
@@ -57998,7 +57998,7 @@ UWULogsData[6][2] = {
         ["points"] = 9156.259076386872,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10866,
+        ["rank_raids"] = 10867,
         ["dps_max"] = 21094.01,
         ["points"] = 7904.943604133921,
       },
@@ -58035,7 +58035,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3587,
         ["dps_max"] = 14149.08,
-        ["points"] = 8693.545866541648,
+        ["points"] = 8693.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -58112,12 +58112,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4076,
         ["dps_max"] = 14036.96,
-        ["points"] = 8568.526332239413,
+        ["points"] = 8568.75,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 7620,
+        ["rank_raids"] = 7621,
         ["dps_max"] = 7810.8,
-        ["points"] = 7265.0,
+        ["points"] = 7264.700000000001,
       },
       ["Halion"] = {
         ["rank_raids"] = 12163,
@@ -58137,7 +58137,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Tay"] = {
-    ["percentile"] = 87.4,
+    ["percentile"] = 87.401,
     ["server"] = "Icecrown",
     ["overall_rank"] = 756,
     ["bosses"] = {
@@ -58189,12 +58189,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8533,
         ["dps_max"] = 13293.01,
-        ["points"] = 7424.597593373965,
+        ["points"] = 7425.000000000001,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2090,
+        ["rank_raids"] = 2091,
         ["dps_max"] = 12650.89,
-        ["points"] = 8924.0,
+        ["points"] = 8923.7,
       },
       ["Halion"] = {
         ["rank_raids"] = 3804,
@@ -58214,12 +58214,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Dogcarrier"] = {
-    ["percentile"] = 87.396,
+    ["percentile"] = 87.397,
     ["server"] = "Icecrown",
     ["overall_rank"] = 757,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10730,
+        ["rank_raids"] = 10731,
         ["dps_max"] = 18475.6,
         ["points"] = 7431.743174317432,
       },
@@ -58249,7 +58249,7 @@ UWULogsData[6][2] = {
         ["points"] = 9337.677882697168,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 12526,
+        ["rank_raids"] = 12528,
         ["dps_max"] = 14692.81,
         ["points"] = 7409.74097409741,
       },
@@ -58266,7 +58266,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 494,
         ["dps_max"] = 15435.0,
-        ["points"] = 9706.204094389748,
+        ["points"] = 9706.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -58343,7 +58343,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6630,
         ["dps_max"] = 13582.26,
-        ["points"] = 7887.169870292233,
+        ["points"] = 7887.499999999999,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 374,
@@ -58373,7 +58373,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 759,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7197,
+        ["rank_raids"] = 7198,
         ["dps_max"] = 19083.5,
         ["points"] = 8071.807180718071,
       },
@@ -58420,7 +58420,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2014,
         ["dps_max"] = 14578.19,
-        ["points"] = 9162.369120175026,
+        ["points"] = 9162.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -58480,9 +58480,9 @@ UWULogsData[6][2] = {
         ["points"] = 8795.052533581593,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6851,
+        ["rank_raids"] = 6853,
         ["dps_max"] = 15745.38,
-        ["points"] = 8469.84698469847,
+        ["points"] = 8468.84688468847,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1546,
@@ -58497,7 +58497,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2956,
         ["dps_max"] = 14306.83,
-        ["points"] = 8871.698702922331,
+        ["points"] = 8871.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 467,
@@ -58522,7 +58522,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Backfap"] = {
-    ["percentile"] = 87.37,
+    ["percentile"] = 87.369,
     ["server"] = "Icecrown",
     ["overall_rank"] = 761,
     ["bosses"] = {
@@ -58532,7 +58532,7 @@ UWULogsData[6][2] = {
         ["points"] = 9475.947594759476,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 9709,
+        ["rank_raids"] = 9710,
         ["dps_max"] = 16460.6,
         ["points"] = 7086.842869590474,
       },
@@ -58542,9 +58542,9 @@ UWULogsData[6][2] = {
         ["points"] = 9321.932193219322,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7715,
+        ["rank_raids"] = 7716,
         ["dps_max"] = 18690.42,
-        ["points"] = 8134.813481348135,
+        ["points"] = 8133.813381338134,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3200,
@@ -58574,7 +58574,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2608,
         ["dps_max"] = 14403.75,
-        ["points"] = 8987.341772151898,
+        ["points"] = 8987.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1796,
@@ -58599,7 +58599,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Oukej"] = {
-    ["percentile"] = 87.364,
+    ["percentile"] = 87.363,
     ["server"] = "Icecrown",
     ["overall_rank"] = 762,
     ["bosses"] = {
@@ -58634,9 +58634,9 @@ UWULogsData[6][2] = {
         ["points"] = 9058.385423593563,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6018,
+        ["rank_raids"] = 6020,
         ["dps_max"] = 15956.32,
-        ["points"] = 8609.860986098609,
+        ["points"] = 8608.860886088609,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4160,
@@ -58649,7 +58649,7 @@ UWULogsData[6][2] = {
         ["points"] = 8868.765272387524,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 21405,
+        ["rank_raids"] = 21407,
         ["dps_max"] = 11612.36,
         ["points"] = 6142.191666195033,
       },
@@ -58676,7 +58676,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Brrutus"] = {
-    ["percentile"] = 87.361,
+    ["percentile"] = 87.36,
     ["server"] = "Icecrown",
     ["overall_rank"] = 763,
     ["bosses"] = {
@@ -58711,9 +58711,9 @@ UWULogsData[6][2] = {
         ["points"] = 9425.455512701157,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5665,
+        ["rank_raids"] = 5666,
         ["dps_max"] = 16055.74,
-        ["points"] = 8677.867786778677,
+        ["points"] = 8676.867686768677,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2142,
@@ -58728,7 +58728,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2610,
         ["dps_max"] = 14402.8,
-        ["points"] = 8985.779027973122,
+        ["points"] = 8985.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 510,
@@ -58788,7 +58788,7 @@ UWULogsData[6][2] = {
         ["points"] = 8562.308817661924,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 12690,
+        ["rank_raids"] = 12692,
         ["dps_max"] = 14667.44,
         ["points"] = 7381.738173817382,
       },
@@ -58805,7 +58805,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6341,
         ["dps_max"] = 13630.66,
-        ["points"] = 7974.683544303798,
+        ["points"] = 7975.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -58865,9 +58865,9 @@ UWULogsData[6][2] = {
         ["points"] = 8216.518154009842,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5010,
+        ["rank_raids"] = 5011,
         ["dps_max"] = 16264.62,
-        ["points"] = 8791.879187918792,
+        ["points"] = 8790.87908790879,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 8140,
@@ -58882,7 +58882,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5032,
         ["dps_max"] = 13861.46,
-        ["points"] = 8282.544147523051,
+        ["points"] = 8282.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 805,
@@ -58907,7 +58907,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Friijolito"] = {
-    ["percentile"] = 87.313,
+    ["percentile"] = 87.314,
     ["server"] = "Icecrown",
     ["overall_rank"] = 766,
     ["bosses"] = {
@@ -58959,7 +58959,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1440,
         ["dps_max"] = 14801.21,
-        ["points"] = 9353.023909985935,
+        ["points"] = 9353.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 796,
@@ -59004,9 +59004,9 @@ UWULogsData[6][2] = {
         ["points"] = 9085.908590859086,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 8326,
+        ["rank_raids"] = 8327,
         ["dps_max"] = 18612.16,
-        ["points"] = 8042.804280428043,
+        ["points"] = 8041.804180418042,
       },
       ["Rotface"] = {
         ["rank_raids"] = 4714,
@@ -59036,7 +59036,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 10194,
         ["dps_max"] = 13049.95,
-        ["points"] = 7015.158618534147,
+        ["points"] = 7015.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1748,
@@ -59061,7 +59061,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Babbyy"] = {
-    ["percentile"] = 87.291,
+    ["percentile"] = 87.292,
     ["server"] = "Icecrown",
     ["overall_rank"] = 768,
     ["bosses"] = {
@@ -59091,7 +59091,7 @@ UWULogsData[6][2] = {
         ["points"] = 8343.834383438345,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9155,
+        ["rank_raids"] = 9156,
         ["dps_max"] = 15735.38,
         ["points"] = 7619.364277164516,
       },
@@ -59113,12 +59113,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4943,
         ["dps_max"] = 13877.7,
-        ["points"] = 8312.236286919831,
+        ["points"] = 8312.5,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 6725,
+        ["rank_raids"] = 6726,
         ["dps_max"] = 8534.65,
-        ["points"] = 7533.500000000001,
+        ["points"] = 7533.2,
       },
       ["Halion"] = {
         ["rank_raids"] = 1152,
@@ -59138,7 +59138,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Myrde"] = {
-    ["percentile"] = 87.232,
+    ["percentile"] = 87.231,
     ["server"] = "Icecrown",
     ["overall_rank"] = 769,
     ["bosses"] = {
@@ -59153,9 +59153,9 @@ UWULogsData[6][2] = {
         ["points"] = 9628.2311937264,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8596,
+        ["rank_raids"] = 8597,
         ["dps_max"] = 21401.97,
-        ["points"] = 8164.816481648165,
+        ["points"] = 8163.816381638164,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4440,
@@ -59163,7 +59163,7 @@ UWULogsData[6][2] = {
         ["points"] = 8759.87598759876,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 18450,
+        ["rank_raids"] = 18451,
         ["dps_max"] = 18623.2,
         ["points"] = 7769.365424504924,
       },
@@ -59190,7 +59190,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3628,
         ["dps_max"] = 14141.68,
-        ["points"] = 8688.857634005313,
+        ["points"] = 8689.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -59245,7 +59245,7 @@ UWULogsData[6][2] = {
         ["points"] = 9289.92899289929,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 12906,
+        ["rank_raids"] = 12907,
         ["dps_max"] = 14971.52,
         ["points"] = 6768.187258944008,
       },
@@ -59267,7 +59267,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1980,
         ["dps_max"] = 14584.55,
-        ["points"] = 9174.87107360525,
+        ["points"] = 9175.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -59292,7 +59292,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Rhazaak"] = {
-    ["percentile"] = 87.225,
+    ["percentile"] = 87.224,
     ["server"] = "Icecrown",
     ["overall_rank"] = 771,
     ["bosses"] = {
@@ -59327,9 +59327,9 @@ UWULogsData[6][2] = {
         ["points"] = 9506.583322250299,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5294,
+        ["rank_raids"] = 5295,
         ["dps_max"] = 16169.36,
-        ["points"] = 8735.873587358736,
+        ["points"] = 8734.873487348734,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5488,
@@ -59344,7 +59344,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6172,
         ["dps_max"] = 13659.17,
-        ["points"] = 8004.3756837005785,
+        ["points"] = 8004.687499999999,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 669,
@@ -59421,7 +59421,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 456,
         ["dps_max"] = 15470.6,
-        ["points"] = 9729.645257071417,
+        ["points"] = 9729.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -59456,9 +59456,9 @@ UWULogsData[6][2] = {
         ["points"] = 9140.914091409142,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 15574,
+        ["rank_raids"] = 15576,
         ["dps_max"] = 14896.18,
-        ["points"] = 5993.6,
+        ["points"] = 5993.4,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 62,
@@ -59498,7 +59498,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4772,
         ["dps_max"] = 13908.46,
-        ["points"] = 8349.742147210502,
+        ["points"] = 8350.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -59575,7 +59575,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5091,
         ["dps_max"] = 13851.03,
-        ["points"] = 8265.353961556493,
+        ["points"] = 8265.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 72,
@@ -59600,7 +59600,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Turboabuser"] = {
-    ["percentile"] = 87.171,
+    ["percentile"] = 87.17,
     ["server"] = "Icecrown",
     ["overall_rank"] = 775,
     ["bosses"] = {
@@ -59635,9 +59635,9 @@ UWULogsData[6][2] = {
         ["points"] = 8723.234472669237,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4768,
+        ["rank_raids"] = 4769,
         ["dps_max"] = 16325.64,
-        ["points"] = 8834.883488348834,
+        ["points"] = 8833.883388338834,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5949,
@@ -59652,7 +59652,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1146,
         ["dps_max"] = 14945.44,
-        ["points"] = 9467.104235036724,
+        ["points"] = 9467.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -59677,7 +59677,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Echoash"] = {
-    ["percentile"] = 87.147,
+    ["percentile"] = 87.146,
     ["server"] = "Icecrown",
     ["overall_rank"] = 776,
     ["bosses"] = {
@@ -59687,9 +59687,9 @@ UWULogsData[6][2] = {
         ["points"] = 8572.857285728573,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 13555,
+        ["rank_raids"] = 13557,
         ["dps_max"] = 15416.24,
-        ["points"] = 6195.5,
+        ["points"] = 6195.299999999999,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1063,
@@ -59707,14 +59707,14 @@ UWULogsData[6][2] = {
         ["points"] = 9805.980598059807,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8969,
+        ["rank_raids"] = 8970,
         ["dps_max"] = 15784.67,
         ["points"] = 7655.273307620695,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7027,
+        ["rank_raids"] = 7029,
         ["dps_max"] = 15707.44,
-        ["points"] = 8427.842784278428,
+        ["points"] = 8426.842684268426,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 262,
@@ -59729,7 +59729,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2033,
         ["dps_max"] = 14573.4,
-        ["points"] = 9156.118143459917,
+        ["points"] = 9156.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -59754,7 +59754,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Bowanrouge"] = {
-    ["percentile"] = 87.117,
+    ["percentile"] = 87.116,
     ["server"] = "Icecrown",
     ["overall_rank"] = 777,
     ["bosses"] = {
@@ -59774,9 +59774,9 @@ UWULogsData[6][2] = {
         ["points"] = 9337.933793379338,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7140,
+        ["rank_raids"] = 7141,
         ["dps_max"] = 18772.93,
-        ["points"] = 8223.822382238224,
+        ["points"] = 8222.822282228222,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1830,
@@ -59806,7 +59806,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2803,
         ["dps_max"] = 14348.53,
-        ["points"] = 8921.706516643226,
+        ["points"] = 8921.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -59836,7 +59836,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 778,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9781,
+        ["rank_raids"] = 9782,
         ["dps_max"] = 18627.47,
         ["points"] = 7580.758075807581,
       },
@@ -59866,7 +59866,7 @@ UWULogsData[6][2] = {
         ["points"] = 8865.54063040298,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7407,
+        ["rank_raids"] = 7409,
         ["dps_max"] = 15620.07,
         ["points"] = 8340.834083408341,
       },
@@ -59883,7 +59883,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1845,
         ["dps_max"] = 14636.58,
-        ["points"] = 9224.878887326144,
+        ["points"] = 9225.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 20,
@@ -59908,7 +59908,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Czyhacz"] = {
-    ["percentile"] = 87.07,
+    ["percentile"] = 87.069,
     ["server"] = "Icecrown",
     ["overall_rank"] = 779,
     ["bosses"] = {
@@ -59928,12 +59928,12 @@ UWULogsData[6][2] = {
         ["points"] = 9076.907690769078,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7455,
+        ["rank_raids"] = 7456,
         ["dps_max"] = 18728.12,
-        ["points"] = 8180.818081808181,
+        ["points"] = 8179.81798179818,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 12003,
+        ["rank_raids"] = 12004,
         ["dps_max"] = 19290.41,
         ["points"] = 8047.717066805061,
       },
@@ -59960,7 +59960,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5923,
         ["dps_max"] = 13703.55,
-        ["points"] = 8076.261915924363,
+        ["points"] = 8076.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -59985,7 +59985,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Kejkej"] = {
-    ["percentile"] = 87.067,
+    ["percentile"] = 87.066,
     ["server"] = "Icecrown",
     ["overall_rank"] = 780,
     ["bosses"] = {
@@ -59995,7 +59995,7 @@ UWULogsData[6][2] = {
         ["points"] = 8568.856885688569,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 8772,
+        ["rank_raids"] = 8773,
         ["dps_max"] = 16749.44,
         ["points"] = 7307.580598315423,
       },
@@ -60020,9 +60020,9 @@ UWULogsData[6][2] = {
         ["points"] = 8606.197632663918,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4547,
+        ["rank_raids"] = 4548,
         ["dps_max"] = 16408.78,
-        ["points"] = 8881.888188818883,
+        ["points"] = 8880.88808880888,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1882,
@@ -60037,12 +60037,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6253,
         ["dps_max"] = 13646.63,
-        ["points"] = 7988.748241912798,
+        ["points"] = 7989.0625,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2496,
+        ["rank_raids"] = 2497,
         ["dps_max"] = 12198.11,
-        ["points"] = 8802.2,
+        ["points"] = 8801.9,
       },
       ["Halion"] = {
         ["rank_raids"] = 4576,
@@ -60062,7 +60062,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Merridan"] = {
-    ["percentile"] = 87.052,
+    ["percentile"] = 87.051,
     ["server"] = "Icecrown",
     ["overall_rank"] = 781,
     ["bosses"] = {
@@ -60077,9 +60077,9 @@ UWULogsData[6][2] = {
         ["points"] = 8799.012489108336,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8249,
+        ["rank_raids"] = 8250,
         ["dps_max"] = 21452.44,
-        ["points"] = 8220.82208220822,
+        ["points"] = 8219.82198219822,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2498,
@@ -60114,7 +60114,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5994,
         ["dps_max"] = 13688.35,
-        ["points"] = 8051.258009063917,
+        ["points"] = 8051.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -60139,7 +60139,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Invincibru"] = {
-    ["percentile"] = 87.032,
+    ["percentile"] = 87.031,
     ["server"] = "Icecrown",
     ["overall_rank"] = 782,
     ["bosses"] = {
@@ -60154,9 +60154,9 @@ UWULogsData[6][2] = {
         ["points"] = 9536.741214057509,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7937,
+        ["rank_raids"] = 7938,
         ["dps_max"] = 21496.19,
-        ["points"] = 8267.826782678269,
+        ["points"] = 8266.826682668267,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5470,
@@ -60191,7 +60191,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 431,
         ["dps_max"] = 15494.56,
-        ["points"] = 9739.021722144085,
+        ["points"] = 9739.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -60216,7 +60216,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Rogtari"] = {
-    ["percentile"] = 87.031,
+    ["percentile"] = 87.03,
     ["server"] = "Icecrown",
     ["overall_rank"] = 783,
     ["bosses"] = {
@@ -60226,7 +60226,7 @@ UWULogsData[6][2] = {
         ["points"] = 9904.990499049905,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 21101,
+        ["rank_raids"] = 21103,
         ["dps_max"] = 13575.36,
         ["points"] = 5451.599314261206,
       },
@@ -60246,14 +60246,14 @@ UWULogsData[6][2] = {
         ["points"] = 9567.956795679567,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 10878,
+        ["rank_raids"] = 10879,
         ["dps_max"] = 15357.47,
         ["points"] = 7221.7050139646235,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4511,
+        ["rank_raids"] = 4512,
         ["dps_max"] = 16418.7,
-        ["points"] = 8894.889488948895,
+        ["points"] = 8893.889388938893,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 877,
@@ -60268,7 +60268,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1498,
         ["dps_max"] = 14773.86,
-        ["points"] = 9332.708235661821,
+        ["points"] = 9332.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -60303,7 +60303,7 @@ UWULogsData[6][2] = {
         ["points"] = 9185.918591859187,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 12666,
+        ["rank_raids"] = 12668,
         ["dps_max"] = 15660.18,
         ["points"] = 6331.687481847226,
       },
@@ -60323,14 +60323,14 @@ UWULogsData[6][2] = {
         ["points"] = 9565.956595659565,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8997,
+        ["rank_raids"] = 8998,
         ["dps_max"] = 15777.59,
         ["points"] = 7651.283415347786,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4353,
+        ["rank_raids"] = 4354,
         ["dps_max"] = 16464.75,
-        ["points"] = 8918.891889188919,
+        ["points"] = 8917.891789178917,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2071,
@@ -60345,7 +60345,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4603,
         ["dps_max"] = 13941.58,
-        ["points"] = 8413.814658540397,
+        ["points"] = 8414.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 878,
@@ -60375,7 +60375,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 785,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9874,
+        ["rank_raids"] = 9875,
         ["dps_max"] = 18612.84,
         ["points"] = 7565.756575657566,
       },
@@ -60405,9 +60405,9 @@ UWULogsData[6][2] = {
         ["points"] = 8864.210666312008,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5621,
+        ["rank_raids"] = 5622,
         ["dps_max"] = 16066.79,
-        ["points"] = 8686.868686868687,
+        ["points"] = 8685.868586858685,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4542,
@@ -60422,7 +60422,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4316,
         ["dps_max"] = 13991.9,
-        ["points"] = 8502.891076730739,
+        ["points"] = 8503.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -60482,7 +60482,7 @@ UWULogsData[6][2] = {
         ["points"] = 8028.993217183136,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10019,
+        ["rank_raids"] = 10021,
         ["dps_max"] = 15102.32,
         ["points"] = 7866.786678667866,
       },
@@ -60499,7 +60499,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 866,
         ["dps_max"] = 15099.95,
-        ["points"] = 9562.431629942179,
+        ["points"] = 9562.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -60576,7 +60576,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4138,
         ["dps_max"] = 14024.32,
-        ["points"] = 8549.773402094077,
+        ["points"] = 8550.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -60626,7 +60626,7 @@ UWULogsData[6][2] = {
         ["points"] = 9206.920692069207,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 10881,
+        ["rank_raids"] = 10882,
         ["dps_max"] = 19416.32,
         ["points"] = 8100.245139348954,
       },
@@ -60636,7 +60636,7 @@ UWULogsData[6][2] = {
         ["points"] = 8471.871259475995,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7574,
+        ["rank_raids"] = 7576,
         ["dps_max"] = 15580.45,
         ["points"] = 8305.830583058305,
       },
@@ -60653,7 +60653,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5904,
         ["dps_max"] = 13707.06,
-        ["points"] = 8080.950148460697,
+        ["points"] = 8081.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -60678,7 +60678,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Tides"] = {
-    ["percentile"] = 86.976,
+    ["percentile"] = 86.975,
     ["server"] = "Icecrown",
     ["overall_rank"] = 789,
     ["bosses"] = {
@@ -60713,9 +60713,9 @@ UWULogsData[6][2] = {
         ["points"] = 9183.4020481447,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5545,
+        ["rank_raids"] = 5546,
         ["dps_max"] = 16085.78,
-        ["points"] = 8696.869686968697,
+        ["points"] = 8695.869586958695,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 13185,
@@ -60730,7 +60730,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6464,
         ["dps_max"] = 13610.04,
-        ["points"] = 7941.865916549461,
+        ["points"] = 7942.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 111,
@@ -60770,7 +60770,7 @@ UWULogsData[6][2] = {
         ["points"] = 8997.966889340692,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 16679,
+        ["rank_raids"] = 16681,
         ["dps_max"] = 20434.07,
         ["points"] = 7657.632235545771,
       },
@@ -60790,7 +60790,7 @@ UWULogsData[6][2] = {
         ["points"] = 9324.378241787472,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 9629,
+        ["rank_raids"] = 9631,
         ["dps_max"] = 15176.79,
         ["points"] = 7926.792679267926,
       },
@@ -60807,7 +60807,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6696,
         ["dps_max"] = 13573.67,
-        ["points"] = 7873.105172683231,
+        ["points"] = 7873.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 990,
@@ -60832,7 +60832,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Accusation"] = {
-    ["percentile"] = 86.956,
+    ["percentile"] = 86.955,
     ["server"] = "Icecrown",
     ["overall_rank"] = 791,
     ["bosses"] = {
@@ -60852,9 +60852,9 @@ UWULogsData[6][2] = {
         ["points"] = 9929.99299929993,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 8098,
+        ["rank_raids"] = 8099,
         ["dps_max"] = 18640.71,
-        ["points"] = 8077.807780778078,
+        ["points"] = 8076.807680768076,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3371,
@@ -60867,9 +60867,9 @@ UWULogsData[6][2] = {
         ["points"] = 9013.1666445006,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5680,
+        ["rank_raids"] = 5681,
         ["dps_max"] = 16051.07,
-        ["points"] = 8672.867286728673,
+        ["points"] = 8671.867186718671,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1242,
@@ -60884,7 +60884,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3249,
         ["dps_max"] = 14231.28,
-        ["points"] = 8799.812470698547,
+        ["points"] = 8800.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -60914,7 +60914,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 792,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9899,
+        ["rank_raids"] = 9900,
         ["dps_max"] = 18609.63,
         ["points"] = 7562.756275627562,
       },
@@ -60961,7 +60961,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4750,
         ["dps_max"] = 13912.81,
-        ["points"] = 8357.555868104391,
+        ["points"] = 8357.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -60986,7 +60986,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Tricksta"] = {
-    ["percentile"] = 86.953,
+    ["percentile"] = 86.951,
     ["server"] = "Icecrown",
     ["overall_rank"] = 793,
     ["bosses"] = {
@@ -61001,9 +61001,9 @@ UWULogsData[6][2] = {
         ["points"] = 9496.079000871334,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9968,
+        ["rank_raids"] = 9969,
         ["dps_max"] = 21212.0,
-        ["points"] = 7955.795579557956,
+        ["points"] = 7954.7954795479545,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2075,
@@ -61021,9 +61021,9 @@ UWULogsData[6][2] = {
         ["points"] = 8712.594759941481,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4402,
+        ["rank_raids"] = 4403,
         ["dps_max"] = 16449.0,
-        ["points"] = 8908.890889088909,
+        ["points"] = 8907.890789078909,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5983,
@@ -61038,7 +61038,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5412,
         ["dps_max"] = 13793.44,
-        ["points"] = 8196.593217690264,
+        ["points"] = 8196.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -61068,7 +61068,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 794,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7262,
+        ["rank_raids"] = 7263,
         ["dps_max"] = 19071.32,
         ["points"] = 8061.806180618062,
       },
@@ -61115,7 +61115,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 725,
         ["dps_max"] = 15202.59,
-        ["points"] = 9617.127676199407,
+        ["points"] = 9617.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -61140,7 +61140,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Ritam"] = {
-    ["percentile"] = 86.913,
+    ["percentile"] = 86.914,
     ["server"] = "Icecrown",
     ["overall_rank"] = 795,
     ["bosses"] = {
@@ -61192,12 +61192,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4679,
         ["dps_max"] = 13924.78,
-        ["points"] = 8384.122519143617,
+        ["points"] = 8384.375,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2296,
+        ["rank_raids"] = 2297,
         ["dps_max"] = 12415.97,
-        ["points"] = 8862.2,
+        ["points"] = 8861.9,
       },
       ["Halion"] = {
         ["rank_raids"] = 841,
@@ -61217,7 +61217,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Destroyed"] = {
-    ["percentile"] = 86.909,
+    ["percentile"] = 86.91,
     ["server"] = "Icecrown",
     ["overall_rank"] = 796,
     ["bosses"] = {
@@ -61269,7 +61269,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2559,
         ["dps_max"] = 14420.84,
-        ["points"] = 9006.094702297234,
+        ["points"] = 9006.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -61299,7 +61299,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 797,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7497,
+        ["rank_raids"] = 7498,
         ["dps_max"] = 19029.34,
         ["points"] = 8012.801280128012,
       },
@@ -61346,7 +61346,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4969,
         ["dps_max"] = 13872.1,
-        ["points"] = 8298.17158931083,
+        ["points"] = 8298.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -61371,7 +61371,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Starterqq"] = {
-    ["percentile"] = 86.881,
+    ["percentile"] = 86.88,
     ["server"] = "Icecrown",
     ["overall_rank"] = 798,
     ["bosses"] = {
@@ -61406,9 +61406,9 @@ UWULogsData[6][2] = {
         ["points"] = 8257.747040829898,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6565,
+        ["rank_raids"] = 6567,
         ["dps_max"] = 15816.3,
-        ["points"] = 8511.851185118512,
+        ["points"] = 8510.85108510851,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1175,
@@ -61423,7 +61423,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4387,
         ["dps_max"] = 13979.44,
-        ["points"] = 8476.324425691513,
+        ["points"] = 8476.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -61448,7 +61448,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Ravei"] = {
-    ["percentile"] = 86.878,
+    ["percentile"] = 86.879,
     ["server"] = "Icecrown",
     ["overall_rank"] = 799,
     ["bosses"] = {
@@ -61458,7 +61458,7 @@ UWULogsData[6][2] = {
         ["points"] = 8662.866286628663,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 11246,
+        ["rank_raids"] = 11248,
         ["dps_max"] = 16023.39,
         ["points"] = 6693.290734824281,
       },
@@ -61500,7 +61500,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1970,
         ["dps_max"] = 14588.08,
-        ["points"] = 9177.996561962807,
+        ["points"] = 9178.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -61525,7 +61525,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Paann"] = {
-    ["percentile"] = 86.87,
+    ["percentile"] = 86.871,
     ["server"] = "Icecrown",
     ["overall_rank"] = 800,
     ["bosses"] = {
@@ -61560,7 +61560,7 @@ UWULogsData[6][2] = {
         ["points"] = 8393.403378108791,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 11002,
+        ["rank_raids"] = 11004,
         ["dps_max"] = 14931.95,
         ["points"] = 7682.768276827683,
       },
@@ -61577,7 +61577,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8911,
         ["dps_max"] = 13237.42,
-        ["points"] = 7313.6427566807315,
+        ["points"] = 7314.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -61602,7 +61602,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Snd"] = {
-    ["percentile"] = 86.859,
+    ["percentile"] = 86.858,
     ["server"] = "Icecrown",
     ["overall_rank"] = 801,
     ["bosses"] = {
@@ -61622,9 +61622,9 @@ UWULogsData[6][2] = {
         ["points"] = 9477.947794779478,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6770,
+        ["rank_raids"] = 6771,
         ["dps_max"] = 18821.88,
-        ["points"] = 8286.828682868287,
+        ["points"] = 8285.828582858285,
       },
       ["Rotface"] = {
         ["rank_raids"] = 5469,
@@ -61654,7 +61654,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 258,
         ["dps_max"] = 15781.26,
-        ["points"] = 9837.474605407095,
+        ["points"] = 9837.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -61679,12 +61679,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Authorize"] = {
-    ["percentile"] = 86.847,
+    ["percentile"] = 86.846,
     ["server"] = "Icecrown",
     ["overall_rank"] = 802,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10630,
+        ["rank_raids"] = 10631,
         ["dps_max"] = 18493.88,
         ["points"] = 7449.74497449745,
       },
@@ -61714,9 +61714,9 @@ UWULogsData[6][2] = {
         ["points"] = 9565.101742252959,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6659,
+        ["rank_raids"] = 6661,
         ["dps_max"] = 15792.34,
-        ["points"] = 8497.849784978498,
+        ["points"] = 8496.849684968498,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 7277,
@@ -61731,7 +61731,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1811,
         ["dps_max"] = 14651.85,
-        ["points"] = 9237.380840756368,
+        ["points"] = 9237.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -61756,7 +61756,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Nashpwnz"] = {
-    ["percentile"] = 86.83,
+    ["percentile"] = 86.829,
     ["server"] = "Icecrown",
     ["overall_rank"] = 803,
     ["bosses"] = {
@@ -61771,7 +61771,7 @@ UWULogsData[6][2] = {
         ["points"] = 9301.481266337496,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 13234,
+        ["rank_raids"] = 13235,
         ["dps_max"] = 20810.47,
         ["points"] = 7798.687481684179,
       },
@@ -61791,9 +61791,9 @@ UWULogsData[6][2] = {
         ["points"] = 8755.153610852507,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5122,
+        ["rank_raids"] = 5123,
         ["dps_max"] = 16233.48,
-        ["points"] = 8763.876387638764,
+        ["points"] = 8762.876287628762,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 581,
@@ -61808,7 +61808,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6837,
         ["dps_max"] = 13549.78,
-        ["points"] = 7844.975777465228,
+        ["points"] = 7845.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -61833,7 +61833,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Shiv"] = {
-    ["percentile"] = 86.828,
+    ["percentile"] = 86.825,
     ["server"] = "Icecrown",
     ["overall_rank"] = 804,
     ["bosses"] = {
@@ -61848,14 +61848,14 @@ UWULogsData[6][2] = {
         ["points"] = 8922.451350566365,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8777,
+        ["rank_raids"] = 8778,
         ["dps_max"] = 21376.21,
-        ["points"] = 8137.813781378138,
+        ["points"] = 8136.813681368137,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 9100,
+        ["rank_raids"] = 9101,
         ["dps_max"] = 18519.47,
-        ["points"] = 7905.790579057905,
+        ["points"] = 7904.790479047905,
       },
       ["Rotface"] = {
         ["rank_raids"] = 8426,
@@ -61868,9 +61868,9 @@ UWULogsData[6][2] = {
         ["points"] = 9075.674956776167,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4729,
+        ["rank_raids"] = 4730,
         ["dps_max"] = 16337.89,
-        ["points"] = 8849.88498849885,
+        ["points"] = 8848.884888488848,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 205,
@@ -61885,7 +61885,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4264,
         ["dps_max"] = 14000.74,
-        ["points"] = 8520.081262697297,
+        ["points"] = 8520.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 220,
@@ -61909,10 +61909,87 @@ UWULogsData[6][2] = {
       },
     },
   },
-  ["Sukensin"] = {
-    ["percentile"] = 86.792,
+  ["Nookii"] = {
+    ["percentile"] = 86.79,
     ["server"] = "Icecrown",
     ["overall_rank"] = 805,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 3758,
+        ["dps_max"] = 19978.82,
+        ["points"] = 8842.884288428842,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 6980,
+        ["dps_max"] = 17315.41,
+        ["points"] = 7773.743828056927,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 530,
+        ["dps_max"] = 23681.1,
+        ["points"] = 9773.977397739774,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 8322,
+        ["dps_max"] = 18612.77,
+        ["points"] = 8042.804280428043,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 6413,
+        ["dps_max"] = 20005.88,
+        ["points"] = 8391.839183918391,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 2995,
+        ["dps_max"] = 17774.91,
+        ["points"] = 9148.822981779493,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 4952,
+        ["dps_max"] = 16279.83,
+        ["points"] = 8802.880288028802,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 2209,
+        ["dps_max"] = 24992.42,
+        ["points"] = 8888.3,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 5520,
+        ["dps_max"] = 13210.07,
+        ["points"] = 7895.000000000001,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 1949,
+        ["dps_max"] = 14594.84,
+        ["points"] = 9182.8125,
+      },
+      ["Toravon the Ice Watcher"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Halion"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Anub'arak"] = {
+        ["rank_raids"] = 2386,
+        ["dps_max"] = 7263.15,
+        ["points"] = 4219.003771059731,
+      },
+      ["Valithria Dreamwalker"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+    },
+  },
+  ["Sukensin"] = {
+    ["percentile"] = 86.79,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 806,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3595,
@@ -61930,9 +62007,9 @@ UWULogsData[6][2] = {
         ["points"] = 8929.892989298929,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7824,
+        ["rank_raids"] = 7825,
         ["dps_max"] = 18675.16,
-        ["points"] = 8117.8117811781185,
+        ["points"] = 8116.811681168117,
       },
       ["Rotface"] = {
         ["rank_raids"] = 9660,
@@ -61945,9 +62022,9 @@ UWULogsData[6][2] = {
         ["points"] = 7915.946269450725,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4802,
+        ["rank_raids"] = 4803,
         ["dps_max"] = 16319.34,
-        ["points"] = 8828.88288828883,
+        ["points"] = 8827.882788278828,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3631,
@@ -61962,7 +62039,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 995,
         ["dps_max"] = 15028.02,
-        ["points"] = 9517.112048757619,
+        ["points"] = 9517.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -61978,83 +62055,6 @@ UWULogsData[6][2] = {
         ["rank_raids"] = 2798,
         ["dps_max"] = 5640.0,
         ["points"] = 3276.151706735628,
-      },
-      ["Valithria Dreamwalker"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-    },
-  },
-  ["Nookii"] = {
-    ["percentile"] = 86.792,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 806,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 3758,
-        ["dps_max"] = 19978.82,
-        ["points"] = 8842.884288428842,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 6979,
-        ["dps_max"] = 17315.41,
-        ["points"] = 7773.743828056927,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 530,
-        ["dps_max"] = 23681.1,
-        ["points"] = 9773.977397739774,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 8321,
-        ["dps_max"] = 18612.77,
-        ["points"] = 8043.804380438044,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 6413,
-        ["dps_max"] = 20005.88,
-        ["points"] = 8391.839183918391,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 2995,
-        ["dps_max"] = 17774.91,
-        ["points"] = 9148.822981779493,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 4951,
-        ["dps_max"] = 16279.83,
-        ["points"] = 8803.880388038804,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2209,
-        ["dps_max"] = 24992.42,
-        ["points"] = 8888.3,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 5520,
-        ["dps_max"] = 13210.07,
-        ["points"] = 7895.000000000001,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 1949,
-        ["dps_max"] = 14594.84,
-        ["points"] = 9182.68479449914,
-      },
-      ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Halion"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Anub'arak"] = {
-        ["rank_raids"] = 2386,
-        ["dps_max"] = 7263.15,
-        ["points"] = 4219.003771059731,
       },
       ["Valithria Dreamwalker"] = {
         ["rank_raids"] = nil,
@@ -62116,7 +62116,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4729,
         ["dps_max"] = 13915.88,
-        ["points"] = 8366.93233317706,
+        ["points"] = 8367.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -62141,7 +62141,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Ponquesito"] = {
-    ["percentile"] = 86.758,
+    ["percentile"] = 86.757,
     ["server"] = "Icecrown",
     ["overall_rank"] = 808,
     ["bosses"] = {
@@ -62166,7 +62166,7 @@ UWULogsData[6][2] = {
         ["points"] = 8434.843484348434,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 15583,
+        ["rank_raids"] = 15584,
         ["dps_max"] = 18906.98,
         ["points"] = 7887.754880676043,
       },
@@ -62176,9 +62176,9 @@ UWULogsData[6][2] = {
         ["points"] = 9317.728421332624,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6059,
+        ["rank_raids"] = 6061,
         ["dps_max"] = 15947.52,
-        ["points"] = 8599.8599859986,
+        ["points"] = 8598.859885988599,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2440,
@@ -62193,7 +62193,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3231,
         ["dps_max"] = 14236.51,
-        ["points"] = 8802.937959056104,
+        ["points"] = 8803.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -62270,7 +62270,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1494,
         ["dps_max"] = 14774.28,
-        ["points"] = 9334.2709798406,
+        ["points"] = 9334.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -62330,7 +62330,7 @@ UWULogsData[6][2] = {
         ["points"] = 7872.05745444873,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10591,
+        ["rank_raids"] = 10593,
         ["dps_max"] = 14999.9,
         ["points"] = 7753.775377537754,
       },
@@ -62347,7 +62347,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4175,
         ["dps_max"] = 14016.49,
-        ["points"] = 8541.959681200187,
+        ["points"] = 8542.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 864,
@@ -62424,7 +62424,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 10327,
         ["dps_max"] = 13030.03,
-        ["points"] = 6974.52726988592,
+        ["points"] = 6975.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -62501,7 +62501,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2047,
         ["dps_max"] = 14568.69,
-        ["points"] = 9152.99265510236,
+        ["points"] = 9153.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -62541,7 +62541,7 @@ UWULogsData[6][2] = {
         ["points"] = 9356.665698518733,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10096,
+        ["rank_raids"] = 10097,
         ["dps_max"] = 21195.21,
         ["points"] = 7942.8681283347905,
       },
@@ -62578,7 +62578,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7230,
         ["dps_max"] = 13482.47,
-        ["points"] = 7759.024847632443,
+        ["points"] = 7759.374999999999,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 368,
@@ -62603,7 +62603,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Nighttmaare"] = {
-    ["percentile"] = 86.724,
+    ["percentile"] = 86.723,
     ["server"] = "Icecrown",
     ["overall_rank"] = 814,
     ["bosses"] = {
@@ -62613,7 +62613,7 @@ UWULogsData[6][2] = {
         ["points"] = 9813.981398139815,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 8445,
+        ["rank_raids"] = 8446,
         ["dps_max"] = 16852.95,
         ["points"] = 7406.331687481847,
       },
@@ -62638,9 +62638,9 @@ UWULogsData[6][2] = {
         ["points"] = 9466.684399521213,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6400,
+        ["rank_raids"] = 6402,
         ["dps_max"] = 15863.57,
-        ["points"] = 8547.854785478548,
+        ["points"] = 8546.854685468546,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5042,
@@ -62655,7 +62655,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 850,
         ["dps_max"] = 15107.49,
-        ["points"] = 9570.245350836069,
+        ["points"] = 9570.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -62680,17 +62680,17 @@ UWULogsData[6][2] = {
     },
   },
   ["Bendiq"] = {
-    ["percentile"] = 86.653,
+    ["percentile"] = 86.652,
     ["server"] = "Icecrown",
     ["overall_rank"] = 815,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 15332,
+        ["rank_raids"] = 15334,
         ["dps_max"] = 17831.68,
         ["points"] = 6642.664266426642,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 10448,
+        ["rank_raids"] = 10449,
         ["dps_max"] = 16241.18,
         ["points"] = 6918.385129247749,
       },
@@ -62715,9 +62715,9 @@ UWULogsData[6][2] = {
         ["points"] = 8797.712461763533,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6893,
+        ["rank_raids"] = 6895,
         ["dps_max"] = 15736.54,
-        ["points"] = 8456.845684568458,
+        ["points"] = 8455.845584558456,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 432,
@@ -62732,7 +62732,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4148,
         ["dps_max"] = 14022.49,
-        ["points"] = 8546.647913736522,
+        ["points"] = 8546.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -62777,9 +62777,9 @@ UWULogsData[6][2] = {
         ["points"] = 8804.880488048806,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6842,
+        ["rank_raids"] = 6843,
         ["dps_max"] = 18810.01,
-        ["points"] = 8277.827782778277,
+        ["points"] = 8276.827682768277,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2831,
@@ -62792,7 +62792,7 @@ UWULogsData[6][2] = {
         ["points"] = 8856.230881766192,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 8582,
+        ["rank_raids"] = 8584,
         ["dps_max"] = 15384.39,
         ["points"] = 8126.812681268127,
       },
@@ -62809,7 +62809,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2180,
         ["dps_max"] = 14528.14,
-        ["points"] = 9113.924050632912,
+        ["points"] = 9114.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -62886,7 +62886,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2799,
         ["dps_max"] = 14349.69,
-        ["points"] = 8924.83200500078,
+        ["points"] = 8925.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -62921,7 +62921,7 @@ UWULogsData[6][2] = {
         ["points"] = 9179.91799179918,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 11138,
+        ["rank_raids"] = 11140,
         ["dps_max"] = 16054.54,
         ["points"] = 6722.335172814406,
       },
@@ -62963,7 +62963,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3642,
         ["dps_max"] = 14138.53,
-        ["points"] = 8681.043913111424,
+        ["points"] = 8681.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1526,
@@ -62988,12 +62988,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Fatpandaz"] = {
-    ["percentile"] = 86.571,
+    ["percentile"] = 86.569,
     ["server"] = "Icecrown",
     ["overall_rank"] = 819,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 13438,
+        ["rank_raids"] = 13439,
         ["dps_max"] = 18085.75,
         ["points"] = 6946.694669466946,
       },
@@ -63008,12 +63008,12 @@ UWULogsData[6][2] = {
         ["points"] = 8657.865786578657,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 9384,
+        ["rank_raids"] = 9385,
         ["dps_max"] = 18485.26,
-        ["points"] = 7864.786478647865,
+        ["points"] = 7863.786378637864,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 11453,
+        ["rank_raids"] = 11454,
         ["dps_max"] = 19351.62,
         ["points"] = 8073.253110966856,
       },
@@ -63023,9 +63023,9 @@ UWULogsData[6][2] = {
         ["points"] = 9360.28727224365,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6001,
+        ["rank_raids"] = 6003,
         ["dps_max"] = 15961.8,
-        ["points"] = 8610.86108610861,
+        ["points"] = 8609.860986098609,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1223,
@@ -63040,7 +63040,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1931,
         ["dps_max"] = 14602.85,
-        ["points"] = 9190.49851539303,
+        ["points"] = 9190.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 253,
@@ -63064,90 +63064,13 @@ UWULogsData[6][2] = {
       },
     },
   },
-  ["Martinelli"] = {
+  ["Pikaboo"] = {
     ["percentile"] = 86.561,
     ["server"] = "Icecrown",
     ["overall_rank"] = 820,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2616,
-        ["dps_max"] = 20459.02,
-        ["points"] = 9139.91399139914,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 3674,
-        ["dps_max"] = 18523.73,
-        ["points"] = 8623.29363926808,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7154,
-        ["dps_max"] = 21613.63,
-        ["points"] = 8397.839783978397,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 6501,
-        ["dps_max"] = 18859.63,
-        ["points"] = 8344.834483448345,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 2828,
-        ["dps_max"] = 20730.9,
-        ["points"] = 9127.912791279128,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 2494,
-        ["dps_max"] = 18052.45,
-        ["points"] = 9259.210001329964,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 5097,
-        ["dps_max"] = 16243.15,
-        ["points"] = 8770.87708770877,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3743,
-        ["dps_max"] = 21728.11,
-        ["points"] = 8428.1,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 6851,
-        ["dps_max"] = 12876.94,
-        ["points"] = 7514.733362081357,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 2842,
-        ["dps_max"] = 14338.69,
-        ["points"] = 8907.641819034225,
-      },
-      ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Halion"] = {
-        ["rank_raids"] = 1185,
-        ["dps_max"] = 11290.05,
-        ["points"] = 9277.0,
-      },
-      ["Anub'arak"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Valithria Dreamwalker"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-    },
-  },
-  ["Pikaboo"] = {
-    ["percentile"] = 86.561,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 821,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 11885,
+        ["rank_raids"] = 11886,
         ["dps_max"] = 18304.9,
         ["points"] = 7221.722172217222,
       },
@@ -63194,7 +63117,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 555,
         ["dps_max"] = 15387.38,
-        ["points"] = 9679.637443350524,
+        ["points"] = 9679.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -63205,6 +63128,83 @@ UWULogsData[6][2] = {
         ["rank_raids"] = nil,
         ["dps_max"] = nil,
         ["points"] = nil,
+      },
+      ["Anub'arak"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Valithria Dreamwalker"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+    },
+  },
+  ["Martinelli"] = {
+    ["percentile"] = 86.561,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 821,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 2616,
+        ["dps_max"] = 20459.02,
+        ["points"] = 9139.91399139914,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 3674,
+        ["dps_max"] = 18523.73,
+        ["points"] = 8623.29363926808,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 7154,
+        ["dps_max"] = 21613.63,
+        ["points"] = 8397.839783978397,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 6501,
+        ["dps_max"] = 18859.63,
+        ["points"] = 8344.834483448345,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 2828,
+        ["dps_max"] = 20730.9,
+        ["points"] = 9127.912791279128,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 2494,
+        ["dps_max"] = 18052.45,
+        ["points"] = 9259.210001329964,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 5098,
+        ["dps_max"] = 16243.15,
+        ["points"] = 8769.87698769877,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 3743,
+        ["dps_max"] = 21728.11,
+        ["points"] = 8428.1,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 6851,
+        ["dps_max"] = 12876.94,
+        ["points"] = 7514.733362081357,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 2842,
+        ["dps_max"] = 14338.69,
+        ["points"] = 8907.8125,
+      },
+      ["Toravon the Ice Watcher"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Halion"] = {
+        ["rank_raids"] = 1185,
+        ["dps_max"] = 11290.05,
+        ["points"] = 9277.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -63229,7 +63229,7 @@ UWULogsData[6][2] = {
         ["points"] = 9759.97599759976,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 10644,
+        ["rank_raids"] = 10645,
         ["dps_max"] = 16184.23,
         ["points"] = 6866.105140865524,
       },
@@ -63244,7 +63244,7 @@ UWULogsData[6][2] = {
         ["points"] = 9806.980698069807,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 10861,
+        ["rank_raids"] = 10862,
         ["dps_max"] = 19418.78,
         ["points"] = 8101.27142048991,
       },
@@ -63254,7 +63254,7 @@ UWULogsData[6][2] = {
         ["points"] = 7796.249501263465,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 11440,
+        ["rank_raids"] = 11442,
         ["dps_max"] = 14859.82,
         ["points"] = 7605.760576057605,
       },
@@ -63271,7 +63271,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 634,
         ["dps_max"] = 15296.58,
-        ["points"] = 9656.196280668855,
+        ["points"] = 9656.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -63348,12 +63348,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 10609,
         ["dps_max"] = 12989.81,
-        ["points"] = 6915.142991092358,
+        ["points"] = 6915.625,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 3850,
+        ["rank_raids"] = 3851,
         ["dps_max"] = 10832.34,
-        ["points"] = 8396.0,
+        ["points"] = 8395.7,
       },
       ["Halion"] = {
         ["rank_raids"] = 9514,
@@ -63373,12 +63373,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Rarest"] = {
-    ["percentile"] = 86.534,
+    ["percentile"] = 86.533,
     ["server"] = "Icecrown",
     ["overall_rank"] = 824,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9571,
+        ["rank_raids"] = 9572,
         ["dps_max"] = 18660.58,
         ["points"] = 7622.762276227622,
       },
@@ -63388,9 +63388,9 @@ UWULogsData[6][2] = {
         ["points"] = 9503.340110368865,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9072,
+        ["rank_raids"] = 9073,
         ["dps_max"] = 21335.78,
-        ["points"] = 8091.809180918091,
+        ["points"] = 8090.809080908091,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2251,
@@ -63408,7 +63408,7 @@ UWULogsData[6][2] = {
         ["points"] = 8963.957973134726,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10095,
+        ["rank_raids"] = 10097,
         ["dps_max"] = 15087.3,
         ["points"] = 7850.78507850785,
       },
@@ -63425,7 +63425,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3385,
         ["dps_max"] = 14200.01,
-        ["points"] = 8749.804656977652,
+        ["points"] = 8750.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -63460,9 +63460,9 @@ UWULogsData[6][2] = {
         ["points"] = 9453.945394539454,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 14402,
+        ["rank_raids"] = 14404,
         ["dps_max"] = 15191.32,
-        ["points"] = 6110.799999999999,
+        ["points"] = 6110.599999999999,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 299,
@@ -63502,7 +63502,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1265,
         ["dps_max"] = 14885.37,
-        ["points"] = 9418.659165494608,
+        ["points"] = 9418.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -63527,12 +63527,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Loueysap"] = {
-    ["percentile"] = 86.516,
+    ["percentile"] = 86.514,
     ["server"] = "Icecrown",
     ["overall_rank"] = 826,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9191,
+        ["rank_raids"] = 9192,
         ["dps_max"] = 18723.56,
         ["points"] = 7683.768376837684,
       },
@@ -63542,9 +63542,9 @@ UWULogsData[6][2] = {
         ["points"] = 8170.2004066221325,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8793,
+        ["rank_raids"] = 8794,
         ["dps_max"] = 21372.96,
-        ["points"] = 8132.813281328133,
+        ["points"] = 8131.813181318132,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5822,
@@ -63562,9 +63562,9 @@ UWULogsData[6][2] = {
         ["points"] = 8967.947865407634,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5945,
+        ["rank_raids"] = 5947,
         ["dps_max"] = 15976.22,
-        ["points"] = 8621.862186218621,
+        ["points"] = 8620.86208620862,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 992,
@@ -63579,7 +63579,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2868,
         ["dps_max"] = 14330.1,
-        ["points"] = 8899.828098140335,
+        ["points"] = 8900.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -63604,7 +63604,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Raijinyuki"] = {
-    ["percentile"] = 86.499,
+    ["percentile"] = 86.5,
     ["server"] = "Icecrown",
     ["overall_rank"] = 827,
     ["bosses"] = {
@@ -63619,17 +63619,17 @@ UWULogsData[6][2] = {
         ["points"] = 9037.17688062736,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 16539,
+        ["rank_raids"] = 16541,
         ["dps_max"] = 20449.86,
         ["points"] = 7663.549510616243,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 13248,
+        ["rank_raids"] = 13249,
         ["dps_max"] = 18083.36,
         ["points"] = 7429.53727677526,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9788,
+        ["rank_raids"] = 9789,
         ["dps_max"] = 19546.38,
         ["points"] = 8154.5045398338925,
       },
@@ -63656,7 +63656,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4028,
         ["dps_max"] = 14044.58,
-        ["points"] = 8577.902797312081,
+        ["points"] = 8578.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -63716,9 +63716,9 @@ UWULogsData[6][2] = {
         ["points"] = 7911.956377177817,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4619,
+        ["rank_raids"] = 4620,
         ["dps_max"] = 16379.82,
-        ["points"] = 8869.88698869887,
+        ["points"] = 8868.886888688869,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2052,
@@ -63733,7 +63733,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2578,
         ["dps_max"] = 14413.91,
-        ["points"] = 8999.84372558212,
+        ["points"] = 9000.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -63810,7 +63810,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4985,
         ["dps_max"] = 13869.4,
-        ["points"] = 8295.046100953274,
+        ["points"] = 8295.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -63835,17 +63835,17 @@ UWULogsData[6][2] = {
     },
   },
   ["Sarkant"] = {
-    ["percentile"] = 86.469,
+    ["percentile"] = 86.468,
     ["server"] = "Icecrown",
     ["overall_rank"] = 830,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 11432,
+        ["rank_raids"] = 11433,
         ["dps_max"] = 18372.16,
         ["points"] = 7307.730773077308,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 9523,
+        ["rank_raids"] = 9524,
         ["dps_max"] = 16514.4,
         ["points"] = 7133.313970374673,
       },
@@ -63865,14 +63865,14 @@ UWULogsData[6][2] = {
         ["points"] = 9941.994199419942,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 10756,
+        ["rank_raids"] = 10757,
         ["dps_max"] = 15385.86,
         ["points"] = 7248.304295784013,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7227,
+        ["rank_raids"] = 7229,
         ["dps_max"] = 15658.36,
-        ["points"] = 8383.838383838383,
+        ["points"] = 8382.838283828383,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 52,
@@ -63887,7 +63887,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1922,
         ["dps_max"] = 14606.53,
-        ["points"] = 9193.624003750585,
+        ["points"] = 9193.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 451,
@@ -63964,7 +63964,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4047,
         ["dps_max"] = 14041.85,
-        ["points"] = 8573.214564775746,
+        ["points"] = 8573.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 596,
@@ -63989,7 +63989,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Twinssix"] = {
-    ["percentile"] = 86.45,
+    ["percentile"] = 86.449,
     ["server"] = "Icecrown",
     ["overall_rank"] = 832,
     ["bosses"] = {
@@ -63999,7 +63999,7 @@ UWULogsData[6][2] = {
         ["points"] = 8745.874587458746,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 9191,
+        ["rank_raids"] = 9192,
         ["dps_max"] = 16613.99,
         ["points"] = 7214.638396747023,
       },
@@ -64024,9 +64024,9 @@ UWULogsData[6][2] = {
         ["points"] = 8670.035909030456,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4362,
+        ["rank_raids"] = 4363,
         ["dps_max"] = 16462.06,
-        ["points"] = 8915.891589158917,
+        ["points"] = 8914.891489148915,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3592,
@@ -64041,7 +64041,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3326,
         ["dps_max"] = 14214.39,
-        ["points"] = 8766.99484294421,
+        ["points"] = 8767.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 123,
@@ -64066,7 +64066,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Wabolda"] = {
-    ["percentile"] = 86.434,
+    ["percentile"] = 86.435,
     ["server"] = "Icecrown",
     ["overall_rank"] = 833,
     ["bosses"] = {
@@ -64081,7 +64081,7 @@ UWULogsData[6][2] = {
         ["points"] = 9828.637815858263,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 15033,
+        ["rank_raids"] = 15034,
         ["dps_max"] = 20612.04,
         ["points"] = 7724.326183885974,
       },
@@ -64118,7 +64118,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8176,
         ["dps_max"] = 13342.43,
-        ["points"] = 7498.046569776528,
+        ["points"] = 7498.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -64195,12 +64195,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 10844,
         ["dps_max"] = 12956.98,
-        ["points"] = 6865.135177371464,
+        ["points"] = 6865.625,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 9179,
+        ["rank_raids"] = 9181,
         ["dps_max"] = 6508.7,
-        ["points"] = 6797.3,
+        ["points"] = 6796.7,
       },
       ["Halion"] = {
         ["rank_raids"] = 20175,
@@ -64272,7 +64272,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6921,
         ["dps_max"] = 13534.59,
-        ["points"] = 7826.222847319894,
+        ["points"] = 7826.562500000001,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -64302,7 +64302,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 836,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8248,
+        ["rank_raids"] = 8249,
         ["dps_max"] = 18887.37,
         ["points"] = 7857.785778577858,
       },
@@ -64332,7 +64332,7 @@ UWULogsData[6][2] = {
         ["points"] = 9031.786141774171,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 9155,
+        ["rank_raids"] = 9157,
         ["dps_max"] = 15271.72,
         ["points"] = 8021.802180218022,
       },
@@ -64347,7 +64347,7 @@ UWULogsData[6][2] = {
         ["points"] = 8288.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 13894,
+        ["rank_raids"] = 13895,
         ["dps_max"] = 12560.61,
         ["points"] = 6643.754935631172,
       },
@@ -64374,7 +64374,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Cebollin"] = {
-    ["percentile"] = 86.397,
+    ["percentile"] = 86.396,
     ["server"] = "Icecrown",
     ["overall_rank"] = 837,
     ["bosses"] = {
@@ -64389,9 +64389,9 @@ UWULogsData[6][2] = {
         ["points"] = 9106.88353180366,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8770,
+        ["rank_raids"] = 8771,
         ["dps_max"] = 21377.06,
-        ["points"] = 8138.813881388139,
+        ["points"] = 8137.813781378138,
       },
       ["Festergut"] = {
         ["rank_raids"] = 990,
@@ -64426,7 +64426,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9271,
         ["dps_max"] = 13183.9,
-        ["points"] = 7226.1290826691675,
+        ["points"] = 7226.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 138,
@@ -64486,14 +64486,14 @@ UWULogsData[6][2] = {
         ["points"] = 9199.361617236334,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 11883,
+        ["rank_raids"] = 11885,
         ["dps_max"] = 14791.1,
         ["points"] = 7516.751675167517,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 22865,
+        ["rank_raids"] = 22866,
         ["dps_max"] = 15911.13,
-        ["points"] = 5264.5,
+        ["points"] = 5264.400000000001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2351,
@@ -64503,7 +64503,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1758,
         ["dps_max"] = 14673.26,
-        ["points"] = 9253.008282544148,
+        ["points"] = 9253.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -64528,7 +64528,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Gense"] = {
-    ["percentile"] = 86.372,
+    ["percentile"] = 86.373,
     ["server"] = "Icecrown",
     ["overall_rank"] = 839,
     ["bosses"] = {
@@ -64558,7 +64558,7 @@ UWULogsData[6][2] = {
         ["points"] = 9074.907490749074,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 11989,
+        ["rank_raids"] = 11990,
         ["dps_max"] = 15136.07,
         ["points"] = 6969.01183668041,
       },
@@ -64580,7 +64580,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5283,
         ["dps_max"] = 13813.77,
-        ["points"] = 8221.597124550712,
+        ["points"] = 8221.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 398,
@@ -64605,7 +64605,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Thereaperr"] = {
-    ["percentile"] = 86.364,
+    ["percentile"] = 86.363,
     ["server"] = "Icecrown",
     ["overall_rank"] = 840,
     ["bosses"] = {
@@ -64620,7 +64620,7 @@ UWULogsData[6][2] = {
         ["points"] = 8889.050246877723,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10276,
+        ["rank_raids"] = 10277,
         ["dps_max"] = 21171.73,
         ["points"] = 7934.069039122968,
       },
@@ -64640,9 +64640,9 @@ UWULogsData[6][2] = {
         ["points"] = 9132.863412687857,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6536,
+        ["rank_raids"] = 6538,
         ["dps_max"] = 15826.3,
-        ["points"] = 8519.85198519852,
+        ["points"] = 8518.851885188518,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2458,
@@ -64657,7 +64657,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3524,
         ["dps_max"] = 14163.96,
-        ["points"] = 8707.61056415065,
+        ["points"] = 8707.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -64682,12 +64682,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Takamiya"] = {
-    ["percentile"] = 86.361,
+    ["percentile"] = 86.36,
     ["server"] = "Icecrown",
     ["overall_rank"] = 841,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8031,
+        ["rank_raids"] = 8032,
         ["dps_max"] = 18925.46,
         ["points"] = 7903.790379037904,
       },
@@ -64702,9 +64702,9 @@ UWULogsData[6][2] = {
         ["points"] = 9344.934493449346,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6676,
+        ["rank_raids"] = 6677,
         ["dps_max"] = 18836.33,
-        ["points"] = 8302.830283028303,
+        ["points"] = 8301.8301830183,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2464,
@@ -64734,7 +64734,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4735,
         ["dps_max"] = 13915.02,
-        ["points"] = 8362.244100640726,
+        ["points"] = 8362.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -64811,7 +64811,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 10360,
         ["dps_max"] = 13024.3,
-        ["points"] = 6965.150804813252,
+        ["points"] = 6965.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -64856,9 +64856,9 @@ UWULogsData[6][2] = {
         ["points"] = 9640.964096409642,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6736,
+        ["rank_raids"] = 6737,
         ["dps_max"] = 18826.73,
-        ["points"] = 8294.829482948295,
+        ["points"] = 8293.829382938293,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3171,
@@ -64888,7 +64888,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8822,
         ["dps_max"] = 13251.28,
-        ["points"] = 7340.209407719956,
+        ["points"] = 7340.624999999999,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -64923,7 +64923,7 @@ UWULogsData[6][2] = {
         ["points"] = 8743.874387438744,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 9699,
+        ["rank_raids"] = 9700,
         ["dps_max"] = 16463.2,
         ["points"] = 7091.199535288993,
       },
@@ -64943,7 +64943,7 @@ UWULogsData[6][2] = {
         ["points"] = 9215.921592159217,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 14320,
+        ["rank_raids"] = 14321,
         ["dps_max"] = 14716.69,
         ["points"] = 6471.605266657801,
       },
@@ -64965,7 +64965,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2465,
         ["dps_max"] = 14447.21,
-        ["points"] = 9029.535864978903,
+        ["points"] = 9029.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 721,
@@ -65010,9 +65010,9 @@ UWULogsData[6][2] = {
         ["points"] = 8753.875387538754,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7282,
+        ["rank_raids"] = 7283,
         ["dps_max"] = 18752.38,
-        ["points"] = 8195.819581958196,
+        ["points"] = 8194.819481948194,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1879,
@@ -65042,12 +65042,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3428,
         ["dps_max"] = 14186.99,
-        ["points"] = 8732.614471011095,
+        ["points"] = 8732.8125,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2386,
+        ["rank_raids"] = 2387,
         ["dps_max"] = 12326.68,
-        ["points"] = 8835.2,
+        ["points"] = 8834.900000000001,
       },
       ["Halion"] = {
         ["rank_raids"] = 12251,
@@ -65072,7 +65072,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 846,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 18739,
+        ["rank_raids"] = 18741,
         ["dps_max"] = 17425.12,
         ["points"] = 6406.857073103114,
       },
@@ -65102,7 +65102,7 @@ UWULogsData[6][2] = {
         ["points"] = 9090.304561776831,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 9055,
+        ["rank_raids"] = 9057,
         ["dps_max"] = 15290.19,
         ["points"] = 8039.80398039804,
       },
@@ -65119,7 +65119,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4352,
         ["dps_max"] = 13984.71,
-        ["points"] = 8488.826379121738,
+        ["points"] = 8489.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -65149,7 +65149,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 847,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 12252,
+        ["rank_raids"] = 12253,
         ["dps_max"] = 18247.29,
         ["points"] = 7143.714371437143,
       },
@@ -65159,7 +65159,7 @@ UWULogsData[6][2] = {
         ["points"] = 9198.373511472553,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 14314,
+        ["rank_raids"] = 14315,
         ["dps_max"] = 20692.37,
         ["points"] = 7754.42971184107,
       },
@@ -65196,7 +65196,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4408,
         ["dps_max"] = 13973.3,
-        ["points"] = 8468.510704797625,
+        ["points"] = 8468.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -65221,7 +65221,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Hwaringo"] = {
-    ["percentile"] = 86.283,
+    ["percentile"] = 86.282,
     ["server"] = "Icecrown",
     ["overall_rank"] = 848,
     ["bosses"] = {
@@ -65231,7 +65231,7 @@ UWULogsData[6][2] = {
         ["points"] = 9292.929292929293,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 8077,
+        ["rank_raids"] = 8078,
         ["dps_max"] = 16971.6,
         ["points"] = 7489.108335753704,
       },
@@ -65256,9 +65256,9 @@ UWULogsData[6][2] = {
         ["points"] = 8493.150684931506,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7008,
+        ["rank_raids"] = 7010,
         ["dps_max"] = 15710.67,
-        ["points"] = 8433.843384338434,
+        ["points"] = 8432.843284328434,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 178,
@@ -65271,7 +65271,7 @@ UWULogsData[6][2] = {
         ["points"] = 8174.300000000001,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 12874,
+        ["rank_raids"] = 12875,
         ["dps_max"] = 12687.08,
         ["points"] = 6710.649432531343,
       },
@@ -65298,7 +65298,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Rookaboi"] = {
-    ["percentile"] = 86.269,
+    ["percentile"] = 86.27,
     ["server"] = "Icecrown",
     ["overall_rank"] = 849,
     ["bosses"] = {
@@ -65308,7 +65308,7 @@ UWULogsData[6][2] = {
         ["points"] = 9056.905690569058,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7706,
+        ["rank_raids"] = 7707,
         ["dps_max"] = 17088.05,
         ["points"] = 7605.286087714203,
       },
@@ -65328,7 +65328,7 @@ UWULogsData[6][2] = {
         ["points"] = 9568.95689568957,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 12447,
+        ["rank_raids"] = 12448,
         ["dps_max"] = 15052.81,
         ["points"] = 6869.264529857694,
       },
@@ -65350,7 +65350,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8660,
         ["dps_max"] = 13274.83,
-        ["points"] = 7383.966244725738,
+        ["points"] = 7384.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 634,
@@ -65385,12 +65385,12 @@ UWULogsData[6][2] = {
         ["points"] = 9366.936693669366,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7204,
+        ["rank_raids"] = 7205,
         ["dps_max"] = 17242.51,
         ["points"] = 7721.463839674702,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10449,
+        ["rank_raids"] = 10450,
         ["dps_max"] = 21149.38,
         ["points"] = 7925.693415448173,
       },
@@ -65427,7 +65427,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7945,
         ["dps_max"] = 13376.19,
-        ["points"] = 7569.932802000312,
+        ["points"] = 7570.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1710,
@@ -65452,7 +65452,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Maachmut"] = {
-    ["percentile"] = 86.229,
+    ["percentile"] = 86.228,
     ["server"] = "Icecrown",
     ["overall_rank"] = 851,
     ["bosses"] = {
@@ -65462,12 +65462,12 @@ UWULogsData[6][2] = {
         ["points"] = 9785.978597859787,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 8841,
+        ["rank_raids"] = 8842,
         ["dps_max"] = 16729.74,
         ["points"] = 7287.249491722335,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 14632,
+        ["rank_raids"] = 14633,
         ["dps_max"] = 20654.94,
         ["points"] = 7740.402884362428,
       },
@@ -65487,9 +65487,9 @@ UWULogsData[6][2] = {
         ["points"] = 8886.820055858492,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6073,
+        ["rank_raids"] = 6075,
         ["dps_max"] = 15942.67,
-        ["points"] = 8596.859685968597,
+        ["points"] = 8595.859585958597,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 411,
@@ -65504,7 +65504,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5361,
         ["dps_max"] = 13802.83,
-        ["points"] = 8209.095171120487,
+        ["points"] = 8209.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1647,
@@ -65528,87 +65528,10 @@ UWULogsData[6][2] = {
       },
     },
   },
-  ["Darkrpwnzz"] = {
-    ["percentile"] = 86.223,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 852,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7309,
-        ["dps_max"] = 19063.48,
-        ["points"] = 8050.805080508051,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 4672,
-        ["dps_max"] = 18127.19,
-        ["points"] = 8360.44147545745,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8238,
-        ["dps_max"] = 21452.98,
-        ["points"] = 8222.822282228222,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 4589,
-        ["dps_max"] = 19155.4,
-        ["points"] = 8733.873387338734,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 6216,
-        ["dps_max"] = 20040.92,
-        ["points"] = 8434.843484348434,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 5417,
-        ["dps_max"] = 16741.34,
-        ["points"] = 8541.02939220641,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 5023,
-        ["dps_max"] = 16261.15,
-        ["points"] = 8786.878687868786,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2099,
-        ["dps_max"] = 25249.86,
-        ["points"] = 8921.300000000001,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 2474,
-        ["dps_max"] = 14279.94,
-        ["points"] = 8917.636912462267,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 1896,
-        ["dps_max"] = 14615.99,
-        ["points"] = 9206.12595718081,
-      },
-      ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 670,
-        ["dps_max"] = 14765.93,
-        ["points"] = 9516.0,
-      },
-      ["Halion"] = {
-        ["rank_raids"] = 392,
-        ["dps_max"] = 11932.81,
-        ["points"] = 9666.6,
-      },
-      ["Anub'arak"] = {
-        ["rank_raids"] = 472,
-        ["dps_max"] = 10195.79,
-        ["points"] = 8395.776566757493,
-      },
-      ["Valithria Dreamwalker"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-    },
-  },
   ["Dorsa"] = {
     ["percentile"] = 86.223,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 853,
+    ["overall_rank"] = 852,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1956,
@@ -65616,7 +65539,7 @@ UWULogsData[6][2] = {
         ["points"] = 9339.93399339934,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 11648,
+        ["rank_raids"] = 11650,
         ["dps_max"] = 15918.97,
         ["points"] = 6582.921870461806,
       },
@@ -65641,7 +65564,7 @@ UWULogsData[6][2] = {
         ["points"] = 8817.661923128075,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10661,
+        ["rank_raids"] = 10663,
         ["dps_max"] = 14989.59,
         ["points"] = 7744.774477447744,
       },
@@ -65658,7 +65581,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4073,
         ["dps_max"] = 14037.61,
-        ["points"] = 8571.651820596968,
+        ["points"] = 8571.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 612,
@@ -65682,6 +65605,83 @@ UWULogsData[6][2] = {
       },
     },
   },
+  ["Darkrpwnzz"] = {
+    ["percentile"] = 86.221,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 853,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 7310,
+        ["dps_max"] = 19063.48,
+        ["points"] = 8050.805080508051,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 4672,
+        ["dps_max"] = 18127.19,
+        ["points"] = 8360.44147545745,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 8239,
+        ["dps_max"] = 21452.98,
+        ["points"] = 8221.822182218222,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 4589,
+        ["dps_max"] = 19155.4,
+        ["points"] = 8733.873387338734,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 6216,
+        ["dps_max"] = 20040.92,
+        ["points"] = 8434.843484348434,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 5417,
+        ["dps_max"] = 16741.34,
+        ["points"] = 8541.02939220641,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 5024,
+        ["dps_max"] = 16261.15,
+        ["points"] = 8785.878587858786,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 2099,
+        ["dps_max"] = 25249.86,
+        ["points"] = 8921.300000000001,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 2474,
+        ["dps_max"] = 14279.94,
+        ["points"] = 8917.636912462267,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 1896,
+        ["dps_max"] = 14615.99,
+        ["points"] = 9206.25,
+      },
+      ["Toravon the Ice Watcher"] = {
+        ["rank_raids"] = 670,
+        ["dps_max"] = 14765.93,
+        ["points"] = 9516.0,
+      },
+      ["Halion"] = {
+        ["rank_raids"] = 392,
+        ["dps_max"] = 11932.81,
+        ["points"] = 9666.6,
+      },
+      ["Anub'arak"] = {
+        ["rank_raids"] = 472,
+        ["dps_max"] = 10195.79,
+        ["points"] = 8395.776566757493,
+      },
+      ["Valithria Dreamwalker"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+    },
+  },
   ["Keyarogue"] = {
     ["percentile"] = 86.213,
     ["server"] = "Icecrown",
@@ -65693,7 +65693,7 @@ UWULogsData[6][2] = {
         ["points"] = 8516.851685168518,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 21282,
+        ["rank_raids"] = 21284,
         ["dps_max"] = 13532.94,
         ["points"] = 5434.56427114552,
       },
@@ -65735,7 +65735,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2017,
         ["dps_max"] = 14577.78,
-        ["points"] = 9160.80637599625,
+        ["points"] = 9160.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -65760,7 +65760,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Bowetwo"] = {
-    ["percentile"] = 86.191,
+    ["percentile"] = 86.192,
     ["server"] = "Icecrown",
     ["overall_rank"] = 855,
     ["bosses"] = {
@@ -65812,12 +65812,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9219,
         ["dps_max"] = 13190.35,
-        ["points"] = 7241.756524456946,
+        ["points"] = 7242.1875,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 3450,
+        ["rank_raids"] = 3451,
         ["dps_max"] = 11211.05,
-        ["points"] = 8516.0,
+        ["points"] = 8515.7,
       },
       ["Halion"] = {
         ["rank_raids"] = 5729,
@@ -65847,9 +65847,9 @@ UWULogsData[6][2] = {
         ["points"] = 9253.925392539253,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 16636,
+        ["rank_raids"] = 16638,
         ["dps_max"] = 14649.24,
-        ["points"] = 5887.400000000001,
+        ["points"] = 5887.2,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 4676,
@@ -65889,7 +65889,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5165,
         ["dps_max"] = 13834.74,
-        ["points"] = 8245.03828723238,
+        ["points"] = 8245.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -65914,7 +65914,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Dildobegins"] = {
-    ["percentile"] = 86.151,
+    ["percentile"] = 86.15,
     ["server"] = "Icecrown",
     ["overall_rank"] = 857,
     ["bosses"] = {
@@ -65929,9 +65929,9 @@ UWULogsData[6][2] = {
         ["points"] = 9317.455707232066,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9707,
+        ["rank_raids"] = 9708,
         ["dps_max"] = 21248.04,
-        ["points"] = 8001.800180018002,
+        ["points"] = 8000.800080008001,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5236,
@@ -65949,7 +65949,7 @@ UWULogsData[6][2] = {
         ["points"] = 8993.217183136056,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 12547,
+        ["rank_raids"] = 12549,
         ["dps_max"] = 14689.79,
         ["points"] = 7406.740674067407,
       },
@@ -65966,7 +65966,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5372,
         ["dps_max"] = 13800.99,
-        ["points"] = 8204.406938584154,
+        ["points"] = 8204.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -66001,7 +66001,7 @@ UWULogsData[6][2] = {
         ["points"] = 8989.89898989899,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 10510,
+        ["rank_raids"] = 10511,
         ["dps_max"] = 16221.63,
         ["points"] = 6899.506244554168,
       },
@@ -66043,7 +66043,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4689,
         ["dps_max"] = 13923.36,
-        ["points"] = 8379.434286607282,
+        ["points"] = 8379.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -66068,12 +66068,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Kuzatora"] = {
-    ["percentile"] = 86.142,
+    ["percentile"] = 86.141,
     ["server"] = "Icecrown",
     ["overall_rank"] = 859,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9212,
+        ["rank_raids"] = 9213,
         ["dps_max"] = 18721.05,
         ["points"] = 7677.767776777678,
       },
@@ -66103,9 +66103,9 @@ UWULogsData[6][2] = {
         ["points"] = 8130.0704880968215,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4849,
+        ["rank_raids"] = 4850,
         ["dps_max"] = 16306.67,
-        ["points"] = 8821.882188218822,
+        ["points"] = 8820.882088208822,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2710,
@@ -66120,7 +66120,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4629,
         ["dps_max"] = 13935.15,
-        ["points"] = 8399.749960931395,
+        ["points"] = 8400.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -66197,7 +66197,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2801,
         ["dps_max"] = 14349.13,
-        ["points"] = 8923.269260822004,
+        ["points"] = 8923.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -66213,83 +66213,6 @@ UWULogsData[6][2] = {
         ["rank_raids"] = nil,
         ["dps_max"] = nil,
         ["points"] = nil,
-      },
-      ["Valithria Dreamwalker"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-    },
-  },
-  ["Aviora"] = {
-    ["percentile"] = 86.113,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 861,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 3260,
-        ["dps_max"] = 20161.5,
-        ["points"] = 8978.89788978898,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 4429,
-        ["dps_max"] = 18216.93,
-        ["points"] = 8422.887017136218,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10200,
-        ["dps_max"] = 21180.66,
-        ["points"] = 7937.415541110258,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 8333,
-        ["dps_max"] = 18611.25,
-        ["points"] = 8039.80398039804,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 3623,
-        ["dps_max"] = 20535.01,
-        ["points"] = 8960.896089608961,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 4146,
-        ["dps_max"] = 17230.53,
-        ["points"] = 8857.560845857162,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 7202,
-        ["dps_max"] = 15663.93,
-        ["points"] = 8390.839083908391,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4349,
-        ["dps_max"] = 20956.27,
-        ["points"] = 8246.300000000001,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 2294,
-        ["dps_max"] = 14377.4,
-        ["points"] = 8992.381773753053,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 1805,
-        ["dps_max"] = 14652.68,
-        ["points"] = 9238.943584935147,
-      },
-      ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Halion"] = {
-        ["rank_raids"] = 1149,
-        ["dps_max"] = 11302.56,
-        ["points"] = 9291.4,
-      },
-      ["Anub'arak"] = {
-        ["rank_raids"] = 1199,
-        ["dps_max"] = 9061.1,
-        ["points"] = 5919.618528610355,
       },
       ["Valithria Dreamwalker"] = {
         ["rank_raids"] = nil,
@@ -66301,7 +66224,7 @@ UWULogsData[6][2] = {
   ["Kajabar"] = {
     ["percentile"] = 86.112,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 862,
+    ["overall_rank"] = 861,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4833,
@@ -66334,9 +66257,9 @@ UWULogsData[6][2] = {
         ["points"] = 8725.894400851177,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5202,
+        ["rank_raids"] = 5203,
         ["dps_max"] = 16204.65,
-        ["points"] = 8750.87508750875,
+        ["points"] = 8749.87498749875,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6247,
@@ -66351,7 +66274,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6830,
         ["dps_max"] = 13551.64,
-        ["points"] = 7849.664010001562,
+        ["points"] = 7850.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -66375,6 +66298,83 @@ UWULogsData[6][2] = {
       },
     },
   },
+  ["Aviora"] = {
+    ["percentile"] = 86.111,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 862,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 3260,
+        ["dps_max"] = 20161.5,
+        ["points"] = 8978.89788978898,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 4429,
+        ["dps_max"] = 18216.93,
+        ["points"] = 8422.887017136218,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 10201,
+        ["dps_max"] = 21180.66,
+        ["points"] = 7937.415541110258,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 8334,
+        ["dps_max"] = 18611.25,
+        ["points"] = 8038.803880388039,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 3623,
+        ["dps_max"] = 20535.01,
+        ["points"] = 8960.896089608961,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 4146,
+        ["dps_max"] = 17230.53,
+        ["points"] = 8857.560845857162,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 7204,
+        ["dps_max"] = 15663.93,
+        ["points"] = 8389.83898389839,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 4349,
+        ["dps_max"] = 20956.27,
+        ["points"] = 8246.300000000001,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 2294,
+        ["dps_max"] = 14377.4,
+        ["points"] = 8992.381773753053,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 1805,
+        ["dps_max"] = 14652.68,
+        ["points"] = 9239.0625,
+      },
+      ["Toravon the Ice Watcher"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Halion"] = {
+        ["rank_raids"] = 1149,
+        ["dps_max"] = 11302.56,
+        ["points"] = 9291.4,
+      },
+      ["Anub'arak"] = {
+        ["rank_raids"] = 1199,
+        ["dps_max"] = 9061.1,
+        ["points"] = 5919.618528610355,
+      },
+      ["Valithria Dreamwalker"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+    },
+  },
   ["Smy"] = {
     ["percentile"] = 86.099,
     ["server"] = "Icecrown",
@@ -66386,7 +66386,7 @@ UWULogsData[6][2] = {
         ["points"] = 8253.825382538253,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7001,
+        ["rank_raids"] = 7002,
         ["dps_max"] = 17307.62,
         ["points"] = 7769.387162358409,
       },
@@ -66411,7 +66411,7 @@ UWULogsData[6][2] = {
         ["points"] = 8223.16797446469,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10128,
+        ["rank_raids"] = 10130,
         ["dps_max"] = 15081.38,
         ["points"] = 7843.784378437844,
       },
@@ -66428,7 +66428,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5484,
         ["dps_max"] = 13781.04,
-        ["points"] = 8182.528520081262,
+        ["points"] = 8182.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -66453,7 +66453,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Fastafboi"] = {
-    ["percentile"] = 86.098,
+    ["percentile"] = 86.097,
     ["server"] = "Icecrown",
     ["overall_rank"] = 864,
     ["bosses"] = {
@@ -66488,9 +66488,9 @@ UWULogsData[6][2] = {
         ["points"] = 8713.924724032451,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5983,
+        ["rank_raids"] = 5985,
         ["dps_max"] = 15966.84,
-        ["points"] = 8613.861386138613,
+        ["points"] = 8612.861286128613,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 8581,
@@ -66505,7 +66505,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3209,
         ["dps_max"] = 14241.04,
-        ["points"] = 8810.751679949992,
+        ["points"] = 8810.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -66530,12 +66530,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Vinkz"] = {
-    ["percentile"] = 86.095,
+    ["percentile"] = 86.094,
     ["server"] = "Icecrown",
     ["overall_rank"] = 865,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9331,
+        ["rank_raids"] = 9332,
         ["dps_max"] = 18700.65,
         ["points"] = 7659.76597659766,
       },
@@ -66545,9 +66545,9 @@ UWULogsData[6][2] = {
         ["points"] = 8337.20592506535,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8707,
+        ["rank_raids"] = 8708,
         ["dps_max"] = 21385.55,
-        ["points"] = 8147.814781478148,
+        ["points"] = 8146.814681468147,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2858,
@@ -66565,7 +66565,7 @@ UWULogsData[6][2] = {
         ["points"] = 8537.039499933502,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 12181,
+        ["rank_raids"] = 12183,
         ["dps_max"] = 14743.8,
         ["points"] = 7466.746674667467,
       },
@@ -66582,7 +66582,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3375,
         ["dps_max"] = 14201.98,
-        ["points"] = 8751.36740115643,
+        ["points"] = 8751.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -66642,9 +66642,9 @@ UWULogsData[6][2] = {
         ["points"] = 8416.012767655273,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6772,
+        ["rank_raids"] = 6774,
         ["dps_max"] = 15764.35,
-        ["points"] = 8480.848084808482,
+        ["points"] = 8479.84798479848,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2481,
@@ -66659,12 +66659,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7543,
         ["dps_max"] = 13435.01,
-        ["points"] = 7687.138615408658,
+        ["points"] = 7687.5,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 6081,
+        ["rank_raids"] = 6082,
         ["dps_max"] = 9065.7,
-        ["points"] = 7726.700000000001,
+        ["points"] = 7726.4,
       },
       ["Halion"] = {
         ["rank_raids"] = 16548,
@@ -66736,7 +66736,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3389,
         ["dps_max"] = 14198.17,
-        ["points"] = 8748.241912798876,
+        ["points"] = 8748.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -66766,12 +66766,12 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 868,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 12117,
+        ["rank_raids"] = 12118,
         ["dps_max"] = 18271.0,
         ["points"] = 7170.717071707171,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7169,
+        ["rank_raids"] = 7170,
         ["dps_max"] = 17252.55,
         ["points"] = 7728.724949172233,
       },
@@ -66796,7 +66796,7 @@ UWULogsData[6][2] = {
         ["points"] = 8946.668439952122,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 11879,
+        ["rank_raids"] = 11881,
         ["dps_max"] = 14792.17,
         ["points"] = 7519.75197519752,
       },
@@ -66813,7 +66813,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4773,
         ["dps_max"] = 13908.4,
-        ["points"] = 8348.179403031723,
+        ["points"] = 8348.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -66848,9 +66848,9 @@ UWULogsData[6][2] = {
         ["points"] = 9242.924292429243,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 15530,
+        ["rank_raids"] = 15532,
         ["dps_max"] = 14907.4,
-        ["points"] = 5998.0,
+        ["points"] = 5997.8,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3611,
@@ -66868,7 +66868,7 @@ UWULogsData[6][2] = {
         ["points"] = 9142.914291429142,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 11477,
+        ["rank_raids"] = 11478,
         ["dps_max"] = 15239.96,
         ["points"] = 7082.058784412821,
       },
@@ -66890,7 +66890,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5395,
         ["dps_max"] = 13796.39,
-        ["points"] = 8199.71870604782,
+        ["points"] = 8200.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -66915,7 +66915,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Glorzo"] = {
-    ["percentile"] = 86.051,
+    ["percentile"] = 86.05,
     ["server"] = "Icecrown",
     ["overall_rank"] = 870,
     ["bosses"] = {
@@ -66935,9 +66935,9 @@ UWULogsData[6][2] = {
         ["points"] = 8744.874487448746,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6993,
+        ["rank_raids"] = 6994,
         ["dps_max"] = 18791.19,
-        ["points"] = 8250.82508250825,
+        ["points"] = 8249.824982498249,
       },
       ["Rotface"] = {
         ["rank_raids"] = 4106,
@@ -66967,7 +66967,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1113,
         ["dps_max"] = 14955.39,
-        ["points"] = 9479.606188466949,
+        ["points"] = 9479.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -66992,12 +66992,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Garouna"] = {
-    ["percentile"] = 86.03,
+    ["percentile"] = 86.029,
     ["server"] = "Icecrown",
     ["overall_rank"] = 871,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7566,
+        ["rank_raids"] = 7567,
         ["dps_max"] = 19014.6,
         ["points"] = 8001.800180018002,
       },
@@ -67027,9 +67027,9 @@ UWULogsData[6][2] = {
         ["points"] = 7959.83508445272,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6859,
+        ["rank_raids"] = 6861,
         ["dps_max"] = 15743.68,
-        ["points"] = 8467.846784678468,
+        ["points"] = 8466.846684668466,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 448,
@@ -67044,12 +67044,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9831,
         ["dps_max"] = 13101.07,
-        ["points"] = 7090.170339115487,
+        ["points"] = 7090.625,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 6978,
+        ["rank_raids"] = 6979,
         ["dps_max"] = 8361.03,
-        ["points"] = 7457.600000000001,
+        ["points"] = 7457.3,
       },
       ["Halion"] = {
         ["rank_raids"] = 1300,
@@ -67104,7 +67104,7 @@ UWULogsData[6][2] = {
         ["points"] = 8654.076339938822,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10122,
+        ["rank_raids"] = 10124,
         ["dps_max"] = 15082.23,
         ["points"] = 7845.784578457846,
       },
@@ -67121,7 +67121,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3126,
         ["dps_max"] = 14261.32,
-        ["points"] = 8832.630098452883,
+        ["points"] = 8832.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -67146,12 +67146,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Zarla"] = {
-    ["percentile"] = 86.023,
+    ["percentile"] = 86.022,
     ["server"] = "Icecrown",
     ["overall_rank"] = 873,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8066,
+        ["rank_raids"] = 8067,
         ["dps_max"] = 18919.23,
         ["points"] = 7898.789878987898,
       },
@@ -67166,9 +67166,9 @@ UWULogsData[6][2] = {
         ["points"] = 9354.935493549354,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6620,
+        ["rank_raids"] = 6621,
         ["dps_max"] = 18844.6,
-        ["points"] = 8313.831383138313,
+        ["points"] = 8312.831283128313,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2989,
@@ -67181,7 +67181,7 @@ UWULogsData[6][2] = {
         ["points"] = 9599.680808618168,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 9101,
+        ["rank_raids"] = 9103,
         ["dps_max"] = 15282.16,
         ["points"] = 8029.80298029803,
       },
@@ -67198,7 +67198,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2656,
         ["dps_max"] = 14390.68,
-        ["points"] = 8979.528051258008,
+        ["points"] = 8979.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 435,
@@ -67223,7 +67223,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Nightstyle"] = {
-    ["percentile"] = 86.006,
+    ["percentile"] = 86.005,
     ["server"] = "Icecrown",
     ["overall_rank"] = 874,
     ["bosses"] = {
@@ -67258,9 +67258,9 @@ UWULogsData[6][2] = {
         ["points"] = 8251.09722037505,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5895,
+        ["rank_raids"] = 5897,
         ["dps_max"] = 15993.46,
-        ["points"] = 8628.862886288629,
+        ["points"] = 8627.862786278629,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5490,
@@ -67275,7 +67275,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7234,
         ["dps_max"] = 13482.23,
-        ["points"] = 7755.8993592748875,
+        ["points"] = 7756.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 544,
@@ -67300,7 +67300,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Varjoina"] = {
-    ["percentile"] = 85.998,
+    ["percentile"] = 85.997,
     ["server"] = "Icecrown",
     ["overall_rank"] = 875,
     ["bosses"] = {
@@ -67335,9 +67335,9 @@ UWULogsData[6][2] = {
         ["points"] = 8803.03231812741,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5974,
+        ["rank_raids"] = 5976,
         ["dps_max"] = 15968.38,
-        ["points"] = 8615.861586158617,
+        ["points"] = 8614.861486148615,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1336,
@@ -67352,7 +67352,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6954,
         ["dps_max"] = 13528.72,
-        ["points"] = 7818.409126426003,
+        ["points"] = 7818.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1445,
@@ -67376,13 +67376,90 @@ UWULogsData[6][2] = {
       },
     },
   },
-  ["Burstlimit"] = {
-    ["percentile"] = 85.997,
+  ["Hategris"] = {
+    ["percentile"] = 85.996,
     ["server"] = "Icecrown",
     ["overall_rank"] = 876,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7953,
+        ["rank_raids"] = 3560,
+        ["dps_max"] = 20058.6,
+        ["points"] = 8889.888988898889,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 2387,
+        ["dps_max"] = 19174.18,
+        ["points"] = 9000.871333139703,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 2561,
+        ["dps_max"] = 22599.62,
+        ["points"] = 9257.925792579257,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 5595,
+        ["dps_max"] = 18991.54,
+        ["points"] = 8517.851785178518,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 10652,
+        ["dps_max"] = 19443.19,
+        ["points"] = 8111.4549662829095,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 1307,
+        ["dps_max"] = 18884.65,
+        ["points"] = 9574.411490889746,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 2178,
+        ["dps_max"] = 17460.87,
+        ["points"] = 9360.936093609362,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 2171,
+        ["dps_max"] = 25085.16,
+        ["points"] = 8899.7,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 11316,
+        ["dps_max"] = 12105.49,
+        ["points"] = 6419.4,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 6541,
+        ["dps_max"] = 13595.45,
+        ["points"] = 7917.1875,
+      },
+      ["Toravon the Ice Watcher"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Halion"] = {
+        ["rank_raids"] = 6453,
+        ["dps_max"] = 9842.79,
+        ["points"] = 7615.1,
+      },
+      ["Anub'arak"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Valithria Dreamwalker"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+    },
+  },
+  ["Burstlimit"] = {
+    ["percentile"] = 85.995,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 877,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 7954,
         ["dps_max"] = 18941.51,
         ["points"] = 7917.791779177917,
       },
@@ -67392,14 +67469,14 @@ UWULogsData[6][2] = {
         ["points"] = 9288.41126924194,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7940,
+        ["rank_raids"] = 7941,
         ["dps_max"] = 21495.88,
-        ["points"] = 8266.826682668267,
+        ["points"] = 8265.826582658265,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7134,
+        ["rank_raids"] = 7135,
         ["dps_max"] = 18773.68,
-        ["points"] = 8224.822482248224,
+        ["points"] = 8223.822382238224,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3612,
@@ -67429,7 +67506,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3923,
         ["dps_max"] = 14069.33,
-        ["points"] = 8604.469448351305,
+        ["points"] = 8604.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1162,
@@ -67453,85 +67530,8 @@ UWULogsData[6][2] = {
       },
     },
   },
-  ["Hategris"] = {
-    ["percentile"] = 85.996,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 877,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 3560,
-        ["dps_max"] = 20058.6,
-        ["points"] = 8889.888988898889,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 2387,
-        ["dps_max"] = 19174.18,
-        ["points"] = 9000.871333139703,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2561,
-        ["dps_max"] = 22599.62,
-        ["points"] = 9257.925792579257,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 5595,
-        ["dps_max"] = 18991.54,
-        ["points"] = 8517.851785178518,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 10651,
-        ["dps_max"] = 19443.19,
-        ["points"] = 8111.4549662829095,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 1307,
-        ["dps_max"] = 18884.65,
-        ["points"] = 9574.411490889746,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 2178,
-        ["dps_max"] = 17460.87,
-        ["points"] = 9360.936093609362,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2171,
-        ["dps_max"] = 25085.16,
-        ["points"] = 8899.7,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 11316,
-        ["dps_max"] = 12105.49,
-        ["points"] = 6419.4,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 6541,
-        ["dps_max"] = 13595.45,
-        ["points"] = 7916.8620096890145,
-      },
-      ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Halion"] = {
-        ["rank_raids"] = 6453,
-        ["dps_max"] = 9842.79,
-        ["points"] = 7615.1,
-      },
-      ["Anub'arak"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Valithria Dreamwalker"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-    },
-  },
   ["Silentstain"] = {
-    ["percentile"] = 85.983,
+    ["percentile"] = 85.984,
     ["server"] = "Icecrown",
     ["overall_rank"] = 878,
     ["bosses"] = {
@@ -67546,7 +67546,7 @@ UWULogsData[6][2] = {
         ["points"] = 9202.730177171072,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10435,
+        ["rank_raids"] = 10436,
         ["dps_max"] = 21152.19,
         ["points"] = 7926.746458066792,
       },
@@ -67583,12 +67583,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7855,
         ["dps_max"] = 13390.13,
-        ["points"] = 7601.187685575871,
+        ["points"] = 7601.5625,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2272,
+        ["rank_raids"] = 2273,
         ["dps_max"] = 12444.87,
-        ["points"] = 8869.400000000001,
+        ["points"] = 8869.1,
       },
       ["Halion"] = {
         ["rank_raids"] = 5830,
@@ -67613,12 +67613,12 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 879,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8465,
+        ["rank_raids"] = 8466,
         ["dps_max"] = 18850.0,
         ["points"] = 7814.7814781478155,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 11858,
+        ["rank_raids"] = 11860,
         ["dps_max"] = 15867.59,
         ["points"] = 6532.094103979088,
       },
@@ -67660,7 +67660,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4467,
         ["dps_max"] = 13963.36,
-        ["points"] = 8454.446007188622,
+        ["points"] = 8454.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 656,
@@ -67695,7 +67695,7 @@ UWULogsData[6][2] = {
         ["points"] = 9586.958695869587,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 9708,
+        ["rank_raids"] = 9709,
         ["dps_max"] = 16460.67,
         ["points"] = 7088.29509148998,
       },
@@ -67720,7 +67720,7 @@ UWULogsData[6][2] = {
         ["points"] = 9389.54648224498,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 11244,
+        ["rank_raids"] = 11246,
         ["dps_max"] = 14892.84,
         ["points"] = 7638.763876387638,
       },
@@ -67737,7 +67737,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8978,
         ["dps_max"] = 13226.15,
-        ["points"] = 7302.703547429285,
+        ["points"] = 7303.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -67762,12 +67762,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Vandaag"] = {
-    ["percentile"] = 85.944,
+    ["percentile"] = 85.942,
     ["server"] = "Icecrown",
     ["overall_rank"] = 881,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7487,
+        ["rank_raids"] = 7488,
         ["dps_max"] = 19030.73,
         ["points"] = 8013.801380138014,
       },
@@ -67777,9 +67777,9 @@ UWULogsData[6][2] = {
         ["points"] = 8601.510310775486,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8358,
+        ["rank_raids"] = 8359,
         ["dps_max"] = 21436.44,
-        ["points"] = 8208.82088208821,
+        ["points"] = 8207.820782078208,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3391,
@@ -67797,9 +67797,9 @@ UWULogsData[6][2] = {
         ["points"] = 8772.44314403511,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6038,
+        ["rank_raids"] = 6040,
         ["dps_max"] = 15953.09,
-        ["points"] = 8603.860386038605,
+        ["points"] = 8602.860286028603,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1669,
@@ -67814,7 +67814,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1593,
         ["dps_max"] = 14735.75,
-        ["points"] = 9312.392561337709,
+        ["points"] = 9312.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -67839,7 +67839,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Ninjajo"] = {
-    ["percentile"] = 85.943,
+    ["percentile"] = 85.942,
     ["server"] = "Icecrown",
     ["overall_rank"] = 882,
     ["bosses"] = {
@@ -67854,14 +67854,14 @@ UWULogsData[6][2] = {
         ["points"] = 9744.4089456869,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10824,
+        ["rank_raids"] = 10825,
         ["dps_max"] = 21098.94,
         ["points"] = 7906.791113069794,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7589,
+        ["rank_raids"] = 7590,
         ["dps_max"] = 18708.07,
-        ["points"] = 8154.815481548155,
+        ["points"] = 8153.815381538154,
       },
       ["Rotface"] = {
         ["rank_raids"] = 5586,
@@ -67874,7 +67874,7 @@ UWULogsData[6][2] = {
         ["points"] = 8893.469876313338,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 12610,
+        ["rank_raids"] = 12612,
         ["dps_max"] = 14680.87,
         ["points"] = 7390.739073907391,
       },
@@ -67891,12 +67891,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 487,
         ["dps_max"] = 15446.05,
-        ["points"] = 9714.017815283638,
+        ["points"] = 9714.0625,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 4699,
+        ["rank_raids"] = 4700,
         ["dps_max"] = 10126.38,
-        ["points"] = 8141.3,
+        ["points"] = 8141.000000000001,
       },
       ["Halion"] = {
         ["rank_raids"] = 1266,
@@ -67916,12 +67916,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Shiraha"] = {
-    ["percentile"] = 85.942,
+    ["percentile"] = 85.941,
     ["server"] = "Icecrown",
     ["overall_rank"] = 883,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9260,
+        ["rank_raids"] = 9261,
         ["dps_max"] = 18712.96,
         ["points"] = 7668.7668766876695,
       },
@@ -67936,9 +67936,9 @@ UWULogsData[6][2] = {
         ["points"] = 8932.893289328933,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6893,
+        ["rank_raids"] = 6894,
         ["dps_max"] = 18803.69,
-        ["points"] = 8265.826582658265,
+        ["points"] = 8264.826482648265,
       },
       ["Rotface"] = {
         ["rank_raids"] = 871,
@@ -67968,7 +67968,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5109,
         ["dps_max"] = 13846.16,
-        ["points"] = 8260.665729020158,
+        ["points"] = 8260.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -68003,9 +68003,9 @@ UWULogsData[6][2] = {
         ["points"] = 9316.931693169317,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 18914,
+        ["rank_raids"] = 18916,
         ["dps_max"] = 14084.06,
-        ["points"] = 5659.6,
+        ["points"] = 5659.4,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1590,
@@ -68045,7 +68045,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7365,
         ["dps_max"] = 13463.47,
-        ["points"] = 7729.332708235662,
+        ["points"] = 7729.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -68070,7 +68070,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Feminismhoax"] = {
-    ["percentile"] = 85.892,
+    ["percentile"] = 85.891,
     ["server"] = "Icecrown",
     ["overall_rank"] = 885,
     ["bosses"] = {
@@ -68090,9 +68090,9 @@ UWULogsData[6][2] = {
         ["points"] = 8874.887488748875,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6654,
+        ["rank_raids"] = 6655,
         ["dps_max"] = 18839.99,
-        ["points"] = 8305.830583058305,
+        ["points"] = 8304.830483048305,
       },
       ["Rotface"] = {
         ["rank_raids"] = 683,
@@ -68105,7 +68105,7 @@ UWULogsData[6][2] = {
         ["points"] = 7820.188854900918,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7685,
+        ["rank_raids"] = 7687,
         ["dps_max"] = 15557.89,
         ["points"] = 8282.828282828283,
       },
@@ -68122,7 +68122,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4948,
         ["dps_max"] = 13877.01,
-        ["points"] = 8307.548054383498,
+        ["points"] = 8307.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -68177,12 +68177,12 @@ UWULogsData[6][2] = {
         ["points"] = 9780.97809780978,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9853,
+        ["rank_raids"] = 9854,
         ["dps_max"] = 15585.63,
         ["points"] = 7465.088442612049,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 9105,
+        ["rank_raids"] = 9107,
         ["dps_max"] = 15281.67,
         ["points"] = 8028.802880288028,
       },
@@ -68199,7 +68199,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3103,
         ["dps_max"] = 14268.24,
-        ["points"] = 8843.569307704329,
+        ["points"] = 8843.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -68234,7 +68234,7 @@ UWULogsData[6][2] = {
         ["points"] = 8403.840384038403,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 8784,
+        ["rank_raids"] = 8785,
         ["dps_max"] = 16746.57,
         ["points"] = 7303.223932616904,
       },
@@ -68244,9 +68244,9 @@ UWULogsData[6][2] = {
         ["points"] = 9313.931393139314,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7838,
+        ["rank_raids"] = 7839,
         ["dps_max"] = 18673.26,
-        ["points"] = 8114.8114811481155,
+        ["points"] = 8113.8113811381145,
       },
       ["Rotface"] = {
         ["rank_raids"] = 5383,
@@ -68276,7 +68276,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2371,
         ["dps_max"] = 14478.84,
-        ["points"] = 9057.665260196905,
+        ["points"] = 9057.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -68301,49 +68301,49 @@ UWULogsData[6][2] = {
     },
   },
   ["Wandou"] = {
-    ["percentile"] = 85.832,
+    ["percentile"] = 85.833,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 4467,
+    ["overall_rank"] = 4466,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 45598,
+        ["rank_raids"] = 45600,
         ["dps_max"] = 14199.16,
         ["points"] = 5220.738145741482,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 17065,
+        ["rank_raids"] = 17067,
         ["dps_max"] = 14545.13,
-        ["points"] = 5844.499999999999,
+        ["points"] = 5844.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 25641,
+        ["rank_raids"] = 25643,
         ["dps_max"] = 19532.45,
         ["points"] = 7319.751706790963,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 17712,
+        ["rank_raids"] = 17714,
         ["dps_max"] = 17660.01,
         ["points"] = 7255.604190992373,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 53306,
+        ["rank_raids"] = 53308,
         ["dps_max"] = 14103.92,
         ["points"] = 5883.9784998272835,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 18720,
+        ["rank_raids"] = 18721,
         ["dps_max"] = 14017.47,
         ["points"] = 5963.698262387118,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 33202,
+        ["rank_raids"] = 33204,
         ["dps_max"] = 11972.75,
         ["points"] = 4539.092246000962,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 28350,
+        ["rank_raids"] = 28352,
         ["dps_max"] = 15465.59,
-        ["points"] = 4716.0,
+        ["points"] = 4715.799999999999,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 18469,
@@ -68351,7 +68351,7 @@ UWULogsData[6][2] = {
         ["points"] = 5864.072904463395,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 14982,
+        ["rank_raids"] = 14983,
         ["dps_max"] = 12421.77,
         ["points"] = 6570.317504227519,
       },
@@ -68378,7 +68378,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Lightdps"] = {
-    ["percentile"] = 85.82,
+    ["percentile"] = 85.819,
     ["server"] = "Icecrown",
     ["overall_rank"] = 889,
     ["bosses"] = {
@@ -68388,7 +68388,7 @@ UWULogsData[6][2] = {
         ["points"] = 9509.95099509951,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 11011,
+        ["rank_raids"] = 11013,
         ["dps_max"] = 16088.0,
         ["points"] = 6752.831832704037,
       },
@@ -68413,9 +68413,9 @@ UWULogsData[6][2] = {
         ["points"] = 8812.342066764197,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5879,
+        ["rank_raids"] = 5881,
         ["dps_max"] = 15997.18,
-        ["points"] = 8632.863286328633,
+        ["points"] = 8631.863186318633,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 8521,
@@ -68430,7 +68430,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4279,
         ["dps_max"] = 13998.81,
-        ["points"] = 8513.830285982185,
+        ["points"] = 8514.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -68455,7 +68455,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Maeiv"] = {
-    ["percentile"] = 85.817,
+    ["percentile"] = 85.816,
     ["server"] = "Icecrown",
     ["overall_rank"] = 890,
     ["bosses"] = {
@@ -68490,9 +68490,9 @@ UWULogsData[6][2] = {
         ["points"] = 8838.941348583588,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5427,
+        ["rank_raids"] = 5428,
         ["dps_max"] = 16124.14,
-        ["points"] = 8712.871287128713,
+        ["points"] = 8711.871187118712,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4204,
@@ -68507,7 +68507,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6150,
         ["dps_max"] = 13662.38,
-        ["points"] = 8009.063916236912,
+        ["points"] = 8009.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -68531,87 +68531,10 @@ UWULogsData[6][2] = {
       },
     },
   },
-  ["Woiygas"] = {
-    ["percentile"] = 85.815,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 891,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 12625,
-        ["dps_max"] = 18190.46,
-        ["points"] = 7076.707670767076,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 8733,
-        ["dps_max"] = 16762.48,
-        ["points"] = 7317.7461516119665,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1807,
-        ["dps_max"] = 22868.96,
-        ["points"] = 9419.94199419942,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 6876,
-        ["dps_max"] = 18804.53,
-        ["points"] = 8270.82708270827,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 4531,
-        ["dps_max"] = 20339.49,
-        ["points"] = 8757.875787578758,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 4752,
-        ["dps_max"] = 16983.0,
-        ["points"] = 8701.955047213725,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 7139,
-        ["dps_max"] = 15681.08,
-        ["points"] = 8404.840484048405,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 738,
-        ["dps_max"] = 30093.64,
-        ["points"] = 9571.957195719571,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 2248,
-        ["dps_max"] = 14408.87,
-        ["points"] = 9011.067989075751,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 1813,
-        ["dps_max"] = 14651.67,
-        ["points"] = 9235.81809657759,
-      },
-      ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Halion"] = {
-        ["rank_raids"] = 7102,
-        ["dps_max"] = 9722.75,
-        ["points"] = 7420.400000000001,
-      },
-      ["Anub'arak"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Valithria Dreamwalker"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-    },
-  },
   ["Wroom"] = {
     ["percentile"] = 85.815,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 892,
+    ["overall_rank"] = 891,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 489,
@@ -68619,9 +68542,9 @@ UWULogsData[6][2] = {
         ["points"] = 9795.979597959797,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 13419,
+        ["rank_raids"] = 13421,
         ["dps_max"] = 15450.98,
-        ["points"] = 6209.099999999999,
+        ["points"] = 6208.9,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1843,
@@ -68644,7 +68567,7 @@ UWULogsData[6][2] = {
         ["points"] = 9345.657667242986,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 9313,
+        ["rank_raids"] = 9315,
         ["dps_max"] = 15240.07,
         ["points"] = 7986.798679867987,
       },
@@ -68661,7 +68584,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2043,
         ["dps_max"] = 14569.64,
-        ["points"] = 9154.555399281138,
+        ["points"] = 9154.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 150,
@@ -68685,8 +68608,85 @@ UWULogsData[6][2] = {
       },
     },
   },
+  ["Woiygas"] = {
+    ["percentile"] = 85.814,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 892,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 12626,
+        ["dps_max"] = 18190.46,
+        ["points"] = 7076.707670767076,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 8734,
+        ["dps_max"] = 16762.48,
+        ["points"] = 7317.7461516119665,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 1807,
+        ["dps_max"] = 22868.96,
+        ["points"] = 9419.94199419942,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 6877,
+        ["dps_max"] = 18804.53,
+        ["points"] = 8269.826982698269,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 4531,
+        ["dps_max"] = 20339.49,
+        ["points"] = 8757.875787578758,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 4752,
+        ["dps_max"] = 16983.0,
+        ["points"] = 8701.955047213725,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 7141,
+        ["dps_max"] = 15681.08,
+        ["points"] = 8403.840384038403,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 738,
+        ["dps_max"] = 30093.64,
+        ["points"] = 9571.957195719571,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 2248,
+        ["dps_max"] = 14408.87,
+        ["points"] = 9011.067989075751,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 1813,
+        ["dps_max"] = 14651.67,
+        ["points"] = 9235.9375,
+      },
+      ["Toravon the Ice Watcher"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Halion"] = {
+        ["rank_raids"] = 7102,
+        ["dps_max"] = 9722.75,
+        ["points"] = 7420.400000000001,
+      },
+      ["Anub'arak"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Valithria Dreamwalker"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+    },
+  },
   ["Rognightmare"] = {
-    ["percentile"] = 85.796,
+    ["percentile"] = 85.795,
     ["server"] = "Icecrown",
     ["overall_rank"] = 893,
     ["bosses"] = {
@@ -68701,14 +68701,14 @@ UWULogsData[6][2] = {
         ["points"] = 9371.187917513796,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 15147,
+        ["rank_raids"] = 15148,
         ["dps_max"] = 20597.31,
         ["points"] = 7718.80614197413,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6872,
+        ["rank_raids"] = 6873,
         ["dps_max"] = 18805.01,
-        ["points"] = 8272.827282728273,
+        ["points"] = 8271.827182718273,
       },
       ["Rotface"] = {
         ["rank_raids"] = 9670,
@@ -68721,7 +68721,7 @@ UWULogsData[6][2] = {
         ["points"] = 9607.660593163984,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7856,
+        ["rank_raids"] = 7858,
         ["dps_max"] = 15520.07,
         ["points"] = 8259.82598259826,
       },
@@ -68738,7 +68738,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5140,
         ["dps_max"] = 13839.53,
-        ["points"] = 8251.289263947492,
+        ["points"] = 8251.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -68763,7 +68763,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Aryastarz"] = {
-    ["percentile"] = 85.775,
+    ["percentile"] = 85.774,
     ["server"] = "Icecrown",
     ["overall_rank"] = 894,
     ["bosses"] = {
@@ -68778,9 +68778,9 @@ UWULogsData[6][2] = {
         ["points"] = 9095.26575660761,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8715,
+        ["rank_raids"] = 8716,
         ["dps_max"] = 21384.06,
-        ["points"] = 8144.814481448145,
+        ["points"] = 8143.814381438144,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1585,
@@ -68815,7 +68815,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7488,
         ["dps_max"] = 13444.9,
-        ["points"] = 7699.640568838881,
+        ["points"] = 7700.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1159,
@@ -68840,7 +68840,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Canyoutot"] = {
-    ["percentile"] = 85.754,
+    ["percentile"] = 85.753,
     ["server"] = "Icecrown",
     ["overall_rank"] = 895,
     ["bosses"] = {
@@ -68850,7 +68850,7 @@ UWULogsData[6][2] = {
         ["points"] = 8429.84298429843,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 8885,
+        ["rank_raids"] = 8886,
         ["dps_max"] = 16715.61,
         ["points"] = 7279.988382224804,
       },
@@ -68875,9 +68875,9 @@ UWULogsData[6][2] = {
         ["points"] = 9143.503125415615,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5372,
+        ["rank_raids"] = 5373,
         ["dps_max"] = 16142.74,
-        ["points"] = 8722.872287228722,
+        ["points"] = 8721.872187218722,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2501,
@@ -68892,7 +68892,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3676,
         ["dps_max"] = 14129.7,
-        ["points"] = 8670.104703859977,
+        ["points"] = 8670.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -68917,7 +68917,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Petarpan"] = {
-    ["percentile"] = 85.75,
+    ["percentile"] = 85.749,
     ["server"] = "Icecrown",
     ["overall_rank"] = 896,
     ["bosses"] = {
@@ -68927,7 +68927,7 @@ UWULogsData[6][2] = {
         ["points"] = 9303.930393039303,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 8264,
+        ["rank_raids"] = 8265,
         ["dps_max"] = 16913.63,
         ["points"] = 7446.9939006680215,
       },
@@ -68952,9 +68952,9 @@ UWULogsData[6][2] = {
         ["points"] = 8451.92179811145,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4474,
+        ["rank_raids"] = 4475,
         ["dps_max"] = 16428.11,
-        ["points"] = 8898.889888988899,
+        ["points"] = 8897.889788978897,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 280,
@@ -68969,7 +68969,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4189,
         ["dps_max"] = 14014.05,
-        ["points"] = 8537.271448663854,
+        ["points"] = 8537.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -68994,7 +68994,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Bolnomagare"] = {
-    ["percentile"] = 85.735,
+    ["percentile"] = 85.734,
     ["server"] = "Icecrown",
     ["overall_rank"] = 897,
     ["bosses"] = {
@@ -69004,7 +69004,7 @@ UWULogsData[6][2] = {
         ["points"] = 9797.979797979799,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7374,
+        ["rank_raids"] = 7375,
         ["dps_max"] = 17189.4,
         ["points"] = 7679.349404589021,
       },
@@ -69029,9 +69029,9 @@ UWULogsData[6][2] = {
         ["points"] = 9755.286607261603,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6974,
+        ["rank_raids"] = 6976,
         ["dps_max"] = 15720.14,
-        ["points"] = 8439.84398439844,
+        ["points"] = 8438.843884388438,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6061,
@@ -69044,7 +69044,7 @@ UWULogsData[6][2] = {
         ["points"] = 9205.117148196061,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 12625,
+        ["rank_raids"] = 12626,
         ["dps_max"] = 12721.48,
         ["points"] = 6728.8448203179005,
       },
@@ -69086,7 +69086,7 @@ UWULogsData[6][2] = {
         ["points"] = 8906.476909671797,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 12728,
+        ["rank_raids"] = 12729,
         ["dps_max"] = 20870.25,
         ["points"] = 7821.089932837616,
       },
@@ -69106,7 +69106,7 @@ UWULogsData[6][2] = {
         ["points"] = 9273.83960633063,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7610,
+        ["rank_raids"] = 7612,
         ["dps_max"] = 15574.06,
         ["points"] = 8295.829582958297,
       },
@@ -69123,7 +69123,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4025,
         ["dps_max"] = 14045.99,
-        ["points"] = 8579.465541490858,
+        ["points"] = 8579.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -69153,12 +69153,12 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 899,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10174,
+        ["rank_raids"] = 10175,
         ["dps_max"] = 18565.44,
         ["points"] = 7521.752175217522,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 10981,
+        ["rank_raids"] = 10982,
         ["dps_max"] = 16094.56,
         ["points"] = 6762.997386000581,
       },
@@ -69200,7 +69200,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2932,
         ["dps_max"] = 14313.66,
-        ["points"] = 8882.637912173777,
+        ["points"] = 8882.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -69225,7 +69225,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Venomist"] = {
-    ["percentile"] = 85.725,
+    ["percentile"] = 85.724,
     ["server"] = "Icecrown",
     ["overall_rank"] = 900,
     ["bosses"] = {
@@ -69240,9 +69240,9 @@ UWULogsData[6][2] = {
         ["points"] = 8780.133604414756,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8386,
+        ["rank_raids"] = 8387,
         ["dps_max"] = 21431.19,
-        ["points"] = 8206.820682068206,
+        ["points"] = 8205.820582058206,
       },
       ["Festergut"] = {
         ["rank_raids"] = 717,
@@ -69255,12 +69255,12 @@ UWULogsData[6][2] = {
         ["points"] = 9644.964496449646,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 13766,
+        ["rank_raids"] = 13767,
         ["dps_max"] = 14813.71,
         ["points"] = 6592.631998936028,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 8925,
+        ["rank_raids"] = 8927,
         ["dps_max"] = 15314.93,
         ["points"] = 8064.806480648064,
       },
@@ -69277,7 +69277,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4520,
         ["dps_max"] = 13956.48,
-        ["points"] = 8431.004844506953,
+        ["points"] = 8431.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -69302,7 +69302,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Makhachev"] = {
-    ["percentile"] = 85.706,
+    ["percentile"] = 85.705,
     ["server"] = "Icecrown",
     ["overall_rank"] = 901,
     ["bosses"] = {
@@ -69322,12 +69322,12 @@ UWULogsData[6][2] = {
         ["points"] = 8508.85088508851,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6627,
+        ["rank_raids"] = 6628,
         ["dps_max"] = 18843.97,
-        ["points"] = 8311.831183118313,
+        ["points"] = 8310.83108310831,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 12847,
+        ["rank_raids"] = 12848,
         ["dps_max"] = 19202.12,
         ["points"] = 8010.883586343618,
       },
@@ -69354,7 +69354,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1733,
         ["dps_max"] = 14683.46,
-        ["points"] = 9263.947491795594,
+        ["points"] = 9264.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -69379,7 +69379,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Precisioncut"] = {
-    ["percentile"] = 85.691,
+    ["percentile"] = 85.689,
     ["server"] = "Icecrown",
     ["overall_rank"] = 902,
     ["bosses"] = {
@@ -69394,14 +69394,14 @@ UWULogsData[6][2] = {
         ["points"] = 8772.872494917223,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 13296,
+        ["rank_raids"] = 13297,
         ["dps_max"] = 20804.03,
         ["points"] = 7796.274102871395,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 8462,
+        ["rank_raids"] = 8463,
         ["dps_max"] = 18595.1,
-        ["points"] = 8021.802180218022,
+        ["points"] = 8020.80208020802,
       },
       ["Rotface"] = {
         ["rank_raids"] = 5064,
@@ -69414,9 +69414,9 @@ UWULogsData[6][2] = {
         ["points"] = 9654.209336347918,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7211,
+        ["rank_raids"] = 7213,
         ["dps_max"] = 15662.07,
-        ["points"] = 8386.838683868387,
+        ["points"] = 8385.838583858385,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 889,
@@ -69431,7 +69431,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6558,
         ["dps_max"] = 13592.22,
-        ["points"] = 7905.922800437568,
+        ["points"] = 7906.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -69456,7 +69456,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Tlichi"] = {
-    ["percentile"] = 85.686,
+    ["percentile"] = 85.685,
     ["server"] = "Icecrown",
     ["overall_rank"] = 903,
     ["bosses"] = {
@@ -69476,9 +69476,9 @@ UWULogsData[6][2] = {
         ["points"] = 9207.920792079209,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7551,
+        ["rank_raids"] = 7552,
         ["dps_max"] = 18713.0,
-        ["points"] = 8161.816181618162,
+        ["points"] = 8160.816081608161,
       },
       ["Rotface"] = {
         ["rank_raids"] = 4652,
@@ -69491,7 +69491,7 @@ UWULogsData[6][2] = {
         ["points"] = 8620.827237664584,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 9887,
+        ["rank_raids"] = 9889,
         ["dps_max"] = 15128.23,
         ["points"] = 7886.788678867886,
       },
@@ -69508,7 +69508,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9269,
         ["dps_max"] = 13183.93,
-        ["points"] = 7227.691826847945,
+        ["points"] = 7228.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -69533,7 +69533,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Rdytopoggers"] = {
-    ["percentile"] = 85.67,
+    ["percentile"] = 85.671,
     ["server"] = "Icecrown",
     ["overall_rank"] = 904,
     ["bosses"] = {
@@ -69585,7 +69585,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5423,
         ["dps_max"] = 13792.43,
-        ["points"] = 8195.030473511486,
+        ["points"] = 8195.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 565,
@@ -69610,12 +69610,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Iusericin"] = {
-    ["percentile"] = 85.661,
+    ["percentile"] = 85.662,
     ["server"] = "Icecrown",
     ["overall_rank"] = 905,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 15355,
+        ["rank_raids"] = 15357,
         ["dps_max"] = 17827.85,
         ["points"] = 6636.663666366637,
       },
@@ -69662,7 +69662,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2227,
         ["dps_max"] = 14517.33,
-        ["points"] = 9102.984841381467,
+        ["points"] = 9103.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -69697,7 +69697,7 @@ UWULogsData[6][2] = {
         ["points"] = 8590.85908590859,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 8213,
+        ["rank_raids"] = 8214,
         ["dps_max"] = 16927.91,
         ["points"] = 7455.7072320650595,
       },
@@ -69739,7 +69739,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4241,
         ["dps_max"] = 14004.74,
-        ["points"] = 8524.769495233631,
+        ["points"] = 8525.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1,
@@ -69764,12 +69764,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Velynea"] = {
-    ["percentile"] = 85.646,
+    ["percentile"] = 85.645,
     ["server"] = "Icecrown",
     ["overall_rank"] = 907,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7837,
+        ["rank_raids"] = 7838,
         ["dps_max"] = 18962.42,
         ["points"] = 7938.793879387938,
       },
@@ -69784,9 +69784,9 @@ UWULogsData[6][2] = {
         ["points"] = 8497.849784978498,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7148,
+        ["rank_raids"] = 7149,
         ["dps_max"] = 18771.88,
-        ["points"] = 8219.82198219822,
+        ["points"] = 8218.821882188218,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1506,
@@ -69799,7 +69799,7 @@ UWULogsData[6][2] = {
         ["points"] = 8977.25761404442,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 8276,
+        ["rank_raids"] = 8278,
         ["dps_max"] = 15440.35,
         ["points"] = 8173.817381738174,
       },
@@ -69816,7 +69816,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1445,
         ["dps_max"] = 14797.58,
-        ["points"] = 9348.335677449602,
+        ["points"] = 9348.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 234,
@@ -69861,9 +69861,9 @@ UWULogsData[6][2] = {
         ["points"] = 8486.848684868486,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 11281,
+        ["rank_raids"] = 11282,
         ["dps_max"] = 18283.06,
-        ["points"] = 7560.756075607561,
+        ["points"] = 7559.75597559756,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3363,
@@ -69893,7 +69893,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7188,
         ["dps_max"] = 13486.98,
-        ["points"] = 7768.40131270511,
+        ["points"] = 7768.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -69970,7 +69970,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2245,
         ["dps_max"] = 14513.05,
-        ["points"] = 9096.733864666354,
+        ["points"] = 9096.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -70005,7 +70005,7 @@ UWULogsData[6][2] = {
         ["points"] = 8636.863686368637,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 10545,
+        ["rank_raids"] = 10546,
         ["dps_max"] = 16212.65,
         ["points"] = 6890.79291315713,
       },
@@ -70030,9 +70030,9 @@ UWULogsData[6][2] = {
         ["points"] = 8380.103737199097,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4950,
+        ["rank_raids"] = 4951,
         ["dps_max"] = 16280.6,
-        ["points"] = 8804.880488048806,
+        ["points"] = 8803.880388038804,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2630,
@@ -70047,7 +70047,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 10179,
         ["dps_max"] = 13052.15,
-        ["points"] = 7019.846851070479,
+        ["points"] = 7020.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -70097,7 +70097,7 @@ UWULogsData[6][2] = {
         ["points"] = 9088.90889088909,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9933,
+        ["rank_raids"] = 9934,
         ["dps_max"] = 19528.74,
         ["points"] = 8147.145353115807,
       },
@@ -70124,7 +70124,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5068,
         ["dps_max"] = 13853.86,
-        ["points"] = 8271.604938271605,
+        ["points"] = 8271.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -70201,7 +70201,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3472,
         ["dps_max"] = 14176.86,
-        ["points"] = 8718.549773402094,
+        ["points"] = 8718.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -70236,7 +70236,7 @@ UWULogsData[6][2] = {
         ["points"] = 8751.875187518752,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 29882,
+        ["rank_raids"] = 29884,
         ["dps_max"] = 11481.98,
         ["points"] = 4610.93881078372,
       },
@@ -70278,7 +70278,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 432,
         ["dps_max"] = 15494.18,
-        ["points"] = 9737.458977965307,
+        ["points"] = 9737.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -70303,7 +70303,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Lastronin"] = {
-    ["percentile"] = 85.588,
+    ["percentile"] = 85.587,
     ["server"] = "Icecrown",
     ["overall_rank"] = 914,
     ["bosses"] = {
@@ -70313,7 +70313,7 @@ UWULogsData[6][2] = {
         ["points"] = 8604.860486048605,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 8406,
+        ["rank_raids"] = 8407,
         ["dps_max"] = 16866.69,
         ["points"] = 7422.3061283764155,
       },
@@ -70338,9 +70338,9 @@ UWULogsData[6][2] = {
         ["points"] = 8680.675621758213,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4360,
+        ["rank_raids"] = 4361,
         ["dps_max"] = 16462.2,
-        ["points"] = 8916.891689168917,
+        ["points"] = 8915.891589158917,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 7074,
@@ -70355,7 +70355,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2346,
         ["dps_max"] = 14485.82,
-        ["points"] = 9068.604469448352,
+        ["points"] = 9068.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -70380,7 +70380,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Plagiat"] = {
-    ["percentile"] = 85.568,
+    ["percentile"] = 85.569,
     ["server"] = "Icecrown",
     ["overall_rank"] = 915,
     ["bosses"] = {
@@ -70395,7 +70395,7 @@ UWULogsData[6][2] = {
         ["points"] = 9249.201277955272,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 11967,
+        ["rank_raids"] = 11968,
         ["dps_max"] = 20959.89,
         ["points"] = 7854.682367119886,
       },
@@ -70415,7 +70415,7 @@ UWULogsData[6][2] = {
         ["points"] = 8807.022210400319,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10902,
+        ["rank_raids"] = 10904,
         ["dps_max"] = 14949.47,
         ["points"] = 7701.770177017702,
       },
@@ -70432,7 +70432,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9170,
         ["dps_max"] = 13197.51,
-        ["points"] = 7257.383966244726,
+        ["points"] = 7257.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -70492,7 +70492,7 @@ UWULogsData[6][2] = {
         ["points"] = 8420.002659928183,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7877,
+        ["rank_raids"] = 7879,
         ["dps_max"] = 15516.21,
         ["points"] = 8253.825382538253,
       },
@@ -70509,7 +70509,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2398,
         ["dps_max"] = 14469.38,
-        ["points"] = 9046.72605094546,
+        ["points"] = 9046.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -70534,7 +70534,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Shatzie"] = {
-    ["percentile"] = 85.538,
+    ["percentile"] = 85.537,
     ["server"] = "Icecrown",
     ["overall_rank"] = 917,
     ["bosses"] = {
@@ -70544,7 +70544,7 @@ UWULogsData[6][2] = {
         ["points"] = 9462.946294629462,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7681,
+        ["rank_raids"] = 7682,
         ["dps_max"] = 17095.97,
         ["points"] = 7612.547197211734,
       },
@@ -70569,9 +70569,9 @@ UWULogsData[6][2] = {
         ["points"] = 8140.710200824578,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6670,
+        ["rank_raids"] = 6672,
         ["dps_max"] = 15789.83,
-        ["points"] = 8495.849584958496,
+        ["points"] = 8494.849484948494,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4731,
@@ -70586,7 +70586,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4382,
         ["dps_max"] = 13980.47,
-        ["points"] = 8481.012658227848,
+        ["points"] = 8481.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 539,
@@ -70611,7 +70611,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Lemarck"] = {
-    ["percentile"] = 85.536,
+    ["percentile"] = 85.534,
     ["server"] = "Icecrown",
     ["overall_rank"] = 918,
     ["bosses"] = {
@@ -70626,14 +70626,14 @@ UWULogsData[6][2] = {
         ["points"] = 8585.535869880918,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8150,
+        ["rank_raids"] = 8151,
         ["dps_max"] = 21465.95,
-        ["points"] = 8242.824282428242,
+        ["points"] = 8241.824182418242,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 11005,
+        ["rank_raids"] = 11006,
         ["dps_max"] = 18311.63,
-        ["points"] = 7606.760676067606,
+        ["points"] = 7605.760576057605,
       },
       ["Rotface"] = {
         ["rank_raids"] = 5155,
@@ -70646,9 +70646,9 @@ UWULogsData[6][2] = {
         ["points"] = 9335.017954515228,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5654,
+        ["rank_raids"] = 5655,
         ["dps_max"] = 16058.34,
-        ["points"] = 8678.86788678868,
+        ["points"] = 8677.867786778677,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2757,
@@ -70663,7 +70663,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8183,
         ["dps_max"] = 13341.7,
-        ["points"] = 7494.921081418972,
+        ["points"] = 7495.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -70740,7 +70740,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3979,
         ["dps_max"] = 14056.0,
-        ["points"] = 8585.716518205969,
+        ["points"] = 8585.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -70765,7 +70765,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Mozye"] = {
-    ["percentile"] = 85.52,
+    ["percentile"] = 85.519,
     ["server"] = "Icecrown",
     ["overall_rank"] = 920,
     ["bosses"] = {
@@ -70800,9 +70800,9 @@ UWULogsData[6][2] = {
         ["points"] = 8030.323181274106,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4919,
+        ["rank_raids"] = 4920,
         ["dps_max"] = 16286.11,
-        ["points"] = 8809.88098809881,
+        ["points"] = 8808.88088808881,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 522,
@@ -70817,7 +70817,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6695,
         ["dps_max"] = 13573.75,
-        ["points"] = 7874.667916862009,
+        ["points"] = 7875.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 12,
@@ -70842,12 +70842,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Aeriniel"] = {
-    ["percentile"] = 85.502,
+    ["percentile"] = 85.5,
     ["server"] = "Icecrown",
     ["overall_rank"] = 921,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8159,
+        ["rank_raids"] = 8160,
         ["dps_max"] = 18902.41,
         ["points"] = 7875.787578757876,
       },
@@ -70862,9 +70862,9 @@ UWULogsData[6][2] = {
         ["points"] = 8748.87488748875,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6656,
+        ["rank_raids"] = 6657,
         ["dps_max"] = 18839.86,
-        ["points"] = 8304.830483048305,
+        ["points"] = 8303.830383038305,
       },
       ["Rotface"] = {
         ["rank_raids"] = 5457,
@@ -70877,9 +70877,9 @@ UWULogsData[6][2] = {
         ["points"] = 9188.721904508579,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4545,
+        ["rank_raids"] = 4546,
         ["dps_max"] = 16409.03,
-        ["points"] = 8882.888288828883,
+        ["points"] = 8881.888188818883,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6870,
@@ -70894,7 +70894,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5296,
         ["dps_max"] = 13811.57,
-        ["points"] = 8218.471636193155,
+        ["points"] = 8218.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -70934,9 +70934,9 @@ UWULogsData[6][2] = {
         ["points"] = 8797.56026720883,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8195,
+        ["rank_raids"] = 8196,
         ["dps_max"] = 21459.88,
-        ["points"] = 8230.82308230823,
+        ["points"] = 8229.82298229823,
       },
       ["Festergut"] = {
         ["rank_raids"] = 227,
@@ -70971,12 +70971,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7742,
         ["dps_max"] = 13409.82,
-        ["points"] = 7632.44256915143,
+        ["points"] = 7632.8125,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 2944,
+        ["rank_raids"] = 2945,
         ["dps_max"] = 11736.71,
-        ["points"] = 8667.800000000001,
+        ["points"] = 8667.5,
       },
       ["Halion"] = {
         ["rank_raids"] = 3023,
@@ -71006,7 +71006,7 @@ UWULogsData[6][2] = {
         ["points"] = 9766.976697669767,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 13122,
+        ["rank_raids"] = 13124,
         ["dps_max"] = 15538.85,
         ["points"] = 6240.09853178168,
       },
@@ -71026,7 +71026,7 @@ UWULogsData[6][2] = {
         ["points"] = 9652.965296529654,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9226,
+        ["rank_raids"] = 9227,
         ["dps_max"] = 15716.02,
         ["points"] = 7598.0848517090035,
       },
@@ -71046,7 +71046,7 @@ UWULogsData[6][2] = {
         ["points"] = 7949.3,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 18476,
+        ["rank_raids"] = 18477,
         ["dps_max"] = 11988.02,
         ["points"] = 6340.891648052539,
       },
@@ -71073,7 +71073,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Freedukool"] = {
-    ["percentile"] = 85.481,
+    ["percentile"] = 85.48,
     ["server"] = "Icecrown",
     ["overall_rank"] = 924,
     ["bosses"] = {
@@ -71088,7 +71088,7 @@ UWULogsData[6][2] = {
         ["points"] = 9031.367993029335,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 15551,
+        ["rank_raids"] = 15553,
         ["dps_max"] = 20551.31,
         ["points"] = 7701.567721882825,
       },
@@ -71108,9 +71108,9 @@ UWULogsData[6][2] = {
         ["points"] = 9329.69809815135,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5257,
+        ["rank_raids"] = 5258,
         ["dps_max"] = 16184.28,
-        ["points"] = 8740.874087408742,
+        ["points"] = 8739.87398739874,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5997,
@@ -71125,7 +71125,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5079,
         ["dps_max"] = 13852.35,
-        ["points"] = 8268.47944991405,
+        ["points"] = 8268.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -71185,7 +71185,7 @@ UWULogsData[6][2] = {
         ["points"] = 7813.53903444607,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 15883,
+        ["rank_raids"] = 15885,
         ["dps_max"] = 14200.15,
         ["points"] = 6877.687768776877,
       },
@@ -71279,7 +71279,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4848,
         ["dps_max"] = 13894.45,
-        ["points"] = 8332.551961243944,
+        ["points"] = 8332.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -71304,7 +71304,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Arrder"] = {
-    ["percentile"] = 85.426,
+    ["percentile"] = 85.425,
     ["server"] = "Icecrown",
     ["overall_rank"] = 927,
     ["bosses"] = {
@@ -71314,19 +71314,19 @@ UWULogsData[6][2] = {
         ["points"] = 9739.97399739974,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 8435,
+        ["rank_raids"] = 8436,
         ["dps_max"] = 16856.7,
         ["points"] = 7410.688353180366,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 16022,
+        ["rank_raids"] = 16024,
         ["dps_max"] = 20502.57,
         ["points"] = 7683.3024915513,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 8234,
+        ["rank_raids"] = 8235,
         ["dps_max"] = 18622.6,
-        ["points"] = 8055.805580558055,
+        ["points"] = 8054.805480548055,
       },
       ["Rotface"] = {
         ["rank_raids"] = 435,
@@ -71334,7 +71334,7 @@ UWULogsData[6][2] = {
         ["points"] = 9807.980798079809,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8704,
+        ["rank_raids"] = 8705,
         ["dps_max"] = 15844.74,
         ["points"] = 7707.141907168507,
       },
@@ -71356,7 +71356,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9743,
         ["dps_max"] = 13113.77,
-        ["points"] = 7108.923269260822,
+        ["points"] = 7109.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -71381,7 +71381,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Rogueto"] = {
-    ["percentile"] = 85.424,
+    ["percentile"] = 85.425,
     ["server"] = "Icecrown",
     ["overall_rank"] = 928,
     ["bosses"] = {
@@ -71411,7 +71411,7 @@ UWULogsData[6][2] = {
         ["points"] = 9535.953595359537,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 10605,
+        ["rank_raids"] = 10606,
         ["dps_max"] = 15417.84,
         ["points"] = 7284.213326240192,
       },
@@ -71433,7 +71433,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5880,
         ["dps_max"] = 13711.54,
-        ["points"] = 8088.763869354587,
+        ["points"] = 8089.062500000001,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 303,
@@ -71458,7 +71458,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Billysmile"] = {
-    ["percentile"] = 85.424,
+    ["percentile"] = 85.423,
     ["server"] = "Icecrown",
     ["overall_rank"] = 929,
     ["bosses"] = {
@@ -71478,7 +71478,7 @@ UWULogsData[6][2] = {
         ["points"] = 9227.922792279229,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 12520,
+        ["rank_raids"] = 12521,
         ["dps_max"] = 18152.98,
         ["points"] = 7458.1406107358225,
       },
@@ -71493,9 +71493,9 @@ UWULogsData[6][2] = {
         ["points"] = 9051.735603138715,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6563,
+        ["rank_raids"] = 6565,
         ["dps_max"] = 15816.89,
-        ["points"] = 8512.851285128514,
+        ["points"] = 8511.851185118512,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3770,
@@ -71510,7 +71510,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6618,
         ["dps_max"] = 13585.0,
-        ["points"] = 7891.858102828567,
+        ["points"] = 7892.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -71535,7 +71535,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Supersajanas"] = {
-    ["percentile"] = 85.403,
+    ["percentile"] = 85.402,
     ["server"] = "Icecrown",
     ["overall_rank"] = 930,
     ["bosses"] = {
@@ -71560,19 +71560,19 @@ UWULogsData[6][2] = {
         ["points"] = 8674.867486748675,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9863,
+        ["rank_raids"] = 9864,
         ["dps_max"] = 19537.06,
         ["points"] = 8150.6163527470135,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 12122,
+        ["rank_raids"] = 12123,
         ["dps_max"] = 15112.81,
         ["points"] = 6947.732411224897,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6958,
+        ["rank_raids"] = 6960,
         ["dps_max"] = 15724.33,
-        ["points"] = 8441.844184418442,
+        ["points"] = 8440.844084408442,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6662,
@@ -71587,7 +71587,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1783,
         ["dps_max"] = 14661.27,
-        ["points"] = 9246.757305829035,
+        ["points"] = 9246.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -71622,7 +71622,7 @@ UWULogsData[6][2] = {
         ["points"] = 8549.85498549855,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7368,
+        ["rank_raids"] = 7369,
         ["dps_max"] = 17191.89,
         ["points"] = 7682.2538483880335,
       },
@@ -71664,7 +71664,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2567,
         ["dps_max"] = 14417.5,
-        ["points"] = 9002.969213939678,
+        ["points"] = 9003.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1048,
@@ -71689,12 +71689,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Zaocbam"] = {
-    ["percentile"] = 85.397,
+    ["percentile"] = 85.395,
     ["server"] = "Icecrown",
     ["overall_rank"] = 932,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 14468,
+        ["rank_raids"] = 14469,
         ["dps_max"] = 17947.2,
         ["points"] = 6777.677767776778,
       },
@@ -71709,9 +71709,9 @@ UWULogsData[6][2] = {
         ["points"] = 9034.903490349034,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7917,
+        ["rank_raids"] = 7918,
         ["dps_max"] = 18664.13,
-        ["points"] = 8104.8104810481045,
+        ["points"] = 8103.8103810381035,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1794,
@@ -71724,9 +71724,9 @@ UWULogsData[6][2] = {
         ["points"] = 8687.325442213061,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6259,
+        ["rank_raids"] = 6261,
         ["dps_max"] = 15902.58,
-        ["points"] = 8569.856985698569,
+        ["points"] = 8568.856885688569,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2897,
@@ -71741,7 +71741,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3530,
         ["dps_max"] = 14162.18,
-        ["points"] = 8706.047819971871,
+        ["points"] = 8706.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -71781,14 +71781,14 @@ UWULogsData[6][2] = {
         ["points"] = 7804.2404879465585,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10993,
+        ["rank_raids"] = 10994,
         ["dps_max"] = 21076.71,
         ["points"] = 7898.46045918654,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7976,
+        ["rank_raids"] = 7977,
         ["dps_max"] = 18654.51,
-        ["points"] = 8096.8096809680965,
+        ["points"] = 8095.8095809580955,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2496,
@@ -71818,7 +71818,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4395,
         ["dps_max"] = 13977.02,
-        ["points"] = 8473.198937333958,
+        ["points"] = 8473.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 884,
@@ -71843,7 +71843,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Dollar"] = {
-    ["percentile"] = 85.384,
+    ["percentile"] = 85.383,
     ["server"] = "Icecrown",
     ["overall_rank"] = 934,
     ["bosses"] = {
@@ -71853,9 +71853,9 @@ UWULogsData[6][2] = {
         ["points"] = 9726.972697269726,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 14069,
+        ["rank_raids"] = 14071,
         ["dps_max"] = 15283.58,
-        ["points"] = 6144.1,
+        ["points"] = 6143.9,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2191,
@@ -71878,9 +71878,9 @@ UWULogsData[6][2] = {
         ["points"] = 8582.258279026466,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4807,
+        ["rank_raids"] = 4808,
         ["dps_max"] = 16318.48,
-        ["points"] = 8826.882688268826,
+        ["points"] = 8825.882588258826,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3810,
@@ -71895,7 +71895,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4105,
         ["dps_max"] = 14030.63,
-        ["points"] = 8557.587122987967,
+        ["points"] = 8557.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -71940,7 +71940,7 @@ UWULogsData[6][2] = {
         ["points"] = 8684.868486848685,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 18392,
+        ["rank_raids"] = 18394,
         ["dps_max"] = 17600.59,
         ["points"] = 7231.191520726119,
       },
@@ -71972,7 +71972,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7127,
         ["dps_max"] = 13498.1,
-        ["points"] = 7780.903266135334,
+        ["points"] = 7781.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 582,
@@ -72047,7 +72047,7 @@ UWULogsData[6][2] = {
         ["points"] = 7723.400000000001,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 13240,
+        ["rank_raids"] = 13241,
         ["dps_max"] = 12643.62,
         ["points"] = 6687.661887380071,
       },
@@ -72084,12 +72084,12 @@ UWULogsData[6][2] = {
         ["points"] = 9559.95599559956,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 10788,
+        ["rank_raids"] = 10789,
         ["dps_max"] = 16144.83,
         ["points"] = 6813.8251524832995,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 14157,
+        ["rank_raids"] = 14158,
         ["dps_max"] = 20707.26,
         ["points"] = 7760.009713474972,
       },
@@ -72126,7 +72126,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 630,
         ["dps_max"] = 15298.96,
-        ["points"] = 9657.759024847632,
+        ["points"] = 9657.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -72203,7 +72203,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2564,
         ["dps_max"] = 14417.87,
-        ["points"] = 9004.531958118456,
+        ["points"] = 9004.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -72228,7 +72228,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Ripreckful"] = {
-    ["percentile"] = 85.32,
+    ["percentile"] = 85.321,
     ["server"] = "Icecrown",
     ["overall_rank"] = 939,
     ["bosses"] = {
@@ -72280,7 +72280,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7591,
         ["dps_max"] = 13428.52,
-        ["points"] = 7669.948429442101,
+        ["points"] = 7670.312500000001,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -72320,7 +72320,7 @@ UWULogsData[6][2] = {
         ["points"] = 8433.052570432761,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 13524,
+        ["rank_raids"] = 13525,
         ["dps_max"] = 20777.71,
         ["points"] = 7786.410728593068,
       },
@@ -72355,7 +72355,7 @@ UWULogsData[6][2] = {
         ["points"] = 7669.700000000001,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 12555,
+        ["rank_raids"] = 12556,
         ["dps_max"] = 12730.73,
         ["points"] = 6733.737475463996,
       },
@@ -72382,12 +72382,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Attlethal"] = {
-    ["percentile"] = 85.303,
+    ["percentile"] = 85.302,
     ["server"] = "Icecrown",
     ["overall_rank"] = 941,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9509,
+        ["rank_raids"] = 9510,
         ["dps_max"] = 18670.43,
         ["points"] = 7634.763476347634,
       },
@@ -72412,14 +72412,14 @@ UWULogsData[6][2] = {
         ["points"] = 9182.918291829183,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 12020,
+        ["rank_raids"] = 12021,
         ["dps_max"] = 15129.18,
         ["points"] = 6965.021944407501,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4597,
+        ["rank_raids"] = 4598,
         ["dps_max"] = 16387.04,
-        ["points"] = 8874.887488748875,
+        ["points"] = 8873.887388738875,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1876,
@@ -72434,7 +72434,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3012,
         ["dps_max"] = 14292.78,
-        ["points"] = 8860.759493670885,
+        ["points"] = 8860.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -72464,12 +72464,12 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 942,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 15852,
+        ["rank_raids"] = 15854,
         ["dps_max"] = 17766.43,
         ["points"] = 6567.656765676567,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7539,
+        ["rank_raids"] = 7540,
         ["dps_max"] = 17139.4,
         ["points"] = 7644.496079000871,
       },
@@ -72494,7 +72494,7 @@ UWULogsData[6][2] = {
         ["points"] = 8709.934831759543,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10759,
+        ["rank_raids"] = 10761,
         ["dps_max"] = 14973.74,
         ["points"] = 7727.772777277728,
       },
@@ -72511,7 +72511,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3690,
         ["dps_max"] = 14127.26,
-        ["points"] = 8660.728238787311,
+        ["points"] = 8660.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -72571,7 +72571,7 @@ UWULogsData[6][2] = {
         ["points"] = 8616.837345391674,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 8119,
+        ["rank_raids"] = 8121,
         ["dps_max"] = 15468.93,
         ["points"] = 8198.819881988198,
       },
@@ -72588,12 +72588,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 727,
         ["dps_max"] = 15200.08,
-        ["points"] = 9614.00218784185,
+        ["points"] = 9614.0625,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 6871,
+        ["rank_raids"] = 6872,
         ["dps_max"] = 8443.07,
-        ["points"] = 7489.7,
+        ["points"] = 7489.400000000001,
       },
       ["Halion"] = {
         ["rank_raids"] = 2132,
@@ -72613,7 +72613,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Veldora"] = {
-    ["percentile"] = 85.246,
+    ["percentile"] = 85.245,
     ["server"] = "Icecrown",
     ["overall_rank"] = 944,
     ["bosses"] = {
@@ -72623,7 +72623,7 @@ UWULogsData[6][2] = {
         ["points"] = 8701.870187018701,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 9645,
+        ["rank_raids"] = 9646,
         ["dps_max"] = 16480.78,
         ["points"] = 7102.817310485042,
       },
@@ -72643,14 +72643,14 @@ UWULogsData[6][2] = {
         ["points"] = 9051.905190519052,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9149,
+        ["rank_raids"] = 9150,
         ["dps_max"] = 15736.26,
         ["points"] = 7620.694241255485,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6883,
+        ["rank_raids"] = 6885,
         ["dps_max"] = 15738.55,
-        ["points"] = 8460.846084608462,
+        ["points"] = 8459.84598459846,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 530,
@@ -72663,7 +72663,7 @@ UWULogsData[6][2] = {
         ["points"] = 8409.800000000001,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 12605,
+        ["rank_raids"] = 12606,
         ["dps_max"] = 12724.38,
         ["points"] = 6730.378733823162,
       },
@@ -72742,7 +72742,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5013,
         ["dps_max"] = 13864.34,
-        ["points"] = 8290.35786841694,
+        ["points"] = 8290.625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -72767,7 +72767,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Coverme"] = {
-    ["percentile"] = 85.217,
+    ["percentile"] = 85.216,
     ["server"] = "Icecrown",
     ["overall_rank"] = 946,
     ["bosses"] = {
@@ -72782,7 +72782,7 @@ UWULogsData[6][2] = {
         ["points"] = 8745.280278826605,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 14177,
+        ["rank_raids"] = 14178,
         ["dps_max"] = 20705.71,
         ["points"] = 7759.4288536675485,
       },
@@ -72802,9 +72802,9 @@ UWULogsData[6][2] = {
         ["points"] = 9025.136321319325,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5539,
+        ["rank_raids"] = 5540,
         ["dps_max"] = 16087.69,
-        ["points"] = 8698.8698869887,
+        ["points"] = 8697.869786978697,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3424,
@@ -72819,7 +72819,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2710,
         ["dps_max"] = 14372.91,
-        ["points"] = 8963.90060947023,
+        ["points"] = 8964.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -72879,9 +72879,9 @@ UWULogsData[6][2] = {
         ["points"] = 8840.271312674558,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4498,
+        ["rank_raids"] = 4499,
         ["dps_max"] = 16422.89,
-        ["points"] = 8895.889588958897,
+        ["points"] = 8894.889488948895,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5398,
@@ -72896,7 +72896,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2146,
         ["dps_max"] = 14536.24,
-        ["points"] = 9124.863259884358,
+        ["points"] = 9125.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -72920,18 +72920,95 @@ UWULogsData[6][2] = {
       },
     },
   },
-  ["Luchie"] = {
-    ["percentile"] = 85.206,
+  ["Lilrazor"] = {
+    ["percentile"] = 85.21,
     ["server"] = "Icecrown",
     ["overall_rank"] = 948,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7484,
+        ["rank_raids"] = 1458,
+        ["dps_max"] = 21200.51,
+        ["points"] = 9493.949394939495,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 1536,
+        ["dps_max"] = 19711.94,
+        ["points"] = 9269.53238454836,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 7887,
+        ["dps_max"] = 21503.74,
+        ["points"] = 8271.827182718273,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 6571,
+        ["dps_max"] = 18849.98,
+        ["points"] = 8324.832483248325,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 5132,
+        ["dps_max"] = 20222.94,
+        ["points"] = 8631.863186318633,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 655,
+        ["dps_max"] = 19591.67,
+        ["points"] = 9751.296714988695,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 1237,
+        ["dps_max"] = 18207.3,
+        ["points"] = 9583.958395839583,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 4694,
+        ["dps_max"] = 20581.88,
+        ["points"] = 8142.800000000001,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 9046,
+        ["dps_max"] = 12456.27,
+        ["points"] = 6945.522495328447,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 12361,
+        ["dps_max"] = 12757.19,
+        ["points"] = 6747.733113860285,
+      },
+      ["Toravon the Ice Watcher"] = {
+        ["rank_raids"] = 824,
+        ["dps_max"] = 14457.13,
+        ["points"] = 9439.0,
+      },
+      ["Halion"] = {
+        ["rank_raids"] = 9976,
+        ["dps_max"] = 9133.75,
+        ["points"] = 6558.200000000001,
+      },
+      ["Anub'arak"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Valithria Dreamwalker"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+    },
+  },
+  ["Luchie"] = {
+    ["percentile"] = 85.205,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 949,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 7485,
         ["dps_max"] = 19031.14,
         ["points"] = 8015.801580158016,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7213,
+        ["rank_raids"] = 7214,
         ["dps_max"] = 17239.44,
         ["points"] = 7720.011617775196,
       },
@@ -72956,9 +73033,9 @@ UWULogsData[6][2] = {
         ["points"] = 8272.376645830562,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6755,
+        ["rank_raids"] = 6757,
         ["dps_max"] = 15768.57,
-        ["points"] = 8481.848184818482,
+        ["points"] = 8480.848084808482,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 366,
@@ -73000,7 +73077,7 @@ UWULogsData[6][2] = {
   ["Timeh"] = {
     ["percentile"] = 85.178,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 949,
+    ["overall_rank"] = 950,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1435,
@@ -73033,7 +73110,7 @@ UWULogsData[6][2] = {
         ["points"] = 9303.09881633196,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 13961,
+        ["rank_raids"] = 13963,
         ["dps_max"] = 14473.69,
         ["points"] = 7165.716571657166,
       },
@@ -73050,7 +73127,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3330,
         ["dps_max"] = 14213.79,
-        ["points"] = 8763.869354586654,
+        ["points"] = 8764.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 394,
@@ -73077,7 +73154,7 @@ UWULogsData[6][2] = {
   ["Hitemhigh"] = {
     ["percentile"] = 85.171,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 950,
+    ["overall_rank"] = 951,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 994,
@@ -73085,7 +73162,7 @@ UWULogsData[6][2] = {
         ["points"] = 9629.96299629963,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 9108,
+        ["rank_raids"] = 9109,
         ["dps_max"] = 16643.5,
         ["points"] = 7232.065059541097,
       },
@@ -73105,12 +73182,12 @@ UWULogsData[6][2] = {
         ["points"] = 8370.837083708371,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 10554,
+        ["rank_raids"] = 10555,
         ["dps_max"] = 15427.71,
         ["points"] = 7301.502859422796,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7459,
+        ["rank_raids"] = 7461,
         ["dps_max"] = 15607.33,
         ["points"] = 8324.832483248325,
       },
@@ -73127,7 +73204,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5787,
         ["dps_max"] = 13725.19,
-        ["points"] = 8110.642287857478,
+        ["points"] = 8110.937499999999,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 121,
@@ -73154,7 +73231,7 @@ UWULogsData[6][2] = {
   ["Milenski"] = {
     ["percentile"] = 85.146,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 951,
+    ["overall_rank"] = 952,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2194,
@@ -73162,9 +73239,9 @@ UWULogsData[6][2] = {
         ["points"] = 9262.926292629263,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 17040,
+        ["rank_raids"] = 17042,
         ["dps_max"] = 14550.1,
-        ["points"] = 5847.0,
+        ["points"] = 5846.8,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 816,
@@ -73182,7 +73259,7 @@ UWULogsData[6][2] = {
         ["points"] = 9599.9599959996,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 13601,
+        ["rank_raids"] = 13602,
         ["dps_max"] = 14846.11,
         ["points"] = 6627.211065301237,
       },
@@ -73204,12 +73281,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 10824,
         ["dps_max"] = 12959.4,
-        ["points"] = 6868.26066572902,
+        ["points"] = 6868.75,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 11718,
+        ["rank_raids"] = 11721,
         ["dps_max"] = 3138.94,
-        ["points"] = 6379.200000000001,
+        ["points"] = 6378.9,
       },
       ["Halion"] = {
         ["rank_raids"] = 10622,
@@ -73229,9 +73306,9 @@ UWULogsData[6][2] = {
     },
   },
   ["Gigittelur"] = {
-    ["percentile"] = 85.133,
+    ["percentile"] = 85.132,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 952,
+    ["overall_rank"] = 953,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5294,
@@ -73249,9 +73326,9 @@ UWULogsData[6][2] = {
         ["points"] = 8966.896689668967,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 10297,
+        ["rank_raids"] = 10298,
         ["dps_max"] = 18383.64,
-        ["points"] = 7710.771077107711,
+        ["points"] = 7709.77097709771,
       },
       ["Rotface"] = {
         ["rank_raids"] = 5403,
@@ -73264,9 +73341,9 @@ UWULogsData[6][2] = {
         ["points"] = 8249.76725628408,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5820,
+        ["rank_raids"] = 5821,
         ["dps_max"] = 16012.38,
-        ["points"] = 8643.864386438645,
+        ["points"] = 8642.864286428643,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2878,
@@ -73281,7 +73358,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2922,
         ["dps_max"] = 14316.06,
-        ["points"] = 8888.888888888889,
+        ["points"] = 8889.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -73308,7 +73385,7 @@ UWULogsData[6][2] = {
   ["Wouldyoukiss"] = {
     ["percentile"] = 85.121,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 953,
+    ["overall_rank"] = 954,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2748,
@@ -73331,7 +73408,7 @@ UWULogsData[6][2] = {
         ["points"] = 9912.991299129913,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 13165,
+        ["rank_raids"] = 13166,
         ["dps_max"] = 19169.49,
         ["points"] = 7997.270759664982,
       },
@@ -73358,7 +73435,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4677,
         ["dps_max"] = 13925.12,
-        ["points"] = 8385.685263322395,
+        ["points"] = 8385.9375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 320,
@@ -73385,7 +73462,7 @@ UWULogsData[6][2] = {
   ["Lute"] = {
     ["percentile"] = 85.08,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 954,
+    ["overall_rank"] = 955,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6864,
@@ -73435,7 +73512,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5253,
         ["dps_max"] = 13819.13,
-        ["points"] = 8229.4108454446,
+        ["points"] = 8229.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -73462,7 +73539,7 @@ UWULogsData[6][2] = {
   ["Yisuss"] = {
     ["percentile"] = 85.062,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 955,
+    ["overall_rank"] = 956,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1125,
@@ -73475,7 +73552,7 @@ UWULogsData[6][2] = {
         ["points"] = 8242.811501597445,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 15759,
+        ["rank_raids"] = 15761,
         ["dps_max"] = 20531.73,
         ["points"] = 7694.2301508961355,
       },
@@ -73512,7 +73589,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6592,
         ["dps_max"] = 13588.44,
-        ["points"] = 7898.109079543679,
+        ["points"] = 7898.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 405,
@@ -73537,12 +73614,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Ulaniec"] = {
-    ["percentile"] = 85.048,
+    ["percentile"] = 85.047,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 956,
+    ["overall_rank"] = 957,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8436,
+        ["rank_raids"] = 8437,
         ["dps_max"] = 18852.91,
         ["points"] = 7819.78197819782,
       },
@@ -73557,9 +73634,9 @@ UWULogsData[6][2] = {
         ["points"] = 8511.851185118512,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6898,
+        ["rank_raids"] = 6899,
         ["dps_max"] = 18803.34,
-        ["points"] = 8264.826482648265,
+        ["points"] = 8263.826382638264,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1346,
@@ -73587,7 +73664,7 @@ UWULogsData[6][2] = {
         ["points"] = 8877.389679459537,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 14471,
+        ["rank_raids"] = 14472,
         ["dps_max"] = 12486.27,
         ["points"] = 6604.433856327314,
       },
@@ -73614,9 +73691,9 @@ UWULogsData[6][2] = {
     },
   },
   ["Tizyroz"] = {
-    ["percentile"] = 85.044,
+    ["percentile"] = 85.043,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 957,
+    ["overall_rank"] = 958,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6383,
@@ -73649,9 +73726,9 @@ UWULogsData[6][2] = {
         ["points"] = 8055.592499002528,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6083,
+        ["rank_raids"] = 6085,
         ["dps_max"] = 15940.78,
-        ["points"] = 8593.859385938593,
+        ["points"] = 8592.859285928593,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6756,
@@ -73666,7 +73743,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3086,
         ["dps_max"] = 14272.67,
-        ["points"] = 8848.257540240662,
+        ["points"] = 8848.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -73691,9 +73768,9 @@ UWULogsData[6][2] = {
     },
   },
   ["Ereedinn"] = {
-    ["percentile"] = 85.011,
+    ["percentile"] = 85.01,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 958,
+    ["overall_rank"] = 959,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2151,
@@ -73701,7 +73778,7 @@ UWULogsData[6][2] = {
         ["points"] = 9276.927692769277,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7017,
+        ["rank_raids"] = 7018,
         ["dps_max"] = 17302.76,
         ["points"] = 7763.5782747603835,
       },
@@ -73726,9 +73803,9 @@ UWULogsData[6][2] = {
         ["points"] = 8111.450990823248,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7019,
+        ["rank_raids"] = 7021,
         ["dps_max"] = 15708.73,
-        ["points"] = 8429.84298429843,
+        ["points"] = 8428.84288428843,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 7051,
@@ -73743,7 +73820,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3348,
         ["dps_max"] = 14209.03,
-        ["points"] = 8756.055633692764,
+        ["points"] = 8756.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -73770,7 +73847,7 @@ UWULogsData[6][2] = {
   ["Illidanlord"] = {
     ["percentile"] = 84.971,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 959,
+    ["overall_rank"] = 960,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2556,
@@ -73778,7 +73855,7 @@ UWULogsData[6][2] = {
         ["points"] = 9159.91599159916,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 8639,
+        ["rank_raids"] = 8640,
         ["dps_max"] = 16791.01,
         ["points"] = 7348.242811501597,
       },
@@ -73803,7 +73880,7 @@ UWULogsData[6][2] = {
         ["points"] = 8116.770847187126,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7599,
+        ["rank_raids"] = 7601,
         ["dps_max"] = 15575.75,
         ["points"] = 8298.829882988299,
       },
@@ -73820,7 +73897,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4516,
         ["dps_max"] = 13956.84,
-        ["points"] = 8434.13033286451,
+        ["points"] = 8434.375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -73847,7 +73924,7 @@ UWULogsData[6][2] = {
   ["Carebox"] = {
     ["percentile"] = 84.968,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 960,
+    ["overall_rank"] = 961,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3624,
@@ -73855,14 +73932,14 @@ UWULogsData[6][2] = {
         ["points"] = 8873.887388738875,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 29173,
+        ["rank_raids"] = 29175,
         ["dps_max"] = 11663.37,
         ["points"] = 4683.781490433751,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9961,
+        ["rank_raids"] = 9962,
         ["dps_max"] = 21212.56,
-        ["points"] = 7958.795879587959,
+        ["points"] = 7957.795779577958,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1605,
@@ -73875,12 +73952,12 @@ UWULogsData[6][2] = {
         ["points"] = 9523.952395239525,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8747,
+        ["rank_raids"] = 8748,
         ["dps_max"] = 15835.01,
         ["points"] = 7695.172230349781,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7637,
+        ["rank_raids"] = 7639,
         ["dps_max"] = 15568.76,
         ["points"] = 8288.828882888289,
       },
@@ -73897,7 +73974,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1969,
         ["dps_max"] = 14588.16,
-        ["points"] = 9179.559306141584,
+        ["points"] = 9179.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -73924,7 +74001,7 @@ UWULogsData[6][2] = {
   ["Vladam"] = {
     ["percentile"] = 84.963,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 961,
+    ["overall_rank"] = 962,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2593,
@@ -73947,17 +74024,17 @@ UWULogsData[6][2] = {
         ["points"] = 9454.945494549454,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 11638,
+        ["rank_raids"] = 11639,
         ["dps_max"] = 19331.36,
         ["points"] = 8064.800893114905,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9638,
+        ["rank_raids"] = 9639,
         ["dps_max"] = 15632.41,
         ["points"] = 7512.967149886953,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 8552,
+        ["rank_raids"] = 8554,
         ["dps_max"] = 15390.13,
         ["points"] = 8130.813081308131,
       },
@@ -73974,7 +74051,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 10587,
         ["dps_max"] = 12993.83,
-        ["points"] = 6921.39396780747,
+        ["points"] = 6921.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -74001,15 +74078,15 @@ UWULogsData[6][2] = {
   ["Palaws"] = {
     ["percentile"] = 84.959,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 962,
+    ["overall_rank"] = 963,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 15420,
+        ["rank_raids"] = 15422,
         ["dps_max"] = 17821.41,
         ["points"] = 6626.662666266626,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7464,
+        ["rank_raids"] = 7465,
         ["dps_max"] = 17166.5,
         ["points"] = 7657.566076096427,
       },
@@ -74029,7 +74106,7 @@ UWULogsData[6][2] = {
         ["points"] = 9174.917491749175,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 11731,
+        ["rank_raids"] = 11732,
         ["dps_max"] = 15188.16,
         ["points"] = 7026.2002925921,
       },
@@ -74051,7 +74128,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1305,
         ["dps_max"] = 14863.93,
-        ["points"] = 9398.343491170495,
+        ["points"] = 9398.4375,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 557,
@@ -74076,9 +74153,9 @@ UWULogsData[6][2] = {
     },
   },
   ["Aimera"] = {
-    ["percentile"] = 84.956,
+    ["percentile"] = 84.957,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 963,
+    ["overall_rank"] = 964,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5184,
@@ -74101,7 +74178,7 @@ UWULogsData[6][2] = {
         ["points"] = 9272.927292729273,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9708,
+        ["rank_raids"] = 9709,
         ["dps_max"] = 19557.04,
         ["points"] = 8158.951758111376,
       },
@@ -74128,7 +74205,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6489,
         ["dps_max"] = 13605.56,
-        ["points"] = 7927.801218940459,
+        ["points"] = 7928.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -74155,7 +74232,7 @@ UWULogsData[6][2] = {
   ["Kaitoukid"] = {
     ["percentile"] = 84.956,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 964,
+    ["overall_rank"] = 965,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2909,
@@ -74183,7 +74260,7 @@ UWULogsData[6][2] = {
         ["points"] = 9156.915691569158,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 10673,
+        ["rank_raids"] = 10674,
         ["dps_max"] = 15406.77,
         ["points"] = 7265.593828966617,
       },
@@ -74205,7 +74282,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1206,
         ["dps_max"] = 14911.96,
-        ["points"] = 9442.100328176277,
+        ["points"] = 9442.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -74230,9 +74307,9 @@ UWULogsData[6][2] = {
     },
   },
   ["Iolxqt"] = {
-    ["percentile"] = 84.952,
+    ["percentile"] = 84.951,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 965,
+    ["overall_rank"] = 966,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6460,
@@ -74245,14 +74322,14 @@ UWULogsData[6][2] = {
         ["points"] = 9053.151321521927,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 18007,
+        ["rank_raids"] = 18009,
         ["dps_max"] = 20295.64,
         ["points"] = 7605.755833518833,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 9308,
+        ["rank_raids"] = 9309,
         ["dps_max"] = 18493.24,
-        ["points"] = 7875.787578757876,
+        ["points"] = 7874.787478747874,
       },
       ["Rotface"] = {
         ["rank_raids"] = 5186,
@@ -74282,7 +74359,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3833,
         ["dps_max"] = 14095.6,
-        ["points"] = 8624.785122675417,
+        ["points"] = 8625.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -74307,9 +74384,9 @@ UWULogsData[6][2] = {
     },
   },
   ["Swooker"] = {
-    ["percentile"] = 84.93,
+    ["percentile"] = 84.931,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 966,
+    ["overall_rank"] = 967,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1514,
@@ -74359,7 +74436,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 10382,
         ["dps_max"] = 13022.0,
-        ["points"] = 6962.025316455697,
+        ["points"] = 6962.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -74386,7 +74463,7 @@ UWULogsData[6][2] = {
   ["Rapture"] = {
     ["percentile"] = 84.921,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 967,
+    ["overall_rank"] = 968,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 639,
@@ -74394,7 +74471,7 @@ UWULogsData[6][2] = {
         ["points"] = 9749.97499749975,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 8256,
+        ["rank_raids"] = 8257,
         ["dps_max"] = 16915.64,
         ["points"] = 7448.446122567528,
       },
@@ -74409,7 +74486,7 @@ UWULogsData[6][2] = {
         ["points"] = 8957.895789578957,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 13725,
+        ["rank_raids"] = 13726,
         ["dps_max"] = 19107.52,
         ["points"] = 7971.417653036874,
       },
@@ -74436,7 +74513,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4956,
         ["dps_max"] = 13874.88,
-        ["points"] = 8304.422566025942,
+        ["points"] = 8304.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1841,
@@ -74461,9 +74538,9 @@ UWULogsData[6][2] = {
     },
   },
   ["Bananaasplit"] = {
-    ["percentile"] = 84.915,
+    ["percentile"] = 84.913,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 968,
+    ["overall_rank"] = 969,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2543,
@@ -74476,14 +74553,14 @@ UWULogsData[6][2] = {
         ["points"] = 9491.722335172813,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9879,
+        ["rank_raids"] = 9880,
         ["dps_max"] = 21223.38,
-        ["points"] = 7973.797379737974,
+        ["points"] = 7972.797279727973,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6999,
+        ["rank_raids"] = 7000,
         ["dps_max"] = 18790.34,
-        ["points"] = 8249.824982498249,
+        ["points"] = 8248.824882488248,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3967,
@@ -74496,9 +74573,9 @@ UWULogsData[6][2] = {
         ["points"] = 7765.6603271711665,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6436,
+        ["rank_raids"] = 6438,
         ["dps_max"] = 15855.43,
-        ["points"] = 8537.853785378538,
+        ["points"] = 8536.853685368536,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4404,
@@ -74513,7 +74590,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7446,
         ["dps_max"] = 13452.89,
-        ["points"] = 7712.142522269104,
+        ["points"] = 7712.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -74540,7 +74617,7 @@ UWULogsData[6][2] = {
   ["Tongniding"] = {
     ["percentile"] = 84.912,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 969,
+    ["overall_rank"] = 970,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5083,
@@ -74563,17 +74640,17 @@ UWULogsData[6][2] = {
         ["points"] = 9256.925692569257,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9776,
+        ["rank_raids"] = 9777,
         ["dps_max"] = 19548.2,
         ["points"] = 8155.263821003219,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 13779,
+        ["rank_raids"] = 13780,
         ["dps_max"] = 14811.21,
         ["points"] = 6587.31214257215,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7380,
+        ["rank_raids"] = 7382,
         ["dps_max"] = 15626.55,
         ["points"] = 8343.834383438345,
       },
@@ -74590,12 +74667,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3441,
         ["dps_max"] = 14184.2,
-        ["points"] = 8724.800750117205,
+        ["points"] = 8725.0,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 8163,
+        ["rank_raids"] = 8164,
         ["dps_max"] = 7395.21,
-        ["points"] = 7102.1,
+        ["points"] = 7101.8,
       },
       ["Halion"] = {
         ["rank_raids"] = nil,
@@ -74617,7 +74694,7 @@ UWULogsData[6][2] = {
   ["Estherroguee"] = {
     ["percentile"] = 84.889,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 970,
+    ["overall_rank"] = 971,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1428,
@@ -74630,7 +74707,7 @@ UWULogsData[6][2] = {
         ["points"] = 8746.732500726112,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 12982,
+        ["rank_raids"] = 12983,
         ["dps_max"] = 20838.39,
         ["points"] = 7809.150453183073,
       },
@@ -74650,9 +74727,9 @@ UWULogsData[6][2] = {
         ["points"] = 9167.442479053065,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6060,
+        ["rank_raids"] = 6062,
         ["dps_max"] = 15946.98,
-        ["points"] = 8598.859885988599,
+        ["points"] = 8597.859785978597,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6977,
@@ -74667,7 +74744,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9234,
         ["dps_max"] = 13189.05,
-        ["points"] = 7238.631036099391,
+        ["points"] = 7239.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -74692,9 +74769,9 @@ UWULogsData[6][2] = {
     },
   },
   ["Keeler"] = {
-    ["percentile"] = 84.884,
+    ["percentile"] = 84.885,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 971,
+    ["overall_rank"] = 972,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3769,
@@ -74722,7 +74799,7 @@ UWULogsData[6][2] = {
         ["points"] = 9559.95599559956,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9209,
+        ["rank_raids"] = 9210,
         ["dps_max"] = 15721.21,
         ["points"] = 7606.064636254821,
       },
@@ -74744,7 +74821,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6685,
         ["dps_max"] = 13574.87,
-        ["points"] = 7877.793405219565,
+        ["points"] = 7878.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -74771,7 +74848,7 @@ UWULogsData[6][2] = {
   ["Elcrunkito"] = {
     ["percentile"] = 84.841,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 972,
+    ["overall_rank"] = 973,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6668,
@@ -74799,7 +74876,7 @@ UWULogsData[6][2] = {
         ["points"] = 8601.8601860186,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 12802,
+        ["rank_raids"] = 12803,
         ["dps_max"] = 14990.62,
         ["points"] = 6792.126612581461,
       },
@@ -74821,7 +74898,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2910,
         ["dps_max"] = 14318.24,
-        ["points"] = 8892.014377246445,
+        ["points"] = 8892.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -74846,9 +74923,9 @@ UWULogsData[6][2] = {
     },
   },
   ["Dblrokol"] = {
-    ["percentile"] = 84.836,
+    ["percentile"] = 84.835,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 973,
+    ["overall_rank"] = 974,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1100,
@@ -74866,12 +74943,12 @@ UWULogsData[6][2] = {
         ["points"] = 8604.860486048605,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 9107,
+        ["rank_raids"] = 9108,
         ["dps_max"] = 18518.52,
-        ["points"] = 7904.790479047905,
+        ["points"] = 7903.790379037904,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 15860,
+        ["rank_raids"] = 15861,
         ["dps_max"] = 18879.31,
         ["points"] = 7876.21130377755,
       },
@@ -74898,7 +74975,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3479,
         ["dps_max"] = 14174.18,
-        ["points"] = 8713.86154086576,
+        ["points"] = 8714.0625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -74925,7 +75002,7 @@ UWULogsData[6][2] = {
   ["Ghostfreya"] = {
     ["percentile"] = 84.834,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 974,
+    ["overall_rank"] = 975,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 738,
@@ -74933,9 +75010,9 @@ UWULogsData[6][2] = {
         ["points"] = 9719.97199719972,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 14182,
+        ["rank_raids"] = 14184,
         ["dps_max"] = 15253.88,
-        ["points"] = 6132.8,
+        ["points"] = 6132.599999999999,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 559,
@@ -74973,7 +75050,7 @@ UWULogsData[6][2] = {
         ["points"] = 7064.82679315797,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 21493,
+        ["rank_raids"] = 21495,
         ["dps_max"] = 11601.74,
         ["points"] = 6136.574369151624,
       },
@@ -75000,9 +75077,9 @@ UWULogsData[6][2] = {
     },
   },
   ["Hookerbay"] = {
-    ["percentile"] = 84.83,
+    ["percentile"] = 84.829,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 975,
+    ["overall_rank"] = 976,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3724,
@@ -75015,17 +75092,17 @@ UWULogsData[6][2] = {
         ["points"] = 9125.76241649724,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8537,
+        ["rank_raids"] = 8538,
         ["dps_max"] = 21409.96,
-        ["points"] = 8172.817281728173,
+        ["points"] = 8171.817181718172,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 15128,
+        ["rank_raids"] = 15129,
         ["dps_max"] = 17901.96,
         ["points"] = 7355.009198917658,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 14471,
+        ["rank_raids"] = 14472,
         ["dps_max"] = 19025.95,
         ["points"] = 7937.387672277559,
       },
@@ -75050,7 +75127,7 @@ UWULogsData[6][2] = {
         ["points"] = 8999.568779646399,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 20245,
+        ["rank_raids"] = 20246,
         ["dps_max"] = 11761.87,
         ["points"] = 6221.272841426668,
       },
@@ -75079,7 +75156,7 @@ UWULogsData[6][2] = {
   ["Gangover"] = {
     ["percentile"] = 84.827,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 976,
+    ["overall_rank"] = 977,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5884,
@@ -75087,12 +75164,12 @@ UWULogsData[6][2] = {
         ["points"] = 8332.833283328333,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 8138,
+        ["rank_raids"] = 8139,
         ["dps_max"] = 16950.31,
         ["points"] = 7470.229451060122,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 15229,
+        ["rank_raids"] = 15231,
         ["dps_max"] = 20585.92,
         ["points"] = 7714.537759260216,
       },
@@ -75112,7 +75189,7 @@ UWULogsData[6][2] = {
         ["points"] = 8590.238063572284,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10203,
+        ["rank_raids"] = 10205,
         ["dps_max"] = 15069.81,
         ["points"] = 7823.782378237824,
       },
@@ -75129,7 +75206,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2680,
         ["dps_max"] = 14382.99,
-        ["points"] = 8970.15158618534,
+        ["points"] = 8970.3125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -75156,7 +75233,7 @@ UWULogsData[6][2] = {
   ["Binbadus"] = {
     ["percentile"] = 84.826,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 977,
+    ["overall_rank"] = 978,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 537,
@@ -75206,7 +75283,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3860,
         ["dps_max"] = 14088.23,
-        ["points"] = 8618.534145960306,
+        ["points"] = 8618.75,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -75231,9 +75308,9 @@ UWULogsData[6][2] = {
     },
   },
   ["Refix"] = {
-    ["percentile"] = 84.817,
+    ["percentile"] = 84.816,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 978,
+    ["overall_rank"] = 979,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5118,
@@ -75241,7 +75318,7 @@ UWULogsData[6][2] = {
         ["points"] = 8507.850785078508,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 11359,
+        ["rank_raids"] = 11361,
         ["dps_max"] = 15998.09,
         ["points"] = 6664.246296834156,
       },
@@ -75251,9 +75328,9 @@ UWULogsData[6][2] = {
         ["points"] = 9347.934793479348,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7228,
+        ["rank_raids"] = 7229,
         ["dps_max"] = 18760.37,
-        ["points"] = 8207.820782078208,
+        ["points"] = 8206.820682068206,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1305,
@@ -75261,7 +75338,7 @@ UWULogsData[6][2] = {
         ["points"] = 9531.953195319533,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 11431,
+        ["rank_raids"] = 11432,
         ["dps_max"] = 15249.94,
         ["points"] = 7091.368533049608,
       },
@@ -75283,7 +75360,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6710,
         ["dps_max"] = 13571.26,
-        ["points"] = 7871.542428504454,
+        ["points"] = 7871.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 787,
@@ -75308,9 +75385,9 @@ UWULogsData[6][2] = {
     },
   },
   ["Venomwtf"] = {
-    ["percentile"] = 84.808,
+    ["percentile"] = 84.809,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 979,
+    ["overall_rank"] = 980,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3244,
@@ -75333,7 +75410,7 @@ UWULogsData[6][2] = {
         ["points"] = 8842.884288428842,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 12368,
+        ["rank_raids"] = 12369,
         ["dps_max"] = 19250.78,
         ["points"] = 8031.183927936707,
       },
@@ -75343,7 +75420,7 @@ UWULogsData[6][2] = {
         ["points"] = 8668.705944939487,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 8696,
+        ["rank_raids"] = 8698,
         ["dps_max"] = 15361.36,
         ["points"] = 8106.810681068107,
       },
@@ -75360,7 +75437,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7634,
         ["dps_max"] = 13423.8,
-        ["points"] = 7659.009220190655,
+        ["points"] = 7659.375000000001,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -75385,12 +75462,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Akali"] = {
-    ["percentile"] = 84.771,
+    ["percentile"] = 84.772,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 980,
+    ["overall_rank"] = 981,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9320,
+        ["rank_raids"] = 9321,
         ["dps_max"] = 18702.66,
         ["points"] = 7660.7660766076615,
       },
@@ -75405,7 +75482,7 @@ UWULogsData[6][2] = {
         ["points"] = 8889.888988898889,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 22260,
+        ["rank_raids"] = 22262,
         ["dps_max"] = 17262.45,
         ["points"] = 7092.266910765979,
       },
@@ -75420,7 +75497,7 @@ UWULogsData[6][2] = {
         ["points"] = 9175.422263598883,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 9232,
+        ["rank_raids"] = 9234,
         ["dps_max"] = 15255.94,
         ["points"] = 8005.800580058006,
       },
@@ -75437,7 +75514,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4473,
         ["dps_max"] = 13962.59,
-        ["points"] = 8451.320518831068,
+        ["points"] = 8451.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -75464,7 +75541,7 @@ UWULogsData[6][2] = {
   ["Hhezbollah"] = {
     ["percentile"] = 84.759,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 981,
+    ["overall_rank"] = 982,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2107,
@@ -75492,7 +75569,7 @@ UWULogsData[6][2] = {
         ["points"] = 9534.953495349535,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9808,
+        ["rank_raids"] = 9809,
         ["dps_max"] = 15596.26,
         ["points"] = 7475.728155339806,
       },
@@ -75539,9 +75616,9 @@ UWULogsData[6][2] = {
     },
   },
   ["Secretfruit"] = {
-    ["percentile"] = 84.754,
+    ["percentile"] = 84.755,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 982,
+    ["overall_rank"] = 983,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1840,
@@ -75569,7 +75646,7 @@ UWULogsData[6][2] = {
         ["points"] = 8807.880788078808,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 13780,
+        ["rank_raids"] = 13781,
         ["dps_max"] = 14811.08,
         ["points"] = 6585.982178481181,
       },
@@ -75591,7 +75668,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9361,
         ["dps_max"] = 13169.63,
-        ["points"] = 7204.250664166277,
+        ["points"] = 7204.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -75616,9 +75693,9 @@ UWULogsData[6][2] = {
     },
   },
   ["Amandaknox"] = {
-    ["percentile"] = 84.74,
+    ["percentile"] = 84.739,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 983,
+    ["overall_rank"] = 984,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1551,
@@ -75631,9 +75708,9 @@ UWULogsData[6][2] = {
         ["points"] = 8305.257043276213,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8154,
+        ["rank_raids"] = 8155,
         ["dps_max"] = 21465.51,
-        ["points"] = 8239.82398239824,
+        ["points"] = 8238.823882388238,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3685,
@@ -75695,7 +75772,7 @@ UWULogsData[6][2] = {
   ["Accelerate"] = {
     ["percentile"] = 84.738,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 984,
+    ["overall_rank"] = 985,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6298,
@@ -75745,7 +75822,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2768,
         ["dps_max"] = 14358.34,
-        ["points"] = 8946.710423503671,
+        ["points"] = 8946.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -75770,9 +75847,9 @@ UWULogsData[6][2] = {
     },
   },
   ["Bstab"] = {
-    ["percentile"] = 84.738,
+    ["percentile"] = 84.737,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 985,
+    ["overall_rank"] = 986,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3140,
@@ -75790,12 +75867,12 @@ UWULogsData[6][2] = {
         ["points"] = 8521.852185218522,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 8607,
+        ["rank_raids"] = 8608,
         ["dps_max"] = 18577.73,
-        ["points"] = 7993.799379937994,
+        ["points"] = 7992.799279927993,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 10482,
+        ["rank_raids"] = 10483,
         ["dps_max"] = 19463.18,
         ["points"] = 8119.79454352183,
       },
@@ -75822,7 +75899,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7135,
         ["dps_max"] = 13496.4,
-        ["points"] = 7776.215033599,
+        ["points"] = 7776.562500000001,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -75847,9 +75924,9 @@ UWULogsData[6][2] = {
     },
   },
   ["Amaja"] = {
-    ["percentile"] = 84.731,
+    ["percentile"] = 84.73,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 986,
+    ["overall_rank"] = 987,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 653,
@@ -75867,7 +75944,7 @@ UWULogsData[6][2] = {
         ["points"] = 9014.901490149015,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 14883,
+        ["rank_raids"] = 14884,
         ["dps_max"] = 17924.73,
         ["points"] = 7364.364239341129,
       },
@@ -75877,14 +75954,14 @@ UWULogsData[6][2] = {
         ["points"] = 9806.980698069807,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9904,
+        ["rank_raids"] = 9905,
         ["dps_max"] = 15575.17,
         ["points"] = 7451.788801702353,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5221,
+        ["rank_raids"] = 5222,
         ["dps_max"] = 16197.9,
-        ["points"] = 8747.874787478748,
+        ["points"] = 8746.874687468746,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3177,
@@ -75897,7 +75974,7 @@ UWULogsData[6][2] = {
         ["points"] = 9172.056921086676,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 20647,
+        ["rank_raids"] = 20649,
         ["dps_max"] = 11709.49,
         ["points"] = 6193.567189907484,
       },
@@ -75924,9 +76001,9 @@ UWULogsData[6][2] = {
     },
   },
   ["Alghaleb"] = {
-    ["percentile"] = 84.724,
+    ["percentile"] = 84.723,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 987,
+    ["overall_rank"] = 988,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1254,
@@ -75939,17 +76016,17 @@ UWULogsData[6][2] = {
         ["points"] = 9432.181237293058,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 13810,
+        ["rank_raids"] = 13811,
         ["dps_max"] = 20744.37,
         ["points"] = 7773.9166215095,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7055,
+        ["rank_raids"] = 7056,
         ["dps_max"] = 18783.43,
-        ["points"] = 8236.823682368236,
+        ["points"] = 8235.823582358236,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 13653,
+        ["rank_raids"] = 13654,
         ["dps_max"] = 19115.33,
         ["points"] = 7974.675887065688,
       },
@@ -75976,7 +76053,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2933,
         ["dps_max"] = 14313.46,
-        ["points"] = 8881.075167994999,
+        ["points"] = 8881.25,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -76001,9 +76078,9 @@ UWULogsData[6][2] = {
     },
   },
   ["Fckthatshiet"] = {
-    ["percentile"] = 84.69,
+    ["percentile"] = 84.689,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 988,
+    ["overall_rank"] = 989,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2182,
@@ -76021,9 +76098,9 @@ UWULogsData[6][2] = {
         ["points"] = 8654.865486548655,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7229,
+        ["rank_raids"] = 7230,
         ["dps_max"] = 18760.14,
-        ["points"] = 8206.820682068206,
+        ["points"] = 8205.820582058206,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2130,
@@ -76053,7 +76130,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8245,
         ["dps_max"] = 13333.07,
-        ["points"] = 7482.419127988749,
+        ["points"] = 7482.8125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -76080,7 +76157,7 @@ UWULogsData[6][2] = {
   ["Leathermann"] = {
     ["percentile"] = 84.682,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 989,
+    ["overall_rank"] = 990,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2837,
@@ -76088,7 +76165,7 @@ UWULogsData[6][2] = {
         ["points"] = 9081.908190819082,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 10126,
+        ["rank_raids"] = 10127,
         ["dps_max"] = 16332.0,
         ["points"] = 6982.282892826024,
       },
@@ -76113,7 +76190,7 @@ UWULogsData[6][2] = {
         ["points"] = 7979.784545817263,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10370,
+        ["rank_raids"] = 10372,
         ["dps_max"] = 15038.2,
         ["points"] = 7789.77897789779,
       },
@@ -76130,7 +76207,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4035,
         ["dps_max"] = 14044.22,
-        ["points"] = 8576.340053133303,
+        ["points"] = 8576.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -76155,9 +76232,9 @@ UWULogsData[6][2] = {
     },
   },
   ["Needfelmagic"] = {
-    ["percentile"] = 84.673,
+    ["percentile"] = 84.672,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 990,
+    ["overall_rank"] = 991,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3088,
@@ -76165,7 +76242,7 @@ UWULogsData[6][2] = {
         ["points"] = 9021.902190219022,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 12329,
+        ["rank_raids"] = 12331,
         ["dps_max"] = 15747.53,
         ["points"] = 6407.203020621551,
       },
@@ -76190,9 +76267,9 @@ UWULogsData[6][2] = {
         ["points"] = 7789.599680808617,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6145,
+        ["rank_raids"] = 6147,
         ["dps_max"] = 15926.18,
-        ["points"] = 8585.858585858585,
+        ["points"] = 8584.858485848585,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1320,
@@ -76207,7 +76284,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4696,
         ["dps_max"] = 13922.22,
-        ["points"] = 8376.308798249727,
+        ["points"] = 8376.5625,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -76232,9 +76309,9 @@ UWULogsData[6][2] = {
     },
   },
   ["Cowiin"] = {
-    ["percentile"] = 84.633,
+    ["percentile"] = 84.632,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 991,
+    ["overall_rank"] = 992,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2118,
@@ -76242,7 +76319,7 @@ UWULogsData[6][2] = {
         ["points"] = 9285.928592859285,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 10142,
+        ["rank_raids"] = 10143,
         ["dps_max"] = 16327.71,
         ["points"] = 6977.926227127506,
       },
@@ -76252,9 +76329,9 @@ UWULogsData[6][2] = {
         ["points"] = 9447.944794479448,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 10112,
+        ["rank_raids"] = 10113,
         ["dps_max"] = 18405.36,
-        ["points"] = 7742.774277427743,
+        ["points"] = 7741.774177417742,
       },
       ["Rotface"] = {
         ["rank_raids"] = 6932,
@@ -76262,7 +76339,7 @@ UWULogsData[6][2] = {
         ["points"] = 8312.848038634897,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 11081,
+        ["rank_raids"] = 11082,
         ["dps_max"] = 15318.64,
         ["points"] = 7164.516558052933,
       },
@@ -76284,7 +76361,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 517,
         ["dps_max"] = 15420.02,
-        ["points"] = 9696.82762931708,
+        ["points"] = 9696.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -76300,83 +76377,6 @@ UWULogsData[6][2] = {
         ["rank_raids"] = nil,
         ["dps_max"] = nil,
         ["points"] = nil,
-      },
-      ["Valithria Dreamwalker"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-    },
-  },
-  ["Griftt"] = {
-    ["percentile"] = 84.616,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 992,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 14183,
-        ["dps_max"] = 17988.4,
-        ["points"] = 6819.68196819682,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 2377,
-        ["dps_max"] = 19179.92,
-        ["points"] = 9006.680220737728,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1774,
-        ["dps_max"] = 22879.73,
-        ["points"] = 9424.942494249426,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 1821,
-        ["dps_max"] = 19895.05,
-        ["points"] = 9374.937493749374,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 587,
-        ["dps_max"] = 21751.3,
-        ["points"] = 9750.97509750975,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 4177,
-        ["dps_max"] = 17215.33,
-        ["points"] = 8846.921133129405,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 6998,
-        ["dps_max"] = 15713.92,
-        ["points"] = 8435.843584358436,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 12592,
-        ["dps_max"] = 16948.97,
-        ["points"] = 6291.799999999999,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 8174,
-        ["dps_max"] = 12609.27,
-        ["points"] = 7164.0074744861295,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 1176,
-        ["dps_max"] = 14928.63,
-        ["points"] = 9454.602281606501,
-      },
-      ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Halion"] = {
-        ["rank_raids"] = 12622,
-        ["dps_max"] = 8576.97,
-        ["points"] = 6288.8,
-      },
-      ["Anub'arak"] = {
-        ["rank_raids"] = 1044,
-        ["dps_max"] = 9301.14,
-        ["points"] = 6447.547683923705,
       },
       ["Valithria Dreamwalker"] = {
         ["rank_raids"] = nil,
@@ -76438,7 +76438,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3262,
         ["dps_max"] = 14228.7,
-        ["points"] = 8791.998749804658,
+        ["points"] = 8792.1875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -76462,10 +76462,87 @@ UWULogsData[6][2] = {
       },
     },
   },
+  ["Griftt"] = {
+    ["percentile"] = 84.616,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 994,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 14184,
+        ["dps_max"] = 17988.4,
+        ["points"] = 6819.68196819682,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 2377,
+        ["dps_max"] = 19179.92,
+        ["points"] = 9006.680220737728,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 1774,
+        ["dps_max"] = 22879.73,
+        ["points"] = 9424.942494249426,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 1821,
+        ["dps_max"] = 19895.05,
+        ["points"] = 9374.937493749374,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 587,
+        ["dps_max"] = 21751.3,
+        ["points"] = 9750.97509750975,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 4177,
+        ["dps_max"] = 17215.33,
+        ["points"] = 8846.921133129405,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 7000,
+        ["dps_max"] = 15713.92,
+        ["points"] = 8434.843484348434,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 12592,
+        ["dps_max"] = 16948.97,
+        ["points"] = 6291.799999999999,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 8174,
+        ["dps_max"] = 12609.27,
+        ["points"] = 7164.0074744861295,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 1176,
+        ["dps_max"] = 14928.63,
+        ["points"] = 9454.6875,
+      },
+      ["Toravon the Ice Watcher"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Halion"] = {
+        ["rank_raids"] = 12622,
+        ["dps_max"] = 8576.97,
+        ["points"] = 6288.8,
+      },
+      ["Anub'arak"] = {
+        ["rank_raids"] = 1044,
+        ["dps_max"] = 9301.14,
+        ["points"] = 6447.547683923705,
+      },
+      ["Valithria Dreamwalker"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+    },
+  },
   ["Frigidan"] = {
     ["percentile"] = 84.615,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 994,
+    ["overall_rank"] = 995,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4376,
@@ -76498,7 +76575,7 @@ UWULogsData[6][2] = {
         ["points"] = 7913.286341268786,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 16247,
+        ["rank_raids"] = 16249,
         ["dps_max"] = 14147.52,
         ["points"] = 6802.680268026803,
       },
@@ -76515,7 +76592,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8370,
         ["dps_max"] = 13318.76,
-        ["points"] = 7454.289732770746,
+        ["points"] = 7454.6875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -76542,7 +76619,7 @@ UWULogsData[6][2] = {
   ["Braphrog"] = {
     ["percentile"] = 84.594,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 995,
+    ["overall_rank"] = 996,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6112,
@@ -76592,7 +76669,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4907,
         ["dps_max"] = 13884.78,
-        ["points"] = 8321.6127519925,
+        ["points"] = 8321.875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -76617,12 +76694,12 @@ UWULogsData[6][2] = {
     },
   },
   ["Stealthy"] = {
-    ["percentile"] = 84.545,
+    ["percentile"] = 84.546,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 996,
+    ["overall_rank"] = 997,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9770,
+        ["rank_raids"] = 9771,
         ["dps_max"] = 18630.76,
         ["points"] = 7584.758475847585,
       },
@@ -76632,17 +76709,17 @@ UWULogsData[6][2] = {
         ["points"] = 8597.153645076967,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 15746,
+        ["rank_raids"] = 15748,
         ["dps_max"] = 20533.35,
         ["points"] = 7694.837243081959,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 12479,
+        ["rank_raids"] = 12480,
         ["dps_max"] = 18157.84,
         ["points"] = 7460.137338731346,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 12415,
+        ["rank_raids"] = 12416,
         ["dps_max"] = 19246.37,
         ["points"] = 8029.344131257186,
       },
@@ -76669,12 +76746,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2391,
         ["dps_max"] = 14473.02,
-        ["points"] = 9052.977027660572,
+        ["points"] = 9053.125,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 3403,
+        ["rank_raids"] = 3404,
         ["dps_max"] = 11255.64,
-        ["points"] = 8530.1,
+        ["points"] = 8529.800000000001,
       },
       ["Halion"] = {
         ["rank_raids"] = 3888,
@@ -76694,17 +76771,17 @@ UWULogsData[6][2] = {
     },
   },
   ["Meinstream"] = {
-    ["percentile"] = 84.541,
+    ["percentile"] = 84.54,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 997,
+    ["overall_rank"] = 998,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8098,
+        ["rank_raids"] = 8099,
         ["dps_max"] = 18914.45,
         ["points"] = 7892.789278927893,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 8470,
+        ["rank_raids"] = 8471,
         ["dps_max"] = 16848.95,
         ["points"] = 7400.522799883822,
       },
@@ -76714,9 +76791,9 @@ UWULogsData[6][2] = {
         ["points"] = 8413.841384138414,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7026,
+        ["rank_raids"] = 7027,
         ["dps_max"] = 18786.77,
-        ["points"] = 8244.824482448244,
+        ["points"] = 8243.824382438244,
       },
       ["Rotface"] = {
         ["rank_raids"] = 995,
@@ -76746,7 +76823,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7475,
         ["dps_max"] = 13446.97,
-        ["points"] = 7702.766057196437,
+        ["points"] = 7703.125,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 332,
@@ -76771,9 +76848,9 @@ UWULogsData[6][2] = {
     },
   },
   ["Kryptonita"] = {
-    ["percentile"] = 84.518,
+    ["percentile"] = 84.517,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 998,
+    ["overall_rank"] = 999,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 576,
@@ -76781,9 +76858,9 @@ UWULogsData[6][2] = {
         ["points"] = 9768.97689768977,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 16174,
+        ["rank_raids"] = 16176,
         ["dps_max"] = 14758.88,
-        ["points"] = 5933.6,
+        ["points"] = 5933.4,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 4978,
@@ -76801,14 +76878,14 @@ UWULogsData[6][2] = {
         ["points"] = 8642.864286428643,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9860,
+        ["rank_raids"] = 9861,
         ["dps_max"] = 15583.89,
         ["points"] = 7462.42851443011,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6825,
+        ["rank_raids"] = 6827,
         ["dps_max"] = 15752.25,
-        ["points"] = 8474.847484748474,
+        ["points"] = 8473.847384738474,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6254,
@@ -76823,12 +76900,12 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3037,
         ["dps_max"] = 14287.42,
-        ["points"] = 8851.383028598219,
+        ["points"] = 8851.5625,
       },
       ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 3208,
+        ["rank_raids"] = 3209,
         ["dps_max"] = 11451.47,
-        ["points"] = 8588.6,
+        ["points"] = 8588.300000000001,
       },
       ["Halion"] = {
         ["rank_raids"] = 1282,
@@ -76848,9 +76925,9 @@ UWULogsData[6][2] = {
     },
   },
   ["Lastholyxlol"] = {
-    ["percentile"] = 84.501,
+    ["percentile"] = 84.502,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 999,
+    ["overall_rank"] = 1000,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1950,
@@ -76868,7 +76945,7 @@ UWULogsData[6][2] = {
         ["points"] = 9053.905390539054,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 18876,
+        ["rank_raids"] = 18878,
         ["dps_max"] = 17559.11,
         ["points"] = 7214.149488369265,
       },
@@ -76900,7 +76977,7 @@ UWULogsData[6][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6047,
         ["dps_max"] = 13679.63,
-        ["points"] = 8043.444288170026,
+        ["points"] = 8043.749999999999,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -76916,83 +76993,6 @@ UWULogsData[6][2] = {
         ["rank_raids"] = nil,
         ["dps_max"] = nil,
         ["points"] = nil,
-      },
-      ["Valithria Dreamwalker"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-    },
-  },
-  ["Classicorc"] = {
-    ["percentile"] = 84.499,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 1000,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7276,
-        ["dps_max"] = 19068.6,
-        ["points"] = 8057.805780578058,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 8419,
-        ["dps_max"] = 16861.34,
-        ["points"] = 7419.401684577404,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8000,
-        ["dps_max"] = 21487.66,
-        ["points"] = 8259.82598259826,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 2371,
-        ["dps_max"] = 19696.3,
-        ["points"] = 9217.921792179217,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 8326,
-        ["dps_max"] = 19731.45,
-        ["points"] = 8231.713422255449,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 1639,
-        ["dps_max"] = 18617.03,
-        ["points"] = 9499.93350179545,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 4636,
-        ["dps_max"] = 16374.54,
-        ["points"] = 8865.886588658866,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 991,
-        ["dps_max"] = 28403.67,
-        ["points"] = 9441.944194419442,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 8056,
-        ["dps_max"] = 12631.69,
-        ["points"] = 7191.31809688084,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 5084,
-        ["dps_max"] = 13851.48,
-        ["points"] = 8266.916705735272,
-      },
-      ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Halion"] = {
-        ["rank_raids"] = 455,
-        ["dps_max"] = 11841.05,
-        ["points"] = 9628.0,
-      },
-      ["Anub'arak"] = {
-        ["rank_raids"] = 1386,
-        ["dps_max"] = 8822.46,
-        ["points"] = 5282.697547683923,
       },
       ["Valithria Dreamwalker"] = {
         ["rank_raids"] = nil,

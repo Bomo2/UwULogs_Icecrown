@@ -9247,7 +9247,7 @@ UWULogsData[9][3] = {
     ["overall_rank"] = 8872,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 20465,
+        ["rank_raids"] = 20467,
         ["dps_max"] = 16191.83,
         ["points"] = 6602.560965863031,
       },
@@ -9257,7 +9257,7 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 40885,
+        ["rank_raids"] = 40887,
         ["dps_max"] = 16202.61,
         ["points"] = 6624.986404610248,
       },
@@ -9267,7 +9267,7 @@ UWULogsData[9][3] = {
         ["points"] = 7761.090457795233,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 21689,
+        ["rank_raids"] = 21691,
         ["dps_max"] = 16894.27,
         ["points"] = 7626.59704998876,
       },
@@ -9277,12 +9277,12 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 43950,
+        ["rank_raids"] = 43952,
         ["dps_max"] = 9664.17,
         ["points"] = 4706.8750630113045,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 45978,
+        ["rank_raids"] = 45980,
         ["dps_max"] = 13153.07,
         ["points"] = 3405.5839057823673,
       },
@@ -9312,9 +9312,9 @@ UWULogsData[9][3] = {
         ["points"] = nil,
       },
       ["Valithria Dreamwalker"] = {
-        ["rank_raids"] = 14005,
+        ["rank_raids"] = 14006,
         ["dps_max"] = 529.29,
-        ["points"] = 6150.5,
+        ["points"] = 6150.400000000001,
       },
     },
   },
@@ -30034,7 +30034,7 @@ UWULogsData[9][3] = {
   ["Draago"] = {
     ["percentile"] = 9.887,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 1734,
+    ["overall_rank"] = 1735,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4942,
@@ -30042,7 +30042,7 @@ UWULogsData[9][3] = {
         ["points"] = 8657.865786578657,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 11720,
+        ["rank_raids"] = 11722,
         ["dps_max"] = 14809.67,
         ["points"] = 7055.2812236541,
       },
@@ -30057,7 +30057,7 @@ UWULogsData[9][3] = {
         ["points"] = 8063.200544706934,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4246,
+        ["rank_raids"] = 4247,
         ["dps_max"] = 18871.08,
         ["points"] = 8912.891289128913,
       },
@@ -30067,7 +30067,7 @@ UWULogsData[9][3] = {
         ["points"] = 6689.525494967371,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 13517,
+        ["rank_raids"] = 13519,
         ["dps_max"] = 13355.35,
         ["points"] = 7256.725672567257,
       },
@@ -30082,7 +30082,7 @@ UWULogsData[9][3] = {
         ["points"] = 8421.534936998854,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 25668,
+        ["rank_raids"] = 25671,
         ["dps_max"] = 10292.65,
         ["points"] = 5893.604594568285,
       },

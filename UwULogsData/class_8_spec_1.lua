@@ -131,7 +131,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 29,
         ["dps_max"] = 17522.28,
-        ["points"] = 9941.896659057897,
+        ["points"] = 9941.908713692947,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -285,7 +285,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 45,
         ["dps_max"] = 16956.76,
-        ["points"] = 9908.694749948121,
+        ["points"] = 9908.713692946058,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 3,
@@ -362,7 +362,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 48,
         ["dps_max"] = 16884.05,
-        ["points"] = 9902.46939199004,
+        ["points"] = 9902.489626556016,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 18,
@@ -439,7 +439,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6,
         ["dps_max"] = 19631.72,
-        ["points"] = 9989.624403403195,
+        ["points"] = 9989.626556016598,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 334,
@@ -516,7 +516,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 34,
         ["dps_max"] = 17327.26,
-        ["points"] = 9931.521062461092,
+        ["points"] = 9931.535269709544,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -546,9 +546,9 @@ UWULogsData[8][1] = {
     ["overall_rank"] = 4566,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 23818,
+        ["rank_raids"] = 23819,
         ["dps_max"] = 2954.06,
-        ["points"] = 5169.199999999999,
+        ["points"] = 5169.099999999999,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = nil,
@@ -556,19 +556,19 @@ UWULogsData[8][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 11645,
+        ["rank_raids"] = 11646,
         ["dps_max"] = 3853.66,
-        ["points"] = 6386.499999999999,
+        ["points"] = 6386.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 21552,
+        ["rank_raids"] = 21553,
         ["dps_max"] = 4010.98,
-        ["points"] = 5395.799999999999,
+        ["points"] = 5395.7,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 12322,
+        ["rank_raids"] = 12323,
         ["dps_max"] = 2973.01,
-        ["points"] = 6318.8,
+        ["points"] = 6318.699999999999,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = nil,
@@ -576,14 +576,14 @@ UWULogsData[8][1] = {
         ["points"] = nil,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 9238,
+        ["rank_raids"] = 9239,
         ["dps_max"] = 730.24,
-        ["points"] = 6779.600000000001,
+        ["points"] = 6779.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 15897,
+        ["rank_raids"] = 15898,
         ["dps_max"] = 3242.44,
-        ["points"] = 5961.3,
+        ["points"] = 5961.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -670,7 +670,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 118,
         ["dps_max"] = 16081.56,
-        ["points"] = 9757.211039634778,
+        ["points"] = 9757.261410788382,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -747,7 +747,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4,
         ["dps_max"] = 20387.81,
-        ["points"] = 9993.774642041917,
+        ["points"] = 9993.775933609959,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -824,7 +824,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 38,
         ["dps_max"] = 17125.96,
-        ["points"] = 9923.220585183648,
+        ["points"] = 9923.236514522821,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -901,7 +901,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 57,
         ["dps_max"] = 16705.43,
-        ["points"] = 9883.793318115791,
+        ["points"] = 9883.817427385893,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 100,
@@ -978,7 +978,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 22,
         ["dps_max"] = 17740.9,
-        ["points"] = 9956.422494293422,
+        ["points"] = 9956.43153526971,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 104,
@@ -1055,7 +1055,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 60,
         ["dps_max"] = 16672.07,
-        ["points"] = 9877.567960157709,
+        ["points"] = 9877.59336099585,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -1132,7 +1132,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 44,
         ["dps_max"] = 16967.74,
-        ["points"] = 9910.769869267482,
+        ["points"] = 9910.78838174274,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 22,
@@ -1209,7 +1209,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 177,
         ["dps_max"] = 15624.24,
-        ["points"] = 9634.778999792488,
+        ["points"] = 9634.854771784232,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -1286,7 +1286,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 20,
         ["dps_max"] = 17977.5,
-        ["points"] = 9960.572732932143,
+        ["points"] = 9960.58091286307,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -1363,7 +1363,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 110,
         ["dps_max"] = 16154.13,
-        ["points"] = 9773.811994189666,
+        ["points"] = 9773.858921161825,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 6,
@@ -1440,7 +1440,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 104,
         ["dps_max"] = 16206.33,
-        ["points"] = 9786.262710105832,
+        ["points"] = 9786.307053941908,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 36,
@@ -1517,7 +1517,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 12,
         ["dps_max"] = 18704.65,
-        ["points"] = 9977.173687487031,
+        ["points"] = 9977.178423236515,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -1594,7 +1594,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 54,
         ["dps_max"] = 16767.35,
-        ["points"] = 9890.018676073874,
+        ["points"] = 9890.041493775934,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 262,
@@ -1671,7 +1671,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 66,
         ["dps_max"] = 16627.26,
-        ["points"] = 9865.117244241543,
+        ["points"] = 9865.145228215768,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 101,
@@ -1748,7 +1748,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 63,
         ["dps_max"] = 16642.3,
-        ["points"] = 9871.342602199626,
+        ["points"] = 9871.369294605809,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -1825,7 +1825,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 349,
         ["dps_max"] = 14905.58,
-        ["points"] = 9277.858476862419,
+        ["points"] = 9278.008298755187,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 4,
@@ -1902,7 +1902,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 23,
         ["dps_max"] = 17724.2,
-        ["points"] = 9954.34737497406,
+        ["points"] = 9954.356846473029,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -1979,7 +1979,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 186,
         ["dps_max"] = 15596.3,
-        ["points"] = 9616.102925918241,
+        ["points"] = 9616.182572614109,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -2056,7 +2056,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 89,
         ["dps_max"] = 16292.08,
-        ["points"] = 9817.389499896244,
+        ["points"] = 9817.427385892115,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -2133,7 +2133,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 26,
         ["dps_max"] = 17641.46,
-        ["points"] = 9948.122017015978,
+        ["points"] = 9948.132780082988,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -2210,7 +2210,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 149,
         ["dps_max"] = 15824.72,
-        ["points"] = 9692.882340734592,
+        ["points"] = 9692.946058091286,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 66,
@@ -2287,7 +2287,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 40,
         ["dps_max"] = 17069.65,
-        ["points"] = 9919.070346544926,
+        ["points"] = 9919.08713692946,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -2364,7 +2364,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 14,
         ["dps_max"] = 18557.91,
-        ["points"] = 9973.023448848307,
+        ["points"] = 9973.029045643154,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 164,
@@ -2441,7 +2441,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 419,
         ["dps_max"] = 14753.18,
-        ["points"] = 9132.600124507158,
+        ["points"] = 9132.780082987552,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 444,
@@ -2518,7 +2518,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 122,
         ["dps_max"] = 16021.9,
-        ["points"] = 9748.910562357336,
+        ["points"] = 9748.96265560166,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -2595,7 +2595,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 84,
         ["dps_max"] = 16376.35,
-        ["points"] = 9827.765096493049,
+        ["points"] = 9827.800829875518,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -2672,7 +2672,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 106,
         ["dps_max"] = 16188.84,
-        ["points"] = 9782.11247146711,
+        ["points"] = 9782.157676348548,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -2749,7 +2749,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 97,
         ["dps_max"] = 16240.66,
-        ["points"] = 9800.788545341356,
+        ["points"] = 9800.829875518672,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 33,
@@ -2826,7 +2826,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 142,
         ["dps_max"] = 15890.9,
-        ["points"] = 9707.408175970118,
+        ["points"] = 9707.46887966805,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -2903,7 +2903,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 242,
         ["dps_max"] = 15285.74,
-        ["points"] = 9499.896244034031,
+        ["points"] = 9500.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 591,
@@ -2980,7 +2980,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 236,
         ["dps_max"] = 15305.68,
-        ["points"] = 9512.346959950197,
+        ["points"] = 9512.448132780082,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -3057,7 +3057,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 251,
         ["dps_max"] = 15250.15,
-        ["points"] = 9481.220170159784,
+        ["points"] = 9481.327800829875,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -3134,7 +3134,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 207,
         ["dps_max"] = 15458.37,
-        ["points"] = 9572.525420211661,
+        ["points"] = 9572.614107883817,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -3211,7 +3211,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7,
         ["dps_max"] = 19091.62,
-        ["points"] = 9987.549284083836,
+        ["points"] = 9987.551867219918,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -3288,7 +3288,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 115,
         ["dps_max"] = 16117.48,
-        ["points"] = 9763.43639759286,
+        ["points"] = 9763.485477178423,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -3365,7 +3365,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 120,
         ["dps_max"] = 16075.92,
-        ["points"] = 9753.060800996058,
+        ["points"] = 9753.11203319502,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -3442,7 +3442,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 205,
         ["dps_max"] = 15470.91,
-        ["points"] = 9576.675658850385,
+        ["points"] = 9576.763485477179,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -3519,7 +3519,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 166,
         ["dps_max"] = 15689.78,
-        ["points"] = 9657.605312305457,
+        ["points"] = 9657.676348547719,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1583,
@@ -3544,7 +3544,7 @@ UWULogsData[8][1] = {
     },
   },
   ["Bronzebomber"] = {
-    ["percentile"] = 96.911,
+    ["percentile"] = 96.912,
     ["server"] = "Icecrown",
     ["overall_rank"] = 47,
     ["bosses"] = {
@@ -3596,7 +3596,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 127,
         ["dps_max"] = 15965.4,
-        ["points"] = 9738.534965760531,
+        ["points"] = 9738.589211618257,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -3673,7 +3673,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 209,
         ["dps_max"] = 15453.22,
-        ["points"] = 9568.37518157294,
+        ["points"] = 9568.464730290458,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -3750,7 +3750,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 144,
         ["dps_max"] = 15866.64,
-        ["points"] = 9703.257937331397,
+        ["points"] = 9703.319502074688,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 233,
@@ -3904,7 +3904,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 191,
         ["dps_max"] = 15587.28,
-        ["points"] = 9605.727329321437,
+        ["points"] = 9605.809128630706,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -3981,7 +3981,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 279,
         ["dps_max"] = 15137.09,
-        ["points"] = 9423.11682921768,
+        ["points"] = 9423.236514522821,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -4058,7 +4058,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 112,
         ["dps_max"] = 16132.87,
-        ["points"] = 9769.661755550944,
+        ["points"] = 9769.709543568464,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -4160,7 +4160,7 @@ UWULogsData[8][1] = {
     },
   },
   ["Justmylock"] = {
-    ["percentile"] = 96.436,
+    ["percentile"] = 96.437,
     ["server"] = "Icecrown",
     ["overall_rank"] = 56,
     ["bosses"] = {
@@ -4212,7 +4212,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 218,
         ["dps_max"] = 15408.64,
-        ["points"] = 9549.699107698692,
+        ["points"] = 9549.792531120333,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -4289,7 +4289,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 173,
         ["dps_max"] = 15644.34,
-        ["points"] = 9643.079477069932,
+        ["points"] = 9643.153526970955,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -4314,7 +4314,7 @@ UWULogsData[8][1] = {
     },
   },
   ["Elywl"] = {
-    ["percentile"] = 96.391,
+    ["percentile"] = 96.392,
     ["server"] = "Icecrown",
     ["overall_rank"] = 58,
     ["bosses"] = {
@@ -4366,7 +4366,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 140,
         ["dps_max"] = 15914.24,
-        ["points"] = 9711.55841460884,
+        ["points"] = 9711.61825726141,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -4443,7 +4443,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 150,
         ["dps_max"] = 15821.08,
-        ["points"] = 9690.807221415233,
+        ["points"] = 9690.871369294606,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -4520,7 +4520,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 153,
         ["dps_max"] = 15804.77,
-        ["points"] = 9684.58186345715,
+        ["points"] = 9684.647302904565,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 29,
@@ -4751,7 +4751,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 325,
         ["dps_max"] = 14973.99,
-        ["points"] = 9327.66134052708,
+        ["points"] = 9327.80082987552,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -4828,7 +4828,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 94,
         ["dps_max"] = 16272.66,
-        ["points"] = 9807.01390329944,
+        ["points"] = 9807.053941908713,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -4905,7 +4905,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 292,
         ["dps_max"] = 15089.83,
-        ["points"] = 9396.140278065988,
+        ["points"] = 9396.265560165975,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -5059,7 +5059,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 135,
         ["dps_max"] = 15928.37,
-        ["points"] = 9721.934011205643,
+        ["points"] = 9721.991701244813,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -5136,7 +5136,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 165,
         ["dps_max"] = 15692.1,
-        ["points"] = 9659.680431624818,
+        ["points"] = 9659.751037344398,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -5213,7 +5213,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 394,
         ["dps_max"] = 14809.26,
-        ["points"] = 9184.47810749118,
+        ["points"] = 9184.647302904565,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 3253,
@@ -5238,7 +5238,7 @@ UWULogsData[8][1] = {
     },
   },
   ["Demongucci"] = {
-    ["percentile"] = 95.864,
+    ["percentile"] = 95.865,
     ["server"] = "Icecrown",
     ["overall_rank"] = 70,
     ["bosses"] = {
@@ -5290,7 +5290,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 189,
         ["dps_max"] = 15592.62,
-        ["points"] = 9609.877567960159,
+        ["points"] = 9609.958506224066,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -5367,7 +5367,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 100,
         ["dps_max"] = 16217.93,
-        ["points"] = 9794.563187383275,
+        ["points"] = 9794.60580912863,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 75,
@@ -5444,7 +5444,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 383,
         ["dps_max"] = 14823.97,
-        ["points"] = 9207.30442000415,
+        ["points"] = 9207.46887966805,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -5521,7 +5521,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 15,
         ["dps_max"] = 18368.75,
-        ["points"] = 9970.948329528948,
+        ["points"] = 9970.954356846472,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -5623,7 +5623,7 @@ UWULogsData[8][1] = {
     },
   },
   ["Douglastflip"] = {
-    ["percentile"] = 95.615,
+    ["percentile"] = 95.616,
     ["server"] = "Icecrown",
     ["overall_rank"] = 75,
     ["bosses"] = {
@@ -5675,7 +5675,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 326,
         ["dps_max"] = 14972.32,
-        ["points"] = 9325.586221207719,
+        ["points"] = 9325.726141078838,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -5906,7 +5906,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 255,
         ["dps_max"] = 15236.77,
-        ["points"] = 9472.91969288234,
+        ["points"] = 9473.029045643154,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 586,
@@ -5983,7 +5983,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 284,
         ["dps_max"] = 15112.09,
-        ["points"] = 9412.741232620876,
+        ["points"] = 9412.863070539419,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -6060,7 +6060,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 290,
         ["dps_max"] = 15094.16,
-        ["points"] = 9400.29051670471,
+        ["points"] = 9400.414937759337,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1735,
@@ -6291,7 +6291,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 333,
         ["dps_max"] = 14961.36,
-        ["points"] = 9311.060385972192,
+        ["points"] = 9311.203319502074,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -6547,7 +6547,7 @@ UWULogsData[8][1] = {
     },
   },
   ["Fufica"] = {
-    ["percentile"] = 94.86,
+    ["percentile"] = 94.861,
     ["server"] = "Icecrown",
     ["overall_rank"] = 87,
     ["bosses"] = {
@@ -6599,7 +6599,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 237,
         ["dps_max"] = 15301.32,
-        ["points"] = 9510.271840630836,
+        ["points"] = 9510.373443983402,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -6907,7 +6907,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 248,
         ["dps_max"] = 15268.26,
-        ["points"] = 9487.445528117867,
+        ["points"] = 9487.551867219916,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -7215,7 +7215,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 214,
         ["dps_max"] = 15414.66,
-        ["points"] = 9557.999584976136,
+        ["points"] = 9558.091286307055,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -7292,7 +7292,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 247,
         ["dps_max"] = 15273.49,
-        ["points"] = 9489.520647437228,
+        ["points"] = 9489.626556016598,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 2506,
@@ -7446,7 +7446,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 338,
         ["dps_max"] = 14942.39,
-        ["points"] = 9300.68478937539,
+        ["points"] = 9300.829875518673,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -7677,7 +7677,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 79,
         ["dps_max"] = 16431.1,
-        ["points"] = 9838.140693089854,
+        ["points"] = 9838.17427385892,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -7754,7 +7754,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 163,
         ["dps_max"] = 15722.42,
-        ["points"] = 9663.83067026354,
+        ["points"] = 9663.90041493776,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 67,
@@ -8216,7 +8216,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 199,
         ["dps_max"] = 15534.82,
-        ["points"] = 9589.126374766549,
+        ["points"] = 9589.21161825726,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -8370,7 +8370,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 105,
         ["dps_max"] = 16193.46,
-        ["points"] = 9784.18759078647,
+        ["points"] = 9784.232365145228,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -8447,7 +8447,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 395,
         ["dps_max"] = 14808.91,
-        ["points"] = 9182.40298817182,
+        ["points"] = 9182.572614107883,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -8601,7 +8601,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 19,
         ["dps_max"] = 18050.39,
-        ["points"] = 9962.647852251504,
+        ["points"] = 9962.655601659751,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -8780,7 +8780,7 @@ UWULogsData[8][1] = {
     },
   },
   ["Omfg"] = {
-    ["percentile"] = 92.941,
+    ["percentile"] = 92.942,
     ["server"] = "Icecrown",
     ["overall_rank"] = 116,
     ["bosses"] = {
@@ -8832,7 +8832,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 377,
         ["dps_max"] = 14843.3,
-        ["points"] = 9219.755135920315,
+        ["points"] = 9219.917012448133,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -8986,7 +8986,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 113,
         ["dps_max"] = 16130.12,
-        ["points"] = 9767.586636231583,
+        ["points"] = 9767.634854771784,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -9833,7 +9833,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 354,
         ["dps_max"] = 14893.97,
-        ["points"] = 9267.482880265616,
+        ["points"] = 9267.634854771784,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -9910,7 +9910,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 303,
         ["dps_max"] = 15061.37,
-        ["points"] = 9373.31396555302,
+        ["points"] = 9373.443983402489,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -10295,7 +10295,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 308,
         ["dps_max"] = 15036.71,
-        ["points"] = 9362.938368956215,
+        ["points"] = 9363.070539419086,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -10757,7 +10757,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 298,
         ["dps_max"] = 15068.13,
-        ["points"] = 9383.689562149824,
+        ["points"] = 9383.817427385891,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -10834,7 +10834,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 183,
         ["dps_max"] = 15606.25,
-        ["points"] = 9622.328283876323,
+        ["points"] = 9622.40663900415,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 162,
@@ -11296,7 +11296,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 375,
         ["dps_max"] = 14845.34,
-        ["points"] = 9223.905374559037,
+        ["points"] = 9224.066390041495,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -11450,7 +11450,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 297,
         ["dps_max"] = 15069.19,
-        ["points"] = 9385.764681469183,
+        ["points"] = 9385.892116182573,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -12220,7 +12220,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 224,
         ["dps_max"] = 15357.45,
-        ["points"] = 9537.248391782528,
+        ["points"] = 9537.34439834025,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -15377,7 +15377,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 152,
         ["dps_max"] = 15818.18,
-        ["points"] = 9686.656982776509,
+        ["points"] = 9686.721991701244,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -26078,7 +26078,7 @@ UWULogsData[8][1] = {
         ["points"] = 7886.792452830189,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4810,
+        ["rank_raids"] = 4811,
         ["dps_max"] = 590.58,
         ["points"] = 271.67555338633014,
       },
@@ -28311,7 +28311,7 @@ UWULogsData[8][1] = {
         ["points"] = 6249.056603773585,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4636,
+        ["rank_raids"] = 4637,
         ["dps_max"] = 6240.86,
         ["points"] = 2870.8881000145825,
       },
@@ -29160,7 +29160,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 332,
         ["dps_max"] = 14967.6,
-        ["points"] = 9313.135505291555,
+        ["points"] = 9313.278008298756,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 636,
@@ -33316,7 +33316,7 @@ UWULogsData[8][1] = {
         ["points"] = 7358.490566037735,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4671,
+        ["rank_raids"] = 4672,
         ["dps_max"] = 5565.38,
         ["points"] = 2560.157288267828,
       },
@@ -34935,7 +34935,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 168,
         ["dps_max"] = 15665.86,
-        ["points"] = 9653.455073666735,
+        ["points"] = 9653.526970954357,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -39632,7 +39632,7 @@ UWULogsData[8][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 399,
         ["dps_max"] = 14805.54,
-        ["points"] = 9174.102510894376,
+        ["points"] = 9174.273858921162,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -45174,7 +45174,7 @@ UWULogsData[8][1] = {
         ["points"] = 3891.1748172084644,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4801,
+        ["rank_raids"] = 4802,
         ["dps_max"] = 861.66,
         ["points"] = 396.3763712466815,
       },
@@ -48254,7 +48254,7 @@ UWULogsData[8][1] = {
         ["points"] = 6294.33962264151,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4692,
+        ["rank_raids"] = 4693,
         ["dps_max"] = 4891.83,
         ["points"] = 2250.314305126911,
       },
@@ -51180,7 +51180,7 @@ UWULogsData[8][1] = {
         ["points"] = 8015.094339622641,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4702,
+        ["rank_raids"] = 4703,
         ["dps_max"] = 4669.7,
         ["points"] = 2148.131212787676,
       },
@@ -51873,7 +51873,7 @@ UWULogsData[8][1] = {
         ["points"] = 4499.538367608297,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4721,
+        ["rank_raids"] = 4722,
         ["dps_max"] = 4148.49,
         ["points"] = 1908.3668875811177,
       },
@@ -53105,7 +53105,7 @@ UWULogsData[8][1] = {
         ["points"] = 6830.188679245282,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4756,
+        ["rank_raids"] = 4757,
         ["dps_max"] = 2786.89,
         ["points"] = 1282.0107063849598,
       },
@@ -54672,7 +54672,7 @@ UWULogsData[8][1] = {
     },
   },
   ["Doomgodx"] = {
-    ["percentile"] = 61.173,
+    ["percentile"] = 61.172,
     ["server"] = "Icecrown",
     ["overall_rank"] = 716,
     ["bosses"] = {
@@ -58957,7 +58957,7 @@ UWULogsData[8][1] = {
         ["points"] = 7109.433962264151,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4767,
+        ["rank_raids"] = 4768,
         ["dps_max"] = 2309.36,
         ["points"] = 1062.3398285892772,
       },
@@ -65348,7 +65348,7 @@ UWULogsData[8][1] = {
         ["points"] = 4981.90233496642,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4695,
+        ["rank_raids"] = 4696,
         ["dps_max"] = 4796.85,
         ["points"] = 2206.622097363977,
       },
@@ -69044,7 +69044,7 @@ UWULogsData[8][1] = {
         ["points"] = 5595.3987535925435,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4699,
+        ["rank_raids"] = 4700,
         ["dps_max"] = 4742.62,
         ["points"] = 2181.6754935844033,
       },
@@ -72201,7 +72201,7 @@ UWULogsData[8][1] = {
         ["points"] = 6566.037735849056,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4725,
+        ["rank_raids"] = 4726,
         ["dps_max"] = 4031.95,
         ["points"] = 1854.7567602628158,
       },
