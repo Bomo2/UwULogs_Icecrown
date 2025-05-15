@@ -19,7 +19,7 @@ UWULogsData[3][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 7,
         ["dps_max"] = 22113.54,
-        ["points"] = 9965.116279069767,
+        ["points"] = 9965.136548518303,
       },
       ["Festergut"] = {
         ["rank_raids"] = 10,
@@ -96,7 +96,7 @@ UWULogsData[3][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 6,
         ["dps_max"] = 22330.83,
-        ["points"] = 9970.93023255814,
+        ["points"] = 9970.947123765252,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3,
@@ -121,7 +121,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3,
         ["dps_max"] = 37950.93,
-        ["points"] = 9986.495611073598,
+        ["points"] = 9986.504723346829,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3,
@@ -173,7 +173,7 @@ UWULogsData[3][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 5,
         ["dps_max"] = 22360.03,
-        ["points"] = 9976.744186046511,
+        ["points"] = 9976.757699012202,
       },
       ["Festergut"] = {
         ["rank_raids"] = 7,
@@ -198,7 +198,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 7,
         ["dps_max"] = 37713.19,
-        ["points"] = 9959.486833220797,
+        ["points"] = 9959.514170040486,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4,
@@ -250,7 +250,7 @@ UWULogsData[3][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 4,
         ["dps_max"] = 22578.88,
-        ["points"] = 9982.558139534884,
+        ["points"] = 9982.56827425915,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2,
@@ -327,7 +327,7 @@ UWULogsData[3][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 13,
         ["dps_max"] = 21796.41,
-        ["points"] = 9930.232558139534,
+        ["points"] = 9930.273097036606,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1,
@@ -352,7 +352,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 13,
         ["dps_max"] = 36356.95,
-        ["points"] = 9918.973666441594,
+        ["points"] = 9919.028340080971,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 32,
@@ -387,7 +387,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Nthrcr"] = {
-    ["percentile"] = 97.921,
+    ["percentile"] = 97.915,
     ["server"] = "Icecrown",
     ["overall_rank"] = 6,
     ["bosses"] = {
@@ -402,9 +402,9 @@ UWULogsData[3][1] = {
         ["points"] = 9630.35019455253,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 22,
+        ["rank_raids"] = 23,
         ["dps_max"] = 21559.18,
-        ["points"] = 9877.906976744187,
+        ["points"] = 9872.167344567111,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4,
@@ -429,7 +429,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5,
         ["dps_max"] = 37749.49,
-        ["points"] = 9972.991222147199,
+        ["points"] = 9973.009446693657,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 35,
@@ -464,7 +464,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Porchofgeese"] = {
-    ["percentile"] = 97.643,
+    ["percentile"] = 97.638,
     ["server"] = "Icecrown",
     ["overall_rank"] = 7,
     ["bosses"] = {
@@ -479,9 +479,9 @@ UWULogsData[3][1] = {
         ["points"] = 9902.723735408561,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 34,
+        ["rank_raids"] = 35,
         ["dps_max"] = 21174.8,
-        ["points"] = 9808.139534883721,
+        ["points"] = 9802.44044160372,
       },
       ["Festergut"] = {
         ["rank_raids"] = 71,
@@ -506,7 +506,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 45,
         ["dps_max"] = 33410.24,
-        ["points"] = 9702.903443619176,
+        ["points"] = 9703.10391363023,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 19,
@@ -541,7 +541,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Smallpenis"] = {
-    ["percentile"] = 97.632,
+    ["percentile"] = 97.626,
     ["server"] = "Icecrown",
     ["overall_rank"] = 8,
     ["bosses"] = {
@@ -556,9 +556,9 @@ UWULogsData[3][1] = {
         ["points"] = 9844.357976653697,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 41,
+        ["rank_raids"] = 42,
         ["dps_max"] = 21058.8,
-        ["points"] = 9767.441860465116,
+        ["points"] = 9761.766414875072,
       },
       ["Festergut"] = {
         ["rank_raids"] = 51,
@@ -583,7 +583,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 27,
         ["dps_max"] = 34721.69,
-        ["points"] = 9824.442943956787,
+        ["points"] = 9824.561403508771,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 57,
@@ -635,7 +635,7 @@ UWULogsData[3][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 14,
         ["dps_max"] = 21784.17,
-        ["points"] = 9924.418604651162,
+        ["points"] = 9924.462521789657,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5,
@@ -660,7 +660,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 16,
         ["dps_max"] = 35678.21,
-        ["points"] = 9898.717083051992,
+        ["points"] = 9898.785425101214,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 11,
@@ -695,7 +695,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Mageahh"] = {
-    ["percentile"] = 95.823,
+    ["percentile"] = 95.816,
     ["server"] = "Icecrown",
     ["overall_rank"] = 10,
     ["bosses"] = {
@@ -710,9 +710,9 @@ UWULogsData[3][1] = {
         ["points"] = 8989.89898989899,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 49,
+        ["rank_raids"] = 50,
         ["dps_max"] = 20917.53,
-        ["points"] = 9721.83588317107,
+        ["points"] = 9715.281812899477,
       },
       ["Festergut"] = {
         ["rank_raids"] = 18,
@@ -737,7 +737,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 15,
         ["dps_max"] = 35796.85,
-        ["points"] = 9905.469277515193,
+        ["points"] = 9905.5330634278,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 59,
@@ -772,7 +772,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Frostrationn"] = {
-    ["percentile"] = 95.155,
+    ["percentile"] = 95.141,
     ["server"] = "Icecrown",
     ["overall_rank"] = 11,
     ["bosses"] = {
@@ -787,9 +787,9 @@ UWULogsData[3][1] = {
         ["points"] = 9221.789883268482,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 107,
+        ["rank_raids"] = 108,
         ["dps_max"] = 20226.58,
-        ["points"] = 9527.12100139082,
+        ["points"] = 9513.212795549374,
       },
       ["Festergut"] = {
         ["rank_raids"] = 97,
@@ -814,7 +814,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 34,
         ["dps_max"] = 34465.4,
-        ["points"] = 9777.177582714383,
+        ["points"] = 9777.327935222671,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 68,
@@ -849,7 +849,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Bbeauty"] = {
-    ["percentile"] = 94.629,
+    ["percentile"] = 94.623,
     ["server"] = "Icecrown",
     ["overall_rank"] = 12,
     ["bosses"] = {
@@ -864,9 +864,9 @@ UWULogsData[3][1] = {
         ["points"] = 9941.634241245136,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 51,
+        ["rank_raids"] = 52,
         ["dps_max"] = 20889.26,
-        ["points"] = 9709.302325581395,
+        ["points"] = 9703.660662405578,
       },
       ["Festergut"] = {
         ["rank_raids"] = 15,
@@ -891,7 +891,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 10,
         ["dps_max"] = 37145.86,
-        ["points"] = 9939.230249831195,
+        ["points"] = 9939.271255060728,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 39,
@@ -926,7 +926,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Streakie"] = {
-    ["percentile"] = 94.506,
+    ["percentile"] = 94.501,
     ["server"] = "Icecrown",
     ["overall_rank"] = 13,
     ["bosses"] = {
@@ -941,9 +941,9 @@ UWULogsData[3][1] = {
         ["points"] = 9299.610894941634,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 31,
+        ["rank_raids"] = 32,
         ["dps_max"] = 21308.74,
-        ["points"] = 9825.581395348838,
+        ["points"] = 9819.872167344567,
       },
       ["Festergut"] = {
         ["rank_raids"] = 20,
@@ -968,7 +968,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 142,
         ["dps_max"] = 26624.13,
-        ["points"] = 9047.940580688724,
+        ["points"] = 9048.582995951418,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 8,
@@ -1003,7 +1003,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Feverrx"] = {
-    ["percentile"] = 94.179,
+    ["percentile"] = 94.173,
     ["server"] = "Icecrown",
     ["overall_rank"] = 14,
     ["bosses"] = {
@@ -1018,9 +1018,9 @@ UWULogsData[3][1] = {
         ["points"] = 8080.80808080808,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 46,
+        ["rank_raids"] = 47,
         ["dps_max"] = 20947.97,
-        ["points"] = 9738.372093023256,
+        ["points"] = 9732.713538640326,
       },
       ["Festergut"] = {
         ["rank_raids"] = 70,
@@ -1045,7 +1045,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 18,
         ["dps_max"] = 35610.47,
-        ["points"] = 9885.212694125592,
+        ["points"] = 9885.290148448043,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 29,
@@ -1095,7 +1095,7 @@ UWULogsData[3][1] = {
         ["points"] = 8939.39393939394,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 201,
+        ["rank_raids"] = 202,
         ["dps_max"] = 19325.04,
         ["points"] = 9109.874826147427,
       },
@@ -1122,7 +1122,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 28,
         ["dps_max"] = 34716.12,
-        ["points"] = 9817.690749493586,
+        ["points"] = 9817.813765182185,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 89,
@@ -1157,7 +1157,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Blazeyy"] = {
-    ["percentile"] = 92.313,
+    ["percentile"] = 92.299,
     ["server"] = "Icecrown",
     ["overall_rank"] = 16,
     ["bosses"] = {
@@ -1172,9 +1172,9 @@ UWULogsData[3][1] = {
         ["points"] = 7575.757575757576,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 76,
+        ["rank_raids"] = 77,
         ["dps_max"] = 20642.39,
-        ["points"] = 9610.5702364395,
+        ["points"] = 9596.662030598054,
       },
       ["Festergut"] = {
         ["rank_raids"] = 39,
@@ -1199,7 +1199,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6,
         ["dps_max"] = 37732.31,
-        ["points"] = 9966.239027683998,
+        ["points"] = 9966.261808367071,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 51,
@@ -1249,7 +1249,7 @@ UWULogsData[3][1] = {
         ["points"] = 7828.282828282829,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 150,
+        ["rank_raids"] = 151,
         ["dps_max"] = 19733.95,
         ["points"] = 9332.40611961057,
       },
@@ -1326,7 +1326,7 @@ UWULogsData[3][1] = {
         ["points"] = 8181.818181818182,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 161,
+        ["rank_raids"] = 162,
         ["dps_max"] = 19643.38,
         ["points"] = 9276.773296244784,
       },
@@ -1388,7 +1388,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Yivo"] = {
-    ["percentile"] = 91.125,
+    ["percentile"] = 91.112,
     ["server"] = "Icecrown",
     ["overall_rank"] = 19,
     ["bosses"] = {
@@ -1403,9 +1403,9 @@ UWULogsData[3][1] = {
         ["points"] = 9377.431906614785,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 94,
+        ["rank_raids"] = 95,
         ["dps_max"] = 20372.37,
-        ["points"] = 9554.937413073712,
+        ["points"] = 9541.029207232266,
       },
       ["Festergut"] = {
         ["rank_raids"] = 128,
@@ -1430,7 +1430,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 136,
         ["dps_max"] = 26722.29,
-        ["points"] = 9088.453747467927,
+        ["points"] = 9089.06882591093,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 28,
@@ -1465,7 +1465,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Arcaneflux"] = {
-    ["percentile"] = 90.938,
+    ["percentile"] = 90.925,
     ["server"] = "Icecrown",
     ["overall_rank"] = 20,
     ["bosses"] = {
@@ -1480,9 +1480,9 @@ UWULogsData[3][1] = {
         ["points"] = 8793.774319066148,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 106,
+        ["rank_raids"] = 107,
         ["dps_max"] = 20250.97,
-        ["points"] = 9541.029207232266,
+        ["points"] = 9527.12100139082,
       },
       ["Festergut"] = {
         ["rank_raids"] = 53,
@@ -1507,7 +1507,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 135,
         ["dps_max"] = 26739.34,
-        ["points"] = 9095.205941931126,
+        ["points"] = 9095.816464237518,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 55,
@@ -1542,7 +1542,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Anilagirl"] = {
-    ["percentile"] = 90.894,
+    ["percentile"] = 90.88,
     ["server"] = "Icecrown",
     ["overall_rank"] = 21,
     ["bosses"] = {
@@ -1557,9 +1557,9 @@ UWULogsData[3][1] = {
         ["points"] = 7879.377431906614,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 125,
+        ["rank_raids"] = 126,
         ["dps_max"] = 19979.52,
-        ["points"] = 9457.579972183588,
+        ["points"] = 9443.671766342142,
       },
       ["Festergut"] = {
         ["rank_raids"] = 63,
@@ -1634,7 +1634,7 @@ UWULogsData[3][1] = {
         ["points"] = 9090.90909090909,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 319,
+        ["rank_raids"] = 320,
         ["dps_max"] = 18416.91,
         ["points"] = 8497.913769123783,
       },
@@ -1696,7 +1696,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Kinforri"] = {
-    ["percentile"] = 89.19,
+    ["percentile"] = 89.185,
     ["server"] = "Icecrown",
     ["overall_rank"] = 23,
     ["bosses"] = {
@@ -1711,9 +1711,9 @@ UWULogsData[3][1] = {
         ["points"] = 7373.737373737374,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 27,
+        ["rank_raids"] = 28,
         ["dps_max"] = 21442.14,
-        ["points"] = 9848.837209302326,
+        ["points"] = 9843.114468332364,
       },
       ["Festergut"] = {
         ["rank_raids"] = 13,
@@ -1738,7 +1738,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 199,
         ["dps_max"] = 23623.6,
-        ["points"] = 8663.065496286294,
+        ["points"] = 8663.967611336033,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 60,
@@ -1815,7 +1815,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 24,
         ["dps_max"] = 34818.13,
-        ["points"] = 9844.699527346387,
+        ["points"] = 9844.80431848853,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1,
@@ -1865,7 +1865,7 @@ UWULogsData[3][1] = {
         ["points"] = 7474.747474747475,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 152,
+        ["rank_raids"] = 153,
         ["dps_max"] = 19718.36,
         ["points"] = 9318.497913769124,
       },
@@ -1892,7 +1892,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 123,
         ["dps_max"] = 27549.84,
-        ["points"] = 9176.232275489534,
+        ["points"] = 9176.788124156545,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 133,
@@ -1927,7 +1927,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Wedrinka"] = {
-    ["percentile"] = 85.985,
+    ["percentile"] = 85.986,
     ["server"] = "Icecrown",
     ["overall_rank"] = 26,
     ["bosses"] = {
@@ -1942,7 +1942,7 @@ UWULogsData[3][1] = {
         ["points"] = 6565.656565656565,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 253,
+        ["rank_raids"] = 254,
         ["dps_max"] = 18831.14,
         ["points"] = 8831.710709318497,
       },
@@ -1969,7 +1969,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 40,
         ["dps_max"] = 33838.93,
-        ["points"] = 9736.664415935178,
+        ["points"] = 9736.842105263158,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 58,
@@ -2004,7 +2004,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Tsigabiga"] = {
-    ["percentile"] = 85.891,
+    ["percentile"] = 85.885,
     ["server"] = "Icecrown",
     ["overall_rank"] = 27,
     ["bosses"] = {
@@ -2019,9 +2019,9 @@ UWULogsData[3][1] = {
         ["points"] = 9571.984435797665,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 24,
+        ["rank_raids"] = 25,
         ["dps_max"] = 21501.69,
-        ["points"] = 9866.279069767443,
+        ["points"] = 9860.546194073213,
       },
       ["Festergut"] = {
         ["rank_raids"] = 27,
@@ -2158,7 +2158,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Sahira"] = {
-    ["percentile"] = 85.585,
+    ["percentile"] = 85.571,
     ["server"] = "Icecrown",
     ["overall_rank"] = 29,
     ["bosses"] = {
@@ -2173,9 +2173,9 @@ UWULogsData[3][1] = {
         ["points"] = 8521.400778210116,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 66,
+        ["rank_raids"] = 67,
         ["dps_max"] = 20763.74,
-        ["points"] = 9652.294853963838,
+        ["points"] = 9638.386648122392,
       },
       ["Festergut"] = {
         ["rank_raids"] = 272,
@@ -2235,7 +2235,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Anthonydavis"] = {
-    ["percentile"] = 85.162,
+    ["percentile"] = 85.163,
     ["server"] = "Icecrown",
     ["overall_rank"] = 30,
     ["bosses"] = {
@@ -2250,7 +2250,7 @@ UWULogsData[3][1] = {
         ["points"] = 7525.252525252525,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 346,
+        ["rank_raids"] = 347,
         ["dps_max"] = 18224.59,
         ["points"] = 8400.556328233659,
       },
@@ -2277,7 +2277,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 107,
         ["dps_max"] = 28943.5,
-        ["points"] = 9284.267386900743,
+        ["points"] = 9284.750337381916,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 95,
@@ -2312,7 +2312,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Fslqq"] = {
-    ["percentile"] = 84.809,
+    ["percentile"] = 84.795,
     ["server"] = "Icecrown",
     ["overall_rank"] = 31,
     ["bosses"] = {
@@ -2327,9 +2327,9 @@ UWULogsData[3][1] = {
         ["points"] = 6717.171717171717,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 128,
+        ["rank_raids"] = 129,
         ["dps_max"] = 19935.57,
-        ["points"] = 9443.671766342142,
+        ["points"] = 9429.763560500696,
       },
       ["Festergut"] = {
         ["rank_raids"] = 212,
@@ -2354,7 +2354,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 167,
         ["dps_max"] = 25685.57,
-        ["points"] = 8879.87012987013,
+        ["points"] = 8879.892037786774,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 71,
@@ -2389,7 +2389,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Freemidget"] = {
-    ["percentile"] = 84.799,
+    ["percentile"] = 84.793,
     ["server"] = "Icecrown",
     ["overall_rank"] = 32,
     ["bosses"] = {
@@ -2404,9 +2404,9 @@ UWULogsData[3][1] = {
         ["points"] = 8618.677042801557,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 21,
+        ["rank_raids"] = 22,
         ["dps_max"] = 21572.94,
-        ["points"] = 9883.720930232557,
+        ["points"] = 9877.977919814062,
       },
       ["Festergut"] = {
         ["rank_raids"] = 24,
@@ -2481,7 +2481,7 @@ UWULogsData[3][1] = {
         ["points"] = 7222.222222222222,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 143,
+        ["rank_raids"] = 144,
         ["dps_max"] = 19803.74,
         ["points"] = 9360.222531293462,
       },
@@ -2558,7 +2558,7 @@ UWULogsData[3][1] = {
         ["points"] = 6515.151515151515,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 164,
+        ["rank_raids"] = 165,
         ["dps_max"] = 19630.83,
         ["points"] = 9248.956884561892,
       },
@@ -2620,7 +2620,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Kukies"] = {
-    ["percentile"] = 83.721,
+    ["percentile"] = 83.707,
     ["server"] = "Icecrown",
     ["overall_rank"] = 35,
     ["bosses"] = {
@@ -2635,9 +2635,9 @@ UWULogsData[3][1] = {
         ["points"] = 9513.618677042801,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 90,
+        ["rank_raids"] = 91,
         ["dps_max"] = 20392.93,
-        ["points"] = 9568.84561891516,
+        ["points"] = 9554.937413073712,
       },
       ["Festergut"] = {
         ["rank_raids"] = 8,
@@ -2662,7 +2662,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 9,
         ["dps_max"] = 37181.32,
-        ["points"] = 9945.982444294395,
+        ["points"] = 9946.018893387314,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 162,
@@ -2712,7 +2712,7 @@ UWULogsData[3][1] = {
         ["points"] = 6666.666666666666,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 355,
+        ["rank_raids"] = 356,
         ["dps_max"] = 18192.93,
         ["points"] = 8344.923504867871,
       },
@@ -2739,7 +2739,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 206,
         ["dps_max"] = 23366.95,
-        ["points"] = 8615.80013504389,
+        ["points"] = 8616.734143049933,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 160,
@@ -2774,7 +2774,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Grigorr"] = {
-    ["percentile"] = 82.712,
+    ["percentile"] = 82.713,
     ["server"] = "Icecrown",
     ["overall_rank"] = 37,
     ["bosses"] = {
@@ -2789,7 +2789,7 @@ UWULogsData[3][1] = {
         ["points"] = 7676.767676767677,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 288,
+        ["rank_raids"] = 289,
         ["dps_max"] = 18626.58,
         ["points"] = 8636.995827538247,
       },
@@ -2816,7 +2816,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 208,
         ["dps_max"] = 23228.13,
-        ["points"] = 8602.295746117488,
+        ["points"] = 8603.238866396761,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 127,
@@ -2851,7 +2851,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Iamanoob"] = {
-    ["percentile"] = 82.335,
+    ["percentile"] = 82.321,
     ["server"] = "Icecrown",
     ["overall_rank"] = 38,
     ["bosses"] = {
@@ -2866,9 +2866,9 @@ UWULogsData[3][1] = {
         ["points"] = 5572.243382180393,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 81,
+        ["rank_raids"] = 82,
         ["dps_max"] = 20537.67,
-        ["points"] = 9596.662030598054,
+        ["points"] = 9582.753824756606,
       },
       ["Festergut"] = {
         ["rank_raids"] = 54,
@@ -2893,7 +2893,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 68,
         ["dps_max"] = 31688.84,
-        ["points"] = 9547.602970965565,
+        ["points"] = 9547.908232118758,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 23,
@@ -2943,7 +2943,7 @@ UWULogsData[3][1] = {
         ["points"] = 5517.17761989256,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 279,
+        ["rank_raids"] = 280,
         ["dps_max"] = 18644.23,
         ["points"] = 8664.81223922114,
       },
@@ -3005,7 +3005,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Drowrrangerr"] = {
-    ["percentile"] = 81.739,
+    ["percentile"] = 81.74,
     ["server"] = "Icecrown",
     ["overall_rank"] = 40,
     ["bosses"] = {
@@ -3020,7 +3020,7 @@ UWULogsData[3][1] = {
         ["points"] = 6919.19191919192,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 296,
+        ["rank_raids"] = 297,
         ["dps_max"] = 18587.58,
         ["points"] = 8609.179415855355,
       },
@@ -3047,7 +3047,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 111,
         ["dps_max"] = 28508.44,
-        ["points"] = 9257.25860904794,
+        ["points"] = 9257.759784075573,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 337,
@@ -3097,7 +3097,7 @@ UWULogsData[3][1] = {
         ["points"] = 6616.161616161617,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 180,
+        ["rank_raids"] = 181,
         ["dps_max"] = 19511.68,
         ["points"] = 9179.415855354659,
       },
@@ -3174,7 +3174,7 @@ UWULogsData[3][1] = {
         ["points"] = 6414.141414141414,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 132,
+        ["rank_raids"] = 133,
         ["dps_max"] = 19877.6,
         ["points"] = 9415.85535465925,
       },
@@ -3236,7 +3236,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Minimuha"] = {
-    ["percentile"] = 81.287,
+    ["percentile"] = 81.288,
     ["server"] = "Icecrown",
     ["overall_rank"] = 43,
     ["bosses"] = {
@@ -3251,7 +3251,7 @@ UWULogsData[3][1] = {
         ["points"] = 7171.717171717171,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 171,
+        ["rank_raids"] = 172,
         ["dps_max"] = 19584.34,
         ["points"] = 9193.324061196105,
       },
@@ -3278,7 +3278,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 170,
         ["dps_max"] = 25521.47,
-        ["points"] = 8858.87913571911,
+        ["points"] = 8859.649122807017,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 158,
@@ -3313,7 +3313,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Keyamage"] = {
-    ["percentile"] = 80.659,
+    ["percentile"] = 80.66,
     ["server"] = "Icecrown",
     ["overall_rank"] = 44,
     ["bosses"] = {
@@ -3328,7 +3328,7 @@ UWULogsData[3][1] = {
         ["points"] = 8888.888888888889,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 212,
+        ["rank_raids"] = 213,
         ["dps_max"] = 19217.78,
         ["points"] = 9082.058414464535,
       },
@@ -3355,7 +3355,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 133,
         ["dps_max"] = 26795.53,
-        ["points"] = 9108.71033085753,
+        ["points"] = 9109.31174089069,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 36,
@@ -3390,7 +3390,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Flaggedd"] = {
-    ["percentile"] = 80.295,
+    ["percentile"] = 80.296,
     ["server"] = "Icecrown",
     ["overall_rank"] = 45,
     ["bosses"] = {
@@ -3405,7 +3405,7 @@ UWULogsData[3][1] = {
         ["points"] = 7727.272727272727,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 367,
+        ["rank_raids"] = 368,
         ["dps_max"] = 18116.08,
         ["points"] = 8247.566063977747,
       },
@@ -3432,7 +3432,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 215,
         ["dps_max"] = 23032.99,
-        ["points"] = 8555.030384875085,
+        ["points"] = 8556.005398110661,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 143,
@@ -3482,7 +3482,7 @@ UWULogsData[3][1] = {
         ["points"] = 6262.626262626263,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 512,
+        ["rank_raids"] = 513,
         ["dps_max"] = 17116.52,
         ["points"] = 7649.513212795549,
       },
@@ -3543,10 +3543,87 @@ UWULogsData[3][1] = {
       },
     },
   },
+  ["Kane"] = {
+    ["percentile"] = 78.955,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 47,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 2,
+        ["dps_max"] = 22048.9,
+        ["points"] = 9993.928354584092,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 29,
+        ["dps_max"] = 17058.48,
+        ["points"] = 9455.252918287937,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 18,
+        ["dps_max"] = 21689.91,
+        ["points"] = 9901.220220801859,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 156,
+        ["dps_max"] = 16791.14,
+        ["points"] = 9213.483146067416,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 154,
+        ["dps_max"] = 17682.95,
+        ["points"] = 9217.391304347826,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 25,
+        ["dps_max"] = 16748.76,
+        ["points"] = 9554.730983302412,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 115,
+        ["dps_max"] = 16379.8,
+        ["points"] = 9297.658862876255,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 629,
+        ["dps_max"] = 15108.87,
+        ["points"] = 6071.428571428571,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 259,
+        ["dps_max"] = 10021.81,
+        ["points"] = 6072.602361221862,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Toravon the Ice Watcher"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Halion"] = {
+        ["rank_raids"] = 14,
+        ["dps_max"] = 10678.87,
+        ["points"] = 9171.974522292994,
+      },
+      ["Anub'arak"] = {
+        ["rank_raids"] = 3,
+        ["dps_max"] = 10793.05,
+        ["points"] = 9166.666666666666,
+      },
+      ["Valithria Dreamwalker"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+    },
+  },
   ["Seiko"] = {
     ["percentile"] = 78.855,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 47,
+    ["overall_rank"] = 48,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 410,
@@ -3559,7 +3636,7 @@ UWULogsData[3][1] = {
         ["points"] = 5305.559607577775,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 269,
+        ["rank_raids"] = 270,
         ["dps_max"] = 18686.6,
         ["points"] = 8762.169680111267,
       },
@@ -3620,83 +3697,6 @@ UWULogsData[3][1] = {
       },
     },
   },
-  ["Kane"] = {
-    ["percentile"] = 78.482,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 48,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2,
-        ["dps_max"] = 22048.9,
-        ["points"] = 9993.928354584092,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 29,
-        ["dps_max"] = 17058.48,
-        ["points"] = 9455.252918287937,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 130,
-        ["dps_max"] = 19929.15,
-        ["points"] = 9429.763560500696,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 156,
-        ["dps_max"] = 16791.14,
-        ["points"] = 9213.483146067416,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 154,
-        ["dps_max"] = 17682.95,
-        ["points"] = 9217.391304347826,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 25,
-        ["dps_max"] = 16748.76,
-        ["points"] = 9554.730983302412,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 115,
-        ["dps_max"] = 16379.8,
-        ["points"] = 9297.658862876255,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 629,
-        ["dps_max"] = 15108.87,
-        ["points"] = 6071.428571428571,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 259,
-        ["dps_max"] = 10021.81,
-        ["points"] = 6072.602361221862,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Halion"] = {
-        ["rank_raids"] = 14,
-        ["dps_max"] = 10678.87,
-        ["points"] = 9171.974522292994,
-      },
-      ["Anub'arak"] = {
-        ["rank_raids"] = 3,
-        ["dps_max"] = 10793.05,
-        ["points"] = 9166.666666666666,
-      },
-      ["Valithria Dreamwalker"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-    },
-  },
   ["Wielkiedepsy"] = {
     ["percentile"] = 78.405,
     ["server"] = "Icecrown",
@@ -3713,7 +3713,7 @@ UWULogsData[3][1] = {
         ["points"] = 6767.676767676768,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 250,
+        ["rank_raids"] = 251,
         ["dps_max"] = 18845.34,
         ["points"] = 8859.52712100139,
       },
@@ -3775,7 +3775,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Mahabestmaeg"] = {
-    ["percentile"] = 77.771,
+    ["percentile"] = 77.757,
     ["server"] = "Icecrown",
     ["overall_rank"] = 50,
     ["bosses"] = {
@@ -3790,9 +3790,9 @@ UWULogsData[3][1] = {
         ["points"] = 4257.661127240598,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 61,
+        ["rank_raids"] = 62,
         ["dps_max"] = 20800.42,
-        ["points"] = 9666.203059805284,
+        ["points"] = 9652.294853963838,
       },
       ["Festergut"] = {
         ["rank_raids"] = 184,
@@ -3867,7 +3867,7 @@ UWULogsData[3][1] = {
         ["points"] = 8282.828282828283,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 299,
+        ["rank_raids"] = 300,
         ["dps_max"] = 18571.23,
         ["points"] = 8581.363004172463,
       },
@@ -3929,7 +3929,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Whisy"] = {
-    ["percentile"] = 77.21,
+    ["percentile"] = 77.197,
     ["server"] = "Icecrown",
     ["overall_rank"] = 52,
     ["bosses"] = {
@@ -3944,9 +3944,9 @@ UWULogsData[3][1] = {
         ["points"] = 9040.40404040404,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 56,
+        ["rank_raids"] = 57,
         ["dps_max"] = 20836.88,
-        ["points"] = 9694.019471488178,
+        ["points"] = 9680.111265646732,
       },
       ["Festergut"] = {
         ["rank_raids"] = 236,
@@ -3971,7 +3971,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 198,
         ["dps_max"] = 23654.16,
-        ["points"] = 8669.817690749494,
+        ["points"] = 8670.715249662619,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 137,
@@ -4006,7 +4006,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Alcaedas"] = {
-    ["percentile"] = 77.09,
+    ["percentile"] = 77.091,
     ["server"] = "Icecrown",
     ["overall_rank"] = 53,
     ["bosses"] = {
@@ -4021,7 +4021,7 @@ UWULogsData[3][1] = {
         ["points"] = 5707.070707070708,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 378,
+        ["rank_raids"] = 379,
         ["dps_max"] = 18082.37,
         ["points"] = 8205.841446453407,
       },
@@ -4048,7 +4048,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 153,
         ["dps_max"] = 26200.75,
-        ["points"] = 8973.666441593517,
+        ["points"] = 8974.358974358975,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 169,
@@ -4098,7 +4098,7 @@ UWULogsData[3][1] = {
         ["points"] = 8774.31906614786,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 228,
+        ["rank_raids"] = 229,
         ["dps_max"] = 19117.68,
         ["points"] = 8956.884561891517,
       },
@@ -4175,7 +4175,7 @@ UWULogsData[3][1] = {
         ["points"] = 7070.707070707071,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 217,
+        ["rank_raids"] = 218,
         ["dps_max"] = 19198.69,
         ["points"] = 9054.242002781642,
       },
@@ -4237,7 +4237,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Karlag"] = {
-    ["percentile"] = 75.736,
+    ["percentile"] = 75.735,
     ["server"] = "Icecrown",
     ["overall_rank"] = 56,
     ["bosses"] = {
@@ -4252,7 +4252,7 @@ UWULogsData[3][1] = {
         ["points"] = 6868.686868686868,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 304,
+        ["rank_raids"] = 305,
         ["dps_max"] = 18554.94,
         ["points"] = 8553.546592489569,
       },
@@ -4314,7 +4314,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Cringephius"] = {
-    ["percentile"] = 75.468,
+    ["percentile"] = 75.463,
     ["server"] = "Icecrown",
     ["overall_rank"] = 57,
     ["bosses"] = {
@@ -4329,9 +4329,9 @@ UWULogsData[3][1] = {
         ["points"] = 8715.953307392996,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 18,
+        ["rank_raids"] = 19,
         ["dps_max"] = 21672.27,
-        ["points"] = 9901.162790697674,
+        ["points"] = 9895.40964555491,
       },
       ["Festergut"] = {
         ["rank_raids"] = 89,
@@ -4406,7 +4406,7 @@ UWULogsData[3][1] = {
         ["points"] = 5959.595959595959,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 318,
+        ["rank_raids"] = 319,
         ["dps_max"] = 18424.19,
         ["points"] = 8511.821974965229,
       },
@@ -4483,7 +4483,7 @@ UWULogsData[3][1] = {
         ["points"] = 5808.080808080807,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 256,
+        ["rank_raids"] = 257,
         ["dps_max"] = 18797.98,
         ["points"] = 8817.80250347705,
       },
@@ -4545,7 +4545,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Coldtreat"] = {
-    ["percentile"] = 74.091,
+    ["percentile"] = 74.092,
     ["server"] = "Icecrown",
     ["overall_rank"] = 60,
     ["bosses"] = {
@@ -4560,7 +4560,7 @@ UWULogsData[3][1] = {
         ["points"] = 4785.940203860896,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 351,
+        ["rank_raids"] = 352,
         ["dps_max"] = 18209.81,
         ["points"] = 8372.739916550765,
       },
@@ -4587,7 +4587,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 295,
         ["dps_max"] = 19590.06,
-        ["points"] = 8014.854827819041,
+        ["points"] = 8016.194331983806,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 87,
@@ -4637,7 +4637,7 @@ UWULogsData[3][1] = {
         ["points"] = 4876.981418537359,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 155,
+        ["rank_raids"] = 156,
         ["dps_max"] = 19688.4,
         ["points"] = 9304.589707927676,
       },
@@ -4664,7 +4664,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 184,
         ["dps_max"] = 24527.22,
-        ["points"] = 8764.3484132343,
+        ["points"] = 8765.182186234817,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 412,
@@ -4699,7 +4699,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Fordred"] = {
-    ["percentile"] = 73.38,
+    ["percentile"] = 73.381,
     ["server"] = "Icecrown",
     ["overall_rank"] = 62,
     ["bosses"] = {
@@ -4714,7 +4714,7 @@ UWULogsData[3][1] = {
         ["points"] = 4361.367418456372,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 233,
+        ["rank_raids"] = 234,
         ["dps_max"] = 19038.72,
         ["points"] = 8929.068150208623,
       },
@@ -4741,7 +4741,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 115,
         ["dps_max"] = 28075.71,
-        ["points"] = 9230.249831195139,
+        ["points"] = 9230.76923076923,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 97,
@@ -4776,7 +4776,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Zataai"] = {
-    ["percentile"] = 73.228,
+    ["percentile"] = 73.214,
     ["server"] = "Icecrown",
     ["overall_rank"] = 63,
     ["bosses"] = {
@@ -4791,9 +4791,9 @@ UWULogsData[3][1] = {
         ["points"] = 7929.292929292929,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 60,
+        ["rank_raids"] = 61,
         ["dps_max"] = 20822.4,
-        ["points"] = 9680.111265646732,
+        ["points"] = 9666.203059805284,
       },
       ["Festergut"] = {
         ["rank_raids"] = 359,
@@ -4868,7 +4868,7 @@ UWULogsData[3][1] = {
         ["points"] = 4171.04488345056,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 389,
+        ["rank_raids"] = 390,
         ["dps_max"] = 17991.31,
         ["points"] = 8150.208623087621,
       },
@@ -4945,7 +4945,7 @@ UWULogsData[3][1] = {
         ["points"] = 6969.69696969697,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 497,
+        ["rank_raids"] = 498,
         ["dps_max"] = 17221.73,
         ["points"] = 7746.870653685674,
       },
@@ -5022,7 +5022,7 @@ UWULogsData[3][1] = {
         ["points"] = 7323.232323232323,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 581,
+        ["rank_raids"] = 582,
         ["dps_max"] = 16762.78,
         ["points"] = 7376.529627960683,
       },
@@ -5099,7 +5099,7 @@ UWULogsData[3][1] = {
         ["points"] = 5334.646351155347,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 264,
+        ["rank_raids"] = 265,
         ["dps_max"] = 18716.27,
         ["points"] = 8776.077885952713,
       },
@@ -5176,7 +5176,7 @@ UWULogsData[3][1] = {
         ["points"] = 8677.042801556421,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 167,
+        ["rank_raids"] = 168,
         ["dps_max"] = 19620.82,
         ["points"] = 9207.232267037552,
       },
@@ -5203,7 +5203,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 11,
         ["dps_max"] = 36597.06,
-        ["points"] = 9932.478055367994,
+        ["points"] = 9932.523616734143,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 18,
@@ -5253,7 +5253,7 @@ UWULogsData[3][1] = {
         ["points"] = 4846.787212565941,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 409,
+        ["rank_raids"] = 410,
         ["dps_max"] = 17863.65,
         ["points"] = 8052.851182197497,
       },
@@ -5330,7 +5330,7 @@ UWULogsData[3][1] = {
         ["points"] = 3201.8298986549944,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 408,
+        ["rank_raids"] = 409,
         ["dps_max"] = 17871.46,
         ["points"] = 8066.759388038943,
       },
@@ -5407,7 +5407,7 @@ UWULogsData[3][1] = {
         ["points"] = 7782.101167315175,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 457,
+        ["rank_raids"] = 458,
         ["dps_max"] = 17399.44,
         ["points"] = 7913.769123783032,
       },
@@ -5484,7 +5484,7 @@ UWULogsData[3][1] = {
         ["points"] = 8657.587548638132,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 183,
+        ["rank_raids"] = 184,
         ["dps_max"] = 19477.67,
         ["points"] = 9165.507649513213,
       },
@@ -5561,7 +5561,7 @@ UWULogsData[3][1] = {
         ["points"] = 6313.131313131313,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 275,
+        ["rank_raids"] = 276,
         ["dps_max"] = 18667.21,
         ["points"] = 8706.536856745479,
       },
@@ -5638,7 +5638,7 @@ UWULogsData[3][1] = {
         ["points"] = 5147.8023213777815,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 504,
+        ["rank_raids"] = 505,
         ["dps_max"] = 17188.53,
         ["points"] = 7691.237830319889,
       },
@@ -5715,7 +5715,7 @@ UWULogsData[3][1] = {
         ["points"] = 6060.606060606061,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 526,
+        ["rank_raids"] = 527,
         ["dps_max"] = 17034.86,
         ["points"] = 7552.155771905424,
       },
@@ -5777,7 +5777,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Focfloc"] = {
-    ["percentile"] = 67.871,
+    ["percentile"] = 67.872,
     ["server"] = "Icecrown",
     ["overall_rank"] = 76,
     ["bosses"] = {
@@ -5792,7 +5792,7 @@ UWULogsData[3][1] = {
         ["points"] = 4553.148681461128,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 492,
+        ["rank_raids"] = 493,
         ["dps_max"] = 17252.76,
         ["points"] = 7788.595271210013,
       },
@@ -5819,7 +5819,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 302,
         ["dps_max"] = 19146.64,
-        ["points"] = 7967.589466576638,
+        ["points"] = 7968.960863697706,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 291,
@@ -5869,7 +5869,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 454,
+        ["rank_raids"] = 455,
         ["dps_max"] = 17430.59,
         ["points"] = 7927.677329624478,
       },
@@ -5946,7 +5946,7 @@ UWULogsData[3][1] = {
         ["points"] = 5166.546244360846,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 405,
+        ["rank_raids"] = 406,
         ["dps_max"] = 17888.54,
         ["points"] = 8108.484005563282,
       },
@@ -6023,7 +6023,7 @@ UWULogsData[3][1] = {
         ["points"] = 7020.20202020202,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 463,
+        ["rank_raids"] = 464,
         ["dps_max"] = 17380.6,
         ["points"] = 7899.860917941585,
       },
@@ -6100,7 +6100,7 @@ UWULogsData[3][1] = {
         ["points"] = 5757.575757575758,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 302,
+        ["rank_raids"] = 303,
         ["dps_max"] = 18560.67,
         ["points"] = 8567.454798331015,
       },
@@ -6127,7 +6127,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 180,
         ["dps_max"] = 24719.3,
-        ["points"] = 8791.357191087103,
+        ["points"] = 8792.172739541162,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 196,
@@ -6162,7 +6162,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Zdps"] = {
-    ["percentile"] = 67.115,
+    ["percentile"] = 67.11,
     ["server"] = "Icecrown",
     ["overall_rank"] = 81,
     ["bosses"] = {
@@ -6177,9 +6177,9 @@ UWULogsData[3][1] = {
         ["points"] = 8404.66926070039,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 37,
+        ["rank_raids"] = 38,
         ["dps_max"] = 21105.84,
-        ["points"] = 9790.697674418605,
+        ["points"] = 9785.00871586287,
       },
       ["Festergut"] = {
         ["rank_raids"] = 389,
@@ -6204,7 +6204,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 41,
         ["dps_max"] = 33817.99,
-        ["points"] = 9729.912221471977,
+        ["points"] = 9730.094466936573,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 139,
@@ -6254,7 +6254,7 @@ UWULogsData[3][1] = {
         ["points"] = 5471.1032813574075,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 237,
+        ["rank_raids"] = 238,
         ["dps_max"] = 18984.89,
         ["points"] = 8901.25173852573,
       },
@@ -6279,7 +6279,7 @@ UWULogsData[3][1] = {
         ["points"] = 7324.414715719063,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1322,
+        ["rank_raids"] = 1323,
         ["dps_max"] = 8172.13,
         ["points"] = 2069.296528868532,
       },
@@ -6316,7 +6316,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Arcanemaggie"] = {
-    ["percentile"] = 67.058,
+    ["percentile"] = 67.059,
     ["server"] = "Icecrown",
     ["overall_rank"] = 83,
     ["bosses"] = {
@@ -6331,7 +6331,7 @@ UWULogsData[3][1] = {
         ["points"] = 4134.083935892076,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 135,
+        ["rank_raids"] = 136,
         ["dps_max"] = 19868.05,
         ["points"] = 9401.947148817802,
       },
@@ -6358,7 +6358,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 139,
         ["dps_max"] = 26672.46,
-        ["points"] = 9068.197164078325,
+        ["points"] = 9068.825910931175,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 352,
@@ -6408,7 +6408,7 @@ UWULogsData[3][1] = {
         ["points"] = 4754.023820686714,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 575,
+        ["rank_raids"] = 576,
         ["dps_max"] = 16786.03,
         ["points"] = 7386.76088517757,
       },
@@ -6485,7 +6485,7 @@ UWULogsData[3][1] = {
         ["points"] = 6363.636363636364,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 754,
+        ["rank_raids"] = 755,
         ["dps_max"] = 15616.44,
         ["points"] = 6872.078040949672,
       },
@@ -6512,7 +6512,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 169,
         ["dps_max"] = 25643.87,
-        ["points"] = 8865.63133018231,
+        ["points"] = 8866.396761133603,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 381,
@@ -6547,7 +6547,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Xtd"] = {
-    ["percentile"] = 66.778,
+    ["percentile"] = 66.764,
     ["server"] = "Icecrown",
     ["overall_rank"] = 86,
     ["bosses"] = {
@@ -6562,9 +6562,9 @@ UWULogsData[3][1] = {
         ["points"] = 5065.889133744867,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 71,
+        ["rank_raids"] = 72,
         ["dps_max"] = 20678.2,
-        ["points"] = 9638.386648122392,
+        ["points"] = 9624.478442280946,
       },
       ["Festergut"] = {
         ["rank_raids"] = 179,
@@ -6589,7 +6589,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 145,
         ["dps_max"] = 26515.58,
-        ["points"] = 9027.683997299122,
+        ["points"] = 9028.34008097166,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -6639,7 +6639,7 @@ UWULogsData[3][1] = {
         ["points"] = 4746.149616705801,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 185,
+        ["rank_raids"] = 186,
         ["dps_max"] = 19473.46,
         ["points"] = 9137.69123783032,
       },
@@ -6716,7 +6716,7 @@ UWULogsData[3][1] = {
         ["points"] = 5656.565656565656,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 597,
+        ["rank_raids"] = 598,
         ["dps_max"] = 16670.2,
         ["points"] = 7335.789421804152,
       },
@@ -6793,7 +6793,7 @@ UWULogsData[3][1] = {
         ["points"] = 4791.3409125392545,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 251,
+        ["rank_raids"] = 252,
         ["dps_max"] = 18841.31,
         ["points"] = 8845.618915159945,
       },
@@ -6870,7 +6870,7 @@ UWULogsData[3][1] = {
         ["points"] = 3455.2875474879384,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1485,
+        ["rank_raids"] = 1486,
         ["dps_max"] = 10258.54,
         ["points"] = 4514.312318697722,
       },
@@ -6895,7 +6895,7 @@ UWULogsData[3][1] = {
         ["points"] = 8327.759197324414,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 746,
+        ["rank_raids"] = 747,
         ["dps_max"] = 13891.28,
         ["points"] = 5535.714285714286,
       },
@@ -6932,7 +6932,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Desttinys"] = {
-    ["percentile"] = 64.836,
+    ["percentile"] = 64.823,
     ["server"] = "Icecrown",
     ["overall_rank"] = 91,
     ["bosses"] = {
@@ -6947,9 +6947,9 @@ UWULogsData[3][1] = {
         ["points"] = 8131.313131313132,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 83,
+        ["rank_raids"] = 84,
         ["dps_max"] = 20461.36,
-        ["points"] = 9582.753824756606,
+        ["points"] = 9568.84561891516,
       },
       ["Festergut"] = {
         ["rank_raids"] = 181,
@@ -6974,7 +6974,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 119,
         ["dps_max"] = 27744.86,
-        ["points"] = 9203.241053342335,
+        ["points"] = 9203.778677462888,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -7024,7 +7024,7 @@ UWULogsData[3][1] = {
         ["points"] = 4067.1483233653585,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 385,
+        ["rank_raids"] = 386,
         ["dps_max"] = 18049.38,
         ["points"] = 8178.025034770514,
       },
@@ -7101,7 +7101,7 @@ UWULogsData[3][1] = {
         ["points"] = 5383.804021113015,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 559,
+        ["rank_raids"] = 560,
         ["dps_max"] = 16870.67,
         ["points"] = 7424.007061987776,
       },
@@ -7178,7 +7178,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 550,
+        ["rank_raids"] = 551,
         ["dps_max"] = 16945.99,
         ["points"] = 7468.7065368567455,
       },
@@ -7255,7 +7255,7 @@ UWULogsData[3][1] = {
         ["points"] = 3593.774012297223,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 263,
+        ["rank_raids"] = 264,
         ["dps_max"] = 18735.03,
         ["points"] = 8789.986091794159,
       },
@@ -7332,7 +7332,7 @@ UWULogsData[3][1] = {
         ["points"] = 5557.817098926639,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 293,
+        ["rank_raids"] = 294,
         ["dps_max"] = 18605.56,
         ["points"] = 8623.0876216968,
       },
@@ -7394,7 +7394,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Ninesowngoal"] = {
-    ["percentile"] = 61.919,
+    ["percentile"] = 61.913,
     ["server"] = "Icecrown",
     ["overall_rank"] = 97,
     ["bosses"] = {
@@ -7409,9 +7409,9 @@ UWULogsData[3][1] = {
         ["points"] = 5481.616856065503,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 43,
+        ["rank_raids"] = 44,
         ["dps_max"] = 20959.79,
-        ["points"] = 9755.813953488372,
+        ["points"] = 9750.145264381174,
       },
       ["Festergut"] = {
         ["rank_raids"] = 247,
@@ -7486,7 +7486,7 @@ UWULogsData[3][1] = {
         ["points"] = 4613.951781965536,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 490,
+        ["rank_raids"] = 491,
         ["dps_max"] = 17266.36,
         ["points"] = 7802.50347705146,
       },
@@ -7511,7 +7511,7 @@ UWULogsData[3][1] = {
         ["points"] = 6956.521739130435,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 822,
+        ["rank_raids"] = 823,
         ["dps_max"] = 13257.81,
         ["points"] = 5194.805194805194,
       },
@@ -7563,7 +7563,7 @@ UWULogsData[3][1] = {
         ["points"] = 5612.658441522327,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 679,
+        ["rank_raids"] = 680,
         ["dps_max"] = 16113.94,
         ["points"] = 7091.0049426873575,
       },
@@ -7590,7 +7590,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 157,
         ["dps_max"] = 26037.93,
-        ["points"] = 8946.657663740716,
+        ["points"] = 8947.368421052632,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 491,
@@ -7625,7 +7625,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Sweetarcane"] = {
-    ["percentile"] = 60.913,
+    ["percentile"] = 60.914,
     ["server"] = "Icecrown",
     ["overall_rank"] = 100,
     ["bosses"] = {
@@ -7640,7 +7640,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 530,
+        ["rank_raids"] = 531,
         ["dps_max"] = 17020.9,
         ["points"] = 7510.431154381085,
       },
@@ -7667,7 +7667,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 202,
         ["dps_max"] = 23482.94,
-        ["points"] = 8642.808912896691,
+        ["points"] = 8643.724696356276,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 90,
@@ -7717,7 +7717,7 @@ UWULogsData[3][1] = {
         ["points"] = 8638.132295719844,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 285,
+        ["rank_raids"] = 286,
         ["dps_max"] = 18631.68,
         ["points"] = 8650.904033379693,
       },
@@ -7794,7 +7794,7 @@ UWULogsData[3][1] = {
         ["points"] = 4486.832662432289,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 387,
+        ["rank_raids"] = 388,
         ["dps_max"] = 18024.28,
         ["points"] = 8164.116828929068,
       },
@@ -7871,7 +7871,7 @@ UWULogsData[3][1] = {
         ["points"] = 8838.38383838384,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 142,
+        ["rank_raids"] = 143,
         ["dps_max"] = 19805.97,
         ["points"] = 9374.130737134908,
       },
@@ -7948,7 +7948,7 @@ UWULogsData[3][1] = {
         ["points"] = 5579.054031968097,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 439,
+        ["rank_raids"] = 440,
         ["dps_max"] = 17534.96,
         ["points"] = 7997.21835883171,
       },
@@ -8010,7 +8010,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Enigmista"] = {
-    ["percentile"] = 59.841,
+    ["percentile"] = 59.84,
     ["server"] = "Icecrown",
     ["overall_rank"] = 105,
     ["bosses"] = {
@@ -8025,7 +8025,7 @@ UWULogsData[3][1] = {
         ["points"] = 4061.113385122243,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 548,
+        ["rank_raids"] = 549,
         ["dps_max"] = 16950.66,
         ["points"] = 7482.614742698192,
       },
@@ -8102,7 +8102,7 @@ UWULogsData[3][1] = {
         ["points"] = 4543.376667474902,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 720,
+        ["rank_raids"] = 721,
         ["dps_max"] = 15800.45,
         ["points"] = 6953.0523910778165,
       },
@@ -8179,7 +8179,7 @@ UWULogsData[3][1] = {
         ["points"] = 4969.261820209578,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 781,
+        ["rank_raids"] = 782,
         ["dps_max"] = 15457.62,
         ["points"] = 6802.188652941674,
       },
@@ -8204,7 +8204,7 @@ UWULogsData[3][1] = {
         ["points"] = 5551.839464882943,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 758,
+        ["rank_raids"] = 759,
         ["dps_max"] = 13807.92,
         ["points"] = 5470.779220779221,
       },
@@ -8256,7 +8256,7 @@ UWULogsData[3][1] = {
         ["points"] = 4529.882213812447,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 768,
+        ["rank_raids"] = 769,
         ["dps_max"] = 15525.08,
         ["points"] = 6831.87470076323,
       },
@@ -8333,7 +8333,7 @@ UWULogsData[3][1] = {
         ["points"] = 5286.098517317638,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 645,
+        ["rank_raids"] = 646,
         ["dps_max"] = 16371.2,
         ["points"] = 7204.213253724618,
       },
@@ -8410,7 +8410,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 517,
+        ["rank_raids"] = 518,
         ["dps_max"] = 17070.27,
         ["points"] = 7635.6050069541025,
       },
@@ -8487,7 +8487,7 @@ UWULogsData[3][1] = {
         ["points"] = 4618.820713547289,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 779,
+        ["rank_raids"] = 780,
         ["dps_max"] = 15471.26,
         ["points"] = 6808.190990508914,
       },
@@ -8512,7 +8512,7 @@ UWULogsData[3][1] = {
         ["points"] = 7257.525083612039,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 770,
+        ["rank_raids"] = 771,
         ["dps_max"] = 13706.94,
         ["points"] = 5389.61038961039,
       },
@@ -8564,7 +8564,7 @@ UWULogsData[3][1] = {
         ["points"] = 6010.10101010101,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 361,
+        ["rank_raids"] = 362,
         ["dps_max"] = 18155.01,
         ["points"] = 8289.290681502087,
       },
@@ -8718,7 +8718,7 @@ UWULogsData[3][1] = {
         ["points"] = 4135.6792671818885,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 270,
+        ["rank_raids"] = 271,
         ["dps_max"] = 18684.09,
         ["points"] = 8748.261474269819,
       },
@@ -8795,7 +8795,7 @@ UWULogsData[3][1] = {
         ["points"] = 4908.053788521518,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 469,
+        ["rank_raids"] = 470,
         ["dps_max"] = 17366.16,
         ["points"] = 7872.044506258693,
       },
@@ -8872,7 +8872,7 @@ UWULogsData[3][1] = {
         ["points"] = 3143.21245080452,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 763,
+        ["rank_raids"] = 764,
         ["dps_max"] = 15536.75,
         ["points"] = 6837.010131804996,
       },
@@ -8949,7 +8949,7 @@ UWULogsData[3][1] = {
         ["points"] = 3917.2652411462773,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 699,
+        ["rank_raids"] = 700,
         ["dps_max"] = 15988.42,
         ["points"] = 7035.769355338383,
       },
@@ -9026,7 +9026,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 558,
+        ["rank_raids"] = 559,
         ["dps_max"] = 16890.66,
         ["points"] = 7432.80374292393,
       },
@@ -9088,7 +9088,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Amokone"] = {
-    ["percentile"] = 55.472,
+    ["percentile"] = 55.473,
     ["server"] = "Icecrown",
     ["overall_rank"] = 119,
     ["bosses"] = {
@@ -9103,7 +9103,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 220,
+        ["rank_raids"] = 221,
         ["dps_max"] = 19147.71,
         ["points"] = 9012.5173852573,
       },
@@ -9130,7 +9130,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 187,
         ["dps_max"] = 24169.39,
-        ["points"] = 8744.0918298447,
+        ["points"] = 8744.939271255062,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -9165,7 +9165,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Jzx"] = {
-    ["percentile"] = 55.422,
+    ["percentile"] = 55.409,
     ["server"] = "Icecrown",
     ["overall_rank"] = 120,
     ["bosses"] = {
@@ -9180,9 +9180,9 @@ UWULogsData[3][1] = {
         ["points"] = 4626.241199454952,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 112,
+        ["rank_raids"] = 113,
         ["dps_max"] = 20095.64,
-        ["points"] = 9499.304589707928,
+        ["points"] = 9485.39638386648,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -9207,7 +9207,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 178,
         ["dps_max"] = 24936.21,
-        ["points"] = 8804.861580013505,
+        ["points"] = 8805.668016194333,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 211,
@@ -9257,7 +9257,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 213,
+        ["rank_raids"] = 214,
         ["dps_max"] = 19209.04,
         ["points"] = 9068.150208623088,
       },
@@ -9334,7 +9334,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 166,
+        ["rank_raids"] = 167,
         ["dps_max"] = 19623.23,
         ["points"] = 9221.140472878998,
       },
@@ -9411,7 +9411,7 @@ UWULogsData[3][1] = {
         ["points"] = 961.5944726405562,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 610,
+        ["rank_raids"] = 611,
         ["dps_max"] = 16567.92,
         ["points"] = 7290.7806911313255,
       },
@@ -9488,7 +9488,7 @@ UWULogsData[3][1] = {
         ["points"] = 6464.646464646466,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 297,
+        ["rank_raids"] = 298,
         ["dps_max"] = 18577.63,
         ["points"] = 8595.271210013909,
       },
@@ -9565,7 +9565,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 349,
+        ["rank_raids"] = 350,
         ["dps_max"] = 18218.11,
         ["points"] = 8386.648122392211,
       },
@@ -9642,7 +9642,7 @@ UWULogsData[3][1] = {
         ["points"] = 4226.237491651343,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 261,
+        ["rank_raids"] = 262,
         ["dps_max"] = 18748.51,
         ["points"] = 8803.894297635605,
       },
@@ -9719,7 +9719,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 240,
+        ["rank_raids"] = 241,
         ["dps_max"] = 18954.9,
         ["points"] = 8887.343532684285,
       },
@@ -9746,7 +9746,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 204,
         ["dps_max"] = 23430.85,
-        ["points"] = 8629.30452397029,
+        ["points"] = 8630.229419703104,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -9796,7 +9796,7 @@ UWULogsData[3][1] = {
         ["points"] = 4970.940089211706,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1237,
+        ["rank_raids"] = 1238,
         ["dps_max"] = 12703.25,
         ["points"] = 5590.116913566339,
       },
@@ -9873,7 +9873,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 189,
+        ["rank_raids"] = 190,
         ["dps_max"] = 19449.42,
         ["points"] = 9123.783031988874,
       },
@@ -9950,7 +9950,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 608,
+        ["rank_raids"] = 609,
         ["dps_max"] = 16606.34,
         ["points"] = 7307.687568648435,
       },
@@ -10104,7 +10104,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 607,
+        ["rank_raids"] = 608,
         ["dps_max"] = 16606.63,
         ["points"] = 7307.815184329851,
       },
@@ -10166,7 +10166,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Usmev"] = {
-    ["percentile"] = 52.208,
+    ["percentile"] = 52.194,
     ["server"] = "Icecrown",
     ["overall_rank"] = 133,
     ["bosses"] = {
@@ -10181,9 +10181,9 @@ UWULogsData[3][1] = {
         ["points"] = 6212.121212121212,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 122,
+        ["rank_raids"] = 123,
         ["dps_max"] = 19982.08,
-        ["points"] = 9471.488178025034,
+        ["points"] = 9457.579972183588,
       },
       ["Festergut"] = {
         ["rank_raids"] = 62,
@@ -10258,7 +10258,7 @@ UWULogsData[3][1] = {
         ["points"] = 8232.323232323231,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 936,
+        ["rank_raids"] = 937,
         ["dps_max"] = 14592.03,
         ["points"] = 6421.282247162532,
       },
@@ -10283,7 +10283,7 @@ UWULogsData[3][1] = {
         ["points"] = 5668.896321070234,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 890,
+        ["rank_raids"] = 891,
         ["dps_max"] = 12687.44,
         ["points"] = 4691.558441558442,
       },
@@ -10335,7 +10335,7 @@ UWULogsData[3][1] = {
         ["points"] = 3617.967430848242,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 523,
+        ["rank_raids"] = 524,
         ["dps_max"] = 17048.58,
         ["points"] = 7579.972183588317,
       },
@@ -10412,7 +10412,7 @@ UWULogsData[3][1] = {
         ["points"] = 7272.727272727273,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 273,
+        ["rank_raids"] = 274,
         ["dps_max"] = 18673.5,
         ["points"] = 8720.445062586927,
       },
@@ -10474,7 +10474,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Tufs"] = {
-    ["percentile"] = 51.57,
+    ["percentile"] = 51.571,
     ["server"] = "Icecrown",
     ["overall_rank"] = 137,
     ["bosses"] = {
@@ -10489,7 +10489,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 495,
+        ["rank_raids"] = 496,
         ["dps_max"] = 17237.29,
         ["points"] = 7760.778859527121,
       },
@@ -10516,7 +10516,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 110,
         ["dps_max"] = 28585.15,
-        ["points"] = 9264.01080351114,
+        ["points"] = 9264.50742240216,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -10566,7 +10566,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 163,
+        ["rank_raids"] = 164,
         ["dps_max"] = 19633.74,
         ["points"] = 9262.865090403338,
       },
@@ -10591,7 +10591,7 @@ UWULogsData[3][1] = {
         ["points"] = 9464.882943143813,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 925,
+        ["rank_raids"] = 926,
         ["dps_max"] = 12435.04,
         ["points"] = 4431.818181818182,
       },
@@ -10643,7 +10643,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 353,
+        ["rank_raids"] = 354,
         ["dps_max"] = 18194.25,
         ["points"] = 8358.831710709317,
       },
@@ -10720,7 +10720,7 @@ UWULogsData[3][1] = {
         ["points"] = 6161.616161616162,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 692,
+        ["rank_raids"] = 693,
         ["dps_max"] = 16016.92,
         ["points"] = 7048.310896442956,
       },
@@ -10797,7 +10797,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1716,
+        ["rank_raids"] = 1717,
         ["dps_max"] = 1594.36,
         ["points"] = 701.6046131748668,
       },
@@ -10859,7 +10859,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Sojic"] = {
-    ["percentile"] = 50.502,
+    ["percentile"] = 50.501,
     ["server"] = "Icecrown",
     ["overall_rank"] = 142,
     ["bosses"] = {
@@ -10874,7 +10874,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 368,
+        ["rank_raids"] = 369,
         ["dps_max"] = 18111.05,
         ["points"] = 8233.657858136301,
       },
@@ -10936,7 +10936,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Magesilver"] = {
-    ["percentile"] = 50.358,
+    ["percentile"] = 50.359,
     ["server"] = "Icecrown",
     ["overall_rank"] = 143,
     ["bosses"] = {
@@ -10951,7 +10951,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 276,
+        ["rank_raids"] = 277,
         ["dps_max"] = 18661.25,
         ["points"] = 8692.628650904033,
       },
@@ -10978,7 +10978,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 209,
         ["dps_max"] = 23211.46,
-        ["points"] = 8595.543551654288,
+        ["points"] = 8596.491228070176,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -11028,7 +11028,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 184,
+        ["rank_raids"] = 185,
         ["dps_max"] = 19477.63,
         ["points"] = 9151.599443671766,
       },
@@ -11182,7 +11182,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 667,
+        ["rank_raids"] = 668,
         ["dps_max"] = 16200.5,
         ["points"] = 7129.0960233193455,
       },
@@ -11259,7 +11259,7 @@ UWULogsData[3][1] = {
         ["points"] = 3517.954307174941,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 663,
+        ["rank_raids"] = 664,
         ["dps_max"] = 16217.04,
         ["points"] = 7136.374517700735,
       },
@@ -11284,7 +11284,7 @@ UWULogsData[3][1] = {
         ["points"] = 3469.0328699794463,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 987,
+        ["rank_raids"] = 988,
         ["dps_max"] = 11994.18,
         ["points"] = 3993.5064935064934,
       },
@@ -11336,7 +11336,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 494,
+        ["rank_raids"] = 495,
         ["dps_max"] = 17237.39,
         ["points"] = 7774.687065368567,
       },
@@ -11413,7 +11413,7 @@ UWULogsData[3][1] = {
         ["points"] = 3624.8854117930596,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 753,
+        ["rank_raids"] = 754,
         ["dps_max"] = 15625.25,
         ["points"] = 6875.954917340244,
       },
@@ -11490,7 +11490,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 444,
+        ["rank_raids"] = 445,
         ["dps_max"] = 17515.92,
         ["points"] = 7983.310152990264,
       },
@@ -11515,7 +11515,7 @@ UWULogsData[3][1] = {
         ["points"] = 8377.926421404682,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1459,
+        ["rank_raids"] = 1460,
         ["dps_max"] = 3366.16,
         ["points"] = 852.358345206953,
       },
@@ -11567,7 +11567,7 @@ UWULogsData[3][1] = {
         ["points"] = 4610.380581647056,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1086,
+        ["rank_raids"] = 1087,
         ["dps_max"] = 13785.78,
         ["points"] = 6066.488650125328,
       },
@@ -11644,7 +11644,7 @@ UWULogsData[3][1] = {
         ["points"] = 5246.1322973599945,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1193,
+        ["rank_raids"] = 1194,
         ["dps_max"] = 13035.49,
         ["points"] = 5736.320479060467,
       },
@@ -11669,7 +11669,7 @@ UWULogsData[3][1] = {
         ["points"] = 6187.2909698996655,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1019,
+        ["rank_raids"] = 1020,
         ["dps_max"] = 11751.04,
         ["points"] = 3750.0,
       },
@@ -11721,7 +11721,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 836,
+        ["rank_raids"] = 837,
         ["dps_max"] = 15123.2,
         ["points"] = 6655.025769566565,
       },
@@ -11798,7 +11798,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 338,
+        ["rank_raids"] = 339,
         ["dps_max"] = 18303.75,
         ["points"] = 8456.189151599443,
       },
@@ -11875,7 +11875,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 520,
+        ["rank_raids"] = 521,
         ["dps_max"] = 17062.23,
         ["points"] = 7607.7885952712095,
       },
@@ -11900,7 +11900,7 @@ UWULogsData[3][1] = {
         ["points"] = 5602.00668896321,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 999,
+        ["rank_raids"] = 1000,
         ["dps_max"] = 11895.46,
         ["points"] = 3912.337662337662,
       },
@@ -11937,7 +11937,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Sukkuna"] = {
-    ["percentile"] = 48.389,
+    ["percentile"] = 48.39,
     ["server"] = "Icecrown",
     ["overall_rank"] = 156,
     ["bosses"] = {
@@ -11952,7 +11952,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 722,
+        ["rank_raids"] = 723,
         ["dps_max"] = 15787.43,
         ["points"] = 6947.322887036359,
       },
@@ -11979,7 +11979,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 294,
         ["dps_max"] = 19591.45,
-        ["points"] = 8021.607022282242,
+        ["points"] = 8022.941970310391,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -12029,7 +12029,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 372,
+        ["rank_raids"] = 373,
         ["dps_max"] = 18099.4,
         ["points"] = 8219.749652294855,
       },
@@ -12091,7 +12091,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Fada"] = {
-    ["percentile"] = 48.323,
+    ["percentile"] = 48.324,
     ["server"] = "Icecrown",
     ["overall_rank"] = 158,
     ["bosses"] = {
@@ -12106,7 +12106,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 613,
+        ["rank_raids"] = 614,
         ["dps_max"] = 16520.79,
         ["points"] = 7270.040942631031,
       },
@@ -12133,7 +12133,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 155,
         ["dps_max"] = 26103.18,
-        ["points"] = 8960.162052667116,
+        ["points"] = 8960.863697705803,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -12183,7 +12183,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 382,
+        ["rank_raids"] = 383,
         ["dps_max"] = 18054.52,
         ["points"] = 8191.933240611962,
       },
@@ -12260,7 +12260,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 406,
+        ["rank_raids"] = 407,
         ["dps_max"] = 17882.73,
         ["points"] = 8094.575799721836,
       },
@@ -12337,7 +12337,7 @@ UWULogsData[3][1] = {
         ["points"] = 5465.409851341468,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1079,
+        ["rank_raids"] = 1080,
         ["dps_max"] = 13832.84,
         ["points"] = 6087.197594840454,
       },
@@ -12362,7 +12362,7 @@ UWULogsData[3][1] = {
         ["points"] = 5334.448160535117,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 992,
+        ["rank_raids"] = 993,
         ["dps_max"] = 11950.0,
         ["points"] = 3961.038961038961,
       },
@@ -12399,7 +12399,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Spellblast"] = {
-    ["percentile"] = 47.848,
+    ["percentile"] = 47.849,
     ["server"] = "Icecrown",
     ["overall_rank"] = 162,
     ["bosses"] = {
@@ -12414,7 +12414,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 327,
+        ["rank_raids"] = 328,
         ["dps_max"] = 18362.79,
         ["points"] = 8484.005563282337,
       },
@@ -12441,7 +12441,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 183,
         ["dps_max"] = 24590.8,
-        ["points"] = 8771.1006076975,
+        ["points"] = 8771.929824561403,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -12491,7 +12491,7 @@ UWULogsData[3][1] = {
         ["points"] = 4965.256416573687,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 731,
+        ["rank_raids"] = 732,
         ["dps_max"] = 15728.06,
         ["points"] = 6921.196876672206,
       },
@@ -12568,7 +12568,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 363,
+        ["rank_raids"] = 364,
         ["dps_max"] = 18147.18,
         ["points"] = 8275.38247566064,
       },
@@ -12645,7 +12645,7 @@ UWULogsData[3][1] = {
         ["points"] = 2816.291503616816,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 797,
+        ["rank_raids"] = 798,
         ["dps_max"] = 15362.6,
         ["points"] = 6760.37471484496,
       },
@@ -12707,7 +12707,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Archlinux"] = {
-    ["percentile"] = 47.503,
+    ["percentile"] = 47.504,
     ["server"] = "Icecrown",
     ["overall_rank"] = 166,
     ["bosses"] = {
@@ -12722,7 +12722,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 519,
+        ["rank_raids"] = 520,
         ["dps_max"] = 17064.14,
         ["points"] = 7621.696801112656,
       },
@@ -12749,7 +12749,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 228,
         ["dps_max"] = 22531.59,
-        ["points"] = 8467.251856853478,
+        ["points"] = 8468.286099865049,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -12799,7 +12799,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1020,
+        ["rank_raids"] = 1021,
         ["dps_max"] = 14099.46,
         ["points"] = 6204.524812008899,
       },
@@ -12824,7 +12824,7 @@ UWULogsData[3][1] = {
         ["points"] = 6588.628762541806,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 741,
+        ["rank_raids"] = 742,
         ["dps_max"] = 13926.14,
         ["points"] = 5551.948051948052,
       },
@@ -12876,7 +12876,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 651,
+        ["rank_raids"] = 652,
         ["dps_max"] = 16337.96,
         ["points"] = 7189.585856310024,
       },
@@ -12953,7 +12953,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 392,
+        ["rank_raids"] = 393,
         ["dps_max"] = 17965.74,
         ["points"] = 8136.300417246175,
       },
@@ -13030,7 +13030,7 @@ UWULogsData[3][1] = {
         ["points"] = 4079.0523244269607,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 652,
+        ["rank_raids"] = 653,
         ["dps_max"] = 16333.6,
         ["points"] = 7187.667220548061,
       },
@@ -13055,7 +13055,7 @@ UWULogsData[3][1] = {
         ["points"] = 6254.180602006689,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 832,
+        ["rank_raids"] = 833,
         ["dps_max"] = 13201.83,
         ["points"] = 5146.103896103897,
       },
@@ -13107,7 +13107,7 @@ UWULogsData[3][1] = {
         ["points"] = 5411.2076169995,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 599,
+        ["rank_raids"] = 600,
         ["dps_max"] = 16661.82,
         ["points"] = 7332.101768665333,
       },
@@ -13132,7 +13132,7 @@ UWULogsData[3][1] = {
         ["points"] = 4102.855575029507,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 846,
+        ["rank_raids"] = 847,
         ["dps_max"] = 13091.07,
         ["points"] = 5064.9350649350645,
       },
@@ -13184,7 +13184,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 525,
+        ["rank_raids"] = 526,
         ["dps_max"] = 17040.9,
         ["points"] = 7566.0639777468705,
       },
@@ -13261,7 +13261,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1278,
+        ["rank_raids"] = 1279,
         ["dps_max"] = 12362.06,
         ["points"] = 5439.974864111302,
       },
@@ -13338,7 +13338,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 627,
+        ["rank_raids"] = 628,
         ["dps_max"] = 16459.04,
         ["points"] = 7242.867603571127,
       },
@@ -13415,7 +13415,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 615,
+        ["rank_raids"] = 616,
         ["dps_max"] = 16518.92,
         ["points"] = 7269.2180415129405,
       },
@@ -13442,7 +13442,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 152,
         ["dps_max"] = 26288.25,
-        ["points"] = 8980.418636056718,
+        ["points"] = 8981.10661268556,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -13492,7 +13492,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 502,
+        ["rank_raids"] = 503,
         ["dps_max"] = 17189.89,
         ["points"] = 7705.146036161335,
       },
@@ -13554,7 +13554,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Itsameemario"] = {
-    ["percentile"] = 45.476,
+    ["percentile"] = 45.477,
     ["server"] = "Icecrown",
     ["overall_rank"] = 177,
     ["bosses"] = {
@@ -13569,7 +13569,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 816,
+        ["rank_raids"] = 817,
         ["dps_max"] = 15248.5,
         ["points"] = 6710.164545019293,
       },
@@ -13596,7 +13596,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 296,
         ["dps_max"] = 19515.55,
-        ["points"] = 8008.10263335584,
+        ["points"] = 8009.44669365722,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -13646,7 +13646,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 467,
+        ["rank_raids"] = 468,
         ["dps_max"] = 17372.53,
         ["points"] = 7885.952712100139,
       },
@@ -13673,7 +13673,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 118,
         ["dps_max"] = 27762.4,
-        ["points"] = 9209.993247805536,
+        ["points"] = 9210.526315789473,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -13708,7 +13708,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Zongo"] = {
-    ["percentile"] = 45.202,
+    ["percentile"] = 45.203,
     ["server"] = "Icecrown",
     ["overall_rank"] = 179,
     ["bosses"] = {
@@ -13723,7 +13723,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 776,
+        ["rank_raids"] = 777,
         ["dps_max"] = 15494.37,
         ["points"] = 6818.360640155463,
       },
@@ -13750,7 +13750,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 147,
         ["dps_max"] = 26357.21,
-        ["points"] = 9014.17960837272,
+        ["points"] = 9014.844804318489,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -13800,7 +13800,7 @@ UWULogsData[3][1] = {
         ["points"] = 4730.615871058202,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1092,
+        ["rank_raids"] = 1093,
         ["dps_max"] = 13760.22,
         ["points"] = 6055.24086799786,
       },
@@ -13877,7 +13877,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 614,
+        ["rank_raids"] = 615,
         ["dps_max"] = 16519.86,
         ["points"] = 7269.631692342356,
       },
@@ -14031,7 +14031,7 @@ UWULogsData[3][1] = {
         ["points"] = 4445.705314502244,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 972,
+        ["rank_raids"] = 973,
         ["dps_max"] = 14360.15,
         ["points"] = 6319.242508519447,
       },
@@ -14108,7 +14108,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 666,
+        ["rank_raids"] = 667,
         ["dps_max"] = 16204.74,
         ["points"] = 7130.961852592447,
       },
@@ -14185,7 +14185,7 @@ UWULogsData[3][1] = {
         ["points"] = 4270.277416890313,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 934,
+        ["rank_raids"] = 935,
         ["dps_max"] = 14600.84,
         ["points"] = 6425.159123553102,
       },
@@ -14210,7 +14210,7 @@ UWULogsData[3][1] = {
         ["points"] = 4521.236461859045,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 931,
+        ["rank_raids"] = 932,
         ["dps_max"] = 12391.37,
         ["points"] = 4399.350649350649,
       },
@@ -14262,7 +14262,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 964,
+        ["rank_raids"] = 965,
         ["dps_max"] = 14403.12,
         ["points"] = 6338.15163207255,
       },
@@ -14287,7 +14287,7 @@ UWULogsData[3][1] = {
         ["points"] = 9397.99331103679,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 768,
+        ["rank_raids"] = 769,
         ["dps_max"] = 13714.7,
         ["points"] = 5405.844155844156,
       },
@@ -14339,7 +14339,7 @@ UWULogsData[3][1] = {
         ["points"] = 1688.8850293038452,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 852,
+        ["rank_raids"] = 853,
         ["dps_max"] = 15019.02,
         ["points"] = 6609.180936153435,
       },
@@ -14401,7 +14401,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Baumago"] = {
-    ["percentile"] = 44.252,
+    ["percentile"] = 44.253,
     ["server"] = "Icecrown",
     ["overall_rank"] = 188,
     ["bosses"] = {
@@ -14416,7 +14416,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 498,
+        ["rank_raids"] = 499,
         ["dps_max"] = 17200.11,
         ["points"] = 7732.962447844228,
       },
@@ -14443,7 +14443,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 138,
         ["dps_max"] = 26677.38,
-        ["points"] = 9074.949358541526,
+        ["points"] = 9075.573549257759,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -14493,7 +14493,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 356,
+        ["rank_raids"] = 357,
         ["dps_max"] = 18185.67,
         ["points"] = 8331.015299026425,
       },
@@ -14570,7 +14570,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 648,
+        ["rank_raids"] = 649,
         ["dps_max"] = 16353.47,
         ["points"] = 7196.411094995353,
       },
@@ -14647,7 +14647,7 @@ UWULogsData[3][1] = {
         ["points"] = 4371.237006221792,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 202,
+        ["rank_raids"] = 203,
         ["dps_max"] = 19316.18,
         ["points"] = 9095.96662030598,
       },
@@ -14724,7 +14724,7 @@ UWULogsData[3][1] = {
         ["points"] = 2989.0410009898856,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1052,
+        ["rank_raids"] = 1053,
         ["dps_max"] = 13985.07,
         ["points"] = 6154.187026501816,
       },
@@ -14749,7 +14749,7 @@ UWULogsData[3][1] = {
         ["points"] = 3120.214197692929,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 853,
+        ["rank_raids"] = 854,
         ["dps_max"] = 13034.15,
         ["points"] = 4967.532467532468,
       },
@@ -14801,7 +14801,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 883,
+        ["rank_raids"] = 884,
         ["dps_max"] = 14826.32,
         ["points"] = 6524.382516123581,
       },
@@ -14878,7 +14878,7 @@ UWULogsData[3][1] = {
         ["points"] = 3900.448400302283,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1133,
+        ["rank_raids"] = 1134,
         ["dps_max"] = 13485.96,
         ["points"] = 5934.551637705241,
       },
@@ -14940,7 +14940,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Maguszomm"] = {
-    ["percentile"] = 43.789,
+    ["percentile"] = 43.79,
     ["server"] = "Icecrown",
     ["overall_rank"] = 195,
     ["bosses"] = {
@@ -14955,7 +14955,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 689,
+        ["rank_raids"] = 690,
         ["dps_max"] = 16019.01,
         ["points"] = 7049.23060945729,
       },
@@ -14982,7 +14982,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 318,
         ["dps_max"] = 18755.53,
-        ["points"] = 7859.554355165429,
+        ["points"] = 7860.998650472335,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -15032,7 +15032,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 756,
+        ["rank_raids"] = 757,
         ["dps_max"] = 15579.48,
         ["points"] = 6855.813642380376,
       },
@@ -15094,7 +15094,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Sildenafil"] = {
-    ["percentile"] = 43.648,
+    ["percentile"] = 43.649,
     ["server"] = "Icecrown",
     ["overall_rank"] = 197,
     ["bosses"] = {
@@ -15109,7 +15109,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 846,
+        ["rank_raids"] = 847,
         ["dps_max"] = 15069.29,
         ["points"] = 6631.302454445602,
       },
@@ -15136,7 +15136,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 205,
         ["dps_max"] = 23386.03,
-        ["points"] = 8622.552329507089,
+        ["points"] = 8623.481781376518,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -15186,7 +15186,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 701,
+        ["rank_raids"] = 702,
         ["dps_max"] = 15968.21,
         ["points"] = 7026.8758625059845,
       },
@@ -15248,7 +15248,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Pericus"] = {
-    ["percentile"] = 43.437,
+    ["percentile"] = 43.438,
     ["server"] = "Icecrown",
     ["overall_rank"] = 199,
     ["bosses"] = {
@@ -15263,7 +15263,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 698,
+        ["rank_raids"] = 699,
         ["dps_max"] = 15989.66,
         ["points"] = 7036.315022389952,
       },
@@ -15290,7 +15290,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 231,
         ["dps_max"] = 22270.16,
-        ["points"] = 8446.995273463875,
+        ["points"] = 8448.04318488529,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -15340,7 +15340,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 653,
+        ["rank_raids"] = 654,
         ["dps_max"] = 16332.46,
         ["points"] = 7187.165558903877,
       },
@@ -15417,7 +15417,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 633,
+        ["rank_raids"] = 634,
         ["dps_max"] = 16438.26,
         ["points"] = 7233.723279916635,
       },
@@ -15494,7 +15494,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 476,
+        ["rank_raids"] = 477,
         ["dps_max"] = 17333.49,
         ["points"] = 7858.136300417246,
       },
@@ -15556,7 +15556,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Blaackwave"] = {
-    ["percentile"] = 43.16,
+    ["percentile"] = 43.161,
     ["server"] = "Icecrown",
     ["overall_rank"] = 203,
     ["bosses"] = {
@@ -15571,7 +15571,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 853,
+        ["rank_raids"] = 854,
         ["dps_max"] = 15017.54,
         ["points"] = 6608.529656124145,
       },
@@ -15598,7 +15598,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 258,
         ["dps_max"] = 20840.62,
-        ["points"] = 8264.686022957461,
+        ["points"] = 8265.856950067477,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 261,
@@ -15648,7 +15648,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 782,
+        ["rank_raids"] = 783,
         ["dps_max"] = 15455.99,
         ["points"] = 6801.471364801307,
       },
@@ -15725,7 +15725,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1004,
+        ["rank_raids"] = 1005,
         ["dps_max"] = 14204.66,
         ["points"] = 6250.818500577351,
       },
@@ -15802,7 +15802,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 428,
+        ["rank_raids"] = 429,
         ["dps_max"] = 17666.41,
         ["points"] = 8011.126564673156,
       },
@@ -15879,7 +15879,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 165,
+        ["rank_raids"] = 166,
         ["dps_max"] = 19629.16,
         ["points"] = 9235.048678720446,
       },
@@ -15956,7 +15956,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 719,
+        ["rank_raids"] = 720,
         ["dps_max"] = 15801.84,
         ["points"] = 6953.664066240461,
       },
@@ -16033,7 +16033,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 694,
+        ["rank_raids"] = 695,
         ["dps_max"] = 16005.59,
         ["points"] = 7043.325083786296,
       },
@@ -16058,7 +16058,7 @@ UWULogsData[3][1] = {
         ["points"] = 9063.545150501672,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 849,
+        ["rank_raids"] = 850,
         ["dps_max"] = 13069.05,
         ["points"] = 5016.233766233767,
       },
@@ -16110,7 +16110,7 @@ UWULogsData[3][1] = {
         ["points"] = 4381.009020208017,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 688,
+        ["rank_raids"] = 689,
         ["dps_max"] = 16031.08,
         ["points"] = 7054.542062128595,
       },
@@ -16135,7 +16135,7 @@ UWULogsData[3][1] = {
         ["points"] = 7474.9163879598655,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1059,
+        ["rank_raids"] = 1060,
         ["dps_max"] = 11476.05,
         ["points"] = 3457.792207792208,
       },
@@ -16187,7 +16187,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1443,
+        ["rank_raids"] = 1444,
         ["dps_max"] = 10879.04,
         ["points"] = 4787.365871518293,
       },
@@ -16264,7 +16264,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 554,
+        ["rank_raids"] = 555,
         ["dps_max"] = 16933.16,
         ["points"] = 7454.798331015299,
       },
@@ -16341,7 +16341,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 943,
+        ["rank_raids"] = 944,
         ["dps_max"] = 14526.58,
         ["points"] = 6392.480708029403,
       },
@@ -16368,7 +16368,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 162,
         ["dps_max"] = 25851.01,
-        ["points"] = 8912.896691424714,
+        ["points"] = 8913.630229419703,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -16418,7 +16418,7 @@ UWULogsData[3][1] = {
         ["points"] = 4833.765991732573,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 847,
+        ["rank_raids"] = 848,
         ["dps_max"] = 15068.91,
         ["points"] = 6631.135233897541,
       },
@@ -16443,7 +16443,7 @@ UWULogsData[3][1] = {
         ["points"] = 6220.735785953178,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1084,
+        ["rank_raids"] = 1085,
         ["dps_max"] = 11239.9,
         ["points"] = 3246.753246753247,
       },
@@ -16495,7 +16495,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 792,
+        ["rank_raids"] = 793,
         ["dps_max"] = 15389.53,
         ["points"] = 6772.225371053595,
       },
@@ -16572,7 +16572,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 835,
+        ["rank_raids"] = 836,
         ["dps_max"] = 15123.94,
         ["points"] = 6655.35140958121,
       },
@@ -16597,7 +16597,7 @@ UWULogsData[3][1] = {
         ["points"] = 7140.468227424749,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 946,
+        ["rank_raids"] = 947,
         ["dps_max"] = 12308.15,
         ["points"] = 4285.714285714285,
       },
@@ -16649,7 +16649,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 867,
+        ["rank_raids"] = 868,
         ["dps_max"] = 14914.1,
         ["points"] = 6563.010462725661,
       },
@@ -16726,7 +16726,7 @@ UWULogsData[3][1] = {
         ["points"] = 4619.689120182112,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1243,
+        ["rank_raids"] = 1244,
         ["dps_max"] = 12646.77,
         ["points"] = 5565.2626594755975,
       },
@@ -16751,7 +16751,7 @@ UWULogsData[3][1] = {
         ["points"] = 5635.451505016722,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 765,
+        ["rank_raids"] = 766,
         ["dps_max"] = 13761.29,
         ["points"] = 5422.077922077922,
       },
@@ -16803,7 +16803,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 649,
+        ["rank_raids"] = 650,
         ["dps_max"] = 16349.52,
         ["points"] = 7194.672881403668,
       },
@@ -16828,7 +16828,7 @@ UWULogsData[3][1] = {
         ["points"] = 6722.408026755853,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 786,
+        ["rank_raids"] = 787,
         ["dps_max"] = 13600.71,
         ["points"] = 5308.441558441559,
       },
@@ -16880,7 +16880,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 677,
+        ["rank_raids"] = 678,
         ["dps_max"] = 16128.04,
         ["points"] = 7097.209705128566,
       },
@@ -16905,7 +16905,7 @@ UWULogsData[3][1] = {
         ["points"] = 7892.976588628763,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 866,
+        ["rank_raids"] = 867,
         ["dps_max"] = 12939.28,
         ["points"] = 4870.12987012987,
       },
@@ -16957,7 +16957,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 229,
+        ["rank_raids"] = 230,
         ["dps_max"] = 19094.08,
         ["points"] = 8942.97635605007,
       },
@@ -17034,7 +17034,7 @@ UWULogsData[3][1] = {
         ["points"] = 4282.635136025166,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1432,
+        ["rank_raids"] = 1433,
         ["dps_max"] = 11020.23,
         ["points"] = 4849.49710620441,
       },
@@ -17059,7 +17059,7 @@ UWULogsData[3][1] = {
         ["points"] = 4765.886287625418,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1219,
+        ["rank_raids"] = 1220,
         ["dps_max"] = 9671.79,
         ["points"] = 2449.031216457078,
       },
@@ -17111,7 +17111,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 624,
+        ["rank_raids"] = 625,
         ["dps_max"] = 16479.6,
         ["points"] = 7251.9151153293715,
       },
@@ -17173,7 +17173,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Usmevcute"] = {
-    ["percentile"] = 40.615,
+    ["percentile"] = 40.616,
     ["server"] = "Icecrown",
     ["overall_rank"] = 224,
     ["bosses"] = {
@@ -17188,7 +17188,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1129,
+        ["rank_raids"] = 1130,
         ["dps_max"] = 13537.66,
         ["points"] = 5957.302433323006,
       },
@@ -17215,7 +17215,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 221,
         ["dps_max"] = 22851.87,
-        ["points"] = 8514.517218095882,
+        ["points"] = 8515.519568151147,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -17265,7 +17265,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 511,
+        ["rank_raids"] = 512,
         ["dps_max"] = 17135.39,
         ["points"] = 7663.421418636995,
       },
@@ -17342,7 +17342,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 739,
+        ["rank_raids"] = 740,
         ["dps_max"] = 15679.65,
         ["points"] = 6899.893858957389,
       },
@@ -17419,7 +17419,7 @@ UWULogsData[3][1] = {
         ["points"] = 2602.385386179942,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1369,
+        ["rank_raids"] = 1370,
         ["dps_max"] = 11588.32,
         ["points"] = 5099.487425014786,
       },
@@ -17444,7 +17444,7 @@ UWULogsData[3][1] = {
         ["points"] = 4284.677627268577,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1181,
+        ["rank_raids"] = 1182,
         ["dps_max"] = 10312.31,
         ["points"] = 2611.219753921713,
       },
@@ -17496,7 +17496,7 @@ UWULogsData[3][1] = {
         ["points"] = 4142.138651364496,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1053,
+        ["rank_raids"] = 1054,
         ["dps_max"] = 13978.38,
         ["points"] = 6151.243064747796,
       },
@@ -17521,7 +17521,7 @@ UWULogsData[3][1] = {
         ["points"] = 4816.053511705686,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1004,
+        ["rank_raids"] = 1005,
         ["dps_max"] = 11862.91,
         ["points"] = 3879.87012987013,
       },
@@ -17573,7 +17573,7 @@ UWULogsData[3][1] = {
         ["points"] = 5858.585858585859,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 510,
+        ["rank_raids"] = 511,
         ["dps_max"] = 17145.9,
         ["points"] = 7677.329624478442,
       },
@@ -17650,7 +17650,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 851,
+        ["rank_raids"] = 852,
         ["dps_max"] = 15020.48,
         ["points"] = 6609.823415101248,
       },
@@ -17727,7 +17727,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 881,
+        ["rank_raids"] = 882,
         ["dps_max"] = 14837.28,
         ["points"] = 6529.205508772919,
       },
@@ -17804,7 +17804,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 878,
+        ["rank_raids"] = 879,
         ["dps_max"] = 14846.93,
         ["points"] = 6533.4520305855185,
       },
@@ -17866,7 +17866,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Rokkiiee"] = {
-    ["percentile"] = 39.785,
+    ["percentile"] = 39.786,
     ["server"] = "Icecrown",
     ["overall_rank"] = 233,
     ["bosses"] = {
@@ -17908,7 +17908,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 291,
         ["dps_max"] = 19647.29,
-        ["points"] = 8041.863605671843,
+        ["points"] = 8043.1848852901485,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -17958,7 +17958,7 @@ UWULogsData[3][1] = {
         ["points"] = 3631.491156644457,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 926,
+        ["rank_raids"] = 927,
         ["dps_max"] = 14634.43,
         ["points"] = 6439.940539893542,
       },
@@ -17983,7 +17983,7 @@ UWULogsData[3][1] = {
         ["points"] = 3784.2980034863895,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 726,
+        ["rank_raids"] = 727,
         ["dps_max"] = 14036.74,
         ["points"] = 5616.883116883117,
       },
@@ -18035,7 +18035,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 843,
+        ["rank_raids"] = 844,
         ["dps_max"] = 15075.78,
         ["points"] = 6634.158405384855,
       },
@@ -18112,7 +18112,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 568,
+        ["rank_raids"] = 569,
         ["dps_max"] = 16825.99,
         ["points"] = 7404.345445968401,
       },
@@ -18137,7 +18137,7 @@ UWULogsData[3][1] = {
         ["points"] = 5919.732441471572,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 762,
+        ["rank_raids"] = 763,
         ["dps_max"] = 13775.95,
         ["points"] = 5438.311688311688,
       },
@@ -18189,7 +18189,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 227,
+        ["rank_raids"] = 228,
         ["dps_max"] = 19125.91,
         ["points"] = 8970.792767732963,
       },
@@ -18266,7 +18266,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 605,
+        ["rank_raids"] = 606,
         ["dps_max"] = 16626.2,
         ["points"] = 7316.427042554989,
       },
@@ -18328,7 +18328,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Themonk"] = {
-    ["percentile"] = 39.297,
+    ["percentile"] = 39.296,
     ["server"] = "Icecrown",
     ["overall_rank"] = 239,
     ["bosses"] = {
@@ -18343,7 +18343,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 560,
+        ["rank_raids"] = 561,
         ["dps_max"] = 16867.79,
         ["points"] = 7422.7397062551045,
       },
@@ -18420,7 +18420,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 582,
+        ["rank_raids"] = 583,
         ["dps_max"] = 16749.98,
         ["points"] = 7370.896935815473,
       },
@@ -18497,7 +18497,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 817,
+        ["rank_raids"] = 818,
         ["dps_max"] = 15247.99,
         ["points"] = 6709.940117441632,
       },
@@ -18522,7 +18522,7 @@ UWULogsData[3][1] = {
         ["points"] = 6889.632107023412,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 815,
+        ["rank_raids"] = 816,
         ["dps_max"] = 13309.23,
         ["points"] = 5243.506493506494,
       },
@@ -18574,7 +18574,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 805,
+        ["rank_raids"] = 806,
         ["dps_max"] = 15309.72,
         ["points"] = 6737.1046554200575,
       },
@@ -18599,7 +18599,7 @@ UWULogsData[3][1] = {
         ["points"] = 6772.57525083612,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 819,
+        ["rank_raids"] = 820,
         ["dps_max"] = 13296.96,
         ["points"] = 5211.038961038961,
       },
@@ -18651,7 +18651,7 @@ UWULogsData[3][1] = {
         ["points"] = 2327.5785944594677,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1415,
+        ["rank_raids"] = 1416,
         ["dps_max"] = 11163.05,
         ["points"] = 4912.345629030895,
       },
@@ -18676,7 +18676,7 @@ UWULogsData[3][1] = {
         ["points"] = 4222.50920676369,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1112,
+        ["rank_raids"] = 1113,
         ["dps_max"] = 10885.47,
         ["points"] = 3035.7142857142853,
       },
@@ -18728,7 +18728,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1048,
+        ["rank_raids"] = 1049,
         ["dps_max"] = 13998.34,
         ["points"] = 6160.026544061734,
       },
@@ -18753,7 +18753,7 @@ UWULogsData[3][1] = {
         ["points"] = 2763.031975912221,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 857,
+        ["rank_raids"] = 858,
         ["dps_max"] = 12994.5,
         ["points"] = 4935.064935064935,
       },
@@ -18790,7 +18790,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Sunlink"] = {
-    ["percentile"] = 38.895,
+    ["percentile"] = 38.896,
     ["server"] = "Icecrown",
     ["overall_rank"] = 245,
     ["bosses"] = {
@@ -18805,7 +18805,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 773,
+        ["rank_raids"] = 774,
         ["dps_max"] = 15498.05,
         ["points"] = 6819.98003914721,
       },
@@ -18832,7 +18832,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 303,
         ["dps_max"] = 19140.99,
-        ["points"] = 7960.8372721134365,
+        ["points"] = 7962.21322537112,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -18882,7 +18882,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 639,
+        ["rank_raids"] = 640,
         ["dps_max"] = 16397.81,
         ["points"] = 7215.923092629622,
       },
@@ -18907,7 +18907,7 @@ UWULogsData[3][1] = {
         ["points"] = 7759.197324414716,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 907,
+        ["rank_raids"] = 908,
         ["dps_max"] = 12561.94,
         ["points"] = 4577.922077922078,
       },
@@ -18944,7 +18944,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Weatherlove"] = {
-    ["percentile"] = 38.383,
+    ["percentile"] = 38.384,
     ["server"] = "Icecrown",
     ["overall_rank"] = 247,
     ["bosses"] = {
@@ -18959,7 +18959,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 963,
+        ["rank_raids"] = 964,
         ["dps_max"] = 14404.21,
         ["points"] = 6338.631291013039,
       },
@@ -18986,7 +18986,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 313,
         ["dps_max"] = 18923.21,
-        ["points"] = 7893.315327481431,
+        ["points"] = 7894.736842105263,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -19036,7 +19036,7 @@ UWULogsData[3][1] = {
         ["points"] = 4235.98999088173,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1320,
+        ["rank_raids"] = 1321,
         ["dps_max"] = 11963.73,
         ["points"] = 5264.688124876785,
       },
@@ -19061,7 +19061,7 @@ UWULogsData[3][1] = {
         ["points"] = 4569.7999228926155,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1053,
+        ["rank_raids"] = 1054,
         ["dps_max"] = 11516.14,
         ["points"] = 3506.4935064935066,
       },
@@ -19113,7 +19113,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 445,
+        ["rank_raids"] = 446,
         ["dps_max"] = 17488.47,
         ["points"] = 7969.401947148817,
       },
@@ -19190,7 +19190,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 965,
+        ["rank_raids"] = 966,
         ["dps_max"] = 14399.32,
         ["points"] = 6336.47942659194,
       },
@@ -19267,7 +19267,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 337,
+        ["rank_raids"] = 338,
         ["dps_max"] = 18305.21,
         ["points"] = 8470.09735744089,
       },
@@ -19292,7 +19292,7 @@ UWULogsData[3][1] = {
         ["points"] = 3473.749192855977,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 732,
+        ["rank_raids"] = 733,
         ["dps_max"] = 14012.49,
         ["points"] = 5600.649350649351,
       },
@@ -19344,7 +19344,7 @@ UWULogsData[3][1] = {
         ["points"] = 5110.358383612289,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 945,
+        ["rank_raids"] = 946,
         ["dps_max"] = 14522.74,
         ["points"] = 6390.790900385839,
       },
@@ -19421,7 +19421,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 735,
+        ["rank_raids"] = 736,
         ["dps_max"] = 15699.67,
         ["points"] = 6908.703741515758,
       },
@@ -19483,7 +19483,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Kallue"] = {
-    ["percentile"] = 37.482,
+    ["percentile"] = 37.483,
     ["server"] = "Icecrown",
     ["overall_rank"] = 254,
     ["bosses"] = {
@@ -19498,7 +19498,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 565,
+        ["rank_raids"] = 566,
         ["dps_max"] = 16835.16,
         ["points"] = 7408.380741825556,
       },
@@ -19525,7 +19525,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 106,
         ["dps_max"] = 28955.63,
-        ["points"] = 9291.019581363942,
+        ["points"] = 9291.497975708502,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -19575,7 +19575,7 @@ UWULogsData[3][1] = {
         ["points"] = 5129.502359090046,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1548,
+        ["rank_raids"] = 1549,
         ["dps_max"] = 9690.32,
         ["points"] = 4264.264792857746,
       },
@@ -19652,7 +19652,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1072,
+        ["rank_raids"] = 1073,
         ["dps_max"] = 13880.93,
         ["points"] = 6108.359795251641,
       },
@@ -19791,7 +19791,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Aouganos"] = {
-    ["percentile"] = 37.334,
+    ["percentile"] = 37.335,
     ["server"] = "Icecrown",
     ["overall_rank"] = 258,
     ["bosses"] = {
@@ -19806,7 +19806,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1039,
+        ["rank_raids"] = 1040,
         ["dps_max"] = 14038.15,
         ["points"] = 6177.545096741488,
       },
@@ -19833,7 +19833,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 222,
         ["dps_max"] = 22825.69,
-        ["points"] = 8507.76502363268,
+        ["points"] = 8508.771929824561,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -19883,7 +19883,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 849,
+        ["rank_raids"] = 850,
         ["dps_max"] = 15054.61,
         ["points"] = 6624.842460641565,
       },
@@ -19908,7 +19908,7 @@ UWULogsData[3][1] = {
         ["points"] = 7056.8561872909695,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 900,
+        ["rank_raids"] = 901,
         ["dps_max"] = 12635.91,
         ["points"] = 4626.623376623376,
       },
@@ -19960,7 +19960,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 931,
+        ["rank_raids"] = 932,
         ["dps_max"] = 14618.59,
         ["points"] = 6432.9700833638435,
       },
@@ -19985,7 +19985,7 @@ UWULogsData[3][1] = {
         ["points"] = 6454.84949832776,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 952,
+        ["rank_raids"] = 953,
         ["dps_max"] = 12266.11,
         ["points"] = 4220.779220779221,
       },
@@ -20037,7 +20037,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1016,
+        ["rank_raids"] = 1017,
         ["dps_max"] = 14113.65,
         ["points"] = 6210.769179316754,
       },
@@ -20114,7 +20114,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 670,
+        ["rank_raids"] = 671,
         ["dps_max"] = 16182.26,
         ["points"] = 7121.06943701242,
       },
@@ -20139,7 +20139,7 @@ UWULogsData[3][1] = {
         ["points"] = 6237.458193979934,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1105,
+        ["rank_raids"] = 1106,
         ["dps_max"] = 10993.91,
         ["points"] = 3100.6493506493503,
       },
@@ -20191,7 +20191,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 342,
+        ["rank_raids"] = 343,
         ["dps_max"] = 18240.88,
         ["points"] = 8442.280945757997,
       },
@@ -20268,7 +20268,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1040,
+        ["rank_raids"] = 1041,
         ["dps_max"] = 14035.95,
         ["points"] = 6176.57697777903,
       },
@@ -20330,7 +20330,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Firepov"] = {
-    ["percentile"] = 36.769,
+    ["percentile"] = 36.755,
     ["server"] = "Icecrown",
     ["overall_rank"] = 265,
     ["bosses"] = {
@@ -20345,9 +20345,9 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 110,
+        ["rank_raids"] = 111,
         ["dps_max"] = 20147.46,
-        ["points"] = 9513.212795549374,
+        ["points"] = 9499.304589707928,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -20422,7 +20422,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 730,
+        ["rank_raids"] = 731,
         ["dps_max"] = 15730.63,
         ["points"] = 6922.327815641986,
       },
@@ -20447,7 +20447,7 @@ UWULogsData[3][1] = {
         ["points"] = 4068.8857509809914,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 776,
+        ["rank_raids"] = 777,
         ["dps_max"] = 13674.35,
         ["points"] = 5357.142857142857,
       },
@@ -20499,7 +20499,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 845,
+        ["rank_raids"] = 846,
         ["dps_max"] = 15069.3,
         ["points"] = 6631.306854986341,
       },
@@ -20524,7 +20524,7 @@ UWULogsData[3][1] = {
         ["points"] = 7240.802675585284,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1017,
+        ["rank_raids"] = 1018,
         ["dps_max"] = 11761.02,
         ["points"] = 3782.4675324675322,
       },
@@ -20576,7 +20576,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 938,
+        ["rank_raids"] = 939,
         ["dps_max"] = 14562.33,
         ["points"] = 6408.212641169347,
       },
@@ -20653,7 +20653,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 426,
+        ["rank_raids"] = 427,
         ["dps_max"] = 17685.48,
         ["points"] = 8025.034770514604,
       },
@@ -20730,7 +20730,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 844,
+        ["rank_raids"] = 845,
         ["dps_max"] = 15071.35,
         ["points"] = 6632.208965837723,
       },
@@ -20807,7 +20807,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1148,
+        ["rank_raids"] = 1149,
         ["dps_max"] = 13395.24,
         ["points"] = 5894.629932126059,
       },
@@ -20884,7 +20884,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1220,
+        ["rank_raids"] = 1221,
         ["dps_max"] = 12843.92,
         ["points"] = 5652.019320134059,
       },
@@ -20909,7 +20909,7 @@ UWULogsData[3][1] = {
         ["points"] = 5451.505016722408,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 870,
+        ["rank_raids"] = 871,
         ["dps_max"] = 12928.86,
         ["points"] = 4837.662337662337,
       },
@@ -20945,10 +20945,87 @@ UWULogsData[3][1] = {
       },
     },
   },
-  ["Bezdalina"] = {
+  ["Jailmate"] = {
     ["percentile"] = 36.114,
     ["server"] = "Icecrown",
     ["overall_rank"] = 273,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 409,
+        ["dps_max"] = 9245.84,
+        ["points"] = 4826.602631029443,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 684,
+        ["dps_max"] = 11376.59,
+        ["points"] = 5936.454849498328,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 226,
+        ["dps_max"] = 22636.46,
+        ["points"] = 8481.781376518218,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 111,
+        ["dps_max"] = 12018.8,
+        ["points"] = 7966.7282809611825,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 42,
+        ["dps_max"] = 12661.92,
+        ["points"] = 8821.83023129756,
+      },
+      ["Toravon the Ice Watcher"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Halion"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Anub'arak"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Valithria Dreamwalker"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+    },
+  },
+  ["Bezdalina"] = {
+    ["percentile"] = 36.114,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 274,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 813,
@@ -20961,7 +21038,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 980,
+        ["rank_raids"] = 981,
         ["dps_max"] = 14312.35,
         ["points"] = 6298.207923789676,
       },
@@ -21022,83 +21099,6 @@ UWULogsData[3][1] = {
       },
     },
   },
-  ["Jailmate"] = {
-    ["percentile"] = 36.113,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 274,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 409,
-        ["dps_max"] = 9245.84,
-        ["points"] = 4826.602631029443,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 684,
-        ["dps_max"] = 11376.59,
-        ["points"] = 5936.454849498328,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 226,
-        ["dps_max"] = 22636.46,
-        ["points"] = 8480.756245779878,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 111,
-        ["dps_max"] = 12018.8,
-        ["points"] = 7966.7282809611825,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 42,
-        ["dps_max"] = 12661.92,
-        ["points"] = 8821.83023129756,
-      },
-      ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Halion"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Anub'arak"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Valithria Dreamwalker"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-    },
-  },
   ["Fhyneest"] = {
     ["percentile"] = 36.076,
     ["server"] = "Icecrown",
@@ -21115,7 +21115,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 939,
+        ["rank_raids"] = 940,
         ["dps_max"] = 14556.93,
         ["points"] = 6405.836349170586,
       },
@@ -21192,7 +21192,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 723,
+        ["rank_raids"] = 724,
         ["dps_max"] = 15764.21,
         ["points"] = 6937.104831441688,
       },
@@ -21269,7 +21269,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 870,
+        ["rank_raids"] = 871,
         ["dps_max"] = 14896.91,
         ["points"] = 6555.445933196271,
       },
@@ -21346,7 +21346,7 @@ UWULogsData[3][1] = {
         ["points"] = 4794.355942316333,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1330,
+        ["rank_raids"] = 1331,
         ["dps_max"] = 11905.19,
         ["points"] = 5238.927359393922,
       },
@@ -21371,7 +21371,7 @@ UWULogsData[3][1] = {
         ["points"] = 4673.81920446939,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 978,
+        ["rank_raids"] = 979,
         ["dps_max"] = 12056.67,
         ["points"] = 4058.4415584415583,
       },
@@ -21423,7 +21423,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 697,
+        ["rank_raids"] = 698,
         ["dps_max"] = 15994.64,
         ["points"] = 7038.506491677697,
       },
@@ -21448,7 +21448,7 @@ UWULogsData[3][1] = {
         ["points"] = 4667.48031514687,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1007,
+        ["rank_raids"] = 1008,
         ["dps_max"] = 11854.37,
         ["points"] = 3847.402597402597,
       },
@@ -21485,7 +21485,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Tunam"] = {
-    ["percentile"] = 35.568,
+    ["percentile"] = 35.569,
     ["server"] = "Icecrown",
     ["overall_rank"] = 280,
     ["bosses"] = {
@@ -21500,7 +21500,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 961,
+        ["rank_raids"] = 962,
         ["dps_max"] = 14429.89,
         ["points"] = 6349.931879629369,
       },
@@ -21527,7 +21527,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 307,
         ["dps_max"] = 19026.03,
-        ["points"] = 7933.828494260635,
+        ["points"] = 7935.222672064778,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -21577,7 +21577,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 985,
+        ["rank_raids"] = 986,
         ["dps_max"] = 14295.39,
         ["points"] = 6290.744606697271,
       },
@@ -21602,7 +21602,7 @@ UWULogsData[3][1] = {
         ["points"] = 5869.565217391305,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 852,
+        ["rank_raids"] = 853,
         ["dps_max"] = 13038.89,
         ["points"] = 4983.766233766233,
       },
@@ -21654,7 +21654,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1242,
+        ["rank_raids"] = 1243,
         ["dps_max"] = 12656.73,
         ["points"] = 5569.645598051088,
       },
@@ -21731,7 +21731,7 @@ UWULogsData[3][1] = {
         ["points"] = 8035.019455252918,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 218,
+        ["rank_raids"] = 219,
         ["dps_max"] = 19170.26,
         ["points"] = 9040.333796940195,
       },
@@ -21808,7 +21808,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 219,
+        ["rank_raids"] = 220,
         ["dps_max"] = 19148.51,
         ["points"] = 9026.425591098749,
       },
@@ -21885,7 +21885,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 951,
+        ["rank_raids"] = 952,
         ["dps_max"] = 14489.83,
         ["points"] = 6376.308720815615,
       },
@@ -21910,7 +21910,7 @@ UWULogsData[3][1] = {
         ["points"] = 5802.675585284281,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1171,
+        ["rank_raids"] = 1172,
         ["dps_max"] = 10408.11,
         ["points"] = 2635.4776410901263,
       },
@@ -21962,7 +21962,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1176,
+        ["rank_raids"] = 1177,
         ["dps_max"] = 13177.92,
         ["points"] = 5798.997380798152,
       },
@@ -22039,7 +22039,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1223,
+        ["rank_raids"] = 1224,
         ["dps_max"] = 12828.41,
         ["points"] = 5645.194081448729,
       },
@@ -22064,7 +22064,7 @@ UWULogsData[3][1] = {
         ["points"] = 4700.423617566292,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1048,
+        ["rank_raids"] = 1049,
         ["dps_max"] = 11541.11,
         ["points"] = 3555.194805194805,
       },
@@ -22101,7 +22101,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Minimurr"] = {
-    ["percentile"] = 34.852,
+    ["percentile"] = 34.854,
     ["server"] = "Icecrown",
     ["overall_rank"] = 288,
     ["bosses"] = {
@@ -22116,7 +22116,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 222,
+        ["rank_raids"] = 223,
         ["dps_max"] = 19140.72,
         ["points"] = 8984.700973574409,
       },
@@ -22143,7 +22143,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 315,
         ["dps_max"] = 18865.43,
-        ["points"] = 7879.810938555031,
+        ["points"] = 7881.241565452092,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -22193,7 +22193,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1035,
+        ["rank_raids"] = 1036,
         ["dps_max"] = 14051.95,
         ["points"] = 6183.617842960543,
       },
@@ -22218,7 +22218,7 @@ UWULogsData[3][1] = {
         ["points"] = 7224.080267558528,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 878,
+        ["rank_raids"] = 879,
         ["dps_max"] = 12813.14,
         ["points"] = 4756.493506493506,
       },
@@ -22270,7 +22270,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 788,
+        ["rank_raids"] = 789,
         ["dps_max"] = 15411.46,
         ["points"] = 6781.875756893007,
       },
@@ -22295,7 +22295,7 @@ UWULogsData[3][1] = {
         ["points"] = 5618.729096989966,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 810,
+        ["rank_raids"] = 811,
         ["dps_max"] = 13353.78,
         ["points"] = 5275.9740259740265,
       },
@@ -22347,7 +22347,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 674,
+        ["rank_raids"] = 675,
         ["dps_max"] = 16153.94,
         ["points"] = 7108.607105641141,
       },
@@ -22409,9 +22409,9 @@ UWULogsData[3][1] = {
     },
   },
   ["Itan"] = {
-    ["percentile"] = 34.543,
+    ["percentile"] = 34.545,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7749,
+    ["overall_rank"] = 7750,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -22501,7 +22501,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 935,
+        ["rank_raids"] = 936,
         ["dps_max"] = 14594.04,
         ["points"] = 6422.16675585096,
       },
@@ -22526,7 +22526,7 @@ UWULogsData[3][1] = {
         ["points"] = 5217.391304347826,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 908,
+        ["rank_raids"] = 909,
         ["dps_max"] = 12558.72,
         ["points"] = 4561.688311688312,
       },
@@ -22578,7 +22578,7 @@ UWULogsData[3][1] = {
         ["points"] = 2636.199579359438,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1216,
+        ["rank_raids"] = 1217,
         ["dps_max"] = 12869.49,
         ["points"] = 5663.271502802264,
       },
@@ -22603,7 +22603,7 @@ UWULogsData[3][1] = {
         ["points"] = 4562.959599041597,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1001,
+        ["rank_raids"] = 1002,
         ["dps_max"] = 11872.14,
         ["points"] = 3896.103896103896,
       },
@@ -22655,7 +22655,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 236,
+        ["rank_raids"] = 237,
         ["dps_max"] = 18993.53,
         ["points"] = 8915.159944367177,
       },
@@ -22732,7 +22732,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1085,
+        ["rank_raids"] = 1086,
         ["dps_max"] = 13798.72,
         ["points"] = 6072.182949840876,
       },
@@ -22809,7 +22809,7 @@ UWULogsData[3][1] = {
         ["points"] = 3207.918502476666,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1543,
+        ["rank_raids"] = 1544,
         ["dps_max"] = 9774.68,
         ["points"] = 4301.387754527276,
       },
@@ -22834,7 +22834,7 @@ UWULogsData[3][1] = {
         ["points"] = 3616.705338622048,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1266,
+        ["rank_raids"] = 1267,
         ["dps_max"] = 9152.22,
         ["points"] = 2317.4688945771973,
       },
@@ -22886,7 +22886,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 632,
+        ["rank_raids"] = 633,
         ["dps_max"] = 16445.49,
         ["points"] = 7236.904870870533,
       },
@@ -22963,7 +22963,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 962,
+        ["rank_raids"] = 963,
         ["dps_max"] = 14412.87,
         ["points"] = 6342.442159292534,
       },
@@ -22988,7 +22988,7 @@ UWULogsData[3][1] = {
         ["points"] = 4511.63824810129,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1034,
+        ["rank_raids"] = 1035,
         ["dps_max"] = 11663.51,
         ["points"] = 3668.8311688311687,
       },
@@ -23040,7 +23040,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 890,
+        ["rank_raids"] = 891,
         ["dps_max"] = 14796.41,
         ["points"] = 6511.22049877489,
       },
@@ -23117,7 +23117,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1331,
+        ["rank_raids"] = 1332,
         ["dps_max"] = 11895.14,
         ["points"] = 5234.504815951784,
       },
@@ -23142,7 +23142,7 @@ UWULogsData[3][1] = {
         ["points"] = 4340.705840056577,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1013,
+        ["rank_raids"] = 1014,
         ["dps_max"] = 11780.14,
         ["points"] = 3814.935064935065,
       },
@@ -23194,7 +23194,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1017,
+        ["rank_raids"] = 1018,
         ["dps_max"] = 14113.43,
         ["points"] = 6210.672367420509,
       },
@@ -23219,7 +23219,7 @@ UWULogsData[3][1] = {
         ["points"] = 5585.284280936455,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 760,
+        ["rank_raids"] = 761,
         ["dps_max"] = 13796.62,
         ["points"] = 5454.545454545454,
       },
@@ -23271,7 +23271,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 824,
+        ["rank_raids"] = 825,
         ["dps_max"] = 15211.77,
         ["points"] = 6694.001358886981,
       },
@@ -23296,7 +23296,7 @@ UWULogsData[3][1] = {
         ["points"] = 5200.66889632107,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1041,
+        ["rank_raids"] = 1042,
         ["dps_max"] = 11630.54,
         ["points"] = 3603.896103896104,
       },
@@ -23348,7 +23348,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 858,
+        ["rank_raids"] = 859,
         ["dps_max"] = 14995.7,
         ["points"] = 6598.918875151379,
       },
@@ -23425,7 +23425,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1062,
+        ["rank_raids"] = 1063,
         ["dps_max"] = 13936.88,
         ["points"] = 6132.980820683245,
       },
@@ -23450,7 +23450,7 @@ UWULogsData[3][1] = {
         ["points"] = 5819.397993311036,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 938,
+        ["rank_raids"] = 939,
         ["dps_max"] = 12366.36,
         ["points"] = 4350.649350649351,
       },
@@ -23502,7 +23502,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 578,
+        ["rank_raids"] = 579,
         ["dps_max"] = 16773.99,
         ["points"] = 7381.462634128483,
       },
@@ -23579,7 +23579,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 879,
+        ["rank_raids"] = 880,
         ["dps_max"] = 14845.45,
         ["points"] = 6532.800750556229,
       },
@@ -23656,7 +23656,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1273,
+        ["rank_raids"] = 1274,
         ["dps_max"] = 12430.71,
         ["points"] = 5470.184576280733,
       },
@@ -23681,7 +23681,7 @@ UWULogsData[3][1] = {
         ["points"] = 3809.5636810024907,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1138,
+        ["rank_raids"] = 1139,
         ["dps_max"] = 10669.69,
         ["points"] = 2824.6753246753246,
       },
@@ -23733,7 +23733,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1109,
+        ["rank_raids"] = 1110,
         ["dps_max"] = 13654.7,
         ["points"] = 6008.806362125778,
       },
@@ -23758,7 +23758,7 @@ UWULogsData[3][1] = {
         ["points"] = 5183.946488294314,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 858,
+        ["rank_raids"] = 859,
         ["dps_max"] = 12985.74,
         ["points"] = 4918.831168831169,
       },
@@ -23810,7 +23810,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1058,
+        ["rank_raids"] = 1059,
         ["dps_max"] = 13952.42,
         ["points"] = 6139.819260990791,
       },
@@ -23835,7 +23835,7 @@ UWULogsData[3][1] = {
         ["points"] = 5652.173913043478,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 969,
+        ["rank_raids"] = 970,
         ["dps_max"] = 12131.0,
         ["points"] = 4123.376623376624,
       },
@@ -23887,7 +23887,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 889,
+        ["rank_raids"] = 890,
         ["dps_max"] = 14799.23,
         ["points"] = 6512.461451263131,
       },
@@ -23912,7 +23912,7 @@ UWULogsData[3][1] = {
         ["points"] = 4724.123494809443,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 911,
+        ["rank_raids"] = 912,
         ["dps_max"] = 12536.95,
         ["points"] = 4512.987012987013,
       },
@@ -23964,7 +23964,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1045,
+        ["rank_raids"] = 1046,
         ["dps_max"] = 14003.94,
         ["points"] = 6162.490846875265,
       },
@@ -24041,7 +24041,7 @@ UWULogsData[3][1] = {
         ["points"] = 4367.329176365093,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1395,
+        ["rank_raids"] = 1396,
         ["dps_max"] = 11336.07,
         ["points"] = 4988.483784887487,
       },
@@ -24066,7 +24066,7 @@ UWULogsData[3][1] = {
         ["points"] = 4328.941050694558,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1130,
+        ["rank_raids"] = 1131,
         ["dps_max"] = 10731.15,
         ["points"] = 2873.3766233766232,
       },
@@ -24118,7 +24118,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1175,
+        ["rank_raids"] = 1176,
         ["dps_max"] = 13189.35,
         ["points"] = 5804.027198862196,
       },
@@ -24143,7 +24143,7 @@ UWULogsData[3][1] = {
         ["points"] = 4653.482722978711,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 981,
+        ["rank_raids"] = 982,
         ["dps_max"] = 12045.71,
         ["points"] = 4025.974025974026,
       },
@@ -24195,7 +24195,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 528,
+        ["rank_raids"] = 529,
         ["dps_max"] = 17033.54,
         ["points"] = 7524.3393602225315,
       },
@@ -24272,7 +24272,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 278,
+        ["rank_raids"] = 279,
         ["dps_max"] = 18644.34,
         ["points"] = 8678.720445062587,
       },
@@ -24349,7 +24349,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1211,
+        ["rank_raids"] = 1212,
         ["dps_max"] = 12893.84,
         ["points"] = 5673.986819500381,
       },
@@ -24411,7 +24411,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Disarminmage"] = {
-    ["percentile"] = 32.385,
+    ["percentile"] = 32.386,
     ["server"] = "Icecrown",
     ["overall_rank"] = 318,
     ["bosses"] = {
@@ -24453,7 +24453,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 188,
         ["dps_max"] = 24168.68,
-        ["points"] = 8737.339635381499,
+        ["points"] = 8738.191632928474,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -24503,7 +24503,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 808,
+        ["rank_raids"] = 809,
         ["dps_max"] = 15284.89,
         ["points"] = 6726.178112766496,
       },
@@ -24528,7 +24528,7 @@ UWULogsData[3][1] = {
         ["points"] = 5117.056856187291,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1022,
+        ["rank_raids"] = 1023,
         ["dps_max"] = 11736.62,
         ["points"] = 3733.7662337662337,
       },
@@ -24580,7 +24580,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 814,
+        ["rank_raids"] = 815,
         ["dps_max"] = 15254.9,
         ["points"] = 6712.980891091897,
       },
@@ -24605,7 +24605,7 @@ UWULogsData[3][1] = {
         ["points"] = 4191.609486573618,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1290,
+        ["rank_raids"] = 1291,
         ["dps_max"] = 8831.77,
         ["points"] = 2236.3265152127087,
       },
@@ -24657,7 +24657,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1096,
+        ["rank_raids"] = 1097,
         ["dps_max"] = 13728.9,
         ["points"] = 6041.458374405047,
       },
@@ -24682,7 +24682,7 @@ UWULogsData[3][1] = {
         ["points"] = 4532.192333255281,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 748,
+        ["rank_raids"] = 749,
         ["dps_max"] = 13883.81,
         ["points"] = 5519.480519480519,
       },
@@ -24734,7 +24734,7 @@ UWULogsData[3][1] = {
         ["points"] = 2855.1014742910165,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1345,
+        ["rank_raids"] = 1346,
         ["dps_max"] = 11762.67,
         ["points"] = 5176.210852789591,
       },
@@ -24759,7 +24759,7 @@ UWULogsData[3][1] = {
         ["points"] = 3584.7081390865856,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1165,
+        ["rank_raids"] = 1166,
         ["dps_max"] = 10465.63,
         ["points"] = 2650.0425019453155,
       },
@@ -24811,7 +24811,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1357,
+        ["rank_raids"] = 1358,
         ["dps_max"] = 11671.17,
         ["points"] = 5135.9459050328105,
       },
@@ -24836,7 +24836,7 @@ UWULogsData[3][1] = {
         ["points"] = 7173.91304347826,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1012,
+        ["rank_raids"] = 1013,
         ["dps_max"] = 11785.64,
         ["points"] = 3831.1688311688313,
       },
@@ -24888,7 +24888,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1119,
+        ["rank_raids"] = 1120,
         ["dps_max"] = 13591.0,
         ["points"] = 5980.774917621877,
       },
@@ -24965,7 +24965,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 999,
+        ["rank_raids"] = 1000,
         ["dps_max"] = 14223.43,
         ["points"] = 6259.078315543414,
       },
@@ -24990,7 +24990,7 @@ UWULogsData[3][1] = {
         ["points"] = 4744.6728494490135,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 735,
+        ["rank_raids"] = 736,
         ["dps_max"] = 13995.33,
         ["points"] = 5568.181818181818,
       },
@@ -25042,7 +25042,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 915,
+        ["rank_raids"] = 916,
         ["dps_max"] = 14687.6,
         ["points"] = 6463.33821499986,
       },
@@ -25067,7 +25067,7 @@ UWULogsData[3][1] = {
         ["points"] = 3437.31950130917,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 834,
+        ["rank_raids"] = 835,
         ["dps_max"] = 13198.82,
         ["points"] = 5129.87012987013,
       },
@@ -25119,7 +25119,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 897,
+        ["rank_raids"] = 898,
         ["dps_max"] = 14760.92,
         ["points"] = 6495.602979694145,
       },
@@ -25144,7 +25144,7 @@ UWULogsData[3][1] = {
         ["points"] = 5903.010033444816,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1180,
+        ["rank_raids"] = 1181,
         ["dps_max"] = 10333.41,
         ["points"] = 2616.5625662312486,
       },
@@ -25196,7 +25196,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 775,
+        ["rank_raids"] = 776,
         ["dps_max"] = 15496.65,
         ["points"] = 6819.363963443828,
       },
@@ -25273,7 +25273,7 @@ UWULogsData[3][1] = {
         ["points"] = 3182.315142816301,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1351,
+        ["rank_raids"] = 1352,
         ["dps_max"] = 11724.68,
         ["points"] = 5159.493198524236,
       },
@@ -25298,7 +25298,7 @@ UWULogsData[3][1] = {
         ["points"] = 3683.348825768058,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1220,
+        ["rank_raids"] = 1221,
         ["dps_max"] = 9667.08,
         ["points"] = 2447.8385792069394,
       },
@@ -25350,7 +25350,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 978,
+        ["rank_raids"] = 979,
         ["dps_max"] = 14328.46,
         ["points"] = 6305.297194919312,
       },
@@ -25375,7 +25375,7 @@ UWULogsData[3][1] = {
         ["points"] = 4232.220952867519,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 885,
+        ["rank_raids"] = 886,
         ["dps_max"] = 12774.75,
         ["points"] = 4707.792207792208,
       },
@@ -25427,7 +25427,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1083,
+        ["rank_raids"] = 1084,
         ["dps_max"] = 13809.97,
         ["points"] = 6077.133558171628,
       },
@@ -25452,7 +25452,7 @@ UWULogsData[3][1] = {
         ["points"] = 4606.272189069201,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1274,
+        ["rank_raids"] = 1275,
         ["dps_max"] = 9023.65,
         ["points"] = 2284.913189428524,
       },
@@ -25504,7 +25504,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1170,
+        ["rank_raids"] = 1171,
         ["dps_max"] = 13215.92,
         ["points"] = 5815.719435604247,
       },
@@ -25529,7 +25529,7 @@ UWULogsData[3][1] = {
         ["points"] = 4361.742437681386,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 906,
+        ["rank_raids"] = 907,
         ["dps_max"] = 12572.03,
         ["points"] = 4594.155844155844,
       },
@@ -25581,7 +25581,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 407,
+        ["rank_raids"] = 408,
         ["dps_max"] = 17874.89,
         ["points"] = 8080.667593880389,
       },
@@ -25658,7 +25658,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1254,
+        ["rank_raids"] = 1255,
         ["dps_max"] = 12584.5,
         ["points"] = 5537.860492297294,
       },
@@ -25683,7 +25683,7 @@ UWULogsData[3][1] = {
         ["points"] = 4725.3486980441685,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 847,
+        ["rank_raids"] = 848,
         ["dps_max"] = 13084.65,
         ["points"] = 5048.7012987012995,
       },
@@ -25735,7 +25735,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1399,
+        ["rank_raids"] = 1400,
         ["dps_max"] = 11295.64,
         ["points"] = 4970.69239868195,
       },
@@ -25760,7 +25760,7 @@ UWULogsData[3][1] = {
         ["points"] = 4155.4163207478005,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1170,
+        ["rank_raids"] = 1171,
         ["dps_max"] = 10418.88,
         ["points"] = 2638.204754292671,
       },
@@ -25812,7 +25812,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 594,
+        ["rank_raids"] = 595,
         ["dps_max"] = 16697.57,
         ["points"] = 7347.833701805277,
       },
@@ -25889,7 +25889,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1221,
+        ["rank_raids"] = 1222,
         ["dps_max"] = 12834.24,
         ["points"] = 5647.759596699242,
       },
@@ -25914,7 +25914,7 @@ UWULogsData[3][1] = {
         ["points"] = 5050.167224080267,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 842,
+        ["rank_raids"] = 843,
         ["dps_max"] = 13147.81,
         ["points"] = 5081.16883116883,
       },
@@ -25966,7 +25966,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 555,
+        ["rank_raids"] = 556,
         ["dps_max"] = 16922.08,
         ["points"] = 7446.630241924128,
       },
@@ -25991,7 +25991,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1209,
+        ["rank_raids"] = 1210,
         ["dps_max"] = 9832.01,
         ["points"] = 2489.6011400700545,
       },
@@ -26043,7 +26043,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 974,
+        ["rank_raids"] = 975,
         ["dps_max"] = 14353.34,
         ["points"] = 6316.245740276565,
       },
@@ -26068,7 +26068,7 @@ UWULogsData[3][1] = {
         ["points"] = 3957.8038113754687,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 892,
+        ["rank_raids"] = 893,
         ["dps_max"] = 12682.74,
         ["points"] = 4675.324675324675,
       },
@@ -26120,7 +26120,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 896,
+        ["rank_raids"] = 897,
         ["dps_max"] = 14764.3,
         ["points"] = 6497.0903624637385,
       },
@@ -26145,7 +26145,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 781,
+        ["rank_raids"] = 782,
         ["dps_max"] = 13632.01,
         ["points"] = 5340.909090909091,
       },
@@ -26197,7 +26197,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1339,
+        ["rank_raids"] = 1340,
         ["dps_max"] = 11817.29,
         ["points"] = 5200.246606302982,
       },
@@ -26222,7 +26222,7 @@ UWULogsData[3][1] = {
         ["points"] = 4397.926142478364,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1154,
+        ["rank_raids"] = 1155,
         ["dps_max"] = 10552.27,
         ["points"] = 2694.805194805195,
       },
@@ -26274,7 +26274,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1136,
+        ["rank_raids"] = 1137,
         ["dps_max"] = 13462.32,
         ["points"] = 5924.148759399554,
       },
@@ -26299,7 +26299,7 @@ UWULogsData[3][1] = {
         ["points"] = 5133.779264214047,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1018,
+        ["rank_raids"] = 1019,
         ["dps_max"] = 11758.82,
         ["points"] = 3766.2337662337663,
       },
@@ -26351,7 +26351,7 @@ UWULogsData[3][1] = {
         ["points"] = 3132.9476892333673,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1519,
+        ["rank_raids"] = 1520,
         ["dps_max"] = 9983.05,
         ["points"] = 4393.081821894274,
       },
@@ -26376,7 +26376,7 @@ UWULogsData[3][1] = {
         ["points"] = 2610.5864182200494,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1258,
+        ["rank_raids"] = 1259,
         ["dps_max"] = 9259.85,
         ["points"] = 2344.7223016329003,
       },
@@ -26428,7 +26428,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 877,
+        ["rank_raids"] = 878,
         ["dps_max"] = 14859.33,
         ["points"] = 6538.908701101192,
       },
@@ -26453,7 +26453,7 @@ UWULogsData[3][1] = {
         ["points"] = 5317.725752508361,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 733,
+        ["rank_raids"] = 734,
         ["dps_max"] = 14007.75,
         ["points"] = 5584.415584415584,
       },
@@ -26505,7 +26505,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1111,
+        ["rank_raids"] = 1112,
         ["dps_max"] = 13628.29,
         ["points"] = 5997.184534035542,
       },
@@ -26530,7 +26530,7 @@ UWULogsData[3][1] = {
         ["points"] = 5250.836120401337,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 922,
+        ["rank_raids"] = 923,
         ["dps_max"] = 12473.57,
         ["points"] = 4448.051948051948,
       },
@@ -26582,7 +26582,7 @@ UWULogsData[3][1] = {
         ["points"] = 2722.2011083405573,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1554,
+        ["rank_raids"] = 1555,
         ["dps_max"] = 9637.07,
         ["points"] = 4240.831913425522,
       },
@@ -26607,7 +26607,7 @@ UWULogsData[3][1] = {
         ["points"] = 4247.349137982011,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1444,
+        ["rank_raids"] = 1445,
         ["dps_max"] = 4440.96,
         ["points"] = 1124.5125949836815,
       },
@@ -26659,7 +26659,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1063,
+        ["rank_raids"] = 1064,
         ["dps_max"] = 13936.34,
         ["points"] = 6132.74319148337,
       },
@@ -26684,7 +26684,7 @@ UWULogsData[3][1] = {
         ["points"] = 4658.085513509166,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 961,
+        ["rank_raids"] = 962,
         ["dps_max"] = 12207.11,
         ["points"] = 4172.077922077922,
       },
@@ -26736,7 +26736,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1198,
+        ["rank_raids"] = 1199,
         ["dps_max"] = 12997.59,
         ["points"] = 5719.642429661756,
       },
@@ -26761,7 +26761,7 @@ UWULogsData[3][1] = {
         ["points"] = 4277.260180658346,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 848,
+        ["rank_raids"] = 849,
         ["dps_max"] = 13078.46,
         ["points"] = 5032.467532467533,
       },
@@ -26813,7 +26813,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 956,
+        ["rank_raids"] = 957,
         ["dps_max"] = 14467.23,
         ["points"] = 6366.363498746726,
       },
@@ -26838,7 +26838,7 @@ UWULogsData[3][1] = {
         ["points"] = 3776.440619035117,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 936,
+        ["rank_raids"] = 937,
         ["dps_max"] = 12380.6,
         ["points"] = 4366.883116883117,
       },
@@ -26890,7 +26890,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1460,
+        ["rank_raids"] = 1461,
         ["dps_max"] = 10530.33,
         ["points"] = 4633.914615427943,
       },
@@ -26915,7 +26915,7 @@ UWULogsData[3][1] = {
         ["points"] = 3461.5350046240783,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1228,
+        ["rank_raids"] = 1229,
         ["dps_max"] = 9607.96,
         ["points"] = 2432.868576186098,
       },
@@ -26967,7 +26967,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1289,
+        ["rank_raids"] = 1290,
         ["dps_max"] = 12246.33,
         ["points"] = 5389.047406145268,
       },
@@ -26992,7 +26992,7 @@ UWULogsData[3][1] = {
         ["points"] = 5953.177257525084,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1024,
+        ["rank_raids"] = 1025,
         ["dps_max"] = 11709.16,
         ["points"] = 3717.5324675324678,
       },
@@ -27044,7 +27044,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1106,
+        ["rank_raids"] = 1107,
         ["dps_max"] = 13674.16,
         ["points"] = 6017.369814402794,
       },
@@ -27121,7 +27121,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 777,
+        ["rank_raids"] = 778,
         ["dps_max"] = 15488.54,
         ["points"] = 6815.795124904948,
       },
@@ -27146,7 +27146,7 @@ UWULogsData[3][1] = {
         ["points"] = 4762.823833277749,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1340,
+        ["rank_raids"] = 1341,
         ["dps_max"] = 7940.15,
         ["points"] = 2010.5559791260628,
       },
@@ -27198,7 +27198,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 791,
+        ["rank_raids"] = 792,
         ["dps_max"] = 15395.57,
         ["points"] = 6774.883297659616,
       },
@@ -27223,7 +27223,7 @@ UWULogsData[3][1] = {
         ["points"] = 5685.618729096989,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 872,
+        ["rank_raids"] = 873,
         ["dps_max"] = 12907.99,
         ["points"] = 4821.428571428572,
       },
@@ -27275,7 +27275,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 924,
+        ["rank_raids"] = 925,
         ["dps_max"] = 14649.89,
         ["points"] = 6446.7437758751785,
       },
@@ -27300,7 +27300,7 @@ UWULogsData[3][1] = {
         ["points"] = 5150.501672240803,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1396,
+        ["rank_raids"] = 1397,
         ["dps_max"] = 6928.63,
         ["points"] = 1754.4251020008708,
       },
@@ -27352,7 +27352,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1214,
+        ["rank_raids"] = 1215,
         ["dps_max"] = 12875.37,
         ["points"] = 5665.859020756471,
       },
@@ -27377,7 +27377,7 @@ UWULogsData[3][1] = {
         ["points"] = 3828.7080728593837,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 775,
+        ["rank_raids"] = 776,
         ["dps_max"] = 13674.63,
         ["points"] = 5373.376623376624,
       },
@@ -27454,7 +27454,7 @@ UWULogsData[3][1] = {
         ["points"] = 7157.190635451505,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 838,
+        ["rank_raids"] = 839,
         ["dps_max"] = 13174.41,
         ["points"] = 5097.402597402597,
       },
@@ -27506,7 +27506,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1012,
+        ["rank_raids"] = 1013,
         ["dps_max"] = 14128.75,
         ["points"] = 6217.413995831807,
       },
@@ -27583,7 +27583,7 @@ UWULogsData[3][1] = {
         ["points"] = 3986.210873524379,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1350,
+        ["rank_raids"] = 1351,
         ["dps_max"] = 11728.31,
         ["points"] = 5161.090594812291,
       },
@@ -27608,7 +27608,7 @@ UWULogsData[3][1] = {
         ["points"] = 2616.6414766773814,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1120,
+        ["rank_raids"] = 1121,
         ["dps_max"] = 10801.59,
         ["points"] = 2954.5454545454545,
       },
@@ -27660,7 +27660,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1144,
+        ["rank_raids"] = 1145,
         ["dps_max"] = 13415.03,
         ["points"] = 5903.338602247444,
       },
@@ -27685,7 +27685,7 @@ UWULogsData[3][1] = {
         ["points"] = 3999.645211418516,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 995,
+        ["rank_raids"] = 996,
         ["dps_max"] = 11927.45,
         ["points"] = 3944.805194805195,
       },
@@ -27737,7 +27737,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 831,
+        ["rank_raids"] = 832,
         ["dps_max"] = 15153.58,
         ["points"] = 6668.394612329963,
       },
@@ -27762,7 +27762,7 @@ UWULogsData[3][1] = {
         ["points"] = 3953.2483259892097,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1074,
+        ["rank_raids"] = 1075,
         ["dps_max"] = 11342.47,
         ["points"] = 3344.155844155844,
       },
@@ -27814,7 +27814,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1181,
+        ["rank_raids"] = 1182,
         ["dps_max"] = 13153.6,
         ["points"] = 5788.295265722252,
       },
@@ -27839,7 +27839,7 @@ UWULogsData[3][1] = {
         ["points"] = 4189.693628233602,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 783,
+        ["rank_raids"] = 784,
         ["dps_max"] = 13621.51,
         ["points"] = 5324.675324675324,
       },
@@ -27891,7 +27891,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1036,
+        ["rank_raids"] = 1037,
         ["dps_max"] = 14050.7,
         ["points"] = 6183.067775368238,
       },
@@ -27916,7 +27916,7 @@ UWULogsData[3][1] = {
         ["points"] = 4933.110367892977,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 828,
+        ["rank_raids"] = 829,
         ["dps_max"] = 13227.64,
         ["points"] = 5162.337662337663,
       },
@@ -27968,7 +27968,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1200,
+        ["rank_raids"] = 1201,
         ["dps_max"] = 12994.21,
         ["points"] = 5718.155046892161,
       },
@@ -27993,7 +27993,7 @@ UWULogsData[3][1] = {
         ["points"] = 4435.448582856143,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1065,
+        ["rank_raids"] = 1066,
         ["dps_max"] = 11422.42,
         ["points"] = 3425.3246753246754,
       },
@@ -28045,7 +28045,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 794,
+        ["rank_raids"] = 795,
         ["dps_max"] = 15368.26,
         ["points"] = 6762.86542090292,
       },
@@ -28122,7 +28122,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1463,
+        ["rank_raids"] = 1464,
         ["dps_max"] = 10506.87,
         ["points"] = 4623.59094685555,
       },
@@ -28147,7 +28147,7 @@ UWULogsData[3][1] = {
         ["points"] = 4601.238921726544,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 903,
+        ["rank_raids"] = 904,
         ["dps_max"] = 12594.65,
         ["points"] = 4610.38961038961,
       },
@@ -28199,7 +28199,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1174,
+        ["rank_raids"] = 1175,
         ["dps_max"] = 13196.85,
         ["points"] = 5807.32760441603,
       },
@@ -28224,7 +28224,7 @@ UWULogsData[3][1] = {
         ["points"] = 5000.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 873,
+        ["rank_raids"] = 874,
         ["dps_max"] = 12891.39,
         ["points"] = 4805.194805194805,
       },
@@ -28276,7 +28276,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1064,
+        ["rank_raids"] = 1065,
         ["dps_max"] = 13926.91,
         ["points"] = 6128.593481567015,
       },
@@ -28301,7 +28301,7 @@ UWULogsData[3][1] = {
         ["points"] = 4101.029596463467,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 895,
+        ["rank_raids"] = 896,
         ["dps_max"] = 12669.3,
         ["points"] = 4642.857142857143,
       },
@@ -28353,7 +28353,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1420,
+        ["rank_raids"] = 1421,
         ["dps_max"] = 11119.56,
         ["points"] = 4893.2076773593935,
       },
@@ -28378,7 +28378,7 @@ UWULogsData[3][1] = {
         ["points"] = 3894.8832390778343,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 867,
+        ["rank_raids"] = 868,
         ["dps_max"] = 12937.72,
         ["points"] = 4853.896103896103,
       },
@@ -28430,7 +28430,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1158,
+        ["rank_raids"] = 1159,
         ["dps_max"] = 13320.69,
         ["points"] = 5861.823900920945,
       },
@@ -28455,7 +28455,7 @@ UWULogsData[3][1] = {
         ["points"] = 3538.5241268061695,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 988,
+        ["rank_raids"] = 989,
         ["dps_max"] = 11982.33,
         ["points"] = 3977.272727272727,
       },
@@ -28507,7 +28507,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1464,
+        ["rank_raids"] = 1465,
         ["dps_max"] = 10483.71,
         ["points"] = 4613.399294505309,
       },
@@ -28532,7 +28532,7 @@ UWULogsData[3][1] = {
         ["points"] = 3950.1025339000494,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 823,
+        ["rank_raids"] = 824,
         ["dps_max"] = 13253.52,
         ["points"] = 5178.571428571429,
       },
@@ -28584,7 +28584,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1117,
+        ["rank_raids"] = 1118,
         ["dps_max"] = 13603.89,
         ["points"] = 5986.447214633735,
       },
@@ -28609,7 +28609,7 @@ UWULogsData[3][1] = {
         ["points"] = 3998.1314468041833,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 953,
+        ["rank_raids"] = 954,
         ["dps_max"] = 12259.21,
         ["points"] = 4204.545454545455,
       },
@@ -28661,7 +28661,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1087,
+        ["rank_raids"] = 1088,
         ["dps_max"] = 13785.59,
         ["points"] = 6066.405039851297,
       },
@@ -28686,7 +28686,7 @@ UWULogsData[3][1] = {
         ["points"] = 4625.922745969011,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1360,
+        ["rank_raids"] = 1361,
         ["dps_max"] = 7696.57,
         ["points"] = 1948.878148682617,
       },
@@ -28738,7 +28738,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1054,
+        ["rank_raids"] = 1055,
         ["dps_max"] = 13975.42,
         ["points"] = 6149.940504689216,
       },
@@ -28763,7 +28763,7 @@ UWULogsData[3][1] = {
         ["points"] = 4672.967711873828,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1379,
+        ["rank_raids"] = 1380,
         ["dps_max"] = 7433.96,
         ["points"] = 1882.381658606448,
       },
@@ -28815,7 +28815,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 932,
+        ["rank_raids"] = 933,
         ["dps_max"] = 14610.89,
         ["points"] = 6429.58166699524,
       },
@@ -28840,7 +28840,7 @@ UWULogsData[3][1] = {
         ["points"] = 4451.910773037014,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1259,
+        ["rank_raids"] = 1260,
         ["dps_max"] = 9246.21,
         ["points"] = 2341.2684646707166,
       },
@@ -28892,7 +28892,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1310,
+        ["rank_raids"] = 1311,
         ["dps_max"] = 12045.85,
         ["points"] = 5300.825365420904,
       },
@@ -28917,7 +28917,7 @@ UWULogsData[3][1] = {
         ["points"] = 4044.315459084599,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 859,
+        ["rank_raids"] = 860,
         ["dps_max"] = 12979.31,
         ["points"] = 4902.597402597403,
       },
@@ -28971,7 +28971,7 @@ UWULogsData[3][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 16,
         ["dps_max"] = 21727.89,
-        ["points"] = 9912.790697674418,
+        ["points"] = 9912.841371295759,
       },
       ["Festergut"] = {
         ["rank_raids"] = 311,
@@ -29046,7 +29046,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1179,
+        ["rank_raids"] = 1180,
         ["dps_max"] = 13162.42,
         ["points"] = 5792.176542653561,
       },
@@ -29071,7 +29071,7 @@ UWULogsData[3][1] = {
         ["points"] = 6120.401337792642,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 929,
+        ["rank_raids"] = 930,
         ["dps_max"] = 12400.44,
         ["points"] = 4415.584415584415,
       },
@@ -29123,7 +29123,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1029,
+        ["rank_raids"] = 1030,
         ["dps_max"] = 14065.46,
         ["points"] = 6189.562973498183,
       },
@@ -29200,7 +29200,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 796,
+        ["rank_raids"] = 797,
         ["dps_max"] = 15365.3,
         ["points"] = 6761.56286084434,
       },
@@ -29225,7 +29225,7 @@ UWULogsData[3][1] = {
         ["points"] = 4538.744095726691,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1369,
+        ["rank_raids"] = 1370,
         ["dps_max"] = 7574.47,
         ["points"] = 1917.9607371662992,
       },
@@ -29277,7 +29277,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1251,
+        ["rank_raids"] = 1252,
         ["dps_max"] = 12595.59,
         ["points"] = 5542.74069197623,
       },
@@ -29302,7 +29302,7 @@ UWULogsData[3][1] = {
         ["points"] = 4109.729012481463,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1071,
+        ["rank_raids"] = 1072,
         ["dps_max"] = 11356.81,
         ["points"] = 3376.6233766233768,
       },
@@ -29379,7 +29379,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 850,
+        ["rank_raids"] = 851,
         ["dps_max"] = 13068.95,
         ["points"] = 5000.0,
       },
@@ -29431,7 +29431,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 989,
+        ["rank_raids"] = 990,
         ["dps_max"] = 14277.06,
         ["points"] = 6282.678415523699,
       },
@@ -29456,7 +29456,7 @@ UWULogsData[3][1] = {
         ["points"] = 0.08514925955623044,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 933,
+        ["rank_raids"] = 934,
         ["dps_max"] = 12389.19,
         ["points"] = 4383.116883116883,
       },
@@ -29508,7 +29508,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1302,
+        ["rank_raids"] = 1303,
         ["dps_max"] = 12145.76,
         ["points"] = 5344.791167938716,
       },
@@ -29533,7 +29533,7 @@ UWULogsData[3][1] = {
         ["points"] = 3571.26874761996,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 998,
+        ["rank_raids"] = 999,
         ["dps_max"] = 11895.97,
         ["points"] = 3928.5714285714284,
       },
@@ -29585,7 +29585,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1190,
+        ["rank_raids"] = 1191,
         ["dps_max"] = 13080.03,
         ["points"] = 5755.920487509506,
       },
@@ -29610,7 +29610,7 @@ UWULogsData[3][1] = {
         ["points"] = 4660.677835411213,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1082,
+        ["rank_raids"] = 1083,
         ["dps_max"] = 11269.62,
         ["points"] = 3279.2207792207796,
       },
@@ -29662,7 +29662,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1371,
+        ["rank_raids"] = 1372,
         ["dps_max"] = 11581.44,
         ["points"] = 5096.459852986735,
       },
@@ -29687,7 +29687,7 @@ UWULogsData[3][1] = {
         ["points"] = 4193.567919543411,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1237,
+        ["rank_raids"] = 1238,
         ["dps_max"] = 9525.88,
         ["points"] = 2412.0847830881507,
       },
@@ -29739,7 +29739,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1139,
+        ["rank_raids"] = 1140,
         ["dps_max"] = 13444.3,
         ["points"] = 5916.2189849888755,
       },
@@ -29764,7 +29764,7 @@ UWULogsData[3][1] = {
         ["points"] = 984.4200507584198,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1030,
+        ["rank_raids"] = 1031,
         ["dps_max"] = 11673.86,
         ["points"] = 3685.064935064935,
       },
@@ -29816,7 +29816,7 @@ UWULogsData[3][1] = {
         ["points"] = 4134.005876868721,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1474,
+        ["rank_raids"] = 1475,
         ["dps_max"] = 10374.41,
         ["points"] = 4565.301384234094,
       },
@@ -29841,7 +29841,7 @@ UWULogsData[3][1] = {
         ["points"] = 3430.8150439819583,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1472,
+        ["rank_raids"] = 1473,
         ["dps_max"] = 1638.72,
         ["points"] = 414.9466060607749,
       },
@@ -29893,7 +29893,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1298,
+        ["rank_raids"] = 1299,
         ["dps_max"] = 12208.28,
         ["points"] = 5372.303348635481,
       },
@@ -29918,7 +29918,7 @@ UWULogsData[3][1] = {
         ["points"] = 2637.640230186832,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 894,
+        ["rank_raids"] = 895,
         ["dps_max"] = 12671.21,
         ["points"] = 4659.090909090909,
       },
@@ -29970,7 +29970,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 795,
+        ["rank_raids"] = 796,
         ["dps_max"] = 15367.29,
         ["points"] = 6762.438568451292,
       },
@@ -30047,7 +30047,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1250,
+        ["rank_raids"] = 1251,
         ["dps_max"] = 12602.79,
         ["points"] = 5545.909081307911,
       },
@@ -30201,7 +30201,7 @@ UWULogsData[3][1] = {
         ["points"] = 591.6337314506147,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1694,
+        ["rank_raids"] = 1695,
         ["dps_max"] = 6031.49,
         ["points"] = 2654.1817458529304,
       },
@@ -30226,7 +30226,7 @@ UWULogsData[3][1] = {
         ["points"] = 3382.360384780043,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1270,
+        ["rank_raids"] = 1271,
         ["dps_max"] = 9087.31,
         ["points"] = 2301.032783344403,
       },
@@ -30278,7 +30278,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1145,
+        ["rank_raids"] = 1146,
         ["dps_max"] = 13403.18,
         ["points"] = 5898.123961472385,
       },
@@ -30303,7 +30303,7 @@ UWULogsData[3][1] = {
         ["points"] = 3002.746063620689,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1364,
+        ["rank_raids"] = 1365,
         ["dps_max"] = 7634.45,
         ["points"] = 1933.148504101178,
       },
@@ -30355,7 +30355,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1387,
+        ["rank_raids"] = 1388,
         ["dps_max"] = 11394.47,
         ["points"] = 5014.182942800011,
       },
@@ -30380,7 +30380,7 @@ UWULogsData[3][1] = {
         ["points"] = 4426.71605323721,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1211,
+        ["rank_raids"] = 1212,
         ["dps_max"] = 9799.74,
         ["points"] = 2481.4299290165604,
       },
@@ -30432,7 +30432,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1434,
+        ["rank_raids"] = 1435,
         ["dps_max"] = 11001.76,
         ["points"] = 4841.369307460501,
       },
@@ -30457,7 +30457,7 @@ UWULogsData[3][1] = {
         ["points"] = 3417.7777462410154,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 797,
+        ["rank_raids"] = 798,
         ["dps_max"] = 13478.08,
         ["points"] = 5292.207792207792,
       },
@@ -30509,7 +30509,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1317,
+        ["rank_raids"] = 1318,
         ["dps_max"] = 11970.97,
         ["points"] = 5267.874116371419,
       },
@@ -30534,7 +30534,7 @@ UWULogsData[3][1] = {
         ["points"] = 4164.058970592757,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1037,
+        ["rank_raids"] = 1038,
         ["dps_max"] = 11643.0,
         ["points"] = 3652.597402597403,
       },
@@ -30586,7 +30586,7 @@ UWULogsData[3][1] = {
         ["points"] = 1746.0730212891349,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1680,
+        ["rank_raids"] = 1681,
         ["dps_max"] = 7240.51,
         ["points"] = 3186.2159222125215,
       },
@@ -30611,7 +30611,7 @@ UWULogsData[3][1] = {
         ["points"] = 2768.7558983601675,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1408,
+        ["rank_raids"] = 1409,
         ["dps_max"] = 6659.66,
         ["points"] = 1686.3181718162346,
       },
@@ -30690,7 +30690,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 23,
         ["dps_max"] = 34959.72,
-        ["points"] = 9851.451721809588,
+        ["points"] = 9851.551956815114,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -30740,7 +30740,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 819,
+        ["rank_raids"] = 820,
         ["dps_max"] = 15233.25,
         ["points"] = 6703.453720393162,
       },
@@ -30765,7 +30765,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 863,
+        ["rank_raids"] = 864,
         ["dps_max"] = 12952.24,
         ["points"] = 4886.363636363636,
       },
@@ -30817,7 +30817,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1429,
+        ["rank_raids"] = 1430,
         ["dps_max"] = 11036.15,
         ["points"] = 4856.502767060017,
       },
@@ -30842,7 +30842,7 @@ UWULogsData[3][1] = {
         ["points"] = 3565.743506777645,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 875,
+        ["rank_raids"] = 876,
         ["dps_max"] = 12849.55,
         ["points"] = 4788.961038961039,
       },
@@ -30894,7 +30894,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 306,
+        ["rank_raids"] = 307,
         ["dps_max"] = 18546.2,
         ["points"] = 8539.638386648123,
       },
@@ -30971,7 +30971,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1316,
+        ["rank_raids"] = 1317,
         ["dps_max"] = 11983.68,
         ["points"] = 5273.467203649985,
       },
@@ -30996,7 +30996,7 @@ UWULogsData[3][1] = {
         ["points"] = 3141.766421389494,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1245,
+        ["rank_raids"] = 1246,
         ["dps_max"] = 9415.08,
         ["points"] = 2384.02868811675,
       },
@@ -31048,7 +31048,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1107,
+        ["rank_raids"] = 1108,
         ["dps_max"] = 13665.38,
         ["points"] = 6013.506139634438,
       },
@@ -31073,7 +31073,7 @@ UWULogsData[3][1] = {
         ["points"] = 4058.095447589448,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1386,
+        ["rank_raids"] = 1387,
         ["dps_max"] = 7177.96,
         ["points"] = 1817.5589121021283,
       },
@@ -31125,7 +31125,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1215,
+        ["rank_raids"] = 1216,
         ["dps_max"] = 12874.63,
         ["points"] = 5665.533380741825,
       },
@@ -31150,7 +31150,7 @@ UWULogsData[3][1] = {
         ["points"] = 3676.569998604499,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1079,
+        ["rank_raids"] = 1080,
         ["dps_max"] = 11292.59,
         ["points"] = 3311.688311688312,
       },
@@ -31202,7 +31202,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 452,
+        ["rank_raids"] = 453,
         ["dps_max"] = 17451.21,
         ["points"] = 7955.493741307371,
       },
@@ -31279,7 +31279,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1184,
+        ["rank_raids"] = 1185,
         ["dps_max"] = 13131.67,
         ["points"] = 5778.6448798828405,
       },
@@ -31304,7 +31304,7 @@ UWULogsData[3][1] = {
         ["points"] = 5284.280936454849,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1392,
+        ["rank_raids"] = 1393,
         ["dps_max"] = 7040.44,
         ["points"] = 1782.736942964339,
       },
@@ -31356,7 +31356,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 774,
+        ["rank_raids"] = 775,
         ["dps_max"] = 15497.94,
         ["points"] = 6819.931633199088,
       },
@@ -31433,7 +31433,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1142,
+        ["rank_raids"] = 1143,
         ["dps_max"] = 13418.78,
         ["points"] = 5904.988805024362,
       },
@@ -31458,7 +31458,7 @@ UWULogsData[3][1] = {
         ["points"] = 5033.444816053512,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1081,
+        ["rank_raids"] = 1082,
         ["dps_max"] = 11281.3,
         ["points"] = 3295.4545454545455,
       },
@@ -31510,7 +31510,7 @@ UWULogsData[3][1] = {
         ["points"] = 3642.9609543886486,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 820,
+        ["rank_raids"] = 821,
         ["dps_max"] = 15231.67,
         ["points"] = 6702.758434956488,
       },
@@ -31587,7 +31587,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 707,
+        ["rank_raids"] = 708,
         ["dps_max"] = 15898.06,
         ["points"] = 6996.006069225787,
       },
@@ -31664,7 +31664,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1686,
+        ["rank_raids"] = 1687,
         ["dps_max"] = 6846.56,
         ["points"] = 3012.856619821444,
       },
@@ -31689,7 +31689,7 @@ UWULogsData[3][1] = {
         ["points"] = 4882.943143812709,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 966,
+        ["rank_raids"] = 967,
         ["dps_max"] = 12159.28,
         ["points"] = 4139.61038961039,
       },
@@ -31741,7 +31741,7 @@ UWULogsData[3][1] = {
         ["points"] = 3591.1834284596366,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1306,
+        ["rank_raids"] = 1307,
         ["dps_max"] = 12088.66,
         ["points"] = 5319.66408032219,
       },
@@ -31766,7 +31766,7 @@ UWULogsData[3][1] = {
         ["points"] = 2358.2938926693582,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1194,
+        ["rank_raids"] = 1195,
         ["dps_max"] = 10120.7,
         ["points"] = 2562.7014474463513,
       },
@@ -31818,7 +31818,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 244,
+        ["rank_raids"] = 245,
         ["dps_max"] = 18929.57,
         ["points"] = 8873.435326842837,
       },
@@ -31895,7 +31895,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1201,
+        ["rank_raids"] = 1202,
         ["dps_max"] = 12971.03,
         ["points"] = 5707.954593460445,
       },
@@ -31920,7 +31920,7 @@ UWULogsData[3][1] = {
         ["points"] = 3250.601366645616,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1388,
+        ["rank_raids"] = 1389,
         ["dps_max"] = 7085.34,
         ["points"] = 1794.1062449879482,
       },
@@ -31997,7 +31997,7 @@ UWULogsData[3][1] = {
         ["points"] = 7642.140468227425,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1006,
+        ["rank_raids"] = 1007,
         ["dps_max"] = 11860.62,
         ["points"] = 3863.6363636363635,
       },
@@ -32049,7 +32049,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1294,
+        ["rank_raids"] = 1295,
         ["dps_max"] = 12226.9,
         ["points"] = 5380.497155490467,
       },
@@ -32074,7 +32074,7 @@ UWULogsData[3][1] = {
         ["points"] = 4544.378138400661,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1184,
+        ["rank_raids"] = 1185,
         ["dps_max"] = 10218.94,
         ["points"] = 2587.5771764173837,
       },
@@ -32126,7 +32126,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1265,
+        ["rank_raids"] = 1266,
         ["dps_max"] = 12471.99,
         ["points"] = 5488.350008449038,
       },
@@ -32151,7 +32151,7 @@ UWULogsData[3][1] = {
         ["points"] = 4239.075468261796,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 910,
+        ["rank_raids"] = 911,
         ["dps_max"] = 12547.28,
         ["points"] = 4529.220779220779,
       },
@@ -32203,7 +32203,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1388,
+        ["rank_raids"] = 1389,
         ["dps_max"] = 11380.89,
         ["points"] = 5008.207008477201,
       },
@@ -32228,7 +32228,7 @@ UWULogsData[3][1] = {
         ["points"] = 3652.8795823901874,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1125,
+        ["rank_raids"] = 1126,
         ["dps_max"] = 10768.86,
         ["points"] = 2905.844155844156,
       },
@@ -32280,7 +32280,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1074,
+        ["rank_raids"] = 1075,
         ["dps_max"] = 13878.41,
         ["points"] = 6107.250858985552,
       },
@@ -32305,7 +32305,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 877,
+        ["rank_raids"] = 878,
         ["dps_max"] = 12813.95,
         ["points"] = 4772.727272727273,
       },
@@ -32357,7 +32357,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 725,
+        ["rank_raids"] = 726,
         ["dps_max"] = 15760.0,
         ["points"] = 6935.252203790801,
       },
@@ -32382,7 +32382,7 @@ UWULogsData[3][1] = {
         ["points"] = 2925.052094790048,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1434,
+        ["rank_raids"] = 1435,
         ["dps_max"] = 5247.89,
         ["points"] = 1328.8384498146602,
       },
@@ -32434,7 +32434,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1199,
+        ["rank_raids"] = 1200,
         ["dps_max"] = 12996.55,
         ["points"] = 5719.184773424958,
       },
@@ -32459,7 +32459,7 @@ UWULogsData[3][1] = {
         ["points"] = 3161.890029731283,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1175,
+        ["rank_raids"] = 1176,
         ["dps_max"] = 10386.17,
         ["points"] = 2629.922129143623,
       },
@@ -32511,7 +32511,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 990,
+        ["rank_raids"] = 991,
         ["dps_max"] = 14267.83,
         ["points"] = 6278.616716422114,
       },
@@ -32588,7 +32588,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1381,
+        ["rank_raids"] = 1382,
         ["dps_max"] = 11487.98,
         ["points"] = 5055.33239924522,
       },
@@ -32613,7 +32613,7 @@ UWULogsData[3][1] = {
         ["points"] = 3872.7586231364735,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 817,
+        ["rank_raids"] = 818,
         ["dps_max"] = 13305.02,
         ["points"] = 5227.272727272727,
       },
@@ -32665,7 +32665,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1290,
+        ["rank_raids"] = 1291,
         ["dps_max"] = 12240.28,
         ["points"] = 5386.385078998508,
       },
@@ -32690,7 +32690,7 @@ UWULogsData[3][1] = {
         ["points"] = 6153.846153846154,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1176,
+        ["rank_raids"] = 1177,
         ["dps_max"] = 10368.02,
         ["points"] = 2625.3262977020086,
       },
@@ -32742,7 +32742,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1407,
+        ["rank_raids"] = 1408,
         ["dps_max"] = 11202.22,
         ["points"] = 4929.582547103388,
       },
@@ -32767,7 +32767,7 @@ UWULogsData[3][1] = {
         ["points"] = 4225.4705087904795,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1067,
+        ["rank_raids"] = 1068,
         ["dps_max"] = 11381.98,
         ["points"] = 3409.090909090909,
       },
@@ -32819,7 +32819,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1383,
+        ["rank_raids"] = 1384,
         ["dps_max"] = 11465.7,
         ["points"] = 5045.527994479962,
       },
@@ -32844,7 +32844,7 @@ UWULogsData[3][1] = {
         ["points"] = 4582.080338326391,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 882,
+        ["rank_raids"] = 883,
         ["dps_max"] = 12802.5,
         ["points"] = 4740.25974025974,
       },
@@ -32896,7 +32896,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1412,
+        ["rank_raids"] = 1413,
         ["dps_max"] = 11180.69,
         ["points"] = 4920.108182893515,
       },
@@ -32921,7 +32921,7 @@ UWULogsData[3][1] = {
         ["points"] = 3418.5866642067995,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 837,
+        ["rank_raids"] = 838,
         ["dps_max"] = 13178.59,
         ["points"] = 5113.636363636364,
       },
@@ -32973,7 +32973,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1362,
+        ["rank_raids"] = 1363,
         ["dps_max"] = 11628.05,
         ["points"] = 5116.970773368631,
       },
@@ -32998,7 +32998,7 @@ UWULogsData[3][1] = {
         ["points"] = 4539.316487971485,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1161,
+        ["rank_raids"] = 1162,
         ["dps_max"] = 10509.36,
         ["points"] = 2678.5714285714284,
       },
@@ -33050,7 +33050,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1416,
+        ["rank_raids"] = 1417,
         ["dps_max"] = 11157.24,
         ["points"] = 4909.788914861859,
       },
@@ -33075,7 +33075,7 @@ UWULogsData[3][1] = {
         ["points"] = 2493.955585200113,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1132,
+        ["rank_raids"] = 1133,
         ["dps_max"] = 10725.14,
         ["points"] = 2857.142857142857,
       },
@@ -33204,7 +33204,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1050,
+        ["rank_raids"] = 1051,
         ["dps_max"] = 13988.56,
         ["points"] = 6155.722815219534,
       },
@@ -33281,7 +33281,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1616,
+        ["rank_raids"] = 1617,
         ["dps_max"] = 8652.21,
         ["points"] = 3807.4402582589346,
       },
@@ -33306,7 +33306,7 @@ UWULogsData[3][1] = {
         ["points"] = 3568.4351694825054,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 940,
+        ["rank_raids"] = 941,
         ["dps_max"] = 12361.99,
         ["points"] = 4318.181818181818,
       },
@@ -33358,7 +33358,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1100,
+        ["rank_raids"] = 1101,
         ["dps_max"] = 13703.73,
         ["points"] = 6030.382213366379,
       },
@@ -33383,7 +33383,7 @@ UWULogsData[3][1] = {
         ["points"] = 5301.003344481605,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1261,
+        ["rank_raids"] = 1262,
         ["dps_max"] = 9234.64,
         ["points"] = 2338.3387803853457,
       },
@@ -33435,7 +33435,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1469,
+        ["rank_raids"] = 1470,
         ["dps_max"] = 10446.77,
         ["points"] = 4597.14369701749,
       },
@@ -33460,7 +33460,7 @@ UWULogsData[3][1] = {
         ["points"] = 4044.8783903005537,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1189,
+        ["rank_raids"] = 1190,
         ["dps_max"] = 10159.46,
         ["points"] = 2572.5160164092704,
       },
@@ -33497,7 +33497,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Zuksh"] = {
-    ["percentile"] = 25.033,
+    ["percentile"] = 25.019,
     ["server"] = "Icecrown",
     ["overall_rank"] = 436,
     ["bosses"] = {
@@ -33512,9 +33512,9 @@ UWULogsData[3][1] = {
         ["points"] = 9141.414141414141,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 119,
+        ["rank_raids"] = 120,
         ["dps_max"] = 20009.27,
-        ["points"] = 9485.39638386648,
+        ["points"] = 9471.488178025034,
       },
       ["Festergut"] = {
         ["rank_raids"] = nil,
@@ -33589,7 +33589,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1018,
+        ["rank_raids"] = 1019,
         ["dps_max"] = 14107.26,
         ["points"] = 6207.957233784888,
       },
@@ -33666,7 +33666,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1271,
+        ["rank_raids"] = 1272,
         ["dps_max"] = 12432.55,
         ["points"] = 5470.9942757766075,
       },
@@ -33743,7 +33743,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1342,
+        ["rank_raids"] = 1343,
         ["dps_max"] = 11789.47,
         ["points"] = 5188.004301968626,
       },
@@ -33768,7 +33768,7 @@ UWULogsData[3][1] = {
         ["points"] = 4198.903939808934,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1474,
+        ["rank_raids"] = 1475,
         ["dps_max"] = 1149.21,
         ["points"] = 290.9958926180819,
       },
@@ -33820,7 +33820,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1041,
+        ["rank_raids"] = 1042,
         ["dps_max"] = 14028.31,
         ["points"] = 6173.214964654856,
       },
@@ -33845,7 +33845,7 @@ UWULogsData[3][1] = {
         ["points"] = 2424.0575041332872,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1420,
+        ["rank_raids"] = 1421,
         ["dps_max"] = 6165.76,
         ["points"] = 1561.255849556534,
       },
@@ -33897,7 +33897,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1281,
+        ["rank_raids"] = 1282,
         ["dps_max"] = 12314.65,
         ["points"] = 5419.11190047033,
       },
@@ -33922,7 +33922,7 @@ UWULogsData[3][1] = {
         ["points"] = 4602.691189653419,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1167,
+        ["rank_raids"] = 1168,
         ["dps_max"] = 10431.76,
         ["points"] = 2641.4661487261696,
       },
@@ -33959,7 +33959,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Jzkk"] = {
-    ["percentile"] = 24.861,
+    ["percentile"] = 24.862,
     ["server"] = "Icecrown",
     ["overall_rank"] = 442,
     ["bosses"] = {
@@ -34001,7 +34001,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 212,
         ["dps_max"] = 23165.3,
-        ["points"] = 8575.286968264685,
+        ["points"] = 8576.248313090418,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -34051,7 +34051,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1207,
+        ["rank_raids"] = 1208,
         ["dps_max"] = 12931.55,
         ["points"] = 5690.5812586250595,
       },
@@ -34128,7 +34128,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 895,
+        ["rank_raids"] = 896,
         ["dps_max"] = 14773.46,
         ["points"] = 6501.121257780156,
       },
@@ -34205,7 +34205,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1232,
+        ["rank_raids"] = 1233,
         ["dps_max"] = 12751.9,
         ["points"] = 5611.525544258879,
       },
@@ -34230,7 +34230,7 @@ UWULogsData[3][1] = {
         ["points"] = 3961.195590214458,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1109,
+        ["rank_raids"] = 1110,
         ["dps_max"] = 10943.83,
         ["points"] = 3068.181818181818,
       },
@@ -34282,7 +34282,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1361,
+        ["rank_raids"] = 1362,
         ["dps_max"] = 11636.08,
         ["points"] = 5120.504407581604,
       },
@@ -34307,7 +34307,7 @@ UWULogsData[3][1] = {
         ["points"] = 3605.205458067538,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1146,
+        ["rank_raids"] = 1147,
         ["dps_max"] = 10609.77,
         ["points"] = 2759.7402597402597,
       },
@@ -34359,7 +34359,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1071,
+        ["rank_raids"] = 1072,
         ["dps_max"] = 13888.25,
         ["points"] = 6111.580991072183,
       },
@@ -34436,7 +34436,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1206,
+        ["rank_raids"] = 1207,
         ["dps_max"] = 12934.57,
         ["points"] = 5691.91022192807,
       },
@@ -34513,7 +34513,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1377,
+        ["rank_raids"] = 1378,
         ["dps_max"] = 11525.73,
         ["points"] = 5071.944440532853,
       },
@@ -34538,7 +34538,7 @@ UWULogsData[3][1] = {
         ["points"] = 2524.817461274826,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1106,
+        ["rank_raids"] = 1107,
         ["dps_max"] = 10967.53,
         ["points"] = 3084.415584415585,
       },
@@ -34590,7 +34590,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1282,
+        ["rank_raids"] = 1283,
         ["dps_max"] = 12310.41,
         ["points"] = 5417.246071197229,
       },
@@ -34615,7 +34615,7 @@ UWULogsData[3][1] = {
         ["points"] = 4044.3249201134386,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1078,
+        ["rank_raids"] = 1079,
         ["dps_max"] = 11299.26,
         ["points"] = 3327.922077922078,
       },
@@ -34667,7 +34667,7 @@ UWULogsData[3][1] = {
         ["points"] = 2675.190061525146,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1645,
+        ["rank_raids"] = 1646,
         ["dps_max"] = 8044.3,
         ["points"] = 3539.926986228068,
       },
@@ -34692,7 +34692,7 @@ UWULogsData[3][1] = {
         ["points"] = 2612.473893473546,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1397,
+        ["rank_raids"] = 1398,
         ["dps_max"] = 6887.87,
         ["points"] = 1744.104105330886,
       },
@@ -34744,7 +34744,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1386,
+        ["rank_raids"] = 1387,
         ["dps_max"] = 11398.03,
         ["points"] = 5015.749535302898,
       },
@@ -34769,7 +34769,7 @@ UWULogsData[3][1] = {
         ["points"] = 4430.032143845483,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1177,
+        ["rank_raids"] = 1178,
         ["dps_max"] = 10362.25,
         ["points"] = 2623.865253767126,
       },
@@ -34821,7 +34821,7 @@ UWULogsData[3][1] = {
         ["points"] = 3054.7910920994022,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1137,
+        ["rank_raids"] = 1138,
         ["dps_max"] = 13455.74,
         ["points"] = 5921.253203593657,
       },
@@ -34898,7 +34898,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1385,
+        ["rank_raids"] = 1386,
         ["dps_max"] = 11411.45,
         ["points"] = 5021.655060973893,
       },
@@ -34923,7 +34923,7 @@ UWULogsData[3][1] = {
         ["points"] = 3132.220243290357,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1124,
+        ["rank_raids"] = 1125,
         ["dps_max"] = 10787.74,
         ["points"] = 2922.077922077922,
       },
@@ -34975,7 +34975,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1149,
+        ["rank_raids"] = 1150,
         ["dps_max"] = 13383.27,
         ["points"] = 5889.36248486214,
       },
@@ -35052,7 +35052,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1379,
+        ["rank_raids"] = 1380,
         ["dps_max"] = 11497.41,
         ["points"] = 5059.482109161574,
       },
@@ -35077,7 +35077,7 @@ UWULogsData[3][1] = {
         ["points"] = 1506.526927270706,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 883,
+        ["rank_raids"] = 884,
         ["dps_max"] = 12798.35,
         ["points"] = 4724.0259740259735,
       },
@@ -35129,7 +35129,7 @@ UWULogsData[3][1] = {
         ["points"] = 7121.212121212122,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 421,
+        ["rank_raids"] = 422,
         ["dps_max"] = 17721.11,
         ["points"] = 8038.94297635605,
       },
@@ -35206,7 +35206,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 760,
+        ["rank_raids"] = 761,
         ["dps_max"] = 15541.25,
         ["points"] = 6838.990375137297,
       },
@@ -35283,7 +35283,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1421,
+        ["rank_raids"] = 1422,
         ["dps_max"] = 11101.41,
         ["points"] = 4885.220695919114,
       },
@@ -35308,7 +35308,7 @@ UWULogsData[3][1] = {
         ["points"] = 2664.859610158307,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1149,
+        ["rank_raids"] = 1150,
         ["dps_max"] = 10591.06,
         ["points"] = 2727.272727272727,
       },
@@ -35360,7 +35360,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1569,
+        ["rank_raids"] = 1570,
         ["dps_max"] = 9492.16,
         ["points"] = 4177.0636775847015,
       },
@@ -35385,7 +35385,7 @@ UWULogsData[3][1] = {
         ["points"] = 3619.3828097836504,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1162,
+        ["rank_raids"] = 1163,
         ["dps_max"] = 10504.25,
         ["points"] = 2662.337662337662,
       },
@@ -35437,7 +35437,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1101,
+        ["rank_raids"] = 1102,
         ["dps_max"] = 13701.16,
         ["points"] = 6029.251274396597,
       },
@@ -35462,7 +35462,7 @@ UWULogsData[3][1] = {
         ["points"] = 3788.550735949781,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1091,
+        ["rank_raids"] = 1092,
         ["dps_max"] = 11138.12,
         ["points"] = 3165.584415584415,
       },
@@ -35514,7 +35514,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 748,
+        ["rank_raids"] = 749,
         ["dps_max"] = 15644.39,
         ["points"] = 6884.377552313628,
       },
@@ -35591,7 +35591,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1322,
+        ["rank_raids"] = 1323,
         ["dps_max"] = 11957.97,
         ["points"] = 5262.15341341144,
       },
@@ -35616,7 +35616,7 @@ UWULogsData[3][1] = {
         ["points"] = 3418.700196552874,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1110,
+        ["rank_raids"] = 1111,
         ["dps_max"] = 10924.73,
         ["points"] = 3051.9480519480517,
       },
@@ -35668,7 +35668,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1171,
+        ["rank_raids"] = 1172,
         ["dps_max"] = 13215.64,
         ["points"] = 5815.596220463571,
       },
@@ -35693,7 +35693,7 @@ UWULogsData[3][1] = {
         ["points"] = 4568.319271879221,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1247,
+        ["rank_raids"] = 1248,
         ["dps_max"] = 9402.5,
         ["points"] = 2380.843257839311,
       },
@@ -35745,7 +35745,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1173,
+        ["rank_raids"] = 1174,
         ["dps_max"] = 13199.38,
         ["points"] = 5808.440941222858,
       },
@@ -35770,7 +35770,7 @@ UWULogsData[3][1] = {
         ["points"] = 3185.608829032113,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 964,
+        ["rank_raids"] = 965,
         ["dps_max"] = 12178.4,
         ["points"] = 4155.844155844156,
       },
@@ -35822,7 +35822,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1389,
+        ["rank_raids"] = 1390,
         ["dps_max"] = 11374.72,
         ["points"] = 5005.49187484158,
       },
@@ -35847,7 +35847,7 @@ UWULogsData[3][1] = {
         ["points"] = 3569.2724705348082,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1122,
+        ["rank_raids"] = 1123,
         ["dps_max"] = 10798.35,
         ["points"] = 2938.311688311688,
       },
@@ -35899,7 +35899,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1288,
+        ["rank_raids"] = 1289,
         ["dps_max"] = 12254.1,
         ["points"] = 5392.4666262990395,
       },
@@ -35924,7 +35924,7 @@ UWULogsData[3][1] = {
         ["points"] = 2909.7157670410875,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1330,
+        ["rank_raids"] = 1331,
         ["dps_max"] = 8062.22,
         ["points"] = 2041.465794226775,
       },
@@ -35976,7 +35976,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 541,
+        ["rank_raids"] = 542,
         ["dps_max"] = 16982.46,
         ["points"] = 7496.522948539638,
       },
@@ -36053,7 +36053,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 948,
+        ["rank_raids"] = 949,
         ["dps_max"] = 14514.81,
         ["points"] = 6387.3012715802515,
       },
@@ -36155,7 +36155,7 @@ UWULogsData[3][1] = {
         ["points"] = 7408.026755852842,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 812,
+        ["rank_raids"] = 813,
         ["dps_max"] = 13345.3,
         ["points"] = 5259.74025974026,
       },
@@ -36207,7 +36207,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1572,
+        ["rank_raids"] = 1573,
         ["dps_max"] = 9427.77,
         ["points"] = 4148.728595769849,
       },
@@ -36232,7 +36232,7 @@ UWULogsData[3][1] = {
         ["points"] = 4292.653274580344,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1040,
+        ["rank_raids"] = 1041,
         ["dps_max"] = 11635.66,
         ["points"] = 3620.12987012987,
       },
@@ -36284,7 +36284,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1441,
+        ["rank_raids"] = 1442,
         ["dps_max"] = 10894.38,
         ["points"] = 4794.116301011069,
       },
@@ -36309,7 +36309,7 @@ UWULogsData[3][1] = {
         ["points"] = 3698.174257959682,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1272,
+        ["rank_raids"] = 1273,
         ["dps_max"] = 9072.99,
         ["points"] = 2297.406760961818,
       },
@@ -36361,7 +36361,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 736,
+        ["rank_raids"] = 737,
         ["dps_max"] = 15691.85,
         ["points"] = 6905.262518658293,
       },
@@ -36438,7 +36438,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1259,
+        ["rank_raids"] = 1260,
         ["dps_max"] = 12495.63,
         ["points"] = 5498.752886754724,
       },
@@ -36463,7 +36463,7 @@ UWULogsData[3][1] = {
         ["points"] = 2849.9362563181935,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 975,
+        ["rank_raids"] = 976,
         ["dps_max"] = 12098.0,
         ["points"] = 4074.6753246753246,
       },
@@ -36515,7 +36515,7 @@ UWULogsData[3][1] = {
         ["points"] = 5469.1518057735375,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 404,
+        ["rank_raids"] = 405,
         ["dps_max"] = 17889.23,
         ["points"] = 8122.392211404729,
       },
@@ -36592,7 +36592,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1098,
+        ["rank_raids"] = 1099,
         ["dps_max"] = 13722.03,
         ["points"] = 6038.435202917734,
       },
@@ -36617,7 +36617,7 @@ UWULogsData[3][1] = {
         ["points"] = 4379.26426309229,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1218,
+        ["rank_raids"] = 1219,
         ["dps_max"] = 9692.55,
         ["points"] = 2454.287936056412,
       },
@@ -36669,7 +36669,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1384,
+        ["rank_raids"] = 1385,
         ["dps_max"] = 11452.96,
         ["points"] = 5039.921705579181,
       },
@@ -36694,7 +36694,7 @@ UWULogsData[3][1] = {
         ["points"] = 1766.3125876623453,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1446,
+        ["rank_raids"] = 1447,
         ["dps_max"] = 4272.2,
         ["points"] = 1081.7802250615373,
       },
@@ -36746,7 +36746,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1494,
+        ["rank_raids"] = 1495,
         ["dps_max"] = 10217.4,
         ["points"] = 4496.208494099755,
       },
@@ -36771,7 +36771,7 @@ UWULogsData[3][1] = {
         ["points"] = 3252.3090823511607,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1102,
+        ["rank_raids"] = 1103,
         ["dps_max"] = 11026.63,
         ["points"] = 3133.1168831168834,
       },
@@ -36823,7 +36823,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1182,
+        ["rank_raids"] = 1183,
         ["dps_max"] = 13147.69,
         ["points"] = 5785.694546145831,
       },
@@ -36848,7 +36848,7 @@ UWULogsData[3][1] = {
         ["points"] = 3657.075548680541,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1337,
+        ["rank_raids"] = 1338,
         ["dps_max"] = 7981.65,
         ["points"] = 2021.0643540476615,
       },
@@ -36900,7 +36900,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1213,
+        ["rank_raids"] = 1214,
         ["dps_max"] = 12879.43,
         ["points"] = 5667.645640296279,
       },
@@ -36977,7 +36977,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1337,
+        ["rank_raids"] = 1338,
         ["dps_max"] = 11843.27,
         ["points"] = 5211.679211141465,
       },
@@ -37002,7 +37002,7 @@ UWULogsData[3][1] = {
         ["points"] = 2697.5569258278992,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1343,
+        ["rank_raids"] = 1344,
         ["dps_max"] = 7899.17,
         ["points"] = 2000.1792754083012,
       },
@@ -37079,7 +37079,7 @@ UWULogsData[3][1] = {
         ["points"] = 6053.511705685619,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 725,
+        ["rank_raids"] = 726,
         ["dps_max"] = 14047.59,
         ["points"] = 5633.116883116883,
       },
@@ -37131,7 +37131,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 987,
+        ["rank_raids"] = 988,
         ["dps_max"] = 14284.82,
         ["points"] = 6286.093235136734,
       },
@@ -37208,7 +37208,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1598,
+        ["rank_raids"] = 1599,
         ["dps_max"] = 8941.5,
         ["points"] = 3934.7435012814376,
       },
@@ -37233,7 +37233,7 @@ UWULogsData[3][1] = {
         ["points"] = 3684.4557661422896,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1213,
+        ["rank_raids"] = 1214,
         ["dps_max"] = 9750.58,
         ["points"] = 2468.981935976903,
       },
@@ -37285,7 +37285,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1103,
+        ["rank_raids"] = 1104,
         ["dps_max"] = 13682.67,
         ["points"] = 6021.114674571212,
       },
@@ -37362,7 +37362,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1123,
+        ["rank_raids"] = 1124,
         ["dps_max"] = 13558.61,
         ["points"] = 5966.521566170051,
       },
@@ -37387,7 +37387,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1166,
+        ["rank_raids"] = 1167,
         ["dps_max"] = 10438.69,
         ["points"] = 2643.2209207311503,
       },
@@ -37439,7 +37439,7 @@ UWULogsData[3][1] = {
         ["points"] = 6111.111111111111,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 345,
+        ["rank_raids"] = 346,
         ["dps_max"] = 18226.6,
         ["points"] = 8414.464534075105,
       },
@@ -37516,7 +37516,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1514,
+        ["rank_raids"] = 1515,
         ["dps_max"] = 10008.35,
         ["points"] = 4404.215189962542,
       },
@@ -37541,7 +37541,7 @@ UWULogsData[3][1] = {
         ["points"] = 2962.390045105455,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1164,
+        ["rank_raids"] = 1165,
         ["dps_max"] = 10499.03,
         ["points"] = 2658.499844653301,
       },
@@ -37593,7 +37593,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1172,
+        ["rank_raids"] = 1173,
         ["dps_max"] = 13212.11,
         ["points"] = 5814.0428295829,
       },
@@ -37618,7 +37618,7 @@ UWULogsData[3][1] = {
         ["points"] = 4498.340772067259,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1407,
+        ["rank_raids"] = 1408,
         ["dps_max"] = 6681.25,
         ["points"] = 1691.7850589140012,
       },
@@ -37670,7 +37670,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 488,
+        ["rank_raids"] = 489,
         ["dps_max"] = 17276.62,
         ["points"] = 7816.411682892906,
       },
@@ -37747,7 +37747,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1573,
+        ["rank_raids"] = 1574,
         ["dps_max"] = 9425.02,
         ["points"] = 4147.5184470667755,
       },
@@ -37772,7 +37772,7 @@ UWULogsData[3][1] = {
         ["points"] = 3821.5508045422403,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1260,
+        ["rank_raids"] = 1261,
         ["dps_max"] = 9244.63,
         ["points"] = 2340.8683867821355,
       },
@@ -37824,7 +37824,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1472,
+        ["rank_raids"] = 1473,
         ["dps_max"] = 10407.17,
         ["points"] = 4579.717555693243,
       },
@@ -37849,7 +37849,7 @@ UWULogsData[3][1] = {
         ["points"] = 4029.674516955346,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1226,
+        ["rank_raids"] = 1227,
         ["dps_max"] = 9611.65,
         ["points"] = 2433.8029353056327,
       },
@@ -37901,7 +37901,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1462,
+        ["rank_raids"] = 1463,
         ["dps_max"] = 10518.15,
         ["points"] = 4628.554756808517,
       },
@@ -37926,7 +37926,7 @@ UWULogsData[3][1] = {
         ["points"] = 3642.155506200522,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1243,
+        ["rank_raids"] = 1244,
         ["dps_max"] = 9429.17,
         ["points"] = 2387.596471313023,
       },
@@ -37978,7 +37978,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1425,
+        ["rank_raids"] = 1426,
         ["dps_max"] = 11058.48,
         ["points"] = 4866.329174528966,
       },
@@ -38003,7 +38003,7 @@ UWULogsData[3][1] = {
         ["points"] = 3718.586427681079,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1238,
+        ["rank_raids"] = 1239,
         ["dps_max"] = 9520.12,
         ["points"] = 2410.6262712918037,
       },
@@ -38055,7 +38055,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1476,
+        ["rank_raids"] = 1477,
         ["dps_max"] = 10365.81,
         ["points"] = 4561.516919199032,
       },
@@ -38080,7 +38080,7 @@ UWULogsData[3][1] = {
         ["points"] = 3142.234742317053,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1133,
+        ["rank_raids"] = 1134,
         ["dps_max"] = 10706.88,
         ["points"] = 2840.909090909091,
       },
@@ -38132,7 +38132,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1507,
+        ["rank_raids"] = 1508,
         ["dps_max"] = 10061.07,
         ["points"] = 4427.41484073563,
       },
@@ -38157,7 +38157,7 @@ UWULogsData[3][1] = {
         ["points"] = 3140.101280313728,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1424,
+        ["rank_raids"] = 1425,
         ["dps_max"] = 5810.06,
         ["points"] = 1471.1876818550245,
       },
@@ -38209,7 +38209,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1209,
+        ["rank_raids"] = 1210,
         ["dps_max"] = 12914.72,
         ["points"] = 5683.175148562255,
       },
@@ -38234,7 +38234,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1047,
+        ["rank_raids"] = 1048,
         ["dps_max"] = 11544.73,
         ["points"] = 3571.4285714285716,
       },
@@ -38286,7 +38286,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1147,
+        ["rank_raids"] = 1148,
         ["dps_max"] = 13401.09,
         ["points"] = 5897.204248458052,
       },
@@ -38311,7 +38311,7 @@ UWULogsData[3][1] = {
         ["points"] = 2184.3244943671402,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1215,
+        ["rank_raids"] = 1216,
         ["dps_max"] = 9739.7,
         ["points"] = 2466.2269692504697,
       },
@@ -38363,7 +38363,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1502,
+        ["rank_raids"] = 1503,
         ["dps_max"] = 10129.27,
         ["points"] = 4457.426528571831,
       },
@@ -38388,7 +38388,7 @@ UWULogsData[3][1] = {
         ["points"] = 3235.624557992559,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1302,
+        ["rank_raids"] = 1303,
         ["dps_max"] = 8440.49,
         ["points"] = 2137.248998602513,
       },
@@ -38440,7 +38440,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1131,
+        ["rank_raids"] = 1132,
         ["dps_max"] = 13525.79,
         ["points"] = 5952.078991466472,
       },
@@ -38465,7 +38465,7 @@ UWULogsData[3][1] = {
         ["points"] = 6939.799331103679,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 944,
+        ["rank_raids"] = 945,
         ["dps_max"] = 12312.99,
         ["points"] = 4301.948051948052,
       },
@@ -38517,7 +38517,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1530,
+        ["rank_raids"] = 1531,
         ["dps_max"] = 9880.99,
         ["points"] = 4348.169903117695,
       },
@@ -38542,7 +38542,7 @@ UWULogsData[3][1] = {
         ["points"] = 2688.233081906492,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 921,
+        ["rank_raids"] = 922,
         ["dps_max"] = 12479.14,
         ["points"] = 4464.285714285715,
       },
@@ -38594,7 +38594,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 527,
+        ["rank_raids"] = 528,
         ["dps_max"] = 17034.59,
         ["points"] = 7538.247566063978,
       },
@@ -38671,7 +38671,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1141,
+        ["rank_raids"] = 1142,
         ["dps_max"] = 13420.44,
         ["points"] = 5905.719294786944,
       },
@@ -38696,7 +38696,7 @@ UWULogsData[3][1] = {
         ["points"] = 5836.120401337793,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 973,
+        ["rank_raids"] = 974,
         ["dps_max"] = 12113.6,
         ["points"] = 4090.909090909091,
       },
@@ -38748,7 +38748,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1503,
+        ["rank_raids"] = 1504,
         ["dps_max"] = 10127.64,
         ["points"] = 4456.709240431464,
       },
@@ -38773,7 +38773,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1056,
+        ["rank_raids"] = 1057,
         ["dps_max"] = 11485.84,
         ["points"] = 3490.2597402597403,
       },
@@ -38825,7 +38825,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1358,
+        ["rank_raids"] = 1359,
         ["dps_max"] = 11668.92,
         ["points"] = 5134.95578336666,
       },
@@ -38850,7 +38850,7 @@ UWULogsData[3][1] = {
         ["points"] = 2905.2974665730026,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1182,
+        ["rank_raids"] = 1183,
         ["dps_max"] = 10306.55,
         ["points"] = 2609.7612421253657,
       },
@@ -38902,7 +38902,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1451,
+        ["rank_raids"] = 1452,
         ["dps_max"] = 10779.38,
         ["points"] = 4743.510082518939,
       },
@@ -38927,7 +38927,7 @@ UWULogsData[3][1] = {
         ["points"] = 2888.6791694162785,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1286,
+        ["rank_raids"] = 1287,
         ["dps_max"] = 8939.52,
         ["points"] = 2263.6103079308355,
       },
@@ -38979,7 +38979,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1601,
+        ["rank_raids"] = 1602,
         ["dps_max"] = 8865.63,
         ["points"] = 3901.356598698848,
       },
@@ -39004,7 +39004,7 @@ UWULogsData[3][1] = {
         ["points"] = 3476.341514758023,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1394,
+        ["rank_raids"] = 1395,
         ["dps_max"] = 6974.91,
         ["points"] = 1766.1438391423544,
       },
@@ -39056,7 +39056,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1540,
+        ["rank_raids"] = 1541,
         ["dps_max"] = 9804.74,
         ["points"] = 4314.615779987045,
       },
@@ -39081,7 +39081,7 @@ UWULogsData[3][1] = {
         ["points"] = 4223.204592383398,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1227,
+        ["rank_raids"] = 1228,
         ["dps_max"] = 9608.93,
         ["points"] = 2433.1141936240247,
       },
@@ -39210,7 +39210,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1165,
+        ["rank_raids"] = 1166,
         ["dps_max"] = 13258.96,
         ["points"] = 5834.659362942518,
       },
@@ -39287,7 +39287,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1406,
+        ["rank_raids"] = 1407,
         ["dps_max"] = 11202.37,
         ["points"] = 4929.648555214465,
       },
@@ -39312,7 +39312,7 @@ UWULogsData[3][1] = {
         ["points"] = 4070.7211905758695,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 983,
+        ["rank_raids"] = 984,
         ["dps_max"] = 12033.02,
         ["points"] = 4009.7402597402597,
       },
@@ -39364,7 +39364,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1410,
+        ["rank_raids"] = 1411,
         ["dps_max"] = 11192.32,
         ["points"] = 4925.226011772327,
       },
@@ -39389,7 +39389,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1015,
+        ["rank_raids"] = 1016,
         ["dps_max"] = 11768.32,
         ["points"] = 3798.7012987012986,
       },
@@ -39441,7 +39441,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1487,
+        ["rank_raids"] = 1488,
         ["dps_max"] = 10255.55,
         ["points"] = 4512.996557016926,
       },
@@ -39466,7 +39466,7 @@ UWULogsData[3][1] = {
         ["points"] = 3483.7826139403533,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1052,
+        ["rank_raids"] = 1053,
         ["dps_max"] = 11517.07,
         ["points"] = 3522.727272727273,
       },
@@ -39518,7 +39518,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1490,
+        ["rank_raids"] = 1491,
         ["dps_max"] = 10238.96,
         ["points"] = 4505.6960599318445,
       },
@@ -39543,7 +39543,7 @@ UWULogsData[3][1] = {
         ["points"] = 3719.054748608638,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1404,
+        ["rank_raids"] = 1405,
         ["dps_max"] = 6713.35,
         ["points"] = 1699.9132236123946,
       },
@@ -39595,7 +39595,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1359,
+        ["rank_raids"] = 1360,
         ["dps_max"] = 11651.66,
         ["points"] = 5127.360450052102,
       },
@@ -39620,7 +39620,7 @@ UWULogsData[3][1] = {
         ["points"] = 3468.6828119123816,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 909,
+        ["rank_raids"] = 910,
         ["dps_max"] = 12557.06,
         ["points"] = 4545.454545454545,
       },
@@ -39672,7 +39672,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1610,
+        ["rank_raids"] = 1611,
         ["dps_max"] = 8711.09,
         ["points"] = 3833.350642126905,
       },
@@ -39697,7 +39697,7 @@ UWULogsData[3][1] = {
         ["points"] = 3223.8030024575028,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1252,
+        ["rank_raids"] = 1253,
         ["dps_max"] = 9361.66,
         ["points"] = 2370.502004061044,
       },
@@ -39749,7 +39749,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1436,
+        ["rank_raids"] = 1437,
         ["dps_max"] = 10976.56,
         ["points"] = 4830.279944799617,
       },
@@ -39774,7 +39774,7 @@ UWULogsData[3][1] = {
         ["points"] = 3909.5383727503454,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1267,
+        ["rank_raids"] = 1268,
         ["dps_max"] = 9126.46,
         ["points"] = 2310.9461057102003,
       },
@@ -39826,7 +39826,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1515,
+        ["rank_raids"] = 1516,
         ["dps_max"] = 9999.15,
         ["points"] = 4400.1666924831725,
       },
@@ -39851,7 +39851,7 @@ UWULogsData[3][1] = {
         ["points"] = 2789.9675250185087,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1308,
+        ["rank_raids"] = 1309,
         ["dps_max"] = 8382.05,
         ["points"] = 2122.4511810020736,
       },
@@ -39903,7 +39903,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1116,
+        ["rank_raids"] = 1117,
         ["dps_max"] = 13611.71,
         ["points"] = 5989.888437491199,
       },
@@ -39928,7 +39928,7 @@ UWULogsData[3][1] = {
         ["points"] = 2575.183248302337,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 912,
+        ["rank_raids"] = 913,
         ["dps_max"] = 12524.78,
         ["points"] = 4496.7532467532465,
       },
@@ -39980,7 +39980,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1552,
+        ["rank_raids"] = 1553,
         ["dps_max"] = 9669.09,
         ["points"] = 4254.922444870026,
       },
@@ -40005,7 +40005,7 @@ UWULogsData[3][1] = {
         ["points"] = 3035.68936604011,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1148,
+        ["rank_raids"] = 1149,
         ["dps_max"] = 10596.48,
         ["points"] = 2743.5064935064934,
       },
@@ -40082,7 +40082,7 @@ UWULogsData[3][1] = {
         ["points"] = 4368.842939825492,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1230,
+        ["rank_raids"] = 1231,
         ["dps_max"] = 9579.55,
         ["points"] = 2425.6747706072397,
       },
@@ -40134,7 +40134,7 @@ UWULogsData[3][1] = {
         ["points"] = 7424.242424242424,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 477,
+        ["rank_raids"] = 478,
         ["dps_max"] = 17328.99,
         ["points"] = 7844.228094575799,
       },
@@ -40211,7 +40211,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1326,
+        ["rank_raids"] = 1327,
         ["dps_max"] = 11927.54,
         ["points"] = 5248.762567944349,
       },
@@ -40288,7 +40288,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1588,
+        ["rank_raids"] = 1589,
         ["dps_max"] = 9161.83,
         ["points"] = 4031.7006153716165,
       },
@@ -40313,7 +40313,7 @@ UWULogsData[3][1] = {
         ["points"] = 3324.81840737771,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1214,
+        ["rank_raids"] = 1215,
         ["dps_max"] = 9749.93,
         ["points"] = 2468.817346972107,
       },
@@ -40365,7 +40365,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1484,
+        ["rank_raids"] = 1485,
         ["dps_max"] = 10293.15,
         ["points"] = 4529.542590193482,
       },
@@ -40390,7 +40390,7 @@ UWULogsData[3][1] = {
         ["points"] = 2906.4280595193327,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1288,
+        ["rank_raids"] = 1289,
         ["dps_max"] = 8906.61,
         ["points"] = 2255.2770400110808,
       },
@@ -40442,7 +40442,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1299,
+        ["rank_raids"] = 1300,
         ["dps_max"] = 12168.65,
         ["points"] = 5354.86400568902,
       },
@@ -40519,7 +40519,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1539,
+        ["rank_raids"] = 1540,
         ["dps_max"] = 9806.8,
         ["points"] = 4315.522291379165,
       },
@@ -40544,7 +40544,7 @@ UWULogsData[3][1] = {
         ["points"] = 3135.5647169851486,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1269,
+        ["rank_raids"] = 1270,
         ["dps_max"] = 9092.85,
         ["points"] = 2302.4355880929734,
       },
@@ -40596,7 +40596,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1438,
+        ["rank_raids"] = 1439,
         ["dps_max"] = 10964.97,
         ["points"] = 4825.179718083758,
       },
@@ -40621,7 +40621,7 @@ UWULogsData[3][1] = {
         ["points"] = 2756.447099839872,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1140,
+        ["rank_raids"] = 1141,
         ["dps_max"] = 10641.67,
         ["points"] = 2808.4415584415583,
       },
@@ -40673,7 +40673,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1164,
+        ["rank_raids"] = 1165,
         ["dps_max"] = 13271.64,
         ["points"] = 5840.239248598868,
       },
@@ -40750,7 +40750,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1156,
+        ["rank_raids"] = 1157,
         ["dps_max"] = 13329.49,
         ["points"] = 5865.696376770778,
       },
@@ -40775,7 +40775,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1044,
+        ["rank_raids"] = 1045,
         ["dps_max"] = 11594.34,
         ["points"] = 3587.662337662338,
       },
@@ -40827,7 +40827,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1450,
+        ["rank_raids"] = 1451,
         ["dps_max"] = 10784.24,
         ["points"] = 4745.648745317825,
       },
@@ -40852,7 +40852,7 @@ UWULogsData[3][1] = {
         ["points"] = 3812.9365377838017,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1240,
+        ["rank_raids"] = 1241,
         ["dps_max"] = 9484.12,
         ["points"] = 2401.510572564634,
       },
@@ -40904,7 +40904,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1541,
+        ["rank_raids"] = 1542,
         ["dps_max"] = 9802.48,
         ["points"] = 4313.621257780156,
       },
@@ -40929,7 +40929,7 @@ UWULogsData[3][1] = {
         ["points"] = 3401.5142376657755,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1300,
+        ["rank_raids"] = 1301,
         ["dps_max"] = 8489.52,
         ["points"] = 2149.664073841211,
       },
@@ -41006,7 +41006,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1128,
+        ["rank_raids"] = 1129,
         ["dps_max"] = 10746.96,
         ["points"] = 2889.6103896103896,
       },
@@ -41058,7 +41058,7 @@ UWULogsData[3][1] = {
         ["points"] = 5089.5654112661605,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 364,
+        ["rank_raids"] = 365,
         ["dps_max"] = 18146.76,
         ["points"] = 8261.474269819193,
       },
@@ -41135,7 +41135,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1523,
+        ["rank_raids"] = 1524,
         ["dps_max"] = 9934.08,
         ["points"] = 4371.532373898105,
       },
@@ -41160,7 +41160,7 @@ UWULogsData[3][1] = {
         ["points"] = 3334.6011111978373,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1441,
+        ["rank_raids"] = 1442,
         ["dps_max"] = 4647.45,
         ["points"] = 1176.7987235996072,
       },
@@ -41212,7 +41212,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1446,
+        ["rank_raids"] = 1447,
         ["dps_max"] = 10815.51,
         ["points"] = 4759.409236206945,
       },
@@ -41237,7 +41237,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1103,
+        ["rank_raids"] = 1104,
         ["dps_max"] = 11019.05,
         ["points"] = 3116.8831168831166,
       },
@@ -41289,7 +41289,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1364,
+        ["rank_raids"] = 1365,
         ["dps_max"] = 11619.89,
         ["points"] = 5113.379932126059,
       },
@@ -41366,7 +41366,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1509,
+        ["rank_raids"] = 1510,
         ["dps_max"] = 10040.79,
         ["points"] = 4418.490544118062,
       },
@@ -41391,7 +41391,7 @@ UWULogsData[3][1] = {
         ["points"] = 2802.418238971397,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1331,
+        ["rank_raids"] = 1332,
         ["dps_max"] = 8042.57,
         ["points"] = 2036.4901420048611,
       },
@@ -41520,7 +41520,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1366,
+        ["rank_raids"] = 1367,
         ["dps_max"] = 11614.82,
         ["points"] = 5111.148857971668,
       },
@@ -41545,7 +41545,7 @@ UWULogsData[3][1] = {
         ["points"] = 2914.9477159893754,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1083,
+        ["rank_raids"] = 1084,
         ["dps_max"] = 11240.73,
         ["points"] = 3262.9870129870133,
       },
@@ -41597,7 +41597,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1561,
+        ["rank_raids"] = 1562,
         ["dps_max"] = 9585.92,
         ["points"] = 4218.323147548371,
       },
@@ -41622,7 +41622,7 @@ UWULogsData[3][1] = {
         ["points"] = 3436.661959804819,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1298,
+        ["rank_raids"] = 1299,
         ["dps_max"] = 8520.63,
         ["points"] = 2157.541556824607,
       },
@@ -41674,7 +41674,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1404,
+        ["rank_raids"] = 1405,
         ["dps_max"] = 11227.09,
         ["points"] = 4940.526691919903,
       },
@@ -41699,7 +41699,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1039,
+        ["rank_raids"] = 1040,
         ["dps_max"] = 11637.11,
         ["points"] = 3636.3636363636365,
       },
@@ -41751,7 +41751,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1296,
+        ["rank_raids"] = 1297,
         ["dps_max"] = 12212.48,
         ["points"] = 5374.151575745627,
       },
@@ -41776,7 +41776,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1246,
+        ["rank_raids"] = 1247,
         ["dps_max"] = 9407.76,
         ["points"] = 2382.175162708892,
       },
@@ -41828,7 +41828,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1574,
+        ["rank_raids"] = 1575,
         ["dps_max"] = 9423.04,
         ["points"] = 4146.647140000564,
       },
@@ -41853,7 +41853,7 @@ UWULogsData[3][1] = {
         ["points"] = 2901.602934811146,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1335,
+        ["rank_raids"] = 1336,
         ["dps_max"] = 7996.07,
         ["points"] = 2024.7156978156,
       },
@@ -41982,7 +41982,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1006,
+        ["rank_raids"] = 1007,
         ["dps_max"] = 14179.82,
         ["points"] = 6239.887557383052,
       },
@@ -42059,7 +42059,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1549,
+        ["rank_raids"] = 1550,
         ["dps_max"] = 9687.32,
         ["points"] = 4262.944630636212,
       },
@@ -42084,7 +42084,7 @@ UWULogsData[3][1] = {
         ["points"] = 2587.127797212308,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1072,
+        ["rank_raids"] = 1073,
         ["dps_max"] = 11353.93,
         ["points"] = 3360.3896103896104,
       },
@@ -42136,7 +42136,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1628,
+        ["rank_raids"] = 1629,
         ["dps_max"] = 8452.79,
         ["points"] = 3719.684674852846,
       },
@@ -42161,7 +42161,7 @@ UWULogsData[3][1] = {
         ["points"] = 2811.1318465326513,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1383,
+        ["rank_raids"] = 1384,
         ["dps_max"] = 7319.39,
         ["points"] = 1853.3709474072296,
       },
@@ -42213,7 +42213,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1537,
+        ["rank_raids"] = 1538,
         ["dps_max"] = 9816.86,
         ["points"] = 4319.949235362042,
       },
@@ -42238,7 +42238,7 @@ UWULogsData[3][1] = {
         ["points"] = 3456.492276252581,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1452,
+        ["rank_raids"] = 1453,
         ["dps_max"] = 4029.16,
         ["points"] = 1020.2391300989991,
       },
@@ -42290,7 +42290,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1526,
+        ["rank_raids"] = 1527,
         ["dps_max"] = 9918.78,
         ["points"] = 4364.7995465682825,
       },
@@ -42315,7 +42315,7 @@ UWULogsData[3][1] = {
         ["points"] = 1834.8482805762715,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1026,
+        ["rank_raids"] = 1027,
         ["dps_max"] = 11695.33,
         ["points"] = 3701.2987012987014,
       },
@@ -42367,7 +42367,7 @@ UWULogsData[3][1] = {
         ["points"] = 8015.564202334631,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 453,
+        ["rank_raids"] = 454,
         ["dps_max"] = 17442.38,
         ["points"] = 7941.585535465925,
       },
@@ -42444,7 +42444,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1418,
+        ["rank_raids"] = 1419,
         ["dps_max"] = 11145.65,
         ["points"] = 4904.688688146,
       },
@@ -42469,7 +42469,7 @@ UWULogsData[3][1] = {
         ["points"] = 4481.37714735789,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1264,
+        ["rank_raids"] = 1265,
         ["dps_max"] = 9169.53,
         ["points"] = 2321.8520263818455,
       },
@@ -42521,7 +42521,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1692,
+        ["rank_raids"] = 1693,
         ["dps_max"] = 6061.69,
         ["points"] = 2667.471378883037,
       },
@@ -42546,7 +42546,7 @@ UWULogsData[3][1] = {
         ["points"] = 3099.551310707283,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1201,
+        ["rank_raids"] = 1202,
         ["dps_max"] = 10007.79,
         ["points"] = 2534.111071243997,
       },
@@ -42675,7 +42675,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1374,
+        ["rank_raids"] = 1375,
         ["dps_max"] = 11543.21,
         ["points"] = 5079.636585743656,
       },
@@ -42752,7 +42752,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1431,
+        ["rank_raids"] = 1432,
         ["dps_max"] = 11024.48,
         ["points"] = 4851.367336018249,
       },
@@ -42829,7 +42829,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 887,
+        ["rank_raids"] = 888,
         ["dps_max"] = 14802.73,
         ["points"] = 6514.001640521587,
       },
@@ -42906,7 +42906,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1367,
+        ["rank_raids"] = 1368,
         ["dps_max"] = 11595.42,
         ["points"] = 5102.611808939083,
       },
@@ -42931,7 +42931,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1265,
+        ["rank_raids"] = 1266,
         ["dps_max"] = 9153.08,
         ["points"] = 2317.6866584912354,
       },
@@ -42983,7 +42983,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1621,
+        ["rank_raids"] = 1622,
         ["dps_max"] = 8573.02,
         ["points"] = 3772.5923761511813,
       },
@@ -43008,7 +43008,7 @@ UWULogsData[3][1] = {
         ["points"] = 2835.6974079146235,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1235,
+        ["rank_raids"] = 1236,
         ["dps_max"] = 9555.01,
         ["points"] = 2419.4609026415524,
       },
@@ -43060,7 +43060,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1400,
+        ["rank_raids"] = 1401,
         ["dps_max"] = 11287.57,
         ["points"] = 4967.141162306024,
       },
@@ -43085,7 +43085,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1114,
+        ["rank_raids"] = 1115,
         ["dps_max"] = 10868.15,
         ["points"] = 3003.246753246753,
       },
@@ -43137,7 +43137,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1690,
+        ["rank_raids"] = 1691,
         ["dps_max"] = 6294.29,
         ["points"] = 2769.82795645929,
       },
@@ -43162,7 +43162,7 @@ UWULogsData[3][1] = {
         ["points"] = 2912.7291047264935,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1141,
+        ["rank_raids"] = 1142,
         ["dps_max"] = 10634.23,
         ["points"] = 2792.207792207792,
       },
@@ -43214,7 +43214,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1544,
+        ["rank_raids"] = 1545,
         ["dps_max"] = 9772.75,
         ["points"] = 4300.538450164757,
       },
@@ -43239,7 +43239,7 @@ UWULogsData[3][1] = {
         ["points"] = 2016.8737449353932,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1271,
+        ["rank_raids"] = 1272,
         ["dps_max"] = 9084.54,
         ["points"] = 2300.3313809701185,
       },
@@ -43368,7 +43368,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1512,
+        ["rank_raids"] = 1513,
         ["dps_max"] = 10009.25,
         ["points"] = 4404.611238629002,
       },
@@ -43393,7 +43393,7 @@ UWULogsData[3][1] = {
         ["points"] = 3098.4964059916697,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1285,
+        ["rank_raids"] = 1286,
         ["dps_max"] = 8960.89,
         ["points"] = 2269.0214879808245,
       },
@@ -43445,7 +43445,7 @@ UWULogsData[3][1] = {
         ["points"] = 1181.3159873173602,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1693,
+        ["rank_raids"] = 1694,
         ["dps_max"] = 6037.29,
         ["points"] = 2656.734059481229,
       },
@@ -43470,7 +43470,7 @@ UWULogsData[3][1] = {
         ["points"] = 2644.90156982121,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1418,
+        ["rank_raids"] = 1419,
         ["dps_max"] = 6355.43,
         ["points"] = 1609.2829211560431,
       },
@@ -43522,7 +43522,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1479,
+        ["rank_raids"] = 1480,
         ["dps_max"] = 10341.77,
         ["points"] = 4550.938019263807,
       },
@@ -43547,7 +43547,7 @@ UWULogsData[3][1] = {
         ["points"] = 3494.5066901300183,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1275,
+        ["rank_raids"] = 1276,
         ["dps_max"] = 9022.15,
         ["points"] = 2284.5333686482254,
       },
@@ -43599,7 +43599,7 @@ UWULogsData[3][1] = {
         ["points"] = 5012.1796469878245,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 703,
+        ["rank_raids"] = 704,
         ["dps_max"] = 15952.49,
         ["points"] = 7019.958212465148,
       },
@@ -43676,7 +43676,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1426,
+        ["rank_raids"] = 1427,
         ["dps_max"] = 11054.82,
         ["points"] = 4864.718576618695,
       },
@@ -43753,7 +43753,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1447,
+        ["rank_raids"] = 1448,
         ["dps_max"] = 10792.29,
         ["points"] = 4749.1911806122735,
       },
@@ -43778,7 +43778,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1336,
+        ["rank_raids"] = 1337,
         ["dps_max"] = 7987.75,
         ["points"] = 2022.6089585542097,
       },
@@ -43907,7 +43907,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 949,
+        ["rank_raids"] = 950,
         ["dps_max"] = 14509.98,
         ["points"] = 6385.175810403583,
       },
@@ -43984,7 +43984,7 @@ UWULogsData[3][1] = {
         ["points"] = 1718.6157598240939,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1531,
+        ["rank_raids"] = 1532,
         ["dps_max"] = 9877.48,
         ["points"] = 4346.625313318501,
       },
@@ -44009,7 +44009,7 @@ UWULogsData[3][1] = {
         ["points"] = 3075.638560315241,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1327,
+        ["rank_raids"] = 1328,
         ["dps_max"] = 8107.39,
         ["points"] = 2052.9034639908377,
       },
@@ -44061,7 +44061,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1532,
+        ["rank_raids"] = 1533,
         ["dps_max"] = 9863.9,
         ["points"] = 4340.64937899569,
       },
@@ -44086,7 +44086,7 @@ UWULogsData[3][1] = {
         ["points"] = 2310.2697102796446,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1384,
+        ["rank_raids"] = 1385,
         ["dps_max"] = 7305.68,
         ["points"] = 1849.8993854752991,
       },
@@ -44138,7 +44138,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1056,
+        ["rank_raids"] = 1057,
         ["dps_max"] = 13960.81,
         ["points"] = 6143.511314670347,
       },
@@ -44163,7 +44163,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1255,
+        ["rank_raids"] = 1256,
         ["dps_max"] = 9295.88,
         ["points"] = 2353.845596775676,
       },
@@ -44215,7 +44215,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1595,
+        ["rank_raids"] = 1596,
         ["dps_max"] = 9066.57,
         ["points"] = 3989.781064297181,
       },
@@ -44240,7 +44240,7 @@ UWULogsData[3][1] = {
         ["points"] = 2771.840193761871,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1447,
+        ["rank_raids"] = 1448,
         ["dps_max"] = 4258.83,
         ["points"] = 1078.3947558398079,
       },
@@ -44523,7 +44523,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1623,
+        ["rank_raids"] = 1624,
         ["dps_max"] = 8556.66,
         ["points"] = 3765.3930915030837,
       },
@@ -44548,7 +44548,7 @@ UWULogsData[3][1] = {
         ["points"] = 2124.109776317626,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1313,
+        ["rank_raids"] = 1314,
         ["dps_max"] = 8254.48,
         ["points"] = 2090.148689706933,
       },
@@ -44702,7 +44702,7 @@ UWULogsData[3][1] = {
         ["points"] = 2988.100390977017,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1234,
+        ["rank_raids"] = 1235,
         ["dps_max"] = 9559.7,
         ["points"] = 2420.6484756146197,
       },
@@ -44754,7 +44754,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1187,
+        ["rank_raids"] = 1188,
         ["dps_max"] = 13096.81,
         ["points"] = 5763.304594868617,
       },
@@ -44831,7 +44831,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1440,
+        ["rank_raids"] = 1441,
         ["dps_max"] = 10908.82,
         ["points"] = 4800.470681837384,
       },
@@ -44908,7 +44908,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1606,
+        ["rank_raids"] = 1607,
         ["dps_max"] = 8820.69,
         ["points"] = 3881.5805686202725,
       },
@@ -44985,7 +44985,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1714,
+        ["rank_raids"] = 1715,
         ["dps_max"] = 2961.79,
         ["points"] = 1303.34775537218,
       },
@@ -45010,7 +45010,7 @@ UWULogsData[3][1] = {
         ["points"] = 4682.239520136618,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1221,
+        ["rank_raids"] = 1222,
         ["dps_max"] = 9663.01,
         ["points"] = 2446.8079988230625,
       },
@@ -45062,7 +45062,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 310,
+        ["rank_raids"] = 311,
         ["dps_max"] = 18490.9,
         ["points"] = 8525.730180806675,
       },
@@ -45139,7 +45139,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1609,
+        ["rank_raids"] = 1610,
         ["dps_max"] = 8732.81,
         ["points"] = 3842.908616610809,
       },
@@ -45164,7 +45164,7 @@ UWULogsData[3][1] = {
         ["points"] = 1518.3815964067016,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1297,
+        ["rank_raids"] = 1298,
         ["dps_max"] = 8534.31,
         ["points"] = 2161.0055223409317,
       },
@@ -45216,7 +45216,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 839,
+        ["rank_raids"] = 840,
         ["dps_max"] = 15107.04,
         ["points"] = 6647.9144957332355,
       },
@@ -45277,87 +45277,10 @@ UWULogsData[3][1] = {
       },
     },
   },
-  ["Nymphomania"] = {
-    ["percentile"] = 17.665,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 589,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 74,
-        ["dps_max"] = 20659.3,
-        ["points"] = 9624.478442280946,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 297,
-        ["dps_max"] = 19397.33,
-        ["points"] = 8001.35043889264,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Halion"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Anub'arak"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Valithria Dreamwalker"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-    },
-  },
   ["Downcome"] = {
     ["percentile"] = 17.657,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 590,
+    ["overall_rank"] = 589,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1313,
@@ -45370,7 +45293,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1580,
+        ["rank_raids"] = 1581,
         ["dps_max"] = 9345.92,
         ["points"] = 4112.710169825668,
       },
@@ -45395,7 +45318,7 @@ UWULogsData[3][1] = {
         ["points"] = 1880.9944487413286,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1291,
+        ["rank_raids"] = 1292,
         ["dps_max"] = 8806.38,
         ["points"] = 2229.8974154715183,
       },
@@ -45431,6 +45354,83 @@ UWULogsData[3][1] = {
       },
     },
   },
+  ["Nymphomania"] = {
+    ["percentile"] = 17.653,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 590,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 75,
+        ["dps_max"] = 20659.3,
+        ["points"] = 9610.5702364395,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 297,
+        ["dps_max"] = 19397.33,
+        ["points"] = 8002.699055330634,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Toravon the Ice Watcher"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Halion"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Anub'arak"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Valithria Dreamwalker"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+    },
+  },
   ["Buuymm"] = {
     ["percentile"] = 17.641,
     ["server"] = "Icecrown",
@@ -45447,7 +45447,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1567,
+        ["rank_raids"] = 1568,
         ["dps_max"] = 9499.38,
         ["points"] = 4180.240867997859,
       },
@@ -45472,7 +45472,7 @@ UWULogsData[3][1] = {
         ["points"] = 2206.217315101931,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1192,
+        ["rank_raids"] = 1193,
         ["dps_max"] = 10142.81,
         ["points"] = 2568.3000057479544,
       },
@@ -45524,7 +45524,7 @@ UWULogsData[3][1] = {
         ["points"] = 4956.391838733961,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 921,
+        ["rank_raids"] = 922,
         ["dps_max"] = 14658.86,
         ["points"] = 6450.691060917566,
       },
@@ -45601,7 +45601,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 343,
+        ["rank_raids"] = 344,
         ["dps_max"] = 18239.86,
         ["points"] = 8428.372739916551,
       },
@@ -45678,7 +45678,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1403,
+        ["rank_raids"] = 1404,
         ["dps_max"] = 11230.88,
         ["points"] = 4942.194496859774,
       },
@@ -45703,7 +45703,7 @@ UWULogsData[3][1] = {
         ["points"] = 3288.530631263497,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1205,
+        ["rank_raids"] = 1206,
         ["dps_max"] = 9901.84,
         ["points"] = 2507.2830634622283,
       },
@@ -45755,7 +45755,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1304,
+        ["rank_raids"] = 1305,
         ["dps_max"] = 12122.49,
         ["points"] = 5334.551109640353,
       },
@@ -45832,7 +45832,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1566,
+        ["rank_raids"] = 1567,
         ["dps_max"] = 9526.08,
         ["points"] = 4191.99031176951,
       },
@@ -45857,7 +45857,7 @@ UWULogsData[3][1] = {
         ["points"] = 2454.758542717728,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1402,
+        ["rank_raids"] = 1403,
         ["dps_max"] = 6730.74,
         ["points"] = 1704.3166125253244,
       },
@@ -45909,7 +45909,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1414,
+        ["rank_raids"] = 1415,
         ["dps_max"] = 11167.09,
         ["points"] = 4914.123447489227,
       },
@@ -45986,7 +45986,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1649,
+        ["rank_raids"] = 1650,
         ["dps_max"] = 7949.85,
         ["points"] = 3498.363878953446,
       },
@@ -46011,7 +46011,7 @@ UWULogsData[3][1] = {
         ["points"] = 3230.4446447028886,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1374,
+        ["rank_raids"] = 1375,
         ["dps_max"] = 7513.54,
         ["points"] = 1902.532417070564,
       },
@@ -46063,7 +46063,7 @@ UWULogsData[3][1] = {
         ["points"] = 3590.0223004872346,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 501,
+        ["rank_raids"] = 502,
         ["dps_max"] = 17198.19,
         ["points"] = 7719.054242002782,
       },
@@ -46140,7 +46140,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1661,
+        ["rank_raids"] = 1662,
         ["dps_max"] = 7644.77,
         ["points"] = 3364.1121821049373,
       },
@@ -46165,7 +46165,7 @@ UWULogsData[3][1] = {
         ["points"] = 2360.796334797428,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1362,
+        ["rank_raids"] = 1363,
         ["dps_max"] = 7678.64,
         ["points"] = 1944.3380242887795,
       },
@@ -46217,7 +46217,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1382,
+        ["rank_raids"] = 1383,
         ["dps_max"] = 11471.61,
         ["points"] = 5048.128714056384,
       },
@@ -46294,7 +46294,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1477,
+        ["rank_raids"] = 1478,
         ["dps_max"] = 10363.62,
         ["points"] = 4560.553200777312,
       },
@@ -46371,7 +46371,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1585,
+        ["rank_raids"] = 1586,
         ["dps_max"] = 9251.87,
         ["points"] = 4071.323084180585,
       },
@@ -46448,7 +46448,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1624,
+        ["rank_raids"] = 1625,
         ["dps_max"] = 8486.88,
         ["points"] = 3734.6861182302077,
       },
@@ -46473,7 +46473,7 @@ UWULogsData[3][1] = {
         ["points"] = 2030.4408602913527,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1339,
+        ["rank_raids"] = 1340,
         ["dps_max"] = 7955.08,
         ["points"] = 2014.336461959303,
       },
@@ -46510,7 +46510,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Aleriyana"] = {
-    ["percentile"] = 17.078,
+    ["percentile"] = 17.079,
     ["server"] = "Icecrown",
     ["overall_rank"] = 605,
     ["bosses"] = {
@@ -46552,7 +46552,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 224,
         ["dps_max"] = 22754.25,
-        ["points"] = 8494.26063470628,
+        ["points"] = 8495.27665317139,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -46602,7 +46602,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 157,
+        ["rank_raids"] = 158,
         ["dps_max"] = 19683.51,
         ["points"] = 9290.68150208623,
       },
@@ -46704,7 +46704,7 @@ UWULogsData[3][1] = {
         ["points"] = 7290.969899665552,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1090,
+        ["rank_raids"] = 1091,
         ["dps_max"] = 11139.56,
         ["points"] = 3181.818181818182,
       },
@@ -46756,7 +46756,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 922,
+        ["rank_raids"] = 923,
         ["dps_max"] = 14657.58,
         ["points"] = 6450.127791703044,
       },
@@ -46833,7 +46833,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1454,
+        ["rank_raids"] = 1455,
         ["dps_max"] = 10705.46,
         ["points"] = 4710.981285380347,
       },
@@ -46910,7 +46910,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1329,
+        ["rank_raids"] = 1330,
         ["dps_max"] = 11905.88,
         ["points"] = 5239.230996704874,
       },
@@ -46987,7 +46987,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1607,
+        ["rank_raids"] = 1608,
         ["dps_max"] = 8800.71,
         ["points"] = 3872.7882882248564,
       },
@@ -47012,7 +47012,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1193,
+        ["rank_raids"] = 1194,
         ["dps_max"] = 10139.34,
         ["points"] = 2567.4213536761968,
       },
@@ -47064,7 +47064,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1411,
+        ["rank_raids"] = 1412,
         ["dps_max"] = 11191.63,
         ["points"] = 4924.922374461374,
       },
@@ -47218,7 +47218,7 @@ UWULogsData[3][1] = {
         ["points"] = 4550.7434878040085,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 966,
+        ["rank_raids"] = 967,
         ["dps_max"] = 14398.23,
         ["points"] = 6335.999767651449,
       },
@@ -47397,7 +47397,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1429,
+        ["rank_raids"] = 1430,
         ["dps_max"] = 5565.41,
         ["points"] = 1409.238912588299,
       },
@@ -47449,7 +47449,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1538,
+        ["rank_raids"] = 1539,
         ["dps_max"] = 9807.61,
         ["points"] = 4315.878735178979,
       },
@@ -47526,7 +47526,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1049,
+        ["rank_raids"] = 1050,
         ["dps_max"] = 13997.13,
         ["points"] = 6159.494078632382,
       },
@@ -47603,7 +47603,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1501,
+        ["rank_raids"] = 1502,
         ["dps_max"] = 10154.85,
         ["points"] = 4468.683111780776,
       },
@@ -47680,7 +47680,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1522,
+        ["rank_raids"] = 1523,
         ["dps_max"] = 9943.07,
         ["points"] = 4375.4884600219675,
       },
@@ -47705,7 +47705,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1319,
+        ["rank_raids"] = 1320,
         ["dps_max"] = 8178.86,
         ["points"] = 2071.0006581028056,
       },
@@ -47757,7 +47757,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1651,
+        ["rank_raids"] = 1652,
         ["dps_max"] = 7925.94,
         ["points"] = 3487.8421860478215,
       },
@@ -47782,7 +47782,7 @@ UWULogsData[3][1] = {
         ["points"] = 2576.5172533687182,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1346,
+        ["rank_raids"] = 1347,
         ["dps_max"] = 7835.32,
         ["points"] = 1984.011570860251,
       },
@@ -47834,7 +47834,7 @@ UWULogsData[3][1] = {
         ["points"] = 2687.22578718866,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1545,
+        ["rank_raids"] = 1546,
         ["dps_max"] = 9748.77,
         ["points"] = 4289.9859534739635,
       },
@@ -47911,7 +47911,7 @@ UWULogsData[3][1] = {
         ["points"] = 4685.26357848908,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 838,
+        ["rank_raids"] = 839,
         ["dps_max"] = 15111.76,
         ["points"] = 6649.991550961782,
       },
@@ -47988,7 +47988,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1599,
+        ["rank_raids"] = 1600,
         ["dps_max"] = 8880.24,
         ["points"] = 3907.7857887177174,
       },
@@ -48013,7 +48013,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1348,
+        ["rank_raids"] = 1349,
         ["dps_max"] = 7793.66,
         ["points"] = 1973.4626817220872,
       },
@@ -48219,7 +48219,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1492,
+        ["rank_raids"] = 1493,
         ["dps_max"] = 10232.38,
         ["points"] = 4502.800504125947,
       },
@@ -48244,7 +48244,7 @@ UWULogsData[3][1] = {
         ["points"] = 3212.8329395180085,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1440,
+        ["rank_raids"] = 1441,
         ["dps_max"] = 4728.09,
         ["points"] = 1197.2178887484679,
       },
@@ -48527,7 +48527,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1639,
+        ["rank_raids"] = 1640,
         ["dps_max"] = 8292.76,
         ["points"] = 3649.262821415496,
       },
@@ -48552,7 +48552,7 @@ UWULogsData[3][1] = {
         ["points"] = 993.5925182183937,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1365,
+        ["rank_raids"] = 1366,
         ["dps_max"] = 7627.86,
         ["points"] = 1931.4798248063992,
       },
@@ -48604,7 +48604,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 271,
+        ["rank_raids"] = 272,
         ["dps_max"] = 18675.16,
         ["points"] = 8734.353268428373,
       },
@@ -48681,7 +48681,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1689,
+        ["rank_raids"] = 1690,
         ["dps_max"] = 6662.07,
         ["points"] = 2931.6710437378547,
       },
@@ -48758,7 +48758,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 600,
+        ["rank_raids"] = 601,
         ["dps_max"] = 16648.18,
         ["points"] = 7326.099431098093,
       },
@@ -48835,7 +48835,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1461,
+        ["rank_raids"] = 1462,
         ["dps_max"] = 10520.74,
         ["points"] = 4629.6944968597745,
       },
@@ -48860,7 +48860,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1150,
+        ["rank_raids"] = 1151,
         ["dps_max"] = 10585.62,
         ["points"] = 2711.038961038961,
       },
@@ -49143,7 +49143,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1499,
+        ["rank_raids"] = 1500,
         ["dps_max"] = 10169.32,
         ["points"] = 4475.050694229307,
       },
@@ -49220,7 +49220,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1586,
+        ["rank_raids"] = 1587,
         ["dps_max"] = 9207.02,
         ["points"] = 4051.5866589686543,
       },
@@ -49245,7 +49245,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1321,
+        ["rank_raids"] = 1322,
         ["dps_max"] = 8175.37,
         ["points"] = 2070.116941753977,
       },
@@ -49297,7 +49297,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1500,
+        ["rank_raids"] = 1501,
         ["dps_max"] = 10157.45,
         ["points"] = 4469.827252372772,
       },
@@ -49374,7 +49374,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1634,
+        ["rank_raids"] = 1635,
         ["dps_max"] = 8343.08,
         ["points"] = 3671.4063424113556,
       },
@@ -49399,7 +49399,7 @@ UWULogsData[3][1] = {
         ["points"] = 2273.348045233179,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1333,
+        ["rank_raids"] = 1334,
         ["dps_max"] = 8023.55,
         ["points"] = 2031.6740145106733,
       },
@@ -49451,7 +49451,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1263,
+        ["rank_raids"] = 1264,
         ["dps_max"] = 12477.38,
         ["points"] = 5490.721899907061,
       },
@@ -49528,7 +49528,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1570,
+        ["rank_raids"] = 1571,
         ["dps_max"] = 9489.0,
         ["points"] = 4175.673106711353,
       },
@@ -49682,7 +49682,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1643,
+        ["rank_raids"] = 1644,
         ["dps_max"] = 8145.59,
         ["points"] = 3584.500063367787,
       },
@@ -49707,7 +49707,7 @@ UWULogsData[3][1] = {
         ["points"] = 1939.8893532677214,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1381,
+        ["rank_raids"] = 1382,
         ["dps_max"] = 7331.89,
         ["points"] = 1856.5361205763859,
       },
@@ -49759,7 +49759,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1685,
+        ["rank_raids"] = 1686,
         ["dps_max"] = 6924.26,
         ["points"] = 3047.048821359169,
       },
@@ -49784,7 +49784,7 @@ UWULogsData[3][1] = {
         ["points"] = 2071.336157450442,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1393,
+        ["rank_raids"] = 1394,
         ["dps_max"] = 7017.81,
         ["points"] = 1777.006713458899,
       },
@@ -49861,7 +49861,7 @@ UWULogsData[3][1] = {
         ["points"] = 4530.872519732158,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1119,
+        ["rank_raids"] = 1120,
         ["dps_max"] = 10813.34,
         ["points"] = 2970.7792207792204,
       },
@@ -49913,7 +49913,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1488,
+        ["rank_raids"] = 1489,
         ["dps_max"] = 10243.24,
         ["points"] = 4507.579491367899,
       },
@@ -49938,7 +49938,7 @@ UWULogsData[3][1] = {
         ["points"] = 1459.273818731418,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1279,
+        ["rank_raids"] = 1280,
         ["dps_max"] = 8993.11,
         ["points"] = 2277.180038341642,
       },
@@ -49990,7 +49990,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 672,
+        ["rank_raids"] = 673,
         ["dps_max"] = 16176.12,
         ["points"] = 7118.367504999014,
       },
@@ -50067,7 +50067,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 643,
+        ["rank_raids"] = 644,
         ["dps_max"] = 16381.15,
         ["points"] = 7208.5917917593715,
       },
@@ -50144,7 +50144,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1513,
+        ["rank_raids"] = 1514,
         ["dps_max"] = 10008.62,
         ["points"] = 4404.334004562481,
       },
@@ -50169,7 +50169,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1310,
+        ["rank_raids"] = 1311,
         ["dps_max"] = 8330.86,
         ["points"] = 2109.4891638397453,
       },
@@ -50221,7 +50221,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1349,
+        ["rank_raids"] = 1350,
         ["dps_max"] = 11732.85,
         ["points"] = 5163.088440307545,
       },
@@ -50298,7 +50298,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1682,
+        ["rank_raids"] = 1683,
         ["dps_max"] = 7089.74,
         ["points"] = 3119.8689694989716,
       },
@@ -50323,7 +50323,7 @@ UWULogsData[3][1] = {
         ["points"] = 2050.3184818833124,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1425,
+        ["rank_raids"] = 1426,
         ["dps_max"] = 5732.86,
         ["points"] = 1451.6395723623157,
       },
@@ -50375,7 +50375,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1511,
+        ["rank_raids"] = 1512,
         ["dps_max"] = 10018.18,
         ["points"] = 4408.5409215084355,
       },
@@ -50529,7 +50529,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1575,
+        ["rank_raids"] = 1576,
         ["dps_max"] = 9411.88,
         ["points"] = 4141.736136536458,
       },
@@ -50554,7 +50554,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1303,
+        ["rank_raids"] = 1304,
         ["dps_max"] = 8424.92,
         ["points"] = 2133.306458903012,
       },
@@ -50606,7 +50606,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1483,
+        ["rank_raids"] = 1484,
         ["dps_max"] = 10295.41,
         ["points"] = 4530.537112400371,
       },
@@ -50631,7 +50631,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1224,
+        ["rank_raids"] = 1225,
         ["dps_max"] = 9614.51,
         ["points"] = 2434.527126926736,
       },
@@ -50683,7 +50683,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 478,
+        ["rank_raids"] = 479,
         ["dps_max"] = 17324.48,
         ["points"] = 7830.319888734352,
       },
@@ -50760,7 +50760,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1622,
+        ["rank_raids"] = 1623,
         ["dps_max"] = 8567.23,
         ["points"] = 3770.044463063621,
       },
@@ -50837,7 +50837,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 686,
+        ["rank_raids"] = 687,
         ["dps_max"] = 16047.63,
         ["points"] = 7061.824957050722,
       },
@@ -50914,7 +50914,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1656,
+        ["rank_raids"] = 1657,
         ["dps_max"] = 7765.62,
         ["points"] = 3417.292716929056,
       },
@@ -50939,7 +50939,7 @@ UWULogsData[3][1] = {
         ["points"] = 1586.018491580867,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1416,
+        ["rank_raids"] = 1417,
         ["dps_max"] = 6367.75,
         ["points"] = 1612.4025158315633,
       },
@@ -50991,7 +50991,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1355,
+        ["rank_raids"] = 1356,
         ["dps_max"] = 11706.19,
         ["points"] = 5151.356598698849,
       },
@@ -51068,7 +51068,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1671,
+        ["rank_raids"] = 1672,
         ["dps_max"] = 7453.5,
         ["points"] = 3279.9430394006818,
       },
@@ -51093,7 +51093,7 @@ UWULogsData[3][1] = {
         ["points"] = 620.2603202085211,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1427,
+        ["rank_raids"] = 1428,
         ["dps_max"] = 5656.55,
         ["points"] = 1432.3168231992508,
       },
@@ -51145,7 +51145,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1638,
+        ["rank_raids"] = 1639,
         ["dps_max"] = 8295.96,
         ["points"] = 3650.670994451798,
       },
@@ -51170,7 +51170,7 @@ UWULogsData[3][1] = {
         ["points"] = 2002.6017829308848,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1422,
+        ["rank_raids"] = 1423,
         ["dps_max"] = 6052.98,
         ["points"] = 1532.6983911551388,
       },
@@ -51222,7 +51222,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1533,
+        ["rank_raids"] = 1534,
         ["dps_max"] = 9861.85,
         ["points"] = 4339.74726814431,
       },
@@ -51247,7 +51247,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1069,
+        ["rank_raids"] = 1070,
         ["dps_max"] = 11377.18,
         ["points"] = 3392.857142857143,
       },
@@ -51299,7 +51299,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1559,
+        ["rank_raids"] = 1560,
         ["dps_max"] = 9593.11,
         ["points"] = 4221.487136339314,
       },
@@ -51376,7 +51376,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1632,
+        ["rank_raids"] = 1633,
         ["dps_max"] = 8356.1,
         ["points"] = 3677.1358464528125,
       },
@@ -51401,7 +51401,7 @@ UWULogsData[3][1] = {
         ["points"] = 2016.5236868683287,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1332,
+        ["rank_raids"] = 1333,
         ["dps_max"] = 8024.43,
         ["points"] = 2031.896842701782,
       },
@@ -51453,7 +51453,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 976,
+        ["rank_raids"] = 977,
         ["dps_max"] = 14347.74,
         ["points"] = 6313.781437463035,
       },
@@ -51530,7 +51530,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 675,
+        ["rank_raids"] = 676,
         ["dps_max"] = 16149.87,
         ["points"] = 7106.816085560595,
       },
@@ -51607,7 +51607,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1664,
+        ["rank_raids"] = 1665,
         ["dps_max"] = 7581.86,
         ["points"] = 3336.4283803193734,
       },
@@ -51632,7 +51632,7 @@ UWULogsData[3][1] = {
         ["points"] = 469.2102642701881,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1426,
+        ["rank_raids"] = 1427,
         ["dps_max"] = 5695.7,
         ["points"] = 1442.230145565048,
       },
@@ -51684,7 +51684,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1654,
+        ["rank_raids"] = 1655,
         ["dps_max"] = 7825.65,
         ["points"] = 3443.709162981947,
       },
@@ -51761,7 +51761,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1587,
+        ["rank_raids"] = 1588,
         ["dps_max"] = 9190.42,
         ["points"] = 4044.2817613428338,
       },
@@ -51838,7 +51838,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1673,
+        ["rank_raids"] = 1674,
         ["dps_max"] = 7361.41,
         ["points"] = 3239.418459740333,
       },
@@ -51863,7 +51863,7 @@ UWULogsData[3][1] = {
         ["points"] = 1226.3669412730287,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1433,
+        ["rank_raids"] = 1434,
         ["dps_max"] = 5357.04,
         ["points"] = 1356.4767419277323,
       },
@@ -51915,7 +51915,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1665,
+        ["rank_raids"] = 1666,
         ["dps_max"] = 7576.73,
         ["points"] = 3334.170902920551,
       },
@@ -51940,7 +51940,7 @@ UWULogsData[3][1] = {
         ["points"] = 702.9544427808802,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1398,
+        ["rank_raids"] = 1399,
         ["dps_max"] = 6778.29,
         ["points"] = 1716.356931260795,
       },
@@ -51992,7 +51992,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 892,
+        ["rank_raids"] = 893,
         ["dps_max"] = 14794.2,
         ["points"] = 6510.247979271694,
       },
@@ -52287,7 +52287,7 @@ UWULogsData[3][1] = {
   ["Unknown-0B028EE"] = {
     ["percentile"] = 12.678,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -52377,7 +52377,7 @@ UWULogsData[3][1] = {
         ["points"] = 3808.650988837072,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1528,
+        ["rank_raids"] = 1529,
         ["dps_max"] = 9908.33,
         ["points"] = 4360.200981496607,
       },
@@ -52454,7 +52454,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 940,
+        ["rank_raids"] = 941,
         ["dps_max"] = 14556.49,
         ["points"] = 6405.642725378095,
       },
@@ -52531,7 +52531,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1644,
+        ["rank_raids"] = 1645,
         ["dps_max"] = 8070.88,
         ["points"] = 3551.623623510857,
       },
@@ -52556,7 +52556,7 @@ UWULogsData[3][1] = {
         ["points"] = 873.8395456813952,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1413,
+        ["rank_raids"] = 1414,
         ["dps_max"] = 6518.65,
         ["points"] = 1650.612486329617,
       },
@@ -52608,7 +52608,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1498,
+        ["rank_raids"] = 1499,
         ["dps_max"] = 10180.04,
         ["points"] = 4479.768073900922,
       },
@@ -52787,7 +52787,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1057,
+        ["rank_raids"] = 1058,
         ["dps_max"] = 11484.82,
         ["points"] = 3474.025974025974,
       },
@@ -52826,7 +52826,7 @@ UWULogsData[3][1] = {
   ["Unknown-03E084E"] = {
     ["percentile"] = 12.159,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -52993,7 +52993,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1672,
+        ["rank_raids"] = 1673,
         ["dps_max"] = 7391.55,
         ["points"] = 3252.681689526009,
       },
@@ -53095,7 +53095,7 @@ UWULogsData[3][1] = {
         ["points"] = 1780.3149103449257,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1296,
+        ["rank_raids"] = 1297,
         ["dps_max"] = 8642.42,
         ["points"] = 2188.38047204633,
       },
@@ -53172,7 +53172,7 @@ UWULogsData[3][1] = {
         ["points"] = 3795.7978840409,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 920,
+        ["rank_raids"] = 921,
         ["dps_max"] = 12483.9,
         ["points"] = 4480.519480519481,
       },
@@ -53224,7 +53224,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1605,
+        ["rank_raids"] = 1606,
         ["dps_max"] = 8829.19,
         ["points"] = 3885.3210282479517,
       },
@@ -53249,7 +53249,7 @@ UWULogsData[3][1] = {
         ["points"] = 1146.946334679165,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1410,
+        ["rank_raids"] = 1411,
         ["dps_max"] = 6649.04,
         ["points"] = 1683.6290406917196,
       },
@@ -53301,7 +53301,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1010,
+        ["rank_raids"] = 1011,
         ["dps_max"] = 14147.94,
         ["points"] = 6225.858633508886,
       },
@@ -53378,7 +53378,7 @@ UWULogsData[3][1] = {
         ["points"] = 5237.462867078655,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 907,
+        ["rank_raids"] = 908,
         ["dps_max"] = 14729.04,
         ["points"] = 6481.57405581998,
       },
@@ -53455,7 +53455,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1204,
+        ["rank_raids"] = 1205,
         ["dps_max"] = 12943.95,
         ["points"] = 5696.0379291407335,
       },
@@ -53609,7 +53609,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1565,
+        ["rank_raids"] = 1566,
         ["dps_max"] = 9543.56,
         ["points"] = 4199.682456980314,
       },
@@ -53917,7 +53917,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1352,
+        ["rank_raids"] = 1353,
         ["dps_max"] = 11719.52,
         ["points"] = 5157.222519503197,
       },
@@ -53994,7 +53994,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1581,
+        ["rank_raids"] = 1582,
         ["dps_max"] = 9328.99,
         ["points"] = 4105.260054355479,
       },
@@ -54071,7 +54071,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1160,
+        ["rank_raids"] = 1161,
         ["dps_max"] = 13308.01,
         ["points"] = 5856.244015264596,
       },
@@ -54148,7 +54148,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1542,
+        ["rank_raids"] = 1543,
         ["dps_max"] = 9778.01,
         ["points"] = 4302.853134593179,
       },
@@ -54225,7 +54225,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1629,
+        ["rank_raids"] = 1630,
         ["dps_max"] = 8443.08,
         ["points"] = 3715.411749795815,
       },
@@ -54250,7 +54250,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1306,
+        ["rank_raids"] = 1307,
         ["dps_max"] = 8384.15,
         ["points"] = 2122.982930094492,
       },
@@ -54327,7 +54327,7 @@ UWULogsData[3][1] = {
         ["points"] = 3960.9306814069496,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1342,
+        ["rank_raids"] = 1343,
         ["dps_max"] = 7905.43,
         ["points"] = 2001.7643941314147,
       },
@@ -54404,7 +54404,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1436,
+        ["rank_raids"] = 1437,
         ["dps_max"] = 5207.52,
         ["points"] = 1318.6162065475535,
       },
@@ -54597,7 +54597,7 @@ UWULogsData[3][1] = {
   ["Unknown-0BB7A96"] = {
     ["percentile"] = 11.046,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -54712,7 +54712,7 @@ UWULogsData[3][1] = {
         ["points"] = 1866.2967404390392,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1458,
+        ["rank_raids"] = 1459,
         ["dps_max"] = 3435.73,
         ["points"] = 869.974432997209,
       },
@@ -54764,7 +54764,7 @@ UWULogsData[3][1] = {
         ["points"] = 2829.717655633837,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1551,
+        ["rank_raids"] = 1552,
         ["dps_max"] = 9676.24,
         ["points"] = 4258.068831498014,
       },
@@ -54841,7 +54841,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1222,
+        ["rank_raids"] = 1223,
         ["dps_max"] = 12829.78,
         ["points"] = 5645.796955529896,
       },
@@ -55097,7 +55097,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 970,
+        ["rank_raids"] = 971,
         ["dps_max"] = 12127.9,
         ["points"] = 4107.142857142857,
       },
@@ -55226,7 +55226,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1300,
+        ["rank_raids"] = 1301,
         ["dps_max"] = 12162.7,
         ["points"] = 5352.245683949644,
       },
@@ -55380,7 +55380,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1253,
+        ["rank_raids"] = 1254,
         ["dps_max"] = 12593.51,
         ["points"] = 5541.825379502634,
       },
@@ -55457,7 +55457,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1636,
+        ["rank_raids"] = 1637,
         ["dps_max"] = 8337.78,
         ["points"] = 3669.0740558199795,
       },
@@ -55482,7 +55482,7 @@ UWULogsData[3][1] = {
         ["points"] = 751.7023938768222,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1477,
+        ["rank_raids"] = 1478,
         ["dps_max"] = 733.3,
         ["points"] = 185.68171879538065,
       },
@@ -55534,7 +55534,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1245,
+        ["rank_raids"] = 1246,
         ["dps_max"] = 12622.73,
         ["points"] = 5554.683759540372,
       },
@@ -55636,7 +55636,7 @@ UWULogsData[3][1] = {
         ["points"] = 5351.170568561873,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 856,
+        ["rank_raids"] = 857,
         ["dps_max"] = 13004.36,
         ["points"] = 4951.298701298701,
       },
@@ -55713,7 +55713,7 @@ UWULogsData[3][1] = {
         ["points"] = 2761.584438499765,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1399,
+        ["rank_raids"] = 1400,
         ["dps_max"] = 6774.12,
         ["points"] = 1715.3010294915643,
       },
@@ -55765,7 +55765,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1663,
+        ["rank_raids"] = 1664,
         ["dps_max"] = 7602.36,
         ["points"] = 3345.4494888331874,
       },
@@ -55842,7 +55842,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1647,
+        ["rank_raids"] = 1648,
         ["dps_max"] = 7996.0,
         ["points"] = 3518.672374461374,
       },
@@ -55919,7 +55919,7 @@ UWULogsData[3][1] = {
         ["points"] = 1378.3076901310462,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1710,
+        ["rank_raids"] = 1711,
         ["dps_max"] = 3216.9,
         ["points"] = 1415.6099501506746,
       },
@@ -55944,7 +55944,7 @@ UWULogsData[3][1] = {
         ["points"] = 1122.0165236868684,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1460,
+        ["rank_raids"] = 1461,
         ["dps_max"] = 3364.37,
         ["points"] = 851.9050924091298,
       },
@@ -55996,7 +55996,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1370,
+        ["rank_raids"] = 1371,
         ["dps_max"] = 11582.75,
         ["points"] = 5097.036323823471,
       },
@@ -56098,7 +56098,7 @@ UWULogsData[3][1] = {
         ["points"] = 4371.198736006548,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 750,
+        ["rank_raids"] = 751,
         ["dps_max"] = 13877.83,
         ["points"] = 5503.2467532467535,
       },
@@ -56227,7 +56227,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1486,
+        ["rank_raids"] = 1487,
         ["dps_max"] = 10256.48,
         ["points"] = 4513.405807305601,
       },
@@ -56304,7 +56304,7 @@ UWULogsData[3][1] = {
         ["points"] = 1233.3325690053962,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1704,
+        ["rank_raids"] = 1705,
         ["dps_max"] = 4623.72,
         ["points"] = 2034.6868223167264,
       },
@@ -56458,7 +56458,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1321,
+        ["rank_raids"] = 1322,
         ["dps_max"] = 11958.02,
         ["points"] = 5262.175416115132,
       },
@@ -56483,7 +56483,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 951,
+        ["rank_raids"] = 952,
         ["dps_max"] = 12272.57,
         ["points"] = 4237.012987012987,
       },
@@ -56535,7 +56535,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1335,
+        ["rank_raids"] = 1336,
         ["dps_max"] = 11875.16,
         ["points"] = 5225.712535556369,
       },
@@ -56612,7 +56612,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 138,
+        ["rank_raids"] = 139,
         ["dps_max"] = 19838.58,
         ["points"] = 9388.038942976356,
       },
@@ -56689,7 +56689,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1674,
+        ["rank_raids"] = 1675,
         ["dps_max"] = 7354.21,
         ["points"] = 3236.2500704086515,
       },
@@ -56714,7 +56714,7 @@ UWULogsData[3][1] = {
         ["points"] = 741.0965805476517,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1467,
+        ["rank_raids"] = 1468,
         ["dps_max"] = 2421.72,
         ["points"] = 613.2130533767206,
       },
@@ -56843,7 +56843,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 149,
+        ["rank_raids"] = 150,
         ["dps_max"] = 19749.13,
         ["points"] = 9346.314325452016,
       },
@@ -56997,7 +56997,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1307,
+        ["rank_raids"] = 1308,
         ["dps_max"] = 12088.54,
         ["points"] = 5319.611273833329,
       },
@@ -57074,7 +57074,7 @@ UWULogsData[3][1] = {
         ["points"] = 1954.090561151683,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1683,
+        ["rank_raids"] = 1684,
         ["dps_max"] = 7005.09,
         ["points"] = 3082.618392148027,
       },
@@ -57099,7 +57099,7 @@ UWULogsData[3][1] = {
         ["points"] = 2529.8507286174836,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1405,
+        ["rank_raids"] = 1406,
         ["dps_max"] = 6701.99,
         ["points"] = 1697.0367142362652,
       },
@@ -57176,7 +57176,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1085,
+        ["rank_raids"] = 1086,
         ["dps_max"] = 11206.28,
         ["points"] = 3230.5194805194806,
       },
@@ -57228,7 +57228,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1705,
+        ["rank_raids"] = 1706,
         ["dps_max"] = 4336.96,
         ["points"] = 1908.4969161010506,
       },
@@ -57253,7 +57253,7 @@ UWULogsData[3][1] = {
         ["points"] = 578.901432636292,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1366,
+        ["rank_raids"] = 1367,
         ["dps_max"] = 7602.22,
         ["points"] = 1924.9874216018259,
       },
@@ -57305,7 +57305,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1315,
+        ["rank_raids"] = 1316,
         ["dps_max"] = 11998.35,
         ["points"] = 5279.922796913284,
       },
@@ -57382,7 +57382,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 221,
+        ["rank_raids"] = 222,
         ["dps_max"] = 19143.06,
         ["points"] = 8998.609179415855,
       },
@@ -57486,7 +57486,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 156,
         ["dps_max"] = 26050.87,
-        ["points"] = 8953.409858203917,
+        ["points"] = 8954.116059379217,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -57638,7 +57638,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1448,
+        ["rank_raids"] = 1449,
         ["dps_max"] = 4240.34,
         ["points"] = 1073.7128316879919,
       },
@@ -57690,7 +57690,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1340,
+        ["rank_raids"] = 1341,
         ["dps_max"] = 11811.51,
         ["points"] = 5197.703093756161,
       },
@@ -57908,7 +57908,7 @@ UWULogsData[3][1] = {
   ["Unknown-0A8E2F3"] = {
     ["percentile"] = 8.877,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -57998,7 +57998,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1428,
+        ["rank_raids"] = 1429,
         ["dps_max"] = 11038.4,
         ["points"] = 4857.492888726167,
       },
@@ -58075,7 +58075,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1591,
+        ["rank_raids"] = 1592,
         ["dps_max"] = 9095.09,
         ["points"] = 4002.331406483229,
       },
@@ -58214,7 +58214,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Fatmendoza"] = {
-    ["percentile"] = 8.75,
+    ["percentile"] = 8.751,
     ["server"] = "Icecrown",
     ["overall_rank"] = 757,
     ["bosses"] = {
@@ -58256,7 +58256,7 @@ UWULogsData[3][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 189,
         ["dps_max"] = 24160.04,
-        ["points"] = 8730.587440918298,
+        ["points"] = 8731.44399460189,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = nil,
@@ -58370,7 +58370,7 @@ UWULogsData[3][1] = {
   ["Unknown-09106D9"] = {
     ["percentile"] = 8.713,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -58793,7 +58793,7 @@ UWULogsData[3][1] = {
         ["points"] = 3141.667080586679,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 751,
+        ["rank_raids"] = 752,
         ["dps_max"] = 13876.39,
         ["points"] = 5487.012987012987,
       },
@@ -58845,7 +58845,7 @@ UWULogsData[3][1] = {
         ["points"] = 546.0618978783069,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1708,
+        ["rank_raids"] = 1709,
         ["dps_max"] = 3307.09,
         ["points"] = 1455.2984270707186,
       },
@@ -58870,7 +58870,7 @@ UWULogsData[3][1] = {
         ["points"] = 669.0886900495996,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1464,
+        ["rank_raids"] = 1465,
         ["dps_max"] = 3224.98,
         ["points"] = 816.609613365235,
       },
@@ -58922,7 +58922,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1510,
+        ["rank_raids"] = 1511,
         ["dps_max"] = 10026.65,
         ["points"] = 4412.268179513899,
       },
@@ -59101,7 +59101,7 @@ UWULogsData[3][1] = {
         ["points"] = 4189.111774959968,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 950,
+        ["rank_raids"] = 951,
         ["dps_max"] = 12283.73,
         ["points"] = 4253.2467532467535,
       },
@@ -59230,7 +59230,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1662,
+        ["rank_raids"] = 1663,
         ["dps_max"] = 7639.42,
         ["points"] = 3361.7578928098683,
       },
@@ -59255,7 +59255,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1450,
+        ["rank_raids"] = 1451,
         ["dps_max"] = 4084.62,
         ["points"] = 1034.2823704159114,
       },
@@ -59307,7 +59307,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1363,
+        ["rank_raids"] = 1364,
         ["dps_max"] = 11623.78,
         ["points"] = 5115.091742473315,
       },
@@ -59384,7 +59384,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 358,
+        ["rank_raids"] = 359,
         ["dps_max"] = 18172.39,
         ["points"] = 8317.107093184979,
       },
@@ -59461,7 +59461,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 360,
+        ["rank_raids"] = 361,
         ["dps_max"] = 18158.11,
         ["points"] = 8303.198887343533,
       },
@@ -59525,7 +59525,7 @@ UWULogsData[3][1] = {
   ["Unknown-00029D7"] = {
     ["percentile"] = 8.246,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -59692,7 +59692,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 954,
+        ["rank_raids"] = 955,
         ["dps_max"] = 14473.36,
         ["points"] = 6369.061030219394,
       },
@@ -59846,7 +59846,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1678,
+        ["rank_raids"] = 1679,
         ["dps_max"] = 7261.36,
         ["points"] = 3195.3910496521808,
       },
@@ -59923,7 +59923,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1646,
+        ["rank_raids"] = 1647,
         ["dps_max"] = 7998.11,
         ["points"] = 3519.6008885571855,
       },
@@ -60025,7 +60025,7 @@ UWULogsData[3][1] = {
         ["points"] = 4407.723037841751,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1049,
+        ["rank_raids"] = 1050,
         ["dps_max"] = 11527.54,
         ["points"] = 3538.961038961039,
       },
@@ -60141,7 +60141,7 @@ UWULogsData[3][1] = {
   ["Unknown-07E177E"] = {
     ["percentile"] = 7.922,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -60218,7 +60218,7 @@ UWULogsData[3][1] = {
   ["Unknown-0BA13D6"] = {
     ["percentile"] = 7.912,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -60616,7 +60616,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 521,
+        ["rank_raids"] = 522,
         ["dps_max"] = 17057.11,
         ["points"] = 7593.880389429763,
       },
@@ -60693,7 +60693,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1700,
+        ["rank_raids"] = 1701,
         ["dps_max"] = 5173.79,
         ["points"] = 2276.747366716422,
       },
@@ -60847,7 +60847,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1687,
+        ["rank_raids"] = 1688,
         ["dps_max"] = 6751.66,
         ["points"] = 2971.0954882135916,
       },
@@ -60872,7 +60872,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1479,
+        ["rank_raids"] = 1480,
         ["dps_max"] = 268.3,
         ["points"] = 67.93727690276917,
       },
@@ -60988,7 +60988,7 @@ UWULogsData[3][1] = {
   ["Unknown-01AEE6C"] = {
     ["percentile"] = 7.435,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -61078,7 +61078,7 @@ UWULogsData[3][1] = {
         ["points"] = 240.08028370552037,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1707,
+        ["rank_raids"] = 1708,
         ["dps_max"] = 4007.33,
         ["points"] = 1763.441891739657,
       },
@@ -61103,7 +61103,7 @@ UWULogsData[3][1] = {
         ["points"] = 34.3009600579015,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1471,
+        ["rank_raids"] = 1472,
         ["dps_max"] = 1663.64,
         ["points"] = 421.25669529080477,
       },
@@ -61296,7 +61296,7 @@ UWULogsData[3][1] = {
   ["Unknown-07778C8"] = {
     ["percentile"] = 7.243,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -61386,7 +61386,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 647,
+        ["rank_raids"] = 648,
         ["dps_max"] = 16354.34,
         ["points"] = 7196.793942039598,
       },
@@ -61450,7 +61450,7 @@ UWULogsData[3][1] = {
   ["Unknown-000D5A6"] = {
     ["percentile"] = 7.207,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -61604,7 +61604,7 @@ UWULogsData[3][1] = {
   ["Unknown-0914FB9"] = {
     ["percentile"] = 7.16,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -61694,7 +61694,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1458,
+        ["rank_raids"] = 1459,
         ["dps_max"] = 10572.51,
         ["points"] = 4652.476096262709,
       },
@@ -61925,7 +61925,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1305,
+        ["rank_raids"] = 1306,
         ["dps_max"] = 12098.81,
         ["points"] = 5324.130629171713,
       },
@@ -62027,7 +62027,7 @@ UWULogsData[3][1] = {
         ["points"] = 3858.921868458586,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1087,
+        ["rank_raids"] = 1088,
         ["dps_max"] = 11156.46,
         ["points"] = 3214.2857142857147,
       },
@@ -62156,7 +62156,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1482,
+        ["rank_raids"] = 1483,
         ["dps_max"] = 10300.21,
         ["points"] = 4532.649371954825,
       },
@@ -62541,7 +62541,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 759,
+        ["rank_raids"] = 760,
         ["dps_max"] = 15544.55,
         ["points"] = 6840.442553580984,
       },
@@ -62695,7 +62695,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1470,
+        ["rank_raids"] = 1471,
         ["dps_max"] = 10424.55,
         ["points"] = 4587.365695496663,
       },
@@ -62720,7 +62720,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1295,
+        ["rank_raids"] = 1296,
         ["dps_max"] = 8664.15,
         ["points"] = 2193.8828090835914,
       },
@@ -62772,7 +62772,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1669,
+        ["rank_raids"] = 1670,
         ["dps_max"] = 7508.87,
         ["points"] = 3304.3088334694567,
       },
@@ -63144,7 +63144,7 @@ UWULogsData[3][1] = {
   ["Unknown-0A8BB68"] = {
     ["percentile"] = 6.536,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -63234,7 +63234,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1696,
+        ["rank_raids"] = 1697,
         ["dps_max"] = 5924.9,
         ["points"] = 2607.2763821218346,
       },
@@ -63375,7 +63375,7 @@ UWULogsData[3][1] = {
   ["Unknown-0A81D14"] = {
     ["percentile"] = 6.507,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -63465,7 +63465,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 919,
+        ["rank_raids"] = 920,
         ["dps_max"] = 14671.33,
         ["points"] = 6456.178535218408,
       },
@@ -63606,7 +63606,7 @@ UWULogsData[3][1] = {
   ["Unknown-0A9DE70"] = {
     ["percentile"] = 6.425,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -63696,7 +63696,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1684,
+        ["rank_raids"] = 1685,
         ["dps_max"] = 7004.94,
         ["points"] = 3082.55238403695,
       },
@@ -64530,7 +64530,7 @@ UWULogsData[3][1] = {
   ["Unknown-035DBFE"] = {
     ["percentile"] = 6.217,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -64799,7 +64799,7 @@ UWULogsData[3][1] = {
         ["points"] = 3784.3169255440685,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1283,
+        ["rank_raids"] = 1284,
         ["dps_max"] = 8984.0,
         ["points"] = 2274.8732601359607,
       },
@@ -64915,7 +64915,7 @@ UWULogsData[3][1] = {
   ["Unknown-0B12FA2"] = {
     ["percentile"] = 6.044,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -65214,9 +65214,9 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Valithria Dreamwalker"] = {
-        ["rank_raids"] = 43700,
+        ["rank_raids"] = 43707,
         ["dps_max"] = 21690.64,
-        ["points"] = 3180.9999999999995,
+        ["points"] = 3180.2999999999997,
       },
     },
   },
@@ -65467,7 +65467,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1143,
+        ["rank_raids"] = 1144,
         ["dps_max"] = 13415.94,
         ["points"] = 5903.739051454643,
       },
@@ -65621,7 +65621,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1702,
+        ["rank_raids"] = 1703,
         ["dps_max"] = 4991.42,
         ["points"] = 2196.4947052693838,
       },
@@ -65723,7 +65723,7 @@ UWULogsData[3][1] = {
         ["points"] = 1074.384973993997,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1423,
+        ["rank_raids"] = 1424,
         ["dps_max"] = 6025.19,
         ["points"] = 1525.6615781654707,
       },
@@ -65762,7 +65762,7 @@ UWULogsData[3][1] = {
   ["Unknown-051ABE6"] = {
     ["percentile"] = 5.795,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -66262,7 +66262,7 @@ UWULogsData[3][1] = {
         ["points"] = 3401.041186223796,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1277,
+        ["rank_raids"] = 1278,
         ["dps_max"] = 9021.39,
         ["points"] = 2284.3409261195407,
       },
@@ -66339,7 +66339,7 @@ UWULogsData[3][1] = {
         ["points"] = 2405.863945674773,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1088,
+        ["rank_raids"] = 1089,
         ["dps_max"] = 11153.18,
         ["points"] = 3198.0519480519483,
       },
@@ -66493,7 +66493,7 @@ UWULogsData[3][1] = {
         ["points"] = 3458.2283750446445,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1324,
+        ["rank_raids"] = 1325,
         ["dps_max"] = 8146.77,
         ["points"] = 2062.8750255429477,
       },
@@ -66699,7 +66699,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1560,
+        ["rank_raids"] = 1561,
         ["dps_max"] = 9591.97,
         ["points"] = 4220.9854746951305,
       },
@@ -66853,7 +66853,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1303,
+        ["rank_raids"] = 1304,
         ["dps_max"] = 12125.61,
         ["points"] = 5335.924078350748,
       },
@@ -67161,7 +67161,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1336,
+        ["rank_raids"] = 1337,
         ["dps_max"] = 11848.39,
         ["points"] = 5213.93228799955,
       },
@@ -67238,7 +67238,7 @@ UWULogsData[3][1] = {
         ["points"] = 1329.745220226459,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1703,
+        ["rank_raids"] = 1704,
         ["dps_max"] = 4711.37,
         ["points"] = 2073.2575618892047,
       },
@@ -67302,7 +67302,7 @@ UWULogsData[3][1] = {
   ["Unknown-01C9C58"] = {
     ["percentile"] = 5.179,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -67531,7 +67531,7 @@ UWULogsData[3][1] = {
     },
   },
   ["Wonnejo"] = {
-    ["percentile"] = 5.015,
+    ["percentile"] = 5.014,
     ["server"] = "Icecrown",
     ["overall_rank"] = 878,
     ["bosses"] = {
@@ -67687,7 +67687,7 @@ UWULogsData[3][1] = {
   ["Unknown-001D8CF"] = {
     ["percentile"] = 4.959,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -67764,7 +67764,7 @@ UWULogsData[3][1] = {
   ["Unknown-0731318"] = {
     ["percentile"] = 4.933,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -68085,7 +68085,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1430,
+        ["rank_raids"] = 1431,
         ["dps_max"] = 11028.76,
         ["points"] = 4853.250767454305,
       },
@@ -68380,7 +68380,7 @@ UWULogsData[3][1] = {
   ["Unknown-0858A6D"] = {
     ["percentile"] = 4.769,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -68547,7 +68547,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1456,
+        ["rank_raids"] = 1457,
         ["dps_max"] = 10647.24,
         ["points"] = 4685.361337201115,
       },
@@ -68611,7 +68611,7 @@ UWULogsData[3][1] = {
   ["Unknown-0A97324"] = {
     ["percentile"] = 4.69,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -68688,7 +68688,7 @@ UWULogsData[3][1] = {
   ["Unknown-07EE866"] = {
     ["percentile"] = 4.59,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -68919,7 +68919,7 @@ UWULogsData[3][1] = {
   ["Unknown-0739998"] = {
     ["percentile"] = 4.574,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -68996,7 +68996,7 @@ UWULogsData[3][1] = {
   ["Unknown-07995F6"] = {
     ["percentile"] = 4.556,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -69317,7 +69317,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1491,
+        ["rank_raids"] = 1492,
         ["dps_max"] = 10234.03,
         ["points"] = 4503.52659334779,
       },
@@ -69394,7 +69394,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1697,
+        ["rank_raids"] = 1698,
         ["dps_max"] = 5713.69,
         ["points"] = 2514.3325611851183,
       },
@@ -69496,7 +69496,7 @@ UWULogsData[3][1] = {
         ["points"] = 1041.157840709388,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1063,
+        ["rank_raids"] = 1064,
         ["dps_max"] = 11435.9,
         ["points"] = 3441.5584415584417,
       },
@@ -69573,7 +69573,7 @@ UWULogsData[3][1] = {
         ["points"] = 2673.658366979117,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1387,
+        ["rank_raids"] = 1388,
         ["dps_max"] = 7127.31,
         ["points"] = 1804.7336304207074,
       },
@@ -69612,7 +69612,7 @@ UWULogsData[3][1] = {
   ["Unknown-0571776"] = {
     ["percentile"] = 4.485,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -69779,7 +69779,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1516,
+        ["rank_raids"] = 1517,
         ["dps_max"] = 9988.08,
         ["points"] = 4395.295293885712,
       },
@@ -69856,7 +69856,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1520,
+        ["rank_raids"] = 1521,
         ["dps_max"] = 9960.97,
         ["points"] = 4383.365427943786,
       },
@@ -70010,7 +70010,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1527,
+        ["rank_raids"] = 1528,
         ["dps_max"] = 9915.78,
         ["points"] = 4363.479384346749,
       },
@@ -70189,7 +70189,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 939,
+        ["rank_raids"] = 940,
         ["dps_max"] = 12365.37,
         ["points"] = 4334.415584415585,
       },
@@ -70228,7 +70228,7 @@ UWULogsData[3][1] = {
   ["Unknown-0090CCA"] = {
     ["percentile"] = 4.337,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -70420,7 +70420,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 948,
+        ["rank_raids"] = 949,
         ["dps_max"] = 12300.23,
         ["points"] = 4269.480519480519,
       },
@@ -70728,7 +70728,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 958,
+        ["rank_raids"] = 959,
         ["dps_max"] = 12219.76,
         ["points"] = 4188.311688311688,
       },
@@ -71011,7 +71011,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1582,
+        ["rank_raids"] = 1583,
         ["dps_max"] = 9316.9,
         ["points"] = 4099.939800602699,
       },
@@ -71088,7 +71088,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1584,
+        ["rank_raids"] = 1585,
         ["dps_max"] = 9257.86,
         ["points"] = 4073.9590080829134,
       },
@@ -71152,7 +71152,7 @@ UWULogsData[3][1] = {
   ["Unknown-011EE3F"] = {
     ["percentile"] = 4.059,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -71267,7 +71267,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 979,
+        ["rank_raids"] = 980,
         ["dps_max"] = 12048.49,
         ["points"] = 4042.207792207792,
       },
@@ -71383,7 +71383,7 @@ UWULogsData[3][1] = {
   ["Unknown-03AEF60"] = {
     ["percentile"] = 3.945,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -71537,7 +71537,7 @@ UWULogsData[3][1] = {
   ["Unknown-0AC85A2"] = {
     ["percentile"] = 3.903,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -71652,7 +71652,7 @@ UWULogsData[3][1] = {
         ["points"] = 1499.8048662801837,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1463,
+        ["rank_raids"] = 1464,
         ["dps_max"] = 3312.69,
         ["points"] = 838.8190004585704,
       },
@@ -71768,7 +71768,7 @@ UWULogsData[3][1] = {
   ["Unknown-0A4472F"] = {
     ["percentile"] = 3.812,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -71935,7 +71935,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1633,
+        ["rank_raids"] = 1634,
         ["dps_max"] = 8355.85,
         ["points"] = 3677.0258329343515,
       },
@@ -72089,7 +72089,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1635,
+        ["rank_raids"] = 1636,
         ["dps_max"] = 8339.05,
         ["points"] = 3669.6329244937615,
       },
@@ -72153,7 +72153,7 @@ UWULogsData[3][1] = {
   ["Unknown-07FF9B1"] = {
     ["percentile"] = 3.676,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -72268,7 +72268,7 @@ UWULogsData[3][1] = {
         ["points"] = 1344.393276046804,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1278,
+        ["rank_raids"] = 1279,
         ["dps_max"] = 8995.04,
         ["points"] = 2277.6687410789596,
       },
@@ -72397,7 +72397,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1720,
+        ["rank_raids"] = 1721,
         ["dps_max"] = 160.21,
         ["points"] = 70.50106317064241,
       },
@@ -72422,7 +72422,7 @@ UWULogsData[3][1] = {
         ["points"] = 63.653802032702046,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1480,
+        ["rank_raids"] = 1481,
         ["dps_max"] = 186.96,
         ["points"] = 47.3408620564358,
       },
@@ -72538,7 +72538,7 @@ UWULogsData[3][1] = {
   ["Unknown-014EC3F"] = {
     ["percentile"] = 3.501,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -72615,7 +72615,7 @@ UWULogsData[3][1] = {
   ["Unknown-0A48D04"] = {
     ["percentile"] = 3.486,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -72769,7 +72769,7 @@ UWULogsData[3][1] = {
   ["Unknown-0927BF2"] = {
     ["percentile"] = 3.447,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -72859,7 +72859,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1699,
+        ["rank_raids"] = 1700,
         ["dps_max"] = 5225.1,
         ["points"] = 2299.3265412453884,
       },
@@ -73013,7 +73013,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1659,
+        ["rank_raids"] = 1660,
         ["dps_max"] = 7684.5,
         ["points"] = 3381.595530458783,
       },
@@ -73090,7 +73090,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1670,
+        ["rank_raids"] = 1671,
         ["dps_max"] = 7483.35,
         ["points"] = 3293.078653504943,
       },
@@ -73154,7 +73154,7 @@ UWULogsData[3][1] = {
   ["Unknown-015C3B9"] = {
     ["percentile"] = 3.273,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -73244,7 +73244,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1676,
+        ["rank_raids"] = 1677,
         ["dps_max"] = 7306.38,
         ["points"] = 3215.202284056665,
       },
@@ -73308,7 +73308,7 @@ UWULogsData[3][1] = {
   ["Unknown-0A18324"] = {
     ["percentile"] = 3.188,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -73500,7 +73500,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1094,
+        ["rank_raids"] = 1095,
         ["dps_max"] = 11117.59,
         ["points"] = 3149.3506493506497,
       },
@@ -73731,7 +73731,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1113,
+        ["rank_raids"] = 1114,
         ["dps_max"] = 10875.24,
         ["points"] = 3019.4805194805194,
       },
@@ -73808,7 +73808,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1116,
+        ["rank_raids"] = 1117,
         ["dps_max"] = 10836.24,
         ["points"] = 2987.0129870129867,
       },
@@ -73860,7 +73860,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1706,
+        ["rank_raids"] = 1707,
         ["dps_max"] = 4066.86,
         ["points"] = 1789.6383107556258,
       },
@@ -73924,7 +73924,7 @@ UWULogsData[3][1] = {
   ["Unknown-09FF141"] = {
     ["percentile"] = 2.815,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -74039,7 +74039,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1143,
+        ["rank_raids"] = 1144,
         ["dps_max"] = 10627.24,
         ["points"] = 2775.974025974026,
       },
@@ -74232,7 +74232,7 @@ UWULogsData[3][1] = {
   ["Unknown-07DB2D0"] = {
     ["percentile"] = 2.565,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -74347,7 +74347,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1195,
+        ["rank_raids"] = 1196,
         ["dps_max"] = 10099.2,
         ["points"] = 2557.2573495954025,
       },
@@ -74399,7 +74399,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1709,
+        ["rank_raids"] = 1710,
         ["dps_max"] = 3271.2,
         ["points"] = 1439.5048863604359,
       },
@@ -74540,7 +74540,7 @@ UWULogsData[3][1] = {
   ["Unknown-02698A7"] = {
     ["percentile"] = 2.396,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -74655,7 +74655,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1263,
+        ["rank_raids"] = 1264,
         ["dps_max"] = 9186.76,
         ["points"] = 2326.21490107821,
       },
@@ -74886,7 +74886,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1311,
+        ["rank_raids"] = 1312,
         ["dps_max"] = 8281.88,
         ["points"] = 2097.086749293723,
       },
@@ -74938,7 +74938,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1712,
+        ["rank_raids"] = 1713,
         ["dps_max"] = 3047.65,
         ["points"] = 1341.130798152477,
       },
@@ -75040,7 +75040,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1368,
+        ["rank_raids"] = 1369,
         ["dps_max"] = 7575.91,
         ["points"] = 1918.325365115386,
       },
@@ -75079,7 +75079,7 @@ UWULogsData[3][1] = {
   ["Unknown-0698624"] = {
     ["percentile"] = 1.915,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -75233,7 +75233,7 @@ UWULogsData[3][1] = {
   ["Unknown-0A561A6"] = {
     ["percentile"] = 1.703,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -75387,7 +75387,7 @@ UWULogsData[3][1] = {
   ["Unknown-087694E"] = {
     ["percentile"] = 1.314,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -75502,7 +75502,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1438,
+        ["rank_raids"] = 1439,
         ["dps_max"] = 4973.83,
         ["points"] = 1259.4426611155438,
       },
@@ -75618,7 +75618,7 @@ UWULogsData[3][1] = {
   ["Unknown-0BB66F6"] = {
     ["percentile"] = 0.969,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -75785,7 +75785,7 @@ UWULogsData[3][1] = {
         ["points"] = 34.87774737270402,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1718,
+        ["rank_raids"] = 1719,
         ["dps_max"] = 203.29,
         ["points"] = 89.45859267186752,
       },
@@ -75810,7 +75810,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1481,
+        ["rank_raids"] = 1482,
         ["dps_max"] = 120.11,
         ["points"] = 30.41351594778832,
       },
@@ -75849,7 +75849,7 @@ UWULogsData[3][1] = {
   ["Unknown-0B5EB5E"] = {
     ["percentile"] = 0.479,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 7182,
+    ["overall_rank"] = 7184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = nil,
@@ -75939,7 +75939,7 @@ UWULogsData[3][1] = {
         ["points"] = nil,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1721,
+        ["rank_raids"] = 1722,
         ["dps_max"] = 16.7,
         ["points"] = 7.34890303320472,
       },

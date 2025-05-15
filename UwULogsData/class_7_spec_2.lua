@@ -64,7 +64,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 2,
         ["dps_max"] = 14125.46,
-        ["points"] = 9994.086339444117,
+        ["points"] = 9994.089834515366,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 11,
@@ -141,7 +141,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 16,
         ["dps_max"] = 13132.1,
-        ["points"] = 9911.295091661737,
+        ["points"] = 9911.347517730497,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 19,
@@ -218,7 +218,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 109,
         ["dps_max"] = 11992.66,
-        ["points"] = 9361.324659964519,
+        ["points"] = 9361.702127659575,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -293,7 +293,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 541,
+        ["rank_raids"] = 542,
         ["dps_max"] = 10505.11,
         ["points"] = 7221.014340832434,
       },
@@ -372,7 +372,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 3,
         ["dps_max"] = 13921.42,
-        ["points"] = 9988.172678888232,
+        ["points"] = 9988.179669030733,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -449,7 +449,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 13,
         ["dps_max"] = 13188.08,
-        ["points"] = 9929.036073329391,
+        ["points"] = 9929.078014184397,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -526,7 +526,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 71,
         ["dps_max"] = 12183.67,
-        ["points"] = 9586.043761088113,
+        ["points"] = 9586.28841607565,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 78,
@@ -603,7 +603,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 104,
         ["dps_max"] = 12024.59,
-        ["points"] = 9390.89296274394,
+        ["points"] = 9391.252955082742,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 50,
@@ -680,7 +680,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 74,
         ["dps_max"] = 12156.96,
-        ["points"] = 9568.30277942046,
+        ["points"] = 9568.55791962175,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -757,7 +757,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 47,
         ["dps_max"] = 12409.18,
-        ["points"] = 9727.97161442933,
+        ["points"] = 9728.132387706855,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 40,
@@ -834,7 +834,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 32,
         ["dps_max"] = 12661.87,
-        ["points"] = 9816.676522767593,
+        ["points"] = 9816.78486997636,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -911,7 +911,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 137,
         ["dps_max"] = 11842.63,
-        ["points"] = 9195.742164399764,
+        ["points"] = 9196.217494089835,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -988,7 +988,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 211,
         ["dps_max"] = 11579.39,
-        ["points"] = 8758.131283264342,
+        ["points"] = 8758.86524822695,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -1065,7 +1065,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 35,
         ["dps_max"] = 12589.27,
-        ["points"] = 9798.935541099941,
+        ["points"] = 9799.054373522458,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -1140,9 +1140,9 @@ UWULogsData[7][2] = {
         ["points"] = 9939.872228485532,
       },
       ["Halion"] = {
-        ["rank_raids"] = 273,
+        ["rank_raids"] = 274,
         ["dps_max"] = 11316.95,
-        ["points"] = 8391.484328799526,
+        ["points"] = 8386.524822695035,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 29,
@@ -1217,7 +1217,7 @@ UWULogsData[7][2] = {
         ["points"] = 9924.840285606915,
       },
       ["Halion"] = {
-        ["rank_raids"] = 484,
+        ["rank_raids"] = 485,
         ["dps_max"] = 10622.31,
         ["points"] = 7301.575408802741,
       },
@@ -1373,7 +1373,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 72,
         ["dps_max"] = 12162.29,
-        ["points"] = 9580.13010053223,
+        ["points"] = 9580.378250591017,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -1448,7 +1448,7 @@ UWULogsData[7][2] = {
         ["points"] = 9642.991356632845,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1161,
+        ["rank_raids"] = 1162,
         ["dps_max"] = 5657.69,
         ["points"] = 3888.9893229089694,
       },
@@ -1525,7 +1525,7 @@ UWULogsData[7][2] = {
         ["points"] = 9797.068771138669,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1066,
+        ["rank_raids"] = 1067,
         ["dps_max"] = 7405.26,
         ["points"] = 5090.235957319132,
       },
@@ -1602,9 +1602,9 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 312,
+        ["rank_raids"] = 313,
         ["dps_max"] = 11189.96,
-        ["points"] = 8160.851567120048,
+        ["points"] = 8156.028368794326,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -1833,7 +1833,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1120,
+        ["rank_raids"] = 1121,
         ["dps_max"] = 6033.09,
         ["points"] = 4147.0321976193245,
       },
@@ -1912,7 +1912,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 84,
         ["dps_max"] = 12123.67,
-        ["points"] = 9509.16617386162,
+        ["points"] = 9509.456264775414,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -1989,7 +1989,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 37,
         ["dps_max"] = 12578.08,
-        ["points"] = 9787.108219988173,
+        ["points"] = 9787.234042553191,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -2064,7 +2064,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 503,
+        ["rank_raids"] = 504,
         ["dps_max"] = 10572.77,
         ["points"] = 7267.522547819387,
       },
@@ -2143,7 +2143,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 94,
         ["dps_max"] = 12066.19,
-        ["points"] = 9450.02956830278,
+        ["points"] = 9450.354609929078,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -2528,7 +2528,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 183,
         ["dps_max"] = 11686.6,
-        ["points"] = 8923.713778829095,
+        ["points"] = 8924.34988179669,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 28,
@@ -2603,7 +2603,7 @@ UWULogsData[7][2] = {
         ["points"] = 8181.134911687335,
       },
       ["Halion"] = {
-        ["rank_raids"] = 970,
+        ["rank_raids"] = 971,
         ["dps_max"] = 8645.02,
         ["points"] = 5942.423582121767,
       },
@@ -2682,7 +2682,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 235,
         ["dps_max"] = 11490.71,
-        ["points"] = 8616.203429923124,
+        ["points"] = 8617.021276595744,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -2911,9 +2911,9 @@ UWULogsData[7][2] = {
         ["points"] = 9921.08229988726,
       },
       ["Halion"] = {
-        ["rank_raids"] = 380,
+        ["rank_raids"] = 381,
         ["dps_max"] = 10952.75,
-        ["points"] = 7758.722649319929,
+        ["points"] = 7754.137115839244,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -3065,9 +3065,9 @@ UWULogsData[7][2] = {
         ["points"] = 2414.018748287195,
       },
       ["Halion"] = {
-        ["rank_raids"] = 303,
+        ["rank_raids"] = 304,
         ["dps_max"] = 11223.31,
-        ["points"] = 8214.074512123005,
+        ["points"] = 8209.219858156028,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 53,
@@ -3144,7 +3144,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 206,
         ["dps_max"] = 11626.34,
-        ["points"] = 8787.699586043762,
+        ["points"] = 8788.416075650119,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -3221,7 +3221,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 130,
         ["dps_max"] = 11889.92,
-        ["points"] = 9237.137788290953,
+        ["points"] = 9237.588652482269,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -3450,9 +3450,9 @@ UWULogsData[7][2] = {
         ["points"] = 4084.9304772641863,
       },
       ["Halion"] = {
-        ["rank_raids"] = 387,
+        ["rank_raids"] = 388,
         ["dps_max"] = 10931.89,
-        ["points"] = 7717.327025428741,
+        ["points"] = 7712.765957446809,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -3604,9 +3604,9 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 442,
+        ["rank_raids"] = 443,
         ["dps_max"] = 10743.04,
-        ["points"] = 7392.075694855116,
+        ["points"] = 7387.706855791962,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -3683,7 +3683,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 180,
         ["dps_max"] = 11689.55,
-        ["points"] = 8941.454760496748,
+        ["points"] = 8942.08037825059,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -3760,7 +3760,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 247,
         ["dps_max"] = 11432.02,
-        ["points"] = 8545.239503252513,
+        ["points"] = 8546.099290780141,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -3835,9 +3835,9 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 406,
+        ["rank_raids"] = 407,
         ["dps_max"] = 10872.37,
-        ["points"] = 7604.967474866943,
+        ["points"] = 7600.472813238771,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -3914,7 +3914,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 148,
         ["dps_max"] = 11806.79,
-        ["points"] = 9130.691898285038,
+        ["points"] = 9131.205673758865,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -3991,7 +3991,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 44,
         ["dps_max"] = 12478.06,
-        ["points"] = 9745.712596096984,
+        ["points"] = 9745.862884160757,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -4068,7 +4068,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 141,
         ["dps_max"] = 11827.02,
-        ["points"] = 9172.087522176227,
+        ["points"] = 9172.5768321513,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 99,
@@ -4220,9 +4220,9 @@ UWULogsData[7][2] = {
         ["points"] = 9932.356257046224,
       },
       ["Halion"] = {
-        ["rank_raids"] = 327,
+        ["rank_raids"] = 328,
         ["dps_max"] = 11131.37,
-        ["points"] = 8072.146658781786,
+        ["points"] = 8067.375886524823,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 42,
@@ -4297,9 +4297,9 @@ UWULogsData[7][2] = {
         ["points"] = 9943.630214205186,
       },
       ["Halion"] = {
-        ["rank_raids"] = 274,
+        ["rank_raids"] = 275,
         ["dps_max"] = 11310.83,
-        ["points"] = 8385.570668243643,
+        ["points"] = 8380.614657210403,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -4684,7 +4684,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 75,
         ["dps_max"] = 12156.69,
-        ["points"] = 9562.389118864578,
+        ["points"] = 9562.647754137115,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -4836,7 +4836,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 487,
+        ["rank_raids"] = 488,
         ["dps_max"] = 10608.76,
         ["points"] = 7292.261394545081,
       },
@@ -4913,9 +4913,9 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 296,
+        ["rank_raids"] = 297,
         ["dps_max"] = 11241.77,
-        ["points"] = 8255.470136014192,
+        ["points"] = 8250.591016548464,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 90,
@@ -4990,9 +4990,9 @@ UWULogsData[7][2] = {
         ["points"] = 9793.310785419015,
       },
       ["Halion"] = {
-        ["rank_raids"] = 278,
+        ["rank_raids"] = 279,
         ["dps_max"] = 11293.45,
-        ["points"] = 8361.916026020106,
+        ["points"] = 8356.973995271868,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -5221,7 +5221,7 @@ UWULogsData[7][2] = {
         ["points"] = 9729.425028184893,
       },
       ["Halion"] = {
-        ["rank_raids"] = 632,
+        ["rank_raids"] = 633,
         ["dps_max"] = 10224.36,
         ["points"] = 7028.032089700488,
       },
@@ -5298,7 +5298,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 480,
+        ["rank_raids"] = 481,
         ["dps_max"] = 10631.81,
         ["points"] = 7308.105529499992,
       },
@@ -5606,9 +5606,9 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 336,
+        ["rank_raids"] = 337,
         ["dps_max"] = 11096.85,
-        ["points"] = 8018.92371377883,
+        ["points"] = 8014.184397163121,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -5762,7 +5762,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 213,
         ["dps_max"] = 11572.3,
-        ["points"] = 8746.303962152573,
+        ["points"] = 8747.044917257683,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 5,
@@ -5837,7 +5837,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 493,
+        ["rank_raids"] = 494,
         ["dps_max"] = 10590.49,
         ["points"] = 7279.702941372577,
       },
@@ -5991,7 +5991,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1199,
+        ["rank_raids"] = 1200,
         ["dps_max"] = 5409.93,
         ["points"] = 3718.68377512464,
       },
@@ -6068,9 +6068,9 @@ UWULogsData[7][2] = {
         ["points"] = 9864.712514092445,
       },
       ["Halion"] = {
-        ["rank_raids"] = 373,
+        ["rank_raids"] = 374,
         ["dps_max"] = 10971.27,
-        ["points"] = 7800.118273211117,
+        ["points"] = 7795.508274231678,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -6224,7 +6224,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 136,
         ["dps_max"] = 11850.94,
-        ["points"] = 9201.655824955647,
+        ["points"] = 9202.127659574468,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -6376,7 +6376,7 @@ UWULogsData[7][2] = {
         ["points"] = 9437.299035369775,
       },
       ["Halion"] = {
-        ["rank_raids"] = 485,
+        ["rank_raids"] = 486,
         ["dps_max"] = 10616.03,
         ["points"] = 7297.258655331295,
       },
@@ -6455,7 +6455,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 189,
         ["dps_max"] = 11671.58,
-        ["points"] = 8888.231815493791,
+        ["points"] = 8888.888888888889,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -6532,7 +6532,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 90,
         ["dps_max"] = 12078.39,
-        ["points"] = 9473.684210526315,
+        ["points"] = 9473.995271867612,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -6609,7 +6609,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 34,
         ["dps_max"] = 12624.03,
-        ["points"] = 9804.849201655825,
+        ["points"] = 9804.964539007093,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -6684,9 +6684,9 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 360,
+        ["rank_raids"] = 361,
         ["dps_max"] = 11007.19,
-        ["points"] = 7876.995860437612,
+        ["points"] = 7872.340425531916,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -6838,9 +6838,9 @@ UWULogsData[7][2] = {
         ["points"] = 9586.621570838031,
       },
       ["Halion"] = {
-        ["rank_raids"] = 394,
+        ["rank_raids"] = 395,
         ["dps_max"] = 10913.14,
-        ["points"] = 7675.931401537551,
+        ["points"] = 7671.394799054374,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -6915,7 +6915,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 759,
+        ["rank_raids"] = 760,
         ["dps_max"] = 9820.79,
         ["points"] = 6750.625688669967,
       },
@@ -6992,9 +6992,9 @@ UWULogsData[7][2] = {
         ["points"] = 9834.648628335211,
       },
       ["Halion"] = {
-        ["rank_raids"] = 290,
+        ["rank_raids"] = 291,
         ["dps_max"] = 11256.42,
-        ["points"] = 8290.952099349497,
+        ["points"] = 8286.052009456265,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -7146,7 +7146,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 521,
+        ["rank_raids"] = 522,
         ["dps_max"] = 10538.94,
         ["points"] = 7244.2684443259095,
       },
@@ -7223,7 +7223,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1082,
+        ["rank_raids"] = 1083,
         ["dps_max"] = 6960.49,
         ["points"] = 4784.509453896317,
       },
@@ -7302,7 +7302,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 108,
         ["dps_max"] = 12008.54,
-        ["points"] = 9367.238320520402,
+        ["points"] = 9367.612293144208,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 51,
@@ -7454,7 +7454,7 @@ UWULogsData[7][2] = {
         ["points"] = 9335.476956055734,
       },
       ["Halion"] = {
-        ["rank_raids"] = 470,
+        ["rank_raids"] = 471,
         ["dps_max"] = 10656.83,
         ["points"] = 7325.303805273175,
       },
@@ -7685,9 +7685,9 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 342,
+        ["rank_raids"] = 343,
         ["dps_max"] = 11087.92,
-        ["points"] = 7983.441750443524,
+        ["points"] = 7978.723404255319,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -7764,7 +7764,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 142,
         ["dps_max"] = 11819.54,
-        ["points"] = 9166.173861620342,
+        ["points"] = 9166.666666666666,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -7839,7 +7839,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 597,
+        ["rank_raids"] = 598,
         ["dps_max"] = 10342.05,
         ["points"] = 7108.929974422547,
       },
@@ -7916,9 +7916,9 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 331,
+        ["rank_raids"] = 332,
         ["dps_max"] = 11121.67,
-        ["points"] = 8048.49201655825,
+        ["points"] = 8043.7352245862885,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -7993,7 +7993,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 902,
+        ["rank_raids"] = 903,
         ["dps_max"] = 9134.13,
         ["points"] = 6278.628564672597,
       },
@@ -8070,7 +8070,7 @@ UWULogsData[7][2] = {
         ["points"] = 9131.832797427653,
       },
       ["Halion"] = {
-        ["rank_raids"] = 529,
+        ["rank_raids"] = 530,
         ["dps_max"] = 10522.22,
         ["points"] = 7232.775431898745,
       },
@@ -8147,7 +8147,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 626,
+        ["rank_raids"] = 627,
         ["dps_max"] = 10237.3,
         ["points"] = 7036.926801471271,
       },
@@ -8301,7 +8301,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 665,
+        ["rank_raids"] = 666,
         ["dps_max"] = 10131.65,
         ["points"] = 6964.304985506568,
       },
@@ -8378,9 +8378,9 @@ UWULogsData[7][2] = {
         ["points"] = 3795.5655768508077,
       },
       ["Halion"] = {
-        ["rank_raids"] = 405,
+        ["rank_raids"] = 406,
         ["dps_max"] = 10874.72,
-        ["points"] = 7610.881135422826,
+        ["points"] = 7606.3829787234035,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -8455,9 +8455,9 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 340,
+        ["rank_raids"] = 341,
         ["dps_max"] = 11090.72,
-        ["points"] = 7995.2690715552935,
+        ["points"] = 7990.543735224586,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -8611,7 +8611,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 249,
         ["dps_max"] = 11422.81,
-        ["points"] = 8533.412182140744,
+        ["points"] = 8534.278959810876,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -8686,9 +8686,9 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 418,
+        ["rank_raids"] = 419,
         ["dps_max"] = 10837.61,
-        ["points"] = 7534.003548196333,
+        ["points"] = 7529.550827423168,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 66,
@@ -8763,7 +8763,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 695,
+        ["rank_raids"] = 696,
         ["dps_max"] = 10048.45,
         ["points"] = 6907.114875821163,
       },
@@ -8917,7 +8917,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 896,
+        ["rank_raids"] = 897,
         ["dps_max"] = 9170.69,
         ["points"] = 6303.759218640127,
       },
@@ -9227,7 +9227,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 115,
         ["dps_max"] = 11969.68,
-        ["points"] = 9325.842696629214,
+        ["points"] = 9326.241134751772,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -9302,7 +9302,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 934,
+        ["rank_raids"] = 935,
         ["dps_max"] = 8917.92,
         ["points"] = 6130.009891414404,
       },
@@ -9379,9 +9379,9 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 294,
+        ["rank_raids"] = 295,
         ["dps_max"] = 11247.17,
-        ["points"] = 8267.29745712596,
+        ["points"] = 8262.411347517731,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -9456,7 +9456,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 563,
+        ["rank_raids"] = 564,
         ["dps_max"] = 10439.47,
         ["points"] = 7175.894643720051,
       },
@@ -9687,7 +9687,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1178,
+        ["rank_raids"] = 1179,
         ["dps_max"] = 5506.47,
         ["points"] = 3785.0435490312393,
       },
@@ -9764,9 +9764,9 @@ UWULogsData[7][2] = {
         ["points"] = 9883.502442690718,
       },
       ["Halion"] = {
-        ["rank_raids"] = 267,
+        ["rank_raids"] = 268,
         ["dps_max"] = 11354.01,
-        ["points"] = 8426.966292134832,
+        ["points"] = 8421.985815602837,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -9841,7 +9841,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 675,
+        ["rank_raids"] = 676,
         ["dps_max"] = 10103.44,
         ["points"] = 6944.9139639413615,
       },
@@ -9918,7 +9918,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1180,
+        ["rank_raids"] = 1181,
         ["dps_max"] = 5497.61,
         ["points"] = 3778.9533522546444,
       },
@@ -9995,7 +9995,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 711,
+        ["rank_raids"] = 712,
         ["dps_max"] = 9963.74,
         ["points"] = 6848.886820635457,
       },
@@ -10226,7 +10226,7 @@ UWULogsData[7][2] = {
         ["points"] = 9778.2788425404,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1343,
+        ["rank_raids"] = 1344,
         ["dps_max"] = 4978.27,
         ["points"] = 3421.9688382640334,
       },
@@ -10303,9 +10303,9 @@ UWULogsData[7][2] = {
         ["points"] = 9827.132656895903,
       },
       ["Halion"] = {
-        ["rank_raids"] = 397,
+        ["rank_raids"] = 398,
         ["dps_max"] = 10899.8,
-        ["points"] = 7658.190419869899,
+        ["points"] = 7653.664302600472,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 80,
@@ -10380,9 +10380,9 @@ UWULogsData[7][2] = {
         ["points"] = 8376.550169109358,
       },
       ["Halion"] = {
-        ["rank_raids"] = 275,
+        ["rank_raids"] = 276,
         ["dps_max"] = 11308.05,
-        ["points"] = 8379.657007687758,
+        ["points"] = 8374.704491725768,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -10457,7 +10457,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1359,
+        ["rank_raids"] = 1360,
         ["dps_max"] = 4952.71,
         ["points"] = 3404.3993766827953,
       },
@@ -10534,7 +10534,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1415,
+        ["rank_raids"] = 1416,
         ["dps_max"] = 4747.91,
         ["points"] = 3263.623722072564,
       },
@@ -10611,7 +10611,7 @@ UWULogsData[7][2] = {
         ["points"] = 4577.226606538895,
       },
       ["Halion"] = {
-        ["rank_raids"] = 974,
+        ["rank_raids"] = 975,
         ["dps_max"] = 8633.39,
         ["points"] = 5934.429339626078,
       },
@@ -10842,7 +10842,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 784,
+        ["rank_raids"] = 785,
         ["dps_max"] = 9746.14,
         ["points"] = 6699.312687612086,
       },
@@ -10921,7 +10921,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 151,
         ["dps_max"] = 11795.89,
-        ["points"] = 9112.950916617387,
+        ["points"] = 9113.475177304965,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -11458,7 +11458,7 @@ UWULogsData[7][2] = {
         ["points"] = 9669.297256670425,
       },
       ["Halion"] = {
-        ["rank_raids"] = 659,
+        ["rank_raids"] = 660,
         ["dps_max"] = 10157.67,
         ["points"] = 6982.190642405779,
       },
@@ -11537,7 +11537,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 219,
         ["dps_max"] = 11549.86,
-        ["points"] = 8710.821998817268,
+        ["points"] = 8711.583924349881,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -11612,7 +11612,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 449,
+        ["rank_raids"] = 450,
         ["dps_max"] = 10722.45,
         ["points"] = 7370.409754763036,
       },
@@ -11843,7 +11843,7 @@ UWULogsData[7][2] = {
         ["points"] = 9469.453376205787,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1366,
+        ["rank_raids"] = 1367,
         ["dps_max"] = 4914.96,
         ["points"] = 3378.4507391752936,
       },
@@ -11920,9 +11920,9 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 367,
+        ["rank_raids"] = 368,
         ["dps_max"] = 10986.81,
-        ["points"] = 7835.600236546422,
+        ["points"] = 7830.9692671394805,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -11997,7 +11997,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 865,
+        ["rank_raids"] = 866,
         ["dps_max"] = 9388.58,
         ["points"] = 6453.532692190045,
       },
@@ -12074,7 +12074,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 903,
+        ["rank_raids"] = 904,
         ["dps_max"] = 9128.96,
         ["points"] = 6275.0748042510395,
       },
@@ -12230,7 +12230,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 114,
         ["dps_max"] = 11969.92,
-        ["points"] = 9331.756357185099,
+        ["points"] = 9332.151300236406,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -12305,7 +12305,7 @@ UWULogsData[7][2] = {
         ["points"] = 8722.28485531755,
       },
       ["Halion"] = {
-        ["rank_raids"] = 492,
+        ["rank_raids"] = 493,
         ["dps_max"] = 10592.96,
         ["points"] = 7281.400772753862,
       },
@@ -12459,7 +12459,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1164,
+        ["rank_raids"] = 1165,
         ["dps_max"] = 5629.06,
         ["points"] = 3869.3096012708306,
       },
@@ -12536,7 +12536,7 @@ UWULogsData[7][2] = {
         ["points"] = 9552.799699361141,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1442,
+        ["rank_raids"] = 1443,
         ["dps_max"] = 4614.87,
         ["points"] = 3172.174537065996,
       },
@@ -12613,7 +12613,7 @@ UWULogsData[7][2] = {
         ["points"] = 9759.488913942127,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1389,
+        ["rank_raids"] = 1390,
         ["dps_max"] = 4852.25,
         ["points"] = 3335.345068762171,
       },
@@ -12767,9 +12767,9 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 328,
+        ["rank_raids"] = 329,
         ["dps_max"] = 11126.74,
-        ["points"] = 8066.232998225902,
+        ["points"] = 8061.465721040189,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -12846,7 +12846,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 38,
         ["dps_max"] = 12559.75,
-        ["points"] = 9781.19455943229,
+        ["points"] = 9781.323877068558,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 111,
@@ -13077,7 +13077,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 176,
         ["dps_max"] = 11708.08,
-        ["points"] = 8965.109402720283,
+        ["points"] = 8965.721040189124,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -13460,7 +13460,7 @@ UWULogsData[7][2] = {
         ["points"] = 9928.59827132657,
       },
       ["Halion"] = {
-        ["rank_raids"] = 886,
+        ["rank_raids"] = 887,
         ["dps_max"] = 9223.6,
         ["points"] = 6340.12855401819,
       },
@@ -13537,7 +13537,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 965,
+        ["rank_raids"] = 966,
         ["dps_max"] = 8674.35,
         ["points"] = 5962.584470548125,
       },
@@ -13770,7 +13770,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 124,
         ["dps_max"] = 11936.69,
-        ["points"] = 9272.619751626256,
+        ["points"] = 9273.04964539007,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -13845,7 +13845,7 @@ UWULogsData[7][2] = {
         ["points"] = 9590.379556557686,
       },
       ["Halion"] = {
-        ["rank_raids"] = 781,
+        ["rank_raids"] = 782,
         ["dps_max"] = 9757.57,
         ["points"] = 6707.169453882569,
       },
@@ -14076,7 +14076,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 495,
+        ["rank_raids"] = 496,
         ["dps_max"] = 10587.6,
         ["points"] = 7277.71640991836,
       },
@@ -14461,7 +14461,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 764,
+        ["rank_raids"] = 765,
         ["dps_max"] = 9807.31,
         ["points"] = 6741.3597910911285,
       },
@@ -14771,7 +14771,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 23,
         ["dps_max"] = 13060.65,
-        ["points"] = 9869.89946777055,
+        ["points"] = 9869.976359338061,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 6,
@@ -14923,7 +14923,7 @@ UWULogsData[7][2] = {
         ["points"] = 8391.582111987975,
       },
       ["Halion"] = {
-        ["rank_raids"] = 737,
+        ["rank_raids"] = 738,
         ["dps_max"] = 9882.15,
         ["points"] = 6792.803394562953,
       },
@@ -15000,7 +15000,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1223,
+        ["rank_raids"] = 1224,
         ["dps_max"] = 5339.2,
         ["points"] = 3670.065308080784,
       },
@@ -15154,9 +15154,9 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 269,
+        ["rank_raids"] = 270,
         ["dps_max"] = 11343.79,
-        ["points"] = 8415.138971023063,
+        ["points"] = 8410.16548463357,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -15231,7 +15231,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1475,
+        ["rank_raids"] = 1476,
         ["dps_max"] = 4478.63,
         ["points"] = 3078.525732456144,
       },
@@ -15385,7 +15385,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 636,
+        ["rank_raids"] = 637,
         ["dps_max"] = 10220.74,
         ["points"] = 7025.543770024272,
       },
@@ -15462,7 +15462,7 @@ UWULogsData[7][2] = {
         ["points"] = 9673.055242390079,
       },
       ["Halion"] = {
-        ["rank_raids"] = 849,
+        ["rank_raids"] = 850,
         ["dps_max"] = 9458.3,
         ["points"] = 6501.456904296613,
       },
@@ -15539,9 +15539,9 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 326,
+        ["rank_raids"] = 327,
         ["dps_max"] = 11139.99,
-        ["points"] = 8078.06031933767,
+        ["points"] = 8073.286052009456,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -15693,7 +15693,7 @@ UWULogsData[7][2] = {
         ["points"] = 9249.7320471597,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1674,
+        ["rank_raids"] = 1675,
         ["dps_max"] = 2180.16,
         ["points"] = 1498.600835717973,
       },
@@ -16155,7 +16155,7 @@ UWULogsData[7][2] = {
         ["points"] = 9579.105599398721,
       },
       ["Halion"] = {
-        ["rank_raids"] = 631,
+        ["rank_raids"] = 632,
         ["dps_max"] = 10225.18,
         ["points"] = 7028.59574222383,
       },
@@ -16232,7 +16232,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1372,
+        ["rank_raids"] = 1373,
         ["dps_max"] = 4900.62,
         ["points"] = 3368.593693828074,
       },
@@ -16386,7 +16386,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 573,
+        ["rank_raids"] = 574,
         ["dps_max"] = 10416.18,
         ["points"] = 7159.885537294895,
       },
@@ -16540,7 +16540,7 @@ UWULogsData[7][2] = {
         ["points"] = 9062.165058949626,
       },
       ["Halion"] = {
-        ["rank_raids"] = 914,
+        ["rank_raids"] = 915,
         ["dps_max"] = 9057.86,
         ["points"] = 6226.202006190555,
       },
@@ -16694,7 +16694,7 @@ UWULogsData[7][2] = {
         ["points"] = 1466.249108295312,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1417,
+        ["rank_raids"] = 1418,
         ["dps_max"] = 4744.92,
         ["points"] = 3261.568452505745,
       },
@@ -16925,7 +16925,7 @@ UWULogsData[7][2] = {
         ["points"] = 9842.164599774522,
       },
       ["Halion"] = {
-        ["rank_raids"] = 878,
+        ["rank_raids"] = 879,
         ["dps_max"] = 9321.27,
         ["points"] = 6407.2650685972,
       },
@@ -17002,7 +17002,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 899,
+        ["rank_raids"] = 900,
         ["dps_max"] = 9157.4,
         ["points"] = 6294.623923475235,
       },
@@ -17079,7 +17079,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 551,
+        ["rank_raids"] = 552,
         ["dps_max"] = 10473.91,
         ["points"] = 7199.568049700406,
       },
@@ -17312,7 +17312,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 243,
         ["dps_max"] = 11450.84,
-        ["points"] = 8568.89414547605,
+        ["points"] = 8569.739952718675,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -17387,7 +17387,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 471,
+        ["rank_raids"] = 472,
         ["dps_max"] = 10655.25,
         ["points"] = 7324.217743094054,
       },
@@ -17618,7 +17618,7 @@ UWULogsData[7][2] = {
         ["points"] = 8960.342979635583,
       },
       ["Halion"] = {
-        ["rank_raids"] = 697,
+        ["rank_raids"] = 698,
         ["dps_max"] = 10043.71,
         ["points"] = 6903.856689283797,
       },
@@ -17697,7 +17697,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 150,
         ["dps_max"] = 11800.1,
-        ["points"] = 9118.86457717327,
+        ["points"] = 9119.385342789597,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -18157,7 +18157,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 741,
+        ["rank_raids"] = 742,
         ["dps_max"] = 9871.83,
         ["points"] = 6785.709621342359,
       },
@@ -18234,7 +18234,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 910,
+        ["rank_raids"] = 911,
         ["dps_max"] = 9091.07,
         ["points"] = 6249.029933385896,
       },
@@ -18388,7 +18388,7 @@ UWULogsData[7][2] = {
         ["points"] = 5715.896279594137,
       },
       ["Halion"] = {
-        ["rank_raids"] = 670,
+        ["rank_raids"] = 671,
         ["dps_max"] = 10113.89,
         ["points"] = 6952.0970967083385,
       },
@@ -18465,7 +18465,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 795,
+        ["rank_raids"] = 796,
         ["dps_max"] = 9712.48,
         ["points"] = 6676.175438910033,
       },
@@ -18542,9 +18542,9 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 424,
+        ["rank_raids"] = 425,
         ["dps_max"] = 10822.24,
-        ["points"] = 7498.521584861029,
+        ["points"] = 7494.089834515366,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -19158,9 +19158,9 @@ UWULogsData[7][2] = {
         ["points"] = 8971.061093247588,
       },
       ["Halion"] = {
-        ["rank_raids"] = 409,
+        ["rank_raids"] = 410,
         ["dps_max"] = 10858.93,
-        ["points"] = 7587.22649319929,
+        ["points"] = 7582.742316784869,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -19235,7 +19235,7 @@ UWULogsData[7][2] = {
         ["points"] = 9530.251785043216,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1324,
+        ["rank_raids"] = 1325,
         ["dps_max"] = 5025.96,
         ["points"] = 3454.750044164238,
       },
@@ -19389,7 +19389,7 @@ UWULogsData[7][2] = {
         ["points"] = 7301.766253288238,
       },
       ["Halion"] = {
-        ["rank_raids"] = 877,
+        ["rank_raids"] = 878,
         ["dps_max"] = 9323.26,
         ["points"] = 6408.632957037993,
       },
@@ -19466,7 +19466,7 @@ UWULogsData[7][2] = {
         ["points"] = 9815.858699736942,
       },
       ["Halion"] = {
-        ["rank_raids"] = 923,
+        ["rank_raids"] = 924,
         ["dps_max"] = 8990.77,
         ["points"] = 6180.085606445436,
       },
@@ -19543,7 +19543,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1469,
+        ["rank_raids"] = 1470,
         ["dps_max"] = 4495.67,
         ["points"] = 3090.2387068436356,
       },
@@ -19928,9 +19928,9 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 261,
+        ["rank_raids"] = 262,
         ["dps_max"] = 11381.48,
-        ["points"] = 8462.448255470137,
+        ["points"] = 8457.446808510638,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -20236,7 +20236,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1148,
+        ["rank_raids"] = 1149,
         ["dps_max"] = 5749.2,
         ["points"] = 3951.891569751656,
       },
@@ -20313,7 +20313,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 736,
+        ["rank_raids"] = 737,
         ["dps_max"] = 9883.41,
         ["points"] = 6793.669494781747,
       },
@@ -20390,7 +20390,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 847,
+        ["rank_raids"] = 848,
         ["dps_max"] = 9474.78,
         ["points"] = 6512.784945253531,
       },
@@ -20621,7 +20621,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 891,
+        ["rank_raids"] = 892,
         ["dps_max"] = 9182.38,
         ["points"] = 6311.794704003376,
       },
@@ -20698,7 +20698,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1326,
+        ["rank_raids"] = 1327,
         ["dps_max"] = 5019.69,
         ["points"] = 3450.440164504051,
       },
@@ -21391,7 +21391,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 840,
+        ["rank_raids"] = 841,
         ["dps_max"] = 9491.66,
         ["points"] = 6524.387938660859,
       },
@@ -21468,7 +21468,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 668,
+        ["rank_raids"] = 669,
         ["dps_max"] = 10118.86,
         ["points"] = 6955.513380904691,
       },
@@ -21622,7 +21622,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 855,
+        ["rank_raids"] = 856,
         ["dps_max"] = 9434.75,
         ["points"] = 6485.26907877869,
       },
@@ -21699,9 +21699,9 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 323,
+        ["rank_raids"] = 324,
         ["dps_max"] = 11151.38,
-        ["points"] = 8095.801301005322,
+        ["points"] = 8091.016548463357,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -21776,7 +21776,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1501,
+        ["rank_raids"] = 1502,
         ["dps_max"] = 4370.87,
         ["points"] = 3004.453542315526,
       },
@@ -22625,7 +22625,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 236,
         ["dps_max"] = 11485.98,
-        ["points"] = 8610.289769367238,
+        ["points"] = 8611.111111111111,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -22700,7 +22700,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 837,
+        ["rank_raids"] = 838,
         ["dps_max"] = 9500.34,
         ["points"] = 6530.354406834768,
       },
@@ -22854,7 +22854,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1561,
+        ["rank_raids"] = 1562,
         ["dps_max"] = 3958.91,
         ["points"] = 2721.2800136376413,
       },
@@ -23239,7 +23239,7 @@ UWULogsData[7][2] = {
         ["points"] = 9394.426580921758,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1039,
+        ["rank_raids"] = 1040,
         ["dps_max"] = 7901.53,
         ["points"] = 5431.362588732311,
       },
@@ -23393,7 +23393,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 639,
+        ["rank_raids"] = 640,
         ["dps_max"] = 10218.09,
         ["points"] = 7023.722210040301,
       },
@@ -23547,7 +23547,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 663,
+        ["rank_raids"] = 664,
         ["dps_max"] = 10143.55,
         ["points"] = 6972.484820906284,
       },
@@ -23624,7 +23624,7 @@ UWULogsData[7][2] = {
         ["points"] = 1070.7485298640006,
       },
       ["Halion"] = {
-        ["rank_raids"] = 726,
+        ["rank_raids"] = 727,
         ["dps_max"] = 9919.23,
         ["points"] = 6818.291486716016,
       },
@@ -24394,7 +24394,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 452,
+        ["rank_raids"] = 453,
         ["dps_max"] = 10706.85,
         ["points"] = 7359.686609197022,
       },
@@ -24548,7 +24548,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 983,
+        ["rank_raids"] = 984,
         ["dps_max"] = 8515.07,
         ["points"] = 5853.098404794621,
       },
@@ -24781,7 +24781,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 253,
         ["dps_max"] = 11407.88,
-        ["points"] = 8509.75753991721,
+        ["points"] = 8510.638297872341,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -24933,7 +24933,7 @@ UWULogsData[7][2] = {
         ["points"] = 4633.596392333709,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1028,
+        ["rank_raids"] = 1029,
         ["dps_max"] = 8023.6,
         ["points"] = 5515.271202786368,
       },
@@ -25340,37 +25340,37 @@ UWULogsData[7][2] = {
     ["overall_rank"] = 4904,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 38069,
+        ["rank_raids"] = 38072,
         ["dps_max"] = 17738.07,
         ["points"] = 5727.946540237713,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 34436,
+        ["rank_raids"] = 34438,
         ["dps_max"] = 14316.95,
         ["points"] = 4999.343521782157,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 50090,
+        ["rank_raids"] = 50094,
         ["dps_max"] = 18390.31,
         ["points"] = 6433.93970181169,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 44548,
+        ["rank_raids"] = 44552,
         ["dps_max"] = 16579.29,
         ["points"] = 6652.645221867998,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 39097,
+        ["rank_raids"] = 39099,
         ["dps_max"] = 18018.25,
         ["points"] = 6824.347637701782,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 35876,
+        ["rank_raids"] = 35878,
         ["dps_max"] = 13746.19,
         ["points"] = 5192.963567402572,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 30649,
+        ["rank_raids"] = 30650,
         ["dps_max"] = 14405.61,
         ["points"] = 5778.319284248781,
       },
@@ -25385,7 +25385,7 @@ UWULogsData[7][2] = {
         ["points"] = 5374.415609144163,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 42496,
+        ["rank_raids"] = 42497,
         ["dps_max"] = 11716.52,
         ["points"] = 5059.40739851515,
       },
@@ -25395,7 +25395,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 11055,
+        ["rank_raids"] = 11059,
         ["dps_max"] = 11698.5,
         ["points"] = 6617.786818846253,
       },
@@ -25472,7 +25472,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 454,
+        ["rank_raids"] = 455,
         ["dps_max"] = 10705.08,
         ["points"] = 7358.469944603956,
       },
@@ -25857,7 +25857,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 961,
+        ["rank_raids"] = 962,
         ["dps_max"] = 8687.65,
         ["points"] = 5971.726639524278,
       },
@@ -26011,7 +26011,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1580,
+        ["rank_raids"] = 1581,
         ["dps_max"] = 3735.01,
         ["points"] = 2567.3753795203047,
       },
@@ -26242,7 +26242,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 953,
+        ["rank_raids"] = 954,
         ["dps_max"] = 8733.28,
         ["points"] = 6003.091840304868,
       },
@@ -26319,7 +26319,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 957,
+        ["rank_raids"] = 958,
         ["dps_max"] = 8721.12,
         ["points"] = 5994.7332858123855,
       },
@@ -27166,7 +27166,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1545,
+        ["rank_raids"] = 1546,
         ["dps_max"] = 4110.31,
         ["points"] = 2825.349516118057,
       },
@@ -27320,7 +27320,7 @@ UWULogsData[7][2] = {
         ["points"] = 9244.372990353697,
       },
       ["Halion"] = {
-        ["rank_raids"] = 917,
+        ["rank_raids"] = 918,
         ["dps_max"] = 9044.5,
         ["points"] = 6217.0185943468405,
       },
@@ -27782,7 +27782,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 765,
+        ["rank_raids"] = 766,
         ["dps_max"] = 9799.61,
         ["points"] = 6736.066956420725,
       },
@@ -27936,7 +27936,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1021,
+        ["rank_raids"] = 1022,
         ["dps_max"] = 8112.37,
         ["points"] = 5576.290025343742,
       },
@@ -28112,54 +28112,54 @@ UWULogsData[7][2] = {
     ["overall_rank"] = 2582,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 17363,
+        ["rank_raids"] = 17364,
         ["dps_max"] = 15750.94,
-        ["points"] = 5814.699999999999,
+        ["points"] = 5814.599999999999,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 14698,
+        ["rank_raids"] = 14699,
         ["dps_max"] = 12134.46,
-        ["points"] = 6081.2,
+        ["points"] = 6081.099999999999,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 23486,
+        ["rank_raids"] = 23487,
         ["dps_max"] = 16101.64,
         ["points"] = 5926.592821234623,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 21637,
+        ["rank_raids"] = 21638,
         ["dps_max"] = 14485.26,
         ["points"] = 6072.95973597249,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 22421,
+        ["rank_raids"] = 22422,
         ["dps_max"] = 15177.8,
         ["points"] = 6050.446833260117,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 15082,
+        ["rank_raids"] = 15083,
         ["dps_max"] = 12250.65,
-        ["points"] = 6042.799999999999,
+        ["points"] = 6042.7,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 17674,
+        ["rank_raids"] = 17675,
         ["dps_max"] = 12398.66,
-        ["points"] = 5783.599999999999,
+        ["points"] = 5783.499999999999,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 23890,
+        ["rank_raids"] = 23891,
         ["dps_max"] = 12992.85,
-        ["points"] = 5162.0,
+        ["points"] = 5161.9,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 9964,
+        ["rank_raids"] = 9965,
         ["dps_max"] = 11566.56,
-        ["points"] = 6561.8,
+        ["points"] = 6561.5,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 13739,
+        ["rank_raids"] = 13740,
         ["dps_max"] = 10818.38,
-        ["points"] = 6177.099999999999,
+        ["points"] = 6176.999999999999,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -28860,7 +28860,7 @@ UWULogsData[7][2] = {
         ["points"] = 6632.844795189779,
       },
       ["Halion"] = {
-        ["rank_raids"] = 901,
+        ["rank_raids"] = 902,
         ["dps_max"] = 9144.39,
         ["points"] = 6285.6810950256295,
       },
@@ -29322,7 +29322,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 508,
+        ["rank_raids"] = 509,
         ["dps_max"] = 10555.93,
         ["points"] = 7255.9470496571,
       },
@@ -29399,9 +29399,9 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 429,
+        ["rank_raids"] = 430,
         ["dps_max"] = 10805.6,
-        ["points"] = 7468.953282081608,
+        ["points"] = 7464.539007092199,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -29476,7 +29476,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1411,
+        ["rank_raids"] = 1412,
         ["dps_max"] = 4774.91,
         ["points"] = 3282.18301247528,
       },
@@ -29553,7 +29553,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 990,
+        ["rank_raids"] = 991,
         ["dps_max"] = 8426.69,
         ["points"] = 5792.347660876398,
       },
@@ -31016,7 +31016,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1014,
+        ["rank_raids"] = 1015,
         ["dps_max"] = 8128.42,
         ["points"] = 5587.322492416468,
       },
@@ -31172,7 +31172,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 232,
         ["dps_max"] = 11497.97,
-        ["points"] = 8633.944411590775,
+        ["points"] = 8634.751773049646,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -31555,7 +31555,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1507,
+        ["rank_raids"] = 1508,
         ["dps_max"] = 4348.3,
         ["points"] = 2988.9393503011074,
       },
@@ -32171,7 +32171,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 851,
+        ["rank_raids"] = 852,
         ["dps_max"] = 9451.64,
         ["points"] = 6496.878945997277,
       },
@@ -33249,7 +33249,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 930,
+        ["rank_raids"] = 931,
         ["dps_max"] = 8942.4,
         ["points"] = 6146.836981379533,
       },
@@ -34096,7 +34096,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1438,
+        ["rank_raids"] = 1439,
         ["dps_max"] = 4643.64,
         ["points"] = 3191.950492061779,
       },
@@ -35174,9 +35174,9 @@ UWULogsData[7][2] = {
         ["points"] = 9748.214956783164,
       },
       ["Halion"] = {
-        ["rank_raids"] = 427,
+        ["rank_raids"] = 428,
         ["dps_max"] = 10812.65,
-        ["points"] = 7480.780603193377,
+        ["points"] = 7476.359338061466,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -35251,7 +35251,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 718,
+        ["rank_raids"] = 719,
         ["dps_max"] = 9936.17,
         ["points"] = 6829.935722990906,
       },
@@ -36021,7 +36021,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 893,
+        ["rank_raids"] = 894,
         ["dps_max"] = 9174.83,
         ["points"] = 6306.604976501876,
       },
@@ -37022,7 +37022,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1012,
+        ["rank_raids"] = 1013,
         ["dps_max"] = 8154.33,
         ["points"] = 5605.132537391815,
       },
@@ -37176,7 +37176,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 657,
+        ["rank_raids"] = 658,
         ["dps_max"] = 10161.95,
         ["points"] = 6985.132633625173,
       },
@@ -37792,7 +37792,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1535,
+        ["rank_raids"] = 1536,
         ["dps_max"] = 4207.82,
         ["points"] = 2892.376049716902,
       },
@@ -38023,7 +38023,7 @@ UWULogsData[7][2] = {
         ["points"] = 8109.733183013904,
       },
       ["Halion"] = {
-        ["rank_raids"] = 674,
+        ["rank_raids"] = 675,
         ["dps_max"] = 10108.09,
         ["points"] = 6948.110286177384,
       },
@@ -38331,7 +38331,7 @@ UWULogsData[7][2] = {
         ["points"] = 8821.00750267953,
       },
       ["Halion"] = {
-        ["rank_raids"] = 856,
+        ["rank_raids"] = 857,
         ["dps_max"] = 9434.22,
         ["points"] = 6484.904766781895,
       },
@@ -38487,7 +38487,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 26,
         ["dps_max"] = 12897.25,
-        ["points"] = 9852.158486102897,
+        ["points"] = 9852.24586288416,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -38639,7 +38639,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 460,
+        ["rank_raids"] = 461,
         ["dps_max"] = 10683.08,
         ["points"] = 7343.347559831373,
       },
@@ -39640,7 +39640,7 @@ UWULogsData[7][2] = {
         ["points"] = 9142.550911039658,
       },
       ["Halion"] = {
-        ["rank_raids"] = 473,
+        ["rank_raids"] = 474,
         ["dps_max"] = 10651.11,
         ["points"] = 7321.371985232305,
       },
@@ -40179,7 +40179,7 @@ UWULogsData[7][2] = {
         ["points"] = 6790.680195415257,
       },
       ["Halion"] = {
-        ["rank_raids"] = 885,
+        ["rank_raids"] = 886,
         ["dps_max"] = 9232.05,
         ["points"] = 6345.936924533114,
       },
@@ -40564,7 +40564,7 @@ UWULogsData[7][2] = {
         ["points"] = 10000.0,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1594,
+        ["rank_raids"] = 1595,
         ["dps_max"] = 3532.26,
         ["points"] = 2428.008856218428,
       },
@@ -41182,7 +41182,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 203,
         ["dps_max"] = 11632.95,
-        ["points"] = 8805.440567711414,
+        ["points"] = 8806.146572104019,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1,
@@ -41411,7 +41411,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 927,
+        ["rank_raids"] = 928,
         ["dps_max"] = 8955.06,
         ["points"] = 6155.5392264350285,
       },
@@ -41488,7 +41488,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1078,
+        ["rank_raids"] = 1079,
         ["dps_max"] = 7114.6,
         ["points"] = 4890.441759228264,
       },
@@ -42027,7 +42027,7 @@ UWULogsData[7][2] = {
         ["points"] = 7422.021796317174,
       },
       ["Halion"] = {
-        ["rank_raids"] = 817,
+        ["rank_raids"] = 818,
         ["dps_max"] = 9600.8,
         ["points"] = 6599.408714755392,
       },
@@ -42104,7 +42104,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1671,
+        ["rank_raids"] = 1672,
         ["dps_max"] = 2249.32,
         ["points"] = 1546.140114393967,
       },
@@ -43028,7 +43028,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1217,
+        ["rank_raids"] = 1218,
         ["dps_max"] = 5348.82,
         ["points"] = 3676.677914513159,
       },
@@ -43798,9 +43798,9 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 431,
+        ["rank_raids"] = 432,
         ["dps_max"] = 10788.72,
-        ["points"] = 7457.12596096984,
+        ["points"] = 7452.718676122931,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -44722,7 +44722,7 @@ UWULogsData[7][2] = {
         ["points"] = 591.811588290793,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1036,
+        ["rank_raids"] = 1037,
         ["dps_max"] = 7939.86,
         ["points"] = 5457.709907292908,
       },
@@ -44801,7 +44801,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 68,
         ["dps_max"] = 12208.46,
-        ["points"] = 9603.784742755766,
+        ["points"] = 9604.018912529551,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -44953,7 +44953,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1409,
+        ["rank_raids"] = 1410,
         ["dps_max"] = 4785.86,
         ["points"] = 3289.70983580527,
       },
@@ -45261,7 +45261,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 672,
+        ["rank_raids"] = 673,
         ["dps_max"] = 10111.65,
         ["points"] = 6950.557362986038,
       },
@@ -46185,7 +46185,7 @@ UWULogsData[7][2] = {
         ["points"] = 9680.571213829387,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1426,
+        ["rank_raids"] = 1427,
         ["dps_max"] = 4687.19,
         ["points"] = 3221.8859401002337,
       },
@@ -47879,7 +47879,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 778,
+        ["rank_raids"] = 779,
         ["dps_max"] = 9766.65,
         ["points"] = 6713.41087450689,
       },
@@ -48495,7 +48495,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 692,
+        ["rank_raids"] = 693,
         ["dps_max"] = 10053.15,
         ["points"] = 6910.345567113487,
       },
@@ -48572,7 +48572,7 @@ UWULogsData[7][2] = {
         ["points"] = 9913.56632844795,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1369,
+        ["rank_raids"] = 1370,
         ["dps_max"] = 4909.35,
         ["points"] = 3374.594531058285,
       },
@@ -54270,7 +54270,7 @@ UWULogsData[7][2] = {
         ["points"] = 9789.55279969936,
       },
       ["Halion"] = {
-        ["rank_raids"] = 585,
+        ["rank_raids"] = 586,
         ["dps_max"] = 10391.52,
         ["points"] = 7142.9347187270805,
       },
@@ -55194,7 +55194,7 @@ UWULogsData[7][2] = {
         ["points"] = 5298.759864712514,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1518,
+        ["rank_raids"] = 1519,
         ["dps_max"] = 4304.03,
         ["points"] = 2958.5089878519134,
       },
@@ -56195,7 +56195,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1651,
+        ["rank_raids"] = 1652,
         ["dps_max"] = 2487.31,
         ["points"] = 1709.729948577018,
       },
@@ -57196,7 +57196,7 @@ UWULogsData[7][2] = {
         ["points"] = 7985.719654265315,
       },
       ["Halion"] = {
-        ["rank_raids"] = 677,
+        ["rank_raids"] = 678,
         ["dps_max"] = 10101.46,
         ["points"] = 6943.552949311828,
       },
@@ -57506,7 +57506,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 208,
         ["dps_max"] = 11589.55,
-        ["points"] = 8775.872264931993,
+        ["points"] = 8776.595744680852,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -59585,7 +59585,7 @@ UWULogsData[7][2] = {
       ["Halion"] = {
         ["rank_raids"] = 231,
         ["dps_max"] = 11502.37,
-        ["points"] = 8639.858072146659,
+        ["points"] = 8640.661938534278,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -64126,7 +64126,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 997,
+        ["rank_raids"] = 998,
         ["dps_max"] = 8398.68,
         ["points"] = 5773.094115536394,
       },
@@ -68053,7 +68053,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1319,
+        ["rank_raids"] = 1320,
         ["dps_max"] = 5032.14,
         ["points"] = 3458.998059523082,
       },
@@ -69131,7 +69131,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 773,
+        ["rank_raids"] = 774,
         ["dps_max"] = 9783.92,
         ["points"] = 6725.2819465533685,
       },
@@ -70000,9 +70000,9 @@ UWULogsData[7][2] = {
     ["overall_rank"] = 2970,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 22513,
+        ["rank_raids"] = 22515,
         ["dps_max"] = 3842.2,
-        ["points"] = 5299.7,
+        ["points"] = 5299.499999999999,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6854,
@@ -70010,9 +70010,9 @@ UWULogsData[7][2] = {
         ["points"] = 7494.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 19516,
+        ["rank_raids"] = 19519,
         ["dps_max"] = 5294.31,
-        ["points"] = 5599.4,
+        ["points"] = 5599.1,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5836,
@@ -70020,9 +70020,9 @@ UWULogsData[7][2] = {
         ["points"] = 7800.200000000001,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 11591,
+        ["rank_raids"] = 11592,
         ["dps_max"] = 4892.5,
-        ["points"] = 6391.9,
+        ["points"] = 6391.799999999999,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7025,
@@ -70030,9 +70030,9 @@ UWULogsData[7][2] = {
         ["points"] = 7443.500000000001,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 22407,
+        ["rank_raids"] = 22409,
         ["dps_max"] = 2925.49,
-        ["points"] = 5310.3,
+        ["points"] = 5310.099999999999,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 7045,
@@ -70209,9 +70209,9 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 314,
+        ["rank_raids"] = 315,
         ["dps_max"] = 11169.88,
-        ["points"] = 8149.02424600828,
+        ["points"] = 8144.208037825059,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -71364,7 +71364,7 @@ UWULogsData[7][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 723,
+        ["rank_raids"] = 724,
         ["dps_max"] = 9923.28,
         ["points"] = 6821.075380276425,
       },

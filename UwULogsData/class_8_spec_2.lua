@@ -39,12 +39,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 13,
         ["dps_max"] = 20802.86,
-        ["points"] = 9988.061483360692,
+        ["points"] = 9988.063264697106,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4,
         ["dps_max"] = 37028.41,
-        ["points"] = 9997.061848097546,
+        ["points"] = 9997.062279670976,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 56,
@@ -62,9 +62,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 138,
+        ["rank_raids"] = 139,
         ["dps_max"] = 11958.46,
-        ["points"] = 9866.8,
+        ["points"] = 9865.9,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 44,
@@ -116,12 +116,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 20,
         ["dps_max"] = 20545.25,
-        ["points"] = 9982.092225041039,
+        ["points"] = 9982.094897045657,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 75,
         ["dps_max"] = 33564.51,
-        ["points"] = 9944.175113853385,
+        ["points"] = 9944.183313748532,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4,
@@ -198,7 +198,7 @@ UWULogsData[8][2] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 13,
         ["dps_max"] = 36362.14,
-        ["points"] = 9989.716468341414,
+        ["points"] = 9989.717978848414,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2,
@@ -347,7 +347,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 15,
         ["dps_max"] = 20756.95,
-        ["points"] = 9986.56916878078,
+        ["points"] = 9986.571172784243,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1,
@@ -370,9 +370,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 151,
+        ["rank_raids"] = 152,
         ["dps_max"] = 11899.44,
-        ["points"] = 9855.1,
+        ["points"] = 9854.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 15,
@@ -424,12 +424,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 22,
         ["dps_max"] = 20445.54,
-        ["points"] = 9980.599910461126,
+        ["points"] = 9980.602805132796,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 20,
         ["dps_max"] = 35260.9,
-        ["points"] = 9983.840164536507,
+        ["points"] = 9983.842538190363,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6,
@@ -447,9 +447,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 164,
+        ["rank_raids"] = 165,
         ["dps_max"] = 11864.69,
-        ["points"] = 9843.4,
+        ["points"] = 9842.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 476,
@@ -501,12 +501,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 31,
         ["dps_max"] = 20171.01,
-        ["points"] = 9974.630652141472,
+        ["points"] = 9974.634437481349,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 32,
         ["dps_max"] = 34704.16,
-        ["points"] = 9973.55663287792,
+        ["points"] = 9973.560517038777,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 50,
@@ -578,12 +578,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 34,
         ["dps_max"] = 20077.57,
-        ["points"] = 9973.138337561559,
+        ["points"] = 9973.142345568487,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 23,
         ["dps_max"] = 35141.0,
-        ["points"] = 9980.902012634053,
+        ["points"] = 9980.90481786134,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1,
@@ -655,12 +655,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 123,
         ["dps_max"] = 18941.47,
-        ["points"] = 9940.307416803462,
+        ["points"] = 9940.316323485526,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 30,
         ["dps_max"] = 34775.3,
-        ["points"] = 9975.025708829146,
+        ["points"] = 9975.029377203291,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 10,
@@ -732,12 +732,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 26,
         ["dps_max"] = 20217.92,
-        ["points"] = 9976.122966721385,
+        ["points"] = 9976.12652939421,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 14,
         ["dps_max"] = 36055.83,
-        ["points"] = 9988.247392390187,
+        ["points"] = 9988.249118683902,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 36,
@@ -809,12 +809,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 173,
         ["dps_max"] = 18616.56,
-        ["points"] = 9923.891956424415,
+        ["points"] = 9923.903312444047,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 17,
         ["dps_max"] = 35786.05,
-        ["points"] = 9985.309240487733,
+        ["points"] = 9985.311398354877,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 26,
@@ -886,7 +886,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 43,
         ["dps_max"] = 19900.22,
-        ["points"] = 9967.169079241905,
+        ["points"] = 9967.17397791704,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 8,
@@ -968,7 +968,7 @@ UWULogsData[8][2] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 73,
         ["dps_max"] = 33618.22,
-        ["points"] = 9947.11326575584,
+        ["points"] = 9947.121034077556,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 164,
@@ -1045,7 +1045,7 @@ UWULogsData[8][2] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 45,
         ["dps_max"] = 34405.29,
-        ["points"] = 9964.74217717056,
+        ["points"] = 9964.747356051705,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 107,
@@ -1117,12 +1117,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 39,
         ["dps_max"] = 19942.61,
-        ["points"] = 9970.153708401731,
+        ["points"] = 9970.158161742764,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 51,
         ["dps_max"] = 34217.09,
-        ["points"] = 9958.865873365654,
+        ["points"] = 9958.871915393654,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 152,
@@ -1194,12 +1194,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 56,
         ["dps_max"] = 19592.81,
-        ["points"] = 9961.199820922251,
+        ["points"] = 9961.205610265592,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 12,
         ["dps_max"] = 36437.47,
-        ["points"] = 9991.18554429264,
+        ["points"] = 9991.186839012926,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 74,
@@ -1271,12 +1271,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 174,
         ["dps_max"] = 18606.57,
-        ["points"] = 9922.3996418445,
+        ["points"] = 9922.411220531185,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 15,
         ["dps_max"] = 35955.25,
-        ["points"] = 9986.77831643896,
+        ["points"] = 9986.78025851939,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 21,
@@ -1294,9 +1294,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 170,
+        ["rank_raids"] = 171,
         ["dps_max"] = 11853.61,
-        ["points"] = 9838.0,
+        ["points"] = 9837.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 128,
@@ -1348,12 +1348,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 24,
         ["dps_max"] = 20314.64,
-        ["points"] = 9979.10759588121,
+        ["points"] = 9979.110713219934,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 29,
         ["dps_max"] = 34779.91,
-        ["points"] = 9976.494784780372,
+        ["points"] = 9976.498237367803,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 14,
@@ -1425,12 +1425,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 48,
         ["dps_max"] = 19796.34,
-        ["points"] = 9964.184450082077,
+        ["points"] = 9964.189794091317,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 126,
         ["dps_max"] = 32679.11,
-        ["points"] = 9914.793594828852,
+        ["points"] = 9914.806110458285,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 184,
@@ -1448,9 +1448,9 @@ UWULogsData[8][2] = {
         ["points"] = 9963.452347483835,
       },
       ["Halion"] = {
-        ["rank_raids"] = 338,
+        ["rank_raids"] = 339,
         ["dps_max"] = 11511.74,
-        ["points"] = 9704.4,
+        ["points"] = 9703.699999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 439,
@@ -1507,7 +1507,7 @@ UWULogsData[8][2] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 276,
         ["dps_max"] = 31151.54,
-        ["points"] = 9810.48920229176,
+        ["points"] = 9810.517038777909,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 13,
@@ -1579,12 +1579,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 199,
         ["dps_max"] = 18505.52,
-        ["points"] = 9914.938068944934,
+        ["points"] = 9914.950760966874,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 22,
         ["dps_max"] = 35165.69,
-        ["points"] = 9982.37108858528,
+        ["points"] = 9982.373678025851,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 73,
@@ -1656,12 +1656,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 191,
         ["dps_max"] = 18544.72,
-        ["points"] = 9919.415012684674,
+        ["points"] = 9919.427036705461,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 244,
         ["dps_max"] = 31480.35,
-        ["points"] = 9838.401645365066,
+        ["points"] = 9838.425381903642,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 253,
@@ -1679,9 +1679,9 @@ UWULogsData[8][2] = {
         ["points"] = 9836.941242620185,
       },
       ["Halion"] = {
-        ["rank_raids"] = 482,
+        ["rank_raids"] = 483,
         ["dps_max"] = 11337.22,
-        ["points"] = 9611.8,
+        ["points"] = 9611.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 200,
@@ -1733,12 +1733,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 128,
         ["dps_max"] = 18884.96,
-        ["points"] = 9935.830473063721,
+        ["points"] = 9935.84004774694,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 243,
         ["dps_max"] = 31482.59,
-        ["points"] = 9839.870721316292,
+        ["points"] = 9839.894242068156,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 163,
@@ -1810,12 +1810,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 152,
         ["dps_max"] = 18719.96,
-        ["points"] = 9929.861214744067,
+        ["points"] = 9929.871680095494,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 237,
         ["dps_max"] = 31536.2,
-        ["points"] = 9847.216101072425,
+        ["points"] = 9847.238542890716,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 282,
@@ -1833,9 +1833,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 205,
+        ["rank_raids"] = 206,
         ["dps_max"] = 11740.61,
-        ["points"] = 9807.0,
+        ["points"] = 9806.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 137,
@@ -1887,12 +1887,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 77,
         ["dps_max"] = 19327.24,
-        ["points"] = 9955.230562602595,
+        ["points"] = 9955.237242614146,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 38,
         ["dps_max"] = 34574.18,
-        ["points"] = 9966.211253121786,
+        ["points"] = 9966.216216216217,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 138,
@@ -1910,9 +1910,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 364,
+        ["rank_raids"] = 365,
         ["dps_max"] = 11480.4,
-        ["points"] = 9686.2,
+        ["points"] = 9685.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -1964,7 +1964,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 139,
         ["dps_max"] = 18795.57,
-        ["points"] = 9931.353529323982,
+        ["points"] = 9931.363772008355,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2,
@@ -1987,9 +1987,9 @@ UWULogsData[8][2] = {
         ["points"] = 9904.413831880798,
       },
       ["Halion"] = {
-        ["rank_raids"] = 265,
+        ["rank_raids"] = 266,
         ["dps_max"] = 11635.3,
-        ["points"] = 9759.0,
+        ["points"] = 9758.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 11,
@@ -2046,7 +2046,7 @@ UWULogsData[8][2] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 78,
         ["dps_max"] = 33460.07,
-        ["points"] = 9942.706037902159,
+        ["points"] = 9942.714453584018,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 508,
@@ -2064,9 +2064,9 @@ UWULogsData[8][2] = {
         ["points"] = 9115.827944897386,
       },
       ["Halion"] = {
-        ["rank_raids"] = 186,
+        ["rank_raids"] = 187,
         ["dps_max"] = 11802.1,
-        ["points"] = 9823.6,
+        ["points"] = 9822.699999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 187,
@@ -2118,12 +2118,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 578,
         ["dps_max"] = 16994.62,
-        ["points"] = 9767.198925533503,
+        ["points"] = 9767.233661593555,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 147,
         ["dps_max"] = 32499.01,
-        ["points"] = 9904.510063170266,
+        ["points"] = 9904.524089306698,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 136,
@@ -2141,9 +2141,9 @@ UWULogsData[8][2] = {
         ["points"] = 6945.459657014338,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3399,
+        ["rank_raids"] = 3400,
         ["dps_max"] = 9542.19,
-        ["points"] = 8531.300000000001,
+        ["points"] = 8531.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -2195,12 +2195,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 256,
         ["dps_max"] = 18166.13,
-        ["points"] = 9891.061035666318,
+        ["points"] = 9891.077290361087,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 26,
         ["dps_max"] = 34933.31,
-        ["points"] = 9977.963860731601,
+        ["points"] = 9977.967097532315,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 99,
@@ -2218,9 +2218,9 @@ UWULogsData[8][2] = {
         ["points"] = 9967.669384312623,
       },
       ["Halion"] = {
-        ["rank_raids"] = 850,
+        ["rank_raids"] = 851,
         ["dps_max"] = 10905.35,
-        ["points"] = 9426.0,
+        ["points"] = 9425.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 205,
@@ -2272,12 +2272,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 138,
         ["dps_max"] = 18800.23,
-        ["points"] = 9932.845843903895,
+        ["points"] = 9932.855863921217,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 199,
         ["dps_max"] = 31850.09,
-        ["points"] = 9870.721316292053,
+        ["points"] = 9870.740305522913,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 249,
@@ -2312,7 +2312,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Lfmdots"] = {
-    ["percentile"] = 98.782,
+    ["percentile"] = 98.783,
     ["server"] = "Icecrown",
     ["overall_rank"] = 31,
     ["bosses"] = {
@@ -2349,12 +2349,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 42,
         ["dps_max"] = 19910.45,
-        ["points"] = 9968.661393821818,
+        ["points"] = 9968.666069829902,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 538,
         ["dps_max"] = 29612.55,
-        ["points"] = 9622.447480534744,
+        ["points"] = 9622.502937720328,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 66,
@@ -2372,9 +2372,9 @@ UWULogsData[8][2] = {
         ["points"] = 9990.160247399494,
       },
       ["Halion"] = {
-        ["rank_raids"] = 824,
+        ["rank_raids"] = 825,
         ["dps_max"] = 10939.47,
-        ["points"] = 9439.0,
+        ["points"] = 9438.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 8,
@@ -2426,12 +2426,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 234,
         ["dps_max"] = 18299.61,
-        ["points"] = 9897.030293985972,
+        ["points"] = 9897.045658012534,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 370,
         ["dps_max"] = 30495.79,
-        ["points"] = 9748.788012340237,
+        ["points"] = 9748.82491186839,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 108,
@@ -2449,9 +2449,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 518,
+        ["rank_raids"] = 519,
         ["dps_max"] = 11278.64,
-        ["points"] = 9592.0,
+        ["points"] = 9591.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 794,
@@ -2503,12 +2503,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 766,
         ["dps_max"] = 16545.02,
-        ["points"] = 9694.075511117744,
+        ["points"] = 9694.121157863325,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 47,
         ["dps_max"] = 34331.5,
-        ["points"] = 9961.804025268106,
+        ["points"] = 9961.809635722679,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 527,
@@ -2526,9 +2526,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2948,
+        ["rank_raids"] = 2949,
         ["dps_max"] = 9731.85,
-        ["points"] = 8666.6,
+        ["points"] = 8666.3,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 109,
@@ -2580,12 +2580,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 37,
         ["dps_max"] = 19967.14,
-        ["points"] = 9971.646022981646,
+        ["points"] = 9971.650253655625,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 141,
         ["dps_max"] = 32538.27,
-        ["points"] = 9908.917291023947,
+        ["points"] = 9908.930669800235,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 19,
@@ -2657,12 +2657,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 57,
         ["dps_max"] = 19591.51,
-        ["points"] = 9959.707506342336,
+        ["points"] = 9959.713518352732,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 54,
         ["dps_max"] = 34126.79,
-        ["points"] = 9955.927721463198,
+        ["points"] = 9955.93419506463,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 281,
@@ -2680,9 +2680,9 @@ UWULogsData[8][2] = {
         ["points"] = 9966.263705369693,
       },
       ["Halion"] = {
-        ["rank_raids"] = 207,
+        ["rank_raids"] = 208,
         ["dps_max"] = 11733.9,
-        ["points"] = 9805.4,
+        ["points"] = 9804.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 190,
@@ -2734,12 +2734,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 262,
         ["dps_max"] = 18136.88,
-        ["points"] = 9889.568721086405,
+        ["points"] = 9889.585198448223,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 127,
         ["dps_max"] = 32675.7,
-        ["points"] = 9913.324518877627,
+        ["points"] = 9913.337250293773,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 247,
@@ -2757,9 +2757,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 377,
+        ["rank_raids"] = 378,
         ["dps_max"] = 11463.52,
-        ["points"] = 9677.1,
+        ["points"] = 9676.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 311,
@@ -2811,7 +2811,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 116,
         ["dps_max"] = 18982.89,
-        ["points"] = 9944.784360543203,
+        ["points"] = 9944.792599224113,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 948,
@@ -2834,9 +2834,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 847,
+        ["rank_raids"] = 848,
         ["dps_max"] = 10912.51,
-        ["points"] = 9427.5,
+        ["points"] = 9427.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -2888,12 +2888,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 224,
         ["dps_max"] = 18353.71,
-        ["points"] = 9905.984181465452,
+        ["points"] = 9905.998209489704,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 371,
         ["dps_max"] = 30494.93,
-        ["points"] = 9747.31893638901,
+        ["points"] = 9747.356051703879,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 52,
@@ -2911,9 +2911,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 454,
+        ["rank_raids"] = 455,
         ["dps_max"] = 11368.37,
-        ["points"] = 9628.599999999999,
+        ["points"] = 9628.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -2965,7 +2965,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 159,
         ["dps_max"] = 18693.33,
-        ["points"] = 9926.876585584241,
+        ["points"] = 9926.88749626977,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1722,
@@ -2988,9 +2988,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 141,
+        ["rank_raids"] = 142,
         ["dps_max"] = 11938.07,
-        ["points"] = 9864.1,
+        ["points"] = 9863.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -3042,12 +3042,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 538,
         ["dps_max"] = 17108.88,
-        ["points"] = 9774.66049843307,
+        ["points"] = 9774.694121157863,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 151,
         ["dps_max"] = 32469.45,
-        ["points"] = 9900.102835316586,
+        ["points"] = 9900.11750881316,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 166,
@@ -3119,12 +3119,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 413,
         ["dps_max"] = 17552.73,
-        ["points"] = 9834.353081629608,
+        ["points"] = 9834.377797672336,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 104,
         ["dps_max"] = 32936.49,
-        ["points"] = 9926.546202438667,
+        ["points"] = 9926.556991774383,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 449,
@@ -3142,9 +3142,9 @@ UWULogsData[8][2] = {
         ["points"] = 9635.929153781277,
       },
       ["Halion"] = {
-        ["rank_raids"] = 344,
+        ["rank_raids"] = 345,
         ["dps_max"] = 11504.21,
-        ["points"] = 9700.2,
+        ["points"] = 9699.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 446,
@@ -3196,12 +3196,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 86,
         ["dps_max"] = 19265.53,
-        ["points"] = 9952.24593344277,
+        ["points"] = 9952.253058788421,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 118,
         ["dps_max"] = 32781.37,
-        ["points"] = 9919.200822682533,
+        ["points"] = 9919.212690951821,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 131,
@@ -3273,7 +3273,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 89,
         ["dps_max"] = 19235.9,
-        ["points"] = 9950.753618862856,
+        ["points"] = 9950.76096687556,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1745,
@@ -3296,9 +3296,9 @@ UWULogsData[8][2] = {
         ["points"] = 8646.331177958955,
       },
       ["Halion"] = {
-        ["rank_raids"] = 538,
+        ["rank_raids"] = 539,
         ["dps_max"] = 11257.17,
-        ["points"] = 9582.0,
+        ["points"] = 9581.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 45,
@@ -3350,12 +3350,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 165,
         ["dps_max"] = 18658.94,
-        ["points"] = 9925.384271004326,
+        ["points"] = 9925.395404356908,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 207,
         ["dps_max"] = 31798.1,
-        ["points"] = 9864.845012487145,
+        ["points"] = 9864.864864864865,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 189,
@@ -3373,9 +3373,9 @@ UWULogsData[8][2] = {
         ["points"] = 9576.89063817824,
       },
       ["Halion"] = {
-        ["rank_raids"] = 304,
+        ["rank_raids"] = 305,
         ["dps_max"] = 11574.51,
-        ["points"] = 9728.2,
+        ["points"] = 9727.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 65,
@@ -3432,7 +3432,7 @@ UWULogsData[8][2] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 525,
         ["dps_max"] = 29666.52,
-        ["points"] = 9631.261936242103,
+        ["points"] = 9631.316098707402,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 308,
@@ -3504,12 +3504,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 235,
         ["dps_max"] = 18290.94,
-        ["points"] = 9895.53797940606,
+        ["points"] = 9895.553566099672,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 189,
         ["dps_max"] = 31948.09,
-        ["points"] = 9879.535771999412,
+        ["points"] = 9879.553466509988,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 95,
@@ -3527,9 +3527,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 626,
+        ["rank_raids"] = 627,
         ["dps_max"] = 11133.01,
-        ["points"] = 9538.0,
+        ["points"] = 9537.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 12,
@@ -3581,7 +3581,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 25,
         ["dps_max"] = 20297.86,
-        ["points"] = 9977.615281301298,
+        ["points"] = 9977.618621307072,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6,
@@ -3658,12 +3658,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 361,
         ["dps_max"] = 17701.69,
-        ["points"] = 9855.245485748395,
+        ["points"] = 9855.267084452402,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 160,
         ["dps_max"] = 32337.3,
-        ["points"] = 9897.164683414132,
+        ["points"] = 9897.179788484136,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1019,
@@ -3681,9 +3681,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 194,
+        ["rank_raids"] = 195,
         ["dps_max"] = 11779.25,
-        ["points"] = 9816.4,
+        ["points"] = 9815.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 259,
@@ -3698,7 +3698,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Topgirl"] = {
-    ["percentile"] = 98.124,
+    ["percentile"] = 98.125,
     ["server"] = "Icecrown",
     ["overall_rank"] = 49,
     ["bosses"] = {
@@ -3735,12 +3735,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 19,
         ["dps_max"] = 20548.98,
-        ["points"] = 9983.584539620952,
+        ["points"] = 9983.58698895852,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 161,
         ["dps_max"] = 32329.8,
-        ["points"] = 9895.695607462905,
+        ["points"] = 9895.710928319624,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 332,
@@ -3812,12 +3812,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 288,
         ["dps_max"] = 17954.12,
-        ["points"] = 9876.137889867183,
+        ["points"] = 9876.156371232468,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 36,
         ["dps_max"] = 34605.26,
-        ["points"] = 9969.14940502424,
+        ["points"] = 9969.15393654524,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 160,
@@ -3835,9 +3835,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 136,
+        ["rank_raids"] = 137,
         ["dps_max"] = 11960.32,
-        ["points"] = 9868.6,
+        ["points"] = 9867.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 214,
@@ -3889,12 +3889,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 842,
         ["dps_max"] = 16417.48,
-        ["points"] = 9655.275332039993,
+        ["points"] = 9655.326768128916,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 184,
         ["dps_max"] = 32013.3,
-        ["points"] = 9883.942999853092,
+        ["points"] = 9883.960047003526,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 90,
@@ -3966,12 +3966,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 558,
         ["dps_max"] = 17049.3,
-        ["points"] = 9770.183554693329,
+        ["points"] = 9770.217845419278,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 441,
         ["dps_max"] = 30172.55,
-        ["points"] = 9695.901278096077,
+        ["points"] = 9695.945945945947,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 102,
@@ -3989,9 +3989,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3069,
+        ["rank_raids"] = 3070,
         ["dps_max"] = 9680.33,
-        ["points"] = 8630.300000000001,
+        ["points"] = 8630.000000000002,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -4043,12 +4043,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 491,
         ["dps_max"] = 17257.12,
-        ["points"] = 9800.029846291598,
+        ["points"] = 9800.059683676514,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 168,
         ["dps_max"] = 32269.44,
-        ["points"] = 9889.819303658,
+        ["points"] = 9889.835487661574,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1089,
@@ -4120,12 +4120,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 427,
         ["dps_max"] = 17493.27,
-        ["points"] = 9826.89150873004,
+        ["points"] = 9826.917338108027,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 218,
         ["dps_max"] = 31676.66,
-        ["points"] = 9857.499632731013,
+        ["points"] = 9857.520564042303,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 116,
@@ -4143,9 +4143,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 451,
+        ["rank_raids"] = 452,
         ["dps_max"] = 11372.67,
-        ["points"] = 9630.4,
+        ["points"] = 9629.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -4197,7 +4197,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 45,
         ["dps_max"] = 19846.5,
-        ["points"] = 9965.67676466199,
+        ["points"] = 9965.681886004177,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 941,
@@ -4220,9 +4220,9 @@ UWULogsData[8][2] = {
         ["points"] = 9994.377284228281,
       },
       ["Halion"] = {
-        ["rank_raids"] = 168,
+        ["rank_raids"] = 169,
         ["dps_max"] = 11857.73,
-        ["points"] = 9839.8,
+        ["points"] = 9838.9,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1075,
@@ -4274,12 +4274,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1659,
         ["dps_max"] = 15371.73,
-        ["points"] = 9397.104909714968,
+        ["points"] = 9397.19486720382,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 34,
         ["dps_max"] = 34663.25,
-        ["points"] = 9972.087556926694,
+        ["points"] = 9972.091656874265,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 353,
@@ -4297,9 +4297,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 175,
+        ["rank_raids"] = 176,
         ["dps_max"] = 11830.44,
-        ["points"] = 9833.5,
+        ["points"] = 9832.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 104,
@@ -4351,12 +4351,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 364,
         ["dps_max"] = 17700.32,
-        ["points"] = 9853.753171168482,
+        ["points"] = 9853.77499253954,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 223,
         ["dps_max"] = 31649.01,
-        ["points"] = 9856.030556779786,
+        ["points"] = 9856.05170387779,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 443,
@@ -4374,9 +4374,9 @@ UWULogsData[8][2] = {
         ["points"] = 9969.075063255552,
       },
       ["Halion"] = {
-        ["rank_raids"] = 222,
+        ["rank_raids"] = 223,
         ["dps_max"] = 11707.12,
-        ["points"] = 9793.4,
+        ["points"] = 9792.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -4428,12 +4428,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 423,
         ["dps_max"] = 17503.26,
-        ["points"] = 9828.383823309954,
+        ["points"] = 9828.409430020889,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 404,
         ["dps_max"] = 30352.36,
-        ["points"] = 9720.875569266931,
+        ["points"] = 9720.916568742656,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1385,
@@ -4451,9 +4451,9 @@ UWULogsData[8][2] = {
         ["points"] = 9957.829631712117,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1437,
+        ["rank_raids"] = 1438,
         ["dps_max"] = 10507.28,
-        ["points"] = 9176.2,
+        ["points"] = 9175.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 210,
@@ -4505,12 +4505,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 282,
         ["dps_max"] = 17987.72,
-        ["points"] = 9880.614833606924,
+        ["points"] = 9880.632646971053,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 401,
         ["dps_max"] = 30355.83,
-        ["points"] = 9725.282797120612,
+        ["points"] = 9725.323149236192,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 333,
@@ -4528,9 +4528,9 @@ UWULogsData[8][2] = {
         ["points"] = 9794.770874332302,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1481,
+        ["rank_raids"] = 1482,
         ["dps_max"] = 10480.62,
-        ["points"] = 9158.6,
+        ["points"] = 9158.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 371,
@@ -4582,12 +4582,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 119,
         ["dps_max"] = 18962.96,
-        ["points"] = 9941.799731383377,
+        ["points"] = 9941.80841539839,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 400,
         ["dps_max"] = 30365.92,
-        ["points"] = 9726.751873071838,
+        ["points"] = 9726.792009400706,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 103,
@@ -4605,9 +4605,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 797,
+        ["rank_raids"] = 798,
         ["dps_max"] = 10968.46,
-        ["points"] = 9452.5,
+        ["points"] = 9452.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 450,
@@ -4659,12 +4659,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 193,
         ["dps_max"] = 18542.49,
-        ["points"] = 9917.922698104761,
+        ["points"] = 9917.9349447926,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 406,
         ["dps_max"] = 30336.73,
-        ["points"] = 9717.937417364477,
+        ["points"] = 9717.978848413632,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 630,
@@ -4682,9 +4682,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1473,
+        ["rank_raids"] = 1474,
         ["dps_max"] = 10485.4,
-        ["points"] = 9161.8,
+        ["points"] = 9161.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -4736,7 +4736,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 778,
         ["dps_max"] = 16518.32,
-        ["points"] = 9685.121623638262,
+        ["points"] = 9685.168606386153,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 742,
@@ -4759,9 +4759,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1722,
+        ["rank_raids"] = 1723,
         ["dps_max"] = 10332.48,
-        ["points"] = 9062.199999999999,
+        ["points"] = 9061.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -4813,12 +4813,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 124,
         ["dps_max"] = 18913.94,
-        ["points"] = 9938.815102223549,
+        ["points"] = 9938.824231572666,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 235,
         ["dps_max"] = 31542.92,
-        ["points"] = 9848.685177023652,
+        ["points"] = 9848.707403055228,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 485,
@@ -4890,12 +4890,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 109,
         ["dps_max"] = 19057.17,
-        ["points"] = 9946.276675123116,
+        ["points"] = 9946.284691136974,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 79,
         ["dps_max"] = 33425.38,
-        ["points"] = 9941.236961950934,
+        ["points"] = 9941.245593419506,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 226,
@@ -4967,12 +4967,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 537,
         ["dps_max"] = 17110.03,
-        ["points"] = 9776.152813012983,
+        ["points"] = 9776.186213070725,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 37,
         ["dps_max"] = 34585.75,
-        ["points"] = 9967.680329073013,
+        ["points"] = 9967.685076380729,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 199,
@@ -4990,9 +4990,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 468,
+        ["rank_raids"] = 469,
         ["dps_max"] = 11353.11,
-        ["points"] = 9620.2,
+        ["points"] = 9619.599999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 29,
@@ -5044,7 +5044,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 252,
         ["dps_max"] = 18185.01,
-        ["points"] = 9892.553350246231,
+        ["points"] = 9892.569382273949,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1641,
@@ -5067,9 +5067,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1238,
+        ["rank_raids"] = 1239,
         ["dps_max"] = 10645.02,
-        ["points"] = 9255.8,
+        ["points"] = 9255.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -5121,12 +5121,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1157,
         ["dps_max"] = 15934.73,
-        ["points"] = 9549.32099686614,
+        ["points"] = 9549.388242315727,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 297,
         ["dps_max"] = 31013.66,
-        ["points"] = 9798.736594681945,
+        ["points"] = 9798.76615746181,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 28,
@@ -5198,12 +5198,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 67,
         ["dps_max"] = 19429.27,
-        ["points"] = 9956.72287718251,
+        ["points"] = 9956.729334527006,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 192,
         ["dps_max"] = 31925.0,
-        ["points"] = 9875.128544145733,
+        ["points"] = 9875.146886016451,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 68,
@@ -5221,9 +5221,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 9555,
+        ["rank_raids"] = 9557,
         ["dps_max"] = 6906.36,
-        ["points"] = 6684.5,
+        ["points"] = 6683.900000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -5275,12 +5275,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1070,
         ["dps_max"] = 16069.55,
-        ["points"] = 9586.628861363975,
+        ["points"] = 9586.690540137273,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 197,
         ["dps_max"] = 31867.82,
-        ["points"] = 9873.659468194506,
+        ["points"] = 9873.67802585194,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 372,
@@ -5298,9 +5298,9 @@ UWULogsData[8][2] = {
         ["points"] = 9970.480742198482,
       },
       ["Halion"] = {
-        ["rank_raids"] = 6261,
+        ["rank_raids"] = 6263,
         ["dps_max"] = 8440.41,
-        ["points"] = 7672.700000000002,
+        ["points"] = 7672.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 115,
@@ -5352,12 +5352,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 153,
         ["dps_max"] = 18719.3,
-        ["points"] = 9928.368900164154,
+        ["points"] = 9928.379588182632,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 88,
         ["dps_max"] = 33280.35,
-        ["points"] = 9935.360658146026,
+        ["points"] = 9935.370152761458,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 279,
@@ -5375,9 +5375,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 193,
+        ["rank_raids"] = 194,
         ["dps_max"] = 11782.9,
-        ["points"] = 9817.3,
+        ["points"] = 9816.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -5429,12 +5429,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 393,
         ["dps_max"] = 17621.68,
-        ["points"] = 9841.814654529175,
+        ["points"] = 9841.838257236646,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 89,
         ["dps_max"] = 33277.45,
-        ["points"] = 9933.8915821948,
+        ["points"] = 9933.901292596945,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 752,
@@ -5452,9 +5452,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 280,
+        ["rank_raids"] = 281,
         ["dps_max"] = 11610.02,
-        ["points"] = 9747.0,
+        ["points"] = 9746.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -5529,9 +5529,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 401,
+        ["rank_raids"] = 402,
         ["dps_max"] = 11436.02,
-        ["points"] = 9660.4,
+        ["points"] = 9659.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -5551,17 +5551,17 @@ UWULogsData[8][2] = {
     ["overall_rank"] = 2457,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 22680,
+        ["rank_raids"] = 22681,
         ["dps_max"] = 12128.42,
         ["points"] = 5385.810603480318,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 19771,
+        ["rank_raids"] = 19772,
         ["dps_max"] = 8853.05,
-        ["points"] = 5573.9,
+        ["points"] = 5573.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 19827,
+        ["rank_raids"] = 19828,
         ["dps_max"] = 15430.98,
         ["points"] = 6817.830565357988,
       },
@@ -5576,14 +5576,14 @@ UWULogsData[8][2] = {
         ["points"] = 6545.6799681651955,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 10187,
+        ["rank_raids"] = 10188,
         ["dps_max"] = 12565.98,
-        ["points"] = 6532.3,
+        ["points"] = 6532.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 17893,
+        ["rank_raids"] = 17894,
         ["dps_max"] = 9723.05,
-        ["points"] = 5761.7,
+        ["points"] = 5761.6,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6917,
@@ -5596,9 +5596,9 @@ UWULogsData[8][2] = {
         ["points"] = 7630.7,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 11868,
+        ["rank_raids"] = 11869,
         ["dps_max"] = 9871.27,
-        ["points"] = 6364.2,
+        ["points"] = 6364.1,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 754,
@@ -5606,9 +5606,9 @@ UWULogsData[8][2] = {
         ["points"] = 8941.523755974136,
       },
       ["Halion"] = {
-        ["rank_raids"] = 7810,
+        ["rank_raids"] = 7812,
         ["dps_max"] = 7812.95,
-        ["points"] = 7208.000000000001,
+        ["points"] = 7207.400000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -5660,12 +5660,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 738,
         ["dps_max"] = 16603.93,
-        ["points"] = 9703.029398597224,
+        ["points"] = 9703.073709340495,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 109,
         ["dps_max"] = 32862.03,
-        ["points"] = 9923.608050536212,
+        ["points"] = 9923.61927144536,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 195,
@@ -5683,9 +5683,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 856,
+        ["rank_raids"] = 857,
         ["dps_max"] = 10904.08,
-        ["points"] = 9423.0,
+        ["points"] = 9422.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -5737,12 +5737,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 816,
         ["dps_max"] = 16449.77,
-        ["points"] = 9667.213848679301,
+        ["points"] = 9667.263503431812,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 607,
         ["dps_max"] = 29214.82,
-        ["points"] = 9566.62259438813,
+        ["points"] = 9566.68625146886,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 765,
@@ -5760,9 +5760,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 762,
+        ["rank_raids"] = 763,
         ["dps_max"] = 10999.84,
-        ["points"] = 9470.0,
+        ["points"] = 9469.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -5814,7 +5814,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 602,
         ["dps_max"] = 16929.82,
-        ["points"] = 9758.245038054021,
+        ["points"] = 9758.281110116384,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1048,
@@ -5837,9 +5837,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 235,
+        ["rank_raids"] = 236,
         ["dps_max"] = 11686.3,
-        ["points"] = 9783.0,
+        ["points"] = 9782.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 68,
@@ -5891,12 +5891,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 449,
         ["dps_max"] = 17391.54,
-        ["points"] = 9817.93762125056,
+        ["points"] = 9817.964786630857,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 317,
         ["dps_max"] = 30881.93,
-        ["points"] = 9785.514911120905,
+        ["points"] = 9785.546415981198,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1021,
@@ -5914,9 +5914,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 212,
+        ["rank_raids"] = 213,
         ["dps_max"] = 11721.4,
-        ["points"] = 9801.4,
+        ["points"] = 9800.599999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 3,
@@ -5968,12 +5968,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1815,
         ["dps_max"] = 15228.9,
-        ["points"] = 9355.320101477391,
+        ["points"] = 9355.416293643688,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 312,
         ["dps_max"] = 30914.62,
-        ["points"] = 9789.922138974585,
+        ["points"] = 9789.952996474736,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 127,
@@ -5991,9 +5991,9 @@ UWULogsData[8][2] = {
         ["points"] = 1865.053873801215,
       },
       ["Halion"] = {
-        ["rank_raids"] = 653,
+        ["rank_raids"] = 654,
         ["dps_max"] = 11109.11,
-        ["points"] = 9524.5,
+        ["points"] = 9524.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -6045,12 +6045,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 230,
         ["dps_max"] = 18339.36,
-        ["points"] = 9901.507237725713,
+        ["points"] = 9901.521933751119,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 188,
         ["dps_max"] = 31951.27,
-        ["points"] = 9881.00484795064,
+        ["points"] = 9881.0223266745,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 607,
@@ -6122,7 +6122,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 17,
         ["dps_max"] = 20647.82,
-        ["points"] = 9985.076854200865,
+        ["points"] = 9985.079080871383,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1880,
@@ -6145,9 +6145,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 169,
+        ["rank_raids"] = 170,
         ["dps_max"] = 11857.0,
-        ["points"] = 9838.9,
+        ["points"] = 9838.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -6199,12 +6199,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 358,
         ["dps_max"] = 17706.19,
-        ["points"] = 9858.230114908223,
+        ["points"] = 9858.251268278127,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 299,
         ["dps_max"] = 31008.97,
-        ["points"] = 9797.267518730718,
+        ["points"] = 9797.297297297297,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 185,
@@ -6276,12 +6276,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 82,
         ["dps_max"] = 19289.2,
-        ["points"] = 9953.738248022682,
+        ["points"] = 9953.745150701283,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 107,
         ["dps_max"] = 32919.37,
-        ["points"] = 9925.07712648744,
+        ["points"] = 9925.088131609871,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2940,
@@ -6299,9 +6299,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 7597,
+        ["rank_raids"] = 7599,
         ["dps_max"] = 7903.61,
-        ["points"] = 7271.9,
+        ["points"] = 7271.3,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 19,
@@ -6353,12 +6353,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 448,
         ["dps_max"] = 17393.91,
-        ["points"] = 9819.429935830472,
+        ["points"] = 9819.456878543719,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 183,
         ["dps_max"] = 32014.97,
-        ["points"] = 9885.41207580432,
+        ["points"] = 9885.428907168038,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1957,
@@ -6376,9 +6376,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1383,
+        ["rank_raids"] = 1384,
         ["dps_max"] = 10543.55,
-        ["points"] = 9197.8,
+        ["points"] = 9197.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 35,
@@ -6430,12 +6430,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 505,
         ["dps_max"] = 17195.54,
-        ["points"] = 9791.075958812118,
+        ["points"] = 9791.107132199344,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 52,
         ["dps_max"] = 34199.68,
-        ["points"] = 9957.396797414427,
+        ["points"] = 9957.403055229142,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 656,
@@ -6453,9 +6453,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2206,
+        ["rank_raids"] = 2207,
         ["dps_max"] = 10064.73,
-        ["points"] = 8889.2,
+        ["points"] = 8888.900000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -6507,12 +6507,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 631,
         ["dps_max"] = 16871.94,
-        ["points"] = 9746.306521414714,
+        ["points"] = 9746.344374813489,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 424,
         ["dps_max"] = 30250.54,
-        ["points"] = 9707.653885705891,
+        ["points"] = 9707.696827262045,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1836,
@@ -6584,7 +6584,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 563,
         ["dps_max"] = 17031.27,
-        ["points"] = 9768.691240113416,
+        ["points"] = 9768.725753506416,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1863,
@@ -6607,9 +6607,9 @@ UWULogsData[8][2] = {
         ["points"] = 9959.235310655047,
       },
       ["Halion"] = {
-        ["rank_raids"] = 988,
+        ["rank_raids"] = 989,
         ["dps_max"] = 10804.96,
-        ["points"] = 9357.0,
+        ["points"] = 9356.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 203,
@@ -6661,7 +6661,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 203,
         ["dps_max"] = 18471.4,
-        ["points"] = 9911.953439785108,
+        ["points"] = 9911.966577141151,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2218,
@@ -6684,9 +6684,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 497,
+        ["rank_raids"] = 498,
         ["dps_max"] = 11314.88,
-        ["points"] = 9602.800000000001,
+        ["points"] = 9602.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 21,
@@ -6738,12 +6738,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 513,
         ["dps_max"] = 17166.7,
-        ["points"] = 9785.106700492464,
+        ["points"] = 9785.138764547895,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 65,
         ["dps_max"] = 33744.6,
-        ["points"] = 9951.52049360952,
+        ["points"] = 9951.527614571092,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 239,
@@ -6761,9 +6761,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1984,
+        ["rank_raids"] = 1985,
         ["dps_max"] = 10179.78,
-        ["points"] = 8957.4,
+        ["points"] = 8957.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -6815,12 +6815,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 604,
         ["dps_max"] = 16925.76,
-        ["points"] = 9756.752723474108,
+        ["points"] = 9756.78901820352,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 157,
         ["dps_max"] = 32395.01,
-        ["points"] = 9898.633759365359,
+        ["points"] = 9898.648648648648,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 557,
@@ -6838,9 +6838,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 303,
+        ["rank_raids"] = 304,
         ["dps_max"] = 11577.5,
-        ["points"] = 9728.9,
+        ["points"] = 9728.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -6892,12 +6892,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 727,
         ["dps_max"] = 16623.41,
-        ["points"] = 9708.998656916878,
+        ["points"] = 9709.042076991942,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 510,
         ["dps_max"] = 29736.52,
-        ["points"] = 9644.483619803144,
+        ["points"] = 9644.535840188015,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1265,
@@ -6969,12 +6969,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 379,
         ["dps_max"] = 17656.36,
-        ["points"] = 9849.276227428742,
+        ["points"] = 9849.298716800955,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 217,
         ["dps_max"] = 31690.82,
-        ["points"] = 9858.968708682238,
+        ["points"] = 9858.989424206815,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 393,
@@ -7046,12 +7046,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 589,
         ["dps_max"] = 16967.22,
-        ["points"] = 9764.214296373675,
+        ["points"] = 9764.24947776783,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 247,
         ["dps_max"] = 31474.19,
-        ["points"] = 9833.994417511385,
+        ["points"] = 9834.018801410106,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 837,
@@ -7069,9 +7069,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 415,
+        ["rank_raids"] = 416,
         ["dps_max"] = 11415.36,
-        ["points"] = 9652.0,
+        ["points"] = 9651.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -7123,12 +7123,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 186,
         ["dps_max"] = 18571.24,
-        ["points"] = 9920.907327264587,
+        ["points"] = 9920.919128618323,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 606,
         ["dps_max"] = 29215.74,
-        ["points"] = 9568.091670339358,
+        ["points"] = 9568.155111633372,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 307,
@@ -7146,9 +7146,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 956,
+        ["rank_raids"] = 957,
         ["dps_max"] = 10829.94,
-        ["points"] = 9373.0,
+        ["points"] = 9372.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -7200,12 +7200,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 622,
         ["dps_max"] = 16886.61,
-        ["points"] = 9752.27577973437,
+        ["points"] = 9752.312742464936,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 239,
         ["dps_max"] = 31523.1,
-        ["points"] = 9844.277949169971,
+        ["points"] = 9844.300822561692,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 514,
@@ -7277,12 +7277,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 357,
         ["dps_max"] = 17711.75,
-        ["points"] = 9859.722429488136,
+        ["points"] = 9859.743360190987,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 498,
         ["dps_max"] = 29787.08,
-        ["points"] = 9654.76715146173,
+        ["points"] = 9654.817861339601,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 260,
@@ -7300,9 +7300,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3853,
+        ["rank_raids"] = 3855,
         ["dps_max"] = 9364.66,
-        ["points"] = 8395.1,
+        ["points"] = 8394.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -7354,7 +7354,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 226,
         ["dps_max"] = 18348.32,
-        ["points"] = 9904.491866885539,
+        ["points"] = 9904.506117576842,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2051,
@@ -7394,7 +7394,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Socjopatusia"] = {
-    ["percentile"] = 96.878,
+    ["percentile"] = 96.879,
     ["server"] = "Icecrown",
     ["overall_rank"] = 97,
     ["bosses"] = {
@@ -7431,12 +7431,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2042,
         ["dps_max"] = 15018.45,
-        ["points"] = 9265.781226682584,
+        ["points"] = 9265.890778871977,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 224,
         ["dps_max"] = 31642.66,
-        ["points"] = 9854.561480828559,
+        ["points"] = 9854.582843713279,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 69,
@@ -7454,9 +7454,9 @@ UWULogsData[8][2] = {
         ["points"] = 9976.1034579702,
       },
       ["Halion"] = {
-        ["rank_raids"] = 275,
+        ["rank_raids"] = 276,
         ["dps_max"] = 11619.96,
-        ["points"] = 9751.0,
+        ["points"] = 9750.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -7508,12 +7508,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 823,
         ["dps_max"] = 16441.08,
-        ["points"] = 9661.244590359647,
+        ["points"] = 9661.295135780365,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 46,
         ["dps_max"] = 34345.23,
-        ["points"] = 9963.273101219333,
+        ["points"] = 9963.27849588719,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 173,
@@ -7585,12 +7585,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 359,
         ["dps_max"] = 17704.43,
-        ["points"] = 9856.737800328308,
+        ["points"] = 9856.759176365264,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 311,
         ["dps_max"] = 30916.73,
-        ["points"] = 9791.391214925812,
+        ["points"] = 9791.421856639248,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 852,
@@ -7608,9 +7608,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 319,
+        ["rank_raids"] = 320,
         ["dps_max"] = 11539.05,
-        ["points"] = 9717.7,
+        ["points"] = 9717.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 572,
@@ -7662,12 +7662,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 332,
         ["dps_max"] = 17818.28,
-        ["points"] = 9867.184002387703,
+        ["points"] = 9867.203819755297,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 48,
         ["dps_max"] = 34296.38,
-        ["points"] = 9960.33494931688,
+        ["points"] = 9960.340775558167,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2301,
@@ -7739,7 +7739,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 232,
         ["dps_max"] = 18307.86,
-        ["points"] = 9900.0149231458,
+        ["points"] = 9900.029841838257,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2564,
@@ -7762,9 +7762,9 @@ UWULogsData[8][2] = {
         ["points"] = 9983.131852684846,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1681,
+        ["rank_raids"] = 1682,
         ["dps_max"] = 10357.02,
-        ["points"] = 9078.6,
+        ["points"] = 9078.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 261,
@@ -7816,7 +7816,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 744,
         ["dps_max"] = 16595.29,
-        ["points"] = 9700.044769437398,
+        ["points"] = 9700.089525514772,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2236,
@@ -7839,9 +7839,9 @@ UWULogsData[8][2] = {
         ["points"] = 9578.29631712117,
       },
       ["Halion"] = {
-        ["rank_raids"] = 492,
+        ["rank_raids"] = 493,
         ["dps_max"] = 11324.76,
-        ["points"] = 9605.8,
+        ["points"] = 9605.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 84,
@@ -7893,12 +7893,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1405,
         ["dps_max"] = 15643.06,
-        ["points"] = 9464.259065811073,
+        ["points"] = 9464.339003282603,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 522,
         ["dps_max"] = 29686.97,
-        ["points"] = 9634.200088144557,
+        ["points"] = 9634.253819036428,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 674,
@@ -7916,9 +7916,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1124,
+        ["rank_raids"] = 1125,
         ["dps_max"] = 10716.87,
-        ["points"] = 9301.4,
+        ["points"] = 9301.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -7970,12 +7970,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 885,
         ["dps_max"] = 16360.52,
-        ["points"] = 9643.336815400686,
+        ["points"] = 9643.390032826022,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 388,
         ["dps_max"] = 30414.1,
-        ["points"] = 9732.628176876744,
+        ["points"] = 9732.667450058754,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 209,
@@ -7993,9 +7993,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 6285,
+        ["rank_raids"] = 6287,
         ["dps_max"] = 8434.07,
-        ["points"] = 7665.500000000001,
+        ["points"] = 7664.9000000000015,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -8010,7 +8010,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Dotimusprime"] = {
-    ["percentile"] = 96.75,
+    ["percentile"] = 96.751,
     ["server"] = "Icecrown",
     ["overall_rank"] = 105,
     ["bosses"] = {
@@ -8047,12 +8047,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 349,
         ["dps_max"] = 17748.93,
-        ["points"] = 9861.21474406805,
+        ["points"] = 9861.235452103849,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 145,
         ["dps_max"] = 32505.97,
-        ["points"] = 9905.979139121493,
+        ["points"] = 9905.99294947121,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 34,
@@ -8070,9 +8070,9 @@ UWULogsData[8][2] = {
         ["points"] = 748.2636664353984,
       },
       ["Halion"] = {
-        ["rank_raids"] = 874,
+        ["rank_raids"] = 875,
         ["dps_max"] = 10888.3,
-        ["points"] = 9414.0,
+        ["points"] = 9413.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 6,
@@ -8124,12 +8124,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 673,
         ["dps_max"] = 16732.47,
-        ["points"] = 9723.921802716013,
+        ["points"] = 9723.962996120561,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 282,
         ["dps_max"] = 31114.09,
-        ["points"] = 9807.551050389306,
+        ["points"] = 9807.579318448883,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 361,
@@ -8147,9 +8147,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4080,
+        ["rank_raids"] = 4082,
         ["dps_max"] = 9279.71,
-        ["points"] = 8327.0,
+        ["points"] = 8326.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 10,
@@ -8201,7 +8201,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 380,
         ["dps_max"] = 17647.04,
-        ["points"] = 9847.783912848829,
+        ["points"] = 9847.806624888093,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2094,
@@ -8278,12 +8278,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 611,
         ["dps_max"] = 16916.54,
-        ["points"] = 9755.260408894195,
+        ["points"] = 9755.296926290659,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 64,
         ["dps_max"] = 33774.51,
-        ["points"] = 9952.989569560747,
+        ["points"] = 9952.996474735604,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1939,
@@ -8355,7 +8355,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 643,
         ["dps_max"] = 16812.79,
-        ["points"] = 9740.33726309506,
+        ["points"] = 9740.376007162042,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2536,
@@ -8378,9 +8378,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 11105,
+        ["rank_raids"] = 11107,
         ["dps_max"] = 5283.68,
-        ["points"] = 6440.5,
+        ["points"] = 6440.3,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -8432,12 +8432,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 593,
         ["dps_max"] = 16949.19,
-        ["points"] = 9762.721981793762,
+        ["points"] = 9762.75738585497,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 335,
         ["dps_max"] = 30780.24,
-        ["points"] = 9770.824151608638,
+        ["points"] = 9770.857814336076,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 457,
@@ -8455,9 +8455,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 439,
+        ["rank_raids"] = 440,
         ["dps_max"] = 11386.92,
-        ["points"] = 9637.6,
+        ["points"] = 9637.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -8509,12 +8509,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1038,
         ["dps_max"] = 16107.35,
-        ["points"] = 9591.105805103716,
+        ["points"] = 9591.166815875858,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 149,
         ["dps_max"] = 32487.76,
-        ["points"] = 9903.04098721904,
+        ["points"] = 9903.055229142186,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 374,
@@ -8586,7 +8586,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 521,
         ["dps_max"] = 17147.77,
-        ["points"] = 9782.122071332637,
+        ["points"] = 9782.154580722172,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1005,
@@ -8609,9 +8609,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 687,
+        ["rank_raids"] = 688,
         ["dps_max"] = 11064.28,
-        ["points"] = 9507.5,
+        ["points"] = 9507.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -8663,12 +8663,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 743,
         ["dps_max"] = 16596.51,
-        ["points"] = 9701.537084017311,
+        ["points"] = 9701.581617427633,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 336,
         ["dps_max"] = 30768.87,
-        ["points"] = 9769.355075657411,
+        ["points"] = 9769.388954171563,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 463,
@@ -8686,9 +8686,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1528,
+        ["rank_raids"] = 1529,
         ["dps_max"] = 10452.43,
-        ["points"] = 9139.8,
+        ["points"] = 9139.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -8740,7 +8740,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 270,
         ["dps_max"] = 18062.1,
-        ["points"] = 9885.091777346664,
+        ["points"] = 9885.108922709638,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1619,
@@ -8763,9 +8763,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1181,
+        ["rank_raids"] = 1182,
         ["dps_max"] = 10682.37,
-        ["points"] = 9278.599999999999,
+        ["points"] = 9278.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 848,
@@ -8817,12 +8817,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 939,
         ["dps_max"] = 16269.51,
-        ["points"] = 9620.952096701985,
+        ["points"] = 9621.008654133095,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 264,
         ["dps_max"] = 31267.09,
-        ["points"] = 9823.710885852799,
+        ["points"] = 9823.73678025852,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 390,
@@ -8840,9 +8840,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1129,
+        ["rank_raids"] = 1130,
         ["dps_max"] = 10713.85,
-        ["points"] = 9299.4,
+        ["points"] = 9299.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -8894,12 +8894,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2411,
         ["dps_max"] = 14687.51,
-        ["points"] = 9125.50365617072,
+        ["points"] = 9125.634139062966,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 66,
         ["dps_max"] = 33722.66,
-        ["points"] = 9950.051417658293,
+        ["points"] = 9950.05875440658,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 167,
@@ -8917,9 +8917,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 707,
+        ["rank_raids"] = 708,
         ["dps_max"] = 11049.46,
-        ["points"] = 9497.5,
+        ["points"] = 9497.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -8971,12 +8971,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 274,
         ["dps_max"] = 18026.85,
-        ["points"] = 9883.599462766751,
+        ["points"] = 9883.616830796778,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 274,
         ["dps_max"] = 31183.73,
-        ["points"] = 9813.427354194211,
+        ["points"] = 9813.454759106933,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 464,
@@ -8994,9 +8994,9 @@ UWULogsData[8][2] = {
         ["points"] = 9992.971605285353,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1431,
+        ["rank_raids"] = 1432,
         ["dps_max"] = 10511.67,
-        ["points"] = 9178.6,
+        ["points"] = 9178.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -9048,12 +9048,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 913,
         ["dps_max"] = 16316.97,
-        ["points"] = 9635.875242501119,
+        ["points"] = 9635.929573261714,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 203,
         ["dps_max"] = 31810.65,
-        ["points"] = 9867.783164389599,
+        ["points"] = 9867.80258519389,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 254,
@@ -9071,9 +9071,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1921,
+        ["rank_raids"] = 1922,
         ["dps_max"] = 10220.95,
-        ["points"] = 8982.6,
+        ["points"] = 8982.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -9125,12 +9125,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 268,
         ["dps_max"] = 18076.08,
-        ["points"] = 9886.584091926577,
+        ["points"] = 9886.6010146225,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 83,
         ["dps_max"] = 33330.44,
-        ["points"] = 9939.767885999707,
+        ["points"] = 9939.776733254994,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1293,
@@ -9148,9 +9148,9 @@ UWULogsData[8][2] = {
         ["points"] = 9981.726173741918,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2802,
+        ["rank_raids"] = 2803,
         ["dps_max"] = 9797.44,
-        ["points"] = 8710.4,
+        ["points"] = 8710.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 918,
@@ -9202,12 +9202,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 471,
         ["dps_max"] = 17324.23,
-        ["points"] = 9807.491419191165,
+        ["points"] = 9807.520143240823,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 124,
         ["dps_max"] = 32748.79,
-        ["points"] = 9917.731746731306,
+        ["points"] = 9917.743830787309,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 509,
@@ -9225,9 +9225,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1512,
+        ["rank_raids"] = 1513,
         ["dps_max"] = 10463.3,
-        ["points"] = 9146.2,
+        ["points"] = 9145.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -9279,12 +9279,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1018,
         ["dps_max"] = 16135.5,
-        ["points"] = 9598.567378003283,
+        ["points"] = 9598.627275440167,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 202,
         ["dps_max"] = 31832.32,
-        ["points"] = 9869.252240340826,
+        ["points"] = 9869.271445358401,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 255,
@@ -9302,9 +9302,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1994,
+        ["rank_raids"] = 1995,
         ["dps_max"] = 10174.34,
-        ["points"] = 8953.4,
+        ["points"] = 8953.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -9356,12 +9356,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1314,
         ["dps_max"] = 15752.77,
-        ["points"] = 9494.105357409342,
+        ["points"] = 9494.18084153984,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 613,
         ["dps_max"] = 29198.48,
-        ["points"] = 9562.21536653445,
+        ["points"] = 9562.279670975324,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1416,
@@ -9379,9 +9379,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2740,
+        ["rank_raids"] = 2741,
         ["dps_max"] = 9824.59,
-        ["points"] = 8729.0,
+        ["points"] = 8728.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 103,
@@ -9433,7 +9433,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 594,
         ["dps_max"] = 16948.16,
-        ["points"] = 9761.22966721385,
+        ["points"] = 9761.265293942106,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1193,
@@ -9456,9 +9456,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4328,
+        ["rank_raids"] = 4330,
         ["dps_max"] = 9170.02,
-        ["points"] = 8252.6,
+        ["points"] = 8252.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -9510,12 +9510,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 63,
         ["dps_max"] = 19507.04,
-        ["points"] = 9958.215191762423,
+        ["points"] = 9958.221426439868,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 559,
         ["dps_max"] = 29488.95,
-        ["points"] = 9598.942265315116,
+        ["points"] = 9599.001175088131,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 866,
@@ -9533,9 +9533,9 @@ UWULogsData[8][2] = {
         ["points"] = 2576.609502389654,
       },
       ["Halion"] = {
-        ["rank_raids"] = 155,
+        ["rank_raids"] = 156,
         ["dps_max"] = 11895.51,
-        ["points"] = 9851.5,
+        ["points"] = 9850.599999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 740,
@@ -9587,7 +9587,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 125,
         ["dps_max"] = 18908.64,
-        ["points"] = 9937.322787643636,
+        ["points"] = 9937.332139659804,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1192,
@@ -9664,12 +9664,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 432,
         ["dps_max"] = 17460.05,
-        ["points"] = 9825.399194150128,
+        ["points"] = 9825.425246195166,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 342,
         ["dps_max"] = 30705.89,
-        ["points"] = 9766.416923754958,
+        ["points"] = 9766.451233842537,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 334,
@@ -9741,12 +9741,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 665,
         ["dps_max"] = 16746.61,
-        ["points"] = 9728.398746455752,
+        ["points"] = 9728.439271859146,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 422,
         ["dps_max"] = 30252.68,
-        ["points"] = 9710.592037608345,
+        ["points"] = 9710.63454759107,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 507,
@@ -9764,9 +9764,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1577,
+        ["rank_raids"] = 1578,
         ["dps_max"] = 10427.32,
-        ["points"] = 9120.199999999999,
+        ["points"] = 9119.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 67,
@@ -9781,7 +9781,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Insanity"] = {
-    ["percentile"] = 96.215,
+    ["percentile"] = 96.216,
     ["server"] = "Icecrown",
     ["overall_rank"] = 128,
     ["bosses"] = {
@@ -9818,12 +9818,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 715,
         ["dps_max"] = 16644.65,
-        ["points"] = 9713.475600656619,
+        ["points"] = 9713.518352730527,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 420,
         ["dps_max"] = 30256.67,
-        ["points"] = 9712.061113559572,
+        ["points"] = 9712.103407755581,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 216,
@@ -9841,9 +9841,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 242,
+        ["rank_raids"] = 243,
         ["dps_max"] = 11669.75,
-        ["points"] = 9777.4,
+        ["points"] = 9776.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -9895,7 +9895,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 218,
         ["dps_max"] = 18396.71,
-        ["points"] = 9907.476496045367,
+        ["points"] = 9907.490301402566,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1018,
@@ -9918,9 +9918,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 225,
+        ["rank_raids"] = 226,
         ["dps_max"] = 11704.34,
-        ["points"] = 9791.0,
+        ["points"] = 9790.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -9972,12 +9972,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 118,
         ["dps_max"] = 18964.59,
-        ["points"] = 9943.29204596329,
+        ["points"] = 9943.30050731125,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 583,
         ["dps_max"] = 29341.15,
-        ["points"] = 9585.720581754076,
+        ["points"] = 9585.78143360752,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 907,
@@ -9995,9 +9995,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1207,
+        ["rank_raids"] = 1208,
         ["dps_max"] = 10666.37,
-        ["points"] = 9268.199999999999,
+        ["points"] = 9267.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -10049,7 +10049,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1842,
         ["dps_max"] = 15211.78,
-        ["points"] = 9346.366213997911,
+        ["points"] = 9346.463742166517,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6068,
@@ -10072,9 +10072,9 @@ UWULogsData[8][2] = {
         ["points"] = 2435.4866426484746,
       },
       ["Halion"] = {
-        ["rank_raids"] = 6812,
+        ["rank_raids"] = 6814,
         ["dps_max"] = 8230.47,
-        ["points"] = 7507.400000000001,
+        ["points"] = 7506.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 73,
@@ -10126,7 +10126,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2350,
         ["dps_max"] = 14737.92,
-        ["points"] = 9138.93448738994,
+        ["points"] = 9139.062966278723,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1448,
@@ -10149,9 +10149,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1020,
+        ["rank_raids"] = 1021,
         ["dps_max"] = 10780.54,
-        ["points"] = 9342.999999999998,
+        ["points"] = 9342.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -10203,12 +10203,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3586,
         ["dps_max"] = 13984.24,
-        ["points"] = 8782.271302790628,
+        ["points"] = 8782.452999104746,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 74,
         ["dps_max"] = 33571.44,
-        ["points"] = 9945.644189804614,
+        ["points"] = 9945.652173913044,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 153,
@@ -10226,9 +10226,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 198,
+        ["rank_raids"] = 199,
         ["dps_max"] = 11763.12,
-        ["points"] = 9812.8,
+        ["points"] = 9811.9,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -10243,7 +10243,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Zimtii"] = {
-    ["percentile"] = 95.984,
+    ["percentile"] = 95.985,
     ["server"] = "Icecrown",
     ["overall_rank"] = 134,
     ["bosses"] = {
@@ -10280,12 +10280,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1146,
         ["dps_max"] = 15955.57,
-        ["points"] = 9556.782569765706,
+        ["points"] = 9556.848701880037,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 273,
         ["dps_max"] = 31185.58,
-        ["points"] = 9814.896430145438,
+        ["points"] = 9814.923619271445,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 512,
@@ -10357,12 +10357,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 708,
         ["dps_max"] = 16660.36,
-        ["points"] = 9714.967915236532,
+        ["points"] = 9715.01044464339,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 290,
         ["dps_max"] = 31046.07,
-        ["points"] = 9803.143822535625,
+        ["points"] = 9803.172737955347,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 292,
@@ -10380,9 +10380,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2777,
+        ["rank_raids"] = 2778,
         ["dps_max"] = 9810.56,
-        ["points"] = 8717.900000000001,
+        ["points"] = 8717.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -10434,7 +10434,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 668,
         ["dps_max"] = 16740.35,
-        ["points"] = 9725.414117295926,
+        ["points"] = 9725.455088033423,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 764,
@@ -10511,12 +10511,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 965,
         ["dps_max"] = 16215.19,
-        ["points"] = 9614.982838382331,
+        ["points"] = 9615.040286481648,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 186,
         ["dps_max"] = 31957.66,
-        ["points"] = 9882.473923901865,
+        ["points"] = 9882.491186839014,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 296,
@@ -10534,9 +10534,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3533,
+        ["rank_raids"] = 3534,
         ["dps_max"] = 9484.17,
-        ["points"] = 8491.1,
+        ["points"] = 8490.800000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -10588,12 +10588,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 982,
         ["dps_max"] = 16193.77,
-        ["points"] = 9609.013580062678,
+        ["points"] = 9609.0719188302,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 125,
         ["dps_max"] = 32740.88,
-        ["points"] = 9916.26267078008,
+        ["points"] = 9916.274970622797,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1035,
@@ -10611,9 +10611,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2303,
+        ["rank_raids"] = 2304,
         ["dps_max"] = 10011.9,
-        ["points"] = 8860.1,
+        ["points"] = 8859.800000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -10665,12 +10665,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 617,
         ["dps_max"] = 16893.43,
-        ["points"] = 9753.76809431428,
+        ["points"] = 9753.804834377797,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 278,
         ["dps_max"] = 31148.6,
-        ["points"] = 9809.020126340532,
+        ["points"] = 9809.048178613397,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 453,
@@ -10688,9 +10688,9 @@ UWULogsData[8][2] = {
         ["points"] = 8806.578577452909,
       },
       ["Halion"] = {
-        ["rank_raids"] = 375,
+        ["rank_raids"] = 376,
         ["dps_max"] = 11465.47,
-        ["points"] = 9678.5,
+        ["points"] = 9677.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 653,
@@ -10742,12 +10742,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1145,
         ["dps_max"] = 15959.96,
-        ["points"] = 9558.27488434562,
+        ["points"] = 9558.340793792897,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 345,
         ["dps_max"] = 30677.52,
-        ["points"] = 9763.478771852506,
+        ["points"] = 9763.513513513513,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 323,
@@ -10765,9 +10765,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3736,
+        ["rank_raids"] = 3737,
         ["dps_max"] = 9408.02,
-        ["points"] = 8430.2,
+        ["points"] = 8429.9,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -10819,7 +10819,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1347,
         ["dps_max"] = 15712.95,
-        ["points"] = 9483.659155349947,
+        ["points"] = 9483.736198149805,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2043,
@@ -10842,9 +10842,9 @@ UWULogsData[8][2] = {
         ["points"] = 9843.969637334832,
       },
       ["Halion"] = {
-        ["rank_raids"] = 619,
+        ["rank_raids"] = 620,
         ["dps_max"] = 11142.8,
-        ["points"] = 9541.5,
+        ["points"] = 9541.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 381,
@@ -10896,7 +10896,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 517,
         ["dps_max"] = 17157.41,
-        ["points"] = 9783.61438591255,
+        ["points"] = 9783.646672635035,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1450,
@@ -10919,9 +10919,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1846,
+        ["rank_raids"] = 1847,
         ["dps_max"] = 10258.79,
-        ["points"] = 9012.6,
+        ["points"] = 9012.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -10973,12 +10973,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 864,
         ["dps_max"] = 16385.97,
-        ["points"] = 9649.306073720341,
+        ["points"] = 9649.35840047747,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 254,
         ["dps_max"] = 31370.71,
-        ["points"] = 9828.11811370648,
+        ["points"] = 9828.143360752056,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 181,
@@ -11050,12 +11050,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 637,
         ["dps_max"] = 16828.03,
-        ["points"] = 9743.321892254888,
+        ["points"] = 9743.360190987765,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 246,
         ["dps_max"] = 31475.97,
-        ["points"] = 9835.463493462612,
+        ["points"] = 9835.487661574618,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 229,
@@ -11073,9 +11073,9 @@ UWULogsData[8][2] = {
         ["points"] = 9939.555805454034,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1382,
+        ["rank_raids"] = 1383,
         ["dps_max"] = 10543.56,
-        ["points"] = 9198.199999999999,
+        ["points"] = 9197.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 324,
@@ -11127,12 +11127,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1030,
         ["dps_max"] = 16118.26,
-        ["points"] = 9592.59811968363,
+        ["points"] = 9592.65890778872,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 454,
         ["dps_max"] = 30059.33,
-        ["points"] = 9690.024974291171,
+        ["points"] = 9690.070505287897,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2267,
@@ -11167,7 +11167,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Eliminate"] = {
-    ["percentile"] = 95.745,
+    ["percentile"] = 95.746,
     ["server"] = "Icecrown",
     ["overall_rank"] = 146,
     ["bosses"] = {
@@ -11204,12 +11204,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1918,
         ["dps_max"] = 15145.38,
-        ["points"] = 9313.535293239815,
+        ["points"] = 9313.637720083558,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 96,
         ["dps_max"] = 33016.17,
-        ["points"] = 9930.953430292346,
+        ["points"] = 9930.96357226792,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1206,
@@ -11227,9 +11227,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 891,
+        ["rank_raids"] = 892,
         ["dps_max"] = 10876.22,
-        ["points"] = 9405.5,
+        ["points"] = 9405.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -11281,12 +11281,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 337,
         ["dps_max"] = 17803.63,
-        ["points"] = 9864.199373227877,
+        ["points"] = 9864.219635929572,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 361,
         ["dps_max"] = 30569.44,
-        ["points"] = 9754.664316145145,
+        ["points"] = 9754.700352526439,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 325,
@@ -11304,9 +11304,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3723,
+        ["rank_raids"] = 3724,
         ["dps_max"] = 9411.8,
-        ["points"] = 8434.1,
+        ["points"] = 8433.800000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -11358,7 +11358,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 410,
         ["dps_max"] = 17562.05,
-        ["points"] = 9835.845396209521,
+        ["points"] = 9835.869889585198,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1756,
@@ -11381,9 +11381,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 313,
+        ["rank_raids"] = 314,
         ["dps_max"] = 11558.88,
-        ["points"] = 9721.9,
+        ["points"] = 9721.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 494,
@@ -11435,7 +11435,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 501,
         ["dps_max"] = 17206.54,
-        ["points"] = 9794.060587971944,
+        ["points"] = 9794.091316025067,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 695,
@@ -11512,12 +11512,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1308,
         ["dps_max"] = 15757.3,
-        ["points"] = 9497.089986569168,
+        ["points"] = 9497.165025365563,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 242,
         ["dps_max"] = 31490.38,
-        ["points"] = 9841.33979726752,
+        ["points"] = 9841.363102232668,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1601,
@@ -11535,9 +11535,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 11431,
+        ["rank_raids"] = 11433,
         ["dps_max"] = 4982.56,
-        ["points"] = 6407.9,
+        ["points"] = 6407.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -11589,12 +11589,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1248,
         ["dps_max"] = 15818.87,
-        ["points"] = 9513.505446948217,
+        ["points"] = 9513.578036407042,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 344,
         ["dps_max"] = 30684.69,
-        ["points"] = 9764.94784780373,
+        ["points"] = 9764.982373678025,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 438,
@@ -11612,9 +11612,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5767,
+        ["rank_raids"] = 5769,
         ["dps_max"] = 8635.89,
-        ["points"] = 7820.900000000001,
+        ["points"] = 7820.3,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 39,
@@ -11666,7 +11666,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 236,
         ["dps_max"] = 18287.64,
-        ["points"] = 9894.045664826146,
+        ["points"] = 9894.061474186808,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1622,
@@ -11743,7 +11743,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 478,
         ["dps_max"] = 17304.05,
-        ["points"] = 9803.014475451424,
+        ["points"] = 9803.043867502238,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1677,
@@ -11766,9 +11766,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1514,
+        ["rank_raids"] = 1515,
         ["dps_max"] = 10463.18,
-        ["points"] = 9145.4,
+        ["points"] = 9145.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 96,
@@ -11820,7 +11820,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 774,
         ["dps_max"] = 16529.24,
-        ["points"] = 9689.598567378003,
+        ["points"] = 9689.64488212474,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3761,
@@ -11897,12 +11897,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 460,
         ["dps_max"] = 17356.26,
-        ["points"] = 9811.968362930906,
+        ["points"] = 9811.99641897941,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 245,
         ["dps_max"] = 31477.17,
-        ["points"] = 9836.932569413839,
+        ["points"] = 9836.95652173913,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3151,
@@ -11920,9 +11920,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 360,
+        ["rank_raids"] = 361,
         ["dps_max"] = 11484.07,
-        ["points"] = 9689.0,
+        ["points"] = 9688.3,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -11974,12 +11974,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 879,
         ["dps_max"] = 16366.47,
-        ["points"] = 9646.321444560514,
+        ["points"] = 9646.374216651746,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 24,
         ["dps_max"] = 35074.96,
-        ["points"] = 9979.432936682826,
+        ["points"] = 9979.435957696827,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 556,
@@ -11997,9 +11997,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5584,
+        ["rank_raids"] = 5586,
         ["dps_max"] = 8717.47,
-        ["points"] = 7875.8,
+        ["points"] = 7875.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -12051,7 +12051,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1345,
         ["dps_max"] = 15713.58,
-        ["points"] = 9486.643784509775,
+        ["points"] = 9486.72038197553,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 844,
@@ -12074,9 +12074,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1672,
+        ["rank_raids"] = 1673,
         ["dps_max"] = 10360.87,
-        ["points"] = 9082.199999999999,
+        ["points"] = 9081.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 532,
@@ -12128,12 +12128,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1409,
         ["dps_max"] = 15637.53,
-        ["points"] = 9461.274436651245,
+        ["points"] = 9461.35481945688,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 234,
         ["dps_max"] = 31553.95,
-        ["points"] = 9850.154252974879,
+        ["points"] = 9850.17626321974,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2762,
@@ -12151,9 +12151,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 316,
+        ["rank_raids"] = 317,
         ["dps_max"] = 11543.84,
-        ["points"] = 9719.8,
+        ["points"] = 9719.099999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -12205,12 +12205,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1717,
         ["dps_max"] = 15323.46,
-        ["points"] = 9376.21250559618,
+        ["points"] = 9376.305580423754,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 249,
         ["dps_max"] = 31458.35,
-        ["points"] = 9832.525341560158,
+        ["points"] = 9832.549941245594,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 800,
@@ -12228,86 +12228,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3630,
+        ["rank_raids"] = 3631,
         ["dps_max"] = 9449.13,
-        ["points"] = 8462.0,
-      },
-      ["Anub'arak"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Valithria Dreamwalker"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-    },
-  },
-  ["Unluckyghost"] = {
-    ["percentile"] = 95.438,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 160,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 850,
-        ["dps_max"] = 18203.42,
-        ["points"] = 9589.721749006247,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 1114,
-        ["dps_max"] = 17007.84,
-        ["points"] = 9305.4,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1740,
-        ["dps_max"] = 19390.06,
-        ["points"] = 9338.565022421524,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 605,
-        ["dps_max"] = 17914.0,
-        ["points"] = 9748.983312298415,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 628,
-        ["dps_max"] = 18947.24,
-        ["points"] = 9713.276836158193,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 315,
-        ["dps_max"] = 17560.02,
-        ["points"] = 9792.258910999344,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 2004,
-        ["dps_max"] = 15056.1,
-        ["points"] = 9280.70437248172,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 256,
-        ["dps_max"] = 31333.44,
-        ["points"] = 9826.64903775525,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 410,
-        ["dps_max"] = 14567.2,
-        ["points"] = 9655.0,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 1714,
-        ["dps_max"] = 12653.93,
-        ["points"] = 9065.4,
-      },
-      ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Halion"] = {
-        ["rank_raids"] = 715,
-        ["dps_max"] = 11041.75,
-        ["points"] = 9493.5,
+        ["points"] = 8461.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -12324,7 +12247,7 @@ UWULogsData[8][2] = {
   ["Vafledron"] = {
     ["percentile"] = 95.438,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 161,
+    ["overall_rank"] = 160,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 312,
@@ -12359,12 +12282,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3140,
         ["dps_max"] = 14218.77,
-        ["points"] = 8910.610356663185,
+        ["points"] = 8910.772903610863,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 502,
         ["dps_max"] = 29771.41,
-        ["points"] = 9651.828999559277,
+        ["points"] = 9651.880141010575,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1266,
@@ -12382,9 +12305,86 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 508,
+        ["rank_raids"] = 509,
         ["dps_max"] = 11294.87,
-        ["points"] = 9597.0,
+        ["points"] = 9596.5,
+      },
+      ["Anub'arak"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Valithria Dreamwalker"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+    },
+  },
+  ["Unluckyghost"] = {
+    ["percentile"] = 95.438,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 161,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 850,
+        ["dps_max"] = 18203.42,
+        ["points"] = 9589.721749006247,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 1114,
+        ["dps_max"] = 17007.84,
+        ["points"] = 9305.4,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 1740,
+        ["dps_max"] = 19390.06,
+        ["points"] = 9338.565022421524,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 605,
+        ["dps_max"] = 17914.0,
+        ["points"] = 9748.983312298415,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 628,
+        ["dps_max"] = 18947.24,
+        ["points"] = 9713.276836158193,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 315,
+        ["dps_max"] = 17560.02,
+        ["points"] = 9792.258910999344,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 2004,
+        ["dps_max"] = 15056.1,
+        ["points"] = 9280.811698000598,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 256,
+        ["dps_max"] = 31333.44,
+        ["points"] = 9826.674500587544,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 410,
+        ["dps_max"] = 14567.2,
+        ["points"] = 9655.0,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 1714,
+        ["dps_max"] = 12653.93,
+        ["points"] = 9065.4,
+      },
+      ["Toravon the Ice Watcher"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Halion"] = {
+        ["rank_raids"] = 716,
+        ["dps_max"] = 11041.75,
+        ["points"] = 9493.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -12399,7 +12399,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Bleksal"] = {
-    ["percentile"] = 95.422,
+    ["percentile"] = 95.423,
     ["server"] = "Icecrown",
     ["overall_rank"] = 1489,
     ["bosses"] = {
@@ -12414,7 +12414,7 @@ UWULogsData[8][2] = {
         ["points"] = 8208.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10354,
+        ["rank_raids"] = 10355,
         ["dps_max"] = 17255.47,
         ["points"] = 7623.940332086349,
       },
@@ -12424,24 +12424,24 @@ UWULogsData[8][2] = {
         ["points"] = 8111.064366848969,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 19119,
+        ["rank_raids"] = 19120,
         ["dps_max"] = 14104.14,
         ["points"] = 6363.414878440311,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9989,
+        ["rank_raids"] = 9990,
         ["dps_max"] = 12621.98,
-        ["points"] = 6554.300000000001,
+        ["points"] = 6554.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 15360,
+        ["rank_raids"] = 15361,
         ["dps_max"] = 10349.5,
-        ["points"] = 6014.999999999999,
+        ["points"] = 6014.9,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 604,
         ["dps_max"] = 29224.06,
-        ["points"] = 9569.560746290583,
+        ["points"] = 9569.623971797884,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3830,
@@ -12459,9 +12459,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5340,
+        ["rank_raids"] = 5342,
         ["dps_max"] = 8807.24,
-        ["points"] = 7949.000000000001,
+        ["points"] = 7948.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -12513,12 +12513,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 319,
         ["dps_max"] = 17848.69,
-        ["points"] = 9870.16863154753,
+        ["points"] = 9870.18800358102,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 381,
         ["dps_max"] = 30442.66,
-        ["points"] = 9739.973556632878,
+        ["points"] = 9740.011750881316,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 755,
@@ -12536,9 +12536,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5793,
+        ["rank_raids"] = 5795,
         ["dps_max"] = 8624.6,
-        ["points"] = 7813.1,
+        ["points"] = 7812.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -12590,12 +12590,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2045,
         ["dps_max"] = 15015.31,
-        ["points"] = 9264.288912102671,
+        ["points"] = 9264.398686959117,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 263,
         ["dps_max"] = 31280.77,
-        ["points"] = 9825.179961804024,
+        ["points"] = 9825.205640423032,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 407,
@@ -12613,9 +12613,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 898,
+        ["rank_raids"] = 899,
         ["dps_max"] = 10871.72,
-        ["points"] = 9402.0,
+        ["points"] = 9401.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -12667,12 +12667,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1176,
         ["dps_max"] = 15910.71,
-        ["points"] = 9535.890165646919,
+        ["points"] = 9535.959415099971,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 181,
         ["dps_max"] = 32026.9,
-        ["points"] = 9886.881151755546,
+        ["points"] = 9886.89776733255,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1474,
@@ -12690,9 +12690,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 568,
+        ["rank_raids"] = 569,
         ["dps_max"] = 11210.27,
-        ["points"] = 9567.0,
+        ["points"] = 9566.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -12744,7 +12744,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1127,
         ["dps_max"] = 15989.3,
-        ["points"] = 9565.736457245188,
+        ["points"] = 9565.801253357207,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4058,
@@ -12767,9 +12767,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 432,
+        ["rank_raids"] = 433,
         ["dps_max"] = 11392.11,
-        ["points"] = 9641.8,
+        ["points"] = 9641.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 285,
@@ -12821,7 +12821,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 418,
         ["dps_max"] = 17516.59,
-        ["points"] = 9829.876137889867,
+        ["points"] = 9829.90152193375,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3931,
@@ -12844,9 +12844,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 12119,
+        ["rank_raids"] = 12123,
         ["dps_max"] = 4550.35,
-        ["points"] = 6339.099999999999,
+        ["points"] = 6338.699999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 217,
@@ -12898,7 +12898,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1483,
         ["dps_max"] = 15548.81,
-        ["points"] = 9437.39740337263,
+        ["points"] = 9437.481348851088,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 953,
@@ -12921,9 +12921,9 @@ UWULogsData[8][2] = {
         ["points"] = 9842.563958391904,
       },
       ["Halion"] = {
-        ["rank_raids"] = 237,
+        ["rank_raids"] = 238,
         ["dps_max"] = 11684.13,
-        ["points"] = 9781.4,
+        ["points"] = 9780.599999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 250,
@@ -12975,12 +12975,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1091,
         ["dps_max"] = 16033.18,
-        ["points"] = 9574.690344724668,
+        ["points"] = 9574.753804834378,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 138,
         ["dps_max"] = 32555.77,
-        ["points"] = 9910.386366975172,
+        ["points"] = 9910.399529964747,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 533,
@@ -12998,9 +12998,9 @@ UWULogsData[8][2] = {
         ["points"] = 9374.472870396403,
       },
       ["Halion"] = {
-        ["rank_raids"] = 691,
+        ["rank_raids"] = 692,
         ["dps_max"] = 11060.24,
-        ["points"] = 9505.5,
+        ["points"] = 9505.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 112,
@@ -13052,7 +13052,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 735,
         ["dps_max"] = 16605.23,
-        ["points"] = 9706.014027757052,
+        ["points"] = 9706.057893166218,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2315,
@@ -13075,9 +13075,9 @@ UWULogsData[8][2] = {
         ["points"] = 9898.79111610908,
       },
       ["Halion"] = {
-        ["rank_raids"] = 783,
+        ["rank_raids"] = 784,
         ["dps_max"] = 10979.69,
-        ["points"] = 9459.5,
+        ["points"] = 9459.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -13129,7 +13129,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 522,
         ["dps_max"] = 17146.43,
-        ["points"] = 9780.629756752724,
+        ["points"] = 9780.66248880931,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 710,
@@ -13152,9 +13152,9 @@ UWULogsData[8][2] = {
         ["points"] = 9873.48889513635,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2616,
+        ["rank_raids"] = 2617,
         ["dps_max"] = 9881.3,
-        ["points"] = 8766.2,
+        ["points"] = 8765.900000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 164,
@@ -13206,12 +13206,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1820,
         ["dps_max"] = 15224.69,
-        ["points"] = 9352.335472317565,
+        ["points"] = 9352.432109817964,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 301,
         ["dps_max"] = 30978.88,
-        ["points"] = 9795.798442779493,
+        ["points"] = 9795.828437132785,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 37,
@@ -13283,7 +13283,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1081,
         ["dps_max"] = 16051.56,
-        ["points"] = 9582.151917624235,
+        ["points"] = 9582.214264398688,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2734,
@@ -13323,7 +13323,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Shubler"] = {
-    ["percentile"] = 95.229,
+    ["percentile"] = 95.23,
     ["server"] = "Icecrown",
     ["overall_rank"] = 174,
     ["bosses"] = {
@@ -13360,7 +13360,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1946,
         ["dps_max"] = 15109.17,
-        ["points"] = 9300.104462020594,
+        ["points"] = 9300.2088928678,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1032,
@@ -13383,9 +13383,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3836,
+        ["rank_raids"] = 3838,
         ["dps_max"] = 9371.43,
-        ["points"] = 8400.2,
+        ["points"] = 8399.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 567,
@@ -13437,12 +13437,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1762,
         ["dps_max"] = 15281.82,
-        ["points"] = 9368.750932696612,
+        ["points"] = 9368.845120859445,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 304,
         ["dps_max"] = 30968.41,
-        ["points"] = 9792.860290877037,
+        ["points"] = 9792.89071680376,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 521,
@@ -13460,9 +13460,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 424,
+        ["rank_raids"] = 425,
         ["dps_max"] = 11398.48,
-        ["points"] = 9646.6,
+        ["points"] = 9646.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -13514,7 +13514,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 228,
         ["dps_max"] = 18342.79,
-        ["points"] = 9902.999552305626,
+        ["points"] = 9903.01402566398,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1870,
@@ -13537,9 +13537,9 @@ UWULogsData[8][2] = {
         ["points"] = 9953.612594883329,
       },
       ["Halion"] = {
-        ["rank_raids"] = 334,
+        ["rank_raids"] = 335,
         ["dps_max"] = 11520.23,
-        ["points"] = 9707.2,
+        ["points"] = 9706.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 364,
@@ -13591,7 +13591,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1044,
         ["dps_max"] = 16101.72,
-        ["points"] = 9589.613490523803,
+        ["points"] = 9589.674723962997,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 665,
@@ -13614,9 +13614,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 224,
+        ["rank_raids"] = 225,
         ["dps_max"] = 11704.47,
-        ["points"] = 9791.8,
+        ["points"] = 9791.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 346,
@@ -13668,7 +13668,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 409,
         ["dps_max"] = 17567.61,
-        ["points"] = 9837.337710789434,
+        ["points"] = 9837.361981498061,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1506,
@@ -13691,9 +13691,9 @@ UWULogsData[8][2] = {
         ["points"] = 5518.695529940961,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3391,
+        ["rank_raids"] = 3392,
         ["dps_max"] = 9545.4,
-        ["points"] = 8533.7,
+        ["points"] = 8533.400000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -13745,7 +13745,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2437,
         ["dps_max"] = 14667.86,
-        ["points"] = 9118.042083271153,
+        ["points"] = 9118.173679498657,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 696,
@@ -13768,9 +13768,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4260,
+        ["rank_raids"] = 4262,
         ["dps_max"] = 9200.55,
-        ["points"] = 8273.0,
+        ["points"] = 8272.400000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 235,
@@ -13822,12 +13822,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1869,
         ["dps_max"] = 15186.25,
-        ["points"] = 9332.935382778689,
+        ["points"] = 9333.03491495076,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 546,
         ["dps_max"] = 29563.03,
-        ["points"] = 9613.633024827384,
+        ["points"] = 9613.689776733256,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 450,
@@ -13845,9 +13845,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1130,
+        ["rank_raids"] = 1131,
         ["dps_max"] = 10713.67,
-        ["points"] = 9299.0,
+        ["points"] = 9298.599999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1201,
@@ -13899,7 +13899,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 737,
         ["dps_max"] = 16604.31,
-        ["points"] = 9704.521713177137,
+        ["points"] = 9704.565801253357,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3451,
@@ -13922,9 +13922,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 279,
+        ["rank_raids"] = 280,
         ["dps_max"] = 11612.64,
-        ["points"] = 9747.8,
+        ["points"] = 9747.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -13976,7 +13976,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 474,
         ["dps_max"] = 17314.63,
-        ["points"] = 9805.999104611252,
+        ["points"] = 9806.028051327961,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1011,
@@ -14053,12 +14053,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2112,
         ["dps_max"] = 14945.4,
-        ["points"] = 9235.934935084315,
+        ["points"] = 9236.04894061474,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 587,
         ["dps_max"] = 29335.41,
-        ["points"] = 9579.84427794917,
+        ["points"] = 9579.90599294947,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 719,
@@ -14076,9 +14076,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 195,
+        ["rank_raids"] = 196,
         ["dps_max"] = 11776.22,
-        ["points"] = 9815.5,
+        ["points"] = 9814.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -14130,7 +14130,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1029,
         ["dps_max"] = 16119.32,
-        ["points"] = 9594.090434263542,
+        ["points"] = 9594.150999701582,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6812,
@@ -14207,12 +14207,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1375,
         ["dps_max"] = 15691.46,
-        ["points"] = 9473.212953290555,
+        ["points"] = 9473.291554759773,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 166,
         ["dps_max"] = 32308.88,
-        ["points"] = 9892.757455560453,
+        ["points"] = 9892.7732079906,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 113,
@@ -14230,9 +14230,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 905,
+        ["rank_raids"] = 906,
         ["dps_max"] = 10865.81,
-        ["points"] = 9398.5,
+        ["points"] = 9398.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -14284,12 +14284,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1250,
         ["dps_max"] = 15816.86,
-        ["points"] = 9510.520817788389,
+        ["points"] = 9510.59385258132,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 383,
         ["dps_max"] = 30438.98,
-        ["points"] = 9738.504480681651,
+        ["points"] = 9738.542890716804,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 969,
@@ -14307,9 +14307,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2255,
+        ["rank_raids"] = 2256,
         ["dps_max"] = 10039.35,
-        ["points"] = 8874.5,
+        ["points"] = 8874.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -14361,12 +14361,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 495,
         ["dps_max"] = 17250.93,
-        ["points"] = 9797.045217131772,
+        ["points"] = 9797.075499850791,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 440,
         ["dps_max"] = 30175.59,
-        ["points"] = 9697.370354047305,
+        ["points"] = 9697.414806110459,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 875,
@@ -14384,9 +14384,9 @@ UWULogsData[8][2] = {
         ["points"] = 9744.166432386843,
       },
       ["Halion"] = {
-        ["rank_raids"] = 629,
+        ["rank_raids"] = 630,
         ["dps_max"] = 11130.85,
-        ["points"] = 9536.5,
+        ["points"] = 9536.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 47,
@@ -14438,7 +14438,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 534,
         ["dps_max"] = 17118.06,
-        ["points"] = 9777.645127592896,
+        ["points"] = 9777.678304983587,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 923,
@@ -14461,9 +14461,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4329,
+        ["rank_raids"] = 4331,
         ["dps_max"] = 9169.99,
-        ["points"] = 8252.300000000001,
+        ["points"] = 8251.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 2,
@@ -14515,7 +14515,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1712,
         ["dps_max"] = 15326.29,
-        ["points"] = 9380.689449335921,
+        ["points"] = 9380.781856162339,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1369,
@@ -14538,9 +14538,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 831,
+        ["rank_raids"] = 832,
         ["dps_max"] = 10926.93,
-        ["points"] = 9435.5,
+        ["points"] = 9435.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 102,
@@ -14592,12 +14592,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 137,
         ["dps_max"] = 18817.65,
-        ["points"] = 9934.338158483808,
+        ["points"] = 9934.34795583408,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 285,
         ["dps_max"] = 31106.77,
-        ["points"] = 9806.081974438079,
+        ["points"] = 9806.11045828437,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2629,
@@ -14632,7 +14632,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Amnesiadot"] = {
-    ["percentile"] = 94.902,
+    ["percentile"] = 94.903,
     ["server"] = "Icecrown",
     ["overall_rank"] = 191,
     ["bosses"] = {
@@ -14669,12 +14669,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 977,
         ["dps_max"] = 16203.92,
-        ["points"] = 9611.998209222504,
+        ["points"] = 9612.056102655924,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 269,
         ["dps_max"] = 31227.44,
-        ["points"] = 9817.834582047892,
+        ["points"] = 9817.86133960047,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1362,
@@ -14692,9 +14692,9 @@ UWULogsData[8][2] = {
         ["points"] = 6875.175709867865,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1675,
+        ["rank_raids"] = 1676,
         ["dps_max"] = 10359.76,
-        ["points"] = 9080.999999999998,
+        ["points"] = 9080.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 574,
@@ -14746,7 +14746,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 334,
         ["dps_max"] = 17805.36,
-        ["points"] = 9865.69168780779,
+        ["points"] = 9865.711727842436,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1674,
@@ -14769,9 +14769,9 @@ UWULogsData[8][2] = {
         ["points"] = 8252.741073938712,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2373,
+        ["rank_raids"] = 2374,
         ["dps_max"] = 9980.81,
-        ["points"] = 8839.1,
+        ["points"] = 8838.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -14823,12 +14823,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 666,
         ["dps_max"] = 16744.04,
-        ["points"] = 9726.90643187584,
+        ["points"] = 9726.947179946284,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 402,
         ["dps_max"] = 30355.24,
-        ["points"] = 9723.813721169385,
+        ["points"] = 9723.85428907168,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 215,
@@ -14846,9 +14846,9 @@ UWULogsData[8][2] = {
         ["points"] = 9791.959516446443,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2349,
+        ["rank_raids"] = 2350,
         ["dps_max"] = 9993.83,
-        ["points"] = 8846.300000000001,
+        ["points"] = 8846.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -14863,7 +14863,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Nobodyknwme"] = {
-    ["percentile"] = 94.842,
+    ["percentile"] = 94.843,
     ["server"] = "Icecrown",
     ["overall_rank"] = 194,
     ["bosses"] = {
@@ -14900,7 +14900,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1844,
         ["dps_max"] = 15205.75,
-        ["points"] = 9344.873899417997,
+        ["points"] = 9344.971650253656,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1295,
@@ -14923,9 +14923,9 @@ UWULogsData[8][2] = {
         ["points"] = 9669.665448411582,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1275,
+        ["rank_raids"] = 1276,
         ["dps_max"] = 10612.0,
-        ["points"] = 9241.0,
+        ["points"] = 9240.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 440,
@@ -14977,12 +14977,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1692,
         ["dps_max"] = 15350.2,
-        ["points"] = 9388.151022235486,
+        ["points"] = 9388.24231572665,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 98,
         ["dps_max"] = 33002.3,
-        ["points"] = 9929.484354341119,
+        ["points"] = 9929.494712103407,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1417,
@@ -15000,9 +15000,9 @@ UWULogsData[8][2] = {
         ["points"] = 9845.375316277763,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3339,
+        ["rank_raids"] = 3340,
         ["dps_max"] = 9565.47,
-        ["points"] = 8549.300000000001,
+        ["points"] = 8549.000000000002,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -15054,12 +15054,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 650,
         ["dps_max"] = 16798.55,
-        ["points"] = 9737.352633935234,
+        ["points"] = 9737.391823336318,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 416,
         ["dps_max"] = 30288.82,
-        ["points"] = 9713.530189510797,
+        ["points"] = 9713.572267920094,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1880,
@@ -15131,12 +15131,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 93,
         ["dps_max"] = 19193.36,
-        ["points"] = 9949.261304282942,
+        ["points"] = 9949.268874962698,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 216,
         ["dps_max"] = 31710.24,
-        ["points"] = 9860.437784633466,
+        ["points"] = 9860.458284371327,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 787,
@@ -15154,9 +15154,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1484,
+        ["rank_raids"] = 1485,
         ["dps_max"] = 10477.12,
-        ["points"] = 9157.4,
+        ["points"] = 9157.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -15208,7 +15208,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 286,
         ["dps_max"] = 17960.68,
-        ["points"] = 9877.630204447098,
+        ["points"] = 9877.64846314533,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 687,
@@ -15231,9 +15231,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 370,
+        ["rank_raids"] = 371,
         ["dps_max"] = 11471.73,
-        ["points"] = 9682.0,
+        ["points"] = 9681.3,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -15285,7 +15285,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 206,
         ["dps_max"] = 18449.95,
-        ["points"] = 9910.461125205193,
+        ["points"] = 9910.47448522829,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1831,
@@ -15308,9 +15308,9 @@ UWULogsData[8][2] = {
         ["points"] = 9860.837784649986,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1604,
+        ["rank_raids"] = 1605,
         ["dps_max"] = 10413.04,
-        ["points"] = 9109.4,
+        ["points"] = 9109.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -15362,7 +15362,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 325,
         ["dps_max"] = 17834.36,
-        ["points"] = 9868.676316967618,
+        ["points"] = 9868.69591166816,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3755,
@@ -15385,9 +15385,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 666,
+        ["rank_raids"] = 667,
         ["dps_max"] = 11095.39,
-        ["points"] = 9518.0,
+        ["points"] = 9517.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 656,
@@ -15439,7 +15439,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 633,
         ["dps_max"] = 16840.75,
-        ["points"] = 9744.8142068348,
+        ["points"] = 9744.852282900627,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2122,
@@ -15516,12 +15516,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1163,
         ["dps_max"] = 15924.07,
-        ["points"] = 9541.859423966573,
+        ["points"] = 9541.927782751418,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 545,
         ["dps_max"] = 29574.2,
-        ["points"] = 9615.10210077861,
+        ["points"] = 9615.158636897768,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1471,
@@ -15539,9 +15539,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1479,
+        ["rank_raids"] = 1480,
         ["dps_max"] = 10481.66,
-        ["points"] = 9159.4,
+        ["points"] = 9159.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -15593,12 +15593,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1356,
         ["dps_max"] = 15707.32,
-        ["points"] = 9479.182211610208,
+        ["points"] = 9479.25992241122,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 534,
         ["dps_max"] = 29631.23,
-        ["points"] = 9625.385632437197,
+        ["points"] = 9625.440658049354,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1720,
@@ -15616,9 +15616,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1272,
+        ["rank_raids"] = 1273,
         ["dps_max"] = 10615.92,
-        ["points"] = 9242.199999999999,
+        ["points"] = 9241.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -15670,7 +15670,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 216,
         ["dps_max"] = 18406.71,
-        ["points"] = 9908.96881062528,
+        ["points"] = 9908.98239331543,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2344,
@@ -15693,9 +15693,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2344,
+        ["rank_raids"] = 2345,
         ["dps_max"] = 9997.24,
-        ["points"] = 8847.8,
+        ["points"] = 8847.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1224,
@@ -15710,7 +15710,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Voltava"] = {
-    ["percentile"] = 94.589,
+    ["percentile"] = 94.59,
     ["server"] = "Icecrown",
     ["overall_rank"] = 205,
     ["bosses"] = {
@@ -15747,12 +15747,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1649,
         ["dps_max"] = 15375.43,
-        ["points"] = 9400.089538874796,
+        ["points"] = 9400.179051029543,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 296,
         ["dps_max"] = 31019.26,
-        ["points"] = 9800.205670633171,
+        ["points"] = 9800.235017626323,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 659,
@@ -15770,9 +15770,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 9361,
+        ["rank_raids"] = 9363,
         ["dps_max"] = 7026.64,
-        ["points"] = 6742.700000000001,
+        ["points"] = 6742.099999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 280,
@@ -15824,12 +15824,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 769,
         ["dps_max"] = 16537.13,
-        ["points"] = 9691.090881957916,
+        ["points"] = 9691.136974037601,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 55,
         ["dps_max"] = 34087.59,
-        ["points"] = 9954.458645511973,
+        ["points"] = 9954.465334900118,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2290,
@@ -15847,9 +15847,9 @@ UWULogsData[8][2] = {
         ["points"] = 4156.592634242339,
       },
       ["Halion"] = {
-        ["rank_raids"] = 893,
+        ["rank_raids"] = 894,
         ["dps_max"] = 10875.49,
-        ["points"] = 9404.5,
+        ["points"] = 9404.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 659,
@@ -15901,12 +15901,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 790,
         ["dps_max"] = 16501.38,
-        ["points"] = 9677.660050738696,
+        ["points"] = 9677.708146821844,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 624,
         ["dps_max"] = 29145.39,
-        ["points"] = 9553.40091082709,
+        ["points"] = 9553.46650998825,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3609,
@@ -15924,9 +15924,9 @@ UWULogsData[8][2] = {
         ["points"] = 9903.00815293787,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1977,
+        ["rank_raids"] = 1978,
         ["dps_max"] = 10184.07,
-        ["points"] = 8960.199999999999,
+        ["points"] = 8959.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -15941,7 +15941,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Verdell"] = {
-    ["percentile"] = 94.566,
+    ["percentile"] = 94.567,
     ["server"] = "Icecrown",
     ["overall_rank"] = 208,
     ["bosses"] = {
@@ -15978,12 +15978,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2272,
         ["dps_max"] = 14803.09,
-        ["points"] = 9173.25772272795,
+        ["points"] = 9173.381080274545,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 497,
         ["dps_max"] = 29800.44,
-        ["points"] = 9656.236227412957,
+        ["points"] = 9656.286721504113,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2164,
@@ -16001,9 +16001,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1299,
+        ["rank_raids"] = 1300,
         ["dps_max"] = 10596.98,
-        ["points"] = 9231.4,
+        ["points"] = 9231.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 305,
@@ -16055,7 +16055,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 834,
         ["dps_max"] = 16431.74,
-        ["points"] = 9659.752275779734,
+        ["points"] = 9659.803043867501,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3483,
@@ -16078,9 +16078,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 751,
+        ["rank_raids"] = 752,
         ["dps_max"] = 11010.66,
-        ["points"] = 9475.5,
+        ["points"] = 9475.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -16132,7 +16132,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1452,
         ["dps_max"] = 15586.13,
-        ["points"] = 9449.33592001194,
+        ["points"] = 9449.418084153984,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1795,
@@ -16155,9 +16155,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4070,
+        ["rank_raids"] = 4072,
         ["dps_max"] = 9282.22,
-        ["points"] = 8330.0,
+        ["points"] = 8329.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 234,
@@ -16209,7 +16209,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 318,
         ["dps_max"] = 17849.37,
-        ["points"] = 9871.660946127444,
+        ["points"] = 9871.680095493883,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1471,
@@ -16232,9 +16232,9 @@ UWULogsData[8][2] = {
         ["points"] = 9839.752600506044,
       },
       ["Halion"] = {
-        ["rank_raids"] = 651,
+        ["rank_raids"] = 652,
         ["dps_max"] = 11110.18,
-        ["points"] = 9525.5,
+        ["points"] = 9525.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 165,
@@ -16286,7 +16286,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2148,
         ["dps_max"] = 14907.84,
-        ["points"] = 9225.488733024922,
+        ["points"] = 9225.604297224709,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1422,
@@ -16309,9 +16309,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 829,
+        ["rank_raids"] = 830,
         ["dps_max"] = 10928.09,
-        ["points"] = 9436.5,
+        ["points"] = 9436.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 780,
@@ -16363,7 +16363,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 475,
         ["dps_max"] = 17305.88,
-        ["points"] = 9804.506790031339,
+        ["points"] = 9804.5359594151,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2219,
@@ -16386,9 +16386,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4936,
+        ["rank_raids"] = 4938,
         ["dps_max"] = 8952.65,
-        ["points"] = 8070.200000000001,
+        ["points"] = 8069.600000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -16440,12 +16440,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 457,
         ["dps_max"] = 17361.25,
-        ["points"] = 9814.952992090733,
+        ["points"] = 9814.980602805132,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 472,
         ["dps_max"] = 29945.08,
-        ["points"] = 9673.865138827678,
+        ["points"] = 9673.91304347826,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1062,
@@ -16463,9 +16463,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5358,
+        ["rank_raids"] = 5360,
         ["dps_max"] = 8797.98,
-        ["points"] = 7943.6,
+        ["points"] = 7943.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -16517,7 +16517,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 459,
         ["dps_max"] = 17360.21,
-        ["points"] = 9813.460677510819,
+        ["points"] = 9813.488510892272,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1337,
@@ -16540,9 +16540,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 367,
+        ["rank_raids"] = 368,
         ["dps_max"] = 11476.16,
-        ["points"] = 9684.1,
+        ["points"] = 9683.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 123,
@@ -16594,7 +16594,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1160,
         ["dps_max"] = 15930.11,
-        ["points"] = 9544.844053126399,
+        ["points"] = 9544.911966577141,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 782,
@@ -16617,9 +16617,9 @@ UWULogsData[8][2] = {
         ["points"] = 9905.819510823729,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2489,
+        ["rank_raids"] = 2490,
         ["dps_max"] = 9934.32,
-        ["points"] = 8804.300000000001,
+        ["points"] = 8804.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -16671,12 +16671,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5179,
         ["dps_max"] = 13239.62,
-        ["points"] = 8288.315176839278,
+        ["points"] = 8288.570575947479,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 348,
         ["dps_max"] = 30632.23,
-        ["points"] = 9762.009695901279,
+        ["points"] = 9762.044653349001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1026,
@@ -16694,9 +16694,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4179,
+        ["rank_raids"] = 4181,
         ["dps_max"] = 9238.59,
-        ["points"] = 8297.300000000001,
+        ["points"] = 8296.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -16748,12 +16748,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1239,
         ["dps_max"] = 15835.14,
-        ["points"] = 9516.490076108044,
+        ["points"] = 9516.562220232767,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 513,
         ["dps_max"] = 29715.21,
-        ["points"] = 9643.014543851918,
+        ["points"] = 9643.066980023501,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 686,
@@ -16771,9 +16771,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2812,
+        ["rank_raids"] = 2813,
         ["dps_max"] = 9792.26,
-        ["points"] = 8707.400000000001,
+        ["points"] = 8707.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -16825,12 +16825,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2215,
         ["dps_max"] = 14847.04,
-        ["points"] = 9195.642441426653,
+        ["points"] = 9195.762458967472,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 150,
         ["dps_max"] = 32475.07,
-        ["points"] = 9901.571911267813,
+        ["points"] = 9901.586368977672,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 384,
@@ -16902,7 +16902,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 625,
         ["dps_max"] = 16882.85,
-        ["points"] = 9750.783465154454,
+        ["points"] = 9750.820650552074,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2206,
@@ -16925,9 +16925,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1823,
+        ["rank_raids"] = 1824,
         ["dps_max"] = 10270.96,
-        ["points"] = 9021.8,
+        ["points"] = 9021.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -16979,7 +16979,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 466,
         ["dps_max"] = 17342.36,
-        ["points"] = 9810.476048350993,
+        ["points"] = 9810.504327066546,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1349,
@@ -17002,9 +17002,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1138,
+        ["rank_raids"] = 1139,
         ["dps_max"] = 10711.25,
-        ["points"] = 9295.8,
+        ["points"] = 9295.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -17019,7 +17019,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Deadlymysak"] = {
-    ["percentile"] = 94.215,
+    ["percentile"] = 94.216,
     ["server"] = "Icecrown",
     ["overall_rank"] = 222,
     ["bosses"] = {
@@ -17056,12 +17056,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2278,
         ["dps_max"] = 14799.56,
-        ["points"] = 9170.273093568125,
+        ["points"] = 9170.396896448821,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 240,
         ["dps_max"] = 31496.96,
-        ["points"] = 9842.808873218746,
+        ["points"] = 9842.83196239718,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3229,
@@ -17133,12 +17133,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1569,
         ["dps_max"] = 15461.44,
-        ["points"] = 9419.48962841367,
+        ["points"] = 9419.576245896747,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 520,
         ["dps_max"] = 29693.94,
-        ["points"] = 9635.669164095783,
+        ["points"] = 9635.72267920094,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 426,
@@ -17156,9 +17156,9 @@ UWULogsData[8][2] = {
         ["points"] = 6269.32808546528,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1676,
+        ["rank_raids"] = 1677,
         ["dps_max"] = 10358.98,
-        ["points"] = 9080.6,
+        ["points"] = 9080.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -17210,7 +17210,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1704,
         ["dps_max"] = 15333.9,
-        ["points"] = 9385.16639307566,
+        ["points"] = 9385.258131900926,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6075,
@@ -17233,9 +17233,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2100,
+        ["rank_raids"] = 2101,
         ["dps_max"] = 10122.55,
-        ["points"] = 8921.000000000002,
+        ["points"] = 8920.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -17287,7 +17287,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2352,
         ["dps_max"] = 14736.81,
-        ["points"] = 9137.442172810028,
+        ["points"] = 9137.570874365862,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3823,
@@ -17364,7 +17364,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 978,
         ["dps_max"] = 16201.56,
-        ["points"] = 9610.50589464259,
+        ["points"] = 9610.564010743063,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2234,
@@ -17387,9 +17387,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4986,
+        ["rank_raids"] = 4988,
         ["dps_max"] = 8933.65,
-        ["points"] = 8055.2,
+        ["points"] = 8054.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 730,
@@ -17441,7 +17441,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 468,
         ["dps_max"] = 17338.63,
-        ["points"] = 9808.98373377108,
+        ["points"] = 9809.012235153687,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3038,
@@ -17464,9 +17464,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2351,
+        ["rank_raids"] = 2352,
         ["dps_max"] = 9993.81,
-        ["points"] = 8845.7,
+        ["points"] = 8845.400000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 124,
@@ -17518,7 +17518,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2168,
         ["dps_max"] = 14891.95,
-        ["points"] = 9216.53484554544,
+        ["points"] = 9216.651745747538,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1922,
@@ -17541,9 +17541,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 14746,
+        ["rank_raids"] = 14751,
         ["dps_max"] = 288.44,
-        ["points"] = 6076.4,
+        ["points"] = 6075.9,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -17595,7 +17595,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1273,
         ["dps_max"] = 15793.9,
-        ["points"] = 9506.04387404865,
+        ["points"] = 9506.117576842733,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3467,
@@ -17618,9 +17618,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4417,
+        ["rank_raids"] = 4419,
         ["dps_max"] = 9139.81,
-        ["points"] = 8225.9,
+        ["points"] = 8225.300000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 228,
@@ -17672,12 +17672,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2669,
         ["dps_max"] = 14504.99,
-        ["points"] = 9050.887927175048,
+        ["points"] = 9051.029543419874,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 586,
         ["dps_max"] = 29335.67,
-        ["points"] = 9581.313353900397,
+        ["points"] = 9581.374853113983,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 694,
@@ -17695,9 +17695,9 @@ UWULogsData[8][2] = {
         ["points"] = 9100.365476525161,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3885,
+        ["rank_raids"] = 3887,
         ["dps_max"] = 9351.4,
-        ["points"] = 8385.5,
+        ["points"] = 8384.900000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -17712,7 +17712,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Usmevhihi"] = {
-    ["percentile"] = 94.043,
+    ["percentile"] = 94.044,
     ["server"] = "Icecrown",
     ["overall_rank"] = 231,
     ["bosses"] = {
@@ -17749,7 +17749,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 507,
         ["dps_max"] = 17186.34,
-        ["points"] = 9789.583644232203,
+        ["points"] = 9789.61504028648,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 718,
@@ -17772,9 +17772,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 436,
+        ["rank_raids"] = 437,
         ["dps_max"] = 11389.27,
-        ["points"] = 9639.4,
+        ["points"] = 9638.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 160,
@@ -17826,12 +17826,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1596,
         ["dps_max"] = 15423.81,
-        ["points"] = 9413.520370094016,
+        ["points"] = 9413.6078782453,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 327,
         ["dps_max"] = 30831.97,
-        ["points"] = 9778.169531364772,
+        ["points"] = 9778.202115158638,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 488,
@@ -17849,9 +17849,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 12087,
+        ["rank_raids"] = 12091,
         ["dps_max"] = 4564.86,
-        ["points"] = 6342.299999999999,
+        ["points"] = 6341.900000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -17903,12 +17903,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1807,
         ["dps_max"] = 15236.77,
-        ["points"] = 9358.304730637217,
+        ["points"] = 9358.400477469411,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 180,
         ["dps_max"] = 32027.01,
-        ["points"] = 9888.350227706773,
+        ["points"] = 9888.366627497062,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 398,
@@ -17926,9 +17926,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1158,
+        ["rank_raids"] = 1159,
         ["dps_max"] = 10696.94,
-        ["points"] = 9287.8,
+        ["points"] = 9287.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 612,
@@ -17980,12 +17980,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4694,
         ["dps_max"] = 13439.54,
-        ["points"] = 8440.53126399045,
+        ["points"] = 8440.763951059385,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 191,
         ["dps_max"] = 31934.67,
-        ["points"] = 9876.597620096958,
+        ["points"] = 9876.615746180963,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 211,
@@ -18057,7 +18057,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 843,
         ["dps_max"] = 16414.97,
-        ["points"] = 9653.78301746008,
+        ["points"] = 9653.834676216055,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 847,
@@ -18080,9 +18080,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2063,
+        ["rank_raids"] = 2064,
         ["dps_max"] = 10136.59,
-        ["points"] = 8932.1,
+        ["points"] = 8931.800000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -18134,7 +18134,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1255,
         ["dps_max"] = 15812.47,
-        ["points"] = 9509.028503208476,
+        ["points"] = 9509.101760668456,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 762,
@@ -18157,9 +18157,9 @@ UWULogsData[8][2] = {
         ["points"] = 835.6213753621691,
       },
       ["Halion"] = {
-        ["rank_raids"] = 305,
+        ["rank_raids"] = 306,
         ["dps_max"] = 11573.23,
-        ["points"] = 9727.5,
+        ["points"] = 9726.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1164,
@@ -18211,7 +18211,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 493,
         ["dps_max"] = 17255.82,
-        ["points"] = 9798.537531711685,
+        ["points"] = 9798.567591763653,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2029,
@@ -18234,9 +18234,9 @@ UWULogsData[8][2] = {
         ["points"] = 9942.367163339894,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2109,
+        ["rank_raids"] = 2110,
         ["dps_max"] = 10120.59,
-        ["points"] = 8918.3,
+        ["points"] = 8918.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 48,
@@ -18288,12 +18288,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 976,
         ["dps_max"] = 16204.06,
-        ["points"] = 9613.490523802417,
+        ["points"] = 9613.548194568784,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 330,
         ["dps_max"] = 30808.0,
-        ["points"] = 9776.700455413546,
+        ["points"] = 9776.733254994124,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 439,
@@ -18311,9 +18311,9 @@ UWULogsData[8][2] = {
         ["points"] = 9808.827663761596,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1766,
+        ["rank_raids"] = 1767,
         ["dps_max"] = 10301.82,
-        ["points"] = 9044.599999999999,
+        ["points"] = 9044.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1102,
@@ -18365,12 +18365,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3683,
         ["dps_max"] = 13923.78,
-        ["points"] = 8752.42501119236,
+        ["points"] = 8752.611160847508,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 323,
         ["dps_max"] = 30858.71,
-        ["points"] = 9782.576759218453,
+        ["points"] = 9782.608695652174,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1685,
@@ -18388,9 +18388,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 533,
+        ["rank_raids"] = 534,
         ["dps_max"] = 11260.37,
-        ["points"] = 9584.5,
+        ["points"] = 9584.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1137,
@@ -18442,7 +18442,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2184,
         ["dps_max"] = 14877.21,
-        ["points"] = 9207.58095806596,
+        ["points"] = 9207.699194270366,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2328,
@@ -18465,9 +18465,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 11419,
+        ["rank_raids"] = 11421,
         ["dps_max"] = 4993.7,
-        ["points"] = 6409.099999999999,
+        ["points"] = 6408.9,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -18519,12 +18519,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2554,
         ["dps_max"] = 14579.45,
-        ["points"] = 9086.703477092971,
+        ["points"] = 9086.83974932856,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 379,
         ["dps_max"] = 30458.88,
-        ["points"] = 9741.442632584105,
+        ["points"] = 9741.480611045828,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2493,
@@ -18542,9 +18542,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 12508,
+        ["rank_raids"] = 12512,
         ["dps_max"] = 4384.44,
-        ["points"] = 6300.2,
+        ["points"] = 6299.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -18596,7 +18596,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 655,
         ["dps_max"] = 16772.44,
-        ["points"] = 9731.38337561558,
+        ["points"] = 9731.42345568487,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4969,
@@ -18673,7 +18673,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1387,
         ["dps_max"] = 15673.59,
-        ["points"] = 9471.72063871064,
+        ["points"] = 9471.799462846911,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1710,
@@ -18696,9 +18696,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1187,
+        ["rank_raids"] = 1188,
         ["dps_max"] = 10677.53,
-        ["points"] = 9276.2,
+        ["points"] = 9275.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 181,
@@ -18750,7 +18750,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 916,
         ["dps_max"] = 16304.67,
-        ["points"] = 9632.890613341293,
+        ["points"] = 9632.94538943599,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1956,
@@ -18773,9 +18773,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4579,
+        ["rank_raids"] = 4581,
         ["dps_max"] = 9079.5,
-        ["points"] = 8177.300000000001,
+        ["points"] = 8176.700000000002,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 391,
@@ -18827,7 +18827,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1848,
         ["dps_max"] = 15199.93,
-        ["points"] = 9343.381584838084,
+        ["points"] = 9343.479558340794,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1348,
@@ -18850,9 +18850,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 559,
+        ["rank_raids"] = 560,
         ["dps_max"] = 11222.21,
-        ["points"] = 9571.5,
+        ["points"] = 9571.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 83,
@@ -18904,7 +18904,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1321,
         ["dps_max"] = 15743.67,
-        ["points"] = 9491.120728249514,
+        ["points"] = 9491.196657714116,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1871,
@@ -18927,9 +18927,9 @@ UWULogsData[8][2] = {
         ["points"] = 9915.659263424233,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1343,
+        ["rank_raids"] = 1344,
         ["dps_max"] = 10567.24,
-        ["points"] = 9213.8,
+        ["points"] = 9213.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -18981,7 +18981,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 752,
         ["dps_max"] = 16571.95,
-        ["points"] = 9697.06014027757,
+        ["points"] = 9697.105341689048,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3782,
@@ -19058,7 +19058,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4589,
         ["dps_max"] = 13492.23,
-        ["points"] = 8470.377555588719,
+        ["points"] = 8470.605789316622,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3409,
@@ -19081,9 +19081,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 542,
+        ["rank_raids"] = 543,
         ["dps_max"] = 11248.74,
-        ["points"] = 9580.0,
+        ["points"] = 9579.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -19098,7 +19098,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Misaruu"] = {
-    ["percentile"] = 93.831,
+    ["percentile"] = 93.832,
     ["server"] = "Icecrown",
     ["overall_rank"] = 249,
     ["bosses"] = {
@@ -19135,7 +19135,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3294,
         ["dps_max"] = 14144.32,
-        ["points"] = 8850.917773466646,
+        ["points"] = 8851.089227096389,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1934,
@@ -19158,9 +19158,9 @@ UWULogsData[8][2] = {
         ["points"] = 4233.9049761034585,
       },
       ["Halion"] = {
-        ["rank_raids"] = 413,
+        ["rank_raids"] = 414,
         ["dps_max"] = 11416.73,
-        ["points"] = 9653.199999999999,
+        ["points"] = 9652.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -19212,7 +19212,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1927,
         ["dps_max"] = 15127.36,
-        ["points"] = 9312.042978659902,
+        ["points"] = 9312.145628170694,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1997,
@@ -19289,12 +19289,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 808,
         ["dps_max"] = 16464.54,
-        ["points"] = 9671.690792419042,
+        ["points"] = 9671.739779170397,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 531,
         ["dps_max"] = 29640.31,
-        ["points"] = 9628.323784339651,
+        ["points"] = 9628.378378378378,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1291,
@@ -19312,9 +19312,9 @@ UWULogsData[8][2] = {
         ["points"] = 9773.68569018836,
       },
       ["Halion"] = {
-        ["rank_raids"] = 719,
+        ["rank_raids"] = 720,
         ["dps_max"] = 11038.32,
-        ["points"] = 9491.5,
+        ["points"] = 9491.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -19329,7 +19329,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Vadimgei"] = {
-    ["percentile"] = 93.75,
+    ["percentile"] = 93.751,
     ["server"] = "Icecrown",
     ["overall_rank"] = 252,
     ["bosses"] = {
@@ -19366,12 +19366,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1026,
         ["dps_max"] = 16124.6,
-        ["points"] = 9595.582748843457,
+        ["points"] = 9595.643091614444,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 647,
         ["dps_max"] = 28980.45,
-        ["points"] = 9532.833847509915,
+        ["points"] = 9532.902467685077,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 771,
@@ -19389,9 +19389,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 13498,
+        ["rank_raids"] = 13502,
         ["dps_max"] = 3958.78,
-        ["points"] = 6201.2,
+        ["points"] = 6200.799999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 81,
@@ -19443,12 +19443,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1078,
         ["dps_max"] = 16057.47,
-        ["points"] = 9583.644232204148,
+        ["points"] = 9583.706356311548,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 449,
         ["dps_max"] = 30086.09,
-        ["points"] = 9692.963126193625,
+        ["points"] = 9693.00822561692,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 535,
@@ -19466,9 +19466,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 7517,
+        ["rank_raids"] = 7519,
         ["dps_max"] = 7940.45,
-        ["points"] = 7295.900000000001,
+        ["points"] = 7295.3,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 173,
@@ -19520,7 +19520,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 376,
         ["dps_max"] = 17667.26,
-        ["points"] = 9850.768542008656,
+        ["points"] = 9850.790808713817,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4570,
@@ -19543,9 +19543,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 541,
+        ["rank_raids"] = 542,
         ["dps_max"] = 11249.72,
-        ["points"] = 9580.5,
+        ["points"] = 9580.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -19597,12 +19597,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 782,
         ["dps_max"] = 16511.35,
-        ["points"] = 9683.62930905835,
+        ["points"] = 9683.67651447329,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 162,
         ["dps_max"] = 32325.47,
-        ["points"] = 9894.22653151168,
+        ["points"] = 9894.242068155112,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 250,
@@ -19620,9 +19620,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1013,
+        ["rank_raids"] = 1014,
         ["dps_max"] = 10785.62,
-        ["points"] = 9345.8,
+        ["points"] = 9345.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 370,
@@ -19674,7 +19674,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 417,
         ["dps_max"] = 17532.58,
-        ["points"] = 9831.36845246978,
+        ["points"] = 9831.393613846612,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1364,
@@ -19751,7 +19751,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 202,
         ["dps_max"] = 18475.21,
-        ["points"] = 9913.44575436502,
+        ["points"] = 9913.458669054015,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2264,
@@ -19774,9 +19774,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1637,
+        ["rank_raids"] = 1638,
         ["dps_max"] = 10382.66,
-        ["points"] = 9096.2,
+        ["points"] = 9095.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -19828,7 +19828,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1614,
         ["dps_max"] = 15406.04,
-        ["points"] = 9407.55111177436,
+        ["points"] = 9407.639510593852,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1723,
@@ -19905,7 +19905,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2253,
         ["dps_max"] = 14817.03,
-        ["points"] = 9179.226981047605,
+        ["points"] = 9179.349447925992,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 954,
@@ -19928,9 +19928,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 172,
+        ["rank_raids"] = 173,
         ["dps_max"] = 11835.68,
-        ["points"] = 9836.199999999999,
+        ["points"] = 9835.3,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -19982,7 +19982,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 529,
         ["dps_max"] = 17128.72,
-        ["points"] = 9779.13744217281,
+        ["points"] = 9779.170396896448,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1268,
@@ -20005,9 +20005,9 @@ UWULogsData[8][2] = {
         ["points"] = 2257.6600304519934,
       },
       ["Halion"] = {
-        ["rank_raids"] = 245,
+        ["rank_raids"] = 246,
         ["dps_max"] = 11662.35,
-        ["points"] = 9775.0,
+        ["points"] = 9774.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1040,
@@ -20059,7 +20059,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1167,
         ["dps_max"] = 15917.8,
-        ["points"] = 9540.367109386658,
+        ["points"] = 9540.435690838556,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1483,
@@ -20082,9 +20082,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2861,
+        ["rank_raids"] = 2862,
         ["dps_max"] = 9773.65,
-        ["points"] = 8692.7,
+        ["points"] = 8692.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -20136,12 +20136,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 555,
         ["dps_max"] = 17055.44,
-        ["points"] = 9771.675869273244,
+        ["points"] = 9771.70993733214,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 198,
         ["dps_max"] = 31858.48,
-        ["points"] = 9872.19039224328,
+        ["points"] = 9872.209165687427,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 636,
@@ -20159,9 +20159,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 704,
+        ["rank_raids"] = 705,
         ["dps_max"] = 11051.86,
-        ["points"] = 9499.0,
+        ["points"] = 9498.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -20176,7 +20176,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Bigdeps"] = {
-    ["percentile"] = 93.539,
+    ["percentile"] = 93.54,
     ["server"] = "Icecrown",
     ["overall_rank"] = 263,
     ["bosses"] = {
@@ -20213,12 +20213,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5249,
         ["dps_max"] = 13204.02,
-        ["points"] = 8270.407401880317,
+        ["points"] = 8270.665472993136,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 267,
         ["dps_max"] = 31259.66,
-        ["points"] = 9820.772733950345,
+        ["points"] = 9820.799059929495,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1323,
@@ -20236,9 +20236,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1503,
+        ["rank_raids"] = 1504,
         ["dps_max"] = 10467.62,
-        ["points"] = 9149.8,
+        ["points"] = 9149.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -20290,7 +20290,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1365,
         ["dps_max"] = 15697.84,
-        ["points"] = 9476.19758245038,
+        ["points"] = 9476.275738585497,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2453,
@@ -20313,9 +20313,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1647,
+        ["rank_raids"] = 1648,
         ["dps_max"] = 10377.93,
-        ["points"] = 9092.199999999999,
+        ["points"] = 9091.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 177,
@@ -20367,7 +20367,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5966,
         ["dps_max"] = 12934.37,
-        ["points"] = 8016.71392329503,
+        ["points"] = 8017.009847806626,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 770,
@@ -20444,7 +20444,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 702,
         ["dps_max"] = 16683.64,
-        ["points"] = 9717.95254439636,
+        ["points"] = 9717.994628469114,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1806,
@@ -20467,9 +20467,9 @@ UWULogsData[8][2] = {
         ["points"] = 9977.509136913128,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1074,
+        ["rank_raids"] = 1075,
         ["dps_max"] = 10750.14,
-        ["points"] = 9321.4,
+        ["points"] = 9321.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -20521,12 +20521,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 365,
         ["dps_max"] = 17700.31,
-        ["points"] = 9852.260856588568,
+        ["points"] = 9852.282900626678,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 571,
         ["dps_max"] = 29412.12,
-        ["points"] = 9591.596885558984,
+        ["points"] = 9591.656874265569,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2491,
@@ -20598,7 +20598,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1533,
         ["dps_max"] = 15496.29,
-        ["points"] = 9425.458886733324,
+        ["points"] = 9425.544613548194,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1527,
@@ -20621,9 +20621,9 @@ UWULogsData[8][2] = {
         ["points"] = 9602.19285915097,
       },
       ["Halion"] = {
-        ["rank_raids"] = 253,
+        ["rank_raids"] = 254,
         ["dps_max"] = 11650.09,
-        ["points"] = 9768.6,
+        ["points"] = 9767.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 233,
@@ -20675,12 +20675,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5594,
         ["dps_max"] = 13071.01,
-        ["points"] = 8143.5606625876735,
+        ["points"] = 8143.83766039988,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 95,
         ["dps_max"] = 33060.98,
-        ["points"] = 9932.422506243573,
+        ["points"] = 9932.432432432432,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 318,
@@ -20752,7 +20752,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1612,
         ["dps_max"] = 15406.55,
-        ["points"] = 9409.043426354276,
+        ["points"] = 9409.131602506714,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5465,
@@ -20775,9 +20775,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 795,
+        ["rank_raids"] = 796,
         ["dps_max"] = 10970.65,
-        ["points"] = 9453.5,
+        ["points"] = 9453.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -20829,7 +20829,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 398,
         ["dps_max"] = 17597.74,
-        ["points"] = 9840.322339949262,
+        ["points"] = 9840.346165323785,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2946,
@@ -20852,9 +20852,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 555,
+        ["rank_raids"] = 556,
         ["dps_max"] = 11222.63,
-        ["points"] = 9573.5,
+        ["points"] = 9573.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -20906,7 +20906,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2418,
         ["dps_max"] = 14681.76,
-        ["points"] = 9122.519027010894,
+        ["points"] = 9122.649955237242,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1293,
@@ -20983,7 +20983,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1595,
         ["dps_max"] = 15424.13,
-        ["points"] = 9415.01268467393,
+        ["points"] = 9415.099970158162,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3648,
@@ -21006,9 +21006,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 778,
+        ["rank_raids"] = 779,
         ["dps_max"] = 10983.89,
-        ["points"] = 9462.0,
+        ["points"] = 9461.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 573,
@@ -21060,7 +21060,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 280,
         ["dps_max"] = 18014.34,
-        ["points"] = 9882.107148186838,
+        ["points"] = 9882.124738883915,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1734,
@@ -21083,9 +21083,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 234,
+        ["rank_raids"] = 235,
         ["dps_max"] = 11689.1,
-        ["points"] = 9783.800000000001,
+        ["points"] = 9783.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 223,
@@ -21137,7 +21137,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1862,
         ["dps_max"] = 15188.53,
-        ["points"] = 9337.41232651843,
+        ["points"] = 9337.511190689345,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1359,
@@ -21214,7 +21214,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1186,
         ["dps_max"] = 15896.2,
-        ["points"] = 9534.397851067004,
+        ["points"] = 9534.467323187107,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 996,
@@ -21237,9 +21237,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 274,
+        ["rank_raids"] = 275,
         ["dps_max"] = 11620.41,
-        ["points"] = 9751.8,
+        ["points"] = 9751.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -21291,7 +21291,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 821,
         ["dps_max"] = 16441.61,
-        ["points"] = 9664.229219519475,
+        ["points"] = 9664.279319606087,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 898,
@@ -21314,9 +21314,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1251,
+        ["rank_raids"] = 1252,
         ["dps_max"] = 10628.56,
-        ["points"] = 9250.6,
+        ["points"] = 9250.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 619,
@@ -21368,7 +21368,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1317,
         ["dps_max"] = 15747.86,
-        ["points"] = 9492.61304282943,
+        ["points"] = 9492.688749626977,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2912,
@@ -21391,9 +21391,9 @@ UWULogsData[8][2] = {
         ["points"] = 8897.947708743324,
       },
       ["Halion"] = {
-        ["rank_raids"] = 590,
+        ["rank_raids"] = 591,
         ["dps_max"] = 11178.13,
-        ["points"] = 9556.0,
+        ["points"] = 9555.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -21445,7 +21445,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 785,
         ["dps_max"] = 16506.04,
-        ["points"] = 9680.644679898522,
+        ["points"] = 9680.692330647567,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1306,
@@ -21468,9 +21468,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1200,
+        ["rank_raids"] = 1201,
         ["dps_max"] = 10671.23,
-        ["points"] = 9271.0,
+        ["points"] = 9270.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -21522,7 +21522,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1194,
         ["dps_max"] = 15890.29,
-        ["points"] = 9532.905536487091,
+        ["points"] = 9532.975231274246,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2817,
@@ -21545,9 +21545,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 514,
+        ["rank_raids"] = 515,
         ["dps_max"] = 11281.52,
-        ["points"] = 9594.0,
+        ["points"] = 9593.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -21599,7 +21599,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1120,
         ["dps_max"] = 15997.52,
-        ["points"] = 9567.228771825101,
+        ["points"] = 9567.293345270069,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4009,
@@ -21622,9 +21622,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2982,
+        ["rank_raids"] = 2983,
         ["dps_max"] = 9717.9,
-        ["points"] = 8656.400000000001,
+        ["points"] = 8656.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 136,
@@ -21676,7 +21676,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1468,
         ["dps_max"] = 15572.2,
-        ["points"] = 9444.858976272199,
+        ["points"] = 9444.941808415399,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 692,
@@ -21699,9 +21699,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 6550,
+        ["rank_raids"] = 6552,
         ["dps_max"] = 8335.72,
-        ["points"] = 7586.000000000001,
+        ["points"] = 7585.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -21753,12 +21753,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2548,
         ["dps_max"] = 14581.48,
-        ["points"] = 9088.195791672884,
+        ["points"] = 9088.331841241421,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 167,
         ["dps_max"] = 32296.45,
-        ["points"] = 9891.288379609225,
+        ["points"] = 9891.304347826086,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2389,
@@ -21776,9 +21776,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3398,
+        ["rank_raids"] = 3399,
         ["dps_max"] = 9542.47,
-        ["points"] = 8531.6,
+        ["points"] = 8531.300000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 707,
@@ -21830,7 +21830,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 509,
         ["dps_max"] = 17180.7,
-        ["points"] = 9788.09132965229,
+        ["points"] = 9788.12294837362,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1752,
@@ -21853,9 +21853,9 @@ UWULogsData[8][2] = {
         ["points"] = 9746.977790272702,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3726,
+        ["rank_raids"] = 3727,
         ["dps_max"] = 9410.97,
-        ["points"] = 8433.2,
+        ["points"] = 8432.900000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -21907,7 +21907,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1645,
         ["dps_max"] = 15380.12,
-        ["points"] = 9401.581853454709,
+        ["points"] = 9401.671142942405,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 725,
@@ -21930,9 +21930,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2532,
+        ["rank_raids"] = 2533,
         ["dps_max"] = 9918.75,
-        ["points"] = 8791.4,
+        ["points"] = 8791.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -21984,7 +21984,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1480,
         ["dps_max"] = 15552.38,
-        ["points"] = 9438.889717952545,
+        ["points"] = 9438.973440763952,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1195,
@@ -22007,9 +22007,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2531,
+        ["rank_raids"] = 2532,
         ["dps_max"] = 9918.92,
-        ["points"] = 8791.7,
+        ["points"] = 8791.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1466,
@@ -22061,7 +22061,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1675,
         ["dps_max"] = 15362.56,
-        ["points"] = 9394.12028055514,
+        ["points"] = 9394.210683378096,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1639,
@@ -22084,9 +22084,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1024,
+        ["rank_raids"] = 1025,
         ["dps_max"] = 10778.77,
-        ["points"] = 9341.4,
+        ["points"] = 9341.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -22138,7 +22138,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4909,
         ["dps_max"] = 13361.93,
-        ["points"] = 8374.869422474258,
+        ["points"] = 8375.111906893464,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3458,
@@ -22161,9 +22161,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1134,
+        ["rank_raids"] = 1135,
         ["dps_max"] = 10712.13,
-        ["points"] = 9297.4,
+        ["points"] = 9297.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 271,
@@ -22215,7 +22215,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7090,
         ["dps_max"] = 12556.92,
-        ["points"] = 7679.450828234592,
+        ["points"] = 7679.797075499851,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 841,
@@ -22238,9 +22238,9 @@ UWULogsData[8][2] = {
         ["points"] = 7667.978633680067,
       },
       ["Halion"] = {
-        ["rank_raids"] = 353,
+        ["rank_raids"] = 354,
         ["dps_max"] = 11492.02,
-        ["points"] = 9693.9,
+        ["points"] = 9693.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -22292,7 +22292,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 927,
         ["dps_max"] = 16289.05,
-        ["points"] = 9626.921355021637,
+        ["points"] = 9626.977021784542,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1833,
@@ -22315,9 +22315,9 @@ UWULogsData[8][2] = {
         ["points"] = 2442.3732670411814,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1460,
+        ["rank_raids"] = 1461,
         ["dps_max"] = 10494.89,
-        ["points"] = 9167.0,
+        ["points"] = 9166.599999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 134,
@@ -22332,7 +22332,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Ronronner"] = {
-    ["percentile"] = 93.103,
+    ["percentile"] = 93.104,
     ["server"] = "Icecrown",
     ["overall_rank"] = 291,
     ["bosses"] = {
@@ -22369,12 +22369,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5545,
         ["dps_max"] = 13092.45,
-        ["points"] = 8167.437695866289,
+        ["points"] = 8167.711131005671,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 516,
         ["dps_max"] = 29707.88,
-        ["points"] = 9641.54546790069,
+        ["points"] = 9641.598119858989,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3578,
@@ -22392,9 +22392,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1587,
+        ["rank_raids"] = 1588,
         ["dps_max"] = 10422.4,
-        ["points"] = 9116.2,
+        ["points"] = 9115.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -22446,12 +22446,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 95,
         ["dps_max"] = 19190.03,
-        ["points"] = 9947.76898970303,
+        ["points"] = 9947.776783049836,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7534,
+        ["rank_raids"] = 7535,
         ["dps_max"] = 16489.64,
-        ["points"] = 7290.8,
+        ["points"] = 7290.500000000001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 324,
@@ -22523,12 +22523,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3154,
         ["dps_max"] = 14212.96,
-        ["points"] = 8903.148783763618,
+        ["points"] = 8903.312444046553,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 405,
         ["dps_max"] = 30343.09,
-        ["points"] = 9719.406493315704,
+        ["points"] = 9719.447708578144,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4830,
@@ -22600,7 +22600,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2053,
         ["dps_max"] = 15009.87,
-        ["points"] = 9258.319653783017,
+        ["points"] = 9258.430319307668,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 874,
@@ -22623,9 +22623,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4072,
+        ["rank_raids"] = 4074,
         ["dps_max"] = 9281.76,
-        ["points"] = 8329.4,
+        ["points"] = 8328.800000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -22677,12 +22677,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3809,
         ["dps_max"] = 13861.9,
-        ["points"] = 8706.163259215044,
+        ["points"] = 8706.356311548792,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 471,
         ["dps_max"] = 29950.82,
-        ["points"] = 9675.334214778904,
+        ["points"] = 9675.381903642774,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 824,
@@ -22700,9 +22700,9 @@ UWULogsData[8][2] = {
         ["points"] = 8152.937868990723,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1776,
+        ["rank_raids"] = 1777,
         ["dps_max"] = 10298.51,
-        ["points"] = 9040.6,
+        ["points"] = 9040.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 224,
@@ -22754,12 +22754,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4375,
         ["dps_max"] = 13588.88,
-        ["points"] = 8543.500970004477,
+        ["points"] = 8543.718293046852,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 117,
         ["dps_max"] = 32796.31,
-        ["points"] = 9920.66989863376,
+        ["points"] = 9920.681551116333,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 146,
@@ -22831,7 +22831,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2311,
         ["dps_max"] = 14776.82,
-        ["points"] = 9153.857633189076,
+        ["points"] = 9153.98388540734,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5108,
@@ -22871,7 +22871,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Perplexe"] = {
-    ["percentile"] = 92.976,
+    ["percentile"] = 92.977,
     ["server"] = "Icecrown",
     ["overall_rank"] = 298,
     ["bosses"] = {
@@ -22908,12 +22908,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3521,
         ["dps_max"] = 14013.13,
-        ["points"] = 8800.17907774959,
+        ["points"] = 8800.358102059086,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 102,
         ["dps_max"] = 32942.2,
-        ["points"] = 9928.015278389892,
+        ["points"] = 9928.025851938895,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 573,
@@ -22985,12 +22985,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1509,
         ["dps_max"] = 15516.7,
-        ["points"] = 9432.920459632891,
+        ["points"] = 9433.005073112503,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 372,
         ["dps_max"] = 30492.62,
-        ["points"] = 9745.849860437784,
+        ["points"] = 9745.887191539365,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 920,
@@ -23062,12 +23062,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3259,
         ["dps_max"] = 14159.41,
-        ["points"] = 8861.363975526041,
+        ["points"] = 8861.533870486423,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 460,
         ["dps_max"] = 30034.75,
-        ["points"] = 9682.679594535037,
+        ["points"] = 9682.726204465334,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2292,
@@ -23085,9 +23085,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 450,
+        ["rank_raids"] = 451,
         ["dps_max"] = 11373.05,
-        ["points"] = 9631.0,
+        ["points"] = 9630.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -23139,12 +23139,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1407,
         ["dps_max"] = 15641.81,
-        ["points"] = 9462.76675123116,
+        ["points"] = 9462.84691136974,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 439,
         ["dps_max"] = 30176.8,
-        ["points"] = 9698.839429998532,
+        ["points"] = 9698.88366627497,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3114,
@@ -23162,9 +23162,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1965,
+        ["rank_raids"] = 1966,
         ["dps_max"] = 10190.01,
-        ["points"] = 8965.0,
+        ["points"] = 8964.599999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -23216,12 +23216,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 549,
         ["dps_max"] = 17075.77,
-        ["points"] = 9773.168183853157,
+        ["points"] = 9773.202029245002,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 252,
         ["dps_max"] = 31402.92,
-        ["points"] = 9829.587189657706,
+        ["points"] = 9829.61222091657,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2994,
@@ -23239,9 +23239,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 178,
+        ["rank_raids"] = 179,
         ["dps_max"] = 11818.44,
-        ["points"] = 9830.8,
+        ["points"] = 9829.9,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -23293,7 +23293,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3459,
         ["dps_max"] = 14045.76,
-        ["points"] = 8812.117594388897,
+        ["points"] = 8812.294837361982,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 918,
@@ -23316,9 +23316,9 @@ UWULogsData[8][2] = {
         ["points"] = 9536.125948833285,
       },
       ["Halion"] = {
-        ["rank_raids"] = 759,
+        ["rank_raids"] = 760,
         ["dps_max"] = 11002.7,
-        ["points"] = 9471.5,
+        ["points"] = 9471.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 355,
@@ -23370,7 +23370,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1868,
         ["dps_max"] = 15186.39,
-        ["points"] = 9334.427697358602,
+        ["points"] = 9334.527006863624,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1393,
@@ -23393,9 +23393,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 11485,
+        ["rank_raids"] = 11487,
         ["dps_max"] = 4925.98,
-        ["points"] = 6402.5,
+        ["points"] = 6402.299999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -23447,12 +23447,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1354,
         ["dps_max"] = 15708.75,
-        ["points"] = 9480.67452619012,
+        ["points"] = 9480.752014324082,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 552,
         ["dps_max"] = 29532.14,
-        ["points"] = 9606.28764507125,
+        ["points"] = 9606.345475910693,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1490,
@@ -23470,9 +23470,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 932,
+        ["rank_raids"] = 933,
         ["dps_max"] = 10844.95,
-        ["points"] = 9385.0,
+        ["points"] = 9384.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 855,
@@ -23524,7 +23524,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 892,
         ["dps_max"] = 16347.48,
-        ["points"] = 9641.844500820773,
+        ["points"] = 9641.89794091316,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 779,
@@ -23547,9 +23547,9 @@ UWULogsData[8][2] = {
         ["points"] = 9600.78718020804,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5268,
+        ["rank_raids"] = 5270,
         ["dps_max"] = 8826.97,
-        ["points"] = 7970.600000000001,
+        ["points"] = 7970.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 812,
@@ -23601,12 +23601,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 383,
         ["dps_max"] = 17640.73,
-        ["points"] = 9846.291598268916,
+        ["points"] = 9846.314532975231,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 425,
         ["dps_max"] = 30247.8,
-        ["points"] = 9706.184809754664,
+        ["points"] = 9706.227967097533,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1239,
@@ -23678,12 +23678,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 388,
         ["dps_max"] = 17628.62,
-        ["points"] = 9843.306969109088,
+        ["points"] = 9843.330349149508,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 477,
         ["dps_max"] = 29887.52,
-        ["points"] = 9670.926986925224,
+        ["points"] = 9670.975323149236,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1747,
@@ -23755,7 +23755,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 496,
         ["dps_max"] = 17244.17,
-        ["points"] = 9795.552902551859,
+        ["points"] = 9795.58340793793,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3122,
@@ -23778,9 +23778,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2127,
+        ["rank_raids"] = 2128,
         ["dps_max"] = 10113.23,
-        ["points"] = 8912.9,
+        ["points"] = 8912.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -23832,7 +23832,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3494,
         ["dps_max"] = 14030.83,
-        ["points"] = 8809.132965229071,
+        ["points"] = 8809.310653536257,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1801,
@@ -23855,9 +23855,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 876,
+        ["rank_raids"] = 877,
         ["dps_max"] = 10887.61,
-        ["points"] = 9413.0,
+        ["points"] = 9412.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 394,
@@ -23872,7 +23872,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Cursedjoe"] = {
-    ["percentile"] = 92.62,
+    ["percentile"] = 92.621,
     ["server"] = "Icecrown",
     ["overall_rank"] = 311,
     ["bosses"] = {
@@ -23909,12 +23909,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 483,
         ["dps_max"] = 17280.4,
-        ["points"] = 9801.522160871513,
+        ["points"] = 9801.551775589376,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 585,
         ["dps_max"] = 29336.77,
-        ["points"] = 9582.782429851623,
+        ["points"] = 9582.843713278497,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2678,
@@ -23932,9 +23932,9 @@ UWULogsData[8][2] = {
         ["points"] = 8144.503795333146,
       },
       ["Halion"] = {
-        ["rank_raids"] = 455,
+        ["rank_raids"] = 456,
         ["dps_max"] = 11368.36,
-        ["points"] = 9628.0,
+        ["points"] = 9627.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -23986,7 +23986,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 407,
         ["dps_max"] = 17576.35,
-        ["points"] = 9838.830025369349,
+        ["points"] = 9838.854073410923,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2303,
@@ -24009,9 +24009,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3134,
+        ["rank_raids"] = 3135,
         ["dps_max"] = 9651.78,
-        ["points"] = 8610.800000000001,
+        ["points"] = 8610.500000000002,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -24063,12 +24063,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 719,
         ["dps_max"] = 16638.57,
-        ["points"] = 9711.983286076706,
+        ["points"] = 9712.026260817667,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 617,
         ["dps_max"] = 29174.91,
-        ["points"] = 9557.80813868077,
+        ["points"] = 9557.873090481786,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2732,
@@ -24086,9 +24086,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 177,
+        ["rank_raids"] = 178,
         ["dps_max"] = 11824.44,
-        ["points"] = 9831.7,
+        ["points"] = 9830.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -24140,12 +24140,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3340,
         ["dps_max"] = 14119.18,
-        ["points"] = 8841.963885987167,
+        ["points"] = 8842.136675619218,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 326,
         ["dps_max"] = 30836.59,
-        ["points"] = 9779.638607315997,
+        ["points"] = 9779.67097532315,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2169,
@@ -24180,7 +24180,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Inflammation"] = {
-    ["percentile"] = 92.544,
+    ["percentile"] = 92.545,
     ["server"] = "Icecrown",
     ["overall_rank"] = 315,
     ["bosses"] = {
@@ -24217,7 +24217,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2486,
         ["dps_max"] = 14634.44,
-        ["points"] = 9104.611252051933,
+        ["points"] = 9104.744852282902,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1686,
@@ -24294,7 +24294,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3090,
         ["dps_max"] = 14245.43,
-        ["points"] = 8925.53350246232,
+        ["points"] = 8925.69382273948,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1661,
@@ -24317,9 +24317,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1813,
+        ["rank_raids"] = 1814,
         ["dps_max"] = 10278.39,
-        ["points"] = 9025.8,
+        ["points"] = 9025.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -24371,12 +24371,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2487,
         ["dps_max"] = 14633.29,
-        ["points"] = 9103.11893747202,
+        ["points"] = 9103.252760370038,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 481,
         ["dps_max"] = 29862.7,
-        ["points"] = 9669.457910973997,
+        ["points"] = 9669.506462984724,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1790,
@@ -24394,9 +24394,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2165,
+        ["rank_raids"] = 2166,
         ["dps_max"] = 10089.04,
-        ["points"] = 8901.5,
+        ["points"] = 8901.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -24448,12 +24448,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1630,
         ["dps_max"] = 15393.63,
-        ["points"] = 9404.566482614535,
+        ["points"] = 9404.655326768128,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 110,
         ["dps_max"] = 32847.54,
-        ["points"] = 9922.138974584986,
+        ["points"] = 9922.150411280845,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 689,
@@ -24471,9 +24471,9 @@ UWULogsData[8][2] = {
         ["points"] = 2201.881372645231,
       },
       ["Halion"] = {
-        ["rank_raids"] = 11718,
+        ["rank_raids"] = 11720,
         ["dps_max"] = 4771.71,
-        ["points"] = 6379.200000000001,
+        ["points"] = 6379.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 288,
@@ -24525,12 +24525,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2958,
         ["dps_max"] = 14327.98,
-        ["points"] = 8964.333681540069,
+        ["points"] = 8964.488212473889,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 431,
         ["dps_max"] = 30220.64,
-        ["points"] = 9701.777581900984,
+        ["points"] = 9701.821386603995,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1067,
@@ -24548,9 +24548,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1044,
+        ["rank_raids"] = 1045,
         ["dps_max"] = 10769.15,
-        ["points"] = 9333.4,
+        ["points"] = 9333.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -24602,12 +24602,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 961,
         ["dps_max"] = 16219.9,
-        ["points"] = 9616.475152962244,
+        ["points"] = 9616.53237839451,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 142,
         ["dps_max"] = 32529.02,
-        ["points"] = 9907.44821507272,
+        ["points"] = 9907.461809635723,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 720,
@@ -24625,9 +24625,9 @@ UWULogsData[8][2] = {
         ["points"] = 9574.07928029238,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1660,
+        ["rank_raids"] = 1661,
         ["dps_max"] = 10371.6,
-        ["points"] = 9087.0,
+        ["points"] = 9086.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -24679,7 +24679,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2642,
         ["dps_max"] = 14522.79,
-        ["points"] = 9056.857185494702,
+        ["points"] = 9056.997911071321,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5739,
@@ -24702,9 +24702,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1262,
+        ["rank_raids"] = 1263,
         ["dps_max"] = 10623.37,
-        ["points"] = 9246.2,
+        ["points"] = 9245.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 373,
@@ -24756,12 +24756,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3640,
         ["dps_max"] = 13951.84,
-        ["points"] = 8765.85584241158,
+        ["points"] = 8766.039988063265,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 579,
         ["dps_max"] = 29350.54,
-        ["points"] = 9588.65873365653,
+        ["points"] = 9588.719153936545,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2251,
@@ -24779,9 +24779,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1295,
+        ["rank_raids"] = 1296,
         ["dps_max"] = 10598.93,
-        ["points"] = 9233.0,
+        ["points"] = 9232.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -24833,7 +24833,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1002,
         ["dps_max"] = 16164.21,
-        ["points"] = 9603.044321743024,
+        ["points"] = 9603.103551178752,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3775,
@@ -24856,9 +24856,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 786,
+        ["rank_raids"] = 787,
         ["dps_max"] = 10977.74,
-        ["points"] = 9458.0,
+        ["points"] = 9457.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 395,
@@ -24910,12 +24910,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1074,
         ["dps_max"] = 16062.44,
-        ["points"] = 9585.136546784062,
+        ["points"] = 9585.19844822441,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 10230,
+        ["rank_raids"] = 10231,
         ["dps_max"] = 15923.27,
-        ["points"] = 6528.000000000001,
+        ["points"] = 6527.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 295,
@@ -24933,9 +24933,9 @@ UWULogsData[8][2] = {
         ["points"] = 9426.48299128479,
       },
       ["Halion"] = {
-        ["rank_raids"] = 466,
+        ["rank_raids"] = 467,
         ["dps_max"] = 11353.99,
-        ["points"] = 9621.4,
+        ["points"] = 9620.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -24987,7 +24987,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2230,
         ["dps_max"] = 14830.6,
-        ["points"] = 9191.165497686912,
+        ["points"] = 9191.286183228887,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5541,
@@ -25010,9 +25010,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 418,
+        ["rank_raids"] = 419,
         ["dps_max"] = 11402.52,
-        ["points"] = 9650.2,
+        ["points"] = 9649.599999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -25064,7 +25064,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 836,
         ["dps_max"] = 16427.91,
-        ["points"] = 9658.259961199821,
+        ["points"] = 9658.310951954641,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5025,
@@ -25087,9 +25087,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 11933,
+        ["rank_raids"] = 11937,
         ["dps_max"] = 4647.46,
-        ["points"] = 6357.7,
+        ["points"] = 6357.3,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -25141,7 +25141,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2022,
         ["dps_max"] = 15043.41,
-        ["points"] = 9270.258170422325,
+        ["points"] = 9270.367054610564,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2590,
@@ -25164,9 +25164,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4138,
+        ["rank_raids"] = 4140,
         ["dps_max"] = 9253.7,
-        ["points"] = 8309.6,
+        ["points"] = 8309.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -25218,7 +25218,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3238,
         ["dps_max"] = 14173.18,
-        ["points"] = 8871.810177585436,
+        ["points"] = 8871.978513876455,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3592,
@@ -25241,9 +25241,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4350,
+        ["rank_raids"] = 4352,
         ["dps_max"] = 9163.22,
-        ["points"] = 8246.0,
+        ["points"] = 8245.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -25295,7 +25295,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3745,
         ["dps_max"] = 13890.36,
-        ["points"] = 8728.547977913744,
+        ["points"] = 8728.73769024172,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 820,
@@ -25318,9 +25318,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 609,
+        ["rank_raids"] = 610,
         ["dps_max"] = 11156.36,
-        ["points"] = 9546.5,
+        ["points"] = 9546.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 715,
@@ -25335,7 +25335,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Makaroney"] = {
-    ["percentile"] = 92.268,
+    ["percentile"] = 92.269,
     ["server"] = "Icecrown",
     ["overall_rank"] = 330,
     ["bosses"] = {
@@ -25372,12 +25372,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3096,
         ["dps_max"] = 14242.64,
-        ["points"] = 8922.548873302492,
+        ["points"] = 8922.709638913757,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 366,
         ["dps_max"] = 30511.0,
-        ["points"] = 9753.195240193918,
+        ["points"] = 9753.231492361927,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2734,
@@ -25449,12 +25449,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1313,
         ["dps_max"] = 15752.98,
-        ["points"] = 9495.597671989255,
+        ["points"] = 9495.6729334527,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 268,
         ["dps_max"] = 31243.4,
-        ["points"] = 9819.303657999119,
+        ["points"] = 9819.330199764983,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2751,
@@ -25472,9 +25472,9 @@ UWULogsData[8][2] = {
         ["points"] = 7095.867303907788,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1308,
+        ["rank_raids"] = 1309,
         ["dps_max"] = 10595.13,
-        ["points"] = 9227.8,
+        ["points"] = 9227.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -25526,7 +25526,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2299,
         ["dps_max"] = 14785.42,
-        ["points"] = 9158.334576928817,
+        ["points"] = 9158.460161145927,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6499,
@@ -25549,9 +25549,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 585,
+        ["rank_raids"] = 586,
         ["dps_max"] = 11186.04,
-        ["points"] = 9558.5,
+        ["points"] = 9558.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -25603,12 +25603,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2971,
         ["dps_max"] = 14318.16,
-        ["points"] = 8959.856737800328,
+        ["points"] = 8960.011936735302,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 351,
         ["dps_max"] = 30614.79,
-        ["points"] = 9760.54061995005,
+        ["points"] = 9760.57579318449,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1800,
@@ -25626,9 +25626,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 278,
+        ["rank_raids"] = 279,
         ["dps_max"] = 11612.66,
-        ["points"] = 9748.6,
+        ["points"] = 9747.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 126,
@@ -25680,7 +25680,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 599,
         ["dps_max"] = 16939.07,
-        ["points"] = 9759.737352633934,
+        ["points"] = 9759.773202029244,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6611,
@@ -25757,7 +25757,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 414,
         ["dps_max"] = 17548.89,
-        ["points"] = 9832.860767049693,
+        ["points"] = 9832.885705759474,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 848,
@@ -25780,9 +25780,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1506,
+        ["rank_raids"] = 1507,
         ["dps_max"] = 10466.42,
-        ["points"] = 9148.6,
+        ["points"] = 9148.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -25834,12 +25834,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2188,
         ["dps_max"] = 14872.6,
-        ["points"] = 9206.088643486046,
+        ["points"] = 9206.207102357504,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 319,
         ["dps_max"] = 30873.02,
-        ["points"] = 9784.045835169678,
+        ["points"] = 9784.077555816686,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3047,
@@ -25857,9 +25857,9 @@ UWULogsData[8][2] = {
         ["points"] = 9947.98987911161,
       },
       ["Halion"] = {
-        ["rank_raids"] = 285,
+        ["rank_raids"] = 286,
         ["dps_max"] = 11606.11,
-        ["points"] = 9743.0,
+        ["points"] = 9742.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -25911,7 +25911,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 919,
         ["dps_max"] = 16301.35,
-        ["points"] = 9629.905984181465,
+        ["points"] = 9629.961205610265,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1933,
@@ -25934,9 +25934,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 503,
+        ["rank_raids"] = 504,
         ["dps_max"] = 11306.65,
-        ["points"] = 9599.5,
+        ["points"] = 9599.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -25988,7 +25988,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1228,
         ["dps_max"] = 15845.67,
-        ["points"] = 9523.951649007611,
+        ["points"] = 9524.022679797075,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 666,
@@ -26011,9 +26011,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4101,
+        ["rank_raids"] = 4103,
         ["dps_max"] = 9270.33,
-        ["points"] = 8320.7,
+        ["points"] = 8320.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -26028,7 +26028,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Brainlet"] = {
-    ["percentile"] = 91.982,
+    ["percentile"] = 91.983,
     ["server"] = "Icecrown",
     ["overall_rank"] = 339,
     ["bosses"] = {
@@ -26065,7 +26065,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1755,
         ["dps_max"] = 15290.35,
-        ["points"] = 9370.243247276527,
+        ["points"] = 9370.337212772307,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4294,
@@ -26142,12 +26142,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2612,
         ["dps_max"] = 14543.73,
-        ["points"] = 9067.303387554097,
+        ["points"] = 9067.442554461355,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 493,
         ["dps_max"] = 29813.91,
-        ["points"] = 9662.112531217863,
+        ["points"] = 9662.162162162162,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 412,
@@ -26165,9 +26165,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 380,
+        ["rank_raids"] = 381,
         ["dps_max"] = 11461.76,
-        ["points"] = 9675.0,
+        ["points"] = 9674.3,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -26219,12 +26219,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2894,
         ["dps_max"] = 14370.78,
-        ["points"] = 8985.226085658856,
+        ["points"] = 8985.377499253953,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 369,
         ["dps_max"] = 30508.68,
-        ["points"] = 9750.257088291466,
+        ["points"] = 9750.293772032903,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1727,
@@ -26242,9 +26242,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 6433,
+        ["rank_raids"] = 6435,
         ["dps_max"] = 8376.01,
-        ["points"] = 7621.1,
+        ["points"] = 7620.500000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 117,
@@ -26296,12 +26296,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6192,
         ["dps_max"] = 12848.61,
-        ["points"] = 7936.128935979705,
+        ["points"] = 7936.436884512086,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 367,
         ["dps_max"] = 30509.89,
-        ["points"] = 9751.726164242691,
+        ["points"] = 9751.762632197415,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2655,
@@ -26319,9 +26319,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1168,
+        ["rank_raids"] = 1169,
         ["dps_max"] = 10692.77,
-        ["points"] = 9283.8,
+        ["points"] = 9283.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -26373,12 +26373,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1725,
         ["dps_max"] = 15317.03,
-        ["points"] = 9373.227876436353,
+        ["points"] = 9373.32139659803,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 291,
         ["dps_max"] = 31041.43,
-        ["points"] = 9801.674746584398,
+        ["points"] = 9801.703877790835,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1976,
@@ -26396,9 +26396,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 803,
+        ["rank_raids"] = 804,
         ["dps_max"] = 10957.5,
-        ["points"] = 9449.5,
+        ["points"] = 9449.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -26450,7 +26450,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2182,
         ["dps_max"] = 14880.67,
-        ["points"] = 9209.073272645874,
+        ["points"] = 9209.19128618323,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 952,
@@ -26473,9 +26473,9 @@ UWULogsData[8][2] = {
         ["points"] = 9866.460500421703,
       },
       ["Halion"] = {
-        ["rank_raids"] = 337,
+        ["rank_raids"] = 338,
         ["dps_max"] = 11512.72,
-        ["points"] = 9705.1,
+        ["points"] = 9704.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 325,
@@ -26527,12 +26527,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1159,
         ["dps_max"] = 15932.19,
-        ["points"] = 9546.336367706313,
+        ["points"] = 9546.404058490003,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7260,
+        ["rank_raids"] = 7261,
         ["dps_max"] = 16562.43,
-        ["points"] = 7373.000000000001,
+        ["points"] = 7372.700000000001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4852,
@@ -26604,7 +26604,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4878,
         ["dps_max"] = 13373.61,
-        ["points"] = 8388.300253693478,
+        ["points"] = 8388.540734109221,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1590,
@@ -26627,9 +26627,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 12343,
+        ["rank_raids"] = 12347,
         ["dps_max"] = 4451.1,
-        ["points"] = 6316.7,
+        ["points"] = 6316.3,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -26681,12 +26681,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2161,
         ["dps_max"] = 14896.9,
-        ["points"] = 9221.011789285181,
+        ["points"] = 9221.128021486124,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 84,
         ["dps_max"] = 33324.65,
-        ["points"] = 9938.29881004848,
+        ["points"] = 9938.307873090482,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 604,
@@ -26704,9 +26704,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 11444,
+        ["rank_raids"] = 11446,
         ["dps_max"] = 4972.71,
-        ["points"] = 6406.6,
+        ["points"] = 6406.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -26758,12 +26758,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1066,
         ["dps_max"] = 16072.85,
-        ["points"] = 9588.121175943888,
+        ["points"] = 9588.182632050133,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 411,
         ["dps_max"] = 30309.63,
-        ["points"] = 9714.999265462024,
+        ["points"] = 9715.041128084606,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 267,
@@ -26781,9 +26781,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1558,
+        ["rank_raids"] = 1559,
         ["dps_max"] = 10437.67,
-        ["points"] = 9127.8,
+        ["points"] = 9127.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -26835,7 +26835,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 812,
         ["dps_max"] = 16457.16,
-        ["points"] = 9668.706163259216,
+        ["points"] = 9668.755595344674,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2634,
@@ -26858,9 +26858,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2434,
+        ["rank_raids"] = 2435,
         ["dps_max"] = 9955.86,
-        ["points"] = 8820.800000000001,
+        ["points"] = 8820.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -26912,7 +26912,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 386,
         ["dps_max"] = 17631.17,
-        ["points"] = 9844.799283689003,
+        ["points"] = 9844.82244106237,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 698,
@@ -26935,9 +26935,9 @@ UWULogsData[8][2] = {
         ["points"] = 6873.770030924938,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1214,
+        ["rank_raids"] = 1215,
         ["dps_max"] = 10663.18,
-        ["points"] = 9265.4,
+        ["points"] = 9265.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -26989,7 +26989,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1346,
         ["dps_max"] = 15713.25,
-        ["points"] = 9485.15146992986,
+        ["points"] = 9485.228290062669,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1137,
@@ -27012,9 +27012,9 @@ UWULogsData[8][2] = {
         ["points"] = 9804.610626932808,
       },
       ["Halion"] = {
-        ["rank_raids"] = 799,
+        ["rank_raids"] = 800,
         ["dps_max"] = 10963.8,
-        ["points"] = 9451.5,
+        ["points"] = 9451.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -27066,7 +27066,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1349,
         ["dps_max"] = 15711.59,
-        ["points"] = 9482.166840770034,
+        ["points"] = 9482.244106236945,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5172,
@@ -27089,9 +27089,9 @@ UWULogsData[8][2] = {
         ["points"] = 1479.1029303936689,
       },
       ["Halion"] = {
-        ["rank_raids"] = 8186,
+        ["rank_raids"] = 8188,
         ["dps_max"] = 7652.19,
-        ["points"] = 7095.200000000001,
+        ["points"] = 7094.600000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -27143,7 +27143,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 822,
         ["dps_max"] = 16441.34,
-        ["points"] = 9662.736904939562,
+        ["points"] = 9662.787227693227,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2664,
@@ -27166,9 +27166,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1771,
+        ["rank_raids"] = 1772,
         ["dps_max"] = 10299.74,
-        ["points"] = 9042.6,
+        ["points"] = 9042.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 824,
@@ -27220,7 +27220,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1130,
         ["dps_max"] = 15982.35,
-        ["points"] = 9564.244142665273,
+        ["points"] = 9564.309161444346,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2576,
@@ -27297,7 +27297,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1864,
         ["dps_max"] = 15187.85,
-        ["points"] = 9335.920011938517,
+        ["points"] = 9336.019098776485,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2157,
@@ -27320,9 +27320,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 11473,
+        ["rank_raids"] = 11475,
         ["dps_max"] = 4939.62,
-        ["points"] = 6403.7,
+        ["points"] = 6403.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 602,
@@ -27374,7 +27374,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2623,
         ["dps_max"] = 14535.67,
-        ["points"] = 9061.334129234443,
+        ["points"] = 9061.474186809908,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2020,
@@ -27451,7 +27451,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3239,
         ["dps_max"] = 14172.93,
-        ["points"] = 8870.31786300552,
+        ["points"] = 8870.486421963593,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4356,
@@ -27474,9 +27474,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 271,
+        ["rank_raids"] = 272,
         ["dps_max"] = 11623.91,
-        ["points"] = 9754.199999999999,
+        ["points"] = 9753.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -27528,7 +27528,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2170,
         ["dps_max"] = 14889.24,
-        ["points"] = 9215.042530965527,
+        ["points"] = 9215.159653834677,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1135,
@@ -27551,9 +27551,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4424,
+        ["rank_raids"] = 4426,
         ["dps_max"] = 9134.92,
-        ["points"] = 8223.800000000001,
+        ["points"] = 8223.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 17,
@@ -27605,7 +27605,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 683,
         ["dps_max"] = 16721.55,
-        ["points"] = 9722.4294881361,
+        ["points"] = 9722.4709042077,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2504,
@@ -27628,9 +27628,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4146,
+        ["rank_raids"] = 4148,
         ["dps_max"] = 9250.51,
-        ["points"] = 8307.2,
+        ["points"] = 8306.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -27682,7 +27682,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2285,
         ["dps_max"] = 14797.28,
-        ["points"] = 9164.303835248471,
+        ["points"] = 9164.428528797374,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6343,
@@ -27759,12 +27759,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1012,
         ["dps_max"] = 16149.76,
-        ["points"] = 9600.059692583196,
+        ["points"] = 9600.119367353029,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 324,
         ["dps_max"] = 30857.62,
-        ["points"] = 9781.107683267224,
+        ["points"] = 9781.139835487662,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3897,
@@ -27782,9 +27782,9 @@ UWULogsData[8][2] = {
         ["points"] = 9867.866179364633,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2704,
+        ["rank_raids"] = 2705,
         ["dps_max"] = 9843.99,
-        ["points"] = 8739.800000000001,
+        ["points"] = 8739.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -27799,7 +27799,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Zoolock"] = {
-    ["percentile"] = 91.655,
+    ["percentile"] = 91.656,
     ["server"] = "Icecrown",
     ["overall_rank"] = 362,
     ["bosses"] = {
@@ -27836,7 +27836,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2371,
         ["dps_max"] = 14721.84,
-        ["points"] = 9131.472914490376,
+        ["points"] = 9131.602506714413,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2096,
@@ -27913,7 +27913,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2991,
         ["dps_max"] = 14306.92,
-        ["points"] = 8950.902850320848,
+        ["points"] = 8951.059385258131,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5257,
@@ -27936,9 +27936,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 11226,
+        ["rank_raids"] = 11228,
         ["dps_max"] = 5151.43,
-        ["points"] = 6428.4,
+        ["points"] = 6428.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -27990,12 +27990,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3952,
         ["dps_max"] = 13788.06,
-        ["points"] = 8656.9168780779,
+        ["points"] = 8657.117278424352,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 35,
         ["dps_max"] = 34649.24,
-        ["points"] = 9970.618480975467,
+        ["points"] = 9970.622796709753,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4439,
@@ -28013,9 +28013,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4829,
+        ["rank_raids"] = 4831,
         ["dps_max"] = 8992.98,
-        ["points"] = 8102.3,
+        ["points"] = 8101.700000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -28030,7 +28030,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Toraldaddy"] = {
-    ["percentile"] = 91.483,
+    ["percentile"] = 91.484,
     ["server"] = "Icecrown",
     ["overall_rank"] = 365,
     ["bosses"] = {
@@ -28067,12 +28067,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2091,
         ["dps_max"] = 14976.47,
-        ["points"] = 9244.888822563797,
+        ["points"] = 9245.001492091913,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 507,
         ["dps_max"] = 29748.3,
-        ["points"] = 9645.952695754371,
+        ["points"] = 9646.004700352527,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6319,
@@ -28090,9 +28090,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1341,
+        ["rank_raids"] = 1342,
         ["dps_max"] = 10568.31,
-        ["points"] = 9214.6,
+        ["points"] = 9214.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -28144,7 +28144,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2214,
         ["dps_max"] = 14848.72,
-        ["points"] = 9197.134756006566,
+        ["points"] = 9197.254550880334,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3433,
@@ -28167,9 +28167,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1278,
+        ["rank_raids"] = 1279,
         ["dps_max"] = 10610.49,
-        ["points"] = 9239.8,
+        ["points"] = 9239.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -28221,7 +28221,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1175,
         ["dps_max"] = 15911.08,
-        ["points"] = 9537.382480226832,
+        ["points"] = 9537.451507012833,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2298,
@@ -28244,9 +28244,9 @@ UWULogsData[8][2] = {
         ["points"] = 9429.29434917065,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2101,
+        ["rank_raids"] = 2102,
         ["dps_max"] = 10122.35,
-        ["points"] = 8920.7,
+        ["points"] = 8920.400000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -28298,7 +28298,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1135,
         ["dps_max"] = 15976.57,
-        ["points"] = 9561.259513505447,
+        ["points"] = 9561.324977618622,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1486,
@@ -28375,7 +28375,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 343,
         ["dps_max"] = 17770.15,
-        ["points"] = 9862.707058647962,
+        ["points"] = 9862.727544016712,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5378,
@@ -28398,9 +28398,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 467,
+        ["rank_raids"] = 468,
         ["dps_max"] = 11353.6,
-        ["points"] = 9620.8,
+        ["points"] = 9620.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -28452,7 +28452,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1575,
         ["dps_max"] = 15458.64,
-        ["points"] = 9417.997313833755,
+        ["points"] = 9418.084153983886,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 884,
@@ -28475,9 +28475,9 @@ UWULogsData[8][2] = {
         ["points"] = 9344.953612594883,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1438,
+        ["rank_raids"] = 1439,
         ["dps_max"] = 10505.76,
-        ["points"] = 9175.8,
+        ["points"] = 9175.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -28529,12 +28529,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3229,
         ["dps_max"] = 14177.31,
-        ["points"] = 8876.287121325175,
+        ["points"] = 8876.45478961504,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 558,
         ["dps_max"] = 29490.53,
-        ["points"] = 9600.411341266345,
+        ["points"] = 9600.470035252643,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1777,
@@ -28552,9 +28552,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5114,
+        ["rank_raids"] = 5116,
         ["dps_max"] = 8883.86,
-        ["points"] = 8016.8,
+        ["points"] = 8016.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 268,
@@ -28606,7 +28606,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1872,
         ["dps_max"] = 15185.78,
-        ["points"] = 9329.950753618863,
+        ["points"] = 9330.050731125037,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 756,
@@ -28629,91 +28629,14 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 14004,
+        ["rank_raids"] = 14008,
         ["dps_max"] = 3655.53,
-        ["points"] = 6150.599999999999,
+        ["points"] = 6150.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
         ["dps_max"] = nil,
         ["points"] = nil,
-      },
-      ["Valithria Dreamwalker"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-    },
-  },
-  ["Stukyskyline"] = {
-    ["percentile"] = 91.407,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 374,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 791,
-        ["dps_max"] = 18288.54,
-        ["points"] = 9615.2754116979,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 2994,
-        ["dps_max"] = 15512.22,
-        ["points"] = 8652.800000000001,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4158,
-        ["dps_max"] = 18586.9,
-        ["points"] = 8695.347533632286,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 1293,
-        ["dps_max"] = 17214.25,
-        ["points"] = 9483.943345954285,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 2903,
-        ["dps_max"] = 17623.53,
-        ["points"] = 8971.75141242938,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 5360,
-        ["dps_max"] = 14021.61,
-        ["points"] = 7943.0,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 929,
-        ["dps_max"] = 16288.18,
-        ["points"] = 9625.429040441726,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 750,
-        ["dps_max"] = 28432.23,
-        ["points"] = 9476.0,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 577,
-        ["dps_max"] = 14184.26,
-        ["points"] = 9562.5,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 1217,
-        ["dps_max"] = 12961.88,
-        ["points"] = 9264.2,
-      },
-      ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 565,
-        ["dps_max"] = 11441.23,
-        ["points"] = 9207.197076187798,
-      },
-      ["Halion"] = {
-        ["rank_raids"] = 5520,
-        ["dps_max"] = 8741.92,
-        ["points"] = 7895.000000000001,
-      },
-      ["Anub'arak"] = {
-        ["rank_raids"] = 1079,
-        ["dps_max"] = 7229.26,
-        ["points"] = 4305.588725945347,
       },
       ["Valithria Dreamwalker"] = {
         ["rank_raids"] = nil,
@@ -28725,7 +28648,7 @@ UWULogsData[8][2] = {
   ["Mezonwl"] = {
     ["percentile"] = 91.407,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 375,
+    ["overall_rank"] = 374,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3511,
@@ -28760,7 +28683,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4689,
         ["dps_max"] = 13443.55,
-        ["points"] = 8443.515893150276,
+        ["points"] = 8443.748134885109,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5888,
@@ -28783,14 +28706,91 @@ UWULogsData[8][2] = {
         ["points"] = 6761.315715490582,
       },
       ["Halion"] = {
-        ["rank_raids"] = 816,
+        ["rank_raids"] = 817,
         ["dps_max"] = 10944.66,
-        ["points"] = 9443.0,
+        ["points"] = 9442.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
         ["dps_max"] = nil,
         ["points"] = nil,
+      },
+      ["Valithria Dreamwalker"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+    },
+  },
+  ["Stukyskyline"] = {
+    ["percentile"] = 91.407,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 375,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 791,
+        ["dps_max"] = 18288.54,
+        ["points"] = 9615.2754116979,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 2994,
+        ["dps_max"] = 15512.22,
+        ["points"] = 8652.800000000001,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 4158,
+        ["dps_max"] = 18586.9,
+        ["points"] = 8695.347533632286,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 1293,
+        ["dps_max"] = 17214.25,
+        ["points"] = 9483.943345954285,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 2903,
+        ["dps_max"] = 17623.53,
+        ["points"] = 8971.75141242938,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 5360,
+        ["dps_max"] = 14021.61,
+        ["points"] = 7943.0,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 929,
+        ["dps_max"] = 16288.18,
+        ["points"] = 9625.48492987168,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 750,
+        ["dps_max"] = 28432.23,
+        ["points"] = 9476.0,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 577,
+        ["dps_max"] = 14184.26,
+        ["points"] = 9562.5,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 1217,
+        ["dps_max"] = 12961.88,
+        ["points"] = 9264.2,
+      },
+      ["Toravon the Ice Watcher"] = {
+        ["rank_raids"] = 565,
+        ["dps_max"] = 11441.23,
+        ["points"] = 9207.197076187798,
+      },
+      ["Halion"] = {
+        ["rank_raids"] = 5522,
+        ["dps_max"] = 8741.92,
+        ["points"] = 7894.400000000001,
+      },
+      ["Anub'arak"] = {
+        ["rank_raids"] = 1079,
+        ["dps_max"] = 7229.26,
+        ["points"] = 4305.588725945347,
       },
       ["Valithria Dreamwalker"] = {
         ["rank_raids"] = nil,
@@ -28837,7 +28837,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2282,
         ["dps_max"] = 14798.35,
-        ["points"] = 9167.288464408297,
+        ["points"] = 9167.412712623098,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 662,
@@ -28860,9 +28860,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1038,
+        ["rank_raids"] = 1039,
         ["dps_max"] = 10772.48,
-        ["points"] = 9335.8,
+        ["points"] = 9335.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -28914,7 +28914,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1716,
         ["dps_max"] = 15325.27,
-        ["points"] = 9377.704820176092,
+        ["points"] = 9377.797672336616,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5202,
@@ -28954,7 +28954,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Lamedot"] = {
-    ["percentile"] = 91.387,
+    ["percentile"] = 91.388,
     ["server"] = "Icecrown",
     ["overall_rank"] = 378,
     ["bosses"] = {
@@ -28991,7 +28991,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3017,
         ["dps_max"] = 14288.85,
-        ["points"] = 8943.44127742128,
+        ["points"] = 8943.598925693823,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 812,
@@ -29014,9 +29014,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4223,
+        ["rank_raids"] = 4225,
         ["dps_max"] = 9217.68,
-        ["points"] = 8284.1,
+        ["points"] = 8283.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -29068,7 +29068,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 800,
         ["dps_max"] = 16478.96,
-        ["points"] = 9676.167736158783,
+        ["points"] = 9676.216054908982,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2397,
@@ -29091,9 +29091,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5723,
+        ["rank_raids"] = 5725,
         ["dps_max"] = 8654.26,
-        ["points"] = 7834.1,
+        ["points"] = 7833.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -29145,7 +29145,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1968,
         ["dps_max"] = 15093.31,
-        ["points"] = 9292.642889121027,
+        ["points"] = 9292.748433303492,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2228,
@@ -29168,9 +29168,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1530,
+        ["rank_raids"] = 1531,
         ["dps_max"] = 10450.85,
-        ["points"] = 9139.0,
+        ["points"] = 9138.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 198,
@@ -29222,7 +29222,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1875,
         ["dps_max"] = 15184.47,
-        ["points"] = 9326.966124459037,
+        ["points"] = 9327.066547299315,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 680,
@@ -29245,9 +29245,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1982,
+        ["rank_raids"] = 1983,
         ["dps_max"] = 10180.94,
-        ["points"] = 8958.199999999999,
+        ["points"] = 8957.800000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -29299,7 +29299,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3642,
         ["dps_max"] = 13949.51,
-        ["points"] = 8764.363527831667,
+        ["points"] = 8764.547896150403,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2712,
@@ -29322,9 +29322,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4130,
+        ["rank_raids"] = 4132,
         ["dps_max"] = 9255.89,
-        ["points"] = 8312.0,
+        ["points"] = 8311.400000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -29376,7 +29376,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 767,
         ["dps_max"] = 16543.42,
-        ["points"] = 9692.583196537831,
+        ["points"] = 9692.629065950463,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 881,
@@ -29399,9 +29399,9 @@ UWULogsData[8][2] = {
         ["points"] = 9190.328928872645,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1371,
+        ["rank_raids"] = 1372,
         ["dps_max"] = 10548.86,
-        ["points"] = 9202.6,
+        ["points"] = 9202.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 549,
@@ -29453,7 +29453,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 654,
         ["dps_max"] = 16773.81,
-        ["points"] = 9732.875690195493,
+        ["points"] = 9732.915547597733,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 966,
@@ -29476,9 +29476,9 @@ UWULogsData[8][2] = {
         ["points"] = 8758.785493393309,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4082,
+        ["rank_raids"] = 4084,
         ["dps_max"] = 9278.51,
-        ["points"] = 8326.4,
+        ["points"] = 8325.800000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 315,
@@ -29530,7 +29530,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3186,
         ["dps_max"] = 14195.92,
-        ["points"] = 8891.21026712431,
+        ["points"] = 8891.375708743659,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2331,
@@ -29553,9 +29553,9 @@ UWULogsData[8][2] = {
         ["points"] = 9658.420016868147,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2096,
+        ["rank_raids"] = 2097,
         ["dps_max"] = 10123.04,
-        ["points"] = 8922.2,
+        ["points"] = 8921.9,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 986,
@@ -29607,12 +29607,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1283,
         ["dps_max"] = 15787.64,
-        ["points"] = 9503.059244888824,
+        ["points"] = 9503.13339301701,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 504,
         ["dps_max"] = 29759.51,
-        ["points"] = 9648.890847656823,
+        ["points"] = 9648.942420681551,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 885,
@@ -29630,9 +29630,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2234,
+        ["rank_raids"] = 2235,
         ["dps_max"] = 10050.62,
-        ["points"] = 8880.800000000001,
+        ["points"] = 8880.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -29684,12 +29684,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2207,
         ["dps_max"] = 14852.48,
-        ["points"] = 9200.119385166394,
+        ["points"] = 9200.238734706058,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 251,
         ["dps_max"] = 31410.59,
-        ["points"] = 9831.056265608931,
+        ["points"] = 9831.081081081082,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2243,
@@ -29707,9 +29707,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1179,
+        ["rank_raids"] = 1180,
         ["dps_max"] = 10682.9,
-        ["points"] = 9279.4,
+        ["points"] = 9279.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 7,
@@ -29761,7 +29761,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 858,
         ["dps_max"] = 16395.09,
-        ["points"] = 9652.290702880167,
+        ["points"] = 9652.342584303193,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1377,
@@ -29784,9 +29784,9 @@ UWULogsData[8][2] = {
         ["points"] = 9853.809389935339,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2322,
+        ["rank_raids"] = 2323,
         ["dps_max"] = 10003.8,
-        ["points"] = 8854.4,
+        ["points"] = 8854.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -29838,7 +29838,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 960,
         ["dps_max"] = 16221.24,
-        ["points"] = 9617.967467542157,
+        ["points"] = 9618.024470307371,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6522,
@@ -29861,9 +29861,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 722,
+        ["rank_raids"] = 723,
         ["dps_max"] = 11035.5,
-        ["points"] = 9490.0,
+        ["points"] = 9489.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -29915,7 +29915,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3749,
         ["dps_max"] = 13889.28,
-        ["points"] = 8727.055663333831,
+        ["points"] = 8727.245598328856,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2179,
@@ -29938,9 +29938,9 @@ UWULogsData[8][2] = {
         ["points"] = 9950.80123699747,
       },
       ["Halion"] = {
-        ["rank_raids"] = 524,
+        ["rank_raids"] = 525,
         ["dps_max"] = 11272.18,
-        ["points"] = 9589.0,
+        ["points"] = 9588.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 611,
@@ -29992,7 +29992,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1995,
         ["dps_max"] = 15063.58,
-        ["points"] = 9283.689001641545,
+        ["points"] = 9283.79588182632,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 704,
@@ -30015,9 +30015,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 10949,
+        ["rank_raids"] = 10951,
         ["dps_max"] = 5482.43,
-        ["points"] = 6456.1,
+        ["points"] = 6455.9,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -30032,7 +30032,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Xuzhazha"] = {
-    ["percentile"] = 91.223,
+    ["percentile"] = 91.224,
     ["server"] = "Icecrown",
     ["overall_rank"] = 392,
     ["bosses"] = {
@@ -30069,7 +30069,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5278,
         ["dps_max"] = 13193.62,
-        ["points"] = 8262.945828980748,
+        ["points"] = 8263.205013428827,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1036,
@@ -30092,9 +30092,9 @@ UWULogsData[8][2] = {
         ["points"] = 7461.34382906944,
       },
       ["Halion"] = {
-        ["rank_raids"] = 859,
+        ["rank_raids"] = 860,
         ["dps_max"] = 10899.23,
-        ["points"] = 9421.5,
+        ["points"] = 9421.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -30146,7 +30146,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 728,
         ["dps_max"] = 16621.86,
-        ["points"] = 9707.506342336965,
+        ["points"] = 9707.549985079082,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2349,
@@ -30169,9 +30169,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 948,
+        ["rank_raids"] = 949,
         ["dps_max"] = 10833.41,
-        ["points"] = 9377.0,
+        ["points"] = 9376.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -30186,7 +30186,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Panifear"] = {
-    ["percentile"] = 91.188,
+    ["percentile"] = 91.187,
     ["server"] = "Icecrown",
     ["overall_rank"] = 394,
     ["bosses"] = {
@@ -30223,12 +30223,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1331,
         ["dps_max"] = 15732.95,
-        ["points"] = 9489.628413669601,
+        ["points"] = 9489.704565801254,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8012,
+        ["rank_raids"] = 8013,
         ["dps_max"] = 16381.07,
-        ["points"] = 7147.400000000001,
+        ["points"] = 7147.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 172,
@@ -30246,9 +30246,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2519,
+        ["rank_raids"] = 2520,
         ["dps_max"] = 9920.66,
-        ["points"] = 8795.300000000001,
+        ["points"] = 8795.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 116,
@@ -30263,7 +30263,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Affliquell"] = {
-    ["percentile"] = 91.186,
+    ["percentile"] = 91.187,
     ["server"] = "Icecrown",
     ["overall_rank"] = 395,
     ["bosses"] = {
@@ -30300,7 +30300,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4275,
         ["dps_max"] = 13634.71,
-        ["points"] = 8568.870317863006,
+        ["points"] = 8569.083855565503,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 672,
@@ -30323,9 +30323,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 872,
+        ["rank_raids"] = 873,
         ["dps_max"] = 10891.35,
-        ["points"] = 9415.0,
+        ["points"] = 9414.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 240,
@@ -30377,7 +30377,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1158,
         ["dps_max"] = 15933.47,
-        ["points"] = 9547.828682286226,
+        ["points"] = 9547.896150402865,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2246,
@@ -30454,7 +30454,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2501,
         ["dps_max"] = 14623.99,
-        ["points"] = 9097.149679152366,
+        ["points"] = 9097.284392718591,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1002,
@@ -30477,9 +30477,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2160,
+        ["rank_raids"] = 2161,
         ["dps_max"] = 10092.93,
-        ["points"] = 8903.000000000002,
+        ["points"] = 8902.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 412,
@@ -30531,7 +30531,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 897,
         ["dps_max"] = 16343.35,
-        ["points"] = 9640.35218624086,
+        ["points"] = 9640.405849000299,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1587,
@@ -30554,9 +30554,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2281,
+        ["rank_raids"] = 2282,
         ["dps_max"] = 10024.71,
-        ["points"] = 8866.7,
+        ["points"] = 8866.400000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 475,
@@ -30608,7 +30608,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 775,
         ["dps_max"] = 16523.47,
-        ["points"] = 9688.10625279809,
+        ["points"] = 9688.152790211878,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2709,
@@ -30631,9 +30631,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3165,
+        ["rank_raids"] = 3166,
         ["dps_max"] = 9639.09,
-        ["points"] = 8601.5,
+        ["points"] = 8601.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -30648,7 +30648,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Lullita"] = {
-    ["percentile"] = 91.134,
+    ["percentile"] = 91.135,
     ["server"] = "Icecrown",
     ["overall_rank"] = 400,
     ["bosses"] = {
@@ -30685,12 +30685,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4690,
         ["dps_max"] = 13443.03,
-        ["points"] = 8442.023578570363,
+        ["points"] = 8442.256042972247,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 423,
         ["dps_max"] = 30251.94,
-        ["points"] = 9709.122961657118,
+        ["points"] = 9709.165687426557,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1493,
@@ -30708,9 +30708,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1609,
+        ["rank_raids"] = 1610,
         ["dps_max"] = 10410.2,
-        ["points"] = 9107.4,
+        ["points"] = 9107.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -30762,7 +30762,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1151,
         ["dps_max"] = 15952.24,
-        ["points"] = 9552.305626025967,
+        ["points"] = 9552.37242614145,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5973,
@@ -30839,7 +30839,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 658,
         ["dps_max"] = 16763.37,
-        ["points"] = 9729.891061035665,
+        ["points"] = 9729.931363772008,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1210,
@@ -30916,7 +30916,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2572,
         ["dps_max"] = 14566.6,
-        ["points"] = 9080.734218773317,
+        ["points"] = 9080.87138167711,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 674,
@@ -30939,9 +30939,9 @@ UWULogsData[8][2] = {
         ["points"] = 9779.308405960079,
       },
       ["Halion"] = {
-        ["rank_raids"] = 246,
+        ["rank_raids"] = 247,
         ["dps_max"] = 11658.64,
-        ["points"] = 9774.199999999999,
+        ["points"] = 9773.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -30993,7 +30993,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1195,
         ["dps_max"] = 15887.55,
-        ["points"] = 9531.413221907178,
+        ["points"] = 9531.483139361384,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2869,
@@ -31016,9 +31016,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2511,
+        ["rank_raids"] = 2512,
         ["dps_max"] = 9924.1,
-        ["points"] = 8797.7,
+        ["points"] = 8797.400000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -31070,7 +31070,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3630,
         ["dps_max"] = 13959.0,
-        ["points"] = 8774.809729891062,
+        ["points"] = 8774.992539540435,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1411,
@@ -31093,9 +31093,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5711,
+        ["rank_raids"] = 5713,
         ["dps_max"] = 8662.69,
-        ["points"] = 7837.700000000001,
+        ["points"] = 7837.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -31147,12 +31147,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4261,
         ["dps_max"] = 13641.03,
-        ["points"] = 8571.854947022832,
+        ["points"] = 8572.068039391226,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 639,
         ["dps_max"] = 29031.72,
-        ["points"] = 9541.648303217276,
+        ["points"] = 9541.715628672151,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1473,
@@ -31187,7 +31187,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Sagera"] = {
-    ["percentile"] = 91.061,
+    ["percentile"] = 91.062,
     ["server"] = "Icecrown",
     ["overall_rank"] = 407,
     ["bosses"] = {
@@ -31224,7 +31224,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2049,
         ["dps_max"] = 15011.61,
-        ["points"] = 9259.81196836293,
+        ["points"] = 9259.922411220532,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 679,
@@ -31247,9 +31247,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2181,
+        ["rank_raids"] = 2182,
         ["dps_max"] = 10076.15,
-        ["points"] = 8896.7,
+        ["points"] = 8896.400000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 329,
@@ -31301,7 +31301,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2128,
         ["dps_max"] = 14927.55,
-        ["points"] = 9232.950305924489,
+        ["points"] = 9233.064756789017,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1066,
@@ -31324,9 +31324,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2615,
+        ["rank_raids"] = 2616,
         ["dps_max"] = 9881.93,
-        ["points"] = 8766.5,
+        ["points"] = 8766.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -31341,7 +31341,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Kakass"] = {
-    ["percentile"] = 91.021,
+    ["percentile"] = 91.022,
     ["server"] = "Icecrown",
     ["overall_rank"] = 409,
     ["bosses"] = {
@@ -31378,12 +31378,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5144,
         ["dps_max"] = 13257.7,
-        ["points"] = 8295.776749738845,
+        ["points"] = 8296.031035511787,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 536,
         ["dps_max"] = 29618.21,
-        ["points"] = 9623.91655648597,
+        ["points"] = 9623.971797884842,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 498,
@@ -31401,9 +31401,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 12632,
+        ["rank_raids"] = 12636,
         ["dps_max"] = 4322.91,
-        ["points"] = 6287.8,
+        ["points"] = 6287.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -31455,12 +31455,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1673,
         ["dps_max"] = 15363.18,
-        ["points"] = 9395.612595135055,
+        ["points"] = 9395.702775290958,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 70,
         ["dps_max"] = 33635.06,
-        ["points"] = 9948.582341707066,
+        ["points"] = 9948.589894242068,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2158,
@@ -31478,9 +31478,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 749,
+        ["rank_raids"] = 750,
         ["dps_max"] = 11011.25,
-        ["points"] = 9476.5,
+        ["points"] = 9476.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 545,
@@ -31532,7 +31532,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1819,
         ["dps_max"] = 15225.19,
-        ["points"] = 9353.827786897478,
+        ["points"] = 9353.924201730826,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1027,
@@ -31555,9 +31555,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1145,
+        ["rank_raids"] = 1146,
         ["dps_max"] = 10705.73,
-        ["points"] = 9293.0,
+        ["points"] = 9292.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -31609,12 +31609,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3231,
         ["dps_max"] = 14176.29,
-        ["points"] = 8874.794806745262,
+        ["points"] = 8874.962697702178,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 489,
         ["dps_max"] = 29837.19,
-        ["points"] = 9666.519759071543,
+        ["points"] = 9666.5687426557,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1283,
@@ -31632,9 +31632,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4136,
+        ["rank_raids"] = 4138,
         ["dps_max"] = 9253.92,
-        ["points"] = 8310.2,
+        ["points"] = 8309.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -31686,7 +31686,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4947,
         ["dps_max"] = 13346.57,
-        ["points"] = 8365.915534994776,
+        ["points"] = 8366.159355416294,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4909,
@@ -31763,12 +31763,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5180,
         ["dps_max"] = 13239.44,
-        ["points"] = 8286.822862259365,
+        ["points"] = 8287.078484034617,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 459,
         ["dps_max"] = 30041.68,
-        ["points"] = 9684.148670486264,
+        ["points"] = 9684.195064629846,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1999,
@@ -31840,7 +31840,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4139,
         ["dps_max"] = 13695.65,
-        ["points"] = 8604.685867780929,
+        ["points"] = 8604.894061474186,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 713,
@@ -31863,9 +31863,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 599,
+        ["rank_raids"] = 600,
         ["dps_max"] = 11163.65,
-        ["points"] = 9551.5,
+        ["points"] = 9551.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 515,
@@ -31917,12 +31917,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2238,
         ["dps_max"] = 14826.1,
-        ["points"] = 9186.688553947171,
+        ["points"] = 9186.8099074903,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 618,
         ["dps_max"] = 29173.51,
-        ["points"] = 9556.339062729543,
+        ["points"] = 9556.404230317274,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 263,
@@ -31940,9 +31940,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2302,
+        ["rank_raids"] = 2303,
         ["dps_max"] = 10011.94,
-        ["points"] = 8860.4,
+        ["points"] = 8860.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -31994,7 +31994,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 868,
         ["dps_max"] = 16378.24,
-        ["points"] = 9647.813759140427,
+        ["points"] = 9647.866308564608,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4864,
@@ -32071,7 +32071,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1249,
         ["dps_max"] = 15818.7,
-        ["points"] = 9512.013132368304,
+        ["points"] = 9512.085944494182,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1546,
@@ -32094,9 +32094,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3197,
+        ["rank_raids"] = 3198,
         ["dps_max"] = 9627.49,
-        ["points"] = 8591.9,
+        ["points"] = 8591.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 842,
@@ -32148,12 +32148,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1856,
         ["dps_max"] = 15192.12,
-        ["points"] = 9338.904641098343,
+        ["points"] = 9339.003282602209,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 337,
         ["dps_max"] = 30768.1,
-        ["points"] = 9767.885999706185,
+        ["points"] = 9767.920094007051,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3034,
@@ -32171,9 +32171,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2241,
+        ["rank_raids"] = 2242,
         ["dps_max"] = 10047.49,
-        ["points"] = 8878.7,
+        ["points"] = 8878.400000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -32188,7 +32188,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Piercings"] = {
-    ["percentile"] = 90.756,
+    ["percentile"] = 90.757,
     ["server"] = "Icecrown",
     ["overall_rank"] = 420,
     ["bosses"] = {
@@ -32225,7 +32225,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3813,
         ["dps_max"] = 13859.25,
-        ["points"] = 8701.686315475303,
+        ["points"] = 8701.880035810205,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1480,
@@ -32302,7 +32302,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1461,
         ["dps_max"] = 15578.55,
-        ["points"] = 9447.843605432025,
+        ["points"] = 9447.925992241122,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1035,
@@ -32325,9 +32325,9 @@ UWULogsData[8][2] = {
         ["points"] = 9945.178521225751,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4235,
+        ["rank_raids"] = 4237,
         ["dps_max"] = 9213.62,
-        ["points"] = 8280.5,
+        ["points"] = 8279.9,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 720,
@@ -32379,7 +32379,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2793,
         ["dps_max"] = 14428.56,
-        ["points"] = 9016.564691837038,
+        ["points"] = 9016.711429424053,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2272,
@@ -32402,9 +32402,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1536,
+        ["rank_raids"] = 1537,
         ["dps_max"] = 10447.4,
-        ["points"] = 9136.599999999999,
+        ["points"] = 9136.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -32456,12 +32456,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2872,
         ["dps_max"] = 14383.95,
-        ["points"] = 8989.703029398597,
+        ["points"] = 8989.85377499254,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 403,
         ["dps_max"] = 30354.0,
-        ["points"] = 9722.344645218158,
+        ["points"] = 9722.385428907168,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 639,
@@ -32479,9 +32479,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 505,
+        ["rank_raids"] = 506,
         ["dps_max"] = 11296.55,
-        ["points"] = 9598.5,
+        ["points"] = 9598.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -32533,12 +32533,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 918,
         ["dps_max"] = 16302.77,
-        ["points"] = 9631.398298761378,
+        ["points"] = 9631.453297523127,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 214,
         ["dps_max"] = 31726.17,
-        ["points"] = 9861.906860584693,
+        ["points"] = 9861.92714453584,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1214,
@@ -32610,7 +32610,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2926,
         ["dps_max"] = 14348.04,
-        ["points"] = 8980.749141919117,
+        ["points"] = 8980.901223515368,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2434,
@@ -32633,9 +32633,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 588,
+        ["rank_raids"] = 589,
         ["dps_max"] = 11182.95,
-        ["points"] = 9557.0,
+        ["points"] = 9556.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -32687,7 +32687,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 786,
         ["dps_max"] = 16504.84,
-        ["points"] = 9679.15236531861,
+        ["points"] = 9679.200238734706,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 963,
@@ -32764,12 +32764,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6145,
         ["dps_max"] = 12866.19,
-        ["points"] = 7946.575138039098,
+        ["points"] = 7946.881527902119,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 313,
         ["dps_max"] = 30911.74,
-        ["points"] = 9788.453063023358,
+        ["points"] = 9788.484136310224,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1623,
@@ -32787,9 +32787,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1642,
+        ["rank_raids"] = 1643,
         ["dps_max"] = 10379.12,
-        ["points"] = 9094.2,
+        ["points"] = 9093.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -32804,7 +32804,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Sadaijin"] = {
-    ["percentile"] = 90.619,
+    ["percentile"] = 90.62,
     ["server"] = "Icecrown",
     ["overall_rank"] = 428,
     ["bosses"] = {
@@ -32841,7 +32841,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2618,
         ["dps_max"] = 14537.87,
-        ["points"] = 9065.811072974182,
+        ["points"] = 9065.950462548493,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3176,
@@ -32864,9 +32864,9 @@ UWULogsData[8][2] = {
         ["points"] = 1936.949889629738,
       },
       ["Halion"] = {
-        ["rank_raids"] = 962,
+        ["rank_raids"] = 963,
         ["dps_max"] = 10828.4,
-        ["points"] = 9370.0,
+        ["points"] = 9369.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -32918,7 +32918,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2783,
         ["dps_max"] = 14437.12,
-        ["points"] = 9018.057006416953,
+        ["points"] = 9018.203521336914,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3203,
@@ -32995,7 +32995,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1105,
         ["dps_max"] = 16020.31,
-        ["points"] = 9568.721086405014,
+        ["points"] = 9568.78543718293,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1317,
@@ -33018,9 +33018,9 @@ UWULogsData[8][2] = {
         ["points"] = 5182.738262580826,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5999,
+        ["rank_raids"] = 6001,
         ["dps_max"] = 8546.93,
-        ["points"] = 7751.300000000001,
+        ["points"] = 7750.700000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -33072,7 +33072,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2016,
         ["dps_max"] = 15049.47,
-        ["points"] = 9274.735114162066,
+        ["points"] = 9274.84333034915,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1572,
@@ -33095,9 +33095,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1268,
+        ["rank_raids"] = 1269,
         ["dps_max"] = 10617.32,
-        ["points"] = 9243.8,
+        ["points"] = 9243.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -33149,7 +33149,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 293,
         ["dps_max"] = 17940.92,
-        ["points"] = 9874.645575287272,
+        ["points"] = 9874.664279319606,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6314,
@@ -33226,7 +33226,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 317,
         ["dps_max"] = 17855.19,
-        ["points"] = 9873.153260707357,
+        ["points"] = 9873.172187406744,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1358,
@@ -33249,9 +33249,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 566,
+        ["rank_raids"] = 567,
         ["dps_max"] = 11210.75,
-        ["points"] = 9568.0,
+        ["points"] = 9567.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 86,
@@ -33303,7 +33303,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 776,
         ["dps_max"] = 16520.71,
-        ["points"] = 9686.613938218175,
+        ["points"] = 9686.660698299016,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2002,
@@ -33343,7 +33343,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Yungaffli"] = {
-    ["percentile"] = 90.394,
+    ["percentile"] = 90.395,
     ["server"] = "Icecrown",
     ["overall_rank"] = 435,
     ["bosses"] = {
@@ -33380,7 +33380,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1823,
         ["dps_max"] = 15221.8,
-        ["points"] = 9350.843157737652,
+        ["points"] = 9350.940017905103,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2110,
@@ -33403,9 +33403,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 188,
+        ["rank_raids"] = 189,
         ["dps_max"] = 11793.23,
-        ["points"] = 9821.8,
+        ["points"] = 9820.9,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 354,
@@ -33457,7 +33457,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 510,
         ["dps_max"] = 17180.13,
-        ["points"] = 9786.599015072377,
+        ["points"] = 9786.630856460759,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2847,
@@ -33480,9 +33480,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2345,
+        ["rank_raids"] = 2346,
         ["dps_max"] = 9996.68,
-        ["points"] = 8847.5,
+        ["points"] = 8847.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -33534,12 +33534,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6150,
         ["dps_max"] = 12864.4,
-        ["points"] = 7945.082823459185,
+        ["points"] = 7945.389435989257,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 659,
         ["dps_max"] = 28917.43,
-        ["points"] = 9522.55031585133,
+        ["points"] = 9522.62044653349,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 721,
@@ -33557,9 +33557,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1388,
+        ["rank_raids"] = 1389,
         ["dps_max"] = 10541.02,
-        ["points"] = 9195.8,
+        ["points"] = 9195.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -33611,7 +33611,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1290,
         ["dps_max"] = 15777.96,
-        ["points"] = 9500.074615728996,
+        ["points"] = 9500.149209191286,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1099,
@@ -33634,9 +33634,9 @@ UWULogsData[8][2] = {
         ["points"] = 9700.59038515603,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3873,
+        ["rank_raids"] = 3875,
         ["dps_max"] = 9353.75,
-        ["points"] = 8389.1,
+        ["points"] = 8388.500000000002,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -33688,7 +33688,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4527,
         ["dps_max"] = 13519.67,
-        ["points"] = 8494.254588867334,
+        ["points"] = 8494.479259922411,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5748,
@@ -33765,7 +33765,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4428,
         ["dps_max"] = 13565.74,
-        ["points"] = 8525.593195045516,
+        ["points"] = 8525.81319009251,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3262,
@@ -33788,9 +33788,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2307,
+        ["rank_raids"] = 2308,
         ["dps_max"] = 10009.99,
-        ["points"] = 8858.900000000001,
+        ["points"] = 8858.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 934,
@@ -33842,7 +33842,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 646,
         ["dps_max"] = 16807.09,
-        ["points"] = 9738.844948515147,
+        ["points"] = 9738.883915249178,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3130,
@@ -33865,9 +33865,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3301,
+        ["rank_raids"] = 3302,
         ["dps_max"] = 9579.11,
-        ["points"] = 8560.7,
+        ["points"] = 8560.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 952,
@@ -33882,7 +33882,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Sotona"] = {
-    ["percentile"] = 90.339,
+    ["percentile"] = 90.34,
     ["server"] = "Icecrown",
     ["overall_rank"] = 442,
     ["bosses"] = {
@@ -33919,12 +33919,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5307,
         ["dps_max"] = 13181.08,
-        ["points"] = 8255.484256081181,
+        ["points"] = 8255.744553864519,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 609,
         ["dps_max"] = 29206.37,
-        ["points"] = 9563.684442485677,
+        ["points"] = 9563.748531139836,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3316,
@@ -33942,9 +33942,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 11219,
+        ["rank_raids"] = 11221,
         ["dps_max"] = 5159.57,
-        ["points"] = 6429.099999999999,
+        ["points"] = 6428.9,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -33959,7 +33959,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Trustdealer"] = {
-    ["percentile"] = 90.319,
+    ["percentile"] = 90.32,
     ["server"] = "Icecrown",
     ["overall_rank"] = 443,
     ["bosses"] = {
@@ -33996,12 +33996,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2097,
         ["dps_max"] = 14967.41,
-        ["points"] = 9241.904193403969,
+        ["points"] = 9242.01730826619,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 653,
         ["dps_max"] = 28955.22,
-        ["points"] = 9525.488467753783,
+        ["points"] = 9525.558166862515,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1280,
@@ -34019,9 +34019,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 8054,
+        ["rank_raids"] = 8056,
         ["dps_max"] = 7706.31,
-        ["points"] = 7134.800000000001,
+        ["points"] = 7134.200000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 459,
@@ -34073,7 +34073,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4618,
         ["dps_max"] = 13477.59,
-        ["points"] = 8462.91598268915,
+        ["points"] = 8463.145329752313,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3471,
@@ -34096,9 +34096,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1917,
+        ["rank_raids"] = 1918,
         ["dps_max"] = 10223.65,
-        ["points"] = 8984.2,
+        ["points"] = 8983.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 585,
@@ -34150,7 +34150,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2131,
         ["dps_max"] = 14924.14,
-        ["points"] = 9231.457991344574,
+        ["points"] = 9231.572664876156,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1211,
@@ -34173,9 +34173,9 @@ UWULogsData[8][2] = {
         ["points"] = 1978.0082270949028,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3415,
+        ["rank_raids"] = 3416,
         ["dps_max"] = 9535.66,
-        ["points"] = 8526.5,
+        ["points"] = 8526.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -34227,7 +34227,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4968,
         ["dps_max"] = 13339.17,
-        ["points"] = 8355.469332935383,
+        ["points"] = 8355.714712026262,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3876,
@@ -34304,12 +34304,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4743,
         ["dps_max"] = 13421.83,
-        ["points"] = 8425.608118191314,
+        ["points"] = 8425.843031930766,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 331,
         ["dps_max"] = 30806.23,
-        ["points"] = 9775.231379462319,
+        ["points"] = 9775.264394829612,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7960,
@@ -34381,7 +34381,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2060,
         ["dps_max"] = 15004.72,
-        ["points"] = 9253.842710043278,
+        ["points"] = 9253.954043569083,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1160,
@@ -34404,9 +34404,9 @@ UWULogsData[8][2] = {
         ["points"] = 2023.5747965831713,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5324,
+        ["rank_raids"] = 5326,
         ["dps_max"] = 8812.48,
-        ["points"] = 7953.800000000001,
+        ["points"] = 7953.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -34458,12 +34458,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1581,
         ["dps_max"] = 15448.92,
-        ["points"] = 9416.504999253842,
+        ["points"] = 9416.592062071022,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 353,
         ["dps_max"] = 30607.45,
-        ["points"] = 9759.071543998825,
+        ["points"] = 9759.106933019977,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 339,
@@ -34535,12 +34535,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4294,
         ["dps_max"] = 13626.43,
-        ["points"] = 8562.901059543352,
+        ["points"] = 8563.115487914056,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 626,
         ["dps_max"] = 29134.56,
-        ["points"] = 9550.462758924636,
+        ["points"] = 9550.528789659224,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2657,
@@ -34558,9 +34558,9 @@ UWULogsData[8][2] = {
         ["points"] = 9409.614843969637,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2751,
+        ["rank_raids"] = 2752,
         ["dps_max"] = 9821.25,
-        ["points"] = 8725.7,
+        ["points"] = 8725.400000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 129,
@@ -34612,7 +34612,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1824,
         ["dps_max"] = 15221.7,
-        ["points"] = 9349.350843157737,
+        ["points"] = 9349.447925992241,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1903,
@@ -34635,9 +34635,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1023,
+        ["rank_raids"] = 1024,
         ["dps_max"] = 10780.05,
-        ["points"] = 9341.8,
+        ["points"] = 9341.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 747,
@@ -34689,7 +34689,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5784,
         ["dps_max"] = 12996.91,
-        ["points"] = 8073.421877331742,
+        ["points"] = 8073.709340495374,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1820,
@@ -34712,9 +34712,9 @@ UWULogsData[8][2] = {
         ["points"] = 9971.886421141411,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1796,
+        ["rank_raids"] = 1797,
         ["dps_max"] = 10289.42,
-        ["points"] = 9032.6,
+        ["points"] = 9032.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -34766,7 +34766,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 443,
         ["dps_max"] = 17420.74,
-        ["points"] = 9822.4145649903,
+        ["points"] = 9822.441062369442,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4479,
@@ -34843,12 +34843,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4957,
         ["dps_max"] = 13343.0,
-        ["points"] = 8359.946276675124,
+        ["points"] = 8360.190987764847,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 629,
         ["dps_max"] = 29086.99,
-        ["points"] = 9548.99368297341,
+        ["points"] = 9549.059929494711,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2313,
@@ -34883,7 +34883,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Saftnatt"] = {
-    ["percentile"] = 90.1,
+    ["percentile"] = 90.101,
     ["server"] = "Icecrown",
     ["overall_rank"] = 455,
     ["bosses"] = {
@@ -34920,7 +34920,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2298,
         ["dps_max"] = 14785.75,
-        ["points"] = 9159.82689150873,
+        ["points"] = 9159.95225305879,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 763,
@@ -34943,9 +34943,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1596,
+        ["rank_raids"] = 1597,
         ["dps_max"] = 10418.05,
-        ["points"] = 9112.6,
+        ["points"] = 9112.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -34997,7 +34997,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3254,
         ["dps_max"] = 14162.22,
-        ["points"] = 8865.840919265782,
+        ["points"] = 8866.010146225008,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1024,
@@ -35020,9 +35020,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 820,
+        ["rank_raids"] = 821,
         ["dps_max"] = 10943.06,
-        ["points"] = 9441.0,
+        ["points"] = 9440.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -35074,7 +35074,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1527,
         ["dps_max"] = 15497.43,
-        ["points"] = 9428.44351589315,
+        ["points"] = 9428.528797373918,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 758,
@@ -35097,9 +35097,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1880,
+        ["rank_raids"] = 1881,
         ["dps_max"] = 10244.05,
-        ["points"] = 8999.0,
+        ["points"] = 8998.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 966,
@@ -35151,7 +35151,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 989,
         ["dps_max"] = 16179.61,
-        ["points"] = 9607.521265482763,
+        ["points"] = 9607.57982691734,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2366,
@@ -35174,9 +35174,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4463,
+        ["rank_raids"] = 4465,
         ["dps_max"] = 9118.74,
-        ["points"] = 8212.1,
+        ["points"] = 8211.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -35228,7 +35228,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2019,
         ["dps_max"] = 15047.74,
-        ["points"] = 9273.242799582153,
+        ["points"] = 9273.351238436288,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3128,
@@ -35251,9 +35251,9 @@ UWULogsData[8][2] = {
         ["points"] = 3189.485521506888,
       },
       ["Halion"] = {
-        ["rank_raids"] = 701,
+        ["rank_raids"] = 702,
         ["dps_max"] = 11053.9,
-        ["points"] = 9500.5,
+        ["points"] = 9500.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -35305,7 +35305,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2003,
         ["dps_max"] = 15056.41,
-        ["points"] = 9282.196687061632,
+        ["points"] = 9282.303789913458,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2384,
@@ -35328,9 +35328,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2455,
+        ["rank_raids"] = 2456,
         ["dps_max"] = 9947.2,
-        ["points"] = 8814.5,
+        ["points"] = 8814.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 973,
@@ -35382,7 +35382,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 922,
         ["dps_max"] = 16294.59,
-        ["points"] = 9628.413669601552,
+        ["points"] = 9628.469113697403,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4509,
@@ -35405,9 +35405,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2958,
+        ["rank_raids"] = 2959,
         ["dps_max"] = 9728.44,
-        ["points"] = 8663.6,
+        ["points"] = 8663.300000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 125,
@@ -35459,7 +35459,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3166,
         ["dps_max"] = 14206.99,
-        ["points"] = 8895.687210864051,
+        ["points"] = 8895.851984482244,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2850,
@@ -35482,9 +35482,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3864,
+        ["rank_raids"] = 3866,
         ["dps_max"] = 9359.26,
-        ["points"] = 8391.800000000001,
+        ["points"] = 8391.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -35536,7 +35536,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2836,
         ["dps_max"] = 14403.49,
-        ["points"] = 9001.641546037905,
+        ["points"] = 9001.790510295434,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 849,
@@ -35559,9 +35559,9 @@ UWULogsData[8][2] = {
         ["points"] = 9709.024458813607,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1320,
+        ["rank_raids"] = 1321,
         ["dps_max"] = 10584.65,
-        ["points"] = 9223.0,
+        ["points"] = 9222.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 592,
@@ -35611,9 +35611,9 @@ UWULogsData[8][2] = {
         ["points"] = 9571.397332167067,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 12876,
+        ["rank_raids"] = 12877,
         ["dps_max"] = 10953.39,
-        ["points"] = 6263.4,
+        ["points"] = 6263.299999999999,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 842,
@@ -35690,12 +35690,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 724,
         ["dps_max"] = 16626.82,
-        ["points"] = 9710.49097149679,
+        ["points"] = 9710.534168904804,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 557,
         ["dps_max"] = 29501.33,
-        ["points"] = 9601.88041721757,
+        ["points"] = 9601.938895417155,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4879,
@@ -35713,9 +35713,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 495,
+        ["rank_raids"] = 496,
         ["dps_max"] = 11320.42,
-        ["points"] = 9604.0,
+        ["points"] = 9603.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 560,
@@ -35767,12 +35767,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4048,
         ["dps_max"] = 13739.39,
-        ["points"] = 8631.54753021937,
+        ["points"] = 8631.7517159057,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 428,
         ["dps_max"] = 30240.0,
-        ["points"] = 9703.24665785221,
+        ["points"] = 9703.290246768507,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1172,
@@ -35844,7 +35844,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1395,
         ["dps_max"] = 15658.01,
-        ["points"] = 9468.736009550814,
+        ["points"] = 9468.815279021188,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2107,
@@ -35867,9 +35867,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4062,
+        ["rank_raids"] = 4064,
         ["dps_max"] = 9284.47,
-        ["points"] = 8332.400000000001,
+        ["points"] = 8331.800000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -35921,7 +35921,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 455,
         ["dps_max"] = 17368.98,
-        ["points"] = 9816.445306670646,
+        ["points"] = 9816.472694717995,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3366,
@@ -35944,9 +35944,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2930,
+        ["rank_raids"] = 2931,
         ["dps_max"] = 9741.49,
-        ["points"] = 8672.0,
+        ["points"] = 8671.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 207,
@@ -35998,12 +35998,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1220,
         ["dps_max"] = 15861.04,
-        ["points"] = 9525.443963587524,
+        ["points"] = 9525.514771709937,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 391,
         ["dps_max"] = 30398.81,
-        ["points"] = 9731.159100925519,
+        ["points"] = 9731.198589894242,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3909,
@@ -36021,9 +36021,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4196,
+        ["rank_raids"] = 4198,
         ["dps_max"] = 9232.03,
-        ["points"] = 8292.2,
+        ["points"] = 8291.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -36038,7 +36038,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Bagsh"] = {
-    ["percentile"] = 89.924,
+    ["percentile"] = 89.925,
     ["server"] = "Icecrown",
     ["overall_rank"] = 470,
     ["bosses"] = {
@@ -36075,7 +36075,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7048,
         ["dps_max"] = 12570.72,
-        ["points"] = 7689.897030293986,
+        ["points"] = 7690.241718889884,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1809,
@@ -36152,7 +36152,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4420,
         ["dps_max"] = 13568.34,
-        ["points"] = 8533.054767945083,
+        ["points"] = 8533.273649656818,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1259,
@@ -36192,7 +36192,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Ahalkalakets"] = {
-    ["percentile"] = 89.881,
+    ["percentile"] = 89.882,
     ["server"] = "Icecrown",
     ["overall_rank"] = 472,
     ["bosses"] = {
@@ -36229,7 +36229,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3679,
         ["dps_max"] = 13926.3,
-        ["points"] = 8753.917325772272,
+        ["points"] = 8754.10325276037,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5445,
@@ -36252,9 +36252,9 @@ UWULogsData[8][2] = {
         ["points"] = 9935.338768625246,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1585,
+        ["rank_raids"] = 1586,
         ["dps_max"] = 10423.89,
-        ["points"] = 9117.0,
+        ["points"] = 9116.599999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 640,
@@ -36306,7 +36306,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1336,
         ["dps_max"] = 15726.75,
-        ["points"] = 9488.136099089688,
+        ["points"] = 9488.21247388839,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 727,
@@ -36329,9 +36329,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2863,
+        ["rank_raids"] = 2864,
         ["dps_max"] = 9771.41,
-        ["points"] = 8692.1,
+        ["points"] = 8691.800000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -36383,7 +36383,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4416,
         ["dps_max"] = 13570.93,
-        ["points"] = 8537.531711684822,
+        ["points"] = 8537.749925395405,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2887,
@@ -36406,9 +36406,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1711,
+        ["rank_raids"] = 1712,
         ["dps_max"] = 10337.87,
-        ["points"] = 9066.6,
+        ["points"] = 9066.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -36460,7 +36460,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2446,
         ["dps_max"] = 14662.57,
-        ["points"] = 9116.54976869124,
+        ["points"] = 9116.681587585796,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6621,
@@ -36483,9 +36483,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4567,
+        ["rank_raids"] = 4569,
         ["dps_max"] = 9082.98,
-        ["points"] = 8180.900000000001,
+        ["points"] = 8180.3,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -36537,7 +36537,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3855,
         ["dps_max"] = 13842.03,
-        ["points"] = 8689.747798835995,
+        ["points"] = 8689.943300507312,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1942,
@@ -36560,9 +36560,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1237,
+        ["rank_raids"] = 1238,
         ["dps_max"] = 10645.02,
-        ["points"] = 9256.2,
+        ["points"] = 9255.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1112,
@@ -36614,7 +36614,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 784,
         ["dps_max"] = 16508.94,
-        ["points"] = 9682.136994478436,
+        ["points"] = 9682.184422560429,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 709,
@@ -36637,9 +36637,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 633,
+        ["rank_raids"] = 634,
         ["dps_max"] = 11126.62,
-        ["points"] = 9534.5,
+        ["points"] = 9534.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -36654,7 +36654,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Fellbolt"] = {
-    ["percentile"] = 89.836,
+    ["percentile"] = 89.837,
     ["server"] = "Icecrown",
     ["overall_rank"] = 478,
     ["bosses"] = {
@@ -36691,7 +36691,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1511,
         ["dps_max"] = 15516.05,
-        ["points"] = 9429.935830473065,
+        ["points"] = 9430.02088928678,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5475,
@@ -36714,9 +36714,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1830,
+        ["rank_raids"] = 1831,
         ["dps_max"] = 10269.28,
-        ["points"] = 9019.0,
+        ["points"] = 9018.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -36768,12 +36768,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2270,
         ["dps_max"] = 14803.98,
-        ["points"] = 9174.750037307866,
+        ["points"] = 9174.873172187406,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 540,
         ["dps_max"] = 29601.75,
-        ["points"] = 9620.978404583517,
+        ["points"] = 9621.034077555816,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1770,
@@ -36791,9 +36791,9 @@ UWULogsData[8][2] = {
         ["points"] = 9888.951363508575,
       },
       ["Halion"] = {
-        ["rank_raids"] = 270,
+        ["rank_raids"] = 271,
         ["dps_max"] = 11624.19,
-        ["points"] = 9755.0,
+        ["points"] = 9754.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -36845,7 +36845,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1082,
         ["dps_max"] = 16050.52,
-        ["points"] = 9580.659603044322,
+        ["points"] = 9580.722172485825,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2073,
@@ -36868,9 +36868,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 411,
+        ["rank_raids"] = 412,
         ["dps_max"] = 11418.27,
-        ["points"] = 9654.4,
+        ["points"] = 9653.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -36922,7 +36922,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6829,
         ["dps_max"] = 12635.26,
-        ["points"] = 7752.574242650351,
+        ["points"] = 7752.90957923008,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1535,
@@ -36945,9 +36945,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4364,
+        ["rank_raids"] = 4366,
         ["dps_max"] = 9158.26,
-        ["points"] = 8241.800000000001,
+        ["points"] = 8241.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -36999,7 +36999,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1548,
         ["dps_max"] = 15482.17,
-        ["points"] = 9422.474257573496,
+        ["points"] = 9422.56042972247,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 823,
@@ -37022,9 +37022,9 @@ UWULogsData[8][2] = {
         ["points"] = 5694.405397807141,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2242,
+        ["rank_raids"] = 2243,
         ["dps_max"] = 10046.06,
-        ["points"] = 8878.400000000001,
+        ["points"] = 8878.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -37076,7 +37076,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2162,
         ["dps_max"] = 14896.66,
-        ["points"] = 9219.519474705268,
+        ["points"] = 9219.635929573262,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 871,
@@ -37099,9 +37099,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2540,
+        ["rank_raids"] = 2541,
         ["dps_max"] = 9917.49,
-        ["points"] = 8789.0,
+        ["points"] = 8788.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -37153,7 +37153,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2811,
         ["dps_max"] = 14419.13,
-        ["points"] = 9009.103118937472,
+        ["points"] = 9009.250969859744,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3361,
@@ -37176,9 +37176,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 6303,
+        ["rank_raids"] = 6305,
         ["dps_max"] = 8427.8,
-        ["points"] = 7660.1,
+        ["points"] = 7659.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1419,
@@ -37230,7 +37230,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2587,
         ["dps_max"] = 14559.14,
-        ["points"] = 9079.241904193404,
+        ["points"] = 9079.37928976425,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 939,
@@ -37307,7 +37307,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2409,
         ["dps_max"] = 14688.58,
-        ["points"] = 9126.995970750635,
+        ["points"] = 9127.126230975828,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2309,
@@ -37330,9 +37330,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 603,
+        ["rank_raids"] = 604,
         ["dps_max"] = 11160.24,
-        ["points"] = 9549.5,
+        ["points"] = 9549.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -37384,7 +37384,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1908,
         ["dps_max"] = 15151.23,
-        ["points"] = 9316.519922399642,
+        ["points"] = 9316.621903909281,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 700,
@@ -37407,9 +37407,9 @@ UWULogsData[8][2] = {
         ["points"] = 3649.142535844813,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2920,
+        ["rank_raids"] = 2921,
         ["dps_max"] = 9744.26,
-        ["points"] = 8675.0,
+        ["points"] = 8674.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -37424,7 +37424,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Everylocked"] = {
-    ["percentile"] = 89.633,
+    ["percentile"] = 89.634,
     ["server"] = "Icecrown",
     ["overall_rank"] = 488,
     ["bosses"] = {
@@ -37461,7 +37461,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5906,
         ["dps_max"] = 12955.84,
-        ["points"] = 8036.114012833906,
+        ["points"] = 8036.407042673829,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1119,
@@ -37484,9 +37484,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 658,
+        ["rank_raids"] = 659,
         ["dps_max"] = 11101.57,
-        ["points"] = 9522.0,
+        ["points"] = 9521.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 149,
@@ -37536,14 +37536,14 @@ UWULogsData[8][2] = {
         ["points"] = 8549.300000000001,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10601,
+        ["rank_raids"] = 10602,
         ["dps_max"] = 11537.88,
-        ["points"] = 6748.246530368601,
+        ["points"] = 6748.731721874067,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 572,
         ["dps_max"] = 29406.55,
-        ["points"] = 9590.127809607757,
+        ["points"] = 9590.188014101057,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1115,
@@ -37561,9 +37561,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2099,
+        ["rank_raids"] = 2100,
         ["dps_max"] = 10122.59,
-        ["points"] = 8921.300000000001,
+        ["points"] = 8921.000000000002,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -37615,12 +37615,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6688,
         ["dps_max"] = 12678.03,
-        ["points"] = 7792.866736308014,
+        ["points"] = 7793.19606087735,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 619,
         ["dps_max"] = 29172.28,
-        ["points"] = 9554.869986778316,
+        ["points"] = 9554.935370152762,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5078,
@@ -37692,7 +37692,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1690,
         ["dps_max"] = 15350.97,
-        ["points"] = 9389.643336815401,
+        ["points"] = 9389.734407639511,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1993,
@@ -37769,7 +37769,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3113,
         ["dps_max"] = 14231.69,
-        ["points"] = 8913.59498582301,
+        ["points"] = 8913.757087436587,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1998,
@@ -37792,9 +37792,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 192,
+        ["rank_raids"] = 193,
         ["dps_max"] = 11783.54,
-        ["points"] = 9818.2,
+        ["points"] = 9817.3,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -37846,7 +37846,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1397,
         ["dps_max"] = 15654.65,
-        ["points"] = 9467.243694970899,
+        ["points"] = 9467.323187108326,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2394,
@@ -37869,9 +37869,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1673,
+        ["rank_raids"] = 1674,
         ["dps_max"] = 10360.49,
-        ["points"] = 9081.8,
+        ["points"] = 9081.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -37923,7 +37923,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 653,
         ["dps_max"] = 16781.01,
-        ["points"] = 9734.368004775406,
+        ["points"] = 9734.407639510593,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3208,
@@ -37946,9 +37946,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1260,
+        ["rank_raids"] = 1261,
         ["dps_max"] = 10624.37,
-        ["points"] = 9247.0,
+        ["points"] = 9246.599999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 331,
@@ -38000,7 +38000,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2666,
         ["dps_max"] = 14507.37,
-        ["points"] = 9053.872556334876,
+        ["points"] = 9054.013727245598,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1079,
@@ -38023,9 +38023,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2431,
+        ["rank_raids"] = 2432,
         ["dps_max"] = 9956.16,
-        ["points"] = 8821.7,
+        ["points"] = 8821.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -38077,7 +38077,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2695,
         ["dps_max"] = 14490.9,
-        ["points"] = 9043.426354275482,
+        ["points"] = 9043.569083855566,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1191,
@@ -38100,9 +38100,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 12854,
+        ["rank_raids"] = 12858,
         ["dps_max"] = 4234.55,
-        ["points"] = 6265.6,
+        ["points"] = 6265.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -38154,7 +38154,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5704,
         ["dps_max"] = 13027.85,
-        ["points"] = 8106.252798089837,
+        ["points"] = 8106.535362578335,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 885,
@@ -38177,9 +38177,9 @@ UWULogsData[8][2] = {
         ["points"] = 9169.243744728705,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3108,
+        ["rank_raids"] = 3109,
         ["dps_max"] = 9664.32,
-        ["points"] = 8618.6,
+        ["points"] = 8618.300000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -38231,7 +38231,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4836,
         ["dps_max"] = 13387.31,
-        ["points"] = 8397.25414117296,
+        ["points"] = 8397.493285586392,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3015,
@@ -38254,9 +38254,9 @@ UWULogsData[8][2] = {
         ["points"] = 8986.505482147877,
       },
       ["Halion"] = {
-        ["rank_raids"] = 699,
+        ["rank_raids"] = 700,
         ["dps_max"] = 11054.74,
-        ["points"] = 9501.5,
+        ["points"] = 9501.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 345,
@@ -38308,7 +38308,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1720,
         ["dps_max"] = 15319.3,
-        ["points"] = 9374.720191016266,
+        ["points"] = 9374.813488510892,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2705,
@@ -38331,9 +38331,9 @@ UWULogsData[8][2] = {
         ["points"] = 9912.847905538376,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2523,
+        ["rank_raids"] = 2524,
         ["dps_max"] = 9920.32,
-        ["points"] = 8794.1,
+        ["points"] = 8793.800000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -38385,7 +38385,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 992,
         ["dps_max"] = 16177.56,
-        ["points"] = 9606.02895090285,
+        ["points"] = 9606.087735004476,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2940,
@@ -38408,9 +38408,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 263,
+        ["rank_raids"] = 264,
         ["dps_max"] = 11639.41,
-        ["points"] = 9760.599999999999,
+        ["points"] = 9759.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -38462,7 +38462,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1873,
         ["dps_max"] = 15185.39,
-        ["points"] = 9328.45843903895,
+        ["points"] = 9328.558639212175,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5227,
@@ -38485,9 +38485,9 @@ UWULogsData[8][2] = {
         ["points"] = 7556.929997188642,
       },
       ["Halion"] = {
-        ["rank_raids"] = 11981,
+        ["rank_raids"] = 11985,
         ["dps_max"] = 4621.57,
-        ["points"] = 6352.900000000001,
+        ["points"] = 6352.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -38539,7 +38539,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2074,
         ["dps_max"] = 14990.87,
-        ["points"] = 9250.85808088345,
+        ["points"] = 9250.96985974336,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6090,
@@ -38562,9 +38562,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2688,
+        ["rank_raids"] = 2689,
         ["dps_max"] = 9848.15,
-        ["points"] = 8744.6,
+        ["points"] = 8744.300000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -38616,7 +38616,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4210,
         ["dps_max"] = 13661.99,
-        ["points"] = 8585.285778242052,
+        ["points"] = 8585.496866606984,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1355,
@@ -38639,9 +38639,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3128,
+        ["rank_raids"] = 3129,
         ["dps_max"] = 9655.84,
-        ["points"] = 8612.6,
+        ["points"] = 8612.300000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 237,
@@ -38693,12 +38693,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1651,
         ["dps_max"] = 15375.27,
-        ["points"] = 9398.597224294881,
+        ["points"] = 9398.686959116681,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 547,
         ["dps_max"] = 29551.72,
-        ["points"] = 9612.163948876158,
+        ["points"] = 9612.220916568742,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6368,
@@ -38716,9 +38716,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 13392,
+        ["rank_raids"] = 13396,
         ["dps_max"] = 4001.19,
-        ["points"] = 6211.799999999999,
+        ["points"] = 6211.400000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -38733,7 +38733,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Condenada"] = {
-    ["percentile"] = 89.226,
+    ["percentile"] = 89.227,
     ["server"] = "Icecrown",
     ["overall_rank"] = 506,
     ["bosses"] = {
@@ -38770,7 +38770,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4023,
         ["dps_max"] = 13749.95,
-        ["points"] = 8637.516788539024,
+        ["points"] = 8637.720083557146,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1164,
@@ -38793,9 +38793,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4796,
+        ["rank_raids"] = 4798,
         ["dps_max"] = 9005.16,
-        ["points"] = 8112.200000000001,
+        ["points"] = 8111.600000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -38847,12 +38847,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2310,
         ["dps_max"] = 14777.73,
-        ["points"] = 9155.34994776899,
+        ["points"] = 9155.475977320204,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 644,
         ["dps_max"] = 29011.44,
-        ["points"] = 9537.241075363596,
+        ["points"] = 9537.309048178613,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 9145,
@@ -38870,9 +38870,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 11331,
+        ["rank_raids"] = 11333,
         ["dps_max"] = 5066.16,
-        ["points"] = 6417.9,
+        ["points"] = 6417.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -38887,7 +38887,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Roxxinka"] = {
-    ["percentile"] = 89.206,
+    ["percentile"] = 89.207,
     ["server"] = "Icecrown",
     ["overall_rank"] = 508,
     ["bosses"] = {
@@ -38924,7 +38924,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2181,
         ["dps_max"] = 14880.9,
-        ["points"] = 9210.565587225787,
+        ["points"] = 9210.683378096091,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2262,
@@ -38947,9 +38947,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1026,
+        ["rank_raids"] = 1027,
         ["dps_max"] = 10778.74,
-        ["points"] = 9340.6,
+        ["points"] = 9340.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1299,
@@ -38994,19 +38994,19 @@ UWULogsData[8][2] = {
         ["points"] = 9379.943502824859,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 13207,
+        ["rank_raids"] = 13208,
         ["dps_max"] = 11773.63,
-        ["points"] = 6230.299999999999,
+        ["points"] = 6230.2,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3995,
         ["dps_max"] = 13765.3,
-        ["points"] = 8646.470676018505,
+        ["points"] = 8646.672635034318,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 211,
         ["dps_max"] = 31762.09,
-        ["points"] = 9863.375936535918,
+        ["points"] = 9863.396004700353,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 232,
@@ -39024,9 +39024,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 6882,
+        ["rank_raids"] = 6884,
         ["dps_max"] = 8201.92,
-        ["points"] = 7486.400000000001,
+        ["points"] = 7485.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -39078,7 +39078,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1623,
         ["dps_max"] = 15399.29,
-        ["points"] = 9406.058797194448,
+        ["points"] = 9406.147418680992,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 970,
@@ -39101,9 +39101,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 928,
+        ["rank_raids"] = 929,
         ["dps_max"] = 10847.38,
-        ["points"] = 9387.0,
+        ["points"] = 9386.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -39155,7 +39155,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3306,
         ["dps_max"] = 14138.92,
-        ["points"] = 8849.425458886733,
+        ["points"] = 8849.597135183527,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1774,
@@ -39178,9 +39178,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4985,
+        ["rank_raids"] = 4987,
         ["dps_max"] = 8933.89,
-        ["points"] = 8055.5,
+        ["points"] = 8054.900000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -39232,7 +39232,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 915,
         ["dps_max"] = 16314.31,
-        ["points"] = 9634.382927921206,
+        ["points"] = 9634.43748134885,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6014,
@@ -39255,9 +39255,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 382,
+        ["rank_raids"] = 383,
         ["dps_max"] = 11461.1,
-        ["points"] = 9673.6,
+        ["points"] = 9672.9,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -39309,7 +39309,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3359,
         ["dps_max"] = 14108.53,
-        ["points"] = 8838.979256827339,
+        ["points"] = 8839.152491793495,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1651,
@@ -39332,9 +39332,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1485,
+        ["rank_raids"] = 1486,
         ["dps_max"] = 10477.1,
-        ["points"] = 9157.0,
+        ["points"] = 9156.599999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -39386,12 +39386,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 194,
         ["dps_max"] = 18535.68,
-        ["points"] = 9916.430383524847,
+        ["points"] = 9916.442852879738,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 10870,
+        ["rank_raids"] = 10871,
         ["dps_max"] = 15806.92,
-        ["points"] = 6464.0,
+        ["points"] = 6463.900000000001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2188,
@@ -39409,9 +39409,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1613,
+        ["rank_raids"] = 1614,
         ["dps_max"] = 10408.84,
-        ["points"] = 9105.8,
+        ["points"] = 9105.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 26,
@@ -39426,7 +39426,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Warloktip"] = {
-    ["percentile"] = 89.128,
+    ["percentile"] = 89.129,
     ["server"] = "Icecrown",
     ["overall_rank"] = 515,
     ["bosses"] = {
@@ -39463,12 +39463,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3857,
         ["dps_max"] = 13840.98,
-        ["points"] = 8688.25548425608,
+        ["points"] = 8688.45120859445,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 518,
         ["dps_max"] = 29696.13,
-        ["points"] = 9638.607315998237,
+        ["points"] = 9638.660399529965,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1855,
@@ -39486,9 +39486,9 @@ UWULogsData[8][2] = {
         ["points"] = 2189.393741356901,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1665,
+        ["rank_raids"] = 1666,
         ["dps_max"] = 10366.66,
-        ["points"] = 9085.0,
+        ["points"] = 9084.599999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 256,
@@ -39503,7 +39503,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Tonto"] = {
-    ["percentile"] = 89.121,
+    ["percentile"] = 89.122,
     ["server"] = "Icecrown",
     ["overall_rank"] = 516,
     ["bosses"] = {
@@ -39540,7 +39540,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4758,
         ["dps_max"] = 13414.12,
-        ["points"] = 8419.63885987166,
+        ["points"] = 8419.87466427932,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2929,
@@ -39563,9 +39563,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 8187,
+        ["rank_raids"] = 8189,
         ["dps_max"] = 7651.07,
-        ["points"] = 7094.900000000001,
+        ["points"] = 7094.3,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -39580,7 +39580,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Haliiax"] = {
-    ["percentile"] = 89.111,
+    ["percentile"] = 89.112,
     ["server"] = "Icecrown",
     ["overall_rank"] = 517,
     ["bosses"] = {
@@ -39617,12 +39617,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4443,
         ["dps_max"] = 13556.75,
-        ["points"] = 8522.608565885688,
+        ["points"] = 8522.829006266786,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 615,
         ["dps_max"] = 29185.76,
-        ["points"] = 9560.746290583224,
+        ["points"] = 9560.81081081081,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 435,
@@ -39657,7 +39657,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Todzerol"] = {
-    ["percentile"] = 89.098,
+    ["percentile"] = 89.099,
     ["server"] = "Icecrown",
     ["overall_rank"] = 518,
     ["bosses"] = {
@@ -39694,12 +39694,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4750,
         ["dps_max"] = 13416.98,
-        ["points"] = 8422.623489031488,
+        ["points"] = 8422.858848105043,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 648,
         ["dps_max"] = 28975.02,
-        ["points"] = 9531.364771558689,
+        ["points"] = 9531.433607520565,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3377,
@@ -39771,7 +39771,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5440,
         ["dps_max"] = 13131.67,
-        ["points"] = 8204.745560364125,
+        ["points"] = 8205.013428827217,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 814,
@@ -39848,7 +39848,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5584,
         ["dps_max"] = 13075.53,
-        ["points"] = 8146.5452917475,
+        ["points"] = 8146.821844225605,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1775,
@@ -39871,9 +39871,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 10069,
+        ["rank_raids"] = 10071,
         ["dps_max"] = 6487.11,
-        ["points"] = 6544.099999999999,
+        ["points"] = 6543.900000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -39888,7 +39888,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Devinbooker"] = {
-    ["percentile"] = 89.008,
+    ["percentile"] = 89.009,
     ["server"] = "Icecrown",
     ["overall_rank"] = 521,
     ["bosses"] = {
@@ -39925,12 +39925,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6039,
         ["dps_max"] = 12907.84,
-        ["points"] = 7983.883002536934,
+        ["points"] = 7984.183825723664,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 275,
         ["dps_max"] = 31170.82,
-        ["points"] = 9811.958278242984,
+        ["points"] = 9811.985898942421,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6796,
@@ -39948,9 +39948,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 608,
+        ["rank_raids"] = 609,
         ["dps_max"] = 11157.13,
-        ["points"] = 9547.0,
+        ["points"] = 9546.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1063,
@@ -40002,7 +40002,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1710,
         ["dps_max"] = 15327.9,
-        ["points"] = 9382.181763915833,
+        ["points"] = 9382.2739480752,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 833,
@@ -40025,9 +40025,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4483,
+        ["rank_raids"] = 4485,
         ["dps_max"] = 9112.32,
-        ["points"] = 8206.1,
+        ["points"] = 8205.500000000002,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -40079,7 +40079,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1854,
         ["dps_max"] = 15192.87,
-        ["points"] = 9340.396955678258,
+        ["points"] = 9340.49537451507,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2922,
@@ -40156,7 +40156,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 862,
         ["dps_max"] = 16386.61,
-        ["points"] = 9650.798388300254,
+        ["points"] = 9650.850492390331,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6049,
@@ -40233,7 +40233,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1970,
         ["dps_max"] = 15091.44,
-        ["points"] = 9291.150574541114,
+        ["points"] = 9291.25634139063,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3521,
@@ -40256,9 +40256,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1693,
+        ["rank_raids"] = 1694,
         ["dps_max"] = 10353.39,
-        ["points"] = 9073.8,
+        ["points"] = 9073.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 343,
@@ -40273,7 +40273,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Woarlook"] = {
-    ["percentile"] = 88.932,
+    ["percentile"] = 88.933,
     ["server"] = "Icecrown",
     ["overall_rank"] = 526,
     ["bosses"] = {
@@ -40308,14 +40308,14 @@ UWULogsData[8][2] = {
         ["points"] = 8230.1,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10436,
+        ["rank_raids"] = 10437,
         ["dps_max"] = 11575.42,
-        ["points"] = 6793.015967766005,
+        ["points"] = 6793.494479259923,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 544,
         ["dps_max"] = 29575.39,
-        ["points"] = 9616.571176729836,
+        ["points"] = 9616.62749706228,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3256,
@@ -40333,9 +40333,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 774,
+        ["rank_raids"] = 775,
         ["dps_max"] = 10990.96,
-        ["points"] = 9464.0,
+        ["points"] = 9463.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1012,
@@ -40387,7 +40387,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5412,
         ["dps_max"] = 13142.26,
-        ["points"] = 8216.684077003432,
+        ["points"] = 8216.95016413011,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 890,
@@ -40410,9 +40410,9 @@ UWULogsData[8][2] = {
         ["points"] = 8525.442788867023,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3027,
+        ["rank_raids"] = 3028,
         ["dps_max"] = 9698.76,
-        ["points"] = 8642.9,
+        ["points"] = 8642.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 75,
@@ -40464,12 +40464,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 446,
         ["dps_max"] = 17415.28,
-        ["points"] = 9820.922250410387,
+        ["points"] = 9820.94897045658,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8602,
+        ["rank_raids"] = 8603,
         ["dps_max"] = 16245.07,
-        ["points"] = 6970.4000000000015,
+        ["points"] = 6970.100000000001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1739,
@@ -40487,9 +40487,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4684,
+        ["rank_raids"] = 4686,
         ["dps_max"] = 9043.58,
-        ["points"] = 8145.800000000001,
+        ["points"] = 8145.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -40541,7 +40541,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 233,
         ["dps_max"] = 18302.11,
-        ["points"] = 9898.522608565887,
+        ["points"] = 9898.537749925395,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6054,
@@ -40618,7 +40618,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3823,
         ["dps_max"] = 13856.18,
-        ["points"] = 8695.717057155649,
+        ["points"] = 8695.911668158758,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1407,
@@ -40641,9 +40641,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3281,
+        ["rank_raids"] = 3282,
         ["dps_max"] = 9588.87,
-        ["points"] = 8566.7,
+        ["points"] = 8566.400000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -40695,7 +40695,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2754,
         ["dps_max"] = 14455.7,
-        ["points"] = 9027.010893896433,
+        ["points"] = 9027.156072814085,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6925,
@@ -40718,9 +40718,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 239,
+        ["rank_raids"] = 240,
         ["dps_max"] = 11680.27,
-        ["points"] = 9779.8,
+        ["points"] = 9779.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 279,
@@ -40772,7 +40772,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 806,
         ["dps_max"] = 16467.38,
-        ["points"] = 9673.183106998955,
+        ["points"] = 9673.231871083259,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1131,
@@ -40849,7 +40849,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2884,
         ["dps_max"] = 14376.42,
-        ["points"] = 8988.210714818684,
+        ["points"] = 8988.361683079678,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4766,
@@ -40926,7 +40926,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 652,
         ["dps_max"] = 16793.52,
-        ["points"] = 9735.86031935532,
+        ["points"] = 9735.899731423455,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2840,
@@ -40949,9 +40949,9 @@ UWULogsData[8][2] = {
         ["points"] = 2980.0393590104018,
       },
       ["Halion"] = {
-        ["rank_raids"] = 990,
+        ["rank_raids"] = 991,
         ["dps_max"] = 10803.99,
-        ["points"] = 9356.0,
+        ["points"] = 9355.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -41003,7 +41003,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3218,
         ["dps_max"] = 14181.45,
-        ["points"] = 8879.271750485002,
+        ["points"] = 8879.438973440765,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 686,
@@ -41026,9 +41026,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2003,
+        ["rank_raids"] = 2004,
         ["dps_max"] = 10168.54,
-        ["points"] = 8950.1,
+        ["points"] = 8949.800000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -41043,7 +41043,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Secreets"] = {
-    ["percentile"] = 88.801,
+    ["percentile"] = 88.802,
     ["server"] = "Icecrown",
     ["overall_rank"] = 536,
     ["bosses"] = {
@@ -41080,7 +41080,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6615,
         ["dps_max"] = 12700.18,
-        ["points"] = 7813.759140426801,
+        ["points"] = 7814.085347657416,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 916,
@@ -41103,9 +41103,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 11489,
+        ["rank_raids"] = 11491,
         ["dps_max"] = 4916.73,
-        ["points"] = 6402.099999999999,
+        ["points"] = 6401.900000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -41157,7 +41157,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2696,
         ["dps_max"] = 14490.57,
-        ["points"] = 9041.934039695569,
+        ["points"] = 9042.076991942704,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 830,
@@ -41180,9 +41180,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2727,
+        ["rank_raids"] = 2728,
         ["dps_max"] = 9829.07,
-        ["points"] = 8732.9,
+        ["points"] = 8732.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -41234,12 +41234,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1236,
         ["dps_max"] = 15839.33,
-        ["points"] = 9517.982390687957,
+        ["points"] = 9518.054312145629,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 603,
         ["dps_max"] = 29225.75,
-        ["points"] = 9571.02982224181,
+        ["points"] = 9571.092831962396,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4171,
@@ -41257,9 +41257,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1049,
+        ["rank_raids"] = 1050,
         ["dps_max"] = 10765.22,
-        ["points"] = 9331.4,
+        ["points"] = 9331.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -41311,12 +41311,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2989,
         ["dps_max"] = 14307.66,
-        ["points"] = 8952.395164900761,
+        ["points"] = 8952.551477170993,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 465,
         ["dps_max"] = 29989.19,
-        ["points"] = 9678.272366681358,
+        ["points"] = 9678.319623971798,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4651,
@@ -41388,12 +41388,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5170,
         ["dps_max"] = 13245.14,
-        ["points"] = 8289.807491419191,
+        ["points"] = 8290.06266786034,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 506,
         ["dps_max"] = 29751.15,
-        ["points"] = 9647.421771705598,
+        ["points"] = 9647.473560517039,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2455,
@@ -41411,9 +41411,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 8162,
+        ["rank_raids"] = 8164,
         ["dps_max"] = 7661.12,
-        ["points"] = 7102.400000000001,
+        ["points"] = 7101.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -41465,7 +41465,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1944,
         ["dps_max"] = 15110.44,
-        ["points"] = 9303.089091180422,
+        ["points"] = 9303.193076693524,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2673,
@@ -41488,9 +41488,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2399,
+        ["rank_raids"] = 2400,
         ["dps_max"] = 9968.53,
-        ["points"] = 8831.300000000001,
+        ["points"] = 8831.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -41542,7 +41542,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3779,
         ["dps_max"] = 13876.89,
-        ["points"] = 8718.10177585435,
+        ["points"] = 8718.293046851686,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5165,
@@ -41565,9 +41565,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1651,
+        ["rank_raids"] = 1652,
         ["dps_max"] = 10375.61,
-        ["points"] = 9090.6,
+        ["points"] = 9090.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 183,
@@ -41619,7 +41619,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2101,
         ["dps_max"] = 14962.33,
-        ["points"] = 9238.919564244143,
+        ["points"] = 9239.033124440466,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3223,
@@ -41642,9 +41642,9 @@ UWULogsData[8][2] = {
         ["points"] = 9555.805454034298,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1679,
+        ["rank_raids"] = 1680,
         ["dps_max"] = 10358.02,
-        ["points"] = 9079.4,
+        ["points"] = 9079.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -41696,7 +41696,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3961,
         ["dps_max"] = 13785.33,
-        ["points"] = 8653.932248918072,
+        ["points"] = 8654.133094598626,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6777,
@@ -41719,9 +41719,9 @@ UWULogsData[8][2] = {
         ["points"] = 3248.524037109924,
       },
       ["Halion"] = {
-        ["rank_raids"] = 6984,
+        ["rank_raids"] = 6986,
         ["dps_max"] = 8161.92,
-        ["points"] = 7455.8,
+        ["points"] = 7455.200000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -41773,7 +41773,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4541,
         ["dps_max"] = 13510.47,
-        ["points"] = 8486.793015967767,
+        ["points"] = 8487.0188003581,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6299,
@@ -41796,9 +41796,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 9548,
+        ["rank_raids"] = 9550,
         ["dps_max"] = 6914.95,
-        ["points"] = 6686.6,
+        ["points"] = 6686.000000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -41813,7 +41813,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Tvdealer"] = {
-    ["percentile"] = 88.604,
+    ["percentile"] = 88.605,
     ["server"] = "Icecrown",
     ["overall_rank"] = 546,
     ["bosses"] = {
@@ -41850,12 +41850,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4986,
         ["dps_max"] = 13330.38,
-        ["points"] = 8352.484703775555,
+        ["points"] = 8352.730528200536,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 532,
         ["dps_max"] = 29635.71,
-        ["points"] = 9626.854708388424,
+        ["points"] = 9626.909518213866,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3187,
@@ -41873,9 +41873,9 @@ UWULogsData[8][2] = {
         ["points"] = 9952.2069159404,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1489,
+        ["rank_raids"] = 1490,
         ["dps_max"] = 10475.09,
-        ["points"] = 9155.4,
+        ["points"] = 9155.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -41927,7 +41927,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6342,
         ["dps_max"] = 12794.66,
-        ["points"] = 7888.374869422474,
+        ["points"] = 7888.689943300507,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2535,
@@ -41950,9 +41950,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2629,
+        ["rank_raids"] = 2630,
         ["dps_max"] = 9874.55,
-        ["points"] = 8762.300000000001,
+        ["points"] = 8762.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 171,
@@ -42004,7 +42004,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1978,
         ["dps_max"] = 15086.04,
-        ["points"] = 9288.165945381286,
+        ["points"] = 9288.272157564907,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2480,
@@ -42027,9 +42027,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 166,
+        ["rank_raids"] = 167,
         ["dps_max"] = 11859.69,
-        ["points"] = 9841.6,
+        ["points"] = 9840.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -42081,12 +42081,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5052,
         ["dps_max"] = 13298.55,
-        ["points"] = 8328.60767049694,
+        ["points"] = 8328.857057594747,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 266,
         ["dps_max"] = 31264.28,
-        ["points"] = 9822.241809901572,
+        ["points"] = 9822.267920094007,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6454,
@@ -42104,9 +42104,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 917,
+        ["rank_raids"] = 918,
         ["dps_max"] = 10857.34,
-        ["points"] = 9392.5,
+        ["points"] = 9392.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -42158,7 +42158,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2054,
         ["dps_max"] = 15009.77,
-        ["points"] = 9256.827339203104,
+        ["points"] = 9256.938227394807,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2200,
@@ -42235,12 +42235,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5786,
         ["dps_max"] = 12996.32,
-        ["points"] = 8071.929562751829,
+        ["points"] = 8072.217248582513,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 384,
         ["dps_max"] = 30436.93,
-        ["points"] = 9737.035404730424,
+        ["points"] = 9737.074030552292,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2951,
@@ -42275,7 +42275,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Kahelesi"] = {
-    ["percentile"] = 88.502,
+    ["percentile"] = 88.503,
     ["server"] = "Icecrown",
     ["overall_rank"] = 552,
     ["bosses"] = {
@@ -42312,12 +42312,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7008,
         ["dps_max"] = 12582.3,
-        ["points"] = 7703.327861513208,
+        ["points"] = 7703.67054610564,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 503,
         ["dps_max"] = 29762.37,
-        ["points"] = 9650.35992360805,
+        ["points"] = 9650.411280846063,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3636,
@@ -42335,9 +42335,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 845,
+        ["rank_raids"] = 846,
         ["dps_max"] = 10914.62,
-        ["points"] = 9428.5,
+        ["points"] = 9428.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -42389,12 +42389,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2719,
         ["dps_max"] = 14475.63,
-        ["points"] = 9034.472466796,
+        ["points"] = 9034.616532378395,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 316,
         ["dps_max"] = 30892.41,
-        ["points"] = 9786.983987072132,
+        ["points"] = 9787.01527614571,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4629,
@@ -42466,7 +42466,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4423,
         ["dps_max"] = 13566.93,
-        ["points"] = 8528.577824205342,
+        ["points"] = 8528.797373918233,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1582,
@@ -42543,12 +42543,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 582,
         ["dps_max"] = 16984.14,
-        ["points"] = 9765.70661095359,
+        ["points"] = 9765.741569680693,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 650,
         ["dps_max"] = 28963.25,
-        ["points"] = 9529.895695607463,
+        ["points"] = 9529.964747356053,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2900,
@@ -42566,9 +42566,9 @@ UWULogsData[8][2] = {
         ["points"] = 9484.115827944897,
       },
       ["Halion"] = {
-        ["rank_raids"] = 933,
+        ["rank_raids"] = 934,
         ["dps_max"] = 10844.2,
-        ["points"] = 9384.5,
+        ["points"] = 9384.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 441,
@@ -42620,7 +42620,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1880,
         ["dps_max"] = 15178.92,
-        ["points"] = 9323.98149529921,
+        ["points"] = 9324.08236347359,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1425,
@@ -42643,9 +42643,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1054,
+        ["rank_raids"] = 1055,
         ["dps_max"] = 10761.99,
-        ["points"] = 9329.4,
+        ["points"] = 9329.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -42697,7 +42697,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2166,
         ["dps_max"] = 14893.24,
-        ["points"] = 9218.027160125355,
+        ["points"] = 9218.1438376604,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2811,
@@ -42720,9 +42720,9 @@ UWULogsData[8][2] = {
         ["points"] = 8682.87883047512,
       },
       ["Halion"] = {
-        ["rank_raids"] = 171,
+        ["rank_raids"] = 172,
         ["dps_max"] = 11847.07,
-        ["points"] = 9837.1,
+        ["points"] = 9836.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1096,
@@ -42774,7 +42774,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2252,
         ["dps_max"] = 14819.03,
-        ["points"] = 9180.71929562752,
+        ["points"] = 9180.841539838855,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 753,
@@ -42797,9 +42797,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1825,
+        ["rank_raids"] = 1826,
         ["dps_max"] = 10270.63,
-        ["points"] = 9020.999999999998,
+        ["points"] = 9020.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -42851,7 +42851,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1870,
         ["dps_max"] = 15186.1,
-        ["points"] = 9331.443068198776,
+        ["points"] = 9331.5428230379,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4317,
@@ -42928,7 +42928,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4334,
         ["dps_max"] = 13612.56,
-        ["points"] = 8555.439486643785,
+        ["points"] = 8555.655028349747,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1094,
@@ -42951,9 +42951,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 789,
+        ["rank_raids"] = 790,
         ["dps_max"] = 10974.94,
-        ["points"] = 9456.5,
+        ["points"] = 9456.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -43005,12 +43005,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5103,
         ["dps_max"] = 13274.79,
-        ["points"] = 8306.22295179824,
+        ["points"] = 8306.47567890182,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8418,
+        ["rank_raids"] = 8419,
         ["dps_max"] = 16288.25,
-        ["points"] = 7025.6,
+        ["points"] = 7025.300000000001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3190,
@@ -43082,7 +43082,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5668,
         ["dps_max"] = 13042.11,
-        ["points"] = 8118.191314729145,
+        ["points"] = 8118.472097881229,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 968,
@@ -43105,9 +43105,9 @@ UWULogsData[8][2] = {
         ["points"] = 9575.484959235311,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4587,
+        ["rank_raids"] = 4589,
         ["dps_max"] = 9076.63,
-        ["points"] = 8174.900000000001,
+        ["points"] = 8174.300000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -43159,12 +43159,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5398,
         ["dps_max"] = 13145.44,
-        ["points"] = 8221.161020743173,
+        ["points"] = 8221.426439868696,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7940,
+        ["rank_raids"] = 7941,
         ["dps_max"] = 16398.18,
-        ["points"] = 7169.000000000001,
+        ["points"] = 7168.700000000001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2174,
@@ -43182,9 +43182,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 11452,
+        ["rank_raids"] = 11454,
         ["dps_max"] = 4960.12,
-        ["points"] = 6405.799999999999,
+        ["points"] = 6405.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -43199,7 +43199,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Muchomor"] = {
-    ["percentile"] = 88.27,
+    ["percentile"] = 88.271,
     ["server"] = "Icecrown",
     ["overall_rank"] = 564,
     ["bosses"] = {
@@ -43236,12 +43236,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4052,
         ["dps_max"] = 13737.45,
-        ["points"] = 8627.070586479631,
+        ["points"] = 8627.275440167115,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 551,
         ["dps_max"] = 29537.17,
-        ["points"] = 9607.756721022477,
+        ["points"] = 9607.814336075206,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1064,
@@ -43259,9 +43259,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1156,
+        ["rank_raids"] = 1157,
         ["dps_max"] = 10699.63,
-        ["points"] = 9288.6,
+        ["points"] = 9288.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -43313,7 +43313,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1828,
         ["dps_max"] = 15219.87,
-        ["points"] = 9347.858528577824,
+        ["points"] = 9347.95583407938,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3353,
@@ -43336,9 +43336,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4809,
+        ["rank_raids"] = 4811,
         ["dps_max"] = 8998.27,
-        ["points"] = 8108.3,
+        ["points"] = 8107.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1037,
@@ -43353,7 +43353,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Gabolock"] = {
-    ["percentile"] = 88.236,
+    ["percentile"] = 88.237,
     ["server"] = "Icecrown",
     ["overall_rank"] = 566,
     ["bosses"] = {
@@ -43390,12 +43390,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4055,
         ["dps_max"] = 13736.29,
-        ["points"] = 8625.578271899716,
+        ["points"] = 8625.783348254252,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 494,
         ["dps_max"] = 29813.32,
-        ["points"] = 9660.643455266638,
+        ["points"] = 9660.69330199765,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2378,
@@ -43413,9 +43413,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 7139,
+        ["rank_raids"] = 7141,
         ["dps_max"] = 8108.52,
-        ["points"] = 7409.300000000001,
+        ["points"] = 7408.700000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -43467,7 +43467,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2288,
         ["dps_max"] = 14793.15,
-        ["points"] = 9162.811520668556,
+        ["points"] = 9162.936436884513,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2106,
@@ -43490,9 +43490,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3495,
+        ["rank_raids"] = 3496,
         ["dps_max"] = 9499.18,
-        ["points"] = 8502.5,
+        ["points"] = 8502.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 498,
@@ -43544,7 +43544,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1085,
         ["dps_max"] = 16046.26,
-        ["points"] = 9577.674973884494,
+        ["points"] = 9577.737988660101,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 818,
@@ -43567,9 +43567,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 12662,
+        ["rank_raids"] = 12666,
         ["dps_max"] = 4308.37,
-        ["points"] = 6284.799999999999,
+        ["points"] = 6284.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -43584,7 +43584,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Randomboss"] = {
-    ["percentile"] = 88.22,
+    ["percentile"] = 88.221,
     ["server"] = "Icecrown",
     ["overall_rank"] = 569,
     ["bosses"] = {
@@ -43621,7 +43621,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4687,
         ["dps_max"] = 13444.31,
-        ["points"] = 8445.008207730189,
+        ["points"] = 8445.24022679797,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2786,
@@ -43644,9 +43644,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3491,
+        ["rank_raids"] = 3492,
         ["dps_max"] = 9500.37,
-        ["points"] = 8503.7,
+        ["points"] = 8503.400000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -43698,7 +43698,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 641,
         ["dps_max"] = 16813.97,
-        ["points"] = 9741.829577674975,
+        ["points"] = 9741.868099074904,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4636,
@@ -43721,9 +43721,9 @@ UWULogsData[8][2] = {
         ["points"] = 978.4749062463441,
       },
       ["Halion"] = {
-        ["rank_raids"] = 352,
+        ["rank_raids"] = 353,
         ["dps_max"] = 11494.14,
-        ["points"] = 9694.6,
+        ["points"] = 9693.9,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -43738,7 +43738,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Madeleines"] = {
-    ["percentile"] = 88.212,
+    ["percentile"] = 88.213,
     ["server"] = "Icecrown",
     ["overall_rank"] = 571,
     ["bosses"] = {
@@ -43775,12 +43775,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5956,
         ["dps_max"] = 12938.3,
-        ["points"] = 8021.190867034771,
+        ["points"] = 8021.486123545211,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 554,
         ["dps_max"] = 29529.23,
-        ["points"] = 9604.818569120023,
+        ["points"] = 9604.876615746181,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2875,
@@ -43798,9 +43798,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 8063,
+        ["rank_raids"] = 8065,
         ["dps_max"] = 7702.85,
-        ["points"] = 7132.100000000001,
+        ["points"] = 7131.500000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 453,
@@ -43852,7 +43852,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1956,
         ["dps_max"] = 15102.5,
-        ["points"] = 9297.119832860768,
+        ["points"] = 9297.224709042077,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2231,
@@ -43875,9 +43875,9 @@ UWULogsData[8][2] = {
         ["points"] = 8874.051166713523,
       },
       ["Halion"] = {
-        ["rank_raids"] = 738,
+        ["rank_raids"] = 739,
         ["dps_max"] = 11021.1,
-        ["points"] = 9482.0,
+        ["points"] = 9481.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 69,
@@ -43929,7 +43929,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3519,
         ["dps_max"] = 14015.22,
-        ["points"] = 8801.671392329503,
+        ["points"] = 8801.850193971948,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6692,
@@ -44006,12 +44006,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2154,
         ["dps_max"] = 14902.14,
-        ["points"] = 9223.99641844501,
+        ["points"] = 9224.112205311847,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 658,
         ["dps_max"] = 28917.76,
-        ["points"] = 9524.019391802556,
+        ["points"] = 9524.089306698002,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 741,
@@ -44029,9 +44029,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3105,
+        ["rank_raids"] = 3106,
         ["dps_max"] = 9664.93,
-        ["points"] = 8619.500000000002,
+        ["points"] = 8619.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -44083,12 +44083,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2510,
         ["dps_max"] = 14614.31,
-        ["points"] = 9095.657364572451,
+        ["points"] = 9095.79230080573,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 482,
         ["dps_max"] = 29860.17,
-        ["points"] = 9667.98883502277,
+        ["points"] = 9668.037602820212,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1729,
@@ -44106,9 +44106,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2016,
+        ["rank_raids"] = 2017,
         ["dps_max"] = 10163.27,
-        ["points"] = 8946.2,
+        ["points"] = 8945.900000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 484,
@@ -44160,7 +44160,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4419,
         ["dps_max"] = 13568.65,
-        ["points"] = 8534.547082524996,
+        ["points"] = 8534.765741569681,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2999,
@@ -44237,7 +44237,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1470,
         ["dps_max"] = 15569.56,
-        ["points"] = 9441.87434711237,
+        ["points"] = 9441.957624589675,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 703,
@@ -44260,9 +44260,9 @@ UWULogsData[8][2] = {
         ["points"] = 8247.118358166996,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2169,
+        ["rank_raids"] = 2170,
         ["dps_max"] = 10086.09,
-        ["points"] = 8900.300000000001,
+        ["points"] = 8900.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -44277,7 +44277,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Fleir"] = {
-    ["percentile"] = 88.132,
+    ["percentile"] = 88.133,
     ["server"] = "Icecrown",
     ["overall_rank"] = 578,
     ["bosses"] = {
@@ -44312,9 +44312,9 @@ UWULogsData[8][2] = {
         ["points"] = 8572.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 11174,
+        ["rank_raids"] = 11175,
         ["dps_max"] = 11390.84,
-        ["points"] = 6578.122668258469,
+        ["points"] = 6578.633243807819,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6290,
@@ -44337,9 +44337,9 @@ UWULogsData[8][2] = {
         ["points"] = 5957.267360134946,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1957,
+        ["rank_raids"] = 1958,
         ["dps_max"] = 10195.1,
-        ["points"] = 8968.199999999999,
+        ["points"] = 8967.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -44391,7 +44391,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2417,
         ["dps_max"] = 14683.06,
-        ["points"] = 9124.011341590807,
+        ["points"] = 9124.142047150104,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6572,
@@ -44414,9 +44414,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 315,
+        ["rank_raids"] = 316,
         ["dps_max"] = 11549.6,
-        ["points"] = 9720.5,
+        ["points"] = 9719.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -44468,7 +44468,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1436,
         ["dps_max"] = 15604.5,
-        ["points"] = 9453.81286375168,
+        ["points"] = 9453.894359892569,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3318,
@@ -44491,9 +44491,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1446,
+        ["rank_raids"] = 1447,
         ["dps_max"] = 10502.8,
-        ["points"] = 9172.6,
+        ["points"] = 9172.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -44508,7 +44508,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Destrodemon"] = {
-    ["percentile"] = 88.059,
+    ["percentile"] = 88.06,
     ["server"] = "Icecrown",
     ["overall_rank"] = 581,
     ["bosses"] = {
@@ -44545,7 +44545,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5078,
         ["dps_max"] = 13285.0,
-        ["points"] = 8318.161468437547,
+        ["points"] = 8318.412414204715,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2125,
@@ -44568,9 +44568,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 447,
+        ["rank_raids"] = 448,
         ["dps_max"] = 11376.06,
-        ["points"] = 9632.800000000001,
+        ["points"] = 9632.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -44622,7 +44622,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1096,
         ["dps_max"] = 16024.62,
-        ["points"] = 9571.705715564842,
+        ["points"] = 9571.769621008654,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1392,
@@ -44645,9 +44645,9 @@ UWULogsData[8][2] = {
         ["points"] = 9231.0936182176,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2061,
+        ["rank_raids"] = 2062,
         ["dps_max"] = 10136.81,
-        ["points"] = 8932.7,
+        ["points"] = 8932.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -44699,7 +44699,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1447,
         ["dps_max"] = 15592.95,
-        ["points"] = 9452.320549171765,
+        ["points"] = 9452.402267979707,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2314,
@@ -44722,9 +44722,9 @@ UWULogsData[8][2] = {
         ["points"] = 88.1162232500496,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4353,
+        ["rank_raids"] = 4355,
         ["dps_max"] = 9162.65,
-        ["points"] = 8245.1,
+        ["points"] = 8244.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -44776,12 +44776,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2275,
         ["dps_max"] = 14801.53,
-        ["points"] = 9171.765408148038,
+        ["points"] = 9171.888988361683,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 563,
         ["dps_max"] = 29472.74,
-        ["points"] = 9597.47318936389,
+        ["points"] = 9597.53231492362,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1584,
@@ -44799,9 +44799,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1986,
+        ["rank_raids"] = 1987,
         ["dps_max"] = 10179.67,
-        ["points"] = 8956.599999999999,
+        ["points"] = 8956.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -44853,7 +44853,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7225,
         ["dps_max"] = 12515.82,
-        ["points"] = 7633.189076257275,
+        ["points"] = 7633.542226201134,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 760,
@@ -44876,9 +44876,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3340,
+        ["rank_raids"] = 3341,
         ["dps_max"] = 9564.57,
-        ["points"] = 8549.000000000002,
+        ["points"] = 8548.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 319,
@@ -44930,12 +44930,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6537,
         ["dps_max"] = 12728.08,
-        ["points"] = 7840.620802865244,
+        ["points"] = 7840.943002088929,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 398,
         ["dps_max"] = 30369.61,
-        ["points"] = 9728.220949023063,
+        ["points"] = 9728.260869565218,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 772,
@@ -44953,9 +44953,9 @@ UWULogsData[8][2] = {
         ["points"] = 8602.755130728141,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1220,
+        ["rank_raids"] = 1221,
         ["dps_max"] = 10658.88,
-        ["points"] = 9263.0,
+        ["points"] = 9262.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -45007,7 +45007,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2399,
         ["dps_max"] = 14694.5,
-        ["points"] = 9128.488285330548,
+        ["points"] = 9128.61832288869,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1485,
@@ -45030,9 +45030,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 6777,
+        ["rank_raids"] = 6779,
         ["dps_max"] = 8244.51,
-        ["points"] = 7517.900000000001,
+        ["points"] = 7517.3,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -45084,7 +45084,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3759,
         ["dps_max"] = 13886.4,
-        ["points"] = 8722.57871959409,
+        ["points"] = 8722.769322590271,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1949,
@@ -45107,9 +45107,9 @@ UWULogsData[8][2] = {
         ["points"] = 9924.093337081811,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1457,
+        ["rank_raids"] = 1458,
         ["dps_max"] = 10497.42,
-        ["points"] = 9168.199999999999,
+        ["points"] = 9167.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 114,
@@ -45161,7 +45161,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3917,
         ["dps_max"] = 13808.68,
-        ["points"] = 8664.378450977465,
+        ["points"] = 8664.57773798866,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1502,
@@ -45184,9 +45184,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2783,
+        ["rank_raids"] = 2784,
         ["dps_max"] = 9809.5,
-        ["points"] = 8716.1,
+        ["points"] = 8715.800000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -45238,7 +45238,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3535,
         ["dps_max"] = 14007.11,
-        ["points"] = 8795.702134009849,
+        ["points"] = 8795.881826320501,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 865,
@@ -45315,12 +45315,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3027,
         ["dps_max"] = 14285.04,
-        ["points"] = 8940.456648261454,
+        ["points"] = 8940.6147418681,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 437,
         ["dps_max"] = 30187.2,
-        ["points"] = 9700.308505949757,
+        ["points"] = 9700.352526439483,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7166,
@@ -45338,9 +45338,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1638,
+        ["rank_raids"] = 1639,
         ["dps_max"] = 10382.18,
-        ["points"] = 9095.8,
+        ["points"] = 9095.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 913,
@@ -45355,7 +45355,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Biomolecule"] = {
-    ["percentile"] = 87.819,
+    ["percentile"] = 87.82,
     ["server"] = "Icecrown",
     ["overall_rank"] = 593,
     ["bosses"] = {
@@ -45392,7 +45392,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6705,
         ["dps_max"] = 12675.02,
-        ["points"] = 7783.912848828532,
+        ["points"] = 7784.243509400179,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1675,
@@ -45469,7 +45469,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4556,
         ["dps_max"] = 13505.45,
-        ["points"] = 8480.823757648113,
+        ["points"] = 8481.050432706656,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2723,
@@ -45492,9 +45492,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4844,
+        ["rank_raids"] = 4846,
         ["dps_max"] = 8985.03,
-        ["points"] = 8097.8,
+        ["points"] = 8097.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -45546,7 +45546,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2087,
         ["dps_max"] = 14979.07,
-        ["points"] = 9246.38113714371,
+        ["points"] = 9246.493584004775,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6341,
@@ -45569,9 +45569,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1842,
+        ["rank_raids"] = 1843,
         ["dps_max"] = 10261.17,
-        ["points"] = 9014.2,
+        ["points"] = 9013.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -45596,9 +45596,9 @@ UWULogsData[8][2] = {
         ["points"] = 9213.51504826803,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 19034,
+        ["rank_raids"] = 19035,
         ["dps_max"] = 9316.08,
-        ["points"] = 5647.599999999999,
+        ["points"] = 5647.5,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 305,
@@ -45623,12 +45623,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2488,
         ["dps_max"] = 14632.51,
-        ["points"] = 9101.626622892107,
+        ["points"] = 9101.760668457177,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 645,
         ["dps_max"] = 29002.65,
-        ["points"] = 9535.771999412369,
+        ["points"] = 9535.840188014101,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6982,
@@ -45700,12 +45700,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4152,
         ["dps_max"] = 13689.71,
-        ["points"] = 8597.224294881362,
+        ["points"] = 8597.433601909877,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 589,
         ["dps_max"] = 29329.37,
-        ["points"] = 9578.375201997944,
+        ["points"] = 9578.437132784959,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3648,
@@ -45777,7 +45777,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3095,
         ["dps_max"] = 14242.65,
-        ["points"] = 8924.041187882405,
+        ["points"] = 8924.201730826619,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1936,
@@ -45800,9 +45800,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3037,
+        ["rank_raids"] = 3038,
         ["dps_max"] = 9694.76,
-        ["points"] = 8639.9,
+        ["points"] = 8639.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 185,
@@ -45854,7 +45854,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3106,
         ["dps_max"] = 14233.53,
-        ["points"] = 8916.579614982838,
+        ["points"] = 8916.74127126231,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 778,
@@ -45877,9 +45877,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1700,
+        ["rank_raids"] = 1701,
         ["dps_max"] = 10346.58,
-        ["points"] = 9071.0,
+        ["points"] = 9070.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -45931,7 +45931,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5057,
         ["dps_max"] = 13296.94,
-        ["points"] = 8327.115355917027,
+        ["points"] = 8327.364965681885,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1329,
@@ -45954,9 +45954,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2057,
+        ["rank_raids"] = 2058,
         ["dps_max"] = 10138.31,
-        ["points"] = 8933.9,
+        ["points"] = 8933.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -46008,12 +46008,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6326,
         ["dps_max"] = 12799.56,
-        ["points"] = 7895.836442322042,
+        ["points"] = 7896.150402864817,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 451,
         ["dps_max"] = 30077.75,
-        ["points"] = 9691.494050242398,
+        ["points"] = 9691.539365452409,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1187,
@@ -46063,7 +46063,7 @@ UWULogsData[8][2] = {
         ["points"] = 8934.800000000001,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10023,
+        ["rank_raids"] = 10024,
         ["dps_max"] = 17311.13,
         ["points"] = 7648.532448028942,
       },
@@ -46085,7 +46085,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 903,
         ["dps_max"] = 16333.04,
-        ["points"] = 9638.859871660947,
+        ["points"] = 9638.913757087435,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2596,
@@ -46108,9 +46108,9 @@ UWULogsData[8][2] = {
         ["points"] = 8975.260050604442,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1555,
+        ["rank_raids"] = 1556,
         ["dps_max"] = 10438.88,
-        ["points"] = 9129.0,
+        ["points"] = 9128.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 111,
@@ -46125,7 +46125,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Smalltoes"] = {
-    ["percentile"] = 87.652,
+    ["percentile"] = 87.653,
     ["server"] = "Icecrown",
     ["overall_rank"] = 603,
     ["bosses"] = {
@@ -46162,7 +46162,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6019,
         ["dps_max"] = 12916.59,
-        ["points"] = 7989.852260856588,
+        ["points"] = 7990.152193375112,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 712,
@@ -46185,9 +46185,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5396,
+        ["rank_raids"] = 5398,
         ["dps_max"] = 8783.39,
-        ["points"] = 7932.200000000001,
+        ["points"] = 7931.600000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -46239,7 +46239,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 838,
         ["dps_max"] = 16423.66,
-        ["points"] = 9656.767646619906,
+        ["points"] = 9656.818860041778,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5531,
@@ -46262,9 +46262,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 12866,
+        ["rank_raids"] = 12870,
         ["dps_max"] = 4229.01,
-        ["points"] = 6264.4,
+        ["points"] = 6264.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 460,
@@ -46316,7 +46316,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5832,
         ["dps_max"] = 12980.87,
-        ["points"] = 8057.006416952693,
+        ["points"] = 8057.296329453895,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 858,
@@ -46339,9 +46339,9 @@ UWULogsData[8][2] = {
         ["points"] = 9921.281979195952,
       },
       ["Halion"] = {
-        ["rank_raids"] = 6887,
+        ["rank_raids"] = 6889,
         ["dps_max"] = 8197.3,
-        ["points"] = 7484.900000000001,
+        ["points"] = 7484.3,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -46393,7 +46393,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1463,
         ["dps_max"] = 15576.65,
-        ["points"] = 9446.351290852112,
+        ["points"] = 9446.43390032826,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1007,
@@ -46433,12 +46433,12 @@ UWULogsData[8][2] = {
     },
   },
   ["Nanshens"] = {
-    ["percentile"] = 87.544,
+    ["percentile"] = 87.545,
     ["server"] = "Icecrown",
     ["overall_rank"] = 607,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 25316,
+        ["rank_raids"] = 25317,
         ["dps_max"] = 11489.06,
         ["points"] = 5101.893006015753,
       },
@@ -46470,12 +46470,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3374,
         ["dps_max"] = 14100.59,
-        ["points"] = 8831.517683927772,
+        ["points"] = 8831.692032229186,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 334,
         ["dps_max"] = 30789.48,
-        ["points"] = 9772.293227559865,
+        ["points"] = 9772.326674500588,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1048,
@@ -46509,87 +46509,10 @@ UWULogsData[8][2] = {
       },
     },
   },
-  ["Ninyomuhlock"] = {
-    ["percentile"] = 87.513,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 608,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6490,
-        ["dps_max"] = 15372.27,
-        ["points"] = 7681.714934696195,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7076,
-        ["dps_max"] = 13659.03,
-        ["points"] = 7428.200000000001,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6844,
-        ["dps_max"] = 17952.11,
-        ["points"] = 8060.538116591929,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 2287,
-        ["dps_max"] = 16630.52,
-        ["points"] = 9138.970691347638,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 3259,
-        ["dps_max"] = 17499.16,
-        ["points"] = 8853.107344632768,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 972,
-        ["dps_max"] = 16478.52,
-        ["points"] = 9431.445440629783,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 2772,
-        ["dps_max"] = 14445.06,
-        ["points"] = 9024.026264736607,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1261,
-        ["dps_max"] = 25812.78,
-        ["points"] = 9246.599999999999,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 662,
-        ["dps_max"] = 14041.59,
-        ["points"] = 9520.0,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 1837,
-        ["dps_max"] = 12594.06,
-        ["points"] = 9016.199999999999,
-      },
-      ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Halion"] = {
-        ["rank_raids"] = 12050,
-        ["dps_max"] = 4588.36,
-        ["points"] = 6345.999999999999,
-      },
-      ["Anub'arak"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Valithria Dreamwalker"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-    },
-  },
   ["Yons"] = {
     ["percentile"] = 87.513,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 609,
+    ["overall_rank"] = 608,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2582,
@@ -46624,7 +46547,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8944,
         ["dps_max"] = 11978.28,
-        ["points"] = 7201.91016266229,
+        ["points"] = 7202.327663384065,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2843,
@@ -46647,9 +46570,86 @@ UWULogsData[8][2] = {
         ["points"] = 8625.245993815013,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1332,
+        ["rank_raids"] = 1333,
         ["dps_max"] = 10576.56,
-        ["points"] = 9218.199999999999,
+        ["points"] = 9217.8,
+      },
+      ["Anub'arak"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Valithria Dreamwalker"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+    },
+  },
+  ["Ninyomuhlock"] = {
+    ["percentile"] = 87.513,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 609,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 6490,
+        ["dps_max"] = 15372.27,
+        ["points"] = 7681.714934696195,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 7076,
+        ["dps_max"] = 13659.03,
+        ["points"] = 7428.200000000001,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 6844,
+        ["dps_max"] = 17952.11,
+        ["points"] = 8060.538116591929,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 2287,
+        ["dps_max"] = 16630.52,
+        ["points"] = 9138.970691347638,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 3259,
+        ["dps_max"] = 17499.16,
+        ["points"] = 8853.107344632768,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 972,
+        ["dps_max"] = 16478.52,
+        ["points"] = 9431.445440629783,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 2772,
+        ["dps_max"] = 14445.06,
+        ["points"] = 9024.171888988361,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 1261,
+        ["dps_max"] = 25812.78,
+        ["points"] = 9246.599999999999,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 662,
+        ["dps_max"] = 14041.59,
+        ["points"] = 9520.0,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 1837,
+        ["dps_max"] = 12594.06,
+        ["points"] = 9016.199999999999,
+      },
+      ["Toravon the Ice Watcher"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Halion"] = {
+        ["rank_raids"] = 12054,
+        ["dps_max"] = 4588.36,
+        ["points"] = 6345.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -46701,7 +46701,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 933,
         ["dps_max"] = 16277.81,
-        ["points"] = 9623.936725861811,
+        ["points"] = 9623.992837958818,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4925,
@@ -46724,9 +46724,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 958,
+        ["rank_raids"] = 959,
         ["dps_max"] = 10829.18,
-        ["points"] = 9372.0,
+        ["points"] = 9371.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -46778,12 +46778,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5071,
         ["dps_max"] = 13288.86,
-        ["points"] = 8319.65378301746,
+        ["points"] = 8319.904506117577,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 566,
         ["dps_max"] = 29443.57,
-        ["points"] = 9596.004113412664,
+        ["points"] = 9596.063454759107,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1518,
@@ -46801,9 +46801,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2590,
+        ["rank_raids"] = 2591,
         ["dps_max"] = 9893.53,
-        ["points"] = 8774.0,
+        ["points"] = 8773.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -46855,7 +46855,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2084,
         ["dps_max"] = 14981.52,
-        ["points"] = 9247.873451723624,
+        ["points"] = 9247.985675917636,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2797,
@@ -46878,86 +46878,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1818,
+        ["rank_raids"] = 1819,
         ["dps_max"] = 10273.49,
-        ["points"] = 9023.8,
-      },
-      ["Anub'arak"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-      ["Valithria Dreamwalker"] = {
-        ["rank_raids"] = nil,
-        ["dps_max"] = nil,
-        ["points"] = nil,
-      },
-    },
-  },
-  ["Desttypew"] = {
-    ["percentile"] = 87.46,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 613,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2091,
-        ["dps_max"] = 17041.8,
-        ["points"] = 9107.041453719477,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 3601,
-        ["dps_max"] = 15167.47,
-        ["points"] = 8470.7,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6549,
-        ["dps_max"] = 18013.76,
-        ["points"] = 8136.210762331838,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 4078,
-        ["dps_max"] = 15954.53,
-        ["points"] = 8568.22325059599,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 2100,
-        ["dps_max"] = 17961.46,
-        ["points"] = 9214.689265536723,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 2040,
-        ["dps_max"] = 15584.21,
-        ["points"] = 8945.98731685983,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 2988,
-        ["dps_max"] = 14307.87,
-        ["points"] = 8953.887479480674,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 899,
-        ["dps_max"] = 27732.41,
-        ["points"] = 9401.5,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 4718,
-        ["dps_max"] = 11295.64,
-        ["points"] = 8135.6,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 3788,
-        ["dps_max"] = 11824.05,
-        ["points"] = 8414.6,
-      },
-      ["Toravon the Ice Watcher"] = {
-        ["rank_raids"] = 3337,
-        ["dps_max"] = 7736.81,
-        ["points"] = 5310.655046387405,
-      },
-      ["Halion"] = {
-        ["rank_raids"] = 1563,
-        ["dps_max"] = 10435.36,
-        ["points"] = 9125.8,
+        ["points"] = 9023.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -46972,9 +46895,9 @@ UWULogsData[8][2] = {
     },
   },
   ["Invidiah"] = {
-    ["percentile"] = 87.46,
+    ["percentile"] = 87.461,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 614,
+    ["overall_rank"] = 613,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3118,
@@ -47009,7 +46932,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4859,
         ["dps_max"] = 13382.29,
-        ["points"] = 8392.777197433219,
+        ["points"] = 8393.017009847807,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 694,
@@ -47032,9 +46955,86 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 690,
+        ["rank_raids"] = 691,
         ["dps_max"] = 11061.38,
-        ["points"] = 9506.0,
+        ["points"] = 9505.5,
+      },
+      ["Anub'arak"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+      ["Valithria Dreamwalker"] = {
+        ["rank_raids"] = nil,
+        ["dps_max"] = nil,
+        ["points"] = nil,
+      },
+    },
+  },
+  ["Desttypew"] = {
+    ["percentile"] = 87.461,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 614,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 2091,
+        ["dps_max"] = 17041.8,
+        ["points"] = 9107.041453719477,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 3601,
+        ["dps_max"] = 15167.47,
+        ["points"] = 8470.7,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 6549,
+        ["dps_max"] = 18013.76,
+        ["points"] = 8136.210762331838,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 4078,
+        ["dps_max"] = 15954.53,
+        ["points"] = 8568.22325059599,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 2100,
+        ["dps_max"] = 17961.46,
+        ["points"] = 9214.689265536723,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 2040,
+        ["dps_max"] = 15584.21,
+        ["points"] = 8945.98731685983,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 2988,
+        ["dps_max"] = 14307.87,
+        ["points"] = 8954.043569083857,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 899,
+        ["dps_max"] = 27732.41,
+        ["points"] = 9401.5,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 4718,
+        ["dps_max"] = 11295.64,
+        ["points"] = 8135.6,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 3788,
+        ["dps_max"] = 11824.05,
+        ["points"] = 8414.6,
+      },
+      ["Toravon the Ice Watcher"] = {
+        ["rank_raids"] = 3337,
+        ["dps_max"] = 7736.81,
+        ["points"] = 5310.655046387405,
+      },
+      ["Halion"] = {
+        ["rank_raids"] = 1564,
+        ["dps_max"] = 10435.36,
+        ["points"] = 9125.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -47086,12 +47086,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3882,
         ["dps_max"] = 13826.51,
-        ["points"] = 8679.3015967766,
+        ["points"] = 8679.498657117278,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 458,
         ["dps_max"] = 30041.94,
-        ["points"] = 9685.61774643749,
+        ["points"] = 9685.66392479436,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3994,
@@ -47109,9 +47109,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2146,
+        ["rank_raids"] = 2147,
         ["dps_max"] = 10102.24,
-        ["points"] = 8907.2,
+        ["points"] = 8906.900000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 93,
@@ -47163,7 +47163,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1728,
         ["dps_max"] = 15314.36,
-        ["points"] = 9371.73556185644,
+        ["points"] = 9371.829304685169,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1097,
@@ -47186,9 +47186,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4535,
+        ["rank_raids"] = 4537,
         ["dps_max"] = 9092.0,
-        ["points"] = 8190.500000000001,
+        ["points"] = 8189.9000000000015,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 543,
@@ -47240,7 +47240,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3209,
         ["dps_max"] = 14187.91,
-        ["points"] = 8882.25637964483,
+        ["points"] = 8882.423157266488,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5619,
@@ -47263,9 +47263,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1838,
+        ["rank_raids"] = 1839,
         ["dps_max"] = 10263.14,
-        ["points"] = 9015.8,
+        ["points"] = 9015.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -47317,7 +47317,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2302,
         ["dps_max"] = 14781.93,
-        ["points"] = 9156.842262348902,
+        ["points"] = 9156.968069233064,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1732,
@@ -47340,9 +47340,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1028,
+        ["rank_raids"] = 1029,
         ["dps_max"] = 10777.35,
-        ["points"] = 9339.8,
+        ["points"] = 9339.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -47362,7 +47362,7 @@ UWULogsData[8][2] = {
     ["overall_rank"] = 619,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 26218,
+        ["rank_raids"] = 26219,
         ["dps_max"] = 11251.76,
         ["points"] = 4996.516307632462,
       },
@@ -47394,12 +47394,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4204,
         ["dps_max"] = 13666.92,
-        ["points"] = 8586.778092821967,
+        ["points"] = 8586.988958519845,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 555,
         ["dps_max"] = 29512.22,
-        ["points"] = 9603.349493168796,
+        ["points"] = 9603.40775558167,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3314,
@@ -47471,7 +47471,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5543,
         ["dps_max"] = 13093.29,
-        ["points"] = 8168.930010446203,
+        ["points"] = 8169.2032229185315,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2377,
@@ -47494,9 +47494,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1174,
+        ["rank_raids"] = 1175,
         ["dps_max"] = 10686.5,
-        ["points"] = 9281.4,
+        ["points"] = 9281.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -47548,7 +47548,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2013,
         ["dps_max"] = 15050.59,
-        ["points"] = 9277.719743321893,
+        ["points"] = 9277.827514174873,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1959,
@@ -47571,9 +47571,9 @@ UWULogsData[8][2] = {
         ["points"] = 9863.649142535845,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1529,
+        ["rank_raids"] = 1530,
         ["dps_max"] = 10452.19,
-        ["points"] = 9139.4,
+        ["points"] = 9139.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -47625,7 +47625,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 811,
         ["dps_max"] = 16457.23,
-        ["points"] = 9670.198477839129,
+        ["points"] = 9670.247687257535,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2891,
@@ -47702,12 +47702,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 629,
         ["dps_max"] = 16876.15,
-        ["points"] = 9747.798835994628,
+        ["points"] = 9747.83646672635,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8179,
+        ["rank_raids"] = 8180,
         ["dps_max"] = 16344.56,
-        ["points"] = 7097.300000000001,
+        ["points"] = 7097.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2159,
@@ -47779,7 +47779,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1605,
         ["dps_max"] = 15418.02,
-        ["points"] = 9412.028055514102,
+        ["points"] = 9412.115786332437,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2605,
@@ -47802,9 +47802,9 @@ UWULogsData[8][2] = {
         ["points"] = 9987.348889513636,
       },
       ["Halion"] = {
-        ["rank_raids"] = 6859,
+        ["rank_raids"] = 6861,
         ["dps_max"] = 8213.16,
-        ["points"] = 7493.3,
+        ["points"] = 7492.700000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -47856,7 +47856,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1288,
         ["dps_max"] = 15780.32,
-        ["points"] = 9501.566930308909,
+        ["points"] = 9501.641301104148,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5105,
@@ -47879,9 +47879,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1502,
+        ["rank_raids"] = 1503,
         ["dps_max"] = 10468.3,
-        ["points"] = 9150.199999999999,
+        ["points"] = 9149.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1172,
@@ -47933,7 +47933,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3719,
         ["dps_max"] = 13905.91,
-        ["points"] = 8737.501865393224,
+        ["points"] = 8737.69024171889,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 864,
@@ -47956,9 +47956,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2368,
+        ["rank_raids"] = 2369,
         ["dps_max"] = 9983.52,
-        ["points"] = 8840.6,
+        ["points"] = 8840.300000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -48010,7 +48010,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1169,
         ["dps_max"] = 15915.98,
-        ["points"] = 9538.874794806745,
+        ["points"] = 9538.943598925694,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1773,
@@ -48033,9 +48033,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3015,
+        ["rank_raids"] = 3016,
         ["dps_max"] = 9704.19,
-        ["points"] = 8646.5,
+        ["points"] = 8646.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -48080,19 +48080,19 @@ UWULogsData[8][2] = {
         ["points"] = 9204.802259887007,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8932,
+        ["rank_raids"] = 8933,
         ["dps_max"] = 12914.49,
-        ["points"] = 6871.400000000001,
+        ["points"] = 6871.100000000001,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4582,
         ["dps_max"] = 13495.94,
-        ["points"] = 8474.854499328458,
+        ["points"] = 8475.082065055207,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 635,
         ["dps_max"] = 29066.13,
-        ["points"] = 9544.58645511973,
+        ["points"] = 9544.653349001175,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2826,
@@ -48110,9 +48110,9 @@ UWULogsData[8][2] = {
         ["points"] = 6700.871520944616,
       },
       ["Halion"] = {
-        ["rank_raids"] = 9742,
+        ["rank_raids"] = 9744,
         ["dps_max"] = 6771.99,
-        ["points"] = 6628.400000000001,
+        ["points"] = 6627.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -48127,7 +48127,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Blackjhon"] = {
-    ["percentile"] = 87.252,
+    ["percentile"] = 87.253,
     ["server"] = "Icecrown",
     ["overall_rank"] = 629,
     ["bosses"] = {
@@ -48164,7 +48164,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3088,
         ["dps_max"] = 14246.03,
-        ["points"] = 8928.518131622146,
+        ["points"] = 8928.678006565206,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1492,
@@ -48187,9 +48187,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2741,
+        ["rank_raids"] = 2742,
         ["dps_max"] = 9824.0,
-        ["points"] = 8728.7,
+        ["points"] = 8728.400000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -48241,12 +48241,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1528,
         ["dps_max"] = 15497.34,
-        ["points"] = 9426.951201313237,
+        ["points"] = 9427.036705461056,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 608,
         ["dps_max"] = 29208.55,
-        ["points"] = 9565.153518436902,
+        ["points"] = 9565.217391304348,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5201,
@@ -48318,12 +48318,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 627,
         ["dps_max"] = 16878.46,
-        ["points"] = 9749.291150574541,
+        ["points"] = 9749.328558639212,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7251,
+        ["rank_raids"] = 7252,
         ["dps_max"] = 16564.23,
-        ["points"] = 7375.700000000001,
+        ["points"] = 7375.400000000001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3972,
@@ -48341,9 +48341,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5406,
+        ["rank_raids"] = 5408,
         ["dps_max"] = 8780.52,
-        ["points"] = 7929.200000000001,
+        ["points"] = 7928.600000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -48395,7 +48395,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5739,
         ["dps_max"] = 13015.88,
-        ["points"] = 8092.821966870616,
+        ["points"] = 8093.106535362579,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4633,
@@ -48418,9 +48418,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4709,
+        ["rank_raids"] = 4711,
         ["dps_max"] = 9031.6,
-        ["points"] = 8138.3,
+        ["points"] = 8137.700000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -48472,7 +48472,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4445,
         ["dps_max"] = 13556.36,
-        ["points"] = 8521.116251305775,
+        ["points"] = 8521.336914353924,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2403,
@@ -48512,7 +48512,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Lexzerg"] = {
-    ["percentile"] = 87.201,
+    ["percentile"] = 87.202,
     ["server"] = "Icecrown",
     ["overall_rank"] = 634,
     ["bosses"] = {
@@ -48549,12 +48549,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5460,
         ["dps_max"] = 13121.11,
-        ["points"] = 8198.77630204447,
+        ["points"] = 8199.045061175768,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 641,
         ["dps_max"] = 29016.92,
-        ["points"] = 9540.17922726605,
+        ["points"] = 9540.246768507637,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1589,
@@ -48572,9 +48572,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2284,
+        ["rank_raids"] = 2285,
         ["dps_max"] = 10022.45,
-        ["points"] = 8865.800000000001,
+        ["points"] = 8865.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -48626,7 +48626,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1714,
         ["dps_max"] = 15325.48,
-        ["points"] = 9379.197134756007,
+        ["points"] = 9379.289764249477,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2360,
@@ -48703,12 +48703,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6497,
         ["dps_max"] = 12738.37,
-        ["points"] = 7851.067004924638,
+        ["points"] = 7851.387645478961,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 228,
         ["dps_max"] = 31623.13,
-        ["points"] = 9853.092404877332,
+        ["points"] = 9853.113983548767,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4293,
@@ -48726,9 +48726,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5680,
+        ["rank_raids"] = 5682,
         ["dps_max"] = 8679.19,
-        ["points"] = 7847.000000000001,
+        ["points"] = 7846.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 61,
@@ -48780,7 +48780,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1933,
         ["dps_max"] = 15120.84,
-        ["points"] = 9307.566034920163,
+        ["points"] = 9307.669352432109,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3590,
@@ -48803,9 +48803,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5359,
+        ["rank_raids"] = 5361,
         ["dps_max"] = 8797.63,
-        ["points"] = 7943.300000000001,
+        ["points"] = 7942.700000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 38,
@@ -48857,12 +48857,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2869,
         ["dps_max"] = 14385.67,
-        ["points"] = 8991.19534397851,
+        ["points"] = 8991.345866905402,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 11641,
+        ["rank_raids"] = 11642,
         ["dps_max"] = 15657.18,
-        ["points"] = 6386.9,
+        ["points"] = 6386.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1102,
@@ -48880,9 +48880,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2779,
+        ["rank_raids"] = 2780,
         ["dps_max"] = 9810.02,
-        ["points"] = 8717.300000000001,
+        ["points"] = 8717.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -48934,7 +48934,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1233,
         ["dps_max"] = 15842.49,
-        ["points"] = 9520.967019847783,
+        ["points"] = 9521.038495971352,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 730,
@@ -48957,9 +48957,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2502,
+        ["rank_raids"] = 2503,
         ["dps_max"] = 9928.45,
-        ["points"] = 8800.4,
+        ["points"] = 8800.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 168,
@@ -49011,7 +49011,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3089,
         ["dps_max"] = 14245.57,
-        ["points"] = 8927.025817042233,
+        ["points"] = 8927.185914652342,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4489,
@@ -49034,9 +49034,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1545,
+        ["rank_raids"] = 1546,
         ["dps_max"] = 10443.39,
-        ["points"] = 9133.0,
+        ["points"] = 9132.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 322,
@@ -49088,7 +49088,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3539,
         ["dps_max"] = 14005.45,
-        ["points"] = 8794.209819429936,
+        ["points"] = 8794.38973440764,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1178,
@@ -49111,9 +49111,9 @@ UWULogsData[8][2] = {
         ["points"] = 9886.140005622716,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2693,
+        ["rank_raids"] = 2694,
         ["dps_max"] = 9847.06,
-        ["points"] = 8743.1,
+        ["points"] = 8742.800000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -49128,7 +49128,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Gowt"] = {
-    ["percentile"] = 87.056,
+    ["percentile"] = 87.057,
     ["server"] = "Icecrown",
     ["overall_rank"] = 642,
     ["bosses"] = {
@@ -49165,7 +49165,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6071,
         ["dps_max"] = 12891.87,
-        ["points"] = 7976.421429637368,
+        ["points"] = 7976.7233661593555,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2368,
@@ -49188,9 +49188,9 @@ UWULogsData[8][2] = {
         ["points"] = 9887.545684565644,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3094,
+        ["rank_raids"] = 3095,
         ["dps_max"] = 9671.3,
-        ["points"] = 8622.800000000001,
+        ["points"] = 8622.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 420,
@@ -49242,7 +49242,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4551,
         ["dps_max"] = 13506.44,
-        ["points"] = 8482.316072228026,
+        ["points"] = 8482.542524619515,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4801,
@@ -49265,9 +49265,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 12002,
+        ["rank_raids"] = 12006,
         ["dps_max"] = 4609.3,
-        ["points"] = 6350.8,
+        ["points"] = 6350.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -49319,7 +49319,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1876,
         ["dps_max"] = 15182.96,
-        ["points"] = 9325.473809879122,
+        ["points"] = 9325.574455386452,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 856,
@@ -49342,9 +49342,9 @@ UWULogsData[8][2] = {
         ["points"] = 5153.219004779308,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1903,
+        ["rank_raids"] = 1904,
         ["dps_max"] = 10231.85,
-        ["points"] = 8989.8,
+        ["points"] = 8989.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 120,
@@ -49374,7 +49374,7 @@ UWULogsData[8][2] = {
         ["points"] = 9543.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10633,
+        ["rank_raids"] = 10634,
         ["dps_max"] = 17210.84,
         ["points"] = 7604.221572932236,
       },
@@ -49396,7 +49396,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 817,
         ["dps_max"] = 16448.61,
-        ["points"] = 9665.721534099388,
+        ["points"] = 9665.77141151895,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5621,
@@ -49436,7 +49436,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Souldemoon"] = {
-    ["percentile"] = 87.012,
+    ["percentile"] = 87.013,
     ["server"] = "Icecrown",
     ["overall_rank"] = 646,
     ["bosses"] = {
@@ -49473,7 +49473,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8654,
         ["dps_max"] = 12065.34,
-        ["points"] = 7288.464408297269,
+        ["points"] = 7288.8689943300515,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1242,
@@ -49496,9 +49496,9 @@ UWULogsData[8][2] = {
         ["points"] = 807.4877791343423,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1695,
+        ["rank_raids"] = 1696,
         ["dps_max"] = 10352.67,
-        ["points"] = 9073.0,
+        ["points"] = 9072.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -49550,7 +49550,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4804,
         ["dps_max"] = 13398.99,
-        ["points"] = 8406.20802865244,
+        ["points"] = 8406.445837063564,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3154,
@@ -49627,12 +49627,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3153,
         ["dps_max"] = 14213.96,
-        ["points"] = 8904.64109834353,
+        ["points"] = 8904.804535959414,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 469,
         ["dps_max"] = 29961.2,
-        ["points"] = 9676.803290730131,
+        ["points"] = 9676.850763807286,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2681,
@@ -49650,9 +49650,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 11505,
+        ["rank_raids"] = 11507,
         ["dps_max"] = 4904.98,
-        ["points"] = 6400.5,
+        ["points"] = 6400.3,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -49704,7 +49704,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4703,
         ["dps_max"] = 13435.97,
-        ["points"] = 8436.054320250709,
+        ["points"] = 8436.2876753208,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2470,
@@ -49727,9 +49727,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2149,
+        ["rank_raids"] = 2150,
         ["dps_max"] = 10100.43,
-        ["points"] = 8906.300000000001,
+        ["points"] = 8906.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -49781,12 +49781,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1951,
         ["dps_max"] = 15106.15,
-        ["points"] = 9298.612147440681,
+        ["points"] = 9298.716800954939,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 16162,
+        ["rank_raids"] = 16163,
         ["dps_max"] = 14875.11,
-        ["points"] = 5934.8,
+        ["points"] = 5934.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3902,
@@ -49858,12 +49858,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4336,
         ["dps_max"] = 13610.65,
-        ["points"] = 8552.454857483957,
+        ["points"] = 8552.670844524024,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 377,
         ["dps_max"] = 30478.18,
-        ["points"] = 9742.911708535332,
+        ["points"] = 9742.94947121034,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5607,
@@ -49881,9 +49881,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1218,
+        ["rank_raids"] = 1219,
         ["dps_max"] = 10661.13,
-        ["points"] = 9263.8,
+        ["points"] = 9263.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -49935,7 +49935,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 265,
         ["dps_max"] = 18125.55,
-        ["points"] = 9888.076406506492,
+        ["points"] = 9888.093106535363,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2147,
@@ -49958,9 +49958,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1661,
+        ["rank_raids"] = 1662,
         ["dps_max"] = 10369.55,
-        ["points"] = 9086.6,
+        ["points"] = 9086.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -50012,7 +50012,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2780,
         ["dps_max"] = 14438.35,
-        ["points"] = 9021.04163557678,
+        ["points"] = 9021.187705162638,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1868,
@@ -50035,9 +50035,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2138,
+        ["rank_raids"] = 2139,
         ["dps_max"] = 10105.94,
-        ["points"] = 8909.6,
+        ["points"] = 8909.3,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 461,
@@ -50089,7 +50089,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1930,
         ["dps_max"] = 15124.76,
-        ["points"] = 9310.550664079989,
+        ["points"] = 9310.653536257834,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 773,
@@ -50112,9 +50112,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3256,
+        ["rank_raids"] = 3257,
         ["dps_max"] = 9601.9,
-        ["points"] = 8574.2,
+        ["points"] = 8573.900000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -50129,7 +50129,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Nymelock"] = {
-    ["percentile"] = 86.926,
+    ["percentile"] = 86.927,
     ["server"] = "Icecrown",
     ["overall_rank"] = 655,
     ["bosses"] = {
@@ -50166,7 +50166,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2046,
         ["dps_max"] = 15014.84,
-        ["points"] = 9262.796597522758,
+        ["points"] = 9262.906595046255,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1096,
@@ -50189,9 +50189,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 9794,
+        ["rank_raids"] = 9796,
         ["dps_max"] = 6734.4,
-        ["points"] = 6612.800000000001,
+        ["points"] = 6612.200000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 428,
@@ -50243,7 +50243,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4983,
         ["dps_max"] = 13334.28,
-        ["points"] = 8353.97701835547,
+        ["points"] = 8354.222620113398,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4372,
@@ -50266,9 +50266,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 272,
+        ["rank_raids"] = 273,
         ["dps_max"] = 11623.16,
-        ["points"] = 9753.4,
+        ["points"] = 9752.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -50283,7 +50283,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Balduro"] = {
-    ["percentile"] = 86.915,
+    ["percentile"] = 86.916,
     ["server"] = "Icecrown",
     ["overall_rank"] = 657,
     ["bosses"] = {
@@ -50320,7 +50320,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5430,
         ["dps_max"] = 13135.48,
-        ["points"] = 8210.714818683779,
+        ["points"] = 8210.981796478663,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2532,
@@ -50343,9 +50343,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2992,
+        ["rank_raids"] = 2993,
         ["dps_max"] = 9713.13,
-        ["points"] = 8653.4,
+        ["points"] = 8653.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -50397,7 +50397,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4151,
         ["dps_max"] = 13689.77,
-        ["points"] = 8598.716609461275,
+        ["points"] = 8598.925693822739,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2091,
@@ -50420,9 +50420,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 448,
+        ["rank_raids"] = 449,
         ["dps_max"] = 11375.47,
-        ["points"] = 9632.199999999999,
+        ["points"] = 9631.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -50474,7 +50474,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4696,
         ["dps_max"] = 13439.2,
-        ["points"] = 8439.038949410535,
+        ["points"] = 8439.271859146524,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3343,
@@ -50497,9 +50497,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2392,
+        ["rank_raids"] = 2393,
         ["dps_max"] = 9970.91,
-        ["points"] = 8833.4,
+        ["points"] = 8833.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 276,
@@ -50514,7 +50514,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Oushi"] = {
-    ["percentile"] = 86.884,
+    ["percentile"] = 86.885,
     ["server"] = "Icecrown",
     ["overall_rank"] = 660,
     ["bosses"] = {
@@ -50551,7 +50551,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7462,
         ["dps_max"] = 12436.64,
-        ["points"] = 7567.527234741084,
+        ["points"] = 7567.890182035213,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3686,
@@ -50574,9 +50574,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 880,
+        ["rank_raids"] = 881,
         ["dps_max"] = 10885.03,
-        ["points"] = 9411.0,
+        ["points"] = 9410.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -50591,7 +50591,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Lockdps"] = {
-    ["percentile"] = 86.874,
+    ["percentile"] = 86.875,
     ["server"] = "Icecrown",
     ["overall_rank"] = 661,
     ["bosses"] = {
@@ -50628,7 +50628,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7191,
         ["dps_max"] = 12525.95,
-        ["points"] = 7648.112222056409,
+        ["points"] = 7648.4631453297525,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1247,
@@ -50651,9 +50651,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 159,
+        ["rank_raids"] = 160,
         ["dps_max"] = 11880.32,
-        ["points"] = 9847.9,
+        ["points"] = 9847.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -50705,7 +50705,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1087,
         ["dps_max"] = 16041.35,
-        ["points"] = 9576.182659304583,
+        ["points"] = 9576.24589674724,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5754,
@@ -50728,9 +50728,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1010,
+        ["rank_raids"] = 1011,
         ["dps_max"] = 10788.32,
-        ["points"] = 9347.0,
+        ["points"] = 9346.599999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1409,
@@ -50782,7 +50782,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3516,
         ["dps_max"] = 14018.32,
-        ["points"] = 8804.65602148933,
+        ["points"] = 8804.834377797672,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2745,
@@ -50805,9 +50805,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1891,
+        ["rank_raids"] = 1892,
         ["dps_max"] = 10238.45,
-        ["points"] = 8994.599999999999,
+        ["points"] = 8994.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -50822,7 +50822,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Deathstar"] = {
-    ["percentile"] = 86.853,
+    ["percentile"] = 86.854,
     ["server"] = "Icecrown",
     ["overall_rank"] = 664,
     ["bosses"] = {
@@ -50859,7 +50859,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6136,
         ["dps_max"] = 12867.55,
-        ["points"] = 7952.544396358753,
+        ["points"] = 7952.849895553566,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 766,
@@ -50882,9 +50882,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4718,
+        ["rank_raids"] = 4720,
         ["dps_max"] = 9027.84,
-        ["points"] = 8135.6,
+        ["points"] = 8135.000000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 321,
@@ -50936,7 +50936,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2523,
         ["dps_max"] = 14599.94,
-        ["points"] = 9092.672735412625,
+        ["points"] = 9092.808116980006,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2542,
@@ -50949,9 +50949,9 @@ UWULogsData[8][2] = {
         ["points"] = 9429.5,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 10229,
+        ["rank_raids"] = 10230,
         ["dps_max"] = 10241.35,
-        ["points"] = 6528.1,
+        ["points"] = 6528.000000000001,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -50959,9 +50959,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 13186,
+        ["rank_raids"] = 13190,
         ["dps_max"] = 4088.73,
-        ["points"] = 6232.400000000001,
+        ["points"] = 6232.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -51013,7 +51013,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2010,
         ["dps_max"] = 15051.79,
-        ["points"] = 9279.212057901806,
+        ["points"] = 9279.319606087734,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1336,
@@ -51036,9 +51036,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 713,
+        ["rank_raids"] = 714,
         ["dps_max"] = 11043.43,
-        ["points"] = 9494.5,
+        ["points"] = 9494.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 99,
@@ -51090,7 +51090,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2516,
         ["dps_max"] = 14610.47,
-        ["points"] = 9094.165049992538,
+        ["points"] = 9094.300208892868,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2614,
@@ -51113,9 +51113,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 8933,
+        ["rank_raids"] = 8935,
         ["dps_max"] = 7287.12,
-        ["points"] = 6871.100000000001,
+        ["points"] = 6870.500000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 195,
@@ -51167,7 +51167,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1785,
         ["dps_max"] = 15254.49,
-        ["points"] = 9365.766303536786,
+        ["points"] = 9365.860937033722,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1816,
@@ -51190,9 +51190,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3636,
+        ["rank_raids"] = 3637,
         ["dps_max"] = 9446.74,
-        ["points"] = 8460.2,
+        ["points"] = 8459.9,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -51244,7 +51244,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2493,
         ["dps_max"] = 14628.54,
-        ["points"] = 9100.134308312192,
+        ["points"] = 9100.268576544315,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3091,
@@ -51267,9 +51267,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3981,
+        ["rank_raids"] = 3983,
         ["dps_max"] = 9316.08,
-        ["points"] = 8356.7,
+        ["points"] = 8356.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -51321,7 +51321,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 436,
         ["dps_max"] = 17447.49,
-        ["points"] = 9823.906879570213,
+        ["points"] = 9823.933154282304,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1067,
@@ -51344,9 +51344,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1553,
+        ["rank_raids"] = 1554,
         ["dps_max"] = 10441.29,
-        ["points"] = 9129.8,
+        ["points"] = 9129.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -51398,7 +51398,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 688,
         ["dps_max"] = 16704.96,
-        ["points"] = 9720.937173556185,
+        ["points"] = 9720.978812294838,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2976,
@@ -51421,9 +51421,9 @@ UWULogsData[8][2] = {
         ["points"] = 8507.16896260894,
       },
       ["Halion"] = {
-        ["rank_raids"] = 11570,
+        ["rank_raids"] = 11572,
         ["dps_max"] = 4859.73,
-        ["points"] = 6394.0,
+        ["points"] = 6393.799999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -51475,7 +51475,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2717,
         ["dps_max"] = 14476.54,
-        ["points"] = 9035.964781375913,
+        ["points"] = 9036.108624291255,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1731,
@@ -51498,9 +51498,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1645,
+        ["rank_raids"] = 1646,
         ["dps_max"] = 10378.51,
-        ["points"] = 9093.0,
+        ["points"] = 9092.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -51515,7 +51515,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Capitangucci"] = {
-    ["percentile"] = 86.752,
+    ["percentile"] = 86.753,
     ["server"] = "Icecrown",
     ["overall_rank"] = 673,
     ["bosses"] = {
@@ -51552,7 +51552,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4362,
         ["dps_max"] = 13598.05,
-        ["points"] = 8546.485599164303,
+        ["points"] = 8546.702476872575,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6650,
@@ -51575,9 +51575,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 6822,
+        ["rank_raids"] = 6824,
         ["dps_max"] = 8225.98,
-        ["points"] = 7504.4,
+        ["points"] = 7503.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -51629,7 +51629,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3564,
         ["dps_max"] = 13994.01,
-        ["points"] = 8788.240561110282,
+        ["points"] = 8788.421366756193,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1058,
@@ -51706,7 +51706,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3788,
         ["dps_max"] = 13872.09,
-        ["points"] = 8715.117146694523,
+        ["points"] = 8715.308863025963,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5688,
@@ -51729,9 +51729,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1667,
+        ["rank_raids"] = 1668,
         ["dps_max"] = 10365.48,
-        ["points"] = 9084.2,
+        ["points"] = 9083.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 919,
@@ -51783,7 +51783,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7018,
         ["dps_max"] = 12578.81,
-        ["points"] = 7700.343232353381,
+        ["points"] = 7700.686362279916,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2203,
@@ -51806,9 +51806,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2458,
+        ["rank_raids"] = 2459,
         ["dps_max"] = 9946.7,
-        ["points"] = 8813.6,
+        ["points"] = 8813.300000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -51860,7 +51860,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1083,
         ["dps_max"] = 16049.98,
-        ["points"] = 9579.167288464409,
+        ["points"] = 9579.230080572963,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5320,
@@ -51900,7 +51900,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Pineapplers"] = {
-    ["percentile"] = 86.62,
+    ["percentile"] = 86.621,
     ["server"] = "Icecrown",
     ["overall_rank"] = 678,
     ["bosses"] = {
@@ -51935,9 +51935,9 @@ UWULogsData[8][2] = {
         ["points"] = 8915.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 9342,
+        ["rank_raids"] = 9343,
         ["dps_max"] = 11865.05,
-        ["points"] = 7104.9097149679155,
+        ["points"] = 7105.341689048046,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1736,
@@ -51960,9 +51960,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 8419,
+        ["rank_raids"] = 8421,
         ["dps_max"] = 7533.15,
-        ["points"] = 7025.300000000001,
+        ["points"] = 7024.700000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -52014,12 +52014,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1488,
         ["dps_max"] = 15539.18,
-        ["points"] = 9435.905088792717,
+        ["points"] = 9435.989256938228,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7773,
+        ["rank_raids"] = 7774,
         ["dps_max"] = 16434.42,
-        ["points"] = 7219.1,
+        ["points"] = 7218.800000000001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1310,
@@ -52037,9 +52037,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3412,
+        ["rank_raids"] = 3413,
         ["dps_max"] = 9536.71,
-        ["points"] = 8527.4,
+        ["points"] = 8527.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -52064,9 +52064,9 @@ UWULogsData[8][2] = {
         ["points"] = 9017.603634298694,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 17888,
+        ["rank_raids"] = 17889,
         ["dps_max"] = 9888.83,
-        ["points"] = 5762.2,
+        ["points"] = 5762.1,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1096,
@@ -52091,12 +52091,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2232,
         ["dps_max"] = 14829.69,
-        ["points"] = 9189.673183107,
+        ["points"] = 9189.794091316026,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 385,
         ["dps_max"] = 30420.33,
-        ["points"] = 9735.566328779198,
+        ["points"] = 9735.605170387778,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1687,
@@ -52104,9 +52104,9 @@ UWULogsData[8][2] = {
         ["points"] = 9076.2,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 19817,
+        ["rank_raids"] = 19818,
         ["dps_max"] = 7222.66,
-        ["points"] = 5569.299999999999,
+        ["points"] = 5569.2,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 51,
@@ -52114,9 +52114,9 @@ UWULogsData[8][2] = {
         ["points"] = 9929.716052853528,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1033,
+        ["rank_raids"] = 1034,
         ["dps_max"] = 10774.86,
-        ["points"] = 9337.8,
+        ["points"] = 9337.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -52168,7 +52168,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6487,
         ["dps_max"] = 12742.65,
-        ["points"] = 7855.543948664378,
+        ["points"] = 7855.863921217548,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2789,
@@ -52191,9 +52191,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5322,
+        ["rank_raids"] = 5324,
         ["dps_max"] = 8812.96,
-        ["points"] = 7954.400000000001,
+        ["points"] = 7953.800000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -52245,7 +52245,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3452,
         ["dps_max"] = 14048.17,
-        ["points"] = 8813.60990896881,
+        ["points"] = 8813.786929274844,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 720,
@@ -52268,9 +52268,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2164,
+        ["rank_raids"] = 2165,
         ["dps_max"] = 10089.2,
-        ["points"] = 8901.800000000001,
+        ["points"] = 8901.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 492,
@@ -52322,7 +52322,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3670,
         ["dps_max"] = 13933.29,
-        ["points"] = 8759.886584091928,
+        ["points"] = 8760.071620411818,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1103,
@@ -52399,7 +52399,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 504,
         ["dps_max"] = 17198.02,
-        ["points"] = 9792.568273392031,
+        ["points"] = 9792.599224112206,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2880,
@@ -52422,9 +52422,9 @@ UWULogsData[8][2] = {
         ["points"] = 9980.320494798987,
       },
       ["Halion"] = {
-        ["rank_raids"] = 770,
+        ["rank_raids"] = 771,
         ["dps_max"] = 10993.63,
-        ["points"] = 9466.0,
+        ["points"] = 9465.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 661,
@@ -52476,7 +52476,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 704,
         ["dps_max"] = 16674.06,
-        ["points"] = 9716.460229816445,
+        ["points"] = 9716.502536556252,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3083,
@@ -52499,9 +52499,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3697,
+        ["rank_raids"] = 3698,
         ["dps_max"] = 9421.32,
-        ["points"] = 8441.9,
+        ["points"] = 8441.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 406,
@@ -52553,7 +52553,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1695,
         ["dps_max"] = 15343.99,
-        ["points"] = 9386.658707655573,
+        ["points"] = 9386.750223813788,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1935,
@@ -52576,9 +52576,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5003,
+        ["rank_raids"] = 5005,
         ["dps_max"] = 8925.88,
-        ["points"] = 8050.1,
+        ["points"] = 8049.500000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -52623,19 +52623,19 @@ UWULogsData[8][2] = {
         ["points"] = 9645.4802259887,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8191,
+        ["rank_raids"] = 8192,
         ["dps_max"] = 13129.03,
-        ["points"] = 7093.700000000001,
+        ["points"] = 7093.400000000001,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2765,
         ["dps_max"] = 14449.86,
-        ["points"] = 9025.51857931652,
+        ["points"] = 9025.663980901223,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 288,
         ["dps_max"] = 31057.15,
-        ["points"] = 9804.612898486852,
+        ["points"] = 9804.641598119859,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5473,
@@ -52653,9 +52653,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2731,
+        ["rank_raids"] = 2732,
         ["dps_max"] = 9828.12,
-        ["points"] = 8731.7,
+        ["points"] = 8731.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -52707,12 +52707,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1398,
         ["dps_max"] = 15653.79,
-        ["points"] = 9465.751380390986,
+        ["points"] = 9465.831095195465,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 15813,
+        ["rank_raids"] = 15814,
         ["dps_max"] = 14932.4,
-        ["points"] = 5969.7,
+        ["points"] = 5969.599999999999,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3656,
@@ -52730,9 +52730,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3982,
+        ["rank_raids"] = 3984,
         ["dps_max"] = 9315.84,
-        ["points"] = 8356.4,
+        ["points"] = 8355.800000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -52784,12 +52784,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2568,
         ["dps_max"] = 14568.61,
-        ["points"] = 9082.22653335323,
+        ["points"] = 9082.363473589972,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 616,
         ["dps_max"] = 29176.21,
-        ["points"] = 9559.277214631997,
+        ["points"] = 9559.341950646298,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 544,
@@ -52807,9 +52807,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3551,
+        ["rank_raids"] = 3552,
         ["dps_max"] = 9477.95,
-        ["points"] = 8485.7,
+        ["points"] = 8485.400000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -52824,7 +52824,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Greency"] = {
-    ["percentile"] = 86.409,
+    ["percentile"] = 86.41,
     ["server"] = "Icecrown",
     ["overall_rank"] = 690,
     ["bosses"] = {
@@ -52861,7 +52861,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7492,
         ["dps_max"] = 12426.5,
-        ["points"] = 7558.573347261602,
+        ["points"] = 7558.937630558043,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2301,
@@ -52884,9 +52884,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1670,
+        ["rank_raids"] = 1671,
         ["dps_max"] = 10362.39,
-        ["points"] = 9083.0,
+        ["points"] = 9082.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 735,
@@ -52938,7 +52938,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3410,
         ["dps_max"] = 14072.85,
-        ["points"] = 8822.563796448292,
+        ["points"] = 8822.739480752014,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6051,
@@ -52961,9 +52961,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1386,
+        ["rank_raids"] = 1387,
         ["dps_max"] = 10541.9,
-        ["points"] = 9196.599999999999,
+        ["points"] = 9196.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -53015,7 +53015,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4728,
         ["dps_max"] = 13428.35,
-        ["points"] = 8430.085061931055,
+        ["points"] = 8430.319307669353,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1158,
@@ -53038,9 +53038,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1626,
+        ["rank_raids"] = 1627,
         ["dps_max"] = 10391.32,
-        ["points"] = 9100.6,
+        ["points"] = 9100.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -53090,9 +53090,9 @@ UWULogsData[8][2] = {
         ["points"] = 8911.7,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 9732,
+        ["rank_raids"] = 9733,
         ["dps_max"] = 11758.62,
-        ["points"] = 6990.00149231458,
+        ["points"] = 6990.450611757685,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1265,
@@ -53115,9 +53115,9 @@ UWULogsData[8][2] = {
         ["points"] = 2088.2327859031184,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2078,
+        ["rank_raids"] = 2079,
         ["dps_max"] = 10129.33,
-        ["points"] = 8927.6,
+        ["points"] = 8927.300000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -53169,7 +53169,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5540,
         ["dps_max"] = 13093.98,
-        ["points"] = 8170.422325026116,
+        ["points"] = 8170.695314831393,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1257,
@@ -53192,9 +53192,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 14283,
+        ["rank_raids"] = 14287,
         ["dps_max"] = 3441.89,
-        ["points"] = 6122.7,
+        ["points"] = 6122.299999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -53246,7 +53246,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2725,
         ["dps_max"] = 14472.19,
-        ["points"] = 9031.487837636174,
+        ["points"] = 9031.63234855267,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 967,
@@ -53323,7 +53323,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4049,
         ["dps_max"] = 13739.14,
-        ["points"] = 8630.055215639457,
+        ["points"] = 8630.259623992837,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1919,
@@ -53346,9 +53346,9 @@ UWULogsData[8][2] = {
         ["points"] = 3920.4385718301937,
       },
       ["Halion"] = {
-        ["rank_raids"] = 461,
+        ["rank_raids"] = 462,
         ["dps_max"] = 11361.39,
-        ["points"] = 9624.4,
+        ["points"] = 9623.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 100,
@@ -53400,7 +53400,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3899,
         ["dps_max"] = 13819.12,
-        ["points"] = 8670.347709297119,
+        ["points"] = 8670.546105640107,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1451,
@@ -53423,9 +53423,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1357,
+        ["rank_raids"] = 1358,
         ["dps_max"] = 10555.75,
-        ["points"] = 9208.199999999999,
+        ["points"] = 9207.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -53477,7 +53477,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4550,
         ["dps_max"] = 13506.47,
-        ["points"] = 8483.80838680794,
+        ["points"] = 8484.034616532379,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6136,
@@ -53500,9 +53500,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2838,
+        ["rank_raids"] = 2839,
         ["dps_max"] = 9782.15,
-        ["points"] = 8699.6,
+        ["points"] = 8699.300000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -53554,7 +53554,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3567,
         ["dps_max"] = 13993.38,
-        ["points"] = 8786.748246530367,
+        ["points"] = 8786.92927484333,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3227,
@@ -53577,9 +53577,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4007,
+        ["rank_raids"] = 4009,
         ["dps_max"] = 9303.99,
-        ["points"] = 8348.9,
+        ["points"] = 8348.300000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1034,
@@ -53594,7 +53594,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Cursedaddy"] = {
-    ["percentile"] = 86.287,
+    ["percentile"] = 86.288,
     ["server"] = "Icecrown",
     ["overall_rank"] = 700,
     ["bosses"] = {
@@ -53631,7 +53631,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5465,
         ["dps_max"] = 13119.82,
-        ["points"] = 8195.791672884643,
+        ["points"] = 8196.060877350044,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 769,
@@ -53671,7 +53671,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Nomunomu"] = {
-    ["percentile"] = 86.283,
+    ["percentile"] = 86.284,
     ["server"] = "Icecrown",
     ["overall_rank"] = 701,
     ["bosses"] = {
@@ -53708,7 +53708,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2383,
         ["dps_max"] = 14708.14,
-        ["points"] = 9129.980599910461,
+        ["points"] = 9130.110414801553,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6513,
@@ -53731,9 +53731,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 12013,
+        ["rank_raids"] = 12017,
         ["dps_max"] = 4604.92,
-        ["points"] = 6349.700000000001,
+        ["points"] = 6349.3,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -53748,7 +53748,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Gushtera"] = {
-    ["percentile"] = 86.24,
+    ["percentile"] = 86.241,
     ["server"] = "Icecrown",
     ["overall_rank"] = 702,
     ["bosses"] = {
@@ -53785,12 +53785,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1133,
         ["dps_max"] = 15979.62,
-        ["points"] = 9562.75182808536,
+        ["points"] = 9562.817069531482,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 527,
         ["dps_max"] = 29653.04,
-        ["points"] = 9629.792860290876,
+        ["points"] = 9629.84723854289,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2064,
@@ -53862,12 +53862,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2465,
         ["dps_max"] = 14647.63,
-        ["points"] = 9112.0728249515,
+        ["points"] = 9112.20531184721,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7177,
+        ["rank_raids"] = 7178,
         ["dps_max"] = 16581.93,
-        ["points"] = 7397.900000000001,
+        ["points"] = 7397.600000000001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2341,
@@ -53885,9 +53885,9 @@ UWULogsData[8][2] = {
         ["points"] = 4381.501265111048,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2244,
+        ["rank_raids"] = 2245,
         ["dps_max"] = 10044.72,
-        ["points"] = 8877.8,
+        ["points"] = 8877.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -53939,12 +53939,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4349,
         ["dps_max"] = 13604.4,
-        ["points"] = 8549.470228324131,
+        ["points"] = 8549.686660698299,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8434,
+        ["rank_raids"] = 8435,
         ["dps_max"] = 16284.06,
-        ["points"] = 7020.8,
+        ["points"] = 7020.500000000001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1707,
@@ -53962,9 +53962,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2400,
+        ["rank_raids"] = 2401,
         ["dps_max"] = 9968.37,
-        ["points"] = 8831.0,
+        ["points"] = 8830.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -54016,7 +54016,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2930,
         ["dps_max"] = 14346.47,
-        ["points"] = 8976.272198179377,
+        ["points"] = 8976.424947776783,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4962,
@@ -54039,9 +54039,9 @@ UWULogsData[8][2] = {
         ["points"] = 9900.19679505201,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2945,
+        ["rank_raids"] = 2946,
         ["dps_max"] = 9733.4,
-        ["points"] = 8667.5,
+        ["points"] = 8667.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 292,
@@ -54093,12 +54093,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5957,
         ["dps_max"] = 12938.15,
-        ["points"] = 8019.698552454857,
+        ["points"] = 8019.994031632348,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7755,
+        ["rank_raids"] = 7756,
         ["dps_max"] = 16439.11,
-        ["points"] = 7224.5,
+        ["points"] = 7224.200000000001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1458,
@@ -54116,9 +54116,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 9350,
+        ["rank_raids"] = 9352,
         ["dps_max"] = 7037.3,
-        ["points"] = 6746.000000000001,
+        ["points"] = 6745.400000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -54170,7 +54170,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9154,
         ["dps_max"] = 11923.07,
-        ["points"] = 7151.171466945232,
+        ["points"] = 7151.596538346762,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6349,
@@ -54193,9 +54193,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 10572,
+        ["rank_raids"] = 10574,
         ["dps_max"] = 6013.46,
-        ["points"] = 6493.799999999999,
+        ["points"] = 6493.599999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -54247,12 +54247,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1890,
         ["dps_max"] = 15169.48,
-        ["points"] = 9320.996866139383,
+        ["points"] = 9321.098179647866,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 10486,
+        ["rank_raids"] = 10487,
         ["dps_max"] = 15880.95,
-        ["points"] = 6502.4,
+        ["points"] = 6502.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5348,
@@ -54270,9 +54270,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2657,
+        ["rank_raids"] = 2658,
         ["dps_max"] = 9863.96,
-        ["points"] = 8753.900000000001,
+        ["points"] = 8753.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -54324,7 +54324,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3015,
         ["dps_max"] = 14289.05,
-        ["points"] = 8944.933592001194,
+        ["points"] = 8945.091017606685,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 951,
@@ -54337,9 +54337,9 @@ UWULogsData[8][2] = {
         ["points"] = 8106.800000000001,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 10860,
+        ["rank_raids"] = 10861,
         ["dps_max"] = 10096.75,
-        ["points"] = 6465.0,
+        ["points"] = 6464.9,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -54347,9 +54347,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3599,
+        ["rank_raids"] = 3600,
         ["dps_max"] = 9459.13,
-        ["points"] = 8471.300000000001,
+        ["points"] = 8471.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -54401,12 +54401,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4642,
         ["dps_max"] = 13467.88,
-        ["points"] = 8455.454409789583,
+        ["points"] = 8455.684870188004,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 455,
         ["dps_max"] = 30057.54,
-        ["points"] = 9688.555898339944,
+        ["points"] = 9688.601645123385,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1380,
@@ -54424,9 +54424,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 10970,
+        ["rank_raids"] = 10972,
         ["dps_max"] = 5443.74,
-        ["points"] = 6454.0,
+        ["points"] = 6453.799999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -54441,7 +54441,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Rozzamadnes"] = {
-    ["percentile"] = 86.1,
+    ["percentile"] = 86.101,
     ["server"] = "Icecrown",
     ["overall_rank"] = 711,
     ["bosses"] = {
@@ -54478,7 +54478,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3898,
         ["dps_max"] = 13819.19,
-        ["points"] = 8671.840023877034,
+        ["points"] = 8672.038197552969,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 761,
@@ -54555,7 +54555,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 751,
         ["dps_max"] = 16573.28,
-        ["points"] = 9698.552454857485,
+        ["points"] = 9698.59743360191,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3736,
@@ -54578,9 +54578,9 @@ UWULogsData[8][2] = {
         ["points"] = 2177.913177107952,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2952,
+        ["rank_raids"] = 2953,
         ["dps_max"] = 9730.47,
-        ["points"] = 8665.400000000001,
+        ["points"] = 8665.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -54632,7 +54632,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6169,
         ["dps_max"] = 12857.74,
-        ["points"] = 7939.113565139532,
+        ["points"] = 7939.42106833781,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5970,
@@ -54655,9 +54655,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1113,
+        ["rank_raids"] = 1114,
         ["dps_max"] = 10725.21,
-        ["points"] = 9305.8,
+        ["points"] = 9305.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 488,
@@ -54709,12 +54709,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1430,
         ["dps_max"] = 15613.2,
-        ["points"] = 9456.797492911506,
+        ["points"] = 9456.878543718294,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7221,
+        ["rank_raids"] = 7222,
         ["dps_max"] = 16572.4,
-        ["points"] = 7384.700000000001,
+        ["points"] = 7384.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4230,
@@ -54732,9 +54732,9 @@ UWULogsData[8][2] = {
         ["points"] = 9308.405960078719,
       },
       ["Halion"] = {
-        ["rank_raids"] = 7329,
+        ["rank_raids"] = 7331,
         ["dps_max"] = 8030.82,
-        ["points"] = 7352.3,
+        ["points"] = 7351.700000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -54749,7 +54749,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Shonter"] = {
-    ["percentile"] = 86.05,
+    ["percentile"] = 86.051,
     ["server"] = "Icecrown",
     ["overall_rank"] = 715,
     ["bosses"] = {
@@ -54786,7 +54786,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4480,
         ["dps_max"] = 13541.94,
-        ["points"] = 8504.700790926727,
+        ["points"] = 8504.923903312443,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1403,
@@ -54809,9 +54809,9 @@ UWULogsData[8][2] = {
         ["points"] = 3606.97216755693,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2708,
+        ["rank_raids"] = 2709,
         ["dps_max"] = 9842.28,
-        ["points"] = 8738.6,
+        ["points"] = 8738.300000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 597,
@@ -54863,7 +54863,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3272,
         ["dps_max"] = 14153.85,
-        ["points"] = 8859.871660946126,
+        ["points"] = 8860.041778573559,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2455,
@@ -54886,9 +54886,9 @@ UWULogsData[8][2] = {
         ["points"] = 5449.817261737419,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2352,
+        ["rank_raids"] = 2353,
         ["dps_max"] = 9993.54,
-        ["points"] = 8845.400000000001,
+        ["points"] = 8845.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1028,
@@ -54940,12 +54940,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6756,
         ["dps_max"] = 12657.9,
-        ["points"] = 7766.005073869572,
+        ["points"] = 7766.338406445838,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7470,
+        ["rank_raids"] = 7471,
         ["dps_max"] = 16508.75,
-        ["points"] = 7310.000000000001,
+        ["points"] = 7309.700000000002,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2975,
@@ -54963,9 +54963,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 587,
+        ["rank_raids"] = 588,
         ["dps_max"] = 11183.74,
-        ["points"] = 9557.5,
+        ["points"] = 9557.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -55017,7 +55017,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3800,
         ["dps_max"] = 13868.53,
-        ["points"] = 8710.640202954783,
+        ["points"] = 8710.832587287377,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1905,
@@ -55040,9 +55040,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3498,
+        ["rank_raids"] = 3499,
         ["dps_max"] = 9499.0,
-        ["points"] = 8501.6,
+        ["points"] = 8501.300000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1415,
@@ -55094,7 +55094,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1934,
         ["dps_max"] = 15120.46,
-        ["points"] = 9306.073720340248,
+        ["points"] = 9306.17726051925,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6640,
@@ -55117,9 +55117,9 @@ UWULogsData[8][2] = {
         ["points"] = 9405.39780714085,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1111,
+        ["rank_raids"] = 1112,
         ["dps_max"] = 10725.82,
-        ["points"] = 9306.599999999999,
+        ["points"] = 9306.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -55134,7 +55134,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Covidforu"] = {
-    ["percentile"] = 86.02,
+    ["percentile"] = 86.021,
     ["server"] = "Icecrown",
     ["overall_rank"] = 720,
     ["bosses"] = {
@@ -55171,7 +55171,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3673,
         ["dps_max"] = 13932.48,
-        ["points"] = 8758.394269512013,
+        ["points"] = 8758.579528498956,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4199,
@@ -55194,9 +55194,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 890,
+        ["rank_raids"] = 891,
         ["dps_max"] = 10878.04,
-        ["points"] = 9406.0,
+        ["points"] = 9405.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -55248,12 +55248,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 910,
         ["dps_max"] = 16320.44,
-        ["points"] = 9637.367557081032,
+        ["points"] = 9637.421665174576,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 9182,
+        ["rank_raids"] = 9183,
         ["dps_max"] = 16131.21,
-        ["points"] = 6796.400000000001,
+        ["points"] = 6796.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3128,
@@ -55271,9 +55271,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 500,
+        ["rank_raids"] = 501,
         ["dps_max"] = 11311.69,
-        ["points"] = 9601.0,
+        ["points"] = 9600.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -55323,9 +55323,9 @@ UWULogsData[8][2] = {
         ["points"] = 7608.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10632,
+        ["rank_raids"] = 10633,
         ["dps_max"] = 11527.75,
-        ["points"] = 6736.3080137292945,
+        ["points"] = 6736.794986571173,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 912,
@@ -55348,9 +55348,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2033,
+        ["rank_raids"] = 2034,
         ["dps_max"] = 10155.83,
-        ["points"] = 8941.1,
+        ["points"] = 8940.800000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 948,
@@ -55402,7 +55402,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1215,
         ["dps_max"] = 15863.27,
-        ["points"] = 9526.936278167437,
+        ["points"] = 9527.006863622799,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5044,
@@ -55425,9 +55425,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1169,
+        ["rank_raids"] = 1170,
         ["dps_max"] = 10691.76,
-        ["points"] = 9283.4,
+        ["points"] = 9283.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -55442,7 +55442,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Jaxss"] = {
-    ["percentile"] = 85.955,
+    ["percentile"] = 85.956,
     ["server"] = "Icecrown",
     ["overall_rank"] = 724,
     ["bosses"] = {
@@ -55477,14 +55477,14 @@ UWULogsData[8][2] = {
         ["points"] = 9075.005466870763,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 9936,
+        ["rank_raids"] = 9937,
         ["dps_max"] = 11706.56,
-        ["points"] = 6924.339650798388,
+        ["points"] = 6924.7985675917635,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7707,
+        ["rank_raids"] = 7708,
         ["dps_max"] = 16451.36,
-        ["points"] = 7238.900000000001,
+        ["points"] = 7238.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2230,
@@ -55519,7 +55519,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Mogulwarlock"] = {
-    ["percentile"] = 85.954,
+    ["percentile"] = 85.955,
     ["server"] = "Icecrown",
     ["overall_rank"] = 725,
     ["bosses"] = {
@@ -55556,7 +55556,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5558,
         ["dps_max"] = 13086.53,
-        ["points"] = 8159.976122966721,
+        ["points"] = 8160.25067144136,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1849,
@@ -55579,9 +55579,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1773,
+        ["rank_raids"] = 1774,
         ["dps_max"] = 10299.2,
-        ["points"] = 9041.8,
+        ["points"] = 9041.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -55633,7 +55633,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3309,
         ["dps_max"] = 14137.21,
-        ["points"] = 8847.93314430682,
+        ["points"] = 8848.105043270665,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2336,
@@ -55656,9 +55656,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4103,
+        ["rank_raids"] = 4105,
         ["dps_max"] = 9269.65,
-        ["points"] = 8320.1,
+        ["points"] = 8319.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 189,
@@ -55710,7 +55710,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5855,
         ["dps_max"] = 12973.75,
-        ["points"] = 8052.529473212954,
+        ["points"] = 8052.82005371531,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2227,
@@ -55733,9 +55733,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1533,
+        ["rank_raids"] = 1534,
         ["dps_max"] = 10449.25,
-        ["points"] = 9137.8,
+        ["points"] = 9137.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -55750,7 +55750,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Shadowhole"] = {
-    ["percentile"] = 85.91,
+    ["percentile"] = 85.911,
     ["server"] = "Icecrown",
     ["overall_rank"] = 728,
     ["bosses"] = {
@@ -55787,7 +55787,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5646,
         ["dps_max"] = 13049.65,
-        ["points"] = 8128.637516788539,
+        ["points"] = 8128.916741271262,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3270,
@@ -55810,9 +55810,9 @@ UWULogsData[8][2] = {
         ["points"] = 9782.119763845938,
       },
       ["Halion"] = {
-        ["rank_raids"] = 7019,
+        ["rank_raids"] = 7021,
         ["dps_max"] = 8152.73,
-        ["points"] = 7445.3,
+        ["points"] = 7444.700000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -55864,7 +55864,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2483,
         ["dps_max"] = 14636.64,
-        ["points"] = 9106.103566631846,
+        ["points"] = 9106.236944195762,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2271,
@@ -55887,9 +55887,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2260,
+        ["rank_raids"] = 2261,
         ["dps_max"] = 10036.74,
-        ["points"] = 8873.0,
+        ["points"] = 8872.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 583,
@@ -55934,14 +55934,14 @@ UWULogsData[8][2] = {
         ["points"] = 8676.553672316384,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 7989,
+        ["rank_raids"] = 7990,
         ["dps_max"] = 13196.61,
-        ["points"] = 7154.3,
+        ["points"] = 7154.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1904,
         ["dps_max"] = 15157.68,
-        ["points"] = 9318.012236979555,
+        ["points"] = 9318.113995822143,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1006,
@@ -56018,7 +56018,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4421,
         ["dps_max"] = 13568.03,
-        ["points"] = 8531.56245336517,
+        ["points"] = 8531.781557743958,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2071,
@@ -56095,7 +56095,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4942,
         ["dps_max"] = 13348.27,
-        ["points"] = 8367.40784957469,
+        ["points"] = 8367.651447329155,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1781,
@@ -56118,9 +56118,9 @@ UWULogsData[8][2] = {
         ["points"] = 5372.5049198763,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4370,
+        ["rank_raids"] = 4372,
         ["dps_max"] = 9156.52,
-        ["points"] = 8240.0,
+        ["points"] = 8239.400000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 33,
@@ -56172,7 +56172,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4173,
         ["dps_max"] = 13681.34,
-        ["points"] = 8592.747351141621,
+        ["points"] = 8592.957326171292,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2514,
@@ -56249,7 +56249,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3843,
         ["dps_max"] = 13846.91,
-        ["points"] = 8691.240113415908,
+        ["points"] = 8691.435392420173,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1310,
@@ -56326,7 +56326,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3585,
         ["dps_max"] = 13984.78,
-        ["points"] = 8783.763617370541,
+        ["points"] = 8783.945091017606,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6151,
@@ -56349,9 +56349,9 @@ UWULogsData[8][2] = {
         ["points"] = 9534.720269890357,
       },
       ["Halion"] = {
-        ["rank_raids"] = 10123,
+        ["rank_raids"] = 10125,
         ["dps_max"] = 6443.94,
-        ["points"] = 6538.7,
+        ["points"] = 6538.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -56366,7 +56366,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Brokacoshi"] = {
-    ["percentile"] = 85.825,
+    ["percentile"] = 85.826,
     ["server"] = "Icecrown",
     ["overall_rank"] = 736,
     ["bosses"] = {
@@ -56403,7 +56403,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3199,
         ["dps_max"] = 14192.29,
-        ["points"] = 8888.225637964482,
+        ["points"] = 8888.391524917935,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2095,
@@ -56426,9 +56426,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 6096,
+        ["rank_raids"] = 6098,
         ["dps_max"] = 8506.29,
-        ["points"] = 7722.2,
+        ["points"] = 7721.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -56458,7 +56458,7 @@ UWULogsData[8][2] = {
         ["points"] = 9253.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10694,
+        ["rank_raids"] = 10695,
         ["dps_max"] = 17202.61,
         ["points"] = 7600.585333007559,
       },
@@ -56480,7 +56480,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2056,
         ["dps_max"] = 15007.76,
-        ["points"] = 9255.33502462319,
+        ["points"] = 9255.446135481947,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1360,
@@ -56503,9 +56503,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1462,
+        ["rank_raids"] = 1463,
         ["dps_max"] = 10493.76,
-        ["points"] = 9166.2,
+        ["points"] = 9165.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -56557,7 +56557,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2221,
         ["dps_max"] = 14840.04,
-        ["points"] = 9194.15012684674,
+        ["points"] = 9194.27036705461,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2294,
@@ -56580,9 +56580,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4266,
+        ["rank_raids"] = 4268,
         ["dps_max"] = 9198.11,
-        ["points"] = 8271.2,
+        ["points"] = 8270.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 530,
@@ -56634,7 +56634,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2668,
         ["dps_max"] = 14505.33,
-        ["points"] = 9052.380241754961,
+        ["points"] = 9052.521635332736,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2382,
@@ -56657,9 +56657,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4144,
+        ["rank_raids"] = 4146,
         ["dps_max"] = 9251.59,
-        ["points"] = 8307.800000000001,
+        ["points"] = 8307.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 982,
@@ -56711,12 +56711,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3336,
         ["dps_max"] = 14120.69,
-        ["points"] = 8843.45620056708,
+        ["points"] = 8843.62876753208,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7292,
+        ["rank_raids"] = 7293,
         ["dps_max"] = 16552.0,
-        ["points"] = 7363.4,
+        ["points"] = 7363.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4135,
@@ -56734,9 +56734,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3000,
+        ["rank_raids"] = 3001,
         ["dps_max"] = 9710.12,
-        ["points"] = 8651.000000000002,
+        ["points"] = 8650.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1095,
@@ -56788,12 +56788,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3524,
         ["dps_max"] = 14012.39,
-        ["points"] = 8798.686763169677,
+        ["points"] = 8798.866010146225,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7522,
+        ["rank_raids"] = 7523,
         ["dps_max"] = 16492.96,
-        ["points"] = 7294.400000000001,
+        ["points"] = 7294.100000000001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3577,
@@ -56828,7 +56828,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Phoenixlox"] = {
-    ["percentile"] = 85.752,
+    ["percentile"] = 85.753,
     ["server"] = "Icecrown",
     ["overall_rank"] = 742,
     ["bosses"] = {
@@ -56865,7 +56865,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2559,
         ["dps_max"] = 14575.54,
-        ["points"] = 9083.718847933143,
+        ["points"] = 9083.855565502836,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1620,
@@ -56888,9 +56888,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3779,
+        ["rank_raids"] = 3781,
         ["dps_max"] = 9390.67,
-        ["points"] = 8417.300000000001,
+        ["points"] = 8416.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -56942,7 +56942,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8182,
         ["dps_max"] = 12199.58,
-        ["points"] = 7394.418743471124,
+        ["points"] = 7394.80752014324,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1187,
@@ -57019,7 +57019,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3814,
         ["dps_max"] = 13859.08,
-        ["points"] = 8700.19400089539,
+        ["points"] = 8700.387943897344,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2807,
@@ -57042,9 +57042,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1729,
+        ["rank_raids"] = 1730,
         ["dps_max"] = 10328.87,
-        ["points"] = 9059.4,
+        ["points"] = 9059.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -57059,7 +57059,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Ashuramarru"] = {
-    ["percentile"] = 85.677,
+    ["percentile"] = 85.678,
     ["server"] = "Icecrown",
     ["overall_rank"] = 745,
     ["bosses"] = {
@@ -57096,12 +57096,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6081,
         ["dps_max"] = 12885.98,
-        ["points"] = 7971.944485897628,
+        ["points"] = 7972.24709042077,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 496,
         ["dps_max"] = 29801.02,
-        ["points"] = 9657.705303364184,
+        ["points"] = 9657.755581668625,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1375,
@@ -57119,9 +57119,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5191,
+        ["rank_raids"] = 5193,
         ["dps_max"] = 8856.35,
-        ["points"] = 7993.7,
+        ["points"] = 7993.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -57136,7 +57136,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Shatzed"] = {
-    ["percentile"] = 85.673,
+    ["percentile"] = 85.674,
     ["server"] = "Icecrown",
     ["overall_rank"] = 746,
     ["bosses"] = {
@@ -57173,7 +57173,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4954,
         ["dps_max"] = 13343.5,
-        ["points"] = 8362.93090583495,
+        ["points"] = 8363.17517159057,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1466,
@@ -57196,9 +57196,9 @@ UWULogsData[8][2] = {
         ["points"] = 9422.265954456003,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5705,
+        ["rank_raids"] = 5707,
         ["dps_max"] = 8664.91,
-        ["points"] = 7839.5,
+        ["points"] = 7838.900000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -57250,7 +57250,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4491,
         ["dps_max"] = 13538.36,
-        ["points"] = 8501.7161617669,
+        ["points"] = 8501.939719486722,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5695,
@@ -57273,9 +57273,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3607,
+        ["rank_raids"] = 3608,
         ["dps_max"] = 9456.07,
-        ["points"] = 8468.9,
+        ["points"] = 8468.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -57327,7 +57327,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2597,
         ["dps_max"] = 14551.88,
-        ["points"] = 9074.764960453664,
+        ["points"] = 9074.903014025664,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4023,
@@ -57350,9 +57350,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3358,
+        ["rank_raids"] = 3359,
         ["dps_max"] = 9557.93,
-        ["points"] = 8543.6,
+        ["points"] = 8543.300000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 738,
@@ -57404,7 +57404,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5937,
         ["dps_max"] = 12944.32,
-        ["points"] = 8028.652439934338,
+        ["points"] = 8028.946583109519,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6911,
@@ -57427,9 +57427,9 @@ UWULogsData[8][2] = {
         ["points"] = 7542.873207759348,
       },
       ["Halion"] = {
-        ["rank_raids"] = 6344,
+        ["rank_raids"] = 6346,
         ["dps_max"] = 8406.47,
-        ["points"] = 7647.8,
+        ["points"] = 7647.200000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -57481,7 +57481,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1935,
         ["dps_max"] = 15116.69,
-        ["points"] = 9304.581405760333,
+        ["points"] = 9304.685168606386,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2571,
@@ -57504,9 +57504,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 966,
+        ["rank_raids"] = 967,
         ["dps_max"] = 10820.56,
-        ["points"] = 9368.0,
+        ["points"] = 9367.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 534,
@@ -57521,7 +57521,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Aflichick"] = {
-    ["percentile"] = 85.588,
+    ["percentile"] = 85.589,
     ["server"] = "Icecrown",
     ["overall_rank"] = 751,
     ["bosses"] = {
@@ -57558,7 +57558,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5561,
         ["dps_max"] = 13084.3,
-        ["points"] = 8158.483808386808,
+        ["points"] = 8158.758579528499,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2230,
@@ -57581,9 +57581,9 @@ UWULogsData[8][2] = {
         ["points"] = 2027.1573840083754,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1788,
+        ["rank_raids"] = 1789,
         ["dps_max"] = 10292.75,
-        ["points"] = 9035.8,
+        ["points"] = 9035.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -57635,7 +57635,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2239,
         ["dps_max"] = 14825.28,
-        ["points"] = 9185.196239367258,
+        ["points"] = 9185.31781557744,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 813,
@@ -57658,9 +57658,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2915,
+        ["rank_raids"] = 2916,
         ["dps_max"] = 9745.72,
-        ["points"] = 8676.5,
+        ["points"] = 8676.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -57705,14 +57705,14 @@ UWULogsData[8][2] = {
         ["points"] = 9139.830508474577,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 11188,
+        ["rank_raids"] = 11189,
         ["dps_max"] = 12303.15,
-        ["points"] = 6432.2,
+        ["points"] = 6432.099999999999,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2030,
         ["dps_max"] = 15028.47,
-        ["points"] = 9267.273541262499,
+        ["points"] = 9267.38287078484,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 834,
@@ -57735,9 +57735,9 @@ UWULogsData[8][2] = {
         ["points"] = 4713.241495642395,
       },
       ["Halion"] = {
-        ["rank_raids"] = 13736,
+        ["rank_raids"] = 13740,
         ["dps_max"] = 3828.03,
-        ["points"] = 6177.4,
+        ["points"] = 6176.999999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -57752,7 +57752,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Lyohman"] = {
-    ["percentile"] = 85.497,
+    ["percentile"] = 85.498,
     ["server"] = "Icecrown",
     ["overall_rank"] = 754,
     ["bosses"] = {
@@ -57789,7 +57789,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4538,
         ["dps_max"] = 13511.85,
-        ["points"] = 8489.777645127593,
+        ["points"] = 8490.002984183826,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2098,
@@ -57812,9 +57812,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1509,
+        ["rank_raids"] = 1510,
         ["dps_max"] = 10464.06,
-        ["points"] = 9147.4,
+        ["points"] = 9147.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -57866,7 +57866,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2857,
         ["dps_max"] = 14394.19,
-        ["points"] = 8995.672287718251,
+        ["points"] = 8995.822142643987,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4823,
@@ -57943,7 +57943,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3576,
         ["dps_max"] = 13990.62,
-        ["points"] = 8785.255931950454,
+        ["points"] = 8785.43718293047,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1118,
@@ -57966,9 +57966,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 935,
+        ["rank_raids"] = 936,
         ["dps_max"] = 10842.9,
-        ["points"] = 9383.5,
+        ["points"] = 9383.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -57983,7 +57983,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Seeher"] = {
-    ["percentile"] = 85.423,
+    ["percentile"] = 85.424,
     ["server"] = "Icecrown",
     ["overall_rank"] = 757,
     ["bosses"] = {
@@ -58020,7 +58020,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6102,
         ["dps_max"] = 12879.83,
-        ["points"] = 7962.990598418147,
+        ["points"] = 7963.294538943599,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5631,
@@ -58043,9 +58043,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2360,
+        ["rank_raids"] = 2361,
         ["dps_max"] = 9990.16,
-        ["points"] = 8843.0,
+        ["points"] = 8842.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 606,
@@ -58097,7 +58097,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7541,
         ["dps_max"] = 12409.85,
-        ["points"] = 7557.081032681689,
+        ["points"] = 7557.445538645181,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5099,
@@ -58120,9 +58120,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 777,
+        ["rank_raids"] = 778,
         ["dps_max"] = 10984.15,
-        ["points"] = 9462.5,
+        ["points"] = 9462.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -58174,7 +58174,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2707,
         ["dps_max"] = 14484.49,
-        ["points"] = 9040.441725115654,
+        ["points"] = 9040.584900029842,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6543,
@@ -58197,9 +58197,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 815,
+        ["rank_raids"] = 816,
         ["dps_max"] = 10945.94,
-        ["points"] = 9443.5,
+        ["points"] = 9443.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -58251,7 +58251,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1803,
         ["dps_max"] = 15240.66,
-        ["points"] = 9359.797045217132,
+        ["points"] = 9359.892569382275,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4460,
@@ -58274,9 +58274,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 488,
+        ["rank_raids"] = 489,
         ["dps_max"] = 11327.77,
-        ["points"] = 9608.2,
+        ["points"] = 9607.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -58328,7 +58328,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 938,
         ["dps_max"] = 16269.54,
-        ["points"] = 9622.444411281898,
+        ["points"] = 9622.500746045956,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5130,
@@ -58405,7 +58405,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1008,
         ["dps_max"] = 16153.55,
-        ["points"] = 9601.55200716311,
+        ["points"] = 9601.61145926589,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5679,
@@ -58460,7 +58460,7 @@ UWULogsData[8][2] = {
         ["points"] = 8798.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10306,
+        ["rank_raids"] = 10307,
         ["dps_max"] = 17262.38,
         ["points"] = 7626.993359775233,
       },
@@ -58482,12 +58482,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5040,
         ["dps_max"] = 13304.69,
-        ["points"] = 8333.08461423668,
+        ["points"] = 8333.333333333334,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 584,
         ["dps_max"] = 29337.22,
-        ["points"] = 9584.25150580285,
+        ["points"] = 9584.312573443009,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1447,
@@ -58505,9 +58505,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 7315,
+        ["rank_raids"] = 7317,
         ["dps_max"] = 8035.49,
-        ["points"] = 7356.5,
+        ["points"] = 7355.900000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -58559,7 +58559,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4659,
         ["dps_max"] = 13458.45,
-        ["points"] = 8453.96209520967,
+        ["points"] = 8454.19277827514,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3730,
@@ -58582,9 +58582,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4120,
+        ["rank_raids"] = 4122,
         ["dps_max"] = 9260.61,
-        ["points"] = 8315.0,
+        ["points"] = 8314.400000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1360,
@@ -58636,12 +58636,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4129,
         ["dps_max"] = 13700.38,
-        ["points"] = 8607.670496940755,
+        ["points"] = 8607.87824529991,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 9322,
+        ["rank_raids"] = 9323,
         ["dps_max"] = 16099.8,
-        ["points"] = 6754.400000000001,
+        ["points"] = 6754.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1659,
@@ -58659,9 +58659,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1089,
+        ["rank_raids"] = 1090,
         ["dps_max"] = 10740.85,
-        ["points"] = 9315.4,
+        ["points"] = 9315.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -58706,14 +58706,14 @@ UWULogsData[8][2] = {
         ["points"] = 8199.152542372882,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 10928,
+        ["rank_raids"] = 10929,
         ["dps_max"] = 12373.83,
-        ["points"] = 6458.2,
+        ["points"] = 6458.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4513,
         ["dps_max"] = 13528.14,
-        ["points"] = 8497.23921802716,
+        ["points"] = 8497.463443748135,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2269,
@@ -58736,9 +58736,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3218,
+        ["rank_raids"] = 3219,
         ["dps_max"] = 9619.79,
-        ["points"] = 8585.6,
+        ["points"] = 8585.3,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1205,
@@ -58790,7 +58790,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5983,
         ["dps_max"] = 12928.56,
-        ["points"] = 8009.2523503954635,
+        ["points"] = 8009.549388242315,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1704,
@@ -58830,7 +58830,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Sennlock"] = {
-    ["percentile"] = 85.124,
+    ["percentile"] = 85.125,
     ["server"] = "Icecrown",
     ["overall_rank"] = 768,
     ["bosses"] = {
@@ -58867,7 +58867,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2955,
         ["dps_max"] = 14329.7,
-        ["points"] = 8967.318310699895,
+        ["points"] = 8967.472396299612,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1255,
@@ -58890,9 +58890,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1983,
+        ["rank_raids"] = 1984,
         ["dps_max"] = 10180.73,
-        ["points"] = 8957.800000000001,
+        ["points"] = 8957.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -58944,7 +58944,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4191,
         ["dps_max"] = 13674.44,
-        ["points"] = 8589.762721981793,
+        ["points"] = 8589.973142345569,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 690,
@@ -58967,9 +58967,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1350,
+        ["rank_raids"] = 1351,
         ["dps_max"] = 10559.5,
-        ["points"] = 9211.0,
+        ["points"] = 9210.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -59019,14 +59019,14 @@ UWULogsData[8][2] = {
         ["points"] = 8489.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 13257,
+        ["rank_raids"] = 13258,
         ["dps_max"] = 10868.65,
-        ["points"] = 6225.3,
+        ["points"] = 6225.2,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 360,
         ["dps_max"] = 30570.93,
-        ["points"] = 9756.133392096372,
+        ["points"] = 9756.169212690951,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3169,
@@ -59044,9 +59044,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2830,
+        ["rank_raids"] = 2831,
         ["dps_max"] = 9785.74,
-        ["points"] = 8702.0,
+        ["points"] = 8701.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 724,
@@ -59091,14 +59091,14 @@ UWULogsData[8][2] = {
         ["points"] = 8813.559322033898,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8009,
+        ["rank_raids"] = 8010,
         ["dps_max"] = 13191.29,
-        ["points"] = 7148.300000000001,
+        ["points"] = 7148.000000000001,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2927,
         ["dps_max"] = 14347.48,
-        ["points"] = 8979.256827339203,
+        ["points"] = 8979.409131602508,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1777,
@@ -59121,9 +59121,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 632,
+        ["rank_raids"] = 633,
         ["dps_max"] = 11126.95,
-        ["points"] = 9535.0,
+        ["points"] = 9534.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -59138,7 +59138,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Demolocka"] = {
-    ["percentile"] = 85.045,
+    ["percentile"] = 85.046,
     ["server"] = "Icecrown",
     ["overall_rank"] = 772,
     ["bosses"] = {
@@ -59175,7 +59175,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5244,
         ["dps_max"] = 13206.62,
-        ["points"] = 8273.392031040143,
+        ["points"] = 8273.64965681886,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1911,
@@ -59198,9 +59198,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4186,
+        ["rank_raids"] = 4188,
         ["dps_max"] = 9236.12,
-        ["points"] = 8295.2,
+        ["points"] = 8294.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -59252,7 +59252,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1390,
         ["dps_max"] = 15670.75,
-        ["points"] = 9470.228324130727,
+        ["points"] = 9470.30737093405,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2731,
@@ -59275,9 +59275,9 @@ UWULogsData[8][2] = {
         ["points"] = 9470.059038515603,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5451,
+        ["rank_raids"] = 5453,
         ["dps_max"] = 8763.64,
-        ["points"] = 7915.700000000001,
+        ["points"] = 7915.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -59329,7 +59329,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4185,
         ["dps_max"] = 13676.01,
-        ["points"] = 8591.255036561706,
+        ["points"] = 8591.46523425843,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2278,
@@ -59352,9 +59352,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1017,
+        ["rank_raids"] = 1018,
         ["dps_max"] = 10783.42,
-        ["points"] = 9344.199999999999,
+        ["points"] = 9343.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -59406,7 +59406,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6209,
         ["dps_max"] = 12841.09,
-        ["points"] = 7931.651992239964,
+        ["points"] = 7931.960608773501,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3576,
@@ -59483,7 +59483,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4077,
         ["dps_max"] = 13726.36,
-        ["points"] = 8619.609013580062,
+        ["points"] = 8619.814980602805,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1662,
@@ -59506,9 +59506,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 939,
+        ["rank_raids"] = 940,
         ["dps_max"] = 10841.44,
-        ["points"] = 9381.5,
+        ["points"] = 9381.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -59560,12 +59560,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6243,
         ["dps_max"] = 12829.85,
-        ["points"] = 7921.20579018057,
+        ["points"] = 7921.515965383468,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 19403,
+        ["rank_raids"] = 19405,
         ["dps_max"] = 14293.65,
-        ["points"] = 5610.7,
+        ["points"] = 5610.499999999999,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2993,
@@ -59583,9 +59583,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 7116,
+        ["rank_raids"] = 7118,
         ["dps_max"] = 8116.45,
-        ["points"] = 7416.200000000001,
+        ["points"] = 7415.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -59635,9 +59635,9 @@ UWULogsData[8][2] = {
         ["points"] = 8882.300000000001,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 16397,
+        ["rank_raids"] = 16398,
         ["dps_max"] = 10096.58,
-        ["points"] = 5911.299999999999,
+        ["points"] = 5911.2,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 949,
@@ -59660,9 +59660,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5263,
+        ["rank_raids"] = 5265,
         ["dps_max"] = 8828.93,
-        ["points"] = 7972.100000000001,
+        ["points"] = 7971.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 222,
@@ -59714,7 +59714,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5014,
         ["dps_max"] = 13316.18,
-        ["points"] = 8339.053872556335,
+        ["points"] = 8339.30170098478,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3615,
@@ -59737,9 +59737,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2223,
+        ["rank_raids"] = 2224,
         ["dps_max"] = 10056.87,
-        ["points"] = 8884.1,
+        ["points"] = 8883.800000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -59791,7 +59791,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3637,
         ["dps_max"] = 13954.83,
-        ["points"] = 8770.33278615132,
+        ["points"] = 8770.51626380185,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3032,
@@ -59814,9 +59814,9 @@ UWULogsData[8][2] = {
         ["points"] = 9714.647174585325,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2319,
+        ["rank_raids"] = 2320,
         ["dps_max"] = 10005.93,
-        ["points"] = 8855.300000000001,
+        ["points"] = 8855.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -59868,7 +59868,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2500,
         ["dps_max"] = 14624.6,
-        ["points"] = 9098.641993732279,
+        ["points"] = 9098.776484631453,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3294,
@@ -59891,9 +59891,9 @@ UWULogsData[8][2] = {
         ["points"] = 9938.150126511106,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1772,
+        ["rank_raids"] = 1773,
         ["dps_max"] = 10299.72,
-        ["points"] = 9042.199999999999,
+        ["points"] = 9041.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 638,
@@ -59945,7 +59945,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1607,
         ["dps_max"] = 15416.07,
-        ["points"] = 9410.535740934189,
+        ["points"] = 9410.623694419577,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1413,
@@ -59968,9 +59968,9 @@ UWULogsData[8][2] = {
         ["points"] = 4493.955580545404,
       },
       ["Halion"] = {
-        ["rank_raids"] = 13430,
+        ["rank_raids"] = 13434,
         ["dps_max"] = 3985.7,
-        ["points"] = 6208.0,
+        ["points"] = 6207.599999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -60022,7 +60022,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2023,
         ["dps_max"] = 15040.41,
-        ["points"] = 9268.765855842412,
+        ["points"] = 9268.874962697702,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4284,
@@ -60045,9 +60045,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3475,
+        ["rank_raids"] = 3476,
         ["dps_max"] = 9511.98,
-        ["points"] = 8508.500000000002,
+        ["points"] = 8508.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -60062,7 +60062,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Disscaster"] = {
-    ["percentile"] = 84.877,
+    ["percentile"] = 84.878,
     ["server"] = "Icecrown",
     ["overall_rank"] = 784,
     ["bosses"] = {
@@ -60099,7 +60099,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5328,
         ["dps_max"] = 13171.81,
-        ["points"] = 8249.514997761527,
+        ["points"] = 8249.77618621307,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5154,
@@ -60122,9 +60122,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 9859,
+        ["rank_raids"] = 9861,
         ["dps_max"] = 6679.71,
-        ["points"] = 6593.299999999999,
+        ["points"] = 6592.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -60139,7 +60139,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Anshaxiaomao"] = {
-    ["percentile"] = 84.862,
+    ["percentile"] = 84.863,
     ["server"] = "Icecrown",
     ["overall_rank"] = 785,
     ["bosses"] = {
@@ -60174,9 +60174,9 @@ UWULogsData[8][2] = {
         ["points"] = 7218.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10661,
+        ["rank_raids"] = 10662,
         ["dps_max"] = 11521.13,
-        ["points"] = 6728.846440829727,
+        ["points"] = 6729.334527006864,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1285,
@@ -60199,9 +60199,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4651,
+        ["rank_raids"] = 4653,
         ["dps_max"] = 9055.67,
-        ["points"] = 8155.7,
+        ["points"] = 8155.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -60251,9 +60251,9 @@ UWULogsData[8][2] = {
         ["points"] = 8887.1,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 12547,
+        ["rank_raids"] = 12548,
         ["dps_max"] = 11036.14,
-        ["points"] = 6296.3,
+        ["points"] = 6296.2,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6216,
@@ -60276,9 +60276,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4825,
+        ["rank_raids"] = 4827,
         ["dps_max"] = 8993.74,
-        ["points"] = 8103.5,
+        ["points"] = 8102.900000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -60293,7 +60293,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Zasto"] = {
-    ["percentile"] = 84.829,
+    ["percentile"] = 84.83,
     ["server"] = "Icecrown",
     ["overall_rank"] = 787,
     ["bosses"] = {
@@ -60330,7 +60330,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6725,
         ["dps_max"] = 12668.8,
-        ["points"] = 7776.451275928966,
+        ["points"] = 7776.783049835871,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1748,
@@ -60407,7 +60407,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6046,
         ["dps_max"] = 12904.91,
-        ["points"] = 7982.390687957021,
+        ["points"] = 7982.691733810802,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4647,
@@ -60430,9 +60430,9 @@ UWULogsData[8][2] = {
         ["points"] = 7854.933933089683,
       },
       ["Halion"] = {
-        ["rank_raids"] = 7877,
+        ["rank_raids"] = 7879,
         ["dps_max"] = 7785.31,
-        ["points"] = 7187.900000000001,
+        ["points"] = 7187.300000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 686,
@@ -60484,7 +60484,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8864,
         ["dps_max"] = 12003.91,
-        ["points"] = 7233.248768840471,
+        ["points"] = 7233.661593554162,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2130,
@@ -60507,9 +60507,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3727,
+        ["rank_raids"] = 3728,
         ["dps_max"] = 9410.82,
-        ["points"] = 8432.900000000001,
+        ["points"] = 8432.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -60561,7 +60561,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3364,
         ["dps_max"] = 14105.38,
-        ["points"] = 8834.502313087598,
+        ["points"] = 8834.676216054908,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1596,
@@ -60584,9 +60584,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3872,
+        ["rank_raids"] = 3874,
         ["dps_max"] = 9354.18,
-        ["points"] = 8389.4,
+        ["points"] = 8388.800000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 423,
@@ -60636,9 +60636,9 @@ UWULogsData[8][2] = {
         ["points"] = 8392.7,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10411,
+        ["rank_raids"] = 10412,
         ["dps_max"] = 11581.89,
-        ["points"] = 6800.477540665573,
+        ["points"] = 6800.954938824232,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2132,
@@ -60715,7 +60715,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1782,
         ["dps_max"] = 15258.63,
-        ["points"] = 9367.258618116699,
+        ["points"] = 9367.353028946583,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1890,
@@ -60792,7 +60792,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1849,
         ["dps_max"] = 15199.21,
-        ["points"] = 9341.88927025817,
+        ["points"] = 9341.987466427932,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6690,
@@ -60815,9 +60815,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 369,
+        ["rank_raids"] = 370,
         ["dps_max"] = 11474.38,
-        ["points"] = 9682.699999999999,
+        ["points"] = 9682.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 211,
@@ -60832,7 +60832,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Kpacu"] = {
-    ["percentile"] = 84.708,
+    ["percentile"] = 84.709,
     ["server"] = "Icecrown",
     ["overall_rank"] = 794,
     ["bosses"] = {
@@ -60869,7 +60869,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5025,
         ["dps_max"] = 13310.77,
-        ["points"] = 8336.069243396509,
+        ["points"] = 8336.317517159056,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2821,
@@ -60892,9 +60892,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3123,
+        ["rank_raids"] = 3124,
         ["dps_max"] = 9656.95,
-        ["points"] = 8614.1,
+        ["points"] = 8613.800000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 472,
@@ -60909,7 +60909,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Nv"] = {
-    ["percentile"] = 84.697,
+    ["percentile"] = 84.698,
     ["server"] = "Icecrown",
     ["overall_rank"] = 795,
     ["bosses"] = {
@@ -60946,7 +60946,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4126,
         ["dps_max"] = 13701.73,
-        ["points"] = 8610.65512610058,
+        ["points"] = 8610.862429125635,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1387,
@@ -60969,9 +60969,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3122,
+        ["rank_raids"] = 3123,
         ["dps_max"] = 9657.13,
-        ["points"] = 8614.400000000001,
+        ["points"] = 8614.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -61023,7 +61023,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5473,
         ["dps_max"] = 13116.41,
-        ["points"] = 8194.29935830473,
+        ["points"] = 8194.568785437183,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1251,
@@ -61046,9 +61046,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 8816,
+        ["rank_raids"] = 8818,
         ["dps_max"] = 7345.31,
-        ["points"] = 6906.2,
+        ["points"] = 6905.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -61063,7 +61063,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Virucidal"] = {
-    ["percentile"] = 84.632,
+    ["percentile"] = 84.631,
     ["server"] = "Icecrown",
     ["overall_rank"] = 797,
     ["bosses"] = {
@@ -61093,19 +61093,19 @@ UWULogsData[8][2] = {
         ["points"] = 9518.361581920904,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8778,
+        ["rank_raids"] = 8779,
         ["dps_max"] = 12957.9,
-        ["points"] = 6917.6,
+        ["points"] = 6917.300000000001,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4148,
         ["dps_max"] = 13691.61,
-        ["points"] = 8601.7012386211,
+        ["points"] = 8601.909877648462,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7582,
+        ["rank_raids"] = 7583,
         ["dps_max"] = 16478.03,
-        ["points"] = 7276.400000000001,
+        ["points"] = 7276.100000000001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3554,
@@ -61123,9 +61123,9 @@ UWULogsData[8][2] = {
         ["points"] = 8580.26426764127,
       },
       ["Halion"] = {
-        ["rank_raids"] = 8877,
+        ["rank_raids"] = 8879,
         ["dps_max"] = 7322.22,
-        ["points"] = 6887.900000000001,
+        ["points"] = 6887.300000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -61177,7 +61177,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6653,
         ["dps_max"] = 12690.09,
-        ["points"] = 7798.835994627668,
+        ["points"] = 7799.1644285287975,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3081,
@@ -61200,9 +61200,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1621,
+        ["rank_raids"] = 1622,
         ["dps_max"] = 10397.39,
-        ["points"] = 9102.6,
+        ["points"] = 9102.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 655,
@@ -61254,7 +61254,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1207,
         ["dps_max"] = 15875.52,
-        ["points"] = 9529.920907327265,
+        ["points"] = 9529.991047448522,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5038,
@@ -61277,9 +61277,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2125,
+        ["rank_raids"] = 2126,
         ["dps_max"] = 10113.44,
-        ["points"] = 8913.5,
+        ["points"] = 8913.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -61331,7 +61331,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2212,
         ["dps_max"] = 14848.78,
-        ["points"] = 9198.627070586479,
+        ["points"] = 9198.746642793196,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1828,
@@ -61354,9 +61354,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4413,
+        ["rank_raids"] = 4415,
         ["dps_max"] = 9141.18,
-        ["points"] = 8227.1,
+        ["points"] = 8226.500000000002,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -61371,7 +61371,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Mienstream"] = {
-    ["percentile"] = 84.586,
+    ["percentile"] = 84.587,
     ["server"] = "Icecrown",
     ["overall_rank"] = 801,
     ["bosses"] = {
@@ -61408,7 +61408,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6544,
         ["dps_max"] = 12723.97,
-        ["points"] = 7839.128488285331,
+        ["points"] = 7839.450910176067,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1256,
@@ -61431,9 +61431,9 @@ UWULogsData[8][2] = {
         ["points"] = 9174.866460500421,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1066,
+        ["rank_raids"] = 1067,
         ["dps_max"] = 10754.07,
-        ["points"] = 9324.6,
+        ["points"] = 9324.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 748,
@@ -61485,12 +61485,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4595,
         ["dps_max"] = 13489.11,
-        ["points"] = 8468.885241008804,
+        ["points"] = 8469.11369740376,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7568,
+        ["rank_raids"] = 7569,
         ["dps_max"] = 16481.31,
-        ["points"] = 7280.6,
+        ["points"] = 7280.300000000001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7481,
@@ -61508,9 +61508,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1633,
+        ["rank_raids"] = 1634,
         ["dps_max"] = 10386.32,
-        ["points"] = 9097.8,
+        ["points"] = 9097.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -61562,12 +61562,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1150,
         ["dps_max"] = 15952.82,
-        ["points"] = 9553.797940605878,
+        ["points"] = 9553.864518054312,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7209,
+        ["rank_raids"] = 7210,
         ["dps_max"] = 16574.36,
-        ["points"] = 7388.300000000001,
+        ["points"] = 7388.000000000001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2553,
@@ -61585,9 +61585,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1534,
+        ["rank_raids"] = 1535,
         ["dps_max"] = 10448.95,
-        ["points"] = 9137.4,
+        ["points"] = 9137.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -61639,7 +61639,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3798,
         ["dps_max"] = 13869.19,
-        ["points"] = 8712.132517534696,
+        ["points"] = 8712.32467920024,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2374,
@@ -61662,9 +61662,9 @@ UWULogsData[8][2] = {
         ["points"] = 7511.9482710149,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3089,
+        ["rank_raids"] = 3090,
         ["dps_max"] = 9672.38,
-        ["points"] = 8624.300000000001,
+        ["points"] = 8624.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 483,
@@ -61716,12 +61716,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4999,
         ["dps_max"] = 13323.54,
-        ["points"] = 8345.023130875988,
+        ["points"] = 8345.270068636228,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 495,
         ["dps_max"] = 29802.07,
-        ["points"] = 9659.174379315411,
+        ["points"] = 9659.224441833137,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2438,
@@ -61739,9 +61739,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3968,
+        ["rank_raids"] = 3970,
         ["dps_max"] = 9319.87,
-        ["points"] = 8360.6,
+        ["points"] = 8360.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -61793,7 +61793,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5996,
         ["dps_max"] = 12925.25,
-        ["points"] = 8001.790777495897,
+        ["points"] = 8002.088928678006,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1055,
@@ -61816,9 +61816,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 677,
+        ["rank_raids"] = 678,
         ["dps_max"] = 11074.97,
-        ["points"] = 9512.5,
+        ["points"] = 9512.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 417,
@@ -61870,7 +61870,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3164,
         ["dps_max"] = 14207.67,
-        ["points"] = 8897.179525443964,
+        ["points"] = 8897.344076395106,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2991,
@@ -61893,9 +61893,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3273,
+        ["rank_raids"] = 3274,
         ["dps_max"] = 9594.01,
-        ["points"] = 8569.1,
+        ["points"] = 8568.800000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -61910,7 +61910,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Jinekolog"] = {
-    ["percentile"] = 84.517,
+    ["percentile"] = 84.516,
     ["server"] = "Icecrown",
     ["overall_rank"] = 808,
     ["bosses"] = {
@@ -61947,12 +61947,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1639,
         ["dps_max"] = 15388.92,
-        ["points"] = 9403.074168034622,
+        ["points"] = 9403.163234855267,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8828,
+        ["rank_raids"] = 8829,
         ["dps_max"] = 16202.64,
-        ["points"] = 6902.600000000001,
+        ["points"] = 6902.300000000001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2937,
@@ -61970,9 +61970,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4048,
+        ["rank_raids"] = 4050,
         ["dps_max"] = 9292.14,
-        ["points"] = 8336.6,
+        ["points"] = 8336.000000000002,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 399,
@@ -61987,7 +61987,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Laraeliay"] = {
-    ["percentile"] = 84.51,
+    ["percentile"] = 84.509,
     ["server"] = "Icecrown",
     ["overall_rank"] = 809,
     ["bosses"] = {
@@ -62017,19 +62017,19 @@ UWULogsData[8][2] = {
         ["points"] = 8516.949152542373,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9970,
+        ["rank_raids"] = 9971,
         ["dps_max"] = 12624.97,
-        ["points"] = 6560.0,
+        ["points"] = 6559.700000000001,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2321,
         ["dps_max"] = 14770.49,
-        ["points"] = 9150.87300402925,
+        ["points"] = 9150.999701581617,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8396,
+        ["rank_raids"] = 8397,
         ["dps_max"] = 16291.95,
-        ["points"] = 7032.200000000001,
+        ["points"] = 7031.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2856,
@@ -62047,9 +62047,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4820,
+        ["rank_raids"] = 4822,
         ["dps_max"] = 8994.97,
-        ["points"] = 8105.0,
+        ["points"] = 8104.400000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -62101,7 +62101,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3205,
         ["dps_max"] = 14190.14,
-        ["points"] = 8886.73332338457,
+        ["points"] = 8886.899433005074,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5861,
@@ -62124,9 +62124,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 6125,
+        ["rank_raids"] = 6127,
         ["dps_max"] = 8492.89,
-        ["points"] = 7713.500000000001,
+        ["points"] = 7712.900000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -62141,7 +62141,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Shillmowa"] = {
-    ["percentile"] = 84.48,
+    ["percentile"] = 84.481,
     ["server"] = "Icecrown",
     ["overall_rank"] = 811,
     ["bosses"] = {
@@ -62178,7 +62178,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2357,
         ["dps_max"] = 14730.81,
-        ["points"] = 9135.949858230115,
+        ["points"] = 9136.078782452998,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3102,
@@ -62201,9 +62201,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3640,
+        ["rank_raids"] = 3641,
         ["dps_max"] = 9444.44,
-        ["points"] = 8459.000000000002,
+        ["points"] = 8458.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 238,
@@ -62218,7 +62218,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Shadowcure"] = {
-    ["percentile"] = 84.48,
+    ["percentile"] = 84.479,
     ["server"] = "Icecrown",
     ["overall_rank"] = 812,
     ["bosses"] = {
@@ -62255,12 +62255,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2943,
         ["dps_max"] = 14340.49,
-        ["points"] = 8971.795254439636,
+        ["points"] = 8971.948672038197,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 9848,
+        ["rank_raids"] = 9849,
         ["dps_max"] = 16000.81,
-        ["points"] = 6596.600000000001,
+        ["points"] = 6596.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6662,
@@ -62278,9 +62278,9 @@ UWULogsData[8][2] = {
         ["points"] = 9072.251897666574,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1566,
+        ["rank_raids"] = 1567,
         ["dps_max"] = 10433.45,
-        ["points"] = 9124.599999999999,
+        ["points"] = 9124.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -62332,7 +62332,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3700,
         ["dps_max"] = 13915.39,
-        ["points"] = 8744.963438292792,
+        ["points"] = 8745.150701283199,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1892,
@@ -62355,9 +62355,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2769,
+        ["rank_raids"] = 2770,
         ["dps_max"] = 9814.0,
-        ["points"] = 8720.300000000001,
+        ["points"] = 8720.000000000002,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -62372,7 +62372,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Straxedix"] = {
-    ["percentile"] = 84.427,
+    ["percentile"] = 84.428,
     ["server"] = "Icecrown",
     ["overall_rank"] = 814,
     ["bosses"] = {
@@ -62409,7 +62409,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4756,
         ["dps_max"] = 13414.39,
-        ["points"] = 8421.131174451575,
+        ["points"] = 8421.366756192181,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5675,
@@ -62432,9 +62432,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 7150,
+        ["rank_raids"] = 7152,
         ["dps_max"] = 8103.78,
-        ["points"] = 7406.0,
+        ["points"] = 7405.400000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -62479,14 +62479,14 @@ UWULogsData[8][2] = {
         ["points"] = 8874.293785310734,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8928,
+        ["rank_raids"] = 8929,
         ["dps_max"] = 12915.97,
-        ["points"] = 6872.599999999999,
+        ["points"] = 6872.3,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3417,
         ["dps_max"] = 14069.24,
-        ["points"] = 8819.579167288464,
+        ["points"] = 8819.75529692629,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2626,
@@ -62526,7 +62526,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Cartercruise"] = {
-    ["percentile"] = 84.409,
+    ["percentile"] = 84.41,
     ["server"] = "Icecrown",
     ["overall_rank"] = 816,
     ["bosses"] = {
@@ -62563,7 +62563,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4201,
         ["dps_max"] = 13668.29,
-        ["points"] = 8588.27040740188,
+        ["points"] = 8588.481050432707,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2495,
@@ -62586,9 +62586,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 8237,
+        ["rank_raids"] = 8239,
         ["dps_max"] = 7630.1,
-        ["points"] = 7079.9000000000015,
+        ["points"] = 7079.3,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -62640,7 +62640,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6566,
         ["dps_max"] = 12718.41,
-        ["points"] = 7828.682286225937,
+        ["points"] = 7829.006266786034,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3551,
@@ -62717,12 +62717,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1490,
         ["dps_max"] = 15537.03,
-        ["points"] = 9434.412774212804,
+        ["points"] = 9434.497165025365,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8913,
+        ["rank_raids"] = 8914,
         ["dps_max"] = 16183.81,
-        ["points"] = 6877.1,
+        ["points"] = 6876.800000000001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1651,
@@ -62740,9 +62740,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2038,
+        ["rank_raids"] = 2039,
         ["dps_max"] = 10151.92,
-        ["points"] = 8939.6,
+        ["points"] = 8939.300000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -62757,7 +62757,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Pocset"] = {
-    ["percentile"] = 84.361,
+    ["percentile"] = 84.362,
     ["server"] = "Icecrown",
     ["overall_rank"] = 819,
     ["bosses"] = {
@@ -62794,7 +62794,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5555,
         ["dps_max"] = 13088.55,
-        ["points"] = 8162.960752126548,
+        ["points"] = 8163.234855267084,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6688,
@@ -62871,7 +62871,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6694,
         ["dps_max"] = 12676.65,
-        ["points"] = 7791.3744217281,
+        ["points"] = 7791.703968964489,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6747,
@@ -62894,9 +62894,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2809,
+        ["rank_raids"] = 2810,
         ["dps_max"] = 9793.72,
-        ["points"] = 8708.300000000001,
+        ["points"] = 8708.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -62948,7 +62948,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4230,
         ["dps_max"] = 13651.73,
-        ["points"] = 8579.3165199224,
+        ["points"] = 8579.528498955535,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1071,
@@ -62971,9 +62971,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4376,
+        ["rank_raids"] = 4378,
         ["dps_max"] = 9154.4,
-        ["points"] = 8238.2,
+        ["points"] = 8237.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 193,
@@ -63025,7 +63025,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2080,
         ["dps_max"] = 14984.67,
-        ["points"] = 9249.365766303537,
+        ["points"] = 9249.477767830498,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4715,
@@ -63048,9 +63048,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3746,
+        ["rank_raids"] = 3748,
         ["dps_max"] = 9403.95,
-        ["points"] = 8427.2,
+        ["points"] = 8426.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -63100,9 +63100,9 @@ UWULogsData[8][2] = {
         ["points"] = 8747.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10648,
+        ["rank_raids"] = 10649,
         ["dps_max"] = 11525.43,
-        ["points"] = 6731.831069989554,
+        ["points"] = 6732.318710832587,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3791,
@@ -63172,14 +63172,14 @@ UWULogsData[8][2] = {
         ["points"] = 9155.367231638418,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 13622,
+        ["rank_raids"] = 13623,
         ["dps_max"] = 11655.31,
-        ["points"] = 6188.8,
+        ["points"] = 6188.700000000001,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10232,
+        ["rank_raids"] = 10233,
         ["dps_max"] = 11628.73,
-        ["points"] = 6842.262348903148,
+        ["points"] = 6842.733512384362,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1884,
@@ -63202,9 +63202,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 549,
+        ["rank_raids"] = 550,
         ["dps_max"] = 11236.48,
-        ["points"] = 9576.5,
+        ["points"] = 9576.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 302,
@@ -63256,7 +63256,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6590,
         ["dps_max"] = 12709.66,
-        ["points"] = 7821.220713326369,
+        ["points"] = 7821.545807221724,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3742,
@@ -63279,9 +63279,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2110,
+        ["rank_raids"] = 2111,
         ["dps_max"] = 10120.58,
-        ["points"] = 8918.0,
+        ["points"] = 8917.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -63333,7 +63333,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4389,
         ["dps_max"] = 13582.83,
-        ["points"] = 8540.51634084465,
+        ["points"] = 8540.734109221128,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1086,
@@ -63356,9 +63356,9 @@ UWULogsData[8][2] = {
         ["points"] = 9006.18498734889,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3192,
+        ["rank_raids"] = 3193,
         ["dps_max"] = 9629.48,
-        ["points"] = 8593.400000000001,
+        ["points"] = 8593.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -63408,9 +63408,9 @@ UWULogsData[8][2] = {
         ["points"] = 8022.5,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 9211,
+        ["rank_raids"] = 9212,
         ["dps_max"] = 11904.8,
-        ["points"] = 7134.756006566184,
+        ["points"] = 7135.183527305282,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2639,
@@ -63433,9 +63433,9 @@ UWULogsData[8][2] = {
         ["points"] = 1896.3158059386099,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2306,
+        ["rank_raids"] = 2307,
         ["dps_max"] = 10011.14,
-        ["points"] = 8859.2,
+        ["points"] = 8858.900000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -63487,7 +63487,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7056,
         ["dps_max"] = 12566.8,
-        ["points"] = 7688.404715714072,
+        ["points"] = 7688.749626977022,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2257,
@@ -63510,9 +63510,9 @@ UWULogsData[8][2] = {
         ["points"] = 8726.454877705932,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1974,
+        ["rank_raids"] = 1975,
         ["dps_max"] = 10185.17,
-        ["points"] = 8961.4,
+        ["points"] = 8961.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -63564,7 +63564,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6493,
         ["dps_max"] = 12739.01,
-        ["points"] = 7854.051634084464,
+        ["points"] = 7854.371829304685,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3042,
@@ -63587,9 +63587,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2240,
+        ["rank_raids"] = 2241,
         ["dps_max"] = 10047.52,
-        ["points"] = 8879.0,
+        ["points"] = 8878.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -63604,7 +63604,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Azgarniana"] = {
-    ["percentile"] = 84.196,
+    ["percentile"] = 84.197,
     ["server"] = "Icecrown",
     ["overall_rank"] = 830,
     ["bosses"] = {
@@ -63641,7 +63641,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8111,
         ["dps_max"] = 12225.21,
-        ["points"] = 7418.295776749739,
+        ["points"] = 7418.680990749031,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1889,
@@ -63664,9 +63664,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4315,
+        ["rank_raids"] = 4317,
         ["dps_max"] = 9175.85,
-        ["points"] = 8256.5,
+        ["points"] = 8255.9,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -63718,7 +63718,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6569,
         ["dps_max"] = 12717.25,
-        ["points"] = 7827.189971646022,
+        ["points"] = 7827.514174873172,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3211,
@@ -63741,9 +63741,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5738,
+        ["rank_raids"] = 5740,
         ["dps_max"] = 8647.56,
-        ["points"] = 7829.600000000001,
+        ["points"] = 7829.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -63795,7 +63795,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1243,
         ["dps_max"] = 15832.14,
-        ["points"] = 9514.99776152813,
+        ["points"] = 9515.070128319905,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2932,
@@ -63818,9 +63818,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 648,
+        ["rank_raids"] = 649,
         ["dps_max"] = 11112.99,
-        ["points"] = 9527.0,
+        ["points"] = 9526.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -63872,12 +63872,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4794,
         ["dps_max"] = 13402.92,
-        ["points"] = 8409.192657812267,
+        ["points"] = 8409.430020889287,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 492,
         ["dps_max"] = 29817.97,
-        ["points"] = 9663.58160716909,
+        ["points"] = 9663.631022326674,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4806,
@@ -63912,7 +63912,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Hillcursy"] = {
-    ["percentile"] = 84.145,
+    ["percentile"] = 84.146,
     ["server"] = "Icecrown",
     ["overall_rank"] = 834,
     ["bosses"] = {
@@ -63949,7 +63949,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7886,
         ["dps_max"] = 12303.72,
-        ["points"] = 7473.5114162065365,
+        ["points"] = 7473.888391524918,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1865,
@@ -64026,7 +64026,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2470,
         ["dps_max"] = 14645.61,
-        ["points"] = 9109.088195791672,
+        ["points"] = 9109.221128021487,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 752,
@@ -64049,9 +64049,9 @@ UWULogsData[8][2] = {
         ["points"] = 9593.758785493394,
       },
       ["Halion"] = {
-        ["rank_raids"] = 937,
+        ["rank_raids"] = 938,
         ["dps_max"] = 10841.54,
-        ["points"] = 9382.5,
+        ["points"] = 9382.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -64081,7 +64081,7 @@ UWULogsData[8][2] = {
         ["points"] = 8550.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 26616,
+        ["rank_raids"] = 26619,
         ["dps_max"] = 13764.76,
         ["points"] = 6081.648829356077,
       },
@@ -64103,12 +64103,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3944,
         ["dps_max"] = 13791.27,
-        ["points"] = 8659.901507237726,
+        ["points"] = 8660.101462250075,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 18332,
+        ["rank_raids"] = 18334,
         ["dps_max"] = 14499.09,
-        ["points"] = 5717.799999999999,
+        ["points"] = 5717.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 248,
@@ -64180,7 +64180,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3714,
         ["dps_max"] = 13908.48,
-        ["points"] = 8740.486494553052,
+        ["points"] = 8740.674425544614,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1125,
@@ -64203,9 +64203,9 @@ UWULogsData[8][2] = {
         ["points"] = 1583.1179566909748,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4856,
+        ["rank_raids"] = 4858,
         ["dps_max"] = 8982.91,
-        ["points"] = 8094.200000000001,
+        ["points"] = 8093.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1325,
@@ -64220,7 +64220,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Youleadit"] = {
-    ["percentile"] = 84.119,
+    ["percentile"] = 84.12,
     ["server"] = "Icecrown",
     ["overall_rank"] = 838,
     ["bosses"] = {
@@ -64257,7 +64257,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4600,
         ["dps_max"] = 13487.91,
-        ["points"] = 8467.39292642889,
+        ["points"] = 8467.621605490898,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2406,
@@ -64280,9 +64280,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3405,
+        ["rank_raids"] = 3406,
         ["dps_max"] = 9539.66,
-        ["points"] = 8529.500000000002,
+        ["points"] = 8529.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1033,
@@ -64297,7 +64297,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Dywka"] = {
-    ["percentile"] = 84.118,
+    ["percentile"] = 84.119,
     ["server"] = "Icecrown",
     ["overall_rank"] = 839,
     ["bosses"] = {
@@ -64334,7 +64334,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6816,
         ["dps_max"] = 12637.8,
-        ["points"] = 7757.051186390091,
+        ["points"] = 7757.385854968666,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1456,
@@ -64357,9 +64357,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2607,
+        ["rank_raids"] = 2608,
         ["dps_max"] = 9885.11,
-        ["points"] = 8768.900000000001,
+        ["points"] = 8768.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -64411,7 +64411,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3257,
         ["dps_max"] = 14160.22,
-        ["points"] = 8864.348604685867,
+        ["points"] = 8864.518054312146,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6961,
@@ -64434,9 +64434,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 754,
+        ["rank_raids"] = 755,
         ["dps_max"] = 11006.74,
-        ["points"] = 9474.0,
+        ["points"] = 9473.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -64481,14 +64481,14 @@ UWULogsData[8][2] = {
         ["points"] = 7576.271186440678,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 11589,
+        ["rank_raids"] = 11590,
         ["dps_max"] = 12190.88,
-        ["points"] = 6392.099999999999,
+        ["points"] = 6392.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 763,
         ["dps_max"] = 16551.24,
-        ["points"] = 9695.567825697657,
+        ["points"] = 9695.613249776186,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2895,
@@ -64511,9 +64511,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2336,
+        ["rank_raids"] = 2337,
         ["dps_max"] = 9998.75,
-        ["points"] = 8850.2,
+        ["points"] = 8849.9,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -64565,7 +64565,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4759,
         ["dps_max"] = 13413.68,
-        ["points"] = 8418.146545291747,
+        ["points"] = 8418.382572366458,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4694,
@@ -64642,12 +64642,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2621,
         ["dps_max"] = 14536.2,
-        ["points"] = 9062.826443814356,
+        ["points"] = 9062.96627872277,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 9221,
+        ["rank_raids"] = 9222,
         ["dps_max"] = 16124.02,
-        ["points"] = 6784.700000000002,
+        ["points"] = 6784.400000000001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1131,
@@ -64665,9 +64665,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3664,
+        ["rank_raids"] = 3665,
         ["dps_max"] = 9431.25,
-        ["points"] = 8451.800000000001,
+        ["points"] = 8451.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 718,
@@ -64687,7 +64687,7 @@ UWULogsData[8][2] = {
     ["overall_rank"] = 844,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 21780,
+        ["rank_raids"] = 21781,
         ["dps_max"] = 12318.58,
         ["points"] = 5470.254063086582,
       },
@@ -64719,7 +64719,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7032,
         ["dps_max"] = 12574.74,
-        ["points"] = 7694.373974033726,
+        ["points"] = 7694.71799462847,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1155,
@@ -64742,9 +64742,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 7372,
+        ["rank_raids"] = 7374,
         ["dps_max"] = 8008.65,
-        ["points"] = 7339.400000000001,
+        ["points"] = 7338.800000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -64796,7 +64796,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5211,
         ["dps_max"] = 13220.93,
-        ["points"] = 8283.838233099537,
+        ["points"] = 8284.094300208893,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4207,
@@ -64819,9 +64819,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1211,
+        ["rank_raids"] = 1212,
         ["dps_max"] = 10665.09,
-        ["points"] = 9266.599999999999,
+        ["points"] = 9266.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 499,
@@ -64836,7 +64836,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Ttc"] = {
-    ["percentile"] = 83.937,
+    ["percentile"] = 83.938,
     ["server"] = "Icecrown",
     ["overall_rank"] = 846,
     ["bosses"] = {
@@ -64873,7 +64873,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4128,
         ["dps_max"] = 13700.66,
-        ["points"] = 8609.16281152067,
+        ["points"] = 8609.370337212773,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3113,
@@ -64896,9 +64896,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2757,
+        ["rank_raids"] = 2758,
         ["dps_max"] = 9820.08,
-        ["points"] = 8723.9,
+        ["points"] = 8723.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 419,
@@ -64950,7 +64950,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6367,
         ["dps_max"] = 12786.03,
-        ["points"] = 7883.897925682733,
+        ["points"] = 7884.213667561922,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1397,
@@ -64973,9 +64973,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 6445,
+        ["rank_raids"] = 6447,
         ["dps_max"] = 8372.31,
-        ["points"] = 7617.5,
+        ["points"] = 7616.900000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -65027,7 +65027,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3815,
         ["dps_max"] = 13858.8,
-        ["points"] = 8698.701686315475,
+        ["points"] = 8698.895851984484,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5990,
@@ -65050,9 +65050,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4574,
+        ["rank_raids"] = 4576,
         ["dps_max"] = 9081.02,
-        ["points"] = 8178.8,
+        ["points"] = 8178.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 687,
@@ -65104,7 +65104,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7239,
         ["dps_max"] = 12509.23,
-        ["points"] = 7627.219817937622,
+        ["points"] = 7627.5738585496865,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2041,
@@ -65127,9 +65127,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 7756,
+        ["rank_raids"] = 7758,
         ["dps_max"] = 7838.54,
-        ["points"] = 7224.200000000001,
+        ["points"] = 7223.600000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -65181,12 +65181,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3982,
         ["dps_max"] = 13768.94,
-        ["points"] = 8650.947619758244,
+        ["points"] = 8651.148910772903,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8176,
+        ["rank_raids"] = 8177,
         ["dps_max"] = 16345.05,
-        ["points"] = 7098.200000000001,
+        ["points"] = 7097.900000000001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4522,
@@ -65204,9 +65204,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3700,
+        ["rank_raids"] = 3701,
         ["dps_max"] = 9421.05,
-        ["points"] = 8441.0,
+        ["points"] = 8440.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -65258,7 +65258,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8267,
         ["dps_max"] = 12173.81,
-        ["points"] = 7375.018653932249,
+        ["points"] = 7375.410325276037,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2936,
@@ -65281,9 +65281,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 680,
+        ["rank_raids"] = 681,
         ["dps_max"] = 11071.62,
-        ["points"] = 9511.0,
+        ["points"] = 9510.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -65335,7 +65335,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3693,
         ["dps_max"] = 13919.54,
-        ["points"] = 8747.948067452618,
+        ["points"] = 8748.134885108922,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3245,
@@ -65385,9 +65385,9 @@ UWULogsData[8][2] = {
         ["points"] = 8963.657013060762,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 20806,
+        ["rank_raids"] = 20807,
         ["dps_max"] = 7967.87,
-        ["points"] = 5470.4,
+        ["points"] = 5470.3,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1158,
@@ -65412,12 +65412,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8946,
         ["dps_max"] = 11977.75,
-        ["points"] = 7200.417848082376,
+        ["points"] = 7200.8355714712025,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 445,
         ["dps_max"] = 30141.34,
-        ["points"] = 9694.43220214485,
+        ["points"] = 9694.477085781433,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1789,
@@ -65425,9 +65425,9 @@ UWULogsData[8][2] = {
         ["points"] = 9035.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 21138,
+        ["rank_raids"] = 21139,
         ["dps_max"] = 4035.0,
-        ["points"] = 5437.2,
+        ["points"] = 5437.099999999999,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -65489,7 +65489,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1963,
         ["dps_max"] = 15095.5,
-        ["points"] = 9295.627518280853,
+        ["points"] = 9295.732617129215,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2643,
@@ -65512,9 +65512,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1702,
+        ["rank_raids"] = 1703,
         ["dps_max"] = 10345.01,
-        ["points"] = 9070.199999999999,
+        ["points"] = 9069.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -65566,7 +65566,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3395,
         ["dps_max"] = 14081.9,
-        ["points"] = 8825.548425608118,
+        ["points"] = 8825.723664577738,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3237,
@@ -65589,9 +65589,9 @@ UWULogsData[8][2] = {
         ["points"] = 9482.710149001969,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4584,
+        ["rank_raids"] = 4586,
         ["dps_max"] = 9077.0,
-        ["points"] = 8175.800000000001,
+        ["points"] = 8175.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -65643,7 +65643,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5090,
         ["dps_max"] = 13280.79,
-        ["points"] = 8316.669153857632,
+        ["points"] = 8316.920322291853,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2055,
@@ -65666,9 +65666,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2560,
+        ["rank_raids"] = 2561,
         ["dps_max"] = 9906.15,
-        ["points"] = 8783.0,
+        ["points"] = 8782.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 795,
@@ -65720,7 +65720,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 999,
         ["dps_max"] = 16168.44,
-        ["points"] = 9604.536636322937,
+        ["points"] = 9604.595643091614,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2501,
@@ -65743,9 +65743,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 6101,
+        ["rank_raids"] = 6103,
         ["dps_max"] = 8504.32,
-        ["points"] = 7720.700000000001,
+        ["points"] = 7720.100000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -65797,7 +65797,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2281,
         ["dps_max"] = 14798.4,
-        ["points"] = 9168.78077898821,
+        ["points"] = 9168.90480453596,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2799,
@@ -65820,9 +65820,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5307,
+        ["rank_raids"] = 5309,
         ["dps_max"] = 8816.76,
-        ["points"] = 7958.900000000001,
+        ["points"] = 7958.3,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -65874,7 +65874,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3687,
         ["dps_max"] = 13921.48,
-        ["points"] = 8749.440382032533,
+        ["points"] = 8749.626977021784,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6899,
@@ -65897,9 +65897,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4081,
+        ["rank_raids"] = 4083,
         ["dps_max"] = 9278.99,
-        ["points"] = 8326.7,
+        ["points"] = 8326.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -65914,7 +65914,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Vwo"] = {
-    ["percentile"] = 83.721,
+    ["percentile"] = 83.722,
     ["server"] = "Icecrown",
     ["overall_rank"] = 860,
     ["bosses"] = {
@@ -65949,9 +65949,9 @@ UWULogsData[8][2] = {
         ["points"] = 8544.5,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10913,
+        ["rank_raids"] = 10914,
         ["dps_max"] = 11460.25,
-        ["points"] = 6654.230711834055,
+        ["points"] = 6654.729931363772,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1534,
@@ -66001,9 +66001,9 @@ UWULogsData[8][2] = {
         ["points"] = 9239.068710959682,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 18286,
+        ["rank_raids"] = 18287,
         ["dps_max"] = 9711.12,
-        ["points"] = 5722.4,
+        ["points"] = 5722.3,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2701,
@@ -66028,12 +66028,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2599,
         ["dps_max"] = 14550.72,
-        ["points"] = 9073.27264587375,
+        ["points"] = 9073.410922112802,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 231,
         ["dps_max"] = 31594.8,
-        ["points"] = 9851.623328926105,
+        ["points"] = 9851.645123384254,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 15483,
@@ -66051,9 +66051,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 281,
+        ["rank_raids"] = 282,
         ["dps_max"] = 11609.79,
-        ["points"] = 9746.199999999999,
+        ["points"] = 9745.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -66105,12 +66105,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2284,
         ["dps_max"] = 14797.29,
-        ["points"] = 9165.796149828384,
+        ["points"] = 9165.920620710236,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8257,
+        ["rank_raids"] = 8258,
         ["dps_max"] = 16325.12,
-        ["points"] = 7073.900000000001,
+        ["points"] = 7073.599999999999,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 11464,
@@ -66182,7 +66182,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7234,
         ["dps_max"] = 12510.4,
-        ["points"] = 7628.712132517535,
+        ["points"] = 7629.065950462548,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4567,
@@ -66205,9 +66205,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1812,
+        ["rank_raids"] = 1813,
         ["dps_max"] = 10279.57,
-        ["points"] = 9026.199999999999,
+        ["points"] = 9025.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -66259,7 +66259,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6485,
         ["dps_max"] = 12742.92,
-        ["points"] = 7857.036263244291,
+        ["points"] = 7857.356013130408,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1655,
@@ -66282,9 +66282,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1092,
+        ["rank_raids"] = 1093,
         ["dps_max"] = 10739.83,
-        ["points"] = 9314.199999999999,
+        ["points"] = 9313.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 94,
@@ -66336,12 +66336,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5503,
         ["dps_max"] = 13106.66,
-        ["points"] = 8185.34547082525,
+        ["points"] = 8185.616233960012,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 9282,
+        ["rank_raids"] = 9283,
         ["dps_max"] = 16108.87,
-        ["points"] = 6766.4000000000015,
+        ["points"] = 6766.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 776,
@@ -66413,7 +66413,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3638,
         ["dps_max"] = 13953.22,
-        ["points"] = 8768.840471571408,
+        ["points"] = 8769.024171888988,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 985,
@@ -66436,9 +66436,9 @@ UWULogsData[8][2] = {
         ["points"] = 9560.022490863086,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4803,
+        ["rank_raids"] = 4805,
         ["dps_max"] = 9002.8,
-        ["points"] = 8110.1,
+        ["points"] = 8109.500000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -66490,7 +66490,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2293,
         ["dps_max"] = 14790.6,
-        ["points"] = 9161.319206088643,
+        ["points"] = 9161.44434497165,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3908,
@@ -66513,9 +66513,9 @@ UWULogsData[8][2] = {
         ["points"] = 4079.28029238122,
       },
       ["Halion"] = {
-        ["rank_raids"] = 7426,
+        ["rank_raids"] = 7428,
         ["dps_max"] = 7983.65,
-        ["points"] = 7323.200000000001,
+        ["points"] = 7322.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -66567,7 +66567,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3103,
         ["dps_max"] = 14237.15,
-        ["points"] = 8918.071929562751,
+        ["points"] = 8918.233363175172,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 937,
@@ -66580,9 +66580,9 @@ UWULogsData[8][2] = {
         ["points"] = 7681.400000000001,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 10417,
+        ["rank_raids"] = 10418,
         ["dps_max"] = 10198.78,
-        ["points"] = 6509.3,
+        ["points"] = 6509.2,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -66590,9 +66590,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 6645,
+        ["rank_raids"] = 6647,
         ["dps_max"] = 8297.06,
-        ["points"] = 7557.5,
+        ["points"] = 7556.900000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -66607,7 +66607,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Scoob"] = {
-    ["percentile"] = 83.584,
+    ["percentile"] = 83.585,
     ["server"] = "Icecrown",
     ["overall_rank"] = 869,
     ["bosses"] = {
@@ -66644,7 +66644,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7665,
         ["dps_max"] = 12370.65,
-        ["points"] = 7521.265482763767,
+        ["points"] = 7521.635332736497,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1458,
@@ -66721,7 +66721,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2855,
         ["dps_max"] = 14395.76,
-        ["points"] = 8997.164602298164,
+        ["points"] = 8997.314234556849,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4573,
@@ -66744,9 +66744,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 866,
+        ["rank_raids"] = 867,
         ["dps_max"] = 10895.71,
-        ["points"] = 9418.0,
+        ["points"] = 9417.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -66798,7 +66798,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8519,
         ["dps_max"] = 12105.38,
-        ["points"] = 7324.279958215192,
+        ["points"] = 7324.679200238735,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3675,
@@ -66821,9 +66821,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3523,
+        ["rank_raids"] = 3524,
         ["dps_max"] = 9487.27,
-        ["points"] = 8494.1,
+        ["points"] = 8493.800000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -66838,7 +66838,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Annie"] = {
-    ["percentile"] = 83.578,
+    ["percentile"] = 83.577,
     ["server"] = "Icecrown",
     ["overall_rank"] = 872,
     ["bosses"] = {
@@ -66868,19 +66868,19 @@ UWULogsData[8][2] = {
         ["points"] = 8600.282485875707,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 12072,
+        ["rank_raids"] = 12073,
         ["dps_max"] = 12061.81,
-        ["points"] = 6343.799999999999,
+        ["points"] = 6343.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 884,
         ["dps_max"] = 16362.47,
-        ["points"] = 9644.8291299806,
+        ["points"] = 9644.882124738884,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 541,
         ["dps_max"] = 29579.25,
-        ["points"] = 9619.50932863229,
+        ["points"] = 9619.565217391304,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4499,
@@ -66888,9 +66888,9 @@ UWULogsData[8][2] = {
         ["points"] = 8201.300000000001,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 12394,
+        ["rank_raids"] = 12395,
         ["dps_max"] = 9747.24,
-        ["points"] = 6311.599999999999,
+        ["points"] = 6311.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -66898,9 +66898,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1336,
+        ["rank_raids"] = 1337,
         ["dps_max"] = 10573.01,
-        ["points"] = 9216.599999999999,
+        ["points"] = 9216.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -66930,7 +66930,7 @@ UWULogsData[8][2] = {
         ["points"] = 7760.900000000001,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 12006,
+        ["rank_raids"] = 12007,
         ["dps_max"] = 16947.27,
         ["points"] = 7487.769111577779,
       },
@@ -66952,7 +66952,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5433,
         ["dps_max"] = 13134.06,
-        ["points"] = 8209.222504103866,
+        ["points"] = 8209.489704565802,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 681,
@@ -66975,9 +66975,9 @@ UWULogsData[8][2] = {
         ["points"] = 9862.243463592915,
       },
       ["Halion"] = {
-        ["rank_raids"] = 13037,
+        ["rank_raids"] = 13041,
         ["dps_max"] = 4152.91,
-        ["points"] = 6247.3,
+        ["points"] = 6246.9,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -67022,14 +67022,14 @@ UWULogsData[8][2] = {
         ["points"] = 8131.35593220339,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 15663,
+        ["rank_raids"] = 15664,
         ["dps_max"] = 11139.12,
-        ["points"] = 5984.7,
+        ["points"] = 5984.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4676,
         ["dps_max"] = 13451.67,
-        ["points"] = 8447.992836890016,
+        ["points"] = 8448.224410623694,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2967,
@@ -67052,9 +67052,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 10150,
+        ["rank_raids"] = 10152,
         ["dps_max"] = 6422.01,
-        ["points"] = 6536.0,
+        ["points"] = 6535.799999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -67069,7 +67069,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Cousine"] = {
-    ["percentile"] = 83.532,
+    ["percentile"] = 83.533,
     ["server"] = "Icecrown",
     ["overall_rank"] = 875,
     ["bosses"] = {
@@ -67104,14 +67104,14 @@ UWULogsData[8][2] = {
         ["points"] = 7763.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10882,
+        ["rank_raids"] = 10883,
         ["dps_max"] = 11467.03,
-        ["points"] = 6666.169228473362,
+        ["points"] = 6666.666666666666,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 549,
         ["dps_max"] = 29540.38,
-        ["points"] = 9610.694872924929,
+        ["points"] = 9610.75205640423,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1249,
@@ -67183,12 +67183,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3258,
         ["dps_max"] = 14160.17,
-        ["points"] = 8862.856290105954,
+        ["points"] = 8863.025962399284,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 11703,
+        ["rank_raids"] = 11704,
         ["dps_max"] = 15646.38,
-        ["points"] = 6380.7,
+        ["points"] = 6380.599999999999,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 718,
@@ -67206,9 +67206,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 13408,
+        ["rank_raids"] = 13412,
         ["dps_max"] = 3994.01,
-        ["points"] = 6210.2,
+        ["points"] = 6209.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -67223,7 +67223,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Lowdamagus"] = {
-    ["percentile"] = 83.518,
+    ["percentile"] = 83.519,
     ["server"] = "Icecrown",
     ["overall_rank"] = 877,
     ["bosses"] = {
@@ -67260,7 +67260,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5361,
         ["dps_max"] = 13161.98,
-        ["points"] = 8234.591851962394,
+        ["points"] = 8234.855267084453,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 815,
@@ -67300,7 +67300,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Hungering"] = {
-    ["percentile"] = 83.497,
+    ["percentile"] = 83.496,
     ["server"] = "Icecrown",
     ["overall_rank"] = 878,
     ["bosses"] = {
@@ -67337,7 +67337,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5338,
         ["dps_max"] = 13168.23,
-        ["points"] = 8243.545739441874,
+        ["points"] = 8243.807818561623,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1267,
@@ -67350,9 +67350,9 @@ UWULogsData[8][2] = {
         ["points"] = 8294.900000000001,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 9971,
+        ["rank_raids"] = 9972,
         ["dps_max"] = 10290.11,
-        ["points"] = 6559.700000000001,
+        ["points"] = 6559.400000000001,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -67392,7 +67392,7 @@ UWULogsData[8][2] = {
         ["points"] = 9344.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 11732,
+        ["rank_raids"] = 11733,
         ["dps_max"] = 17002.75,
         ["points"] = 7512.281698579128,
       },
@@ -67414,7 +67414,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4278,
         ["dps_max"] = 13633.4,
-        ["points"] = 8567.378003283093,
+        ["points"] = 8567.591763652641,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2641,
@@ -67489,9 +67489,9 @@ UWULogsData[8][2] = {
         ["points"] = 9232.451344850208,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 9885,
+        ["rank_raids"] = 9886,
         ["dps_max"] = 11718.18,
-        ["points"] = 6939.2627965975225,
+        ["points"] = 6939.719486720382,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6753,
@@ -67514,9 +67514,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 6028,
+        ["rank_raids"] = 6030,
         ["dps_max"] = 8535.5,
-        ["points"] = 7742.6,
+        ["points"] = 7742.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -67531,7 +67531,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Nimolock"] = {
-    ["percentile"] = 83.47,
+    ["percentile"] = 83.471,
     ["server"] = "Icecrown",
     ["overall_rank"] = 881,
     ["bosses"] = {
@@ -67568,7 +67568,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5311,
         ["dps_max"] = 13179.95,
-        ["points"] = 8252.499626921355,
+        ["points"] = 8252.760370038794,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2045,
@@ -67591,9 +67591,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 12524,
+        ["rank_raids"] = 12528,
         ["dps_max"] = 4377.41,
-        ["points"] = 6298.599999999999,
+        ["points"] = 6298.200000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -67645,7 +67645,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8228,
         ["dps_max"] = 12185.36,
-        ["points"] = 7388.44948515147,
+        ["points"] = 7388.839152491794,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1221,
@@ -67722,7 +67722,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2315,
         ["dps_max"] = 14774.77,
-        ["points"] = 9152.365318609163,
+        ["points"] = 9152.491793494479,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3302,
@@ -67745,9 +67745,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4790,
+        ["rank_raids"] = 4792,
         ["dps_max"] = 9006.33,
-        ["points"] = 8114.000000000001,
+        ["points"] = 8113.400000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 513,
@@ -67799,12 +67799,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1270,
         ["dps_max"] = 15797.48,
-        ["points"] = 9507.536188628563,
+        ["points"] = 9507.609668755596,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 15038,
+        ["rank_raids"] = 15039,
         ["dps_max"] = 15069.85,
-        ["points"] = 6047.199999999999,
+        ["points"] = 6047.099999999999,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1966,
@@ -67876,7 +67876,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4417,
         ["dps_max"] = 13570.84,
-        ["points"] = 8536.03939710491,
+        ["points"] = 8536.257833482543,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 800,
@@ -67899,9 +67899,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2692,
+        ["rank_raids"] = 2693,
         ["dps_max"] = 9847.4,
-        ["points"] = 8743.400000000001,
+        ["points"] = 8743.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1069,
@@ -67931,7 +67931,7 @@ UWULogsData[8][2] = {
         ["points"] = 8875.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 11912,
+        ["rank_raids"] = 11913,
         ["dps_max"] = 16963.58,
         ["points"] = 7494.9753173094305,
       },
@@ -67953,7 +67953,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4322,
         ["dps_max"] = 13617.17,
-        ["points"] = 8558.424115803611,
+        ["points"] = 8558.639212175469,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5978,
@@ -67993,7 +67993,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Aerlock"] = {
-    ["percentile"] = 83.382,
+    ["percentile"] = 83.383,
     ["server"] = "Icecrown",
     ["overall_rank"] = 887,
     ["bosses"] = {
@@ -68008,7 +68008,7 @@ UWULogsData[8][2] = {
         ["points"] = 8482.400000000001,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 14979,
+        ["rank_raids"] = 14980,
         ["dps_max"] = 16402.93,
         ["points"] = 7247.264756705505,
       },
@@ -68030,7 +68030,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3716,
         ["dps_max"] = 13908.11,
-        ["points"] = 8738.994179973139,
+        ["points"] = 8739.182333631752,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1390,
@@ -68053,9 +68053,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1269,
+        ["rank_raids"] = 1270,
         ["dps_max"] = 10617.09,
-        ["points"] = 9243.4,
+        ["points"] = 9243.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 502,
@@ -68107,12 +68107,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3761,
         ["dps_max"] = 13885.83,
-        ["points"] = 8721.086405014177,
+        ["points"] = 8721.27723067741,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 10925,
+        ["rank_raids"] = 10926,
         ["dps_max"] = 15796.1,
-        ["points"] = 6458.5,
+        ["points"] = 6458.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5330,
@@ -68130,9 +68130,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1797,
+        ["rank_raids"] = 1798,
         ["dps_max"] = 10288.22,
-        ["points"] = 9032.199999999999,
+        ["points"] = 9031.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -68177,14 +68177,14 @@ UWULogsData[8][2] = {
         ["points"] = 8926.553672316384,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 7901,
+        ["rank_raids"] = 7902,
         ["dps_max"] = 13221.93,
-        ["points"] = 7180.7,
+        ["points"] = 7180.400000000001,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5308,
         ["dps_max"] = 13181.02,
-        ["points"] = 8253.991941501268,
+        ["points"] = 8254.252461951657,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6983,
@@ -68261,7 +68261,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3099,
         ["dps_max"] = 14238.6,
-        ["points"] = 8919.564244142664,
+        ["points"] = 8919.725455088033,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6045,
@@ -68338,12 +68338,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2808,
         ["dps_max"] = 14420.63,
-        ["points"] = 9012.0877480973,
+        ["points"] = 9012.235153685468,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 12149,
+        ["rank_raids"] = 12150,
         ["dps_max"] = 15568.09,
-        ["points"] = 6336.1,
+        ["points"] = 6335.999999999999,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5181,
@@ -68361,9 +68361,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5196,
+        ["rank_raids"] = 5198,
         ["dps_max"] = 8854.56,
-        ["points"] = 7992.200000000001,
+        ["points"] = 7991.600000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -68415,12 +68415,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5486,
         ["dps_max"] = 13113.65,
-        ["points"] = 8191.314729144904,
+        ["points"] = 8191.584601611459,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 632,
         ["dps_max"] = 29072.23,
-        ["points"] = 9546.055531070957,
+        ["points"] = 9546.122209165687,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5760,
@@ -68438,9 +68438,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2420,
+        ["rank_raids"] = 2421,
         ["dps_max"] = 9959.97,
-        ["points"] = 8825.0,
+        ["points"] = 8824.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -68492,12 +68492,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3819,
         ["dps_max"] = 13857.17,
-        ["points"] = 8697.209371735562,
+        ["points"] = 8697.40376007162,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 9949,
+        ["rank_raids"] = 9950,
         ["dps_max"] = 15980.24,
-        ["points"] = 6566.3,
+        ["points"] = 6566.000000000001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6183,
@@ -68515,9 +68515,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 379,
+        ["rank_raids"] = 380,
         ["dps_max"] = 11462.21,
-        ["points"] = 9675.7,
+        ["points"] = 9675.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -68532,7 +68532,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Kurwajebana"] = {
-    ["percentile"] = 83.192,
+    ["percentile"] = 83.193,
     ["server"] = "Icecrown",
     ["overall_rank"] = 3122,
     ["bosses"] = {
@@ -68646,7 +68646,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4996,
         ["dps_max"] = 13324.61,
-        ["points"] = 8348.007760035816,
+        ["points"] = 8348.254252461951,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2334,
@@ -68669,9 +68669,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 916,
+        ["rank_raids"] = 917,
         ["dps_max"] = 10858.14,
-        ["points"] = 9393.0,
+        ["points"] = 9392.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -68723,7 +68723,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3045,
         ["dps_max"] = 14268.48,
-        ["points"] = 8935.979704521713,
+        ["points"] = 8936.138466129514,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5112,
@@ -68793,14 +68793,14 @@ UWULogsData[8][2] = {
         ["points"] = 9525.42372881356,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8227,
+        ["rank_raids"] = 8228,
         ["dps_max"] = 13119.0,
-        ["points"] = 7082.900000000001,
+        ["points"] = 7082.600000000001,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2261,
         ["dps_max"] = 14811.03,
-        ["points"] = 9176.242351887779,
+        ["points"] = 9176.36526410027,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4869,
@@ -68823,9 +68823,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 567,
+        ["rank_raids"] = 568,
         ["dps_max"] = 11210.74,
-        ["points"] = 9567.5,
+        ["points"] = 9567.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -68840,7 +68840,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Lockdodjabo"] = {
-    ["percentile"] = 83.117,
+    ["percentile"] = 83.118,
     ["server"] = "Icecrown",
     ["overall_rank"] = 898,
     ["bosses"] = {
@@ -68855,7 +68855,7 @@ UWULogsData[8][2] = {
         ["points"] = 8722.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 13513,
+        ["rank_raids"] = 13514,
         ["dps_max"] = 16674.43,
         ["points"] = 7367.220909749232,
       },
@@ -68877,7 +68877,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4531,
         ["dps_max"] = 13516.13,
-        ["points"] = 8492.76227428742,
+        ["points"] = 8492.98716800955,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1085,
@@ -68900,9 +68900,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1407,
+        ["rank_raids"] = 1408,
         ["dps_max"] = 10526.11,
-        ["points"] = 9188.199999999999,
+        ["points"] = 9187.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 471,
@@ -68954,7 +68954,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4870,
         ["dps_max"] = 13377.57,
-        ["points"] = 8389.792568273391,
+        ["points"] = 8390.032826022083,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3476,
@@ -68977,9 +68977,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 9900,
+        ["rank_raids"] = 9902,
         ["dps_max"] = 6638.36,
-        ["points"] = 6581.000000000001,
+        ["points"] = 6580.400000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -69031,7 +69031,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8559,
         ["dps_max"] = 12089.2,
-        ["points"] = 7312.341441575884,
+        ["points"] = 7312.74246493584,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 810,
@@ -69054,9 +69054,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3410,
+        ["rank_raids"] = 3411,
         ["dps_max"] = 9538.36,
-        ["points"] = 8528.0,
+        ["points"] = 8527.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 202,
@@ -69108,12 +69108,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5325,
         ["dps_max"] = 13173.2,
-        ["points"] = 8251.007312341442,
+        ["points"] = 8251.268278125934,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7321,
+        ["rank_raids"] = 7322,
         ["dps_max"] = 16544.66,
-        ["points"] = 7354.700000000001,
+        ["points"] = 7354.400000000001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6132,
@@ -69131,9 +69131,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 7924,
+        ["rank_raids"] = 7926,
         ["dps_max"] = 7762.07,
-        ["points"] = 7173.8,
+        ["points"] = 7173.200000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -69148,7 +69148,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Banhammerlex"] = {
-    ["percentile"] = 83.055,
+    ["percentile"] = 83.056,
     ["server"] = "Icecrown",
     ["overall_rank"] = 902,
     ["bosses"] = {
@@ -69185,7 +69185,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5914,
         ["dps_max"] = 12950.95,
-        ["points"] = 8034.621698253992,
+        ["points"] = 8034.914950760967,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 7065,
@@ -69208,9 +69208,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3377,
+        ["rank_raids"] = 3378,
         ["dps_max"] = 9551.04,
-        ["points"] = 8537.9,
+        ["points"] = 8537.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 623,
@@ -69255,14 +69255,14 @@ UWULogsData[8][2] = {
         ["points"] = 8074.858757062147,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8577,
+        ["rank_raids"] = 8578,
         ["dps_max"] = 13017.48,
-        ["points"] = 6977.9000000000015,
+        ["points"] = 6977.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6274,
         ["dps_max"] = 12817.91,
-        ["points"] = 7915.236531860916,
+        ["points"] = 7915.54759773202,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 957,
@@ -69285,9 +69285,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 8144,
+        ["rank_raids"] = 8146,
         ["dps_max"] = 7671.14,
-        ["points"] = 7107.800000000001,
+        ["points"] = 7107.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -69302,7 +69302,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Abracadabra"] = {
-    ["percentile"] = 83.015,
+    ["percentile"] = 83.016,
     ["server"] = "Icecrown",
     ["overall_rank"] = 904,
     ["bosses"] = {
@@ -69339,7 +69339,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3997,
         ["dps_max"] = 13764.5,
-        ["points"] = 8644.97836143859,
+        ["points"] = 8645.180543121456,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2886,
@@ -69352,9 +69352,9 @@ UWULogsData[8][2] = {
         ["points"] = 9035.8,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 10030,
+        ["rank_raids"] = 10031,
         ["dps_max"] = 10277.11,
-        ["points"] = 6547.999999999999,
+        ["points"] = 6547.9,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -69362,9 +69362,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 6191,
+        ["rank_raids"] = 6193,
         ["dps_max"] = 8465.59,
-        ["points"] = 7693.700000000001,
+        ["points"] = 7693.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1145,
@@ -69416,7 +69416,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7488,
         ["dps_max"] = 12427.57,
-        ["points"] = 7561.557976421429,
+        ["points"] = 7561.921814383766,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5051,
@@ -69439,9 +69439,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4212,
+        ["rank_raids"] = 4214,
         ["dps_max"] = 9222.42,
-        ["points"] = 8287.4,
+        ["points"] = 8286.800000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -69493,7 +69493,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2795,
         ["dps_max"] = 14427.36,
-        ["points"] = 9015.072377257125,
+        ["points"] = 9015.219337511191,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6707,
@@ -69570,7 +69570,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4427,
         ["dps_max"] = 13565.98,
-        ["points"] = 8527.085509625429,
+        ["points"] = 8527.305282005373,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2326,
@@ -69593,9 +69593,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 13753,
+        ["rank_raids"] = 13757,
         ["dps_max"] = 3818.01,
-        ["points"] = 6175.7,
+        ["points"] = 6175.3,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -69647,12 +69647,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3887,
         ["dps_max"] = 13823.68,
-        ["points"] = 8674.82465303686,
+        ["points"] = 8675.022381378692,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7658,
+        ["rank_raids"] = 7659,
         ["dps_max"] = 16462.45,
-        ["points"] = 7253.6,
+        ["points"] = 7253.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5603,
@@ -69670,9 +69670,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1189,
+        ["rank_raids"] = 1190,
         ["dps_max"] = 10677.1,
-        ["points"] = 9275.4,
+        ["points"] = 9275.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -69724,7 +69724,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4282,
         ["dps_max"] = 13630.01,
-        ["points"] = 8564.393374123265,
+        ["points"] = 8564.607579826918,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3329,
@@ -69747,9 +69747,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1045,
+        ["rank_raids"] = 1046,
         ["dps_max"] = 10767.87,
-        ["points"] = 9333.0,
+        ["points"] = 9332.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -69801,7 +69801,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5775,
         ["dps_max"] = 12999.55,
-        ["points"] = 8076.406506491568,
+        ["points"] = 8076.693524321098,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4709,
@@ -69824,9 +69824,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1344,
+        ["rank_raids"] = 1345,
         ["dps_max"] = 10566.61,
-        ["points"] = 9213.4,
+        ["points"] = 9213.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -69876,9 +69876,9 @@ UWULogsData[8][2] = {
         ["points"] = 8882.000000000002,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10508,
+        ["rank_raids"] = 10509,
         ["dps_max"] = 11562.16,
-        ["points"] = 6781.077451126698,
+        ["points"] = 6781.557743957027,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2759,
@@ -69933,7 +69933,7 @@ UWULogsData[8][2] = {
         ["points"] = 8237.000000000002,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10338,
+        ["rank_raids"] = 10339,
         ["dps_max"] = 17257.95,
         ["points"] = 7625.036064165718,
       },
@@ -69955,12 +69955,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3006,
         ["dps_max"] = 14296.63,
-        ["points"] = 8947.91822116102,
+        ["points"] = 8948.075201432408,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 568,
         ["dps_max"] = 29440.13,
-        ["points"] = 9594.535037461437,
+        ["points"] = 9594.594594594595,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1895,
@@ -69968,9 +69968,9 @@ UWULogsData[8][2] = {
         ["points"] = 8993.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 11654,
+        ["rank_raids"] = 11655,
         ["dps_max"] = 9917.31,
-        ["points"] = 6385.6,
+        ["points"] = 6385.499999999999,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -70025,14 +70025,14 @@ UWULogsData[8][2] = {
         ["points"] = 9011.299435028248,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8200,
+        ["rank_raids"] = 8201,
         ["dps_max"] = 13126.17,
-        ["points"] = 7091.000000000001,
+        ["points"] = 7090.700000000001,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7174,
         ["dps_max"] = 12529.23,
-        ["points"] = 7652.58916579615,
+        ["points"] = 7652.939421068338,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1657,
@@ -70055,9 +70055,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4393,
+        ["rank_raids"] = 4395,
         ["dps_max"] = 9150.24,
-        ["points"] = 8233.1,
+        ["points"] = 8232.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 197,
@@ -70087,7 +70087,7 @@ UWULogsData[8][2] = {
         ["points"] = 9116.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10926,
+        ["rank_raids"] = 10927,
         ["dps_max"] = 17156.4,
         ["points"] = 7580.168486480301,
       },
@@ -70109,7 +70109,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4214,
         ["dps_max"] = 13660.27,
-        ["points"] = 8583.793463662141,
+        ["points"] = 8584.004774694122,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2910,
@@ -70186,7 +70186,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4781,
         ["dps_max"] = 13406.17,
-        ["points"] = 8410.68497239218,
+        ["points"] = 8410.922112802149,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3059,
@@ -70209,9 +70209,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4148,
+        ["rank_raids"] = 4150,
         ["dps_max"] = 9250.11,
-        ["points"] = 8306.6,
+        ["points"] = 8306.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -70263,12 +70263,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7957,
         ["dps_max"] = 12278.49,
-        ["points"] = 7463.065214147142,
+        ["points"] = 7463.443748134885,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 9746,
+        ["rank_raids"] = 9747,
         ["dps_max"] = 16022.94,
-        ["points"] = 6627.2,
+        ["points"] = 6626.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3539,
@@ -70286,9 +70286,9 @@ UWULogsData[8][2] = {
         ["points"] = 3046.1062693280855,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5889,
+        ["rank_raids"] = 5891,
         ["dps_max"] = 8592.01,
-        ["points"] = 7784.300000000001,
+        ["points"] = 7783.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 332,
@@ -70340,7 +70340,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8178,
         ["dps_max"] = 12200.93,
-        ["points"] = 7397.403372630951,
+        ["points"] = 7397.791703968965,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1189,
@@ -70363,9 +70363,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1951,
+        ["rank_raids"] = 1952,
         ["dps_max"] = 10197.15,
-        ["points"] = 8970.6,
+        ["points"] = 8970.199999999999,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -70415,9 +70415,9 @@ UWULogsData[8][2] = {
         ["points"] = 7750.400000000001,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 15332,
+        ["rank_raids"] = 15333,
         ["dps_max"] = 10354.09,
-        ["points"] = 6017.8,
+        ["points"] = 6017.699999999999,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 717,
@@ -70440,9 +70440,9 @@ UWULogsData[8][2] = {
         ["points"] = 2004.7490710342236,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2587,
+        ["rank_raids"] = 2588,
         ["dps_max"] = 9893.86,
-        ["points"] = 8774.900000000001,
+        ["points"] = 8774.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -70487,14 +70487,14 @@ UWULogsData[8][2] = {
         ["points"] = 9378.531073446327,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 12504,
+        ["rank_raids"] = 12505,
         ["dps_max"] = 11956.86,
-        ["points"] = 6300.599999999999,
+        ["points"] = 6300.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1684,
         ["dps_max"] = 15356.56,
-        ["points"] = 9391.135651395314,
+        ["points"] = 9391.226499552373,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3075,
@@ -70517,9 +70517,9 @@ UWULogsData[8][2] = {
         ["points"] = 8999.156592634243,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2996,
+        ["rank_raids"] = 2997,
         ["dps_max"] = 9712.72,
-        ["points"] = 8652.2,
+        ["points"] = 8651.9,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -70571,7 +70571,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5951,
         ["dps_max"] = 12939.08,
-        ["points"] = 8022.683181614685,
+        ["points"] = 8022.978215458072,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 7089,
@@ -70594,9 +70594,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 238,
+        ["rank_raids"] = 239,
         ["dps_max"] = 11680.28,
-        ["points"] = 9780.599999999999,
+        ["points"] = 9779.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -70648,7 +70648,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7007,
         ["dps_max"] = 12582.59,
-        ["points"] = 7704.82017609312,
+        ["points"] = 7705.162638018503,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6980,
@@ -70725,7 +70725,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6301,
         ["dps_max"] = 12809.02,
-        ["points"] = 7904.790329801522,
+        ["points"] = 7905.102954341987,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1543,
@@ -70748,9 +70748,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3198,
+        ["rank_raids"] = 3199,
         ["dps_max"] = 9627.02,
-        ["points"] = 8591.6,
+        ["points"] = 8591.300000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -70802,7 +70802,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3207,
         ["dps_max"] = 14189.01,
-        ["points"] = 8885.241008804656,
+        ["points"] = 8885.40734109221,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5470,
@@ -70879,12 +70879,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6557,
         ["dps_max"] = 12720.41,
-        ["points"] = 7834.65154454559,
+        ["points"] = 7834.974634437482,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7809,
+        ["rank_raids"] = 7810,
         ["dps_max"] = 16428.18,
-        ["points"] = 7208.300000000001,
+        ["points"] = 7208.000000000001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4467,
@@ -70902,9 +70902,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2997,
+        ["rank_raids"] = 2998,
         ["dps_max"] = 9711.87,
-        ["points"] = 8651.9,
+        ["points"] = 8651.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -70929,9 +70929,9 @@ UWULogsData[8][2] = {
         ["points"] = 9109.880749574106,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 22122,
+        ["rank_raids"] = 22123,
         ["dps_max"] = 4942.96,
-        ["points"] = 5338.799999999999,
+        ["points"] = 5338.7,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 8854,
@@ -70956,7 +70956,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2127,
         ["dps_max"] = 14929.95,
-        ["points"] = 9234.442620504402,
+        ["points"] = 9234.55684870188,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2777,
@@ -70979,9 +70979,9 @@ UWULogsData[8][2] = {
         ["points"] = 8878.268203542311,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4290,
+        ["rank_raids"] = 4292,
         ["dps_max"] = 9185.16,
-        ["points"] = 8264.0,
+        ["points"] = 8263.400000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -71026,14 +71026,14 @@ UWULogsData[8][2] = {
         ["points"] = 9117.23163841808,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 10014,
+        ["rank_raids"] = 10015,
         ["dps_max"] = 12613.72,
-        ["points"] = 6549.599999999999,
+        ["points"] = 6549.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1903,
         ["dps_max"] = 15158.35,
-        ["points"] = 9319.504551559468,
+        ["points"] = 9319.606087735005,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3026,
@@ -71056,9 +71056,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 12162,
+        ["rank_raids"] = 12166,
         ["dps_max"] = 4532.98,
-        ["points"] = 6334.8,
+        ["points"] = 6334.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -71108,9 +71108,9 @@ UWULogsData[8][2] = {
         ["points"] = 7430.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 9319,
+        ["rank_raids"] = 9320,
         ["dps_max"] = 11873.02,
-        ["points"] = 7110.878973287568,
+        ["points"] = 7111.310056699493,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1599,
@@ -71133,9 +71133,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2446,
+        ["rank_raids"] = 2447,
         ["dps_max"] = 9949.97,
-        ["points"] = 8817.2,
+        ["points"] = 8816.900000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1100,
@@ -71150,7 +71150,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Marcellyne"] = {
-    ["percentile"] = 82.596,
+    ["percentile"] = 82.595,
     ["server"] = "Icecrown",
     ["overall_rank"] = 928,
     ["bosses"] = {
@@ -71187,12 +71187,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4857,
         ["dps_max"] = 13383.09,
-        ["points"] = 8394.269512013132,
+        ["points"] = 8394.509101760668,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 31034,
+        ["rank_raids"] = 31038,
         ["dps_max"] = 10385.84,
-        ["points"] = 4447.599999999999,
+        ["points"] = 4447.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 13869,
@@ -71242,7 +71242,7 @@ UWULogsData[8][2] = {
         ["points"] = 8290.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 11660,
+        ["rank_raids"] = 11661,
         ["dps_max"] = 17016.24,
         ["points"] = 7518.241950897948,
       },
@@ -71264,7 +71264,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2975,
         ["dps_max"] = 14313.67,
-        ["points"] = 8958.364423220415,
+        ["points"] = 8958.519844822442,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3507,
@@ -71287,9 +71287,9 @@ UWULogsData[8][2] = {
         ["points"] = 9502.38965420298,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2201,
+        ["rank_raids"] = 2202,
         ["dps_max"] = 10065.88,
-        ["points"] = 8890.7,
+        ["points"] = 8890.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -71341,12 +71341,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9113,
         ["dps_max"] = 11932.61,
-        ["points"] = 7166.094612744367,
+        ["points"] = 7166.517457475381,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 12327,
+        ["rank_raids"] = 12328,
         ["dps_max"] = 15538.38,
-        ["points"] = 6318.3,
+        ["points"] = 6318.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1092,
@@ -71364,9 +71364,9 @@ UWULogsData[8][2] = {
         ["points"] = 9603.5985380939,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1902,
+        ["rank_raids"] = 1903,
         ["dps_max"] = 10231.99,
-        ["points"] = 8990.199999999999,
+        ["points"] = 8989.8,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 563,
@@ -71381,7 +71381,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Iwoafli"] = {
-    ["percentile"] = 82.539,
+    ["percentile"] = 82.54,
     ["server"] = "Icecrown",
     ["overall_rank"] = 931,
     ["bosses"] = {
@@ -71418,7 +71418,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2803,
         ["dps_max"] = 14422.89,
-        ["points"] = 9013.580062677212,
+        ["points"] = 9013.72724559833,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 882,
@@ -71441,9 +71441,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5820,
+        ["rank_raids"] = 5822,
         ["dps_max"] = 8612.96,
-        ["points"] = 7805.000000000001,
+        ["points"] = 7804.400000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -71493,9 +71493,9 @@ UWULogsData[8][2] = {
         ["points"] = 8670.800000000001,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 12767,
+        ["rank_raids"] = 12768,
         ["dps_max"] = 10981.14,
-        ["points"] = 6274.299999999999,
+        ["points"] = 6274.2,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6532,
@@ -71518,9 +71518,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2323,
+        ["rank_raids"] = 2324,
         ["dps_max"] = 10003.33,
-        ["points"] = 8854.1,
+        ["points"] = 8853.800000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 153,
@@ -71535,7 +71535,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Lokkitten"] = {
-    ["percentile"] = 82.509,
+    ["percentile"] = 82.51,
     ["server"] = "Icecrown",
     ["overall_rank"] = 933,
     ["bosses"] = {
@@ -71572,12 +71572,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6219,
         ["dps_max"] = 12839.11,
-        ["points"] = 7928.667363080138,
+        ["points"] = 7928.976424947777,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 456,
         ["dps_max"] = 30054.65,
-        ["points"] = 9687.086822388717,
+        ["points"] = 9687.132784958872,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5364,
@@ -71649,7 +71649,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5145,
         ["dps_max"] = 13257.03,
-        ["points"] = 8294.284435158932,
+        ["points"] = 8294.538943598925,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1517,
@@ -71672,9 +71672,9 @@ UWULogsData[8][2] = {
         ["points"] = 9132.696092212538,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2459,
+        ["rank_raids"] = 2460,
         ["dps_max"] = 9946.62,
-        ["points"] = 8813.300000000001,
+        ["points"] = 8813.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -71726,12 +71726,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6605,
         ["dps_max"] = 12704.43,
-        ["points"] = 7818.236084166542,
+        ["points"] = 7818.561623396001,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7425,
+        ["rank_raids"] = 7426,
         ["dps_max"] = 16521.61,
-        ["points"] = 7323.500000000001,
+        ["points"] = 7323.200000000001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3189,
@@ -71749,9 +71749,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2435,
+        ["rank_raids"] = 2436,
         ["dps_max"] = 9955.77,
-        ["points"] = 8820.5,
+        ["points"] = 8820.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -71803,7 +71803,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2347,
         ["dps_max"] = 14739.09,
-        ["points"] = 9140.426801969856,
+        ["points"] = 9140.555058191585,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1165,
@@ -71826,9 +71826,9 @@ UWULogsData[8][2] = {
         ["points"] = 2514.759628900759,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4117,
+        ["rank_raids"] = 4119,
         ["dps_max"] = 9261.13,
-        ["points"] = 8315.9,
+        ["points"] = 8315.300000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -71880,7 +71880,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5754,
         ["dps_max"] = 13009.09,
-        ["points"] = 8088.345023130876,
+        ["points"] = 8088.630259623992,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2524,
@@ -71903,9 +71903,9 @@ UWULogsData[8][2] = {
         ["points"] = 9772.280011245432,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4882,
+        ["rank_raids"] = 4884,
         ["dps_max"] = 8976.45,
-        ["points"] = 8086.400000000001,
+        ["points"] = 8085.800000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -71957,7 +71957,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4258,
         ["dps_max"] = 13641.56,
-        ["points"] = 8573.347261602747,
+        ["points"] = 8573.560131304088,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5036,
@@ -71980,9 +71980,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2000,
+        ["rank_raids"] = 2001,
         ["dps_max"] = 10170.17,
-        ["points"] = 8951.0,
+        ["points"] = 8950.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -72027,14 +72027,14 @@ UWULogsData[8][2] = {
         ["points"] = 7051.806453766893,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 7873,
+        ["rank_raids"] = 7874,
         ["dps_max"] = 13231.14,
-        ["points"] = 7189.1,
+        ["points"] = 7188.800000000001,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2987,
         ["dps_max"] = 14308.03,
-        ["points"] = 8955.37979406059,
+        ["points"] = 8955.535660996717,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3625,
@@ -72057,9 +72057,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 7068,
+        ["rank_raids"] = 7070,
         ["dps_max"] = 8135.52,
-        ["points"] = 7430.6,
+        ["points"] = 7430.000000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -72111,7 +72111,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4142,
         ["dps_max"] = 13695.37,
-        ["points"] = 8603.193553201016,
+        ["points"] = 8603.401969561324,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3030,
@@ -72134,9 +72134,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4949,
+        ["rank_raids"] = 4951,
         ["dps_max"] = 8951.0,
-        ["points"] = 8066.300000000001,
+        ["points"] = 8065.7,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -72188,7 +72188,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3828,
         ["dps_max"] = 13855.02,
-        ["points"] = 8694.224742575734,
+        ["points"] = 8694.419576245897,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2300,
@@ -72201,9 +72201,9 @@ UWULogsData[8][2] = {
         ["points"] = 7472.3,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 13474,
+        ["rank_raids"] = 13475,
         ["dps_max"] = 9505.42,
-        ["points"] = 6203.6,
+        ["points"] = 6203.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 3190,
@@ -72211,9 +72211,9 @@ UWULogsData[8][2] = {
         ["points"] = 5517.289850998031,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3004,
+        ["rank_raids"] = 3005,
         ["dps_max"] = 9709.34,
-        ["points"] = 8649.800000000001,
+        ["points"] = 8649.500000000002,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -72228,7 +72228,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Qilinx"] = {
-    ["percentile"] = 82.404,
+    ["percentile"] = 82.405,
     ["server"] = "Icecrown",
     ["overall_rank"] = 942,
     ["bosses"] = {
@@ -72265,7 +72265,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4352,
         ["dps_max"] = 13602.46,
-        ["points"] = 8547.977913744216,
+        ["points"] = 8548.194568785439,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4734,
@@ -72340,9 +72340,9 @@ UWULogsData[8][2] = {
         ["points"] = 7293.200000000001,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 16357,
+        ["rank_raids"] = 16358,
         ["dps_max"] = 10107.28,
-        ["points"] = 5915.3,
+        ["points"] = 5915.200000000001,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3044,
@@ -72419,7 +72419,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5459,
         ["dps_max"] = 13122.76,
-        ["points"] = 8200.268616624384,
+        ["points"] = 8200.537153088631,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2765,
@@ -72442,9 +72442,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3920,
+        ["rank_raids"] = 3922,
         ["dps_max"] = 9336.82,
-        ["points"] = 8375.0,
+        ["points"] = 8374.400000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 880,
@@ -72496,7 +72496,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2020,
         ["dps_max"] = 15047.64,
-        ["points"] = 9271.750485002238,
+        ["points"] = 9271.859146523426,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6437,
@@ -72566,14 +72566,14 @@ UWULogsData[8][2] = {
         ["points"] = 9459.039548022598,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9042,
+        ["rank_raids"] = 9043,
         ["dps_max"] = 12878.92,
-        ["points"] = 6838.4,
+        ["points"] = 6838.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3010,
         ["dps_max"] = 14294.59,
-        ["points"] = 8946.425906581107,
+        ["points"] = 8946.583109519546,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2373,
@@ -72596,9 +72596,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3325,
+        ["rank_raids"] = 3326,
         ["dps_max"] = 9572.14,
-        ["points"] = 8553.5,
+        ["points"] = 8553.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -72650,12 +72650,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3614,
         ["dps_max"] = 13967.0,
-        ["points"] = 8779.286673630802,
+        ["points"] = 8779.46881527902,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7776,
+        ["rank_raids"] = 7777,
         ["dps_max"] = 16434.26,
-        ["points"] = 7218.2,
+        ["points"] = 7217.900000000001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3792,
@@ -72673,9 +72673,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2092,
+        ["rank_raids"] = 2093,
         ["dps_max"] = 10125.01,
-        ["points"] = 8923.4,
+        ["points"] = 8923.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -72690,7 +72690,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Thereny"] = {
-    ["percentile"] = 82.374,
+    ["percentile"] = 82.375,
     ["server"] = "Icecrown",
     ["overall_rank"] = 948,
     ["bosses"] = {
@@ -72727,7 +72727,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6373,
         ["dps_max"] = 12784.41,
-        ["points"] = 7880.913296522906,
+        ["points"] = 7881.229483736199,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3106,
@@ -72750,9 +72750,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4738,
+        ["rank_raids"] = 4740,
         ["dps_max"] = 9023.0,
-        ["points"] = 8129.6,
+        ["points"] = 8129.000000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -72804,7 +72804,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2330,
         ["dps_max"] = 14758.49,
-        ["points"] = 9149.380689449335,
+        ["points"] = 9149.507609668755,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 896,
@@ -72827,9 +72827,9 @@ UWULogsData[8][2] = {
         ["points"] = 2246.496585185658,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2669,
+        ["rank_raids"] = 2670,
         ["dps_max"] = 9856.21,
-        ["points"] = 8750.300000000001,
+        ["points"] = 8750.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -72881,7 +72881,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5661,
         ["dps_max"] = 13045.3,
-        ["points"] = 8122.668258468885,
+        ["points"] = 8122.948373619815,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2862,
@@ -72904,9 +72904,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2142,
+        ["rank_raids"] = 2143,
         ["dps_max"] = 10103.69,
-        ["points"] = 8908.400000000001,
+        ["points"] = 8908.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -72951,19 +72951,19 @@ UWULogsData[8][2] = {
         ["points"] = 9233.050847457627,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8652,
+        ["rank_raids"] = 8653,
         ["dps_max"] = 12997.9,
-        ["points"] = 6955.400000000001,
+        ["points"] = 6955.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2679,
         ["dps_max"] = 14499.49,
-        ["points"] = 9046.410983435308,
+        ["points"] = 9046.553267681289,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 643,
         ["dps_max"] = 29014.54,
-        ["points"] = 9538.710151314823,
+        ["points"] = 9538.777908343125,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2598,
@@ -72971,9 +72971,9 @@ UWULogsData[8][2] = {
         ["points"] = 8771.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 10062,
+        ["rank_raids"] = 10063,
         ["dps_max"] = 10271.22,
-        ["points"] = 6544.799999999999,
+        ["points"] = 6544.7,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = 1799,
@@ -72981,9 +72981,9 @@ UWULogsData[8][2] = {
         ["points"] = 7472.589260612876,
       },
       ["Halion"] = {
-        ["rank_raids"] = 7525,
+        ["rank_raids"] = 7527,
         ["dps_max"] = 7936.27,
-        ["points"] = 7293.500000000001,
+        ["points"] = 7292.9,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -73035,7 +73035,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6474,
         ["dps_max"] = 12747.12,
-        ["points"] = 7861.513206984032,
+        ["points"] = 7861.832288868994,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4975,
@@ -73058,9 +73058,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3034,
+        ["rank_raids"] = 3035,
         ["dps_max"] = 9695.66,
-        ["points"] = 8640.800000000001,
+        ["points"] = 8640.500000000002,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 56,
@@ -73075,7 +73075,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Kothoko"] = {
-    ["percentile"] = 82.305,
+    ["percentile"] = 82.306,
     ["server"] = "Icecrown",
     ["overall_rank"] = 953,
     ["bosses"] = {
@@ -73112,7 +73112,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9139,
         ["dps_max"] = 11925.63,
-        ["points"] = 7154.156096105059,
+        ["points"] = 7154.580722172485,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6469,
@@ -73152,7 +73152,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Fhern"] = {
-    ["percentile"] = 82.302,
+    ["percentile"] = 82.303,
     ["server"] = "Icecrown",
     ["overall_rank"] = 954,
     ["bosses"] = {
@@ -73189,7 +73189,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6003,
         ["dps_max"] = 12922.1,
-        ["points"] = 7995.821519176243,
+        ["points"] = 7996.12056102656,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2142,
@@ -73212,9 +73212,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4905,
+        ["rank_raids"] = 4907,
         ["dps_max"] = 8965.81,
-        ["points"] = 8079.500000000001,
+        ["points"] = 8078.9,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 480,
@@ -73229,7 +73229,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Hauntme"] = {
-    ["percentile"] = 82.301,
+    ["percentile"] = 82.302,
     ["server"] = "Icecrown",
     ["overall_rank"] = 955,
     ["bosses"] = {
@@ -73244,7 +73244,7 @@ UWULogsData[8][2] = {
         ["points"] = 7468.400000000001,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10065,
+        ["rank_raids"] = 10066,
         ["dps_max"] = 17305.88,
         ["points"] = 7646.212853909312,
       },
@@ -73266,12 +73266,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5999,
         ["dps_max"] = 12924.13,
-        ["points"] = 7997.313833756156,
+        ["points"] = 7997.6126529394205,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 18404,
+        ["rank_raids"] = 18406,
         ["dps_max"] = 14485.19,
-        ["points"] = 5710.6,
+        ["points"] = 5710.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3951,
@@ -73343,7 +73343,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2172,
         ["dps_max"] = 14887.63,
-        ["points"] = 9213.550216385614,
+        ["points"] = 9213.667561921815,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6137,
@@ -73366,9 +73366,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 1263,
+        ["rank_raids"] = 1264,
         ["dps_max"] = 10620.99,
-        ["points"] = 9245.8,
+        ["points"] = 9245.4,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -73413,14 +73413,14 @@ UWULogsData[8][2] = {
         ["points"] = 8070.6214689265535,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9107,
+        ["rank_raids"] = 9108,
         ["dps_max"] = 12862.48,
-        ["points"] = 6818.9000000000015,
+        ["points"] = 6818.600000000001,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2619,
         ["dps_max"] = 14536.39,
-        ["points"] = 9064.318758394269,
+        ["points"] = 9064.458370635632,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2509,
@@ -73443,9 +73443,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 7773,
+        ["rank_raids"] = 7775,
         ["dps_max"] = 7832.29,
-        ["points"] = 7219.1,
+        ["points"] = 7218.500000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 148,
@@ -73497,7 +73497,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4017,
         ["dps_max"] = 13752.62,
-        ["points"] = 8640.50141769885,
+        ["points"] = 8640.704267382871,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1415,
@@ -73520,9 +73520,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 8046,
+        ["rank_raids"] = 8048,
         ["dps_max"] = 7708.64,
-        ["points"] = 7137.2,
+        ["points"] = 7136.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -73552,7 +73552,7 @@ UWULogsData[8][2] = {
         ["points"] = 8604.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10511,
+        ["rank_raids"] = 10512,
         ["dps_max"] = 17230.45,
         ["points"] = 7612.885809253369,
       },
@@ -73574,7 +73574,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4826,
         ["dps_max"] = 13392.25,
-        ["points"] = 8400.238770332786,
+        ["points"] = 8400.477469412115,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1444,
@@ -73597,9 +73597,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 9226,
+        ["rank_raids"] = 9228,
         ["dps_max"] = 7112.62,
-        ["points"] = 6783.200000000001,
+        ["points"] = 6782.600000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -73629,7 +73629,7 @@ UWULogsData[8][2] = {
         ["points"] = 6914.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10106,
+        ["rank_raids"] = 10107,
         ["dps_max"] = 17300.96,
         ["points"] = 7644.039062848628,
       },
@@ -73651,7 +73651,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4072,
         ["dps_max"] = 13729.16,
-        ["points"] = 8621.101328159975,
+        ["points"] = 8621.307072515667,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4996,
@@ -73674,9 +73674,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2794,
+        ["rank_raids"] = 2795,
         ["dps_max"] = 9804.52,
-        ["points"] = 8712.800000000001,
+        ["points"] = 8712.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -73728,12 +73728,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2627,
         ["dps_max"] = 14532.74,
-        ["points"] = 9059.841814654528,
+        ["points"] = 9059.982094897046,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 9710,
+        ["rank_raids"] = 9711,
         ["dps_max"] = 16028.32,
-        ["points"] = 6638.000000000001,
+        ["points"] = 6637.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6486,
@@ -73751,9 +73751,9 @@ UWULogsData[8][2] = {
         ["points"] = 8921.844250773123,
       },
       ["Halion"] = {
-        ["rank_raids"] = 6138,
+        ["rank_raids"] = 6140,
         ["dps_max"] = 8490.5,
-        ["points"] = 7709.600000000001,
+        ["points"] = 7709.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -73773,9 +73773,9 @@ UWULogsData[8][2] = {
     ["overall_rank"] = 962,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 31418,
+        ["rank_raids"] = 31421,
         ["dps_max"] = 8788.69,
-        ["points"] = 4409.2,
+        ["points"] = 4408.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 209,
@@ -73805,7 +73805,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4131,
         ["dps_max"] = 13697.47,
-        ["points"] = 8606.178182360842,
+        ["points"] = 8606.38615338705,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5050,
@@ -73818,9 +73818,9 @@ UWULogsData[8][2] = {
         ["points"] = 8967.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 11698,
+        ["rank_raids"] = 11699,
         ["dps_max"] = 9907.04,
-        ["points"] = 6381.2,
+        ["points"] = 6381.099999999999,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -73875,14 +73875,14 @@ UWULogsData[8][2] = {
         ["points"] = 8112.994350282486,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 14081,
+        ["rank_raids"] = 14082,
         ["dps_max"] = 11529.92,
-        ["points"] = 6142.9,
+        ["points"] = 6142.799999999999,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1680,
         ["dps_max"] = 15360.14,
-        ["points"] = 9392.627965975227,
+        ["points"] = 9392.718591465235,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3575,
@@ -73937,7 +73937,7 @@ UWULogsData[8][2] = {
         ["points"] = 8421.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 14617,
+        ["rank_raids"] = 14618,
         ["dps_max"] = 16467.41,
         ["points"] = 7275.753790769076,
       },
@@ -73959,12 +73959,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3861,
         ["dps_max"] = 13839.14,
-        ["points"] = 8686.76316967617,
+        ["points"] = 8686.959116681588,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7644,
+        ["rank_raids"] = 7645,
         ["dps_max"] = 16464.79,
-        ["points"] = 7257.800000000001,
+        ["points"] = 7257.500000000001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1216,
@@ -73999,7 +73999,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Kassalock"] = {
-    ["percentile"] = 82.109,
+    ["percentile"] = 82.11,
     ["server"] = "Icecrown",
     ["overall_rank"] = 965,
     ["bosses"] = {
@@ -74036,7 +74036,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7045,
         ["dps_max"] = 12572.25,
-        ["points"] = 7691.389344873899,
+        ["points"] = 7691.733810802745,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1069,
@@ -74113,7 +74113,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5986,
         ["dps_max"] = 12927.56,
-        ["points"] = 8004.775406655723,
+        ["points"] = 8005.07311250373,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 5176,
@@ -74136,9 +74136,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3997,
+        ["rank_raids"] = 3999,
         ["dps_max"] = 9308.62,
-        ["points"] = 8351.900000000001,
+        ["points"] = 8351.300000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -74153,7 +74153,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Vladaff"] = {
-    ["percentile"] = 82.085,
+    ["percentile"] = 82.084,
     ["server"] = "Icecrown",
     ["overall_rank"] = 967,
     ["bosses"] = {
@@ -74183,14 +74183,14 @@ UWULogsData[8][2] = {
         ["points"] = 9238.700564971752,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 10459,
+        ["rank_raids"] = 10460,
         ["dps_max"] = 12489.88,
-        ["points"] = 6505.1,
+        ["points"] = 6505.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2200,
         ["dps_max"] = 14857.64,
-        ["points"] = 9203.10401432622,
+        ["points"] = 9203.222918531781,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1803,
@@ -74203,9 +74203,9 @@ UWULogsData[8][2] = {
         ["points"] = 8618.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 11767,
+        ["rank_raids"] = 11768,
         ["dps_max"] = 9893.89,
-        ["points"] = 6374.299999999999,
+        ["points"] = 6374.2,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -74213,9 +74213,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 6833,
+        ["rank_raids"] = 6835,
         ["dps_max"] = 8223.11,
-        ["points"] = 7501.1,
+        ["points"] = 7500.500000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -74230,7 +74230,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Doomnoodle"] = {
-    ["percentile"] = 82.064,
+    ["percentile"] = 82.065,
     ["server"] = "Icecrown",
     ["overall_rank"] = 968,
     ["bosses"] = {
@@ -74245,7 +74245,7 @@ UWULogsData[8][2] = {
         ["points"] = 8444.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10944,
+        ["rank_raids"] = 10945,
         ["dps_max"] = 17152.4,
         ["points"] = 7578.401176674869,
       },
@@ -74267,7 +74267,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7948,
         ["dps_max"] = 12281.09,
-        ["points"] = 7464.557528727056,
+        ["points"] = 7464.935840047748,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3183,
@@ -74290,9 +74290,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3617,
+        ["rank_raids"] = 3618,
         ["dps_max"] = 9453.9,
-        ["points"] = 8465.900000000001,
+        ["points"] = 8465.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 983,
@@ -74307,7 +74307,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Lockdro"] = {
-    ["percentile"] = 82.056,
+    ["percentile"] = 82.055,
     ["server"] = "Icecrown",
     ["overall_rank"] = 969,
     ["bosses"] = {
@@ -74337,14 +74337,14 @@ UWULogsData[8][2] = {
         ["points"] = 8885.593220338984,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8662,
+        ["rank_raids"] = 8663,
         ["dps_max"] = 12995.67,
-        ["points"] = 6952.400000000001,
+        ["points"] = 6952.100000000001,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1471,
         ["dps_max"] = 15568.78,
-        ["points"] = 9440.382032532458,
+        ["points"] = 9440.465532676813,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2468,
@@ -74384,7 +74384,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Lethallock"] = {
-    ["percentile"] = 82.048,
+    ["percentile"] = 82.047,
     ["server"] = "Icecrown",
     ["overall_rank"] = 970,
     ["bosses"] = {
@@ -74414,14 +74414,14 @@ UWULogsData[8][2] = {
         ["points"] = 7881.35593220339,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9523,
+        ["rank_raids"] = 9524,
         ["dps_max"] = 12750.19,
-        ["points"] = 6694.1,
+        ["points"] = 6693.800000000001,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1808,
         ["dps_max"] = 15236.61,
-        ["points"] = 9356.812416057304,
+        ["points"] = 9356.908385556551,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3464,
@@ -74434,9 +74434,9 @@ UWULogsData[8][2] = {
         ["points"] = 9667.3,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 10589,
+        ["rank_raids"] = 10590,
         ["dps_max"] = 10158.97,
-        ["points"] = 6492.099999999999,
+        ["points"] = 6492.0,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -74444,9 +74444,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 13211,
+        ["rank_raids"] = 13215,
         ["dps_max"] = 4076.05,
-        ["points"] = 6229.9,
+        ["points"] = 6229.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -74498,12 +74498,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2193,
         ["dps_max"] = 14863.44,
-        ["points"] = 9204.596328906135,
+        ["points"] = 9204.715010444643,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7165,
+        ["rank_raids"] = 7166,
         ["dps_max"] = 16584.7,
-        ["points"] = 7401.500000000001,
+        ["points"] = 7401.200000000001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7722,
@@ -74553,7 +74553,7 @@ UWULogsData[8][2] = {
         ["points"] = 8078.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 11995,
+        ["rank_raids"] = 11996,
         ["dps_max"] = 16949.26,
         ["points"] = 7488.64834820598,
       },
@@ -74575,7 +74575,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3811,
         ["dps_max"] = 13860.7,
-        ["points"] = 8704.670944635129,
+        ["points"] = 8704.864219635929,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2928,
@@ -74598,9 +74598,9 @@ UWULogsData[8][2] = {
         ["points"] = 9821.478774247962,
       },
       ["Halion"] = {
-        ["rank_raids"] = 8963,
+        ["rank_raids"] = 8965,
         ["dps_max"] = 7268.52,
-        ["points"] = 6862.099999999999,
+        ["points"] = 6861.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -74652,7 +74652,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8142,
         ["dps_max"] = 12215.16,
-        ["points"] = 7407.849574690345,
+        ["points"] = 7408.236347358998,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6379,
@@ -74675,9 +74675,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 9180,
+        ["rank_raids"] = 9182,
         ["dps_max"] = 7141.7,
-        ["points"] = 6797.0,
+        ["points"] = 6796.400000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -74727,9 +74727,9 @@ UWULogsData[8][2] = {
         ["points"] = 8482.7,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 9925,
+        ["rank_raids"] = 9926,
         ["dps_max"] = 11708.37,
-        ["points"] = 6927.324279958215,
+        ["points"] = 6927.782751417487,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2449,
@@ -74752,9 +74752,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 3362,
+        ["rank_raids"] = 3363,
         ["dps_max"] = 9556.95,
-        ["points"] = 8542.400000000001,
+        ["points"] = 8542.1,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 776,
@@ -74784,7 +74784,7 @@ UWULogsData[8][2] = {
         ["points"] = 7475.900000000001,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10614,
+        ["rank_raids"] = 10615,
         ["dps_max"] = 17213.45,
         ["points"] = 7605.374742580281,
       },
@@ -74806,7 +74806,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6619,
         ["dps_max"] = 12698.25,
-        ["points"] = 7810.7745112669745,
+        ["points"] = 7811.101163831692,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1964,
@@ -74846,7 +74846,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Leminen"] = {
-    ["percentile"] = 82.03,
+    ["percentile"] = 82.029,
     ["server"] = "Icecrown",
     ["overall_rank"] = 976,
     ["bosses"] = {
@@ -74883,22 +74883,22 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2015,
         ["dps_max"] = 15049.62,
-        ["points"] = 9276.227428741979,
+        ["points"] = 9276.335422262011,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 87,
         ["dps_max"] = 33290.17,
-        ["points"] = 9936.829734097253,
+        ["points"] = 9936.83901292597,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 14330,
+        ["rank_raids"] = 14331,
         ["dps_max"] = 8768.17,
-        ["points"] = 6118.0,
+        ["points"] = 6117.9,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 9993,
+        ["rank_raids"] = 9994,
         ["dps_max"] = 10285.8,
-        ["points"] = 6553.1,
+        ["points"] = 6552.800000000001,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -74960,12 +74960,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5099,
         ["dps_max"] = 13276.68,
-        ["points"] = 8309.207580958066,
+        ["points"] = 8309.459862727545,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7136,
+        ["rank_raids"] = 7137,
         ["dps_max"] = 16590.96,
-        ["points"] = 7410.2,
+        ["points"] = 7409.900000000001,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4887,
@@ -75037,7 +75037,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3414,
         ["dps_max"] = 14070.47,
-        ["points"] = 8821.071481868377,
+        ["points"] = 8821.247388839152,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2308,
@@ -75114,7 +75114,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2929,
         ["dps_max"] = 14346.7,
-        ["points"] = 8977.76451275929,
+        ["points"] = 8977.917039689644,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2519,
@@ -75137,9 +75137,9 @@ UWULogsData[8][2] = {
         ["points"] = 9070.846218723644,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2797,
+        ["rank_raids"] = 2798,
         ["dps_max"] = 9801.95,
-        ["points"] = 8711.9,
+        ["points"] = 8711.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1177,
@@ -75191,7 +75191,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1297,
         ["dps_max"] = 15770.13,
-        ["points"] = 9498.582301149083,
+        ["points"] = 9498.657117278424,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6032,
@@ -75268,7 +75268,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2102,
         ["dps_max"] = 14960.83,
-        ["points"] = 9237.42724966423,
+        ["points"] = 9237.541032527604,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4001,
@@ -75291,9 +75291,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 946,
+        ["rank_raids"] = 947,
         ["dps_max"] = 10835.9,
-        ["points"] = 9378.0,
+        ["points"] = 9377.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -75345,12 +75345,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1428,
         ["dps_max"] = 15615.85,
-        ["points"] = 9458.28980749142,
+        ["points"] = 9458.370635631154,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 10831,
+        ["rank_raids"] = 10832,
         ["dps_max"] = 15814.4,
-        ["points"] = 6467.9,
+        ["points"] = 6467.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6981,
@@ -75422,12 +75422,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4170,
         ["dps_max"] = 13682.61,
-        ["points"] = 8594.239665721534,
+        ["points"] = 8594.449418084154,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7340,
+        ["rank_raids"] = 7341,
         ["dps_max"] = 16538.58,
-        ["points"] = 7349.000000000001,
+        ["points"] = 7348.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1223,
@@ -75445,9 +75445,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5913,
+        ["rank_raids"] = 5915,
         ["dps_max"] = 8582.14,
-        ["points"] = 7777.100000000001,
+        ["points"] = 7776.500000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1115,
@@ -75462,7 +75462,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Demontyla"] = {
-    ["percentile"] = 81.992,
+    ["percentile"] = 81.993,
     ["server"] = "Icecrown",
     ["overall_rank"] = 984,
     ["bosses"] = {
@@ -75499,7 +75499,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1209,
         ["dps_max"] = 15873.09,
-        ["points"] = 9528.42859274735,
+        ["points"] = 9528.49895553566,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3290,
@@ -75522,9 +75522,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 4548,
+        ["rank_raids"] = 4550,
         ["dps_max"] = 9088.36,
-        ["points"] = 8186.6,
+        ["points"] = 8186.0,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 1266,
@@ -75576,12 +75576,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1149,
         ["dps_max"] = 15954.01,
-        ["points"] = 9555.290255185793,
+        ["points"] = 9555.356609967173,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 9787,
+        ["rank_raids"] = 9788,
         ["dps_max"] = 16013.8,
-        ["points"] = 6614.9000000000015,
+        ["points"] = 6614.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5113,
@@ -75616,7 +75616,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Gibbow"] = {
-    ["percentile"] = 81.978,
+    ["percentile"] = 81.979,
     ["server"] = "Icecrown",
     ["overall_rank"] = 986,
     ["bosses"] = {
@@ -75646,14 +75646,14 @@ UWULogsData[8][2] = {
         ["points"] = 8690.677966101695,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 14241,
+        ["rank_raids"] = 14242,
         ["dps_max"] = 11493.97,
-        ["points"] = 6126.9,
+        ["points"] = 6126.8,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5408,
         ["dps_max"] = 13143.24,
-        ["points"] = 8218.176391583345,
+        ["points"] = 8218.442256042972,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3481,
@@ -75676,9 +75676,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5373,
+        ["rank_raids"] = 5375,
         ["dps_max"] = 8791.2,
-        ["points"] = 7939.100000000001,
+        ["points"] = 7938.500000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 262,
@@ -75730,7 +75730,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1234,
         ["dps_max"] = 15841.33,
-        ["points"] = 9519.47470526787,
+        ["points"] = 9519.54640405849,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2079,
@@ -75807,7 +75807,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5396,
         ["dps_max"] = 13146.4,
-        ["points"] = 8222.653335323086,
+        ["points"] = 8222.918531781557,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2115,
@@ -75830,9 +75830,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 9554,
+        ["rank_raids"] = 9556,
         ["dps_max"] = 6906.46,
-        ["points"] = 6684.800000000001,
+        ["points"] = 6684.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -75884,7 +75884,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4104,
         ["dps_max"] = 13711.15,
-        ["points"] = 8616.624384420236,
+        ["points"] = 8616.830796777082,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4239,
@@ -75961,7 +75961,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3051,
         ["dps_max"] = 14266.28,
-        ["points"] = 8934.4873899418,
+        ["points"] = 8934.64637421665,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1979,
@@ -75984,9 +75984,9 @@ UWULogsData[8][2] = {
         ["points"] = 6281.979195951644,
       },
       ["Halion"] = {
-        ["rank_raids"] = 5544,
+        ["rank_raids"] = 5546,
         ["dps_max"] = 8731.56,
-        ["points"] = 7887.8,
+        ["points"] = 7887.200000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 523,
@@ -76038,12 +76038,12 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6331,
         ["dps_max"] = 12798.69,
-        ["points"] = 7891.359498582301,
+        ["points"] = 7891.674127126232,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 461,
         ["dps_max"] = 30032.08,
-        ["points"] = 9681.21051858381,
+        ["points"] = 9681.257344300822,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 10201,
@@ -76061,9 +76061,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 12324,
+        ["rank_raids"] = 12328,
         ["dps_max"] = 4459.14,
-        ["points"] = 6318.599999999999,
+        ["points"] = 6318.2,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 941,
@@ -76108,19 +76108,19 @@ UWULogsData[8][2] = {
         ["points"] = 9114.406779661018,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8752,
+        ["rank_raids"] = 8753,
         ["dps_max"] = 12966.56,
-        ["points"] = 6925.400000000001,
+        ["points"] = 6925.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5238,
         ["dps_max"] = 13208.55,
-        ["points"] = 8277.868974779884,
+        ["points"] = 8278.125932557445,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 501,
         ["dps_max"] = 29776.07,
-        ["points"] = 9653.298075510504,
+        ["points"] = 9653.349001175087,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1780,
@@ -76128,9 +76128,9 @@ UWULogsData[8][2] = {
         ["points"] = 9039.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 11764,
+        ["rank_raids"] = 11765,
         ["dps_max"] = 9894.08,
-        ["points"] = 6374.6,
+        ["points"] = 6374.5,
       },
       ["Toravon the Ice Watcher"] = {
         ["rank_raids"] = nil,
@@ -76192,7 +76192,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3318,
         ["dps_max"] = 14131.36,
-        ["points"] = 8846.440829726906,
+        ["points"] = 8846.612951357803,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 3275,
@@ -76215,9 +76215,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2767,
+        ["rank_raids"] = 2768,
         ["dps_max"] = 9814.32,
-        ["points"] = 8720.9,
+        ["points"] = 8720.6,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = 246,
@@ -76232,7 +76232,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Vreka"] = {
-    ["percentile"] = 81.871,
+    ["percentile"] = 81.87,
     ["server"] = "Icecrown",
     ["overall_rank"] = 994,
     ["bosses"] = {
@@ -76267,9 +76267,9 @@ UWULogsData[8][2] = {
         ["points"] = 8606.900000000001,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 12439,
+        ["rank_raids"] = 12440,
         ["dps_max"] = 11059.33,
-        ["points"] = 6307.1,
+        ["points"] = 6307.0,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 708,
@@ -76292,9 +76292,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 972,
+        ["rank_raids"] = 973,
         ["dps_max"] = 10817.75,
-        ["points"] = 9365.0,
+        ["points"] = 9364.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -76346,7 +76346,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2636,
         ["dps_max"] = 14528.25,
-        ["points"] = 9058.349500074617,
+        ["points"] = 9058.490002984185,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6150,
@@ -76369,9 +76369,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 6772,
+        ["rank_raids"] = 6774,
         ["dps_max"] = 8246.65,
-        ["points"] = 7519.400000000001,
+        ["points"] = 7518.800000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -76421,9 +76421,9 @@ UWULogsData[8][2] = {
         ["points"] = 7686.500000000001,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10577,
+        ["rank_raids"] = 10578,
         ["dps_max"] = 11543.26,
-        ["points"] = 6757.200417848083,
+        ["points"] = 6757.6842733512385,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2550,
@@ -76446,9 +76446,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 2044,
+        ["rank_raids"] = 2045,
         ["dps_max"] = 10148.58,
-        ["points"] = 8937.800000000001,
+        ["points"] = 8937.5,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -76500,7 +76500,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7214,
         ["dps_max"] = 12519.83,
-        ["points"] = 7640.6506491568425,
+        ["points"] = 7641.002685765443,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 2713,
@@ -76577,7 +76577,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4263,
         ["dps_max"] = 13638.97,
-        ["points"] = 8570.362632442919,
+        ["points"] = 8570.575947478364,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 6430,
@@ -76600,9 +76600,9 @@ UWULogsData[8][2] = {
         ["points"] = nil,
       },
       ["Halion"] = {
-        ["rank_raids"] = 8368,
+        ["rank_raids"] = 8370,
         ["dps_max"] = 7555.51,
-        ["points"] = 7040.600000000001,
+        ["points"] = 7040.000000000001,
       },
       ["Anub'arak"] = {
         ["rank_raids"] = nil,
@@ -76617,7 +76617,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Darklegacy"] = {
-    ["percentile"] = 81.815,
+    ["percentile"] = 81.816,
     ["server"] = "Icecrown",
     ["overall_rank"] = 999,
     ["bosses"] = {
@@ -76652,9 +76652,9 @@ UWULogsData[8][2] = {
         ["points"] = 8317.1,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10846,
+        ["rank_raids"] = 10847,
         ["dps_max"] = 11477.02,
-        ["points"] = 6673.630801372929,
+        ["points"] = 6674.127126230976,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4213,
@@ -76731,7 +76731,7 @@ UWULogsData[8][2] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 959,
         ["dps_max"] = 16221.72,
-        ["points"] = 9619.459782122072,
+        ["points"] = 9619.516562220233,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 4464,
