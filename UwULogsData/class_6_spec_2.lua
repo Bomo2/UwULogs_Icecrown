@@ -14155,17 +14155,17 @@ UWULogsData[6][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1742,
         ["kill_count"] = 12,
-        ["points"] = 9140.490162236796,
+        ["points"] = 9140.638481449525,
       },
       ["Festergut"] = {
         ["rank_raids"] = 445,
         ["kill_count"] = 13,
-        ["points"] = 9663.719882128618,
+        ["points"] = 9663.77816291161,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1029,
         ["kill_count"] = 13,
-        ["points"] = 9409.82468321472,
+        ["points"] = 9409.927108642833,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1252,
@@ -25050,7 +25050,7 @@ UWULogsData[6][2] = {
         ["points"] = 9352.935293529354,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 11383,
+        ["rank_raids"] = 11384,
         ["kill_count"] = 7,
         ["points"] = 8076.1901106548,
       },
@@ -26680,7 +26680,7 @@ UWULogsData[6][2] = {
   ["Hofmannita"] = {
     ["percentile"] = 91.371,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 1893,
+    ["overall_rank"] = 1894,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 8121,
@@ -26688,9 +26688,9 @@ UWULogsData[6][2] = {
         ["points"] = 7209.368346344925,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7587,
+        ["rank_raids"] = 7588,
         ["kill_count"] = 5,
-        ["points"] = 7274.900000000001,
+        ["points"] = 7274.6,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 11646,
@@ -26698,7 +26698,7 @@ UWULogsData[6][2] = {
         ["points"] = 7519.456976389184,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 13916,
+        ["rank_raids"] = 13917,
         ["kill_count"] = 5,
         ["points"] = 6365.990942370663,
       },
@@ -26718,14 +26718,14 @@ UWULogsData[6][2] = {
         ["points"] = 6574.668059078025,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 13789,
+        ["rank_raids"] = 13790,
         ["kill_count"] = 5,
-        ["points"] = 6172.1,
+        ["points"] = 6172.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 15746,
+        ["rank_raids"] = 15747,
         ["kill_count"] = 5,
-        ["points"] = 5976.4,
+        ["points"] = 5976.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 5312,
@@ -30408,7 +30408,7 @@ UWULogsData[6][2] = {
         ["points"] = 8761.876187618762,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 11869,
+        ["rank_raids"] = 11870,
         ["kill_count"] = 13,
         ["points"] = 8054.392066095842,
       },
@@ -32574,7 +32574,7 @@ UWULogsData[6][2] = {
         ["points"] = 9705.970597059706,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 10931,
+        ["rank_raids"] = 10932,
         ["kill_count"] = 19,
         ["points"] = 8098.284358307286,
       },
@@ -33714,7 +33714,7 @@ UWULogsData[6][2] = {
         ["points"] = 9606.960696069607,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 14769,
+        ["rank_raids"] = 14770,
         ["kill_count"] = 4,
         ["points"] = 7923.124033168071,
       },
@@ -39927,7 +39927,7 @@ UWULogsData[6][2] = {
         ["points"] = 9885.988598859885,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 18171,
+        ["rank_raids"] = 18172,
         ["kill_count"] = 21,
         ["points"] = 7780.037079621059,
       },
@@ -40668,7 +40668,7 @@ UWULogsData[6][2] = {
         ["points"] = 9520.95209520952,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 14461,
+        ["rank_raids"] = 14462,
         ["kill_count"] = 20,
         ["points"] = 7937.992594088287,
       },
@@ -43746,7 +43746,7 @@ UWULogsData[6][2] = {
         ["points"] = 8759.87598759876,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 18451,
+        ["rank_raids"] = 18452,
         ["kill_count"] = 3,
         ["points"] = 7769.365424504924,
       },
@@ -44316,7 +44316,7 @@ UWULogsData[6][2] = {
         ["points"] = 8179.81798179818,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 12004,
+        ["rank_raids"] = 12005,
         ["kill_count"] = 9,
         ["points"] = 8047.717066805061,
       },
@@ -44829,7 +44829,7 @@ UWULogsData[6][2] = {
         ["points"] = 9206.920692069207,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 10882,
+        ["rank_raids"] = 10883,
         ["kill_count"] = 9,
         ["points"] = 8100.245139348954,
       },
@@ -45969,7 +45969,7 @@ UWULogsData[6][2] = {
         ["points"] = 8434.843484348434,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 15584,
+        ["rank_raids"] = 15585,
         ["kill_count"] = 6,
         ["points"] = 7887.754880676043,
       },
@@ -46596,7 +46596,7 @@ UWULogsData[6][2] = {
         ["points"] = 7863.786378637864,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 11454,
+        ["rank_raids"] = 11455,
         ["kill_count"] = 4,
         ["points"] = 8073.253110966856,
       },
@@ -46767,7 +46767,7 @@ UWULogsData[6][2] = {
         ["points"] = 9806.980698069807,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 10862,
+        ["rank_raids"] = 10863,
         ["kill_count"] = 2,
         ["points"] = 8101.27142048991,
       },
@@ -49845,7 +49845,7 @@ UWULogsData[6][2] = {
         ["points"] = 8517.851785178518,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 10652,
+        ["rank_raids"] = 10653,
         ["kill_count"] = 18,
         ["points"] = 8111.4549662829095,
       },
@@ -50509,7 +50509,7 @@ UWULogsData[6][2] = {
     ["overall_rank"] = 4466,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 45600,
+        ["rank_raids"] = 45601,
         ["kill_count"] = 1,
         ["points"] = 5220.738145741482,
       },
@@ -50529,7 +50529,7 @@ UWULogsData[6][2] = {
         ["points"] = 7255.604190992373,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 53308,
+        ["rank_raids"] = 53310,
         ["kill_count"] = 1,
         ["points"] = 5883.9784998272835,
       },
@@ -51270,7 +51270,7 @@ UWULogsData[6][2] = {
         ["points"] = 8310.83108310831,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 12848,
+        ["rank_raids"] = 12849,
         ["kill_count"] = 19,
         ["points"] = 8010.883586343618,
       },
@@ -54291,7 +54291,7 @@ UWULogsData[6][2] = {
         ["points"] = 9912.991299129913,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 13166,
+        ["rank_raids"] = 13167,
         ["kill_count"] = 13,
         ["points"] = 7997.270759664982,
       },
@@ -54747,7 +54747,7 @@ UWULogsData[6][2] = {
         ["points"] = 9454.945494549454,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 11639,
+        ["rank_raids"] = 11640,
         ["kill_count"] = 25,
         ["points"] = 8064.800893114905,
       },
@@ -55089,7 +55089,7 @@ UWULogsData[6][2] = {
         ["points"] = 8957.895789578957,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 13726,
+        ["rank_raids"] = 13727,
         ["kill_count"] = 16,
         ["points"] = 7971.417653036874,
       },
@@ -55431,7 +55431,7 @@ UWULogsData[6][2] = {
         ["points"] = 7903.790379037904,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 15861,
+        ["rank_raids"] = 15862,
         ["kill_count"] = 2,
         ["points"] = 7876.21130377755,
       },
@@ -55545,7 +55545,7 @@ UWULogsData[6][2] = {
         ["points"] = 7355.009198917658,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 14472,
+        ["rank_raids"] = 14473,
         ["kill_count"] = 12,
         ["points"] = 7937.387672277559,
       },
@@ -55773,7 +55773,7 @@ UWULogsData[6][2] = {
         ["points"] = 8842.884288428842,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 12369,
+        ["rank_raids"] = 12370,
         ["kill_count"] = 4,
         ["points"] = 8031.183927936707,
       },
@@ -56229,7 +56229,7 @@ UWULogsData[6][2] = {
         ["points"] = 8235.823582358236,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 13654,
+        ["rank_raids"] = 13655,
         ["kill_count"] = 16,
         ["points"] = 7974.675887065688,
       },
@@ -56742,7 +56742,7 @@ UWULogsData[6][2] = {
         ["points"] = 7460.137338731346,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 12416,
+        ["rank_raids"] = 12417,
         ["kill_count"] = 11,
         ["points"] = 8029.344131257186,
       },

@@ -29003,9 +29003,9 @@ UWULogsData[5][3] = {
         ["points"] = 9646.964696469646,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 20247,
+        ["rank_raids"] = 20249,
         ["kill_count"] = 4,
-        ["points"] = 5526.299999999999,
+        ["points"] = 5526.1,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1148,
@@ -44051,9 +44051,9 @@ UWULogsData[5][3] = {
         ["points"] = 9782.978297829783,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 16585,
+        ["rank_raids"] = 16586,
         ["kill_count"] = 9,
-        ["points"] = 5892.499999999999,
+        ["points"] = 5892.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 7615,
@@ -44410,7 +44410,7 @@ UWULogsData[5][3] = {
     ["overall_rank"] = 782,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 16787,
+        ["rank_raids"] = 16788,
         ["kill_count"] = 3,
         ["points"] = 6666.4115652438995,
       },
@@ -45875,9 +45875,9 @@ UWULogsData[5][3] = {
         ["points"] = 8050.700000000001,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 16470,
+        ["rank_raids"] = 16471,
         ["kill_count"] = 5,
-        ["points"] = 5904.0,
+        ["points"] = 5903.9,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 6630,
@@ -46331,9 +46331,9 @@ UWULogsData[5][3] = {
         ["points"] = 9421.942194219422,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 21408,
+        ["rank_raids"] = 21410,
         ["kill_count"] = 19,
-        ["points"] = 5410.2,
+        ["points"] = 5409.999999999999,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 3510,
@@ -47882,7 +47882,7 @@ UWULogsData[5][3] = {
     ["overall_rank"] = 843,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 16678,
+        ["rank_raids"] = 16679,
         ["kill_count"] = 2,
         ["points"] = 6672.5639274902,
       },
@@ -48623,7 +48623,7 @@ UWULogsData[5][3] = {
     ["overall_rank"] = 856,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 18977,
+        ["rank_raids"] = 18978,
         ["kill_count"] = 10,
         ["points"] = 6557.54596421711,
       },
@@ -48970,7 +48970,7 @@ UWULogsData[5][3] = {
         ["points"] = 8822.882288228822,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 21812,
+        ["rank_raids"] = 21813,
         ["kill_count"] = 5,
         ["points"] = 5837.056159348415,
       },
@@ -49689,9 +49689,9 @@ UWULogsData[5][3] = {
         ["points"] = 8783.9,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 15491,
+        ["rank_raids"] = 15492,
         ["kill_count"] = 6,
-        ["points"] = 6001.9,
+        ["points"] = 6001.799999999999,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 10010,
@@ -49706,7 +49706,7 @@ UWULogsData[5][3] = {
     ["overall_rank"] = 876,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 22124,
+        ["rank_raids"] = 22125,
         ["kill_count"] = 1,
         ["points"] = 6411.924381097583,
       },
@@ -49877,7 +49877,7 @@ UWULogsData[5][3] = {
     ["overall_rank"] = 879,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 32862,
+        ["rank_raids"] = 32863,
         ["kill_count"] = 1,
         ["points"] = 5946.007997643376,
       },
@@ -50400,7 +50400,7 @@ UWULogsData[5][3] = {
         ["points"] = 7744.284258045726,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 19270,
+        ["rank_raids"] = 19271,
         ["kill_count"] = 17,
         ["points"] = 7628.554353457784,
       },
@@ -50447,7 +50447,7 @@ UWULogsData[5][3] = {
     ["overall_rank"] = 889,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 19272,
+        ["rank_raids"] = 19273,
         ["kill_count"] = 2,
         ["points"] = 6543.740559287779,
       },
@@ -52482,9 +52482,9 @@ UWULogsData[5][3] = {
         ["points"] = 9280.928092809281,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 17472,
+        ["rank_raids"] = 17473,
         ["kill_count"] = 17,
-        ["points"] = 5803.8,
+        ["points"] = 5803.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 7473,
@@ -54214,7 +54214,7 @@ UWULogsData[5][3] = {
         ["points"] = 9412.941294129414,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 24968,
+        ["rank_raids"] = 24969,
         ["kill_count"] = 1,
         ["points"] = 5582.757827192103,
       },
@@ -54836,7 +54836,7 @@ UWULogsData[5][3] = {
     ["overall_rank"] = 966,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 23986,
+        ["rank_raids"] = 23987,
         ["kill_count"] = 10,
         ["points"] = 6328.373677124542,
       },
@@ -56142,7 +56142,7 @@ UWULogsData[5][3] = {
     ["overall_rank"] = 989,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 16402,
+        ["rank_raids"] = 16403,
         ["kill_count"] = 5,
         ["points"] = 6686.570278232994,
       },
@@ -56524,9 +56524,9 @@ UWULogsData[5][3] = {
         ["points"] = 9894.989498949895,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 40595,
+        ["rank_raids"] = 40597,
         ["kill_count"] = 1,
-        ["points"] = 3491.4999999999995,
+        ["points"] = 3491.2999999999993,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 9592,

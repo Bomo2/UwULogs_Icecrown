@@ -22066,7 +22066,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 388,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 11870,
+        ["rank_raids"] = 11871,
         ["kill_count"] = 6,
         ["points"] = 7493.7493749374935,
       },
@@ -26398,7 +26398,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 464,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9485,
+        ["rank_raids"] = 9486,
         ["kill_count"] = 10,
         ["points"] = 7906.790679067906,
       },
@@ -30616,14 +30616,14 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 5659,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 39060,
+        ["rank_raids"] = 39061,
         ["kill_count"] = 2,
         ["points"] = 5057.3939190576875,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 46988,
+        ["rank_raids"] = 46989,
         ["kill_count"] = 1,
-        ["points"] = 2852.2,
+        ["points"] = 2852.0999999999995,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 24804,
@@ -30631,17 +30631,17 @@ UWULogsData[1][1] = {
         ["points"] = 7329.6733830017765,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 40007,
+        ["rank_raids"] = 40008,
         ["kill_count"] = 2,
         ["points"] = 6026.894173088923,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 49218,
+        ["rank_raids"] = 49219,
         ["kill_count"] = 2,
         ["points"] = 5343.147908186692,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 33230,
+        ["rank_raids"] = 33231,
         ["kill_count"] = 1,
         ["points"] = 5312.897868360054,
       },
@@ -31010,7 +31010,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 545,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10262,
+        ["rank_raids"] = 10263,
         ["kill_count"] = 25,
         ["points"] = 7752.775277527752,
       },
@@ -32413,9 +32413,9 @@ UWULogsData[1][1] = {
         ["points"] = 9705.970597059706,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 25453,
+        ["rank_raids"] = 25454,
         ["kill_count"] = 16,
-        ["points"] = 5005.7,
+        ["points"] = 5005.5999999999985,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1384,
@@ -35228,7 +35228,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 619,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10552,
+        ["rank_raids"] = 10553,
         ["kill_count"] = 3,
         ["points"] = 7706.770677067707,
       },
@@ -39503,7 +39503,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 695,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9695,
+        ["rank_raids"] = 9696,
         ["kill_count"] = 10,
         ["points"] = 7862.786278627862,
       },
@@ -40130,7 +40130,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 706,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9957,
+        ["rank_raids"] = 9958,
         ["kill_count"] = 4,
         ["points"] = 7811.781178117812,
       },
@@ -40586,7 +40586,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 714,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9763,
+        ["rank_raids"] = 9764,
         ["kill_count"] = 2,
         ["points"] = 7847.784778477848,
       },
@@ -40700,7 +40700,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 716,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 14208,
+        ["rank_raids"] = 14209,
         ["kill_count"] = 6,
         ["points"] = 7118.711871187119,
       },
@@ -40871,7 +40871,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 719,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 13104,
+        ["rank_raids"] = 13105,
         ["kill_count"] = 3,
         ["points"] = 7275.727572757276,
       },
@@ -41327,7 +41327,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 727,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9040,
+        ["rank_raids"] = 9041,
         ["kill_count"] = 14,
         ["points"] = 7970.797079707971,
       },
@@ -41783,7 +41783,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 735,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9594,
+        ["rank_raids"] = 9595,
         ["kill_count"] = 9,
         ["points"] = 7885.788578857886,
       },
@@ -41870,7 +41870,7 @@ UWULogsData[1][1] = {
         ["points"] = 9846.864686468647,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 57320,
+        ["rank_raids"] = 57321,
         ["kill_count"] = 3,
         ["points"] = 3659.9797938394545,
       },
@@ -42125,7 +42125,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 741,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10443,
+        ["rank_raids"] = 10444,
         ["kill_count"] = 12,
         ["points"] = 7723.772377237724,
       },
@@ -42182,7 +42182,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 742,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9161,
+        ["rank_raids"] = 9162,
         ["kill_count"] = 29,
         ["points"] = 7952.795279527953,
       },
@@ -42410,7 +42410,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 746,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10022,
+        ["rank_raids"] = 10023,
         ["kill_count"] = 6,
         ["points"] = 7804.7804780478045,
       },
@@ -43037,7 +43037,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 757,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9568,
+        ["rank_raids"] = 9569,
         ["kill_count"] = 1,
         ["points"] = 7888.788878887889,
       },
@@ -43664,7 +43664,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 768,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 12172,
+        ["rank_raids"] = 12173,
         ["kill_count"] = 10,
         ["points"] = 7438.743874387439,
       },
@@ -44006,7 +44006,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 774,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9920,
+        ["rank_raids"] = 9921,
         ["kill_count"] = 2,
         ["points"] = 7819.78197819782,
       },
@@ -44063,7 +44063,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 775,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10350,
+        ["rank_raids"] = 10351,
         ["kill_count"] = 16,
         ["points"] = 7736.773677367736,
       },
@@ -44405,7 +44405,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 781,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 13944,
+        ["rank_raids"] = 13945,
         ["kill_count"] = 17,
         ["points"] = 7155.715571557155,
       },
@@ -44861,7 +44861,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 789,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10466,
+        ["rank_raids"] = 10467,
         ["kill_count"] = 10,
         ["points"] = 7721.772177217722,
       },
@@ -44975,7 +44975,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 791,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10242,
+        ["rank_raids"] = 10243,
         ["kill_count"] = 8,
         ["points"] = 7757.775777577758,
       },
@@ -45032,7 +45032,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 792,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 14238,
+        ["rank_raids"] = 14239,
         ["kill_count"] = 7,
         ["points"] = 7114.711471147115,
       },
@@ -46794,7 +46794,7 @@ UWULogsData[1][1] = {
     },
   },
   ["Fatkin"] = {
-    ["percentile"] = 87.258,
+    ["percentile"] = 87.257,
     ["server"] = "Icecrown",
     ["overall_rank"] = 823,
     ["bosses"] = {
@@ -46834,9 +46834,9 @@ UWULogsData[1][1] = {
         ["points"] = 9067.906790679068,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 20305,
+        ["rank_raids"] = 20306,
         ["kill_count"] = 5,
-        ["points"] = 5520.499999999999,
+        ["points"] = 5520.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3868,
@@ -47255,7 +47255,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 831,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9628,
+        ["rank_raids"] = 9629,
         ["kill_count"] = 5,
         ["points"] = 7881.788178817882,
       },
@@ -47312,7 +47312,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 832,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 14845,
+        ["rank_raids"] = 14846,
         ["kill_count"] = 13,
         ["points"] = 7021.702170217021,
       },
@@ -47483,7 +47483,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 835,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 12704,
+        ["rank_raids"] = 12705,
         ["kill_count"] = 4,
         ["points"] = 7344.734473447345,
       },
@@ -47996,7 +47996,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 844,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 11619,
+        ["rank_raids"] = 11620,
         ["kill_count"] = 24,
         ["points"] = 7537.753775377538,
       },
@@ -48395,7 +48395,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 851,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8844,
+        ["rank_raids"] = 8845,
         ["kill_count"] = 5,
         ["points"] = 7993.799379937994,
       },
@@ -49991,7 +49991,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 880,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 11797,
+        ["rank_raids"] = 11798,
         ["kill_count"] = 10,
         ["points"] = 7504.750475047505,
       },
@@ -50048,7 +50048,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 881,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 18127,
+        ["rank_raids"] = 18128,
         ["kill_count"] = 5,
         ["points"] = 6500.6500650065,
       },
@@ -50105,7 +50105,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 882,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10030,
+        ["rank_raids"] = 10031,
         ["kill_count"] = 10,
         ["points"] = 7800.7800780078005,
       },
@@ -50903,7 +50903,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 896,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 11085,
+        ["rank_raids"] = 11086,
         ["kill_count"] = 8,
         ["points"] = 7620.762076207621,
       },
@@ -50995,9 +50995,9 @@ UWULogsData[1][1] = {
         ["points"] = 9141.914191419142,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 23415,
+        ["rank_raids"] = 23416,
         ["kill_count"] = 1,
-        ["points"] = 5209.5,
+        ["points"] = 5209.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3293,
@@ -51131,7 +51131,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 900,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9120,
+        ["rank_raids"] = 9121,
         ["kill_count"] = 33,
         ["points"] = 7956.795679567957,
       },
@@ -51188,7 +51188,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 901,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9686,
+        ["rank_raids"] = 9687,
         ["kill_count"] = 13,
         ["points"] = 7866.786678667866,
       },
@@ -51416,7 +51416,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 905,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10081,
+        ["rank_raids"] = 10082,
         ["kill_count"] = 8,
         ["points"] = 7788.778877887788,
       },
@@ -51872,7 +51872,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 913,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10969,
+        ["rank_raids"] = 10970,
         ["kill_count"] = 10,
         ["points"] = 7640.764076407641,
       },
@@ -52499,7 +52499,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 924,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8784,
+        ["rank_raids"] = 8785,
         ["kill_count"] = 2,
         ["points"] = 8007.800780078008,
       },
@@ -52670,7 +52670,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 927,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10038,
+        ["rank_raids"] = 10039,
         ["kill_count"] = 9,
         ["points"] = 7795.7795779577955,
       },
@@ -53012,7 +53012,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 933,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10691,
+        ["rank_raids"] = 10692,
         ["kill_count"] = 8,
         ["points"] = 7685.768576857686,
       },
@@ -53069,7 +53069,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 934,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 12282,
+        ["rank_raids"] = 12283,
         ["kill_count"] = 17,
         ["points"] = 7421.742174217422,
       },
@@ -53696,7 +53696,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 945,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10801,
+        ["rank_raids"] = 10802,
         ["kill_count"] = 3,
         ["points"] = 7670.767076707671,
       },
@@ -54727,9 +54727,9 @@ UWULogsData[1][1] = {
         ["points"] = 9131.913191319132,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 26052,
+        ["rank_raids"] = 26053,
         ["kill_count"] = 2,
-        ["points"] = 4945.799999999999,
+        ["points"] = 4945.7,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2114,
@@ -54893,7 +54893,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 966,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 18885,
+        ["rank_raids"] = 18886,
         ["kill_count"] = 5,
         ["points"] = 6376.637663766377,
       },
@@ -55292,7 +55292,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 973,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9699,
+        ["rank_raids"] = 9700,
         ["kill_count"] = 22,
         ["points"] = 7861.786178617862,
       },
@@ -55463,7 +55463,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 976,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 14966,
+        ["rank_raids"] = 14967,
         ["kill_count"] = 7,
         ["points"] = 6999.699969997,
       },
@@ -55634,7 +55634,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 979,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9655,
+        ["rank_raids"] = 9656,
         ["kill_count"] = 25,
         ["points"] = 7878.787878787878,
       },
@@ -55862,7 +55862,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 983,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8841,
+        ["rank_raids"] = 8842,
         ["kill_count"] = 31,
         ["points"] = 7995.799579957996,
       },
@@ -55919,7 +55919,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 984,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8883,
+        ["rank_raids"] = 8884,
         ["kill_count"] = 3,
         ["points"] = 7987.798779877988,
       },
@@ -56090,7 +56090,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 987,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 14309,
+        ["rank_raids"] = 14310,
         ["kill_count"] = 9,
         ["points"] = 7107.710771077108,
       },
@@ -56318,7 +56318,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 991,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 17097,
+        ["rank_raids"] = 17098,
         ["kill_count"] = 8,
         ["points"] = 6658.665866586658,
       },
@@ -56375,7 +56375,7 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 992,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10011,
+        ["rank_raids"] = 10012,
         ["kill_count"] = 14,
         ["points"] = 7805.780578057806,
       },

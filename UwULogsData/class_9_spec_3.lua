@@ -6237,7 +6237,7 @@ UWULogsData[9][3] = {
         ["points"] = 6602.560965863031,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 40887,
+        ["rank_raids"] = 40889,
         ["kill_count"] = 3,
         ["points"] = 6624.986404610248,
       },
@@ -6257,7 +6257,7 @@ UWULogsData[9][3] = {
         ["points"] = 4706.8750630113045,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 45980,
+        ["rank_raids"] = 45982,
         ["kill_count"] = 2,
         ["points"] = 3405.5839057823673,
       },
@@ -15843,7 +15843,7 @@ UWULogsData[9][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4971,
         ["kill_count"] = 5,
-        ["points"] = 8421.534936998854,
+        ["points"] = 8421.715725575536,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 25671,

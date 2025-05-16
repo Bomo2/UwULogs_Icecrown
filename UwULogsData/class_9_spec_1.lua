@@ -5338,9 +5338,9 @@ UWULogsData[9][1] = {
         ["points"] = 6082.3,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 17619,
+        ["rank_raids"] = 17621,
         ["kill_count"] = 6,
-        ["points"] = 5789.1,
+        ["points"] = 5788.900000000001,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4931,
