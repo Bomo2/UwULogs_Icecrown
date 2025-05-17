@@ -24,7 +24,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 37,
         ["kill_count"] = 26,
-        ["points"] = 9890.48,
+        ["points"] = 9890.51,
       },
       ["Rotface"] = {
         ["rank_raids"] = 13,
@@ -81,7 +81,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 4,
         ["kill_count"] = 33,
-        ["points"] = 9990.87,
+        ["points"] = 9990.88,
       },
       ["Rotface"] = {
         ["rank_raids"] = 9,
@@ -252,7 +252,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 15,
         ["kill_count"] = 8,
-        ["points"] = 9957.41,
+        ["points"] = 9957.42,
       },
       ["Rotface"] = {
         ["rank_raids"] = 118,
@@ -309,7 +309,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 35,
         ["kill_count"] = 19,
-        ["points"] = 9896.56,
+        ["points"] = 9896.59,
       },
       ["Rotface"] = {
         ["rank_raids"] = 67,
@@ -366,7 +366,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 33,
         ["kill_count"] = 13,
-        ["points"] = 9902.65,
+        ["points"] = 9902.68,
       },
       ["Rotface"] = {
         ["rank_raids"] = 12,
@@ -423,7 +423,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 58,
         ["kill_count"] = 7,
-        ["points"] = 9826.59,
+        ["points"] = 9826.64,
       },
       ["Rotface"] = {
         ["rank_raids"] = 41,
@@ -480,7 +480,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 62,
         ["kill_count"] = 33,
-        ["points"] = 9814.42,
+        ["points"] = 9814.48,
       },
       ["Rotface"] = {
         ["rank_raids"] = 21,
@@ -537,7 +537,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 44,
         ["kill_count"] = 3,
-        ["points"] = 9869.18,
+        ["points"] = 9869.22,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2,
@@ -594,7 +594,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 19,
         ["kill_count"] = 17,
-        ["points"] = 9945.24,
+        ["points"] = 9945.26,
       },
       ["Rotface"] = {
         ["rank_raids"] = 10,
@@ -651,7 +651,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 34,
         ["kill_count"] = 17,
-        ["points"] = 9899.6,
+        ["points"] = 9899.64,
       },
       ["Rotface"] = {
         ["rank_raids"] = 33,
@@ -708,7 +708,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 23,
         ["kill_count"] = 30,
-        ["points"] = 9933.07,
+        ["points"] = 9933.09,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3,
@@ -765,7 +765,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 13,
         ["kill_count"] = 7,
-        ["points"] = 9963.49,
+        ["points"] = 9963.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 89,
@@ -822,7 +822,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 40,
         ["kill_count"] = 4,
-        ["points"] = 9881.35,
+        ["points"] = 9881.39,
       },
       ["Rotface"] = {
         ["rank_raids"] = 70,
@@ -879,7 +879,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 122,
         ["kill_count"] = 7,
-        ["points"] = 9631.88,
+        ["points"] = 9632.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 30,
@@ -936,7 +936,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 38,
         ["kill_count"] = 67,
-        ["points"] = 9887.44,
+        ["points"] = 9887.47,
       },
       ["Rotface"] = {
         ["rank_raids"] = 23,
@@ -993,7 +993,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 9,
         ["kill_count"] = 7,
-        ["points"] = 9975.66,
+        ["points"] = 9975.67,
       },
       ["Rotface"] = {
         ["rank_raids"] = 84,
@@ -1107,7 +1107,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 116,
         ["kill_count"] = 18,
-        ["points"] = 9650.14,
+        ["points"] = 9650.24,
       },
       ["Rotface"] = {
         ["rank_raids"] = 188,
@@ -1164,7 +1164,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 12,
         ["kill_count"] = 4,
-        ["points"] = 9966.53,
+        ["points"] = 9966.55,
       },
       ["Rotface"] = {
         ["rank_raids"] = 31,
@@ -1221,7 +1221,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 10,
         ["kill_count"] = 6,
-        ["points"] = 9972.62,
+        ["points"] = 9972.63,
       },
       ["Rotface"] = {
         ["rank_raids"] = 379,
@@ -1278,7 +1278,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 186,
         ["kill_count"] = 15,
-        ["points"] = 9460.74,
+        ["points"] = 9461.25,
       },
       ["Rotface"] = {
         ["rank_raids"] = 275,
@@ -1335,7 +1335,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 21,
         ["kill_count"] = 5,
-        ["points"] = 9939.15,
+        ["points"] = 9939.17,
       },
       ["Rotface"] = {
         ["rank_raids"] = 461,
@@ -1392,7 +1392,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 79,
         ["kill_count"] = 11,
-        ["points"] = 9762.7,
+        ["points"] = 9762.77,
       },
       ["Rotface"] = {
         ["rank_raids"] = 15,
@@ -1449,7 +1449,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 113,
         ["kill_count"] = 2,
-        ["points"] = 9659.26,
+        ["points"] = 9659.37,
       },
       ["Rotface"] = {
         ["rank_raids"] = 52,
@@ -1506,7 +1506,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 42,
         ["kill_count"] = 1,
-        ["points"] = 9875.27,
+        ["points"] = 9875.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 27,
@@ -1563,7 +1563,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 359,
         ["kill_count"] = 9,
-        ["points"] = 9148.53,
+        ["points"] = 9149.34,
       },
       ["Rotface"] = {
         ["rank_raids"] = 126,
@@ -1620,7 +1620,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 49,
         ["kill_count"] = 46,
-        ["points"] = 9853.97,
+        ["points"] = 9854.01,
       },
       ["Rotface"] = {
         ["rank_raids"] = 232,
@@ -1677,7 +1677,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 202,
         ["kill_count"] = 8,
-        ["points"] = 9422.89,
+        ["points"] = 9423.44,
       },
       ["Rotface"] = {
         ["rank_raids"] = 117,
@@ -1734,7 +1734,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 194,
         ["kill_count"] = 35,
-        ["points"] = 9441.82,
+        ["points"] = 9442.34,
       },
       ["Rotface"] = {
         ["rank_raids"] = 202,
@@ -1769,7 +1769,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Meneedsleep"] = {
-    ["percentile"] = 93.01,
+    ["percentile"] = 93.02,
     ["server"] = "Icecrown",
     ["overall_rank"] = 32,
     ["bosses"] = {
@@ -1791,7 +1791,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 472,
         ["kill_count"] = 7,
-        ["points"] = 8807.95,
+        ["points"] = 8809.07,
       },
       ["Rotface"] = {
         ["rank_raids"] = 147,
@@ -1848,7 +1848,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 350,
         ["kill_count"] = 6,
-        ["points"] = 9176.92,
+        ["points"] = 9177.69,
       },
       ["Rotface"] = {
         ["rank_raids"] = 628,
@@ -1905,7 +1905,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 327,
         ["kill_count"] = 6,
-        ["points"] = 9233.68,
+        ["points"] = 9234.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 399,
@@ -1962,7 +1962,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 219,
         ["kill_count"] = 4,
-        ["points"] = 9403.97,
+        ["points"] = 9404.54,
       },
       ["Rotface"] = {
         ["rank_raids"] = 68,
@@ -2019,7 +2019,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 516,
         ["kill_count"] = 6,
-        ["points"] = 8751.18,
+        ["points"] = 8752.36,
       },
       ["Rotface"] = {
         ["rank_raids"] = 151,
@@ -2076,7 +2076,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 88,
         ["kill_count"] = 8,
-        ["points"] = 9735.32,
+        ["points"] = 9735.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 75,
@@ -2133,7 +2133,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 550,
         ["kill_count"] = 51,
-        ["points"] = 8713.34,
+        ["points"] = 8714.56,
       },
       ["Rotface"] = {
         ["rank_raids"] = 135,
@@ -2190,7 +2190,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 16,
         ["kill_count"] = 10,
-        ["points"] = 9954.37,
+        ["points"] = 9954.38,
       },
       ["Rotface"] = {
         ["rank_raids"] = 250,
@@ -2247,7 +2247,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 183,
         ["kill_count"] = 8,
-        ["points"] = 9470.2,
+        ["points"] = 9470.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 158,
@@ -2304,7 +2304,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 126,
         ["kill_count"] = 12,
-        ["points"] = 9619.71,
+        ["points"] = 9619.83,
       },
       ["Rotface"] = {
         ["rank_raids"] = 57,
@@ -2361,7 +2361,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 297,
         ["kill_count"] = 11,
-        ["points"] = 9309.37,
+        ["points"] = 9310.02,
       },
       ["Rotface"] = {
         ["rank_raids"] = 174,
@@ -2418,7 +2418,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 29,
         ["kill_count"] = 8,
-        ["points"] = 9914.82,
+        ["points"] = 9914.84,
       },
       ["Rotface"] = {
         ["rank_raids"] = 239,
@@ -2475,7 +2475,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 152,
         ["kill_count"] = 4,
-        ["points"] = 9540.61,
+        ["points"] = 9540.75,
       },
       ["Rotface"] = {
         ["rank_raids"] = 56,
@@ -2532,7 +2532,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 63,
         ["kill_count"] = 14,
-        ["points"] = 9811.38,
+        ["points"] = 9811.44,
       },
       ["Rotface"] = {
         ["rank_raids"] = 34,
@@ -2589,7 +2589,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 111,
         ["kill_count"] = 4,
-        ["points"] = 9665.35,
+        ["points"] = 9665.45,
       },
       ["Rotface"] = {
         ["rank_raids"] = 58,
@@ -2646,7 +2646,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 46,
         ["kill_count"] = 10,
-        ["points"] = 9863.1,
+        ["points"] = 9863.14,
       },
       ["Rotface"] = {
         ["rank_raids"] = 88,
@@ -2703,7 +2703,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 366,
         ["kill_count"] = 10,
-        ["points"] = 9120.15,
+        ["points"] = 9120.98,
       },
       ["Rotface"] = {
         ["rank_raids"] = 184,
@@ -2760,7 +2760,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 30,
         ["kill_count"] = 12,
-        ["points"] = 9911.77,
+        ["points"] = 9911.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 254,
@@ -2817,7 +2817,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 54,
         ["kill_count"] = 25,
-        ["points"] = 9838.76,
+        ["points"] = 9838.81,
       },
       ["Rotface"] = {
         ["rank_raids"] = 94,
@@ -2874,7 +2874,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 386,
         ["kill_count"] = 7,
-        ["points"] = 9063.39,
+        ["points"] = 9064.27,
       },
       ["Rotface"] = {
         ["rank_raids"] = 29,
@@ -2909,7 +2909,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Multilatte"] = {
-    ["percentile"] = 89.8,
+    ["percentile"] = 89.81,
     ["server"] = "Icecrown",
     ["overall_rank"] = 52,
     ["bosses"] = {
@@ -2931,7 +2931,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 450,
         ["kill_count"] = 5,
-        ["points"] = 8883.63,
+        ["points"] = 8884.69,
       },
       ["Rotface"] = {
         ["rank_raids"] = 293,
@@ -2988,7 +2988,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 340,
         ["kill_count"] = 12,
-        ["points"] = 9195.84,
+        ["points"] = 9196.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 200,
@@ -3045,7 +3045,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 262,
         ["kill_count"] = 29,
-        ["points"] = 9337.75,
+        ["points"] = 9338.37,
       },
       ["Rotface"] = {
         ["rank_raids"] = 407,
@@ -3102,7 +3102,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 553,
         ["kill_count"] = 3,
-        ["points"] = 8703.88,
+        ["points"] = 8705.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 223,
@@ -3159,7 +3159,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 138,
         ["kill_count"] = 2,
-        ["points"] = 9583.21,
+        ["points"] = 9583.33,
       },
       ["Rotface"] = {
         ["rank_raids"] = 516,
@@ -3216,7 +3216,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 310,
         ["kill_count"] = 4,
-        ["points"] = 9280.98,
+        ["points"] = 9281.66,
       },
       ["Rotface"] = {
         ["rank_raids"] = 86,
@@ -3273,7 +3273,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 460,
         ["kill_count"] = 8,
-        ["points"] = 8845.79,
+        ["points"] = 8846.88,
       },
       ["Rotface"] = {
         ["rank_raids"] = 20,
@@ -3330,7 +3330,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 61,
         ["kill_count"] = 4,
-        ["points"] = 9817.46,
+        ["points"] = 9817.52,
       },
       ["Rotface"] = {
         ["rank_raids"] = 28,
@@ -3387,7 +3387,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 459,
         ["kill_count"] = 4,
-        ["points"] = 8855.25,
+        ["points"] = 8856.33,
       },
       ["Rotface"] = {
         ["rank_raids"] = 629,
@@ -3444,7 +3444,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 200,
         ["kill_count"] = 3,
-        ["points"] = 9432.36,
+        ["points"] = 9432.89,
       },
       ["Rotface"] = {
         ["rank_raids"] = 148,
@@ -3501,7 +3501,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 145,
         ["kill_count"] = 9,
-        ["points"] = 9561.91,
+        ["points"] = 9562.04,
       },
       ["Rotface"] = {
         ["rank_raids"] = 96,
@@ -3558,7 +3558,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 464,
         ["kill_count"] = 7,
-        ["points"] = 8826.87,
+        ["points"] = 8827.98,
       },
       ["Rotface"] = {
         ["rank_raids"] = 291,
@@ -3615,7 +3615,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 246,
         ["kill_count"] = 1,
-        ["points"] = 9366.13,
+        ["points"] = 9366.73,
       },
       ["Rotface"] = {
         ["rank_raids"] = 604,
@@ -3672,7 +3672,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 175,
         ["kill_count"] = 11,
-        ["points"] = 9479.66,
+        ["points"] = 9480.15,
       },
       ["Rotface"] = {
         ["rank_raids"] = 469,
@@ -3707,7 +3707,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Cptcool"] = {
-    ["percentile"] = 87.3,
+    ["percentile"] = 87.31,
     ["server"] = "Icecrown",
     ["overall_rank"] = 66,
     ["bosses"] = {
@@ -3729,7 +3729,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 165,
         ["kill_count"] = 11,
-        ["points"] = 9501.06,
+        ["points"] = 9501.22,
       },
       ["Rotface"] = {
         ["rank_raids"] = 405,
@@ -3786,7 +3786,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 441,
         ["kill_count"] = 5,
-        ["points"] = 8902.55,
+        ["points"] = 8903.59,
       },
       ["Rotface"] = {
         ["rank_raids"] = 479,
@@ -3821,7 +3821,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Naylara"] = {
-    ["percentile"] = 87.27,
+    ["percentile"] = 87.28,
     ["server"] = "Icecrown",
     ["overall_rank"] = 68,
     ["bosses"] = {
@@ -3843,7 +3843,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 563,
         ["kill_count"] = 6,
-        ["points"] = 8684.96,
+        ["points"] = 8686.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 925,
@@ -3900,7 +3900,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 465,
         ["kill_count"] = 5,
-        ["points"] = 8817.41,
+        ["points"] = 8818.53,
       },
       ["Rotface"] = {
         ["rank_raids"] = 369,
@@ -3957,7 +3957,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 417,
         ["kill_count"] = 14,
-        ["points"] = 8978.24,
+        ["points"] = 8979.21,
       },
       ["Rotface"] = {
         ["rank_raids"] = 269,
@@ -4014,7 +4014,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 721,
         ["kill_count"] = 2,
-        ["points"] = 8382.21,
+        ["points"] = 8383.74,
       },
       ["Rotface"] = {
         ["rank_raids"] = 236,
@@ -4071,7 +4071,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 208,
         ["kill_count"] = 2,
-        ["points"] = 9413.43,
+        ["points"] = 9413.99,
       },
       ["Rotface"] = {
         ["rank_raids"] = 17,
@@ -4128,7 +4128,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 405,
         ["kill_count"] = 2,
-        ["points"] = 9006.62,
+        ["points"] = 9007.56,
       },
       ["Rotface"] = {
         ["rank_raids"] = 584,
@@ -4185,7 +4185,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 379,
         ["kill_count"] = 2,
-        ["points"] = 9082.31,
+        ["points"] = 9083.18,
       },
       ["Rotface"] = {
         ["rank_raids"] = 140,
@@ -4220,7 +4220,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Checkyourbac"] = {
-    ["percentile"] = 86.4,
+    ["percentile"] = 86.41,
     ["server"] = "Icecrown",
     ["overall_rank"] = 75,
     ["bosses"] = {
@@ -4242,7 +4242,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 452,
         ["kill_count"] = 27,
-        ["points"] = 8874.17,
+        ["points"] = 8875.24,
       },
       ["Rotface"] = {
         ["rank_raids"] = 511,
@@ -4299,7 +4299,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 321,
         ["kill_count"] = 8,
-        ["points"] = 9262.06,
+        ["points"] = 9262.76,
       },
       ["Rotface"] = {
         ["rank_raids"] = 334,
@@ -4356,7 +4356,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 69,
         ["kill_count"] = 2,
-        ["points"] = 9793.12,
+        ["points"] = 9793.19,
       },
       ["Rotface"] = {
         ["rank_raids"] = 105,
@@ -4408,7 +4408,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 752,
         ["kill_count"] = 15,
-        ["points"] = 8287.61,
+        ["points"] = 8289.22,
       },
       ["Rotface"] = {
         ["rank_raids"] = 416,
@@ -4465,7 +4465,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 732,
         ["kill_count"] = 6,
-        ["points"] = 8344.37,
+        ["points"] = 8345.94,
       },
       ["Rotface"] = {
         ["rank_raids"] = 431,
@@ -4522,7 +4522,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 144,
         ["kill_count"] = 8,
-        ["points"] = 9564.95,
+        ["points"] = 9565.09,
       },
       ["Rotface"] = {
         ["rank_raids"] = 161,
@@ -4579,7 +4579,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 57,
         ["kill_count"] = 10,
-        ["points"] = 9829.63,
+        ["points"] = 9829.68,
       },
       ["Rotface"] = {
         ["rank_raids"] = 173,
@@ -4636,7 +4636,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 300,
         ["kill_count"] = 11,
-        ["points"] = 9299.91,
+        ["points"] = 9300.57,
       },
       ["Rotface"] = {
         ["rank_raids"] = 238,
@@ -4693,7 +4693,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 89,
         ["kill_count"] = 3,
-        ["points"] = 9732.28,
+        ["points"] = 9732.36,
       },
       ["Rotface"] = {
         ["rank_raids"] = 249,
@@ -4728,7 +4728,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Circaeum"] = {
-    ["percentile"] = 85.1,
+    ["percentile"] = 85.11,
     ["server"] = "Icecrown",
     ["overall_rank"] = 84,
     ["bosses"] = {
@@ -4750,7 +4750,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 692,
         ["kill_count"] = 4,
-        ["points"] = 8410.6,
+        ["points"] = 8412.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 411,
@@ -4807,7 +4807,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 391,
         ["kill_count"] = 9,
-        ["points"] = 9053.93,
+        ["points"] = 9054.82,
       },
       ["Rotface"] = {
         ["rank_raids"] = 530,
@@ -4864,7 +4864,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 254,
         ["kill_count"] = 5,
-        ["points"] = 9347.21,
+        ["points"] = 9347.83,
       },
       ["Rotface"] = {
         ["rank_raids"] = 381,
@@ -4921,7 +4921,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 313,
         ["kill_count"] = 7,
-        ["points"] = 9271.52,
+        ["points"] = 9272.21,
       },
       ["Rotface"] = {
         ["rank_raids"] = 386,
@@ -4978,7 +4978,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 168,
         ["kill_count"] = 13,
-        ["points"] = 9491.94,
+        ["points"] = 9492.09,
       },
       ["Rotface"] = {
         ["rank_raids"] = 165,
@@ -5013,7 +5013,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Cynddra"] = {
-    ["percentile"] = 83.98,
+    ["percentile"] = 83.99,
     ["server"] = "Icecrown",
     ["overall_rank"] = 89,
     ["bosses"] = {
@@ -5035,7 +5035,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 429,
         ["kill_count"] = 17,
-        ["points"] = 8940.4,
+        ["points"] = 8941.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 965,
@@ -5092,7 +5092,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 819,
         ["kill_count"] = 11,
-        ["points"] = 8164.62,
+        ["points"] = 8166.35,
       },
       ["Rotface"] = {
         ["rank_raids"] = 581,
@@ -5149,7 +5149,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 296,
         ["kill_count"] = 3,
-        ["points"] = 9318.83,
+        ["points"] = 9319.47,
       },
       ["Rotface"] = {
         ["rank_raids"] = 319,
@@ -5206,7 +5206,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 841,
         ["kill_count"] = 8,
-        ["points"] = 8107.85,
+        ["points"] = 8109.64,
       },
       ["Rotface"] = {
         ["rank_raids"] = 591,
@@ -5263,7 +5263,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 430,
         ["kill_count"] = 2,
-        ["points"] = 8930.94,
+        ["points"] = 8931.95,
       },
       ["Rotface"] = {
         ["rank_raids"] = 227,
@@ -5320,7 +5320,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 943,
         ["kill_count"] = 4,
-        ["points"] = 7928.1,
+        ["points"] = 7930.06,
       },
       ["Rotface"] = {
         ["rank_raids"] = 912,
@@ -5357,57 +5357,57 @@ UWULogsData[6][1] = {
   ["Urosnejaki"] = {
     ["percentile"] = 82.03,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 2970,
+    ["overall_rank"] = 2972,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 13919,
+        ["rank_raids"] = 13930,
         ["kill_count"] = 2,
-        ["points"] = 6159.1,
+        ["points"] = 6158.0,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 2688,
+        ["rank_raids"] = 2690,
         ["kill_count"] = 2,
-        ["points"] = 8744.6,
+        ["points"] = 8744.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 19433,
+        ["rank_raids"] = 19446,
         ["kill_count"] = 2,
-        ["points"] = 5607.7,
+        ["points"] = 5606.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 22035,
+        ["rank_raids"] = 22056,
         ["kill_count"] = 2,
-        ["points"] = 5347.5,
+        ["points"] = 5345.4,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 26920,
+        ["rank_raids"] = 26944,
         ["kill_count"] = 2,
-        ["points"] = 4859.0,
+        ["points"] = 4856.6,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 13567,
+        ["rank_raids"] = 13573,
         ["kill_count"] = 2,
-        ["points"] = 6194.3,
+        ["points"] = 6193.7,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 13075,
+        ["rank_raids"] = 13083,
         ["kill_count"] = 2,
-        ["points"] = 6243.5,
+        ["points"] = 6242.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 32611,
+        ["rank_raids"] = 32643,
         ["kill_count"] = 2,
-        ["points"] = 4289.9,
+        ["points"] = 4286.7,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5769,
+        ["rank_raids"] = 5771,
         ["kill_count"] = 3,
-        ["points"] = 7820.3,
+        ["points"] = 7819.7,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6465,
+        ["rank_raids"] = 6468,
         ["kill_count"] = 2,
-        ["points"] = 7611.5,
+        ["points"] = 7610.6,
       },
     },
   },
@@ -5434,7 +5434,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 224,
         ["kill_count"] = 9,
-        ["points"] = 9394.51,
+        ["points"] = 9395.09,
       },
       ["Rotface"] = {
         ["rank_raids"] = 252,
@@ -5491,7 +5491,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 851,
         ["kill_count"] = 4,
-        ["points"] = 8098.39,
+        ["points"] = 8100.19,
       },
       ["Rotface"] = {
         ["rank_raids"] = 413,
@@ -5548,7 +5548,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 567,
         ["kill_count"] = 7,
-        ["points"] = 8675.5,
+        ["points"] = 8676.75,
       },
       ["Rotface"] = {
         ["rank_raids"] = 876,
@@ -5605,7 +5605,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 134,
         ["kill_count"] = 2,
-        ["points"] = 9595.38,
+        ["points"] = 9595.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 597,
@@ -5662,7 +5662,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 402,
         ["kill_count"] = 13,
-        ["points"] = 9035.0,
+        ["points"] = 9035.92,
       },
       ["Rotface"] = {
         ["rank_raids"] = 359,
@@ -5719,7 +5719,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 250,
         ["kill_count"] = 8,
-        ["points"] = 9356.67,
+        ["points"] = 9357.28,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1008,
@@ -5776,7 +5776,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 664,
         ["kill_count"] = 5,
-        ["points"] = 8476.82,
+        ["points"] = 8478.26,
       },
       ["Rotface"] = {
         ["rank_raids"] = 402,
@@ -5833,7 +5833,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 581,
         ["kill_count"] = 19,
-        ["points"] = 8647.11,
+        ["points"] = 8648.39,
       },
       ["Rotface"] = {
         ["rank_raids"] = 528,
@@ -5890,7 +5890,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 457,
         ["kill_count"] = 8,
-        ["points"] = 8864.71,
+        ["points"] = 8865.78,
       },
       ["Rotface"] = {
         ["rank_raids"] = 990,
@@ -5947,7 +5947,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 779,
         ["kill_count"] = 10,
-        ["points"] = 8230.84,
+        ["points"] = 8232.51,
       },
       ["Rotface"] = {
         ["rank_raids"] = 366,
@@ -6004,7 +6004,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 432,
         ["kill_count"] = 2,
-        ["points"] = 8921.48,
+        ["points"] = 8922.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 171,
@@ -6061,7 +6061,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 148,
         ["kill_count"] = 1,
-        ["points"] = 9552.78,
+        ["points"] = 9552.92,
       },
       ["Rotface"] = {
         ["rank_raids"] = 421,
@@ -6118,7 +6118,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 329,
         ["kill_count"] = 8,
-        ["points"] = 9224.22,
+        ["points"] = 9224.95,
       },
       ["Rotface"] = {
         ["rank_raids"] = 341,
@@ -6153,7 +6153,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Leviathan"] = {
-    ["percentile"] = 80.56,
+    ["percentile"] = 80.57,
     ["server"] = "Icecrown",
     ["overall_rank"] = 109,
     ["bosses"] = {
@@ -6175,7 +6175,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1021,
         ["kill_count"] = 3,
-        ["points"] = 7719.96,
+        ["points"] = 7722.12,
       },
       ["Rotface"] = {
         ["rank_raids"] = 744,
@@ -6210,7 +6210,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Lamerr"] = {
-    ["percentile"] = 80.53,
+    ["percentile"] = 80.54,
     ["server"] = "Icecrown",
     ["overall_rank"] = 110,
     ["bosses"] = {
@@ -6232,7 +6232,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 372,
         ["kill_count"] = 1,
-        ["points"] = 9101.23,
+        ["points"] = 9102.08,
       },
       ["Rotface"] = {
         ["rank_raids"] = 72,
@@ -6289,7 +6289,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 345,
         ["kill_count"] = 9,
-        ["points"] = 9186.38,
+        ["points"] = 9187.15,
       },
       ["Rotface"] = {
         ["rank_raids"] = 373,
@@ -6346,7 +6346,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 666,
         ["kill_count"] = 12,
-        ["points"] = 8467.36,
+        ["points"] = 8468.81,
       },
       ["Rotface"] = {
         ["rank_raids"] = 466,
@@ -6403,7 +6403,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 643,
         ["kill_count"] = 5,
-        ["points"] = 8543.05,
+        ["points"] = 8544.42,
       },
       ["Rotface"] = {
         ["rank_raids"] = 222,
@@ -6460,7 +6460,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 778,
         ["kill_count"] = 3,
-        ["points"] = 8240.3,
+        ["points"] = 8241.97,
       },
       ["Rotface"] = {
         ["rank_raids"] = 339,
@@ -6517,7 +6517,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 744,
         ["kill_count"] = 4,
-        ["points"] = 8306.53,
+        ["points"] = 8308.13,
       },
       ["Rotface"] = {
         ["rank_raids"] = 779,
@@ -6574,7 +6574,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 839,
         ["kill_count"] = 15,
-        ["points"] = 8126.77,
+        ["points"] = 8128.54,
       },
       ["Rotface"] = {
         ["rank_raids"] = 492,
@@ -6631,7 +6631,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 628,
         ["kill_count"] = 5,
-        ["points"] = 8571.43,
+        ["points"] = 8572.78,
       },
       ["Rotface"] = {
         ["rank_raids"] = 730,
@@ -6688,7 +6688,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 484,
         ["kill_count"] = 5,
-        ["points"] = 8798.49,
+        ["points"] = 8799.62,
       },
       ["Rotface"] = {
         ["rank_raids"] = 917,
@@ -6745,7 +6745,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 630,
         ["kill_count"] = 14,
-        ["points"] = 8561.97,
+        ["points"] = 8563.33,
       },
       ["Rotface"] = {
         ["rank_raids"] = 737,
@@ -6802,7 +6802,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 966,
         ["kill_count"] = 5,
-        ["points"] = 7880.79,
+        ["points"] = 7882.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 906,
@@ -6916,7 +6916,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 891,
         ["kill_count"] = 3,
-        ["points"] = 8022.71,
+        ["points"] = 8024.57,
       },
       ["Rotface"] = {
         ["rank_raids"] = 245,
@@ -6973,7 +6973,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 486,
         ["kill_count"] = 12,
-        ["points"] = 8789.03,
+        ["points"] = 8790.17,
       },
       ["Rotface"] = {
         ["rank_raids"] = 349,
@@ -7030,7 +7030,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 838,
         ["kill_count"] = 5,
-        ["points"] = 8136.23,
+        ["points"] = 8138.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 905,
@@ -7144,7 +7144,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 764,
         ["kill_count"] = 3,
-        ["points"] = 8268.68,
+        ["points"] = 8270.32,
       },
       ["Rotface"] = {
         ["rank_raids"] = 851,
@@ -7201,7 +7201,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 362,
         ["kill_count"] = 5,
-        ["points"] = 9129.61,
+        ["points"] = 9130.43,
       },
       ["Rotface"] = {
         ["rank_raids"] = 671,
@@ -7236,7 +7236,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Zaam"] = {
-    ["percentile"] = 76.87,
+    ["percentile"] = 76.88,
     ["server"] = "Icecrown",
     ["overall_rank"] = 128,
     ["bosses"] = {
@@ -7258,7 +7258,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 760,
         ["kill_count"] = 5,
-        ["points"] = 8278.15,
+        ["points"] = 8279.77,
       },
       ["Rotface"] = {
         ["rank_raids"] = 773,
@@ -7310,7 +7310,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 645,
         ["kill_count"] = 4,
-        ["points"] = 8533.59,
+        ["points"] = 8534.97,
       },
       ["Rotface"] = {
         ["rank_raids"] = 560,
@@ -7344,67 +7344,10 @@ UWULogsData[6][1] = {
       },
     },
   },
-  ["Ghostass"] = {
-    ["percentile"] = 76.67,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 130,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 1250,
-        ["kill_count"] = 3,
-        ["points"] = 6511.86,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 860,
-        ["kill_count"] = 2,
-        ["points"] = 5660.6,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1113,
-        ["kill_count"] = 3,
-        ["points"] = 7838.98,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 370,
-        ["kill_count"] = 3,
-        ["points"] = 9110.69,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 682,
-        ["kill_count"] = 3,
-        ["points"] = 8452.61,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 1104,
-        ["kill_count"] = 2,
-        ["points"] = 5692.58,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 145,
-        ["kill_count"] = 3,
-        ["points"] = 9504.98,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 387,
-        ["kill_count"] = 3,
-        ["points"] = 8726.91,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 365,
-        ["kill_count"] = 2,
-        ["points"] = 7407.41,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 498,
-        ["kill_count"] = 2,
-        ["points"] = 7427.36,
-      },
-    },
-  },
   ["Ishikaru"] = {
     ["percentile"] = 76.67,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 131,
+    ["overall_rank"] = 130,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 596,
@@ -7424,7 +7367,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 700,
         ["kill_count"] = 15,
-        ["points"] = 8401.14,
+        ["points"] = 8402.65,
       },
       ["Rotface"] = {
         ["rank_raids"] = 326,
@@ -7458,6 +7401,63 @@ UWULogsData[6][1] = {
       },
     },
   },
+  ["Ghostass"] = {
+    ["percentile"] = 76.67,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 131,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 1250,
+        ["kill_count"] = 3,
+        ["points"] = 6511.86,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 860,
+        ["kill_count"] = 2,
+        ["points"] = 5660.6,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 1113,
+        ["kill_count"] = 3,
+        ["points"] = 7838.98,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 370,
+        ["kill_count"] = 3,
+        ["points"] = 9111.53,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 682,
+        ["kill_count"] = 3,
+        ["points"] = 8452.61,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 1104,
+        ["kill_count"] = 2,
+        ["points"] = 5692.58,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 145,
+        ["kill_count"] = 3,
+        ["points"] = 9504.98,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 387,
+        ["kill_count"] = 3,
+        ["points"] = 8726.91,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 365,
+        ["kill_count"] = 2,
+        ["points"] = 7407.41,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 498,
+        ["kill_count"] = 2,
+        ["points"] = 7427.36,
+      },
+    },
+  },
   ["Jiichu"] = {
     ["percentile"] = 76.63,
     ["server"] = "Icecrown",
@@ -7481,7 +7481,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 332,
         ["kill_count"] = 1,
-        ["points"] = 9214.76,
+        ["points"] = 9215.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 228,
@@ -7538,7 +7538,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 587,
         ["kill_count"] = 4,
-        ["points"] = 8637.65,
+        ["points"] = 8638.94,
       },
       ["Rotface"] = {
         ["rank_raids"] = 388,
@@ -7573,7 +7573,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Kexelf"] = {
-    ["percentile"] = 76.61,
+    ["percentile"] = 76.62,
     ["server"] = "Icecrown",
     ["overall_rank"] = 134,
     ["bosses"] = {
@@ -7595,7 +7595,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1007,
         ["kill_count"] = 7,
-        ["points"] = 7738.88,
+        ["points"] = 7741.02,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1051,
@@ -7652,7 +7652,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 674,
         ["kill_count"] = 3,
-        ["points"] = 8457.9,
+        ["points"] = 8459.36,
       },
       ["Rotface"] = {
         ["rank_raids"] = 832,
@@ -7709,7 +7709,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1074,
         ["kill_count"] = 2,
-        ["points"] = 7653.74,
+        ["points"] = 7655.95,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1195,
@@ -7744,7 +7744,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Amnesiassa"] = {
-    ["percentile"] = 75.49,
+    ["percentile"] = 75.5,
     ["server"] = "Icecrown",
     ["overall_rank"] = 137,
     ["bosses"] = {
@@ -7766,7 +7766,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1129,
         ["kill_count"] = 3,
-        ["points"] = 7568.59,
+        ["points"] = 7570.89,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1126,
@@ -7823,7 +7823,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 652,
         ["kill_count"] = 5,
-        ["points"] = 8505.2,
+        ["points"] = 8506.62,
       },
       ["Rotface"] = {
         ["rank_raids"] = 619,
@@ -7853,7 +7853,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Ezzgard"] = {
-    ["percentile"] = 75.37,
+    ["percentile"] = 75.38,
     ["server"] = "Icecrown",
     ["overall_rank"] = 139,
     ["bosses"] = {
@@ -7875,7 +7875,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1152,
         ["kill_count"] = 2,
-        ["points"] = 7483.44,
+        ["points"] = 7485.82,
       },
       ["Rotface"] = {
         ["rank_raids"] = 185,
@@ -7910,7 +7910,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Fowl"] = {
-    ["percentile"] = 75.34,
+    ["percentile"] = 75.35,
     ["server"] = "Icecrown",
     ["overall_rank"] = 140,
     ["bosses"] = {
@@ -7932,7 +7932,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1154,
         ["kill_count"] = 6,
-        ["points"] = 7473.98,
+        ["points"] = 7476.37,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1459,
@@ -7989,7 +7989,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 945,
         ["kill_count"] = 13,
-        ["points"] = 7918.64,
+        ["points"] = 7920.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 777,
@@ -8046,7 +8046,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1144,
         ["kill_count"] = 1,
-        ["points"] = 7511.83,
+        ["points"] = 7514.18,
       },
       ["Rotface"] = {
         ["rank_raids"] = 496,
@@ -8075,62 +8075,10 @@ UWULogsData[6][1] = {
       },
     },
   },
-  ["Rogunaz"] = {
-    ["percentile"] = 74.87,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 143,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 49,
-        ["kill_count"] = 6,
-        ["points"] = 9843.19,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 561,
-        ["kill_count"] = 8,
-        ["points"] = 6560.43,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 452,
-        ["kill_count"] = 8,
-        ["points"] = 8934.35,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 107,
-        ["kill_count"] = 7,
-        ["points"] = 9677.52,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 524,
-        ["kill_count"] = 7,
-        ["points"] = 8762.09,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 654,
-        ["kill_count"] = 7,
-        ["points"] = 6935.12,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 364,
-        ["kill_count"] = 7,
-        ["points"] = 8907.1,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 218,
-        ["kill_count"] = 6,
-        ["points"] = 9284.3,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 877,
-        ["kill_count"] = 2,
-        ["points"] = 5642.79,
-      },
-    },
-  },
   ["Setuprogue"] = {
     ["percentile"] = 74.87,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 144,
+    ["overall_rank"] = 143,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1054,
@@ -8150,7 +8098,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1204,
         ["kill_count"] = 8,
-        ["points"] = 7360.45,
+        ["points"] = 7362.95,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1053,
@@ -8181,6 +8129,58 @@ UWULogsData[6][1] = {
         ["rank_raids"] = 769,
         ["kill_count"] = 3,
         ["points"] = 6641.11,
+      },
+    },
+  },
+  ["Rogunaz"] = {
+    ["percentile"] = 74.87,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 144,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 49,
+        ["kill_count"] = 6,
+        ["points"] = 9843.19,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 561,
+        ["kill_count"] = 8,
+        ["points"] = 6560.43,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 452,
+        ["kill_count"] = 8,
+        ["points"] = 8934.35,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 107,
+        ["kill_count"] = 7,
+        ["points"] = 9677.62,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 524,
+        ["kill_count"] = 7,
+        ["points"] = 8762.09,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 654,
+        ["kill_count"] = 7,
+        ["points"] = 6935.12,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 364,
+        ["kill_count"] = 7,
+        ["points"] = 8907.1,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 218,
+        ["kill_count"] = 6,
+        ["points"] = 9284.3,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 877,
+        ["kill_count"] = 2,
+        ["points"] = 5642.79,
       },
     },
   },
@@ -8264,7 +8264,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 810,
         ["kill_count"] = 2,
-        ["points"] = 8202.46,
+        ["points"] = 8204.16,
       },
       ["Rotface"] = {
         ["rank_raids"] = 612,
@@ -8321,7 +8321,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 352,
         ["kill_count"] = 11,
-        ["points"] = 9167.46,
+        ["points"] = 9168.24,
       },
       ["Rotface"] = {
         ["rank_raids"] = 804,
@@ -8378,7 +8378,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 622,
         ["kill_count"] = 1,
-        ["points"] = 8599.81,
+        ["points"] = 8601.13,
       },
       ["Rotface"] = {
         ["rank_raids"] = 646,
@@ -8435,7 +8435,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 601,
         ["kill_count"] = 1,
-        ["points"] = 8618.73,
+        ["points"] = 8620.04,
       },
       ["Rotface"] = {
         ["rank_raids"] = 552,
@@ -8549,7 +8549,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 412,
         ["kill_count"] = 2,
-        ["points"] = 8987.7,
+        ["points"] = 8988.66,
       },
       ["Rotface"] = {
         ["rank_raids"] = 535,
@@ -8663,7 +8663,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 28,
         ["kill_count"] = 10,
-        ["points"] = 9917.86,
+        ["points"] = 9917.88,
       },
       ["Rotface"] = {
         ["rank_raids"] = 153,
@@ -8710,7 +8710,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 403,
         ["kill_count"] = 4,
-        ["points"] = 9025.54,
+        ["points"] = 9026.47,
       },
       ["Rotface"] = {
         ["rank_raids"] = 531,
@@ -8767,7 +8767,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 746,
         ["kill_count"] = 10,
-        ["points"] = 8297.07,
+        ["points"] = 8298.68,
       },
       ["Rotface"] = {
         ["rank_raids"] = 484,
@@ -8802,7 +8802,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Varjoina"] = {
-    ["percentile"] = 72.65,
+    ["percentile"] = 72.66,
     ["server"] = "Icecrown",
     ["overall_rank"] = 156,
     ["bosses"] = {
@@ -8824,7 +8824,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 724,
         ["kill_count"] = 2,
-        ["points"] = 8372.75,
+        ["points"] = 8374.29,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1104,
@@ -8881,7 +8881,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 887,
         ["kill_count"] = 10,
-        ["points"] = 8041.63,
+        ["points"] = 8043.48,
       },
       ["Rotface"] = {
         ["rank_raids"] = 514,
@@ -8938,7 +8938,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1121,
         ["kill_count"] = 3,
-        ["points"] = 7587.51,
+        ["points"] = 7589.79,
       },
       ["Rotface"] = {
         ["rank_raids"] = 747,
@@ -9052,7 +9052,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 339,
         ["kill_count"] = 6,
-        ["points"] = 9205.3,
+        ["points"] = 9206.05,
       },
       ["Rotface"] = {
         ["rank_raids"] = 412,
@@ -9104,7 +9104,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 639,
         ["kill_count"] = 1,
-        ["points"] = 8552.51,
+        ["points"] = 8553.88,
       },
       ["Rotface"] = {
         ["rank_raids"] = 982,
@@ -9156,7 +9156,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 740,
         ["kill_count"] = 2,
-        ["points"] = 8315.99,
+        ["points"] = 8317.58,
       },
       ["Rotface"] = {
         ["rank_raids"] = 114,
@@ -9270,7 +9270,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 273,
         ["kill_count"] = 8,
-        ["points"] = 9328.29,
+        ["points"] = 9328.92,
       },
       ["Rotface"] = {
         ["rank_raids"] = 109,
@@ -9322,7 +9322,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1150,
         ["kill_count"] = 12,
-        ["points"] = 7492.9,
+        ["points"] = 7495.27,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1392,
@@ -9379,7 +9379,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 85,
         ["kill_count"] = 4,
-        ["points"] = 9744.45,
+        ["points"] = 9744.53,
       },
       ["Rotface"] = {
         ["rank_raids"] = 887,
@@ -9431,7 +9431,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 570,
         ["kill_count"] = 5,
-        ["points"] = 8666.04,
+        ["points"] = 8667.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 458,
@@ -9488,7 +9488,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1135,
         ["kill_count"] = 3,
-        ["points"] = 7540.21,
+        ["points"] = 7542.53,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1423,
@@ -9523,7 +9523,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Vaxldan"] = {
-    ["percentile"] = 70.95,
+    ["percentile"] = 70.96,
     ["server"] = "Icecrown",
     ["overall_rank"] = 169,
     ["bosses"] = {
@@ -9545,7 +9545,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 988,
         ["kill_count"] = 4,
-        ["points"] = 7814.57,
+        ["points"] = 7816.64,
       },
       ["Rotface"] = {
         ["rank_raids"] = 902,
@@ -9602,7 +9602,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 244,
         ["kill_count"] = 1,
-        ["points"] = 9375.59,
+        ["points"] = 9376.18,
       },
       ["Rotface"] = {
         ["rank_raids"] = 608,
@@ -9649,7 +9649,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 324,
         ["kill_count"] = 3,
-        ["points"] = 9252.6,
+        ["points"] = 9253.31,
       },
       ["Rotface"] = {
         ["rank_raids"] = 743,
@@ -9758,7 +9758,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1071,
         ["kill_count"] = 7,
-        ["points"] = 7663.2,
+        ["points"] = 7665.41,
       },
       ["Rotface"] = {
         ["rank_raids"] = 857,
@@ -9793,7 +9793,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Allcapone"] = {
-    ["percentile"] = 70.68,
+    ["percentile"] = 70.69,
     ["server"] = "Icecrown",
     ["overall_rank"] = 174,
     ["bosses"] = {
@@ -9810,7 +9810,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 192,
         ["kill_count"] = 9,
-        ["points"] = 9451.28,
+        ["points"] = 9451.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 82,
@@ -9840,7 +9840,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Assapmob"] = {
-    ["percentile"] = 70.67,
+    ["percentile"] = 70.68,
     ["server"] = "Icecrown",
     ["overall_rank"] = 175,
     ["bosses"] = {
@@ -9862,7 +9862,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1145,
         ["kill_count"] = 3,
-        ["points"] = 7502.37,
+        ["points"] = 7504.73,
       },
       ["Rotface"] = {
         ["rank_raids"] = 699,
@@ -9919,7 +9919,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 968,
         ["kill_count"] = 1,
-        ["points"] = 7871.33,
+        ["points"] = 7873.35,
       },
       ["Rotface"] = {
         ["rank_raids"] = 679,
@@ -10090,7 +10090,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 558,
         ["kill_count"] = 2,
-        ["points"] = 8694.42,
+        ["points"] = 8695.65,
       },
       ["Rotface"] = {
         ["rank_raids"] = 920,
@@ -10147,7 +10147,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 974,
         ["kill_count"] = 2,
-        ["points"] = 7861.87,
+        ["points"] = 7863.89,
       },
       ["Rotface"] = {
         ["rank_raids"] = 639,
@@ -10204,7 +10204,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 434,
         ["kill_count"] = 10,
-        ["points"] = 8912.02,
+        ["points"] = 8913.04,
       },
       ["Rotface"] = {
         ["rank_raids"] = 698,
@@ -10291,7 +10291,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Thejewbehind"] = {
-    ["percentile"] = 68.84,
+    ["percentile"] = 68.85,
     ["server"] = "Icecrown",
     ["overall_rank"] = 183,
     ["bosses"] = {
@@ -10308,7 +10308,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 992,
         ["kill_count"] = 6,
-        ["points"] = 7795.65,
+        ["points"] = 7797.73,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1174,
@@ -10343,7 +10343,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Stayinshadow"] = {
-    ["percentile"] = 68.79,
+    ["percentile"] = 68.8,
     ["server"] = "Icecrown",
     ["overall_rank"] = 184,
     ["bosses"] = {
@@ -10365,7 +10365,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1133,
         ["kill_count"] = 12,
-        ["points"] = 7549.67,
+        ["points"] = 7551.98,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1450,
@@ -10417,7 +10417,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 377,
         ["kill_count"] = 1,
-        ["points"] = 9091.77,
+        ["points"] = 9092.63,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1931,
@@ -10474,7 +10474,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 998,
         ["kill_count"] = 3,
-        ["points"] = 7767.27,
+        ["points"] = 7769.38,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1729,
@@ -10588,7 +10588,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 708,
         ["kill_count"] = 1,
-        ["points"] = 8391.67,
+        ["points"] = 8393.19,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1027,
@@ -10645,7 +10645,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 867,
         ["kill_count"] = 4,
-        ["points"] = 8060.55,
+        ["points"] = 8062.38,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1372,
@@ -10702,7 +10702,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 808,
         ["kill_count"] = 14,
-        ["points"] = 8211.92,
+        ["points"] = 8213.61,
       },
       ["Rotface"] = {
         ["rank_raids"] = 673,
@@ -10811,7 +10811,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 532,
         ["kill_count"] = 1,
-        ["points"] = 8722.8,
+        ["points"] = 8724.01,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1118,
@@ -10977,7 +10977,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 676,
         ["kill_count"] = 2,
-        ["points"] = 8448.44,
+        ["points"] = 8449.91,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1130,
@@ -11034,7 +11034,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 381,
         ["kill_count"] = 1,
-        ["points"] = 9072.85,
+        ["points"] = 9073.72,
       },
       ["Rotface"] = {
         ["rank_raids"] = 911,
@@ -11086,7 +11086,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1124,
         ["kill_count"] = 2,
-        ["points"] = 7578.05,
+        ["points"] = 7580.34,
       },
       ["Rotface"] = {
         ["rank_raids"] = 878,
@@ -11314,7 +11314,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 735,
         ["kill_count"] = 1,
-        ["points"] = 8334.91,
+        ["points"] = 8336.48,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1841,
@@ -11428,7 +11428,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 654,
         ["kill_count"] = 1,
-        ["points"] = 8495.74,
+        ["points"] = 8497.16,
       },
       ["Rotface"] = {
         ["rank_raids"] = 881,
@@ -11480,7 +11480,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 910,
         ["kill_count"] = 2,
-        ["points"] = 7984.86,
+        ["points"] = 7986.77,
       },
       ["Rotface"] = {
         ["rank_raids"] = 710,
@@ -11743,7 +11743,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Julide"] = {
-    ["percentile"] = 65.92,
+    ["percentile"] = 65.93,
     ["server"] = "Icecrown",
     ["overall_rank"] = 209,
     ["bosses"] = {
@@ -11765,7 +11765,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1198,
         ["kill_count"] = 3,
-        ["points"] = 7398.3,
+        ["points"] = 7400.76,
       },
       ["Rotface"] = {
         ["rank_raids"] = 580,
@@ -11817,7 +11817,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 824,
         ["kill_count"] = 3,
-        ["points"] = 8155.16,
+        ["points"] = 8156.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1337,
@@ -12360,7 +12360,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Azallea"] = {
-    ["percentile"] = 65.4,
+    ["percentile"] = 65.41,
     ["server"] = "Icecrown",
     ["overall_rank"] = 220,
     ["bosses"] = {
@@ -12382,7 +12382,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1181,
         ["kill_count"] = 2,
-        ["points"] = 7417.22,
+        ["points"] = 7419.66,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1430,
@@ -12434,7 +12434,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 651,
         ["kill_count"] = 1,
-        ["points"] = 8514.66,
+        ["points"] = 8516.07,
       },
       ["Rotface"] = {
         ["rank_raids"] = 565,
@@ -12486,7 +12486,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1202,
         ["kill_count"] = 3,
-        ["points"] = 7369.91,
+        ["points"] = 7372.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1338,
@@ -12600,7 +12600,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1078,
         ["kill_count"] = 7,
-        ["points"] = 7634.82,
+        ["points"] = 7637.05,
       },
       ["Rotface"] = {
         ["rank_raids"] = 666,
@@ -12657,7 +12657,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 600,
         ["kill_count"] = 2,
-        ["points"] = 8628.19,
+        ["points"] = 8629.49,
       },
       ["Rotface"] = {
         ["rank_raids"] = 614,
@@ -12791,7 +12791,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Apsolutely"] = {
-    ["percentile"] = 64.67,
+    ["percentile"] = 64.68,
     ["server"] = "Icecrown",
     ["overall_rank"] = 228,
     ["bosses"] = {
@@ -12813,7 +12813,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1199,
         ["kill_count"] = 2,
-        ["points"] = 7388.84,
+        ["points"] = 7391.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1570,
@@ -12984,7 +12984,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 572,
         ["kill_count"] = 2,
-        ["points"] = 8656.58,
+        ["points"] = 8657.84,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1091,
@@ -13150,7 +13150,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 883,
         ["kill_count"] = 3,
-        ["points"] = 8051.09,
+        ["points"] = 8052.93,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2263,
@@ -13207,7 +13207,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1057,
         ["kill_count"] = 3,
-        ["points"] = 7682.12,
+        ["points"] = 7684.31,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1209,
@@ -13264,7 +13264,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1003,
         ["kill_count"] = 17,
-        ["points"] = 7757.81,
+        ["points"] = 7759.92,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1464,
@@ -13368,7 +13368,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 893,
         ["kill_count"] = 4,
-        ["points"] = 8013.25,
+        ["points"] = 8015.12,
       },
       ["Rotface"] = {
         ["rank_raids"] = 301,
@@ -13477,7 +13477,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 462,
         ["kill_count"] = 2,
-        ["points"] = 8836.33,
+        ["points"] = 8837.43,
       },
       ["Rotface"] = {
         ["rank_raids"] = 800,
@@ -13621,7 +13621,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Feinter"] = {
-    ["percentile"] = 63.16,
+    ["percentile"] = 63.17,
     ["server"] = "Icecrown",
     ["overall_rank"] = 243,
     ["bosses"] = {
@@ -13643,7 +13643,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1176,
         ["kill_count"] = 1,
-        ["points"] = 7426.68,
+        ["points"] = 7429.11,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1207,
@@ -13866,7 +13866,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 936,
         ["kill_count"] = 1,
-        ["points"] = 7937.56,
+        ["points"] = 7939.51,
       },
       ["Rotface"] = {
         ["rank_raids"] = 380,
@@ -13908,7 +13908,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 512,
         ["kill_count"] = 14,
-        ["points"] = 8760.64,
+        ["points"] = 8761.81,
       },
       ["Rotface"] = {
         ["rank_raids"] = 438,
@@ -14292,7 +14292,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1169,
         ["kill_count"] = 3,
-        ["points"] = 7436.14,
+        ["points"] = 7438.56,
       },
       ["Rotface"] = {
         ["rank_raids"] = 536,
@@ -14431,7 +14431,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Smallthief"] = {
-    ["percentile"] = 60.29,
+    ["percentile"] = 60.3,
     ["server"] = "Icecrown",
     ["overall_rank"] = 258,
     ["bosses"] = {
@@ -14453,7 +14453,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 855,
         ["kill_count"] = 1,
-        ["points"] = 8079.47,
+        ["points"] = 8081.29,
       },
       ["Rotface"] = {
         ["rank_raids"] = 776,
@@ -14500,7 +14500,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1183,
         ["kill_count"] = 3,
-        ["points"] = 7407.76,
+        ["points"] = 7410.21,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1286,
@@ -14753,7 +14753,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Vasyauragan"] = {
-    ["percentile"] = 58.39,
+    ["percentile"] = 58.4,
     ["server"] = "Icecrown",
     ["overall_rank"] = 264,
     ["bosses"] = {
@@ -14775,7 +14775,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 991,
         ["kill_count"] = 2,
-        ["points"] = 7805.11,
+        ["points"] = 7807.18,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1272,
@@ -14936,7 +14936,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 919,
         ["kill_count"] = 3,
-        ["points"] = 7956.48,
+        ["points"] = 7958.41,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1024,
@@ -15692,7 +15692,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Uubaby"] = {
-    ["percentile"] = 55.98,
+    ["percentile"] = 55.99,
     ["server"] = "Icecrown",
     ["overall_rank"] = 281,
     ["bosses"] = {
@@ -15714,7 +15714,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 392,
         ["kill_count"] = 1,
-        ["points"] = 9044.47,
+        ["points"] = 9045.37,
       },
       ["Rotface"] = {
         ["rank_raids"] = 805,
@@ -15756,7 +15756,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 305,
         ["kill_count"] = 3,
-        ["points"] = 9290.44,
+        ["points"] = 9291.12,
       },
       ["Rotface"] = {
         ["rank_raids"] = 427,
@@ -15907,7 +15907,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 225,
         ["kill_count"] = 2,
-        ["points"] = 9385.05,
+        ["points"] = 9385.63,
       },
       ["Rotface"] = {
         ["rank_raids"] = 377,
@@ -16365,7 +16365,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 917,
         ["kill_count"] = 1,
-        ["points"] = 7975.4,
+        ["points"] = 7977.32,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1305,
@@ -16640,7 +16640,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 976,
         ["kill_count"] = 2,
-        ["points"] = 7852.41,
+        ["points"] = 7854.44,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1535,
@@ -16947,7 +16947,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 27,
         ["kill_count"] = 2,
-        ["points"] = 9920.9,
+        ["points"] = 9920.92,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1347,
@@ -17130,7 +17130,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 443,
         ["kill_count"] = 2,
-        ["points"] = 8893.09,
+        ["points"] = 8894.14,
       },
       ["Rotface"] = {
         ["rank_raids"] = 731,
@@ -17261,7 +17261,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 360,
         ["kill_count"] = 1,
-        ["points"] = 9139.07,
+        ["points"] = 9139.89,
       },
       ["Rotface"] = {
         ["rank_raids"] = 451,
@@ -17553,7 +17553,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 726,
         ["kill_count"] = 1,
-        ["points"] = 8363.29,
+        ["points"] = 8364.84,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1021,
@@ -17647,7 +17647,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 609,
         ["kill_count"] = 6,
-        ["points"] = 8609.27,
+        ["points"] = 8610.59,
       },
       ["Rotface"] = {
         ["rank_raids"] = 576,
@@ -17667,14 +17667,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Biito"] = {
-    ["percentile"] = 51.47,
+    ["percentile"] = 51.48,
     ["server"] = "Icecrown",
     ["overall_rank"] = 321,
     ["bosses"] = {
       ["Festergut"] = {
         ["rank_raids"] = 530,
         ["kill_count"] = 1,
-        ["points"] = 8732.26,
+        ["points"] = 8733.46,
       },
       ["Rotface"] = {
         ["rank_raids"] = 562,
@@ -17726,7 +17726,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1083,
         ["kill_count"] = 2,
-        ["points"] = 7625.35,
+        ["points"] = 7627.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1361,
@@ -17773,7 +17773,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 813,
         ["kill_count"] = 3,
-        ["points"] = 8193.0,
+        ["points"] = 8194.71,
       },
       ["Rotface"] = {
         ["rank_raids"] = 478,
@@ -17798,7 +17798,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Attenot"] = {
-    ["percentile"] = 50.98,
+    ["percentile"] = 50.99,
     ["server"] = "Icecrown",
     ["overall_rank"] = 324,
     ["bosses"] = {
@@ -17815,7 +17815,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 817,
         ["kill_count"] = 4,
-        ["points"] = 8174.08,
+        ["points"] = 8175.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 363,
@@ -17852,7 +17852,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 728,
         ["kill_count"] = 3,
-        ["points"] = 8353.83,
+        ["points"] = 8355.39,
       },
       ["Rotface"] = {
         ["rank_raids"] = 689,
@@ -17919,7 +17919,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Xarines"] = {
-    ["percentile"] = 50.57,
+    ["percentile"] = 50.58,
     ["server"] = "Icecrown",
     ["overall_rank"] = 327,
     ["bosses"] = {
@@ -17941,7 +17941,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1130,
         ["kill_count"] = 1,
-        ["points"] = 7559.13,
+        ["points"] = 7561.44,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1691,
@@ -18112,7 +18112,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Ebuchiyspice"] = {
-    ["percentile"] = 50.42,
+    ["percentile"] = 50.43,
     ["server"] = "Icecrown",
     ["overall_rank"] = 331,
     ["bosses"] = {
@@ -18129,7 +18129,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 419,
         ["kill_count"] = 2,
-        ["points"] = 8959.32,
+        ["points"] = 8960.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1443,
@@ -18364,7 +18364,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 326,
         ["kill_count"] = 1,
-        ["points"] = 9243.14,
+        ["points"] = 9243.86,
       },
       ["Rotface"] = {
         ["rank_raids"] = 713,
@@ -18401,7 +18401,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 960,
         ["kill_count"] = 3,
-        ["points"] = 7890.26,
+        ["points"] = 7892.25,
       },
       ["Rotface"] = {
         ["rank_raids"] = 904,
@@ -18547,7 +18547,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 682,
         ["kill_count"] = 1,
-        ["points"] = 8420.06,
+        ["points"] = 8421.55,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1257,
@@ -18661,7 +18661,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Aromatics"] = {
-    ["percentile"] = 49.55,
+    ["percentile"] = 49.56,
     ["server"] = "Icecrown",
     ["overall_rank"] = 343,
     ["bosses"] = {
@@ -18678,7 +18678,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 997,
         ["kill_count"] = 1,
-        ["points"] = 7776.73,
+        ["points"] = 7778.83,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1316,
@@ -18725,7 +18725,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1158,
         ["kill_count"] = 8,
-        ["points"] = 7464.52,
+        ["points"] = 7466.92,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1264,
@@ -18749,10 +18749,47 @@ UWULogsData[6][1] = {
       },
     },
   },
-  ["Habel"] = {
+  ["Nastystab"] = {
     ["percentile"] = 49.42,
     ["server"] = "Icecrown",
     ["overall_rank"] = 345,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 367,
+        ["kill_count"] = 9,
+        ["points"] = 8833.99,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 1049,
+        ["kill_count"] = 10,
+        ["points"] = 7889.79,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 901,
+        ["kill_count"] = 10,
+        ["points"] = 8005.67,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 1410,
+        ["kill_count"] = 9,
+        ["points"] = 7274.94,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 711,
+        ["kill_count"] = 6,
+        ["points"] = 8000.0,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 242,
+        ["kill_count"] = 8,
+        ["points"] = 9205.15,
+      },
+    },
+  },
+  ["Habel"] = {
+    ["percentile"] = 49.42,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 346,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2018,
@@ -18806,43 +18843,6 @@ UWULogsData[6][1] = {
       },
     },
   },
-  ["Nastystab"] = {
-    ["percentile"] = 49.42,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 346,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 367,
-        ["kill_count"] = 9,
-        ["points"] = 8833.99,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1049,
-        ["kill_count"] = 10,
-        ["points"] = 7889.79,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 901,
-        ["kill_count"] = 10,
-        ["points"] = 8003.78,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 1410,
-        ["kill_count"] = 9,
-        ["points"] = 7274.94,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 711,
-        ["kill_count"] = 6,
-        ["points"] = 8000.0,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 242,
-        ["kill_count"] = 8,
-        ["points"] = 9205.15,
-      },
-    },
-  },
   ["Luboss"] = {
     ["percentile"] = 49.41,
     ["server"] = "Icecrown",
@@ -18861,7 +18861,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 993,
         ["kill_count"] = 4,
-        ["points"] = 7786.19,
+        ["points"] = 7788.28,
       },
       ["Rotface"] = {
         ["rank_raids"] = 790,
@@ -18950,7 +18950,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 814,
         ["kill_count"] = 5,
-        ["points"] = 8183.54,
+        ["points"] = 8185.26,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1064,
@@ -19175,7 +19175,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 853,
         ["kill_count"] = 1,
-        ["points"] = 8088.93,
+        ["points"] = 8090.74,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1549,
@@ -19195,7 +19195,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Rogokai"] = {
-    ["percentile"] = 48.56,
+    ["percentile"] = 48.57,
     ["server"] = "Icecrown",
     ["overall_rank"] = 355,
     ["bosses"] = {
@@ -19212,7 +19212,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 627,
         ["kill_count"] = 6,
-        ["points"] = 8580.89,
+        ["points"] = 8582.23,
       },
       ["Rotface"] = {
         ["rank_raids"] = 854,
@@ -19279,7 +19279,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Beprepared"] = {
-    ["percentile"] = 48.35,
+    ["percentile"] = 48.36,
     ["server"] = "Icecrown",
     ["overall_rank"] = 357,
     ["bosses"] = {
@@ -19296,7 +19296,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 501,
         ["kill_count"] = 1,
-        ["points"] = 8779.56,
+        ["points"] = 8780.72,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1199,
@@ -19333,7 +19333,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 866,
         ["kill_count"] = 5,
-        ["points"] = 8070.01,
+        ["points"] = 8071.83,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1564,
@@ -19417,7 +19417,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 835,
         ["kill_count"] = 3,
-        ["points"] = 8145.7,
+        ["points"] = 8147.45,
       },
       ["Rotface"] = {
         ["rank_raids"] = 768,
@@ -19454,7 +19454,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1200,
         ["kill_count"] = 4,
-        ["points"] = 7379.38,
+        ["points"] = 7381.85,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1058,
@@ -19548,7 +19548,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 650,
         ["kill_count"] = 5,
-        ["points"] = 8524.12,
+        ["points"] = 8525.52,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1260,
@@ -19590,7 +19590,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 903,
         ["kill_count"] = 1,
-        ["points"] = 7994.32,
+        ["points"] = 7996.22,
       },
       ["Rotface"] = {
         ["rank_raids"] = 242,
@@ -19711,7 +19711,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 355,
         ["kill_count"] = 1,
-        ["points"] = 9157.99,
+        ["points"] = 9158.79,
       },
       ["Rotface"] = {
         ["rank_raids"] = 663,
@@ -19753,7 +19753,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 780,
         ["kill_count"] = 1,
-        ["points"] = 8221.38,
+        ["points"] = 8223.06,
       },
       ["Rotface"] = {
         ["rank_raids"] = 690,
@@ -19773,7 +19773,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Bbyoda"] = {
-    ["percentile"] = 47.62,
+    ["percentile"] = 47.63,
     ["server"] = "Icecrown",
     ["overall_rank"] = 369,
     ["bosses"] = {
@@ -19790,7 +19790,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1004,
         ["kill_count"] = 2,
-        ["points"] = 7748.34,
+        ["points"] = 7750.47,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1565,
@@ -19879,7 +19879,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 427,
         ["kill_count"] = 1,
-        ["points"] = 8949.86,
+        ["points"] = 8950.85,
       },
       ["Rotface"] = {
         ["rank_raids"] = 962,
@@ -19973,7 +19973,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1036,
         ["kill_count"] = 2,
-        ["points"] = 7701.04,
+        ["points"] = 7703.21,
       },
       ["Rotface"] = {
         ["rank_raids"] = 849,
@@ -20010,7 +20010,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 950,
         ["kill_count"] = 2,
-        ["points"] = 7909.18,
+        ["points"] = 7911.15,
       },
       ["Rotface"] = {
         ["rank_raids"] = 462,
@@ -20047,7 +20047,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 407,
         ["kill_count"] = 2,
-        ["points"] = 8997.16,
+        ["points"] = 8998.11,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1351,
@@ -20284,7 +20284,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 678,
         ["kill_count"] = 3,
-        ["points"] = 8429.52,
+        ["points"] = 8431.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1095,
@@ -20373,7 +20373,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1019,
         ["kill_count"] = 7,
-        ["points"] = 7729.42,
+        ["points"] = 7731.57,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1213,
@@ -20630,7 +20630,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 404,
         ["kill_count"] = 2,
-        ["points"] = 9016.08,
+        ["points"] = 9017.01,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1913,
@@ -20667,7 +20667,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 527,
         ["kill_count"] = 1,
-        ["points"] = 8741.72,
+        ["points"] = 8742.91,
       },
       ["Rotface"] = {
         ["rank_raids"] = 871,
@@ -20983,7 +20983,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1112,
         ["kill_count"] = 1,
-        ["points"] = 7606.43,
+        ["points"] = 7608.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 632,
@@ -21833,7 +21833,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 737,
         ["kill_count"] = 4,
-        ["points"] = 8325.45,
+        ["points"] = 8327.03,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1137,
@@ -22159,7 +22159,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1138,
         ["kill_count"] = 1,
-        ["points"] = 7530.75,
+        ["points"] = 7533.08,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1671,
@@ -22280,7 +22280,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 987,
         ["kill_count"] = 4,
-        ["points"] = 7824.03,
+        ["points"] = 7826.09,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1613,
@@ -23026,7 +23026,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1075,
         ["kill_count"] = 3,
-        ["points"] = 7644.28,
+        ["points"] = 7646.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1366,
@@ -23120,7 +23120,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 504,
         ["kill_count"] = 1,
-        ["points"] = 8770.1,
+        ["points"] = 8771.27,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2918,
@@ -23392,7 +23392,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Dxweller"] = {
-    ["percentile"] = 40.74,
+    ["percentile"] = 40.75,
     ["server"] = "Icecrown",
     ["overall_rank"] = 456,
     ["bosses"] = {
@@ -23409,7 +23409,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1034,
         ["kill_count"] = 1,
-        ["points"] = 7710.5,
+        ["points"] = 7712.67,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1866,
@@ -23693,7 +23693,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1046,
         ["kill_count"] = 3,
-        ["points"] = 7691.58,
+        ["points"] = 7693.76,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1342,
@@ -23730,7 +23730,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1060,
         ["kill_count"] = 2,
-        ["points"] = 7672.66,
+        ["points"] = 7674.86,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1510,
@@ -23767,7 +23767,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 659,
         ["kill_count"] = 4,
-        ["points"] = 8486.28,
+        ["points"] = 8487.71,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1449,
@@ -23883,7 +23883,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1120,
         ["kill_count"] = 1,
-        ["points"] = 7596.97,
+        ["points"] = 7599.24,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1119,
@@ -24256,7 +24256,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 109,
         ["kill_count"] = 1,
-        ["points"] = 9671.43,
+        ["points"] = 9671.53,
       },
       ["Rotface"] = {
         ["rank_raids"] = 311,
@@ -24624,7 +24624,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 890,
         ["kill_count"] = 3,
-        ["points"] = 8032.17,
+        ["points"] = 8034.03,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1720,
@@ -24829,7 +24829,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Eskumegadom"] = {
-    ["percentile"] = 38.94,
+    ["percentile"] = 38.95,
     ["server"] = "Icecrown",
     ["overall_rank"] = 492,
     ["bosses"] = {
@@ -24846,7 +24846,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 984,
         ["kill_count"] = 2,
-        ["points"] = 7833.49,
+        ["points"] = 7835.54,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1515,
@@ -25083,7 +25083,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 918,
         ["kill_count"] = 1,
-        ["points"] = 7965.94,
+        ["points"] = 7967.86,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2200,
@@ -25103,7 +25103,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Gypsydanger"] = {
-    ["percentile"] = 38.76,
+    ["percentile"] = 38.77,
     ["server"] = "Icecrown",
     ["overall_rank"] = 499,
     ["bosses"] = {
@@ -25120,7 +25120,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 677,
         ["kill_count"] = 1,
-        ["points"] = 8438.98,
+        ["points"] = 8440.45,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1032,
@@ -25152,7 +25152,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1090,
         ["kill_count"] = 2,
-        ["points"] = 7615.89,
+        ["points"] = 7618.15,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2889,
@@ -25939,7 +25939,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1141,
         ["kill_count"] = 3,
-        ["points"] = 7521.29,
+        ["points"] = 7523.63,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1700,
@@ -25996,7 +25996,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Chaosattack"] = {
-    ["percentile"] = 37.48,
+    ["percentile"] = 37.49,
     ["server"] = "Icecrown",
     ["overall_rank"] = 523,
     ["bosses"] = {
@@ -26013,7 +26013,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1159,
         ["kill_count"] = 1,
-        ["points"] = 7455.06,
+        ["points"] = 7457.47,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2621,
@@ -26790,7 +26790,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 768,
         ["kill_count"] = 1,
-        ["points"] = 8259.22,
+        ["points"] = 8260.87,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1238,
@@ -27212,7 +27212,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 777,
         ["kill_count"] = 1,
-        ["points"] = 8249.76,
+        ["points"] = 8251.42,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1726,
@@ -28623,7 +28623,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 418,
         ["kill_count"] = 1,
-        ["points"] = 8968.78,
+        ["points"] = 8969.75,
       },
       ["Rotface"] = {
         ["rank_raids"] = 170,
@@ -33025,7 +33025,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 1207,
         ["kill_count"] = 1,
-        ["points"] = 7352.5,
+        ["points"] = 7353.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1632,
@@ -33034,7 +33034,7 @@ UWULogsData[6][1] = {
       },
     },
   },
-  ["Izlz"] = {
+  ["Ywd"] = {
     ["percentile"] = 29.87,
     ["server"] = "Icecrown",
     ["overall_rank"] = 717,
@@ -33114,7 +33114,7 @@ UWULogsData[6][1] = {
     },
   },
   ["Hornystabs"] = {
-    ["percentile"] = 29.81,
+    ["percentile"] = 29.8,
     ["server"] = "Icecrown",
     ["overall_rank"] = 719,
     ["bosses"] = {
@@ -36625,7 +36625,7 @@ UWULogsData[6][1] = {
         ["points"] = 7343.02,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3235,
+        ["rank_raids"] = 3236,
         ["kill_count"] = 1,
         ["points"] = 3057.28,
       },
@@ -37800,7 +37800,7 @@ UWULogsData[6][1] = {
         ["points"] = 5504.94,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3258,
+        ["rank_raids"] = 3259,
         ["kill_count"] = 1,
         ["points"] = 2526.65,
       },
@@ -37997,7 +37997,7 @@ UWULogsData[6][1] = {
         ["points"] = 4946.44,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3228,
+        ["rank_raids"] = 3229,
         ["kill_count"] = 1,
         ["points"] = 3148.73,
       },
@@ -38639,7 +38639,7 @@ UWULogsData[6][1] = {
       ["Festergut"] = {
         ["rank_raids"] = 840,
         ["kill_count"] = 1,
-        ["points"] = 8117.31,
+        ["points"] = 8119.09,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2995,
@@ -39562,7 +39562,7 @@ UWULogsData[6][1] = {
         ["points"] = 4449.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3244,
+        ["rank_raids"] = 3245,
         ["kill_count"] = 1,
         ["points"] = 2905.65,
       },
@@ -39786,7 +39786,7 @@ UWULogsData[6][1] = {
         ["points"] = 4733.06,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3252,
+        ["rank_raids"] = 3253,
         ["kill_count"] = 1,
         ["points"] = 2692.73,
       },
@@ -40411,7 +40411,7 @@ UWULogsData[6][1] = {
         ["points"] = 5553.44,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3251,
+        ["rank_raids"] = 3252,
         ["kill_count"] = 1,
         ["points"] = 2702.56,
       },
@@ -40551,7 +40551,7 @@ UWULogsData[6][1] = {
         ["points"] = 4184.94,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3255,
+        ["rank_raids"] = 3256,
         ["kill_count"] = 1,
         ["points"] = 2681.56,
       },
@@ -40664,7 +40664,7 @@ UWULogsData[6][1] = {
         ["points"] = 5489.29,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3254,
+        ["rank_raids"] = 3255,
         ["kill_count"] = 1,
         ["points"] = 2684.34,
       },
@@ -40868,7 +40868,7 @@ UWULogsData[6][1] = {
         ["points"] = 2682.68,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3241,
+        ["rank_raids"] = 3242,
         ["kill_count"] = 1,
         ["points"] = 2940.96,
       },
@@ -40910,7 +40910,7 @@ UWULogsData[6][1] = {
         ["points"] = 4137.02,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3281,
+        ["rank_raids"] = 3282,
         ["kill_count"] = 1,
         ["points"] = 1509.16,
       },
@@ -41419,7 +41419,7 @@ UWULogsData[6][1] = {
         ["points"] = 5846.55,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3257,
+        ["rank_raids"] = 3258,
         ["kill_count"] = 1,
         ["points"] = 2592.18,
       },
@@ -41468,7 +41468,7 @@ UWULogsData[6][1] = {
         ["points"] = 5772.55,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3246,
+        ["rank_raids"] = 3247,
         ["kill_count"] = 1,
         ["points"] = 2849.56,
       },
@@ -41559,7 +41559,7 @@ UWULogsData[6][1] = {
         ["points"] = 3635.37,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3240,
+        ["rank_raids"] = 3241,
         ["kill_count"] = 1,
         ["points"] = 2954.59,
       },
@@ -41721,7 +41721,7 @@ UWULogsData[6][1] = {
         ["points"] = 5069.33,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3247,
+        ["rank_raids"] = 3248,
         ["kill_count"] = 1,
         ["points"] = 2836.74,
       },
@@ -41775,7 +41775,7 @@ UWULogsData[6][1] = {
         ["points"] = 5307.62,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3239,
+        ["rank_raids"] = 3240,
         ["kill_count"] = 1,
         ["points"] = 2968.53,
       },
@@ -41883,7 +41883,7 @@ UWULogsData[6][1] = {
         ["points"] = 4200.83,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3267,
+        ["rank_raids"] = 3268,
         ["kill_count"] = 1,
         ["points"] = 2362.2,
       },
@@ -41915,7 +41915,7 @@ UWULogsData[6][1] = {
         ["points"] = 5206.91,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3263,
+        ["rank_raids"] = 3264,
         ["kill_count"] = 1,
         ["points"] = 2449.42,
       },

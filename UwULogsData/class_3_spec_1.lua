@@ -28580,12 +28580,12 @@ UWULogsData[3][1] = {
   ["Sunmazu"] = {
     ["percentile"] = 5.98,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 9378,
+    ["overall_rank"] = 9384,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 20600,
+        ["rank_raids"] = 20611,
         ["kill_count"] = 1,
-        ["points"] = 5491.0,
+        ["points"] = 5489.9,
       },
     },
   },
@@ -30032,6 +30032,18 @@ UWULogsData[3][1] = {
         ["rank_raids"] = 1627,
         ["kill_count"] = 1,
         ["points"] = 1230.33,
+      },
+    },
+  },
+  ["Aberrant"] = {
+    ["percentile"] = 0.97,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 983,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 1639,
+        ["kill_count"] = 1,
+        ["points"] = 967.0,
       },
     },
   },
