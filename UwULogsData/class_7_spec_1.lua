@@ -27605,7 +27605,7 @@ UWULogsData[7][1] = {
         ["points"] = 5562.85,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 633,
+        ["rank_raids"] = 634,
         ["kill_count"] = 1,
         ["points"] = 6662.16,
       },
