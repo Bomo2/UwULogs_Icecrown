@@ -5318,34 +5318,34 @@ UWULogsData[9][1] = {
     ["overall_rank"] = 1454,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10112,
+        ["rank_raids"] = 10115,
         ["kill_count"] = 4,
-        ["points"] = 6539.8,
+        ["points"] = 6539.5,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 5211,
+        ["rank_raids"] = 5212,
         ["kill_count"] = 5,
-        ["points"] = 7987.7,
+        ["points"] = 7987.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 15885,
+        ["rank_raids"] = 15893,
         ["kill_count"] = 5,
-        ["points"] = 5962.5,
+        ["points"] = 5961.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 14736,
+        ["rank_raids"] = 14742,
         ["kill_count"] = 3,
-        ["points"] = 6077.4,
+        ["points"] = 6076.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 17656,
+        ["rank_raids"] = 17664,
         ["kill_count"] = 6,
-        ["points"] = 5785.4,
+        ["points"] = 5784.6,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 4948,
+        ["rank_raids"] = 4952,
         ["kill_count"] = 5,
-        ["points"] = 8066.6,
+        ["points"] = 8065.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2959,
@@ -5353,14 +5353,14 @@ UWULogsData[9][1] = {
         ["points"] = 8663.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 10392,
+        ["rank_raids"] = 10397,
         ["kill_count"] = 7,
-        ["points"] = 6511.8,
+        ["points"] = 6511.3,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 2044,
+        ["rank_raids"] = 2045,
         ["kill_count"] = 3,
-        ["points"] = 8937.8,
+        ["points"] = 8937.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1974,
