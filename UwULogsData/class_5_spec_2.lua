@@ -9504,17 +9504,17 @@ UWULogsData[5][2] = {
         ["points"] = 9567.96,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 10913,
+        ["rank_raids"] = 10914,
         ["kill_count"] = 8,
         ["points"] = 7439.96,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9237,
+        ["rank_raids"] = 9238,
         ["kill_count"] = 14,
         ["points"] = 8324.83,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 13183,
+        ["rank_raids"] = 13184,
         ["kill_count"] = 13,
         ["points"] = 7689.77,
       },
@@ -9526,7 +9526,7 @@ UWULogsData[5][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7600,
         ["kill_count"] = 11,
-        ["points"] = 8626.1,
+        ["points"] = 8626.25,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4263,
@@ -9544,9 +9544,9 @@ UWULogsData[5][2] = {
         ["points"] = 9755.33,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 18883,
+        ["rank_raids"] = 18884,
         ["kill_count"] = 9,
-        ["points"] = 6468.07,
+        ["points"] = 6468.53,
       },
     },
   },
@@ -12590,6 +12590,43 @@ UWULogsData[5][2] = {
         ["rank_raids"] = 1092,
         ["kill_count"] = 2,
         ["points"] = 180.02,
+      },
+    },
+  },
+  ["Satthin"] = {
+    ["percentile"] = 25.84,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 288,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 564,
+        ["kill_count"] = 1,
+        ["points"] = 2191.4,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 437,
+        ["kill_count"] = 1,
+        ["points"] = 2377.62,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 280,
+        ["kill_count"] = 1,
+        ["points"] = 6404.64,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 259,
+        ["kill_count"] = 1,
+        ["points"] = 6675.26,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 293,
+        ["kill_count"] = 1,
+        ["points"] = 6197.92,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 902,
+        ["kill_count"] = 1,
+        ["points"] = 1890.19,
       },
     },
   },
