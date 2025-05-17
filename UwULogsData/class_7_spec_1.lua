@@ -19,7 +19,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 8,
         ["kill_count"] = 13,
-        ["points"] = 9972.26,
+        ["points"] = 9972.27,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1,
@@ -76,7 +76,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 13,
         ["kill_count"] = 14,
-        ["points"] = 9952.44,
+        ["points"] = 9952.46,
       },
       ["Festergut"] = {
         ["rank_raids"] = 20,
@@ -133,7 +133,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 21,
         ["kill_count"] = 27,
-        ["points"] = 9920.73,
+        ["points"] = 9920.76,
       },
       ["Festergut"] = {
         ["rank_raids"] = 31,
@@ -190,7 +190,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 61,
         ["kill_count"] = 6,
-        ["points"] = 9762.19,
+        ["points"] = 9762.28,
       },
       ["Festergut"] = {
         ["rank_raids"] = 34,
@@ -225,7 +225,7 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 50,
         ["kill_count"] = 5,
-        ["points"] = 8993.84,
+        ["points"] = 8995.9,
       },
     },
   },
@@ -247,7 +247,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 68,
         ["kill_count"] = 5,
-        ["points"] = 9734.44,
+        ["points"] = 9734.55,
       },
       ["Festergut"] = {
         ["rank_raids"] = 16,
@@ -282,7 +282,7 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 12,
         ["kill_count"] = 4,
-        ["points"] = 9774.13,
+        ["points"] = 9774.59,
       },
     },
   },
@@ -339,12 +339,12 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 20,
         ["kill_count"] = 2,
-        ["points"] = 9609.86,
+        ["points"] = 9610.66,
       },
     },
   },
   ["Hexbeforesex"] = {
-    ["percentile"] = 96.93,
+    ["percentile"] = 96.94,
     ["server"] = "Icecrown",
     ["overall_rank"] = 7,
     ["bosses"] = {
@@ -361,7 +361,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 40,
         ["kill_count"] = 16,
-        ["points"] = 9845.42,
+        ["points"] = 9845.48,
       },
       ["Festergut"] = {
         ["rank_raids"] = 27,
@@ -396,7 +396,7 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 45,
         ["kill_count"] = 10,
-        ["points"] = 9096.51,
+        ["points"] = 9098.36,
       },
     },
   },
@@ -418,7 +418,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 132,
         ["kill_count"] = 7,
-        ["points"] = 9480.78,
+        ["points"] = 9480.98,
       },
       ["Festergut"] = {
         ["rank_raids"] = 35,
@@ -453,12 +453,12 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 18,
         ["kill_count"] = 6,
-        ["points"] = 9650.92,
+        ["points"] = 9651.64,
       },
     },
   },
   ["Racistperson"] = {
-    ["percentile"] = 96.68,
+    ["percentile"] = 96.69,
     ["server"] = "Icecrown",
     ["overall_rank"] = 9,
     ["bosses"] = {
@@ -475,7 +475,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 29,
         ["kill_count"] = 19,
-        ["points"] = 9889.02,
+        ["points"] = 9889.06,
       },
       ["Festergut"] = {
         ["rank_raids"] = 101,
@@ -510,7 +510,7 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 24,
         ["kill_count"] = 18,
-        ["points"] = 9527.72,
+        ["points"] = 9528.69,
       },
     },
   },
@@ -532,7 +532,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 59,
         ["kill_count"] = 13,
-        ["points"] = 9770.11,
+        ["points"] = 9770.21,
       },
       ["Festergut"] = {
         ["rank_raids"] = 32,
@@ -572,7 +572,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Elementarno"] = {
-    ["percentile"] = 96.34,
+    ["percentile"] = 96.35,
     ["server"] = "Icecrown",
     ["overall_rank"] = 11,
     ["bosses"] = {
@@ -624,7 +624,7 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 56,
         ["kill_count"] = 5,
-        ["points"] = 8870.64,
+        ["points"] = 8872.95,
       },
     },
   },
@@ -646,7 +646,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 33,
         ["kill_count"] = 5,
-        ["points"] = 9873.17,
+        ["points"] = 9873.22,
       },
       ["Festergut"] = {
         ["rank_raids"] = 29,
@@ -681,7 +681,7 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 23,
         ["kill_count"] = 2,
-        ["points"] = 9548.25,
+        ["points"] = 9549.18,
       },
     },
   },
@@ -703,7 +703,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 42,
         ["kill_count"] = 26,
-        ["points"] = 9837.5,
+        ["points"] = 9837.56,
       },
       ["Festergut"] = {
         ["rank_raids"] = 24,
@@ -738,7 +738,7 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 39,
         ["kill_count"] = 23,
-        ["points"] = 9219.71,
+        ["points"] = 9221.31,
       },
     },
   },
@@ -760,7 +760,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 17,
         ["kill_count"] = 5,
-        ["points"] = 9936.58,
+        ["points"] = 9936.61,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5,
@@ -795,7 +795,7 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6,
         ["kill_count"] = 5,
-        ["points"] = 9897.33,
+        ["points"] = 9897.54,
       },
     },
   },
@@ -817,7 +817,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 43,
         ["kill_count"] = 23,
-        ["points"] = 9833.53,
+        ["points"] = 9833.6,
       },
       ["Festergut"] = {
         ["rank_raids"] = 98,
@@ -852,7 +852,7 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 33,
         ["kill_count"] = 3,
-        ["points"] = 9342.92,
+        ["points"] = 9344.26,
       },
     },
   },
@@ -874,7 +874,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 20,
         ["kill_count"] = 5,
-        ["points"] = 9924.69,
+        ["points"] = 9924.72,
       },
       ["Festergut"] = {
         ["rank_raids"] = 14,
@@ -909,7 +909,7 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 17,
         ["kill_count"] = 4,
-        ["points"] = 9671.46,
+        ["points"] = 9672.13,
       },
     },
   },
@@ -931,7 +931,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 64,
         ["kill_count"] = 5,
-        ["points"] = 9750.3,
+        ["points"] = 9750.4,
       },
       ["Festergut"] = {
         ["rank_raids"] = 17,
@@ -966,7 +966,7 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 28,
         ["kill_count"] = 2,
-        ["points"] = 9445.59,
+        ["points"] = 9446.72,
       },
     },
   },
@@ -988,7 +988,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 30,
         ["kill_count"] = 4,
-        ["points"] = 9885.06,
+        ["points"] = 9885.1,
       },
       ["Festergut"] = {
         ["rank_raids"] = 92,
@@ -1023,7 +1023,7 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 10,
         ["kill_count"] = 3,
-        ["points"] = 9815.2,
+        ["points"] = 9815.57,
       },
     },
   },
@@ -1045,7 +1045,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 94,
         ["kill_count"] = 14,
-        ["points"] = 9631.39,
+        ["points"] = 9631.54,
       },
       ["Festergut"] = {
         ["rank_raids"] = 7,
@@ -1080,7 +1080,7 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 26,
         ["kill_count"] = 4,
-        ["points"] = 9486.65,
+        ["points"] = 9487.7,
       },
     },
   },
@@ -1102,7 +1102,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 18,
         ["kill_count"] = 9,
-        ["points"] = 9932.62,
+        ["points"] = 9932.65,
       },
       ["Festergut"] = {
         ["rank_raids"] = 26,
@@ -1159,7 +1159,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 99,
         ["kill_count"] = 6,
-        ["points"] = 9611.57,
+        ["points"] = 9611.73,
       },
       ["Festergut"] = {
         ["rank_raids"] = 116,
@@ -1194,7 +1194,7 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 16,
         ["kill_count"] = 6,
-        ["points"] = 9691.99,
+        ["points"] = 9692.62,
       },
     },
   },
@@ -1216,7 +1216,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 15,
         ["kill_count"] = 22,
-        ["points"] = 9944.51,
+        ["points"] = 9944.53,
       },
       ["Festergut"] = {
         ["rank_raids"] = 99,
@@ -1256,7 +1256,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Vertund"] = {
-    ["percentile"] = 93.91,
+    ["percentile"] = 93.92,
     ["server"] = "Icecrown",
     ["overall_rank"] = 23,
     ["bosses"] = {
@@ -1273,7 +1273,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 118,
         ["kill_count"] = 2,
-        ["points"] = 9536.27,
+        ["points"] = 9536.45,
       },
       ["Festergut"] = {
         ["rank_raids"] = 59,
@@ -1308,12 +1308,12 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7,
         ["kill_count"] = 1,
-        ["points"] = 9876.8,
+        ["points"] = 9877.05,
       },
     },
   },
   ["Figureitout"] = {
-    ["percentile"] = 93.54,
+    ["percentile"] = 93.55,
     ["server"] = "Icecrown",
     ["overall_rank"] = 24,
     ["bosses"] = {
@@ -1330,7 +1330,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 202,
         ["kill_count"] = 7,
-        ["points"] = 9362.51,
+        ["points"] = 9363.12,
       },
       ["Festergut"] = {
         ["rank_raids"] = 79,
@@ -1387,7 +1387,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 46,
         ["kill_count"] = 15,
-        ["points"] = 9821.64,
+        ["points"] = 9821.71,
       },
       ["Festergut"] = {
         ["rank_raids"] = 106,
@@ -1444,7 +1444,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 143,
         ["kill_count"] = 9,
-        ["points"] = 9437.18,
+        ["points"] = 9437.4,
       },
       ["Festergut"] = {
         ["rank_raids"] = 132,
@@ -1501,7 +1501,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 126,
         ["kill_count"] = 8,
-        ["points"] = 9504.56,
+        ["points"] = 9504.75,
       },
       ["Festergut"] = {
         ["rank_raids"] = 154,
@@ -1558,7 +1558,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 55,
         ["kill_count"] = 1,
-        ["points"] = 9785.97,
+        ["points"] = 9786.05,
       },
       ["Festergut"] = {
         ["rank_raids"] = 12,
@@ -1593,7 +1593,7 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 27,
         ["kill_count"] = 2,
-        ["points"] = 9466.12,
+        ["points"] = 9467.21,
       },
     },
   },
@@ -1615,7 +1615,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 58,
         ["kill_count"] = 10,
-        ["points"] = 9774.08,
+        ["points"] = 9774.17,
       },
       ["Festergut"] = {
         ["rank_raids"] = 77,
@@ -1650,7 +1650,7 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 43,
         ["kill_count"] = 6,
-        ["points"] = 9137.58,
+        ["points"] = 9139.34,
       },
     },
   },
@@ -1672,12 +1672,12 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 51,
         ["kill_count"] = 16,
-        ["points"] = 9801.82,
+        ["points"] = 9801.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 81,
+        ["rank_raids"] = 80,
         ["kill_count"] = 16,
-        ["points"] = 9630.48,
+        ["points"] = 9635.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 116,
@@ -1706,7 +1706,7 @@ UWULogsData[7][1] = {
       },
       ["The Lich King"] = {
         ["rank_raids"] = 141,
-        ["kill_count"] = 3,
+        ["kill_count"] = 4,
         ["points"] = 8128.39,
       },
     },
@@ -1729,7 +1729,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 66,
         ["kill_count"] = 9,
-        ["points"] = 9742.37,
+        ["points"] = 9742.47,
       },
       ["Festergut"] = {
         ["rank_raids"] = 36,
@@ -1786,7 +1786,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 276,
         ["kill_count"] = 4,
-        ["points"] = 9181.73,
+        ["points"] = 9182.51,
       },
       ["Festergut"] = {
         ["rank_raids"] = 288,
@@ -1821,7 +1821,7 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 53,
         ["kill_count"] = 2,
-        ["points"] = 8932.24,
+        ["points"] = 8934.43,
       },
     },
   },
@@ -1878,7 +1878,7 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 13,
         ["kill_count"] = 2,
-        ["points"] = 9753.59,
+        ["points"] = 9754.1,
       },
     },
   },
@@ -1900,7 +1900,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 142,
         ["kill_count"] = 18,
-        ["points"] = 9441.14,
+        ["points"] = 9441.36,
       },
       ["Festergut"] = {
         ["rank_raids"] = 150,
@@ -1957,7 +1957,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 6,
         ["kill_count"] = 3,
-        ["points"] = 9980.18,
+        ["points"] = 9980.19,
       },
       ["Festergut"] = {
         ["rank_raids"] = 67,
@@ -1992,7 +1992,7 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 55,
         ["kill_count"] = 1,
-        ["points"] = 8891.17,
+        ["points"] = 8893.44,
       },
     },
   },
@@ -2014,7 +2014,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 53,
         ["kill_count"] = 3,
-        ["points"] = 9793.9,
+        ["points"] = 9793.98,
       },
       ["Festergut"] = {
         ["rank_raids"] = 141,
@@ -2071,7 +2071,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 311,
         ["kill_count"] = 5,
-        ["points"] = 9134.16,
+        ["points"] = 9134.98,
       },
       ["Festergut"] = {
         ["rank_raids"] = 391,
@@ -2106,12 +2106,12 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 15,
         ["kill_count"] = 2,
-        ["points"] = 9712.53,
+        ["points"] = 9713.11,
       },
     },
   },
   ["Birui"] = {
-    ["percentile"] = 90.03,
+    ["percentile"] = 90.04,
     ["server"] = "Icecrown",
     ["overall_rank"] = 38,
     ["bosses"] = {
@@ -2128,7 +2128,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 458,
         ["kill_count"] = 8,
-        ["points"] = 8782.11,
+        ["points"] = 8783.27,
       },
       ["Festergut"] = {
         ["rank_raids"] = 159,
@@ -2168,7 +2168,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Arsussham"] = {
-    ["percentile"] = 89.78,
+    ["percentile"] = 89.79,
     ["server"] = "Icecrown",
     ["overall_rank"] = 39,
     ["bosses"] = {
@@ -2185,7 +2185,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 48,
         ["kill_count"] = 14,
-        ["points"] = 9813.71,
+        ["points"] = 9813.79,
       },
       ["Festergut"] = {
         ["rank_raids"] = 54,
@@ -2220,7 +2220,7 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 64,
         ["kill_count"] = 6,
-        ["points"] = 8706.37,
+        ["points"] = 8709.02,
       },
     },
   },
@@ -2242,7 +2242,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 204,
         ["kill_count"] = 1,
-        ["points"] = 9353.0,
+        ["points"] = 9353.61,
       },
       ["Festergut"] = {
         ["rank_raids"] = 120,
@@ -2277,7 +2277,7 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 46,
         ["kill_count"] = 1,
-        ["points"] = 9075.98,
+        ["points"] = 9077.87,
       },
     },
   },
@@ -2299,7 +2299,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 26,
         ["kill_count"] = 11,
-        ["points"] = 9900.91,
+        ["points"] = 9900.95,
       },
       ["Festergut"] = {
         ["rank_raids"] = 188,
@@ -2356,7 +2356,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 161,
         ["kill_count"] = 2,
-        ["points"] = 9410.09,
+        ["points"] = 9410.65,
       },
       ["Festergut"] = {
         ["rank_raids"] = 932,
@@ -2413,7 +2413,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 266,
         ["kill_count"] = 5,
-        ["points"] = 9229.31,
+        ["points"] = 9230.04,
       },
       ["Festergut"] = {
         ["rank_raids"] = 113,
@@ -2470,7 +2470,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 135,
         ["kill_count"] = 16,
-        ["points"] = 9468.89,
+        ["points"] = 9469.1,
       },
       ["Festergut"] = {
         ["rank_raids"] = 33,
@@ -2503,14 +2503,14 @@ UWULogsData[7][1] = {
         ["points"] = 9350.39,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 343,
+        ["rank_raids"] = 344,
         ["kill_count"] = 2,
         ["points"] = 6387.26,
       },
     },
   },
   ["Gubics"] = {
-    ["percentile"] = 88.32,
+    ["percentile"] = 88.33,
     ["server"] = "Icecrown",
     ["overall_rank"] = 45,
     ["bosses"] = {
@@ -2527,7 +2527,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 237,
         ["kill_count"] = 8,
-        ["points"] = 9295.91,
+        ["points"] = 9296.58,
       },
       ["Festergut"] = {
         ["rank_raids"] = 61,
@@ -2584,7 +2584,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 85,
         ["kill_count"] = 13,
-        ["points"] = 9667.06,
+        ["points"] = 9667.19,
       },
       ["Festergut"] = {
         ["rank_raids"] = 269,
@@ -2641,7 +2641,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 247,
         ["kill_count"] = 4,
-        ["points"] = 9257.85,
+        ["points"] = 9258.56,
       },
       ["Festergut"] = {
         ["rank_raids"] = 76,
@@ -2698,7 +2698,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 100,
         ["kill_count"] = 21,
-        ["points"] = 9607.61,
+        ["points"] = 9607.77,
       },
       ["Festergut"] = {
         ["rank_raids"] = 82,
@@ -2738,7 +2738,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Impluse"] = {
-    ["percentile"] = 86.72,
+    ["percentile"] = 86.73,
     ["server"] = "Icecrown",
     ["overall_rank"] = 49,
     ["bosses"] = {
@@ -2755,7 +2755,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 420,
         ["kill_count"] = 14,
-        ["points"] = 8915.32,
+        ["points"] = 8916.35,
       },
       ["Festergut"] = {
         ["rank_raids"] = 316,
@@ -2812,7 +2812,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 472,
         ["kill_count"] = 3,
-        ["points"] = 8734.54,
+        ["points"] = 8735.74,
       },
       ["Festergut"] = {
         ["rank_raids"] = 167,
@@ -2869,7 +2869,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 370,
         ["kill_count"] = 2,
-        ["points"] = 9048.53,
+        ["points"] = 9049.43,
       },
       ["Festergut"] = {
         ["rank_raids"] = 481,
@@ -2904,7 +2904,7 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 60,
         ["kill_count"] = 2,
-        ["points"] = 8788.5,
+        ["points"] = 8790.98,
       },
     },
   },
@@ -2926,7 +2926,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 289,
         ["kill_count"] = 4,
-        ["points"] = 9153.19,
+        ["points"] = 9153.99,
       },
       ["Festergut"] = {
         ["rank_raids"] = 601,
@@ -2983,7 +2983,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 32,
         ["kill_count"] = 3,
-        ["points"] = 9877.13,
+        ["points"] = 9877.18,
       },
       ["Festergut"] = {
         ["rank_raids"] = 451,
@@ -3040,7 +3040,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 246,
         ["kill_count"] = 4,
-        ["points"] = 9267.36,
+        ["points"] = 9268.06,
       },
       ["Festergut"] = {
         ["rank_raids"] = 398,
@@ -3080,7 +3080,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Xalero"] = {
-    ["percentile"] = 84.41,
+    ["percentile"] = 84.42,
     ["server"] = "Icecrown",
     ["overall_rank"] = 55,
     ["bosses"] = {
@@ -3097,7 +3097,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 195,
         ["kill_count"] = 7,
-        ["points"] = 9381.54,
+        ["points"] = 9382.13,
       },
       ["Festergut"] = {
         ["rank_raids"] = 89,
@@ -3130,7 +3130,7 @@ UWULogsData[7][1] = {
         ["points"] = 5675.64,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 357,
+        ["rank_raids"] = 358,
         ["kill_count"] = 1,
         ["points"] = 6277.17,
       },
@@ -3154,7 +3154,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 97,
         ["kill_count"] = 17,
-        ["points"] = 9619.5,
+        ["points"] = 9619.65,
       },
       ["Festergut"] = {
         ["rank_raids"] = 231,
@@ -3211,7 +3211,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 130,
         ["kill_count"] = 2,
-        ["points"] = 9488.7,
+        ["points"] = 9488.91,
       },
       ["Festergut"] = {
         ["rank_raids"] = 211,
@@ -3263,7 +3263,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 873,
         ["kill_count"] = 2,
-        ["points"] = 7526.17,
+        ["points"] = 7528.52,
       },
       ["Festergut"] = {
         ["rank_raids"] = 361,
@@ -3320,7 +3320,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 107,
         ["kill_count"] = 5,
-        ["points"] = 9579.87,
+        ["points"] = 9580.03,
       },
       ["Festergut"] = {
         ["rank_raids"] = 22,
@@ -3355,7 +3355,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Rekroa"] = {
-    ["percentile"] = 83.29,
+    ["percentile"] = 83.3,
     ["server"] = "Icecrown",
     ["overall_rank"] = 60,
     ["bosses"] = {
@@ -3372,7 +3372,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 766,
         ["kill_count"] = 4,
-        ["points"] = 7887.73,
+        ["points"] = 7889.73,
       },
       ["Festergut"] = {
         ["rank_raids"] = 480,
@@ -3429,7 +3429,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 69,
         ["kill_count"] = 8,
-        ["points"] = 9730.48,
+        ["points"] = 9730.59,
       },
       ["Festergut"] = {
         ["rank_raids"] = 13,
@@ -3481,7 +3481,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 80,
         ["kill_count"] = 12,
-        ["points"] = 9686.88,
+        ["points"] = 9687.0,
       },
       ["Festergut"] = {
         ["rank_raids"] = 48,
@@ -3516,7 +3516,7 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 36,
         ["kill_count"] = 9,
-        ["points"] = 9281.31,
+        ["points"] = 9282.79,
       },
     },
   },
@@ -3538,7 +3538,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 398,
         ["kill_count"] = 2,
-        ["points"] = 8981.92,
+        ["points"] = 8982.89,
       },
       ["Festergut"] = {
         ["rank_raids"] = 149,
@@ -3595,7 +3595,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 136,
         ["kill_count"] = 3,
-        ["points"] = 9464.92,
+        ["points"] = 9465.13,
       },
       ["Festergut"] = {
         ["rank_raids"] = 280,
@@ -3652,7 +3652,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 476,
         ["kill_count"] = 2,
-        ["points"] = 8715.51,
+        ["points"] = 8716.73,
       },
       ["Festergut"] = {
         ["rank_raids"] = 579,
@@ -3709,7 +3709,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 309,
         ["kill_count"] = 3,
-        ["points"] = 9143.67,
+        ["points"] = 9144.49,
       },
       ["Festergut"] = {
         ["rank_raids"] = 184,
@@ -3742,7 +3742,7 @@ UWULogsData[7][1] = {
         ["points"] = 6535.43,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 241,
+        ["rank_raids"] = 242,
         ["kill_count"] = 1,
         ["points"] = 7318.8,
       },
@@ -3766,7 +3766,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 462,
         ["kill_count"] = 2,
-        ["points"] = 8763.08,
+        ["points"] = 8764.26,
       },
       ["Festergut"] = {
         ["rank_raids"] = 442,
@@ -3823,7 +3823,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 348,
         ["kill_count"] = 8,
-        ["points"] = 9077.07,
+        ["points"] = 9077.95,
       },
       ["Festergut"] = {
         ["rank_raids"] = 412,
@@ -3856,7 +3856,7 @@ UWULogsData[7][1] = {
         ["points"] = 5594.13,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 314,
+        ["rank_raids"] = 315,
         ["kill_count"] = 6,
         ["points"] = 6713.05,
       },
@@ -3880,7 +3880,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 410,
         ["kill_count"] = 3,
-        ["points"] = 8962.89,
+        ["points"] = 8963.88,
       },
       ["Festergut"] = {
         ["rank_raids"] = 485,
@@ -3937,7 +3937,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 238,
         ["kill_count"] = 3,
-        ["points"] = 9286.39,
+        ["points"] = 9287.07,
       },
       ["Festergut"] = {
         ["rank_raids"] = 372,
@@ -3994,7 +3994,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 283,
         ["kill_count"] = 8,
-        ["points"] = 9172.22,
+        ["points"] = 9173.0,
       },
       ["Festergut"] = {
         ["rank_raids"] = 329,
@@ -4027,7 +4027,7 @@ UWULogsData[7][1] = {
         ["points"] = 7007.87,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 346,
+        ["rank_raids"] = 347,
         ["kill_count"] = 2,
         ["points"] = 6365.94,
       },
@@ -4051,7 +4051,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 564,
         ["kill_count"] = 1,
-        ["points"] = 8544.24,
+        ["points"] = 8545.63,
       },
       ["Festergut"] = {
         ["rank_raids"] = 318,
@@ -4108,7 +4108,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 693,
         ["kill_count"] = 6,
-        ["points"] = 8154.14,
+        ["points"] = 8155.89,
       },
       ["Festergut"] = {
         ["rank_raids"] = 758,
@@ -4165,7 +4165,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 769,
         ["kill_count"] = 4,
-        ["points"] = 7868.7,
+        ["points"] = 7870.72,
       },
       ["Festergut"] = {
         ["rank_raids"] = 515,
@@ -4198,7 +4198,7 @@ UWULogsData[7][1] = {
         ["points"] = 7204.72,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 327,
+        ["rank_raids"] = 328,
         ["kill_count"] = 4,
         ["points"] = 6590.33,
       },
@@ -4222,7 +4222,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 257,
         ["kill_count"] = 1,
-        ["points"] = 9248.33,
+        ["points"] = 9249.05,
       },
       ["Festergut"] = {
         ["rank_raids"] = 482,
@@ -4255,7 +4255,7 @@ UWULogsData[7][1] = {
         ["points"] = 9094.49,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 245,
+        ["rank_raids"] = 246,
         ["kill_count"] = 1,
         ["points"] = 7295.15,
       },
@@ -4279,7 +4279,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 488,
         ["kill_count"] = 1,
-        ["points"] = 8686.96,
+        ["points"] = 8688.21,
       },
       ["Festergut"] = {
         ["rank_raids"] = 286,
@@ -4312,7 +4312,7 @@ UWULogsData[7][1] = {
         ["points"] = 6791.34,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 277,
+        ["rank_raids"] = 278,
         ["kill_count"] = 1,
         ["points"] = 6995.55,
       },
@@ -4336,7 +4336,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 727,
         ["kill_count"] = 2,
-        ["points"] = 8039.96,
+        ["points"] = 8041.83,
       },
       ["Festergut"] = {
         ["rank_raids"] = 566,
@@ -4393,7 +4393,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 587,
         ["kill_count"] = 1,
-        ["points"] = 8496.67,
+        ["points"] = 8498.1,
       },
       ["Festergut"] = {
         ["rank_raids"] = 173,
@@ -4445,7 +4445,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 453,
         ["kill_count"] = 4,
-        ["points"] = 8801.14,
+        ["points"] = 8802.28,
       },
       ["Festergut"] = {
         ["rank_raids"] = 496,
@@ -4478,7 +4478,7 @@ UWULogsData[7][1] = {
         ["points"] = 6909.45,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 238,
+        ["rank_raids"] = 239,
         ["kill_count"] = 3,
         ["points"] = 7373.47,
       },
@@ -4502,7 +4502,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 772,
         ["kill_count"] = 6,
-        ["points"] = 7840.15,
+        ["points"] = 7842.21,
       },
       ["Festergut"] = {
         ["rank_raids"] = 662,
@@ -4535,7 +4535,7 @@ UWULogsData[7][1] = {
         ["points"] = 8661.42,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 289,
+        ["rank_raids"] = 290,
         ["kill_count"] = 3,
         ["points"] = 6907.62,
       },
@@ -4559,7 +4559,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 111,
         ["kill_count"] = 2,
-        ["points"] = 9564.01,
+        ["points"] = 9564.18,
       },
       ["Festergut"] = {
         ["rank_raids"] = 21,
@@ -4589,7 +4589,7 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 66,
         ["kill_count"] = 1,
-        ["points"] = 8665.3,
+        ["points"] = 8668.03,
       },
     },
   },
@@ -4611,7 +4611,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 484,
         ["kill_count"] = 1,
-        ["points"] = 8696.48,
+        ["points"] = 8697.72,
       },
       ["Festergut"] = {
         ["rank_raids"] = 407,
@@ -4644,14 +4644,14 @@ UWULogsData[7][1] = {
         ["points"] = 6673.23,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 296,
+        ["rank_raids"] = 297,
         ["kill_count"] = 1,
         ["points"] = 6882.15,
       },
     },
   },
   ["Smokingballz"] = {
-    ["percentile"] = 75.38,
+    ["percentile"] = 75.39,
     ["server"] = "Icecrown",
     ["overall_rank"] = 83,
     ["bosses"] = {
@@ -4668,7 +4668,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 449,
         ["kill_count"] = 7,
-        ["points"] = 8820.17,
+        ["points"] = 8821.29,
       },
       ["Festergut"] = {
         ["rank_raids"] = 328,
@@ -4701,7 +4701,7 @@ UWULogsData[7][1] = {
         ["points"] = 6171.24,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 356,
+        ["rank_raids"] = 357,
         ["kill_count"] = 1,
         ["points"] = 6279.89,
       },
@@ -4720,7 +4720,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 515,
         ["kill_count"] = 6,
-        ["points"] = 8639.39,
+        ["points"] = 8640.68,
       },
       ["Festergut"] = {
         ["rank_raids"] = 275,
@@ -4753,7 +4753,7 @@ UWULogsData[7][1] = {
         ["points"] = 6830.71,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 246,
+        ["rank_raids"] = 247,
         ["kill_count"] = 1,
         ["points"] = 7277.8,
       },
@@ -4777,7 +4777,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 844,
         ["kill_count"] = 5,
-        ["points"] = 7678.4,
+        ["points"] = 7680.61,
       },
       ["Festergut"] = {
         ["rank_raids"] = 427,
@@ -4810,7 +4810,7 @@ UWULogsData[7][1] = {
         ["points"] = 5755.27,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 358,
+        ["rank_raids"] = 359,
         ["kill_count"] = 1,
         ["points"] = 6277.06,
       },
@@ -4829,7 +4829,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 232,
         ["kill_count"] = 5,
-        ["points"] = 9324.45,
+        ["points"] = 9325.1,
       },
       ["Festergut"] = {
         ["rank_raids"] = 9,
@@ -4859,7 +4859,7 @@ UWULogsData[7][1] = {
       ["The Lich King"] = {
         ["rank_raids"] = 31,
         ["kill_count"] = 4,
-        ["points"] = 9383.98,
+        ["points"] = 9385.25,
       },
     },
   },
@@ -4881,7 +4881,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 744,
         ["kill_count"] = 1,
-        ["points"] = 7982.87,
+        ["points"] = 7984.79,
       },
       ["Festergut"] = {
         ["rank_raids"] = 389,
@@ -4914,7 +4914,7 @@ UWULogsData[7][1] = {
         ["points"] = 5845.09,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 373,
+        ["rank_raids"] = 374,
         ["kill_count"] = 1,
         ["points"] = 6046.39,
       },
@@ -4938,7 +4938,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 596,
         ["kill_count"] = 2,
-        ["points"] = 8477.64,
+        ["points"] = 8479.09,
       },
       ["Festergut"] = {
         ["rank_raids"] = 244,
@@ -4995,7 +4995,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 448,
         ["kill_count"] = 3,
-        ["points"] = 8829.69,
+        ["points"] = 8830.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 209,
@@ -5047,7 +5047,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 966,
         ["kill_count"] = 18,
-        ["points"] = 7098.0,
+        ["points"] = 7100.76,
       },
       ["Festergut"] = {
         ["rank_raids"] = 315,
@@ -5080,7 +5080,7 @@ UWULogsData[7][1] = {
         ["points"] = 6456.69,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 382,
+        ["rank_raids"] = 383,
         ["kill_count"] = 2,
         ["points"] = 5802.56,
       },
@@ -5104,7 +5104,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 387,
         ["kill_count"] = 3,
-        ["points"] = 9010.47,
+        ["points"] = 9011.41,
       },
       ["Festergut"] = {
         ["rank_raids"] = 678,
@@ -5137,7 +5137,7 @@ UWULogsData[7][1] = {
         ["points"] = 7598.43,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 294,
+        ["rank_raids"] = 295,
         ["kill_count"] = 2,
         ["points"] = 6895.9,
       },
@@ -5161,7 +5161,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 762,
         ["kill_count"] = 1,
-        ["points"] = 7906.76,
+        ["points"] = 7908.75,
       },
       ["Festergut"] = {
         ["rank_raids"] = 476,
@@ -5194,14 +5194,14 @@ UWULogsData[7][1] = {
         ["points"] = 7834.65,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 307,
+        ["rank_raids"] = 308,
         ["kill_count"] = 1,
         ["points"] = 6774.15,
       },
     },
   },
   ["Maluyzs"] = {
-    ["percentile"] = 72.79,
+    ["percentile"] = 72.8,
     ["server"] = "Icecrown",
     ["overall_rank"] = 93,
     ["bosses"] = {
@@ -5218,7 +5218,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 850,
         ["kill_count"] = 2,
-        ["points"] = 7630.83,
+        ["points"] = 7633.08,
       },
       ["Festergut"] = {
         ["rank_raids"] = 367,
@@ -5246,7 +5246,7 @@ UWULogsData[7][1] = {
         ["points"] = 9494.71,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 273,
+        ["rank_raids"] = 274,
         ["kill_count"] = 1,
         ["points"] = 7031.36,
       },
@@ -5270,7 +5270,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 206,
         ["kill_count"] = 10,
-        ["points"] = 9343.48,
+        ["points"] = 9344.11,
       },
       ["Festergut"] = {
         ["rank_raids"] = 65,
@@ -5312,7 +5312,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 624,
         ["kill_count"] = 2,
-        ["points"] = 8401.52,
+        ["points"] = 8403.04,
       },
       ["Festergut"] = {
         ["rank_raids"] = 418,
@@ -5345,7 +5345,7 @@ UWULogsData[7][1] = {
         ["points"] = 6290.26,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 247,
+        ["rank_raids"] = 248,
         ["kill_count"] = 1,
         ["points"] = 7269.78,
       },
@@ -5369,7 +5369,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 820,
         ["kill_count"] = 10,
-        ["points"] = 7716.46,
+        ["points"] = 7718.63,
       },
       ["Festergut"] = {
         ["rank_raids"] = 741,
@@ -5402,7 +5402,7 @@ UWULogsData[7][1] = {
         ["points"] = 6226.33,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 341,
+        ["rank_raids"] = 342,
         ["kill_count"] = 4,
         ["points"] = 6412.68,
       },
@@ -5461,7 +5461,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Fichobrt"] = {
-    ["percentile"] = 71.24,
+    ["percentile"] = 71.25,
     ["server"] = "Icecrown",
     ["overall_rank"] = 98,
     ["bosses"] = {
@@ -5478,7 +5478,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 767,
         ["kill_count"] = 1,
-        ["points"] = 7878.21,
+        ["points"] = 7880.23,
       },
       ["Festergut"] = {
         ["rank_raids"] = 673,
@@ -5535,7 +5535,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 860,
         ["kill_count"] = 9,
-        ["points"] = 7583.25,
+        ["points"] = 7585.55,
       },
       ["Festergut"] = {
         ["rank_raids"] = 614,
@@ -5568,7 +5568,7 @@ UWULogsData[7][1] = {
         ["points"] = 4475.59,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 440,
+        ["rank_raids"] = 441,
         ["kill_count"] = 1,
         ["points"] = 4433.83,
       },
@@ -5592,7 +5592,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 12,
         ["kill_count"] = 9,
-        ["points"] = 9956.4,
+        ["points"] = 9956.42,
       },
       ["Festergut"] = {
         ["rank_raids"] = 355,
@@ -5644,7 +5644,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 694,
         ["kill_count"] = 4,
-        ["points"] = 8144.62,
+        ["points"] = 8146.39,
       },
       ["Festergut"] = {
         ["rank_raids"] = 410,
@@ -5677,7 +5677,7 @@ UWULogsData[7][1] = {
         ["points"] = 4063.85,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 347,
+        ["rank_raids"] = 348,
         ["kill_count"] = 1,
         ["points"] = 6361.72,
       },
@@ -5701,7 +5701,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 342,
         ["kill_count"] = 14,
-        ["points"] = 9096.1,
+        ["points"] = 9096.96,
       },
       ["Festergut"] = {
         ["rank_raids"] = 191,
@@ -5729,7 +5729,7 @@ UWULogsData[7][1] = {
         ["points"] = 5676.38,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 363,
+        ["rank_raids"] = 364,
         ["kill_count"] = 1,
         ["points"] = 6200.0,
       },
@@ -5753,7 +5753,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 882,
         ["kill_count"] = 5,
-        ["points"] = 7488.11,
+        ["points"] = 7490.49,
       },
       ["Festergut"] = {
         ["rank_raids"] = 382,
@@ -5786,7 +5786,7 @@ UWULogsData[7][1] = {
         ["points"] = 3472.36,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 304,
+        ["rank_raids"] = 305,
         ["kill_count"] = 1,
         ["points"] = 6800.75,
       },
@@ -5810,7 +5810,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 502,
         ["kill_count"] = 4,
-        ["points"] = 8677.45,
+        ["points"] = 8678.71,
       },
       ["Festergut"] = {
         ["rank_raids"] = 395,
@@ -5857,7 +5857,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 416,
         ["kill_count"] = 2,
-        ["points"] = 8934.35,
+        ["points"] = 8935.36,
       },
       ["Festergut"] = {
         ["rank_raids"] = 206,
@@ -5909,7 +5909,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 381,
         ["kill_count"] = 2,
-        ["points"] = 9029.5,
+        ["points"] = 9030.42,
       },
       ["Festergut"] = {
         ["rank_raids"] = 638,
@@ -5942,7 +5942,7 @@ UWULogsData[7][1] = {
         ["points"] = 5088.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 320,
+        ["rank_raids"] = 321,
         ["kill_count"] = 1,
         ["points"] = 6637.17,
       },
@@ -5966,7 +5966,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 700,
         ["kill_count"] = 4,
-        ["points"] = 8106.57,
+        ["points"] = 8108.37,
       },
       ["Festergut"] = {
         ["rank_raids"] = 448,
@@ -5999,7 +5999,7 @@ UWULogsData[7][1] = {
         ["points"] = 4585.24,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 393,
+        ["rank_raids"] = 394,
         ["kill_count"] = 1,
         ["points"] = 5596.55,
       },
@@ -6023,7 +6023,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 606,
         ["kill_count"] = 11,
-        ["points"] = 8439.58,
+        ["points"] = 8441.06,
       },
       ["Festergut"] = {
         ["rank_raids"] = 399,
@@ -6051,7 +6051,7 @@ UWULogsData[7][1] = {
         ["points"] = 6614.17,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 381,
+        ["rank_raids"] = 382,
         ["kill_count"] = 1,
         ["points"] = 5820.82,
       },
@@ -6075,7 +6075,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 999,
         ["kill_count"] = 4,
-        ["points"] = 6945.77,
+        ["points"] = 6948.67,
       },
       ["Festergut"] = {
         ["rank_raids"] = 532,
@@ -6108,7 +6108,7 @@ UWULogsData[7][1] = {
         ["points"] = 5982.92,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 338,
+        ["rank_raids"] = 339,
         ["kill_count"] = 3,
         ["points"] = 6451.72,
       },
@@ -6132,7 +6132,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 527,
         ["kill_count"] = 4,
-        ["points"] = 8620.36,
+        ["points"] = 8621.67,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1076,
@@ -6160,7 +6160,7 @@ UWULogsData[7][1] = {
         ["points"] = 8232.12,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 256,
+        ["rank_raids"] = 257,
         ["kill_count"] = 1,
         ["points"] = 7194.67,
       },
@@ -6184,7 +6184,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 423,
         ["kill_count"] = 3,
-        ["points"] = 8905.8,
+        ["points"] = 8906.84,
       },
       ["Festergut"] = {
         ["rank_raids"] = 148,
@@ -6226,7 +6226,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 641,
         ["kill_count"] = 6,
-        ["points"] = 8344.43,
+        ["points"] = 8346.01,
       },
       ["Festergut"] = {
         ["rank_raids"] = 210,
@@ -6261,7 +6261,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Wergilsham"] = {
-    ["percentile"] = 67.85,
+    ["percentile"] = 67.86,
     ["server"] = "Icecrown",
     ["overall_rank"] = 113,
     ["bosses"] = {
@@ -6278,7 +6278,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 334,
         ["kill_count"] = 4,
-        ["points"] = 9115.13,
+        ["points"] = 9115.97,
       },
       ["Festergut"] = {
         ["rank_raids"] = 123,
@@ -6306,7 +6306,7 @@ UWULogsData[7][1] = {
         ["points"] = 8110.66,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 455,
+        ["rank_raids"] = 456,
         ["kill_count"] = 2,
         ["points"] = 3662.77,
       },
@@ -6330,7 +6330,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 710,
         ["kill_count"] = 1,
-        ["points"] = 8078.02,
+        ["points"] = 8079.85,
       },
       ["Festergut"] = {
         ["rank_raids"] = 428,
@@ -6363,7 +6363,7 @@ UWULogsData[7][1] = {
         ["points"] = 4551.08,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 310,
+        ["rank_raids"] = 311,
         ["kill_count"] = 1,
         ["points"] = 6764.28,
       },
@@ -6387,7 +6387,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 654,
         ["kill_count"] = 1,
-        ["points"] = 8296.86,
+        ["points"] = 8298.48,
       },
       ["Festergut"] = {
         ["rank_raids"] = 943,
@@ -6439,7 +6439,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 439,
         ["kill_count"] = 2,
-        ["points"] = 8867.75,
+        ["points"] = 8868.82,
       },
       ["Festergut"] = {
         ["rank_raids"] = 349,
@@ -6486,7 +6486,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 745,
         ["kill_count"] = 5,
-        ["points"] = 7973.36,
+        ["points"] = 7975.29,
       },
       ["Festergut"] = {
         ["rank_raids"] = 778,
@@ -6519,7 +6519,7 @@ UWULogsData[7][1] = {
         ["points"] = 4821.32,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 359,
+        ["rank_raids"] = 360,
         ["kill_count"] = 2,
         ["points"] = 6260.88,
       },
@@ -6538,7 +6538,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 535,
         ["kill_count"] = 2,
-        ["points"] = 8601.33,
+        ["points"] = 8602.66,
       },
       ["Festergut"] = {
         ["rank_raids"] = 234,
@@ -6573,7 +6573,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Voodooblast"] = {
-    ["percentile"] = 66.77,
+    ["percentile"] = 66.78,
     ["server"] = "Icecrown",
     ["overall_rank"] = 119,
     ["bosses"] = {
@@ -6590,7 +6590,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 268,
         ["kill_count"] = 1,
-        ["points"] = 9219.79,
+        ["points"] = 9220.53,
       },
       ["Festergut"] = {
         ["rank_raids"] = 350,
@@ -6635,7 +6635,7 @@ UWULogsData[7][1] = {
         ["points"] = 5903.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1291,
+        ["rank_raids"] = 1292,
         ["kill_count"] = 1,
         ["points"] = 6371.26,
       },
@@ -6670,7 +6670,7 @@ UWULogsData[7][1] = {
         ["points"] = 5889.01,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 274,
+        ["rank_raids"] = 275,
         ["kill_count"] = 2,
         ["points"] = 6998.88,
       },
@@ -6684,7 +6684,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 95,
         ["kill_count"] = 2,
-        ["points"] = 9627.43,
+        ["points"] = 9627.58,
       },
       ["Festergut"] = {
         ["rank_raids"] = 97,
@@ -6731,7 +6731,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 662,
         ["kill_count"] = 6,
-        ["points"] = 8249.29,
+        ["points"] = 8250.95,
       },
       ["Festergut"] = {
         ["rank_raids"] = 505,
@@ -6764,7 +6764,7 @@ UWULogsData[7][1] = {
         ["points"] = 4085.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 239,
+        ["rank_raids"] = 240,
         ["kill_count"] = 1,
         ["points"] = 7349.9,
       },
@@ -6788,7 +6788,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 269,
         ["kill_count"] = 4,
-        ["points"] = 9210.28,
+        ["points"] = 9211.03,
       },
       ["Festergut"] = {
         ["rank_raids"] = 694,
@@ -6821,7 +6821,7 @@ UWULogsData[7][1] = {
         ["points"] = 4369.98,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 305,
+        ["rank_raids"] = 306,
         ["kill_count"] = 3,
         ["points"] = 6786.19,
       },
@@ -6840,7 +6840,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 355,
         ["kill_count"] = 1,
-        ["points"] = 9067.55,
+        ["points"] = 9068.44,
       },
       ["Festergut"] = {
         ["rank_raids"] = 559,
@@ -6892,7 +6892,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1011,
         ["kill_count"] = 11,
-        ["points"] = 6898.19,
+        ["points"] = 6901.14,
       },
       ["Festergut"] = {
         ["rank_raids"] = 582,
@@ -6925,7 +6925,7 @@ UWULogsData[7][1] = {
         ["points"] = 5990.01,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 416,
+        ["rank_raids"] = 417,
         ["kill_count"] = 1,
         ["points"] = 5147.75,
       },
@@ -6949,7 +6949,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 789,
         ["kill_count"] = 2,
-        ["points"] = 7783.06,
+        ["points"] = 7785.17,
       },
       ["Festergut"] = {
         ["rank_raids"] = 855,
@@ -6977,7 +6977,7 @@ UWULogsData[7][1] = {
         ["points"] = 7327.94,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 318,
+        ["rank_raids"] = 319,
         ["kill_count"] = 1,
         ["points"] = 6653.89,
       },
@@ -7001,7 +7001,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 848,
         ["kill_count"] = 2,
-        ["points"] = 7649.86,
+        ["points"] = 7652.09,
       },
       ["Festergut"] = {
         ["rank_raids"] = 513,
@@ -7034,14 +7034,14 @@ UWULogsData[7][1] = {
         ["points"] = 4755.14,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 375,
+        ["rank_raids"] = 376,
         ["kill_count"] = 2,
         ["points"] = 5995.92,
       },
     },
   },
   ["Trotskiy"] = {
-    ["percentile"] = 63.72,
+    ["percentile"] = 63.73,
     ["server"] = "Icecrown",
     ["overall_rank"] = 128,
     ["bosses"] = {
@@ -7058,7 +7058,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 961,
         ["kill_count"] = 13,
-        ["points"] = 7136.06,
+        ["points"] = 7138.78,
       },
       ["Festergut"] = {
         ["rank_raids"] = 506,
@@ -7108,7 +7108,7 @@ UWULogsData[7][1] = {
         ["points"] = 5993.08,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1512,
+        ["rank_raids"] = 1513,
         ["kill_count"] = 2,
         ["points"] = 6015.7,
       },
@@ -7160,7 +7160,7 @@ UWULogsData[7][1] = {
         ["points"] = 6380.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1321,
+        ["rank_raids"] = 1322,
         ["kill_count"] = 2,
         ["points"] = 6322.16,
       },
@@ -7197,7 +7197,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Pikapikachuu"] = {
-    ["percentile"] = 63.47,
+    ["percentile"] = 63.48,
     ["server"] = "Icecrown",
     ["overall_rank"] = 131,
     ["bosses"] = {
@@ -7214,7 +7214,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 660,
         ["kill_count"] = 4,
-        ["points"] = 8268.32,
+        ["points"] = 8269.96,
       },
       ["Festergut"] = {
         ["rank_raids"] = 517,
@@ -7242,7 +7242,7 @@ UWULogsData[7][1] = {
         ["points"] = 6734.14,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 456,
+        ["rank_raids"] = 457,
         ["kill_count"] = 1,
         ["points"] = 3613.35,
       },
@@ -7299,14 +7299,14 @@ UWULogsData[7][1] = {
         ["points"] = 4327.67,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 281,
+        ["rank_raids"] = 282,
         ["kill_count"] = 1,
         ["points"] = 6977.67,
       },
     },
   },
   ["Extaze"] = {
-    ["percentile"] = 62.97,
+    ["percentile"] = 62.98,
     ["server"] = "Icecrown",
     ["overall_rank"] = 133,
     ["bosses"] = {
@@ -7323,7 +7323,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 992,
         ["kill_count"] = 5,
-        ["points"] = 6983.82,
+        ["points"] = 6986.69,
       },
       ["Festergut"] = {
         ["rank_raids"] = 511,
@@ -7370,7 +7370,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 108,
         ["kill_count"] = 2,
-        ["points"] = 9575.9,
+        ["points"] = 9576.07,
       },
       ["Festergut"] = {
         ["rank_raids"] = 708,
@@ -7412,7 +7412,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 461,
         ["kill_count"] = 1,
-        ["points"] = 8772.6,
+        ["points"] = 8773.76,
       },
       ["Festergut"] = {
         ["rank_raids"] = 100,
@@ -7469,7 +7469,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 732,
         ["kill_count"] = 2,
-        ["points"] = 8020.93,
+        ["points"] = 8022.81,
       },
       ["Festergut"] = {
         ["rank_raids"] = 593,
@@ -7492,7 +7492,7 @@ UWULogsData[7][1] = {
         ["points"] = 7881.24,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 258,
+        ["rank_raids"] = 259,
         ["kill_count"] = 1,
         ["points"] = 7181.88,
       },
@@ -7511,7 +7511,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 536,
         ["kill_count"] = 2,
-        ["points"] = 8591.82,
+        ["points"] = 8593.16,
       },
       ["Festergut"] = {
         ["rank_raids"] = 895,
@@ -7563,7 +7563,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 975,
         ["kill_count"] = 4,
-        ["points"] = 7031.4,
+        ["points"] = 7034.22,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1201,
@@ -7596,7 +7596,7 @@ UWULogsData[7][1] = {
         ["points"] = 5848.73,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 402,
+        ["rank_raids"] = 403,
         ["kill_count"] = 5,
         ["points"] = 5495.96,
       },
@@ -7620,7 +7620,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 262,
         ["kill_count"] = 1,
-        ["points"] = 9238.82,
+        ["points"] = 9239.54,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1243,
@@ -7653,14 +7653,14 @@ UWULogsData[7][1] = {
         ["points"] = 5481.69,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 441,
+        ["rank_raids"] = 442,
         ["kill_count"] = 1,
         ["points"] = 4428.39,
       },
     },
   },
   ["Dundersztyca"] = {
-    ["percentile"] = 61.32,
+    ["percentile"] = 61.33,
     ["server"] = "Icecrown",
     ["overall_rank"] = 140,
     ["bosses"] = {
@@ -7677,7 +7677,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 938,
         ["kill_count"] = 10,
-        ["points"] = 7202.66,
+        ["points"] = 7205.32,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1025,
@@ -7712,7 +7712,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Elementioss"] = {
-    ["percentile"] = 61.32,
+    ["percentile"] = 61.33,
     ["server"] = "Icecrown",
     ["overall_rank"] = 141,
     ["bosses"] = {
@@ -7729,7 +7729,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 885,
         ["kill_count"] = 1,
-        ["points"] = 7478.59,
+        ["points"] = 7480.99,
       },
       ["Festergut"] = {
         ["rank_raids"] = 363,
@@ -7781,7 +7781,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 386,
         ["kill_count"] = 1,
-        ["points"] = 9019.98,
+        ["points"] = 9020.91,
       },
       ["Festergut"] = {
         ["rank_raids"] = 770,
@@ -7828,7 +7828,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 638,
         ["kill_count"] = 1,
-        ["points"] = 8363.46,
+        ["points"] = 8365.02,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1394,
@@ -7875,7 +7875,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 962,
         ["kill_count"] = 2,
-        ["points"] = 7126.55,
+        ["points"] = 7129.28,
       },
       ["Festergut"] = {
         ["rank_raids"] = 986,
@@ -7908,7 +7908,7 @@ UWULogsData[7][1] = {
         ["points"] = 4116.78,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 377,
+        ["rank_raids"] = 378,
         ["kill_count"] = 2,
         ["points"] = 5917.34,
       },
@@ -7930,7 +7930,7 @@ UWULogsData[7][1] = {
         ["points"] = 5469.84,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1537,
+        ["rank_raids"] = 1538,
         ["kill_count"] = 4,
         ["points"] = 5972.82,
       },
@@ -7965,7 +7965,7 @@ UWULogsData[7][1] = {
         ["points"] = 3347.48,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 325,
+        ["rank_raids"] = 326,
         ["kill_count"] = 2,
         ["points"] = 6612.33,
       },
@@ -7989,7 +7989,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1049,
         ["kill_count"] = 1,
-        ["points"] = 6764.99,
+        ["points"] = 6768.06,
       },
       ["Festergut"] = {
         ["rank_raids"] = 783,
@@ -8029,7 +8029,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Budulay"] = {
-    ["percentile"] = 60.15,
+    ["percentile"] = 60.16,
     ["server"] = "Icecrown",
     ["overall_rank"] = 147,
     ["bosses"] = {
@@ -8046,7 +8046,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1021,
         ["kill_count"] = 2,
-        ["points"] = 6850.62,
+        ["points"] = 6853.61,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1066,
@@ -8079,7 +8079,7 @@ UWULogsData[7][1] = {
         ["points"] = 3993.14,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 388,
+        ["rank_raids"] = 389,
         ["kill_count"] = 1,
         ["points"] = 5736.82,
       },
@@ -8103,7 +8103,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 642,
         ["kill_count"] = 1,
-        ["points"] = 8334.92,
+        ["points"] = 8336.5,
       },
       ["Festergut"] = {
         ["rank_raids"] = 502,
@@ -8150,7 +8150,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1042,
         ["kill_count"] = 14,
-        ["points"] = 6812.56,
+        ["points"] = 6815.59,
       },
       ["Festergut"] = {
         ["rank_raids"] = 774,
@@ -8183,7 +8183,7 @@ UWULogsData[7][1] = {
         ["points"] = 4838.16,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 334,
+        ["rank_raids"] = 335,
         ["kill_count"] = 6,
         ["points"] = 6483.04,
       },
@@ -8207,7 +8207,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 162,
         ["kill_count"] = 3,
-        ["points"] = 9400.57,
+        ["points"] = 9401.14,
       },
       ["Festergut"] = {
         ["rank_raids"] = 317,
@@ -8247,7 +8247,7 @@ UWULogsData[7][1] = {
         ["points"] = 6255.87,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1551,
+        ["rank_raids"] = 1552,
         ["kill_count"] = 5,
         ["points"] = 5941.48,
       },
@@ -8282,7 +8282,7 @@ UWULogsData[7][1] = {
         ["points"] = 3269.88,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 385,
+        ["rank_raids"] = 386,
         ["kill_count"] = 1,
         ["points"] = 5784.87,
       },
@@ -8304,7 +8304,7 @@ UWULogsData[7][1] = {
         ["points"] = 7745.84,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1276,
+        ["rank_raids"] = 1277,
         ["kill_count"] = 2,
         ["points"] = 6401.18,
       },
@@ -8329,7 +8329,7 @@ UWULogsData[7][1] = {
         ["points"] = 7341.43,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 259,
+        ["rank_raids"] = 260,
         ["kill_count"] = 2,
         ["points"] = 7161.75,
       },
@@ -8353,7 +8353,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 598,
         ["kill_count"] = 3,
-        ["points"] = 8458.61,
+        ["points"] = 8460.08,
       },
       ["Festergut"] = {
         ["rank_raids"] = 859,
@@ -8386,14 +8386,14 @@ UWULogsData[7][1] = {
         ["points"] = 4470.25,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 308,
+        ["rank_raids"] = 309,
         ["kill_count"] = 2,
         ["points"] = 6771.49,
       },
     },
   },
   ["Darkyshaman"] = {
-    ["percentile"] = 59.12,
+    ["percentile"] = 59.13,
     ["server"] = "Icecrown",
     ["overall_rank"] = 154,
     ["bosses"] = {
@@ -8410,7 +8410,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 597,
         ["kill_count"] = 3,
-        ["points"] = 8468.13,
+        ["points"] = 8469.58,
       },
       ["Festergut"] = {
         ["rank_raids"] = 554,
@@ -8433,7 +8433,7 @@ UWULogsData[7][1] = {
         ["points"] = 7530.36,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 451,
+        ["rank_raids"] = 452,
         ["kill_count"] = 1,
         ["points"] = 3757.84,
       },
@@ -8455,7 +8455,7 @@ UWULogsData[7][1] = {
         ["points"] = 5318.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1349,
+        ["rank_raids"] = 1350,
         ["kill_count"] = 2,
         ["points"] = 6271.31,
       },
@@ -8490,7 +8490,7 @@ UWULogsData[7][1] = {
         ["points"] = 4575.16,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 365,
+        ["rank_raids"] = 366,
         ["kill_count"] = 1,
         ["points"] = 6126.85,
       },
@@ -8512,7 +8512,7 @@ UWULogsData[7][1] = {
         ["points"] = 5589.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1229,
+        ["rank_raids"] = 1230,
         ["kill_count"] = 1,
         ["points"] = 6474.26,
       },
@@ -8547,7 +8547,7 @@ UWULogsData[7][1] = {
         ["points"] = 3718.81,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 350,
+        ["rank_raids"] = 351,
         ["kill_count"] = 1,
         ["points"] = 6329.89,
       },
@@ -8604,14 +8604,14 @@ UWULogsData[7][1] = {
         ["points"] = 5776.03,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 257,
+        ["rank_raids"] = 258,
         ["kill_count"] = 1,
         ["points"] = 7183.32,
       },
     },
   },
   ["Ragemist"] = {
-    ["percentile"] = 58.22,
+    ["percentile"] = 58.23,
     ["server"] = "Icecrown",
     ["overall_rank"] = 158,
     ["bosses"] = {
@@ -8628,7 +8628,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 684,
         ["kill_count"] = 3,
-        ["points"] = 8211.23,
+        ["points"] = 8212.93,
       },
       ["Festergut"] = {
         ["rank_raids"] = 810,
@@ -8661,14 +8661,14 @@ UWULogsData[7][1] = {
         ["points"] = 5592.18,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 384,
+        ["rank_raids"] = 385,
         ["kill_count"] = 3,
         ["points"] = 5795.19,
       },
     },
   },
   ["Eleqq"] = {
-    ["percentile"] = 58.16,
+    ["percentile"] = 58.17,
     ["server"] = "Icecrown",
     ["overall_rank"] = 159,
     ["bosses"] = {
@@ -8685,7 +8685,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 742,
         ["kill_count"] = 2,
-        ["points"] = 7992.39,
+        ["points"] = 7994.3,
       },
       ["Festergut"] = {
         ["rank_raids"] = 441,
@@ -8727,7 +8727,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 611,
         ["kill_count"] = 5,
-        ["points"] = 8430.07,
+        ["points"] = 8431.56,
       },
       ["Festergut"] = {
         ["rank_raids"] = 270,
@@ -8769,7 +8769,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 915,
         ["kill_count"] = 4,
-        ["points"] = 7316.84,
+        ["points"] = 7319.39,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1244,
@@ -8802,7 +8802,7 @@ UWULogsData[7][1] = {
         ["points"] = 4779.39,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 349,
+        ["rank_raids"] = 350,
         ["kill_count"] = 2,
         ["points"] = 6349.99,
       },
@@ -8824,7 +8824,7 @@ UWULogsData[7][1] = {
         ["points"] = 5728.53,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1596,
+        ["rank_raids"] = 1597,
         ["kill_count"] = 1,
         ["points"] = 5875.96,
       },
@@ -8859,7 +8859,7 @@ UWULogsData[7][1] = {
         ["points"] = 4817.13,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 301,
+        ["rank_raids"] = 302,
         ["kill_count"] = 1,
         ["points"] = 6841.62,
       },
@@ -8878,7 +8878,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 45,
         ["kill_count"] = 5,
-        ["points"] = 9825.6,
+        ["points"] = 9825.67,
       },
       ["Festergut"] = {
         ["rank_raids"] = 112,
@@ -8920,7 +8920,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 235,
         ["kill_count"] = 4,
-        ["points"] = 9305.42,
+        ["points"] = 9306.08,
       },
       ["Festergut"] = {
         ["rank_raids"] = 10,
@@ -8995,7 +8995,7 @@ UWULogsData[7][1] = {
         ["points"] = 3715.44,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 408,
+        ["rank_raids"] = 409,
         ["kill_count"] = 1,
         ["points"] = 5377.74,
       },
@@ -9052,7 +9052,7 @@ UWULogsData[7][1] = {
         ["points"] = 4970.14,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 315,
+        ["rank_raids"] = 316,
         ["kill_count"] = 1,
         ["points"] = 6677.83,
       },
@@ -9074,7 +9074,7 @@ UWULogsData[7][1] = {
         ["points"] = 4289.85,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1336,
+        ["rank_raids"] = 1337,
         ["kill_count"] = 6,
         ["points"] = 6294.48,
       },
@@ -9109,7 +9109,7 @@ UWULogsData[7][1] = {
         ["points"] = 4729.92,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 391,
+        ["rank_raids"] = 392,
         ["kill_count"] = 1,
         ["points"] = 5674.2,
       },
@@ -9133,7 +9133,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 906,
         ["kill_count"] = 5,
-        ["points"] = 7354.9,
+        ["points"] = 7357.41,
       },
       ["Festergut"] = {
         ["rank_raids"] = 464,
@@ -9180,7 +9180,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 778,
         ["kill_count"] = 2,
-        ["points"] = 7821.12,
+        ["points"] = 7823.19,
       },
       ["Festergut"] = {
         ["rank_raids"] = 303,
@@ -9225,7 +9225,7 @@ UWULogsData[7][1] = {
         ["points"] = 6124.13,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1325,
+        ["rank_raids"] = 1326,
         ["kill_count"] = 1,
         ["points"] = 6311.03,
       },
@@ -9260,7 +9260,7 @@ UWULogsData[7][1] = {
         ["points"] = 5747.31,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 311,
+        ["rank_raids"] = 312,
         ["kill_count"] = 1,
         ["points"] = 6755.74,
       },
@@ -9326,7 +9326,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 757,
         ["kill_count"] = 1,
-        ["points"] = 7925.78,
+        ["points"] = 7927.76,
       },
       ["Festergut"] = {
         ["rank_raids"] = 200,
@@ -9368,7 +9368,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 344,
         ["kill_count"] = 2,
-        ["points"] = 9086.58,
+        ["points"] = 9087.45,
       },
       ["Festergut"] = {
         ["rank_raids"] = 170,
@@ -9410,7 +9410,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 997,
         ["kill_count"] = 4,
-        ["points"] = 6955.28,
+        ["points"] = 6958.17,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1315,
@@ -9443,7 +9443,7 @@ UWULogsData[7][1] = {
         ["points"] = 3024.54,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 352,
+        ["rank_raids"] = 353,
         ["kill_count"] = 3,
         ["points"] = 6300.29,
       },
@@ -9465,7 +9465,7 @@ UWULogsData[7][1] = {
         ["points"] = 4874.13,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1383,
+        ["rank_raids"] = 1384,
         ["kill_count"] = 1,
         ["points"] = 6194.72,
       },
@@ -9514,7 +9514,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 374,
         ["kill_count"] = 3,
-        ["points"] = 9039.01,
+        ["points"] = 9039.92,
       },
       ["Festergut"] = {
         ["rank_raids"] = 276,
@@ -9551,7 +9551,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 897,
         ["kill_count"] = 2,
-        ["points"] = 7392.96,
+        ["points"] = 7395.44,
       },
       ["Festergut"] = {
         ["rank_raids"] = 340,
@@ -9603,7 +9603,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 691,
         ["kill_count"] = 2,
-        ["points"] = 8173.17,
+        ["points"] = 8174.9,
       },
       ["Festergut"] = {
         ["rank_raids"] = 602,
@@ -9648,7 +9648,7 @@ UWULogsData[7][1] = {
         ["points"] = 5839.91,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1940,
+        ["rank_raids"] = 1941,
         ["kill_count"] = 1,
         ["points"] = 5280.7,
       },
@@ -9683,7 +9683,7 @@ UWULogsData[7][1] = {
         ["points"] = 4158.15,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 368,
+        ["rank_raids"] = 369,
         ["kill_count"] = 1,
         ["points"] = 6106.68,
       },
@@ -9707,7 +9707,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 972,
         ["kill_count"] = 5,
-        ["points"] = 7050.43,
+        ["points"] = 7053.23,
       },
       ["Festergut"] = {
         ["rank_raids"] = 610,
@@ -9752,7 +9752,7 @@ UWULogsData[7][1] = {
         ["points"] = 4309.08,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2304,
+        ["rank_raids"] = 2305,
         ["kill_count"] = 1,
         ["points"] = 4487.96,
       },
@@ -9787,7 +9787,7 @@ UWULogsData[7][1] = {
         ["points"] = 5677.49,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 243,
+        ["rank_raids"] = 244,
         ["kill_count"] = 1,
         ["points"] = 7310.5,
       },
@@ -9811,7 +9811,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 889,
         ["kill_count"] = 6,
-        ["points"] = 7440.53,
+        ["points"] = 7442.97,
       },
       ["Festergut"] = {
         ["rank_raids"] = 766,
@@ -9856,7 +9856,7 @@ UWULogsData[7][1] = {
         ["points"] = 5792.43,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1523,
+        ["rank_raids"] = 1524,
         ["kill_count"] = 4,
         ["points"] = 6003.23,
       },
@@ -9891,7 +9891,7 @@ UWULogsData[7][1] = {
         ["points"] = 5533.23,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 411,
+        ["rank_raids"] = 412,
         ["kill_count"] = 2,
         ["points"] = 5287.67,
       },
@@ -9915,7 +9915,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 845,
         ["kill_count"] = 3,
-        ["points"] = 7668.89,
+        ["points"] = 7671.1,
       },
       ["Festergut"] = {
         ["rank_raids"] = 911,
@@ -9962,7 +9962,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 445,
         ["kill_count"] = 1,
-        ["points"] = 8848.72,
+        ["points"] = 8849.81,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1400,
@@ -9995,14 +9995,14 @@ UWULogsData[7][1] = {
         ["points"] = 3996.97,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 394,
+        ["rank_raids"] = 395,
         ["kill_count"] = 1,
         ["points"] = 5583.94,
       },
     },
   },
   ["Ziratide"] = {
-    ["percentile"] = 54.65,
+    ["percentile"] = 54.66,
     ["server"] = "Icecrown",
     ["overall_rank"] = 186,
     ["bosses"] = {
@@ -10014,7 +10014,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 721,
         ["kill_count"] = 4,
-        ["points"] = 8049.48,
+        ["points"] = 8051.33,
       },
       ["Festergut"] = {
         ["rank_raids"] = 640,
@@ -10056,7 +10056,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 429,
         ["kill_count"] = 2,
-        ["points"] = 8877.26,
+        ["points"] = 8878.33,
       },
       ["Festergut"] = {
         ["rank_raids"] = 209,
@@ -10096,7 +10096,7 @@ UWULogsData[7][1] = {
         ["points"] = 5876.26,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1202,
+        ["rank_raids"] = 1203,
         ["kill_count"] = 3,
         ["points"] = 6526.46,
       },
@@ -10145,7 +10145,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 969,
         ["kill_count"] = 5,
-        ["points"] = 7078.97,
+        ["points"] = 7081.75,
       },
       ["Festergut"] = {
         ["rank_raids"] = 584,
@@ -10225,7 +10225,7 @@ UWULogsData[7][1] = {
         ["points"] = 3022.56,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 397,
+        ["rank_raids"] = 398,
         ["kill_count"] = 1,
         ["points"] = 5524.16,
       },
@@ -10282,7 +10282,7 @@ UWULogsData[7][1] = {
         ["points"] = 3647.73,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 459,
+        ["rank_raids"] = 460,
         ["kill_count"] = 1,
         ["points"] = 3475.93,
       },
@@ -10301,7 +10301,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 532,
         ["kill_count"] = 3,
-        ["points"] = 8610.85,
+        ["points"] = 8612.17,
       },
       ["Festergut"] = {
         ["rank_raids"] = 160,
@@ -10346,7 +10346,7 @@ UWULogsData[7][1] = {
         ["points"] = 4629.68,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1327,
+        ["rank_raids"] = 1328,
         ["kill_count"] = 2,
         ["points"] = 6309.1,
       },
@@ -10381,7 +10381,7 @@ UWULogsData[7][1] = {
         ["points"] = 3590.02,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 371,
+        ["rank_raids"] = 372,
         ["kill_count"] = 1,
         ["points"] = 6047.33,
       },
@@ -10447,7 +10447,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 549,
         ["kill_count"] = 1,
-        ["points"] = 8582.3,
+        ["points"] = 8583.65,
       },
       ["Festergut"] = {
         ["rank_raids"] = 219,
@@ -10489,7 +10489,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 696,
         ["kill_count"] = 3,
-        ["points"] = 8135.11,
+        ["points"] = 8136.88,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1805,
@@ -10522,7 +10522,7 @@ UWULogsData[7][1] = {
         ["points"] = 1776.61,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 331,
+        ["rank_raids"] = 332,
         ["kill_count"] = 2,
         ["points"] = 6530.31,
       },
@@ -10544,7 +10544,7 @@ UWULogsData[7][1] = {
         ["points"] = 5944.07,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1681,
+        ["rank_raids"] = 1682,
         ["kill_count"] = 1,
         ["points"] = 5740.98,
       },
@@ -10579,7 +10579,7 @@ UWULogsData[7][1] = {
         ["points"] = 4064.69,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 333,
+        ["rank_raids"] = 334,
         ["kill_count"] = 1,
         ["points"] = 6486.6,
       },
@@ -10603,7 +10603,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 507,
         ["kill_count"] = 1,
-        ["points"] = 8667.94,
+        ["points"] = 8669.2,
       },
       ["Festergut"] = {
         ["rank_raids"] = 452,
@@ -10628,7 +10628,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Ostschwanz"] = {
-    ["percentile"] = 52.86,
+    ["percentile"] = 52.87,
     ["server"] = "Icecrown",
     ["overall_rank"] = 199,
     ["bosses"] = {
@@ -10645,7 +10645,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 633,
         ["kill_count"] = 4,
-        ["points"] = 8372.98,
+        ["points"] = 8374.52,
       },
       ["Festergut"] = {
         ["rank_raids"] = 143,
@@ -10670,7 +10670,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Sesca"] = {
-    ["percentile"] = 52.55,
+    ["percentile"] = 52.56,
     ["server"] = "Icecrown",
     ["overall_rank"] = 200,
     ["bosses"] = {
@@ -10687,7 +10687,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 890,
         ["kill_count"] = 6,
-        ["points"] = 7431.02,
+        ["points"] = 7433.46,
       },
       ["Festergut"] = {
         ["rank_raids"] = 249,
@@ -10729,7 +10729,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 620,
         ["kill_count"] = 1,
-        ["points"] = 8411.04,
+        ["points"] = 8412.55,
       },
       ["Festergut"] = {
         ["rank_raids"] = 486,
@@ -10766,7 +10766,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 565,
         ["kill_count"] = 1,
-        ["points"] = 8534.73,
+        ["points"] = 8536.12,
       },
       ["Festergut"] = {
         ["rank_raids"] = 611,
@@ -10803,7 +10803,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 444,
         ["kill_count"] = 3,
-        ["points"] = 8858.23,
+        ["points"] = 8859.32,
       },
       ["Festergut"] = {
         ["rank_raids"] = 247,
@@ -10828,7 +10828,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Rayomakuin"] = {
-    ["percentile"] = 51.55,
+    ["percentile"] = 51.56,
     ["server"] = "Icecrown",
     ["overall_rank"] = 204,
     ["bosses"] = {
@@ -10840,7 +10840,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 854,
         ["kill_count"] = 1,
-        ["points"] = 7611.8,
+        ["points"] = 7614.07,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1151,
@@ -10868,7 +10868,7 @@ UWULogsData[7][1] = {
         ["points"] = 5546.56,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 287,
+        ["rank_raids"] = 288,
         ["kill_count"] = 1,
         ["points"] = 6924.83,
       },
@@ -10890,7 +10890,7 @@ UWULogsData[7][1] = {
         ["points"] = 5070.43,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1743,
+        ["rank_raids"] = 1744,
         ["kill_count"] = 1,
         ["points"] = 5641.18,
       },
@@ -10925,14 +10925,14 @@ UWULogsData[7][1] = {
         ["points"] = 2812.63,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 430,
+        ["rank_raids"] = 431,
         ["kill_count"] = 1,
         ["points"] = 4914.13,
       },
     },
   },
   ["Juicybolts"] = {
-    ["percentile"] = 51.16,
+    ["percentile"] = 51.17,
     ["server"] = "Icecrown",
     ["overall_rank"] = 206,
     ["bosses"] = {
@@ -10944,7 +10944,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 937,
         ["kill_count"] = 2,
-        ["points"] = 7212.18,
+        ["points"] = 7214.83,
       },
       ["Festergut"] = {
         ["rank_raids"] = 631,
@@ -10977,7 +10977,7 @@ UWULogsData[7][1] = {
         ["points"] = 4769.2,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 339,
+        ["rank_raids"] = 340,
         ["kill_count"] = 2,
         ["points"] = 6426.0,
       },
@@ -10999,7 +10999,7 @@ UWULogsData[7][1] = {
         ["points"] = 6186.52,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1331,
+        ["rank_raids"] = 1332,
         ["kill_count"] = 2,
         ["points"] = 6303.83,
       },
@@ -11038,7 +11038,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 25,
         ["kill_count"] = 1,
-        ["points"] = 9904.88,
+        ["points"] = 9904.91,
       },
       ["Festergut"] = {
         ["rank_raids"] = 377,
@@ -11083,7 +11083,7 @@ UWULogsData[7][1] = {
         ["points"] = 4510.55,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2035,
+        ["rank_raids"] = 2036,
         ["kill_count"] = 1,
         ["points"] = 5095.38,
       },
@@ -11118,7 +11118,7 @@ UWULogsData[7][1] = {
         ["points"] = 4728.91,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 401,
+        ["rank_raids"] = 402,
         ["kill_count"] = 1,
         ["points"] = 5499.79,
       },
@@ -11175,7 +11175,7 @@ UWULogsData[7][1] = {
         ["points"] = 4113.97,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 477,
+        ["rank_raids"] = 478,
         ["kill_count"] = 1,
         ["points"] = 1210.34,
       },
@@ -11194,7 +11194,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 656,
         ["kill_count"] = 6,
-        ["points"] = 8277.83,
+        ["points"] = 8279.47,
       },
       ["Festergut"] = {
         ["rank_raids"] = 991,
@@ -11231,7 +11231,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 513,
         ["kill_count"] = 2,
-        ["points"] = 8648.91,
+        ["points"] = 8650.19,
       },
       ["Festergut"] = {
         ["rank_raids"] = 545,
@@ -11266,7 +11266,7 @@ UWULogsData[7][1] = {
         ["points"] = 8008.57,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1365,
+        ["rank_raids"] = 1366,
         ["kill_count"] = 4,
         ["points"] = 6221.6,
       },
@@ -11298,7 +11298,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Alfalordqt"] = {
-    ["percentile"] = 49.81,
+    ["percentile"] = 49.82,
     ["server"] = "Icecrown",
     ["overall_rank"] = 214,
     ["bosses"] = {
@@ -11315,7 +11315,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1017,
         ["kill_count"] = 1,
-        ["points"] = 6869.65,
+        ["points"] = 6872.62,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1175,
@@ -11360,7 +11360,7 @@ UWULogsData[7][1] = {
         ["points"] = 4277.59,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1468,
+        ["rank_raids"] = 1469,
         ["kill_count"] = 1,
         ["points"] = 6074.4,
       },
@@ -11395,7 +11395,7 @@ UWULogsData[7][1] = {
         ["points"] = 3564.83,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 417,
+        ["rank_raids"] = 418,
         ["kill_count"] = 1,
         ["points"] = 5142.96,
       },
@@ -11419,7 +11419,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 692,
         ["kill_count"] = 1,
-        ["points"] = 8163.65,
+        ["points"] = 8165.4,
       },
       ["Festergut"] = {
         ["rank_raids"] = 278,
@@ -11451,7 +11451,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 196,
         ["kill_count"] = 3,
-        ["points"] = 9372.03,
+        ["points"] = 9372.62,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1340,
@@ -11488,7 +11488,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 771,
         ["kill_count"] = 3,
-        ["points"] = 7849.67,
+        ["points"] = 7851.71,
       },
       ["Festergut"] = {
         ["rank_raids"] = 800,
@@ -11513,7 +11513,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Sennsham"] = {
-    ["percentile"] = 48.98,
+    ["percentile"] = 48.99,
     ["server"] = "Icecrown",
     ["overall_rank"] = 219,
     ["bosses"] = {
@@ -11525,7 +11525,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 576,
         ["kill_count"] = 3,
-        ["points"] = 8515.7,
+        ["points"] = 8517.11,
       },
       ["Festergut"] = {
         ["rank_raids"] = 493,
@@ -11550,7 +11550,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Restobaby"] = {
-    ["percentile"] = 48.97,
+    ["percentile"] = 48.98,
     ["server"] = "Icecrown",
     ["overall_rank"] = 220,
     ["bosses"] = {
@@ -11562,7 +11562,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 735,
         ["kill_count"] = 1,
-        ["points"] = 8001.9,
+        ["points"] = 8003.8,
       },
       ["Festergut"] = {
         ["rank_raids"] = 193,
@@ -11587,7 +11587,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Kaliczka"] = {
-    ["percentile"] = 48.8,
+    ["percentile"] = 48.81,
     ["server"] = "Icecrown",
     ["overall_rank"] = 221,
     ["bosses"] = {
@@ -11599,7 +11599,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 898,
         ["kill_count"] = 3,
-        ["points"] = 7383.44,
+        ["points"] = 7385.93,
       },
       ["Festergut"] = {
         ["rank_raids"] = 787,
@@ -11678,7 +11678,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 223,
         ["kill_count"] = 3,
-        ["points"] = 9333.97,
+        ["points"] = 9334.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 223,
@@ -11715,7 +11715,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 629,
         ["kill_count"] = 1,
-        ["points"] = 8392.01,
+        ["points"] = 8393.54,
       },
       ["Festergut"] = {
         ["rank_raids"] = 434,
@@ -11752,7 +11752,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1007,
         ["kill_count"] = 1,
-        ["points"] = 6917.22,
+        ["points"] = 6920.15,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1057,
@@ -11794,7 +11794,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 901,
         ["kill_count"] = 3,
-        ["points"] = 7373.93,
+        ["points"] = 7376.43,
       },
       ["Festergut"] = {
         ["rank_raids"] = 251,
@@ -11819,7 +11819,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Elegbele"] = {
-    ["percentile"] = 48.0,
+    ["percentile"] = 48.01,
     ["server"] = "Icecrown",
     ["overall_rank"] = 228,
     ["bosses"] = {
@@ -11831,7 +11831,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 794,
         ["kill_count"] = 5,
-        ["points"] = 7764.03,
+        ["points"] = 7766.16,
       },
       ["Festergut"] = {
         ["rank_raids"] = 600,
@@ -11868,7 +11868,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 855,
         ["kill_count"] = 1,
-        ["points"] = 7602.28,
+        ["points"] = 7604.56,
       },
       ["Festergut"] = {
         ["rank_raids"] = 676,
@@ -11910,7 +11910,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 478,
         ["kill_count"] = 4,
-        ["points"] = 8705.99,
+        ["points"] = 8707.22,
       },
       ["Festergut"] = {
         ["rank_raids"] = 156,
@@ -11935,7 +11935,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Paadron"] = {
-    ["percentile"] = 47.36,
+    ["percentile"] = 47.37,
     ["server"] = "Icecrown",
     ["overall_rank"] = 231,
     ["bosses"] = {
@@ -11947,7 +11947,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 699,
         ["kill_count"] = 6,
-        ["points"] = 8116.08,
+        ["points"] = 8117.87,
       },
       ["Festergut"] = {
         ["rank_raids"] = 571,
@@ -11987,7 +11987,7 @@ UWULogsData[7][1] = {
         ["points"] = 4714.01,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1611,
+        ["rank_raids"] = 1612,
         ["kill_count"] = 1,
         ["points"] = 5847.88,
       },
@@ -12031,7 +12031,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 939,
         ["kill_count"] = 6,
-        ["points"] = 7193.15,
+        ["points"] = 7195.82,
       },
       ["Festergut"] = {
         ["rank_raids"] = 660,
@@ -12068,7 +12068,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 690,
         ["kill_count"] = 3,
-        ["points"] = 8182.68,
+        ["points"] = 8184.41,
       },
       ["Festergut"] = {
         ["rank_raids"] = 599,
@@ -12105,7 +12105,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 705,
         ["kill_count"] = 4,
-        ["points"] = 8087.54,
+        ["points"] = 8089.35,
       },
       ["Festergut"] = {
         ["rank_raids"] = 473,
@@ -12142,7 +12142,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 525,
         ["kill_count"] = 3,
-        ["points"] = 8629.88,
+        ["points"] = 8631.18,
       },
       ["Festergut"] = {
         ["rank_raids"] = 424,
@@ -12179,7 +12179,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 702,
         ["kill_count"] = 2,
-        ["points"] = 8097.05,
+        ["points"] = 8098.86,
       },
       ["Festergut"] = {
         ["rank_raids"] = 922,
@@ -12204,7 +12204,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Naglash"] = {
-    ["percentile"] = 46.77,
+    ["percentile"] = 46.78,
     ["server"] = "Icecrown",
     ["overall_rank"] = 238,
     ["bosses"] = {
@@ -12216,7 +12216,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 880,
         ["kill_count"] = 4,
-        ["points"] = 7507.14,
+        ["points"] = 7509.51,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1053,
@@ -12258,7 +12258,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 10,
         ["kill_count"] = 2,
-        ["points"] = 9964.33,
+        ["points"] = 9964.34,
       },
       ["Festergut"] = {
         ["rank_raids"] = 18,
@@ -12293,7 +12293,7 @@ UWULogsData[7][1] = {
         ["points"] = 4515.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1259,
+        ["rank_raids"] = 1260,
         ["kill_count"] = 1,
         ["points"] = 6426.39,
       },
@@ -12337,7 +12337,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 687,
         ["kill_count"] = 3,
-        ["points"] = 8201.71,
+        ["points"] = 8203.42,
       },
       ["Festergut"] = {
         ["rank_raids"] = 519,
@@ -12379,7 +12379,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 996,
         ["kill_count"] = 1,
-        ["points"] = 6964.8,
+        ["points"] = 6967.68,
       },
       ["Festergut"] = {
         ["rank_raids"] = 901,
@@ -12409,7 +12409,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Hammsham"] = {
-    ["percentile"] = 46.42,
+    ["percentile"] = 46.43,
     ["server"] = "Icecrown",
     ["overall_rank"] = 243,
     ["bosses"] = {
@@ -12421,7 +12421,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 424,
         ["kill_count"] = 3,
-        ["points"] = 8896.29,
+        ["points"] = 8897.34,
       },
       ["Festergut"] = {
         ["rank_raids"] = 414,
@@ -12463,7 +12463,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 631,
         ["kill_count"] = 1,
-        ["points"] = 8382.49,
+        ["points"] = 8384.03,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 595,
@@ -12481,7 +12481,7 @@ UWULogsData[7][1] = {
         ["points"] = 9230.32,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 366,
+        ["rank_raids"] = 367,
         ["kill_count"] = 1,
         ["points"] = 6126.27,
       },
@@ -12500,7 +12500,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 775,
         ["kill_count"] = 3,
-        ["points"] = 7830.64,
+        ["points"] = 7832.7,
       },
       ["Festergut"] = {
         ["rank_raids"] = 324,
@@ -12537,7 +12537,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 770,
         ["kill_count"] = 2,
-        ["points"] = 7859.18,
+        ["points"] = 7861.22,
       },
       ["Festergut"] = {
         ["rank_raids"] = 390,
@@ -12574,7 +12574,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 746,
         ["kill_count"] = 3,
-        ["points"] = 7963.84,
+        ["points"] = 7965.78,
       },
       ["Festergut"] = {
         ["rank_raids"] = 403,
@@ -12644,7 +12644,7 @@ UWULogsData[7][1] = {
         ["points"] = 6774.63,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 447,
+        ["rank_raids"] = 448,
         ["kill_count"] = 1,
         ["points"] = 3858.74,
       },
@@ -12663,7 +12663,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 842,
         ["kill_count"] = 1,
-        ["points"] = 7687.92,
+        ["points"] = 7690.11,
       },
       ["Festergut"] = {
         ["rank_raids"] = 782,
@@ -12686,7 +12686,7 @@ UWULogsData[7][1] = {
         ["points"] = 9118.68,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 303,
+        ["rank_raids"] = 304,
         ["kill_count"] = 1,
         ["points"] = 6817.26,
       },
@@ -12708,7 +12708,7 @@ UWULogsData[7][1] = {
         ["points"] = 3362.48,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2102,
+        ["rank_raids"] = 2103,
         ["kill_count"] = 2,
         ["points"] = 4976.82,
       },
@@ -12743,7 +12743,7 @@ UWULogsData[7][1] = {
         ["points"] = 3795.17,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 404,
+        ["rank_raids"] = 405,
         ["kill_count"] = 2,
         ["points"] = 5443.62,
       },
@@ -12757,7 +12757,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 988,
         ["kill_count"] = 1,
-        ["points"] = 7002.85,
+        ["points"] = 7005.7,
       },
       ["Festergut"] = {
         ["rank_raids"] = 339,
@@ -12804,7 +12804,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 425,
         ["kill_count"] = 3,
-        ["points"] = 8886.77,
+        ["points"] = 8887.83,
       },
       ["Festergut"] = {
         ["rank_raids"] = 562,
@@ -12834,7 +12834,7 @@ UWULogsData[7][1] = {
         ["points"] = 6755.89,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1265,
+        ["rank_raids"] = 1266,
         ["kill_count"] = 10,
         ["points"] = 6417.69,
       },
@@ -12878,7 +12878,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 400,
         ["kill_count"] = 3,
-        ["points"] = 8972.41,
+        ["points"] = 8973.38,
       },
       ["Festergut"] = {
         ["rank_raids"] = 463,
@@ -12918,7 +12918,7 @@ UWULogsData[7][1] = {
         ["points"] = 1672.89,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1511,
+        ["rank_raids"] = 1512,
         ["kill_count"] = 8,
         ["points"] = 6015.88,
       },
@@ -12960,7 +12960,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 256,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1360,
+        ["rank_raids"] = 1361,
         ["kill_count"] = 1,
         ["points"] = 6238.64,
       },
@@ -12990,21 +12990,21 @@ UWULogsData[7][1] = {
         ["points"] = 5276.65,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 280,
+        ["rank_raids"] = 281,
         ["kill_count"] = 1,
         ["points"] = 6988.59,
       },
     },
   },
   ["Showmercy"] = {
-    ["percentile"] = 44.23,
+    ["percentile"] = 44.24,
     ["server"] = "Icecrown",
     ["overall_rank"] = 257,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 923,
         ["kill_count"] = 1,
-        ["points"] = 7269.27,
+        ["points"] = 7271.86,
       },
       ["Festergut"] = {
         ["rank_raids"] = 272,
@@ -13032,7 +13032,7 @@ UWULogsData[7][1] = {
         ["points"] = 4886.92,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 283,
+        ["rank_raids"] = 284,
         ["kill_count"] = 1,
         ["points"] = 6954.53,
       },
@@ -13054,7 +13054,7 @@ UWULogsData[7][1] = {
         ["points"] = 4297.58,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2078,
+        ["rank_raids"] = 2079,
         ["kill_count"] = 1,
         ["points"] = 5022.74,
       },
@@ -13089,7 +13089,7 @@ UWULogsData[7][1] = {
         ["points"] = 2363.45,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 426,
+        ["rank_raids"] = 427,
         ["kill_count"] = 1,
         ["points"] = 4927.31,
       },
@@ -13145,7 +13145,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1044,
         ["kill_count"] = 1,
-        ["points"] = 6793.53,
+        ["points"] = 6796.58,
       },
       ["Festergut"] = {
         ["rank_raids"] = 577,
@@ -13180,7 +13180,7 @@ UWULogsData[7][1] = {
         ["points"] = 5646.62,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1672,
+        ["rank_raids"] = 1673,
         ["kill_count"] = 4,
         ["points"] = 5760.33,
       },
@@ -13212,7 +13212,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Bratach"] = {
-    ["percentile"] = 43.87,
+    ["percentile"] = 43.88,
     ["server"] = "Icecrown",
     ["overall_rank"] = 262,
     ["bosses"] = {
@@ -13224,7 +13224,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 928,
         ["kill_count"] = 1,
-        ["points"] = 7240.72,
+        ["points"] = 7243.35,
       },
       ["Festergut"] = {
         ["rank_raids"] = 743,
@@ -13335,7 +13335,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 831,
         ["kill_count"] = 1,
-        ["points"] = 7706.95,
+        ["points"] = 7709.13,
       },
       ["Festergut"] = {
         ["rank_raids"] = 212,
@@ -13372,7 +13372,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 716,
         ["kill_count"] = 3,
-        ["points"] = 8058.99,
+        ["points"] = 8060.84,
       },
       ["Festergut"] = {
         ["rank_raids"] = 654,
@@ -13407,7 +13407,7 @@ UWULogsData[7][1] = {
         ["points"] = 6316.92,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1619,
+        ["rank_raids"] = 1620,
         ["kill_count"] = 2,
         ["points"] = 5835.01,
       },
@@ -13456,7 +13456,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 993,
         ["kill_count"] = 2,
-        ["points"] = 6974.31,
+        ["points"] = 6977.19,
       },
       ["Festergut"] = {
         ["rank_raids"] = 649,
@@ -13491,7 +13491,7 @@ UWULogsData[7][1] = {
         ["points"] = 5391.01,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1247,
+        ["rank_raids"] = 1248,
         ["kill_count"] = 5,
         ["points"] = 6442.52,
       },
@@ -13540,7 +13540,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 929,
         ["kill_count"] = 1,
-        ["points"] = 7231.21,
+        ["points"] = 7233.84,
       },
       ["Festergut"] = {
         ["rank_raids"] = 709,
@@ -13619,7 +13619,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 645,
         ["kill_count"] = 4,
-        ["points"] = 8306.37,
+        ["points"] = 8307.98,
       },
       ["Festergut"] = {
         ["rank_raids"] = 887,
@@ -13661,7 +13661,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 475,
         ["kill_count"] = 1,
-        ["points"] = 8725.02,
+        ["points"] = 8726.24,
       },
       ["Festergut"] = {
         ["rank_raids"] = 440,
@@ -13698,7 +13698,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 655,
         ["kill_count"] = 3,
-        ["points"] = 8287.35,
+        ["points"] = 8288.97,
       },
       ["Festergut"] = {
         ["rank_raids"] = 858,
@@ -13735,7 +13735,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 760,
         ["kill_count"] = 1,
-        ["points"] = 7916.27,
+        ["points"] = 7918.25,
       },
       ["Festergut"] = {
         ["rank_raids"] = 495,
@@ -13805,7 +13805,7 @@ UWULogsData[7][1] = {
         ["points"] = 2837.61,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 422,
+        ["rank_raids"] = 423,
         ["kill_count"] = 2,
         ["points"] = 5045.95,
       },
@@ -13827,7 +13827,7 @@ UWULogsData[7][1] = {
         ["points"] = 3149.68,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1831,
+        ["rank_raids"] = 1832,
         ["kill_count"] = 3,
         ["points"] = 5478.79,
       },
@@ -13862,7 +13862,7 @@ UWULogsData[7][1] = {
         ["points"] = 4051.26,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 431,
+        ["rank_raids"] = 432,
         ["kill_count"] = 1,
         ["points"] = 4887.2,
       },
@@ -13884,7 +13884,7 @@ UWULogsData[7][1] = {
         ["points"] = 3571.17,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2171,
+        ["rank_raids"] = 2172,
         ["kill_count"] = 1,
         ["points"] = 4826.87,
       },
@@ -13919,7 +13919,7 @@ UWULogsData[7][1] = {
         ["points"] = 3643.67,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 419,
+        ["rank_raids"] = 420,
         ["kill_count"] = 1,
         ["points"] = 5099.06,
       },
@@ -13941,7 +13941,7 @@ UWULogsData[7][1] = {
         ["points"] = 4831.92,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1510,
+        ["rank_raids"] = 1511,
         ["kill_count"] = 1,
         ["points"] = 6015.9,
       },
@@ -13993,7 +13993,7 @@ UWULogsData[7][1] = {
         ["points"] = 5620.59,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1530,
+        ["rank_raids"] = 1531,
         ["kill_count"] = 1,
         ["points"] = 5989.06,
       },
@@ -14037,7 +14037,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 680,
         ["kill_count"] = 5,
-        ["points"] = 8220.74,
+        ["points"] = 8222.43,
       },
       ["Festergut"] = {
         ["rank_raids"] = 888,
@@ -14074,7 +14074,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 874,
         ["kill_count"] = 3,
-        ["points"] = 7516.65,
+        ["points"] = 7519.01,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1299,
@@ -14111,7 +14111,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 924,
         ["kill_count"] = 3,
-        ["points"] = 7259.75,
+        ["points"] = 7262.36,
       },
       ["Festergut"] = {
         ["rank_raids"] = 588,
@@ -14146,7 +14146,7 @@ UWULogsData[7][1] = {
         ["points"] = 7483.94,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1343,
+        ["rank_raids"] = 1344,
         ["kill_count"] = 4,
         ["points"] = 6289.76,
       },
@@ -14183,7 +14183,7 @@ UWULogsData[7][1] = {
         ["points"] = 5677.62,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1256,
+        ["rank_raids"] = 1257,
         ["kill_count"] = 2,
         ["points"] = 6433.07,
       },
@@ -14225,7 +14225,7 @@ UWULogsData[7][1] = {
         ["points"] = 2831.71,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1689,
+        ["rank_raids"] = 1690,
         ["kill_count"] = 1,
         ["points"] = 5730.38,
       },
@@ -14260,7 +14260,7 @@ UWULogsData[7][1] = {
         ["points"] = 1663.67,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 383,
+        ["rank_raids"] = 384,
         ["kill_count"] = 1,
         ["points"] = 5795.49,
       },
@@ -14277,7 +14277,7 @@ UWULogsData[7][1] = {
         ["points"] = 6788.01,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1239,
+        ["rank_raids"] = 1240,
         ["kill_count"] = 5,
         ["points"] = 6456.41,
       },
@@ -14319,7 +14319,7 @@ UWULogsData[7][1] = {
         ["points"] = 6287.07,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1495,
+        ["rank_raids"] = 1496,
         ["kill_count"] = 2,
         ["points"] = 6036.29,
       },
@@ -14351,7 +14351,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Swiftnesky"] = {
-    ["percentile"] = 41.91,
+    ["percentile"] = 41.92,
     ["server"] = "Icecrown",
     ["overall_rank"] = 289,
     ["bosses"] = {
@@ -14363,7 +14363,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 797,
         ["kill_count"] = 5,
-        ["points"] = 7754.52,
+        ["points"] = 7756.65,
       },
       ["Festergut"] = {
         ["rank_raids"] = 734,
@@ -14398,7 +14398,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Kameshameha"] = {
-    ["percentile"] = 41.88,
+    ["percentile"] = 41.89,
     ["server"] = "Icecrown",
     ["overall_rank"] = 290,
     ["bosses"] = {
@@ -14410,7 +14410,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 676,
         ["kill_count"] = 2,
-        ["points"] = 8230.26,
+        ["points"] = 8231.94,
       },
       ["Festergut"] = {
         ["rank_raids"] = 499,
@@ -14442,7 +14442,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 417,
         ["kill_count"] = 1,
-        ["points"] = 8924.83,
+        ["points"] = 8925.86,
       },
       ["Festergut"] = {
         ["rank_raids"] = 523,
@@ -14474,7 +14474,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 728,
         ["kill_count"] = 1,
-        ["points"] = 8030.45,
+        ["points"] = 8032.32,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1646,
@@ -14548,7 +14548,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 799,
         ["kill_count"] = 3,
-        ["points"] = 7745.0,
+        ["points"] = 7747.15,
       },
       ["Festergut"] = {
         ["rank_raids"] = 748,
@@ -14610,7 +14610,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Everton"] = {
-    ["percentile"] = 41.55,
+    ["percentile"] = 41.56,
     ["server"] = "Icecrown",
     ["overall_rank"] = 296,
     ["bosses"] = {
@@ -14622,7 +14622,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 851,
         ["kill_count"] = 2,
-        ["points"] = 7621.31,
+        ["points"] = 7623.57,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1154,
@@ -14667,7 +14667,7 @@ UWULogsData[7][1] = {
         ["points"] = 4357.86,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1592,
+        ["rank_raids"] = 1593,
         ["kill_count"] = 2,
         ["points"] = 5880.94,
       },
@@ -14709,7 +14709,7 @@ UWULogsData[7][1] = {
         ["points"] = 7976.45,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1221,
+        ["rank_raids"] = 1222,
         ["kill_count"] = 1,
         ["points"] = 6494.3,
       },
@@ -14746,7 +14746,7 @@ UWULogsData[7][1] = {
         ["points"] = 7826.55,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1387,
+        ["rank_raids"] = 1388,
         ["kill_count"] = 2,
         ["points"] = 6189.33,
       },
@@ -14780,7 +14780,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 65,
         ["kill_count"] = 2,
-        ["points"] = 9746.33,
+        ["points"] = 9746.43,
       },
       ["Festergut"] = {
         ["rank_raids"] = 237,
@@ -14820,7 +14820,7 @@ UWULogsData[7][1] = {
         ["points"] = 3939.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1459,
+        ["rank_raids"] = 1460,
         ["kill_count"] = 3,
         ["points"] = 6090.51,
       },
@@ -14859,7 +14859,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 849,
         ["kill_count"] = 2,
-        ["points"] = 7640.34,
+        ["points"] = 7642.59,
       },
       ["Festergut"] = {
         ["rank_raids"] = 621,
@@ -14901,7 +14901,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 559,
         ["kill_count"] = 4,
-        ["points"] = 8553.76,
+        ["points"] = 8555.13,
       },
       ["Festergut"] = {
         ["rank_raids"] = 388,
@@ -14928,7 +14928,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 792,
         ["kill_count"] = 1,
-        ["points"] = 7773.55,
+        ["points"] = 7775.67,
       },
       ["Festergut"] = {
         ["rank_raids"] = 717,
@@ -14965,7 +14965,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 951,
         ["kill_count"] = 4,
-        ["points"] = 7174.12,
+        ["points"] = 7176.81,
       },
       ["Festergut"] = {
         ["rank_raids"] = 896,
@@ -15000,7 +15000,7 @@ UWULogsData[7][1] = {
         ["points"] = 7259.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1476,
+        ["rank_raids"] = 1477,
         ["kill_count"] = 3,
         ["points"] = 6061.02,
       },
@@ -15037,7 +15037,7 @@ UWULogsData[7][1] = {
         ["points"] = 5905.07,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1549,
+        ["rank_raids"] = 1550,
         ["kill_count"] = 1,
         ["points"] = 5943.09,
       },
@@ -15074,7 +15074,7 @@ UWULogsData[7][1] = {
         ["points"] = 8565.31,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1289,
+        ["rank_raids"] = 1290,
         ["kill_count"] = 2,
         ["points"] = 6373.31,
       },
@@ -15113,7 +15113,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1014,
         ["kill_count"] = 2,
-        ["points"] = 6888.68,
+        ["points"] = 6891.63,
       },
       ["Festergut"] = {
         ["rank_raids"] = 567,
@@ -15150,7 +15150,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 864,
         ["kill_count"] = 2,
-        ["points"] = 7554.71,
+        ["points"] = 7557.03,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1351,
@@ -15187,7 +15187,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 613,
         ["kill_count"] = 2,
-        ["points"] = 8420.55,
+        ["points"] = 8422.05,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1273,
@@ -15227,7 +15227,7 @@ UWULogsData[7][1] = {
         ["points"] = 4714.07,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2218,
+        ["rank_raids"] = 2219,
         ["kill_count"] = 1,
         ["points"] = 4729.56,
       },
@@ -15262,7 +15262,7 @@ UWULogsData[7][1] = {
         ["points"] = 3185.27,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 432,
+        ["rank_raids"] = 433,
         ["kill_count"] = 1,
         ["points"] = 4874.91,
       },
@@ -15281,7 +15281,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 931,
         ["kill_count"] = 1,
-        ["points"] = 7221.69,
+        ["points"] = 7224.33,
       },
       ["Festergut"] = {
         ["rank_raids"] = 393,
@@ -15316,7 +15316,7 @@ UWULogsData[7][1] = {
         ["points"] = 6167.02,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1678,
+        ["rank_raids"] = 1679,
         ["kill_count"] = 1,
         ["points"] = 5745.3,
       },
@@ -15390,7 +15390,7 @@ UWULogsData[7][1] = {
         ["points"] = 5880.07,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1943,
+        ["rank_raids"] = 1944,
         ["kill_count"] = 2,
         ["points"] = 5279.92,
       },
@@ -15429,7 +15429,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 605,
         ["kill_count"] = 3,
-        ["points"] = 8449.1,
+        ["points"] = 8450.57,
       },
       ["Festergut"] = {
         ["rank_raids"] = 945,
@@ -15464,7 +15464,7 @@ UWULogsData[7][1] = {
         ["points"] = 5681.59,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1471,
+        ["rank_raids"] = 1472,
         ["kill_count"] = 1,
         ["points"] = 6072.82,
       },
@@ -15501,7 +15501,7 @@ UWULogsData[7][1] = {
         ["points"] = 5691.74,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1517,
+        ["rank_raids"] = 1518,
         ["kill_count"] = 3,
         ["points"] = 6007.53,
       },
@@ -15550,7 +15550,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 392,
         ["kill_count"] = 7,
-        ["points"] = 8991.44,
+        ["points"] = 8992.4,
       },
       ["Festergut"] = {
         ["rank_raids"] = 422,
@@ -15575,7 +15575,7 @@ UWULogsData[7][1] = {
         ["points"] = 6199.14,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1463,
+        ["rank_raids"] = 1464,
         ["kill_count"] = 2,
         ["points"] = 6088.05,
       },
@@ -15614,7 +15614,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 968,
         ["kill_count"] = 3,
-        ["points"] = 7088.49,
+        ["points"] = 7091.25,
       },
       ["Festergut"] = {
         ["rank_raids"] = 585,
@@ -15676,14 +15676,14 @@ UWULogsData[7][1] = {
     },
   },
   ["Joytide"] = {
-    ["percentile"] = 39.66,
+    ["percentile"] = 39.67,
     ["server"] = "Icecrown",
     ["overall_rank"] = 324,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 956,
         ["kill_count"] = 1,
-        ["points"] = 7164.61,
+        ["points"] = 7167.3,
       },
       ["Festergut"] = {
         ["rank_raids"] = 768,
@@ -15723,7 +15723,7 @@ UWULogsData[7][1] = {
         ["points"] = 6145.61,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1263,
+        ["rank_raids"] = 1264,
         ["kill_count"] = 1,
         ["points"] = 6420.17,
       },
@@ -15799,7 +15799,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 959,
         ["kill_count"] = 5,
-        ["points"] = 7145.58,
+        ["points"] = 7148.29,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1205,
@@ -15839,7 +15839,7 @@ UWULogsData[7][1] = {
         ["points"] = 4957.59,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2120,
+        ["rank_raids"] = 2121,
         ["kill_count"] = 1,
         ["points"] = 4947.03,
       },
@@ -15874,7 +15874,7 @@ UWULogsData[7][1] = {
         ["points"] = 2705.69,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 442,
+        ["rank_raids"] = 443,
         ["kill_count"] = 1,
         ["points"] = 4280.81,
       },
@@ -15893,7 +15893,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 415,
         ["kill_count"] = 1,
-        ["points"] = 8943.86,
+        ["points"] = 8944.87,
       },
       ["Festergut"] = {
         ["rank_raids"] = 648,
@@ -15928,7 +15928,7 @@ UWULogsData[7][1] = {
         ["points"] = 3095.92,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1357,
+        ["rank_raids"] = 1358,
         ["kill_count"] = 2,
         ["points"] = 6252.92,
       },
@@ -15975,7 +15975,7 @@ UWULogsData[7][1] = {
         ["points"] = 2262.96,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1809,
+        ["rank_raids"] = 1810,
         ["kill_count"] = 1,
         ["points"] = 5522.91,
       },
@@ -16061,7 +16061,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 963,
         ["kill_count"] = 2,
-        ["points"] = 7117.03,
+        ["points"] = 7119.77,
       },
       ["Festergut"] = {
         ["rank_raids"] = 449,
@@ -16086,7 +16086,7 @@ UWULogsData[7][1] = {
         ["points"] = 8383.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1628,
+        ["rank_raids"] = 1629,
         ["kill_count"] = 1,
         ["points"] = 5819.38,
       },
@@ -16125,7 +16125,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 891,
         ["kill_count"] = 2,
-        ["points"] = 7421.5,
+        ["points"] = 7423.95,
       },
       ["Festergut"] = {
         ["rank_raids"] = 291,
@@ -16155,7 +16155,7 @@ UWULogsData[7][1] = {
         ["points"] = 4404.68,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1506,
+        ["rank_raids"] = 1507,
         ["kill_count"] = 5,
         ["points"] = 6021.39,
       },
@@ -16207,7 +16207,7 @@ UWULogsData[7][1] = {
         ["points"] = 4288.44,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1780,
+        ["rank_raids"] = 1781,
         ["kill_count"] = 1,
         ["points"] = 5579.55,
       },
@@ -16249,7 +16249,7 @@ UWULogsData[7][1] = {
         ["points"] = 7023.55,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1674,
+        ["rank_raids"] = 1675,
         ["kill_count"] = 1,
         ["points"] = 5753.23,
       },
@@ -16311,7 +16311,7 @@ UWULogsData[7][1] = {
         ["points"] = 5867.03,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 446,
+        ["rank_raids"] = 447,
         ["kill_count"] = 1,
         ["points"] = 3945.34,
       },
@@ -16328,7 +16328,7 @@ UWULogsData[7][1] = {
         ["points"] = 7301.93,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1507,
+        ["rank_raids"] = 1508,
         ["kill_count"] = 2,
         ["points"] = 6020.78,
       },
@@ -16367,7 +16367,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 981,
         ["kill_count"] = 2,
-        ["points"] = 7012.37,
+        ["points"] = 7015.21,
       },
       ["Festergut"] = {
         ["rank_raids"] = 697,
@@ -16407,7 +16407,7 @@ UWULogsData[7][1] = {
         ["points"] = 4268.82,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1614,
+        ["rank_raids"] = 1615,
         ["kill_count"] = 4,
         ["points"] = 5846.62,
       },
@@ -16451,7 +16451,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 245,
         ["kill_count"] = 2,
-        ["points"] = 9276.88,
+        ["points"] = 9277.57,
       },
       ["Festergut"] = {
         ["rank_raids"] = 128,
@@ -16478,7 +16478,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 457,
         ["kill_count"] = 3,
-        ["points"] = 8791.63,
+        ["points"] = 8792.78,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1049,
@@ -16513,7 +16513,7 @@ UWULogsData[7][1] = {
         ["points"] = 6595.29,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1702,
+        ["rank_raids"] = 1703,
         ["kill_count"] = 2,
         ["points"] = 5706.45,
       },
@@ -16624,7 +16624,7 @@ UWULogsData[7][1] = {
         ["points"] = 7687.37,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1342,
+        ["rank_raids"] = 1343,
         ["kill_count"] = 2,
         ["points"] = 6290.66,
       },
@@ -16663,7 +16663,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 44,
         ["kill_count"] = 2,
-        ["points"] = 9829.57,
+        ["points"] = 9829.64,
       },
       ["Festergut"] = {
         ["rank_raids"] = 187,
@@ -16685,7 +16685,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 593,
         ["kill_count"] = 1,
-        ["points"] = 8487.16,
+        ["points"] = 8488.59,
       },
       ["Festergut"] = {
         ["rank_raids"] = 155,
@@ -16720,7 +16720,7 @@ UWULogsData[7][1] = {
         ["points"] = 7580.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1508,
+        ["rank_raids"] = 1509,
         ["kill_count"] = 1,
         ["points"] = 6020.76,
       },
@@ -16757,7 +16757,7 @@ UWULogsData[7][1] = {
         ["points"] = 7280.51,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1829,
+        ["rank_raids"] = 1830,
         ["kill_count"] = 2,
         ["points"] = 5480.2,
       },
@@ -16794,7 +16794,7 @@ UWULogsData[7][1] = {
         ["points"] = 4659.63,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1230,
+        ["rank_raids"] = 1231,
         ["kill_count"] = 1,
         ["points"] = 6471.39,
       },
@@ -16841,7 +16841,7 @@ UWULogsData[7][1] = {
         ["points"] = 4389.43,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2170,
+        ["rank_raids"] = 2171,
         ["kill_count"] = 2,
         ["points"] = 4829.08,
       },
@@ -16883,7 +16883,7 @@ UWULogsData[7][1] = {
         ["points"] = 5680.38,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1833,
+        ["rank_raids"] = 1834,
         ["kill_count"] = 2,
         ["points"] = 5477.22,
       },
@@ -16922,7 +16922,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 413,
         ["kill_count"] = 1,
-        ["points"] = 8953.38,
+        ["points"] = 8954.37,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1062,
@@ -16954,7 +16954,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 508,
         ["kill_count"] = 1,
-        ["points"] = 8658.42,
+        ["points"] = 8659.7,
       },
       ["Festergut"] = {
         ["rank_raids"] = 877,
@@ -16984,7 +16984,7 @@ UWULogsData[7][1] = {
         ["points"] = 7398.29,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1208,
+        ["rank_raids"] = 1209,
         ["kill_count"] = 2,
         ["points"] = 6514.01,
       },
@@ -17058,7 +17058,7 @@ UWULogsData[7][1] = {
         ["points"] = 6391.86,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1334,
+        ["rank_raids"] = 1335,
         ["kill_count"] = 2,
         ["points"] = 6298.97,
       },
@@ -17095,7 +17095,7 @@ UWULogsData[7][1] = {
         ["points"] = 7526.77,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1283,
+        ["rank_raids"] = 1284,
         ["kill_count"] = 1,
         ["points"] = 6384.81,
       },
@@ -17132,7 +17132,7 @@ UWULogsData[7][1] = {
         ["points"] = 5945.06,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2359,
+        ["rank_raids"] = 2360,
         ["kill_count"] = 1,
         ["points"] = 4285.01,
       },
@@ -17169,7 +17169,7 @@ UWULogsData[7][1] = {
         ["points"] = 4993.13,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1983,
+        ["rank_raids"] = 1984,
         ["kill_count"] = 3,
         ["points"] = 5201.24,
       },
@@ -17216,7 +17216,7 @@ UWULogsData[7][1] = {
         ["points"] = 7591.01,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1390,
+        ["rank_raids"] = 1391,
         ["kill_count"] = 2,
         ["points"] = 6187.49,
       },
@@ -17253,7 +17253,7 @@ UWULogsData[7][1] = {
         ["points"] = 7376.87,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1248,
+        ["rank_raids"] = 1249,
         ["kill_count"] = 2,
         ["points"] = 6441.9,
       },
@@ -17290,7 +17290,7 @@ UWULogsData[7][1] = {
         ["points"] = 6413.28,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1624,
+        ["rank_raids"] = 1625,
         ["kill_count"] = 1,
         ["points"] = 5826.53,
       },
@@ -17329,7 +17329,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 234,
         ["kill_count"] = 2,
-        ["points"] = 9314.94,
+        ["points"] = 9315.59,
       },
       ["Festergut"] = {
         ["rank_raids"] = 323,
@@ -17354,7 +17354,7 @@ UWULogsData[7][1] = {
         ["points"] = 6177.73,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1286,
+        ["rank_raids"] = 1287,
         ["kill_count"] = 1,
         ["points"] = 6380.93,
       },
@@ -17380,37 +17380,10 @@ UWULogsData[7][1] = {
       },
     },
   },
-  ["Makanix"] = {
-    ["percentile"] = 36.76,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 369,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 85,
-        ["kill_count"] = 4,
-        ["points"] = 9599.43,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 144,
-        ["kill_count"] = 1,
-        ["points"] = 7836.61,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 109,
-        ["kill_count"] = 13,
-        ["points"] = 9571.94,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 94,
-        ["kill_count"] = 3,
-        ["points"] = 9570.44,
-      },
-    },
-  },
   ["Amirel"] = {
     ["percentile"] = 36.76,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 370,
+    ["overall_rank"] = 369,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 550,
@@ -17420,7 +17393,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 881,
         ["kill_count"] = 2,
-        ["points"] = 7497.62,
+        ["points"] = 7500.0,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1263,
@@ -17444,6 +17417,33 @@ UWULogsData[7][1] = {
       },
     },
   },
+  ["Makanix"] = {
+    ["percentile"] = 36.76,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 370,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 85,
+        ["kill_count"] = 4,
+        ["points"] = 9599.43,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 144,
+        ["kill_count"] = 1,
+        ["points"] = 7836.61,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 109,
+        ["kill_count"] = 13,
+        ["points"] = 9572.11,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 94,
+        ["kill_count"] = 3,
+        ["points"] = 9570.44,
+      },
+    },
+  },
   ["Dvae"] = {
     ["percentile"] = 36.68,
     ["server"] = "Icecrown",
@@ -17455,7 +17455,7 @@ UWULogsData[7][1] = {
         ["points"] = 7644.54,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1314,
+        ["rank_raids"] = 1315,
         ["kill_count"] = 2,
         ["points"] = 6342.5,
       },
@@ -17497,7 +17497,7 @@ UWULogsData[7][1] = {
         ["points"] = 2794.48,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2303,
+        ["rank_raids"] = 2304,
         ["kill_count"] = 2,
         ["points"] = 4488.78,
       },
@@ -17532,7 +17532,7 @@ UWULogsData[7][1] = {
         ["points"] = 2667.44,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 444,
+        ["rank_raids"] = 445,
         ["kill_count"] = 2,
         ["points"] = 4186.13,
       },
@@ -17549,7 +17549,7 @@ UWULogsData[7][1] = {
         ["points"] = 5571.06,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1232,
+        ["rank_raids"] = 1233,
         ["kill_count"] = 1,
         ["points"] = 6469.07,
       },
@@ -17586,7 +17586,7 @@ UWULogsData[7][1] = {
         ["points"] = 6937.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2089,
+        ["rank_raids"] = 2090,
         ["kill_count"] = 1,
         ["points"] = 5001.83,
       },
@@ -17630,7 +17630,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1048,
         ["kill_count"] = 1,
-        ["points"] = 6774.5,
+        ["points"] = 6777.57,
       },
       ["Festergut"] = {
         ["rank_raids"] = 581,
@@ -17704,7 +17704,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 917,
         ["kill_count"] = 1,
-        ["points"] = 7297.81,
+        ["points"] = 7300.38,
       },
       ["Rotface"] = {
         ["rank_raids"] = 683,
@@ -17734,7 +17734,7 @@ UWULogsData[7][1] = {
         ["points"] = 5435.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1486,
+        ["rank_raids"] = 1487,
         ["kill_count"] = 3,
         ["points"] = 6043.48,
       },
@@ -17771,7 +17771,7 @@ UWULogsData[7][1] = {
         ["points"] = 5918.16,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1397,
+        ["rank_raids"] = 1398,
         ["kill_count"] = 7,
         ["points"] = 6178.76,
       },
@@ -17813,7 +17813,7 @@ UWULogsData[7][1] = {
         ["points"] = 5581.38,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1948,
+        ["rank_raids"] = 1949,
         ["kill_count"] = 2,
         ["points"] = 5272.05,
       },
@@ -17855,7 +17855,7 @@ UWULogsData[7][1] = {
         ["points"] = 5927.38,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1364,
+        ["rank_raids"] = 1365,
         ["kill_count"] = 6,
         ["points"] = 6222.37,
       },
@@ -17882,7 +17882,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Dbulla"] = {
-    ["percentile"] = 36.12,
+    ["percentile"] = 36.13,
     ["server"] = "Icecrown",
     ["overall_rank"] = 382,
     ["bosses"] = {
@@ -17894,7 +17894,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1037,
         ["kill_count"] = 2,
-        ["points"] = 6822.07,
+        ["points"] = 6825.1,
       },
       ["Festergut"] = {
         ["rank_raids"] = 995,
@@ -17914,7 +17914,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Minjjo"] = {
-    ["percentile"] = 36.1,
+    ["percentile"] = 36.11,
     ["server"] = "Icecrown",
     ["overall_rank"] = 383,
     ["bosses"] = {
@@ -17931,7 +17931,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 714,
         ["kill_count"] = 3,
-        ["points"] = 8068.51,
+        ["points"] = 8070.34,
       },
       ["Festergut"] = {
         ["rank_raids"] = 867,
@@ -17956,7 +17956,7 @@ UWULogsData[7][1] = {
         ["points"] = 5766.28,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1430,
+        ["rank_raids"] = 1431,
         ["kill_count"] = 2,
         ["points"] = 6132.48,
       },
@@ -17998,7 +17998,7 @@ UWULogsData[7][1] = {
         ["points"] = 3259.53,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1663,
+        ["rank_raids"] = 1664,
         ["kill_count"] = 1,
         ["points"] = 5779.21,
       },
@@ -18040,7 +18040,7 @@ UWULogsData[7][1] = {
         ["points"] = 5936.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1640,
+        ["rank_raids"] = 1641,
         ["kill_count"] = 1,
         ["points"] = 5805.87,
       },
@@ -18114,7 +18114,7 @@ UWULogsData[7][1] = {
         ["points"] = 6573.88,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2409,
+        ["rank_raids"] = 2410,
         ["kill_count"] = 1,
         ["points"] = 4008.69,
       },
@@ -18153,7 +18153,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1016,
         ["kill_count"] = 1,
-        ["points"] = 6879.16,
+        ["points"] = 6882.13,
       },
       ["Festergut"] = {
         ["rank_raids"] = 335,
@@ -18188,7 +18188,7 @@ UWULogsData[7][1] = {
         ["points"] = 7034.26,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1585,
+        ["rank_raids"] = 1586,
         ["kill_count"] = 3,
         ["points"] = 5896.43,
       },
@@ -18225,7 +18225,7 @@ UWULogsData[7][1] = {
         ["points"] = 5358.66,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1623,
+        ["rank_raids"] = 1624,
         ["kill_count"] = 2,
         ["points"] = 5828.12,
       },
@@ -18262,7 +18262,7 @@ UWULogsData[7][1] = {
         ["points"] = 5773.51,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1691,
+        ["rank_raids"] = 1692,
         ["kill_count"] = 3,
         ["points"] = 5725.59,
       },
@@ -18343,7 +18343,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 755,
         ["kill_count"] = 1,
-        ["points"] = 7935.3,
+        ["points"] = 7937.26,
       },
       ["Festergut"] = {
         ["rank_raids"] = 537,
@@ -18368,7 +18368,7 @@ UWULogsData[7][1] = {
         ["points"] = 6456.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1216,
+        ["rank_raids"] = 1217,
         ["kill_count"] = 2,
         ["points"] = 6497.7,
       },
@@ -18405,7 +18405,7 @@ UWULogsData[7][1] = {
         ["points"] = 5682.01,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1399,
+        ["rank_raids"] = 1400,
         ["kill_count"] = 2,
         ["points"] = 6175.12,
       },
@@ -18432,7 +18432,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Lucianee"] = {
-    ["percentile"] = 35.32,
+    ["percentile"] = 35.33,
     ["server"] = "Icecrown",
     ["overall_rank"] = 397,
     ["bosses"] = {
@@ -18444,7 +18444,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 911,
         ["kill_count"] = 1,
-        ["points"] = 7326.36,
+        ["points"] = 7328.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 678,
@@ -18479,7 +18479,7 @@ UWULogsData[7][1] = {
         ["points"] = 4700.91,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1600,
+        ["rank_raids"] = 1601,
         ["kill_count"] = 2,
         ["points"] = 5870.61,
       },
@@ -18521,7 +18521,7 @@ UWULogsData[7][1] = {
         ["points"] = 6606.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1922,
+        ["rank_raids"] = 1923,
         ["kill_count"] = 6,
         ["points"] = 5325.66,
       },
@@ -18560,7 +18560,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 661,
         ["kill_count"] = 1,
-        ["points"] = 8258.8,
+        ["points"] = 8260.46,
       },
       ["Festergut"] = {
         ["rank_raids"] = 369,
@@ -18587,7 +18587,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 978,
         ["kill_count"] = 3,
-        ["points"] = 7021.88,
+        ["points"] = 7024.71,
       },
       ["Festergut"] = {
         ["rank_raids"] = 691,
@@ -18619,7 +18619,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 86,
         ["kill_count"] = 1,
-        ["points"] = 9663.1,
+        ["points"] = 9663.23,
       },
       ["Festergut"] = {
         ["rank_raids"] = 489,
@@ -18641,7 +18641,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 28,
         ["kill_count"] = 1,
-        ["points"] = 9892.98,
+        ["points"] = 9893.03,
       },
       ["Festergut"] = {
         ["rank_raids"] = 243,
@@ -18708,7 +18708,7 @@ UWULogsData[7][1] = {
         ["points"] = 5585.23,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1834,
+        ["rank_raids"] = 1835,
         ["kill_count"] = 6,
         ["points"] = 5473.64,
       },
@@ -18745,7 +18745,7 @@ UWULogsData[7][1] = {
         ["points"] = 5849.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1304,
+        ["rank_raids"] = 1305,
         ["kill_count"] = 1,
         ["points"] = 6353.6,
       },
@@ -18782,7 +18782,7 @@ UWULogsData[7][1] = {
         ["points"] = 5882.93,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1662,
+        ["rank_raids"] = 1663,
         ["kill_count"] = 2,
         ["points"] = 5779.69,
       },
@@ -18821,7 +18821,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 846,
         ["kill_count"] = 1,
-        ["points"] = 7659.37,
+        ["points"] = 7661.6,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1023,
@@ -18856,7 +18856,7 @@ UWULogsData[7][1] = {
         ["points"] = 5780.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1215,
+        ["rank_raids"] = 1216,
         ["kill_count"] = 1,
         ["points"] = 6498.31,
       },
@@ -18898,7 +18898,7 @@ UWULogsData[7][1] = {
         ["points"] = 4549.59,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2008,
+        ["rank_raids"] = 2009,
         ["kill_count"] = 3,
         ["points"] = 5154.3,
       },
@@ -18945,7 +18945,7 @@ UWULogsData[7][1] = {
         ["points"] = 3762.72,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1978,
+        ["rank_raids"] = 1979,
         ["kill_count"] = 3,
         ["points"] = 5211.15,
       },
@@ -19029,7 +19029,7 @@ UWULogsData[7][1] = {
         ["points"] = 5272.59,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1657,
+        ["rank_raids"] = 1658,
         ["kill_count"] = 1,
         ["points"] = 5782.63,
       },
@@ -19071,7 +19071,7 @@ UWULogsData[7][1] = {
         ["points"] = 4131.94,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2309,
+        ["rank_raids"] = 2310,
         ["kill_count"] = 1,
         ["points"] = 4481.11,
       },
@@ -19123,7 +19123,7 @@ UWULogsData[7][1] = {
         ["points"] = 1967.36,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2279,
+        ["rank_raids"] = 2280,
         ["kill_count"] = 2,
         ["points"] = 4593.73,
       },
@@ -19158,7 +19158,7 @@ UWULogsData[7][1] = {
         ["points"] = 3551.09,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 436,
+        ["rank_raids"] = 437,
         ["kill_count"] = 1,
         ["points"] = 4670.08,
       },
@@ -19175,7 +19175,7 @@ UWULogsData[7][1] = {
         ["points"] = 5889.04,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1887,
+        ["rank_raids"] = 1888,
         ["kill_count"] = 1,
         ["points"] = 5402.24,
       },
@@ -19212,7 +19212,7 @@ UWULogsData[7][1] = {
         ["points"] = 6284.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1603,
+        ["rank_raids"] = 1604,
         ["kill_count"] = 10,
         ["points"] = 5861.97,
       },
@@ -19256,7 +19256,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 888,
         ["kill_count"] = 6,
-        ["points"] = 7450.05,
+        ["points"] = 7452.47,
       },
       ["Festergut"] = {
         ["rank_raids"] = 435,
@@ -19281,7 +19281,7 @@ UWULogsData[7][1] = {
         ["points"] = 6241.97,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1445,
+        ["rank_raids"] = 1446,
         ["kill_count"] = 5,
         ["points"] = 6110.68,
       },
@@ -19323,7 +19323,7 @@ UWULogsData[7][1] = {
         ["points"] = 2839.66,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1883,
+        ["rank_raids"] = 1884,
         ["kill_count"] = 1,
         ["points"] = 5405.26,
       },
@@ -19370,7 +19370,7 @@ UWULogsData[7][1] = {
         ["points"] = 5140.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1335,
+        ["rank_raids"] = 1336,
         ["kill_count"] = 2,
         ["points"] = 6296.46,
       },
@@ -19444,7 +19444,7 @@ UWULogsData[7][1] = {
         ["points"] = 5681.93,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1340,
+        ["rank_raids"] = 1341,
         ["kill_count"] = 1,
         ["points"] = 6291.46,
       },
@@ -19481,7 +19481,7 @@ UWULogsData[7][1] = {
         ["points"] = 5156.77,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1796,
+        ["rank_raids"] = 1797,
         ["kill_count"] = 1,
         ["points"] = 5547.21,
       },
@@ -19520,7 +19520,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 991,
         ["kill_count"] = 1,
-        ["points"] = 6993.34,
+        ["points"] = 6996.2,
       },
       ["Festergut"] = {
         ["rank_raids"] = 534,
@@ -19555,7 +19555,7 @@ UWULogsData[7][1] = {
         ["points"] = 5717.32,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1636,
+        ["rank_raids"] = 1637,
         ["kill_count"] = 2,
         ["points"] = 5810.26,
       },
@@ -19592,7 +19592,7 @@ UWULogsData[7][1] = {
         ["points"] = 7152.03,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1527,
+        ["rank_raids"] = 1528,
         ["kill_count"] = 1,
         ["points"] = 5994.5,
       },
@@ -19629,7 +19629,7 @@ UWULogsData[7][1] = {
         ["points"] = 6980.73,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1433,
+        ["rank_raids"] = 1434,
         ["kill_count"] = 2,
         ["points"] = 6130.09,
       },
@@ -19666,7 +19666,7 @@ UWULogsData[7][1] = {
         ["points"] = 6252.68,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1345,
+        ["rank_raids"] = 1346,
         ["kill_count"] = 1,
         ["points"] = 6276.44,
       },
@@ -19708,7 +19708,7 @@ UWULogsData[7][1] = {
         ["points"] = 3731.58,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2308,
+        ["rank_raids"] = 2309,
         ["kill_count"] = 1,
         ["points"] = 4482.71,
       },
@@ -19743,7 +19743,7 @@ UWULogsData[7][1] = {
         ["points"] = 1480.16,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 461,
+        ["rank_raids"] = 462,
         ["kill_count"] = 1,
         ["points"] = 3417.74,
       },
@@ -19760,7 +19760,7 @@ UWULogsData[7][1] = {
         ["points"] = 6734.48,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1307,
+        ["rank_raids"] = 1308,
         ["kill_count"] = 1,
         ["points"] = 6350.87,
       },
@@ -19804,7 +19804,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 451,
         ["kill_count"] = 2,
-        ["points"] = 8810.66,
+        ["points"] = 8811.79,
       },
       ["Festergut"] = {
         ["rank_raids"] = 47,
@@ -19834,7 +19834,7 @@ UWULogsData[7][1] = {
         ["points"] = 5833.67,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1492,
+        ["rank_raids"] = 1493,
         ["kill_count"] = 2,
         ["points"] = 6038.96,
       },
@@ -19903,7 +19903,7 @@ UWULogsData[7][1] = {
         ["points"] = 5927.23,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1470,
+        ["rank_raids"] = 1471,
         ["kill_count"] = 1,
         ["points"] = 6073.12,
       },
@@ -19935,7 +19935,7 @@ UWULogsData[7][1] = {
         ["points"] = 6905.78,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1776,
+        ["rank_raids"] = 1777,
         ["kill_count"] = 1,
         ["points"] = 5584.01,
       },
@@ -19969,7 +19969,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 275,
         ["kill_count"] = 1,
-        ["points"] = 9191.25,
+        ["points"] = 9192.02,
       },
       ["Festergut"] = {
         ["rank_raids"] = 331,
@@ -19999,7 +19999,7 @@ UWULogsData[7][1] = {
         ["points"] = 4641.93,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1533,
+        ["rank_raids"] = 1534,
         ["kill_count"] = 1,
         ["points"] = 5983.19,
       },
@@ -20036,7 +20036,7 @@ UWULogsData[7][1] = {
         ["points"] = 5159.36,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1875,
+        ["rank_raids"] = 1876,
         ["kill_count"] = 2,
         ["points"] = 5414.46,
       },
@@ -20078,7 +20078,7 @@ UWULogsData[7][1] = {
         ["points"] = 5166.03,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1279,
+        ["rank_raids"] = 1280,
         ["kill_count"] = 1,
         ["points"] = 6399.59,
       },
@@ -20115,7 +20115,7 @@ UWULogsData[7][1] = {
         ["points"] = 5648.27,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1395,
+        ["rank_raids"] = 1396,
         ["kill_count"] = 2,
         ["points"] = 6182.42,
       },
@@ -20189,7 +20189,7 @@ UWULogsData[7][1] = {
         ["points"] = 5396.19,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1368,
+        ["rank_raids"] = 1369,
         ["kill_count"] = 1,
         ["points"] = 6215.88,
       },
@@ -20226,7 +20226,7 @@ UWULogsData[7][1] = {
         ["points"] = 4893.09,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1712,
+        ["rank_raids"] = 1713,
         ["kill_count"] = 2,
         ["points"] = 5689.13,
       },
@@ -20273,7 +20273,7 @@ UWULogsData[7][1] = {
         ["points"] = 5862.89,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1443,
+        ["rank_raids"] = 1444,
         ["kill_count"] = 1,
         ["points"] = 6113.3,
       },
@@ -20305,7 +20305,7 @@ UWULogsData[7][1] = {
         ["points"] = 6027.84,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1572,
+        ["rank_raids"] = 1573,
         ["kill_count"] = 1,
         ["points"] = 5922.13,
       },
@@ -20342,7 +20342,7 @@ UWULogsData[7][1] = {
         ["points"] = 6841.54,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2167,
+        ["rank_raids"] = 2168,
         ["kill_count"] = 1,
         ["points"] = 4831.81,
       },
@@ -20384,7 +20384,7 @@ UWULogsData[7][1] = {
         ["points"] = 5346.56,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1670,
+        ["rank_raids"] = 1671,
         ["kill_count"] = 1,
         ["points"] = 5763.31,
       },
@@ -20453,7 +20453,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 450,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1525,
+        ["rank_raids"] = 1526,
         ["kill_count"] = 1,
         ["points"] = 5999.09,
       },
@@ -20490,7 +20490,7 @@ UWULogsData[7][1] = {
         ["points"] = 5791.43,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1750,
+        ["rank_raids"] = 1751,
         ["kill_count"] = 6,
         ["points"] = 5625.2,
       },
@@ -20537,7 +20537,7 @@ UWULogsData[7][1] = {
         ["points"] = 3299.84,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2244,
+        ["rank_raids"] = 2245,
         ["kill_count"] = 1,
         ["points"] = 4681.87,
       },
@@ -20579,7 +20579,7 @@ UWULogsData[7][1] = {
         ["points"] = 5450.27,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1742,
+        ["rank_raids"] = 1743,
         ["kill_count"] = 3,
         ["points"] = 5643.65,
       },
@@ -20616,7 +20616,7 @@ UWULogsData[7][1] = {
         ["points"] = 5085.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1763,
+        ["rank_raids"] = 1764,
         ["kill_count"] = 1,
         ["points"] = 5606.96,
       },
@@ -20690,7 +20690,7 @@ UWULogsData[7][1] = {
         ["points"] = 5595.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1422,
+        ["rank_raids"] = 1423,
         ["kill_count"] = 1,
         ["points"] = 6140.76,
       },
@@ -20727,7 +20727,7 @@ UWULogsData[7][1] = {
         ["points"] = 2956.07,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1655,
+        ["rank_raids"] = 1656,
         ["kill_count"] = 1,
         ["points"] = 5784.8,
       },
@@ -20764,7 +20764,7 @@ UWULogsData[7][1] = {
         ["points"] = 5556.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1483,
+        ["rank_raids"] = 1484,
         ["kill_count"] = 1,
         ["points"] = 6048.54,
       },
@@ -20840,7 +20840,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 783,
         ["kill_count"] = 1,
-        ["points"] = 7811.61,
+        ["points"] = 7813.69,
       },
       ["Festergut"] = {
         ["rank_raids"] = 296,
@@ -20865,7 +20865,7 @@ UWULogsData[7][1] = {
         ["points"] = 6702.36,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1220,
+        ["rank_raids"] = 1221,
         ["kill_count"] = 1,
         ["points"] = 6495.73,
       },
@@ -20897,7 +20897,7 @@ UWULogsData[7][1] = {
         ["points"] = 4870.31,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2073,
+        ["rank_raids"] = 2074,
         ["kill_count"] = 1,
         ["points"] = 5030.65,
       },
@@ -20934,7 +20934,7 @@ UWULogsData[7][1] = {
         ["points"] = 5057.83,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1339,
+        ["rank_raids"] = 1340,
         ["kill_count"] = 2,
         ["points"] = 6293.0,
       },
@@ -21003,7 +21003,7 @@ UWULogsData[7][1] = {
         ["points"] = 5006.39,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1502,
+        ["rank_raids"] = 1503,
         ["kill_count"] = 4,
         ["points"] = 6030.1,
       },
@@ -21040,7 +21040,7 @@ UWULogsData[7][1] = {
         ["points"] = 5555.43,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1362,
+        ["rank_raids"] = 1363,
         ["kill_count"] = 4,
         ["points"] = 6231.69,
       },
@@ -21077,7 +21077,7 @@ UWULogsData[7][1] = {
         ["points"] = 5460.87,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1315,
+        ["rank_raids"] = 1316,
         ["kill_count"] = 1,
         ["points"] = 6341.37,
       },
@@ -21114,7 +21114,7 @@ UWULogsData[7][1] = {
         ["points"] = 8683.08,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1363,
+        ["rank_raids"] = 1364,
         ["kill_count"] = 1,
         ["points"] = 6225.59,
       },
@@ -21146,7 +21146,7 @@ UWULogsData[7][1] = {
         ["points"] = 7516.06,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1415,
+        ["rank_raids"] = 1416,
         ["kill_count"] = 1,
         ["points"] = 6148.84,
       },
@@ -21178,7 +21178,7 @@ UWULogsData[7][1] = {
         ["points"] = 5482.05,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1639,
+        ["rank_raids"] = 1640,
         ["kill_count"] = 1,
         ["points"] = 5806.96,
       },
@@ -21215,7 +21215,7 @@ UWULogsData[7][1] = {
         ["points"] = 4841.01,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1859,
+        ["rank_raids"] = 1860,
         ["kill_count"] = 1,
         ["points"] = 5440.01,
       },
@@ -21257,7 +21257,7 @@ UWULogsData[7][1] = {
         ["points"] = 5955.07,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1687,
+        ["rank_raids"] = 1688,
         ["kill_count"] = 1,
         ["points"] = 5732.43,
       },
@@ -21294,7 +21294,7 @@ UWULogsData[7][1] = {
         ["points"] = 5910.87,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1671,
+        ["rank_raids"] = 1672,
         ["kill_count"] = 3,
         ["points"] = 5762.59,
       },
@@ -21331,7 +21331,7 @@ UWULogsData[7][1] = {
         ["points"] = 4837.63,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2087,
+        ["rank_raids"] = 2088,
         ["kill_count"] = 1,
         ["points"] = 5003.88,
       },
@@ -21373,7 +21373,7 @@ UWULogsData[7][1] = {
         ["points"] = 4969.74,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1610,
+        ["rank_raids"] = 1611,
         ["kill_count"] = 1,
         ["points"] = 5849.99,
       },
@@ -21410,7 +21410,7 @@ UWULogsData[7][1] = {
         ["points"] = 5212.06,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1979,
+        ["rank_raids"] = 1980,
         ["kill_count"] = 1,
         ["points"] = 5210.0,
       },
@@ -21447,7 +21447,7 @@ UWULogsData[7][1] = {
         ["points"] = 7537.47,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1722,
+        ["rank_raids"] = 1723,
         ["kill_count"] = 1,
         ["points"] = 5666.93,
       },
@@ -21484,7 +21484,7 @@ UWULogsData[7][1] = {
         ["points"] = 4647.64,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1646,
+        ["rank_raids"] = 1647,
         ["kill_count"] = 4,
         ["points"] = 5802.41,
       },
@@ -21526,7 +21526,7 @@ UWULogsData[7][1] = {
         ["points"] = 4421.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2317,
+        ["rank_raids"] = 2318,
         ["kill_count"] = 2,
         ["points"] = 4455.31,
       },
@@ -21568,7 +21568,7 @@ UWULogsData[7][1] = {
         ["points"] = 3978.06,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1373,
+        ["rank_raids"] = 1374,
         ["kill_count"] = 1,
         ["points"] = 6210.82,
       },
@@ -21637,7 +21637,7 @@ UWULogsData[7][1] = {
         ["points"] = 5044.11,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1937,
+        ["rank_raids"] = 1938,
         ["kill_count"] = 2,
         ["points"] = 5287.6,
       },
@@ -21674,7 +21674,7 @@ UWULogsData[7][1] = {
         ["points"] = 5558.75,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1963,
+        ["rank_raids"] = 1964,
         ["kill_count"] = 1,
         ["points"] = 5235.48,
       },
@@ -21711,7 +21711,7 @@ UWULogsData[7][1] = {
         ["points"] = 4616.86,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1568,
+        ["rank_raids"] = 1569,
         ["kill_count"] = 2,
         ["points"] = 5927.99,
       },
@@ -21748,7 +21748,7 @@ UWULogsData[7][1] = {
         ["points"] = 4722.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2025,
+        ["rank_raids"] = 2026,
         ["kill_count"] = 3,
         ["points"] = 5112.45,
       },
@@ -21790,7 +21790,7 @@ UWULogsData[7][1] = {
         ["points"] = 5159.01,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1756,
+        ["rank_raids"] = 1757,
         ["kill_count"] = 1,
         ["points"] = 5615.77,
       },
@@ -21827,7 +21827,7 @@ UWULogsData[7][1] = {
         ["points"] = 5466.63,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1421,
+        ["rank_raids"] = 1422,
         ["kill_count"] = 3,
         ["points"] = 6141.43,
       },
@@ -21864,7 +21864,7 @@ UWULogsData[7][1] = {
         ["points"] = 4549.58,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1793,
+        ["rank_raids"] = 1794,
         ["kill_count"] = 4,
         ["points"] = 5551.81,
       },
@@ -21901,7 +21901,7 @@ UWULogsData[7][1] = {
         ["points"] = 5165.72,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1669,
+        ["rank_raids"] = 1670,
         ["kill_count"] = 2,
         ["points"] = 5765.12,
       },
@@ -21938,7 +21938,7 @@ UWULogsData[7][1] = {
         ["points"] = 5640.39,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1534,
+        ["rank_raids"] = 1535,
         ["kill_count"] = 2,
         ["points"] = 5979.37,
       },
@@ -21975,7 +21975,7 @@ UWULogsData[7][1] = {
         ["points"] = 5765.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1434,
+        ["rank_raids"] = 1435,
         ["kill_count"] = 1,
         ["points"] = 6127.0,
       },
@@ -22009,7 +22009,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 670,
         ["kill_count"] = 2,
-        ["points"] = 8239.77,
+        ["points"] = 8241.44,
       },
       ["Festergut"] = {
         ["rank_raids"] = 202,
@@ -22022,7 +22022,7 @@ UWULogsData[7][1] = {
         ["points"] = 8936.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 439,
+        ["rank_raids"] = 440,
         ["kill_count"] = 1,
         ["points"] = 4475.46,
       },
@@ -22039,7 +22039,7 @@ UWULogsData[7][1] = {
         ["points"] = 5531.64,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1487,
+        ["rank_raids"] = 1488,
         ["kill_count"] = 2,
         ["points"] = 6042.21,
       },
@@ -22066,7 +22066,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Shambulator"] = {
-    ["percentile"] = 30.94,
+    ["percentile"] = 30.95,
     ["server"] = "Icecrown",
     ["overall_rank"] = 494,
     ["bosses"] = {
@@ -22083,7 +22083,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1028,
         ["kill_count"] = 1,
-        ["points"] = 6841.1,
+        ["points"] = 6844.11,
       },
       ["Festergut"] = {
         ["rank_raids"] = 801,
@@ -22091,7 +22091,7 @@ UWULogsData[7][1] = {
         ["points"] = 6855.94,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 293,
+        ["rank_raids"] = 294,
         ["kill_count"] = 1,
         ["points"] = 6898.24,
       },
@@ -22110,7 +22110,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 366,
         ["kill_count"] = 1,
-        ["points"] = 9058.04,
+        ["points"] = 9058.94,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1005,
@@ -22135,7 +22135,7 @@ UWULogsData[7][1] = {
         ["points"] = 5708.48,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1910,
+        ["rank_raids"] = 1911,
         ["kill_count"] = 5,
         ["points"] = 5350.81,
       },
@@ -22172,7 +22172,7 @@ UWULogsData[7][1] = {
         ["points"] = 5865.92,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1626,
+        ["rank_raids"] = 1627,
         ["kill_count"] = 1,
         ["points"] = 5824.21,
       },
@@ -22209,7 +22209,7 @@ UWULogsData[7][1] = {
         ["points"] = 6509.64,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1653,
+        ["rank_raids"] = 1654,
         ["kill_count"] = 3,
         ["points"] = 5789.7,
       },
@@ -22246,7 +22246,7 @@ UWULogsData[7][1] = {
         ["points"] = 5723.12,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1544,
+        ["rank_raids"] = 1545,
         ["kill_count"] = 1,
         ["points"] = 5953.81,
       },
@@ -22288,7 +22288,7 @@ UWULogsData[7][1] = {
         ["points"] = 3814.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1323,
+        ["rank_raids"] = 1324,
         ["kill_count"] = 2,
         ["points"] = 6317.42,
       },
@@ -22330,7 +22330,7 @@ UWULogsData[7][1] = {
         ["points"] = 5655.94,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1749,
+        ["rank_raids"] = 1750,
         ["kill_count"] = 1,
         ["points"] = 5628.72,
       },
@@ -22367,7 +22367,7 @@ UWULogsData[7][1] = {
         ["points"] = 4986.72,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1491,
+        ["rank_raids"] = 1492,
         ["kill_count"] = 1,
         ["points"] = 6039.39,
       },
@@ -22404,7 +22404,7 @@ UWULogsData[7][1] = {
         ["points"] = 5117.95,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1682,
+        ["rank_raids"] = 1683,
         ["kill_count"] = 1,
         ["points"] = 5740.53,
       },
@@ -22441,7 +22441,7 @@ UWULogsData[7][1] = {
         ["points"] = 4881.85,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1977,
+        ["rank_raids"] = 1978,
         ["kill_count"] = 2,
         ["points"] = 5211.78,
       },
@@ -22478,7 +22478,7 @@ UWULogsData[7][1] = {
         ["points"] = 5650.15,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1923,
+        ["rank_raids"] = 1924,
         ["kill_count"] = 3,
         ["points"] = 5325.31,
       },
@@ -22515,7 +22515,7 @@ UWULogsData[7][1] = {
         ["points"] = 5211.31,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1777,
+        ["rank_raids"] = 1778,
         ["kill_count"] = 1,
         ["points"] = 5583.44,
       },
@@ -22552,7 +22552,7 @@ UWULogsData[7][1] = {
         ["points"] = 5898.97,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1858,
+        ["rank_raids"] = 1859,
         ["kill_count"] = 4,
         ["points"] = 5441.77,
       },
@@ -22589,7 +22589,7 @@ UWULogsData[7][1] = {
         ["points"] = 5551.99,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1897,
+        ["rank_raids"] = 1898,
         ["kill_count"] = 1,
         ["points"] = 5389.26,
       },
@@ -22626,7 +22626,7 @@ UWULogsData[7][1] = {
         ["points"] = 5029.46,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1932,
+        ["rank_raids"] = 1933,
         ["kill_count"] = 1,
         ["points"] = 5295.6,
       },
@@ -22663,7 +22663,7 @@ UWULogsData[7][1] = {
         ["points"] = 5350.95,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1934,
+        ["rank_raids"] = 1935,
         ["kill_count"] = 1,
         ["points"] = 5291.34,
       },
@@ -22702,7 +22702,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 971,
         ["kill_count"] = 8,
-        ["points"] = 7059.94,
+        ["points"] = 7062.74,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1193,
@@ -22734,7 +22734,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 916,
         ["kill_count"] = 1,
-        ["points"] = 7307.33,
+        ["points"] = 7309.89,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1487,
@@ -22769,7 +22769,7 @@ UWULogsData[7][1] = {
         ["points"] = 4573.01,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1300,
+        ["rank_raids"] = 1301,
         ["kill_count"] = 1,
         ["points"] = 6356.39,
       },
@@ -22806,7 +22806,7 @@ UWULogsData[7][1] = {
         ["points"] = 2908.04,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1789,
+        ["rank_raids"] = 1790,
         ["kill_count"] = 1,
         ["points"] = 5564.63,
       },
@@ -22838,7 +22838,7 @@ UWULogsData[7][1] = {
         ["points"] = 4462.64,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1565,
+        ["rank_raids"] = 1566,
         ["kill_count"] = 5,
         ["points"] = 5931.7,
       },
@@ -22880,7 +22880,7 @@ UWULogsData[7][1] = {
         ["points"] = 4325.68,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2051,
+        ["rank_raids"] = 2052,
         ["kill_count"] = 2,
         ["points"] = 5073.84,
       },
@@ -22917,7 +22917,7 @@ UWULogsData[7][1] = {
         ["points"] = 5534.98,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1475,
+        ["rank_raids"] = 1476,
         ["kill_count"] = 2,
         ["points"] = 6064.16,
       },
@@ -22949,7 +22949,7 @@ UWULogsData[7][1] = {
         ["points"] = 5337.51,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1407,
+        ["rank_raids"] = 1408,
         ["kill_count"] = 4,
         ["points"] = 6164.87,
       },
@@ -22986,7 +22986,7 @@ UWULogsData[7][1] = {
         ["points"] = 4990.55,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1917,
+        ["rank_raids"] = 1918,
         ["kill_count"] = 4,
         ["points"] = 5338.26,
       },
@@ -23023,7 +23023,7 @@ UWULogsData[7][1] = {
         ["points"] = 5379.31,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2080,
+        ["rank_raids"] = 2081,
         ["kill_count"] = 1,
         ["points"] = 5015.91,
       },
@@ -23060,7 +23060,7 @@ UWULogsData[7][1] = {
         ["points"] = 5613.26,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1376,
+        ["rank_raids"] = 1377,
         ["kill_count"] = 3,
         ["points"] = 6205.43,
       },
@@ -23102,7 +23102,7 @@ UWULogsData[7][1] = {
         ["points"] = 3559.83,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2206,
+        ["rank_raids"] = 2207,
         ["kill_count"] = 1,
         ["points"] = 4754.43,
       },
@@ -23161,7 +23161,7 @@ UWULogsData[7][1] = {
         ["points"] = 5747.33,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1631,
+        ["rank_raids"] = 1632,
         ["kill_count"] = 5,
         ["points"] = 5814.89,
       },
@@ -23198,7 +23198,7 @@ UWULogsData[7][1] = {
         ["points"] = 6830.84,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2077,
+        ["rank_raids"] = 2078,
         ["kill_count"] = 1,
         ["points"] = 5023.21,
       },
@@ -23235,7 +23235,7 @@ UWULogsData[7][1] = {
         ["points"] = 6349.04,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1881,
+        ["rank_raids"] = 1882,
         ["kill_count"] = 1,
         ["points"] = 5406.97,
       },
@@ -23272,7 +23272,7 @@ UWULogsData[7][1] = {
         ["points"] = 4805.08,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1740,
+        ["rank_raids"] = 1741,
         ["kill_count"] = 2,
         ["points"] = 5647.16,
       },
@@ -23316,7 +23316,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 388,
         ["kill_count"] = 2,
-        ["points"] = 9000.95,
+        ["points"] = 9001.9,
       },
       ["Festergut"] = {
         ["rank_raids"] = 62,
@@ -23333,7 +23333,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 556,
         ["kill_count"] = 8,
-        ["points"] = 8563.27,
+        ["points"] = 8564.64,
       },
       ["Festergut"] = {
         ["rank_raids"] = 718,
@@ -23360,7 +23360,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 31,
         ["kill_count"] = 2,
-        ["points"] = 9881.09,
+        ["points"] = 9881.14,
       },
       ["Festergut"] = {
         ["rank_raids"] = 15,
@@ -23385,7 +23385,7 @@ UWULogsData[7][1] = {
         ["points"] = 5571.02,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1945,
+        ["rank_raids"] = 1946,
         ["kill_count"] = 1,
         ["points"] = 5277.04,
       },
@@ -23422,7 +23422,7 @@ UWULogsData[7][1] = {
         ["points"] = 4837.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1474,
+        ["rank_raids"] = 1475,
         ["kill_count"] = 4,
         ["points"] = 6068.65,
       },
@@ -23459,7 +23459,7 @@ UWULogsData[7][1] = {
         ["points"] = 4304.53,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2014,
+        ["rank_raids"] = 2015,
         ["kill_count"] = 1,
         ["points"] = 5136.94,
       },
@@ -23496,7 +23496,7 @@ UWULogsData[7][1] = {
         ["points"] = 4366.86,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1972,
+        ["rank_raids"] = 1973,
         ["kill_count"] = 1,
         ["points"] = 5214.57,
       },
@@ -23533,7 +23533,7 @@ UWULogsData[7][1] = {
         ["points"] = 5690.64,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1612,
+        ["rank_raids"] = 1613,
         ["kill_count"] = 1,
         ["points"] = 5847.33,
       },
@@ -23565,7 +23565,7 @@ UWULogsData[7][1] = {
         ["points"] = 4952.92,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1775,
+        ["rank_raids"] = 1776,
         ["kill_count"] = 1,
         ["points"] = 5585.35,
       },
@@ -23607,7 +23607,7 @@ UWULogsData[7][1] = {
         ["points"] = 3519.38,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1869,
+        ["rank_raids"] = 1870,
         ["kill_count"] = 1,
         ["points"] = 5423.92,
       },
@@ -23634,14 +23634,14 @@ UWULogsData[7][1] = {
     },
   },
   ["Bulbaism"] = {
-    ["percentile"] = 28.98,
+    ["percentile"] = 28.99,
     ["server"] = "Icecrown",
     ["overall_rank"] = 538,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1043,
         ["kill_count"] = 1,
-        ["points"] = 6803.04,
+        ["points"] = 6806.08,
       },
       ["Festergut"] = {
         ["rank_raids"] = 472,
@@ -23654,7 +23654,7 @@ UWULogsData[7][1] = {
         ["points"] = 6864.04,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 285,
+        ["rank_raids"] = 286,
         ["kill_count"] = 1,
         ["points"] = 6942.67,
       },
@@ -23671,7 +23671,7 @@ UWULogsData[7][1] = {
         ["points"] = 5614.19,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1457,
+        ["rank_raids"] = 1458,
         ["kill_count"] = 1,
         ["points"] = 6099.34,
       },
@@ -23703,7 +23703,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 540,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1330,
+        ["rank_raids"] = 1331,
         ["kill_count"] = 1,
         ["points"] = 6305.67,
       },
@@ -23735,7 +23735,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 541,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1582,
+        ["rank_raids"] = 1583,
         ["kill_count"] = 2,
         ["points"] = 5903.45,
       },
@@ -23772,7 +23772,7 @@ UWULogsData[7][1] = {
         ["points"] = 5257.64,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1721,
+        ["rank_raids"] = 1722,
         ["kill_count"] = 2,
         ["points"] = 5667.93,
       },
@@ -23809,7 +23809,7 @@ UWULogsData[7][1] = {
         ["points"] = 5464.59,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2136,
+        ["rank_raids"] = 2137,
         ["kill_count"] = 2,
         ["points"] = 4915.15,
       },
@@ -23846,7 +23846,7 @@ UWULogsData[7][1] = {
         ["points"] = 5617.79,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1870,
+        ["rank_raids"] = 1871,
         ["kill_count"] = 1,
         ["points"] = 5420.65,
       },
@@ -23878,7 +23878,7 @@ UWULogsData[7][1] = {
         ["points"] = 5805.92,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1844,
+        ["rank_raids"] = 1845,
         ["kill_count"] = 3,
         ["points"] = 5461.93,
       },
@@ -23915,7 +23915,7 @@ UWULogsData[7][1] = {
         ["points"] = 4443.49,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1369,
+        ["rank_raids"] = 1370,
         ["kill_count"] = 1,
         ["points"] = 6214.0,
       },
@@ -23947,7 +23947,7 @@ UWULogsData[7][1] = {
         ["points"] = 5023.03,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1695,
+        ["rank_raids"] = 1696,
         ["kill_count"] = 1,
         ["points"] = 5718.24,
       },
@@ -24006,7 +24006,7 @@ UWULogsData[7][1] = {
         ["points"] = 5317.68,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1962,
+        ["rank_raids"] = 1963,
         ["kill_count"] = 1,
         ["points"] = 5236.96,
       },
@@ -24048,7 +24048,7 @@ UWULogsData[7][1] = {
         ["points"] = 3842.85,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2388,
+        ["rank_raids"] = 2389,
         ["kill_count"] = 1,
         ["points"] = 4156.11,
       },
@@ -24083,7 +24083,7 @@ UWULogsData[7][1] = {
         ["points"] = 3624.82,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 482,
+        ["rank_raids"] = 483,
         ["kill_count"] = 1,
         ["points"] = 768.09,
       },
@@ -24102,7 +24102,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 753,
         ["kill_count"] = 1,
-        ["points"] = 7944.81,
+        ["points"] = 7946.77,
       },
       ["Festergut"] = {
         ["rank_raids"] = 525,
@@ -24124,7 +24124,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 272,
         ["kill_count"] = 10,
-        ["points"] = 9200.76,
+        ["points"] = 9201.52,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1991,
@@ -24154,7 +24154,7 @@ UWULogsData[7][1] = {
         ["points"] = 5967.72,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1466,
+        ["rank_raids"] = 1467,
         ["kill_count"] = 3,
         ["points"] = 6079.01,
       },
@@ -24186,7 +24186,7 @@ UWULogsData[7][1] = {
         ["points"] = 5473.92,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2093,
+        ["rank_raids"] = 2094,
         ["kill_count"] = 1,
         ["points"] = 4995.62,
       },
@@ -24223,7 +24223,7 @@ UWULogsData[7][1] = {
         ["points"] = 4269.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2021,
+        ["rank_raids"] = 2022,
         ["kill_count"] = 3,
         ["points"] = 5122.18,
       },
@@ -24260,7 +24260,7 @@ UWULogsData[7][1] = {
         ["points"] = 4051.51,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2123,
+        ["rank_raids"] = 2124,
         ["kill_count"] = 2,
         ["points"] = 4942.61,
       },
@@ -24297,7 +24297,7 @@ UWULogsData[7][1] = {
         ["points"] = 5582.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2149,
+        ["rank_raids"] = 2150,
         ["kill_count"] = 2,
         ["points"] = 4887.64,
       },
@@ -24334,7 +24334,7 @@ UWULogsData[7][1] = {
         ["points"] = 6038.54,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1753,
+        ["rank_raids"] = 1754,
         ["kill_count"] = 1,
         ["points"] = 5621.83,
       },
@@ -24366,7 +24366,7 @@ UWULogsData[7][1] = {
         ["points"] = 4998.05,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1751,
+        ["rank_raids"] = 1752,
         ["kill_count"] = 1,
         ["points"] = 5623.08,
       },
@@ -24398,7 +24398,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 560,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1488,
+        ["rank_raids"] = 1489,
         ["kill_count"] = 1,
         ["points"] = 6041.79,
       },
@@ -24430,7 +24430,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 561,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1462,
+        ["rank_raids"] = 1463,
         ["kill_count"] = 3,
         ["points"] = 6088.22,
       },
@@ -24462,7 +24462,7 @@ UWULogsData[7][1] = {
         ["points"] = 4310.73,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1411,
+        ["rank_raids"] = 1412,
         ["kill_count"] = 1,
         ["points"] = 6159.06,
       },
@@ -24499,7 +24499,7 @@ UWULogsData[7][1] = {
         ["points"] = 5170.48,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2140,
+        ["rank_raids"] = 2141,
         ["kill_count"] = 1,
         ["points"] = 4903.05,
       },
@@ -24526,7 +24526,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Onlybl"] = {
-    ["percentile"] = 28.06,
+    ["percentile"] = 28.07,
     ["server"] = "Icecrown",
     ["overall_rank"] = 564,
     ["bosses"] = {
@@ -24538,7 +24538,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 335,
         ["kill_count"] = 1,
-        ["points"] = 9105.61,
+        ["points"] = 9106.46,
       },
       ["Festergut"] = {
         ["rank_raids"] = 38,
@@ -24558,7 +24558,7 @@ UWULogsData[7][1] = {
         ["points"] = 5930.25,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1799,
+        ["rank_raids"] = 1800,
         ["kill_count"] = 2,
         ["points"] = 5541.58,
       },
@@ -24595,7 +24595,7 @@ UWULogsData[7][1] = {
         ["points"] = 6488.22,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1539,
+        ["rank_raids"] = 1540,
         ["kill_count"] = 1,
         ["points"] = 5964.92,
       },
@@ -24632,7 +24632,7 @@ UWULogsData[7][1] = {
         ["points"] = 4984.43,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1828,
+        ["rank_raids"] = 1829,
         ["kill_count"] = 2,
         ["points"] = 5485.25,
       },
@@ -24696,7 +24696,7 @@ UWULogsData[7][1] = {
         ["points"] = 4222.95,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1479,
+        ["rank_raids"] = 1480,
         ["kill_count"] = 1,
         ["points"] = 6054.07,
       },
@@ -24733,7 +24733,7 @@ UWULogsData[7][1] = {
         ["points"] = 5625.41,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1403,
+        ["rank_raids"] = 1404,
         ["kill_count"] = 2,
         ["points"] = 6172.29,
       },
@@ -24770,7 +24770,7 @@ UWULogsData[7][1] = {
         ["points"] = 4088.83,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1389,
+        ["rank_raids"] = 1390,
         ["kill_count"] = 1,
         ["points"] = 6188.31,
       },
@@ -24807,7 +24807,7 @@ UWULogsData[7][1] = {
         ["points"] = 5137.79,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1999,
+        ["rank_raids"] = 2000,
         ["kill_count"] = 5,
         ["points"] = 5164.13,
       },
@@ -24846,7 +24846,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 554,
         ["kill_count"] = 1,
-        ["points"] = 8572.79,
+        ["points"] = 8574.14,
       },
       ["Festergut"] = {
         ["rank_raids"] = 547,
@@ -24868,7 +24868,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 578,
         ["kill_count"] = 1,
-        ["points"] = 8506.18,
+        ["points"] = 8507.6,
       },
       ["Festergut"] = {
         ["rank_raids"] = 274,
@@ -24930,7 +24930,7 @@ UWULogsData[7][1] = {
         ["points"] = 5383.58,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1959,
+        ["rank_raids"] = 1960,
         ["kill_count"] = 1,
         ["points"] = 5246.85,
       },
@@ -24962,7 +24962,7 @@ UWULogsData[7][1] = {
         ["points"] = 5862.14,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1969,
+        ["rank_raids"] = 1970,
         ["kill_count"] = 2,
         ["points"] = 5225.4,
       },
@@ -24999,7 +24999,7 @@ UWULogsData[7][1] = {
         ["points"] = 5364.27,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1633,
+        ["rank_raids"] = 1634,
         ["kill_count"] = 1,
         ["points"] = 5813.84,
       },
@@ -25031,7 +25031,7 @@ UWULogsData[7][1] = {
         ["points"] = 3580.41,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1728,
+        ["rank_raids"] = 1729,
         ["kill_count"] = 4,
         ["points"] = 5660.94,
       },
@@ -25068,7 +25068,7 @@ UWULogsData[7][1] = {
         ["points"] = 4711.06,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1699,
+        ["rank_raids"] = 1700,
         ["kill_count"] = 1,
         ["points"] = 5709.15,
       },
@@ -25105,7 +25105,7 @@ UWULogsData[7][1] = {
         ["points"] = 1735.99,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1482,
+        ["rank_raids"] = 1483,
         ["kill_count"] = 1,
         ["points"] = 6050.79,
       },
@@ -25142,7 +25142,7 @@ UWULogsData[7][1] = {
         ["points"] = 5402.83,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1819,
+        ["rank_raids"] = 1820,
         ["kill_count"] = 1,
         ["points"] = 5495.98,
       },
@@ -25206,7 +25206,7 @@ UWULogsData[7][1] = {
         ["points"] = 4853.29,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1273,
+        ["rank_raids"] = 1274,
         ["kill_count"] = 1,
         ["points"] = 6403.59,
       },
@@ -25248,7 +25248,7 @@ UWULogsData[7][1] = {
         ["points"] = 5478.33,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1734,
+        ["rank_raids"] = 1735,
         ["kill_count"] = 1,
         ["points"] = 5657.95,
       },
@@ -25285,7 +25285,7 @@ UWULogsData[7][1] = {
         ["points"] = 5320.39,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2006,
+        ["rank_raids"] = 2007,
         ["kill_count"] = 2,
         ["points"] = 5154.81,
       },
@@ -25322,7 +25322,7 @@ UWULogsData[7][1] = {
         ["points"] = 4930.59,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2138,
+        ["rank_raids"] = 2139,
         ["kill_count"] = 2,
         ["points"] = 4914.91,
       },
@@ -25361,7 +25361,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 920,
         ["kill_count"] = 1,
-        ["points"] = 7278.78,
+        ["points"] = 7281.37,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1157,
@@ -25386,7 +25386,7 @@ UWULogsData[7][1] = {
         ["points"] = 4736.53,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1918,
+        ["rank_raids"] = 1919,
         ["kill_count"] = 1,
         ["points"] = 5336.86,
       },
@@ -25425,7 +25425,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 908,
         ["kill_count"] = 1,
-        ["points"] = 7345.39,
+        ["points"] = 7347.91,
       },
       ["Festergut"] = {
         ["rank_raids"] = 831,
@@ -25450,7 +25450,7 @@ UWULogsData[7][1] = {
         ["points"] = 6220.56,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1727,
+        ["rank_raids"] = 1728,
         ["kill_count"] = 2,
         ["points"] = 5661.39,
       },
@@ -25482,7 +25482,7 @@ UWULogsData[7][1] = {
         ["points"] = 4215.65,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2124,
+        ["rank_raids"] = 2125,
         ["kill_count"] = 1,
         ["points"] = 4934.57,
       },
@@ -25519,7 +25519,7 @@ UWULogsData[7][1] = {
         ["points"] = 5675.26,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1827,
+        ["rank_raids"] = 1828,
         ["kill_count"] = 1,
         ["points"] = 5485.45,
       },
@@ -25556,7 +25556,7 @@ UWULogsData[7][1] = {
         ["points"] = 4818.67,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2117,
+        ["rank_raids"] = 2118,
         ["kill_count"] = 3,
         ["points"] = 4952.89,
       },
@@ -25593,7 +25593,7 @@ UWULogsData[7][1] = {
         ["points"] = 5334.66,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1955,
+        ["rank_raids"] = 1956,
         ["kill_count"] = 1,
         ["points"] = 5260.37,
       },
@@ -25630,7 +25630,7 @@ UWULogsData[7][1] = {
         ["points"] = 4640.59,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1735,
+        ["rank_raids"] = 1736,
         ["kill_count"] = 1,
         ["points"] = 5656.22,
       },
@@ -25667,7 +25667,7 @@ UWULogsData[7][1] = {
         ["points"] = 3940.34,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2377,
+        ["rank_raids"] = 2378,
         ["kill_count"] = 1,
         ["points"] = 4197.98,
       },
@@ -25709,7 +25709,7 @@ UWULogsData[7][1] = {
         ["points"] = 5473.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2134,
+        ["rank_raids"] = 2135,
         ["kill_count"] = 1,
         ["points"] = 4918.87,
       },
@@ -25751,7 +25751,7 @@ UWULogsData[7][1] = {
         ["points"] = 3093.03,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2444,
+        ["rank_raids"] = 2445,
         ["kill_count"] = 1,
         ["points"] = 3657.88,
       },
@@ -25798,7 +25798,7 @@ UWULogsData[7][1] = {
         ["points"] = 4547.26,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2036,
+        ["rank_raids"] = 2037,
         ["kill_count"] = 2,
         ["points"] = 5095.17,
       },
@@ -25824,10 +25824,37 @@ UWULogsData[7][1] = {
       },
     },
   },
-  ["Clairina"] = {
+  ["Shop"] = {
     ["percentile"] = 26.78,
     ["server"] = "Icecrown",
     ["overall_rank"] = 601,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 638,
+        ["kill_count"] = 1,
+        ["points"] = 7355.46,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 800,
+        ["kill_count"] = 2,
+        ["points"] = 7737.64,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 406,
+        ["kill_count"] = 2,
+        ["points"] = 8475.29,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 1897,
+        ["kill_count"] = 1,
+        ["points"] = 3080.77,
+      },
+    },
+  },
+  ["Clairina"] = {
+    ["percentile"] = 26.78,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 602,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1569,
@@ -25835,7 +25862,7 @@ UWULogsData[7][1] = {
         ["points"] = 4592.58,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2145,
+        ["rank_raids"] = 2146,
         ["kill_count"] = 2,
         ["points"] = 4892.52,
       },
@@ -25861,33 +25888,6 @@ UWULogsData[7][1] = {
       },
     },
   },
-  ["Shop"] = {
-    ["percentile"] = 26.78,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 602,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 638,
-        ["kill_count"] = 1,
-        ["points"] = 7355.46,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 800,
-        ["kill_count"] = 2,
-        ["points"] = 7735.49,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 406,
-        ["kill_count"] = 2,
-        ["points"] = 8475.29,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 1897,
-        ["kill_count"] = 1,
-        ["points"] = 3080.77,
-      },
-    },
-  },
   ["Ozmond"] = {
     ["percentile"] = 26.71,
     ["server"] = "Icecrown",
@@ -25899,7 +25899,7 @@ UWULogsData[7][1] = {
         ["points"] = 4269.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1852,
+        ["rank_raids"] = 1853,
         ["kill_count"] = 3,
         ["points"] = 5446.98,
       },
@@ -25936,7 +25936,7 @@ UWULogsData[7][1] = {
         ["points"] = 4415.12,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2075,
+        ["rank_raids"] = 2076,
         ["kill_count"] = 3,
         ["points"] = 5024.25,
       },
@@ -25973,7 +25973,7 @@ UWULogsData[7][1] = {
         ["points"] = 5147.01,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2105,
+        ["rank_raids"] = 2106,
         ["kill_count"] = 5,
         ["points"] = 4974.44,
       },
@@ -26069,7 +26069,7 @@ UWULogsData[7][1] = {
         ["points"] = 5495.22,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1935,
+        ["rank_raids"] = 1936,
         ["kill_count"] = 1,
         ["points"] = 5288.86,
       },
@@ -26106,7 +26106,7 @@ UWULogsData[7][1] = {
         ["points"] = 4786.45,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1971,
+        ["rank_raids"] = 1972,
         ["kill_count"] = 1,
         ["points"] = 5215.4,
       },
@@ -26143,7 +26143,7 @@ UWULogsData[7][1] = {
         ["points"] = 4020.52,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2354,
+        ["rank_raids"] = 2355,
         ["kill_count"] = 1,
         ["points"] = 4302.47,
       },
@@ -26180,7 +26180,7 @@ UWULogsData[7][1] = {
         ["points"] = 4774.05,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1838,
+        ["rank_raids"] = 1839,
         ["kill_count"] = 2,
         ["points"] = 5470.81,
       },
@@ -26212,7 +26212,7 @@ UWULogsData[7][1] = {
         ["points"] = 4493.05,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1497,
+        ["rank_raids"] = 1498,
         ["kill_count"] = 1,
         ["points"] = 6035.18,
       },
@@ -26249,7 +26249,7 @@ UWULogsData[7][1] = {
         ["points"] = 2548.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2113,
+        ["rank_raids"] = 2114,
         ["kill_count"] = 1,
         ["points"] = 4958.79,
       },
@@ -26291,7 +26291,7 @@ UWULogsData[7][1] = {
         ["points"] = 5324.79,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1604,
+        ["rank_raids"] = 1605,
         ["kill_count"] = 1,
         ["points"] = 5861.09,
       },
@@ -26328,7 +26328,7 @@ UWULogsData[7][1] = {
         ["points"] = 1965.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2473,
+        ["rank_raids"] = 2474,
         ["kill_count"] = 3,
         ["points"] = 3265.31,
       },
@@ -26363,7 +26363,7 @@ UWULogsData[7][1] = {
         ["points"] = 636.61,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 458,
+        ["rank_raids"] = 459,
         ["kill_count"] = 1,
         ["points"] = 3482.71,
       },
@@ -26380,7 +26380,7 @@ UWULogsData[7][1] = {
         ["points"] = 5248.54,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2095,
+        ["rank_raids"] = 2096,
         ["kill_count"] = 1,
         ["points"] = 4993.63,
       },
@@ -26412,7 +26412,7 @@ UWULogsData[7][1] = {
         ["points"] = 3939.72,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2039,
+        ["rank_raids"] = 2040,
         ["kill_count"] = 2,
         ["points"] = 5091.07,
       },
@@ -26449,7 +26449,7 @@ UWULogsData[7][1] = {
         ["points"] = 4076.61,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2092,
+        ["rank_raids"] = 2093,
         ["kill_count"] = 1,
         ["points"] = 4996.8,
       },
@@ -26486,7 +26486,7 @@ UWULogsData[7][1] = {
         ["points"] = 5478.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1428,
+        ["rank_raids"] = 1429,
         ["kill_count"] = 1,
         ["points"] = 6133.77,
       },
@@ -26518,7 +26518,7 @@ UWULogsData[7][1] = {
         ["points"] = 2655.91,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1965,
+        ["rank_raids"] = 1966,
         ["kill_count"] = 1,
         ["points"] = 5232.59,
       },
@@ -26555,7 +26555,7 @@ UWULogsData[7][1] = {
         ["points"] = 4506.86,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2003,
+        ["rank_raids"] = 2004,
         ["kill_count"] = 1,
         ["points"] = 5160.47,
       },
@@ -26592,7 +26592,7 @@ UWULogsData[7][1] = {
         ["points"] = 3633.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2044,
+        ["rank_raids"] = 2045,
         ["kill_count"] = 1,
         ["points"] = 5080.39,
       },
@@ -26629,7 +26629,7 @@ UWULogsData[7][1] = {
         ["points"] = 4547.13,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2185,
+        ["rank_raids"] = 2186,
         ["kill_count"] = 2,
         ["points"] = 4805.98,
       },
@@ -26666,7 +26666,7 @@ UWULogsData[7][1] = {
         ["points"] = 4808.03,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2028,
+        ["rank_raids"] = 2029,
         ["kill_count"] = 1,
         ["points"] = 5104.19,
       },
@@ -26698,7 +26698,7 @@ UWULogsData[7][1] = {
         ["points"] = 4414.46,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1786,
+        ["rank_raids"] = 1787,
         ["kill_count"] = 3,
         ["points"] = 5571.45,
       },
@@ -26735,7 +26735,7 @@ UWULogsData[7][1] = {
         ["points"] = 5378.75,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2109,
+        ["rank_raids"] = 2110,
         ["kill_count"] = 3,
         ["points"] = 4964.54,
       },
@@ -26772,7 +26772,7 @@ UWULogsData[7][1] = {
         ["points"] = 4996.61,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1822,
+        ["rank_raids"] = 1823,
         ["kill_count"] = 3,
         ["points"] = 5489.99,
       },
@@ -26809,7 +26809,7 @@ UWULogsData[7][1] = {
         ["points"] = 4829.57,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1952,
+        ["rank_raids"] = 1953,
         ["kill_count"] = 3,
         ["points"] = 5263.39,
       },
@@ -26843,7 +26843,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 643,
         ["kill_count"] = 1,
-        ["points"] = 8325.4,
+        ["points"] = 8327.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 57,
@@ -26863,7 +26863,7 @@ UWULogsData[7][1] = {
         ["points"] = 6991.43,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1317,
+        ["rank_raids"] = 1318,
         ["kill_count"] = 1,
         ["points"] = 6339.19,
       },
@@ -26890,7 +26890,7 @@ UWULogsData[7][1] = {
         ["points"] = 4292.05,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2125,
+        ["rank_raids"] = 2126,
         ["kill_count"] = 1,
         ["points"] = 4933.52,
       },
@@ -26929,7 +26929,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 734,
         ["kill_count"] = 1,
-        ["points"] = 8011.42,
+        ["points"] = 8013.31,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1134,
@@ -26954,7 +26954,7 @@ UWULogsData[7][1] = {
         ["points"] = 3706.69,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2221,
+        ["rank_raids"] = 2222,
         ["kill_count"] = 2,
         ["points"] = 4722.97,
       },
@@ -26991,7 +26991,7 @@ UWULogsData[7][1] = {
         ["points"] = 3989.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2210,
+        ["rank_raids"] = 2211,
         ["kill_count"] = 1,
         ["points"] = 4749.07,
       },
@@ -27028,7 +27028,7 @@ UWULogsData[7][1] = {
         ["points"] = 6445.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2071,
+        ["rank_raids"] = 2072,
         ["kill_count"] = 2,
         ["points"] = 5035.95,
       },
@@ -27092,7 +27092,7 @@ UWULogsData[7][1] = {
         ["points"] = 4147.28,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1982,
+        ["rank_raids"] = 1983,
         ["kill_count"] = 1,
         ["points"] = 5201.94,
       },
@@ -27129,7 +27129,7 @@ UWULogsData[7][1] = {
         ["points"] = 1900.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1588,
+        ["rank_raids"] = 1589,
         ["kill_count"] = 2,
         ["points"] = 5894.66,
       },
@@ -27168,7 +27168,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1005,
         ["kill_count"] = 2,
-        ["points"] = 6926.74,
+        ["points"] = 6929.66,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1164,
@@ -27193,7 +27193,7 @@ UWULogsData[7][1] = {
         ["points"] = 4715.75,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1909,
+        ["rank_raids"] = 1910,
         ["kill_count"] = 1,
         ["points"] = 5353.86,
       },
@@ -27225,7 +27225,7 @@ UWULogsData[7][1] = {
         ["points"] = 5649.84,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2024,
+        ["rank_raids"] = 2025,
         ["kill_count"] = 1,
         ["points"] = 5112.5,
       },
@@ -27262,7 +27262,7 @@ UWULogsData[7][1] = {
         ["points"] = 4180.39,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1846,
+        ["rank_raids"] = 1847,
         ["kill_count"] = 1,
         ["points"] = 5455.86,
       },
@@ -27299,7 +27299,7 @@ UWULogsData[7][1] = {
         ["points"] = 4896.19,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1668,
+        ["rank_raids"] = 1669,
         ["kill_count"] = 1,
         ["points"] = 5766.26,
       },
@@ -27331,7 +27331,7 @@ UWULogsData[7][1] = {
         ["points"] = 4349.78,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1643,
+        ["rank_raids"] = 1644,
         ["kill_count"] = 1,
         ["points"] = 5803.95,
       },
@@ -27368,7 +27368,7 @@ UWULogsData[7][1] = {
         ["points"] = 4524.76,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2074,
+        ["rank_raids"] = 2075,
         ["kill_count"] = 1,
         ["points"] = 5025.75,
       },
@@ -27405,7 +27405,7 @@ UWULogsData[7][1] = {
         ["points"] = 5092.93,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2231,
+        ["rank_raids"] = 2232,
         ["kill_count"] = 1,
         ["points"] = 4705.11,
       },
@@ -27442,7 +27442,7 @@ UWULogsData[7][1] = {
         ["points"] = 4610.34,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2127,
+        ["rank_raids"] = 2128,
         ["kill_count"] = 1,
         ["points"] = 4931.82,
       },
@@ -27474,7 +27474,7 @@ UWULogsData[7][1] = {
         ["points"] = 3697.74,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1701,
+        ["rank_raids"] = 1702,
         ["kill_count"] = 1,
         ["points"] = 5706.78,
       },
@@ -27511,7 +27511,7 @@ UWULogsData[7][1] = {
         ["points"] = 5031.84,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1975,
+        ["rank_raids"] = 1976,
         ["kill_count"] = 1,
         ["points"] = 5213.11,
       },
@@ -27548,7 +27548,7 @@ UWULogsData[7][1] = {
         ["points"] = 4611.63,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1925,
+        ["rank_raids"] = 1926,
         ["kill_count"] = 1,
         ["points"] = 5311.86,
       },
@@ -27585,7 +27585,7 @@ UWULogsData[7][1] = {
         ["points"] = 4162.23,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2058,
+        ["rank_raids"] = 2059,
         ["kill_count"] = 1,
         ["points"] = 5062.5,
       },
@@ -27622,7 +27622,7 @@ UWULogsData[7][1] = {
         ["points"] = 6520.34,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1602,
+        ["rank_raids"] = 1603,
         ["kill_count"] = 1,
         ["points"] = 5862.13,
       },
@@ -27649,7 +27649,7 @@ UWULogsData[7][1] = {
         ["points"] = 4994.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1770,
+        ["rank_raids"] = 1771,
         ["kill_count"] = 1,
         ["points"] = 5593.01,
       },
@@ -27686,7 +27686,7 @@ UWULogsData[7][1] = {
         ["points"] = 7291.22,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1574,
+        ["rank_raids"] = 1575,
         ["kill_count"] = 1,
         ["points"] = 5915.73,
       },
@@ -27713,7 +27713,7 @@ UWULogsData[7][1] = {
         ["points"] = 4526.67,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1800,
+        ["rank_raids"] = 1801,
         ["kill_count"] = 1,
         ["points"] = 5539.61,
       },
@@ -27742,7 +27742,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 785,
         ["kill_count"] = 1,
-        ["points"] = 7802.09,
+        ["points"] = 7804.18,
       },
       ["Festergut"] = {
         ["rank_raids"] = 268,
@@ -27767,7 +27767,7 @@ UWULogsData[7][1] = {
         ["points"] = 4906.39,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2324,
+        ["rank_raids"] = 2325,
         ["kill_count"] = 1,
         ["points"] = 4419.38,
       },
@@ -27804,7 +27804,7 @@ UWULogsData[7][1] = {
         ["points"] = 5267.54,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2240,
+        ["rank_raids"] = 2241,
         ["kill_count"] = 1,
         ["points"] = 4687.56,
       },
@@ -27836,7 +27836,7 @@ UWULogsData[7][1] = {
         ["points"] = 4690.81,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2424,
+        ["rank_raids"] = 2425,
         ["kill_count"] = 1,
         ["points"] = 3875.61,
       },
@@ -27890,7 +27890,7 @@ UWULogsData[7][1] = {
         ["points"] = 5428.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1306,
+        ["rank_raids"] = 1307,
         ["kill_count"] = 1,
         ["points"] = 6351.42,
       },
@@ -27932,7 +27932,7 @@ UWULogsData[7][1] = {
         ["points"] = 4458.46,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1586,
+        ["rank_raids"] = 1587,
         ["kill_count"] = 2,
         ["points"] = 5895.5,
       },
@@ -27964,7 +27964,7 @@ UWULogsData[7][1] = {
         ["points"] = 74.63,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2041,
+        ["rank_raids"] = 2042,
         ["kill_count"] = 3,
         ["points"] = 5086.76,
       },
@@ -28025,7 +28025,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1020,
         ["kill_count"] = 1,
-        ["points"] = 6860.13,
+        ["points"] = 6863.12,
       },
       ["Festergut"] = {
         ["rank_raids"] = 550,
@@ -28050,7 +28050,7 @@ UWULogsData[7][1] = {
         ["points"] = 4885.38,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1994,
+        ["rank_raids"] = 1995,
         ["kill_count"] = 1,
         ["points"] = 5181.97,
       },
@@ -28087,7 +28087,7 @@ UWULogsData[7][1] = {
         ["points"] = 4725.13,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1710,
+        ["rank_raids"] = 1711,
         ["kill_count"] = 1,
         ["points"] = 5690.93,
       },
@@ -28119,7 +28119,7 @@ UWULogsData[7][1] = {
         ["points"] = 3388.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2395,
+        ["rank_raids"] = 2396,
         ["kill_count"] = 1,
         ["points"] = 4107.21,
       },
@@ -28158,7 +28158,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 75,
         ["kill_count"] = 13,
-        ["points"] = 9706.7,
+        ["points"] = 9706.81,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 130,
@@ -28166,7 +28166,7 @@ UWULogsData[7][1] = {
         ["points"] = 8520.9,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 405,
+        ["rank_raids"] = 406,
         ["kill_count"] = 1,
         ["points"] = 5441.09,
       },
@@ -28183,7 +28183,7 @@ UWULogsData[7][1] = {
         ["points"] = 3479.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2114,
+        ["rank_raids"] = 2115,
         ["kill_count"] = 1,
         ["points"] = 4956.8,
       },
@@ -28220,7 +28220,7 @@ UWULogsData[7][1] = {
         ["points"] = 3903.08,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2179,
+        ["rank_raids"] = 2180,
         ["kill_count"] = 1,
         ["points"] = 4815.93,
       },
@@ -28257,7 +28257,7 @@ UWULogsData[7][1] = {
         ["points"] = 5577.52,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1718,
+        ["rank_raids"] = 1719,
         ["kill_count"] = 1,
         ["points"] = 5675.52,
       },
@@ -28316,7 +28316,7 @@ UWULogsData[7][1] = {
         ["points"] = 3989.44,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2222,
+        ["rank_raids"] = 2223,
         ["kill_count"] = 1,
         ["points"] = 4722.19,
       },
@@ -28353,7 +28353,7 @@ UWULogsData[7][1] = {
         ["points"] = 5232.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1522,
+        ["rank_raids"] = 1523,
         ["kill_count"] = 1,
         ["points"] = 6004.68,
       },
@@ -28380,7 +28380,7 @@ UWULogsData[7][1] = {
         ["points"] = 6670.24,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1238,
+        ["rank_raids"] = 1239,
         ["kill_count"] = 1,
         ["points"] = 6457.17,
       },
@@ -28407,7 +28407,7 @@ UWULogsData[7][1] = {
         ["points"] = 3531.02,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2215,
+        ["rank_raids"] = 2216,
         ["kill_count"] = 3,
         ["points"] = 4738.22,
       },
@@ -28439,7 +28439,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 678,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1874,
+        ["rank_raids"] = 1875,
         ["kill_count"] = 1,
         ["points"] = 5415.24,
       },
@@ -28471,7 +28471,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 679,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1654,
+        ["rank_raids"] = 1655,
         ["kill_count"] = 1,
         ["points"] = 5787.32,
       },
@@ -28503,7 +28503,7 @@ UWULogsData[7][1] = {
         ["points"] = 4884.79,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2002,
+        ["rank_raids"] = 2003,
         ["kill_count"] = 1,
         ["points"] = 5161.53,
       },
@@ -28562,7 +28562,7 @@ UWULogsData[7][1] = {
         ["points"] = 5387.44,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1826,
+        ["rank_raids"] = 1827,
         ["kill_count"] = 2,
         ["points"] = 5485.66,
       },
@@ -28594,7 +28594,7 @@ UWULogsData[7][1] = {
         ["points"] = 3851.08,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2307,
+        ["rank_raids"] = 2308,
         ["kill_count"] = 2,
         ["points"] = 4484.83,
       },
@@ -28631,7 +28631,7 @@ UWULogsData[7][1] = {
         ["points"] = 3155.81,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2413,
+        ["rank_raids"] = 2414,
         ["kill_count"] = 4,
         ["points"] = 3980.35,
       },
@@ -28700,7 +28700,7 @@ UWULogsData[7][1] = {
         ["points"] = 4443.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2152,
+        ["rank_raids"] = 2153,
         ["kill_count"] = 2,
         ["points"] = 4883.66,
       },
@@ -28737,7 +28737,7 @@ UWULogsData[7][1] = {
         ["points"] = 3925.34,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2083,
+        ["rank_raids"] = 2084,
         ["kill_count"] = 1,
         ["points"] = 5007.39,
       },
@@ -28774,7 +28774,7 @@ UWULogsData[7][1] = {
         ["points"] = 4759.28,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2435,
+        ["rank_raids"] = 2436,
         ["kill_count"] = 2,
         ["points"] = 3800.75,
       },
@@ -28801,7 +28801,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 689,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2411,
+        ["rank_raids"] = 2412,
         ["kill_count"] = 1,
         ["points"] = 4000.58,
       },
@@ -28836,7 +28836,7 @@ UWULogsData[7][1] = {
         ["points"] = 235.12,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 473,
+        ["rank_raids"] = 474,
         ["kill_count"] = 1,
         ["points"] = 2362.34,
       },
@@ -28853,7 +28853,7 @@ UWULogsData[7][1] = {
         ["points"] = 4526.48,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2325,
+        ["rank_raids"] = 2326,
         ["kill_count"] = 2,
         ["points"] = 4415.11,
       },
@@ -28890,7 +28890,7 @@ UWULogsData[7][1] = {
         ["points"] = 4336.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2399,
+        ["rank_raids"] = 2400,
         ["kill_count"] = 1,
         ["points"] = 4094.17,
       },
@@ -28927,7 +28927,7 @@ UWULogsData[7][1] = {
         ["points"] = 6049.25,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1607,
+        ["rank_raids"] = 1608,
         ["kill_count"] = 1,
         ["points"] = 5854.02,
       },
@@ -28954,7 +28954,7 @@ UWULogsData[7][1] = {
         ["points"] = 3775.02,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1892,
+        ["rank_raids"] = 1893,
         ["kill_count"] = 1,
         ["points"] = 5396.68,
       },
@@ -28991,7 +28991,7 @@ UWULogsData[7][1] = {
         ["points"] = 5491.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1824,
+        ["rank_raids"] = 1825,
         ["kill_count"] = 1,
         ["points"] = 5487.27,
       },
@@ -29018,7 +29018,7 @@ UWULogsData[7][1] = {
         ["points"] = 4585.18,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2260,
+        ["rank_raids"] = 2261,
         ["kill_count"] = 1,
         ["points"] = 4642.57,
       },
@@ -29055,7 +29055,7 @@ UWULogsData[7][1] = {
         ["points"] = 4254.62,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2026,
+        ["rank_raids"] = 2027,
         ["kill_count"] = 1,
         ["points"] = 5111.08,
       },
@@ -29087,7 +29087,7 @@ UWULogsData[7][1] = {
         ["points"] = 4407.61,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2128,
+        ["rank_raids"] = 2129,
         ["kill_count"] = 1,
         ["points"] = 4930.65,
       },
@@ -29124,7 +29124,7 @@ UWULogsData[7][1] = {
         ["points"] = 5976.25,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1418,
+        ["rank_raids"] = 1419,
         ["kill_count"] = 2,
         ["points"] = 6144.41,
       },
@@ -29156,7 +29156,7 @@ UWULogsData[7][1] = {
         ["points"] = 0.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2154,
+        ["rank_raids"] = 2155,
         ["kill_count"] = 2,
         ["points"] = 4871.43,
       },
@@ -29198,7 +29198,7 @@ UWULogsData[7][1] = {
         ["points"] = 3680.93,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2332,
+        ["rank_raids"] = 2333,
         ["kill_count"] = 2,
         ["points"] = 4386.83,
       },
@@ -29235,7 +29235,7 @@ UWULogsData[7][1] = {
         ["points"] = 5286.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2516,
+        ["rank_raids"] = 2517,
         ["kill_count"] = 1,
         ["points"] = 1441.4,
       },
@@ -29267,7 +29267,7 @@ UWULogsData[7][1] = {
         ["points"] = 3659.01,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2278,
+        ["rank_raids"] = 2279,
         ["kill_count"] = 1,
         ["points"] = 4593.83,
       },
@@ -29304,7 +29304,7 @@ UWULogsData[7][1] = {
         ["points"] = 4839.99,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2031,
+        ["rank_raids"] = 2032,
         ["kill_count"] = 1,
         ["points"] = 5099.99,
       },
@@ -29368,7 +29368,7 @@ UWULogsData[7][1] = {
         ["points"] = 3977.32,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2275,
+        ["rank_raids"] = 2276,
         ["kill_count"] = 1,
         ["points"] = 4600.58,
       },
@@ -29405,7 +29405,7 @@ UWULogsData[7][1] = {
         ["points"] = 5885.99,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2155,
+        ["rank_raids"] = 2156,
         ["kill_count"] = 1,
         ["points"] = 4869.07,
       },
@@ -29432,7 +29432,7 @@ UWULogsData[7][1] = {
         ["points"] = 3778.29,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2213,
+        ["rank_raids"] = 2214,
         ["kill_count"] = 1,
         ["points"] = 4743.08,
       },
@@ -29454,7 +29454,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Kumuy"] = {
-    ["percentile"] = 22.3,
+    ["percentile"] = 22.31,
     ["server"] = "Icecrown",
     ["overall_rank"] = 708,
     ["bosses"] = {
@@ -29466,7 +29466,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 640,
         ["kill_count"] = 1,
-        ["points"] = 8353.95,
+        ["points"] = 8355.51,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 735,
@@ -29486,7 +29486,7 @@ UWULogsData[7][1] = {
         ["points"] = 4621.71,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2368,
+        ["rank_raids"] = 2369,
         ["kill_count"] = 1,
         ["points"] = 4237.33,
       },
@@ -29523,7 +29523,7 @@ UWULogsData[7][1] = {
         ["points"] = 3133.86,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1794,
+        ["rank_raids"] = 1795,
         ["kill_count"] = 1,
         ["points"] = 5548.61,
       },
@@ -29555,7 +29555,7 @@ UWULogsData[7][1] = {
         ["points"] = 4575.38,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2162,
+        ["rank_raids"] = 2163,
         ["kill_count"] = 2,
         ["points"] = 4860.37,
       },
@@ -29592,7 +29592,7 @@ UWULogsData[7][1] = {
         ["points"] = 4836.92,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2020,
+        ["rank_raids"] = 2021,
         ["kill_count"] = 1,
         ["points"] = 5123.07,
       },
@@ -29624,7 +29624,7 @@ UWULogsData[7][1] = {
         ["points"] = 5358.22,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2019,
+        ["rank_raids"] = 2020,
         ["kill_count"] = 3,
         ["points"] = 5123.5,
       },
@@ -29661,7 +29661,7 @@ UWULogsData[7][1] = {
         ["points"] = 5181.45,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1647,
+        ["rank_raids"] = 1648,
         ["kill_count"] = 1,
         ["points"] = 5798.1,
       },
@@ -29725,7 +29725,7 @@ UWULogsData[7][1] = {
         ["points"] = 4553.35,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1871,
+        ["rank_raids"] = 1872,
         ["kill_count"] = 1,
         ["points"] = 5418.43,
       },
@@ -29754,7 +29754,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 869,
         ["kill_count"] = 1,
-        ["points"] = 7535.68,
+        ["points"] = 7538.02,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 373,
@@ -29762,7 +29762,7 @@ UWULogsData[7][1] = {
         ["points"] = 8096.51,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 354,
+        ["rank_raids"] = 355,
         ["kill_count"] = 1,
         ["points"] = 6293.15,
       },
@@ -29779,7 +29779,7 @@ UWULogsData[7][1] = {
         ["points"] = 3603.62,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2417,
+        ["rank_raids"] = 2418,
         ["kill_count"] = 1,
         ["points"] = 3949.52,
       },
@@ -29821,7 +29821,7 @@ UWULogsData[7][1] = {
         ["points"] = 1981.42,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2510,
+        ["rank_raids"] = 2511,
         ["kill_count"] = 1,
         ["points"] = 1915.64,
       },
@@ -29856,7 +29856,7 @@ UWULogsData[7][1] = {
         ["points"] = 278.2,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 471,
+        ["rank_raids"] = 472,
         ["kill_count"] = 1,
         ["points"] = 2545.37,
       },
@@ -29873,7 +29873,7 @@ UWULogsData[7][1] = {
         ["points"] = 2808.71,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2158,
+        ["rank_raids"] = 2159,
         ["kill_count"] = 1,
         ["points"] = 4866.29,
       },
@@ -29907,7 +29907,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 887,
         ["kill_count"] = 1,
-        ["points"] = 7459.56,
+        ["points"] = 7461.98,
       },
       ["Festergut"] = {
         ["rank_raids"] = 775,
@@ -29932,7 +29932,7 @@ UWULogsData[7][1] = {
         ["points"] = 4349.36,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2272,
+        ["rank_raids"] = 2273,
         ["kill_count"] = 1,
         ["points"] = 4610.03,
       },
@@ -29986,7 +29986,7 @@ UWULogsData[7][1] = {
         ["points"] = 3578.64,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2186,
+        ["rank_raids"] = 2187,
         ["kill_count"] = 2,
         ["points"] = 4801.82,
       },
@@ -30028,7 +30028,7 @@ UWULogsData[7][1] = {
         ["points"] = 37.31,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2282,
+        ["rank_raids"] = 2283,
         ["kill_count"] = 2,
         ["points"] = 4588.72,
       },
@@ -30070,7 +30070,7 @@ UWULogsData[7][1] = {
         ["points"] = 4027.97,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1867,
+        ["rank_raids"] = 1868,
         ["kill_count"] = 1,
         ["points"] = 5426.2,
       },
@@ -30097,7 +30097,7 @@ UWULogsData[7][1] = {
         ["points"] = 4959.73,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2144,
+        ["rank_raids"] = 2145,
         ["kill_count"] = 1,
         ["points"] = 4893.88,
       },
@@ -30134,7 +30134,7 @@ UWULogsData[7][1] = {
         ["points"] = 5491.56,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2297,
+        ["rank_raids"] = 2298,
         ["kill_count"] = 1,
         ["points"] = 4508.4,
       },
@@ -30166,7 +30166,7 @@ UWULogsData[7][1] = {
         ["points"] = 5299.28,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1223,
+        ["rank_raids"] = 1224,
         ["kill_count"] = 3,
         ["points"] = 6490.16,
       },
@@ -30193,7 +30193,7 @@ UWULogsData[7][1] = {
         ["points"] = 4153.67,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1437,
+        ["rank_raids"] = 1438,
         ["kill_count"] = 1,
         ["points"] = 6122.43,
       },
@@ -30220,7 +30220,7 @@ UWULogsData[7][1] = {
         ["points"] = 4125.96,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2372,
+        ["rank_raids"] = 2373,
         ["kill_count"] = 2,
         ["points"] = 4208.21,
       },
@@ -30257,7 +30257,7 @@ UWULogsData[7][1] = {
         ["points"] = 6017.13,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1698,
+        ["rank_raids"] = 1699,
         ["kill_count"] = 2,
         ["points"] = 5710.4,
       },
@@ -30284,7 +30284,7 @@ UWULogsData[7][1] = {
         ["points"] = 3896.87,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2131,
+        ["rank_raids"] = 2132,
         ["kill_count"] = 2,
         ["points"] = 4920.98,
       },
@@ -30326,7 +30326,7 @@ UWULogsData[7][1] = {
         ["points"] = 3948.67,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1861,
+        ["rank_raids"] = 1862,
         ["kill_count"] = 1,
         ["points"] = 5439.04,
       },
@@ -30363,7 +30363,7 @@ UWULogsData[7][1] = {
         ["points"] = 3201.06,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2477,
+        ["rank_raids"] = 2478,
         ["kill_count"] = 1,
         ["points"] = 3200.58,
       },
@@ -30405,7 +30405,7 @@ UWULogsData[7][1] = {
         ["points"] = 2657.04,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2486,
+        ["rank_raids"] = 2487,
         ["kill_count"] = 1,
         ["points"] = 3056.93,
       },
@@ -30442,7 +30442,7 @@ UWULogsData[7][1] = {
         ["points"] = 2645.38,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2166,
+        ["rank_raids"] = 2167,
         ["kill_count"] = 7,
         ["points"] = 4834.02,
       },
@@ -30474,7 +30474,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 738,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1792,
+        ["rank_raids"] = 1793,
         ["kill_count"] = 1,
         ["points"] = 5558.99,
       },
@@ -30501,7 +30501,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 739,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1916,
+        ["rank_raids"] = 1917,
         ["kill_count"] = 1,
         ["points"] = 5341.53,
       },
@@ -30528,7 +30528,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 740,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1580,
+        ["rank_raids"] = 1581,
         ["kill_count"] = 4,
         ["points"] = 5906.31,
       },
@@ -30565,7 +30565,7 @@ UWULogsData[7][1] = {
         ["points"] = 4944.12,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2270,
+        ["rank_raids"] = 2271,
         ["kill_count"] = 1,
         ["points"] = 4614.24,
       },
@@ -30629,7 +30629,7 @@ UWULogsData[7][1] = {
         ["points"] = 4260.26,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2250,
+        ["rank_raids"] = 2251,
         ["kill_count"] = 1,
         ["points"] = 4678.95,
       },
@@ -30661,7 +30661,7 @@ UWULogsData[7][1] = {
         ["points"] = 4261.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2287,
+        ["rank_raids"] = 2288,
         ["kill_count"] = 1,
         ["points"] = 4566.65,
       },
@@ -30693,7 +30693,7 @@ UWULogsData[7][1] = {
         ["points"] = 4250.55,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2255,
+        ["rank_raids"] = 2256,
         ["kill_count"] = 1,
         ["points"] = 4655.54,
       },
@@ -30725,7 +30725,7 @@ UWULogsData[7][1] = {
         ["points"] = 5558.96,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1616,
+        ["rank_raids"] = 1617,
         ["kill_count"] = 1,
         ["points"] = 5843.35,
       },
@@ -30750,7 +30750,7 @@ UWULogsData[7][1] = {
         ["points"] = 514.61,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 485,
+        ["rank_raids"] = 486,
         ["kill_count"] = 1,
         ["points"] = 587.68,
       },
@@ -30762,7 +30762,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 747,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1708,
+        ["rank_raids"] = 1709,
         ["kill_count"] = 1,
         ["points"] = 5695.72,
       },
@@ -30794,7 +30794,7 @@ UWULogsData[7][1] = {
         ["points"] = 3448.85,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2378,
+        ["rank_raids"] = 2379,
         ["kill_count"] = 1,
         ["points"] = 4191.76,
       },
@@ -30831,7 +30831,7 @@ UWULogsData[7][1] = {
         ["points"] = 4449.36,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2209,
+        ["rank_raids"] = 2210,
         ["kill_count"] = 1,
         ["points"] = 4749.96,
       },
@@ -30863,7 +30863,7 @@ UWULogsData[7][1] = {
         ["points"] = 3416.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2338,
+        ["rank_raids"] = 2339,
         ["kill_count"] = 5,
         ["points"] = 4370.49,
       },
@@ -30927,7 +30927,7 @@ UWULogsData[7][1] = {
         ["points"] = 4052.31,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1531,
+        ["rank_raids"] = 1532,
         ["kill_count"] = 1,
         ["points"] = 5988.82,
       },
@@ -30954,7 +30954,7 @@ UWULogsData[7][1] = {
         ["points"] = 4149.58,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2163,
+        ["rank_raids"] = 2164,
         ["kill_count"] = 1,
         ["points"] = 4856.74,
       },
@@ -30986,7 +30986,7 @@ UWULogsData[7][1] = {
         ["points"] = 4236.57,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2432,
+        ["rank_raids"] = 2433,
         ["kill_count"] = 2,
         ["points"] = 3824.05,
       },
@@ -31023,7 +31023,7 @@ UWULogsData[7][1] = {
         ["points"] = 5846.63,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1635,
+        ["rank_raids"] = 1636,
         ["kill_count"] = 1,
         ["points"] = 5812.08,
       },
@@ -31050,7 +31050,7 @@ UWULogsData[7][1] = {
         ["points"] = 2922.74,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2404,
+        ["rank_raids"] = 2405,
         ["kill_count"] = 1,
         ["points"] = 4069.26,
       },
@@ -31087,7 +31087,7 @@ UWULogsData[7][1] = {
         ["points"] = 4149.39,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2224,
+        ["rank_raids"] = 2225,
         ["kill_count"] = 1,
         ["points"] = 4716.86,
       },
@@ -31124,7 +31124,7 @@ UWULogsData[7][1] = {
         ["points"] = 3488.96,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2320,
+        ["rank_raids"] = 2321,
         ["kill_count"] = 1,
         ["points"] = 4445.97,
       },
@@ -31151,7 +31151,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 759,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1632,
+        ["rank_raids"] = 1633,
         ["kill_count"] = 2,
         ["points"] = 5814.88,
       },
@@ -31178,7 +31178,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 760,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1850,
+        ["rank_raids"] = 1851,
         ["kill_count"] = 1,
         ["points"] = 5448.43,
       },
@@ -31220,7 +31220,7 @@ UWULogsData[7][1] = {
         ["points"] = 4068.63,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1744,
+        ["rank_raids"] = 1745,
         ["kill_count"] = 2,
         ["points"] = 5640.71,
       },
@@ -31279,7 +31279,7 @@ UWULogsData[7][1] = {
         ["points"] = 4505.99,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1803,
+        ["rank_raids"] = 1804,
         ["kill_count"] = 1,
         ["points"] = 5528.42,
       },
@@ -31306,7 +31306,7 @@ UWULogsData[7][1] = {
         ["points"] = 3221.82,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2329,
+        ["rank_raids"] = 2330,
         ["kill_count"] = 1,
         ["points"] = 4396.71,
       },
@@ -31345,7 +31345,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 957,
         ["kill_count"] = 1,
-        ["points"] = 7155.09,
+        ["points"] = 7157.79,
       },
       ["Festergut"] = {
         ["rank_raids"] = 973,
@@ -31365,7 +31365,7 @@ UWULogsData[7][1] = {
         ["points"] = 4590.64,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2242,
+        ["rank_raids"] = 2243,
         ["kill_count"] = 1,
         ["points"] = 4685.06,
       },
@@ -31397,7 +31397,7 @@ UWULogsData[7][1] = {
         ["points"] = 4702.85,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2146,
+        ["rank_raids"] = 2147,
         ["kill_count"] = 1,
         ["points"] = 4891.73,
       },
@@ -31424,7 +31424,7 @@ UWULogsData[7][1] = {
         ["points"] = 5053.92,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2054,
+        ["rank_raids"] = 2055,
         ["kill_count"] = 1,
         ["points"] = 5069.53,
       },
@@ -31451,7 +31451,7 @@ UWULogsData[7][1] = {
         ["points"] = 3954.02,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2420,
+        ["rank_raids"] = 2421,
         ["kill_count"] = 1,
         ["points"] = 3909.57,
       },
@@ -31488,7 +31488,7 @@ UWULogsData[7][1] = {
         ["points"] = 175.15,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1203,
+        ["rank_raids"] = 1204,
         ["kill_count"] = 2,
         ["points"] = 6524.34,
       },
@@ -31510,7 +31510,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 771,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1758,
+        ["rank_raids"] = 1759,
         ["kill_count"] = 1,
         ["points"] = 5612.62,
       },
@@ -31542,7 +31542,7 @@ UWULogsData[7][1] = {
         ["points"] = 4207.77,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2269,
+        ["rank_raids"] = 2270,
         ["kill_count"] = 5,
         ["points"] = 4616.45,
       },
@@ -31574,7 +31574,7 @@ UWULogsData[7][1] = {
         ["points"] = 3275.07,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2286,
+        ["rank_raids"] = 2287,
         ["kill_count"] = 1,
         ["points"] = 4567.01,
       },
@@ -31611,7 +31611,7 @@ UWULogsData[7][1] = {
         ["points"] = 5219.16,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2017,
+        ["rank_raids"] = 2018,
         ["kill_count"] = 1,
         ["points"] = 5125.81,
       },
@@ -31638,7 +31638,7 @@ UWULogsData[7][1] = {
         ["points"] = 3495.65,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1686,
+        ["rank_raids"] = 1687,
         ["kill_count"] = 1,
         ["points"] = 5735.1,
       },
@@ -31660,7 +31660,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 776,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1253,
+        ["rank_raids"] = 1254,
         ["kill_count"] = 1,
         ["points"] = 6435.27,
       },
@@ -31670,7 +31670,7 @@ UWULogsData[7][1] = {
         ["points"] = 6823.06,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 361,
+        ["rank_raids"] = 362,
         ["kill_count"] = 1,
         ["points"] = 6247.92,
       },
@@ -31687,7 +31687,7 @@ UWULogsData[7][1] = {
         ["points"] = 4575.48,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1841,
+        ["rank_raids"] = 1842,
         ["kill_count"] = 1,
         ["points"] = 5467.24,
       },
@@ -31714,7 +31714,7 @@ UWULogsData[7][1] = {
         ["points"] = 3594.74,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2357,
+        ["rank_raids"] = 2358,
         ["kill_count"] = 1,
         ["points"] = 4291.2,
       },
@@ -31746,7 +31746,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 779,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2150,
+        ["rank_raids"] = 2151,
         ["kill_count"] = 1,
         ["points"] = 4884.85,
       },
@@ -31783,7 +31783,7 @@ UWULogsData[7][1] = {
         ["points"] = 6338.33,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1450,
+        ["rank_raids"] = 1451,
         ["kill_count"] = 1,
         ["points"] = 6103.54,
       },
@@ -31805,7 +31805,7 @@ UWULogsData[7][1] = {
         ["points"] = 3711.68,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1785,
+        ["rank_raids"] = 1786,
         ["kill_count"] = 1,
         ["points"] = 5572.58,
       },
@@ -31837,7 +31837,7 @@ UWULogsData[7][1] = {
         ["points"] = 3293.99,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2361,
+        ["rank_raids"] = 2362,
         ["kill_count"] = 1,
         ["points"] = 4273.38,
       },
@@ -31857,7 +31857,7 @@ UWULogsData[7][1] = {
         ["points"] = 1445.25,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 460,
+        ["rank_raids"] = 461,
         ["kill_count"] = 1,
         ["points"] = 3457.31,
       },
@@ -31874,7 +31874,7 @@ UWULogsData[7][1] = {
         ["points"] = 1902.44,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2253,
+        ["rank_raids"] = 2254,
         ["kill_count"] = 1,
         ["points"] = 4661.22,
       },
@@ -31906,7 +31906,7 @@ UWULogsData[7][1] = {
         ["points"] = 3772.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2392,
+        ["rank_raids"] = 2393,
         ["kill_count"] = 1,
         ["points"] = 4126.68,
       },
@@ -31943,7 +31943,7 @@ UWULogsData[7][1] = {
         ["points"] = 4285.77,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1888,
+        ["rank_raids"] = 1889,
         ["kill_count"] = 1,
         ["points"] = 5401.97,
       },
@@ -31965,7 +31965,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 786,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1375,
+        ["rank_raids"] = 1376,
         ["kill_count"] = 1,
         ["points"] = 6205.65,
       },
@@ -31992,7 +31992,7 @@ UWULogsData[7][1] = {
         ["points"] = 3483.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2419,
+        ["rank_raids"] = 2420,
         ["kill_count"] = 2,
         ["points"] = 3913.06,
       },
@@ -32029,7 +32029,7 @@ UWULogsData[7][1] = {
         ["points"] = 4090.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2369,
+        ["rank_raids"] = 2370,
         ["kill_count"] = 1,
         ["points"] = 4230.11,
       },
@@ -32061,7 +32061,7 @@ UWULogsData[7][1] = {
         ["points"] = 4597.23,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2311,
+        ["rank_raids"] = 2312,
         ["kill_count"] = 1,
         ["points"] = 4474.89,
       },
@@ -32088,7 +32088,7 @@ UWULogsData[7][1] = {
         ["points"] = 3821.26,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2096,
+        ["rank_raids"] = 2097,
         ["kill_count"] = 3,
         ["points"] = 4990.26,
       },
@@ -32147,7 +32147,7 @@ UWULogsData[7][1] = {
         ["points"] = 3651.53,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2197,
+        ["rank_raids"] = 2198,
         ["kill_count"] = 1,
         ["points"] = 4777.81,
       },
@@ -32184,7 +32184,7 @@ UWULogsData[7][1] = {
         ["points"] = 5748.99,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 313,
+        ["rank_raids"] = 314,
         ["kill_count"] = 1,
         ["points"] = 6722.49,
       },
@@ -32201,7 +32201,7 @@ UWULogsData[7][1] = {
         ["points"] = 5460.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1790,
+        ["rank_raids"] = 1791,
         ["kill_count"] = 1,
         ["points"] = 5560.76,
       },
@@ -32228,7 +32228,7 @@ UWULogsData[7][1] = {
         ["points"] = 3345.54,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2147,
+        ["rank_raids"] = 2148,
         ["kill_count"] = 1,
         ["points"] = 4891.19,
       },
@@ -32270,7 +32270,7 @@ UWULogsData[7][1] = {
         ["points"] = 1277.74,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2252,
+        ["rank_raids"] = 2253,
         ["kill_count"] = 1,
         ["points"] = 4663.86,
       },
@@ -32312,7 +32312,7 @@ UWULogsData[7][1] = {
         ["points"] = 3204.49,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2447,
+        ["rank_raids"] = 2448,
         ["kill_count"] = 2,
         ["points"] = 3643.2,
       },
@@ -32346,7 +32346,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 903,
         ["kill_count"] = 1,
-        ["points"] = 7364.41,
+        ["points"] = 7366.92,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 667,
@@ -32354,7 +32354,7 @@ UWULogsData[7][1] = {
         ["points"] = 4451.44,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 317,
+        ["rank_raids"] = 318,
         ["kill_count"] = 1,
         ["points"] = 6655.09,
       },
@@ -32371,7 +32371,7 @@ UWULogsData[7][1] = {
         ["points"] = 4847.91,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2139,
+        ["rank_raids"] = 2140,
         ["kill_count"] = 1,
         ["points"] = 4912.68,
       },
@@ -32403,7 +32403,7 @@ UWULogsData[7][1] = {
         ["points"] = 4736.62,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2262,
+        ["rank_raids"] = 2263,
         ["kill_count"] = 1,
         ["points"] = 4633.44,
       },
@@ -32430,7 +32430,7 @@ UWULogsData[7][1] = {
         ["points"] = 4246.46,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2443,
+        ["rank_raids"] = 2444,
         ["kill_count"] = 1,
         ["points"] = 3708.37,
       },
@@ -32462,7 +32462,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 802,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1782,
+        ["rank_raids"] = 1783,
         ["kill_count"] = 1,
         ["points"] = 5576.87,
       },
@@ -32484,7 +32484,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 803,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1312,
+        ["rank_raids"] = 1313,
         ["kill_count"] = 1,
         ["points"] = 6346.51,
       },
@@ -32516,7 +32516,7 @@ UWULogsData[7][1] = {
         ["points"] = 6538.05,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1806,
+        ["rank_raids"] = 1807,
         ["kill_count"] = 1,
         ["points"] = 5526.54,
       },
@@ -32528,7 +32528,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 805,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2194,
+        ["rank_raids"] = 2195,
         ["kill_count"] = 1,
         ["points"] = 4788.98,
       },
@@ -32565,7 +32565,7 @@ UWULogsData[7][1] = {
         ["points"] = 3194.96,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2342,
+        ["rank_raids"] = 2343,
         ["kill_count"] = 1,
         ["points"] = 4363.78,
       },
@@ -32592,7 +32592,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 807,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1455,
+        ["rank_raids"] = 1456,
         ["kill_count"] = 2,
         ["points"] = 6100.8,
       },
@@ -32619,7 +32619,7 @@ UWULogsData[7][1] = {
         ["points"] = 3779.57,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2004,
+        ["rank_raids"] = 2005,
         ["kill_count"] = 1,
         ["points"] = 5158.88,
       },
@@ -32646,7 +32646,7 @@ UWULogsData[7][1] = {
         ["points"] = 1930.45,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2428,
+        ["rank_raids"] = 2429,
         ["kill_count"] = 1,
         ["points"] = 3860.23,
       },
@@ -32688,7 +32688,7 @@ UWULogsData[7][1] = {
         ["points"] = 6854.04,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1252,
+        ["rank_raids"] = 1253,
         ["kill_count"] = 1,
         ["points"] = 6435.94,
       },
@@ -32705,7 +32705,7 @@ UWULogsData[7][1] = {
         ["points"] = 3127.57,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2200,
+        ["rank_raids"] = 2201,
         ["kill_count"] = 2,
         ["points"] = 4766.99,
       },
@@ -32737,7 +32737,7 @@ UWULogsData[7][1] = {
         ["points"] = 4782.35,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1920,
+        ["rank_raids"] = 1921,
         ["kill_count"] = 1,
         ["points"] = 5326.72,
       },
@@ -32764,7 +32764,7 @@ UWULogsData[7][1] = {
         ["points"] = 4720.22,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1812,
+        ["rank_raids"] = 1813,
         ["kill_count"] = 1,
         ["points"] = 5513.54,
       },
@@ -32813,7 +32813,7 @@ UWULogsData[7][1] = {
         ["points"] = 3683.35,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2258,
+        ["rank_raids"] = 2259,
         ["kill_count"] = 1,
         ["points"] = 4648.69,
       },
@@ -32867,7 +32867,7 @@ UWULogsData[7][1] = {
         ["points"] = 3511.71,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2360,
+        ["rank_raids"] = 2361,
         ["kill_count"] = 1,
         ["points"] = 4273.79,
       },
@@ -32899,7 +32899,7 @@ UWULogsData[7][1] = {
         ["points"] = 2940.01,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2343,
+        ["rank_raids"] = 2344,
         ["kill_count"] = 1,
         ["points"] = 4363.44,
       },
@@ -32936,7 +32936,7 @@ UWULogsData[7][1] = {
         ["points"] = 4633.55,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2227,
+        ["rank_raids"] = 2228,
         ["kill_count"] = 1,
         ["points"] = 4713.8,
       },
@@ -32963,7 +32963,7 @@ UWULogsData[7][1] = {
         ["points"] = 5070.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1656,
+        ["rank_raids"] = 1657,
         ["kill_count"] = 1,
         ["points"] = 5784.45,
       },
@@ -32990,7 +32990,7 @@ UWULogsData[7][1] = {
         ["points"] = 4687.57,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2121,
+        ["rank_raids"] = 2122,
         ["kill_count"] = 2,
         ["points"] = 4944.35,
       },
@@ -33017,7 +33017,7 @@ UWULogsData[7][1] = {
         ["points"] = 3449.62,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2401,
+        ["rank_raids"] = 2402,
         ["kill_count"] = 1,
         ["points"] = 4083.44,
       },
@@ -33049,7 +33049,7 @@ UWULogsData[7][1] = {
         ["points"] = 4798.49,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1370,
+        ["rank_raids"] = 1371,
         ["kill_count"] = 3,
         ["points"] = 6211.82,
       },
@@ -33071,7 +33071,7 @@ UWULogsData[7][1] = {
         ["points"] = 3582.49,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2273,
+        ["rank_raids"] = 2274,
         ["kill_count"] = 1,
         ["points"] = 4609.43,
       },
@@ -33120,7 +33120,7 @@ UWULogsData[7][1] = {
         ["points"] = 5245.56,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2241,
+        ["rank_raids"] = 2242,
         ["kill_count"] = 1,
         ["points"] = 4685.16,
       },
@@ -33147,7 +33147,7 @@ UWULogsData[7][1] = {
         ["points"] = 3903.15,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2333,
+        ["rank_raids"] = 2334,
         ["kill_count"] = 1,
         ["points"] = 4385.91,
       },
@@ -33174,7 +33174,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 828,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2381,
+        ["rank_raids"] = 2382,
         ["kill_count"] = 1,
         ["points"] = 4178.53,
       },
@@ -33206,7 +33206,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 829,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1209,
+        ["rank_raids"] = 1210,
         ["kill_count"] = 4,
         ["points"] = 6513.71,
       },
@@ -33233,7 +33233,7 @@ UWULogsData[7][1] = {
         ["points"] = 3435.86,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1890,
+        ["rank_raids"] = 1891,
         ["kill_count"] = 1,
         ["points"] = 5397.67,
       },
@@ -33255,7 +33255,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 831,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1896,
+        ["rank_raids"] = 1897,
         ["kill_count"] = 1,
         ["points"] = 5391.25,
       },
@@ -33287,7 +33287,7 @@ UWULogsData[7][1] = {
         ["points"] = 3927.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1772,
+        ["rank_raids"] = 1773,
         ["kill_count"] = 1,
         ["points"] = 5591.68,
       },
@@ -33319,7 +33319,7 @@ UWULogsData[7][1] = {
         ["points"] = 4369.46,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2344,
+        ["rank_raids"] = 2345,
         ["kill_count"] = 1,
         ["points"] = 4359.25,
       },
@@ -33368,7 +33368,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 835,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1569,
+        ["rank_raids"] = 1570,
         ["kill_count"] = 1,
         ["points"] = 5923.27,
       },
@@ -33395,7 +33395,7 @@ UWULogsData[7][1] = {
         ["points"] = 4723.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2196,
+        ["rank_raids"] = 2197,
         ["kill_count"] = 1,
         ["points"] = 4784.5,
       },
@@ -33422,7 +33422,7 @@ UWULogsData[7][1] = {
         ["points"] = 2785.61,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2398,
+        ["rank_raids"] = 2399,
         ["kill_count"] = 1,
         ["points"] = 4104.18,
       },
@@ -33459,7 +33459,7 @@ UWULogsData[7][1] = {
         ["points"] = 5230.34,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2436,
+        ["rank_raids"] = 2437,
         ["kill_count"] = 1,
         ["points"] = 3778.32,
       },
@@ -33486,7 +33486,7 @@ UWULogsData[7][1] = {
         ["points"] = 5200.42,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1666,
+        ["rank_raids"] = 1667,
         ["kill_count"] = 2,
         ["points"] = 5773.97,
       },
@@ -33518,7 +33518,7 @@ UWULogsData[7][1] = {
         ["points"] = 4620.68,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2335,
+        ["rank_raids"] = 2336,
         ["kill_count"] = 1,
         ["points"] = 4377.31,
       },
@@ -33547,7 +33547,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1001,
         ["kill_count"] = 2,
-        ["points"] = 6936.25,
+        ["points"] = 6939.16,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1438,
@@ -33567,7 +33567,7 @@ UWULogsData[7][1] = {
         ["points"] = 3595.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2256,
+        ["rank_raids"] = 2257,
         ["kill_count"] = 1,
         ["points"] = 4654.61,
       },
@@ -33594,7 +33594,7 @@ UWULogsData[7][1] = {
         ["points"] = 4549.41,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2204,
+        ["rank_raids"] = 2205,
         ["kill_count"] = 1,
         ["points"] = 4758.6,
       },
@@ -33616,7 +33616,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 844,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1961,
+        ["rank_raids"] = 1962,
         ["kill_count"] = 1,
         ["points"] = 5238.58,
       },
@@ -33643,7 +33643,7 @@ UWULogsData[7][1] = {
         ["points"] = 5527.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1900,
+        ["rank_raids"] = 1901,
         ["kill_count"] = 1,
         ["points"] = 5383.62,
       },
@@ -33692,7 +33692,7 @@ UWULogsData[7][1] = {
         ["points"] = 3548.24,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2176,
+        ["rank_raids"] = 2177,
         ["kill_count"] = 1,
         ["points"] = 4816.96,
       },
@@ -33714,7 +33714,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 848,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2104,
+        ["rank_raids"] = 2105,
         ["kill_count"] = 1,
         ["points"] = 4975.53,
       },
@@ -33751,7 +33751,7 @@ UWULogsData[7][1] = {
         ["points"] = 4511.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1927,
+        ["rank_raids"] = 1928,
         ["kill_count"] = 1,
         ["points"] = 5308.62,
       },
@@ -33778,7 +33778,7 @@ UWULogsData[7][1] = {
         ["points"] = 2611.01,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2481,
+        ["rank_raids"] = 2482,
         ["kill_count"] = 1,
         ["points"] = 3187.46,
       },
@@ -33810,7 +33810,7 @@ UWULogsData[7][1] = {
         ["points"] = 4114.19,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2235,
+        ["rank_raids"] = 2236,
         ["kill_count"] = 1,
         ["points"] = 4697.9,
       },
@@ -33837,7 +33837,7 @@ UWULogsData[7][1] = {
         ["points"] = 1689.49,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2503,
+        ["rank_raids"] = 2504,
         ["kill_count"] = 3,
         ["points"] = 2394.36,
       },
@@ -33872,7 +33872,7 @@ UWULogsData[7][1] = {
         ["points"] = 2122.51,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 470,
+        ["rank_raids"] = 471,
         ["kill_count"] = 1,
         ["points"] = 2595.79,
       },
@@ -33889,7 +33889,7 @@ UWULogsData[7][1] = {
         ["points"] = 4911.05,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2283,
+        ["rank_raids"] = 2284,
         ["kill_count"] = 1,
         ["points"] = 4581.18,
       },
@@ -33916,7 +33916,7 @@ UWULogsData[7][1] = {
         ["points"] = 2787.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2236,
+        ["rank_raids"] = 2237,
         ["kill_count"] = 1,
         ["points"] = 4697.86,
       },
@@ -33948,7 +33948,7 @@ UWULogsData[7][1] = {
         ["points"] = 5152.99,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1377,
+        ["rank_raids"] = 1378,
         ["kill_count"] = 1,
         ["points"] = 6202.92,
       },
@@ -33965,7 +33965,7 @@ UWULogsData[7][1] = {
         ["points"] = 4127.13,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2367,
+        ["rank_raids"] = 2368,
         ["kill_count"] = 1,
         ["points"] = 4238.69,
       },
@@ -33992,7 +33992,7 @@ UWULogsData[7][1] = {
         ["points"] = 5069.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1490,
+        ["rank_raids"] = 1491,
         ["kill_count"] = 2,
         ["points"] = 6039.44,
       },
@@ -34046,7 +34046,7 @@ UWULogsData[7][1] = {
         ["points"] = 4558.07,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2415,
+        ["rank_raids"] = 2416,
         ["kill_count"] = 1,
         ["points"] = 3958.87,
       },
@@ -34073,7 +34073,7 @@ UWULogsData[7][1] = {
         ["points"] = 3570.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2107,
+        ["rank_raids"] = 2108,
         ["kill_count"] = 1,
         ["points"] = 4968.88,
       },
@@ -34100,7 +34100,7 @@ UWULogsData[7][1] = {
         ["points"] = 6895.07,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1904,
+        ["rank_raids"] = 1905,
         ["kill_count"] = 1,
         ["points"] = 5375.54,
       },
@@ -34139,7 +34139,7 @@ UWULogsData[7][1] = {
         ["points"] = 3213.58,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2386,
+        ["rank_raids"] = 2387,
         ["kill_count"] = 1,
         ["points"] = 4162.33,
       },
@@ -34168,7 +34168,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 927,
         ["kill_count"] = 2,
-        ["points"] = 7250.24,
+        ["points"] = 7252.85,
       },
       ["Festergut"] = {
         ["rank_raids"] = 385,
@@ -34190,7 +34190,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 858,
         ["kill_count"] = 1,
-        ["points"] = 7592.77,
+        ["points"] = 7595.06,
       },
     },
   },
@@ -34207,7 +34207,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 893,
         ["kill_count"] = 1,
-        ["points"] = 7411.99,
+        ["points"] = 7414.45,
       },
     },
   },
@@ -34261,7 +34261,7 @@ UWULogsData[7][1] = {
         ["points"] = 4067.09,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2284,
+        ["rank_raids"] = 2285,
         ["kill_count"] = 1,
         ["points"] = 4581.16,
       },
@@ -34288,7 +34288,7 @@ UWULogsData[7][1] = {
         ["points"] = 3542.44,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2350,
+        ["rank_raids"] = 2351,
         ["kill_count"] = 2,
         ["points"] = 4324.24,
       },
@@ -34369,7 +34369,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 873,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1713,
+        ["rank_raids"] = 1714,
         ["kill_count"] = 5,
         ["points"] = 5684.59,
       },
@@ -34396,7 +34396,7 @@ UWULogsData[7][1] = {
         ["points"] = 4544.67,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2142,
+        ["rank_raids"] = 2143,
         ["kill_count"] = 1,
         ["points"] = 4899.97,
       },
@@ -34413,7 +34413,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 875,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1641,
+        ["rank_raids"] = 1642,
         ["kill_count"] = 3,
         ["points"] = 5805.48,
       },
@@ -34440,7 +34440,7 @@ UWULogsData[7][1] = {
         ["points"] = 3478.76,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2034,
+        ["rank_raids"] = 2035,
         ["kill_count"] = 1,
         ["points"] = 5098.74,
       },
@@ -34462,7 +34462,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 877,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1693,
+        ["rank_raids"] = 1694,
         ["kill_count"] = 1,
         ["points"] = 5723.95,
       },
@@ -34489,7 +34489,7 @@ UWULogsData[7][1] = {
         ["points"] = 5143.47,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2046,
+        ["rank_raids"] = 2047,
         ["kill_count"] = 1,
         ["points"] = 5076.93,
       },
@@ -34511,7 +34511,7 @@ UWULogsData[7][1] = {
         ["points"] = 3921.93,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2040,
+        ["rank_raids"] = 2041,
         ["kill_count"] = 1,
         ["points"] = 5089.32,
       },
@@ -34543,7 +34543,7 @@ UWULogsData[7][1] = {
         ["points"] = 4170.89,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1605,
+        ["rank_raids"] = 1606,
         ["kill_count"] = 1,
         ["points"] = 5860.29,
       },
@@ -34604,7 +34604,7 @@ UWULogsData[7][1] = {
         ["points"] = 3773.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2187,
+        ["rank_raids"] = 2188,
         ["kill_count"] = 1,
         ["points"] = 4800.76,
       },
@@ -34631,7 +34631,7 @@ UWULogsData[7][1] = {
         ["points"] = 4557.33,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1815,
+        ["rank_raids"] = 1816,
         ["kill_count"] = 1,
         ["points"] = 5505.87,
       },
@@ -34670,7 +34670,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 887,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2431,
+        ["rank_raids"] = 2432,
         ["kill_count"] = 1,
         ["points"] = 3826.25,
       },
@@ -34707,7 +34707,7 @@ UWULogsData[7][1] = {
         ["points"] = 7323.34,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1993,
+        ["rank_raids"] = 1994,
         ["kill_count"] = 1,
         ["points"] = 5182.14,
       },
@@ -34729,7 +34729,7 @@ UWULogsData[7][1] = {
         ["points"] = 3125.16,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2445,
+        ["rank_raids"] = 2446,
         ["kill_count"] = 1,
         ["points"] = 3655.27,
       },
@@ -34761,7 +34761,7 @@ UWULogsData[7][1] = {
         ["points"] = 3400.62,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2463,
+        ["rank_raids"] = 2464,
         ["kill_count"] = 1,
         ["points"] = 3423.08,
       },
@@ -34798,7 +34798,7 @@ UWULogsData[7][1] = {
         ["points"] = 3785.97,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2174,
+        ["rank_raids"] = 2175,
         ["kill_count"] = 2,
         ["points"] = 4822.44,
       },
@@ -34820,7 +34820,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 892,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1954,
+        ["rank_raids"] = 1955,
         ["kill_count"] = 1,
         ["points"] = 5261.14,
       },
@@ -34842,7 +34842,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 893,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2177,
+        ["rank_raids"] = 2178,
         ["kill_count"] = 1,
         ["points"] = 4816.81,
       },
@@ -34864,7 +34864,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 894,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2416,
+        ["rank_raids"] = 2417,
         ["kill_count"] = 1,
         ["points"] = 3956.39,
       },
@@ -34908,7 +34908,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 897,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2169,
+        ["rank_raids"] = 2170,
         ["kill_count"] = 1,
         ["points"] = 4830.56,
       },
@@ -34918,7 +34918,7 @@ UWULogsData[7][1] = {
         ["points"] = 2174.57,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 269,
+        ["rank_raids"] = 270,
         ["kill_count"] = 1,
         ["points"] = 7061.34,
       },
@@ -34935,7 +34935,7 @@ UWULogsData[7][1] = {
         ["points"] = 1237.32,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2438,
+        ["rank_raids"] = 2439,
         ["kill_count"] = 1,
         ["points"] = 3743.62,
       },
@@ -34972,7 +34972,7 @@ UWULogsData[7][1] = {
         ["points"] = 3679.22,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2374,
+        ["rank_raids"] = 2375,
         ["kill_count"] = 1,
         ["points"] = 4205.51,
       },
@@ -34999,7 +34999,7 @@ UWULogsData[7][1] = {
         ["points"] = 1885.61,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2129,
+        ["rank_raids"] = 2130,
         ["kill_count"] = 1,
         ["points"] = 4929.65,
       },
@@ -35043,7 +35043,7 @@ UWULogsData[7][1] = {
         ["points"] = 4713.84,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2182,
+        ["rank_raids"] = 2183,
         ["kill_count"] = 1,
         ["points"] = 4812.32,
       },
@@ -35077,7 +35077,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 905,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1290,
+        ["rank_raids"] = 1291,
         ["kill_count"] = 1,
         ["points"] = 6371.94,
       },
@@ -35104,7 +35104,7 @@ UWULogsData[7][1] = {
         ["points"] = 4159.67,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2130,
+        ["rank_raids"] = 2131,
         ["kill_count"] = 1,
         ["points"] = 4928.96,
       },
@@ -35126,7 +35126,7 @@ UWULogsData[7][1] = {
         ["points"] = 2879.22,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2433,
+        ["rank_raids"] = 2434,
         ["kill_count"] = 1,
         ["points"] = 3817.6,
       },
@@ -35170,7 +35170,7 @@ UWULogsData[7][1] = {
         ["points"] = 4072.76,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2229,
+        ["rank_raids"] = 2230,
         ["kill_count"] = 1,
         ["points"] = 4706.66,
       },
@@ -35187,7 +35187,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 910,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1272,
+        ["rank_raids"] = 1273,
         ["kill_count"] = 1,
         ["points"] = 6403.89,
       },
@@ -35211,7 +35211,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 919,
         ["kill_count"] = 1,
-        ["points"] = 7288.3,
+        ["points"] = 7290.87,
       },
     },
   },
@@ -35228,7 +35228,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 942,
         ["kill_count"] = 1,
-        ["points"] = 7183.63,
+        ["points"] = 7186.31,
       },
     },
   },
@@ -35243,7 +35243,7 @@ UWULogsData[7][1] = {
         ["points"] = 2083.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2396,
+        ["rank_raids"] = 2397,
         ["kill_count"] = 1,
         ["points"] = 4107.16,
       },
@@ -35270,7 +35270,7 @@ UWULogsData[7][1] = {
         ["points"] = 3501.32,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2450,
+        ["rank_raids"] = 2451,
         ["kill_count"] = 1,
         ["points"] = 3596.5,
       },
@@ -35297,7 +35297,7 @@ UWULogsData[7][1] = {
         ["points"] = 6745.18,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1361,
+        ["rank_raids"] = 1362,
         ["kill_count"] = 1,
         ["points"] = 6233.49,
       },
@@ -35316,7 +35316,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 689,
         ["kill_count"] = 1,
-        ["points"] = 8192.2,
+        ["points"] = 8193.92,
       },
     },
   },
@@ -35331,7 +35331,7 @@ UWULogsData[7][1] = {
         ["points"] = 2838.18,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2500,
+        ["rank_raids"] = 2501,
         ["kill_count"] = 1,
         ["points"] = 2535.01,
       },
@@ -35363,7 +35363,7 @@ UWULogsData[7][1] = {
         ["points"] = 3596.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2298,
+        ["rank_raids"] = 2299,
         ["kill_count"] = 1,
         ["points"] = 4506.04,
       },
@@ -35375,7 +35375,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Pankh"] = {
-    ["percentile"] = 12.94,
+    ["percentile"] = 12.95,
     ["server"] = "Icecrown",
     ["overall_rank"] = 919,
     ["bosses"] = {
@@ -35387,7 +35387,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1010,
         ["kill_count"] = 1,
-        ["points"] = 6907.71,
+        ["points"] = 6910.65,
       },
     },
   },
@@ -35402,7 +35402,7 @@ UWULogsData[7][1] = {
         ["points"] = 3862.56,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1968,
+        ["rank_raids"] = 1969,
         ["kill_count"] = 1,
         ["points"] = 5225.65,
       },
@@ -35424,7 +35424,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 921,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2180,
+        ["rank_raids"] = 2181,
         ["kill_count"] = 1,
         ["points"] = 4813.66,
       },
@@ -35446,7 +35446,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 922,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1876,
+        ["rank_raids"] = 1877,
         ["kill_count"] = 1,
         ["points"] = 5413.32,
       },
@@ -35490,7 +35490,7 @@ UWULogsData[7][1] = {
         ["points"] = 3890.48,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2190,
+        ["rank_raids"] = 2191,
         ["kill_count"] = 1,
         ["points"] = 4797.99,
       },
@@ -35512,7 +35512,7 @@ UWULogsData[7][1] = {
         ["points"] = 4731.37,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2173,
+        ["rank_raids"] = 2174,
         ["kill_count"] = 1,
         ["points"] = 4824.66,
       },
@@ -35578,7 +35578,7 @@ UWULogsData[7][1] = {
         ["points"] = 1798.29,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2496,
+        ["rank_raids"] = 2497,
         ["kill_count"] = 1,
         ["points"] = 2632.84,
       },
@@ -35603,7 +35603,7 @@ UWULogsData[7][1] = {
         ["points"] = 856.91,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 488,
+        ["rank_raids"] = 489,
         ["kill_count"] = 1,
         ["points"] = 38.51,
       },
@@ -35620,7 +35620,7 @@ UWULogsData[7][1] = {
         ["points"] = 2685.78,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2489,
+        ["rank_raids"] = 2490,
         ["kill_count"] = 1,
         ["points"] = 3010.75,
       },
@@ -35642,7 +35642,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 930,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2513,
+        ["rank_raids"] = 2514,
         ["kill_count"] = 1,
         ["points"] = 1663.2,
       },
@@ -35679,7 +35679,7 @@ UWULogsData[7][1] = {
         ["points"] = 2442.89,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2475,
+        ["rank_raids"] = 2476,
         ["kill_count"] = 1,
         ["points"] = 3241.73,
       },
@@ -35706,7 +35706,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 932,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2358,
+        ["rank_raids"] = 2359,
         ["kill_count"] = 1,
         ["points"] = 4287.78,
       },
@@ -35733,7 +35733,7 @@ UWULogsData[7][1] = {
         ["points"] = 5377.68,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1402,
+        ["rank_raids"] = 1403,
         ["kill_count"] = 1,
         ["points"] = 6172.49,
       },
@@ -35772,7 +35772,7 @@ UWULogsData[7][1] = {
         ["points"] = 5688.95,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1618,
+        ["rank_raids"] = 1619,
         ["kill_count"] = 1,
         ["points"] = 5838.72,
       },
@@ -35784,7 +35784,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 936,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1500,
+        ["rank_raids"] = 1501,
         ["kill_count"] = 1,
         ["points"] = 6033.06,
       },
@@ -35806,7 +35806,7 @@ UWULogsData[7][1] = {
         ["points"] = 5045.12,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1297,
+        ["rank_raids"] = 1298,
         ["kill_count"] = 1,
         ["points"] = 6365.59,
       },
@@ -35823,7 +35823,7 @@ UWULogsData[7][1] = {
         ["points"] = 1807.52,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1801,
+        ["rank_raids"] = 1802,
         ["kill_count"] = 1,
         ["points"] = 5534.16,
       },
@@ -35862,7 +35862,7 @@ UWULogsData[7][1] = {
         ["points"] = 3063.07,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2452,
+        ["rank_raids"] = 2453,
         ["kill_count"] = 1,
         ["points"] = 3557.85,
       },
@@ -35889,7 +35889,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 941,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1651,
+        ["rank_raids"] = 1652,
         ["kill_count"] = 1,
         ["points"] = 5792.85,
       },
@@ -35911,7 +35911,7 @@ UWULogsData[7][1] = {
         ["points"] = 6531.05,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2249,
+        ["rank_raids"] = 2250,
         ["kill_count"] = 1,
         ["points"] = 4680.08,
       },
@@ -35962,7 +35962,7 @@ UWULogsData[7][1] = {
         ["points"] = 5734.36,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1868,
+        ["rank_raids"] = 1869,
         ["kill_count"] = 1,
         ["points"] = 5424.58,
       },
@@ -35974,7 +35974,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 946,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1886,
+        ["rank_raids"] = 1887,
         ["kill_count"] = 1,
         ["points"] = 5402.63,
       },
@@ -35996,7 +35996,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 947,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2418,
+        ["rank_raids"] = 2419,
         ["kill_count"] = 1,
         ["points"] = 3916.59,
       },
@@ -36040,7 +36040,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 949,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2495,
+        ["rank_raids"] = 2496,
         ["kill_count"] = 1,
         ["points"] = 2720.29,
       },
@@ -36072,7 +36072,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 950,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2488,
+        ["rank_raids"] = 2489,
         ["kill_count"] = 1,
         ["points"] = 3024.48,
       },
@@ -36104,7 +36104,7 @@ UWULogsData[7][1] = {
         ["points"] = 3256.12,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2355,
+        ["rank_raids"] = 2356,
         ["kill_count"] = 1,
         ["points"] = 4296.63,
       },
@@ -36126,7 +36126,7 @@ UWULogsData[7][1] = {
         ["points"] = 3983.59,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2456,
+        ["rank_raids"] = 2457,
         ["kill_count"] = 1,
         ["points"] = 3552.42,
       },
@@ -36148,7 +36148,7 @@ UWULogsData[7][1] = {
         ["points"] = 2614.89,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2468,
+        ["rank_raids"] = 2469,
         ["kill_count"] = 1,
         ["points"] = 3283.63,
       },
@@ -36175,7 +36175,7 @@ UWULogsData[7][1] = {
         ["points"] = 5323.15,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1854,
+        ["rank_raids"] = 1855,
         ["kill_count"] = 1,
         ["points"] = 5445.53,
       },
@@ -36187,7 +36187,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 955,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2143,
+        ["rank_raids"] = 2144,
         ["kill_count"] = 1,
         ["points"] = 4896.09,
       },
@@ -36209,7 +36209,7 @@ UWULogsData[7][1] = {
         ["points"] = 4943.96,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1677,
+        ["rank_raids"] = 1678,
         ["kill_count"] = 1,
         ["points"] = 5746.81,
       },
@@ -36248,7 +36248,7 @@ UWULogsData[7][1] = {
         ["points"] = 3222.22,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2135,
+        ["rank_raids"] = 2136,
         ["kill_count"] = 1,
         ["points"] = 4916.21,
       },
@@ -36282,7 +36282,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 960,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1673,
+        ["rank_raids"] = 1674,
         ["kill_count"] = 1,
         ["points"] = 5755.59,
       },
@@ -36299,7 +36299,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 961,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1379,
+        ["rank_raids"] = 1380,
         ["kill_count"] = 2,
         ["points"] = 6197.08,
       },
@@ -36353,7 +36353,7 @@ UWULogsData[7][1] = {
         ["points"] = 340.66,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2462,
+        ["rank_raids"] = 2463,
         ["kill_count"] = 1,
         ["points"] = 3426.53,
       },
@@ -36404,7 +36404,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 288,
         ["kill_count"] = 1,
-        ["points"] = 9162.7,
+        ["points"] = 9163.5,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2162,
@@ -36439,7 +36439,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 967,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2366,
+        ["rank_raids"] = 2367,
         ["kill_count"] = 1,
         ["points"] = 4242.33,
       },
@@ -36466,7 +36466,7 @@ UWULogsData[7][1] = {
         ["points"] = 1260.45,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2467,
+        ["rank_raids"] = 2468,
         ["kill_count"] = 1,
         ["points"] = 3372.36,
       },
@@ -36498,7 +36498,7 @@ UWULogsData[7][1] = {
         ["points"] = 5649.48,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2363,
+        ["rank_raids"] = 2364,
         ["kill_count"] = 1,
         ["points"] = 4250.44,
       },
@@ -36512,7 +36512,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 39,
         ["kill_count"] = 3,
-        ["points"] = 9849.39,
+        ["points"] = 9849.45,
       },
     },
   },
@@ -36541,7 +36541,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 73,
         ["kill_count"] = 1,
-        ["points"] = 9714.63,
+        ["points"] = 9714.74,
       },
     },
   },
@@ -36556,7 +36556,7 @@ UWULogsData[7][1] = {
         ["points"] = 4852.02,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2164,
+        ["rank_raids"] = 2165,
         ["kill_count"] = 1,
         ["points"] = 4847.34,
       },
@@ -36568,7 +36568,7 @@ UWULogsData[7][1] = {
     ["overall_rank"] = 974,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2126,
+        ["rank_raids"] = 2127,
         ["kill_count"] = 3,
         ["points"] = 4932.99,
       },
@@ -36619,7 +36619,7 @@ UWULogsData[7][1] = {
         ["points"] = 3040.52,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2379,
+        ["rank_raids"] = 2380,
         ["kill_count"] = 1,
         ["points"] = 4186.12,
       },
@@ -36638,7 +36638,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 181,
         ["kill_count"] = 1,
-        ["points"] = 9391.06,
+        ["points"] = 9391.63,
       },
     },
   },
@@ -36653,7 +36653,7 @@ UWULogsData[7][1] = {
         ["points"] = 4121.99,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1960,
+        ["rank_raids"] = 1961,
         ["kill_count"] = 2,
         ["points"] = 5241.17,
       },
@@ -36670,7 +36670,7 @@ UWULogsData[7][1] = {
         ["points"] = 4351.25,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2090,
+        ["rank_raids"] = 2091,
         ["kill_count"] = 1,
         ["points"] = 5000.52,
       },
@@ -36704,7 +36704,7 @@ UWULogsData[7][1] = {
         ["points"] = 4195.24,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2053,
+        ["rank_raids"] = 2054,
         ["kill_count"] = 1,
         ["points"] = 5070.57,
       },
@@ -36718,7 +36718,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 323,
         ["kill_count"] = 5,
-        ["points"] = 9124.64,
+        ["points"] = 9125.48,
       },
     },
   },
@@ -36733,7 +36733,7 @@ UWULogsData[7][1] = {
         ["points"] = 2497.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1212,
+        ["rank_raids"] = 1213,
         ["kill_count"] = 1,
         ["points"] = 6502.52,
       },
@@ -36750,7 +36750,7 @@ UWULogsData[7][1] = {
         ["points"] = 1506.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2515,
+        ["rank_raids"] = 2516,
         ["kill_count"] = 1,
         ["points"] = 1512.43,
       },
@@ -36789,19 +36789,19 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 447,
         ["kill_count"] = 1,
-        ["points"] = 8839.2,
+        ["points"] = 8840.3,
       },
     },
   },
   ["Onlyhero"] = {
-    ["percentile"] = 8.87,
+    ["percentile"] = 8.88,
     ["server"] = "Icecrown",
     ["overall_rank"] = 989,
     ["bosses"] = {
       ["The Lich King"] = {
         ["rank_raids"] = 58,
         ["kill_count"] = 2,
-        ["points"] = 8829.57,
+        ["points"] = 8831.97,
       },
     },
   },
@@ -36842,7 +36842,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 463,
         ["kill_count"] = 1,
-        ["points"] = 8753.57,
+        ["points"] = 8754.75,
       },
     },
   },
@@ -36854,7 +36854,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 471,
         ["kill_count"] = 3,
-        ["points"] = 8744.05,
+        ["points"] = 8745.25,
       },
     },
   },
@@ -36917,7 +36917,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 569,
         ["kill_count"] = 2,
-        ["points"] = 8525.21,
+        ["points"] = 8526.62,
       },
     },
   },
@@ -36932,7 +36932,7 @@ UWULogsData[7][1] = {
         ["points"] = 3721.84,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2192,
+        ["rank_raids"] = 2193,
         ["kill_count"] = 1,
         ["points"] = 4795.59,
       },
@@ -36946,7 +36946,7 @@ UWULogsData[7][1] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 644,
         ["kill_count"] = 2,
-        ["points"] = 8315.89,
+        ["points"] = 8317.49,
       },
     },
   },

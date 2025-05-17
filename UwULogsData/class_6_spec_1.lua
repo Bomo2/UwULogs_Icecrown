@@ -66,7 +66,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 19,
         ["kill_count"] = 33,
-        ["points"] = 9941.44,
+        ["points"] = 9941.46,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 9,
@@ -123,7 +123,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 60,
         ["kill_count"] = 25,
-        ["points"] = 9808.07,
+        ["points"] = 9808.13,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1,
@@ -294,7 +294,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 10,
         ["kill_count"] = 8,
-        ["points"] = 9970.72,
+        ["points"] = 9970.73,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 10,
@@ -408,7 +408,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 20,
         ["kill_count"] = 7,
-        ["points"] = 9938.19,
+        ["points"] = 9938.21,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 11,
@@ -465,7 +465,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 51,
         ["kill_count"] = 33,
-        ["points"] = 9837.35,
+        ["points"] = 9837.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 26,
@@ -522,7 +522,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 83,
         ["kill_count"] = 2,
-        ["points"] = 9733.25,
+        ["points"] = 9733.33,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4,
@@ -579,7 +579,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6,
         ["kill_count"] = 15,
-        ["points"] = 9983.73,
+        ["points"] = 9983.74,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 25,
@@ -636,7 +636,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 17,
         ["kill_count"] = 14,
-        ["points"] = 9947.95,
+        ["points"] = 9947.97,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 35,
@@ -693,7 +693,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 119,
         ["kill_count"] = 26,
-        ["points"] = 9616.14,
+        ["points"] = 9616.26,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 22,
@@ -750,7 +750,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 24,
         ["kill_count"] = 3,
-        ["points"] = 9925.18,
+        ["points"] = 9925.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 41,
@@ -807,7 +807,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 68,
         ["kill_count"] = 4,
-        ["points"] = 9782.04,
+        ["points"] = 9782.11,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 39,
@@ -864,7 +864,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 30,
         ["kill_count"] = 6,
-        ["points"] = 9905.66,
+        ["points"] = 9905.69,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 55,
@@ -921,7 +921,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 48,
         ["kill_count"] = 63,
-        ["points"] = 9847.1,
+        ["points"] = 9847.15,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 141,
@@ -978,7 +978,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 21,
         ["kill_count"] = 7,
-        ["points"] = 9934.94,
+        ["points"] = 9934.96,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 19,
@@ -1035,7 +1035,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 13,
         ["kill_count"] = 3,
-        ["points"] = 9960.96,
+        ["points"] = 9960.98,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 96,
@@ -1092,7 +1092,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 47,
         ["kill_count"] = 17,
-        ["points"] = 9850.36,
+        ["points"] = 9850.41,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 61,
@@ -1149,7 +1149,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 12,
         ["kill_count"] = 4,
-        ["points"] = 9964.22,
+        ["points"] = 9964.23,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 53,
@@ -1206,7 +1206,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 203,
         ["kill_count"] = 4,
-        ["points"] = 9342.88,
+        ["points"] = 9343.09,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 176,
@@ -1263,7 +1263,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 340,
         ["kill_count"] = 11,
-        ["points"] = 8933.86,
+        ["points"] = 8934.91,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 60,
@@ -1320,7 +1320,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 66,
         ["kill_count"] = 2,
-        ["points"] = 9788.55,
+        ["points"] = 9788.62,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 85,
@@ -1377,7 +1377,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 75,
         ["kill_count"] = 13,
-        ["points"] = 9759.27,
+        ["points"] = 9759.35,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 323,
@@ -1434,7 +1434,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 228,
         ["kill_count"] = 3,
-        ["points"] = 9261.55,
+        ["points"] = 9261.79,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 64,
@@ -1491,7 +1491,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 97,
         ["kill_count"] = 9,
-        ["points"] = 9687.7,
+        ["points"] = 9687.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 215,
@@ -1548,7 +1548,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 54,
         ["kill_count"] = 46,
-        ["points"] = 9827.59,
+        ["points"] = 9827.64,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 57,
@@ -1605,7 +1605,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 251,
         ["kill_count"] = 1,
-        ["points"] = 9186.73,
+        ["points"] = 9186.99,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 48,
@@ -1662,7 +1662,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 224,
         ["kill_count"] = 5,
-        ["points"] = 9274.56,
+        ["points"] = 9274.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 115,
@@ -1719,7 +1719,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 118,
         ["kill_count"] = 27,
-        ["points"] = 9619.39,
+        ["points"] = 9619.51,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 108,
@@ -1776,7 +1776,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 128,
         ["kill_count"] = 6,
-        ["points"] = 9586.86,
+        ["points"] = 9586.99,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 285,
@@ -1833,7 +1833,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 116,
         ["kill_count"] = 5,
-        ["points"] = 9625.89,
+        ["points"] = 9626.02,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 165,
@@ -1890,7 +1890,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 56,
         ["kill_count"] = 6,
-        ["points"] = 9821.08,
+        ["points"] = 9821.14,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 300,
@@ -1947,7 +1947,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 52,
         ["kill_count"] = 4,
-        ["points"] = 9834.09,
+        ["points"] = 9834.15,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 375,
@@ -2004,7 +2004,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 145,
         ["kill_count"] = 7,
-        ["points"] = 9531.55,
+        ["points"] = 9531.71,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 94,
@@ -2061,7 +2061,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 271,
         ["kill_count"] = 8,
-        ["points"] = 9121.67,
+        ["points"] = 9121.95,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 299,
@@ -2118,7 +2118,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 102,
         ["kill_count"] = 52,
-        ["points"] = 9671.44,
+        ["points"] = 9671.54,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 78,
@@ -2175,7 +2175,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 34,
         ["kill_count"] = 10,
-        ["points"] = 9892.65,
+        ["points"] = 9892.68,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 253,
@@ -2232,7 +2232,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 366,
         ["kill_count"] = 6,
-        ["points"] = 8854.89,
+        ["points"] = 8856.02,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 72,
@@ -2289,7 +2289,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 157,
         ["kill_count"] = 12,
-        ["points"] = 9492.52,
+        ["points"] = 9492.68,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 236,
@@ -2346,7 +2346,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 215,
         ["kill_count"] = 10,
-        ["points"] = 9303.84,
+        ["points"] = 9304.07,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 333,
@@ -2403,7 +2403,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 89,
         ["kill_count"] = 8,
-        ["points"] = 9713.73,
+        ["points"] = 9713.82,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 228,
@@ -2460,7 +2460,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 178,
         ["kill_count"] = 4,
-        ["points"] = 9424.2,
+        ["points"] = 9424.39,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 180,
@@ -2517,7 +2517,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 88,
         ["kill_count"] = 11,
-        ["points"] = 9716.98,
+        ["points"] = 9717.07,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 485,
@@ -2574,7 +2574,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 226,
         ["kill_count"] = 4,
-        ["points"] = 9268.05,
+        ["points"] = 9268.29,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 208,
@@ -2631,7 +2631,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 44,
         ["kill_count"] = 13,
-        ["points"] = 9860.12,
+        ["points"] = 9860.16,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 101,
@@ -2688,7 +2688,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 58,
         ["kill_count"] = 9,
-        ["points"] = 9814.57,
+        ["points"] = 9814.63,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 148,
@@ -2745,7 +2745,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 243,
         ["kill_count"] = 11,
-        ["points"] = 9212.75,
+        ["points"] = 9213.01,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 145,
@@ -2802,7 +2802,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 105,
         ["kill_count"] = 26,
-        ["points"] = 9661.68,
+        ["points"] = 9661.79,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 521,
@@ -2859,7 +2859,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 451,
         ["kill_count"] = 6,
-        ["points"] = 8647.58,
+        ["points"] = 8648.92,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 76,
@@ -2916,7 +2916,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 729,
         ["kill_count"] = 5,
-        ["points"] = 7966.44,
+        ["points"] = 7968.44,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 107,
@@ -2966,14 +2966,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Promkatsfel"] = {
-    ["percentile"] = 89.62,
+    ["percentile"] = 89.63,
     ["server"] = "Icecrown",
     ["overall_rank"] = 53,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 253,
         ["kill_count"] = 12,
-        ["points"] = 9180.22,
+        ["points"] = 9180.49,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 142,
@@ -3030,7 +3030,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 142,
         ["kill_count"] = 27,
-        ["points"] = 9541.31,
+        ["points"] = 9541.46,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 88,
@@ -3087,7 +3087,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 117,
         ["kill_count"] = 3,
-        ["points"] = 9622.64,
+        ["points"] = 9622.76,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 143,
@@ -3144,7 +3144,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 95,
         ["kill_count"] = 2,
-        ["points"] = 9694.21,
+        ["points"] = 9694.31,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 361,
@@ -3201,7 +3201,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 161,
         ["kill_count"] = 4,
-        ["points"] = 9479.51,
+        ["points"] = 9479.67,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 246,
@@ -3258,7 +3258,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 134,
         ["kill_count"] = 7,
-        ["points"] = 9567.34,
+        ["points"] = 9567.48,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 185,
@@ -3315,7 +3315,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 133,
         ["kill_count"] = 4,
-        ["points"] = 9570.59,
+        ["points"] = 9570.73,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 256,
@@ -3372,7 +3372,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 218,
         ["kill_count"] = 4,
-        ["points"] = 9294.08,
+        ["points"] = 9294.31,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 216,
@@ -3429,7 +3429,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 166,
         ["kill_count"] = 7,
-        ["points"] = 9463.24,
+        ["points"] = 9463.41,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 571,
@@ -3486,7 +3486,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 343,
         ["kill_count"] = 2,
-        ["points"] = 8923.99,
+        ["points"] = 8925.05,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 218,
@@ -3543,7 +3543,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 301,
         ["kill_count"] = 7,
-        ["points"] = 9024.07,
+        ["points"] = 9024.39,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 278,
@@ -3598,7 +3598,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 64,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2987,
+        ["rank_raids"] = 2988,
         ["kill_count"] = 1,
         ["points"] = 2874.38,
       },
@@ -3657,7 +3657,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 320,
         ["kill_count"] = 9,
-        ["points"] = 8973.35,
+        ["points"] = 8974.36,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 284,
@@ -3714,7 +3714,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 180,
         ["kill_count"] = 5,
-        ["points"] = 9417.7,
+        ["points"] = 9417.89,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 380,
@@ -3771,7 +3771,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 222,
         ["kill_count"] = 6,
-        ["points"] = 9281.07,
+        ["points"] = 9281.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 517,
@@ -3828,7 +3828,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 245,
         ["kill_count"] = 5,
-        ["points"] = 9206.25,
+        ["points"] = 9206.5,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 182,
@@ -3885,7 +3885,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 153,
         ["kill_count"] = 11,
-        ["points"] = 9505.53,
+        ["points"] = 9505.69,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 241,
@@ -3935,14 +3935,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Kalyma"] = {
-    ["percentile"] = 87.17,
+    ["percentile"] = 87.18,
     ["server"] = "Icecrown",
     ["overall_rank"] = 70,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 596,
         ["kill_count"] = 1,
-        ["points"] = 8341.56,
+        ["points"] = 8343.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 384,
@@ -3999,7 +3999,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 91,
         ["kill_count"] = 11,
-        ["points"] = 9707.22,
+        ["points"] = 9707.32,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 350,
@@ -4056,7 +4056,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 144,
         ["kill_count"] = 2,
-        ["points"] = 9534.81,
+        ["points"] = 9534.96,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 388,
@@ -4113,7 +4113,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 125,
         ["kill_count"] = 2,
-        ["points"] = 9596.62,
+        ["points"] = 9596.75,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 86,
@@ -4163,14 +4163,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Silvershadez"] = {
-    ["percentile"] = 86.41,
+    ["percentile"] = 86.42,
     ["server"] = "Icecrown",
     ["overall_rank"] = 74,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 335,
         ["kill_count"] = 2,
-        ["points"] = 8943.73,
+        ["points"] = 8944.77,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1006,
@@ -4227,7 +4227,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 71,
         ["kill_count"] = 22,
-        ["points"] = 9772.28,
+        ["points"] = 9772.36,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 501,
@@ -4284,7 +4284,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 630,
         ["kill_count"] = 6,
-        ["points"] = 8262.59,
+        ["points"] = 8264.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 251,
@@ -4341,7 +4341,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 252,
         ["kill_count"] = 13,
-        ["points"] = 9183.47,
+        ["points"] = 9183.74,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 181,
@@ -4398,7 +4398,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 274,
         ["kill_count"] = 2,
-        ["points"] = 9111.91,
+        ["points"] = 9112.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 13,
@@ -4450,7 +4450,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 93,
         ["kill_count"] = 4,
-        ["points"] = 9700.72,
+        ["points"] = 9700.81,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 489,
@@ -4507,7 +4507,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 158,
         ["kill_count"] = 8,
-        ["points"] = 9489.26,
+        ["points"] = 9489.43,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 312,
@@ -4564,7 +4564,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 106,
         ["kill_count"] = 9,
-        ["points"] = 9658.43,
+        ["points"] = 9658.54,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 995,
@@ -4621,7 +4621,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 197,
         ["kill_count"] = 11,
-        ["points"] = 9362.39,
+        ["points"] = 9362.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 490,
@@ -4678,7 +4678,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 528,
         ["kill_count"] = 4,
-        ["points"] = 8469.89,
+        ["points"] = 8471.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 291,
@@ -4728,14 +4728,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Bulbobaggins"] = {
-    ["percentile"] = 85.05,
+    ["percentile"] = 85.06,
     ["server"] = "Icecrown",
     ["overall_rank"] = 84,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 100,
         ["kill_count"] = 2,
-        ["points"] = 9677.94,
+        ["points"] = 9678.05,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 50,
@@ -4792,7 +4792,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 422,
         ["kill_count"] = 9,
-        ["points"] = 8726.55,
+        ["points"] = 8727.81,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 169,
@@ -4849,7 +4849,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 409,
         ["kill_count"] = 5,
-        ["points"] = 8756.17,
+        ["points"] = 8757.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 444,
@@ -4906,7 +4906,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 832,
         ["kill_count"] = 9,
-        ["points"] = 7719.64,
+        ["points"] = 7721.89,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 222,
@@ -4956,14 +4956,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Replay"] = {
-    ["percentile"] = 84.08,
+    ["percentile"] = 84.09,
     ["server"] = "Icecrown",
     ["overall_rank"] = 88,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 469,
         ["kill_count"] = 11,
-        ["points"] = 8627.84,
+        ["points"] = 8629.19,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 604,
@@ -5020,7 +5020,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 768,
         ["kill_count"] = 15,
-        ["points"] = 7877.59,
+        ["points"] = 7879.68,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 481,
@@ -5070,14 +5070,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Mommykorogue"] = {
-    ["percentile"] = 83.67,
+    ["percentile"] = 83.68,
     ["server"] = "Icecrown",
     ["overall_rank"] = 90,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 724,
         ["kill_count"] = 10,
-        ["points"] = 7986.18,
+        ["points"] = 7988.17,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 122,
@@ -5134,7 +5134,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 121,
         ["kill_count"] = 3,
-        ["points"] = 9609.63,
+        ["points"] = 9609.76,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 298,
@@ -5184,14 +5184,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Excaliburgla"] = {
-    ["percentile"] = 83.14,
+    ["percentile"] = 83.15,
     ["server"] = "Icecrown",
     ["overall_rank"] = 92,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 682,
         ["kill_count"] = 7,
-        ["points"] = 8084.9,
+        ["points"] = 8086.79,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 191,
@@ -5248,7 +5248,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 367,
         ["kill_count"] = 4,
-        ["points"] = 8845.01,
+        ["points"] = 8846.15,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 336,
@@ -5305,7 +5305,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 977,
         ["kill_count"] = 2,
-        ["points"] = 7354.39,
+        ["points"] = 7357.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 305,
@@ -5357,12 +5357,12 @@ UWULogsData[6][1] = {
   ["Urosnejaki"] = {
     ["percentile"] = 82.03,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 2977,
+    ["overall_rank"] = 2979,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 13966,
+        ["rank_raids"] = 13970,
         ["kill_count"] = 2,
-        ["points"] = 6154.4,
+        ["points"] = 6154.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2691,
@@ -5370,56 +5370,56 @@ UWULogsData[6][1] = {
         ["points"] = 8743.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 19490,
+        ["rank_raids"] = 19494,
         ["kill_count"] = 2,
-        ["points"] = 5602.0,
+        ["points"] = 5601.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 22110,
+        ["rank_raids"] = 22112,
         ["kill_count"] = 2,
-        ["points"] = 5340.0,
+        ["points"] = 5339.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 27007,
+        ["rank_raids"] = 27010,
         ["kill_count"] = 2,
-        ["points"] = 4850.3,
+        ["points"] = 4850.0,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 13593,
+        ["rank_raids"] = 13594,
         ["kill_count"] = 2,
-        ["points"] = 6191.7,
+        ["points"] = 6191.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 13110,
+        ["rank_raids"] = 13112,
         ["kill_count"] = 2,
-        ["points"] = 6240.0,
+        ["points"] = 6239.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 32713,
+        ["rank_raids"] = 32719,
         ["kill_count"] = 2,
-        ["points"] = 4279.7,
+        ["points"] = 4279.1,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5777,
+        ["rank_raids"] = 5778,
         ["kill_count"] = 3,
-        ["points"] = 7817.9,
+        ["points"] = 7817.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6481,
+        ["rank_raids"] = 6482,
         ["kill_count"] = 2,
-        ["points"] = 7606.7,
+        ["points"] = 7606.4,
       },
     },
   },
   ["Spatze"] = {
-    ["percentile"] = 81.81,
+    ["percentile"] = 81.82,
     ["server"] = "Icecrown",
     ["overall_rank"] = 96,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1079,
         ["kill_count"] = 7,
-        ["points"] = 7048.37,
+        ["points"] = 7051.28,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 580,
@@ -5476,7 +5476,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1055,
         ["kill_count"] = 3,
-        ["points"] = 7127.34,
+        ["points"] = 7130.18,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 649,
@@ -5533,7 +5533,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 152,
         ["kill_count"] = 2,
-        ["points"] = 9508.78,
+        ["points"] = 9508.94,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 779,
@@ -5590,7 +5590,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 375,
         ["kill_count"] = 9,
-        ["points"] = 8825.27,
+        ["points"] = 8826.43,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 144,
@@ -5647,7 +5647,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 260,
         ["kill_count"] = 13,
-        ["points"] = 9157.45,
+        ["points"] = 9157.72,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 524,
@@ -5704,7 +5704,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 136,
         ["kill_count"] = 7,
-        ["points"] = 9560.83,
+        ["points"] = 9560.98,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 436,
@@ -5761,7 +5761,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 559,
         ["kill_count"] = 6,
-        ["points"] = 8400.79,
+        ["points"] = 8402.37,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 373,
@@ -5818,7 +5818,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 352,
         ["kill_count"] = 17,
-        ["points"] = 8884.5,
+        ["points"] = 8885.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 451,
@@ -5875,7 +5875,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 622,
         ["kill_count"] = 6,
-        ["points"] = 8282.33,
+        ["points"] = 8284.02,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 344,
@@ -5932,7 +5932,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 649,
         ["kill_count"] = 7,
-        ["points"] = 8203.36,
+        ["points"] = 8205.13,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 564,
@@ -5989,7 +5989,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 406,
         ["kill_count"] = 1,
-        ["points"] = 8766.04,
+        ["points"] = 8767.26,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 764,
@@ -6046,7 +6046,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1101,
         ["kill_count"] = 2,
-        ["points"] = 6969.4,
+        ["points"] = 6972.39,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 362,
@@ -6095,72 +6095,15 @@ UWULogsData[6][1] = {
       },
     },
   },
-  ["Leviathan"] = {
+  ["Airhike"] = {
     ["percentile"] = 80.56,
     ["server"] = "Icecrown",
     ["overall_rank"] = 108,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 137,
-        ["kill_count"] = 3,
-        ["points"] = 9557.58,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 834,
-        ["kill_count"] = 3,
-        ["points"] = 5740.12,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 471,
-        ["kill_count"] = 3,
-        ["points"] = 8907.88,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 1025,
-        ["kill_count"] = 3,
-        ["points"] = 7726.42,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 746,
-        ["kill_count"] = 3,
-        ["points"] = 8339.77,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 640,
-        ["kill_count"] = 4,
-        ["points"] = 6957.49,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 278,
-        ["kill_count"] = 3,
-        ["points"] = 9148.47,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 702,
-        ["kill_count"] = 4,
-        ["points"] = 7697.11,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 201,
-        ["kill_count"] = 4,
-        ["points"] = 8581.56,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 440,
-        ["kill_count"] = 3,
-        ["points"] = 7552.59,
-      },
-    },
-  },
-  ["Airhike"] = {
-    ["percentile"] = 80.56,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 109,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
         ["rank_raids"] = 802,
         ["kill_count"] = 6,
-        ["points"] = 7778.87,
+        ["points"] = 7781.07,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 212,
@@ -6209,6 +6152,63 @@ UWULogsData[6][1] = {
       },
     },
   },
+  ["Leviathan"] = {
+    ["percentile"] = 80.56,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 109,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 137,
+        ["kill_count"] = 3,
+        ["points"] = 9557.72,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 834,
+        ["kill_count"] = 3,
+        ["points"] = 5740.12,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 471,
+        ["kill_count"] = 3,
+        ["points"] = 8907.88,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 1025,
+        ["kill_count"] = 3,
+        ["points"] = 7726.42,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 746,
+        ["kill_count"] = 3,
+        ["points"] = 8339.77,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 640,
+        ["kill_count"] = 4,
+        ["points"] = 6957.49,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 278,
+        ["kill_count"] = 3,
+        ["points"] = 9148.47,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 702,
+        ["kill_count"] = 4,
+        ["points"] = 7697.11,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 201,
+        ["kill_count"] = 4,
+        ["points"] = 8581.56,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 440,
+        ["kill_count"] = 3,
+        ["points"] = 7552.59,
+      },
+    },
+  },
   ["Lamerr"] = {
     ["percentile"] = 80.55,
     ["server"] = "Icecrown",
@@ -6217,7 +6217,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 115,
         ["kill_count"] = 1,
-        ["points"] = 9629.15,
+        ["points"] = 9629.27,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 134,
@@ -6274,7 +6274,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 540,
         ["kill_count"] = 9,
-        ["points"] = 8440.28,
+        ["points"] = 8441.81,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 331,
@@ -6331,7 +6331,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 480,
         ["kill_count"] = 13,
-        ["points"] = 8598.22,
+        ["points"] = 8599.61,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 683,
@@ -6388,7 +6388,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 208,
         ["kill_count"] = 2,
-        ["points"] = 9326.61,
+        ["points"] = 9326.83,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 709,
@@ -6445,7 +6445,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 644,
         ["kill_count"] = 5,
-        ["points"] = 8213.23,
+        ["points"] = 8214.99,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 427,
@@ -6502,7 +6502,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 775,
         ["kill_count"] = 3,
-        ["points"] = 7867.72,
+        ["points"] = 7869.82,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 493,
@@ -6559,7 +6559,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1219,
         ["kill_count"] = 4,
-        ["points"] = 6623.89,
+        ["points"] = 6627.22,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 201,
@@ -6616,7 +6616,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 436,
         ["kill_count"] = 15,
-        ["points"] = 8687.07,
+        ["points"] = 8688.36,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 296,
@@ -6673,7 +6673,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 643,
         ["kill_count"] = 5,
-        ["points"] = 8223.1,
+        ["points"] = 8224.85,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 551,
@@ -6723,14 +6723,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Iluminatore"] = {
-    ["percentile"] = 77.82,
+    ["percentile"] = 77.83,
     ["server"] = "Icecrown",
     ["overall_rank"] = 119,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 214,
         ["kill_count"] = 15,
-        ["points"] = 9307.09,
+        ["points"] = 9307.32,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 762,
@@ -6787,7 +6787,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 498,
         ["kill_count"] = 5,
-        ["points"] = 8548.86,
+        ["points"] = 8550.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 447,
@@ -6844,7 +6844,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 785,
         ["kill_count"] = 3,
-        ["points"] = 7847.98,
+        ["points"] = 7850.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 335,
@@ -6901,7 +6901,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 762,
         ["kill_count"] = 3,
-        ["points"] = 7887.46,
+        ["points"] = 7889.55,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 503,
@@ -6958,7 +6958,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 669,
         ["kill_count"] = 12,
-        ["points"] = 8144.13,
+        ["points"] = 8145.96,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 617,
@@ -7015,7 +7015,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 173,
         ["kill_count"] = 4,
-        ["points"] = 9440.47,
+        ["points"] = 9440.65,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1014,
@@ -7072,7 +7072,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 931,
         ["kill_count"] = 6,
-        ["points"] = 7502.47,
+        ["points"] = 7504.93,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 123,
@@ -7129,7 +7129,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 572,
         ["kill_count"] = 5,
-        ["points"] = 8390.92,
+        ["points"] = 8392.5,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 173,
@@ -7181,7 +7181,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 317,
         ["kill_count"] = 3,
-        ["points"] = 8983.22,
+        ["points"] = 8984.22,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 424,
@@ -7238,7 +7238,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 664,
         ["kill_count"] = 5,
-        ["points"] = 8163.87,
+        ["points"] = 8165.68,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 418,
@@ -7295,7 +7295,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1259,
         ["kill_count"] = 3,
-        ["points"] = 6485.69,
+        ["points"] = 6489.15,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 864,
@@ -7352,7 +7352,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 295,
         ["kill_count"] = 1,
-        ["points"] = 9043.59,
+        ["points"] = 9043.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 766,
@@ -7409,7 +7409,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 726,
         ["kill_count"] = 7,
-        ["points"] = 7976.31,
+        ["points"] = 7978.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 412,
@@ -7459,14 +7459,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Smoothest"] = {
-    ["percentile"] = 76.61,
+    ["percentile"] = 76.62,
     ["server"] = "Icecrown",
     ["overall_rank"] = 132,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 507,
         ["kill_count"] = 4,
-        ["points"] = 8529.12,
+        ["points"] = 8530.57,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 280,
@@ -7523,7 +7523,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 801,
         ["kill_count"] = 1,
-        ["points"] = 7788.75,
+        ["points"] = 7790.93,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 527,
@@ -7580,7 +7580,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 601,
         ["kill_count"] = 15,
-        ["points"] = 8331.69,
+        ["points"] = 8333.33,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 616,
@@ -7637,7 +7637,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1188,
         ["kill_count"] = 3,
-        ["points"] = 6732.48,
+        ["points"] = 6735.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 202,
@@ -7694,7 +7694,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1074,
         ["kill_count"] = 2,
-        ["points"] = 7068.11,
+        ["points"] = 7071.01,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 301,
@@ -7751,7 +7751,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 272,
         ["kill_count"] = 2,
-        ["points"] = 9118.41,
+        ["points"] = 9118.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 205,
@@ -7796,14 +7796,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Amnesiassa"] = {
-    ["percentile"] = 75.33,
+    ["percentile"] = 75.34,
     ["server"] = "Icecrown",
     ["overall_rank"] = 138,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1160,
         ["kill_count"] = 4,
-        ["points"] = 6821.32,
+        ["points"] = 6824.46,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 483,
@@ -7860,7 +7860,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 289,
         ["kill_count"] = 2,
-        ["points"] = 9063.11,
+        ["points"] = 9063.41,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 552,
@@ -7917,7 +7917,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 476,
         ["kill_count"] = 1,
-        ["points"] = 8608.09,
+        ["points"] = 8609.47,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 804,
@@ -7969,7 +7969,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1252,
         ["kill_count"] = 6,
-        ["points"] = 6535.04,
+        ["points"] = 6538.46,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 463,
@@ -8026,7 +8026,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 911,
         ["kill_count"] = 13,
-        ["points"] = 7551.83,
+        ["points"] = 7554.24,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 468,
@@ -8076,14 +8076,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Setuprogue"] = {
-    ["percentile"] = 74.84,
+    ["percentile"] = 74.85,
     ["server"] = "Icecrown",
     ["overall_rank"] = 143,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1063,
         ["kill_count"] = 5,
-        ["points"] = 7107.6,
+        ["points"] = 7110.45,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 432,
@@ -8140,7 +8140,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 50,
         ["kill_count"] = 6,
-        ["points"] = 9840.6,
+        ["points"] = 9840.65,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 565,
@@ -8192,7 +8192,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 288,
         ["kill_count"] = 4,
-        ["points"] = 9066.36,
+        ["points"] = 9066.67,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 177,
@@ -8249,7 +8249,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 819,
         ["kill_count"] = 1,
-        ["points"] = 7749.26,
+        ["points"] = 7751.48,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 916,
@@ -8306,7 +8306,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 417,
         ["kill_count"] = 11,
-        ["points"] = 8736.43,
+        ["points"] = 8737.67,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 897,
@@ -8363,7 +8363,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 686,
         ["kill_count"] = 1,
-        ["points"] = 8065.15,
+        ["points"] = 8067.06,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 814,
@@ -8420,7 +8420,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1218,
         ["kill_count"] = 1,
-        ["points"] = 6633.76,
+        ["points"] = 6637.08,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 599,
@@ -8477,7 +8477,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 989,
         ["kill_count"] = 5,
-        ["points"] = 7314.91,
+        ["points"] = 7317.55,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 467,
@@ -8591,7 +8591,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 129,
         ["kill_count"] = 6,
-        ["points"] = 9583.6,
+        ["points"] = 9583.74,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 111,
@@ -8638,7 +8638,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1136,
         ["kill_count"] = 7,
-        ["points"] = 6850.94,
+        ["points"] = 6854.04,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 473,
@@ -8695,7 +8695,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 365,
         ["kill_count"] = 4,
-        ["points"] = 8864.76,
+        ["points"] = 8865.88,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1348,
@@ -8752,7 +8752,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 310,
         ["kill_count"] = 10,
-        ["points"] = 8994.8,
+        ["points"] = 8995.12,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1094,
@@ -8809,7 +8809,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 752,
         ["kill_count"] = 2,
-        ["points"] = 7917.08,
+        ["points"] = 7919.13,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1401,
@@ -8916,14 +8916,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Shinganji"] = {
-    ["percentile"] = 72.19,
+    ["percentile"] = 72.2,
     ["server"] = "Icecrown",
     ["overall_rank"] = 158,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1128,
         ["kill_count"] = 3,
-        ["points"] = 6880.55,
+        ["points"] = 6883.63,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 499,
@@ -8973,14 +8973,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Gedit"] = {
-    ["percentile"] = 72.15,
+    ["percentile"] = 72.16,
     ["server"] = "Icecrown",
     ["overall_rank"] = 159,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1008,
         ["kill_count"] = 3,
-        ["points"] = 7265.55,
+        ["points"] = 7268.24,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 625,
@@ -9037,7 +9037,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 393,
         ["kill_count"] = 3,
-        ["points"] = 8795.66,
+        ["points"] = 8796.84,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1060,
@@ -9089,7 +9089,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 673,
         ["kill_count"] = 5,
-        ["points"] = 8124.38,
+        ["points"] = 8126.23,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 302,
@@ -9196,14 +9196,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Pestoero"] = {
-    ["percentile"] = 71.74,
+    ["percentile"] = 71.75,
     ["server"] = "Icecrown",
     ["overall_rank"] = 163,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 514,
         ["kill_count"] = 2,
-        ["points"] = 8519.25,
+        ["points"] = 8520.71,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 461,
@@ -9255,7 +9255,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1171,
         ["kill_count"] = 4,
-        ["points"] = 6791.71,
+        ["points"] = 6794.87,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 996,
@@ -9312,7 +9312,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 355,
         ["kill_count"] = 9,
-        ["points"] = 8874.63,
+        ["points"] = 8875.74,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1251,
@@ -9364,7 +9364,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1177,
         ["kill_count"] = 12,
-        ["points"] = 6762.09,
+        ["points"] = 6765.29,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 863,
@@ -9414,14 +9414,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Ryoku"] = {
-    ["percentile"] = 71.41,
+    ["percentile"] = 71.42,
     ["server"] = "Icecrown",
     ["overall_rank"] = 167,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 198,
         ["kill_count"] = 4,
-        ["points"] = 9359.14,
+        ["points"] = 9359.35,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 598,
@@ -9466,14 +9466,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Malfurionwtf"] = {
-    ["percentile"] = 71.23,
+    ["percentile"] = 71.24,
     ["server"] = "Icecrown",
     ["overall_rank"] = 168,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 843,
         ["kill_count"] = 5,
-        ["points"] = 7699.9,
+        ["points"] = 7702.17,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 926,
@@ -9523,14 +9523,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Odpozadi"] = {
-    ["percentile"] = 70.9,
+    ["percentile"] = 70.91,
     ["server"] = "Icecrown",
     ["overall_rank"] = 169,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 519,
         ["kill_count"] = 1,
-        ["points"] = 8509.38,
+        ["points"] = 8510.85,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 112,
@@ -9577,7 +9577,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1023,
         ["kill_count"] = 3,
-        ["points"] = 7216.19,
+        ["points"] = 7218.93,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 118,
@@ -9629,7 +9629,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1226,
         ["kill_count"] = 4,
-        ["points"] = 6614.02,
+        ["points"] = 6617.36,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 522,
@@ -9686,7 +9686,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 969,
         ["kill_count"] = 15,
-        ["points"] = 7403.75,
+        ["points"] = 7406.31,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 593,
@@ -9743,7 +9743,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1106,
         ["kill_count"] = 5,
-        ["points"] = 6949.65,
+        ["points"] = 6952.66,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 839,
@@ -9800,7 +9800,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 107,
         ["kill_count"] = 7,
-        ["points"] = 9655.17,
+        ["points"] = 9655.28,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 86,
@@ -9847,7 +9847,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 547,
         ["kill_count"] = 3,
-        ["points"] = 8430.4,
+        ["points"] = 8431.95,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 993,
@@ -10132,7 +10132,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 217,
         ["kill_count"] = 2,
-        ["points"] = 9297.33,
+        ["points"] = 9297.56,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1186,
@@ -10189,7 +10189,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 474,
         ["kill_count"] = 10,
-        ["points"] = 8617.97,
+        ["points"] = 8619.33,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 842,
@@ -10241,7 +10241,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 549,
         ["kill_count"] = 1,
-        ["points"] = 8420.53,
+        ["points"] = 8422.09,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 507,
@@ -10286,14 +10286,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Leik"] = {
-    ["percentile"] = 68.72,
+    ["percentile"] = 68.73,
     ["server"] = "Icecrown",
     ["overall_rank"] = 183,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 853,
         ["kill_count"] = 1,
-        ["points"] = 7690.03,
+        ["points"] = 7692.31,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 399,
@@ -10350,7 +10350,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 427,
         ["kill_count"] = 6,
-        ["points"] = 8706.81,
+        ["points"] = 8708.09,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1168,
@@ -10402,7 +10402,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1007,
         ["kill_count"] = 11,
-        ["points"] = 7275.42,
+        ["points"] = 7278.11,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 740,
@@ -10459,7 +10459,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 446,
         ["kill_count"] = 1,
-        ["points"] = 8667.32,
+        ["points"] = 8668.64,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 433,
@@ -10516,7 +10516,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 389,
         ["kill_count"] = 2,
-        ["points"] = 8805.53,
+        ["points"] = 8806.71,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 912,
@@ -10573,7 +10573,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 948,
         ["kill_count"] = 1,
-        ["points"] = 7453.11,
+        ["points"] = 7455.62,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 867,
@@ -10687,7 +10687,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 885,
         ["kill_count"] = 12,
-        ["points"] = 7611.06,
+        ["points"] = 7613.41,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 478,
@@ -10732,14 +10732,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Olag"] = {
-    ["percentile"] = 68.03,
+    ["percentile"] = 68.04,
     ["server"] = "Icecrown",
     ["overall_rank"] = 191,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 926,
         ["kill_count"] = 6,
-        ["points"] = 7512.34,
+        ["points"] = 7514.79,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 687,
@@ -10910,7 +10910,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 442,
         ["kill_count"] = 2,
-        ["points"] = 8677.2,
+        ["points"] = 8678.5,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 944,
@@ -10962,7 +10962,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 247,
         ["kill_count"] = 2,
-        ["points"] = 9199.74,
+        ["points"] = 9200.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1178,
@@ -11185,7 +11185,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 972,
         ["kill_count"] = 2,
-        ["points"] = 7374.14,
+        ["points"] = 7376.73,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1149,
@@ -11242,7 +11242,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1161,
         ["kill_count"] = 2,
-        ["points"] = 6811.45,
+        ["points"] = 6814.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 965,
@@ -11299,7 +11299,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 332,
         ["kill_count"] = 2,
-        ["points"] = 8953.6,
+        ["points"] = 8954.64,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 140,
@@ -11356,7 +11356,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1112,
         ["kill_count"] = 1,
-        ["points"] = 6929.91,
+        ["points"] = 6932.94,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 763,
@@ -11411,7 +11411,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 203,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2681,
+        ["rank_raids"] = 2682,
         ["kill_count"] = 1,
         ["points"] = 4572.7,
       },
@@ -11579,7 +11579,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1129,
         ["kill_count"] = 1,
-        ["points"] = 6870.68,
+        ["points"] = 6873.77,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 822,
@@ -11629,14 +11629,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Trick"] = {
-    ["percentile"] = 66.13,
+    ["percentile"] = 66.14,
     ["server"] = "Icecrown",
     ["overall_rank"] = 207,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1231,
         ["kill_count"] = 4,
-        ["points"] = 6594.27,
+        ["points"] = 6597.63,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 851,
@@ -11693,7 +11693,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1021,
         ["kill_count"] = 2,
-        ["points"] = 7226.06,
+        ["points"] = 7228.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 570,
@@ -11800,14 +11800,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Julide"] = {
-    ["percentile"] = 65.91,
+    ["percentile"] = 65.92,
     ["server"] = "Icecrown",
     ["overall_rank"] = 210,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1011,
         ["kill_count"] = 3,
-        ["points"] = 7245.8,
+        ["points"] = 7248.52,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1047,
@@ -11909,14 +11909,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Violine"] = {
-    ["percentile"] = 65.75,
+    ["percentile"] = 65.76,
     ["server"] = "Icecrown",
     ["overall_rank"] = 212,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1245,
         ["kill_count"] = 3,
-        ["points"] = 6574.53,
+        ["points"] = 6577.91,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 514,
@@ -12017,10 +12017,67 @@ UWULogsData[6][1] = {
       },
     },
   },
-  ["Makeitmyway"] = {
+  ["Xylmfan"] = {
     ["percentile"] = 65.65,
     ["server"] = "Icecrown",
     ["overall_rank"] = 214,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 1097,
+        ["kill_count"] = 10,
+        ["points"] = 6992.11,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 1255,
+        ["kill_count"] = 2,
+        ["points"] = 3994.07,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 1334,
+        ["kill_count"] = 10,
+        ["points"] = 7646.2,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 1868,
+        ["kill_count"] = 10,
+        ["points"] = 6700.92,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 1578,
+        ["kill_count"] = 10,
+        ["points"] = 7099.72,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 1100,
+        ["kill_count"] = 9,
+        ["points"] = 5710.25,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 976,
+        ["kill_count"] = 10,
+        ["points"] = 7161.57,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 216,
+        ["kill_count"] = 10,
+        ["points"] = 9293.69,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 1128,
+        ["kill_count"] = 9,
+        ["points"] = 4869.8,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 999,
+        ["kill_count"] = 6,
+        ["points"] = 5893.23,
+      },
+    },
+  },
+  ["Makeitmyway"] = {
+    ["percentile"] = 65.65,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 215,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1845,
@@ -12074,72 +12131,15 @@ UWULogsData[6][1] = {
       },
     },
   },
-  ["Xylmfan"] = {
-    ["percentile"] = 65.65,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 215,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 1097,
-        ["kill_count"] = 10,
-        ["points"] = 6989.14,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 1255,
-        ["kill_count"] = 2,
-        ["points"] = 3994.07,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1334,
-        ["kill_count"] = 10,
-        ["points"] = 7646.2,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 1868,
-        ["kill_count"] = 10,
-        ["points"] = 6700.92,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 1578,
-        ["kill_count"] = 10,
-        ["points"] = 7099.72,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 1100,
-        ["kill_count"] = 9,
-        ["points"] = 5710.25,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 976,
-        ["kill_count"] = 10,
-        ["points"] = 7161.57,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 216,
-        ["kill_count"] = 10,
-        ["points"] = 9293.69,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 1128,
-        ["kill_count"] = 9,
-        ["points"] = 4869.8,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 999,
-        ["kill_count"] = 6,
-        ["points"] = 5893.23,
-      },
-    },
-  },
   ["Ipnoruspa"] = {
-    ["percentile"] = 65.64,
+    ["percentile"] = 65.65,
     ["server"] = "Icecrown",
     ["overall_rank"] = 216,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 662,
         ["kill_count"] = 7,
-        ["points"] = 8173.74,
+        ["points"] = 8175.54,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 713,
@@ -12196,7 +12196,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1260,
         ["kill_count"] = 4,
-        ["points"] = 6475.81,
+        ["points"] = 6479.29,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 577,
@@ -12424,7 +12424,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 712,
         ["kill_count"] = 2,
-        ["points"] = 8015.79,
+        ["points"] = 8017.75,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 313,
@@ -12481,7 +12481,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 384,
         ["kill_count"] = 1,
-        ["points"] = 8815.4,
+        ["points"] = 8816.57,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1032,
@@ -12526,14 +12526,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Sychaa"] = {
-    ["percentile"] = 65.22,
+    ["percentile"] = 65.23,
     ["server"] = "Icecrown",
     ["overall_rank"] = 223,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 457,
         ["kill_count"] = 3,
-        ["points"] = 8637.71,
+        ["points"] = 8639.05,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1613,
@@ -12642,7 +12642,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 155,
         ["kill_count"] = 1,
-        ["points"] = 9499.02,
+        ["points"] = 9499.19,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1159,
@@ -12746,7 +12746,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 524,
         ["kill_count"] = 11,
-        ["points"] = 8489.63,
+        ["points"] = 8491.12,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 836,
@@ -12798,7 +12798,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 971,
         ["kill_count"] = 2,
-        ["points"] = 7384.01,
+        ["points"] = 7386.59,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1231,
@@ -12855,7 +12855,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1027,
         ["kill_count"] = 14,
-        ["points"] = 7196.45,
+        ["points"] = 7199.21,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 752,
@@ -12912,7 +12912,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 787,
         ["kill_count"] = 6,
-        ["points"] = 7828.23,
+        ["points"] = 7830.37,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 856,
@@ -12969,7 +12969,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 973,
         ["kill_count"] = 2,
-        ["points"] = 7364.26,
+        ["points"] = 7366.86,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1041,
@@ -13078,7 +13078,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1228,
         ["kill_count"] = 4,
-        ["points"] = 6604.15,
+        ["points"] = 6607.5,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 721,
@@ -13128,14 +13128,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Stigdranik"] = {
-    ["percentile"] = 63.81,
+    ["percentile"] = 63.82,
     ["server"] = "Icecrown",
     ["overall_rank"] = 234,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 629,
         ["kill_count"] = 17,
-        ["points"] = 8272.46,
+        ["points"] = 8274.16,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1074,
@@ -13244,7 +13244,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 539,
         ["kill_count"] = 4,
-        ["points"] = 8450.15,
+        ["points"] = 8451.68,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 970,
@@ -13301,7 +13301,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 349,
         ["kill_count"] = 3,
-        ["points"] = 8904.24,
+        ["points"] = 8905.33,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 645,
@@ -13348,7 +13348,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1265,
         ["kill_count"] = 3,
-        ["points"] = 6466.9,
+        ["points"] = 6469.43,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 843,
@@ -13462,7 +13462,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 786,
         ["kill_count"] = 2,
-        ["points"] = 7838.1,
+        ["points"] = 7840.24,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1201,
@@ -13735,14 +13735,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Feinter"] = {
-    ["percentile"] = 63.01,
+    ["percentile"] = 63.02,
     ["server"] = "Icecrown",
     ["overall_rank"] = 245,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1248,
         ["kill_count"] = 1,
-        ["points"] = 6554.79,
+        ["points"] = 6558.19,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 584,
@@ -13851,7 +13851,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 190,
         ["kill_count"] = 1,
-        ["points"] = 9385.17,
+        ["points"] = 9385.37,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1309,
@@ -13898,7 +13898,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 188,
         ["kill_count"] = 12,
-        ["points"] = 9391.67,
+        ["points"] = 9391.87,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 678,
@@ -13940,7 +13940,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 683,
         ["kill_count"] = 1,
-        ["points"] = 8075.02,
+        ["points"] = 8076.92,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 496,
@@ -14220,7 +14220,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 587,
         ["kill_count"] = 3,
-        ["points"] = 8361.3,
+        ["points"] = 8362.92,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1326,
@@ -14272,7 +14272,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1123,
         ["kill_count"] = 1,
-        ["points"] = 6890.42,
+        ["points"] = 6893.49,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1221,
@@ -14438,7 +14438,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1002,
         ["kill_count"] = 1,
-        ["points"] = 7295.16,
+        ["points"] = 7297.83,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 559,
@@ -14478,14 +14478,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Trumpetblow"] = {
-    ["percentile"] = 59.89,
+    ["percentile"] = 59.9,
     ["server"] = "Icecrown",
     ["overall_rank"] = 259,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 878,
         ["kill_count"] = 3,
-        ["points"] = 7630.8,
+        ["points"] = 7633.14,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1040,
@@ -14971,7 +14971,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 268,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2668,
+        ["rank_raids"] = 2669,
         ["kill_count"] = 2,
         ["points"] = 4620.81,
       },
@@ -15251,14 +15251,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Pikaaboo"] = {
-    ["percentile"] = 56.84,
+    ["percentile"] = 56.85,
     ["server"] = "Icecrown",
     ["overall_rank"] = 273,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1065,
         ["kill_count"] = 1,
-        ["points"] = 7097.73,
+        ["points"] = 7100.59,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 783,
@@ -15412,14 +15412,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Horrorr"] = {
-    ["percentile"] = 56.35,
+    ["percentile"] = 56.36,
     ["server"] = "Icecrown",
     ["overall_rank"] = 276,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1182,
         ["kill_count"] = 3,
-        ["points"] = 6752.22,
+        ["points"] = 6755.42,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 975,
@@ -15642,7 +15642,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1197,
         ["kill_count"] = 1,
-        ["points"] = 6702.86,
+        ["points"] = 6706.11,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1139,
@@ -15741,7 +15741,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 807,
         ["kill_count"] = 2,
-        ["points"] = 7759.13,
+        ["points"] = 7761.34,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1257,
@@ -15781,7 +15781,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 283,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2714,
+        ["rank_raids"] = 2715,
         ["kill_count"] = 1,
         ["points"] = 4441.78,
       },
@@ -15840,7 +15840,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 110,
         ["kill_count"] = 2,
-        ["points"] = 9645.41,
+        ["points"] = 9645.53,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 745,
@@ -15932,7 +15932,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 286,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2689,
+        ["rank_raids"] = 2690,
         ["kill_count"] = 1,
         ["points"] = 4538.65,
       },
@@ -16048,7 +16048,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 857,
         ["kill_count"] = 4,
-        ["points"] = 7660.41,
+        ["points"] = 7662.72,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1137,
@@ -16093,14 +16093,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Saxor"] = {
-    ["percentile"] = 54.47,
+    ["percentile"] = 54.48,
     ["server"] = "Icecrown",
     ["overall_rank"] = 289,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1195,
         ["kill_count"] = 3,
-        ["points"] = 6712.73,
+        ["points"] = 6715.98,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1100,
@@ -16199,7 +16199,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 677,
         ["kill_count"] = 4,
-        ["points"] = 8104.64,
+        ["points"] = 8106.51,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1616,
@@ -16405,7 +16405,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 295,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2761,
+        ["rank_raids"] = 2762,
         ["kill_count"] = 1,
         ["points"] = 4297.25,
       },
@@ -16509,14 +16509,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Czechwow"] = {
-    ["percentile"] = 53.64,
+    ["percentile"] = 53.65,
     ["server"] = "Icecrown",
     ["overall_rank"] = 297,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1174,
         ["kill_count"] = 1,
-        ["points"] = 6771.96,
+        ["points"] = 6775.15,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 568,
@@ -16568,7 +16568,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1109,
         ["kill_count"] = 3,
-        ["points"] = 6939.78,
+        ["points"] = 6942.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1261,
@@ -16732,7 +16732,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 301,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2629,
+        ["rank_raids"] = 2630,
         ["kill_count"] = 1,
         ["points"] = 4718.92,
       },
@@ -16831,14 +16831,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Thekillers"] = {
-    ["percentile"] = 53.2,
+    ["percentile"] = 53.21,
     ["server"] = "Icecrown",
     ["overall_rank"] = 303,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 902,
         ["kill_count"] = 8,
-        ["points"] = 7591.31,
+        ["points"] = 7593.69,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1977,
@@ -17016,7 +17016,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 277,
         ["kill_count"] = 1,
-        ["points"] = 9102.15,
+        ["points"] = 9102.44,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 719,
@@ -17053,7 +17053,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 776,
         ["kill_count"] = 1,
-        ["points"] = 7857.85,
+        ["points"] = 7859.96,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1495,
@@ -17098,7 +17098,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 309,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2746,
+        ["rank_raids"] = 2747,
         ["kill_count"] = 1,
         ["points"] = 4341.57,
       },
@@ -17209,7 +17209,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1183,
         ["kill_count"] = 3,
-        ["points"] = 6742.35,
+        ["points"] = 6745.56,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1562,
@@ -17251,7 +17251,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1208,
         ["kill_count"] = 11,
-        ["points"] = 6683.12,
+        ["points"] = 6686.39,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1224,
@@ -17345,7 +17345,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1132,
         ["kill_count"] = 7,
-        ["points"] = 6860.81,
+        ["points"] = 6863.91,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 745,
@@ -17392,7 +17392,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 615,
         ["kill_count"] = 3,
-        ["points"] = 8292.2,
+        ["points"] = 8293.89,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1071,
@@ -17585,7 +17585,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 788,
         ["kill_count"] = 5,
-        ["points"] = 7818.36,
+        ["points"] = 7820.51,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 615,
@@ -17662,7 +17662,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 321,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2797,
+        ["rank_raids"] = 2798,
         ["kill_count"] = 1,
         ["points"] = 4163.13,
       },
@@ -17716,7 +17716,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 642,
         ["kill_count"] = 2,
-        ["points"] = 8232.97,
+        ["points"] = 8234.71,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1528,
@@ -17756,14 +17756,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Fightforlove"] = {
-    ["percentile"] = 51.02,
+    ["percentile"] = 51.03,
     ["server"] = "Icecrown",
     ["overall_rank"] = 323,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 658,
         ["kill_count"] = 6,
-        ["points"] = 8193.48,
+        ["points"] = 8195.27,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1365,
@@ -17798,14 +17798,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Attenot"] = {
-    ["percentile"] = 50.99,
+    ["percentile"] = 51.0,
     ["server"] = "Icecrown",
     ["overall_rank"] = 324,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 329,
         ["kill_count"] = 4,
-        ["points"] = 8963.47,
+        ["points"] = 8964.5,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 809,
@@ -17842,7 +17842,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 400,
         ["kill_count"] = 3,
-        ["points"] = 8785.78,
+        ["points"] = 8786.98,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 911,
@@ -17879,7 +17879,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1247,
         ["kill_count"] = 9,
-        ["points"] = 6564.66,
+        ["points"] = 6568.05,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1410,
@@ -17973,7 +17973,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 713,
         ["kill_count"] = 4,
-        ["points"] = 8005.92,
+        ["points"] = 8007.89,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1405,
@@ -18013,7 +18013,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 329,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2648,
+        ["rank_raids"] = 2649,
         ["kill_count"] = 11,
         ["points"] = 4671.18,
       },
@@ -18072,7 +18072,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 580,
         ["kill_count"] = 2,
-        ["points"] = 8371.17,
+        ["points"] = 8372.78,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1232,
@@ -18119,7 +18119,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 496,
         ["kill_count"] = 1,
-        ["points"] = 8568.61,
+        ["points"] = 8570.02,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 974,
@@ -18208,7 +18208,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 970,
         ["kill_count"] = 2,
-        ["points"] = 7393.88,
+        ["points"] = 7396.45,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1311,
@@ -18248,7 +18248,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 334,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2428,
+        ["rank_raids"] = 2429,
         ["kill_count"] = 2,
         ["points"] = 5076.15,
       },
@@ -18302,7 +18302,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 938,
         ["kill_count"] = 1,
-        ["points"] = 7462.98,
+        ["points"] = 7465.48,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 887,
@@ -18332,14 +18332,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Omaz"] = {
-    ["percentile"] = 50.18,
+    ["percentile"] = 50.19,
     ["server"] = "Icecrown",
     ["overall_rank"] = 336,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1066,
         ["kill_count"] = 3,
-        ["points"] = 7087.86,
+        ["points"] = 7090.73,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 924,
@@ -18433,7 +18433,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 905,
         ["kill_count"] = 3,
-        ["points"] = 7581.44,
+        ["points"] = 7583.83,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 817,
@@ -18480,7 +18480,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 423,
         ["kill_count"] = 2,
-        ["points"] = 8716.68,
+        ["points"] = 8717.95,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 143,
@@ -18515,7 +18515,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 340,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2565,
+        ["rank_raids"] = 2566,
         ["kill_count"] = 1,
         ["points"] = 4827.73,
       },
@@ -18572,7 +18572,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 341,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2480,
+        ["rank_raids"] = 2481,
         ["kill_count"] = 4,
         ["points"] = 4986.39,
       },
@@ -18626,7 +18626,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 595,
         ["kill_count"] = 1,
-        ["points"] = 8351.43,
+        ["points"] = 8353.06,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1395,
@@ -18668,7 +18668,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1069,
         ["kill_count"] = 7,
-        ["points"] = 7077.99,
+        ["points"] = 7080.87,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1587,
@@ -18710,7 +18710,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 372,
         ["kill_count"] = 9,
-        ["points"] = 8835.14,
+        ["points"] = 8836.29,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1054,
@@ -18740,14 +18740,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Luboss"] = {
-    ["percentile"] = 49.41,
+    ["percentile"] = 49.42,
     ["server"] = "Icecrown",
     ["overall_rank"] = 345,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 698,
         ["kill_count"] = 4,
-        ["points"] = 8035.54,
+        ["points"] = 8037.48,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1266,
@@ -18836,7 +18836,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1119,
         ["kill_count"] = 1,
-        ["points"] = 6910.17,
+        ["points"] = 6913.21,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1260,
@@ -18883,7 +18883,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 497,
         ["kill_count"] = 6,
-        ["points"] = 8558.74,
+        ["points"] = 8560.16,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1291,
@@ -19024,7 +19024,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 661,
         ["kill_count"] = 5,
-        ["points"] = 8183.61,
+        ["points"] = 8185.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1185,
@@ -19064,14 +19064,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Sixninex"] = {
-    ["percentile"] = 48.98,
+    ["percentile"] = 48.99,
     ["server"] = "Icecrown",
     ["overall_rank"] = 352,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 532,
         ["kill_count"] = 3,
-        ["points"] = 8460.02,
+        ["points"] = 8461.54,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 789,
@@ -19101,14 +19101,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Mindmaster"] = {
-    ["percentile"] = 48.58,
+    ["percentile"] = 48.59,
     ["server"] = "Icecrown",
     ["overall_rank"] = 353,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 822,
         ["kill_count"] = 1,
-        ["points"] = 7739.39,
+        ["points"] = 7741.62,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1239,
@@ -19143,7 +19143,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 354,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2608,
+        ["rank_raids"] = 2609,
         ["kill_count"] = 2,
         ["points"] = 4747.43,
       },
@@ -19202,7 +19202,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 350,
         ["kill_count"] = 5,
-        ["points"] = 8894.37,
+        ["points"] = 8895.46,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1211,
@@ -19232,14 +19232,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Taicoolle"] = {
-    ["percentile"] = 48.47,
+    ["percentile"] = 48.48,
     ["server"] = "Icecrown",
     ["overall_rank"] = 356,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 980,
         ["kill_count"] = 2,
-        ["points"] = 7344.52,
+        ["points"] = 7347.14,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1303,
@@ -19286,7 +19286,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 674,
         ["kill_count"] = 2,
-        ["points"] = 8114.51,
+        ["points"] = 8116.37,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 774,
@@ -19316,14 +19316,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Ssetam"] = {
-    ["percentile"] = 48.33,
+    ["percentile"] = 48.34,
     ["server"] = "Icecrown",
     ["overall_rank"] = 358,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 856,
         ["kill_count"] = 4,
-        ["points"] = 7670.29,
+        ["points"] = 7672.58,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1790,
@@ -19353,14 +19353,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Oktas"] = {
-    ["percentile"] = 48.16,
+    ["percentile"] = 48.17,
     ["server"] = "Icecrown",
     ["overall_rank"] = 359,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 882,
         ["kill_count"] = 3,
-        ["points"] = 7620.93,
+        ["points"] = 7623.27,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1091,
@@ -19397,7 +19397,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1010,
         ["kill_count"] = 4,
-        ["points"] = 7255.68,
+        ["points"] = 7258.38,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 693,
@@ -19481,7 +19481,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 756,
         ["kill_count"] = 4,
-        ["points"] = 7907.21,
+        ["points"] = 7909.27,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1364,
@@ -19511,14 +19511,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Poisonvendor"] = {
-    ["percentile"] = 48.03,
+    ["percentile"] = 48.04,
     ["server"] = "Icecrown",
     ["overall_rank"] = 363,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 501,
         ["kill_count"] = 1,
-        ["points"] = 8538.99,
+        ["points"] = 8540.43,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 562,
@@ -19963,7 +19963,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 612,
         ["kill_count"] = 1,
-        ["points"] = 8302.07,
+        ["points"] = 8303.75,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 999,
@@ -20000,7 +20000,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 267,
         ["kill_count"] = 2,
-        ["points"] = 9134.68,
+        ["points"] = 9134.96,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 781,
@@ -20037,7 +20037,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 525,
         ["kill_count"] = 2,
-        ["points"] = 8479.76,
+        ["points"] = 8481.26,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 977,
@@ -20074,7 +20074,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 632,
         ["kill_count"] = 2,
-        ["points"] = 8252.71,
+        ["points"] = 8254.44,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1477,
@@ -20111,7 +20111,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 825,
         ["kill_count"] = 2,
-        ["points"] = 7729.52,
+        ["points"] = 7731.76,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1413,
@@ -20158,7 +20158,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 483,
         ["kill_count"] = 10,
-        ["points"] = 8588.35,
+        ["points"] = 8589.74,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1113,
@@ -20195,7 +20195,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 607,
         ["kill_count"] = 2,
-        ["points"] = 8321.82,
+        ["points"] = 8323.47,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1382,
@@ -20232,7 +20232,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 833,
         ["kill_count"] = 2,
-        ["points"] = 7709.77,
+        ["points"] = 7712.03,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1122,
@@ -20274,7 +20274,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 935,
         ["kill_count"] = 2,
-        ["points"] = 7482.72,
+        ["points"] = 7485.21,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 932,
@@ -20309,7 +20309,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 382,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2614,
+        ["rank_raids"] = 2615,
         ["kill_count"] = 2,
         ["points"] = 4742.64,
       },
@@ -20363,7 +20363,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 906,
         ["kill_count"] = 7,
-        ["points"] = 7571.57,
+        ["points"] = 7573.96,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1350,
@@ -20529,7 +20529,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 387,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2380,
+        ["rank_raids"] = 2381,
         ["kill_count"] = 1,
         ["points"] = 5163.84,
       },
@@ -20576,14 +20576,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Frankybcn"] = {
-    ["percentile"] = 45.49,
+    ["percentile"] = 45.5,
     ["server"] = "Icecrown",
     ["overall_rank"] = 388,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1240,
         ["kill_count"] = 2,
-        ["points"] = 6584.4,
+        ["points"] = 6587.77,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1089,
@@ -20657,7 +20657,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1092,
         ["kill_count"] = 2,
-        ["points"] = 6999.01,
+        ["points"] = 7001.97,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1380,
@@ -20687,14 +20687,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Dinez"] = {
-    ["percentile"] = 45.16,
+    ["percentile"] = 45.17,
     ["server"] = "Icecrown",
     ["overall_rank"] = 391,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1077,
         ["kill_count"] = 3,
-        ["points"] = 7058.24,
+        ["points"] = 7061.14,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2243,
@@ -20783,7 +20783,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 85,
         ["kill_count"] = 3,
-        ["points"] = 9726.74,
+        ["points"] = 9726.83,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1188,
@@ -20820,7 +20820,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1082,
         ["kill_count"] = 2,
-        ["points"] = 7028.63,
+        ["points"] = 7031.56,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2173,
@@ -20899,7 +20899,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 962,
         ["kill_count"] = 2,
-        ["points"] = 7423.49,
+        ["points"] = 7426.04,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1343,
@@ -20966,14 +20966,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Tynext"] = {
-    ["percentile"] = 44.68,
+    ["percentile"] = 44.69,
     ["server"] = "Icecrown",
     ["overall_rank"] = 398,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1042,
         ["kill_count"] = 1,
-        ["points"] = 7156.96,
+        ["points"] = 7159.76,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 955,
@@ -21010,7 +21010,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 577,
         ["kill_count"] = 2,
-        ["points"] = 8381.05,
+        ["points"] = 8382.64,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1418,
@@ -21181,7 +21181,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 403,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2698,
+        ["rank_raids"] = 2699,
         ["kill_count"] = 1,
         ["points"] = 4481.03,
       },
@@ -21233,14 +21233,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Gnomepime"] = {
-    ["percentile"] = 43.88,
+    ["percentile"] = 43.89,
     ["server"] = "Icecrown",
     ["overall_rank"] = 404,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 986,
         ["kill_count"] = 2,
-        ["points"] = 7324.78,
+        ["points"] = 7327.42,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1541,
@@ -21324,7 +21324,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1215,
         ["kill_count"] = 3,
-        ["points"] = 6653.5,
+        ["points"] = 6656.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1387,
@@ -21460,7 +21460,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 412,
         ["kill_count"] = 2,
-        ["points"] = 8746.3,
+        ["points"] = 8747.53,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1178,
@@ -21495,7 +21495,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 410,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2385,
+        ["rank_raids"] = 2386,
         ["kill_count"] = 1,
         ["points"] = 5148.81,
       },
@@ -21549,7 +21549,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 670,
         ["kill_count"] = 2,
-        ["points"] = 8134.25,
+        ["points"] = 8136.09,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1215,
@@ -21623,7 +21623,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 282,
         ["kill_count"] = 1,
-        ["points"] = 9085.88,
+        ["points"] = 9086.18,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 591,
@@ -21655,7 +21655,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1255,
         ["kill_count"] = 3,
-        ["points"] = 6515.3,
+        ["points"] = 6518.74,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 529,
@@ -21689,10 +21689,47 @@ UWULogsData[6][1] = {
       },
     },
   },
-  ["Vanhustle"] = {
+  ["Hentailove"] = {
     ["percentile"] = 43.09,
     ["server"] = "Icecrown",
     ["overall_rank"] = 415,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 936,
+        ["kill_count"] = 4,
+        ["points"] = 7475.35,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 1513,
+        ["kill_count"] = 4,
+        ["points"] = 7491.05,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 1445,
+        ["kill_count"] = 4,
+        ["points"] = 7101.91,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 1390,
+        ["kill_count"] = 4,
+        ["points"] = 7307.8,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 1368,
+        ["kill_count"] = 2,
+        ["points"] = 5993.45,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 752,
+        ["kill_count"] = 3,
+        ["points"] = 7532.85,
+      },
+    },
+  },
+  ["Vanhustle"] = {
+    ["percentile"] = 43.09,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 416,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1651,
@@ -21723,43 +21760,6 @@ UWULogsData[6][1] = {
         ["rank_raids"] = 449,
         ["kill_count"] = 2,
         ["points"] = 8528.25,
-      },
-    },
-  },
-  ["Hentailove"] = {
-    ["percentile"] = 43.09,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 416,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 936,
-        ["kill_count"] = 4,
-        ["points"] = 7472.85,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1513,
-        ["kill_count"] = 4,
-        ["points"] = 7491.05,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 1445,
-        ["kill_count"] = 4,
-        ["points"] = 7101.91,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 1390,
-        ["kill_count"] = 4,
-        ["points"] = 7307.8,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 1368,
-        ["kill_count"] = 2,
-        ["points"] = 5993.45,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 752,
-        ["kill_count"] = 3,
-        ["points"] = 7532.85,
       },
     },
   },
@@ -21823,7 +21823,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1090,
         ["kill_count"] = 4,
-        ["points"] = 7008.88,
+        ["points"] = 7011.83,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1183,
@@ -21853,14 +21853,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Speedfast"] = {
-    ["percentile"] = 42.92,
+    ["percentile"] = 42.93,
     ["server"] = "Icecrown",
     ["overall_rank"] = 419,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 732,
         ["kill_count"] = 10,
-        ["points"] = 7956.56,
+        ["points"] = 7958.58,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1603,
@@ -21971,7 +21971,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1102,
         ["kill_count"] = 2,
-        ["points"] = 6959.53,
+        ["points"] = 6962.52,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2050,
@@ -22013,7 +22013,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 550,
         ["kill_count"] = 3,
-        ["points"] = 8410.66,
+        ["points"] = 8412.23,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1576,
@@ -22048,7 +22048,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 424,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2856,
+        ["rank_raids"] = 2857,
         ["kill_count"] = 1,
         ["points"] = 3924.89,
       },
@@ -22149,7 +22149,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 793,
         ["kill_count"] = 1,
-        ["points"] = 7808.49,
+        ["points"] = 7810.65,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1826,
@@ -22226,7 +22226,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 428,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2364,
+        ["rank_raids"] = 2365,
         ["kill_count"] = 3,
         ["points"] = 5185.94,
       },
@@ -22270,7 +22270,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 758,
         ["kill_count"] = 4,
-        ["points"] = 7897.33,
+        ["points"] = 7899.41,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1533,
@@ -22347,7 +22347,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 431,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2757,
+        ["rank_raids"] = 2758,
         ["kill_count"] = 2,
         ["points"] = 4307.95,
       },
@@ -22384,14 +22384,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Royaldz"] = {
-    ["percentile"] = 42.06,
+    ["percentile"] = 42.07,
     ["server"] = "Icecrown",
     ["overall_rank"] = 432,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1033,
         ["kill_count"] = 2,
-        ["points"] = 7176.7,
+        ["points"] = 7179.49,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1671,
@@ -22621,14 +22621,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Creeko"] = {
-    ["percentile"] = 41.82,
+    ["percentile"] = 41.83,
     ["server"] = "Icecrown",
     ["overall_rank"] = 438,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1036,
         ["kill_count"] = 1,
-        ["points"] = 7166.83,
+        ["points"] = 7169.63,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1933,
@@ -22705,14 +22705,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Iceclownxz"] = {
-    ["percentile"] = 41.76,
+    ["percentile"] = 41.77,
     ["server"] = "Icecrown",
     ["overall_rank"] = 440,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 490,
         ["kill_count"] = 2,
-        ["points"] = 8578.48,
+        ["points"] = 8579.88,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1737,
@@ -22749,7 +22749,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1120,
         ["kill_count"] = 3,
-        ["points"] = 6900.3,
+        ["points"] = 6903.35,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1591,
@@ -22863,7 +22863,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 444,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2839,
+        ["rank_raids"] = 2840,
         ["kill_count"] = 1,
         ["points"] = 4004.74,
       },
@@ -22967,7 +22967,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 446,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2527,
+        ["rank_raids"] = 2528,
         ["kill_count"] = 2,
         ["points"] = 4895.05,
       },
@@ -23009,14 +23009,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Smrk"] = {
-    ["percentile"] = 41.44,
+    ["percentile"] = 41.45,
     ["server"] = "Icecrown",
     ["overall_rank"] = 447,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1170,
         ["kill_count"] = 2,
-        ["points"] = 6801.58,
+        ["points"] = 6804.73,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2128,
@@ -23051,7 +23051,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 448,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2949,
+        ["rank_raids"] = 2950,
         ["kill_count"] = 1,
         ["points"] = 3338.38,
       },
@@ -23110,7 +23110,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 665,
         ["kill_count"] = 1,
-        ["points"] = 8154.0,
+        ["points"] = 8155.82,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 616,
@@ -23145,7 +23145,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 450,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2741,
+        ["rank_raids"] = 2742,
         ["kill_count"] = 1,
         ["points"] = 4353.65,
       },
@@ -23241,7 +23241,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1212,
         ["kill_count"] = 3,
-        ["points"] = 6673.25,
+        ["points"] = 6676.53,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1469,
@@ -23278,7 +23278,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1172,
         ["kill_count"] = 3,
-        ["points"] = 6781.84,
+        ["points"] = 6785.01,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2057,
@@ -23308,14 +23308,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Vald"] = {
-    ["percentile"] = 40.88,
+    ["percentile"] = 40.89,
     ["server"] = "Icecrown",
     ["overall_rank"] = 454,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 430,
         ["kill_count"] = 1,
-        ["points"] = 8696.94,
+        ["points"] = 8698.22,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1115,
@@ -23352,7 +23352,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 346,
         ["kill_count"] = 1,
-        ["points"] = 8914.12,
+        ["points"] = 8915.19,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1246,
@@ -23426,7 +23426,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 854,
         ["kill_count"] = 1,
-        ["points"] = 7680.16,
+        ["points"] = 7682.45,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1240,
@@ -23498,7 +23498,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 459,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2631,
+        ["rank_raids"] = 2632,
         ["kill_count"] = 1,
         ["points"] = 4716.45,
       },
@@ -23547,7 +23547,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 890,
         ["kill_count"] = 5,
-        ["points"] = 7601.18,
+        ["points"] = 7603.55,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1771,
@@ -23582,7 +23582,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 461,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2625,
+        ["rank_raids"] = 2626,
         ["kill_count"] = 1,
         ["points"] = 4725.73,
       },
@@ -23629,7 +23629,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 462,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2769,
+        ["rank_raids"] = 2770,
         ["kill_count"] = 1,
         ["points"] = 4261.76,
       },
@@ -23676,14 +23676,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Meshift"] = {
-    ["percentile"] = 40.44,
+    ["percentile"] = 40.45,
     ["server"] = "Icecrown",
     ["overall_rank"] = 463,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 949,
         ["kill_count"] = 3,
-        ["points"] = 7443.24,
+        ["points"] = 7445.76,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1034,
@@ -23750,14 +23750,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Mordis"] = {
-    ["percentile"] = 40.42,
+    ["percentile"] = 40.43,
     ["server"] = "Icecrown",
     ["overall_rank"] = 465,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 983,
         ["kill_count"] = 4,
-        ["points"] = 7334.65,
+        ["points"] = 7337.28,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 954,
@@ -23787,14 +23787,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Preciseqt"] = {
-    ["percentile"] = 40.38,
+    ["percentile"] = 40.39,
     ["server"] = "Icecrown",
     ["overall_rank"] = 466,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 920,
         ["kill_count"] = 5,
-        ["points"] = 7532.08,
+        ["points"] = 7534.52,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1571,
@@ -23910,7 +23910,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 697,
         ["kill_count"] = 2,
-        ["points"] = 8045.41,
+        ["points"] = 8047.34,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1810,
@@ -23940,14 +23940,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Sponce"] = {
-    ["percentile"] = 40.17,
+    ["percentile"] = 40.18,
     ["server"] = "Icecrown",
     ["overall_rank"] = 470,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 749,
         ["kill_count"] = 2,
-        ["points"] = 7946.69,
+        ["points"] = 7948.72,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1428,
@@ -23982,7 +23982,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 471,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2649,
+        ["rank_raids"] = 2650,
         ["kill_count"] = 1,
         ["points"] = 4667.18,
       },
@@ -24202,14 +24202,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Schnapshase"] = {
-    ["percentile"] = 39.76,
+    ["percentile"] = 39.77,
     ["server"] = "Icecrown",
     ["overall_rank"] = 476,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1251,
         ["kill_count"] = 1,
-        ["points"] = 6544.92,
+        ["points"] = 6548.32,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1561,
@@ -24244,7 +24244,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 477,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2871,
+        ["rank_raids"] = 2872,
         ["kill_count"] = 1,
         ["points"] = 3852.5,
       },
@@ -24320,7 +24320,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 868,
         ["kill_count"] = 2,
-        ["points"] = 7650.54,
+        ["points"] = 7652.86,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1723,
@@ -24355,7 +24355,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 480,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2764,
+        ["rank_raids"] = 2765,
         ["kill_count"] = 1,
         ["points"] = 4286.72,
       },
@@ -24414,7 +24414,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 609,
         ["kill_count"] = 2,
-        ["points"] = 8311.94,
+        ["points"] = 8313.61,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1448,
@@ -24449,7 +24449,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 482,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2530,
+        ["rank_raids"] = 2531,
         ["kill_count"] = 2,
         ["points"] = 4890.05,
       },
@@ -24540,7 +24540,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 751,
         ["kill_count"] = 2,
-        ["points"] = 7926.95,
+        ["points"] = 7928.99,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1969,
@@ -24575,7 +24575,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 485,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2579,
+        ["rank_raids"] = 2580,
         ["kill_count"] = 1,
         ["points"] = 4808.81,
       },
@@ -24725,7 +24725,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1258,
         ["kill_count"] = 2,
-        ["points"] = 6495.56,
+        ["points"] = 6499.01,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1874,
@@ -24836,7 +24836,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 268,
         ["kill_count"] = 3,
-        ["points"] = 9131.42,
+        ["points"] = 9131.71,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1446,
@@ -24989,7 +24989,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 925,
         ["kill_count"] = 5,
-        ["points"] = 7522.21,
+        ["points"] = 7524.65,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1269,
@@ -25063,7 +25063,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 710,
         ["kill_count"] = 1,
-        ["points"] = 8025.67,
+        ["points"] = 8027.61,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1719,
@@ -25088,14 +25088,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Wiverna"] = {
-    ["percentile"] = 38.74,
+    ["percentile"] = 38.75,
     ["server"] = "Icecrown",
     ["overall_rank"] = 499,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 806,
         ["kill_count"] = 1,
-        ["points"] = 7769.0,
+        ["points"] = 7771.2,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1892,
@@ -25179,7 +25179,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1045,
         ["kill_count"] = 4,
-        ["points"] = 7147.09,
+        ["points"] = 7149.9,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1646,
@@ -25216,7 +25216,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 402,
         ["kill_count"] = 1,
-        ["points"] = 8775.91,
+        ["points"] = 8777.12,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1720,
@@ -25406,7 +25406,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 990,
         ["kill_count"] = 1,
-        ["points"] = 7305.03,
+        ["points"] = 7307.69,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2221,
@@ -25510,14 +25510,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Sideway"] = {
-    ["percentile"] = 38.1,
+    ["percentile"] = 38.11,
     ["server"] = "Icecrown",
     ["overall_rank"] = 510,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 871,
         ["kill_count"] = 1,
-        ["points"] = 7640.67,
+        ["points"] = 7643.0,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2161,
@@ -25668,14 +25668,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Verytoughlad"] = {
-    ["percentile"] = 37.96,
+    ["percentile"] = 37.97,
     ["server"] = "Icecrown",
     ["overall_rank"] = 514,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1025,
         ["kill_count"] = 1,
-        ["points"] = 7206.32,
+        ["points"] = 7209.07,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1938,
@@ -25823,7 +25823,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 636,
         ["kill_count"] = 1,
-        ["points"] = 8242.84,
+        ["points"] = 8244.58,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 510,
@@ -25927,7 +25927,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 521,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 3075,
+        ["rank_raids"] = 3076,
         ["kill_count"] = 1,
         ["points"] = 26.85,
       },
@@ -26001,7 +26001,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 523,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2560,
+        ["rank_raids"] = 2561,
         ["kill_count"] = 1,
         ["points"] = 4838.87,
       },
@@ -26077,7 +26077,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 448,
         ["kill_count"] = 2,
-        ["points"] = 8657.45,
+        ["points"] = 8658.78,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2033,
@@ -26403,7 +26403,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 534,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2382,
+        ["rank_raids"] = 2383,
         ["kill_count"] = 2,
         ["points"] = 5158.63,
       },
@@ -26435,14 +26435,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Saphillah"] = {
-    ["percentile"] = 36.82,
+    ["percentile"] = 36.83,
     ["server"] = "Icecrown",
     ["overall_rank"] = 535,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1189,
         ["kill_count"] = 1,
-        ["points"] = 6722.61,
+        ["points"] = 6725.84,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1701,
@@ -26477,7 +26477,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 536,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2453,
+        ["rank_raids"] = 2454,
         ["kill_count"] = 1,
         ["points"] = 5049.14,
       },
@@ -26521,7 +26521,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1257,
         ["kill_count"] = 2,
-        ["points"] = 6505.43,
+        ["points"] = 6508.88,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1466,
@@ -26556,7 +26556,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 538,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2912,
+        ["rank_raids"] = 2913,
         ["kill_count"] = 2,
         ["points"] = 3608.86,
       },
@@ -26595,7 +26595,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1217,
         ["kill_count"] = 1,
-        ["points"] = 6643.63,
+        ["points"] = 6646.94,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2027,
@@ -26706,7 +26706,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1198,
         ["kill_count"] = 1,
-        ["points"] = 6692.99,
+        ["points"] = 6696.25,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1324,
@@ -26889,7 +26889,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 547,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2386,
+        ["rank_raids"] = 2387,
         ["kill_count"] = 1,
         ["points"] = 5148.75,
       },
@@ -26963,7 +26963,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 549,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2511,
+        ["rank_raids"] = 2512,
         ["kill_count"] = 1,
         ["points"] = 4924.59,
       },
@@ -27202,7 +27202,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1158,
         ["kill_count"] = 1,
-        ["points"] = 6831.19,
+        ["points"] = 6834.32,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 919,
@@ -27491,7 +27491,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 563,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2394,
+        ["rank_raids"] = 2395,
         ["kill_count"] = 2,
         ["points"] = 5136.79,
       },
@@ -27604,7 +27604,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1213,
         ["kill_count"] = 4,
-        ["points"] = 6663.38,
+        ["points"] = 6666.67,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2251,
@@ -27676,7 +27676,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 568,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2429,
+        ["rank_raids"] = 2430,
         ["kill_count"] = 4,
         ["points"] = 5073.83,
       },
@@ -27787,7 +27787,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 571,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2986,
+        ["rank_raids"] = 2987,
         ["kill_count"] = 1,
         ["points"] = 2879.91,
       },
@@ -28009,7 +28009,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 577,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2505,
+        ["rank_raids"] = 2506,
         ["kill_count"] = 1,
         ["points"] = 4936.67,
       },
@@ -28130,7 +28130,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 580,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2467,
+        ["rank_raids"] = 2468,
         ["kill_count"] = 2,
         ["points"] = 5022.01,
       },
@@ -28246,7 +28246,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 583,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2490,
+        ["rank_raids"] = 2491,
         ["kill_count"] = 2,
         ["points"] = 4966.11,
       },
@@ -28389,14 +28389,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Xscottinaxxd"] = {
-    ["percentile"] = 34.46,
+    ["percentile"] = 34.47,
     ["server"] = "Icecrown",
     ["overall_rank"] = 587,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1114,
         ["kill_count"] = 1,
-        ["points"] = 6920.04,
+        ["points"] = 6923.08,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1990,
@@ -28431,7 +28431,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 588,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2410,
+        ["rank_raids"] = 2411,
         ["kill_count"] = 2,
         ["points"] = 5105.76,
       },
@@ -28468,7 +28468,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 589,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2508,
+        ["rank_raids"] = 2509,
         ["kill_count"] = 1,
         ["points"] = 4928.26,
       },
@@ -28685,7 +28685,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 595,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2999,
+        ["rank_raids"] = 3000,
         ["kill_count"] = 1,
         ["points"] = 2748.42,
       },
@@ -28717,14 +28717,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Paxx"] = {
-    ["percentile"] = 34.21,
+    ["percentile"] = 34.22,
     ["server"] = "Icecrown",
     ["overall_rank"] = 596,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1080,
         ["kill_count"] = 1,
-        ["points"] = 7038.5,
+        ["points"] = 7041.42,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1867,
@@ -28759,7 +28759,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 597,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2783,
+        ["rank_raids"] = 2784,
         ["kill_count"] = 1,
         ["points"] = 4206.13,
       },
@@ -29129,7 +29129,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 607,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2487,
+        ["rank_raids"] = 2488,
         ["kill_count"] = 1,
         ["points"] = 4971.4,
       },
@@ -29314,7 +29314,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 612,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2587,
+        ["rank_raids"] = 2588,
         ["kill_count"] = 2,
         ["points"] = 4793.78,
       },
@@ -29610,7 +29610,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 620,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2666,
+        ["rank_raids"] = 2667,
         ["kill_count"] = 2,
         ["points"] = 4622.51,
       },
@@ -30012,7 +30012,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 631,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2570,
+        ["rank_raids"] = 2571,
         ["kill_count"] = 1,
         ["points"] = 4822.53,
       },
@@ -30044,7 +30044,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 632,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2391,
+        ["rank_raids"] = 2392,
         ["kill_count"] = 1,
         ["points"] = 5138.1,
       },
@@ -30081,7 +30081,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 633,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2510,
+        ["rank_raids"] = 2511,
         ["kill_count"] = 1,
         ["points"] = 4926.94,
       },
@@ -30118,7 +30118,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 634,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2421,
+        ["rank_raids"] = 2422,
         ["kill_count"] = 1,
         ["points"] = 5083.54,
       },
@@ -30187,7 +30187,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 636,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2473,
+        ["rank_raids"] = 2474,
         ["kill_count"] = 1,
         ["points"] = 5013.42,
       },
@@ -30224,7 +30224,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 637,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2708,
+        ["rank_raids"] = 2709,
         ["kill_count"] = 3,
         ["points"] = 4456.85,
       },
@@ -30340,7 +30340,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 640,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2479,
+        ["rank_raids"] = 2480,
         ["kill_count"] = 3,
         ["points"] = 4987.91,
       },
@@ -30382,7 +30382,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 641,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2338,
+        ["rank_raids"] = 2339,
         ["kill_count"] = 1,
         ["points"] = 5228.02,
       },
@@ -30419,7 +30419,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 642,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2423,
+        ["rank_raids"] = 2424,
         ["kill_count"] = 3,
         ["points"] = 5080.38,
       },
@@ -30493,7 +30493,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 644,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2556,
+        ["rank_raids"] = 2557,
         ["kill_count"] = 1,
         ["points"] = 4843.51,
       },
@@ -30562,14 +30562,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Kyriia"] = {
-    ["percentile"] = 32.62,
+    ["percentile"] = 32.63,
     ["server"] = "Icecrown",
     ["overall_rank"] = 646,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1014,
         ["kill_count"] = 1,
-        ["points"] = 7235.93,
+        ["points"] = 7238.66,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 911,
@@ -30675,7 +30675,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 932,
         ["kill_count"] = 1,
-        ["points"] = 7492.6,
+        ["points"] = 7495.07,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2546,
@@ -30705,7 +30705,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 650,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2969,
+        ["rank_raids"] = 2970,
         ["kill_count"] = 2,
         ["points"] = 3109.91,
       },
@@ -30885,7 +30885,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 655,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2495,
+        ["rank_raids"] = 2496,
         ["kill_count"] = 1,
         ["points"] = 4959.25,
       },
@@ -30964,7 +30964,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 657,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2557,
+        ["rank_raids"] = 2558,
         ["kill_count"] = 1,
         ["points"] = 4842.68,
       },
@@ -31038,14 +31038,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Rezo"] = {
-    ["percentile"] = 32.32,
+    ["percentile"] = 32.33,
     ["server"] = "Icecrown",
     ["overall_rank"] = 659,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 955,
         ["kill_count"] = 1,
-        ["points"] = 7433.37,
+        ["points"] = 7435.9,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1344,
@@ -31149,7 +31149,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 662,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2621,
+        ["rank_raids"] = 2622,
         ["kill_count"] = 1,
         ["points"] = 4731.69,
       },
@@ -31218,14 +31218,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Yamdef"] = {
-    ["percentile"] = 32.18,
+    ["percentile"] = 32.19,
     ["server"] = "Icecrown",
     ["overall_rank"] = 664,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 797,
         ["kill_count"] = 1,
-        ["points"] = 7798.62,
+        ["points"] = 7800.79,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1752,
@@ -31297,7 +31297,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 666,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2347,
+        ["rank_raids"] = 2348,
         ["kill_count"] = 5,
         ["points"] = 5206.52,
       },
@@ -31334,7 +31334,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 667,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2758,
+        ["rank_raids"] = 2759,
         ["kill_count"] = 3,
         ["points"] = 4304.32,
       },
@@ -31445,7 +31445,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 670,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2566,
+        ["rank_raids"] = 2567,
         ["kill_count"] = 1,
         ["points"] = 4826.58,
       },
@@ -31514,7 +31514,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 672,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2598,
+        ["rank_raids"] = 2599,
         ["kill_count"] = 1,
         ["points"] = 4763.02,
       },
@@ -31551,7 +31551,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 673,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2777,
+        ["rank_raids"] = 2778,
         ["kill_count"] = 1,
         ["points"] = 4217.26,
       },
@@ -31590,7 +31590,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1058,
         ["kill_count"] = 1,
-        ["points"] = 7117.47,
+        ["points"] = 7120.32,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1455,
@@ -31620,7 +31620,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 675,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2373,
+        ["rank_raids"] = 2374,
         ["kill_count"] = 1,
         ["points"] = 5170.86,
       },
@@ -31657,7 +31657,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 676,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2377,
+        ["rank_raids"] = 2378,
         ["kill_count"] = 2,
         ["points"] = 5168.24,
       },
@@ -31694,7 +31694,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 677,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2352,
+        ["rank_raids"] = 2353,
         ["kill_count"] = 1,
         ["points"] = 5200.03,
       },
@@ -31864,7 +31864,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 682,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2563,
+        ["rank_raids"] = 2564,
         ["kill_count"] = 2,
         ["points"] = 4832.86,
       },
@@ -31960,7 +31960,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 685,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2564,
+        ["rank_raids"] = 2565,
         ["kill_count"] = 1,
         ["points"] = 4831.1,
       },
@@ -32071,7 +32071,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 688,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2780,
+        ["rank_raids"] = 2781,
         ["kill_count"] = 2,
         ["points"] = 4214.42,
       },
@@ -32145,7 +32145,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 690,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2558,
+        ["rank_raids"] = 2559,
         ["kill_count"] = 1,
         ["points"] = 4842.16,
       },
@@ -32182,7 +32182,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 692,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2894,
+        ["rank_raids"] = 2895,
         ["kill_count"] = 1,
         ["points"] = 3689.64,
       },
@@ -32256,7 +32256,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 694,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2604,
+        ["rank_raids"] = 2605,
         ["kill_count"] = 3,
         ["points"] = 4752.6,
       },
@@ -32394,7 +32394,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 698,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2360,
+        ["rank_raids"] = 2361,
         ["kill_count"] = 1,
         ["points"] = 5194.08,
       },
@@ -32431,7 +32431,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 699,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2661,
+        ["rank_raids"] = 2662,
         ["kill_count"] = 2,
         ["points"] = 4647.88,
       },
@@ -32574,7 +32574,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 703,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2968,
+        ["rank_raids"] = 2969,
         ["kill_count"] = 1,
         ["points"] = 3129.76,
       },
@@ -32613,7 +32613,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1089,
         ["kill_count"] = 1,
-        ["points"] = 7018.76,
+        ["points"] = 7021.7,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2594,
@@ -32648,7 +32648,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 706,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2332,
+        ["rank_raids"] = 2333,
         ["kill_count"] = 2,
         ["points"] = 5237.48,
       },
@@ -32685,7 +32685,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 707,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2785,
+        ["rank_raids"] = 2786,
         ["kill_count"] = 1,
         ["points"] = 4197.56,
       },
@@ -32759,7 +32759,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 709,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2624,
+        ["rank_raids"] = 2625,
         ["kill_count"] = 2,
         ["points"] = 4725.85,
       },
@@ -32939,7 +32939,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 714,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2526,
+        ["rank_raids"] = 2527,
         ["kill_count"] = 1,
         ["points"] = 4896.42,
       },
@@ -33015,7 +33015,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 750,
         ["kill_count"] = 2,
-        ["points"] = 7936.82,
+        ["points"] = 7938.86,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1617,
@@ -33040,7 +33040,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 717,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2859,
+        ["rank_raids"] = 2860,
         ["kill_count"] = 1,
         ["points"] = 3913.15,
       },
@@ -33082,7 +33082,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 718,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2350,
+        ["rank_raids"] = 2351,
         ["kill_count"] = 1,
         ["points"] = 5202.33,
       },
@@ -33119,7 +33119,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 719,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2917,
+        ["rank_raids"] = 2918,
         ["kill_count"] = 1,
         ["points"] = 3595.71,
       },
@@ -33230,7 +33230,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 722,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2800,
+        ["rank_raids"] = 2801,
         ["kill_count"] = 1,
         ["points"] = 4151.81,
       },
@@ -33299,7 +33299,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 724,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2607,
+        ["rank_raids"] = 2608,
         ["kill_count"] = 1,
         ["points"] = 4747.77,
       },
@@ -33447,7 +33447,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 728,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2547,
+        ["rank_raids"] = 2548,
         ["kill_count"] = 1,
         ["points"] = 4862.8,
       },
@@ -33484,7 +33484,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 729,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2715,
+        ["rank_raids"] = 2716,
         ["kill_count"] = 3,
         ["points"] = 4438.97,
       },
@@ -33558,7 +33558,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 731,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2395,
+        ["rank_raids"] = 2396,
         ["kill_count"] = 2,
         ["points"] = 5136.73,
       },
@@ -33595,7 +33595,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 732,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2619,
+        ["rank_raids"] = 2620,
         ["kill_count"] = 3,
         ["points"] = 4732.93,
       },
@@ -33664,7 +33664,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 734,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2713,
+        ["rank_raids"] = 2714,
         ["kill_count"] = 2,
         ["points"] = 4447.33,
       },
@@ -33738,7 +33738,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 736,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2437,
+        ["rank_raids"] = 2438,
         ["kill_count"] = 1,
         ["points"] = 5067.2,
       },
@@ -33775,7 +33775,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 737,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2485,
+        ["rank_raids"] = 2486,
         ["kill_count"] = 1,
         ["points"] = 4975.59,
       },
@@ -33812,7 +33812,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 738,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2568,
+        ["rank_raids"] = 2569,
         ["kill_count"] = 1,
         ["points"] = 4822.82,
       },
@@ -33876,7 +33876,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 740,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2572,
+        ["rank_raids"] = 2573,
         ["kill_count"] = 1,
         ["points"] = 4821.21,
       },
@@ -33987,7 +33987,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 743,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2717,
+        ["rank_raids"] = 2718,
         ["kill_count"] = 1,
         ["points"] = 4435.21,
       },
@@ -34051,7 +34051,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 745,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2683,
+        ["rank_raids"] = 2684,
         ["kill_count"] = 1,
         ["points"] = 4567.99,
       },
@@ -34088,7 +34088,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 746,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2816,
+        ["rank_raids"] = 2817,
         ["kill_count"] = 1,
         ["points"] = 4095.94,
       },
@@ -34125,7 +34125,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 747,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2925,
+        ["rank_raids"] = 2926,
         ["kill_count"] = 1,
         ["points"] = 3529.79,
       },
@@ -34172,7 +34172,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 748,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2361,
+        ["rank_raids"] = 2362,
         ["kill_count"] = 1,
         ["points"] = 5194.07,
       },
@@ -34209,7 +34209,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 749,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2892,
+        ["rank_raids"] = 2893,
         ["kill_count"] = 1,
         ["points"] = 3716.23,
       },
@@ -34394,7 +34394,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 754,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2478,
+        ["rank_raids"] = 2479,
         ["kill_count"] = 1,
         ["points"] = 4987.96,
       },
@@ -34431,7 +34431,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 755,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2442,
+        ["rank_raids"] = 2443,
         ["kill_count"] = 1,
         ["points"] = 5060.97,
       },
@@ -34468,7 +34468,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 756,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2494,
+        ["rank_raids"] = 2495,
         ["kill_count"] = 1,
         ["points"] = 4959.38,
       },
@@ -34505,7 +34505,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 757,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2726,
+        ["rank_raids"] = 2727,
         ["kill_count"] = 1,
         ["points"] = 4392.14,
       },
@@ -34542,7 +34542,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 758,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2346,
+        ["rank_raids"] = 2347,
         ["kill_count"] = 2,
         ["points"] = 5213.36,
       },
@@ -34616,7 +34616,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 760,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2354,
+        ["rank_raids"] = 2355,
         ["kill_count"] = 2,
         ["points"] = 5199.45,
       },
@@ -34653,7 +34653,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 761,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2438,
+        ["rank_raids"] = 2439,
         ["kill_count"] = 1,
         ["points"] = 5065.88,
       },
@@ -34690,7 +34690,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 762,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2787,
+        ["rank_raids"] = 2788,
         ["kill_count"] = 1,
         ["points"] = 4191.89,
       },
@@ -34727,7 +34727,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 763,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2554,
+        ["rank_raids"] = 2555,
         ["kill_count"] = 1,
         ["points"] = 4846.1,
       },
@@ -34764,7 +34764,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 764,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2791,
+        ["rank_raids"] = 2792,
         ["kill_count"] = 1,
         ["points"] = 4181.02,
       },
@@ -34870,7 +34870,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 767,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2539,
+        ["rank_raids"] = 2540,
         ["kill_count"] = 1,
         ["points"] = 4871.15,
       },
@@ -34907,7 +34907,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 768,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2497,
+        ["rank_raids"] = 2498,
         ["kill_count"] = 2,
         ["points"] = 4952.74,
       },
@@ -34944,7 +34944,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 769,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2601,
+        ["rank_raids"] = 2602,
         ["kill_count"] = 2,
         ["points"] = 4754.85,
       },
@@ -35013,7 +35013,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 771,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2627,
+        ["rank_raids"] = 2628,
         ["kill_count"] = 1,
         ["points"] = 4721.61,
       },
@@ -35050,7 +35050,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 772,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2739,
+        ["rank_raids"] = 2740,
         ["kill_count"] = 1,
         ["points"] = 4355.49,
       },
@@ -35178,7 +35178,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 776,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2450,
+        ["rank_raids"] = 2451,
         ["kill_count"] = 2,
         ["points"] = 5054.99,
       },
@@ -35311,7 +35311,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 780,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2693,
+        ["rank_raids"] = 2694,
         ["kill_count"] = 1,
         ["points"] = 4529.19,
       },
@@ -35348,7 +35348,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 781,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2600,
+        ["rank_raids"] = 2601,
         ["kill_count"] = 1,
         ["points"] = 4756.86,
       },
@@ -35454,7 +35454,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 784,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2459,
+        ["rank_raids"] = 2460,
         ["kill_count"] = 1,
         ["points"] = 5041.58,
       },
@@ -35520,7 +35520,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1138,
         ["kill_count"] = 1,
-        ["points"] = 6841.07,
+        ["points"] = 6844.18,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1492,
@@ -35545,7 +35545,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 787,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2415,
+        ["rank_raids"] = 2416,
         ["kill_count"] = 1,
         ["points"] = 5096.11,
       },
@@ -35584,7 +35584,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 695,
         ["kill_count"] = 1,
-        ["points"] = 8055.28,
+        ["points"] = 8057.2,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1712,
@@ -35609,7 +35609,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 789,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2904,
+        ["rank_raids"] = 2905,
         ["kill_count"] = 2,
         ["points"] = 3636.88,
       },
@@ -35710,7 +35710,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 792,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 3053,
+        ["rank_raids"] = 3054,
         ["kill_count"] = 1,
         ["points"] = 1646.84,
       },
@@ -35747,7 +35747,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 793,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2436,
+        ["rank_raids"] = 2437,
         ["kill_count"] = 1,
         ["points"] = 5067.54,
       },
@@ -35784,7 +35784,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 794,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2730,
+        ["rank_raids"] = 2731,
         ["kill_count"] = 1,
         ["points"] = 4377.2,
       },
@@ -35821,7 +35821,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 795,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2733,
+        ["rank_raids"] = 2734,
         ["kill_count"] = 1,
         ["points"] = 4371.22,
       },
@@ -35858,7 +35858,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 796,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2690,
+        ["rank_raids"] = 2691,
         ["kill_count"] = 1,
         ["points"] = 4537.8,
       },
@@ -35895,7 +35895,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 797,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2796,
+        ["rank_raids"] = 2797,
         ["kill_count"] = 1,
         ["points"] = 4164.54,
       },
@@ -35927,7 +35927,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 798,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2626,
+        ["rank_raids"] = 2627,
         ["kill_count"] = 1,
         ["points"] = 4725.05,
       },
@@ -35996,7 +35996,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 800,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2778,
+        ["rank_raids"] = 2779,
         ["kill_count"] = 1,
         ["points"] = 4216.51,
       },
@@ -36033,7 +36033,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 801,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2811,
+        ["rank_raids"] = 2812,
         ["kill_count"] = 1,
         ["points"] = 4123.16,
       },
@@ -36102,7 +36102,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 803,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 3038,
+        ["rank_raids"] = 3039,
         ["kill_count"] = 1,
         ["points"] = 2053.85,
       },
@@ -36134,7 +36134,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 804,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2840,
+        ["rank_raids"] = 2841,
         ["kill_count"] = 1,
         ["points"] = 4002.28,
       },
@@ -36208,7 +36208,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 806,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2974,
+        ["rank_raids"] = 2975,
         ["kill_count"] = 1,
         ["points"] = 3074.78,
       },
@@ -36265,7 +36265,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 807,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 3021,
+        ["rank_raids"] = 3022,
         ["kill_count"] = 1,
         ["points"] = 2398.97,
       },
@@ -36302,7 +36302,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 808,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2875,
+        ["rank_raids"] = 2876,
         ["kill_count"] = 3,
         ["points"] = 3839.46,
       },
@@ -36371,7 +36371,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 810,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2703,
+        ["rank_raids"] = 2704,
         ["kill_count"] = 1,
         ["points"] = 4466.72,
       },
@@ -36440,7 +36440,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 812,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2656,
+        ["rank_raids"] = 2657,
         ["kill_count"] = 1,
         ["points"] = 4656.63,
       },
@@ -36477,7 +36477,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 813,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2578,
+        ["rank_raids"] = 2579,
         ["kill_count"] = 1,
         ["points"] = 4811.1,
       },
@@ -36514,7 +36514,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 814,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2636,
+        ["rank_raids"] = 2637,
         ["kill_count"] = 1,
         ["points"] = 4697.69,
       },
@@ -36551,7 +36551,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 815,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2676,
+        ["rank_raids"] = 2677,
         ["kill_count"] = 1,
         ["points"] = 4594.91,
       },
@@ -36620,7 +36620,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 817,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2898,
+        ["rank_raids"] = 2899,
         ["kill_count"] = 2,
         ["points"] = 3667.36,
       },
@@ -36785,7 +36785,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 822,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2779,
+        ["rank_raids"] = 2780,
         ["kill_count"] = 2,
         ["points"] = 4215.26,
       },
@@ -36827,7 +36827,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 823,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2897,
+        ["rank_raids"] = 2898,
         ["kill_count"] = 1,
         ["points"] = 3668.95,
       },
@@ -36896,7 +36896,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 825,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2659,
+        ["rank_raids"] = 2660,
         ["kill_count"] = 4,
         ["points"] = 4650.67,
       },
@@ -36933,7 +36933,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 826,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2387,
+        ["rank_raids"] = 2388,
         ["kill_count"] = 2,
         ["points"] = 5147.47,
       },
@@ -36970,7 +36970,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 827,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2824,
+        ["rank_raids"] = 2825,
         ["kill_count"] = 1,
         ["points"] = 4064.67,
       },
@@ -37039,7 +37039,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 829,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2723,
+        ["rank_raids"] = 2724,
         ["kill_count"] = 1,
         ["points"] = 4408.63,
       },
@@ -37071,7 +37071,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 830,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2748,
+        ["rank_raids"] = 2749,
         ["kill_count"] = 1,
         ["points"] = 4338.7,
       },
@@ -37140,7 +37140,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 832,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 3030,
+        ["rank_raids"] = 3031,
         ["kill_count"] = 1,
         ["points"] = 2241.39,
       },
@@ -37204,7 +37204,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 834,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2501,
+        ["rank_raids"] = 2502,
         ["kill_count"] = 1,
         ["points"] = 4946.07,
       },
@@ -37268,7 +37268,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 836,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2397,
+        ["rank_raids"] = 2398,
         ["kill_count"] = 1,
         ["points"] = 5133.3,
       },
@@ -37342,7 +37342,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 838,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2657,
+        ["rank_raids"] = 2658,
         ["kill_count"] = 1,
         ["points"] = 4655.57,
       },
@@ -37433,7 +37433,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 841,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2328,
+        ["rank_raids"] = 2329,
         ["kill_count"] = 1,
         ["points"] = 5246.34,
       },
@@ -37492,7 +37492,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 843,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2645,
+        ["rank_raids"] = 2646,
         ["kill_count"] = 2,
         ["points"] = 4680.02,
       },
@@ -37524,7 +37524,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 844,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2700,
+        ["rank_raids"] = 2701,
         ["kill_count"] = 1,
         ["points"] = 4475.71,
       },
@@ -37630,7 +37630,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 847,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2819,
+        ["rank_raids"] = 2820,
         ["kill_count"] = 1,
         ["points"] = 4090.96,
       },
@@ -37667,7 +37667,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 848,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2482,
+        ["rank_raids"] = 2483,
         ["kill_count"] = 1,
         ["points"] = 4985.28,
       },
@@ -37704,7 +37704,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 849,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2948,
+        ["rank_raids"] = 2949,
         ["kill_count"] = 1,
         ["points"] = 3340.85,
       },
@@ -37736,7 +37736,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 850,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2330,
+        ["rank_raids"] = 2331,
         ["kill_count"] = 1,
         ["points"] = 5238.15,
       },
@@ -37790,7 +37790,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 852,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2857,
+        ["rank_raids"] = 2858,
         ["kill_count"] = 1,
         ["points"] = 3915.09,
       },
@@ -37864,7 +37864,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 854,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2765,
+        ["rank_raids"] = 2766,
         ["kill_count"] = 1,
         ["points"] = 4275.1,
       },
@@ -37901,7 +37901,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 855,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2763,
+        ["rank_raids"] = 2764,
         ["kill_count"] = 1,
         ["points"] = 4293.83,
       },
@@ -37938,7 +37938,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 856,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2496,
+        ["rank_raids"] = 2497,
         ["kill_count"] = 1,
         ["points"] = 4957.73,
       },
@@ -37975,7 +37975,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 857,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2522,
+        ["rank_raids"] = 2523,
         ["kill_count"] = 2,
         ["points"] = 4907.43,
       },
@@ -38098,7 +38098,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 861,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2843,
+        ["rank_raids"] = 2844,
         ["kill_count"] = 1,
         ["points"] = 3974.81,
       },
@@ -38162,7 +38162,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 863,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2379,
+        ["rank_raids"] = 2380,
         ["kill_count"] = 2,
         ["points"] = 5165.5,
       },
@@ -38196,7 +38196,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 918,
         ["kill_count"] = 1,
-        ["points"] = 7541.95,
+        ["points"] = 7544.38,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1796,
@@ -38221,7 +38221,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 865,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2524,
+        ["rank_raids"] = 2525,
         ["kill_count"] = 1,
         ["points"] = 4899.63,
       },
@@ -38280,7 +38280,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 867,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2413,
+        ["rank_raids"] = 2414,
         ["kill_count"] = 1,
         ["points"] = 5101.42,
       },
@@ -38312,7 +38312,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 868,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2823,
+        ["rank_raids"] = 2824,
         ["kill_count"] = 1,
         ["points"] = 4067.69,
       },
@@ -38349,7 +38349,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 869,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2838,
+        ["rank_raids"] = 2839,
         ["kill_count"] = 1,
         ["points"] = 4009.25,
       },
@@ -38386,7 +38386,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 870,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2770,
+        ["rank_raids"] = 2771,
         ["kill_count"] = 1,
         ["points"] = 4260.29,
       },
@@ -38418,7 +38418,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 871,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2484,
+        ["rank_raids"] = 2485,
         ["kill_count"] = 1,
         ["points"] = 4975.97,
       },
@@ -38472,7 +38472,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 873,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2466,
+        ["rank_raids"] = 2467,
         ["kill_count"] = 2,
         ["points"] = 5023.95,
       },
@@ -38499,7 +38499,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 874,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2331,
+        ["rank_raids"] = 2332,
         ["kill_count"] = 1,
         ["points"] = 5237.55,
       },
@@ -38526,7 +38526,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 875,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2919,
+        ["rank_raids"] = 2920,
         ["kill_count"] = 1,
         ["points"] = 3577.02,
       },
@@ -38578,7 +38578,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 876,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2992,
+        ["rank_raids"] = 2993,
         ["kill_count"] = 1,
         ["points"] = 2803.91,
       },
@@ -38615,7 +38615,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 877,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 3029,
+        ["rank_raids"] = 3030,
         ["kill_count"] = 1,
         ["points"] = 2299.6,
       },
@@ -38652,7 +38652,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 878,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2874,
+        ["rank_raids"] = 2875,
         ["kill_count"] = 1,
         ["points"] = 3847.28,
       },
@@ -38743,7 +38743,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 881,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2858,
+        ["rank_raids"] = 2859,
         ["kill_count"] = 1,
         ["points"] = 3913.2,
       },
@@ -38834,7 +38834,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 884,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2679,
+        ["rank_raids"] = 2680,
         ["kill_count"] = 1,
         ["points"] = 4588.83,
       },
@@ -38866,7 +38866,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 885,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2606,
+        ["rank_raids"] = 2607,
         ["kill_count"] = 1,
         ["points"] = 4749.31,
       },
@@ -38952,7 +38952,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 888,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2744,
+        ["rank_raids"] = 2745,
         ["kill_count"] = 1,
         ["points"] = 4346.44,
       },
@@ -38989,7 +38989,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 889,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2877,
+        ["rank_raids"] = 2878,
         ["kill_count"] = 1,
         ["points"] = 3825.43,
       },
@@ -39026,7 +39026,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 890,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2439,
+        ["rank_raids"] = 2440,
         ["kill_count"] = 1,
         ["points"] = 5063.35,
       },
@@ -39058,7 +39058,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 891,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 3007,
+        ["rank_raids"] = 3008,
         ["kill_count"] = 1,
         ["points"] = 2629.4,
       },
@@ -39095,7 +39095,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 892,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2867,
+        ["rank_raids"] = 2868,
         ["kill_count"] = 1,
         ["points"] = 3880.79,
       },
@@ -39149,7 +39149,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 894,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2729,
+        ["rank_raids"] = 2730,
         ["kill_count"] = 1,
         ["points"] = 4377.96,
       },
@@ -39208,7 +39208,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 896,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2881,
+        ["rank_raids"] = 2882,
         ["kill_count"] = 1,
         ["points"] = 3796.95,
       },
@@ -39245,7 +39245,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 897,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2425,
+        ["rank_raids"] = 2426,
         ["kill_count"] = 2,
         ["points"] = 5079.01,
       },
@@ -39272,7 +39272,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 898,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2581,
+        ["rank_raids"] = 2582,
         ["kill_count"] = 1,
         ["points"] = 4803.46,
       },
@@ -39299,7 +39299,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 899,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2807,
+        ["rank_raids"] = 2808,
         ["kill_count"] = 1,
         ["points"] = 4132.77,
       },
@@ -39331,7 +39331,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 900,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2411,
+        ["rank_raids"] = 2412,
         ["kill_count"] = 1,
         ["points"] = 5102.0,
       },
@@ -39363,7 +39363,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 901,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2929,
+        ["rank_raids"] = 2930,
         ["kill_count"] = 1,
         ["points"] = 3500.94,
       },
@@ -39390,7 +39390,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 902,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2701,
+        ["rank_raids"] = 2702,
         ["kill_count"] = 1,
         ["points"] = 4474.66,
       },
@@ -39427,7 +39427,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 903,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2847,
+        ["rank_raids"] = 2848,
         ["kill_count"] = 1,
         ["points"] = 3949.65,
       },
@@ -39459,7 +39459,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 904,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2906,
+        ["rank_raids"] = 2907,
         ["kill_count"] = 1,
         ["points"] = 3629.3,
       },
@@ -39486,7 +39486,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 905,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2788,
+        ["rank_raids"] = 2789,
         ["kill_count"] = 1,
         ["points"] = 4185.53,
       },
@@ -39513,7 +39513,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 906,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2582,
+        ["rank_raids"] = 2583,
         ["kill_count"] = 1,
         ["points"] = 4802.57,
       },
@@ -39540,7 +39540,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 907,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2903,
+        ["rank_raids"] = 2904,
         ["kill_count"] = 1,
         ["points"] = 3642.55,
       },
@@ -39577,7 +39577,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 908,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2849,
+        ["rank_raids"] = 2850,
         ["kill_count"] = 1,
         ["points"] = 3948.23,
       },
@@ -39609,14 +39609,14 @@ UWULogsData[6][1] = {
     },
   },
   ["Dumbassa"] = {
-    ["percentile"] = 22.06,
+    ["percentile"] = 22.07,
     ["server"] = "Icecrown",
     ["overall_rank"] = 909,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1098,
         ["kill_count"] = 1,
-        ["points"] = 6979.27,
+        ["points"] = 6982.25,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1400,
@@ -39636,7 +39636,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 910,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2611,
+        ["rank_raids"] = 2612,
         ["kill_count"] = 1,
         ["points"] = 4744.24,
       },
@@ -39717,7 +39717,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 913,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2833,
+        ["rank_raids"] = 2834,
         ["kill_count"] = 1,
         ["points"] = 4036.29,
       },
@@ -39781,7 +39781,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 915,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2699,
+        ["rank_raids"] = 2700,
         ["kill_count"] = 1,
         ["points"] = 4478.68,
       },
@@ -39813,7 +39813,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 916,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2866,
+        ["rank_raids"] = 2867,
         ["kill_count"] = 1,
         ["points"] = 3883.97,
       },
@@ -39850,7 +39850,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 917,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2923,
+        ["rank_raids"] = 2924,
         ["kill_count"] = 1,
         ["points"] = 3553.3,
       },
@@ -39887,7 +39887,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 918,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2845,
+        ["rank_raids"] = 2846,
         ["kill_count"] = 1,
         ["points"] = 3960.45,
       },
@@ -39978,7 +39978,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 921,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2959,
+        ["rank_raids"] = 2960,
         ["kill_count"] = 1,
         ["points"] = 3238.8,
       },
@@ -40015,7 +40015,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 922,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2492,
+        ["rank_raids"] = 2493,
         ["kill_count"] = 1,
         ["points"] = 4963.41,
       },
@@ -40047,7 +40047,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 923,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2801,
+        ["rank_raids"] = 2802,
         ["kill_count"] = 1,
         ["points"] = 4148.35,
       },
@@ -40084,7 +40084,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 924,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2702,
+        ["rank_raids"] = 2703,
         ["kill_count"] = 1,
         ["points"] = 4469.3,
       },
@@ -40175,7 +40175,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 927,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2696,
+        ["rank_raids"] = 2697,
         ["kill_count"] = 1,
         ["points"] = 4493.03,
       },
@@ -40239,7 +40239,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 929,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 3014,
+        ["rank_raids"] = 3015,
         ["kill_count"] = 1,
         ["points"] = 2511.99,
       },
@@ -40276,7 +40276,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 930,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2941,
+        ["rank_raids"] = 2942,
         ["kill_count"] = 1,
         ["points"] = 3384.86,
       },
@@ -40313,7 +40313,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 931,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 3055,
+        ["rank_raids"] = 3056,
         ["kill_count"] = 1,
         ["points"] = 1548.65,
       },
@@ -40389,7 +40389,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 934,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2825,
+        ["rank_raids"] = 2826,
         ["kill_count"] = 1,
         ["points"] = 4063.45,
       },
@@ -40438,7 +40438,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 936,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2907,
+        ["rank_raids"] = 2908,
         ["kill_count"] = 1,
         ["points"] = 3628.25,
       },
@@ -40475,7 +40475,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 937,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2914,
+        ["rank_raids"] = 2915,
         ["kill_count"] = 1,
         ["points"] = 3603.51,
       },
@@ -40507,7 +40507,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 938,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2975,
+        ["rank_raids"] = 2976,
         ["kill_count"] = 1,
         ["points"] = 3048.05,
       },
@@ -40583,7 +40583,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 941,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2762,
+        ["rank_raids"] = 2763,
         ["kill_count"] = 1,
         ["points"] = 4294.66,
       },
@@ -40615,7 +40615,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 942,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2954,
+        ["rank_raids"] = 2955,
         ["kill_count"] = 1,
         ["points"] = 3290.36,
       },
@@ -40701,7 +40701,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 945,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2491,
+        ["rank_raids"] = 2492,
         ["kill_count"] = 1,
         ["points"] = 4963.93,
       },
@@ -40728,7 +40728,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 946,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2595,
+        ["rank_raids"] = 2596,
         ["kill_count"] = 1,
         ["points"] = 4774.19,
       },
@@ -40841,7 +40841,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 950,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2850,
+        ["rank_raids"] = 2851,
         ["kill_count"] = 1,
         ["points"] = 3943.07,
       },
@@ -40900,7 +40900,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 952,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2926,
+        ["rank_raids"] = 2927,
         ["kill_count"] = 1,
         ["points"] = 3516.76,
       },
@@ -40927,7 +40927,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 953,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 3002,
+        ["rank_raids"] = 3003,
         ["kill_count"] = 1,
         ["points"] = 2709.85,
       },
@@ -41043,7 +41043,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 956,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2973,
+        ["rank_raids"] = 2974,
         ["kill_count"] = 1,
         ["points"] = 3084.87,
       },
@@ -41166,7 +41166,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 960,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2789,
+        ["rank_raids"] = 2790,
         ["kill_count"] = 1,
         ["points"] = 4185.23,
       },
@@ -41220,7 +41220,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 962,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2946,
+        ["rank_raids"] = 2947,
         ["kill_count"] = 1,
         ["points"] = 3354.3,
       },
@@ -41257,7 +41257,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 963,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2864,
+        ["rank_raids"] = 2865,
         ["kill_count"] = 1,
         ["points"] = 3897.01,
       },
@@ -41289,7 +41289,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 964,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2936,
+        ["rank_raids"] = 2937,
         ["kill_count"] = 1,
         ["points"] = 3436.2,
       },
@@ -41321,7 +41321,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 965,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 3028,
+        ["rank_raids"] = 3029,
         ["kill_count"] = 1,
         ["points"] = 2304.7,
       },
@@ -41409,7 +41409,7 @@ UWULogsData[6][1] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1254,
         ["kill_count"] = 1,
-        ["points"] = 6525.17,
+        ["points"] = 6528.6,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1351,
@@ -41429,7 +41429,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 969,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2810,
+        ["rank_raids"] = 2811,
         ["kill_count"] = 1,
         ["points"] = 4126.74,
       },
@@ -41483,7 +41483,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 971,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2750,
+        ["rank_raids"] = 2751,
         ["kill_count"] = 1,
         ["points"] = 4337.3,
       },
@@ -41532,7 +41532,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 973,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2745,
+        ["rank_raids"] = 2746,
         ["kill_count"] = 2,
         ["points"] = 4346.07,
       },
@@ -41564,7 +41564,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 974,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2984,
+        ["rank_raids"] = 2985,
         ["kill_count"] = 1,
         ["points"] = 2892.14,
       },
@@ -41623,7 +41623,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 976,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 3018,
+        ["rank_raids"] = 3019,
         ["kill_count"] = 1,
         ["points"] = 2437.31,
       },
@@ -41665,7 +41665,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 977,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2374,
+        ["rank_raids"] = 2375,
         ["kill_count"] = 1,
         ["points"] = 5170.25,
       },
@@ -41687,7 +41687,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 978,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2916,
+        ["rank_raids"] = 2917,
         ["kill_count"] = 1,
         ["points"] = 3595.88,
       },
@@ -41785,7 +41785,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 982,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2768,
+        ["rank_raids"] = 2769,
         ["kill_count"] = 1,
         ["points"] = 4262.82,
       },
@@ -41817,7 +41817,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 983,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2363,
+        ["rank_raids"] = 2364,
         ["kill_count"] = 3,
         ["points"] = 5189.25,
       },
@@ -41839,7 +41839,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 984,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2835,
+        ["rank_raids"] = 2836,
         ["kill_count"] = 1,
         ["points"] = 4021.87,
       },
@@ -41915,7 +41915,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 987,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2972,
+        ["rank_raids"] = 2973,
         ["kill_count"] = 1,
         ["points"] = 3086.33,
       },
@@ -41947,7 +41947,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 988,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2694,
+        ["rank_raids"] = 2695,
         ["kill_count"] = 1,
         ["points"] = 4518.9,
       },
@@ -41979,7 +41979,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 989,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 3056,
+        ["rank_raids"] = 3057,
         ["kill_count"] = 1,
         ["points"] = 1543.26,
       },
@@ -42016,7 +42016,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 990,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2956,
+        ["rank_raids"] = 2957,
         ["kill_count"] = 1,
         ["points"] = 3275.81,
       },
@@ -42087,7 +42087,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 993,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2460,
+        ["rank_raids"] = 2461,
         ["kill_count"] = 1,
         ["points"] = 5036.09,
       },
@@ -42131,7 +42131,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 995,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2953,
+        ["rank_raids"] = 2954,
         ["kill_count"] = 1,
         ["points"] = 3296.27,
       },
@@ -42185,7 +42185,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 997,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2814,
+        ["rank_raids"] = 2815,
         ["kill_count"] = 1,
         ["points"] = 4099.43,
       },
@@ -42212,7 +42212,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 998,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 3049,
+        ["rank_raids"] = 3050,
         ["kill_count"] = 1,
         ["points"] = 1767.82,
       },
@@ -42271,7 +42271,7 @@ UWULogsData[6][1] = {
     ["overall_rank"] = 1000,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2915,
+        ["rank_raids"] = 2916,
         ["kill_count"] = 1,
         ["points"] = 3602.23,
       },
