@@ -4458,7 +4458,7 @@ UWULogsData[9][1] = {
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
-        ["points"] = 5956.6,
+        ["points"] = 5956.4,
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
@@ -4466,7 +4466,7 @@ UWULogsData[9][1] = {
       },
       ["Rotface"] = {
         ["kill_count"] = 6,
-        ["points"] = 5780.4,
+        ["points"] = 5780.3,
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
