@@ -28585,12 +28585,12 @@ UWULogsData[3][1] = {
   ["Sunmazu"] = {
     ["percentile"] = 5.98,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 9402,
+    ["overall_rank"] = 9404,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 20666,
+        ["rank_raids"] = 20669,
         ["kill_count"] = 1,
-        ["points"] = 5484.4,
+        ["points"] = 5484.1,
       },
     },
   },
