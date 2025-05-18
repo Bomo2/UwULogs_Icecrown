@@ -6252,12 +6252,12 @@ UWULogsData[9][3] = {
         ["points"] = 7626.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 44118,
+        ["rank_raids"] = 44119,
         ["kill_count"] = 2,
         ["points"] = 4706.88,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 46141,
+        ["rank_raids"] = 46143,
         ["kill_count"] = 2,
         ["points"] = 3405.58,
       },
@@ -15860,7 +15860,7 @@ UWULogsData[9][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 15710,
         ["kill_count"] = 4,
-        ["points"] = 6688.38,
+        ["points"] = 6689.11,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 13564,
@@ -15875,10 +15875,10 @@ UWULogsData[9][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4998,
         ["kill_count"] = 5,
-        ["points"] = 8421.11,
+        ["points"] = 8421.47,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 25737,
+        ["rank_raids"] = 25738,
         ["kill_count"] = 3,
         ["points"] = 5893.6,
       },

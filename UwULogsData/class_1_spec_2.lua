@@ -40864,9 +40864,9 @@ UWULogsData[1][2] = {
         ["points"] = 8875.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 19122,
+        ["rank_raids"] = 19123,
         ["kill_count"] = 1,
-        ["points"] = 5638.8,
+        ["points"] = 5638.7,
       },
     },
   },

@@ -34,7 +34,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 25,
         ["kill_count"] = 36,
-        ["points"] = 9985.54,
+        ["points"] = 9985.55,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 33,
@@ -148,7 +148,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 61,
         ["kill_count"] = 35,
-        ["points"] = 9969.97,
+        ["points"] = 9969.98,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 25,
@@ -319,7 +319,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 36,
         ["kill_count"] = 59,
-        ["points"] = 9979.98,
+        ["points"] = 9979.99,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 40,
@@ -547,7 +547,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 131,
         ["kill_count"] = 82,
-        ["points"] = 9946.62,
+        ["points"] = 9946.63,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 51,
@@ -661,7 +661,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 13,
         ["kill_count"] = 98,
-        ["points"] = 9991.1,
+        ["points"] = 9991.11,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 11,
@@ -775,7 +775,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 50,
         ["kill_count"] = 64,
-        ["points"] = 9974.42,
+        ["points"] = 9974.43,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 136,
@@ -1003,7 +1003,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 35,
         ["kill_count"] = 56,
-        ["points"] = 9981.09,
+        ["points"] = 9981.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3,
@@ -1060,7 +1060,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 83,
         ["kill_count"] = 25,
-        ["points"] = 9961.08,
+        ["points"] = 9961.09,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 81,
@@ -1231,7 +1231,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 152,
         ["kill_count"] = 49,
-        ["points"] = 9933.27,
+        ["points"] = 9933.29,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 10,
@@ -1288,7 +1288,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 108,
         ["kill_count"] = 78,
-        ["points"] = 9952.18,
+        ["points"] = 9952.19,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 79,
@@ -1345,7 +1345,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 96,
         ["kill_count"] = 51,
-        ["points"] = 9955.52,
+        ["points"] = 9955.53,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 204,
@@ -1402,7 +1402,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 94,
         ["kill_count"] = 50,
-        ["points"] = 9956.63,
+        ["points"] = 9956.64,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 39,
@@ -1459,7 +1459,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 65,
         ["kill_count"] = 25,
-        ["points"] = 9968.86,
+        ["points"] = 9968.87,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 150,
@@ -1516,7 +1516,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 262,
         ["kill_count"] = 37,
-        ["points"] = 9896.57,
+        ["points"] = 9896.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 49,
@@ -1573,7 +1573,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 910,
         ["kill_count"] = 47,
-        ["points"] = 9736.43,
+        ["points"] = 9736.49,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 103,
@@ -1687,7 +1687,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 284,
         ["kill_count"] = 41,
-        ["points"] = 9892.13,
+        ["points"] = 9892.15,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 77,
@@ -1744,7 +1744,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 318,
         ["kill_count"] = 75,
-        ["points"] = 9878.78,
+        ["points"] = 9878.81,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 315,
@@ -1801,7 +1801,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 241,
         ["kill_count"] = 49,
-        ["points"] = 9904.36,
+        ["points"] = 9904.38,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 90,
@@ -1858,7 +1858,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 147,
         ["kill_count"] = 44,
-        ["points"] = 9935.5,
+        ["points"] = 9935.51,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 43,
@@ -1915,7 +1915,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 144,
         ["kill_count"] = 33,
-        ["points"] = 9937.72,
+        ["points"] = 9937.74,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 83,
@@ -1972,7 +1972,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 176,
         ["kill_count"] = 30,
-        ["points"] = 9926.6,
+        ["points"] = 9926.62,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 226,
@@ -2029,7 +2029,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 526,
         ["kill_count"] = 51,
-        ["points"] = 9824.29,
+        ["points"] = 9824.33,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 293,
@@ -2143,7 +2143,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 134,
         ["kill_count"] = 35,
-        ["points"] = 9944.4,
+        ["points"] = 9944.41,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 529,
@@ -2200,7 +2200,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 80,
         ["kill_count"] = 74,
-        ["points"] = 9963.3,
+        ["points"] = 9963.31,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 119,
@@ -2257,7 +2257,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 133,
         ["kill_count"] = 53,
-        ["points"] = 9945.51,
+        ["points"] = 9945.52,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 198,
@@ -2314,7 +2314,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 179,
         ["kill_count"] = 32,
-        ["points"] = 9924.38,
+        ["points"] = 9924.39,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 68,
@@ -2371,7 +2371,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 140,
         ["kill_count"] = 25,
-        ["points"] = 9939.95,
+        ["points"] = 9939.96,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 16,
@@ -2428,7 +2428,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 159,
         ["kill_count"] = 55,
-        ["points"] = 9931.05,
+        ["points"] = 9931.07,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 180,
@@ -2485,7 +2485,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 91,
         ["kill_count"] = 44,
-        ["points"] = 9958.85,
+        ["points"] = 9958.86,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 383,
@@ -2542,7 +2542,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 197,
         ["kill_count"] = 37,
-        ["points"] = 9917.7,
+        ["points"] = 9917.72,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 311,
@@ -2599,7 +2599,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 66,
         ["kill_count"] = 65,
-        ["points"] = 9967.75,
+        ["points"] = 9967.76,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 555,
@@ -2656,7 +2656,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 51,
         ["kill_count"] = 18,
-        ["points"] = 9973.31,
+        ["points"] = 9973.32,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 539,
@@ -2713,7 +2713,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 121,
         ["kill_count"] = 67,
-        ["points"] = 9948.84,
+        ["points"] = 9948.85,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 70,
@@ -2827,7 +2827,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 189,
         ["kill_count"] = 32,
-        ["points"] = 9918.82,
+        ["points"] = 9918.83,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 563,
@@ -2884,7 +2884,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 382,
         ["kill_count"] = 41,
-        ["points"] = 9857.65,
+        ["points"] = 9857.68,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 348,
@@ -2941,7 +2941,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 167,
         ["kill_count"] = 45,
-        ["points"] = 9928.83,
+        ["points"] = 9928.84,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 99,
@@ -2998,7 +2998,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 401,
         ["kill_count"] = 25,
-        ["points"] = 9850.98,
+        ["points"] = 9851.01,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 72,
@@ -3055,7 +3055,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 78,
         ["kill_count"] = 29,
-        ["points"] = 9964.41,
+        ["points"] = 9964.42,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 15,
@@ -3112,7 +3112,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 135,
         ["kill_count"] = 41,
-        ["points"] = 9943.28,
+        ["points"] = 9943.3,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 342,
@@ -3169,7 +3169,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 183,
         ["kill_count"] = 65,
-        ["points"] = 9921.04,
+        ["points"] = 9921.06,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 905,
@@ -3226,7 +3226,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 203,
         ["kill_count"] = 40,
-        ["points"] = 9916.59,
+        ["points"] = 9916.61,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 114,
@@ -3283,7 +3283,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 795,
         ["kill_count"] = 39,
-        ["points"] = 9768.68,
+        ["points"] = 9768.73,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 38,
@@ -3340,7 +3340,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 580,
         ["kill_count"] = 45,
-        ["points"] = 9814.28,
+        ["points"] = 9814.32,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 418,
@@ -3397,7 +3397,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 374,
         ["kill_count"] = 58,
-        ["points"] = 9860.99,
+        ["points"] = 9861.02,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 422,
@@ -3454,7 +3454,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 482,
         ["kill_count"] = 60,
-        ["points"] = 9830.96,
+        ["points"] = 9831.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 152,
@@ -3511,7 +3511,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 405,
         ["kill_count"] = 48,
-        ["points"] = 9848.75,
+        ["points"] = 9848.79,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 375,
@@ -3568,7 +3568,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 339,
         ["kill_count"] = 46,
-        ["points"] = 9873.22,
+        ["points"] = 9873.25,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 524,
@@ -3625,7 +3625,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 137,
         ["kill_count"] = 39,
-        ["points"] = 9942.17,
+        ["points"] = 9942.18,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 425,
@@ -3682,7 +3682,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 425,
         ["kill_count"] = 28,
-        ["points"] = 9840.97,
+        ["points"] = 9841.01,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 19,
@@ -3739,7 +3739,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 252,
         ["kill_count"] = 61,
-        ["points"] = 9898.8,
+        ["points"] = 9898.82,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 173,
@@ -3853,7 +3853,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 75,
         ["kill_count"] = 64,
-        ["points"] = 9965.52,
+        ["points"] = 9965.53,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 224,
@@ -3910,7 +3910,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 330,
         ["kill_count"] = 35,
-        ["points"] = 9875.44,
+        ["points"] = 9875.47,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 178,
@@ -3967,7 +3967,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1226,
         ["kill_count"] = 25,
-        ["points"] = 9653.02,
+        ["points"] = 9653.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 22,
@@ -4024,7 +4024,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 697,
         ["kill_count"] = 33,
-        ["points"] = 9788.7,
+        ["points"] = 9788.75,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 632,
@@ -4081,7 +4081,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 408,
         ["kill_count"] = 39,
-        ["points"] = 9846.53,
+        ["points"] = 9846.56,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 108,
@@ -4138,7 +4138,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 627,
         ["kill_count"] = 40,
-        ["points"] = 9804.27,
+        ["points"] = 9804.31,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 557,
@@ -4195,7 +4195,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 218,
         ["kill_count"] = 31,
-        ["points"] = 9907.7,
+        ["points"] = 9907.72,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 80,
@@ -4252,7 +4252,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 328,
         ["kill_count"] = 51,
-        ["points"] = 9876.56,
+        ["points"] = 9876.58,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1211,
@@ -4309,7 +4309,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 685,
         ["kill_count"] = 46,
-        ["points"] = 9792.04,
+        ["points"] = 9792.08,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 320,
@@ -4366,7 +4366,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 517,
         ["kill_count"] = 35,
-        ["points"] = 9826.51,
+        ["points"] = 9826.55,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 326,
@@ -4423,7 +4423,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1492,
         ["kill_count"] = 55,
-        ["points"] = 9602.98,
+        ["points"] = 9603.07,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 653,
@@ -4480,7 +4480,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 215,
         ["kill_count"] = 41,
-        ["points"] = 9911.03,
+        ["points"] = 9911.05,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 130,
@@ -4537,7 +4537,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 653,
         ["kill_count"] = 37,
-        ["points"] = 9799.82,
+        ["points"] = 9799.87,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 525,
@@ -4594,7 +4594,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 48,
         ["kill_count"] = 14,
-        ["points"] = 9975.53,
+        ["points"] = 9975.54,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 409,
@@ -4651,7 +4651,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 691,
         ["kill_count"] = 96,
-        ["points"] = 9789.81,
+        ["points"] = 9789.86,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1073,
@@ -4708,7 +4708,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 180,
         ["kill_count"] = 43,
-        ["points"] = 9923.27,
+        ["points"] = 9923.28,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 482,
@@ -4765,7 +4765,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 659,
         ["kill_count"] = 36,
-        ["points"] = 9797.6,
+        ["points"] = 9797.64,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 203,
@@ -4822,7 +4822,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 362,
         ["kill_count"] = 29,
-        ["points"] = 9867.66,
+        ["points"] = 9867.69,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1178,
@@ -4879,7 +4879,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 620,
         ["kill_count"] = 53,
-        ["points"] = 9807.61,
+        ["points"] = 9807.65,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 170,
@@ -4936,7 +4936,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 686,
         ["kill_count"] = 51,
-        ["points"] = 9790.93,
+        ["points"] = 9790.97,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 439,
@@ -5050,7 +5050,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 543,
         ["kill_count"] = 25,
-        ["points"] = 9818.73,
+        ["points"] = 9818.77,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 825,
@@ -5107,7 +5107,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 289,
         ["kill_count"] = 39,
-        ["points"] = 9889.9,
+        ["points"] = 9889.93,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1065,
@@ -5164,7 +5164,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 141,
         ["kill_count"] = 36,
-        ["points"] = 9938.83,
+        ["points"] = 9938.85,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 335,
@@ -5221,7 +5221,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 344,
         ["kill_count"] = 62,
-        ["points"] = 9872.11,
+        ["points"] = 9872.14,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 169,
@@ -5278,7 +5278,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 760,
         ["kill_count"] = 45,
-        ["points"] = 9779.8,
+        ["points"] = 9779.85,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 298,
@@ -5335,7 +5335,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 165,
         ["kill_count"] = 38,
-        ["points"] = 9929.94,
+        ["points"] = 9929.95,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 495,
@@ -5392,7 +5392,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 903,
         ["kill_count"] = 68,
-        ["points"] = 9740.88,
+        ["points"] = 9740.94,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 884,
@@ -5449,7 +5449,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 220,
         ["kill_count"] = 24,
-        ["points"] = 9906.58,
+        ["points"] = 9906.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 133,
@@ -5506,7 +5506,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 423,
         ["kill_count"] = 34,
-        ["points"] = 9842.08,
+        ["points"] = 9842.12,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 750,
@@ -5620,7 +5620,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 365,
         ["kill_count"] = 31,
-        ["points"] = 9866.55,
+        ["points"] = 9866.58,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 699,
@@ -5677,7 +5677,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1659,
         ["kill_count"] = 39,
-        ["points"] = 9572.95,
+        ["points"] = 9573.05,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 513,
@@ -5734,7 +5734,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1291,
         ["kill_count"] = 24,
-        ["points"] = 9639.68,
+        ["points"] = 9639.76,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 413,
@@ -5791,7 +5791,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1187,
         ["kill_count"] = 23,
-        ["points"] = 9664.15,
+        ["points"] = 9664.22,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 436,
@@ -5848,7 +5848,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 248,
         ["kill_count"] = 22,
-        ["points"] = 9902.14,
+        ["points"] = 9902.16,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 13,
@@ -5905,7 +5905,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 90,
         ["kill_count"] = 34,
-        ["points"] = 9959.96,
+        ["points"] = 9959.97,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 880,
@@ -5962,7 +5962,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 886,
         ["kill_count"] = 29,
-        ["points"] = 9745.33,
+        ["points"] = 9745.39,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 583,
@@ -6019,7 +6019,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 673,
         ["kill_count"] = 32,
-        ["points"] = 9794.26,
+        ["points"] = 9794.31,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 213,
@@ -6076,7 +6076,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1043,
         ["kill_count"] = 38,
-        ["points"] = 9705.29,
+        ["points"] = 9705.36,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 491,
@@ -6133,7 +6133,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 420,
         ["kill_count"] = 25,
-        ["points"] = 9843.19,
+        ["points"] = 9843.23,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 220,
@@ -6190,7 +6190,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 683,
         ["kill_count"] = 30,
-        ["points"] = 9793.15,
+        ["points"] = 9793.2,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 624,
@@ -6247,7 +6247,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 585,
         ["kill_count"] = 11,
-        ["points"] = 9812.06,
+        ["points"] = 9812.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 197,
@@ -6304,7 +6304,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 527,
         ["kill_count"] = 30,
-        ["points"] = 9823.18,
+        ["points"] = 9823.22,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1604,
@@ -6361,7 +6361,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 566,
         ["kill_count"] = 39,
-        ["points"] = 9815.39,
+        ["points"] = 9815.43,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 772,
@@ -6418,7 +6418,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 380,
         ["kill_count"] = 23,
-        ["points"] = 9858.76,
+        ["points"] = 9858.79,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2441,
@@ -6475,7 +6475,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1013,
         ["kill_count"] = 26,
-        ["points"] = 9709.74,
+        ["points"] = 9709.81,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 696,
@@ -6532,7 +6532,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1237,
         ["kill_count"] = 17,
-        ["points"] = 9650.8,
+        ["points"] = 9650.88,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 319,
@@ -6589,7 +6589,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 805,
         ["kill_count"] = 35,
-        ["points"] = 9764.23,
+        ["points"] = 9764.29,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1091,
@@ -6646,7 +6646,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 312,
         ["kill_count"] = 32,
-        ["points"] = 9882.12,
+        ["points"] = 9882.14,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1141,
@@ -6703,7 +6703,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 993,
         ["kill_count"] = 27,
-        ["points"] = 9715.3,
+        ["points"] = 9715.37,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1087,
@@ -6760,7 +6760,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 242,
         ["kill_count"] = 31,
-        ["points"] = 9903.25,
+        ["points"] = 9903.27,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2415,
@@ -6817,7 +6817,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1208,
         ["kill_count"] = 32,
-        ["points"] = 9658.59,
+        ["points"] = 9658.66,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 176,
@@ -6874,7 +6874,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 426,
         ["kill_count"] = 49,
-        ["points"] = 9839.86,
+        ["points"] = 9839.89,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 627,
@@ -6931,7 +6931,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 149,
         ["kill_count"] = 39,
-        ["points"] = 9934.39,
+        ["points"] = 9934.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 601,
@@ -6988,7 +6988,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 286,
         ["kill_count"] = 5,
-        ["points"] = 9891.01,
+        ["points"] = 9891.04,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3313,
@@ -7045,7 +7045,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 102,
         ["kill_count"] = 19,
-        ["points"] = 9954.4,
+        ["points"] = 9954.41,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 162,
@@ -7159,7 +7159,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 209,
         ["kill_count"] = 34,
-        ["points"] = 9914.37,
+        ["points"] = 9914.39,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1482,
@@ -7216,7 +7216,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 448,
         ["kill_count"] = 15,
-        ["points"] = 9836.52,
+        ["points"] = 9836.56,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 211,
@@ -7273,7 +7273,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 777,
         ["kill_count"] = 34,
-        ["points"] = 9774.24,
+        ["points"] = 9774.29,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 135,
@@ -7330,7 +7330,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 332,
         ["kill_count"] = 24,
-        ["points"] = 9874.33,
+        ["points"] = 9874.36,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1563,
@@ -7387,7 +7387,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 178,
         ["kill_count"] = 73,
-        ["points"] = 9925.49,
+        ["points"] = 9925.51,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 161,
@@ -7444,7 +7444,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1913,
         ["kill_count"] = 78,
-        ["points"] = 9520.69,
+        ["points"] = 9520.79,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 111,
@@ -7501,7 +7501,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 173,
         ["kill_count"] = 23,
-        ["points"] = 9927.71,
+        ["points"] = 9927.73,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2938,
@@ -7558,7 +7558,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 303,
         ["kill_count"] = 29,
-        ["points"] = 9885.45,
+        ["points"] = 9885.48,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 50,
@@ -7615,7 +7615,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 468,
         ["kill_count"] = 18,
-        ["points"] = 9833.19,
+        ["points"] = 9833.22,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 363,
@@ -7672,7 +7672,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1341,
         ["kill_count"] = 41,
-        ["points"] = 9631.9,
+        ["points"] = 9631.98,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1072,
@@ -7729,7 +7729,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 410,
         ["kill_count"] = 25,
-        ["points"] = 9845.42,
+        ["points"] = 9845.45,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 163,
@@ -7786,7 +7786,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 560,
         ["kill_count"] = 32,
-        ["points"] = 9816.5,
+        ["points"] = 9816.54,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1222,
@@ -7843,7 +7843,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 655,
         ["kill_count"] = 42,
-        ["points"] = 9798.71,
+        ["points"] = 9798.75,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 451,
@@ -7900,7 +7900,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 305,
         ["kill_count"] = 30,
-        ["points"] = 9884.34,
+        ["points"] = 9884.37,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 357,
@@ -7957,7 +7957,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 253,
         ["kill_count"] = 25,
-        ["points"] = 9897.69,
+        ["points"] = 9897.71,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 295,
@@ -8014,7 +8014,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 383,
         ["kill_count"] = 25,
-        ["points"] = 9856.54,
+        ["points"] = 9856.57,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 125,
@@ -8071,7 +8071,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 432,
         ["kill_count"] = 16,
-        ["points"] = 9838.75,
+        ["points"] = 9838.78,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 205,
@@ -8128,7 +8128,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1688,
         ["kill_count"] = 19,
-        ["points"] = 9569.62,
+        ["points"] = 9569.71,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 64,
@@ -8185,7 +8185,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 155,
         ["kill_count"] = 16,
-        ["points"] = 9932.16,
+        ["points"] = 9932.18,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 740,
@@ -8242,7 +8242,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 389,
         ["kill_count"] = 20,
-        ["points"] = 9854.31,
+        ["points"] = 9854.35,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1507,
@@ -8299,7 +8299,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1279,
         ["kill_count"] = 9,
-        ["points"] = 9644.13,
+        ["points"] = 9644.21,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2098,
@@ -8356,7 +8356,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 301,
         ["kill_count"] = 60,
-        ["points"] = 9886.57,
+        ["points"] = 9886.59,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2531,
@@ -8413,7 +8413,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 466,
         ["kill_count"] = 16,
-        ["points"] = 9834.3,
+        ["points"] = 9834.33,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3167,
@@ -8470,7 +8470,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 217,
         ["kill_count"] = 41,
-        ["points"] = 9908.81,
+        ["points"] = 9908.83,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 189,
@@ -8527,7 +8527,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 837,
         ["kill_count"] = 33,
-        ["points"] = 9757.56,
+        ["points"] = 9757.62,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 761,
@@ -8584,7 +8584,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 641,
         ["kill_count"] = 23,
-        ["points"] = 9802.05,
+        ["points"] = 9802.09,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 649,
@@ -8641,7 +8641,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 907,
         ["kill_count"] = 87,
-        ["points"] = 9737.54,
+        ["points"] = 9737.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 148,
@@ -8698,7 +8698,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 249,
         ["kill_count"] = 38,
-        ["points"] = 9901.02,
+        ["points"] = 9901.05,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 944,
@@ -8755,7 +8755,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 767,
         ["kill_count"] = 34,
-        ["points"] = 9776.47,
+        ["points"] = 9776.52,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 828,
@@ -8812,7 +8812,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 104,
         ["kill_count"] = 9,
-        ["points"] = 9953.29,
+        ["points"] = 9953.3,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1284,
@@ -8869,7 +8869,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 945,
         ["kill_count"] = 30,
-        ["points"] = 9726.42,
+        ["points"] = 9726.48,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 719,
@@ -8926,7 +8926,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 858,
         ["kill_count"] = 6,
-        ["points"] = 9754.23,
+        ["points"] = 9754.28,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 542,
@@ -8983,7 +8983,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2621,
         ["kill_count"] = 44,
-        ["points"] = 9391.68,
+        ["points"] = 9391.82,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 515,
@@ -9040,7 +9040,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 93,
         ["kill_count"] = 54,
-        ["points"] = 9957.74,
+        ["points"] = 9957.75,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2182,
@@ -9097,7 +9097,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 630,
         ["kill_count"] = 25,
-        ["points"] = 9803.16,
+        ["points"] = 9803.2,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 407,
@@ -9154,7 +9154,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2122,
         ["kill_count"] = 32,
-        ["points"] = 9477.31,
+        ["points"] = 9477.43,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 492,
@@ -9211,7 +9211,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1840,
         ["kill_count"] = 19,
-        ["points"] = 9535.14,
+        ["points"] = 9535.25,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 469,
@@ -9268,7 +9268,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1145,
         ["kill_count"] = 27,
-        ["points"] = 9681.94,
+        ["points"] = 9682.01,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 559,
@@ -9325,7 +9325,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4265,
         ["kill_count"] = 29,
-        ["points"] = 9129.23,
+        ["points"] = 9129.42,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 642,
@@ -9382,7 +9382,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1092,
         ["kill_count"] = 57,
-        ["points"] = 9695.28,
+        ["points"] = 9695.35,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 254,
@@ -9439,7 +9439,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 535,
         ["kill_count"] = 76,
-        ["points"] = 9820.95,
+        ["points"] = 9820.99,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 493,
@@ -9496,7 +9496,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 265,
         ["kill_count"] = 31,
-        ["points"] = 9895.46,
+        ["points"] = 9895.49,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 60,
@@ -9553,7 +9553,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1371,
         ["kill_count"] = 15,
-        ["points"] = 9625.22,
+        ["points"] = 9625.31,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1625,
@@ -9610,7 +9610,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 801,
         ["kill_count"] = 30,
-        ["points"] = 9767.57,
+        ["points"] = 9767.62,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 549,
@@ -9667,7 +9667,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 960,
         ["kill_count"] = 15,
-        ["points"] = 9720.86,
+        ["points"] = 9720.93,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 848,
@@ -9724,7 +9724,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 553,
         ["kill_count"] = 29,
-        ["points"] = 9817.62,
+        ["points"] = 9817.66,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1597,
@@ -9781,7 +9781,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4122,
         ["kill_count"] = 36,
-        ["points"] = 9148.13,
+        ["points"] = 9148.32,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 255,
@@ -9838,7 +9838,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1165,
         ["kill_count"] = 45,
-        ["points"] = 9671.93,
+        ["points"] = 9672.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1906,
@@ -9895,7 +9895,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 356,
         ["kill_count"] = 22,
-        ["points"] = 9869.88,
+        ["points"] = 9869.91,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 110,
@@ -9952,7 +9952,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3210,
         ["kill_count"] = 62,
-        ["points"] = 9308.27,
+        ["points"] = 9308.43,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 445,
@@ -10009,7 +10009,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 729,
         ["kill_count"] = 45,
-        ["points"] = 9783.14,
+        ["points"] = 9783.19,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2812,
@@ -10066,7 +10066,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 626,
         ["kill_count"] = 13,
-        ["points"] = 9805.38,
+        ["points"] = 9805.43,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 345,
@@ -10123,7 +10123,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1519,
         ["kill_count"] = 36,
-        ["points"] = 9598.53,
+        ["points"] = 9598.62,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 309,
@@ -10180,7 +10180,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 999,
         ["kill_count"] = 34,
-        ["points"] = 9714.19,
+        ["points"] = 9714.25,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 207,
@@ -10237,7 +10237,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 668,
         ["kill_count"] = 35,
-        ["points"] = 9795.37,
+        ["points"] = 9795.42,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 106,
@@ -10294,7 +10294,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2058,
         ["kill_count"] = 19,
-        ["points"] = 9495.11,
+        ["points"] = 9495.22,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 976,
@@ -10351,7 +10351,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2063,
         ["kill_count"] = 44,
-        ["points"] = 9493.99,
+        ["points"] = 9494.11,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 86,
@@ -10408,7 +10408,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 532,
         ["kill_count"] = 48,
-        ["points"] = 9822.06,
+        ["points"] = 9822.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 659,
@@ -10465,7 +10465,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1894,
         ["kill_count"] = 44,
-        ["points"] = 9524.02,
+        ["points"] = 9524.13,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1462,
@@ -10522,7 +10522,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1817,
         ["kill_count"] = 19,
-        ["points"] = 9542.93,
+        ["points"] = 9543.03,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1765,
@@ -10579,7 +10579,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 315,
         ["kill_count"] = 19,
-        ["points"] = 9881.01,
+        ["points"] = 9881.03,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 466,
@@ -10636,7 +10636,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1421,
         ["kill_count"] = 31,
-        ["points"] = 9611.88,
+        ["points"] = 9611.96,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 206,
@@ -10693,7 +10693,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 583,
         ["kill_count"] = 54,
-        ["points"] = 9813.17,
+        ["points"] = 9813.21,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 82,
@@ -10750,7 +10750,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 357,
         ["kill_count"] = 30,
-        ["points"] = 9868.77,
+        ["points"] = 9868.8,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2233,
@@ -10807,7 +10807,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 834,
         ["kill_count"] = 20,
-        ["points"] = 9759.79,
+        ["points"] = 9759.84,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 179,
@@ -10864,7 +10864,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 216,
         ["kill_count"] = 13,
-        ["points"] = 9909.92,
+        ["points"] = 9909.94,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4159,
@@ -10921,7 +10921,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1349,
         ["kill_count"] = 39,
-        ["points"] = 9629.67,
+        ["points"] = 9629.75,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 729,
@@ -10978,7 +10978,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 367,
         ["kill_count"] = 24,
-        ["points"] = 9865.44,
+        ["points"] = 9865.47,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2946,
@@ -11035,7 +11035,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1921,
         ["kill_count"] = 28,
-        ["points"] = 9517.35,
+        ["points"] = 9517.46,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 771,
@@ -11092,7 +11092,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1830,
         ["kill_count"] = 17,
-        ["points"] = 9538.48,
+        ["points"] = 9538.58,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1794,
@@ -11149,7 +11149,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 784,
         ["kill_count"] = 20,
-        ["points"] = 9772.02,
+        ["points"] = 9772.07,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4077,
@@ -11206,7 +11206,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1641,
         ["kill_count"] = 42,
-        ["points"] = 9578.51,
+        ["points"] = 9578.61,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 365,
@@ -11263,7 +11263,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2788,
         ["kill_count"] = 40,
-        ["points"] = 9369.44,
+        ["points"] = 9369.58,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 737,
@@ -11320,7 +11320,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 355,
         ["kill_count"] = 7,
-        ["points"] = 9871.0,
+        ["points"] = 9871.03,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 34,
@@ -11377,7 +11377,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1042,
         ["kill_count"] = 35,
-        ["points"] = 9706.41,
+        ["points"] = 9706.47,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1278,
@@ -11434,7 +11434,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 728,
         ["kill_count"] = 41,
-        ["points"] = 9784.25,
+        ["points"] = 9784.3,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 366,
@@ -11491,7 +11491,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 24,
         ["kill_count"] = 8,
-        ["points"] = 9986.65,
+        ["points"] = 9986.66,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1020,
@@ -11548,7 +11548,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 394,
         ["kill_count"] = 34,
-        ["points"] = 9852.09,
+        ["points"] = 9852.12,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1583,
@@ -11605,7 +11605,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 128,
         ["kill_count"] = 36,
-        ["points"] = 9947.73,
+        ["points"] = 9947.74,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 237,
@@ -11662,7 +11662,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 182,
         ["kill_count"] = 16,
-        ["points"] = 9922.15,
+        ["points"] = 9922.17,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2403,
@@ -11719,7 +11719,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3517,
         ["kill_count"] = 36,
-        ["points"] = 9247.11,
+        ["points"] = 9247.28,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 757,
@@ -11776,7 +11776,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 139,
         ["kill_count"] = 11,
-        ["points"] = 9941.06,
+        ["points"] = 9941.07,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2030,
@@ -11833,7 +11833,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2797,
         ["kill_count"] = 34,
-        ["points"] = 9366.1,
+        ["points"] = 9366.24,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 521,
@@ -11890,7 +11890,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 472,
         ["kill_count"] = 22,
-        ["points"] = 9832.07,
+        ["points"] = 9832.11,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2105,
@@ -11947,7 +11947,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 146,
         ["kill_count"] = 20,
-        ["points"] = 9936.61,
+        ["points"] = 9936.62,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 215,
@@ -12004,7 +12004,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 804,
         ["kill_count"] = 23,
-        ["points"] = 9765.35,
+        ["points"] = 9765.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1362,
@@ -12061,7 +12061,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 542,
         ["kill_count"] = 35,
-        ["points"] = 9819.84,
+        ["points"] = 9819.88,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 621,
@@ -12118,7 +12118,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1364,
         ["kill_count"] = 24,
-        ["points"] = 9626.33,
+        ["points"] = 9626.42,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1962,
@@ -12175,7 +12175,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 731,
         ["kill_count"] = 20,
-        ["points"] = 9782.03,
+        ["points"] = 9782.08,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 927,
@@ -12232,7 +12232,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1819,
         ["kill_count"] = 25,
-        ["points"] = 9541.81,
+        ["points"] = 9541.92,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1562,
@@ -12289,7 +12289,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1067,
         ["kill_count"] = 33,
-        ["points"] = 9700.85,
+        ["points"] = 9700.91,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3214,
@@ -12346,7 +12346,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 862,
         ["kill_count"] = 30,
-        ["points"] = 9752.0,
+        ["points"] = 9752.06,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2523,
@@ -12403,7 +12403,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 317,
         ["kill_count"] = 28,
-        ["points"] = 9879.89,
+        ["points"] = 9879.92,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 321,
@@ -12460,7 +12460,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 299,
         ["kill_count"] = 30,
-        ["points"] = 9887.68,
+        ["points"] = 9887.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 478,
@@ -12517,7 +12517,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1328,
         ["kill_count"] = 14,
-        ["points"] = 9633.01,
+        ["points"] = 9633.09,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1427,
@@ -12574,7 +12574,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1204,
         ["kill_count"] = 37,
-        ["points"] = 9659.7,
+        ["points"] = 9659.77,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 258,
@@ -12631,7 +12631,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 211,
         ["kill_count"] = 12,
-        ["points"] = 9913.26,
+        ["points"] = 9913.28,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3899,
@@ -12688,7 +12688,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 239,
         ["kill_count"] = 26,
-        ["points"] = 9905.47,
+        ["points"] = 9905.49,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 695,
@@ -12745,7 +12745,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2072,
         ["kill_count"] = 35,
-        ["points"] = 9489.55,
+        ["points"] = 9489.66,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3944,
@@ -12802,7 +12802,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1141,
         ["kill_count"] = 40,
-        ["points"] = 9684.16,
+        ["points"] = 9684.23,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 280,
@@ -12859,7 +12859,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1825,
         ["kill_count"] = 17,
-        ["points"] = 9539.59,
+        ["points"] = 9539.69,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 877,
@@ -12916,7 +12916,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5474,
         ["kill_count"] = 29,
-        ["points"] = 8940.17,
+        ["points"] = 8940.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 398,
@@ -12973,7 +12973,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2317,
         ["kill_count"] = 12,
-        ["points"] = 9443.95,
+        ["points"] = 9444.07,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 299,
@@ -13030,7 +13030,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2859,
         ["kill_count"] = 63,
-        ["points"] = 9357.21,
+        ["points"] = 9357.35,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1259,
@@ -13087,7 +13087,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1505,
         ["kill_count"] = 37,
-        ["points"] = 9600.76,
+        ["points"] = 9600.85,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1249,
@@ -13144,7 +13144,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2242,
         ["kill_count"] = 63,
-        ["points"] = 9457.3,
+        ["points"] = 9457.42,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 312,
@@ -13201,7 +13201,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 783,
         ["kill_count"] = 12,
-        ["points"] = 9773.13,
+        ["points"] = 9773.18,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3456,
@@ -13258,7 +13258,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 841,
         ["kill_count"] = 35,
-        ["points"] = 9756.45,
+        ["points"] = 9756.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 432,
@@ -13315,7 +13315,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1476,
         ["kill_count"] = 28,
-        ["points"] = 9604.09,
+        ["points"] = 9604.18,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 755,
@@ -13372,7 +13372,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2793,
         ["kill_count"] = 31,
-        ["points"] = 9368.33,
+        ["points"] = 9368.47,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 12,
@@ -13429,7 +13429,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1747,
         ["kill_count"] = 30,
-        ["points"] = 9552.94,
+        ["points"] = 9553.04,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 985,
@@ -13486,7 +13486,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1639,
         ["kill_count"] = 18,
-        ["points"] = 9580.74,
+        ["points"] = 9580.83,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2665,
@@ -13543,7 +13543,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 873,
         ["kill_count"] = 24,
-        ["points"] = 9747.55,
+        ["points"] = 9747.61,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2502,
@@ -13600,7 +13600,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2179,
         ["kill_count"] = 11,
-        ["points"] = 9470.64,
+        ["points"] = 9470.76,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 421,
@@ -13657,7 +13657,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2176,
         ["kill_count"] = 35,
-        ["points"] = 9471.75,
+        ["points"] = 9471.87,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1326,
@@ -13714,7 +13714,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 861,
         ["kill_count"] = 28,
-        ["points"] = 9753.11,
+        ["points"] = 9753.17,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1046,
@@ -13771,7 +13771,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1396,
         ["kill_count"] = 28,
-        ["points"] = 9620.77,
+        ["points"] = 9620.86,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 827,
@@ -13828,7 +13828,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 951,
         ["kill_count"] = 25,
-        ["points"] = 9723.09,
+        ["points"] = 9723.15,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2452,
@@ -13885,7 +13885,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3337,
         ["kill_count"] = 63,
-        ["points"] = 9281.58,
+        ["points"] = 9281.74,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 236,
@@ -13942,7 +13942,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1528,
         ["kill_count"] = 34,
-        ["points"] = 9596.31,
+        ["points"] = 9596.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1160,
@@ -13999,7 +13999,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 267,
         ["kill_count"] = 14,
-        ["points"] = 9894.35,
+        ["points"] = 9894.37,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 702,
@@ -14056,7 +14056,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3179,
         ["kill_count"] = 46,
-        ["points"] = 9311.61,
+        ["points"] = 9311.76,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1198,
@@ -14113,7 +14113,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 320,
         ["kill_count"] = 23,
-        ["points"] = 9877.67,
+        ["points"] = 9877.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 115,
@@ -14170,7 +14170,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2645,
         ["kill_count"] = 67,
-        ["points"] = 9389.46,
+        ["points"] = 9389.59,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1307,
@@ -14227,7 +14227,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3803,
         ["kill_count"] = 30,
-        ["points"] = 9199.29,
+        ["points"] = 9199.47,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 468,
@@ -14284,7 +14284,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 745,
         ["kill_count"] = 39,
-        ["points"] = 9780.92,
+        ["points"] = 9780.97,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 541,
@@ -14341,7 +14341,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 816,
         ["kill_count"] = 11,
-        ["points"] = 9762.01,
+        ["points"] = 9762.06,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2647,
@@ -14398,7 +14398,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1011,
         ["kill_count"] = 25,
-        ["points"] = 9710.85,
+        ["points"] = 9710.92,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3304,
@@ -14455,7 +14455,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 393,
         ["kill_count"] = 40,
-        ["points"] = 9853.2,
+        ["points"] = 9853.24,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 739,
@@ -14512,7 +14512,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1802,
         ["kill_count"] = 29,
-        ["points"] = 9544.04,
+        ["points"] = 9544.14,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 547,
@@ -14569,7 +14569,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2017,
         ["kill_count"] = 20,
-        ["points"] = 9497.33,
+        ["points"] = 9497.44,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1745,
@@ -14626,7 +14626,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3339,
         ["kill_count"] = 3,
-        ["points"] = 9279.36,
+        ["points"] = 9279.52,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1040,
@@ -14683,7 +14683,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1078,
         ["kill_count"] = 35,
-        ["points"] = 9697.51,
+        ["points"] = 9697.58,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 916,
@@ -14740,7 +14740,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2804,
         ["kill_count"] = 17,
-        ["points"] = 9364.99,
+        ["points"] = 9365.13,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1378,
@@ -14797,7 +14797,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3947,
         ["kill_count"] = 13,
-        ["points"] = 9178.16,
+        ["points"] = 9178.34,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1602,
@@ -14854,7 +14854,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1718,
         ["kill_count"] = 49,
-        ["points"] = 9558.5,
+        ["points"] = 9558.59,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 475,
@@ -14911,7 +14911,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1946,
         ["kill_count"] = 11,
-        ["points"] = 9511.79,
+        ["points"] = 9511.9,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3956,
@@ -14968,7 +14968,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1143,
         ["kill_count"] = 26,
-        ["points"] = 9683.05,
+        ["points"] = 9683.12,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1459,
@@ -15025,7 +15025,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2115,
         ["kill_count"] = 38,
-        ["points"] = 9480.65,
+        ["points"] = 9480.76,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1527,
@@ -15082,7 +15082,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1882,
         ["kill_count"] = 12,
-        ["points"] = 9527.36,
+        ["points"] = 9527.46,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 514,
@@ -15139,7 +15139,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2113,
         ["kill_count"] = 22,
-        ["points"] = 9482.87,
+        ["points"] = 9482.99,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4686,
@@ -15164,7 +15164,7 @@ UWULogsData[3][2] = {
     },
   },
   ["Pryzemg"] = {
-    ["percentile"] = 95.65,
+    ["percentile"] = 95.66,
     ["server"] = "Icecrown",
     ["overall_rank"] = 267,
     ["bosses"] = {
@@ -15196,7 +15196,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3126,
         ["kill_count"] = 24,
-        ["points"] = 9318.28,
+        ["points"] = 9318.43,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 778,
@@ -15253,7 +15253,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1344,
         ["kill_count"] = 6,
-        ["points"] = 9630.78,
+        ["points"] = 9630.87,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1264,
@@ -15310,7 +15310,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1914,
         ["kill_count"] = 7,
-        ["points"] = 9519.57,
+        ["points"] = 9519.68,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 661,
@@ -15367,7 +15367,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 835,
         ["kill_count"] = 50,
-        ["points"] = 9758.67,
+        ["points"] = 9758.73,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1167,
@@ -15424,7 +15424,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3005,
         ["kill_count"] = 9,
-        ["points"] = 9340.52,
+        ["points"] = 9340.67,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2118,
@@ -15481,7 +15481,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 932,
         ["kill_count"] = 34,
-        ["points"] = 9729.76,
+        ["points"] = 9729.82,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 405,
@@ -15538,7 +15538,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1466,
         ["kill_count"] = 20,
-        ["points"] = 9607.43,
+        ["points"] = 9607.52,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 399,
@@ -15595,7 +15595,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3015,
         ["kill_count"] = 64,
-        ["points"] = 9339.41,
+        ["points"] = 9339.56,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3506,
@@ -15652,7 +15652,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1710,
         ["kill_count"] = 13,
-        ["points"] = 9561.83,
+        ["points"] = 9561.93,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1117,
@@ -15709,7 +15709,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2103,
         ["kill_count"] = 7,
-        ["points"] = 9486.21,
+        ["points"] = 9486.32,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 892,
@@ -15766,7 +15766,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1270,
         ["kill_count"] = 26,
-        ["points"] = 9645.24,
+        ["points"] = 9645.32,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2893,
@@ -15823,7 +15823,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 713,
         ["kill_count"] = 17,
-        ["points"] = 9785.36,
+        ["points"] = 9785.41,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2166,
@@ -15880,7 +15880,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1707,
         ["kill_count"] = 38,
-        ["points"] = 9562.94,
+        ["points"] = 9563.04,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 878,
@@ -15937,7 +15937,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7029,
         ["kill_count"] = 23,
-        ["points"] = 8703.29,
+        ["points"] = 8703.58,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 517,
@@ -15994,7 +15994,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2818,
         ["kill_count"] = 36,
-        ["points"] = 9362.77,
+        ["points"] = 9362.91,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1970,
@@ -16051,7 +16051,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1695,
         ["kill_count"] = 37,
-        ["points"] = 9567.39,
+        ["points"] = 9567.49,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2177,
@@ -16108,7 +16108,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3464,
         ["kill_count"] = 13,
-        ["points"] = 9254.89,
+        ["points"] = 9255.06,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1944,
@@ -16165,7 +16165,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1881,
         ["kill_count"] = 30,
-        ["points"] = 9528.47,
+        ["points"] = 9528.57,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 358,
@@ -16222,7 +16222,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2114,
         ["kill_count"] = 27,
-        ["points"] = 9481.76,
+        ["points"] = 9481.88,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 104,
@@ -16279,7 +16279,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2900,
         ["kill_count"] = 43,
-        ["points"] = 9351.65,
+        ["points"] = 9351.79,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1664,
@@ -16336,7 +16336,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 814,
         ["kill_count"] = 16,
-        ["points"] = 9763.12,
+        ["points"] = 9763.18,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 249,
@@ -16393,7 +16393,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 971,
         ["kill_count"] = 30,
-        ["points"] = 9718.64,
+        ["points"] = 9718.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1991,
@@ -16450,7 +16450,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 208,
         ["kill_count"] = 27,
-        ["points"] = 9915.48,
+        ["points"] = 9915.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1402,
@@ -16507,7 +16507,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1160,
         ["kill_count"] = 22,
-        ["points"] = 9674.15,
+        ["points"] = 9674.23,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 223,
@@ -16564,7 +16564,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2104,
         ["kill_count"] = 21,
-        ["points"] = 9485.1,
+        ["points"] = 9485.21,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 400,
@@ -16621,7 +16621,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1191,
         ["kill_count"] = 37,
-        ["points"] = 9663.03,
+        ["points"] = 9663.11,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1951,
@@ -16678,7 +16678,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1358,
         ["kill_count"] = 21,
-        ["points"] = 9628.56,
+        ["points"] = 9628.64,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 953,
@@ -16735,7 +16735,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 905,
         ["kill_count"] = 7,
-        ["points"] = 9739.77,
+        ["points"] = 9739.83,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 129,
@@ -16792,7 +16792,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1646,
         ["kill_count"] = 23,
-        ["points"] = 9577.4,
+        ["points"] = 9577.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 782,
@@ -16849,7 +16849,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1527,
         ["kill_count"] = 30,
-        ["points"] = 9597.42,
+        ["points"] = 9597.51,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1574,
@@ -16906,7 +16906,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1445,
         ["kill_count"] = 24,
-        ["points"] = 9609.65,
+        ["points"] = 9609.74,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4706,
@@ -16963,7 +16963,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2118,
         ["kill_count"] = 20,
-        ["points"] = 9479.54,
+        ["points"] = 9479.65,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2605,
@@ -17020,7 +17020,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2262,
         ["kill_count"] = 21,
-        ["points"] = 9452.85,
+        ["points"] = 9452.97,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 126,
@@ -17077,7 +17077,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1761,
         ["kill_count"] = 5,
-        ["points"] = 9549.6,
+        ["points"] = 9549.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3519,
@@ -17134,7 +17134,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 667,
         ["kill_count"] = 9,
-        ["points"] = 9796.49,
+        ["points"] = 9796.53,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1976,
@@ -17191,7 +17191,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2204,
         ["kill_count"] = 45,
-        ["points"] = 9465.08,
+        ["points"] = 9465.2,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1128,
@@ -17248,7 +17248,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1844,
         ["kill_count"] = 34,
-        ["points"] = 9534.03,
+        ["points"] = 9534.13,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 564,
@@ -17305,7 +17305,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1824,
         ["kill_count"] = 24,
-        ["points"] = 9540.7,
+        ["points"] = 9540.8,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3898,
@@ -17362,7 +17362,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1538,
         ["kill_count"] = 19,
-        ["points"] = 9594.08,
+        ["points"] = 9594.17,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 648,
@@ -17419,7 +17419,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3241,
         ["kill_count"] = 29,
-        ["points"] = 9299.38,
+        ["points"] = 9299.53,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 939,
@@ -17476,7 +17476,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1629,
         ["kill_count"] = 24,
-        ["points"] = 9582.96,
+        ["points"] = 9583.06,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3079,
@@ -17533,7 +17533,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2990,
         ["kill_count"] = 19,
-        ["points"] = 9344.97,
+        ["points"] = 9345.12,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1231,
@@ -17590,7 +17590,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1172,
         ["kill_count"] = 20,
-        ["points"] = 9669.71,
+        ["points"] = 9669.78,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4434,
@@ -17647,7 +17647,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 606,
         ["kill_count"] = 32,
-        ["points"] = 9809.83,
+        ["points"] = 9809.87,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 894,
@@ -17704,7 +17704,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5195,
         ["kill_count"] = 43,
-        ["points"] = 8983.54,
+        ["points"] = 8983.77,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1661,
@@ -17761,7 +17761,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3720,
         ["kill_count"] = 41,
-        ["points"] = 9217.08,
+        ["points"] = 9217.26,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 232,
@@ -17818,7 +17818,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5785,
         ["kill_count"] = 50,
-        ["points"] = 8881.23,
+        ["points"] = 8881.48,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1969,
@@ -17875,7 +17875,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1398,
         ["kill_count"] = 8,
-        ["points"] = 9619.66,
+        ["points"] = 9619.75,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1739,
@@ -17932,7 +17932,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 770,
         ["kill_count"] = 12,
-        ["points"] = 9775.36,
+        ["points"] = 9775.41,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1380,
@@ -17989,7 +17989,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1651,
         ["kill_count"] = 22,
-        ["points"] = 9575.18,
+        ["points"] = 9575.27,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1148,
@@ -18046,7 +18046,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3218,
         ["kill_count"] = 41,
-        ["points"] = 9306.05,
+        ["points"] = 9306.2,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 458,
@@ -18103,7 +18103,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3287,
         ["kill_count"] = 32,
-        ["points"] = 9290.48,
+        ["points"] = 9290.64,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 266,
@@ -18160,7 +18160,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2430,
         ["kill_count"] = 23,
-        ["points"] = 9426.16,
+        ["points"] = 9426.28,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 854,
@@ -18217,7 +18217,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1219,
         ["kill_count"] = 21,
-        ["points"] = 9656.36,
+        ["points"] = 9656.44,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2271,
@@ -18274,7 +18274,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1706,
         ["kill_count"] = 34,
-        ["points"] = 9564.06,
+        ["points"] = 9564.15,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2635,
@@ -18331,7 +18331,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1926,
         ["kill_count"] = 36,
-        ["points"] = 9516.24,
+        ["points"] = 9516.34,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 741,
@@ -18388,7 +18388,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2885,
         ["kill_count"] = 9,
-        ["points"] = 9354.98,
+        ["points"] = 9355.13,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 278,
@@ -18445,7 +18445,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1694,
         ["kill_count"] = 8,
-        ["points"] = 9568.51,
+        ["points"] = 9568.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1049,
@@ -18502,7 +18502,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 765,
         ["kill_count"] = 17,
-        ["points"] = 9778.69,
+        ["points"] = 9778.74,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2888,
@@ -18559,7 +18559,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2070,
         ["kill_count"] = 48,
-        ["points"] = 9490.66,
+        ["points"] = 9490.77,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3651,
@@ -18616,7 +18616,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 500,
         ["kill_count"] = 10,
-        ["points"] = 9829.85,
+        ["points"] = 9829.89,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2439,
@@ -18673,7 +18673,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2471,
         ["kill_count"] = 45,
-        ["points"] = 9420.6,
+        ["points"] = 9420.72,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 214,
@@ -18730,7 +18730,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3000,
         ["kill_count"] = 13,
-        ["points"] = 9342.75,
+        ["points"] = 9342.9,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 374,
@@ -18787,7 +18787,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 852,
         ["kill_count"] = 45,
-        ["points"] = 9755.34,
+        ["points"] = 9755.39,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1449,
@@ -18844,7 +18844,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2640,
         ["kill_count"] = 9,
-        ["points"] = 9390.57,
+        ["points"] = 9390.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3134,
@@ -18901,7 +18901,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 112,
         ["kill_count"] = 25,
-        ["points"] = 9951.07,
+        ["points"] = 9951.08,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2624,
@@ -18958,7 +18958,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 185,
         ["kill_count"] = 11,
-        ["points"] = 9919.93,
+        ["points"] = 9919.95,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 210,
@@ -19015,7 +19015,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2314,
         ["kill_count"] = 8,
-        ["points"] = 9445.06,
+        ["points"] = 9445.19,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2042,
@@ -19040,7 +19040,7 @@ UWULogsData[3][2] = {
     },
   },
   ["Koyash"] = {
-    ["percentile"] = 94.6,
+    ["percentile"] = 94.61,
     ["server"] = "Icecrown",
     ["overall_rank"] = 335,
     ["bosses"] = {
@@ -19072,7 +19072,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4076,
         ["kill_count"] = 46,
-        ["points"] = 9152.58,
+        ["points"] = 9152.77,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1236,
@@ -19129,7 +19129,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3310,
         ["kill_count"] = 11,
-        ["points"] = 9284.92,
+        ["points"] = 9285.08,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 536,
@@ -19186,7 +19186,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3428,
         ["kill_count"] = 16,
-        ["points"] = 9263.79,
+        ["points"] = 9263.95,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1086,
@@ -19243,7 +19243,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3811,
         ["kill_count"] = 18,
-        ["points"] = 9197.06,
+        ["points"] = 9197.24,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4964,
@@ -19300,7 +19300,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4937,
         ["kill_count"] = 28,
-        ["points"] = 9023.58,
+        ["points"] = 9023.79,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3403,
@@ -19357,7 +19357,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2282,
         ["kill_count"] = 11,
-        ["points"] = 9450.62,
+        ["points"] = 9450.74,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 945,
@@ -19414,7 +19414,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2318,
         ["kill_count"] = 18,
-        ["points"] = 9442.84,
+        ["points"] = 9442.96,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 850,
@@ -19471,7 +19471,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8967,
         ["kill_count"] = 17,
-        ["points"] = 8393.02,
+        ["points"] = 8393.37,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 380,
@@ -19528,7 +19528,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1618,
         ["kill_count"] = 24,
-        ["points"] = 9585.19,
+        ["points"] = 9585.28,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4379,
@@ -19585,7 +19585,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3746,
         ["kill_count"] = 9,
-        ["points"] = 9209.3,
+        ["points"] = 9209.47,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3270,
@@ -19642,7 +19642,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1068,
         ["kill_count"] = 20,
-        ["points"] = 9699.73,
+        ["points"] = 9699.8,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7537,
@@ -19699,7 +19699,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1178,
         ["kill_count"] = 16,
-        ["points"] = 9667.48,
+        ["points"] = 9667.56,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2915,
@@ -19756,7 +19756,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1106,
         ["kill_count"] = 10,
-        ["points"] = 9690.84,
+        ["points"] = 9690.91,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 240,
@@ -19813,7 +19813,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 114,
         ["kill_count"] = 21,
-        ["points"] = 9949.96,
+        ["points"] = 9949.97,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 851,
@@ -19870,7 +19870,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3231,
         ["kill_count"] = 24,
-        ["points"] = 9301.6,
+        ["points"] = 9301.76,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1453,
@@ -19927,7 +19927,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 948,
         ["kill_count"] = 20,
-        ["points"] = 9725.31,
+        ["points"] = 9725.37,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1034,
@@ -19984,7 +19984,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5013,
         ["kill_count"] = 18,
-        ["points"] = 9010.23,
+        ["points"] = 9010.45,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 855,
@@ -20041,7 +20041,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3535,
         ["kill_count"] = 30,
-        ["points"] = 9243.77,
+        ["points"] = 9243.94,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2378,
@@ -20098,7 +20098,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1992,
         ["kill_count"] = 20,
-        ["points"] = 9502.89,
+        ["points"] = 9503.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5578,
@@ -20155,7 +20155,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 912,
         ["kill_count"] = 32,
-        ["points"] = 9735.32,
+        ["points"] = 9735.38,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1577,
@@ -20212,7 +20212,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1417,
         ["kill_count"] = 23,
-        ["points"] = 9614.1,
+        ["points"] = 9614.19,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3264,
@@ -20269,7 +20269,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2208,
         ["kill_count"] = 11,
-        ["points"] = 9463.97,
+        ["points"] = 9464.09,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2880,
@@ -20326,7 +20326,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 433,
         ["kill_count"] = 31,
-        ["points"] = 9837.63,
+        ["points"] = 9837.67,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 235,
@@ -20383,7 +20383,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3237,
         ["kill_count"] = 19,
-        ["points"] = 9300.49,
+        ["points"] = 9300.64,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1687,
@@ -20440,7 +20440,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1936,
         ["kill_count"] = 23,
-        ["points"] = 9515.12,
+        ["points"] = 9515.23,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1814,
@@ -20497,7 +20497,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2340,
         ["kill_count"] = 14,
-        ["points"] = 9440.61,
+        ["points"] = 9440.74,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3113,
@@ -20554,7 +20554,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1070,
         ["kill_count"] = 25,
-        ["points"] = 9698.62,
+        ["points"] = 9698.69,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 260,
@@ -20611,7 +20611,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1140,
         ["kill_count"] = 38,
-        ["points"] = 9685.28,
+        ["points"] = 9685.35,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3590,
@@ -20668,7 +20668,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2129,
         ["kill_count"] = 57,
-        ["points"] = 9476.2,
+        ["points"] = 9476.32,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2365,
@@ -20725,7 +20725,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 306,
         ["kill_count"] = 28,
-        ["points"] = 9883.23,
+        ["points"] = 9883.26,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 390,
@@ -20782,7 +20782,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1555,
         ["kill_count"] = 13,
-        ["points"] = 9590.75,
+        ["points"] = 9590.84,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 668,
@@ -20839,7 +20839,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6829,
         ["kill_count"] = 24,
-        ["points"] = 8738.88,
+        ["points"] = 8739.16,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 509,
@@ -20896,7 +20896,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1623,
         ["kill_count"] = 30,
-        ["points"] = 9584.07,
+        ["points"] = 9584.17,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 285,
@@ -20953,7 +20953,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3704,
         ["kill_count"] = 25,
-        ["points"] = 9219.31,
+        ["points"] = 9219.48,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1029,
@@ -21010,7 +21010,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1164,
         ["kill_count"] = 63,
-        ["points"] = 9673.04,
+        ["points"] = 9673.12,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1611,
@@ -21067,7 +21067,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3493,
         ["kill_count"] = 40,
-        ["points"] = 9252.67,
+        ["points"] = 9252.84,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2644,
@@ -21124,7 +21124,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1392,
         ["kill_count"] = 22,
-        ["points"] = 9621.89,
+        ["points"] = 9621.97,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4604,
@@ -21181,7 +21181,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2758,
         ["kill_count"] = 10,
-        ["points"] = 9375.0,
+        ["points"] = 9375.14,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 241,
@@ -21238,7 +21238,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2255,
         ["kill_count"] = 25,
-        ["points"] = 9455.07,
+        ["points"] = 9455.19,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6104,
@@ -21295,7 +21295,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1265,
         ["kill_count"] = 31,
-        ["points"] = 9646.35,
+        ["points"] = 9646.43,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2129,
@@ -21352,7 +21352,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3942,
         ["kill_count"] = 62,
-        ["points"] = 9180.38,
+        ["points"] = 9180.56,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3281,
@@ -21409,7 +21409,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1888,
         ["kill_count"] = 17,
-        ["points"] = 9526.25,
+        ["points"] = 9526.35,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2489,
@@ -21466,7 +21466,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1419,
         ["kill_count"] = 11,
-        ["points"] = 9612.99,
+        ["points"] = 9613.08,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1064,
@@ -21523,7 +21523,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1833,
         ["kill_count"] = 39,
-        ["points"] = 9537.37,
+        ["points"] = 9537.47,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2150,
@@ -21580,7 +21580,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1136,
         ["kill_count"] = 28,
-        ["points"] = 9686.39,
+        ["points"] = 9686.46,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3539,
@@ -21637,7 +21637,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2384,
         ["kill_count"] = 13,
-        ["points"] = 9436.17,
+        ["points"] = 9436.29,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4226,
@@ -21694,7 +21694,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 610,
         ["kill_count"] = 26,
-        ["points"] = 9808.72,
+        ["points"] = 9808.76,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1525,
@@ -21751,7 +21751,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5899,
         ["kill_count"] = 36,
-        ["points"] = 8868.99,
+        ["points"] = 8869.25,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1816,
@@ -21808,7 +21808,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1448,
         ["kill_count"] = 17,
-        ["points"] = 9608.54,
+        ["points"] = 9608.63,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 784,
@@ -21865,7 +21865,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1157,
         ["kill_count"] = 21,
-        ["points"] = 9676.38,
+        ["points"] = 9676.45,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4142,
@@ -21922,7 +21922,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1361,
         ["kill_count"] = 21,
-        ["points"] = 9627.45,
+        ["points"] = 9627.53,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 121,
@@ -21979,7 +21979,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7840,
         ["kill_count"] = 17,
-        ["points"] = 8580.96,
+        ["points"] = 8581.28,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5071,
@@ -22036,7 +22036,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 368,
         ["kill_count"] = 13,
-        ["points"] = 9864.32,
+        ["points"] = 9864.35,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9583,
@@ -22093,7 +22093,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2941,
         ["kill_count"] = 51,
-        ["points"] = 9348.31,
+        ["points"] = 9348.45,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1651,
@@ -22150,7 +22150,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1574,
         ["kill_count"] = 16,
-        ["points"] = 9588.52,
+        ["points"] = 9588.61,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1487,
@@ -22207,7 +22207,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 893,
         ["kill_count"] = 8,
-        ["points"] = 9743.1,
+        ["points"] = 9743.16,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1296,
@@ -22232,7 +22232,7 @@ UWULogsData[3][2] = {
     },
   },
   ["Cusdamato"] = {
-    ["percentile"] = 93.86,
+    ["percentile"] = 93.85,
     ["server"] = "Icecrown",
     ["overall_rank"] = 392,
     ["bosses"] = {
@@ -22257,14 +22257,14 @@ UWULogsData[3][2] = {
         ["points"] = 9794.98,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9795,
+        ["rank_raids"] = 9796,
         ["kill_count"] = 41,
-        ["points"] = 8255.83,
+        ["points"] = 8254.83,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3442,
         ["kill_count"] = 42,
-        ["points"] = 9260.45,
+        ["points"] = 9260.62,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1656,
@@ -22321,7 +22321,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2404,
         ["kill_count"] = 50,
-        ["points"] = 9432.83,
+        ["points"] = 9432.96,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1420,
@@ -22378,7 +22378,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1103,
         ["kill_count"] = 11,
-        ["points"] = 9693.06,
+        ["points"] = 9693.13,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2641,
@@ -22435,7 +22435,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5654,
         ["kill_count"] = 8,
-        ["points"] = 8904.58,
+        ["points"] = 8904.83,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 192,
@@ -22492,7 +22492,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7647,
         ["kill_count"] = 31,
-        ["points"] = 8621.0,
+        ["points"] = 8621.3,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 87,
@@ -22549,7 +22549,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1166,
         ["kill_count"] = 9,
-        ["points"] = 9670.82,
+        ["points"] = 9670.89,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 401,
@@ -22606,7 +22606,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4335,
         ["kill_count"] = 33,
-        ["points"] = 9120.33,
+        ["points"] = 9120.52,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3459,
@@ -22663,7 +22663,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2093,
         ["kill_count"] = 26,
-        ["points"] = 9487.32,
+        ["points"] = 9487.44,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 812,
@@ -22720,7 +22720,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3776,
         ["kill_count"] = 23,
-        ["points"] = 9204.85,
+        ["points"] = 9205.03,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 233,
@@ -22777,7 +22777,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1060,
         ["kill_count"] = 12,
-        ["points"] = 9701.96,
+        ["points"] = 9702.02,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 10592,
@@ -22834,7 +22834,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1373,
         ["kill_count"] = 29,
-        ["points"] = 9624.11,
+        ["points"] = 9624.19,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4421,
@@ -22891,7 +22891,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6147,
         ["kill_count"] = 8,
-        ["points"] = 8837.86,
+        ["points"] = 8838.11,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8075,
@@ -22916,7 +22916,7 @@ UWULogsData[3][2] = {
     },
   },
   ["Ddoctormage"] = {
-    ["percentile"] = 93.58,
+    ["percentile"] = 93.59,
     ["server"] = "Icecrown",
     ["overall_rank"] = 404,
     ["bosses"] = {
@@ -22948,7 +22948,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2324,
         ["kill_count"] = 31,
-        ["points"] = 9441.73,
+        ["points"] = 9441.85,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1624,
@@ -23005,7 +23005,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1153,
         ["kill_count"] = 28,
-        ["points"] = 9678.6,
+        ["points"] = 9678.67,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4025,
@@ -23062,7 +23062,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6782,
         ["kill_count"] = 22,
-        ["points"] = 8744.44,
+        ["points"] = 8744.72,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2404,
@@ -23119,7 +23119,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3104,
         ["kill_count"] = 24,
-        ["points"] = 9323.84,
+        ["points"] = 9323.99,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1886,
@@ -23176,7 +23176,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1309,
         ["kill_count"] = 24,
-        ["points"] = 9635.23,
+        ["points"] = 9635.31,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 606,
@@ -23233,7 +23233,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 525,
         ["kill_count"] = 14,
-        ["points"] = 9825.4,
+        ["points"] = 9825.44,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8391,
@@ -23290,7 +23290,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2837,
         ["kill_count"] = 13,
-        ["points"] = 9361.65,
+        ["points"] = 9361.8,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1549,
@@ -23347,7 +23347,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 895,
         ["kill_count"] = 7,
-        ["points"] = 9741.99,
+        ["points"] = 9742.05,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2120,
@@ -23404,7 +23404,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3783,
         ["kill_count"] = 16,
-        ["points"] = 9202.62,
+        ["points"] = 9202.8,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5449,
@@ -23461,7 +23461,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 512,
         ["kill_count"] = 55,
-        ["points"] = 9827.62,
+        ["points"] = 9827.66,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 600,
@@ -23518,7 +23518,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1729,
         ["kill_count"] = 26,
-        ["points"] = 9555.16,
+        ["points"] = 9555.26,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1553,
@@ -23575,7 +23575,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3953,
         ["kill_count"] = 13,
-        ["points"] = 9175.93,
+        ["points"] = 9176.12,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5665,
@@ -23632,7 +23632,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 924,
         ["kill_count"] = 29,
-        ["points"] = 9731.98,
+        ["points"] = 9732.04,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4176,
@@ -23689,7 +23689,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3115,
         ["kill_count"] = 12,
-        ["points"] = 9320.51,
+        ["points"] = 9320.66,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1915,
@@ -23746,7 +23746,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4314,
         ["kill_count"] = 22,
-        ["points"] = 9122.55,
+        ["points"] = 9122.75,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 935,
@@ -23803,7 +23803,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 587,
         ["kill_count"] = 52,
-        ["points"] = 9810.94,
+        ["points"] = 9810.99,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 636,
@@ -23860,7 +23860,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1128,
         ["kill_count"] = 27,
-        ["points"] = 9689.72,
+        ["points"] = 9689.79,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2086,
@@ -23917,7 +23917,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1041,
         ["kill_count"] = 11,
-        ["points"] = 9707.52,
+        ["points"] = 9707.58,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4360,
@@ -23974,7 +23974,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 402,
         ["kill_count"] = 51,
-        ["points"] = 9849.87,
+        ["points"] = 9849.9,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5400,
@@ -24031,7 +24031,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2427,
         ["kill_count"] = 19,
-        ["points"] = 9427.27,
+        ["points"] = 9427.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1629,
@@ -24088,7 +24088,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3504,
         ["kill_count"] = 28,
-        ["points"] = 9248.22,
+        ["points"] = 9248.39,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7065,
@@ -24145,7 +24145,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1879,
         ["kill_count"] = 14,
-        ["points"] = 9529.58,
+        ["points"] = 9529.69,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1916,
@@ -24202,7 +24202,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 766,
         ["kill_count"] = 5,
-        ["points"] = 9777.58,
+        ["points"] = 9777.63,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3272,
@@ -24259,7 +24259,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7513,
         ["kill_count"] = 17,
-        ["points"] = 8638.79,
+        ["points"] = 8639.09,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3589,
@@ -24316,7 +24316,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2473,
         ["kill_count"] = 9,
-        ["points"] = 9418.37,
+        ["points"] = 9418.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4086,
@@ -24373,7 +24373,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8759,
         ["kill_count"] = 25,
-        ["points"] = 8419.71,
+        ["points"] = 8420.06,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1331,
@@ -24430,7 +24430,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1179,
         ["kill_count"] = 18,
-        ["points"] = 9666.37,
+        ["points"] = 9666.44,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2076,
@@ -24487,7 +24487,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2615,
         ["kill_count"] = 19,
-        ["points"] = 9393.91,
+        ["points"] = 9394.04,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4348,
@@ -24544,7 +24544,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1990,
         ["kill_count"] = 35,
-        ["points"] = 9504.0,
+        ["points"] = 9504.11,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 691,
@@ -24601,7 +24601,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4421,
         ["kill_count"] = 17,
-        ["points"] = 9103.65,
+        ["points"] = 9103.85,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3035,
@@ -24658,7 +24658,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5116,
         ["kill_count"] = 30,
-        ["points"] = 8999.11,
+        ["points"] = 8999.33,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 498,
@@ -24715,7 +24715,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3099,
         ["kill_count"] = 20,
-        ["points"] = 9327.18,
+        ["points"] = 9327.33,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 822,
@@ -24772,7 +24772,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1939,
         ["kill_count"] = 33,
-        ["points"] = 9514.01,
+        ["points"] = 9514.12,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 352,
@@ -24829,7 +24829,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1536,
         ["kill_count"] = 13,
-        ["points"] = 9595.2,
+        ["points"] = 9595.29,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2070,
@@ -24886,7 +24886,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 792,
         ["kill_count"] = 18,
-        ["points"] = 9770.91,
+        ["points"] = 9770.96,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1897,
@@ -24943,7 +24943,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2459,
         ["kill_count"] = 14,
-        ["points"] = 9421.71,
+        ["points"] = 9421.84,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2300,
@@ -25000,7 +25000,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2003,
         ["kill_count"] = 25,
-        ["points"] = 9499.56,
+        ["points"] = 9499.67,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3483,
@@ -25050,14 +25050,14 @@ UWULogsData[3][2] = {
         ["points"] = 9247.92,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 11319,
+        ["rank_raids"] = 11320,
         ["kill_count"] = 8,
-        ["points"] = 8029.8,
+        ["points"] = 8028.8,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2504,
         ["kill_count"] = 8,
-        ["points"] = 9412.81,
+        ["points"] = 9412.94,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1042,
@@ -25114,7 +25114,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1152,
         ["kill_count"] = 13,
-        ["points"] = 9679.72,
+        ["points"] = 9679.79,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4523,
@@ -25171,7 +25171,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4847,
         ["kill_count"] = 17,
-        ["points"] = 9039.15,
+        ["points"] = 9039.36,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 722,
@@ -25228,7 +25228,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1149,
         ["kill_count"] = 42,
-        ["points"] = 9680.83,
+        ["points"] = 9680.9,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2536,
@@ -25285,7 +25285,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1005,
         ["kill_count"] = 14,
-        ["points"] = 9711.97,
+        ["points"] = 9712.03,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5031,
@@ -25342,7 +25342,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1760,
         ["kill_count"] = 58,
-        ["points"] = 9550.71,
+        ["points"] = 9550.81,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2629,
@@ -25392,14 +25392,14 @@ UWULogsData[3][2] = {
         ["points"] = 8908.89,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9084,
+        ["rank_raids"] = 9085,
         ["kill_count"] = 16,
-        ["points"] = 8382.84,
+        ["points"] = 8381.84,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1945,
         ["kill_count"] = 16,
-        ["points"] = 9512.9,
+        ["points"] = 9513.01,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1751,
@@ -25456,7 +25456,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 972,
         ["kill_count"] = 42,
-        ["points"] = 9717.53,
+        ["points"] = 9717.59,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4764,
@@ -25513,7 +25513,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 866,
         ["kill_count"] = 17,
-        ["points"] = 9749.78,
+        ["points"] = 9749.83,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2917,
@@ -25570,7 +25570,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 934,
         ["kill_count"] = 15,
-        ["points"] = 9728.65,
+        ["points"] = 9728.71,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 966,
@@ -25620,14 +25620,14 @@ UWULogsData[3][2] = {
         ["points"] = 9960.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7664,
+        ["rank_raids"] = 7665,
         ["kill_count"] = 39,
-        ["points"] = 8576.86,
+        ["points"] = 8575.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4582,
         ["kill_count"] = 34,
-        ["points"] = 9080.29,
+        ["points"] = 9080.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2220,
@@ -25684,7 +25684,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1201,
         ["kill_count"] = 38,
-        ["points"] = 9660.81,
+        ["points"] = 9660.89,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1251,
@@ -25741,7 +25741,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3646,
         ["kill_count"] = 55,
-        ["points"] = 9228.2,
+        ["points"] = 9228.37,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2738,
@@ -25798,7 +25798,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2993,
         ["kill_count"] = 24,
-        ["points"] = 9343.86,
+        ["points"] = 9344.01,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2656,
@@ -25855,7 +25855,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3101,
         ["kill_count"] = 21,
-        ["points"] = 9326.07,
+        ["points"] = 9326.22,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3716,
@@ -25912,7 +25912,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2398,
         ["kill_count"] = 14,
-        ["points"] = 9433.94,
+        ["points"] = 9434.07,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4676,
@@ -25969,7 +25969,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1633,
         ["kill_count"] = 12,
-        ["points"] = 9581.85,
+        ["points"] = 9581.94,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7182,
@@ -26026,7 +26026,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3261,
         ["kill_count"] = 27,
-        ["points"] = 9296.04,
+        ["points"] = 9296.2,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 452,
@@ -26083,7 +26083,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3457,
         ["kill_count"] = 20,
-        ["points"] = 9257.12,
+        ["points"] = 9257.28,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2872,
@@ -26140,7 +26140,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 863,
         ["kill_count"] = 40,
-        ["points"] = 9750.89,
+        ["points"] = 9750.95,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 455,
@@ -26164,67 +26164,10 @@ UWULogsData[3][2] = {
       },
     },
   },
-  ["Xmad"] = {
-    ["percentile"] = 93.07,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 461,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 1862,
-        ["kill_count"] = 8,
-        ["points"] = 9440.94,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 3696,
-        ["kill_count"] = 10,
-        ["points"] = 8860.74,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4859,
-        ["kill_count"] = 10,
-        ["points"] = 8916.89,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 1444,
-        ["kill_count"] = 13,
-        ["points"] = 9602.96,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 3097,
-        ["kill_count"] = 13,
-        ["points"] = 9292.93,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 1412,
-        ["kill_count"] = 14,
-        ["points"] = 9615.21,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 3295,
-        ["kill_count"] = 15,
-        ["points"] = 9213.92,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 183,
-        ["kill_count"] = 15,
-        ["points"] = 9903.99,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 2277,
-        ["kill_count"] = 13,
-        ["points"] = 9248.1,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 4671,
-        ["kill_count"] = 13,
-        ["points"] = 8887.02,
-      },
-    },
-  },
   ["Narub"] = {
     ["percentile"] = 93.07,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 462,
+    ["overall_rank"] = 461,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 736,
@@ -26254,7 +26197,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7197,
         ["kill_count"] = 29,
-        ["points"] = 8679.94,
+        ["points"] = 8680.23,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2251,
@@ -26275,6 +26218,63 @@ UWULogsData[3][2] = {
         ["rank_raids"] = 1001,
         ["kill_count"] = 25,
         ["points"] = 9698.46,
+      },
+    },
+  },
+  ["Xmad"] = {
+    ["percentile"] = 93.07,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 462,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 1862,
+        ["kill_count"] = 8,
+        ["points"] = 9440.94,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 3696,
+        ["kill_count"] = 10,
+        ["points"] = 8860.74,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 4859,
+        ["kill_count"] = 10,
+        ["points"] = 8916.89,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 1444,
+        ["kill_count"] = 13,
+        ["points"] = 9602.96,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 3097,
+        ["kill_count"] = 13,
+        ["points"] = 9292.93,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 1412,
+        ["kill_count"] = 14,
+        ["points"] = 9615.3,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 3295,
+        ["kill_count"] = 15,
+        ["points"] = 9213.92,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 183,
+        ["kill_count"] = 15,
+        ["points"] = 9903.99,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 2277,
+        ["kill_count"] = 13,
+        ["points"] = 9248.1,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 4671,
+        ["kill_count"] = 13,
+        ["points"] = 8887.02,
       },
     },
   },
@@ -26311,7 +26311,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2739,
         ["kill_count"] = 30,
-        ["points"] = 9378.34,
+        ["points"] = 9378.47,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6391,
@@ -26368,7 +26368,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 11290,
         ["kill_count"] = 14,
-        ["points"] = 8038.26,
+        ["points"] = 8038.69,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1904,
@@ -26425,7 +26425,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7331,
         ["kill_count"] = 9,
-        ["points"] = 8661.03,
+        ["points"] = 8661.33,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8403,
@@ -26482,7 +26482,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2160,
         ["kill_count"] = 19,
-        ["points"] = 9473.98,
+        ["points"] = 9474.09,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1448,
@@ -26539,7 +26539,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1246,
         ["kill_count"] = 23,
-        ["points"] = 9648.58,
+        ["points"] = 9648.65,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8949,
@@ -26596,7 +26596,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2067,
         ["kill_count"] = 8,
-        ["points"] = 9491.77,
+        ["points"] = 9491.88,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3701,
@@ -26653,7 +26653,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 906,
         ["kill_count"] = 35,
-        ["points"] = 9738.66,
+        ["points"] = 9738.71,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1243,
@@ -26710,7 +26710,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5766,
         ["kill_count"] = 16,
-        ["points"] = 8885.68,
+        ["points"] = 8885.92,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2507,
@@ -26767,7 +26767,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4796,
         ["kill_count"] = 9,
-        ["points"] = 9046.93,
+        ["points"] = 9047.14,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 863,
@@ -26824,7 +26824,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 378,
         ["kill_count"] = 16,
-        ["points"] = 9859.88,
+        ["points"] = 9859.91,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2535,
@@ -26881,7 +26881,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3103,
         ["kill_count"] = 43,
-        ["points"] = 9324.96,
+        ["points"] = 9325.11,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1554,
@@ -26938,7 +26938,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1575,
         ["kill_count"] = 11,
-        ["points"] = 9587.41,
+        ["points"] = 9587.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5954,
@@ -26995,7 +26995,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2618,
         ["kill_count"] = 31,
-        ["points"] = 9392.79,
+        ["points"] = 9392.93,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2358,
@@ -27052,7 +27052,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2564,
         ["kill_count"] = 50,
-        ["points"] = 9402.8,
+        ["points"] = 9402.94,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2982,
@@ -27109,7 +27109,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1039,
         ["kill_count"] = 15,
-        ["points"] = 9708.63,
+        ["points"] = 9708.69,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 931,
@@ -27166,7 +27166,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1224,
         ["kill_count"] = 17,
-        ["points"] = 9654.14,
+        ["points"] = 9654.21,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4065,
@@ -27223,7 +27223,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3426,
         ["kill_count"] = 17,
-        ["points"] = 9264.9,
+        ["points"] = 9265.07,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 388,
@@ -27280,7 +27280,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2472,
         ["kill_count"] = 26,
-        ["points"] = 9419.48,
+        ["points"] = 9419.61,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1366,
@@ -27337,7 +27337,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2672,
         ["kill_count"] = 24,
-        ["points"] = 9387.23,
+        ["points"] = 9387.37,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1239,
@@ -27394,7 +27394,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1244,
         ["kill_count"] = 26,
-        ["points"] = 9649.69,
+        ["points"] = 9649.77,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4528,
@@ -27418,67 +27418,10 @@ UWULogsData[3][2] = {
       },
     },
   },
-  ["Bnns"] = {
-    ["percentile"] = 92.79,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 483,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7424,
-        ["kill_count"] = 10,
-        ["points"] = 8273.83,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 807,
-        ["kill_count"] = 9,
-        ["points"] = 9643.46,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2978,
-        ["kill_count"] = 9,
-        ["points"] = 9263.93,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 1391,
-        ["kill_count"] = 9,
-        ["points"] = 9613.96,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 3563,
-        ["kill_count"] = 9,
-        ["points"] = 9218.92,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 1133,
-        ["kill_count"] = 9,
-        ["points"] = 9688.61,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 1389,
-        ["kill_count"] = 9,
-        ["points"] = 9601.96,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1780,
-        ["kill_count"] = 9,
-        ["points"] = 9390.94,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 2873,
-        ["kill_count"] = 9,
-        ["points"] = 9095.07,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 4522,
-        ["kill_count"] = 10,
-        ["points"] = 8919.37,
-      },
-    },
-  },
   ["Darkdeathll"] = {
     ["percentile"] = 92.79,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 484,
+    ["overall_rank"] = 483,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5083,
@@ -27508,7 +27451,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3148,
         ["kill_count"] = 21,
-        ["points"] = 9316.06,
+        ["points"] = 9316.21,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 338,
@@ -27529,6 +27472,63 @@ UWULogsData[3][2] = {
         ["rank_raids"] = 1788,
         ["kill_count"] = 24,
         ["points"] = 9503.04,
+      },
+    },
+  },
+  ["Bnns"] = {
+    ["percentile"] = 92.79,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 484,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 7424,
+        ["kill_count"] = 10,
+        ["points"] = 8273.83,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 807,
+        ["kill_count"] = 9,
+        ["points"] = 9643.46,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 2978,
+        ["kill_count"] = 9,
+        ["points"] = 9263.93,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 1391,
+        ["kill_count"] = 9,
+        ["points"] = 9613.96,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 3563,
+        ["kill_count"] = 9,
+        ["points"] = 9218.92,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 1133,
+        ["kill_count"] = 9,
+        ["points"] = 9688.68,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 1389,
+        ["kill_count"] = 9,
+        ["points"] = 9601.96,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 1780,
+        ["kill_count"] = 9,
+        ["points"] = 9390.94,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 2873,
+        ["kill_count"] = 9,
+        ["points"] = 9095.07,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 4522,
+        ["kill_count"] = 10,
+        ["points"] = 8919.37,
       },
     },
   },
@@ -27565,7 +27565,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1159,
         ["kill_count"] = 12,
-        ["points"] = 9675.27,
+        ["points"] = 9675.34,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7188,
@@ -27622,7 +27622,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4444,
         ["kill_count"] = 18,
-        ["points"] = 9101.42,
+        ["points"] = 9101.62,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2617,
@@ -27679,7 +27679,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1977,
         ["kill_count"] = 34,
-        ["points"] = 9506.23,
+        ["points"] = 9506.34,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2992,
@@ -27736,7 +27736,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2216,
         ["kill_count"] = 10,
-        ["points"] = 9461.74,
+        ["points"] = 9461.86,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2831,
@@ -27793,7 +27793,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5150,
         ["kill_count"] = 12,
-        ["points"] = 8990.21,
+        ["points"] = 8990.44,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2832,
@@ -27850,7 +27850,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2195,
         ["kill_count"] = 47,
-        ["points"] = 9467.3,
+        ["points"] = 9467.42,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 979,
@@ -27907,7 +27907,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 213,
         ["kill_count"] = 12,
-        ["points"] = 9912.14,
+        ["points"] = 9912.16,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7759,
@@ -27964,7 +27964,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 950,
         ["kill_count"] = 20,
-        ["points"] = 9724.2,
+        ["points"] = 9724.26,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 116,
@@ -27988,67 +27988,10 @@ UWULogsData[3][2] = {
       },
     },
   },
-  ["Toxmage"] = {
-    ["percentile"] = 92.73,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 493,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 3179,
-        ["kill_count"] = 38,
-        ["points"] = 9115.91,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 788,
-        ["kill_count"] = 34,
-        ["points"] = 9653.06,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4205,
-        ["kill_count"] = 40,
-        ["points"] = 9034.9,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 2373,
-        ["kill_count"] = 43,
-        ["points"] = 9417.94,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 7710,
-        ["kill_count"] = 43,
-        ["points"] = 8571.86,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 4787,
-        ["kill_count"] = 39,
-        ["points"] = 9049.15,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 85,
-        ["kill_count"] = 42,
-        ["points"] = 9960.0,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2705,
-        ["kill_count"] = 42,
-        ["points"] = 9130.91,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 1971,
-        ["kill_count"] = 41,
-        ["points"] = 9343.29,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 2456,
-        ["kill_count"] = 45,
-        ["points"] = 9365.86,
-      },
-    },
-  },
   ["Donrony"] = {
     ["percentile"] = 92.73,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 494,
+    ["overall_rank"] = 493,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2526,
@@ -28078,7 +28021,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2777,
         ["kill_count"] = 46,
-        ["points"] = 9372.78,
+        ["points"] = 9372.92,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1613,
@@ -28099,6 +28042,63 @@ UWULogsData[3][2] = {
         ["rank_raids"] = 841,
         ["kill_count"] = 43,
         ["points"] = 9729.52,
+      },
+    },
+  },
+  ["Toxmage"] = {
+    ["percentile"] = 92.72,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 494,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 3179,
+        ["kill_count"] = 38,
+        ["points"] = 9115.91,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 788,
+        ["kill_count"] = 34,
+        ["points"] = 9653.06,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 4205,
+        ["kill_count"] = 40,
+        ["points"] = 9034.9,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 2373,
+        ["kill_count"] = 43,
+        ["points"] = 9417.94,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 7711,
+        ["kill_count"] = 43,
+        ["points"] = 8570.86,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 4787,
+        ["kill_count"] = 39,
+        ["points"] = 9049.37,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 85,
+        ["kill_count"] = 42,
+        ["points"] = 9960.0,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 2705,
+        ["kill_count"] = 42,
+        ["points"] = 9130.91,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 1971,
+        ["kill_count"] = 41,
+        ["points"] = 9343.29,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 2456,
+        ["kill_count"] = 45,
+        ["points"] = 9365.86,
       },
     },
   },
@@ -28135,7 +28135,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4011,
         ["kill_count"] = 22,
-        ["points"] = 9168.15,
+        ["points"] = 9168.33,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1857,
@@ -28192,7 +28192,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 277,
         ["kill_count"] = 12,
-        ["points"] = 9893.24,
+        ["points"] = 9893.26,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5017,
@@ -28249,7 +28249,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2014,
         ["kill_count"] = 35,
-        ["points"] = 9498.44,
+        ["points"] = 9498.55,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 980,
@@ -28306,7 +28306,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7776,
         ["kill_count"] = 23,
-        ["points"] = 8595.42,
+        ["points"] = 8595.73,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4544,
@@ -28363,7 +28363,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4260,
         ["kill_count"] = 17,
-        ["points"] = 9130.34,
+        ["points"] = 9130.53,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 229,
@@ -28420,7 +28420,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2055,
         ["kill_count"] = 16,
-        ["points"] = 9496.22,
+        ["points"] = 9496.33,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1644,
@@ -28477,7 +28477,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7997,
         ["kill_count"] = 12,
-        ["points"] = 8556.49,
+        ["points"] = 8556.82,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3783,
@@ -28534,7 +28534,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1004,
         ["kill_count"] = 14,
-        ["points"] = 9713.08,
+        ["points"] = 9713.14,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1196,
@@ -28558,67 +28558,10 @@ UWULogsData[3][2] = {
       },
     },
   },
-  ["Ryderkosnant"] = {
-    ["percentile"] = 92.69,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 503,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 312,
-        ["kill_count"] = 10,
-        ["points"] = 9863.99,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 2402,
-        ["kill_count"] = 9,
-        ["points"] = 9169.27,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1591,
-        ["kill_count"] = 11,
-        ["points"] = 9511.95,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 2103,
-        ["kill_count"] = 12,
-        ["points"] = 9471.95,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 9750,
-        ["kill_count"] = 12,
-        ["points"] = 8263.83,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 2500,
-        ["kill_count"] = 8,
-        ["points"] = 9415.04,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 4354,
-        ["kill_count"] = 10,
-        ["points"] = 9040.9,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2276,
-        ["kill_count"] = 11,
-        ["points"] = 9248.92,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 1533,
-        ["kill_count"] = 10,
-        ["points"] = 9465.0,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 3369,
-        ["kill_count"] = 7,
-        ["points"] = 9151.03,
-      },
-    },
-  },
   ["Lilslut"] = {
     ["percentile"] = 92.69,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 504,
+    ["overall_rank"] = 503,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1574,
@@ -28648,7 +28591,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2188,
         ["kill_count"] = 31,
-        ["points"] = 9468.42,
+        ["points"] = 9468.53,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1736,
@@ -28669,6 +28612,63 @@ UWULogsData[3][2] = {
         ["rank_raids"] = 3226,
         ["kill_count"] = 29,
         ["points"] = 9175.62,
+      },
+    },
+  },
+  ["Ryderkosnant"] = {
+    ["percentile"] = 92.68,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 504,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 312,
+        ["kill_count"] = 10,
+        ["points"] = 9863.99,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 2402,
+        ["kill_count"] = 9,
+        ["points"] = 9169.27,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 1591,
+        ["kill_count"] = 11,
+        ["points"] = 9511.95,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 2103,
+        ["kill_count"] = 12,
+        ["points"] = 9471.95,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 9751,
+        ["kill_count"] = 12,
+        ["points"] = 8262.83,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 2500,
+        ["kill_count"] = 8,
+        ["points"] = 9415.17,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 4354,
+        ["kill_count"] = 10,
+        ["points"] = 9040.9,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 2276,
+        ["kill_count"] = 11,
+        ["points"] = 9248.92,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 1533,
+        ["kill_count"] = 10,
+        ["points"] = 9465.0,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 3369,
+        ["kill_count"] = 7,
+        ["points"] = 9151.03,
       },
     },
   },
@@ -28705,7 +28705,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1467,
         ["kill_count"] = 46,
-        ["points"] = 9606.32,
+        ["points"] = 9606.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3880,
@@ -28762,7 +28762,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3983,
         ["kill_count"] = 27,
-        ["points"] = 9173.71,
+        ["points"] = 9173.89,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 578,
@@ -28819,7 +28819,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 944,
         ["kill_count"] = 11,
-        ["points"] = 9727.54,
+        ["points"] = 9727.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8920,
@@ -28876,7 +28876,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5364,
         ["kill_count"] = 28,
-        ["points"] = 8952.4,
+        ["points"] = 8952.64,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 533,
@@ -28933,7 +28933,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3016,
         ["kill_count"] = 39,
-        ["points"] = 9338.3,
+        ["points"] = 9338.45,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4167,
@@ -28990,7 +28990,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1379,
         ["kill_count"] = 24,
-        ["points"] = 9623.0,
+        ["points"] = 9623.08,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4054,
@@ -29047,7 +29047,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3230,
         ["kill_count"] = 26,
-        ["points"] = 9302.71,
+        ["points"] = 9302.87,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1828,
@@ -29104,7 +29104,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4401,
         ["kill_count"] = 11,
-        ["points"] = 9104.76,
+        ["points"] = 9104.96,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1775,
@@ -29161,7 +29161,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4690,
         ["kill_count"] = 35,
-        ["points"] = 9066.95,
+        ["points"] = 9067.16,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1551,
@@ -29218,7 +29218,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2796,
         ["kill_count"] = 27,
-        ["points"] = 9367.22,
+        ["points"] = 9367.36,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1071,
@@ -29275,7 +29275,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3296,
         ["kill_count"] = 12,
-        ["points"] = 9287.14,
+        ["points"] = 9287.3,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2091,
@@ -29332,7 +29332,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1715,
         ["kill_count"] = 13,
-        ["points"] = 9559.61,
+        ["points"] = 9559.71,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4155,
@@ -29389,7 +29389,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2413,
         ["kill_count"] = 7,
-        ["points"] = 9428.38,
+        ["points"] = 9428.51,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5427,
@@ -29446,7 +29446,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 926,
         ["kill_count"] = 23,
-        ["points"] = 9730.87,
+        ["points"] = 9730.93,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5784,
@@ -29503,7 +29503,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3106,
         ["kill_count"] = 12,
-        ["points"] = 9322.73,
+        ["points"] = 9322.88,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1471,
@@ -29560,7 +29560,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3497,
         ["kill_count"] = 24,
-        ["points"] = 9251.56,
+        ["points"] = 9251.72,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3258,
@@ -29617,7 +29617,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1665,
         ["kill_count"] = 14,
-        ["points"] = 9571.84,
+        ["points"] = 9571.94,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2158,
@@ -29674,7 +29674,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2405,
         ["kill_count"] = 21,
-        ["points"] = 9431.72,
+        ["points"] = 9431.84,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5911,
@@ -29731,7 +29731,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2492,
         ["kill_count"] = 16,
-        ["points"] = 9416.15,
+        ["points"] = 9416.28,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1008,
@@ -29788,7 +29788,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5818,
         ["kill_count"] = 12,
-        ["points"] = 8876.78,
+        ["points"] = 8877.03,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6983,
@@ -29845,7 +29845,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3836,
         ["kill_count"] = 27,
-        ["points"] = 9193.73,
+        ["points"] = 9193.91,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2269,
@@ -29902,7 +29902,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6730,
         ["kill_count"] = 23,
-        ["points"] = 8748.89,
+        ["points"] = 8749.17,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2176,
@@ -29959,7 +29959,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3697,
         ["kill_count"] = 41,
-        ["points"] = 9221.53,
+        ["points"] = 9221.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1472,
@@ -30016,7 +30016,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1640,
         ["kill_count"] = 31,
-        ["points"] = 9579.63,
+        ["points"] = 9579.72,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2001,
@@ -30073,7 +30073,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6841,
         ["kill_count"] = 28,
-        ["points"] = 8734.43,
+        ["points"] = 8734.71,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9048,
@@ -30130,7 +30130,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 371,
         ["kill_count"] = 41,
-        ["points"] = 9862.1,
+        ["points"] = 9862.13,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9914,
@@ -30187,7 +30187,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2810,
         ["kill_count"] = 6,
-        ["points"] = 9363.88,
+        ["points"] = 9364.02,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1344,
@@ -30244,7 +30244,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4740,
         ["kill_count"] = 61,
-        ["points"] = 9058.05,
+        ["points"] = 9058.26,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2771,
@@ -30301,7 +30301,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1878,
         ["kill_count"] = 27,
-        ["points"] = 9530.69,
+        ["points"] = 9530.8,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9330,
@@ -30326,7 +30326,7 @@ UWULogsData[3][2] = {
     },
   },
   ["Dawes"] = {
-    ["percentile"] = 92.09,
+    ["percentile"] = 92.1,
     ["server"] = "Icecrown",
     ["overall_rank"] = 534,
     ["bosses"] = {
@@ -30358,7 +30358,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1299,
         ["kill_count"] = 24,
-        ["points"] = 9636.34,
+        ["points"] = 9636.42,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1680,
@@ -30415,7 +30415,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4747,
         ["kill_count"] = 51,
-        ["points"] = 9055.83,
+        ["points"] = 9056.04,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 561,
@@ -30472,7 +30472,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2412,
         ["kill_count"] = 9,
-        ["points"] = 9429.49,
+        ["points"] = 9429.62,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2173,
@@ -30529,7 +30529,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3833,
         ["kill_count"] = 9,
-        ["points"] = 9194.84,
+        ["points"] = 9195.02,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4230,
@@ -30586,7 +30586,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4393,
         ["kill_count"] = 20,
-        ["points"] = 9106.98,
+        ["points"] = 9107.18,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1948,
@@ -30636,14 +30636,14 @@ UWULogsData[3][2] = {
         ["points"] = 8567.86,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8799,
+        ["rank_raids"] = 8800,
         ["kill_count"] = 43,
-        ["points"] = 8425.84,
+        ["points"] = 8424.84,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3719,
         ["kill_count"] = 43,
-        ["points"] = 9218.19,
+        ["points"] = 9218.37,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2563,
@@ -30700,7 +30700,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5839,
         ["kill_count"] = 16,
-        ["points"] = 8874.56,
+        ["points"] = 8874.81,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 752,
@@ -30757,7 +30757,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5520,
         ["kill_count"] = 35,
-        ["points"] = 8926.82,
+        ["points"] = 8927.06,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1010,
@@ -30814,7 +30814,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5676,
         ["kill_count"] = 17,
-        ["points"] = 8902.36,
+        ["points"] = 8902.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5793,
@@ -30871,7 +30871,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5058,
         ["kill_count"] = 13,
-        ["points"] = 9003.56,
+        ["points"] = 9003.78,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1528,
@@ -30928,7 +30928,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5596,
         ["kill_count"] = 36,
-        ["points"] = 8915.7,
+        ["points"] = 8915.94,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6670,
@@ -30985,7 +30985,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4577,
         ["kill_count"] = 21,
-        ["points"] = 9082.52,
+        ["points"] = 9082.72,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 575,
@@ -31009,67 +31009,10 @@ UWULogsData[3][2] = {
       },
     },
   },
-  ["Icelanceftw"] = {
-    ["percentile"] = 91.97,
+  ["Rageban"] = {
+    ["percentile"] = 91.98,
     ["server"] = "Icecrown",
     ["overall_rank"] = 547,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 3253,
-        ["kill_count"] = 8,
-        ["points"] = 9099.91,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 3151,
-        ["kill_count"] = 7,
-        ["points"] = 8971.19,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3339,
-        ["kill_count"] = 7,
-        ["points"] = 9183.92,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 1584,
-        ["kill_count"] = 8,
-        ["points"] = 9567.96,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 597,
-        ["kill_count"] = 8,
-        ["points"] = 9785.98,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 1323,
-        ["kill_count"] = 7,
-        ["points"] = 9634.12,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 3850,
-        ["kill_count"] = 8,
-        ["points"] = 9126.91,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1577,
-        ["kill_count"] = 8,
-        ["points"] = 9457.95,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 5921,
-        ["kill_count"] = 7,
-        ["points"] = 8393.78,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 5717,
-        ["kill_count"] = 7,
-        ["points"] = 8670.89,
-      },
-    },
-  },
-  ["Rageban"] = {
-    ["percentile"] = 91.97,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 548,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 221,
@@ -31099,7 +31042,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5759,
         ["kill_count"] = 40,
-        ["points"] = 8886.79,
+        ["points"] = 8887.04,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7467,
@@ -31120,6 +31063,63 @@ UWULogsData[3][2] = {
         ["rank_raids"] = 7064,
         ["kill_count"] = 37,
         ["points"] = 8426.3,
+      },
+    },
+  },
+  ["Icelanceftw"] = {
+    ["percentile"] = 91.97,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 548,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 3253,
+        ["kill_count"] = 8,
+        ["points"] = 9099.91,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 3151,
+        ["kill_count"] = 7,
+        ["points"] = 8971.19,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 3339,
+        ["kill_count"] = 7,
+        ["points"] = 9183.92,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 1584,
+        ["kill_count"] = 8,
+        ["points"] = 9567.96,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 597,
+        ["kill_count"] = 8,
+        ["points"] = 9785.98,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 1323,
+        ["kill_count"] = 7,
+        ["points"] = 9634.2,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 3850,
+        ["kill_count"] = 8,
+        ["points"] = 9126.91,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 1577,
+        ["kill_count"] = 8,
+        ["points"] = 9457.95,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 5921,
+        ["kill_count"] = 7,
+        ["points"] = 8393.78,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 5717,
+        ["kill_count"] = 7,
+        ["points"] = 8670.89,
       },
     },
   },
@@ -31156,7 +31156,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2519,
         ["kill_count"] = 24,
-        ["points"] = 9410.59,
+        ["points"] = 9410.72,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3433,
@@ -31213,7 +31213,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3338,
         ["kill_count"] = 28,
-        ["points"] = 9280.47,
+        ["points"] = 9280.63,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3894,
@@ -31270,7 +31270,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1874,
         ["kill_count"] = 17,
-        ["points"] = 9531.81,
+        ["points"] = 9531.91,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 474,
@@ -31327,7 +31327,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7736,
         ["kill_count"] = 12,
-        ["points"] = 8599.87,
+        ["points"] = 8600.18,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3436,
@@ -31377,14 +31377,14 @@ UWULogsData[3][2] = {
         ["points"] = 9907.99,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 16493,
+        ["rank_raids"] = 16494,
         ["kill_count"] = 19,
-        ["points"] = 7339.73,
+        ["points"] = 7338.73,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7338,
         ["kill_count"] = 14,
-        ["points"] = 8658.81,
+        ["points"] = 8659.11,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4811,
@@ -31441,7 +31441,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6135,
         ["kill_count"] = 33,
-        ["points"] = 8840.08,
+        ["points"] = 8840.34,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 658,
@@ -31498,7 +31498,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3910,
         ["kill_count"] = 12,
-        ["points"] = 9184.83,
+        ["points"] = 9185.01,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2041,
@@ -31555,7 +31555,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6271,
         ["kill_count"] = 30,
-        ["points"] = 8813.39,
+        ["points"] = 8813.65,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 997,
@@ -31612,7 +31612,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 13432,
         ["kill_count"] = 15,
-        ["points"] = 7729.09,
+        ["points"] = 7729.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2029,
@@ -31669,7 +31669,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6833,
         ["kill_count"] = 11,
-        ["points"] = 8737.77,
+        ["points"] = 8738.05,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2215,
@@ -31719,14 +31719,14 @@ UWULogsData[3][2] = {
         ["points"] = 9020.9,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7601,
+        ["rank_raids"] = 7602,
         ["kill_count"] = 13,
-        ["points"] = 8585.86,
+        ["points"] = 8584.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6354,
         ["kill_count"] = 11,
-        ["points"] = 8805.6,
+        ["points"] = 8805.87,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2058,
@@ -31783,7 +31783,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4811,
         ["kill_count"] = 34,
-        ["points"] = 9044.71,
+        ["points"] = 9044.92,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1671,
@@ -31840,7 +31840,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5239,
         ["kill_count"] = 79,
-        ["points"] = 8976.87,
+        ["points"] = 8977.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1519,
@@ -31897,7 +31897,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6685,
         ["kill_count"] = 14,
-        ["points"] = 8760.01,
+        ["points"] = 8760.28,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7051,
@@ -31947,14 +31947,14 @@ UWULogsData[3][2] = {
         ["points"] = 9034.9,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7814,
+        ["rank_raids"] = 7815,
         ["kill_count"] = 20,
-        ["points"] = 8555.86,
+        ["points"] = 8554.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 968,
         ["kill_count"] = 19,
-        ["points"] = 9719.75,
+        ["points"] = 9719.81,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 942,
@@ -32011,7 +32011,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6558,
         ["kill_count"] = 26,
-        ["points"] = 8780.03,
+        ["points"] = 8780.3,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1773,
@@ -32068,7 +32068,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6945,
         ["kill_count"] = 20,
-        ["points"] = 8713.3,
+        ["points"] = 8713.59,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2253,
@@ -32125,7 +32125,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6836,
         ["kill_count"] = 8,
-        ["points"] = 8736.65,
+        ["points"] = 8736.94,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4315,
@@ -32182,7 +32182,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2844,
         ["kill_count"] = 29,
-        ["points"] = 9360.54,
+        ["points"] = 9360.68,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8410,
@@ -32239,7 +32239,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7879,
         ["kill_count"] = 16,
-        ["points"] = 8572.06,
+        ["points"] = 8572.38,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2673,
@@ -32296,7 +32296,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4106,
         ["kill_count"] = 16,
-        ["points"] = 9150.36,
+        ["points"] = 9150.54,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4301,
@@ -32353,7 +32353,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1185,
         ["kill_count"] = 22,
-        ["points"] = 9665.26,
+        ["points"] = 9665.33,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 589,
@@ -32410,7 +32410,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1506,
         ["kill_count"] = 6,
-        ["points"] = 9599.64,
+        ["points"] = 9599.73,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 230,
@@ -32467,7 +32467,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 890,
         ["kill_count"] = 36,
-        ["points"] = 9744.22,
+        ["points"] = 9744.27,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8384,
@@ -32524,7 +32524,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7814,
         ["kill_count"] = 32,
-        ["points"] = 8587.63,
+        ["points"] = 8587.95,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3614,
@@ -32574,14 +32574,14 @@ UWULogsData[3][2] = {
         ["points"] = 9321.93,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7051,
+        ["rank_raids"] = 7052,
         ["kill_count"] = 26,
-        ["points"] = 8650.87,
+        ["points"] = 8649.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3750,
         ["kill_count"] = 21,
-        ["points"] = 9207.07,
+        ["points"] = 9207.25,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4431,
@@ -32638,7 +32638,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5271,
         ["kill_count"] = 25,
-        ["points"] = 8969.08,
+        ["points"] = 8969.31,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3353,
@@ -32695,7 +32695,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3485,
         ["kill_count"] = 23,
-        ["points"] = 9253.78,
+        ["points"] = 9253.95,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6190,
@@ -32752,7 +32752,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2554,
         ["kill_count"] = 10,
-        ["points"] = 9406.14,
+        ["points"] = 9406.27,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2567,
@@ -32809,7 +32809,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4068,
         ["kill_count"] = 33,
-        ["points"] = 9153.69,
+        ["points"] = 9153.88,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3866,
@@ -32866,7 +32866,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4355,
         ["kill_count"] = 35,
-        ["points"] = 9113.66,
+        ["points"] = 9113.85,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2816,
@@ -32923,7 +32923,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2357,
         ["kill_count"] = 30,
-        ["points"] = 9439.5,
+        ["points"] = 9439.63,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3170,
@@ -32973,14 +32973,14 @@ UWULogsData[3][2] = {
         ["points"] = 9418.94,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9272,
+        ["rank_raids"] = 9273,
         ["kill_count"] = 9,
-        ["points"] = 8348.83,
+        ["points"] = 8347.83,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3458,
         ["kill_count"] = 9,
-        ["points"] = 9256.01,
+        ["points"] = 9256.17,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9580,
@@ -33037,7 +33037,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6523,
         ["kill_count"] = 12,
-        ["points"] = 8782.25,
+        ["points"] = 8782.52,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2657,
@@ -33094,7 +33094,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3283,
         ["kill_count"] = 37,
-        ["points"] = 9292.7,
+        ["points"] = 9292.86,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 956,
@@ -33151,7 +33151,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4873,
         ["kill_count"] = 27,
-        ["points"] = 9032.47,
+        ["points"] = 9032.69,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1520,
@@ -33208,7 +33208,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8160,
         ["kill_count"] = 12,
-        ["points"] = 8527.58,
+        ["points"] = 8527.91,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2072,
@@ -33265,7 +33265,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1542,
         ["kill_count"] = 12,
-        ["points"] = 9592.97,
+        ["points"] = 9593.06,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3153,
@@ -33322,7 +33322,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5494,
         ["kill_count"] = 12,
-        ["points"] = 8933.5,
+        ["points"] = 8933.73,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3757,
@@ -33379,7 +33379,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2172,
         ["kill_count"] = 11,
-        ["points"] = 9472.86,
+        ["points"] = 9472.98,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8729,
@@ -33429,14 +33429,14 @@ UWULogsData[3][2] = {
         ["points"] = 9592.96,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9328,
+        ["rank_raids"] = 9329,
         ["kill_count"] = 39,
-        ["points"] = 8335.83,
+        ["points"] = 8334.83,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3381,
         ["kill_count"] = 39,
-        ["points"] = 9271.57,
+        ["points"] = 9271.74,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1492,
@@ -33493,7 +33493,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4759,
         ["kill_count"] = 34,
-        ["points"] = 9053.6,
+        ["points"] = 9053.81,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1423,
@@ -33550,7 +33550,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 406,
         ["kill_count"] = 5,
-        ["points"] = 9847.64,
+        ["points"] = 9847.68,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1971,
@@ -33607,7 +33607,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8463,
         ["kill_count"] = 9,
-        ["points"] = 8460.85,
+        ["points"] = 8461.2,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1591,
@@ -33664,7 +33664,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1134,
         ["kill_count"] = 16,
-        ["points"] = 9687.5,
+        ["points"] = 9687.57,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 13820,
@@ -33721,7 +33721,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6495,
         ["kill_count"] = 35,
-        ["points"] = 8785.59,
+        ["points"] = 8785.86,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2675,
@@ -33771,14 +33771,14 @@ UWULogsData[3][2] = {
         ["points"] = 9296.93,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 14870,
+        ["rank_raids"] = 14871,
         ["kill_count"] = 29,
-        ["points"] = 7561.76,
+        ["points"] = 7560.76,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 10394,
         ["kill_count"] = 26,
-        ["points"] = 8163.92,
+        ["points"] = 8164.33,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 419,
@@ -33835,7 +33835,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3376,
         ["kill_count"] = 3,
-        ["points"] = 9272.69,
+        ["points"] = 9272.85,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3481,
@@ -33892,7 +33892,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2614,
         ["kill_count"] = 9,
-        ["points"] = 9395.02,
+        ["points"] = 9395.15,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2420,
@@ -33949,7 +33949,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2184,
         ["kill_count"] = 17,
-        ["points"] = 9469.53,
+        ["points"] = 9469.65,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3636,
@@ -34006,7 +34006,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4184,
         ["kill_count"] = 15,
-        ["points"] = 9140.35,
+        ["points"] = 9140.54,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6995,
@@ -34031,7 +34031,7 @@ UWULogsData[3][2] = {
     },
   },
   ["Aspire"] = {
-    ["percentile"] = 91.15,
+    ["percentile"] = 91.14,
     ["server"] = "Icecrown",
     ["overall_rank"] = 601,
     ["bosses"] = {
@@ -34056,14 +34056,14 @@ UWULogsData[3][2] = {
         ["points"] = 9185.92,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7204,
+        ["rank_raids"] = 7205,
         ["kill_count"] = 6,
-        ["points"] = 8632.86,
+        ["points"] = 8631.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1296,
         ["kill_count"] = 6,
-        ["points"] = 9638.57,
+        ["points"] = 9638.65,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2363,
@@ -34113,14 +34113,14 @@ UWULogsData[3][2] = {
         ["points"] = 9410.94,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7096,
+        ["rank_raids"] = 7097,
         ["kill_count"] = 68,
-        ["points"] = 8647.86,
+        ["points"] = 8646.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4547,
         ["kill_count"] = 59,
-        ["points"] = 9089.19,
+        ["points"] = 9089.39,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4884,
@@ -34170,14 +34170,14 @@ UWULogsData[3][2] = {
         ["points"] = 9230.92,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8002,
+        ["rank_raids"] = 8003,
         ["kill_count"] = 31,
-        ["points"] = 8527.85,
+        ["points"] = 8526.85,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5144,
         ["kill_count"] = 25,
-        ["points"] = 8992.44,
+        ["points"] = 8992.66,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 718,
@@ -34234,7 +34234,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7198,
         ["kill_count"] = 19,
-        ["points"] = 8678.83,
+        ["points"] = 8679.12,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4350,
@@ -34291,7 +34291,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4551,
         ["kill_count"] = 19,
-        ["points"] = 9088.08,
+        ["points"] = 9088.28,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2715,
@@ -34348,7 +34348,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3403,
         ["kill_count"] = 14,
-        ["points"] = 9269.35,
+        ["points"] = 9269.51,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1595,
@@ -34405,7 +34405,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4307,
         ["kill_count"] = 12,
-        ["points"] = 9124.78,
+        ["points"] = 9124.97,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1122,
@@ -34462,7 +34462,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8200,
         ["kill_count"] = 10,
-        ["points"] = 8516.46,
+        ["points"] = 8516.79,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1168,
@@ -34519,7 +34519,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2675,
         ["kill_count"] = 47,
-        ["points"] = 9386.12,
+        ["points"] = 9386.26,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6588,
@@ -34576,7 +34576,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1993,
         ["kill_count"] = 34,
-        ["points"] = 9501.78,
+        ["points"] = 9501.89,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1312,
@@ -34633,7 +34633,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3200,
         ["kill_count"] = 46,
-        ["points"] = 9310.5,
+        ["points"] = 9310.65,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2930,
@@ -34690,7 +34690,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3872,
         ["kill_count"] = 25,
-        ["points"] = 9189.28,
+        ["points"] = 9189.46,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 362,
@@ -34747,7 +34747,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1404,
         ["kill_count"] = 26,
-        ["points"] = 9617.44,
+        ["points"] = 9617.52,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9749,
@@ -34804,7 +34804,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4554,
         ["kill_count"] = 38,
-        ["points"] = 9086.97,
+        ["points"] = 9087.17,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4235,
@@ -34861,7 +34861,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2290,
         ["kill_count"] = 10,
-        ["points"] = 9448.4,
+        ["points"] = 9448.52,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 16536,
@@ -34918,7 +34918,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8729,
         ["kill_count"] = 20,
-        ["points"] = 8424.15,
+        ["points"] = 8424.51,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3836,
@@ -34975,7 +34975,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2744,
         ["kill_count"] = 19,
-        ["points"] = 9377.22,
+        ["points"] = 9377.36,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8309,
@@ -35032,7 +35032,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3042,
         ["kill_count"] = 9,
-        ["points"] = 9333.85,
+        ["points"] = 9334.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7070,
@@ -35089,7 +35089,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3618,
         ["kill_count"] = 8,
-        ["points"] = 9233.76,
+        ["points"] = 9233.93,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9505,
@@ -35139,14 +35139,14 @@ UWULogsData[3][2] = {
         ["points"] = 8492.85,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8917,
+        ["rank_raids"] = 8918,
         ["kill_count"] = 35,
-        ["points"] = 8410.84,
+        ["points"] = 8409.84,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4959,
         ["kill_count"] = 35,
-        ["points"] = 9016.9,
+        ["points"] = 9017.12,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1019,
@@ -35203,7 +35203,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1290,
         ["kill_count"] = 5,
-        ["points"] = 9640.79,
+        ["points"] = 9640.87,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5689,
@@ -35253,14 +35253,14 @@ UWULogsData[3][2] = {
         ["points"] = 9274.93,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8113,
+        ["rank_raids"] = 8114,
         ["kill_count"] = 12,
-        ["points"] = 8510.85,
+        ["points"] = 8509.85,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6390,
         ["kill_count"] = 11,
-        ["points"] = 8801.16,
+        ["points"] = 8801.42,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3521,
@@ -35310,14 +35310,14 @@ UWULogsData[3][2] = {
         ["points"] = 9780.98,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 20882,
+        ["rank_raids"] = 20883,
         ["kill_count"] = 1,
         ["points"] = 7009.98,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 455,
         ["kill_count"] = 1,
-        ["points"] = 9835.41,
+        ["points"] = 9835.45,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 45,
@@ -35374,7 +35374,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8019,
         ["kill_count"] = 10,
-        ["points"] = 8552.05,
+        ["points"] = 8552.37,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5524,
@@ -35431,7 +35431,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1221,
         ["kill_count"] = 13,
-        ["points"] = 9655.25,
+        ["points"] = 9655.33,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2401,
@@ -35488,7 +35488,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8471,
         ["kill_count"] = 6,
-        ["points"] = 8459.74,
+        ["points"] = 8460.08,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5306,
@@ -35545,7 +35545,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3868,
         ["kill_count"] = 32,
-        ["points"] = 9190.39,
+        ["points"] = 9190.57,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4506,
@@ -35602,7 +35602,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 292,
         ["kill_count"] = 5,
-        ["points"] = 9888.79,
+        ["points"] = 9888.81,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 160,
@@ -35659,7 +35659,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6500,
         ["kill_count"] = 2,
-        ["points"] = 8784.48,
+        ["points"] = 8784.75,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6116,
@@ -35716,7 +35716,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3431,
         ["kill_count"] = 42,
-        ["points"] = 9261.57,
+        ["points"] = 9261.73,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1533,
@@ -35773,7 +35773,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4340,
         ["kill_count"] = 34,
-        ["points"] = 9116.99,
+        ["points"] = 9117.19,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6653,
@@ -35830,7 +35830,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7946,
         ["kill_count"] = 34,
-        ["points"] = 8560.94,
+        ["points"] = 8561.26,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1119,
@@ -35880,14 +35880,14 @@ UWULogsData[3][2] = {
         ["points"] = 8572.86,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9343,
+        ["rank_raids"] = 9344,
         ["kill_count"] = 15,
-        ["points"] = 8328.83,
+        ["points"] = 8327.83,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3417,
         ["kill_count"] = 14,
-        ["points"] = 9266.01,
+        ["points"] = 9266.18,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2026,
@@ -35944,7 +35944,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1700,
         ["kill_count"] = 9,
-        ["points"] = 9565.17,
+        ["points"] = 9565.27,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 13824,
@@ -36001,7 +36001,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 11539,
         ["kill_count"] = 28,
-        ["points"] = 8004.89,
+        ["points"] = 8005.34,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3930,
@@ -36058,7 +36058,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 649,
         ["kill_count"] = 24,
-        ["points"] = 9800.93,
+        ["points"] = 9800.98,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5700,
@@ -36108,14 +36108,14 @@ UWULogsData[3][2] = {
         ["points"] = 9722.97,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7759,
+        ["rank_raids"] = 7760,
         ["kill_count"] = 4,
-        ["points"] = 8563.86,
+        ["points"] = 8562.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4900,
         ["kill_count"] = 4,
-        ["points"] = 9030.25,
+        ["points"] = 9030.46,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 520,
@@ -36172,7 +36172,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1426,
         ["kill_count"] = 29,
-        ["points"] = 9610.77,
+        ["points"] = 9610.85,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2255,
@@ -36229,7 +36229,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3216,
         ["kill_count"] = 43,
-        ["points"] = 9307.16,
+        ["points"] = 9307.32,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2727,
@@ -36286,7 +36286,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3653,
         ["kill_count"] = 25,
-        ["points"] = 9227.09,
+        ["points"] = 9227.26,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1790,
@@ -36336,14 +36336,14 @@ UWULogsData[3][2] = {
         ["points"] = 9161.92,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9167,
+        ["rank_raids"] = 9168,
         ["kill_count"] = 7,
-        ["points"] = 8369.84,
+        ["points"] = 8368.84,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2883,
         ["kill_count"] = 7,
-        ["points"] = 9356.09,
+        ["points"] = 9356.24,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5855,
@@ -36400,7 +36400,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5191,
         ["kill_count"] = 42,
-        ["points"] = 8984.65,
+        ["points"] = 8984.88,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2342,
@@ -36425,7 +36425,7 @@ UWULogsData[3][2] = {
     },
   },
   ["Nymzi"] = {
-    ["percentile"] = 90.69,
+    ["percentile"] = 90.68,
     ["server"] = "Icecrown",
     ["overall_rank"] = 643,
     ["bosses"] = {
@@ -36450,14 +36450,14 @@ UWULogsData[3][2] = {
         ["points"] = 9095.91,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8330,
+        ["rank_raids"] = 8331,
         ["kill_count"] = 25,
-        ["points"] = 8483.85,
+        ["points"] = 8482.85,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 369,
         ["kill_count"] = 25,
-        ["points"] = 9863.21,
+        ["points"] = 9863.24,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 188,
@@ -36514,7 +36514,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6688,
         ["kill_count"] = 12,
-        ["points"] = 8757.78,
+        ["points"] = 8758.06,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3076,
@@ -36571,7 +36571,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7102,
         ["kill_count"] = 28,
-        ["points"] = 8693.28,
+        ["points"] = 8693.57,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5701,
@@ -36628,7 +36628,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6875,
         ["kill_count"] = 9,
-        ["points"] = 8729.98,
+        ["points"] = 8730.26,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3016,
@@ -36678,14 +36678,14 @@ UWULogsData[3][2] = {
         ["points"] = 9352.94,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 12239,
+        ["rank_raids"] = 12240,
         ["kill_count"] = 6,
-        ["points"] = 7916.79,
+        ["points"] = 7915.79,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1407,
         ["kill_count"] = 6,
-        ["points"] = 9616.33,
+        ["points"] = 9616.41,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4977,
@@ -36735,14 +36735,14 @@ UWULogsData[3][2] = {
         ["points"] = 9242.92,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9899,
+        ["rank_raids"] = 9900,
         ["kill_count"] = 6,
-        ["points"] = 8248.82,
+        ["points"] = 8247.82,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5485,
         ["kill_count"] = 6,
-        ["points"] = 8936.83,
+        ["points"] = 8937.07,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4409,
@@ -36799,7 +36799,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2732,
         ["kill_count"] = 17,
-        ["points"] = 9381.67,
+        ["points"] = 9381.81,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 12366,
@@ -36849,14 +36849,14 @@ UWULogsData[3][2] = {
         ["points"] = 9517.95,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8065,
+        ["rank_raids"] = 8066,
         ["kill_count"] = 11,
-        ["points"] = 8516.85,
+        ["points"] = 8515.85,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1176,
         ["kill_count"] = 9,
-        ["points"] = 9668.59,
+        ["points"] = 9668.67,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6013,
@@ -36906,14 +36906,14 @@ UWULogsData[3][2] = {
         ["points"] = 8334.83,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7084,
+        ["rank_raids"] = 7085,
         ["kill_count"] = 13,
-        ["points"] = 8648.86,
+        ["points"] = 8647.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2752,
         ["kill_count"] = 14,
-        ["points"] = 9376.11,
+        ["points"] = 9376.25,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6324,
@@ -36970,7 +36970,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7410,
         ["kill_count"] = 47,
-        ["points"] = 8651.02,
+        ["points"] = 8651.32,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 707,
@@ -37027,7 +37027,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2890,
         ["kill_count"] = 53,
-        ["points"] = 9353.87,
+        ["points"] = 9354.01,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4310,
@@ -37084,7 +37084,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4930,
         ["kill_count"] = 31,
-        ["points"] = 9024.69,
+        ["points"] = 9024.91,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2997,
@@ -37134,14 +37134,14 @@ UWULogsData[3][2] = {
         ["points"] = 8827.88,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 19699,
+        ["rank_raids"] = 19700,
         ["kill_count"] = 9,
         ["points"] = 7058.71,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2373,
         ["kill_count"] = 7,
-        ["points"] = 9437.28,
+        ["points"] = 9437.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3155,
@@ -37198,7 +37198,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1236,
         ["kill_count"] = 21,
-        ["points"] = 9651.91,
+        ["points"] = 9651.99,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1903,
@@ -37255,7 +37255,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1978,
         ["kill_count"] = 5,
-        ["points"] = 9505.12,
+        ["points"] = 9505.23,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2895,
@@ -37312,7 +37312,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1897,
         ["kill_count"] = 19,
-        ["points"] = 9522.91,
+        ["points"] = 9523.02,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3605,
@@ -37369,7 +37369,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4485,
         ["kill_count"] = 6,
-        ["points"] = 9095.86,
+        ["points"] = 9096.06,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 12414,
@@ -37426,7 +37426,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4066,
         ["kill_count"] = 9,
-        ["points"] = 9154.8,
+        ["points"] = 9154.99,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1266,
@@ -37476,14 +37476,14 @@ UWULogsData[3][2] = {
         ["points"] = 9419.94,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8973,
+        ["rank_raids"] = 8974,
         ["kill_count"] = 4,
-        ["points"] = 8400.84,
+        ["points"] = 8399.84,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1648,
         ["kill_count"] = 2,
-        ["points"] = 9576.29,
+        ["points"] = 9576.38,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3197,
@@ -37540,7 +37540,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 387,
         ["kill_count"] = 17,
-        ["points"] = 9855.43,
+        ["points"] = 9855.46,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5004,
@@ -37597,7 +37597,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3086,
         ["kill_count"] = 11,
-        ["points"] = 9329.4,
+        ["points"] = 9329.55,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1924,
@@ -37654,7 +37654,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3220,
         ["kill_count"] = 11,
-        ["points"] = 9304.94,
+        ["points"] = 9305.09,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3148,
@@ -37711,7 +37711,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3429,
         ["kill_count"] = 11,
-        ["points"] = 9262.68,
+        ["points"] = 9262.84,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1210,
@@ -37768,7 +37768,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5748,
         ["kill_count"] = 37,
-        ["points"] = 8890.12,
+        ["points"] = 8890.37,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4229,
@@ -37793,7 +37793,7 @@ UWULogsData[3][2] = {
     },
   },
   ["Midnithg"] = {
-    ["percentile"] = 90.34,
+    ["percentile"] = 90.33,
     ["server"] = "Icecrown",
     ["overall_rank"] = 667,
     ["bosses"] = {
@@ -37818,14 +37818,14 @@ UWULogsData[3][2] = {
         ["points"] = 9541.95,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 12416,
+        ["rank_raids"] = 12417,
         ["kill_count"] = 32,
-        ["points"] = 7891.79,
+        ["points"] = 7890.79,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5037,
         ["kill_count"] = 32,
-        ["points"] = 9008.01,
+        ["points"] = 9008.23,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2459,
@@ -37882,7 +37882,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1974,
         ["kill_count"] = 16,
-        ["points"] = 9507.34,
+        ["points"] = 9507.45,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9124,
@@ -37939,7 +37939,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3046,
         ["kill_count"] = 20,
-        ["points"] = 9332.74,
+        ["points"] = 9332.89,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9817,
@@ -37996,7 +37996,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 9700,
         ["kill_count"] = 9,
-        ["points"] = 8280.69,
+        ["points"] = 8281.08,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1330,
@@ -38053,7 +38053,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3914,
         ["kill_count"] = 19,
-        ["points"] = 9183.72,
+        ["points"] = 9183.9,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4978,
@@ -38110,7 +38110,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 10046,
         ["kill_count"] = 8,
-        ["points"] = 8230.65,
+        ["points"] = 8231.04,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2881,
@@ -38167,7 +38167,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2284,
         ["kill_count"] = 11,
-        ["points"] = 9449.51,
+        ["points"] = 9449.63,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3876,
@@ -38224,7 +38224,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 916,
         ["kill_count"] = 24,
-        ["points"] = 9734.21,
+        ["points"] = 9734.27,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1101,
@@ -38281,7 +38281,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3993,
         ["kill_count"] = 10,
-        ["points"] = 9172.6,
+        ["points"] = 9172.78,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4654,
@@ -38331,14 +38331,14 @@ UWULogsData[3][2] = {
         ["points"] = 9357.94,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9306,
+        ["rank_raids"] = 9307,
         ["kill_count"] = 7,
-        ["points"] = 8342.83,
+        ["points"] = 8341.83,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3881,
         ["kill_count"] = 10,
-        ["points"] = 9187.06,
+        ["points"] = 9187.24,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 12141,
@@ -38395,7 +38395,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2538,
         ["kill_count"] = 6,
-        ["points"] = 9407.25,
+        ["points"] = 9407.38,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7315,
@@ -38452,7 +38452,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4177,
         ["kill_count"] = 11,
-        ["points"] = 9141.46,
+        ["points"] = 9141.65,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6076,
@@ -38509,7 +38509,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1199,
         ["kill_count"] = 25,
-        ["points"] = 9661.92,
+        ["points"] = 9662.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2782,
@@ -38566,7 +38566,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1656,
         ["kill_count"] = 10,
-        ["points"] = 9574.07,
+        ["points"] = 9574.16,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5041,
@@ -38584,7 +38584,7 @@ UWULogsData[3][2] = {
         ["points"] = 9802.39,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 17145,
+        ["rank_raids"] = 17146,
         ["kill_count"] = 7,
         ["points"] = 6738.71,
       },
@@ -38623,7 +38623,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2555,
         ["kill_count"] = 6,
-        ["points"] = 9405.03,
+        ["points"] = 9405.16,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 11361,
@@ -38680,7 +38680,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4764,
         ["kill_count"] = 18,
-        ["points"] = 9052.49,
+        ["points"] = 9052.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3463,
@@ -38737,7 +38737,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6023,
         ["kill_count"] = 49,
-        ["points"] = 8852.31,
+        ["points"] = 8852.57,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6216,
@@ -38794,7 +38794,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5943,
         ["kill_count"] = 31,
-        ["points"] = 8861.21,
+        ["points"] = 8861.46,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4911,
@@ -38851,7 +38851,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3541,
         ["kill_count"] = 36,
-        ["points"] = 9242.66,
+        ["points"] = 9242.83,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 690,
@@ -38908,7 +38908,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5989,
         ["kill_count"] = 16,
-        ["points"] = 8857.87,
+        ["points"] = 8858.13,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2508,
@@ -38965,7 +38965,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 9201,
         ["kill_count"] = 10,
-        ["points"] = 8354.09,
+        ["points"] = 8354.46,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4796,
@@ -39022,7 +39022,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4030,
         ["kill_count"] = 7,
-        ["points"] = 9163.7,
+        ["points"] = 9163.89,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1754,
@@ -39079,7 +39079,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2198,
         ["kill_count"] = 10,
-        ["points"] = 9466.19,
+        ["points"] = 9466.31,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9289,
@@ -39129,14 +39129,14 @@ UWULogsData[3][2] = {
         ["points"] = 8185.82,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7882,
+        ["rank_raids"] = 7883,
         ["kill_count"] = 40,
-        ["points"] = 8546.85,
+        ["points"] = 8545.85,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5796,
         ["kill_count"] = 28,
-        ["points"] = 8880.12,
+        ["points"] = 8880.36,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 898,
@@ -39160,67 +39160,10 @@ UWULogsData[3][2] = {
       },
     },
   },
-  ["Nopse"] = {
-    ["percentile"] = 89.98,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 691,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9946,
-        ["kill_count"] = 30,
-        ["points"] = 7838.78,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 1048,
-        ["kill_count"] = 29,
-        ["points"] = 9571.43,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6328,
-        ["kill_count"] = 33,
-        ["points"] = 8699.87,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 5815,
-        ["kill_count"] = 33,
-        ["points"] = 8802.88,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 7644,
-        ["kill_count"] = 32,
-        ["points"] = 8578.86,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 1733,
-        ["kill_count"] = 34,
-        ["points"] = 9554.05,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 968,
-        ["kill_count"] = 34,
-        ["points"] = 9683.97,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1451,
-        ["kill_count"] = 34,
-        ["points"] = 9488.95,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 4590,
-        ["kill_count"] = 35,
-        ["points"] = 8699.84,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 4237,
-        ["kill_count"] = 37,
-        ["points"] = 8982.79,
-      },
-    },
-  },
   ["Croonos"] = {
     ["percentile"] = 89.98,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 692,
+    ["overall_rank"] = 691,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2327,
@@ -39250,7 +39193,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3178,
         ["kill_count"] = 20,
-        ["points"] = 9312.72,
+        ["points"] = 9312.88,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4520,
@@ -39271,6 +39214,63 @@ UWULogsData[3][2] = {
         ["rank_raids"] = 5375,
         ["kill_count"] = 19,
         ["points"] = 8729.13,
+      },
+    },
+  },
+  ["Nopse"] = {
+    ["percentile"] = 89.98,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 692,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 9946,
+        ["kill_count"] = 30,
+        ["points"] = 7838.78,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 1048,
+        ["kill_count"] = 29,
+        ["points"] = 9571.43,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 6328,
+        ["kill_count"] = 33,
+        ["points"] = 8699.87,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 5815,
+        ["kill_count"] = 33,
+        ["points"] = 8802.88,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 7645,
+        ["kill_count"] = 32,
+        ["points"] = 8577.86,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 1733,
+        ["kill_count"] = 34,
+        ["points"] = 9554.15,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 968,
+        ["kill_count"] = 34,
+        ["points"] = 9683.97,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 1451,
+        ["kill_count"] = 34,
+        ["points"] = 9488.95,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 4590,
+        ["kill_count"] = 35,
+        ["points"] = 8699.84,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 4237,
+        ["kill_count"] = 37,
+        ["points"] = 8982.79,
       },
     },
   },
@@ -39307,7 +39307,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5188,
         ["kill_count"] = 13,
-        ["points"] = 8985.77,
+        ["points"] = 8985.99,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5519,
@@ -39364,7 +39364,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4580,
         ["kill_count"] = 11,
-        ["points"] = 9081.41,
+        ["points"] = 9081.61,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 806,
@@ -39421,7 +39421,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6409,
         ["kill_count"] = 23,
-        ["points"] = 8797.82,
+        ["points"] = 8798.09,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6799,
@@ -39478,7 +39478,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8509,
         ["kill_count"] = 21,
-        ["points"] = 8450.85,
+        ["points"] = 8451.19,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6630,
@@ -39535,7 +39535,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 9150,
         ["kill_count"] = 32,
-        ["points"] = 8360.77,
+        ["points"] = 8361.13,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2477,
@@ -39585,14 +39585,14 @@ UWULogsData[3][2] = {
         ["points"] = 9399.94,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 11149,
+        ["rank_raids"] = 11150,
         ["kill_count"] = 29,
-        ["points"] = 8060.81,
+        ["points"] = 8059.81,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5075,
         ["kill_count"] = 26,
-        ["points"] = 9001.33,
+        ["points"] = 9001.56,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1673,
@@ -39617,7 +39617,7 @@ UWULogsData[3][2] = {
     },
   },
   ["Obuchad"] = {
-    ["percentile"] = 89.88,
+    ["percentile"] = 89.87,
     ["server"] = "Icecrown",
     ["overall_rank"] = 699,
     ["bosses"] = {
@@ -39642,14 +39642,14 @@ UWULogsData[3][2] = {
         ["points"] = 8780.88,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7894,
+        ["rank_raids"] = 7895,
         ["kill_count"] = 23,
-        ["points"] = 8543.85,
+        ["points"] = 8542.85,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1403,
         ["kill_count"] = 21,
-        ["points"] = 9618.55,
+        ["points"] = 9618.63,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4710,
@@ -39706,7 +39706,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 13166,
         ["kill_count"] = 21,
-        ["points"] = 7766.9,
+        ["points"] = 7767.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3567,
@@ -39763,7 +39763,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1549,
         ["kill_count"] = 16,
-        ["points"] = 9591.86,
+        ["points"] = 9591.95,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4575,
@@ -39787,67 +39787,10 @@ UWULogsData[3][2] = {
       },
     },
   },
-  ["Legimos"] = {
-    ["percentile"] = 89.84,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 702,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 4486,
-        ["kill_count"] = 9,
-        ["points"] = 8833.88,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 1603,
-        ["kill_count"] = 8,
-        ["points"] = 9397.36,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4680,
-        ["kill_count"] = 8,
-        ["points"] = 8948.89,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 4486,
-        ["kill_count"] = 11,
-        ["points"] = 9014.9,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 7564,
-        ["kill_count"] = 11,
-        ["points"] = 8586.86,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 2532,
-        ["kill_count"] = 12,
-        ["points"] = 9408.36,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 5752,
-        ["kill_count"] = 11,
-        ["points"] = 8836.88,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1310,
-        ["kill_count"] = 10,
-        ["points"] = 9538.95,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 7404,
-        ["kill_count"] = 8,
-        ["points"] = 8115.44,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 3775,
-        ["kill_count"] = 12,
-        ["points"] = 9075.97,
-      },
-    },
-  },
   ["Phoenixmira"] = {
     ["percentile"] = 89.84,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 703,
+    ["overall_rank"] = 702,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 179,
@@ -39877,7 +39820,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6313,
         ["kill_count"] = 19,
-        ["points"] = 8810.05,
+        ["points"] = 8810.32,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5404,
@@ -39898,6 +39841,63 @@ UWULogsData[3][2] = {
         ["rank_raids"] = 4678,
         ["kill_count"] = 16,
         ["points"] = 8884.43,
+      },
+    },
+  },
+  ["Legimos"] = {
+    ["percentile"] = 89.84,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 703,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 4486,
+        ["kill_count"] = 9,
+        ["points"] = 8833.88,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 1603,
+        ["kill_count"] = 8,
+        ["points"] = 9397.36,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 4680,
+        ["kill_count"] = 8,
+        ["points"] = 8948.89,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 4486,
+        ["kill_count"] = 11,
+        ["points"] = 9014.9,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 7565,
+        ["kill_count"] = 11,
+        ["points"] = 8585.86,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 2532,
+        ["kill_count"] = 12,
+        ["points"] = 9408.49,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 5752,
+        ["kill_count"] = 11,
+        ["points"] = 8836.88,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 1310,
+        ["kill_count"] = 10,
+        ["points"] = 9538.95,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 7404,
+        ["kill_count"] = 8,
+        ["points"] = 8115.44,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 3775,
+        ["kill_count"] = 12,
+        ["points"] = 9075.97,
       },
     },
   },
@@ -39934,7 +39934,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5634,
         ["kill_count"] = 77,
-        ["points"] = 8911.25,
+        ["points"] = 8911.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1241,
@@ -39991,7 +39991,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 11825,
         ["kill_count"] = 16,
-        ["points"] = 7960.41,
+        ["points"] = 7960.86,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2277,
@@ -40048,7 +40048,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7391,
         ["kill_count"] = 19,
-        ["points"] = 8653.25,
+        ["points"] = 8653.55,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7789,
@@ -40105,7 +40105,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 9837,
         ["kill_count"] = 23,
-        ["points"] = 8265.12,
+        ["points"] = 8265.51,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1783,
@@ -40162,7 +40162,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 703,
         ["kill_count"] = 4,
-        ["points"] = 9787.59,
+        ["points"] = 9787.64,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9713,
@@ -40219,7 +40219,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4491,
         ["kill_count"] = 37,
-        ["points"] = 9094.75,
+        ["points"] = 9094.95,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3067,
@@ -40232,7 +40232,7 @@ UWULogsData[3][2] = {
         ["points"] = 9448.94,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 24186,
+        ["rank_raids"] = 24187,
         ["kill_count"] = 30,
         ["points"] = 5245.88,
       },
@@ -40276,7 +40276,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2602,
         ["kill_count"] = 40,
-        ["points"] = 9398.35,
+        ["points"] = 9398.49,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 568,
@@ -40333,7 +40333,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4123,
         ["kill_count"] = 15,
-        ["points"] = 9147.02,
+        ["points"] = 9147.21,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6868,
@@ -40390,7 +40390,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3247,
         ["kill_count"] = 11,
-        ["points"] = 9298.27,
+        ["points"] = 9298.42,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 11503,
@@ -40440,14 +40440,14 @@ UWULogsData[3][2] = {
         ["points"] = 9498.95,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 11801,
+        ["rank_raids"] = 11802,
         ["kill_count"] = 27,
-        ["points"] = 7967.8,
+        ["points"] = 7966.8,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2717,
         ["kill_count"] = 24,
-        ["points"] = 9383.9,
+        ["points"] = 9384.03,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3045,
@@ -40504,7 +40504,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1104,
         ["kill_count"] = 2,
-        ["points"] = 9691.95,
+        ["points"] = 9692.02,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 410,
@@ -40554,14 +40554,14 @@ UWULogsData[3][2] = {
         ["points"] = 8917.89,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9372,
+        ["rank_raids"] = 9373,
         ["kill_count"] = 28,
-        ["points"] = 8324.83,
+        ["points"] = 8323.83,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2211,
         ["kill_count"] = 30,
-        ["points"] = 9462.86,
+        ["points"] = 9462.98,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6977,
@@ -40585,67 +40585,10 @@ UWULogsData[3][2] = {
       },
     },
   },
-  ["Banzhee"] = {
-    ["percentile"] = 89.67,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 716,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 1987,
-        ["kill_count"] = 48,
-        ["points"] = 9409.94,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 3779,
-        ["kill_count"] = 41,
-        ["points"] = 8839.14,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5537,
-        ["kill_count"] = 47,
-        ["points"] = 8811.88,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 558,
-        ["kill_count"] = 45,
-        ["points"] = 9810.98,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 5666,
-        ["kill_count"] = 45,
-        ["points"] = 8860.89,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 3410,
-        ["kill_count"] = 40,
-        ["points"] = 9267.13,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 181,
-        ["kill_count"] = 45,
-        ["points"] = 9914.99,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 12817,
-        ["kill_count"] = 44,
-        ["points"] = 6949.69,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 493,
-        ["kill_count"] = 39,
-        ["points"] = 9789.13,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 9931,
-        ["kill_count"] = 43,
-        ["points"] = 7937.1,
-      },
-    },
-  },
   ["Rozzalina"] = {
     ["percentile"] = 89.67,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 717,
+    ["overall_rank"] = 716,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1792,
@@ -40675,7 +40618,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4312,
         ["kill_count"] = 13,
-        ["points"] = 9123.67,
+        ["points"] = 9123.86,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2583,
@@ -40696,6 +40639,63 @@ UWULogsData[3][2] = {
         ["rank_raids"] = 4129,
         ["kill_count"] = 10,
         ["points"] = 9006.08,
+      },
+    },
+  },
+  ["Banzhee"] = {
+    ["percentile"] = 89.67,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 717,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 1987,
+        ["kill_count"] = 48,
+        ["points"] = 9409.94,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 3779,
+        ["kill_count"] = 41,
+        ["points"] = 8839.14,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 5537,
+        ["kill_count"] = 47,
+        ["points"] = 8811.88,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 558,
+        ["kill_count"] = 45,
+        ["points"] = 9810.98,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 5666,
+        ["kill_count"] = 45,
+        ["points"] = 8860.89,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 3410,
+        ["kill_count"] = 40,
+        ["points"] = 9267.29,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 181,
+        ["kill_count"] = 45,
+        ["points"] = 9914.99,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 12817,
+        ["kill_count"] = 44,
+        ["points"] = 6949.69,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 493,
+        ["kill_count"] = 39,
+        ["points"] = 9789.13,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 9931,
+        ["kill_count"] = 43,
+        ["points"] = 7937.1,
       },
     },
   },
@@ -40725,14 +40725,14 @@ UWULogsData[3][2] = {
         ["points"] = 8109.81,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 10833,
+        ["rank_raids"] = 10834,
         ["kill_count"] = 29,
-        ["points"] = 8117.81,
+        ["points"] = 8116.81,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5231,
         ["kill_count"] = 30,
-        ["points"] = 8977.98,
+        ["points"] = 8978.21,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3579,
@@ -40789,7 +40789,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 793,
         ["kill_count"] = 6,
-        ["points"] = 9769.8,
+        ["points"] = 9769.85,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2620,
@@ -40807,7 +40807,7 @@ UWULogsData[3][2] = {
         ["points"] = 8813.11,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 36985,
+        ["rank_raids"] = 36988,
         ["kill_count"] = 2,
         ["points"] = 5347.75,
       },
@@ -40839,14 +40839,14 @@ UWULogsData[3][2] = {
         ["points"] = 9710.97,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 14148,
+        ["rank_raids"] = 14149,
         ["kill_count"] = 9,
-        ["points"] = 7671.77,
+        ["points"] = 7670.77,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7587,
         ["kill_count"] = 7,
-        ["points"] = 8627.67,
+        ["points"] = 8627.97,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1488,
@@ -40870,67 +40870,10 @@ UWULogsData[3][2] = {
       },
     },
   },
-  ["Riparpewpew"] = {
-    ["percentile"] = 89.6,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 721,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 884,
-        ["kill_count"] = 26,
-        ["points"] = 9704.97,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 4289,
-        ["kill_count"] = 24,
-        ["points"] = 8703.48,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5467,
-        ["kill_count"] = 26,
-        ["points"] = 8824.88,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 7449,
-        ["kill_count"] = 26,
-        ["points"] = 8526.85,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 9497,
-        ["kill_count"] = 26,
-        ["points"] = 8302.83,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 2893,
-        ["kill_count"] = 25,
-        ["points"] = 9352.76,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 5931,
-        ["kill_count"] = 26,
-        ["points"] = 8800.88,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1995,
-        ["kill_count"] = 26,
-        ["points"] = 9327.93,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 6849,
-        ["kill_count"] = 24,
-        ["points"] = 8221.47,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 730,
-        ["kill_count"] = 21,
-        ["points"] = 9752.81,
-      },
-    },
-  },
   ["Boncez"] = {
     ["percentile"] = 89.6,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 722,
+    ["overall_rank"] = 721,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 347,
@@ -40960,7 +40903,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4663,
         ["kill_count"] = 18,
-        ["points"] = 9071.4,
+        ["points"] = 9071.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5544,
@@ -40981,6 +40924,63 @@ UWULogsData[3][2] = {
         ["rank_raids"] = 2943,
         ["kill_count"] = 18,
         ["points"] = 9236.44,
+      },
+    },
+  },
+  ["Riparpewpew"] = {
+    ["percentile"] = 89.6,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 722,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 884,
+        ["kill_count"] = 26,
+        ["points"] = 9704.97,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 4289,
+        ["kill_count"] = 24,
+        ["points"] = 8703.48,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 5467,
+        ["kill_count"] = 26,
+        ["points"] = 8824.88,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 7449,
+        ["kill_count"] = 26,
+        ["points"] = 8526.85,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 9498,
+        ["kill_count"] = 26,
+        ["points"] = 8301.83,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 2893,
+        ["kill_count"] = 25,
+        ["points"] = 9352.9,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 5931,
+        ["kill_count"] = 26,
+        ["points"] = 8800.88,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 1995,
+        ["kill_count"] = 26,
+        ["points"] = 9327.93,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 6849,
+        ["kill_count"] = 24,
+        ["points"] = 8221.47,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 730,
+        ["kill_count"] = 21,
+        ["points"] = 9752.81,
       },
     },
   },
@@ -41010,14 +41010,14 @@ UWULogsData[3][2] = {
         ["points"] = 9081.91,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7231,
+        ["rank_raids"] = 7232,
         ["kill_count"] = 17,
-        ["points"] = 8627.86,
+        ["points"] = 8626.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2526,
         ["kill_count"] = 18,
-        ["points"] = 9409.48,
+        ["points"] = 9409.61,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 15289,
@@ -41074,7 +41074,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4853,
         ["kill_count"] = 12,
-        ["points"] = 9035.81,
+        ["points"] = 9036.02,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7482,
@@ -41124,14 +41124,14 @@ UWULogsData[3][2] = {
         ["points"] = 9391.94,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 10443,
+        ["rank_raids"] = 10444,
         ["kill_count"] = 11,
-        ["points"] = 8165.82,
+        ["points"] = 8164.82,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7153,
         ["kill_count"] = 12,
-        ["points"] = 8684.39,
+        ["points"] = 8684.68,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2836,
@@ -41188,7 +41188,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4519,
         ["kill_count"] = 11,
-        ["points"] = 9093.64,
+        ["points"] = 9093.84,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1271,
@@ -41245,7 +41245,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6649,
         ["kill_count"] = 33,
-        ["points"] = 8770.02,
+        ["points"] = 8770.29,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6025,
@@ -41302,7 +41302,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6647,
         ["kill_count"] = 27,
-        ["points"] = 8771.13,
+        ["points"] = 8771.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7089,
@@ -41352,14 +41352,14 @@ UWULogsData[3][2] = {
         ["points"] = 8893.89,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8668,
+        ["rank_raids"] = 8669,
         ["kill_count"] = 21,
-        ["points"] = 8440.84,
+        ["points"] = 8439.84,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 9130,
         ["kill_count"] = 20,
-        ["points"] = 8364.1,
+        ["points"] = 8364.47,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4790,
@@ -41416,7 +41416,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4045,
         ["kill_count"] = 10,
-        ["points"] = 9160.36,
+        ["points"] = 9160.55,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6506,
@@ -41473,7 +41473,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1567,
         ["kill_count"] = 14,
-        ["points"] = 9589.64,
+        ["points"] = 9589.73,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5834,
@@ -41530,7 +41530,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5722,
         ["kill_count"] = 36,
-        ["points"] = 8891.24,
+        ["points"] = 8891.48,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4675,
@@ -41580,14 +41580,14 @@ UWULogsData[3][2] = {
         ["points"] = 8602.86,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7439,
+        ["rank_raids"] = 7440,
         ["kill_count"] = 19,
-        ["points"] = 8602.86,
+        ["points"] = 8601.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 8176,
         ["kill_count"] = 14,
-        ["points"] = 8523.13,
+        ["points"] = 8523.46,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3702,
@@ -41644,7 +41644,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1261,
         ["kill_count"] = 7,
-        ["points"] = 9647.46,
+        ["points"] = 9647.54,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4014,
@@ -41701,7 +41701,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7476,
         ["kill_count"] = 19,
-        ["points"] = 8645.46,
+        ["points"] = 8645.76,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 14061,
@@ -41758,7 +41758,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8760,
         ["kill_count"] = 24,
-        ["points"] = 8418.59,
+        ["points"] = 8418.95,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6585,
@@ -41815,7 +41815,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6456,
         ["kill_count"] = 9,
-        ["points"] = 8790.04,
+        ["points"] = 8790.3,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2409,
@@ -41872,7 +41872,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6264,
         ["kill_count"] = 16,
-        ["points"] = 8815.61,
+        ["points"] = 8815.88,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8619,
@@ -41929,7 +41929,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4464,
         ["kill_count"] = 24,
-        ["points"] = 9098.09,
+        ["points"] = 9098.29,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3010,
@@ -41986,7 +41986,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5262,
         ["kill_count"] = 4,
-        ["points"] = 8971.31,
+        ["points"] = 8971.54,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6610,
@@ -42036,14 +42036,14 @@ UWULogsData[3][2] = {
         ["points"] = 9400.94,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8923,
+        ["rank_raids"] = 8924,
         ["kill_count"] = 18,
-        ["points"] = 8407.84,
+        ["points"] = 8406.84,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3498,
         ["kill_count"] = 17,
-        ["points"] = 9250.44,
+        ["points"] = 9250.61,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1785,
@@ -42100,7 +42100,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2711,
         ["kill_count"] = 10,
-        ["points"] = 9385.01,
+        ["points"] = 9385.15,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 250,
@@ -42157,7 +42157,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2735,
         ["kill_count"] = 17,
-        ["points"] = 9380.56,
+        ["points"] = 9380.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2503,
@@ -42165,9 +42165,9 @@ UWULogsData[3][2] = {
         ["points"] = 9353.94,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 25777,
+        ["rank_raids"] = 25778,
         ["kill_count"] = 16,
-        ["points"] = 4973.3,
+        ["points"] = 4973.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4763,
@@ -42214,7 +42214,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3805,
         ["kill_count"] = 5,
-        ["points"] = 9198.18,
+        ["points"] = 9198.35,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4446,
@@ -42271,7 +42271,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3641,
         ["kill_count"] = 7,
-        ["points"] = 9229.31,
+        ["points"] = 9229.49,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2630,
@@ -42328,7 +42328,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1851,
         ["kill_count"] = 18,
-        ["points"] = 9532.92,
+        ["points"] = 9533.02,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1541,
@@ -42385,7 +42385,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3741,
         ["kill_count"] = 11,
-        ["points"] = 9212.63,
+        ["points"] = 9212.81,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1968,
@@ -42409,67 +42409,10 @@ UWULogsData[3][2] = {
       },
     },
   },
-  ["Stardmg"] = {
-    ["percentile"] = 89.24,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 748,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 368,
-        ["kill_count"] = 6,
-        ["points"] = 9846.98,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 8623,
-        ["kill_count"] = 8,
-        ["points"] = 7858.34,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2284,
-        ["kill_count"] = 10,
-        ["points"] = 9372.94,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 6406,
-        ["kill_count"] = 9,
-        ["points"] = 8696.87,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 14294,
-        ["kill_count"] = 9,
-        ["points"] = 7652.77,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 3908,
-        ["kill_count"] = 10,
-        ["points"] = 9185.94,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 2044,
-        ["kill_count"] = 10,
-        ["points"] = 9448.94,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6461,
-        ["kill_count"] = 10,
-        ["points"] = 8131.81,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 1729,
-        ["kill_count"] = 11,
-        ["points"] = 9405.95,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 1585,
-        ["kill_count"] = 10,
-        ["points"] = 9559.98,
-      },
-    },
-  },
   ["Weavdeeznutz"] = {
     ["percentile"] = 89.24,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 749,
+    ["overall_rank"] = 748,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 737,
@@ -42499,7 +42442,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3543,
         ["kill_count"] = 16,
-        ["points"] = 9241.55,
+        ["points"] = 9241.72,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7366,
@@ -42520,6 +42463,63 @@ UWULogsData[3][2] = {
         ["rank_raids"] = 1603,
         ["kill_count"] = 10,
         ["points"] = 9556.1,
+      },
+    },
+  },
+  ["Stardmg"] = {
+    ["percentile"] = 89.24,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 749,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 368,
+        ["kill_count"] = 6,
+        ["points"] = 9846.98,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 8623,
+        ["kill_count"] = 8,
+        ["points"] = 7858.34,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 2284,
+        ["kill_count"] = 10,
+        ["points"] = 9372.94,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 6406,
+        ["kill_count"] = 9,
+        ["points"] = 8696.87,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 14295,
+        ["kill_count"] = 9,
+        ["points"] = 7651.77,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 3908,
+        ["kill_count"] = 10,
+        ["points"] = 9186.12,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 2044,
+        ["kill_count"] = 10,
+        ["points"] = 9448.94,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 6461,
+        ["kill_count"] = 10,
+        ["points"] = 8131.81,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 1729,
+        ["kill_count"] = 11,
+        ["points"] = 9405.95,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 1585,
+        ["kill_count"] = 10,
+        ["points"] = 9559.98,
       },
     },
   },
@@ -42549,14 +42549,14 @@ UWULogsData[3][2] = {
         ["points"] = 9432.94,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 14043,
+        ["rank_raids"] = 14044,
         ["kill_count"] = 23,
-        ["points"] = 7687.77,
+        ["points"] = 7686.77,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3824,
         ["kill_count"] = 23,
-        ["points"] = 9195.95,
+        ["points"] = 9196.13,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6103,
@@ -42613,7 +42613,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 12509,
         ["kill_count"] = 11,
-        ["points"] = 7860.32,
+        ["points"] = 7860.8,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 10456,
@@ -42670,7 +42670,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5264,
         ["kill_count"] = 11,
-        ["points"] = 8970.2,
+        ["points"] = 8970.42,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2676,
@@ -42727,7 +42727,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6644,
         ["kill_count"] = 3,
-        ["points"] = 8772.24,
+        ["points"] = 8772.52,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 430,
@@ -42784,7 +42784,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3206,
         ["kill_count"] = 21,
-        ["points"] = 9309.39,
+        ["points"] = 9309.54,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3527,
@@ -42808,67 +42808,10 @@ UWULogsData[3][2] = {
       },
     },
   },
-  ["Loser"] = {
-    ["percentile"] = 89.19,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 755,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 1943,
-        ["kill_count"] = 14,
-        ["points"] = 9417.94,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 8818,
-        ["kill_count"] = 14,
-        ["points"] = 7823.53,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 172,
-        ["kill_count"] = 15,
-        ["points"] = 9914.99,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 5311,
-        ["kill_count"] = 13,
-        ["points"] = 8880.89,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 9334,
-        ["kill_count"] = 14,
-        ["points"] = 8332.83,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 4534,
-        ["kill_count"] = 14,
-        ["points"] = 9091.41,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 1634,
-        ["kill_count"] = 15,
-        ["points"] = 9542.95,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3082,
-        ["kill_count"] = 15,
-        ["points"] = 9014.9,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 8487,
-        ["kill_count"] = 14,
-        ["points"] = 7903.36,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 3198,
-        ["kill_count"] = 11,
-        ["points"] = 9182.09,
-      },
-    },
-  },
   ["Critoris"] = {
     ["percentile"] = 89.19,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 756,
+    ["overall_rank"] = 755,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1608,
@@ -42898,7 +42841,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5214,
         ["kill_count"] = 27,
-        ["points"] = 8981.32,
+        ["points"] = 8981.54,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7104,
@@ -42919,6 +42862,63 @@ UWULogsData[3][2] = {
         ["rank_raids"] = 8281,
         ["kill_count"] = 24,
         ["points"] = 8223.11,
+      },
+    },
+  },
+  ["Loser"] = {
+    ["percentile"] = 89.18,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 756,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 1943,
+        ["kill_count"] = 14,
+        ["points"] = 9417.94,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 8818,
+        ["kill_count"] = 14,
+        ["points"] = 7823.53,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 172,
+        ["kill_count"] = 15,
+        ["points"] = 9914.99,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 5311,
+        ["kill_count"] = 13,
+        ["points"] = 8880.89,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 9335,
+        ["kill_count"] = 14,
+        ["points"] = 8331.83,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 4534,
+        ["kill_count"] = 14,
+        ["points"] = 9091.62,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 1634,
+        ["kill_count"] = 15,
+        ["points"] = 9542.95,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 3082,
+        ["kill_count"] = 15,
+        ["points"] = 9014.9,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 8487,
+        ["kill_count"] = 14,
+        ["points"] = 7903.36,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 3198,
+        ["kill_count"] = 11,
+        ["points"] = 9182.09,
       },
     },
   },
@@ -42955,7 +42955,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4595,
         ["kill_count"] = 31,
-        ["points"] = 9074.73,
+        ["points"] = 9074.94,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 12482,
@@ -42979,67 +42979,10 @@ UWULogsData[3][2] = {
       },
     },
   },
-  ["Aedrena"] = {
-    ["percentile"] = 89.14,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 758,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2117,
-        ["kill_count"] = 16,
-        ["points"] = 9371.94,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 1400,
-        ["kill_count"] = 14,
-        ["points"] = 9465.79,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6184,
-        ["kill_count"] = 16,
-        ["points"] = 8722.87,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 5117,
-        ["kill_count"] = 17,
-        ["points"] = 8914.89,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 2645,
-        ["kill_count"] = 17,
-        ["points"] = 9375.94,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 2924,
-        ["kill_count"] = 14,
-        ["points"] = 9350.53,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 4291,
-        ["kill_count"] = 17,
-        ["points"] = 9053.91,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 17074,
-        ["kill_count"] = 17,
-        ["points"] = 6130.61,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 1388,
-        ["kill_count"] = 15,
-        ["points"] = 9507.17,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 3280,
-        ["kill_count"] = 13,
-        ["points"] = 9165.26,
-      },
-    },
-  },
   ["Icck"] = {
     ["percentile"] = 89.14,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 759,
+    ["overall_rank"] = 758,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5995,
@@ -43069,7 +43012,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4954,
         ["kill_count"] = 33,
-        ["points"] = 9019.13,
+        ["points"] = 9019.35,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5921,
@@ -43090,6 +43033,63 @@ UWULogsData[3][2] = {
         ["rank_raids"] = 6430,
         ["kill_count"] = 30,
         ["points"] = 8533.71,
+      },
+    },
+  },
+  ["Aedrena"] = {
+    ["percentile"] = 89.14,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 759,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 2117,
+        ["kill_count"] = 16,
+        ["points"] = 9371.94,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 1400,
+        ["kill_count"] = 14,
+        ["points"] = 9465.79,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 6184,
+        ["kill_count"] = 16,
+        ["points"] = 8722.87,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 5117,
+        ["kill_count"] = 17,
+        ["points"] = 8914.89,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 2645,
+        ["kill_count"] = 17,
+        ["points"] = 9375.94,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 2924,
+        ["kill_count"] = 14,
+        ["points"] = 9350.68,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 4291,
+        ["kill_count"] = 17,
+        ["points"] = 9053.91,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 17074,
+        ["kill_count"] = 17,
+        ["points"] = 6130.61,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 1388,
+        ["kill_count"] = 15,
+        ["points"] = 9507.17,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 3280,
+        ["kill_count"] = 13,
+        ["points"] = 9165.26,
       },
     },
   },
@@ -43119,14 +43119,14 @@ UWULogsData[3][2] = {
         ["points"] = 8198.82,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9651,
+        ["rank_raids"] = 9652,
         ["kill_count"] = 42,
-        ["points"] = 8276.83,
+        ["points"] = 8275.83,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5293,
         ["kill_count"] = 31,
-        ["points"] = 8967.97,
+        ["points"] = 8968.2,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3679,
@@ -43183,7 +43183,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1764,
         ["kill_count"] = 19,
-        ["points"] = 9548.49,
+        ["points"] = 9548.59,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4480,
@@ -43240,7 +43240,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 9344,
         ["kill_count"] = 19,
-        ["points"] = 8331.85,
+        ["points"] = 8332.22,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2603,
@@ -43297,7 +43297,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6624,
         ["kill_count"] = 13,
-        ["points"] = 8775.58,
+        ["points"] = 8775.85,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 14242,
@@ -43321,67 +43321,10 @@ UWULogsData[3][2] = {
       },
     },
   },
-  ["Nazreh"] = {
-    ["percentile"] = 89.07,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 764,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 3267,
-        ["kill_count"] = 24,
-        ["points"] = 9097.91,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 1751,
-        ["kill_count"] = 21,
-        ["points"] = 9355.34,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6839,
-        ["kill_count"] = 25,
-        ["points"] = 8629.86,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 3625,
-        ["kill_count"] = 27,
-        ["points"] = 9196.92,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 11034,
-        ["kill_count"] = 27,
-        ["points"] = 8077.81,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 9958,
-        ["kill_count"] = 24,
-        ["points"] = 8240.66,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 5888,
-        ["kill_count"] = 26,
-        ["points"] = 8811.88,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2739,
-        ["kill_count"] = 27,
-        ["points"] = 9119.91,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 1629,
-        ["kill_count"] = 24,
-        ["points"] = 9436.08,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 4047,
-        ["kill_count"] = 24,
-        ["points"] = 9024.2,
-      },
-    },
-  },
   ["Shmydulf"] = {
     ["percentile"] = 89.07,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 765,
+    ["overall_rank"] = 764,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4706,
@@ -43411,7 +43354,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6245,
         ["kill_count"] = 14,
-        ["points"] = 8821.17,
+        ["points"] = 8821.44,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2307,
@@ -43432,6 +43375,63 @@ UWULogsData[3][2] = {
         ["rank_raids"] = 3073,
         ["kill_count"] = 15,
         ["points"] = 9198.91,
+      },
+    },
+  },
+  ["Nazreh"] = {
+    ["percentile"] = 89.07,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 765,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 3267,
+        ["kill_count"] = 24,
+        ["points"] = 9097.91,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 1751,
+        ["kill_count"] = 21,
+        ["points"] = 9355.34,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 6839,
+        ["kill_count"] = 25,
+        ["points"] = 8629.86,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 3625,
+        ["kill_count"] = 27,
+        ["points"] = 9196.92,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 11035,
+        ["kill_count"] = 27,
+        ["points"] = 8076.81,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 9958,
+        ["kill_count"] = 24,
+        ["points"] = 8241.05,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 5888,
+        ["kill_count"] = 26,
+        ["points"] = 8811.88,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 2739,
+        ["kill_count"] = 27,
+        ["points"] = 9119.91,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 1629,
+        ["kill_count"] = 24,
+        ["points"] = 9436.08,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 4047,
+        ["kill_count"] = 24,
+        ["points"] = 9024.2,
       },
     },
   },
@@ -43468,7 +43468,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 830,
         ["kill_count"] = 16,
-        ["points"] = 9760.9,
+        ["points"] = 9760.95,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1406,
@@ -43525,7 +43525,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2299,
         ["kill_count"] = 25,
-        ["points"] = 9447.29,
+        ["points"] = 9447.41,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8451,
@@ -43582,7 +43582,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4901,
         ["kill_count"] = 33,
-        ["points"] = 9029.14,
+        ["points"] = 9029.35,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3498,
@@ -43639,7 +43639,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3950,
         ["kill_count"] = 15,
-        ["points"] = 9177.05,
+        ["points"] = 9177.23,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7033,
@@ -43696,7 +43696,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1154,
         ["kill_count"] = 4,
-        ["points"] = 9677.49,
+        ["points"] = 9677.56,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3103,
@@ -43753,7 +43753,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7089,
         ["kill_count"] = 7,
-        ["points"] = 8696.62,
+        ["points"] = 8696.91,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5616,
@@ -43810,7 +43810,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8699,
         ["kill_count"] = 11,
-        ["points"] = 8425.27,
+        ["points"] = 8425.62,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 590,
@@ -43867,7 +43867,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5653,
         ["kill_count"] = 5,
-        ["points"] = 8905.69,
+        ["points"] = 8905.94,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1603,
@@ -43917,14 +43917,14 @@ UWULogsData[3][2] = {
         ["points"] = 9288.93,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7965,
+        ["rank_raids"] = 7966,
         ["kill_count"] = 28,
-        ["points"] = 8534.85,
+        ["points"] = 8533.85,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5689,
         ["kill_count"] = 22,
-        ["points"] = 8900.13,
+        ["points"] = 8900.38,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1845,
@@ -43948,67 +43948,10 @@ UWULogsData[3][2] = {
       },
     },
   },
-  ["Shaos"] = {
-    ["percentile"] = 88.96,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 775,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 3403,
-        ["kill_count"] = 8,
-        ["points"] = 9056.91,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 4146,
-        ["kill_count"] = 7,
-        ["points"] = 8739.5,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3770,
-        ["kill_count"] = 8,
-        ["points"] = 9108.91,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 5874,
-        ["kill_count"] = 10,
-        ["points"] = 8789.88,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 8181,
-        ["kill_count"] = 10,
-        ["points"] = 8499.85,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 3289,
-        ["kill_count"] = 10,
-        ["points"] = 9289.37,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 8555,
-        ["kill_count"] = 10,
-        ["points"] = 8428.84,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3844,
-        ["kill_count"] = 10,
-        ["points"] = 8775.88,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 1338,
-        ["kill_count"] = 9,
-        ["points"] = 9522.83,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 5735,
-        ["kill_count"] = 14,
-        ["points"] = 8667.01,
-      },
-    },
-  },
   ["Trollzemag"] = {
     ["percentile"] = 88.96,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 776,
+    ["overall_rank"] = 775,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1617,
@@ -44038,7 +43981,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5229,
         ["kill_count"] = 26,
-        ["points"] = 8979.09,
+        ["points"] = 8979.32,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 767,
@@ -44059,6 +44002,63 @@ UWULogsData[3][2] = {
         ["rank_raids"] = 2043,
         ["kill_count"] = 24,
         ["points"] = 9456.45,
+      },
+    },
+  },
+  ["Shaos"] = {
+    ["percentile"] = 88.96,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 776,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 3403,
+        ["kill_count"] = 8,
+        ["points"] = 9056.91,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 4146,
+        ["kill_count"] = 7,
+        ["points"] = 8739.5,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 3770,
+        ["kill_count"] = 8,
+        ["points"] = 9108.91,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 5874,
+        ["kill_count"] = 10,
+        ["points"] = 8789.88,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 8182,
+        ["kill_count"] = 10,
+        ["points"] = 8498.85,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 3289,
+        ["kill_count"] = 10,
+        ["points"] = 9289.53,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 8555,
+        ["kill_count"] = 10,
+        ["points"] = 8428.84,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 3844,
+        ["kill_count"] = 10,
+        ["points"] = 8775.88,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 1338,
+        ["kill_count"] = 9,
+        ["points"] = 9522.83,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 5735,
+        ["kill_count"] = 14,
+        ["points"] = 8667.01,
       },
     },
   },
@@ -44095,7 +44095,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1213,
         ["kill_count"] = 5,
-        ["points"] = 9657.47,
+        ["points"] = 9657.55,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3407,
@@ -44152,7 +44152,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4132,
         ["kill_count"] = 24,
-        ["points"] = 9144.8,
+        ["points"] = 9144.99,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 11260,
@@ -44209,7 +44209,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7095,
         ["kill_count"] = 14,
-        ["points"] = 8694.4,
+        ["points"] = 8694.69,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3837,
@@ -44266,7 +44266,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5710,
         ["kill_count"] = 9,
-        ["points"] = 8894.57,
+        ["points"] = 8894.82,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1872,
@@ -44323,7 +44323,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4014,
         ["kill_count"] = 14,
-        ["points"] = 9167.04,
+        ["points"] = 9167.22,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 13081,
@@ -44380,7 +44380,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8779,
         ["kill_count"] = 8,
-        ["points"] = 8417.48,
+        ["points"] = 8417.83,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6663,
@@ -44437,7 +44437,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1056,
         ["kill_count"] = 14,
-        ["points"] = 9703.07,
+        ["points"] = 9703.14,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5250,
@@ -44494,7 +44494,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3407,
         ["kill_count"] = 6,
-        ["points"] = 9268.24,
+        ["points"] = 9268.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6326,
@@ -44551,7 +44551,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4385,
         ["kill_count"] = 19,
-        ["points"] = 9110.32,
+        ["points"] = 9110.52,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8232,
@@ -44608,7 +44608,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5856,
         ["kill_count"] = 11,
-        ["points"] = 8872.33,
+        ["points"] = 8872.58,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3680,
@@ -44665,7 +44665,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2082,
         ["kill_count"] = 13,
-        ["points"] = 9488.43,
+        ["points"] = 9488.55,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2994,
@@ -44722,7 +44722,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4131,
         ["kill_count"] = 7,
-        ["points"] = 9145.91,
+        ["points"] = 9146.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4141,
@@ -44779,7 +44779,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4593,
         ["kill_count"] = 20,
-        ["points"] = 9075.85,
+        ["points"] = 9076.05,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2719,
@@ -44829,14 +44829,14 @@ UWULogsData[3][2] = {
         ["points"] = 8466.85,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7728,
+        ["rank_raids"] = 7729,
         ["kill_count"] = 16,
-        ["points"] = 8568.86,
+        ["points"] = 8567.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2121,
         ["kill_count"] = 14,
-        ["points"] = 9478.43,
+        ["points"] = 9478.54,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3465,
@@ -44893,7 +44893,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5246,
         ["kill_count"] = 18,
-        ["points"] = 8975.76,
+        ["points"] = 8975.98,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 10377,
@@ -44917,67 +44917,10 @@ UWULogsData[3][2] = {
       },
     },
   },
-  ["Hotpockets"] = {
-    ["percentile"] = 88.72,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 792,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2358,
-        ["kill_count"] = 6,
-        ["points"] = 9323.93,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 2670,
-        ["kill_count"] = 6,
-        ["points"] = 9099.64,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1437,
-        ["kill_count"] = 6,
-        ["points"] = 9545.95,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 8541,
-        ["kill_count"] = 6,
-        ["points"] = 8365.84,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 12998,
-        ["kill_count"] = 6,
-        ["points"] = 7810.78,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 9237,
-        ["kill_count"] = 6,
-        ["points"] = 8347.42,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 5808,
-        ["kill_count"] = 6,
-        ["points"] = 8825.88,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2234,
-        ["kill_count"] = 6,
-        ["points"] = 9263.93,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 5684,
-        ["kill_count"] = 7,
-        ["points"] = 8450.42,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 1379,
-        ["kill_count"] = 9,
-        ["points"] = 9607.87,
-      },
-    },
-  },
   ["Deathmarkx"] = {
     ["percentile"] = 88.72,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 793,
+    ["overall_rank"] = 792,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1596,
@@ -45007,7 +44950,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6265,
         ["kill_count"] = 31,
-        ["points"] = 8814.5,
+        ["points"] = 8814.77,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1246,
@@ -45028,6 +44971,63 @@ UWULogsData[3][2] = {
         ["rank_raids"] = 9414,
         ["kill_count"] = 24,
         ["points"] = 8025.11,
+      },
+    },
+  },
+  ["Hotpockets"] = {
+    ["percentile"] = 88.72,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 793,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 2358,
+        ["kill_count"] = 6,
+        ["points"] = 9323.93,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 2670,
+        ["kill_count"] = 6,
+        ["points"] = 9099.64,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 1437,
+        ["kill_count"] = 6,
+        ["points"] = 9545.95,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 8541,
+        ["kill_count"] = 6,
+        ["points"] = 8365.84,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 12999,
+        ["kill_count"] = 6,
+        ["points"] = 7809.78,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 9237,
+        ["kill_count"] = 6,
+        ["points"] = 8347.79,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 5808,
+        ["kill_count"] = 6,
+        ["points"] = 8825.88,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 2234,
+        ["kill_count"] = 6,
+        ["points"] = 9263.93,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 5684,
+        ["kill_count"] = 7,
+        ["points"] = 8450.42,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 1379,
+        ["kill_count"] = 9,
+        ["points"] = 9607.87,
       },
     },
   },
@@ -45064,7 +45064,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6837,
         ["kill_count"] = 14,
-        ["points"] = 8735.54,
+        ["points"] = 8735.82,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5943,
@@ -45121,7 +45121,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7822,
         ["kill_count"] = 16,
-        ["points"] = 8586.52,
+        ["points"] = 8586.84,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 788,
@@ -45178,7 +45178,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4788,
         ["kill_count"] = 29,
-        ["points"] = 9048.04,
+        ["points"] = 9048.25,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1657,
@@ -45235,7 +45235,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5523,
         ["kill_count"] = 11,
-        ["points"] = 8925.71,
+        ["points"] = 8925.95,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1288,
@@ -45292,7 +45292,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2219,
         ["kill_count"] = 7,
-        ["points"] = 9460.63,
+        ["points"] = 9460.75,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 15924,
@@ -45349,7 +45349,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3172,
         ["kill_count"] = 16,
-        ["points"] = 9313.83,
+        ["points"] = 9313.99,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5036,
@@ -45406,7 +45406,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3978,
         ["kill_count"] = 11,
-        ["points"] = 9174.82,
+        ["points"] = 9175.01,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5903,
@@ -45463,7 +45463,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 802,
         ["kill_count"] = 6,
-        ["points"] = 9766.46,
+        ["points"] = 9766.51,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 783,
@@ -45513,14 +45513,14 @@ UWULogsData[3][2] = {
         ["points"] = 9238.92,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8052,
+        ["rank_raids"] = 8053,
         ["kill_count"] = 40,
-        ["points"] = 8518.85,
+        ["points"] = 8517.85,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 8399,
         ["kill_count"] = 33,
-        ["points"] = 8477.54,
+        ["points"] = 8477.87,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2224,
@@ -45577,7 +45577,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3452,
         ["kill_count"] = 29,
-        ["points"] = 9258.23,
+        ["points"] = 9258.39,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3562,
@@ -45634,7 +45634,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2607,
         ["kill_count"] = 16,
-        ["points"] = 9397.24,
+        ["points"] = 9397.38,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3108,
@@ -45684,14 +45684,14 @@ UWULogsData[3][2] = {
         ["points"] = 9019.9,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7804,
+        ["rank_raids"] = 7805,
         ["kill_count"] = 25,
-        ["points"] = 8557.86,
+        ["points"] = 8556.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 8323,
         ["kill_count"] = 27,
-        ["points"] = 8496.44,
+        ["points"] = 8496.78,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2320,
@@ -45741,14 +45741,14 @@ UWULogsData[3][2] = {
         ["points"] = 8192.82,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8456,
+        ["rank_raids"] = 8457,
         ["kill_count"] = 45,
-        ["points"] = 8470.85,
+        ["points"] = 8469.85,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6195,
         ["kill_count"] = 45,
-        ["points"] = 8827.85,
+        ["points"] = 8828.11,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4512,
@@ -45805,7 +45805,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2408,
         ["kill_count"] = 47,
-        ["points"] = 9430.6,
+        ["points"] = 9430.73,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3513,
@@ -45862,7 +45862,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 11025,
         ["kill_count"] = 11,
-        ["points"] = 8068.28,
+        ["points"] = 8068.71,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6058,
@@ -45919,7 +45919,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5341,
         ["kill_count"] = 11,
-        ["points"] = 8956.85,
+        ["points"] = 8957.08,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6854,
@@ -45976,7 +45976,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3223,
         ["kill_count"] = 37,
-        ["points"] = 9303.83,
+        ["points"] = 9303.98,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4053,
@@ -46001,7 +46001,7 @@ UWULogsData[3][2] = {
     },
   },
   ["Bultika"] = {
-    ["percentile"] = 88.51,
+    ["percentile"] = 88.52,
     ["server"] = "Icecrown",
     ["overall_rank"] = 811,
     ["bosses"] = {
@@ -46033,7 +46033,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 14184,
         ["kill_count"] = 12,
-        ["points"] = 7629.0,
+        ["points"] = 7629.53,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9422,
@@ -46090,7 +46090,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 12447,
         ["kill_count"] = 14,
-        ["points"] = 7872.55,
+        ["points"] = 7873.03,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2862,
@@ -46140,14 +46140,14 @@ UWULogsData[3][2] = {
         ["points"] = 9366.94,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9996,
+        ["rank_raids"] = 9997,
         ["kill_count"] = 37,
-        ["points"] = 8230.82,
+        ["points"] = 8229.82,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 12543,
         ["kill_count"] = 22,
-        ["points"] = 7854.76,
+        ["points"] = 7855.24,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2088,
@@ -46204,7 +46204,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6657,
         ["kill_count"] = 11,
-        ["points"] = 8768.91,
+        ["points"] = 8769.18,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9570,
@@ -46261,7 +46261,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7141,
         ["kill_count"] = 12,
-        ["points"] = 8685.5,
+        ["points"] = 8685.79,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2561,
@@ -46286,7 +46286,7 @@ UWULogsData[3][2] = {
     },
   },
   ["Toukaxz"] = {
-    ["percentile"] = 88.48,
+    ["percentile"] = 88.47,
     ["server"] = "Icecrown",
     ["overall_rank"] = 816,
     ["bosses"] = {
@@ -46311,14 +46311,14 @@ UWULogsData[3][2] = {
         ["points"] = 9299.93,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 10583,
+        ["rank_raids"] = 10584,
         ["kill_count"] = 23,
-        ["points"] = 8144.81,
+        ["points"] = 8143.81,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5642,
         ["kill_count"] = 23,
-        ["points"] = 8909.03,
+        ["points"] = 8909.27,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2899,
@@ -46375,7 +46375,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 411,
         ["kill_count"] = 4,
-        ["points"] = 9844.31,
+        ["points"] = 9844.34,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 12688,
@@ -46432,7 +46432,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4925,
         ["kill_count"] = 5,
-        ["points"] = 9025.8,
+        ["points"] = 9026.02,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3991,
@@ -46489,7 +46489,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2258,
         ["kill_count"] = 29,
-        ["points"] = 9453.96,
+        ["points"] = 9454.08,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3060,
@@ -46546,7 +46546,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3726,
         ["kill_count"] = 8,
-        ["points"] = 9215.97,
+        ["points"] = 9216.14,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 10653,
@@ -46603,7 +46603,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8571,
         ["kill_count"] = 34,
-        ["points"] = 8443.06,
+        ["points"] = 8443.41,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3299,
@@ -46660,7 +46660,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7340,
         ["kill_count"] = 23,
-        ["points"] = 8657.7,
+        ["points"] = 8657.99,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1343,
@@ -46717,7 +46717,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 9739,
         ["kill_count"] = 30,
-        ["points"] = 8276.25,
+        ["points"] = 8276.63,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2036,
@@ -46774,7 +46774,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5043,
         ["kill_count"] = 11,
-        ["points"] = 9006.9,
+        ["points"] = 9007.12,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9146,
@@ -46831,7 +46831,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7488,
         ["kill_count"] = 5,
-        ["points"] = 8643.24,
+        ["points"] = 8643.54,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 11322,
@@ -46881,14 +46881,14 @@ UWULogsData[3][2] = {
         ["points"] = 8935.89,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 11190,
+        ["rank_raids"] = 11191,
         ["kill_count"] = 31,
-        ["points"] = 8056.81,
+        ["points"] = 8055.81,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7657,
         ["kill_count"] = 25,
-        ["points"] = 8615.44,
+        ["points"] = 8615.74,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7853,
@@ -46945,7 +46945,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 10803,
         ["kill_count"] = 12,
-        ["points"] = 8103.87,
+        ["points"] = 8104.29,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5076,
@@ -47002,7 +47002,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2110,
         ["kill_count"] = 8,
-        ["points"] = 9483.99,
+        ["points"] = 9484.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6783,
@@ -47059,7 +47059,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 10819,
         ["kill_count"] = 27,
-        ["points"] = 8101.65,
+        ["points"] = 8102.07,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1650,
@@ -47116,7 +47116,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6712,
         ["kill_count"] = 49,
-        ["points"] = 8753.34,
+        ["points"] = 8753.61,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3240,
@@ -47166,14 +47166,14 @@ UWULogsData[3][2] = {
         ["points"] = 9089.91,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9778,
+        ["rank_raids"] = 9779,
         ["kill_count"] = 11,
-        ["points"] = 8258.83,
+        ["points"] = 8257.83,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 8860,
         ["kill_count"] = 10,
-        ["points"] = 8407.47,
+        ["points"] = 8407.83,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3371,
@@ -47230,7 +47230,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1285,
         ["kill_count"] = 6,
-        ["points"] = 9643.02,
+        ["points"] = 9643.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2048,
@@ -47287,7 +47287,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1684,
         ["kill_count"] = 7,
-        ["points"] = 9570.73,
+        ["points"] = 9570.82,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 218,
@@ -47295,9 +47295,9 @@ UWULogsData[3][2] = {
         ["points"] = 9898.99,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 27382,
+        ["rank_raids"] = 27383,
         ["kill_count"] = 7,
-        ["points"] = 4812.8,
+        ["points"] = 4812.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 11457,
@@ -47337,14 +47337,14 @@ UWULogsData[3][2] = {
         ["points"] = 9106.91,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 10847,
+        ["rank_raids"] = 10848,
         ["kill_count"] = 32,
-        ["points"] = 8115.81,
+        ["points"] = 8114.81,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 10757,
         ["kill_count"] = 32,
-        ["points"] = 8112.77,
+        ["points"] = 8113.19,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1752,
@@ -47401,7 +47401,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3343,
         ["kill_count"] = 30,
-        ["points"] = 9278.25,
+        ["points"] = 9278.41,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6040,
@@ -47458,7 +47458,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6471,
         ["kill_count"] = 12,
-        ["points"] = 8787.81,
+        ["points"] = 8788.08,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5064,
@@ -47515,7 +47515,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2845,
         ["kill_count"] = 23,
-        ["points"] = 9359.43,
+        ["points"] = 9359.57,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 11822,
@@ -47572,7 +47572,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 9111,
         ["kill_count"] = 39,
-        ["points"] = 8370.77,
+        ["points"] = 8371.14,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3764,
@@ -47622,14 +47622,14 @@ UWULogsData[3][2] = {
         ["points"] = 9040.9,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7642,
+        ["rank_raids"] = 7643,
         ["kill_count"] = 17,
-        ["points"] = 8579.86,
+        ["points"] = 8578.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1503,
         ["kill_count"] = 16,
-        ["points"] = 9601.87,
+        ["points"] = 9601.96,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 21264,
@@ -47686,7 +47686,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4970,
         ["kill_count"] = 19,
-        ["points"] = 9015.79,
+        ["points"] = 9016.01,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6318,
@@ -47743,7 +47743,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7886,
         ["kill_count"] = 23,
-        ["points"] = 8569.84,
+        ["points"] = 8570.16,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8330,
@@ -47800,7 +47800,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1890,
         ["kill_count"] = 39,
-        ["points"] = 9525.13,
+        ["points"] = 9525.24,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 10267,
@@ -47857,7 +47857,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4587,
         ["kill_count"] = 19,
-        ["points"] = 9079.18,
+        ["points"] = 9079.39,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1724,
@@ -47914,7 +47914,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4915,
         ["kill_count"] = 7,
-        ["points"] = 9026.91,
+        ["points"] = 9027.13,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5563,
@@ -47971,7 +47971,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4187,
         ["kill_count"] = 17,
-        ["points"] = 9139.23,
+        ["points"] = 9139.43,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1201,
@@ -47989,7 +47989,7 @@ UWULogsData[3][2] = {
         ["points"] = 8555.25,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 12062,
+        ["rank_raids"] = 12063,
         ["kill_count"] = 16,
         ["points"] = 7588.97,
       },
@@ -48028,7 +48028,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6250,
         ["kill_count"] = 18,
-        ["points"] = 8820.06,
+        ["points"] = 8820.32,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1177,
@@ -48085,7 +48085,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6910,
         ["kill_count"] = 6,
-        ["points"] = 8723.31,
+        ["points"] = 8723.59,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2927,
@@ -48142,7 +48142,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3363,
         ["kill_count"] = 19,
-        ["points"] = 9276.02,
+        ["points"] = 9276.18,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2952,
@@ -48199,7 +48199,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3286,
         ["kill_count"] = 32,
-        ["points"] = 9291.59,
+        ["points"] = 9291.75,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7237,
@@ -48256,7 +48256,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6429,
         ["kill_count"] = 13,
-        ["points"] = 8794.48,
+        ["points"] = 8794.75,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5946,
@@ -48313,7 +48313,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4040,
         ["kill_count"] = 4,
-        ["points"] = 9162.59,
+        ["points"] = 9162.78,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1938,
@@ -48370,7 +48370,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8923,
         ["kill_count"] = 20,
-        ["points"] = 8398.58,
+        ["points"] = 8398.93,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2012,
@@ -48388,7 +48388,7 @@ UWULogsData[3][2] = {
         ["points"] = 9250.51,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 16454,
+        ["rank_raids"] = 16455,
         ["kill_count"] = 17,
         ["points"] = 6834.48,
       },
@@ -48420,14 +48420,14 @@ UWULogsData[3][2] = {
         ["points"] = 8507.85,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8430,
+        ["rank_raids"] = 8431,
         ["kill_count"] = 18,
-        ["points"] = 8475.85,
+        ["points"] = 8474.85,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2592,
         ["kill_count"] = 17,
-        ["points"] = 9400.58,
+        ["points"] = 9400.71,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8765,
@@ -48484,7 +48484,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 10737,
         ["kill_count"] = 25,
-        ["points"] = 8117.22,
+        ["points"] = 8117.63,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2100,
@@ -48509,7 +48509,7 @@ UWULogsData[3][2] = {
     },
   },
   ["Strongbgg"] = {
-    ["percentile"] = 87.93,
+    ["percentile"] = 87.92,
     ["server"] = "Icecrown",
     ["overall_rank"] = 855,
     ["bosses"] = {
@@ -48534,14 +48534,14 @@ UWULogsData[3][2] = {
         ["points"] = 8122.81,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8450,
+        ["rank_raids"] = 8451,
         ["kill_count"] = 19,
-        ["points"] = 8472.85,
+        ["points"] = 8471.85,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1755,
         ["kill_count"] = 14,
-        ["points"] = 9551.82,
+        ["points"] = 9551.92,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8748,
@@ -48566,7 +48566,7 @@ UWULogsData[3][2] = {
     },
   },
   ["Mejai"] = {
-    ["percentile"] = 87.93,
+    ["percentile"] = 87.92,
     ["server"] = "Icecrown",
     ["overall_rank"] = 856,
     ["bosses"] = {
@@ -48591,14 +48591,14 @@ UWULogsData[3][2] = {
         ["points"] = 8918.89,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 10868,
+        ["rank_raids"] = 10869,
         ["kill_count"] = 5,
-        ["points"] = 8111.81,
+        ["points"] = 8110.81,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7268,
         ["kill_count"] = 3,
-        ["points"] = 8667.7,
+        ["points"] = 8668.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2887,
@@ -48655,7 +48655,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1096,
         ["kill_count"] = 12,
-        ["points"] = 9694.17,
+        ["points"] = 9694.24,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6655,
@@ -48712,7 +48712,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8922,
         ["kill_count"] = 21,
-        ["points"] = 8399.69,
+        ["points"] = 8400.04,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6826,
@@ -48762,14 +48762,14 @@ UWULogsData[3][2] = {
         ["points"] = 8077.81,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9215,
+        ["rank_raids"] = 9216,
         ["kill_count"] = 27,
-        ["points"] = 8359.84,
+        ["points"] = 8358.84,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3020,
         ["kill_count"] = 27,
-        ["points"] = 9336.08,
+        ["points"] = 9336.22,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7404,
@@ -48826,7 +48826,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4891,
         ["kill_count"] = 5,
-        ["points"] = 9031.36,
+        ["points"] = 9031.58,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5759,
@@ -48883,7 +48883,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 9053,
         ["kill_count"] = 42,
-        ["points"] = 8384.12,
+        ["points"] = 8384.48,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2844,
@@ -48940,7 +48940,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4524,
         ["kill_count"] = 9,
-        ["points"] = 9092.53,
+        ["points"] = 9092.73,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2327,
@@ -48997,7 +48997,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5527,
         ["kill_count"] = 27,
-        ["points"] = 8924.6,
+        ["points"] = 8924.84,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8161,
@@ -49054,7 +49054,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2665,
         ["kill_count"] = 28,
-        ["points"] = 9388.35,
+        ["points"] = 9388.48,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1789,
@@ -49104,14 +49104,14 @@ UWULogsData[3][2] = {
         ["points"] = 8106.81,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9835,
+        ["rank_raids"] = 9836,
         ["kill_count"] = 33,
-        ["points"] = 8252.83,
+        ["points"] = 8251.83,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 12356,
         ["kill_count"] = 34,
-        ["points"] = 7887.01,
+        ["points"] = 7887.48,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 800,
@@ -49161,14 +49161,14 @@ UWULogsData[3][2] = {
         ["points"] = 9104.91,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 11199,
+        ["rank_raids"] = 11200,
         ["kill_count"] = 18,
-        ["points"] = 8053.81,
+        ["points"] = 8052.81,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2302,
         ["kill_count"] = 17,
-        ["points"] = 9446.17,
+        ["points"] = 9446.3,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2554,
@@ -49225,7 +49225,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7232,
         ["kill_count"] = 9,
-        ["points"] = 8671.04,
+        ["points"] = 8671.34,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2259,
@@ -49282,7 +49282,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 9363,
         ["kill_count"] = 32,
-        ["points"] = 8329.63,
+        ["points"] = 8330.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1620,
@@ -49339,7 +49339,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 9012,
         ["kill_count"] = 15,
-        ["points"] = 8388.57,
+        ["points"] = 8388.93,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1348,
@@ -49396,7 +49396,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6826,
         ["kill_count"] = 3,
-        ["points"] = 8739.99,
+        ["points"] = 8740.27,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4472,
@@ -49421,7 +49421,7 @@ UWULogsData[3][2] = {
     },
   },
   ["Sprowelle"] = {
-    ["percentile"] = 87.78,
+    ["percentile"] = 87.79,
     ["server"] = "Icecrown",
     ["overall_rank"] = 871,
     ["bosses"] = {
@@ -49453,7 +49453,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5693,
         ["kill_count"] = 24,
-        ["points"] = 8897.91,
+        ["points"] = 8898.15,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3993,
@@ -49510,7 +49510,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 9597,
         ["kill_count"] = 14,
-        ["points"] = 8291.81,
+        ["points"] = 8292.19,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2787,
@@ -49567,7 +49567,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 15068,
         ["kill_count"] = 35,
-        ["points"] = 7494.44,
+        ["points"] = 7495.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2338,
@@ -49624,7 +49624,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1593,
         ["kill_count"] = 18,
-        ["points"] = 9586.3,
+        ["points"] = 9586.39,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9272,
@@ -49681,7 +49681,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6627,
         ["kill_count"] = 5,
-        ["points"] = 8774.47,
+        ["points"] = 8774.74,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8678,
@@ -49738,7 +49738,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5573,
         ["kill_count"] = 43,
-        ["points"] = 8920.15,
+        ["points"] = 8920.39,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4990,
@@ -49795,7 +49795,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4564,
         ["kill_count"] = 31,
-        ["points"] = 9085.85,
+        ["points"] = 9086.06,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7552,
@@ -49852,7 +49852,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3558,
         ["kill_count"] = 11,
-        ["points"] = 9240.44,
+        ["points"] = 9240.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6129,
@@ -49902,14 +49902,14 @@ UWULogsData[3][2] = {
         ["points"] = 8738.87,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 10543,
+        ["rank_raids"] = 10544,
         ["kill_count"] = 25,
-        ["points"] = 8151.82,
+        ["points"] = 8150.82,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1697,
         ["kill_count"] = 27,
-        ["points"] = 9566.28,
+        ["points"] = 9566.38,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3520,
@@ -49966,7 +49966,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4590,
         ["kill_count"] = 31,
-        ["points"] = 9078.07,
+        ["points"] = 9078.27,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2246,
@@ -49984,7 +49984,7 @@ UWULogsData[3][2] = {
         ["points"] = 8445.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 17357,
+        ["rank_raids"] = 17358,
         ["kill_count"] = 24,
         ["points"] = 6710.24,
       },
@@ -50023,7 +50023,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 9446,
         ["kill_count"] = 16,
-        ["points"] = 8318.51,
+        ["points"] = 8318.88,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2407,
@@ -50073,14 +50073,14 @@ UWULogsData[3][2] = {
         ["points"] = 8588.86,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8849,
+        ["rank_raids"] = 8850,
         ["kill_count"] = 15,
-        ["points"] = 8418.84,
+        ["points"] = 8417.84,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6709,
         ["kill_count"] = 14,
-        ["points"] = 8754.45,
+        ["points"] = 8754.73,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3747,
@@ -50137,7 +50137,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6678,
         ["kill_count"] = 9,
-        ["points"] = 8763.35,
+        ["points"] = 8763.62,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 20317,
@@ -50194,7 +50194,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3002,
         ["kill_count"] = 4,
-        ["points"] = 9341.64,
+        ["points"] = 9341.78,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7116,
@@ -50251,7 +50251,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1908,
         ["kill_count"] = 23,
-        ["points"] = 9521.8,
+        ["points"] = 9521.9,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7481,
@@ -50301,14 +50301,14 @@ UWULogsData[3][2] = {
         ["points"] = 8724.87,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9508,
+        ["rank_raids"] = 9509,
         ["kill_count"] = 17,
-        ["points"] = 8301.83,
+        ["points"] = 8300.83,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2372,
         ["kill_count"] = 10,
-        ["points"] = 9438.39,
+        ["points"] = 9438.51,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 674,
@@ -50365,7 +50365,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5505,
         ["kill_count"] = 15,
-        ["points"] = 8929.05,
+        ["points"] = 8929.29,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3458,
@@ -50422,7 +50422,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5574,
         ["kill_count"] = 29,
-        ["points"] = 8919.04,
+        ["points"] = 8919.28,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3882,
@@ -50479,7 +50479,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 15125,
         ["kill_count"] = 50,
-        ["points"] = 7487.77,
+        ["points"] = 7488.33,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3425,
@@ -50536,7 +50536,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6852,
         ["kill_count"] = 5,
-        ["points"] = 8733.32,
+        ["points"] = 8733.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3656,
@@ -50554,7 +50554,7 @@ UWULogsData[3][2] = {
         ["points"] = 8058.8,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 12355,
+        ["rank_raids"] = 12356,
         ["kill_count"] = 3,
         ["points"] = 7533.32,
       },
@@ -50593,7 +50593,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3788,
         ["kill_count"] = 7,
-        ["points"] = 9201.51,
+        ["points"] = 9201.69,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4822,
@@ -50643,14 +50643,14 @@ UWULogsData[3][2] = {
         ["points"] = 9542.95,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 17142,
+        ["rank_raids"] = 17143,
         ["kill_count"] = 10,
-        ["points"] = 7258.73,
+        ["points"] = 7257.73,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3762,
         ["kill_count"] = 10,
-        ["points"] = 9205.96,
+        ["points"] = 9206.14,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 11510,
@@ -50675,7 +50675,7 @@ UWULogsData[3][2] = {
     },
   },
   ["Karlaf"] = {
-    ["percentile"] = 87.47,
+    ["percentile"] = 87.48,
     ["server"] = "Icecrown",
     ["overall_rank"] = 893,
     ["bosses"] = {
@@ -50707,7 +50707,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6395,
         ["kill_count"] = 25,
-        ["points"] = 8798.93,
+        ["points"] = 8799.2,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2496,
@@ -50764,7 +50764,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7856,
         ["kill_count"] = 20,
-        ["points"] = 8578.74,
+        ["points"] = 8579.05,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 97,
@@ -50821,7 +50821,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3501,
         ["kill_count"] = 23,
-        ["points"] = 9249.33,
+        ["points"] = 9249.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2103,
@@ -50878,7 +50878,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 11918,
         ["kill_count"] = 9,
-        ["points"] = 7941.5,
+        ["points"] = 7941.96,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9370,
@@ -50928,14 +50928,14 @@ UWULogsData[3][2] = {
         ["points"] = 9382.94,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 18723,
+        ["rank_raids"] = 18724,
         ["kill_count"] = 8,
         ["points"] = 7102.56,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3369,
         ["kill_count"] = 8,
-        ["points"] = 9273.8,
+        ["points"] = 9273.96,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6268,
@@ -50985,14 +50985,14 @@ UWULogsData[3][2] = {
         ["points"] = 8577.86,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8296,
+        ["rank_raids"] = 8297,
         ["kill_count"] = 13,
-        ["points"] = 8490.85,
+        ["points"] = 8489.85,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 8890,
         ["kill_count"] = 11,
-        ["points"] = 8404.14,
+        ["points"] = 8404.49,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3335,
@@ -51049,7 +51049,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4691,
         ["kill_count"] = 6,
-        ["points"] = 9065.84,
+        ["points"] = 9066.04,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9478,
@@ -51106,7 +51106,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6939,
         ["kill_count"] = 12,
-        ["points"] = 8714.41,
+        ["points"] = 8714.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5966,
@@ -51163,7 +51163,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7019,
         ["kill_count"] = 13,
-        ["points"] = 8704.4,
+        ["points"] = 8704.69,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4246,
@@ -51213,14 +51213,14 @@ UWULogsData[3][2] = {
         ["points"] = 9120.91,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9265,
+        ["rank_raids"] = 9266,
         ["kill_count"] = 40,
-        ["points"] = 8349.83,
+        ["points"] = 8348.83,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6871,
         ["kill_count"] = 29,
-        ["points"] = 8731.09,
+        ["points"] = 8731.38,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4537,
@@ -51277,7 +51277,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4592,
         ["kill_count"] = 18,
-        ["points"] = 9076.96,
+        ["points"] = 9077.16,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7531,
@@ -51334,7 +51334,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5924,
         ["kill_count"] = 7,
-        ["points"] = 8862.32,
+        ["points"] = 8862.58,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5797,
@@ -51391,7 +51391,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 10880,
         ["kill_count"] = 9,
-        ["points"] = 8091.64,
+        ["points"] = 8092.06,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2544,
@@ -51409,7 +51409,7 @@ UWULogsData[3][2] = {
         ["points"] = 9121.58,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 17610,
+        ["rank_raids"] = 17611,
         ["kill_count"] = 9,
         ["points"] = 6668.82,
       },
@@ -51448,7 +51448,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3035,
         ["kill_count"] = 18,
-        ["points"] = 9334.96,
+        ["points"] = 9335.11,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3229,
@@ -51505,7 +51505,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 14076,
         ["kill_count"] = 19,
-        ["points"] = 7640.12,
+        ["points"] = 7640.65,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1659,
@@ -51562,7 +51562,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4168,
         ["kill_count"] = 10,
-        ["points"] = 9142.57,
+        ["points"] = 9142.76,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5667,
@@ -51612,14 +51612,14 @@ UWULogsData[3][2] = {
         ["points"] = 9035.9,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8216,
+        ["rank_raids"] = 8217,
         ["kill_count"] = 61,
-        ["points"] = 8497.85,
+        ["points"] = 8496.85,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 9059,
         ["kill_count"] = 59,
-        ["points"] = 8381.9,
+        ["points"] = 8382.25,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5952,
@@ -51676,7 +51676,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5118,
         ["kill_count"] = 5,
-        ["points"] = 8998.0,
+        ["points"] = 8998.22,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 12768,
@@ -51726,14 +51726,14 @@ UWULogsData[3][2] = {
         ["points"] = 8891.89,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7059,
+        ["rank_raids"] = 7060,
         ["kill_count"] = 37,
-        ["points"] = 8649.86,
+        ["points"] = 8648.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 9434,
         ["kill_count"] = 35,
-        ["points"] = 8322.95,
+        ["points"] = 8323.33,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1543,
@@ -51783,14 +51783,14 @@ UWULogsData[3][2] = {
         ["points"] = 8817.88,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9001,
+        ["rank_raids"] = 9002,
         ["kill_count"] = 3,
-        ["points"] = 8397.84,
+        ["points"] = 8396.84,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2065,
         ["kill_count"] = 4,
-        ["points"] = 9492.88,
+        ["points"] = 9493.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8757,
@@ -51847,7 +51847,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8529,
         ["kill_count"] = 13,
-        ["points"] = 8447.51,
+        ["points"] = 8447.85,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4870,
@@ -51904,7 +51904,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8044,
         ["kill_count"] = 4,
-        ["points"] = 8548.71,
+        ["points"] = 8549.03,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4584,
@@ -51961,7 +51961,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8388,
         ["kill_count"] = 12,
-        ["points"] = 8483.1,
+        ["points"] = 8483.43,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4915,
@@ -51979,7 +51979,7 @@ UWULogsData[3][2] = {
         ["points"] = 8335.94,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 15566,
+        ["rank_raids"] = 15567,
         ["kill_count"] = 10,
         ["points"] = 7009.19,
       },
@@ -52011,14 +52011,14 @@ UWULogsData[3][2] = {
         ["points"] = 9305.93,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8088,
+        ["rank_raids"] = 8089,
         ["kill_count"] = 7,
-        ["points"] = 8514.85,
+        ["points"] = 8513.85,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3275,
         ["kill_count"] = 7,
-        ["points"] = 9293.82,
+        ["points"] = 9293.97,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6225,
@@ -52075,7 +52075,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 959,
         ["kill_count"] = 11,
-        ["points"] = 9721.98,
+        ["points"] = 9722.04,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2521,
@@ -52132,7 +52132,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2268,
         ["kill_count"] = 5,
-        ["points"] = 9451.73,
+        ["points"] = 9451.86,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5614,
@@ -52189,7 +52189,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 15463,
         ["kill_count"] = 9,
-        ["points"] = 7441.06,
+        ["points"] = 7441.63,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6980,
@@ -52246,7 +52246,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5800,
         ["kill_count"] = 29,
-        ["points"] = 8879.0,
+        ["points"] = 8879.25,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5048,
@@ -52303,7 +52303,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 10366,
         ["kill_count"] = 22,
-        ["points"] = 8167.26,
+        ["points"] = 8167.67,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 10368,
@@ -52360,7 +52360,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4709,
         ["kill_count"] = 20,
-        ["points"] = 9062.5,
+        ["points"] = 9062.71,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5049,
@@ -52417,7 +52417,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5320,
         ["kill_count"] = 11,
-        ["points"] = 8962.41,
+        ["points"] = 8962.64,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4881,
@@ -52474,7 +52474,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5047,
         ["kill_count"] = 32,
-        ["points"] = 9005.78,
+        ["points"] = 9006.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5600,
@@ -52492,7 +52492,7 @@ UWULogsData[3][2] = {
         ["points"] = 7799.73,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 12072,
+        ["rank_raids"] = 12073,
         ["kill_count"] = 27,
         ["points"] = 7586.39,
       },
@@ -52531,7 +52531,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 9688,
         ["kill_count"] = 3,
-        ["points"] = 8284.03,
+        ["points"] = 8284.41,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5907,
@@ -52549,7 +52549,7 @@ UWULogsData[3][2] = {
         ["points"] = 9070.97,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 13677,
+        ["rank_raids"] = 13678,
         ["kill_count"] = 3,
         ["points"] = 7315.91,
       },
@@ -52588,7 +52588,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6260,
         ["kill_count"] = 6,
-        ["points"] = 8816.73,
+        ["points"] = 8816.99,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2637,
@@ -52645,7 +52645,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7701,
         ["kill_count"] = 21,
-        ["points"] = 8606.54,
+        ["points"] = 8606.85,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4865,
@@ -52702,7 +52702,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5996,
         ["kill_count"] = 11,
-        ["points"] = 8855.65,
+        ["points"] = 8855.9,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7826,
@@ -52759,7 +52759,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6451,
         ["kill_count"] = 18,
-        ["points"] = 8791.15,
+        ["points"] = 8791.42,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1797,
@@ -52809,14 +52809,14 @@ UWULogsData[3][2] = {
         ["points"] = 9002.9,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 10826,
+        ["rank_raids"] = 10827,
         ["kill_count"] = 18,
-        ["points"] = 8119.81,
+        ["points"] = 8118.81,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6149,
         ["kill_count"] = 17,
-        ["points"] = 8835.63,
+        ["points"] = 8835.89,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 839,
@@ -52866,14 +52866,14 @@ UWULogsData[3][2] = {
         ["points"] = 9598.96,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9102,
+        ["rank_raids"] = 9103,
         ["kill_count"] = 81,
-        ["points"] = 8377.84,
+        ["points"] = 8376.84,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 11081,
         ["kill_count"] = 81,
-        ["points"] = 8059.39,
+        ["points"] = 8059.82,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4438,
@@ -52930,7 +52930,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3945,
         ["kill_count"] = 20,
-        ["points"] = 9179.27,
+        ["points"] = 9179.45,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5970,
@@ -52987,7 +52987,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4979,
         ["kill_count"] = 15,
-        ["points"] = 9013.57,
+        ["points"] = 9013.79,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 10113,
@@ -53037,14 +53037,14 @@ UWULogsData[3][2] = {
         ["points"] = 9538.95,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 18171,
+        ["rank_raids"] = 18172,
         ["kill_count"] = 30,
         ["points"] = 7127.91,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 14523,
         ["kill_count"] = 31,
-        ["points"] = 7577.85,
+        ["points"] = 7578.39,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2743,
@@ -53094,14 +53094,14 @@ UWULogsData[3][2] = {
         ["points"] = 9388.94,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9664,
+        ["rank_raids"] = 9665,
         ["kill_count"] = 13,
-        ["points"] = 8275.83,
+        ["points"] = 8274.83,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6936,
         ["kill_count"] = 8,
-        ["points"] = 8715.52,
+        ["points"] = 8715.81,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 16676,
@@ -53158,7 +53158,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4055,
         ["kill_count"] = 11,
-        ["points"] = 9157.03,
+        ["points"] = 9157.22,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 12764,
@@ -53208,14 +53208,14 @@ UWULogsData[3][2] = {
         ["points"] = 9473.95,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 19009,
+        ["rank_raids"] = 19010,
         ["kill_count"] = 32,
         ["points"] = 7090.94,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 10386,
         ["kill_count"] = 29,
-        ["points"] = 8165.04,
+        ["points"] = 8165.44,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2864,
@@ -53233,7 +53233,7 @@ UWULogsData[3][2] = {
         ["points"] = 8568.5,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 15299,
+        ["rank_raids"] = 15300,
         ["kill_count"] = 28,
         ["points"] = 7041.54,
       },
@@ -53272,7 +53272,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6011,
         ["kill_count"] = 18,
-        ["points"] = 8853.43,
+        ["points"] = 8853.68,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6767,
@@ -53329,7 +53329,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5881,
         ["kill_count"] = 10,
-        ["points"] = 8871.22,
+        ["points"] = 8871.47,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9232,
@@ -53379,14 +53379,14 @@ UWULogsData[3][2] = {
         ["points"] = 9307.93,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7694,
+        ["rank_raids"] = 7695,
         ["kill_count"] = 39,
-        ["points"] = 8573.86,
+        ["points"] = 8572.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 14906,
         ["kill_count"] = 36,
-        ["points"] = 7514.46,
+        ["points"] = 7515.01,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1369,
@@ -53436,14 +53436,14 @@ UWULogsData[3][2] = {
         ["points"] = 9009.9,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 16317,
+        ["rank_raids"] = 16318,
         ["kill_count"] = 4,
-        ["points"] = 7362.74,
+        ["points"] = 7361.74,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 9173,
         ["kill_count"] = 5,
-        ["points"] = 8358.54,
+        ["points"] = 8358.91,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8703,
@@ -53493,14 +53493,14 @@ UWULogsData[3][2] = {
         ["points"] = 7987.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7498,
+        ["rank_raids"] = 7499,
         ["kill_count"] = 39,
-        ["points"] = 8595.86,
+        ["points"] = 8594.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 10619,
         ["kill_count"] = 28,
-        ["points"] = 8130.56,
+        ["points"] = 8130.98,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2681,
@@ -53565,9 +53565,9 @@ UWULogsData[3][2] = {
         ["points"] = 9492.95,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5075,
+        ["rank_raids"] = 5076,
         ["kill_count"] = 18,
-        ["points"] = 8041.8,
+        ["points"] = 8040.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1350,
@@ -53614,7 +53614,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7568,
         ["kill_count"] = 8,
-        ["points"] = 8631.01,
+        ["points"] = 8631.31,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8792,
@@ -53671,7 +53671,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 9063,
         ["kill_count"] = 13,
-        ["points"] = 8379.67,
+        ["points"] = 8380.03,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4191,
@@ -53728,7 +53728,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6807,
         ["kill_count"] = 18,
-        ["points"] = 8742.22,
+        ["points"] = 8742.49,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5877,
@@ -53785,7 +53785,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 9842,
         ["kill_count"] = 6,
-        ["points"] = 8264.01,
+        ["points"] = 8264.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7629,
@@ -53835,14 +53835,14 @@ UWULogsData[3][2] = {
         ["points"] = 7883.79,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 11127,
+        ["rank_raids"] = 11128,
         ["kill_count"] = 5,
-        ["points"] = 8062.81,
+        ["points"] = 8061.81,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 10734,
         ["kill_count"] = 5,
-        ["points"] = 8118.33,
+        ["points"] = 8118.75,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1802,
@@ -53899,7 +53899,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3570,
         ["kill_count"] = 8,
-        ["points"] = 9237.1,
+        ["points"] = 9237.27,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3176,
@@ -53949,14 +53949,14 @@ UWULogsData[3][2] = {
         ["points"] = 9661.97,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 12781,
+        ["rank_raids"] = 12782,
         ["kill_count"] = 38,
-        ["points"] = 7845.78,
+        ["points"] = 7844.78,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 17790,
         ["kill_count"] = 38,
-        ["points"] = 7106.32,
+        ["points"] = 7106.96,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6453,
@@ -54006,14 +54006,14 @@ UWULogsData[3][2] = {
         ["points"] = 9225.92,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9772,
+        ["rank_raids"] = 9773,
         ["kill_count"] = 24,
-        ["points"] = 8259.83,
+        ["points"] = 8258.83,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6480,
         ["kill_count"] = 19,
-        ["points"] = 8786.7,
+        ["points"] = 8786.97,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 10082,
@@ -54063,14 +54063,14 @@ UWULogsData[3][2] = {
         ["points"] = 7500.75,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9403,
+        ["rank_raids"] = 9404,
         ["kill_count"] = 10,
-        ["points"] = 8319.83,
+        ["points"] = 8318.83,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2485,
         ["kill_count"] = 10,
-        ["points"] = 9417.26,
+        ["points"] = 9417.39,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4571,
@@ -54120,14 +54120,14 @@ UWULogsData[3][2] = {
         ["points"] = 8617.86,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9376,
+        ["rank_raids"] = 9377,
         ["kill_count"] = 21,
-        ["points"] = 8322.83,
+        ["points"] = 8321.83,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 18113,
         ["kill_count"] = 22,
-        ["points"] = 7057.38,
+        ["points"] = 7058.04,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1804,
@@ -54184,7 +54184,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 10119,
         ["kill_count"] = 9,
-        ["points"] = 8219.53,
+        ["points"] = 8219.92,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4353,
@@ -54241,7 +54241,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 9592,
         ["kill_count"] = 9,
-        ["points"] = 8294.04,
+        ["points"] = 8294.42,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 14317,
@@ -54291,14 +54291,14 @@ UWULogsData[3][2] = {
         ["points"] = 9219.92,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9210,
+        ["rank_raids"] = 9211,
         ["kill_count"] = 26,
-        ["points"] = 8360.84,
+        ["points"] = 8359.84,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4694,
         ["kill_count"] = 12,
-        ["points"] = 9064.72,
+        ["points"] = 9064.93,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2725,
@@ -54348,14 +54348,14 @@ UWULogsData[3][2] = {
         ["points"] = 9289.93,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 16131,
+        ["rank_raids"] = 16132,
         ["kill_count"] = 13,
-        ["points"] = 7391.74,
+        ["points"] = 7390.74,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6679,
         ["kill_count"] = 13,
-        ["points"] = 8762.23,
+        ["points"] = 8762.51,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5038,
@@ -54373,7 +54373,7 @@ UWULogsData[3][2] = {
         ["points"] = 8723.94,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 12747,
+        ["rank_raids"] = 12748,
         ["kill_count"] = 12,
         ["points"] = 7473.79,
       },
@@ -54405,14 +54405,14 @@ UWULogsData[3][2] = {
         ["points"] = 9369.94,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9489,
+        ["rank_raids"] = 9490,
         ["kill_count"] = 31,
-        ["points"] = 8304.83,
+        ["points"] = 8303.83,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5329,
         ["kill_count"] = 31,
-        ["points"] = 8961.3,
+        ["points"] = 8961.53,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 12454,
@@ -54469,7 +54469,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7217,
         ["kill_count"] = 17,
-        ["points"] = 8674.38,
+        ["points"] = 8674.67,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 22552,
@@ -54526,7 +54526,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 10073,
         ["kill_count"] = 14,
-        ["points"] = 8228.43,
+        ["points"] = 8228.82,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1636,
@@ -54544,7 +54544,7 @@ UWULogsData[3][2] = {
         ["points"] = 9089.05,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 15692,
+        ["rank_raids"] = 15693,
         ["kill_count"] = 8,
         ["points"] = 6984.6,
       },
@@ -54583,7 +54583,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3019,
         ["kill_count"] = 18,
-        ["points"] = 9337.19,
+        ["points"] = 9337.34,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 22098,
@@ -54640,7 +54640,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5701,
         ["kill_count"] = 34,
-        ["points"] = 8895.69,
+        ["points"] = 8895.93,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2510,
@@ -54690,14 +54690,14 @@ UWULogsData[3][2] = {
         ["points"] = 8443.84,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7155,
+        ["rank_raids"] = 7156,
         ["kill_count"] = 44,
-        ["points"] = 8640.86,
+        ["points"] = 8639.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 12439,
         ["kill_count"] = 35,
-        ["points"] = 7874.78,
+        ["points"] = 7875.25,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4148,
@@ -54754,7 +54754,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2765,
         ["kill_count"] = 11,
-        ["points"] = 9373.89,
+        ["points"] = 9374.03,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6250,
@@ -54811,7 +54811,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3740,
         ["kill_count"] = 15,
-        ["points"] = 9213.75,
+        ["points"] = 9213.92,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4249,
@@ -54836,7 +54836,7 @@ UWULogsData[3][2] = {
     },
   },
   ["Joliin"] = {
-    ["percentile"] = 86.55,
+    ["percentile"] = 86.56,
     ["server"] = "Icecrown",
     ["overall_rank"] = 966,
     ["bosses"] = {
@@ -54868,7 +54868,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5397,
         ["kill_count"] = 4,
-        ["points"] = 8947.95,
+        ["points"] = 8948.19,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6647,
@@ -54925,7 +54925,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5418,
         ["kill_count"] = 28,
-        ["points"] = 8944.62,
+        ["points"] = 8944.85,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9496,
@@ -54982,7 +54982,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 13899,
         ["kill_count"] = 9,
-        ["points"] = 7662.37,
+        ["points"] = 7662.89,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6961,
@@ -55039,7 +55039,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8198,
         ["kill_count"] = 37,
-        ["points"] = 8518.68,
+        ["points"] = 8519.01,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1429,
@@ -55096,7 +55096,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4050,
         ["kill_count"] = 19,
-        ["points"] = 9159.25,
+        ["points"] = 9159.44,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 11714,
@@ -55146,14 +55146,14 @@ UWULogsData[3][2] = {
         ["points"] = 7939.79,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9691,
+        ["rank_raids"] = 9692,
         ["kill_count"] = 17,
-        ["points"] = 8273.83,
+        ["points"] = 8272.83,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2574,
         ["kill_count"] = 17,
-        ["points"] = 9401.69,
+        ["points"] = 9401.82,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7743,
@@ -55203,14 +55203,14 @@ UWULogsData[3][2] = {
         ["points"] = 9558.96,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7212,
+        ["rank_raids"] = 7213,
         ["kill_count"] = 24,
-        ["points"] = 8630.86,
+        ["points"] = 8629.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 9317,
         ["kill_count"] = 23,
-        ["points"] = 8336.3,
+        ["points"] = 8336.67,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3945,
@@ -55267,7 +55267,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 13252,
         ["kill_count"] = 14,
-        ["points"] = 7754.67,
+        ["points"] = 7755.17,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4499,
@@ -55317,14 +55317,14 @@ UWULogsData[3][2] = {
         ["points"] = 8516.85,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 18837,
+        ["rank_raids"] = 18838,
         ["kill_count"] = 29,
         ["points"] = 7097.88,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3845,
         ["kill_count"] = 29,
-        ["points"] = 9192.62,
+        ["points"] = 9192.8,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2242,
@@ -55381,7 +55381,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3624,
         ["kill_count"] = 7,
-        ["points"] = 9231.54,
+        ["points"] = 9231.71,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8159,
@@ -55438,7 +55438,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1789,
         ["kill_count"] = 27,
-        ["points"] = 9545.15,
+        ["points"] = 9545.25,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4608,
@@ -55488,14 +55488,14 @@ UWULogsData[3][2] = {
         ["points"] = 8115.81,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 10809,
+        ["rank_raids"] = 10810,
         ["kill_count"] = 17,
-        ["points"] = 8121.81,
+        ["points"] = 8120.81,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 11607,
         ["kill_count"] = 18,
-        ["points"] = 7994.88,
+        ["points"] = 7995.33,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2080,
@@ -55545,14 +55545,14 @@ UWULogsData[3][2] = {
         ["points"] = 8418.84,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 13286,
+        ["rank_raids"] = 13287,
         ["kill_count"] = 13,
-        ["points"] = 7772.78,
+        ["points"] = 7771.78,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7209,
         ["kill_count"] = 13,
-        ["points"] = 8675.49,
+        ["points"] = 8675.78,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3015,
@@ -55609,7 +55609,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8576,
         ["kill_count"] = 17,
-        ["points"] = 8441.95,
+        ["points"] = 8442.29,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3114,
@@ -55666,7 +55666,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7560,
         ["kill_count"] = 8,
-        ["points"] = 8632.12,
+        ["points"] = 8632.42,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4406,
@@ -55723,7 +55723,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 13712,
         ["kill_count"] = 20,
-        ["points"] = 7692.39,
+        ["points"] = 7692.91,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8435,
@@ -55780,7 +55780,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4665,
         ["kill_count"] = 17,
-        ["points"] = 9070.28,
+        ["points"] = 9070.49,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 10244,
@@ -55830,14 +55830,14 @@ UWULogsData[3][2] = {
         ["points"] = 9053.91,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 13284,
+        ["rank_raids"] = 13285,
         ["kill_count"] = 23,
-        ["points"] = 7773.78,
+        ["points"] = 7772.78,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3094,
         ["kill_count"] = 19,
-        ["points"] = 9328.29,
+        ["points"] = 9328.44,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5745,
@@ -55894,7 +55894,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 16996,
         ["kill_count"] = 10,
-        ["points"] = 7220.86,
+        ["points"] = 7221.48,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4373,
@@ -55951,7 +55951,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 18762,
         ["kill_count"] = 21,
-        ["points"] = 6961.74,
+        ["points"] = 6962.42,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5798,
@@ -56001,14 +56001,14 @@ UWULogsData[3][2] = {
         ["points"] = 8052.81,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7951,
+        ["rank_raids"] = 7952,
         ["kill_count"] = 18,
-        ["points"] = 8536.85,
+        ["points"] = 8535.85,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5754,
         ["kill_count"] = 16,
-        ["points"] = 8887.9,
+        ["points"] = 8888.15,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5023,
@@ -56065,7 +56065,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2954,
         ["kill_count"] = 6,
-        ["points"] = 9347.2,
+        ["points"] = 9347.34,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9082,
@@ -56115,14 +56115,14 @@ UWULogsData[3][2] = {
         ["points"] = 9316.93,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7234,
+        ["rank_raids"] = 7235,
         ["kill_count"] = 24,
-        ["points"] = 8626.86,
+        ["points"] = 8625.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5186,
         ["kill_count"] = 18,
-        ["points"] = 8986.88,
+        ["points"] = 8987.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7532,
@@ -56172,14 +56172,14 @@ UWULogsData[3][2] = {
         ["points"] = 8402.84,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7817,
+        ["rank_raids"] = 7818,
         ["kill_count"] = 12,
-        ["points"] = 8553.86,
+        ["points"] = 8552.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 8128,
         ["kill_count"] = 12,
-        ["points"] = 8532.03,
+        ["points"] = 8532.35,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9301,
@@ -56236,7 +56236,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 15500,
         ["kill_count"] = 14,
-        ["points"] = 7434.39,
+        ["points"] = 7434.96,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9755,
@@ -56293,7 +56293,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5637,
         ["kill_count"] = 13,
-        ["points"] = 8910.14,
+        ["points"] = 8910.38,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1253,
@@ -56350,7 +56350,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7870,
         ["kill_count"] = 18,
-        ["points"] = 8574.29,
+        ["points"] = 8574.61,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2367,
@@ -56407,7 +56407,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7700,
         ["kill_count"] = 22,
-        ["points"] = 8607.65,
+        ["points"] = 8607.96,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 10947,
@@ -56457,14 +56457,14 @@ UWULogsData[3][2] = {
         ["points"] = 9119.91,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 10226,
+        ["rank_raids"] = 10227,
         ["kill_count"] = 7,
-        ["points"] = 8196.82,
+        ["points"] = 8195.82,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6801,
         ["kill_count"] = 6,
-        ["points"] = 8743.33,
+        ["points"] = 8743.61,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2191,
@@ -56482,7 +56482,7 @@ UWULogsData[3][2] = {
         ["points"] = 9227.62,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 16815,
+        ["rank_raids"] = 16816,
         ["kill_count"] = 5,
         ["points"] = 6782.71,
       },
@@ -56521,7 +56521,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8460,
         ["kill_count"] = 38,
-        ["points"] = 8461.97,
+        ["points"] = 8462.31,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8506,
@@ -56539,73 +56539,16 @@ UWULogsData[3][2] = {
         ["points"] = 8976.99,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 14095,
+        ["rank_raids"] = 14096,
         ["kill_count"] = 35,
         ["points"] = 7240.84,
-      },
-    },
-  },
-  ["Rundermaster"] = {
-    ["percentile"] = 86.14,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 996,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7894,
-        ["kill_count"] = 8,
-        ["points"] = 8199.82,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 2159,
-        ["kill_count"] = 5,
-        ["points"] = 9236.49,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8155,
-        ["kill_count"] = 8,
-        ["points"] = 8442.84,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 3725,
-        ["kill_count"] = 7,
-        ["points"] = 9176.92,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 7187,
-        ["kill_count"] = 8,
-        ["points"] = 8637.86,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 3445,
-        ["kill_count"] = 5,
-        ["points"] = 9259.34,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 28114,
-        ["kill_count"] = 9,
-        ["points"] = 5982.6,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1200,
-        ["kill_count"] = 6,
-        ["points"] = 9572.96,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 2390,
-        ["kill_count"] = 5,
-        ["points"] = 9220.39,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 7548,
-        ["kill_count"] = 5,
-        ["points"] = 8338.29,
       },
     },
   },
   ["Blazin"] = {
     ["percentile"] = 86.14,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 997,
+    ["overall_rank"] = 996,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1521,
@@ -56635,7 +56578,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 11335,
         ["kill_count"] = 6,
-        ["points"] = 8033.81,
+        ["points"] = 8034.25,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6352,
@@ -56656,6 +56599,63 @@ UWULogsData[3][2] = {
         ["rank_raids"] = 4548,
         ["kill_count"] = 6,
         ["points"] = 8912.9,
+      },
+    },
+  },
+  ["Rundermaster"] = {
+    ["percentile"] = 86.14,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 997,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 7894,
+        ["kill_count"] = 8,
+        ["points"] = 8199.82,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 2159,
+        ["kill_count"] = 5,
+        ["points"] = 9236.49,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 8155,
+        ["kill_count"] = 8,
+        ["points"] = 8442.84,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 3725,
+        ["kill_count"] = 7,
+        ["points"] = 9176.92,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 7188,
+        ["kill_count"] = 8,
+        ["points"] = 8636.86,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 3445,
+        ["kill_count"] = 5,
+        ["points"] = 9259.51,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 28114,
+        ["kill_count"] = 9,
+        ["points"] = 5982.6,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 1200,
+        ["kill_count"] = 6,
+        ["points"] = 9572.96,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 2390,
+        ["kill_count"] = 5,
+        ["points"] = 9220.39,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 7548,
+        ["kill_count"] = 5,
+        ["points"] = 8338.29,
       },
     },
   },
@@ -56692,7 +56692,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7808,
         ["kill_count"] = 13,
-        ["points"] = 8588.75,
+        ["points"] = 8589.06,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 11444,
@@ -56749,7 +56749,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8685,
         ["kill_count"] = 15,
-        ["points"] = 8428.6,
+        ["points"] = 8428.95,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3152,
@@ -56806,7 +56806,7 @@ UWULogsData[3][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4398,
         ["kill_count"] = 15,
-        ["points"] = 9105.87,
+        ["points"] = 9106.07,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1729,

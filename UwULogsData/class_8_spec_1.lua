@@ -460,7 +460,7 @@ UWULogsData[8][1] = {
   ["Her"] = {
     ["percentile"] = 99.64,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 4583,
+    ["overall_rank"] = 4585,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 23925,
@@ -473,9 +473,9 @@ UWULogsData[8][1] = {
         ["points"] = 6380.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 21653,
+        ["rank_raids"] = 21654,
         ["kill_count"] = 5,
-        ["points"] = 5385.7,
+        ["points"] = 5385.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 12365,

@@ -5375,14 +5375,14 @@ UWULogsData[6][1] = {
         ["points"] = 5600.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 22126,
+        ["rank_raids"] = 22127,
         ["kill_count"] = 2,
-        ["points"] = 5338.4,
+        ["points"] = 5338.3,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 27028,
+        ["rank_raids"] = 27029,
         ["kill_count"] = 2,
-        ["points"] = 4848.2,
+        ["points"] = 4848.1,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 13598,
@@ -5395,9 +5395,9 @@ UWULogsData[6][1] = {
         ["points"] = 6239.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 32741,
+        ["rank_raids"] = 32743,
         ["kill_count"] = 2,
-        ["points"] = 4276.9,
+        ["points"] = 4276.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5780,
@@ -5405,9 +5405,9 @@ UWULogsData[6][1] = {
         ["points"] = 7817.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6485,
+        ["rank_raids"] = 6486,
         ["kill_count"] = 2,
-        ["points"] = 7605.5,
+        ["points"] = 7605.2,
       },
     },
   },

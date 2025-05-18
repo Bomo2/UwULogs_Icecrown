@@ -91,7 +91,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 128,
         ["kill_count"] = 77,
-        ["points"] = 9947.01,
+        ["points"] = 9947.03,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 20,
@@ -163,7 +163,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 77,
         ["kill_count"] = 26,
-        ["points"] = 9954.3,
+        ["points"] = 9954.31,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 6,
@@ -205,7 +205,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 41,
         ["kill_count"] = 31,
-        ["points"] = 9983.44,
+        ["points"] = 9983.45,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 86,
@@ -262,7 +262,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 102,
         ["kill_count"] = 49,
-        ["points"] = 9959.16,
+        ["points"] = 9959.17,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 48,
@@ -334,7 +334,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 21,
         ["kill_count"] = 73,
-        ["points"] = 9982.86,
+        ["points"] = 9982.87,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 12,
@@ -376,7 +376,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 43,
         ["kill_count"] = 38,
-        ["points"] = 9981.23,
+        ["points"] = 9981.24,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 34,
@@ -391,7 +391,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 29,
         ["kill_count"] = 37,
-        ["points"] = 9977.15,
+        ["points"] = 9977.16,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 112,
@@ -505,7 +505,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 60,
         ["kill_count"] = 34,
-        ["points"] = 9963.44,
+        ["points"] = 9963.45,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 58,
@@ -604,7 +604,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 142,
         ["kill_count"] = 26,
-        ["points"] = 9943.7,
+        ["points"] = 9943.71,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 102,
@@ -661,7 +661,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 24,
         ["kill_count"] = 32,
-        ["points"] = 9986.75,
+        ["points"] = 9986.76,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 11,
@@ -718,7 +718,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 120,
         ["kill_count"] = 58,
-        ["points"] = 9950.33,
+        ["points"] = 9950.34,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 80,
@@ -775,7 +775,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 109,
         ["kill_count"] = 43,
-        ["points"] = 9956.95,
+        ["points"] = 9956.96,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 41,
@@ -790,7 +790,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 207,
         ["kill_count"] = 31,
-        ["points"] = 9907.46,
+        ["points"] = 9907.48,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 149,
@@ -889,7 +889,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 163,
         ["kill_count"] = 43,
-        ["points"] = 9940.39,
+        ["points"] = 9940.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 79,
@@ -904,7 +904,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 62,
         ["kill_count"] = 42,
-        ["points"] = 9962.3,
+        ["points"] = 9962.31,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 49,
@@ -961,7 +961,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 132,
         ["kill_count"] = 20,
-        ["points"] = 9930.31,
+        ["points"] = 9930.33,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2,
@@ -1003,7 +1003,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 124,
         ["kill_count"] = 35,
-        ["points"] = 9948.12,
+        ["points"] = 9948.13,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 32,
@@ -1018,7 +1018,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 239,
         ["kill_count"] = 29,
-        ["points"] = 9897.18,
+        ["points"] = 9897.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 7,
@@ -1075,7 +1075,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 28,
         ["kill_count"] = 49,
-        ["points"] = 9978.29,
+        ["points"] = 9978.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1,
@@ -1117,7 +1117,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 64,
         ["kill_count"] = 15,
-        ["points"] = 9974.61,
+        ["points"] = 9974.62,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 117,
@@ -1189,7 +1189,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 73,
         ["kill_count"] = 76,
-        ["points"] = 9956.59,
+        ["points"] = 9956.6,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 5,
@@ -1231,7 +1231,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 85,
         ["kill_count"] = 39,
-        ["points"] = 9966.88,
+        ["points"] = 9966.89,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 130,
@@ -1246,7 +1246,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 155,
         ["kill_count"] = 40,
-        ["points"] = 9926.88,
+        ["points"] = 9926.9,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 13,
@@ -1303,7 +1303,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 233,
         ["kill_count"] = 45,
-        ["points"] = 9899.46,
+        ["points"] = 9899.49,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 140,
@@ -1360,7 +1360,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 55,
         ["kill_count"] = 51,
-        ["points"] = 9968.01,
+        ["points"] = 9968.02,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 275,
@@ -1417,7 +1417,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 230,
         ["kill_count"] = 17,
-        ["points"] = 9900.61,
+        ["points"] = 9900.63,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 339,
@@ -1516,7 +1516,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 54,
         ["kill_count"] = 27,
-        ["points"] = 9975.71,
+        ["points"] = 9975.72,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 62,
@@ -1531,7 +1531,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 204,
         ["kill_count"] = 28,
-        ["points"] = 9908.6,
+        ["points"] = 9908.62,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 301,
@@ -1573,7 +1573,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 166,
         ["kill_count"] = 27,
-        ["points"] = 9938.18,
+        ["points"] = 9938.2,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 51,
@@ -1588,7 +1588,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 114,
         ["kill_count"] = 28,
-        ["points"] = 9937.16,
+        ["points"] = 9937.18,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 621,
@@ -1630,7 +1630,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 117,
         ["kill_count"] = 22,
-        ["points"] = 9953.64,
+        ["points"] = 9953.65,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 199,
@@ -1645,7 +1645,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 130,
         ["kill_count"] = 22,
-        ["points"] = 9931.45,
+        ["points"] = 9931.47,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 56,
@@ -1687,7 +1687,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 51,
         ["kill_count"] = 63,
-        ["points"] = 9977.92,
+        ["points"] = 9977.93,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 321,
@@ -1702,7 +1702,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 167,
         ["kill_count"] = 61,
-        ["points"] = 9922.31,
+        ["points"] = 9922.33,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 45,
@@ -1744,7 +1744,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 287,
         ["kill_count"] = 26,
-        ["points"] = 9906.17,
+        ["points"] = 9906.19,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 191,
@@ -1759,7 +1759,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 69,
         ["kill_count"] = 27,
-        ["points"] = 9958.87,
+        ["points"] = 9958.88,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 218,
@@ -1801,7 +1801,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 80,
         ["kill_count"] = 46,
-        ["points"] = 9969.09,
+        ["points"] = 9969.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 162,
@@ -1816,7 +1816,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 68,
         ["kill_count"] = 42,
-        ["points"] = 9960.01,
+        ["points"] = 9960.02,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 31,
@@ -1858,7 +1858,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 335,
         ["kill_count"] = 51,
-        ["points"] = 9892.92,
+        ["points"] = 9892.95,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 113,
@@ -1873,7 +1873,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 56,
         ["kill_count"] = 52,
-        ["points"] = 9966.87,
+        ["points"] = 9966.88,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 251,
@@ -1915,7 +1915,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 173,
         ["kill_count"] = 25,
-        ["points"] = 9935.98,
+        ["points"] = 9935.99,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 156,
@@ -1972,7 +1972,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 308,
         ["kill_count"] = 28,
-        ["points"] = 9899.55,
+        ["points"] = 9899.57,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6,
@@ -1987,7 +1987,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 156,
         ["kill_count"] = 23,
-        ["points"] = 9925.74,
+        ["points"] = 9925.76,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 233,
@@ -2029,7 +2029,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 87,
         ["kill_count"] = 40,
-        ["points"] = 9965.78,
+        ["points"] = 9965.79,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 30,
@@ -2044,7 +2044,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 49,
         ["kill_count"] = 37,
-        ["points"] = 9972.58,
+        ["points"] = 9972.59,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 170,
@@ -2101,7 +2101,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 97,
         ["kill_count"] = 85,
-        ["points"] = 9941.73,
+        ["points"] = 9941.75,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 714,
@@ -2143,7 +2143,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 406,
         ["kill_count"] = 46,
-        ["points"] = 9874.16,
+        ["points"] = 9874.19,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 54,
@@ -2158,7 +2158,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 111,
         ["kill_count"] = 40,
-        ["points"] = 9938.31,
+        ["points"] = 9938.32,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 443,
@@ -2200,7 +2200,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 382,
         ["kill_count"] = 30,
-        ["points"] = 9878.57,
+        ["points"] = 9878.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 213,
@@ -2215,7 +2215,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 80,
         ["kill_count"] = 30,
-        ["points"] = 9953.16,
+        ["points"] = 9953.17,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 185,
@@ -2257,7 +2257,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 98,
         ["kill_count"] = 35,
-        ["points"] = 9961.36,
+        ["points"] = 9961.37,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 214,
@@ -2272,7 +2272,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 176,
         ["kill_count"] = 35,
-        ["points"] = 9918.88,
+        ["points"] = 9918.9,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 78,
@@ -2314,7 +2314,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 226,
         ["kill_count"] = 51,
-        ["points"] = 9922.73,
+        ["points"] = 9922.75,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 97,
@@ -2329,7 +2329,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 371,
         ["kill_count"] = 42,
-        ["points"] = 9852.62,
+        ["points"] = 9852.66,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 570,
@@ -2386,7 +2386,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 90,
         ["kill_count"] = 27,
-        ["points"] = 9947.45,
+        ["points"] = 9947.46,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 99,
@@ -2428,7 +2428,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 217,
         ["kill_count"] = 13,
-        ["points"] = 9923.83,
+        ["points"] = 9923.85,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 106,
@@ -2443,7 +2443,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 244,
         ["kill_count"] = 13,
-        ["points"] = 9896.04,
+        ["points"] = 9896.06,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 28,
@@ -2500,7 +2500,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 75,
         ["kill_count"] = 69,
-        ["points"] = 9955.44,
+        ["points"] = 9955.45,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 406,
@@ -2557,7 +2557,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 82,
         ["kill_count"] = 59,
-        ["points"] = 9950.87,
+        ["points"] = 9950.89,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 67,
@@ -2599,7 +2599,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 72,
         ["kill_count"] = 36,
-        ["points"] = 9971.3,
+        ["points"] = 9971.31,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 170,
@@ -2656,7 +2656,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 137,
         ["kill_count"] = 25,
-        ["points"] = 9944.81,
+        ["points"] = 9944.82,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 325,
@@ -2671,7 +2671,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 181,
         ["kill_count"] = 27,
-        ["points"] = 9917.74,
+        ["points"] = 9917.76,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 96,
@@ -2713,7 +2713,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 197,
         ["kill_count"] = 23,
-        ["points"] = 9929.35,
+        ["points"] = 9929.37,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 583,
@@ -2728,7 +2728,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 89,
         ["kill_count"] = 24,
-        ["points"] = 9948.59,
+        ["points"] = 9948.6,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 273,
@@ -2785,7 +2785,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 67,
         ["kill_count"] = 49,
-        ["points"] = 9961.16,
+        ["points"] = 9961.17,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 741,
@@ -2827,7 +2827,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 156,
         ["kill_count"] = 31,
-        ["points"] = 9942.6,
+        ["points"] = 9942.61,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 224,
@@ -2842,7 +2842,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 94,
         ["kill_count"] = 29,
-        ["points"] = 9945.16,
+        ["points"] = 9945.17,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 199,
@@ -2884,7 +2884,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 302,
         ["kill_count"] = 62,
-        ["points"] = 9903.96,
+        ["points"] = 9903.98,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 423,
@@ -2899,7 +2899,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 164,
         ["kill_count"] = 65,
-        ["points"] = 9923.45,
+        ["points"] = 9923.47,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 344,
@@ -2956,7 +2956,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 398,
         ["kill_count"] = 85,
-        ["points"] = 9845.77,
+        ["points"] = 9845.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 403,
@@ -3013,7 +3013,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 331,
         ["kill_count"] = 22,
-        ["points"] = 9866.33,
+        ["points"] = 9866.36,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1111,
@@ -3055,7 +3055,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 497,
         ["kill_count"] = 21,
-        ["points"] = 9852.08,
+        ["points"] = 9852.11,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 517,
@@ -3112,7 +3112,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 263,
         ["kill_count"] = 59,
-        ["points"] = 9913.9,
+        ["points"] = 9913.92,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 40,
@@ -3127,7 +3127,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 769,
         ["kill_count"] = 49,
-        ["points"] = 9724.67,
+        ["points"] = 9724.73,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 801,
@@ -3169,7 +3169,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 210,
         ["kill_count"] = 37,
-        ["points"] = 9927.14,
+        ["points"] = 9927.16,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 519,
@@ -3184,7 +3184,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 81,
         ["kill_count"] = 35,
-        ["points"] = 9952.02,
+        ["points"] = 9952.03,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 537,
@@ -3226,7 +3226,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 207,
         ["kill_count"] = 19,
-        ["points"] = 9928.25,
+        ["points"] = 9928.26,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 835,
@@ -3241,7 +3241,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 15,
         ["kill_count"] = 16,
-        ["points"] = 9987.43,
+        ["points"] = 9987.44,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 745,
@@ -3283,7 +3283,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 118,
         ["kill_count"] = 18,
-        ["points"] = 9952.53,
+        ["points"] = 9952.54,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 25,
@@ -3298,7 +3298,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 252,
         ["kill_count"] = 18,
-        ["points"] = 9894.89,
+        ["points"] = 9894.92,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 613,
@@ -3340,7 +3340,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1174,
         ["kill_count"] = 88,
-        ["points"] = 9701.95,
+        ["points"] = 9702.02,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 382,
@@ -3355,7 +3355,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 914,
         ["kill_count"] = 58,
-        ["points"] = 9669.83,
+        ["points"] = 9669.9,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 39,
@@ -3397,7 +3397,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1120,
         ["kill_count"] = 19,
-        ["points"] = 9716.3,
+        ["points"] = 9716.37,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 15,
@@ -3412,7 +3412,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 472,
         ["kill_count"] = 19,
-        ["points"] = 9827.49,
+        ["points"] = 9827.53,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 793,
@@ -3454,7 +3454,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1158,
         ["kill_count"] = 43,
-        ["points"] = 9705.27,
+        ["points"] = 9705.33,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 512,
@@ -3469,7 +3469,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 264,
         ["kill_count"] = 43,
-        ["points"] = 9889.18,
+        ["points"] = 9889.21,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 468,
@@ -3511,7 +3511,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 439,
         ["kill_count"] = 30,
-        ["points"] = 9867.54,
+        ["points"] = 9867.56,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 33,
@@ -3526,7 +3526,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 663,
         ["kill_count"] = 26,
-        ["points"] = 9761.22,
+        ["points"] = 9761.28,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 202,
@@ -3568,7 +3568,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 10,
         ["kill_count"] = 23,
-        ["points"] = 9995.58,
+        ["points"] = 9995.59,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 109,
@@ -3583,7 +3583,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 105,
         ["kill_count"] = 18,
-        ["points"] = 9939.45,
+        ["points"] = 9939.46,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 108,
@@ -3640,7 +3640,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 525,
         ["kill_count"] = 34,
-        ["points"] = 9814.92,
+        ["points"] = 9814.96,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 54,
@@ -3682,7 +3682,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 658,
         ["kill_count"] = 28,
-        ["points"] = 9815.65,
+        ["points"] = 9815.69,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 304,
@@ -3697,7 +3697,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 336,
         ["kill_count"] = 25,
-        ["points"] = 9865.19,
+        ["points"] = 9865.22,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 137,
@@ -3739,7 +3739,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 309,
         ["kill_count"] = 10,
-        ["points"] = 9898.44,
+        ["points"] = 9898.47,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 632,
@@ -3754,7 +3754,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 116,
         ["kill_count"] = 11,
-        ["points"] = 9936.02,
+        ["points"] = 9936.04,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 579,
@@ -3796,7 +3796,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 306,
         ["kill_count"] = 31,
-        ["points"] = 9900.65,
+        ["points"] = 9900.67,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 110,
@@ -3811,7 +3811,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 272,
         ["kill_count"] = 31,
-        ["points"] = 9882.33,
+        ["points"] = 9882.35,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 450,
@@ -3853,7 +3853,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 656,
         ["kill_count"] = 37,
-        ["points"] = 9816.76,
+        ["points"] = 9816.8,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 17,
@@ -3868,7 +3868,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 142,
         ["kill_count"] = 65,
-        ["points"] = 9928.02,
+        ["points"] = 9928.04,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 626,
@@ -3910,7 +3910,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 253,
         ["kill_count"] = 24,
-        ["points"] = 9915.0,
+        ["points"] = 9915.02,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 871,
@@ -3925,7 +3925,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 256,
         ["kill_count"] = 19,
-        ["points"] = 9892.61,
+        ["points"] = 9892.63,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 563,
@@ -3967,7 +3967,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 898,
         ["kill_count"] = 30,
-        ["points"] = 9760.46,
+        ["points"] = 9760.51,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 844,
@@ -3982,7 +3982,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 532,
         ["kill_count"] = 25,
-        ["points"] = 9811.49,
+        ["points"] = 9811.54,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 481,
@@ -4024,7 +4024,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 186,
         ["kill_count"] = 41,
-        ["points"] = 9933.77,
+        ["points"] = 9933.78,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 787,
@@ -4039,7 +4039,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 542,
         ["kill_count"] = 30,
-        ["points"] = 9805.78,
+        ["points"] = 9805.83,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1425,
@@ -4081,7 +4081,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 713,
         ["kill_count"] = 56,
-        ["points"] = 9800.2,
+        ["points"] = 9800.24,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1168,
@@ -4096,7 +4096,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 615,
         ["kill_count"] = 49,
-        ["points"] = 9784.07,
+        ["points"] = 9784.12,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 728,
@@ -4138,7 +4138,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 135,
         ["kill_count"] = 30,
-        ["points"] = 9945.91,
+        ["points"] = 9945.92,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 759,
@@ -4153,7 +4153,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 95,
         ["kill_count"] = 25,
-        ["points"] = 9944.02,
+        ["points"] = 9944.03,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 176,
@@ -4195,7 +4195,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1152,
         ["kill_count"] = 25,
-        ["points"] = 9707.47,
+        ["points"] = 9707.54,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 546,
@@ -4210,7 +4210,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 186,
         ["kill_count"] = 24,
-        ["points"] = 9915.46,
+        ["points"] = 9915.48,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 288,
@@ -4252,7 +4252,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 416,
         ["kill_count"] = 33,
-        ["points"] = 9870.85,
+        ["points"] = 9870.88,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 69,
@@ -4267,7 +4267,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 224,
         ["kill_count"] = 26,
-        ["points"] = 9901.75,
+        ["points"] = 9901.77,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 389,
@@ -4309,7 +4309,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 95,
         ["kill_count"] = 16,
-        ["points"] = 9963.57,
+        ["points"] = 9963.58,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 615,
@@ -4324,7 +4324,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1210,
         ["kill_count"] = 10,
-        ["points"] = 9569.29,
+        ["points"] = 9569.39,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 141,
@@ -4366,7 +4366,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 723,
         ["kill_count"] = 20,
-        ["points"] = 9796.89,
+        ["points"] = 9796.93,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 252,
@@ -4381,7 +4381,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 850,
         ["kill_count"] = 33,
-        ["points"] = 9693.82,
+        ["points"] = 9693.89,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 547,
@@ -4423,7 +4423,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 617,
         ["kill_count"] = 32,
-        ["points"] = 9827.8,
+        ["points"] = 9827.83,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1366,
@@ -4438,7 +4438,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 929,
         ["kill_count"] = 45,
-        ["points"] = 9666.4,
+        ["points"] = 9666.48,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 457,
@@ -4480,7 +4480,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1382,
         ["kill_count"] = 44,
-        ["points"] = 9660.01,
+        ["points"] = 9660.08,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 91,
@@ -4495,7 +4495,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 941,
         ["kill_count"] = 33,
-        ["points"] = 9662.97,
+        ["points"] = 9663.05,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 449,
@@ -4537,7 +4537,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 525,
         ["kill_count"] = 47,
-        ["points"] = 9845.46,
+        ["points"] = 9845.49,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 146,
@@ -4552,7 +4552,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 267,
         ["kill_count"] = 36,
-        ["points"] = 9885.75,
+        ["points"] = 9885.78,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 286,
@@ -4594,7 +4594,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 188,
         ["kill_count"] = 24,
-        ["points"] = 9932.66,
+        ["points"] = 9932.68,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 373,
@@ -4609,7 +4609,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1249,
         ["kill_count"] = 37,
-        ["points"] = 9553.3,
+        ["points"] = 9553.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 371,
@@ -4651,7 +4651,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 488,
         ["kill_count"] = 18,
-        ["points"] = 9854.29,
+        ["points"] = 9854.32,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 63,
@@ -4708,7 +4708,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 300,
         ["kill_count"] = 9,
-        ["points"] = 9905.07,
+        ["points"] = 9905.09,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 317,
@@ -4723,7 +4723,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 711,
         ["kill_count"] = 9,
-        ["points"] = 9747.52,
+        ["points"] = 9747.57,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 257,
@@ -4765,7 +4765,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 539,
         ["kill_count"] = 22,
-        ["points"] = 9839.94,
+        ["points"] = 9839.97,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 516,
@@ -4780,7 +4780,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 397,
         ["kill_count"] = 30,
-        ["points"] = 9846.91,
+        ["points"] = 9846.94,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 796,
@@ -4822,7 +4822,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 718,
         ["kill_count"] = 30,
-        ["points"] = 9797.99,
+        ["points"] = 9798.04,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 284,
@@ -4837,7 +4837,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 649,
         ["kill_count"] = 30,
-        ["points"] = 9766.94,
+        ["points"] = 9766.99,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 412,
@@ -4879,7 +4879,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 264,
         ["kill_count"] = 41,
-        ["points"] = 9912.79,
+        ["points"] = 9912.81,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 652,
@@ -4894,7 +4894,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 378,
         ["kill_count"] = 41,
-        ["points"] = 9850.34,
+        ["points"] = 9850.37,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 658,
@@ -4936,7 +4936,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 161,
         ["kill_count"] = 46,
-        ["points"] = 9941.49,
+        ["points"] = 9941.51,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 842,
@@ -4951,7 +4951,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 500,
         ["kill_count"] = 23,
-        ["points"] = 9818.35,
+        ["points"] = 9818.39,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 189,
@@ -4993,7 +4993,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 466,
         ["kill_count"] = 19,
-        ["points"] = 9858.7,
+        ["points"] = 9858.74,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 72,
@@ -5008,7 +5008,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 220,
         ["kill_count"] = 12,
-        ["points"] = 9904.03,
+        ["points"] = 9904.05,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1016,
@@ -5050,7 +5050,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 524,
         ["kill_count"] = 40,
-        ["points"] = 9846.56,
+        ["points"] = 9846.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 29,
@@ -5065,7 +5065,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 293,
         ["kill_count"] = 34,
-        ["points"] = 9876.61,
+        ["points"] = 9876.64,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 691,
@@ -5107,7 +5107,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 615,
         ["kill_count"] = 27,
-        ["points"] = 9828.9,
+        ["points"] = 9828.94,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 161,
@@ -5122,7 +5122,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 172,
         ["kill_count"] = 24,
-        ["points"] = 9920.03,
+        ["points"] = 9920.05,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 138,
@@ -5164,7 +5164,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1875,
         ["kill_count"] = 23,
-        ["points"] = 9560.66,
+        ["points"] = 9560.75,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 967,
@@ -5179,7 +5179,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 93,
         ["kill_count"] = 33,
-        ["points"] = 9946.3,
+        ["points"] = 9946.32,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 180,
@@ -5221,7 +5221,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1839,
         ["kill_count"] = 10,
-        ["points"] = 9567.28,
+        ["points"] = 9567.38,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 201,
@@ -5236,7 +5236,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1186,
         ["kill_count"] = 6,
-        ["points"] = 9584.14,
+        ["points"] = 9584.24,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 952,
@@ -5278,7 +5278,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 236,
         ["kill_count"] = 44,
-        ["points"] = 9920.52,
+        ["points"] = 9920.54,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 149,
@@ -5335,7 +5335,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 653,
         ["kill_count"] = 53,
-        ["points"] = 9818.96,
+        ["points"] = 9819.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1375,
@@ -5392,7 +5392,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3140,
         ["kill_count"] = 57,
-        ["points"] = 9283.59,
+        ["points"] = 9283.74,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 36,
@@ -5449,7 +5449,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 174,
         ["kill_count"] = 33,
-        ["points"] = 9934.87,
+        ["points"] = 9934.89,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1277,
@@ -5464,7 +5464,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 878,
         ["kill_count"] = 32,
-        ["points"] = 9683.54,
+        ["points"] = 9683.61,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 188,
@@ -5506,7 +5506,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 987,
         ["kill_count"] = 15,
-        ["points"] = 9748.32,
+        ["points"] = 9748.37,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 630,
@@ -5521,7 +5521,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 342,
         ["kill_count"] = 14,
-        ["points"] = 9861.76,
+        ["points"] = 9861.79,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 373,
@@ -5563,7 +5563,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1404,
         ["kill_count"] = 18,
-        ["points"] = 9656.69,
+        ["points"] = 9656.77,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2136,
@@ -5578,7 +5578,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 461,
         ["kill_count"] = 16,
-        ["points"] = 9833.2,
+        ["points"] = 9833.24,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 239,
@@ -5620,7 +5620,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 697,
         ["kill_count"] = 26,
-        ["points"] = 9806.82,
+        ["points"] = 9806.86,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 81,
@@ -5635,7 +5635,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 99,
         ["kill_count"] = 19,
-        ["points"] = 9940.59,
+        ["points"] = 9940.61,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 773,
@@ -5677,7 +5677,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 228,
         ["kill_count"] = 12,
-        ["points"] = 9921.62,
+        ["points"] = 9921.64,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1007,
@@ -5692,7 +5692,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 868,
         ["kill_count"] = 28,
-        ["points"] = 9688.11,
+        ["points"] = 9688.18,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 629,
@@ -5734,7 +5734,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 801,
         ["kill_count"] = 23,
-        ["points"] = 9779.23,
+        ["points"] = 9779.27,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 379,
@@ -5749,7 +5749,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 553,
         ["kill_count"] = 23,
-        ["points"] = 9801.21,
+        ["points"] = 9801.26,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1839,
@@ -5791,7 +5791,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 831,
         ["kill_count"] = 31,
-        ["points"] = 9774.81,
+        ["points"] = 9774.86,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 187,
@@ -5806,7 +5806,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 943,
         ["kill_count"] = 32,
-        ["points"] = 9661.83,
+        ["points"] = 9661.91,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1383,
@@ -5848,7 +5848,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 415,
         ["kill_count"] = 37,
-        ["points"] = 9871.95,
+        ["points"] = 9871.98,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 351,
@@ -5905,7 +5905,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 702,
         ["kill_count"] = 27,
-        ["points"] = 9803.51,
+        ["points"] = 9803.55,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 223,
@@ -5920,7 +5920,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 575,
         ["kill_count"] = 17,
-        ["points"] = 9797.78,
+        ["points"] = 9797.83,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 831,
@@ -5962,7 +5962,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 211,
         ["kill_count"] = 33,
-        ["points"] = 9926.04,
+        ["points"] = 9926.06,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 258,
@@ -5977,7 +5977,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 752,
         ["kill_count"] = 33,
-        ["points"] = 9731.52,
+        ["points"] = 9731.58,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1624,
@@ -6019,7 +6019,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 121,
         ["kill_count"] = 23,
-        ["points"] = 9949.22,
+        ["points"] = 9949.23,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1231,
@@ -6034,7 +6034,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1005,
         ["kill_count"] = 22,
-        ["points"] = 9645.84,
+        ["points"] = 9645.92,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 559,
@@ -6076,7 +6076,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 372,
         ["kill_count"] = 19,
-        ["points"] = 9880.78,
+        ["points"] = 9880.81,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 681,
@@ -6091,7 +6091,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 637,
         ["kill_count"] = 19,
-        ["points"] = 9773.79,
+        ["points"] = 9773.84,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 319,
@@ -6133,7 +6133,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 785,
         ["kill_count"] = 64,
-        ["points"] = 9784.74,
+        ["points"] = 9784.79,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 218,
@@ -6148,7 +6148,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 549,
         ["kill_count"] = 41,
-        ["points"] = 9803.5,
+        ["points"] = 9803.54,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 752,
@@ -6190,7 +6190,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1372,
         ["kill_count"] = 7,
-        ["points"] = 9661.11,
+        ["points"] = 9661.19,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 295,
@@ -6205,7 +6205,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 314,
         ["kill_count"] = 5,
-        ["points"] = 9869.76,
+        ["points"] = 9869.79,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 990,
@@ -6247,7 +6247,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 855,
         ["kill_count"] = 19,
-        ["points"] = 9771.5,
+        ["points"] = 9771.55,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 45,
@@ -6262,7 +6262,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2022,
         ["kill_count"] = 16,
-        ["points"] = 9304.24,
+        ["points"] = 9304.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 305,
@@ -6304,7 +6304,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 509,
         ["kill_count"] = 46,
-        ["points"] = 9849.87,
+        ["points"] = 9849.91,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 590,
@@ -6319,7 +6319,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 171,
         ["kill_count"] = 37,
-        ["points"] = 9921.17,
+        ["points"] = 9921.19,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 729,
@@ -6361,7 +6361,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 782,
         ["kill_count"] = 35,
-        ["points"] = 9785.85,
+        ["points"] = 9785.9,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 582,
@@ -6376,7 +6376,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 636,
         ["kill_count"] = 23,
-        ["points"] = 9774.93,
+        ["points"] = 9774.99,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 198,
@@ -6418,7 +6418,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 274,
         ["kill_count"] = 18,
-        ["points"] = 9910.59,
+        ["points"] = 9910.61,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 818,
@@ -6433,7 +6433,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 388,
         ["kill_count"] = 33,
-        ["points"] = 9848.05,
+        ["points"] = 9848.09,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 758,
@@ -6475,7 +6475,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 345,
         ["kill_count"] = 13,
-        ["points"] = 9887.4,
+        ["points"] = 9887.43,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1355,
@@ -6490,7 +6490,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 84,
         ["kill_count"] = 29,
-        ["points"] = 9949.73,
+        ["points"] = 9949.74,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2862,
@@ -6532,7 +6532,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1007,
         ["kill_count"] = 28,
-        ["points"] = 9745.0,
+        ["points"] = 9745.06,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 642,
@@ -6547,7 +6547,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 59,
         ["kill_count"] = 29,
-        ["points"] = 9964.58,
+        ["points"] = 9964.59,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 668,
@@ -6589,7 +6589,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 623,
         ["kill_count"] = 16,
-        ["points"] = 9825.59,
+        ["points"] = 9825.63,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 241,
@@ -6646,7 +6646,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 114,
         ["kill_count"] = 25,
-        ["points"] = 9954.74,
+        ["points"] = 9954.75,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 857,
@@ -6661,7 +6661,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1406,
         ["kill_count"] = 26,
-        ["points"] = 9492.75,
+        ["points"] = 9492.86,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1348,
@@ -6703,7 +6703,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 730,
         ["kill_count"] = 52,
-        ["points"] = 9795.78,
+        ["points"] = 9795.83,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 289,
@@ -6718,7 +6718,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 758,
         ["kill_count"] = 38,
-        ["points"] = 9728.09,
+        ["points"] = 9728.16,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 30,
@@ -6760,7 +6760,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 772,
         ["kill_count"] = 36,
-        ["points"] = 9789.16,
+        ["points"] = 9789.21,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 963,
@@ -6775,7 +6775,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 589,
         ["kill_count"] = 35,
-        ["points"] = 9792.07,
+        ["points"] = 9792.12,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 467,
@@ -6817,7 +6817,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 467,
         ["kill_count"] = 9,
-        ["points"] = 9857.6,
+        ["points"] = 9857.63,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1397,
@@ -6832,7 +6832,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 266,
         ["kill_count"] = 9,
-        ["points"] = 9886.9,
+        ["points"] = 9886.92,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 265,
@@ -6874,7 +6874,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4906,
         ["kill_count"] = 31,
-        ["points"] = 8903.85,
+        ["points"] = 8904.09,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 440,
@@ -6889,7 +6889,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 552,
         ["kill_count"] = 30,
-        ["points"] = 9802.35,
+        ["points"] = 9802.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 614,
@@ -6931,7 +6931,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 830,
         ["kill_count"] = 23,
-        ["points"] = 9775.91,
+        ["points"] = 9775.96,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 147,
@@ -6946,7 +6946,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 862,
         ["kill_count"] = 13,
-        ["points"] = 9691.53,
+        ["points"] = 9691.6,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 866,
@@ -6988,7 +6988,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1622,
         ["kill_count"] = 69,
-        ["points"] = 9611.44,
+        ["points"] = 9611.52,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1072,
@@ -7003,7 +7003,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1425,
         ["kill_count"] = 69,
-        ["points"] = 9485.89,
+        ["points"] = 9486.01,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 582,
@@ -7045,7 +7045,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 438,
         ["kill_count"] = 60,
-        ["points"] = 9868.64,
+        ["points"] = 9868.67,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 202,
@@ -7060,12 +7060,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 652,
         ["kill_count"] = 61,
-        ["points"] = 9764.65,
+        ["points"] = 9764.71,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3142,
+        ["rank_raids"] = 3143,
         ["kill_count"] = 58,
-        ["points"] = 9010.71,
+        ["points"] = 9009.43,
       },
     },
   },
@@ -7102,7 +7102,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 285,
         ["kill_count"] = 51,
-        ["points"] = 9907.27,
+        ["points"] = 9907.3,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1046,
@@ -7117,7 +7117,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1256,
         ["kill_count"] = 48,
-        ["points"] = 9548.73,
+        ["points"] = 9548.83,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 651,
@@ -7159,7 +7159,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 715,
         ["kill_count"] = 25,
-        ["points"] = 9799.09,
+        ["points"] = 9799.14,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 78,
@@ -7174,7 +7174,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1574,
         ["kill_count"] = 26,
-        ["points"] = 9440.19,
+        ["points"] = 9440.32,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2066,
@@ -7216,7 +7216,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 171,
         ["kill_count"] = 22,
-        ["points"] = 9937.08,
+        ["points"] = 9937.09,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 619,
@@ -7231,7 +7231,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 538,
         ["kill_count"] = 22,
-        ["points"] = 9808.07,
+        ["points"] = 9808.11,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 564,
@@ -7273,7 +7273,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4491,
         ["kill_count"] = 13,
-        ["points"] = 8989.95,
+        ["points"] = 8990.18,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 926,
@@ -7288,7 +7288,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 697,
         ["kill_count"] = 17,
-        ["points"] = 9749.8,
+        ["points"] = 9749.86,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 510,
@@ -7330,7 +7330,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4245,
         ["kill_count"] = 26,
-        ["points"] = 9042.94,
+        ["points"] = 9043.15,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 217,
@@ -7345,7 +7345,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 124,
         ["kill_count"] = 28,
-        ["points"] = 9932.59,
+        ["points"] = 9932.61,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 674,
@@ -7387,7 +7387,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 248,
         ["kill_count"] = 22,
-        ["points"] = 9916.11,
+        ["points"] = 9916.12,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 297,
@@ -7402,7 +7402,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 686,
         ["kill_count"] = 18,
-        ["points"] = 9755.51,
+        ["points"] = 9755.57,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 735,
@@ -7444,7 +7444,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1494,
         ["kill_count"] = 37,
-        ["points"] = 9636.83,
+        ["points"] = 9636.91,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1184,
@@ -7459,7 +7459,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1742,
         ["kill_count"] = 17,
-        ["points"] = 9394.49,
+        ["points"] = 9394.63,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2100,
@@ -7501,7 +7501,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1513,
         ["kill_count"] = 5,
-        ["points"] = 9633.51,
+        ["points"] = 9633.59,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1623,
@@ -7516,7 +7516,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 292,
         ["kill_count"] = 7,
-        ["points"] = 9877.76,
+        ["points"] = 9877.78,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 374,
@@ -7558,7 +7558,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 337,
         ["kill_count"] = 28,
-        ["points"] = 9890.72,
+        ["points"] = 9890.74,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 719,
@@ -7573,7 +7573,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 326,
         ["kill_count"] = 27,
-        ["points"] = 9867.47,
+        ["points"] = 9867.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 420,
@@ -7615,7 +7615,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1013,
         ["kill_count"] = 24,
-        ["points"] = 9741.69,
+        ["points"] = 9741.75,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2474,
@@ -7630,7 +7630,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 370,
         ["kill_count"] = 15,
-        ["points"] = 9853.76,
+        ["points"] = 9853.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2083,
@@ -7672,7 +7672,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2937,
         ["kill_count"] = 24,
-        ["points"] = 9321.12,
+        ["points"] = 9321.27,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 788,
@@ -7687,7 +7687,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 667,
         ["kill_count"] = 20,
-        ["points"] = 9758.94,
+        ["points"] = 9758.99,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 567,
@@ -7729,7 +7729,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2263,
         ["kill_count"] = 38,
-        ["points"] = 9467.93,
+        ["points"] = 9468.05,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 486,
@@ -7744,7 +7744,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 123,
         ["kill_count"] = 41,
-        ["points"] = 9933.74,
+        ["points"] = 9933.75,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 366,
@@ -7786,7 +7786,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 343,
         ["kill_count"] = 16,
-        ["points"] = 9889.61,
+        ["points"] = 9889.64,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 397,
@@ -7801,7 +7801,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1573,
         ["kill_count"] = 12,
-        ["points"] = 9441.33,
+        ["points"] = 9441.46,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1167,
@@ -7843,7 +7843,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 986,
         ["kill_count"] = 14,
-        ["points"] = 9749.42,
+        ["points"] = 9749.48,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1343,
@@ -7858,7 +7858,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1042,
         ["kill_count"] = 16,
-        ["points"] = 9636.7,
+        ["points"] = 9636.78,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 400,
@@ -7900,7 +7900,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1065,
         ["kill_count"] = 17,
-        ["points"] = 9729.55,
+        ["points"] = 9729.61,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1504,
@@ -7915,7 +7915,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 269,
         ["kill_count"] = 9,
-        ["points"] = 9884.61,
+        ["points"] = 9884.64,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 262,
@@ -7957,7 +7957,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 756,
         ["kill_count"] = 26,
-        ["points"] = 9790.26,
+        ["points"] = 9790.31,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 667,
@@ -7972,7 +7972,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1393,
         ["kill_count"] = 13,
-        ["points"] = 9499.6,
+        ["points"] = 9499.71,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 782,
@@ -8014,7 +8014,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 587,
         ["kill_count"] = 10,
-        ["points"] = 9833.31,
+        ["points"] = 9833.35,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1133,
@@ -8029,7 +8029,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 599,
         ["kill_count"] = 8,
-        ["points"] = 9788.64,
+        ["points"] = 9788.69,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 949,
@@ -8071,7 +8071,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 753,
         ["kill_count"] = 12,
-        ["points"] = 9791.37,
+        ["points"] = 9791.41,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 229,
@@ -8086,7 +8086,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 489,
         ["kill_count"] = 13,
-        ["points"] = 9820.63,
+        ["points"] = 9820.67,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 42,
@@ -8128,7 +8128,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1940,
         ["kill_count"] = 15,
-        ["points"] = 9541.89,
+        ["points"] = 9541.99,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 905,
@@ -8143,7 +8143,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1472,
         ["kill_count"] = 7,
-        ["points"] = 9471.04,
+        ["points"] = 9471.16,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 487,
@@ -8185,7 +8185,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 667,
         ["kill_count"] = 27,
-        ["points"] = 9812.34,
+        ["points"] = 9812.38,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1592,
@@ -8200,7 +8200,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2383,
         ["kill_count"] = 32,
-        ["points"] = 9208.27,
+        ["points"] = 9208.45,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1058,
@@ -8242,7 +8242,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 961,
         ["kill_count"] = 13,
-        ["points"] = 9752.73,
+        ["points"] = 9752.79,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 774,
@@ -8257,7 +8257,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 311,
         ["kill_count"] = 14,
-        ["points"] = 9870.9,
+        ["points"] = 9870.93,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1137,
@@ -8299,7 +8299,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 655,
         ["kill_count"] = 39,
-        ["points"] = 9817.86,
+        ["points"] = 9817.9,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1620,
@@ -8314,7 +8314,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 638,
         ["kill_count"] = 27,
-        ["points"] = 9772.65,
+        ["points"] = 9772.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 622,
@@ -8356,7 +8356,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1976,
         ["kill_count"] = 15,
-        ["points"] = 9534.16,
+        ["points"] = 9534.27,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1110,
@@ -8371,7 +8371,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1083,
         ["kill_count"] = 11,
-        ["points"] = 9620.7,
+        ["points"] = 9620.79,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1503,
@@ -8413,7 +8413,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1061,
         ["kill_count"] = 30,
-        ["points"] = 9730.65,
+        ["points"] = 9730.71,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 880,
@@ -8428,12 +8428,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 238,
         ["kill_count"] = 31,
-        ["points"] = 9898.32,
+        ["points"] = 9898.34,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3045,
+        ["rank_raids"] = 3046,
         ["kill_count"] = 30,
-        ["points"] = 9033.66,
+        ["points"] = 9032.38,
       },
     },
   },
@@ -8470,7 +8470,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2471,
         ["kill_count"] = 28,
-        ["points"] = 9422.67,
+        ["points"] = 9422.8,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2,
@@ -8485,7 +8485,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1412,
         ["kill_count"] = 19,
-        ["points"] = 9490.46,
+        ["points"] = 9490.58,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1883,
@@ -8527,7 +8527,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 647,
         ["kill_count"] = 32,
-        ["points"] = 9821.17,
+        ["points"] = 9821.21,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 212,
@@ -8542,7 +8542,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 405,
         ["kill_count"] = 30,
-        ["points"] = 9843.48,
+        ["points"] = 9843.52,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1861,
@@ -8584,7 +8584,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 867,
         ["kill_count"] = 26,
-        ["points"] = 9768.19,
+        ["points"] = 9768.24,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 243,
@@ -8599,7 +8599,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2135,
         ["kill_count"] = 22,
-        ["points"] = 9275.68,
+        ["points"] = 9275.84,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2024,
@@ -8641,7 +8641,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 346,
         ["kill_count"] = 9,
-        ["points"] = 9886.3,
+        ["points"] = 9886.33,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2194,
@@ -8656,7 +8656,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 208,
         ["kill_count"] = 7,
-        ["points"] = 9906.32,
+        ["points"] = 9906.34,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2160,
@@ -8698,7 +8698,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3769,
         ["kill_count"] = 36,
-        ["points"] = 9153.33,
+        ["points"] = 9153.52,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 279,
@@ -8713,7 +8713,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 891,
         ["kill_count"] = 37,
-        ["points"] = 9677.82,
+        ["points"] = 9677.9,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 945,
@@ -8755,7 +8755,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 787,
         ["kill_count"] = 52,
-        ["points"] = 9783.64,
+        ["points"] = 9783.69,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2513,
@@ -8770,7 +8770,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 678,
         ["kill_count"] = 53,
-        ["points"] = 9757.8,
+        ["points"] = 9757.85,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 683,
@@ -8812,7 +8812,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1790,
         ["kill_count"] = 24,
-        ["points"] = 9580.53,
+        ["points"] = 9580.62,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 107,
@@ -8827,7 +8827,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 187,
         ["kill_count"] = 28,
-        ["points"] = 9914.32,
+        ["points"] = 9914.33,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 117,
@@ -8869,7 +8869,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 489,
         ["kill_count"] = 22,
-        ["points"] = 9853.18,
+        ["points"] = 9853.22,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 288,
@@ -8884,7 +8884,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 275,
         ["kill_count"] = 44,
-        ["points"] = 9881.18,
+        ["points"] = 9881.21,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 324,
@@ -8926,7 +8926,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 275,
         ["kill_count"] = 31,
-        ["points"] = 9909.48,
+        ["points"] = 9909.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 812,
@@ -8941,7 +8941,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1441,
         ["kill_count"] = 21,
-        ["points"] = 9479.04,
+        ["points"] = 9479.15,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 221,
@@ -8983,7 +8983,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 791,
         ["kill_count"] = 23,
-        ["points"] = 9781.43,
+        ["points"] = 9781.48,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 961,
@@ -8998,12 +8998,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 262,
         ["kill_count"] = 58,
-        ["points"] = 9890.32,
+        ["points"] = 9890.35,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3385,
+        ["rank_raids"] = 3386,
         ["kill_count"] = 21,
-        ["points"] = 8954.61,
+        ["points"] = 8953.34,
       },
     },
   },
@@ -9040,7 +9040,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1576,
         ["kill_count"] = 22,
-        ["points"] = 9619.16,
+        ["points"] = 9619.25,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 631,
@@ -9055,7 +9055,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1147,
         ["kill_count"] = 22,
-        ["points"] = 9601.28,
+        ["points"] = 9601.37,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1865,
@@ -9097,7 +9097,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1688,
         ["kill_count"] = 17,
-        ["points"] = 9598.19,
+        ["points"] = 9598.28,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 911,
@@ -9112,7 +9112,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1763,
         ["kill_count"] = 20,
-        ["points"] = 9384.21,
+        ["points"] = 9384.35,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 342,
@@ -9154,7 +9154,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 383,
         ["kill_count"] = 4,
-        ["points"] = 9877.47,
+        ["points"] = 9877.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 527,
@@ -9169,12 +9169,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1077,
         ["kill_count"] = 4,
-        ["points"] = 9624.13,
+        ["points"] = 9624.21,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3276,
+        ["rank_raids"] = 3277,
         ["kill_count"] = 4,
-        ["points"] = 8978.84,
+        ["points"] = 8977.56,
       },
     },
   },
@@ -9211,7 +9211,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1070,
         ["kill_count"] = 16,
-        ["points"] = 9727.34,
+        ["points"] = 9727.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1615,
@@ -9226,7 +9226,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 664,
         ["kill_count"] = 19,
-        ["points"] = 9760.08,
+        ["points"] = 9760.14,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 64,
@@ -9268,7 +9268,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 449,
         ["kill_count"] = 21,
-        ["points"] = 9864.22,
+        ["points"] = 9864.25,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 175,
@@ -9283,7 +9283,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3756,
         ["kill_count"] = 22,
-        ["points"] = 8792.41,
+        ["points"] = 8792.69,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1498,
@@ -9325,7 +9325,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 956,
         ["kill_count"] = 28,
-        ["points"] = 9754.94,
+        ["points"] = 9754.99,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1166,
@@ -9340,7 +9340,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 645,
         ["kill_count"] = 22,
-        ["points"] = 9768.08,
+        ["points"] = 9768.13,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2977,
@@ -9382,7 +9382,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1011,
         ["kill_count"] = 35,
-        ["points"] = 9742.8,
+        ["points"] = 9742.85,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 662,
@@ -9397,7 +9397,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 727,
         ["kill_count"] = 35,
-        ["points"] = 9740.66,
+        ["points"] = 9740.72,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2481,
@@ -9439,7 +9439,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 242,
         ["kill_count"] = 17,
-        ["points"] = 9918.31,
+        ["points"] = 9918.33,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1516,
@@ -9454,7 +9454,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1126,
         ["kill_count"] = 23,
-        ["points"] = 9606.99,
+        ["points"] = 9607.08,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 601,
@@ -9496,7 +9496,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 399,
         ["kill_count"] = 15,
-        ["points"] = 9875.26,
+        ["points"] = 9875.29,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1612,
@@ -9511,7 +9511,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 827,
         ["kill_count"] = 16,
-        ["points"] = 9701.82,
+        ["points"] = 9701.88,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 675,
@@ -9553,7 +9553,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1283,
         ["kill_count"] = 34,
-        ["points"] = 9680.98,
+        ["points"] = 9681.05,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 471,
@@ -9568,7 +9568,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 337,
         ["kill_count"] = 33,
-        ["points"] = 9864.05,
+        ["points"] = 9864.08,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1698,
@@ -9610,7 +9610,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 583,
         ["kill_count"] = 37,
-        ["points"] = 9834.42,
+        ["points"] = 9834.46,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2889,
@@ -9625,7 +9625,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 716,
         ["kill_count"] = 37,
-        ["points"] = 9745.23,
+        ["points"] = 9745.29,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 554,
@@ -9635,7 +9635,7 @@ UWULogsData[4][3] = {
     },
   },
   ["Sela"] = {
-    ["percentile"] = 96.61,
+    ["percentile"] = 96.6,
     ["server"] = "Icecrown",
     ["overall_rank"] = 171,
     ["bosses"] = {
@@ -9667,7 +9667,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 895,
         ["kill_count"] = 23,
-        ["points"] = 9761.56,
+        ["points"] = 9761.62,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1512,
@@ -9682,12 +9682,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 96,
         ["kill_count"] = 21,
-        ["points"] = 9942.88,
+        ["points"] = 9942.89,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3166,
+        ["rank_raids"] = 3167,
         ["kill_count"] = 24,
-        ["points"] = 9004.33,
+        ["points"] = 9003.06,
       },
     },
   },
@@ -9724,7 +9724,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2767,
         ["kill_count"] = 19,
-        ["points"] = 9360.86,
+        ["points"] = 9361.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 922,
@@ -9739,7 +9739,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 277,
         ["kill_count"] = 32,
-        ["points"] = 9880.04,
+        ["points"] = 9880.07,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 464,
@@ -9781,7 +9781,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1646,
         ["kill_count"] = 11,
-        ["points"] = 9605.92,
+        ["points"] = 9606.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 547,
@@ -9796,7 +9796,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1165,
         ["kill_count"] = 11,
-        ["points"] = 9594.42,
+        ["points"] = 9594.52,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1227,
@@ -9838,7 +9838,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 119,
         ["kill_count"] = 29,
-        ["points"] = 9951.43,
+        ["points"] = 9951.44,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 721,
@@ -9853,7 +9853,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1432,
         ["kill_count"] = 25,
-        ["points"] = 9482.46,
+        ["points"] = 9482.58,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 453,
@@ -9895,7 +9895,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 326,
         ["kill_count"] = 13,
-        ["points"] = 9895.13,
+        ["points"] = 9895.16,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 696,
@@ -9910,7 +9910,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 183,
         ["kill_count"] = 10,
-        ["points"] = 9916.6,
+        ["points"] = 9916.62,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1345,
@@ -9952,7 +9952,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 516,
         ["kill_count"] = 38,
-        ["points"] = 9847.67,
+        ["points"] = 9847.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 448,
@@ -9967,7 +9967,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 482,
         ["kill_count"] = 38,
-        ["points"] = 9822.92,
+        ["points"] = 9822.96,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2094,
@@ -10009,7 +10009,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1108,
         ["kill_count"] = 19,
-        ["points"] = 9719.62,
+        ["points"] = 9719.68,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2816,
@@ -10024,7 +10024,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 641,
         ["kill_count"] = 21,
-        ["points"] = 9770.36,
+        ["points"] = 9770.42,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 268,
@@ -10066,7 +10066,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 333,
         ["kill_count"] = 24,
-        ["points"] = 9894.03,
+        ["points"] = 9894.05,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1575,
@@ -10123,7 +10123,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 462,
         ["kill_count"] = 5,
-        ["points"] = 9860.91,
+        ["points"] = 9860.94,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 42,
@@ -10138,7 +10138,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 46,
         ["kill_count"] = 5,
-        ["points"] = 9973.72,
+        ["points"] = 9973.73,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 396,
@@ -10180,7 +10180,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 360,
         ["kill_count"] = 21,
-        ["points"] = 9882.99,
+        ["points"] = 9883.02,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 944,
@@ -10195,7 +10195,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 879,
         ["kill_count"] = 21,
-        ["points"] = 9682.39,
+        ["points"] = 9682.47,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 576,
@@ -10237,7 +10237,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2011,
         ["kill_count"] = 24,
-        ["points"] = 9523.13,
+        ["points"] = 9523.23,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 138,
@@ -10252,7 +10252,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 747,
         ["kill_count"] = 22,
-        ["points"] = 9734.95,
+        ["points"] = 9735.01,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 823,
@@ -10294,7 +10294,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 303,
         ["kill_count"] = 28,
-        ["points"] = 9902.86,
+        ["points"] = 9902.88,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 142,
@@ -10309,7 +10309,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1242,
         ["kill_count"] = 19,
-        ["points"] = 9556.72,
+        ["points"] = 9556.82,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 159,
@@ -10351,7 +10351,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2570,
         ["kill_count"] = 36,
-        ["points"] = 9400.6,
+        ["points"] = 9400.73,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 601,
@@ -10366,7 +10366,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 764,
         ["kill_count"] = 33,
-        ["points"] = 9725.81,
+        ["points"] = 9725.87,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1985,
@@ -10408,7 +10408,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1124,
         ["kill_count"] = 48,
-        ["points"] = 9715.2,
+        ["points"] = 9715.26,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 336,
@@ -10423,7 +10423,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 626,
         ["kill_count"] = 52,
-        ["points"] = 9779.5,
+        ["points"] = 9779.55,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 853,
@@ -10465,7 +10465,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 245,
         ["kill_count"] = 27,
-        ["points"] = 9917.21,
+        ["points"] = 9917.23,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1099,
@@ -10480,7 +10480,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3051,
         ["kill_count"] = 23,
-        ["points"] = 8994.63,
+        ["points"] = 8994.86,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 393,
@@ -10522,7 +10522,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 498,
         ["kill_count"] = 15,
-        ["points"] = 9850.98,
+        ["points"] = 9851.01,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1919,
@@ -10537,7 +10537,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 190,
         ["kill_count"] = 15,
-        ["points"] = 9913.17,
+        ["points"] = 9913.19,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1594,
@@ -10579,7 +10579,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 671,
         ["kill_count"] = 33,
-        ["points"] = 9811.24,
+        ["points"] = 9811.28,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 899,
@@ -10594,7 +10594,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 822,
         ["kill_count"] = 24,
-        ["points"] = 9705.24,
+        ["points"] = 9705.31,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2563,
@@ -10636,7 +10636,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 893,
         ["kill_count"] = 30,
-        ["points"] = 9762.67,
+        ["points"] = 9762.72,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 743,
@@ -10651,7 +10651,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 194,
         ["kill_count"] = 32,
-        ["points"] = 9910.89,
+        ["points"] = 9910.91,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1169,
@@ -10693,7 +10693,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 793,
         ["kill_count"] = 38,
-        ["points"] = 9780.33,
+        ["points"] = 9780.38,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1614,
@@ -10708,7 +10708,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 866,
         ["kill_count"] = 37,
-        ["points"] = 9690.39,
+        ["points"] = 9690.46,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1108,
@@ -10750,7 +10750,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 864,
         ["kill_count"] = 8,
-        ["points"] = 9770.39,
+        ["points"] = 9770.44,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5403,
@@ -10765,7 +10765,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 591,
         ["kill_count"] = 22,
-        ["points"] = 9790.93,
+        ["points"] = 9790.98,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 689,
@@ -10807,7 +10807,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1190,
         ["kill_count"] = 23,
-        ["points"] = 9696.43,
+        ["points"] = 9696.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 515,
@@ -10822,7 +10822,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 755,
         ["kill_count"] = 23,
-        ["points"] = 9729.24,
+        ["points"] = 9729.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1945,
@@ -10864,7 +10864,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 965,
         ["kill_count"] = 37,
-        ["points"] = 9751.63,
+        ["points"] = 9751.68,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1949,
@@ -10879,7 +10879,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1203,
         ["kill_count"] = 21,
-        ["points"] = 9573.86,
+        ["points"] = 9573.96,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2746,
@@ -10921,7 +10921,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2591,
         ["kill_count"] = 34,
-        ["points"] = 9393.97,
+        ["points"] = 9394.11,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1259,
@@ -10936,7 +10936,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1417,
         ["kill_count"] = 28,
-        ["points"] = 9488.18,
+        ["points"] = 9488.29,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2096,
@@ -10978,7 +10978,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2046,
         ["kill_count"] = 23,
-        ["points"] = 9510.98,
+        ["points"] = 9511.09,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 603,
@@ -10993,12 +10993,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1639,
         ["kill_count"] = 21,
-        ["points"] = 9424.2,
+        ["points"] = 9424.33,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3242,
+        ["rank_raids"] = 3243,
         ["kill_count"] = 20,
-        ["points"] = 8985.21,
+        ["points"] = 8983.94,
       },
     },
   },
@@ -11035,7 +11035,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 599,
         ["kill_count"] = 29,
-        ["points"] = 9830.0,
+        ["points"] = 9830.04,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4385,
@@ -11050,7 +11050,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1240,
         ["kill_count"] = 30,
-        ["points"] = 9559.01,
+        ["points"] = 9559.11,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1180,
@@ -11092,7 +11092,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1602,
         ["kill_count"] = 15,
-        ["points"] = 9612.54,
+        ["points"] = 9612.63,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 498,
@@ -11107,7 +11107,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 896,
         ["kill_count"] = 8,
-        ["points"] = 9676.68,
+        ["points"] = 9676.76,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2910,
@@ -11149,7 +11149,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 368,
         ["kill_count"] = 28,
-        ["points"] = 9881.89,
+        ["points"] = 9881.91,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2091,
@@ -11164,7 +11164,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1486,
         ["kill_count"] = 29,
-        ["points"] = 9467.61,
+        ["points"] = 9467.73,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 743,
@@ -11206,7 +11206,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 911,
         ["kill_count"] = 31,
-        ["points"] = 9759.36,
+        ["points"] = 9759.41,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 707,
@@ -11221,7 +11221,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 380,
         ["kill_count"] = 31,
-        ["points"] = 9849.19,
+        ["points"] = 9849.23,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 142,
@@ -11263,7 +11263,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 834,
         ["kill_count"] = 29,
-        ["points"] = 9773.71,
+        ["points"] = 9773.76,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1425,
@@ -11278,7 +11278,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 530,
         ["kill_count"] = 30,
-        ["points"] = 9812.64,
+        ["points"] = 9812.68,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 727,
@@ -11320,7 +11320,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 321,
         ["kill_count"] = 14,
-        ["points"] = 9896.24,
+        ["points"] = 9896.26,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 385,
@@ -11335,7 +11335,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1208,
         ["kill_count"] = 17,
-        ["points"] = 9571.58,
+        ["points"] = 9571.67,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1940,
@@ -11377,7 +11377,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4114,
         ["kill_count"] = 6,
-        ["points"] = 9066.12,
+        ["points"] = 9066.33,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3221,
@@ -11392,7 +11392,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1474,
         ["kill_count"] = 3,
-        ["points"] = 9469.9,
+        ["points"] = 9470.02,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 620,
@@ -11434,7 +11434,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 355,
         ["kill_count"] = 18,
-        ["points"] = 9885.2,
+        ["points"] = 9885.22,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 656,
@@ -11449,7 +11449,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 709,
         ["kill_count"] = 26,
-        ["points"] = 9748.66,
+        ["points"] = 9748.72,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 418,
@@ -11491,7 +11491,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 559,
         ["kill_count"] = 10,
-        ["points"] = 9836.63,
+        ["points"] = 9836.66,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 557,
@@ -11506,7 +11506,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 350,
         ["kill_count"] = 16,
-        ["points"] = 9860.62,
+        ["points"] = 9860.65,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2234,
@@ -11548,7 +11548,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1581,
         ["kill_count"] = 18,
-        ["points"] = 9618.06,
+        ["points"] = 9618.14,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1725,
@@ -11563,12 +11563,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1332,
         ["kill_count"] = 17,
-        ["points"] = 9528.16,
+        ["points"] = 9528.27,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4224,
+        ["rank_raids"] = 4225,
         ["kill_count"] = 15,
-        ["points"] = 8737.89,
+        ["points"] = 8736.61,
       },
     },
   },
@@ -11605,7 +11605,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 101,
         ["kill_count"] = 39,
-        ["points"] = 9960.26,
+        ["points"] = 9960.27,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 73,
@@ -11620,7 +11620,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 159,
         ["kill_count"] = 41,
-        ["points"] = 9924.6,
+        ["points"] = 9924.61,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 37,
@@ -11662,7 +11662,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1792,
         ["kill_count"] = 15,
-        ["points"] = 9579.42,
+        ["points"] = 9579.52,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1393,
@@ -11677,7 +11677,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1252,
         ["kill_count"] = 15,
-        ["points"] = 9552.15,
+        ["points"] = 9552.26,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1048,
@@ -11719,7 +11719,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1299,
         ["kill_count"] = 17,
-        ["points"] = 9677.67,
+        ["points"] = 9677.74,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3222,
@@ -11734,7 +11734,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1348,
         ["kill_count"] = 15,
-        ["points"] = 9520.16,
+        ["points"] = 9520.27,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1974,
@@ -11776,7 +11776,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 381,
         ["kill_count"] = 24,
-        ["points"] = 9879.68,
+        ["points"] = 9879.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 105,
@@ -11791,7 +11791,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 281,
         ["kill_count"] = 20,
-        ["points"] = 9878.9,
+        ["points"] = 9878.93,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2025,
@@ -11833,7 +11833,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1592,
         ["kill_count"] = 11,
-        ["points"] = 9615.85,
+        ["points"] = 9615.94,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 411,
@@ -11848,7 +11848,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5020,
         ["kill_count"] = 7,
-        ["points"] = 8419.97,
+        ["points"] = 8420.33,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1420,
@@ -11890,7 +11890,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1294,
         ["kill_count"] = 11,
-        ["points"] = 9678.77,
+        ["points"] = 9678.84,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3070,
@@ -11905,7 +11905,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3526,
         ["kill_count"] = 11,
-        ["points"] = 8876.96,
+        ["points"] = 8877.21,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 667,
@@ -11947,7 +11947,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1901,
         ["kill_count"] = 8,
-        ["points"] = 9554.03,
+        ["points"] = 9554.13,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4208,
@@ -11962,7 +11962,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1627,
         ["kill_count"] = 6,
-        ["points"] = 9425.34,
+        ["points"] = 9425.47,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 681,
@@ -12004,7 +12004,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 700,
         ["kill_count"] = 13,
-        ["points"] = 9804.61,
+        ["points"] = 9804.66,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 314,
@@ -12019,7 +12019,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1590,
         ["kill_count"] = 14,
-        ["points"] = 9434.48,
+        ["points"] = 9434.61,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 372,
@@ -12061,7 +12061,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 621,
         ["kill_count"] = 22,
-        ["points"] = 9826.69,
+        ["points"] = 9826.73,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 329,
@@ -12076,7 +12076,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 341,
         ["kill_count"] = 34,
-        ["points"] = 9862.9,
+        ["points"] = 9862.94,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1039,
@@ -12118,7 +12118,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2734,
         ["kill_count"] = 19,
-        ["points"] = 9369.69,
+        ["points"] = 9369.83,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2158,
@@ -12133,7 +12133,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 536,
         ["kill_count"] = 19,
-        ["points"] = 9809.21,
+        ["points"] = 9809.25,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 826,
@@ -12175,7 +12175,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 687,
         ["kill_count"] = 21,
-        ["points"] = 9810.13,
+        ["points"] = 9810.18,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 610,
@@ -12190,7 +12190,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2258,
         ["kill_count"] = 22,
-        ["points"] = 9252.83,
+        ["points"] = 9253.0,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 679,
@@ -12200,7 +12200,7 @@ UWULogsData[4][3] = {
     },
   },
   ["Axamuk"] = {
-    ["percentile"] = 95.9,
+    ["percentile"] = 95.89,
     ["server"] = "Icecrown",
     ["overall_rank"] = 216,
     ["bosses"] = {
@@ -12232,7 +12232,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1806,
         ["kill_count"] = 17,
-        ["points"] = 9577.22,
+        ["points"] = 9577.31,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 795,
@@ -12247,12 +12247,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4420,
         ["kill_count"] = 13,
-        ["points"] = 8578.77,
+        ["points"] = 8579.1,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3009,
+        ["rank_raids"] = 3010,
         ["kill_count"] = 15,
-        ["points"] = 9041.31,
+        ["points"] = 9040.03,
       },
     },
   },
@@ -12289,7 +12289,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1991,
         ["kill_count"] = 16,
-        ["points"] = 9528.65,
+        ["points"] = 9528.75,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 698,
@@ -12304,7 +12304,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 653,
         ["kill_count"] = 21,
-        ["points"] = 9763.51,
+        ["points"] = 9763.56,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 887,
@@ -12346,7 +12346,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1827,
         ["kill_count"] = 17,
-        ["points"] = 9572.8,
+        ["points"] = 9572.89,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 894,
@@ -12361,7 +12361,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1316,
         ["kill_count"] = 17,
-        ["points"] = 9532.73,
+        ["points"] = 9532.84,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2727,
@@ -12403,7 +12403,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 821,
         ["kill_count"] = 23,
-        ["points"] = 9777.02,
+        ["points"] = 9777.07,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1288,
@@ -12418,7 +12418,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 882,
         ["kill_count"] = 19,
-        ["points"] = 9680.11,
+        ["points"] = 9680.18,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2303,
@@ -12460,7 +12460,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1091,
         ["kill_count"] = 9,
-        ["points"] = 9722.93,
+        ["points"] = 9722.99,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 633,
@@ -12475,7 +12475,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4325,
         ["kill_count"] = 4,
-        ["points"] = 8615.33,
+        ["points"] = 8615.65,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 756,
@@ -12517,7 +12517,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1637,
         ["kill_count"] = 7,
-        ["points"] = 9609.23,
+        ["points"] = 9609.31,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 387,
@@ -12532,12 +12532,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 121,
         ["kill_count"] = 11,
-        ["points"] = 9934.88,
+        ["points"] = 9934.89,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3110,
+        ["rank_raids"] = 3111,
         ["kill_count"] = 6,
-        ["points"] = 9014.53,
+        ["points"] = 9013.26,
       },
     },
   },
@@ -12574,7 +12574,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 238,
         ["kill_count"] = 3,
-        ["points"] = 9919.42,
+        ["points"] = 9919.43,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 52,
@@ -12589,7 +12589,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 72,
         ["kill_count"] = 3,
-        ["points"] = 9957.73,
+        ["points"] = 9957.74,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 261,
@@ -12631,7 +12631,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1310,
         ["kill_count"] = 5,
-        ["points"] = 9676.56,
+        ["points"] = 9676.64,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2006,
@@ -12646,7 +12646,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 753,
         ["kill_count"] = 24,
-        ["points"] = 9730.38,
+        ["points"] = 9730.44,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1086,
@@ -12688,7 +12688,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3423,
         ["kill_count"] = 19,
-        ["points"] = 9233.91,
+        ["points"] = 9234.08,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4132,
@@ -12703,7 +12703,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2694,
         ["kill_count"] = 20,
-        ["points"] = 9099.74,
+        ["points"] = 9099.94,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2126,
@@ -12745,7 +12745,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 452,
         ["kill_count"] = 18,
-        ["points"] = 9863.12,
+        ["points"] = 9863.15,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 742,
@@ -12760,7 +12760,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 368,
         ["kill_count"] = 27,
-        ["points"] = 9854.91,
+        ["points"] = 9854.94,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2930,
@@ -12802,7 +12802,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 868,
         ["kill_count"] = 16,
-        ["points"] = 9767.08,
+        ["points"] = 9767.13,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 453,
@@ -12817,7 +12817,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 261,
         ["kill_count"] = 17,
-        ["points"] = 9891.47,
+        ["points"] = 9891.49,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 865,
@@ -12859,7 +12859,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1663,
         ["kill_count"] = 22,
-        ["points"] = 9602.61,
+        ["points"] = 9602.69,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1410,
@@ -12874,7 +12874,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1183,
         ["kill_count"] = 17,
-        ["points"] = 9586.43,
+        ["points"] = 9586.52,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1732,
@@ -12916,7 +12916,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2246,
         ["kill_count"] = 27,
-        ["points"] = 9473.45,
+        ["points"] = 9473.57,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 391,
@@ -12931,7 +12931,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 620,
         ["kill_count"] = 20,
-        ["points"] = 9781.79,
+        ["points"] = 9781.84,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 53,
@@ -12973,7 +12973,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 216,
         ["kill_count"] = 17,
-        ["points"] = 9924.94,
+        ["points"] = 9924.95,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 235,
@@ -12988,7 +12988,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3242,
         ["kill_count"] = 17,
-        ["points"] = 8954.64,
+        ["points"] = 8954.88,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 954,
@@ -13030,7 +13030,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1183,
         ["kill_count"] = 9,
-        ["points"] = 9698.64,
+        ["points"] = 9698.71,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1768,
@@ -13045,7 +13045,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2413,
         ["kill_count"] = 9,
-        ["points"] = 9203.7,
+        ["points"] = 9203.88,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1061,
@@ -13087,7 +13087,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2164,
         ["kill_count"] = 65,
-        ["points"] = 9486.7,
+        ["points"] = 9486.81,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1170,
@@ -13102,12 +13102,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2821,
         ["kill_count"] = 57,
-        ["points"] = 9063.18,
+        ["points"] = 9063.39,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4021,
+        ["rank_raids"] = 4022,
         ["kill_count"] = 58,
-        ["points"] = 8792.71,
+        ["points"] = 8791.43,
       },
     },
   },
@@ -13144,7 +13144,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3220,
         ["kill_count"] = 17,
-        ["points"] = 9263.72,
+        ["points"] = 9263.88,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 495,
@@ -13159,7 +13159,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1626,
         ["kill_count"] = 15,
-        ["points"] = 9426.48,
+        ["points"] = 9426.61,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2038,
@@ -13201,7 +13201,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 311,
         ["kill_count"] = 25,
-        ["points"] = 9897.34,
+        ["points"] = 9897.36,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 677,
@@ -13216,7 +13216,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1357,
         ["kill_count"] = 24,
-        ["points"] = 9515.59,
+        ["points"] = 9515.71,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 204,
@@ -13258,7 +13258,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2533,
         ["kill_count"] = 18,
-        ["points"] = 9409.43,
+        ["points"] = 9409.56,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 477,
@@ -13273,7 +13273,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3166,
         ["kill_count"] = 17,
-        ["points"] = 8968.35,
+        ["points"] = 8968.59,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 905,
@@ -13315,7 +13315,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2557,
         ["kill_count"] = 20,
-        ["points"] = 9403.91,
+        ["points"] = 9404.04,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1111,
@@ -13330,12 +13330,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 981,
         ["kill_count"] = 18,
-        ["points"] = 9651.55,
+        ["points"] = 9651.63,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3866,
+        ["rank_raids"] = 3867,
         ["kill_count"] = 19,
-        ["points"] = 8832.23,
+        ["points"] = 8830.95,
       },
     },
   },
@@ -13372,7 +13372,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1631,
         ["kill_count"] = 19,
-        ["points"] = 9610.33,
+        ["points"] = 9610.42,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1653,
@@ -13387,7 +13387,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3905,
         ["kill_count"] = 14,
-        ["points"] = 8742.15,
+        ["points"] = 8742.43,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 254,
@@ -13429,7 +13429,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 440,
         ["kill_count"] = 18,
-        ["points"] = 9866.43,
+        ["points"] = 9866.46,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2941,
@@ -13444,7 +13444,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1746,
         ["kill_count"] = 22,
-        ["points"] = 9392.21,
+        ["points"] = 9392.35,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2623,
@@ -13486,7 +13486,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 582,
         ["kill_count"] = 17,
-        ["points"] = 9835.52,
+        ["points"] = 9835.56,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 760,
@@ -13501,7 +13501,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1894,
         ["kill_count"] = 24,
-        ["points"] = 9343.08,
+        ["points"] = 9343.23,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 546,
@@ -13543,7 +13543,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 476,
         ["kill_count"] = 22,
-        ["points"] = 9856.5,
+        ["points"] = 9856.53,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 348,
@@ -13558,10 +13558,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 998,
         ["kill_count"] = 20,
-        ["points"] = 9649.26,
+        ["points"] = 9649.34,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7198,
+        ["rank_raids"] = 7199,
         ["kill_count"] = 19,
         ["points"] = 8025.24,
       },
@@ -13600,7 +13600,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1269,
         ["kill_count"] = 8,
-        ["points"] = 9684.29,
+        ["points"] = 9684.36,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2375,
@@ -13615,7 +13615,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1264,
         ["kill_count"] = 14,
-        ["points"] = 9546.44,
+        ["points"] = 9546.54,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 488,
@@ -13657,7 +13657,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 746,
         ["kill_count"] = 17,
-        ["points"] = 9793.58,
+        ["points"] = 9793.62,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 104,
@@ -13672,7 +13672,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 773,
         ["kill_count"] = 17,
-        ["points"] = 9722.38,
+        ["points"] = 9722.44,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1299,
@@ -13714,7 +13714,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 455,
         ["kill_count"] = 15,
-        ["points"] = 9862.02,
+        ["points"] = 9862.05,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3066,
@@ -13729,7 +13729,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1036,
         ["kill_count"] = 11,
-        ["points"] = 9638.98,
+        ["points"] = 9639.06,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1159,
@@ -13771,7 +13771,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1167,
         ["kill_count"] = 8,
-        ["points"] = 9704.16,
+        ["points"] = 9704.23,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1038,
@@ -13786,7 +13786,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1496,
         ["kill_count"] = 8,
-        ["points"] = 9464.18,
+        ["points"] = 9464.31,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 242,
@@ -13795,67 +13795,10 @@ UWULogsData[4][3] = {
       },
     },
   },
-  ["Ttumbolacasa"] = {
-    ["percentile"] = 95.48,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 244,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2073,
-        ["kill_count"] = 25,
-        ["points"] = 9340.93,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 1994,
-        ["kill_count"] = 25,
-        ["points"] = 9387.31,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 591,
-        ["kill_count"] = 26,
-        ["points"] = 9809.98,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 561,
-        ["kill_count"] = 27,
-        ["points"] = 9786.98,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 1193,
-        ["kill_count"] = 27,
-        ["points"] = 9619.96,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 1290,
-        ["kill_count"] = 27,
-        ["points"] = 9679.88,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 754,
-        ["kill_count"] = 23,
-        ["points"] = 9765.98,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 564,
-        ["kill_count"] = 27,
-        ["points"] = 9731.97,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 1497,
-        ["kill_count"] = 19,
-        ["points"] = 9463.04,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 4005,
-        ["kill_count"] = 29,
-        ["points"] = 8796.53,
-      },
-    },
-  },
   ["Lightquest"] = {
     ["percentile"] = 95.48,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 245,
+    ["overall_rank"] = 244,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1495,
@@ -13885,7 +13828,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2127,
         ["kill_count"] = 50,
-        ["points"] = 9495.53,
+        ["points"] = 9495.64,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1450,
@@ -13900,12 +13843,69 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1888,
         ["kill_count"] = 34,
-        ["points"] = 9344.22,
+        ["points"] = 9344.37,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2525,
         ["kill_count"] = 48,
         ["points"] = 9177.72,
+      },
+    },
+  },
+  ["Ttumbolacasa"] = {
+    ["percentile"] = 95.48,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 245,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 2073,
+        ["kill_count"] = 25,
+        ["points"] = 9340.93,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 1994,
+        ["kill_count"] = 25,
+        ["points"] = 9387.31,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 591,
+        ["kill_count"] = 26,
+        ["points"] = 9809.98,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 561,
+        ["kill_count"] = 27,
+        ["points"] = 9786.98,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 1193,
+        ["kill_count"] = 27,
+        ["points"] = 9619.96,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 1290,
+        ["kill_count"] = 27,
+        ["points"] = 9679.95,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 754,
+        ["kill_count"] = 23,
+        ["points"] = 9765.98,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 564,
+        ["kill_count"] = 27,
+        ["points"] = 9731.97,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 1497,
+        ["kill_count"] = 19,
+        ["points"] = 9463.16,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 4006,
+        ["kill_count"] = 29,
+        ["points"] = 8795.26,
       },
     },
   },
@@ -13942,7 +13942,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4937,
         ["kill_count"] = 21,
-        ["points"] = 8897.23,
+        ["points"] = 8897.47,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 434,
@@ -13957,7 +13957,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 362,
         ["kill_count"] = 24,
-        ["points"] = 9857.19,
+        ["points"] = 9857.22,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1131,
@@ -13999,7 +13999,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2505,
         ["kill_count"] = 37,
-        ["points"] = 9413.84,
+        ["points"] = 9413.97,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 99,
@@ -14014,7 +14014,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3228,
         ["kill_count"] = 14,
-        ["points"] = 8956.93,
+        ["points"] = 8957.17,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2207,
@@ -14056,7 +14056,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1933,
         ["kill_count"] = 21,
-        ["points"] = 9544.1,
+        ["points"] = 9544.2,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1050,
@@ -14071,7 +14071,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2878,
         ["kill_count"] = 16,
-        ["points"] = 9047.18,
+        ["points"] = 9047.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2566,
@@ -14113,7 +14113,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 441,
         ["kill_count"] = 6,
-        ["points"] = 9865.33,
+        ["points"] = 9865.36,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1673,
@@ -14128,7 +14128,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2316,
         ["kill_count"] = 7,
-        ["points"] = 9228.84,
+        ["points"] = 9229.01,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2151,
@@ -14170,7 +14170,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2887,
         ["kill_count"] = 16,
-        ["points"] = 9327.74,
+        ["points"] = 9327.89,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8,
@@ -14185,7 +14185,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1919,
         ["kill_count"] = 14,
-        ["points"] = 9336.23,
+        ["points"] = 9336.38,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1359,
@@ -14227,7 +14227,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 938,
         ["kill_count"] = 25,
-        ["points"] = 9757.15,
+        ["points"] = 9757.2,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1931,
@@ -14242,7 +14242,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1500,
         ["kill_count"] = 23,
-        ["points"] = 9460.76,
+        ["points"] = 9460.88,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 618,
@@ -14252,7 +14252,7 @@ UWULogsData[4][3] = {
     },
   },
   ["Strongbesen"] = {
-    ["percentile"] = 95.33,
+    ["percentile"] = 95.32,
     ["server"] = "Icecrown",
     ["overall_rank"] = 252,
     ["bosses"] = {
@@ -14284,7 +14284,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1545,
         ["kill_count"] = 64,
-        ["points"] = 9624.68,
+        ["points"] = 9624.77,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 492,
@@ -14299,12 +14299,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 774,
         ["kill_count"] = 64,
-        ["points"] = 9721.24,
+        ["points"] = 9721.3,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3191,
+        ["rank_raids"] = 3192,
         ["kill_count"] = 60,
-        ["points"] = 8997.96,
+        ["points"] = 8996.69,
       },
     },
   },
@@ -14341,7 +14341,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2705,
         ["kill_count"] = 10,
-        ["points"] = 9376.31,
+        ["points"] = 9376.45,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1399,
@@ -14356,7 +14356,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 403,
         ["kill_count"] = 10,
-        ["points"] = 9844.62,
+        ["points"] = 9844.66,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2470,
@@ -14398,7 +14398,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1569,
         ["kill_count"] = 15,
-        ["points"] = 9620.27,
+        ["points"] = 9620.35,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2660,
@@ -14413,7 +14413,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1997,
         ["kill_count"] = 25,
-        ["points"] = 9309.95,
+        ["points"] = 9310.11,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 926,
@@ -14455,7 +14455,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 594,
         ["kill_count"] = 33,
-        ["points"] = 9832.21,
+        ["points"] = 9832.25,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2921,
@@ -14470,7 +14470,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1159,
         ["kill_count"] = 30,
-        ["points"] = 9596.71,
+        ["points"] = 9596.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 891,
@@ -14512,7 +14512,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1334,
         ["kill_count"] = 28,
-        ["points"] = 9668.84,
+        ["points"] = 9668.91,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3638,
@@ -14527,7 +14527,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1065,
         ["kill_count"] = 23,
-        ["points"] = 9629.84,
+        ["points"] = 9629.93,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1243,
@@ -14569,7 +14569,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1902,
         ["kill_count"] = 36,
-        ["points"] = 9552.93,
+        ["points"] = 9553.03,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 704,
@@ -14584,7 +14584,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5626,
         ["kill_count"] = 24,
-        ["points"] = 8245.17,
+        ["points"] = 8245.57,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 841,
@@ -14626,7 +14626,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 465,
         ["kill_count"] = 11,
-        ["points"] = 9859.81,
+        ["points"] = 9859.84,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1467,
@@ -14641,7 +14641,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1192,
         ["kill_count"] = 13,
-        ["points"] = 9581.86,
+        ["points"] = 9581.95,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 365,
@@ -14683,7 +14683,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1519,
         ["kill_count"] = 12,
-        ["points"] = 9630.2,
+        ["points"] = 9630.28,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3847,
@@ -14698,7 +14698,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 794,
         ["kill_count"] = 9,
-        ["points"] = 9714.38,
+        ["points"] = 9714.45,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 70,
@@ -14740,7 +14740,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3641,
         ["kill_count"] = 12,
-        ["points"] = 9182.03,
+        ["points"] = 9182.21,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 957,
@@ -14755,7 +14755,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 872,
         ["kill_count"] = 21,
-        ["points"] = 9685.82,
+        ["points"] = 9685.89,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 107,
@@ -14797,7 +14797,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1186,
         ["kill_count"] = 9,
-        ["points"] = 9697.54,
+        ["points"] = 9697.61,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2119,
@@ -14812,7 +14812,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 696,
         ["kill_count"] = 11,
-        ["points"] = 9750.94,
+        ["points"] = 9751.0,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 610,
@@ -14854,7 +14854,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2310,
         ["kill_count"] = 29,
-        ["points"] = 9459.1,
+        ["points"] = 9459.22,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 552,
@@ -14869,12 +14869,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2204,
         ["kill_count"] = 15,
-        ["points"] = 9261.97,
+        ["points"] = 9262.14,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3711,
+        ["rank_raids"] = 3712,
         ["kill_count"] = 29,
-        ["points"] = 8865.37,
+        ["points"] = 8864.1,
       },
     },
   },
@@ -14911,7 +14911,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3398,
         ["kill_count"] = 17,
-        ["points"] = 9238.33,
+        ["points"] = 9238.49,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3973,
@@ -14926,7 +14926,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 580,
         ["kill_count"] = 15,
-        ["points"] = 9796.64,
+        ["points"] = 9796.69,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 315,
@@ -14968,7 +14968,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1321,
         ["kill_count"] = 23,
-        ["points"] = 9672.15,
+        ["points"] = 9672.22,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2342,
@@ -14983,7 +14983,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1413,
         ["kill_count"] = 22,
-        ["points"] = 9489.32,
+        ["points"] = 9489.43,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1162,
@@ -15025,7 +15025,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1032,
         ["kill_count"] = 21,
-        ["points"] = 9737.28,
+        ["points"] = 9737.34,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 738,
@@ -15040,7 +15040,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 572,
         ["kill_count"] = 20,
-        ["points"] = 9798.93,
+        ["points"] = 9798.97,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1635,
@@ -15082,7 +15082,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 627,
         ["kill_count"] = 7,
-        ["points"] = 9824.48,
+        ["points"] = 9824.52,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2234,
@@ -15097,7 +15097,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 265,
         ["kill_count"] = 8,
-        ["points"] = 9888.04,
+        ["points"] = 9888.06,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2650,
@@ -15139,7 +15139,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 949,
         ["kill_count"] = 21,
-        ["points"] = 9756.04,
+        ["points"] = 9756.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3132,
@@ -15154,7 +15154,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 843,
         ["kill_count"] = 20,
-        ["points"] = 9696.1,
+        ["points"] = 9696.17,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 345,
@@ -15196,7 +15196,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2459,
         ["kill_count"] = 31,
-        ["points"] = 9425.99,
+        ["points"] = 9426.11,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1023,
@@ -15211,7 +15211,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1750,
         ["kill_count"] = 26,
-        ["points"] = 9391.07,
+        ["points"] = 9391.21,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 260,
@@ -15253,7 +15253,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1835,
         ["kill_count"] = 14,
-        ["points"] = 9570.59,
+        ["points"] = 9570.69,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 490,
@@ -15268,7 +15268,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1343,
         ["kill_count"] = 14,
-        ["points"] = 9522.45,
+        ["points"] = 9522.56,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 472,
@@ -15310,7 +15310,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1213,
         ["kill_count"] = 26,
-        ["points"] = 9689.81,
+        ["points"] = 9689.88,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 953,
@@ -15325,7 +15325,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2427,
         ["kill_count"] = 27,
-        ["points"] = 9195.7,
+        ["points"] = 9195.89,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 673,
@@ -15367,7 +15367,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 773,
         ["kill_count"] = 15,
-        ["points"] = 9788.06,
+        ["points"] = 9788.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 946,
@@ -15382,7 +15382,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2123,
         ["kill_count"] = 11,
-        ["points"] = 9279.1,
+        ["points"] = 9279.27,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 502,
@@ -15424,7 +15424,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2469,
         ["kill_count"] = 13,
-        ["points"] = 9423.78,
+        ["points"] = 9423.9,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2856,
@@ -15439,7 +15439,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 196,
         ["kill_count"] = 35,
-        ["points"] = 9909.75,
+        ["points"] = 9909.77,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 272,
@@ -15481,7 +15481,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2783,
         ["kill_count"] = 13,
-        ["points"] = 9353.13,
+        ["points"] = 9353.27,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1557,
@@ -15496,7 +15496,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2034,
         ["kill_count"] = 8,
-        ["points"] = 9301.95,
+        ["points"] = 9302.11,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1357,
@@ -15538,7 +15538,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4863,
         ["kill_count"] = 19,
-        ["points"] = 8914.89,
+        ["points"] = 8915.13,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1705,
@@ -15553,7 +15553,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1768,
         ["kill_count"] = 20,
-        ["points"] = 9381.93,
+        ["points"] = 9382.07,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1471,
@@ -15595,7 +15595,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1821,
         ["kill_count"] = 10,
-        ["points"] = 9573.9,
+        ["points"] = 9574.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2950,
@@ -15610,7 +15610,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3433,
         ["kill_count"] = 12,
-        ["points"] = 8907.8,
+        ["points"] = 8908.05,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1219,
@@ -15652,7 +15652,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1885,
         ["kill_count"] = 14,
-        ["points"] = 9556.24,
+        ["points"] = 9556.34,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2012,
@@ -15667,7 +15667,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 221,
         ["kill_count"] = 12,
-        ["points"] = 9902.89,
+        ["points"] = 9902.91,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1675,
@@ -15709,7 +15709,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 698,
         ["kill_count"] = 36,
-        ["points"] = 9805.72,
+        ["points"] = 9805.76,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 60,
@@ -15724,7 +15724,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1287,
         ["kill_count"] = 36,
-        ["points"] = 9543.01,
+        ["points"] = 9543.12,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1261,
@@ -15766,7 +15766,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3190,
         ["kill_count"] = 7,
-        ["points"] = 9269.24,
+        ["points"] = 9269.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2078,
@@ -15781,7 +15781,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2392,
         ["kill_count"] = 5,
-        ["points"] = 9205.99,
+        ["points"] = 9206.17,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 695,
@@ -15823,7 +15823,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2042,
         ["kill_count"] = 9,
-        ["points"] = 9512.09,
+        ["points"] = 9512.2,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2031,
@@ -15838,7 +15838,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3466,
         ["kill_count"] = 8,
-        ["points"] = 8897.52,
+        ["points"] = 8897.77,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 509,
@@ -15880,7 +15880,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1593,
         ["kill_count"] = 19,
-        ["points"] = 9614.75,
+        ["points"] = 9614.83,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2601,
@@ -15895,7 +15895,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1106,
         ["kill_count"] = 7,
-        ["points"] = 9611.56,
+        ["points"] = 9611.65,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1088,
@@ -15937,7 +15937,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1175,
         ["kill_count"] = 5,
-        ["points"] = 9700.85,
+        ["points"] = 9700.92,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1400,
@@ -15952,7 +15952,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2760,
         ["kill_count"] = 4,
-        ["points"] = 9080.32,
+        ["points"] = 9080.53,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 278,
@@ -15994,7 +15994,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1242,
         ["kill_count"] = 21,
-        ["points"] = 9687.6,
+        ["points"] = 9687.67,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1196,
@@ -16009,7 +16009,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2379,
         ["kill_count"] = 14,
-        ["points"] = 9210.56,
+        ["points"] = 9210.74,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 132,
@@ -16051,7 +16051,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 640,
         ["kill_count"] = 4,
-        ["points"] = 9822.28,
+        ["points"] = 9822.32,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5650,
@@ -16066,7 +16066,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1538,
         ["kill_count"] = 6,
-        ["points"] = 9453.9,
+        ["points"] = 9454.03,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1280,
@@ -16108,7 +16108,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1263,
         ["kill_count"] = 12,
-        ["points"] = 9685.4,
+        ["points"] = 9685.47,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 592,
@@ -16123,7 +16123,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3932,
         ["kill_count"] = 12,
-        ["points"] = 8733.01,
+        ["points"] = 8733.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 632,
@@ -16133,7 +16133,7 @@ UWULogsData[4][3] = {
     },
   },
   ["Kayrah"] = {
-    ["percentile"] = 94.69,
+    ["percentile"] = 94.68,
     ["server"] = "Icecrown",
     ["overall_rank"] = 285,
     ["bosses"] = {
@@ -16165,7 +16165,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1008,
         ["kill_count"] = 9,
-        ["points"] = 9743.9,
+        ["points"] = 9743.96,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2783,
@@ -16180,12 +16180,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 544,
         ["kill_count"] = 9,
-        ["points"] = 9804.64,
+        ["points"] = 9804.68,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4249,
+        ["rank_raids"] = 4250,
         ["kill_count"] = 7,
-        ["points"] = 8731.51,
+        ["points"] = 8730.24,
       },
     },
   },
@@ -16222,7 +16222,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4524,
         ["kill_count"] = 10,
-        ["points"] = 8983.33,
+        ["points"] = 8983.56,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 313,
@@ -16237,7 +16237,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2293,
         ["kill_count"] = 10,
-        ["points"] = 9236.83,
+        ["points"] = 9237.01,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2106,
@@ -16279,7 +16279,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1068,
         ["kill_count"] = 13,
-        ["points"] = 9728.45,
+        ["points"] = 9728.51,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1200,
@@ -16294,7 +16294,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3762,
         ["kill_count"] = 15,
-        ["points"] = 8788.99,
+        ["points"] = 8789.26,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 732,
@@ -16336,7 +16336,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2135,
         ["kill_count"] = 22,
-        ["points"] = 9494.43,
+        ["points"] = 9494.54,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 854,
@@ -16351,12 +16351,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2516,
         ["kill_count"] = 17,
-        ["points"] = 9163.72,
+        ["points"] = 9163.91,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3412,
+        ["rank_raids"] = 3413,
         ["kill_count"] = 21,
-        ["points"] = 8940.59,
+        ["points"] = 8939.32,
       },
     },
   },
@@ -16393,7 +16393,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1910,
         ["kill_count"] = 14,
-        ["points"] = 9549.62,
+        ["points"] = 9549.72,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1103,
@@ -16408,7 +16408,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2732,
         ["kill_count"] = 13,
-        ["points"] = 9087.17,
+        ["points"] = 9087.38,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2453,
@@ -16450,7 +16450,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 477,
         ["kill_count"] = 24,
-        ["points"] = 9855.39,
+        ["points"] = 9855.42,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1313,
@@ -16465,7 +16465,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2725,
         ["kill_count"] = 24,
-        ["points"] = 9090.6,
+        ["points"] = 9090.81,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1023,
@@ -16507,7 +16507,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2372,
         ["kill_count"] = 18,
-        ["points"] = 9446.96,
+        ["points"] = 9447.08,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2526,
@@ -16522,7 +16522,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 740,
         ["kill_count"] = 7,
-        ["points"] = 9738.38,
+        ["points"] = 9738.44,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 423,
@@ -16564,7 +16564,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 664,
         ["kill_count"] = 20,
-        ["points"] = 9813.45,
+        ["points"] = 9813.49,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1065,
@@ -16579,7 +16579,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2608,
         ["kill_count"] = 19,
-        ["points"] = 9129.44,
+        ["points"] = 9129.64,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1939,
@@ -16621,7 +16621,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3188,
         ["kill_count"] = 8,
-        ["points"] = 9270.34,
+        ["points"] = 9270.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 322,
@@ -16636,7 +16636,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1507,
         ["kill_count"] = 8,
-        ["points"] = 9459.61,
+        ["points"] = 9459.74,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1252,
@@ -16678,7 +16678,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 358,
         ["kill_count"] = 13,
-        ["points"] = 9884.09,
+        ["points"] = 9884.12,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1535,
@@ -16693,12 +16693,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1035,
         ["kill_count"] = 27,
-        ["points"] = 9640.12,
+        ["points"] = 9640.21,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3083,
+        ["rank_raids"] = 3084,
         ["kill_count"] = 13,
-        ["points"] = 9024.73,
+        ["points"] = 9023.46,
       },
     },
   },
@@ -16735,7 +16735,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 529,
         ["kill_count"] = 11,
-        ["points"] = 9843.25,
+        ["points"] = 9843.28,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4589,
@@ -16750,7 +16750,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 439,
         ["kill_count"] = 40,
-        ["points"] = 9835.48,
+        ["points"] = 9835.52,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 872,
@@ -16792,7 +16792,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1107,
         ["kill_count"] = 14,
-        ["points"] = 9720.72,
+        ["points"] = 9720.78,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1091,
@@ -16807,7 +16807,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 7715,
         ["kill_count"] = 9,
-        ["points"] = 7685.37,
+        ["points"] = 7685.89,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2012,
@@ -16849,7 +16849,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4086,
         ["kill_count"] = 30,
-        ["points"] = 9072.75,
+        ["points"] = 9072.95,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 591,
@@ -16864,7 +16864,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2678,
         ["kill_count"] = 28,
-        ["points"] = 9106.59,
+        ["points"] = 9106.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 331,
@@ -16906,7 +16906,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5014,
         ["kill_count"] = 7,
-        ["points"] = 8886.19,
+        ["points"] = 8886.44,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3223,
@@ -16921,7 +16921,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 750,
         ["kill_count"] = 7,
-        ["points"] = 9733.81,
+        ["points"] = 9733.87,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1679,
@@ -16963,7 +16963,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2781,
         ["kill_count"] = 26,
-        ["points"] = 9354.23,
+        ["points"] = 9354.38,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2963,
@@ -16978,7 +16978,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 962,
         ["kill_count"] = 44,
-        ["points"] = 9658.4,
+        ["points"] = 9658.48,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1303,
@@ -17020,7 +17020,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1021,
         ["kill_count"] = 20,
-        ["points"] = 9740.59,
+        ["points"] = 9740.65,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 744,
@@ -17035,7 +17035,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1336,
         ["kill_count"] = 16,
-        ["points"] = 9527.02,
+        ["points"] = 9527.13,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 327,
@@ -17077,7 +17077,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 993,
         ["kill_count"] = 8,
-        ["points"] = 9746.11,
+        ["points"] = 9746.16,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6005,
@@ -17092,7 +17092,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3593,
         ["kill_count"] = 8,
-        ["points"] = 8851.82,
+        ["points"] = 8852.08,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 959,
@@ -17134,7 +17134,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 595,
         ["kill_count"] = 20,
-        ["points"] = 9831.11,
+        ["points"] = 9831.14,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5229,
@@ -17149,7 +17149,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2646,
         ["kill_count"] = 11,
-        ["points"] = 9116.87,
+        ["points"] = 9117.08,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2046,
@@ -17191,7 +17191,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 985,
         ["kill_count"] = 11,
-        ["points"] = 9750.52,
+        ["points"] = 9750.58,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4550,
@@ -17206,7 +17206,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 270,
         ["kill_count"] = 10,
-        ["points"] = 9883.47,
+        ["points"] = 9883.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1539,
@@ -17248,7 +17248,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2184,
         ["kill_count"] = 34,
-        ["points"] = 9484.49,
+        ["points"] = 9484.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 598,
@@ -17263,7 +17263,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3534,
         ["kill_count"] = 18,
-        ["points"] = 8872.39,
+        ["points"] = 8872.64,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 832,
@@ -17305,7 +17305,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1340,
         ["kill_count"] = 13,
-        ["points"] = 9666.63,
+        ["points"] = 9666.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 395,
@@ -17320,7 +17320,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1582,
         ["kill_count"] = 6,
-        ["points"] = 9436.76,
+        ["points"] = 9436.89,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2147,
@@ -17362,7 +17362,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4606,
         ["kill_count"] = 21,
-        ["points"] = 8967.88,
+        ["points"] = 8968.11,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1754,
@@ -17377,7 +17377,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1788,
         ["kill_count"] = 22,
-        ["points"] = 9371.64,
+        ["points"] = 9371.79,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 917,
@@ -17419,7 +17419,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2226,
         ["kill_count"] = 15,
-        ["points"] = 9476.76,
+        ["points"] = 9476.88,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2008,
@@ -17434,7 +17434,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2425,
         ["kill_count"] = 15,
-        ["points"] = 9196.85,
+        ["points"] = 9197.03,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 248,
@@ -17476,7 +17476,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2564,
         ["kill_count"] = 14,
-        ["points"] = 9402.8,
+        ["points"] = 9402.94,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3667,
@@ -17491,7 +17491,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1056,
         ["kill_count"] = 20,
-        ["points"] = 9630.98,
+        ["points"] = 9631.07,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 541,
@@ -17533,7 +17533,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2212,
         ["kill_count"] = 14,
-        ["points"] = 9480.08,
+        ["points"] = 9480.19,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1701,
@@ -17548,12 +17548,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1909,
         ["kill_count"] = 13,
-        ["points"] = 9338.51,
+        ["points"] = 9338.66,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3416,
+        ["rank_raids"] = 3417,
         ["kill_count"] = 11,
-        ["points"] = 8938.04,
+        ["points"] = 8936.77,
       },
     },
   },
@@ -17590,7 +17590,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1654,
         ["kill_count"] = 19,
-        ["points"] = 9604.81,
+        ["points"] = 9604.9,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1123,
@@ -17605,7 +17605,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2999,
         ["kill_count"] = 16,
-        ["points"] = 9008.34,
+        ["points"] = 9008.57,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1802,
@@ -17647,7 +17647,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1117,
         ["kill_count"] = 15,
-        ["points"] = 9717.41,
+        ["points"] = 9717.47,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 500,
@@ -17662,10 +17662,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1055,
         ["kill_count"] = 9,
-        ["points"] = 9632.13,
+        ["points"] = 9632.21,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4790,
+        ["rank_raids"] = 4791,
         ["kill_count"] = 14,
         ["points"] = 8619.33,
       },
@@ -17704,7 +17704,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 108,
         ["kill_count"] = 14,
-        ["points"] = 9958.05,
+        ["points"] = 9958.06,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 839,
@@ -17719,10 +17719,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 406,
         ["kill_count"] = 14,
-        ["points"] = 9842.34,
+        ["points"] = 9842.38,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5074,
+        ["rank_raids"] = 5075,
         ["kill_count"] = 13,
         ["points"] = 8536.46,
       },
@@ -17761,7 +17761,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2599,
         ["kill_count"] = 6,
-        ["points"] = 9392.87,
+        ["points"] = 9393.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 10,
@@ -17776,7 +17776,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 818,
         ["kill_count"] = 8,
-        ["points"] = 9708.67,
+        ["points"] = 9708.74,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1366,
@@ -17818,7 +17818,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 711,
         ["kill_count"] = 7,
-        ["points"] = 9801.3,
+        ["points"] = 9801.35,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3185,
@@ -17833,7 +17833,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1547,
         ["kill_count"] = 8,
-        ["points"] = 9450.47,
+        ["points"] = 9450.6,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 388,
@@ -17875,7 +17875,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2331,
         ["kill_count"] = 17,
-        ["points"] = 9454.69,
+        ["points"] = 9454.81,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 622,
@@ -17890,7 +17890,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 533,
         ["kill_count"] = 35,
-        ["points"] = 9810.35,
+        ["points"] = 9810.39,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2365,
@@ -17932,7 +17932,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3817,
         ["kill_count"] = 16,
-        ["points"] = 9137.87,
+        ["points"] = 9138.06,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1116,
@@ -17947,7 +17947,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3848,
         ["kill_count"] = 16,
-        ["points"] = 8761.57,
+        ["points"] = 8761.85,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 604,
@@ -17989,7 +17989,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 652,
         ["kill_count"] = 19,
-        ["points"] = 9820.07,
+        ["points"] = 9820.11,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1306,
@@ -18004,12 +18004,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 7988,
         ["kill_count"] = 19,
-        ["points"] = 7616.82,
+        ["points"] = 7617.36,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3055,
+        ["rank_raids"] = 3056,
         ["kill_count"] = 19,
-        ["points"] = 9032.38,
+        ["points"] = 9031.11,
       },
     },
   },
@@ -18046,7 +18046,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4605,
         ["kill_count"] = 6,
-        ["points"] = 8968.98,
+        ["points"] = 8969.21,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1446,
@@ -18061,7 +18061,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3087,
         ["kill_count"] = 6,
-        ["points"] = 8986.63,
+        ["points"] = 8986.86,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 491,
@@ -18103,7 +18103,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1154,
         ["kill_count"] = 19,
-        ["points"] = 9706.37,
+        ["points"] = 9706.43,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1307,
@@ -18118,7 +18118,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2800,
         ["kill_count"] = 17,
-        ["points"] = 9070.03,
+        ["points"] = 9070.25,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2660,
@@ -18160,7 +18160,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1415,
         ["kill_count"] = 14,
-        ["points"] = 9651.18,
+        ["points"] = 9651.25,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4311,
@@ -18175,7 +18175,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 540,
         ["kill_count"] = 13,
-        ["points"] = 9806.92,
+        ["points"] = 9806.97,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1747,
@@ -18217,7 +18217,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3317,
         ["kill_count"] = 16,
-        ["points"] = 9250.47,
+        ["points"] = 9250.63,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6627,
@@ -18232,12 +18232,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1625,
         ["kill_count"] = 16,
-        ["points"] = 9427.62,
+        ["points"] = 9427.76,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3043,
+        ["rank_raids"] = 3044,
         ["kill_count"] = 14,
-        ["points"] = 9034.93,
+        ["points"] = 9033.66,
       },
     },
   },
@@ -18274,7 +18274,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2901,
         ["kill_count"] = 24,
-        ["points"] = 9323.32,
+        ["points"] = 9323.47,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1177,
@@ -18289,7 +18289,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2518,
         ["kill_count"] = 23,
-        ["points"] = 9162.57,
+        ["points"] = 9162.76,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 760,
@@ -18331,7 +18331,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1532,
         ["kill_count"] = 8,
-        ["points"] = 9627.99,
+        ["points"] = 9628.08,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3686,
@@ -18346,7 +18346,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1463,
         ["kill_count"] = 5,
-        ["points"] = 9472.18,
+        ["points"] = 9472.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 429,
@@ -18388,7 +18388,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 704,
         ["kill_count"] = 11,
-        ["points"] = 9802.41,
+        ["points"] = 9802.45,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6077,
@@ -18403,7 +18403,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3633,
         ["kill_count"] = 12,
-        ["points"] = 8834.69,
+        ["points"] = 8834.95,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2141,
@@ -18445,7 +18445,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2831,
         ["kill_count"] = 7,
-        ["points"] = 9344.3,
+        ["points"] = 9344.44,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1606,
@@ -18460,7 +18460,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 772,
         ["kill_count"] = 7,
-        ["points"] = 9723.52,
+        ["points"] = 9723.59,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 163,
@@ -18469,67 +18469,10 @@ UWULogsData[4][3] = {
       },
     },
   },
-  ["Noedx"] = {
-    ["percentile"] = 93.89,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 326,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 505,
-        ["kill_count"] = 31,
-        ["points"] = 9820.98,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 813,
-        ["kill_count"] = 9,
-        ["points"] = 9715.28,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2367,
-        ["kill_count"] = 31,
-        ["points"] = 9363.94,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 1302,
-        ["kill_count"] = 31,
-        ["points"] = 9577.96,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 1694,
-        ["kill_count"] = 30,
-        ["points"] = 9492.95,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 1538,
-        ["kill_count"] = 16,
-        ["points"] = 9626.89,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 2447,
-        ["kill_count"] = 31,
-        ["points"] = 9368.94,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 923,
-        ["kill_count"] = 31,
-        ["points"] = 9558.96,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 5238,
-        ["kill_count"] = 8,
-        ["points"] = 8352.56,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 3535,
-        ["kill_count"] = 14,
-        ["points"] = 8916.37,
-      },
-    },
-  },
   ["Frodobagginz"] = {
     ["percentile"] = 93.89,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 327,
+    ["overall_rank"] = 326,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1037,
@@ -18559,7 +18502,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1506,
         ["kill_count"] = 37,
-        ["points"] = 9634.62,
+        ["points"] = 9634.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1547,
@@ -18574,12 +18517,69 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 874,
         ["kill_count"] = 37,
-        ["points"] = 9684.68,
+        ["points"] = 9684.75,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4906,
+        ["rank_raids"] = 4907,
         ["kill_count"] = 37,
         ["points"] = 8587.46,
+      },
+    },
+  },
+  ["Noedx"] = {
+    ["percentile"] = 93.89,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 327,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 505,
+        ["kill_count"] = 31,
+        ["points"] = 9820.98,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 813,
+        ["kill_count"] = 9,
+        ["points"] = 9715.28,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 2367,
+        ["kill_count"] = 31,
+        ["points"] = 9363.94,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 1302,
+        ["kill_count"] = 31,
+        ["points"] = 9577.96,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 1694,
+        ["kill_count"] = 30,
+        ["points"] = 9492.95,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 1538,
+        ["kill_count"] = 16,
+        ["points"] = 9626.97,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 2447,
+        ["kill_count"] = 31,
+        ["points"] = 9368.94,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 923,
+        ["kill_count"] = 31,
+        ["points"] = 9558.96,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 5238,
+        ["kill_count"] = 8,
+        ["points"] = 8352.94,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 3536,
+        ["kill_count"] = 14,
+        ["points"] = 8915.09,
       },
     },
   },
@@ -18616,7 +18616,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4896,
         ["kill_count"] = 9,
-        ["points"] = 8910.48,
+        ["points"] = 8910.72,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2594,
@@ -18631,7 +18631,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 140,
         ["kill_count"] = 7,
-        ["points"] = 9929.17,
+        ["points"] = 9929.18,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 126,
@@ -18673,7 +18673,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2390,
         ["kill_count"] = 22,
-        ["points"] = 9441.44,
+        ["points"] = 9441.56,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2003,
@@ -18688,10 +18688,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4074,
         ["kill_count"] = 22,
-        ["points"] = 8677.03,
+        ["points"] = 8677.33,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4767,
+        ["rank_raids"] = 4768,
         ["kill_count"] = 17,
         ["points"] = 8624.43,
       },
@@ -18730,7 +18730,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3228,
         ["kill_count"] = 6,
-        ["points"] = 9261.51,
+        ["points"] = 9261.67,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2163,
@@ -18745,7 +18745,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1781,
         ["kill_count"] = 10,
-        ["points"] = 9375.07,
+        ["points"] = 9375.21,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1378,
@@ -18787,7 +18787,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1055,
         ["kill_count"] = 17,
-        ["points"] = 9731.76,
+        ["points"] = 9731.82,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1174,
@@ -18802,7 +18802,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1111,
         ["kill_count"] = 17,
-        ["points"] = 9609.28,
+        ["points"] = 9609.37,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2257,
@@ -18844,7 +18844,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1546,
         ["kill_count"] = 5,
-        ["points"] = 9623.58,
+        ["points"] = 9623.66,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5144,
@@ -18859,7 +18859,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 484,
         ["kill_count"] = 5,
-        ["points"] = 9821.78,
+        ["points"] = 9821.82,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 994,
@@ -18901,7 +18901,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1034,
         ["kill_count"] = 7,
-        ["points"] = 9736.17,
+        ["points"] = 9736.23,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1169,
@@ -18916,7 +18916,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 7192,
         ["kill_count"] = 5,
-        ["points"] = 7833.89,
+        ["points"] = 7834.38,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 963,
@@ -18958,7 +18958,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1049,
         ["kill_count"] = 13,
-        ["points"] = 9733.97,
+        ["points"] = 9734.02,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 272,
@@ -18973,7 +18973,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 643,
         ["kill_count"] = 12,
-        ["points"] = 9769.22,
+        ["points"] = 9769.27,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 830,
@@ -19015,7 +19015,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4324,
         ["kill_count"] = 11,
-        ["points"] = 9028.59,
+        ["points"] = 9028.8,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3414,
@@ -19030,7 +19030,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2661,
         ["kill_count"] = 11,
-        ["points"] = 9113.45,
+        ["points"] = 9113.65,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1163,
@@ -19072,7 +19072,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5553,
         ["kill_count"] = 39,
-        ["points"] = 8765.87,
+        ["points"] = 8766.14,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2452,
@@ -19087,7 +19087,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1484,
         ["kill_count"] = 39,
-        ["points"] = 9468.75,
+        ["points"] = 9468.87,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1403,
@@ -19129,7 +19129,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2324,
         ["kill_count"] = 22,
-        ["points"] = 9455.79,
+        ["points"] = 9455.91,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 538,
@@ -19144,7 +19144,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2738,
         ["kill_count"] = 30,
-        ["points"] = 9086.03,
+        ["points"] = 9086.24,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 285,
@@ -19186,7 +19186,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2309,
         ["kill_count"] = 19,
-        ["points"] = 9460.21,
+        ["points"] = 9460.32,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1974,
@@ -19201,12 +19201,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6063,
         ["kill_count"] = 20,
-        ["points"] = 8122.93,
+        ["points"] = 8123.36,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3743,
+        ["rank_raids"] = 3744,
         ["kill_count"] = 19,
-        ["points"] = 8856.45,
+        ["points"] = 8855.18,
       },
     },
   },
@@ -19243,7 +19243,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1852,
         ["kill_count"] = 25,
-        ["points"] = 9565.07,
+        ["points"] = 9565.17,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1478,
@@ -19258,7 +19258,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2465,
         ["kill_count"] = 25,
-        ["points"] = 9178.57,
+        ["points"] = 9178.75,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 839,
@@ -19300,7 +19300,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3114,
         ["kill_count"] = 6,
-        ["points"] = 9291.31,
+        ["points"] = 9291.47,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2161,
@@ -19315,7 +19315,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2002,
         ["kill_count"] = 6,
-        ["points"] = 9308.81,
+        ["points"] = 9308.97,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2362,
@@ -19357,7 +19357,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2433,
         ["kill_count"] = 13,
-        ["points"] = 9431.5,
+        ["points"] = 9431.63,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3395,
@@ -19372,7 +19372,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3452,
         ["kill_count"] = 12,
-        ["points"] = 8900.95,
+        ["points"] = 8901.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 649,
@@ -19414,7 +19414,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2844,
         ["kill_count"] = 21,
-        ["points"] = 9339.88,
+        ["points"] = 9340.03,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 969,
@@ -19429,7 +19429,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2667,
         ["kill_count"] = 32,
-        ["points"] = 9110.02,
+        ["points"] = 9110.22,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1434,
@@ -19471,7 +19471,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 886,
         ["kill_count"] = 10,
-        ["points"] = 9763.77,
+        ["points"] = 9763.82,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2458,
@@ -19486,7 +19486,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4042,
         ["kill_count"] = 11,
-        ["points"] = 8689.59,
+        ["points"] = 8689.89,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2409,
@@ -19528,7 +19528,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2434,
         ["kill_count"] = 16,
-        ["points"] = 9430.4,
+        ["points"] = 9430.53,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1604,
@@ -19543,7 +19543,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5024,
         ["kill_count"] = 16,
-        ["points"] = 8416.54,
+        ["points"] = 8416.9,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 421,
@@ -19585,7 +19585,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3786,
         ["kill_count"] = 8,
-        ["points"] = 9145.6,
+        ["points"] = 9145.79,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3404,
@@ -19600,7 +19600,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4392,
         ["kill_count"] = 9,
-        ["points"] = 8593.63,
+        ["points"] = 8593.95,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 821,
@@ -19642,7 +19642,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 552,
         ["kill_count"] = 24,
-        ["points"] = 9837.73,
+        ["points"] = 9837.77,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4124,
@@ -19657,10 +19657,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1307,
         ["kill_count"] = 23,
-        ["points"] = 9535.02,
+        ["points"] = 9535.12,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6727,
+        ["rank_raids"] = 6728,
         ["kill_count"] = 22,
         ["points"] = 8152.73,
       },
@@ -19699,7 +19699,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1920,
         ["kill_count"] = 13,
-        ["points"] = 9547.41,
+        ["points"] = 9547.51,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1063,
@@ -19714,7 +19714,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3835,
         ["kill_count"] = 10,
-        ["points"] = 8768.42,
+        ["points"] = 8768.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1130,
@@ -19756,7 +19756,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 692,
         ["kill_count"] = 9,
-        ["points"] = 9809.03,
+        ["points"] = 9809.07,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 872,
@@ -19771,12 +19771,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 821,
         ["kill_count"] = 7,
-        ["points"] = 9706.39,
+        ["points"] = 9706.45,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3691,
+        ["rank_raids"] = 3692,
         ["kill_count"] = 7,
-        ["points"] = 8873.02,
+        ["points"] = 8871.75,
       },
     },
   },
@@ -19813,7 +19813,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7947,
         ["kill_count"] = 3,
-        ["points"] = 8231.59,
+        ["points"] = 8231.98,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1982,
@@ -19828,12 +19828,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 712,
         ["kill_count"] = 15,
-        ["points"] = 9746.37,
+        ["points"] = 9746.43,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3808,
+        ["rank_raids"] = 3809,
         ["kill_count"] = 9,
-        ["points"] = 8841.15,
+        ["points"] = 8839.88,
       },
     },
   },
@@ -19870,7 +19870,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4253,
         ["kill_count"] = 6,
-        ["points"] = 9040.73,
+        ["points"] = 9040.94,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2767,
@@ -19885,10 +19885,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2197,
         ["kill_count"] = 3,
-        ["points"] = 9264.25,
+        ["points"] = 9264.42,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4714,
+        ["rank_raids"] = 4715,
         ["kill_count"] = 3,
         ["points"] = 8638.45,
       },
@@ -19927,7 +19927,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 512,
         ["kill_count"] = 11,
-        ["points"] = 9848.77,
+        ["points"] = 9848.8,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1368,
@@ -19942,7 +19942,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1487,
         ["kill_count"] = 11,
-        ["points"] = 9466.47,
+        ["points"] = 9466.59,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2121,
@@ -19951,67 +19951,10 @@ UWULogsData[4][3] = {
       },
     },
   },
-  ["Kybratx"] = {
-    ["percentile"] = 93.5,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 352,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2252,
-        ["kill_count"] = 16,
-        ["points"] = 9293.93,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 501,
-        ["kill_count"] = 14,
-        ["points"] = 9811.39,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1358,
-        ["kill_count"] = 16,
-        ["points"] = 9593.96,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 1922,
-        ["kill_count"] = 16,
-        ["points"] = 9410.94,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 1936,
-        ["kill_count"] = 16,
-        ["points"] = 9431.94,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 2589,
-        ["kill_count"] = 14,
-        ["points"] = 9395.08,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 2836,
-        ["kill_count"] = 16,
-        ["points"] = 9266.93,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2520,
-        ["kill_count"] = 16,
-        ["points"] = 8795.0,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 1555,
-        ["kill_count"] = 14,
-        ["points"] = 9445.9,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 3375,
-        ["kill_count"] = 13,
-        ["points"] = 8957.16,
-      },
-    },
-  },
   ["Agraiven"] = {
     ["percentile"] = 93.5,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 353,
+    ["overall_rank"] = 352,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4069,
@@ -20041,7 +19984,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 385,
         ["kill_count"] = 6,
-        ["points"] = 9876.37,
+        ["points"] = 9876.39,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 971,
@@ -20056,12 +19999,69 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1916,
         ["kill_count"] = 20,
-        ["points"] = 9337.37,
+        ["points"] = 9337.52,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 16,
         ["kill_count"] = 6,
         ["points"] = 9985.98,
+      },
+    },
+  },
+  ["Kybratx"] = {
+    ["percentile"] = 93.5,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 353,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 2252,
+        ["kill_count"] = 16,
+        ["points"] = 9293.93,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 501,
+        ["kill_count"] = 14,
+        ["points"] = 9811.39,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 1358,
+        ["kill_count"] = 16,
+        ["points"] = 9593.96,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 1922,
+        ["kill_count"] = 16,
+        ["points"] = 9410.94,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 1936,
+        ["kill_count"] = 16,
+        ["points"] = 9431.94,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 2589,
+        ["kill_count"] = 14,
+        ["points"] = 9395.21,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 2836,
+        ["kill_count"] = 16,
+        ["points"] = 9266.93,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 2520,
+        ["kill_count"] = 16,
+        ["points"] = 8795.0,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 1555,
+        ["kill_count"] = 14,
+        ["points"] = 9446.03,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 3376,
+        ["kill_count"] = 13,
+        ["points"] = 8955.89,
       },
     },
   },
@@ -20098,7 +20098,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2063,
         ["kill_count"] = 9,
-        ["points"] = 9508.78,
+        ["points"] = 9508.88,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2176,
@@ -20113,7 +20113,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 469,
         ["kill_count"] = 37,
-        ["points"] = 9829.77,
+        ["points"] = 9829.81,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2264,
@@ -20155,7 +20155,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1277,
         ["kill_count"] = 12,
-        ["points"] = 9682.08,
+        ["points"] = 9682.15,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2756,
@@ -20170,7 +20170,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1543,
         ["kill_count"] = 14,
-        ["points"] = 9452.76,
+        ["points"] = 9452.88,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1413,
@@ -20212,7 +20212,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1368,
         ["kill_count"] = 12,
-        ["points"] = 9662.21,
+        ["points"] = 9662.29,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4897,
@@ -20227,7 +20227,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1232,
         ["kill_count"] = 6,
-        ["points"] = 9562.44,
+        ["points"] = 9562.54,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2825,
@@ -20269,7 +20269,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 789,
         ["kill_count"] = 15,
-        ["points"] = 9782.54,
+        ["points"] = 9782.58,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 232,
@@ -20284,7 +20284,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5363,
         ["kill_count"] = 8,
-        ["points"] = 8321.72,
+        ["points"] = 8322.1,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2267,
@@ -20326,7 +20326,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2761,
         ["kill_count"] = 32,
-        ["points"] = 9365.27,
+        ["points"] = 9365.41,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1054,
@@ -20341,7 +20341,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1842,
         ["kill_count"] = 17,
-        ["points"] = 9357.93,
+        ["points"] = 9358.08,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1004,
@@ -20383,7 +20383,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3967,
         ["kill_count"] = 8,
-        ["points"] = 9110.28,
+        ["points"] = 9110.47,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4368,
@@ -20398,7 +20398,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 377,
         ["kill_count"] = 8,
-        ["points"] = 9851.48,
+        ["points"] = 9851.51,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2180,
@@ -20440,7 +20440,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1422,
         ["kill_count"] = 7,
-        ["points"] = 9647.86,
+        ["points"] = 9647.94,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 924,
@@ -20455,7 +20455,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1243,
         ["kill_count"] = 8,
-        ["points"] = 9555.58,
+        ["points"] = 9555.68,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2731,
@@ -20497,7 +20497,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1793,
         ["kill_count"] = 17,
-        ["points"] = 9578.32,
+        ["points"] = 9578.41,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4353,
@@ -20512,7 +20512,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2031,
         ["kill_count"] = 16,
-        ["points"] = 9303.1,
+        ["points"] = 9303.26,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 422,
@@ -20554,7 +20554,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 194,
         ["kill_count"] = 13,
-        ["points"] = 9931.56,
+        ["points"] = 9931.57,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 276,
@@ -20569,7 +20569,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 602,
         ["kill_count"] = 27,
-        ["points"] = 9786.36,
+        ["points"] = 9786.41,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 341,
@@ -20611,7 +20611,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1738,
         ["kill_count"] = 24,
-        ["points"] = 9589.36,
+        ["points"] = 9589.45,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4351,
@@ -20626,10 +20626,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 212,
         ["kill_count"] = 43,
-        ["points"] = 9905.18,
+        ["points"] = 9905.2,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4994,
+        ["rank_raids"] = 4995,
         ["kill_count"] = 23,
         ["points"] = 8559.41,
       },
@@ -20668,7 +20668,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1487,
         ["kill_count"] = 10,
-        ["points"] = 9639.03,
+        ["points"] = 9639.11,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1108,
@@ -20683,7 +20683,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1766,
         ["kill_count"] = 10,
-        ["points"] = 9383.07,
+        ["points"] = 9383.21,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 931,
@@ -20725,7 +20725,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1515,
         ["kill_count"] = 20,
-        ["points"] = 9631.31,
+        ["points"] = 9631.39,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3173,
@@ -20740,7 +20740,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3886,
         ["kill_count"] = 13,
-        ["points"] = 8749.0,
+        ["points"] = 8749.29,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 877,
@@ -20782,7 +20782,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4131,
         ["kill_count"] = 18,
-        ["points"] = 9065.02,
+        ["points"] = 9065.22,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1043,
@@ -20797,7 +20797,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 989,
         ["kill_count"] = 25,
-        ["points"] = 9650.41,
+        ["points"] = 9650.49,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 379,
@@ -20839,7 +20839,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1928,
         ["kill_count"] = 14,
-        ["points"] = 9545.2,
+        ["points"] = 9545.3,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 655,
@@ -20854,7 +20854,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 253,
         ["kill_count"] = 32,
-        ["points"] = 9893.75,
+        ["points"] = 9893.77,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2340,
@@ -20896,7 +20896,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1182,
         ["kill_count"] = 9,
-        ["points"] = 9699.75,
+        ["points"] = 9699.81,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1079,
@@ -20911,7 +20911,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1303,
         ["kill_count"] = 5,
-        ["points"] = 9537.3,
+        ["points"] = 9537.41,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1787,
@@ -20953,7 +20953,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2206,
         ["kill_count"] = 50,
-        ["points"] = 9482.28,
+        ["points"] = 9482.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1474,
@@ -20968,10 +20968,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 616,
         ["kill_count"] = 50,
-        ["points"] = 9782.93,
+        ["points"] = 9782.98,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7592,
+        ["rank_raids"] = 7593,
         ["kill_count"] = 48,
         ["points"] = 7943.65,
       },
@@ -21010,7 +21010,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1315,
         ["kill_count"] = 23,
-        ["points"] = 9674.36,
+        ["points"] = 9674.43,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3085,
@@ -21025,12 +21025,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3945,
         ["kill_count"] = 19,
-        ["points"] = 8729.58,
+        ["points"] = 8729.87,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3326,
+        ["rank_raids"] = 3327,
         ["kill_count"] = 21,
-        ["points"] = 8968.64,
+        ["points"] = 8967.36,
       },
     },
   },
@@ -21067,7 +21067,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2491,
         ["kill_count"] = 20,
-        ["points"] = 9417.15,
+        ["points"] = 9417.28,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 987,
@@ -21082,7 +21082,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2751,
         ["kill_count"] = 23,
-        ["points"] = 9082.6,
+        ["points"] = 9082.81,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2735,
@@ -21092,7 +21092,7 @@ UWULogsData[4][3] = {
     },
   },
   ["Moistcake"] = {
-    ["percentile"] = 93.24,
+    ["percentile"] = 93.25,
     ["server"] = "Icecrown",
     ["overall_rank"] = 372,
     ["bosses"] = {
@@ -21124,7 +21124,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1953,
         ["kill_count"] = 17,
-        ["points"] = 9539.68,
+        ["points"] = 9539.79,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1256,
@@ -21139,7 +21139,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1222,
         ["kill_count"] = 17,
-        ["points"] = 9564.72,
+        ["points"] = 9564.82,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1875,
@@ -21181,7 +21181,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1969,
         ["kill_count"] = 14,
-        ["points"] = 9536.37,
+        ["points"] = 9536.48,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1080,
@@ -21196,7 +21196,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1832,
         ["kill_count"] = 14,
-        ["points"] = 9361.36,
+        ["points"] = 9361.51,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1081,
@@ -21238,7 +21238,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2860,
         ["kill_count"] = 37,
-        ["points"] = 9335.47,
+        ["points"] = 9335.61,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 833,
@@ -21253,7 +21253,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1107,
         ["kill_count"] = 37,
-        ["points"] = 9610.42,
+        ["points"] = 9610.51,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 724,
@@ -21295,7 +21295,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7564,
         ["kill_count"] = 8,
-        ["points"] = 8317.7,
+        ["points"] = 8318.07,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2485,
@@ -21310,7 +21310,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 904,
         ["kill_count"] = 7,
-        ["points"] = 9673.25,
+        ["points"] = 9673.33,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 687,
@@ -21352,7 +21352,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 751,
         ["kill_count"] = 35,
-        ["points"] = 9792.47,
+        ["points"] = 9792.52,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 587,
@@ -21367,10 +21367,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 466,
         ["kill_count"] = 36,
-        ["points"] = 9830.92,
+        ["points"] = 9830.95,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5707,
+        ["rank_raids"] = 5708,
         ["kill_count"] = 27,
         ["points"] = 8384.75,
       },
@@ -21409,7 +21409,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1639,
         ["kill_count"] = 14,
-        ["points"] = 9608.12,
+        ["points"] = 9608.21,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 561,
@@ -21424,7 +21424,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1350,
         ["kill_count"] = 13,
-        ["points"] = 9517.88,
+        ["points"] = 9517.99,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1696,
@@ -21466,7 +21466,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4103,
         ["kill_count"] = 17,
-        ["points"] = 9069.43,
+        ["points"] = 9069.64,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2622,
@@ -21481,7 +21481,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1407,
         ["kill_count"] = 18,
-        ["points"] = 9491.6,
+        ["points"] = 9491.72,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 660,
@@ -21523,7 +21523,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 429,
         ["kill_count"] = 21,
-        ["points"] = 9869.74,
+        ["points"] = 9869.77,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2620,
@@ -21538,7 +21538,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1359,
         ["kill_count"] = 17,
-        ["points"] = 9514.45,
+        ["points"] = 9514.56,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 678,
@@ -21580,7 +21580,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 852,
         ["kill_count"] = 19,
-        ["points"] = 9772.6,
+        ["points"] = 9772.65,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 15378,
@@ -21595,7 +21595,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 694,
         ["kill_count"] = 19,
-        ["points"] = 9752.08,
+        ["points"] = 9752.14,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1659,
@@ -21637,7 +21637,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1599,
         ["kill_count"] = 12,
-        ["points"] = 9613.64,
+        ["points"] = 9613.73,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 204,
@@ -21652,7 +21652,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2158,
         ["kill_count"] = 10,
-        ["points"] = 9271.11,
+        ["points"] = 9271.27,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2769,
@@ -21694,7 +21694,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2016,
         ["kill_count"] = 4,
-        ["points"] = 9519.81,
+        ["points"] = 9519.92,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3830,
@@ -21709,7 +21709,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1759,
         ["kill_count"] = 4,
-        ["points"] = 9387.64,
+        ["points"] = 9387.78,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2178,
@@ -21751,7 +21751,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2896,
         ["kill_count"] = 8,
-        ["points"] = 9325.53,
+        ["points"] = 9325.68,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2960,
@@ -21766,7 +21766,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1368,
         ["kill_count"] = 8,
-        ["points"] = 9508.74,
+        ["points"] = 9508.85,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1193,
@@ -21808,7 +21808,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 271,
         ["kill_count"] = 5,
-        ["points"] = 9911.69,
+        ["points"] = 9911.71,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 977,
@@ -21823,12 +21823,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 299,
         ["kill_count"] = 6,
-        ["points"] = 9873.19,
+        ["points"] = 9873.22,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3633,
+        ["rank_raids"] = 3634,
         ["kill_count"] = 4,
-        ["points"] = 8881.95,
+        ["points"] = 8880.67,
       },
     },
   },
@@ -21865,7 +21865,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4460,
         ["kill_count"] = 31,
-        ["points"] = 8993.27,
+        ["points"] = 8993.49,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 550,
@@ -21880,7 +21880,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 656,
         ["kill_count"] = 30,
-        ["points"] = 9762.37,
+        ["points"] = 9762.42,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2301,
@@ -21922,7 +21922,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7318,
         ["kill_count"] = 5,
-        ["points"] = 8359.64,
+        ["points"] = 8360.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2011,
@@ -21937,7 +21937,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3533,
         ["kill_count"] = 5,
-        ["points"] = 8873.53,
+        ["points"] = 8873.79,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1567,
@@ -21979,7 +21979,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3520,
         ["kill_count"] = 32,
-        ["points"] = 9208.52,
+        ["points"] = 9208.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 607,
@@ -21994,12 +21994,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1805,
         ["kill_count"] = 27,
-        ["points"] = 9367.07,
+        ["points"] = 9367.22,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4059,
+        ["rank_raids"] = 4060,
         ["kill_count"] = 31,
-        ["points"] = 8783.78,
+        ["points"] = 8782.51,
       },
     },
   },
@@ -22036,7 +22036,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 633,
         ["kill_count"] = 5,
-        ["points"] = 9823.38,
+        ["points"] = 9823.42,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1908,
@@ -22051,7 +22051,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 425,
         ["kill_count"] = 5,
-        ["points"] = 9837.77,
+        ["points"] = 9837.81,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 970,
@@ -22093,7 +22093,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3443,
         ["kill_count"] = 28,
-        ["points"] = 9227.29,
+        ["points"] = 9227.46,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1026,
@@ -22108,7 +22108,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1872,
         ["kill_count"] = 28,
-        ["points"] = 9349.94,
+        ["points"] = 9350.09,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1519,
@@ -22150,7 +22150,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6579,
         ["kill_count"] = 21,
-        ["points"] = 8529.64,
+        ["points"] = 8529.96,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6060,
@@ -22165,7 +22165,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4244,
         ["kill_count"] = 11,
-        ["points"] = 8635.9,
+        ["points"] = 8636.21,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 968,
@@ -22207,7 +22207,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4600,
         ["kill_count"] = 22,
-        ["points"] = 8970.08,
+        ["points"] = 8970.31,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3285,
@@ -22222,7 +22222,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 632,
         ["kill_count"] = 22,
-        ["points"] = 9778.36,
+        ["points"] = 9778.41,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2991,
@@ -22264,7 +22264,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 97,
         ["kill_count"] = 19,
-        ["points"] = 9962.47,
+        ["points"] = 9962.48,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 176,
@@ -22279,7 +22279,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6381,
         ["kill_count"] = 9,
-        ["points"] = 8038.39,
+        ["points"] = 8038.83,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 643,
@@ -22321,7 +22321,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4022,
         ["kill_count"] = 18,
-        ["points"] = 9088.2,
+        ["points"] = 9088.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 972,
@@ -22336,7 +22336,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2488,
         ["kill_count"] = 18,
-        ["points"] = 9169.43,
+        ["points"] = 9169.62,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2968,
@@ -22378,7 +22378,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2743,
         ["kill_count"] = 10,
-        ["points"] = 9368.58,
+        ["points"] = 9368.72,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4365,
@@ -22393,7 +22393,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 969,
         ["kill_count"] = 8,
-        ["points"] = 9656.12,
+        ["points"] = 9656.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1703,
@@ -22403,7 +22403,7 @@ UWULogsData[4][3] = {
     },
   },
   ["Dotaisdream"] = {
-    ["percentile"] = 92.84,
+    ["percentile"] = 92.85,
     ["server"] = "Icecrown",
     ["overall_rank"] = 395,
     ["bosses"] = {
@@ -22435,7 +22435,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2482,
         ["kill_count"] = 18,
-        ["points"] = 9421.57,
+        ["points"] = 9421.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 925,
@@ -22450,7 +22450,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 9829,
         ["kill_count"] = 15,
-        ["points"] = 7213.53,
+        ["points"] = 7214.16,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1561,
@@ -22492,7 +22492,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2786,
         ["kill_count"] = 20,
-        ["points"] = 9352.03,
+        ["points"] = 9352.17,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1272,
@@ -22507,7 +22507,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3491,
         ["kill_count"] = 17,
-        ["points"] = 8890.67,
+        ["points"] = 8890.92,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2869,
@@ -22549,7 +22549,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2067,
         ["kill_count"] = 10,
-        ["points"] = 9506.57,
+        ["points"] = 9506.68,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 195,
@@ -22564,12 +22564,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1179,
         ["kill_count"] = 29,
-        ["points"] = 9588.71,
+        ["points"] = 9588.81,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3553,
+        ["rank_raids"] = 3554,
         ["kill_count"] = 8,
-        ["points"] = 8912.54,
+        ["points"] = 8911.27,
       },
     },
   },
@@ -22606,7 +22606,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2297,
         ["kill_count"] = 19,
-        ["points"] = 9462.41,
+        ["points"] = 9462.53,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 843,
@@ -22621,12 +22621,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2592,
         ["kill_count"] = 23,
-        ["points"] = 9134.01,
+        ["points"] = 9134.21,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3100,
+        ["rank_raids"] = 3101,
         ["kill_count"] = 22,
-        ["points"] = 9022.18,
+        ["points"] = 9020.91,
       },
     },
   },
@@ -22663,7 +22663,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3427,
         ["kill_count"] = 9,
-        ["points"] = 9232.81,
+        ["points"] = 9232.98,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2769,
@@ -22678,12 +22678,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2930,
         ["kill_count"] = 8,
-        ["points"] = 9032.33,
+        ["points"] = 9032.55,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3914,
+        ["rank_raids"] = 3915,
         ["kill_count"] = 9,
-        ["points"] = 8822.03,
+        ["points"] = 8820.75,
       },
     },
   },
@@ -22720,7 +22720,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4718,
         ["kill_count"] = 27,
-        ["points"] = 8950.22,
+        ["points"] = 8950.45,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1951,
@@ -22735,10 +22735,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1137,
         ["kill_count"] = 16,
-        ["points"] = 9604.71,
+        ["points"] = 9604.8,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 10808,
+        ["rank_raids"] = 10809,
         ["kill_count"] = 13,
         ["points"] = 7233.55,
       },
@@ -22777,7 +22777,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5666,
         ["kill_count"] = 33,
-        ["points"] = 8729.44,
+        ["points"] = 8729.72,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1832,
@@ -22792,7 +22792,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 936,
         ["kill_count"] = 31,
-        ["points"] = 9665.26,
+        ["points"] = 9665.33,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1771,
@@ -22834,7 +22834,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3750,
         ["kill_count"] = 7,
-        ["points"] = 9156.64,
+        ["points"] = 9156.83,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1016,
@@ -22849,7 +22849,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1678,
         ["kill_count"] = 6,
-        ["points"] = 9415.06,
+        ["points"] = 9415.19,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 953,
@@ -22891,7 +22891,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4510,
         ["kill_count"] = 10,
-        ["points"] = 8986.64,
+        ["points"] = 8986.87,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2329,
@@ -22906,12 +22906,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1646,
         ["kill_count"] = 10,
-        ["points"] = 9421.91,
+        ["points"] = 9422.04,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3825,
+        ["rank_raids"] = 3826,
         ["kill_count"] = 9,
-        ["points"] = 8838.6,
+        ["points"] = 8837.33,
       },
     },
   },
@@ -22948,7 +22948,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1112,
         ["kill_count"] = 11,
-        ["points"] = 9718.51,
+        ["points"] = 9718.57,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 554,
@@ -22963,7 +22963,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 444,
         ["kill_count"] = 41,
-        ["points"] = 9834.34,
+        ["points"] = 9834.38,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1100,
@@ -23005,7 +23005,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2031,
         ["kill_count"] = 11,
-        ["points"] = 9516.5,
+        ["points"] = 9516.61,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 468,
@@ -23020,7 +23020,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3330,
         ["kill_count"] = 11,
-        ["points"] = 8942.08,
+        ["points"] = 8942.32,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 704,
@@ -23062,7 +23062,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1744,
         ["kill_count"] = 5,
-        ["points"] = 9587.15,
+        ["points"] = 9587.24,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1175,
@@ -23077,12 +23077,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 8122,
         ["kill_count"] = 4,
-        ["points"] = 7582.54,
+        ["points"] = 7583.1,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3010,
+        ["rank_raids"] = 3011,
         ["kill_count"] = 5,
-        ["points"] = 9040.03,
+        ["points"] = 9038.76,
       },
     },
   },
@@ -23119,7 +23119,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4024,
         ["kill_count"] = 17,
-        ["points"] = 9085.99,
+        ["points"] = 9086.19,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5372,
@@ -23134,7 +23134,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2020,
         ["kill_count"] = 17,
-        ["points"] = 9305.38,
+        ["points"] = 9305.54,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2528,
@@ -23176,7 +23176,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 876,
         ["kill_count"] = 17,
-        ["points"] = 9765.98,
+        ["points"] = 9766.03,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 71,
@@ -23191,7 +23191,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1395,
         ["kill_count"] = 19,
-        ["points"] = 9498.46,
+        ["points"] = 9498.57,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1377,
@@ -23233,7 +23233,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1857,
         ["kill_count"] = 36,
-        ["points"] = 9563.97,
+        ["points"] = 9564.07,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1358,
@@ -23248,7 +23248,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3627,
         ["kill_count"] = 18,
-        ["points"] = 8836.97,
+        ["points"] = 8837.24,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 543,
@@ -23290,7 +23290,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1926,
         ["kill_count"] = 22,
-        ["points"] = 9546.31,
+        ["points"] = 9546.41,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1274,
@@ -23305,7 +23305,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4684,
         ["kill_count"] = 22,
-        ["points"] = 8510.23,
+        ["points"] = 8510.57,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1164,
@@ -23347,7 +23347,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2261,
         ["kill_count"] = 12,
-        ["points"] = 9469.04,
+        ["points"] = 9469.15,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6649,
@@ -23362,7 +23362,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1047,
         ["kill_count"] = 22,
-        ["points"] = 9634.41,
+        ["points"] = 9634.49,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2153,
@@ -23404,7 +23404,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6938,
         ["kill_count"] = 16,
-        ["points"] = 8447.95,
+        ["points"] = 8448.29,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4531,
@@ -23419,12 +23419,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 494,
         ["kill_count"] = 16,
-        ["points"] = 9819.49,
+        ["points"] = 9819.53,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4032,
+        ["rank_raids"] = 4033,
         ["kill_count"] = 16,
-        ["points"] = 8791.43,
+        ["points"] = 8790.16,
       },
     },
   },
@@ -23461,7 +23461,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1492,
         ["kill_count"] = 8,
-        ["points"] = 9637.93,
+        ["points"] = 9638.01,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1305,
@@ -23476,7 +23476,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2167,
         ["kill_count"] = 7,
-        ["points"] = 9266.54,
+        ["points"] = 9266.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1448,
@@ -23518,7 +23518,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1442,
         ["kill_count"] = 15,
-        ["points"] = 9645.66,
+        ["points"] = 9645.73,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1872,
@@ -23533,7 +23533,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1433,
         ["kill_count"] = 15,
-        ["points"] = 9481.32,
+        ["points"] = 9481.44,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1990,
@@ -23575,7 +23575,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5326,
         ["kill_count"] = 7,
-        ["points"] = 8818.85,
+        ["points"] = 8819.11,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 569,
@@ -23590,7 +23590,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2898,
         ["kill_count"] = 21,
-        ["points"] = 9039.19,
+        ["points"] = 9039.41,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1237,
@@ -23632,7 +23632,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1952,
         ["kill_count"] = 22,
-        ["points"] = 9540.79,
+        ["points"] = 9540.89,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4442,
@@ -23647,10 +23647,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 588,
         ["kill_count"] = 21,
-        ["points"] = 9793.21,
+        ["points"] = 9793.26,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4934,
+        ["rank_raids"] = 4935,
         ["kill_count"] = 22,
         ["points"] = 8578.53,
       },
@@ -23689,7 +23689,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3042,
         ["kill_count"] = 16,
-        ["points"] = 9299.04,
+        ["points"] = 9299.19,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3989,
@@ -23704,10 +23704,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1684,
         ["kill_count"] = 18,
-        ["points"] = 9412.77,
+        ["points"] = 9412.91,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5688,
+        ["rank_raids"] = 5689,
         ["kill_count"] = 8,
         ["points"] = 8389.85,
       },
@@ -23746,7 +23746,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3480,
         ["kill_count"] = 30,
-        ["points"] = 9219.56,
+        ["points"] = 9219.73,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2257,
@@ -23761,7 +23761,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3001,
         ["kill_count"] = 22,
-        ["points"] = 9007.2,
+        ["points"] = 9007.42,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 267,
@@ -23803,7 +23803,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1757,
         ["kill_count"] = 20,
-        ["points"] = 9586.05,
+        ["points"] = 9586.14,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 641,
@@ -23818,12 +23818,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1066,
         ["kill_count"] = 15,
-        ["points"] = 9628.7,
+        ["points"] = 9628.78,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4171,
+        ["rank_raids"] = 4172,
         ["kill_count"] = 19,
-        ["points"] = 8751.91,
+        ["points"] = 8750.64,
       },
     },
   },
@@ -23860,7 +23860,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4234,
         ["kill_count"] = 25,
-        ["points"] = 9044.04,
+        ["points"] = 9044.26,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3391,
@@ -23875,7 +23875,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3682,
         ["kill_count"] = 24,
-        ["points"] = 8818.69,
+        ["points"] = 8818.96,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2108,
@@ -23917,7 +23917,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3331,
         ["kill_count"] = 9,
-        ["points"] = 9248.26,
+        ["points"] = 9248.43,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2154,
@@ -23932,7 +23932,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3100,
         ["kill_count"] = 15,
-        ["points"] = 8979.78,
+        ["points"] = 8980.01,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2076,
@@ -23974,7 +23974,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2837,
         ["kill_count"] = 4,
-        ["points"] = 9343.19,
+        ["points"] = 9343.34,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1664,
@@ -23989,7 +23989,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 826,
         ["kill_count"] = 4,
-        ["points"] = 9702.96,
+        ["points"] = 9703.03,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 581,
@@ -24031,7 +24031,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2439,
         ["kill_count"] = 10,
-        ["points"] = 9429.3,
+        ["points"] = 9429.42,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5444,
@@ -24046,7 +24046,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 751,
         ["kill_count"] = 8,
-        ["points"] = 9732.66,
+        ["points"] = 9732.72,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1488,
@@ -24088,7 +24088,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1363,
         ["kill_count"] = 28,
-        ["points"] = 9663.32,
+        ["points"] = 9663.39,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2105,
@@ -24103,7 +24103,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2966,
         ["kill_count"] = 28,
-        ["points"] = 9020.91,
+        ["points"] = 9021.13,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1096,
@@ -24145,7 +24145,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2965,
         ["kill_count"] = 20,
-        ["points"] = 9312.29,
+        ["points"] = 9312.44,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1675,
@@ -24160,12 +24160,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 10743,
         ["kill_count"] = 7,
-        ["points"] = 7025.02,
+        ["points"] = 7025.7,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3120,
+        ["rank_raids"] = 3121,
         ["kill_count"] = 22,
-        ["points"] = 9011.98,
+        ["points"] = 9010.71,
       },
     },
   },
@@ -24202,7 +24202,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3256,
         ["kill_count"] = 20,
-        ["points"] = 9260.4,
+        ["points"] = 9260.57,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 747,
@@ -24217,10 +24217,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1198,
         ["kill_count"] = 11,
-        ["points"] = 9577.29,
+        ["points"] = 9577.38,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5773,
+        ["rank_raids"] = 5774,
         ["kill_count"] = 18,
         ["points"] = 8368.18,
       },
@@ -24259,7 +24259,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3168,
         ["kill_count"] = 9,
-        ["points"] = 9274.75,
+        ["points"] = 9274.91,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 942,
@@ -24274,7 +24274,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2059,
         ["kill_count"] = 10,
-        ["points"] = 9292.81,
+        ["points"] = 9292.98,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2496,
@@ -24316,7 +24316,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3564,
         ["kill_count"] = 49,
-        ["points"] = 9203.0,
+        ["points"] = 9203.18,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 315,
@@ -24331,7 +24331,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4621,
         ["kill_count"] = 35,
-        ["points"] = 8526.22,
+        ["points"] = 8526.56,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 633,
@@ -24373,7 +24373,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3745,
         ["kill_count"] = 12,
-        ["points"] = 9161.06,
+        ["points"] = 9161.24,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 70,
@@ -24388,10 +24388,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2752,
         ["kill_count"] = 14,
-        ["points"] = 9081.46,
+        ["points"] = 9081.67,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 10318,
+        ["rank_raids"] = 10319,
         ["kill_count"] = 10,
         ["points"] = 7341.92,
       },
@@ -24430,7 +24430,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1143,
         ["kill_count"] = 16,
-        ["points"] = 9712.99,
+        ["points"] = 9713.06,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1381,
@@ -24445,7 +24445,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6328,
         ["kill_count"] = 16,
-        ["points"] = 8050.95,
+        ["points"] = 8051.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 657,
@@ -24487,7 +24487,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1232,
         ["kill_count"] = 30,
-        ["points"] = 9688.71,
+        ["points"] = 9688.78,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1683,
@@ -24502,7 +24502,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2879,
         ["kill_count"] = 21,
-        ["points"] = 9046.04,
+        ["points"] = 9046.26,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 212,
@@ -24544,7 +24544,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2662,
         ["kill_count"] = 15,
-        ["points"] = 9386.25,
+        ["points"] = 9386.38,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2854,
@@ -24559,7 +24559,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 12535,
         ["kill_count"] = 8,
-        ["points"] = 6685.71,
+        ["points"] = 6686.46,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 152,
@@ -24601,7 +24601,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5781,
         ["kill_count"] = 5,
-        ["points"] = 8699.64,
+        ["points"] = 8699.92,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4663,
@@ -24616,7 +24616,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1092,
         ["kill_count"] = 6,
-        ["points"] = 9616.13,
+        ["points"] = 9616.22,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1848,
@@ -24658,7 +24658,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1498,
         ["kill_count"] = 25,
-        ["points"] = 9635.72,
+        ["points"] = 9635.8,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2984,
@@ -24673,10 +24673,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5186,
         ["kill_count"] = 24,
-        ["points"] = 8368.56,
+        ["points"] = 8368.93,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5870,
+        ["rank_raids"] = 5871,
         ["kill_count"] = 21,
         ["points"] = 8340.13,
       },
@@ -24715,7 +24715,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3123,
         ["kill_count"] = 7,
-        ["points"] = 9289.1,
+        ["points"] = 9289.26,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6304,
@@ -24730,7 +24730,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2367,
         ["kill_count"] = 14,
-        ["points"] = 9213.98,
+        ["points"] = 9214.16,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 909,
@@ -24772,7 +24772,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3376,
         ["kill_count"] = 27,
-        ["points"] = 9243.85,
+        ["points"] = 9244.01,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9670,
@@ -24787,7 +24787,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 623,
         ["kill_count"] = 24,
-        ["points"] = 9780.65,
+        ["points"] = 9780.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1339,
@@ -24829,7 +24829,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2552,
         ["kill_count"] = 4,
-        ["points"] = 9406.12,
+        ["points"] = 9406.25,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2325,
@@ -24844,7 +24844,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2273,
         ["kill_count"] = 4,
-        ["points"] = 9248.26,
+        ["points"] = 9248.43,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2070,
@@ -24886,7 +24886,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2521,
         ["kill_count"] = 15,
-        ["points"] = 9411.63,
+        ["points"] = 9411.76,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1157,
@@ -24901,7 +24901,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3939,
         ["kill_count"] = 13,
-        ["points"] = 8731.86,
+        ["points"] = 8732.15,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2093,
@@ -24943,7 +24943,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1782,
         ["kill_count"] = 2,
-        ["points"] = 9582.74,
+        ["points"] = 9582.83,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1344,
@@ -24958,7 +24958,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1780,
         ["kill_count"] = 1,
-        ["points"] = 9376.21,
+        ["points"] = 9376.36,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2483,
@@ -25000,7 +25000,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1339,
         ["kill_count"] = 14,
-        ["points"] = 9667.73,
+        ["points"] = 9667.81,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4303,
@@ -25015,7 +25015,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5050,
         ["kill_count"] = 11,
-        ["points"] = 8411.97,
+        ["points"] = 8412.34,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1266,
@@ -25057,7 +25057,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 279,
         ["kill_count"] = 22,
-        ["points"] = 9908.38,
+        ["points"] = 9908.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1456,
@@ -25072,7 +25072,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 907,
         ["kill_count"] = 21,
-        ["points"] = 9672.11,
+        ["points"] = 9672.19,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1363,
@@ -25114,7 +25114,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7012,
         ["kill_count"] = 21,
-        ["points"] = 8426.98,
+        ["points"] = 8427.33,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 705,
@@ -25129,10 +25129,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1447,
         ["kill_count"] = 40,
-        ["points"] = 9476.75,
+        ["points"] = 9476.87,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5138,
+        ["rank_raids"] = 5139,
         ["kill_count"] = 19,
         ["points"] = 8522.44,
       },
@@ -25171,7 +25171,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3813,
         ["kill_count"] = 9,
-        ["points"] = 9140.08,
+        ["points"] = 9140.27,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4299,
@@ -25186,7 +25186,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1562,
         ["kill_count"] = 8,
-        ["points"] = 9443.62,
+        ["points"] = 9443.75,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2071,
@@ -25228,7 +25228,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3512,
         ["kill_count"] = 25,
-        ["points"] = 9212.94,
+        ["points"] = 9213.11,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4059,
@@ -25243,7 +25243,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3541,
         ["kill_count"] = 23,
-        ["points"] = 8870.1,
+        ["points"] = 8870.36,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1630,
@@ -25285,7 +25285,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3294,
         ["kill_count"] = 6,
-        ["points"] = 9253.78,
+        ["points"] = 9253.95,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7737,
@@ -25300,7 +25300,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3746,
         ["kill_count"] = 5,
-        ["points"] = 8796.98,
+        ["points"] = 8797.26,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2116,
@@ -25342,7 +25342,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 11804,
         ["kill_count"] = 5,
-        ["points"] = 7413.62,
+        ["points"] = 7414.19,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5905,
@@ -25357,7 +25357,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4830,
         ["kill_count"] = 5,
-        ["points"] = 8467.95,
+        ["points"] = 8468.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1822,
@@ -25399,7 +25399,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3620,
         ["kill_count"] = 9,
-        ["points"] = 9184.24,
+        ["points"] = 9184.42,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3296,
@@ -25414,7 +25414,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1440,
         ["kill_count"] = 13,
-        ["points"] = 9480.18,
+        ["points"] = 9480.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1120,
@@ -25456,7 +25456,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3768,
         ["kill_count"] = 49,
-        ["points"] = 9154.43,
+        ["points"] = 9154.62,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2879,
@@ -25471,7 +25471,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1776,
         ["kill_count"] = 52,
-        ["points"] = 9378.5,
+        ["points"] = 9378.64,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1689,
@@ -25513,7 +25513,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1807,
         ["kill_count"] = 5,
-        ["points"] = 9576.11,
+        ["points"] = 9576.21,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5239,
@@ -25528,7 +25528,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 366,
         ["kill_count"] = 6,
-        ["points"] = 9856.05,
+        ["points"] = 9856.08,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1564,
@@ -25570,7 +25570,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2385,
         ["kill_count"] = 1,
-        ["points"] = 9443.65,
+        ["points"] = 9443.77,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 991,
@@ -25585,12 +25585,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1289,
         ["kill_count"] = 1,
-        ["points"] = 9540.73,
+        ["points"] = 9540.83,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3539,
+        ["rank_raids"] = 3540,
         ["kill_count"] = 1,
-        ["points"] = 8915.09,
+        ["points"] = 8913.82,
       },
     },
   },
@@ -25627,7 +25627,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 736,
         ["kill_count"] = 34,
-        ["points"] = 9794.68,
+        ["points"] = 9794.72,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 908,
@@ -25642,7 +25642,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1365,
         ["kill_count"] = 31,
-        ["points"] = 9511.02,
+        ["points"] = 9511.14,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 402,
@@ -25684,7 +25684,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1731,
         ["kill_count"] = 14,
-        ["points"] = 9590.46,
+        ["points"] = 9590.55,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5628,
@@ -25699,7 +25699,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4422,
         ["kill_count"] = 15,
-        ["points"] = 8577.63,
+        ["points"] = 8577.96,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2661,
@@ -25741,7 +25741,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6760,
         ["kill_count"] = 8,
-        ["points"] = 8485.48,
+        ["points"] = 8485.82,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1696,
@@ -25756,7 +25756,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 463,
         ["kill_count"] = 8,
-        ["points"] = 9832.06,
+        ["points"] = 9832.1,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 416,
@@ -25798,7 +25798,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2621,
         ["kill_count"] = 25,
-        ["points"] = 9390.66,
+        ["points"] = 9390.8,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 881,
@@ -25813,7 +25813,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1693,
         ["kill_count"] = 18,
-        ["points"] = 9410.49,
+        ["points"] = 9410.62,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 625,
@@ -25855,7 +25855,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2375,
         ["kill_count"] = 20,
-        ["points"] = 9445.85,
+        ["points"] = 9445.98,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1302,
@@ -25870,7 +25870,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4203,
         ["kill_count"] = 20,
-        ["points"] = 8646.18,
+        ["points"] = 8646.49,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1584,
@@ -25912,7 +25912,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 960,
         ["kill_count"] = 4,
-        ["points"] = 9753.84,
+        ["points"] = 9753.89,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3482,
@@ -25927,10 +25927,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 361,
         ["kill_count"] = 3,
-        ["points"] = 9858.33,
+        ["points"] = 9858.37,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4310,
+        ["rank_raids"] = 4311,
         ["kill_count"] = 5,
         ["points"] = 8718.77,
       },
@@ -25969,7 +25969,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2023,
         ["kill_count"] = 19,
-        ["points"] = 9518.71,
+        ["points"] = 9518.82,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2344,
@@ -25984,7 +25984,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5182,
         ["kill_count"] = 17,
-        ["points"] = 8370.84,
+        ["points"] = 8371.22,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 294,
@@ -26026,7 +26026,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2575,
         ["kill_count"] = 13,
-        ["points"] = 9398.39,
+        ["points"] = 9398.52,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5069,
@@ -26041,12 +26041,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2682,
         ["kill_count"] = 8,
-        ["points"] = 9105.45,
+        ["points"] = 9105.65,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3978,
+        ["rank_raids"] = 3979,
         ["kill_count"] = 10,
-        ["points"] = 8804.18,
+        ["points"] = 8802.91,
       },
     },
   },
@@ -26083,7 +26083,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2883,
         ["kill_count"] = 10,
-        ["points"] = 9329.95,
+        ["points"] = 9330.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2953,
@@ -26098,7 +26098,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5957,
         ["kill_count"] = 10,
-        ["points"] = 8151.49,
+        ["points"] = 8151.91,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1097,
@@ -26140,7 +26140,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5790,
         ["kill_count"] = 27,
-        ["points"] = 8698.53,
+        ["points"] = 8698.82,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5161,
@@ -26155,7 +26155,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3003,
         ["kill_count"] = 28,
-        ["points"] = 9004.91,
+        ["points"] = 9005.14,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2974,
@@ -26197,7 +26197,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1418,
         ["kill_count"] = 21,
-        ["points"] = 9648.97,
+        ["points"] = 9649.05,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1761,
@@ -26212,7 +26212,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6104,
         ["kill_count"] = 28,
-        ["points"] = 8109.22,
+        ["points"] = 8109.65,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 560,
@@ -26254,7 +26254,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6798,
         ["kill_count"] = 17,
-        ["points"] = 8476.65,
+        ["points"] = 8476.99,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1741,
@@ -26269,7 +26269,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1031,
         ["kill_count"] = 18,
-        ["points"] = 9642.41,
+        ["points"] = 9642.49,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1248,
@@ -26311,7 +26311,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3974,
         ["kill_count"] = 9,
-        ["points"] = 9104.76,
+        ["points"] = 9104.96,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2022,
@@ -26326,7 +26326,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4016,
         ["kill_count"] = 9,
-        ["points"] = 8701.02,
+        ["points"] = 8701.31,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1462,
@@ -26368,7 +26368,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1250,
         ["kill_count"] = 44,
-        ["points"] = 9686.5,
+        ["points"] = 9686.57,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1523,
@@ -26383,7 +26383,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2428,
         ["kill_count"] = 47,
-        ["points"] = 9194.56,
+        ["points"] = 9194.75,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1358,
@@ -26425,7 +26425,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5310,
         ["kill_count"] = 17,
-        ["points"] = 8821.06,
+        ["points"] = 8821.32,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2732,
@@ -26440,7 +26440,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5461,
         ["kill_count"] = 12,
-        ["points"] = 8286.3,
+        ["points"] = 8286.69,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1938,
@@ -26482,7 +26482,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2271,
         ["kill_count"] = 13,
-        ["points"] = 9466.83,
+        ["points"] = 9466.95,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2240,
@@ -26497,7 +26497,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3899,
         ["kill_count"] = 11,
-        ["points"] = 8745.57,
+        ["points"] = 8745.86,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1748,
@@ -26539,7 +26539,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3348,
         ["kill_count"] = 3,
-        ["points"] = 9246.05,
+        ["points"] = 9246.22,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 374,
@@ -26554,12 +26554,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 414,
         ["kill_count"] = 9,
-        ["points"] = 9841.2,
+        ["points"] = 9841.23,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4038,
+        ["rank_raids"] = 4039,
         ["kill_count"] = 4,
-        ["points"] = 8790.16,
+        ["points"] = 8788.88,
       },
     },
   },
@@ -26596,7 +26596,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2003,
         ["kill_count"] = 12,
-        ["points"] = 9526.44,
+        ["points"] = 9526.54,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1049,
@@ -26611,7 +26611,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6633,
         ["kill_count"] = 10,
-        ["points"] = 7980.12,
+        ["points"] = 7980.58,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1987,
@@ -26653,7 +26653,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3199,
         ["kill_count"] = 9,
-        ["points"] = 9267.03,
+        ["points"] = 9267.19,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3797,
@@ -26668,7 +26668,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2048,
         ["kill_count"] = 9,
-        ["points"] = 9296.24,
+        ["points"] = 9296.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1142,
@@ -26710,7 +26710,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1717,
         ["kill_count"] = 27,
-        ["points"] = 9593.77,
+        ["points"] = 9593.86,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 907,
@@ -26725,7 +26725,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2795,
         ["kill_count"] = 25,
-        ["points"] = 9071.18,
+        ["points"] = 9071.39,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1719,
@@ -26767,7 +26767,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7108,
         ["kill_count"] = 13,
-        ["points"] = 8402.69,
+        ["points"] = 8403.05,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1976,
@@ -26782,7 +26782,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3332,
         ["kill_count"] = 11,
-        ["points"] = 8940.93,
+        ["points"] = 8941.18,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2456,
@@ -26824,7 +26824,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3732,
         ["kill_count"] = 16,
-        ["points"] = 9165.47,
+        ["points"] = 9165.66,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2399,
@@ -26839,7 +26839,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2707,
         ["kill_count"] = 17,
-        ["points"] = 9098.59,
+        ["points"] = 9098.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2647,
@@ -26881,7 +26881,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3867,
         ["kill_count"] = 28,
-        ["points"] = 9127.94,
+        ["points"] = 9128.13,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1301,
@@ -26896,10 +26896,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1599,
         ["kill_count"] = 24,
-        ["points"] = 9433.34,
+        ["points"] = 9433.47,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5192,
+        ["rank_raids"] = 5193,
         ["kill_count"] = 28,
         ["points"] = 8505.86,
       },
@@ -26938,7 +26938,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1836,
         ["kill_count"] = 6,
-        ["points"] = 9569.49,
+        ["points"] = 9569.58,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2634,
@@ -26953,7 +26953,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 744,
         ["kill_count"] = 18,
-        ["points"] = 9737.23,
+        ["points"] = 9737.29,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2436,
@@ -26995,7 +26995,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 885,
         ["kill_count"] = 43,
-        ["points"] = 9764.87,
+        ["points"] = 9764.93,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 727,
@@ -27010,7 +27010,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 515,
         ["kill_count"] = 42,
-        ["points"] = 9816.06,
+        ["points"] = 9816.11,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2897,
@@ -27052,7 +27052,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4650,
         ["kill_count"] = 4,
-        ["points"] = 8960.15,
+        ["points"] = 8960.38,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6962,
@@ -27067,10 +27067,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 785,
         ["kill_count"] = 3,
-        ["points"] = 9717.81,
+        ["points"] = 9717.88,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4343,
+        ["rank_raids"] = 4344,
         ["kill_count"] = 3,
         ["points"] = 8709.84,
       },
@@ -27109,7 +27109,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2587,
         ["kill_count"] = 13,
-        ["points"] = 9396.18,
+        ["points"] = 9396.31,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1892,
@@ -27124,7 +27124,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 851,
         ["kill_count"] = 22,
-        ["points"] = 9692.68,
+        ["points"] = 9692.75,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 869,
@@ -27166,7 +27166,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1205,
         ["kill_count"] = 11,
-        ["points"] = 9693.12,
+        ["points"] = 9693.19,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4587,
@@ -27181,7 +27181,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4614,
         ["kill_count"] = 9,
-        ["points"] = 8527.36,
+        ["points"] = 8527.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1139,
@@ -27223,7 +27223,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1097,
         ["kill_count"] = 7,
-        ["points"] = 9721.82,
+        ["points"] = 9721.89,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 120,
@@ -27238,10 +27238,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 965,
         ["kill_count"] = 7,
-        ["points"] = 9657.26,
+        ["points"] = 9657.34,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4850,
+        ["rank_raids"] = 4851,
         ["kill_count"] = 7,
         ["points"] = 8598.93,
       },
@@ -27280,7 +27280,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3185,
         ["kill_count"] = 2,
-        ["points"] = 9271.44,
+        ["points"] = 9271.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1275,
@@ -27295,7 +27295,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2607,
         ["kill_count"] = 2,
-        ["points"] = 9130.58,
+        ["points"] = 9130.78,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 630,
@@ -27337,7 +27337,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3433,
         ["kill_count"] = 35,
-        ["points"] = 9231.7,
+        ["points"] = 9231.87,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2847,
@@ -27352,10 +27352,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3058,
         ["kill_count"] = 37,
-        ["points"] = 8993.49,
+        ["points"] = 8993.72,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 9867,
+        ["rank_raids"] = 9868,
         ["kill_count"] = 37,
         ["points"] = 7447.73,
       },
@@ -27394,7 +27394,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1837,
         ["kill_count"] = 45,
-        ["points"] = 9568.39,
+        ["points"] = 9568.48,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 574,
@@ -27409,7 +27409,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 13857,
         ["kill_count"] = 15,
-        ["points"] = 6412.66,
+        ["points"] = 6413.48,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1792,
@@ -27451,7 +27451,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6673,
         ["kill_count"] = 13,
-        ["points"] = 8505.35,
+        ["points"] = 8505.68,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3076,
@@ -27466,7 +27466,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 915,
         ["kill_count"] = 9,
-        ["points"] = 9668.69,
+        ["points"] = 9668.76,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1701,
@@ -27476,7 +27476,7 @@ UWULogsData[4][3] = {
     },
   },
   ["Bulochika"] = {
-    ["percentile"] = 91.68,
+    ["percentile"] = 91.69,
     ["server"] = "Icecrown",
     ["overall_rank"] = 485,
     ["bosses"] = {
@@ -27508,7 +27508,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2467,
         ["kill_count"] = 16,
-        ["points"] = 9424.88,
+        ["points"] = 9425.01,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1692,
@@ -27523,7 +27523,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 7353,
         ["kill_count"] = 12,
-        ["points"] = 7784.76,
+        ["points"] = 7785.27,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1296,
@@ -27565,7 +27565,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3415,
         ["kill_count"] = 21,
-        ["points"] = 9235.01,
+        ["points"] = 9235.18,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2343,
@@ -27580,10 +27580,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1943,
         ["kill_count"] = 9,
-        ["points"] = 9325.95,
+        ["points"] = 9326.1,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5093,
+        ["rank_raids"] = 5094,
         ["kill_count"] = 10,
         ["points"] = 8532.64,
       },
@@ -27622,7 +27622,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3023,
         ["kill_count"] = 15,
-        ["points"] = 9302.35,
+        ["points"] = 9302.51,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5452,
@@ -27637,7 +27637,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 9698,
         ["kill_count"] = 10,
-        ["points"] = 7239.8,
+        ["points"] = 7240.43,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 918,
@@ -27679,7 +27679,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2152,
         ["kill_count"] = 5,
-        ["points"] = 9490.01,
+        ["points"] = 9490.12,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 647,
@@ -27694,10 +27694,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 192,
         ["kill_count"] = 4,
-        ["points"] = 9912.03,
+        ["points"] = 9912.05,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 11715,
+        ["rank_raids"] = 11716,
         ["kill_count"] = 4,
         ["points"] = 7030.85,
       },
@@ -27736,7 +27736,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1883,
         ["kill_count"] = 18,
-        ["points"] = 9557.35,
+        ["points"] = 9557.44,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 821,
@@ -27751,10 +27751,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 781,
         ["kill_count"] = 18,
-        ["points"] = 9718.95,
+        ["points"] = 9719.02,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6422,
+        ["rank_raids"] = 6423,
         ["kill_count"] = 17,
         ["points"] = 8215.2,
       },
@@ -27793,7 +27793,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2615,
         ["kill_count"] = 6,
-        ["points"] = 9391.77,
+        ["points"] = 9391.9,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5997,
@@ -27808,7 +27808,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4854,
         ["kill_count"] = 4,
-        ["points"] = 8459.96,
+        ["points"] = 8460.31,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 395,
@@ -27850,7 +27850,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 661,
         ["kill_count"] = 24,
-        ["points"] = 9814.55,
+        ["points"] = 9814.59,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1839,
@@ -27865,7 +27865,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 13889,
         ["kill_count"] = 12,
-        ["points"] = 6406.95,
+        ["points"] = 6407.77,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1271,
@@ -27907,7 +27907,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2027,
         ["kill_count"] = 5,
-        ["points"] = 9517.61,
+        ["points"] = 9517.71,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 888,
@@ -27922,10 +27922,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 477,
         ["kill_count"] = 11,
-        ["points"] = 9825.2,
+        ["points"] = 9825.24,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4814,
+        ["rank_raids"] = 4815,
         ["kill_count"] = 5,
         ["points"] = 8611.68,
       },
@@ -27964,7 +27964,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3881,
         ["kill_count"] = 2,
-        ["points"] = 9123.52,
+        ["points"] = 9123.72,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4480,
@@ -27979,76 +27979,19 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2483,
         ["kill_count"] = 3,
-        ["points"] = 9170.57,
+        ["points"] = 9170.76,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5078,
+        ["rank_raids"] = 5079,
         ["kill_count"] = 2,
         ["points"] = 8535.19,
-      },
-    },
-  },
-  ["Autunmfalls"] = {
-    ["percentile"] = 91.59,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 494,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6019,
-        ["kill_count"] = 17,
-        ["points"] = 8420.84,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 246,
-        ["kill_count"] = 16,
-        ["points"] = 9893.08,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1392,
-        ["kill_count"] = 19,
-        ["points"] = 9588.96,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 3332,
-        ["kill_count"] = 20,
-        ["points"] = 9090.91,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 3188,
-        ["kill_count"] = 19,
-        ["points"] = 9141.91,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 4790,
-        ["kill_count"] = 18,
-        ["points"] = 8930.35,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 2157,
-        ["kill_count"] = 19,
-        ["points"] = 9435.94,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 691,
-        ["kill_count"] = 20,
-        ["points"] = 9681.97,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 4600,
-        ["kill_count"] = 15,
-        ["points"] = 8534.22,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 4067,
-        ["kill_count"] = 16,
-        ["points"] = 8779.96,
       },
     },
   },
   ["Thestar"] = {
     ["percentile"] = 91.59,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 495,
+    ["overall_rank"] = 494,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1387,
@@ -28078,7 +28021,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2157,
         ["kill_count"] = 7,
-        ["points"] = 9488.91,
+        ["points"] = 9489.02,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 625,
@@ -28093,12 +28036,69 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 7469,
         ["kill_count"] = 7,
-        ["points"] = 7749.34,
+        ["points"] = 7749.86,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2830,
         ["kill_count"] = 7,
         ["points"] = 9094.85,
+      },
+    },
+  },
+  ["Autunmfalls"] = {
+    ["percentile"] = 91.59,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 495,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 6019,
+        ["kill_count"] = 17,
+        ["points"] = 8420.84,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 246,
+        ["kill_count"] = 16,
+        ["points"] = 9893.08,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 1392,
+        ["kill_count"] = 19,
+        ["points"] = 9588.96,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 3332,
+        ["kill_count"] = 20,
+        ["points"] = 9090.91,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 3188,
+        ["kill_count"] = 19,
+        ["points"] = 9141.91,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 4790,
+        ["kill_count"] = 18,
+        ["points"] = 8930.58,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 2157,
+        ["kill_count"] = 19,
+        ["points"] = 9435.94,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 691,
+        ["kill_count"] = 20,
+        ["points"] = 9681.97,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 4600,
+        ["kill_count"] = 15,
+        ["points"] = 8534.55,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 4068,
+        ["kill_count"] = 16,
+        ["points"] = 8778.68,
       },
     },
   },
@@ -28135,7 +28135,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6194,
         ["kill_count"] = 14,
-        ["points"] = 8621.26,
+        ["points"] = 8621.56,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2861,
@@ -28150,7 +28150,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2070,
         ["kill_count"] = 19,
-        ["points"] = 9290.53,
+        ["points"] = 9290.69,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 394,
@@ -28192,7 +28192,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1464,
         ["kill_count"] = 13,
-        ["points"] = 9641.24,
+        ["points"] = 9641.32,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5099,
@@ -28207,7 +28207,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1400,
         ["kill_count"] = 26,
-        ["points"] = 9496.17,
+        ["points"] = 9496.29,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2938,
@@ -28249,7 +28249,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1386,
         ["kill_count"] = 6,
-        ["points"] = 9658.9,
+        ["points"] = 9658.98,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 253,
@@ -28264,7 +28264,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5426,
         ["kill_count"] = 5,
-        ["points"] = 8295.44,
+        ["points"] = 8295.83,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1609,
@@ -28306,7 +28306,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4148,
         ["kill_count"] = 14,
-        ["points"] = 9061.71,
+        ["points"] = 9061.91,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4304,
@@ -28321,7 +28321,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1771,
         ["kill_count"] = 18,
-        ["points"] = 9379.64,
+        ["points"] = 9379.78,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1776,
@@ -28363,7 +28363,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1776,
         ["kill_count"] = 12,
-        ["points"] = 9584.94,
+        ["points"] = 9585.03,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3092,
@@ -28378,12 +28378,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1898,
         ["kill_count"] = 10,
-        ["points"] = 9340.8,
+        ["points"] = 9340.95,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3557,
+        ["rank_raids"] = 3558,
         ["kill_count"] = 11,
-        ["points"] = 8909.99,
+        ["points"] = 8908.72,
       },
     },
   },
@@ -28420,7 +28420,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 992,
         ["kill_count"] = 20,
-        ["points"] = 9747.21,
+        ["points"] = 9747.27,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 221,
@@ -28435,12 +28435,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2440,
         ["kill_count"] = 37,
-        ["points"] = 9188.85,
+        ["points"] = 9189.03,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3505,
+        ["rank_raids"] = 3506,
         ["kill_count"] = 14,
-        ["points"] = 8924.02,
+        ["points"] = 8922.74,
       },
     },
   },
@@ -28477,7 +28477,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1204,
         ["kill_count"] = 3,
-        ["points"] = 9694.23,
+        ["points"] = 9694.29,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 10257,
@@ -28492,7 +28492,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1349,
         ["kill_count"] = 4,
-        ["points"] = 9519.02,
+        ["points"] = 9519.13,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2324,
@@ -28534,7 +28534,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7338,
         ["kill_count"] = 12,
-        ["points"] = 8357.43,
+        ["points"] = 8357.8,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 808,
@@ -28549,7 +28549,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 972,
         ["kill_count"] = 12,
-        ["points"] = 9654.98,
+        ["points"] = 9655.05,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2084,
@@ -28591,7 +28591,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1051,
         ["kill_count"] = 14,
-        ["points"] = 9732.86,
+        ["points"] = 9732.92,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2946,
@@ -28606,7 +28606,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1288,
         ["kill_count"] = 9,
-        ["points"] = 9541.87,
+        ["points"] = 9541.98,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1692,
@@ -28648,7 +28648,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8644,
         ["kill_count"] = 19,
-        ["points"] = 8093.61,
+        ["points"] = 8094.03,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1573,
@@ -28663,10 +28663,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3014,
         ["kill_count"] = 30,
-        ["points"] = 9003.77,
+        ["points"] = 9004.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4821,
+        ["rank_raids"] = 4822,
         ["kill_count"] = 14,
         ["points"] = 8610.4,
       },
@@ -28705,7 +28705,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3035,
         ["kill_count"] = 13,
-        ["points"] = 9300.14,
+        ["points"] = 9300.3,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3553,
@@ -28720,7 +28720,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 685,
         ["kill_count"] = 10,
-        ["points"] = 9756.65,
+        ["points"] = 9756.71,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2200,
@@ -28762,7 +28762,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2338,
         ["kill_count"] = 7,
-        ["points"] = 9453.58,
+        ["points"] = 9453.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1694,
@@ -28777,7 +28777,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 7147,
         ["kill_count"] = 9,
-        ["points"] = 7841.88,
+        ["points"] = 7842.38,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1746,
@@ -28819,7 +28819,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2768,
         ["kill_count"] = 10,
-        ["points"] = 9359.75,
+        ["points"] = 9359.89,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3157,
@@ -28834,7 +28834,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2345,
         ["kill_count"] = 10,
-        ["points"] = 9223.12,
+        ["points"] = 9223.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2819,
@@ -28876,7 +28876,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2409,
         ["kill_count"] = 6,
-        ["points"] = 9434.82,
+        ["points"] = 9434.94,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 10138,
@@ -28891,10 +28891,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1680,
         ["kill_count"] = 7,
-        ["points"] = 9413.92,
+        ["points"] = 9414.05,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 10419,
+        ["rank_raids"] = 10420,
         ["kill_count"] = 4,
         ["points"] = 7313.87,
       },
@@ -28933,7 +28933,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2360,
         ["kill_count"] = 19,
-        ["points"] = 9449.17,
+        ["points"] = 9449.29,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 400,
@@ -28948,10 +28948,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4493,
         ["kill_count"] = 19,
-        ["points"] = 8560.49,
+        ["points"] = 8560.82,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5721,
+        ["rank_raids"] = 5722,
         ["kill_count"] = 21,
         ["points"] = 8378.38,
       },
@@ -28990,7 +28990,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3521,
         ["kill_count"] = 9,
-        ["points"] = 9207.42,
+        ["points"] = 9207.59,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2786,
@@ -29005,7 +29005,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 838,
         ["kill_count"] = 15,
-        ["points"] = 9699.53,
+        ["points"] = 9699.6,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2886,
@@ -29047,7 +29047,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2665,
         ["kill_count"] = 14,
-        ["points"] = 9385.14,
+        ["points"] = 9385.28,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1552,
@@ -29062,7 +29062,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1002,
         ["kill_count"] = 13,
-        ["points"] = 9648.12,
+        ["points"] = 9648.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1173,
@@ -29104,7 +29104,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3434,
         ["kill_count"] = 9,
-        ["points"] = 9230.6,
+        ["points"] = 9230.77,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5969,
@@ -29119,12 +29119,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1579,
         ["kill_count"] = 9,
-        ["points"] = 9437.91,
+        ["points"] = 9438.04,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3115,
+        ["rank_raids"] = 3116,
         ["kill_count"] = 9,
-        ["points"] = 9013.26,
+        ["points"] = 9011.98,
       },
     },
   },
@@ -29161,7 +29161,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2094,
         ["kill_count"] = 30,
-        ["points"] = 9503.26,
+        ["points"] = 9503.37,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 611,
@@ -29176,10 +29176,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3559,
         ["kill_count"] = 25,
-        ["points"] = 8860.96,
+        ["points"] = 8861.22,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6150,
+        ["rank_raids"] = 6151,
         ["kill_count"] = 30,
         ["points"] = 8273.84,
       },
@@ -29218,7 +29218,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1543,
         ["kill_count"] = 13,
-        ["points"] = 9625.79,
+        ["points"] = 9625.87,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5360,
@@ -29233,12 +29233,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 8058,
         ["kill_count"] = 10,
-        ["points"] = 7595.11,
+        ["points"] = 7595.66,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3579,
+        ["rank_raids"] = 3580,
         ["kill_count"] = 4,
-        ["points"] = 8903.62,
+        ["points"] = 8902.35,
       },
     },
   },
@@ -29275,7 +29275,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5079,
         ["kill_count"] = 12,
-        ["points"] = 8872.94,
+        ["points"] = 8873.19,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2150,
@@ -29290,7 +29290,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3359,
         ["kill_count"] = 11,
-        ["points"] = 8930.65,
+        ["points"] = 8930.9,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2572,
@@ -29332,7 +29332,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2763,
         ["kill_count"] = 6,
-        ["points"] = 9364.17,
+        ["points"] = 9364.31,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2204,
@@ -29347,7 +29347,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4261,
         ["kill_count"] = 13,
-        ["points"] = 8630.18,
+        ["points"] = 8630.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2719,
@@ -29389,7 +29389,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3139,
         ["kill_count"] = 26,
-        ["points"] = 9284.69,
+        ["points"] = 9284.85,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2571,
@@ -29404,7 +29404,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4100,
         ["kill_count"] = 26,
-        ["points"] = 8670.17,
+        ["points"] = 8670.47,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2626,
@@ -29446,7 +29446,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4009,
         ["kill_count"] = 22,
-        ["points"] = 9092.62,
+        ["points"] = 9092.82,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1064,
@@ -29461,10 +29461,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1702,
         ["kill_count"] = 17,
-        ["points"] = 9405.92,
+        ["points"] = 9406.05,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6027,
+        ["rank_raids"] = 6028,
         ["kill_count"] = 23,
         ["points"] = 8304.44,
       },
@@ -29503,7 +29503,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 820,
         ["kill_count"] = 15,
-        ["points"] = 9778.12,
+        ["points"] = 9778.17,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4674,
@@ -29518,7 +29518,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4488,
         ["kill_count"] = 13,
-        ["points"] = 8561.64,
+        ["points"] = 8561.96,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 133,
@@ -29560,7 +29560,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2260,
         ["kill_count"] = 10,
-        ["points"] = 9470.14,
+        ["points"] = 9470.26,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4240,
@@ -29575,10 +29575,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4302,
         ["kill_count"] = 9,
-        ["points"] = 8619.9,
+        ["points"] = 8620.22,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4938,
+        ["rank_raids"] = 4939,
         ["kill_count"] = 11,
         ["points"] = 8575.98,
       },
@@ -29617,7 +29617,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2216,
         ["kill_count"] = 6,
-        ["points"] = 9478.97,
+        ["points"] = 9479.09,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1094,
@@ -29632,7 +29632,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 470,
         ["kill_count"] = 5,
-        ["points"] = 9828.63,
+        ["points"] = 9828.67,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1127,
@@ -29674,7 +29674,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1781,
         ["kill_count"] = 27,
-        ["points"] = 9583.84,
+        ["points"] = 9583.93,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2814,
@@ -29689,10 +29689,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5072,
         ["kill_count"] = 21,
-        ["points"] = 8407.4,
+        ["points"] = 8407.77,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6577,
+        ["rank_raids"] = 6578,
         ["kill_count"] = 26,
         ["points"] = 8182.05,
       },
@@ -29731,7 +29731,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1978,
         ["kill_count"] = 34,
-        ["points"] = 9533.06,
+        ["points"] = 9533.16,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3924,
@@ -29746,10 +29746,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1499,
         ["kill_count"] = 34,
-        ["points"] = 9461.9,
+        ["points"] = 9462.02,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7253,
+        ["rank_raids"] = 7254,
         ["kill_count"] = 31,
         ["points"] = 8012.49,
       },
@@ -29788,7 +29788,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4721,
         ["kill_count"] = 12,
-        ["points"] = 8948.01,
+        ["points"] = 8948.24,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1182,
@@ -29803,7 +29803,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5811,
         ["kill_count"] = 15,
-        ["points"] = 8188.05,
+        ["points"] = 8188.46,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2317,
@@ -29845,7 +29845,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4833,
         ["kill_count"] = 39,
-        ["points"] = 8920.41,
+        ["points"] = 8920.65,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1093,
@@ -29860,12 +29860,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2042,
         ["kill_count"] = 47,
-        ["points"] = 9298.53,
+        ["points"] = 9298.69,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4202,
+        ["rank_raids"] = 4203,
         ["kill_count"] = 39,
-        ["points"] = 8745.54,
+        ["points"] = 8744.26,
       },
     },
   },
@@ -29902,7 +29902,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 866,
         ["kill_count"] = 10,
-        ["points"] = 9769.29,
+        ["points"] = 9769.34,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5325,
@@ -29917,7 +29917,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2808,
         ["kill_count"] = 9,
-        ["points"] = 9066.61,
+        ["points"] = 9066.82,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2499,
@@ -29959,7 +29959,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1318,
         ["kill_count"] = 18,
-        ["points"] = 9673.25,
+        ["points"] = 9673.33,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1316,
@@ -29974,12 +29974,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1199,
         ["kill_count"] = 19,
-        ["points"] = 9576.15,
+        ["points"] = 9576.24,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4155,
+        ["rank_raids"] = 4156,
         ["kill_count"] = 16,
-        ["points"] = 8758.29,
+        ["points"] = 8757.01,
       },
     },
   },
@@ -30016,7 +30016,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3010,
         ["kill_count"] = 41,
-        ["points"] = 9305.66,
+        ["points"] = 9305.82,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 264,
@@ -30031,10 +30031,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1721,
         ["kill_count"] = 35,
-        ["points"] = 9397.92,
+        ["points"] = 9398.06,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6986,
+        ["rank_raids"] = 6987,
         ["kill_count"] = 30,
         ["points"] = 8085.16,
       },
@@ -30073,7 +30073,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2811,
         ["kill_count"] = 23,
-        ["points"] = 9347.61,
+        ["points"] = 9347.75,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3255,
@@ -30088,7 +30088,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1362,
         ["kill_count"] = 23,
-        ["points"] = 9512.17,
+        ["points"] = 9512.28,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1968,
@@ -30130,7 +30130,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1964,
         ["kill_count"] = 34,
-        ["points"] = 9538.58,
+        ["points"] = 9538.68,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2804,
@@ -30145,7 +30145,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 939,
         ["kill_count"] = 55,
-        ["points"] = 9664.12,
+        ["points"] = 9664.19,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2635,
@@ -30187,7 +30187,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3450,
         ["kill_count"] = 10,
-        ["points"] = 9226.18,
+        ["points"] = 9226.35,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4267,
@@ -30202,7 +30202,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3298,
         ["kill_count"] = 9,
-        ["points"] = 8947.79,
+        ["points"] = 8948.03,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2692,
@@ -30244,7 +30244,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6627,
         ["kill_count"] = 12,
-        ["points"] = 8518.6,
+        ["points"] = 8518.93,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2736,
@@ -30259,7 +30259,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 7327,
         ["kill_count"] = 13,
-        ["points"] = 7793.9,
+        ["points"] = 7794.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 708,
@@ -30301,7 +30301,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5026,
         ["kill_count"] = 49,
-        ["points"] = 8882.88,
+        ["points"] = 8883.13,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2577,
@@ -30316,10 +30316,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2895,
         ["kill_count"] = 43,
-        ["points"] = 9041.47,
+        ["points"] = 9041.69,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5000,
+        ["rank_raids"] = 5001,
         ["kill_count"] = 37,
         ["points"] = 8556.86,
       },
@@ -30358,7 +30358,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5367,
         ["kill_count"] = 12,
-        ["points"] = 8806.71,
+        ["points"] = 8806.97,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 460,
@@ -30373,7 +30373,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1836,
         ["kill_count"] = 15,
-        ["points"] = 9360.22,
+        ["points"] = 9360.37,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1328,
@@ -30415,7 +30415,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 774,
         ["kill_count"] = 11,
-        ["points"] = 9786.95,
+        ["points"] = 9787.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5571,
@@ -30430,7 +30430,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4364,
         ["kill_count"] = 15,
-        ["points"] = 8599.34,
+        ["points"] = 8599.66,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2656,
@@ -30472,7 +30472,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 9737,
         ["kill_count"] = 5,
-        ["points"] = 7839.72,
+        ["points"] = 7840.19,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5329,
@@ -30487,7 +30487,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2471,
         ["kill_count"] = 9,
-        ["points"] = 9174.0,
+        ["points"] = 9174.19,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1605,
@@ -30529,7 +30529,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6080,
         ["kill_count"] = 31,
-        ["points"] = 8652.17,
+        ["points"] = 8652.47,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4619,
@@ -30544,7 +30544,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 529,
         ["kill_count"] = 31,
-        ["points"] = 9813.78,
+        ["points"] = 9813.82,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 390,
@@ -30586,7 +30586,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5237,
         ["kill_count"] = 15,
-        ["points"] = 8838.72,
+        ["points"] = 8838.98,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2222,
@@ -30601,12 +30601,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5530,
         ["kill_count"] = 14,
-        ["points"] = 8272.59,
+        ["points"] = 8272.99,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3306,
+        ["rank_raids"] = 3307,
         ["kill_count"] = 16,
-        ["points"] = 8972.46,
+        ["points"] = 8971.19,
       },
     },
   },
@@ -30643,7 +30643,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4978,
         ["kill_count"] = 15,
-        ["points"] = 8892.81,
+        ["points"] = 8893.06,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 12320,
@@ -30658,7 +30658,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 322,
         ["kill_count"] = 14,
-        ["points"] = 9868.62,
+        ["points"] = 9868.65,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2575,
@@ -30700,7 +30700,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2818,
         ["kill_count"] = 37,
-        ["points"] = 9345.4,
+        ["points"] = 9345.55,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1090,
@@ -30715,7 +30715,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1789,
         ["kill_count"] = 25,
-        ["points"] = 9370.5,
+        ["points"] = 9370.65,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1509,
@@ -30757,7 +30757,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1696,
         ["kill_count"] = 20,
-        ["points"] = 9595.98,
+        ["points"] = 9596.07,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3641,
@@ -30772,7 +30772,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2285,
         ["kill_count"] = 24,
-        ["points"] = 9241.4,
+        ["points"] = 9241.58,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2784,
@@ -30814,7 +30814,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2083,
         ["kill_count"] = 8,
-        ["points"] = 9505.46,
+        ["points"] = 9505.57,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7131,
@@ -30829,7 +30829,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3406,
         ["kill_count"] = 6,
-        ["points"] = 8912.37,
+        ["points"] = 8912.62,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 591,
@@ -30871,7 +30871,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5280,
         ["kill_count"] = 11,
-        ["points"] = 8827.69,
+        ["points"] = 8827.94,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3345,
@@ -30886,7 +30886,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1386,
         ["kill_count"] = 11,
-        ["points"] = 9504.17,
+        ["points"] = 9504.28,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1112,
@@ -30928,7 +30928,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5866,
         ["kill_count"] = 5,
-        ["points"] = 8689.7,
+        ["points"] = 8689.99,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1791,
@@ -30943,7 +30943,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4010,
         ["kill_count"] = 6,
-        ["points"] = 8703.3,
+        ["points"] = 8703.6,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2582,
@@ -30985,7 +30985,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1194,
         ["kill_count"] = 7,
-        ["points"] = 9695.33,
+        ["points"] = 9695.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2793,
@@ -31000,7 +31000,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 13609,
         ["kill_count"] = 8,
-        ["points"] = 6467.5,
+        ["points"] = 6468.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1755,
@@ -31042,7 +31042,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1135,
         ["kill_count"] = 19,
-        ["points"] = 9714.1,
+        ["points"] = 9714.16,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1588,
@@ -31057,7 +31057,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5774,
         ["kill_count"] = 16,
-        ["points"] = 8201.76,
+        ["points"] = 8202.17,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 328,
@@ -31099,7 +31099,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1356,
         ["kill_count"] = 12,
-        ["points"] = 9664.42,
+        ["points"] = 9664.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1965,
@@ -31114,10 +31114,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2242,
         ["kill_count"] = 12,
-        ["points"] = 9255.11,
+        ["points"] = 9255.28,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4991,
+        ["rank_raids"] = 4992,
         ["kill_count"] = 11,
         ["points"] = 8560.68,
       },
@@ -31156,7 +31156,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2035,
         ["kill_count"] = 9,
-        ["points"] = 9514.3,
+        ["points"] = 9514.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 11928,
@@ -31171,10 +31171,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3098,
         ["kill_count"] = 9,
-        ["points"] = 8980.92,
+        ["points"] = 8981.15,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4685,
+        ["rank_raids"] = 4686,
         ["kill_count"] = 8,
         ["points"] = 8646.1,
       },
@@ -31213,7 +31213,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3707,
         ["kill_count"] = 2,
-        ["points"] = 9169.89,
+        ["points"] = 9170.07,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6744,
@@ -31228,7 +31228,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1356,
         ["kill_count"] = 2,
-        ["points"] = 9516.74,
+        ["points"] = 9516.85,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 731,
@@ -31270,7 +31270,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5258,
         ["kill_count"] = 19,
-        ["points"] = 8833.2,
+        ["points"] = 8833.46,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2995,
@@ -31285,7 +31285,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1782,
         ["kill_count"] = 21,
-        ["points"] = 9373.93,
+        ["points"] = 9374.07,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2996,
@@ -31327,7 +31327,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2014,
         ["kill_count"] = 5,
-        ["points"] = 9522.02,
+        ["points"] = 9522.13,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2373,
@@ -31342,7 +31342,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 10474,
         ["kill_count"] = 1,
-        ["points"] = 7085.57,
+        ["points"] = 7086.24,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2752,
@@ -31384,7 +31384,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4457,
         ["kill_count"] = 13,
-        ["points"] = 8995.47,
+        ["points"] = 8995.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1057,
@@ -31399,10 +31399,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3547,
         ["kill_count"] = 11,
-        ["points"] = 8866.67,
+        ["points"] = 8866.93,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4909,
+        ["rank_raids"] = 4910,
         ["kill_count"] = 12,
         ["points"] = 8584.91,
       },
@@ -31441,7 +31441,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6763,
         ["kill_count"] = 7,
-        ["points"] = 8484.38,
+        ["points"] = 8484.71,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2745,
@@ -31456,7 +31456,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1845,
         ["kill_count"] = 7,
-        ["points"] = 9355.65,
+        ["points"] = 9355.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1427,
@@ -31498,7 +31498,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3053,
         ["kill_count"] = 9,
-        ["points"] = 9296.83,
+        ["points"] = 9296.99,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4786,
@@ -31513,12 +31513,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1196,
         ["kill_count"] = 12,
-        ["points"] = 9579.57,
+        ["points"] = 9579.67,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3284,
+        ["rank_raids"] = 3285,
         ["kill_count"] = 9,
-        ["points"] = 8976.29,
+        ["points"] = 8975.01,
       },
     },
   },
@@ -31555,7 +31555,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2540,
         ["kill_count"] = 13,
-        ["points"] = 9407.22,
+        ["points"] = 9407.35,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4319,
@@ -31570,10 +31570,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3414,
         ["kill_count"] = 14,
-        ["points"] = 8910.09,
+        ["points"] = 8910.34,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5687,
+        ["rank_raids"] = 5688,
         ["kill_count"] = 9,
         ["points"] = 8391.13,
       },
@@ -31612,7 +31612,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4386,
         ["kill_count"] = 6,
-        ["points"] = 9007.62,
+        ["points"] = 9007.84,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6061,
@@ -31627,7 +31627,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1757,
         ["kill_count"] = 5,
-        ["points"] = 9388.78,
+        ["points"] = 9388.92,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1208,
@@ -31669,7 +31669,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1559,
         ["kill_count"] = 17,
-        ["points"] = 9621.37,
+        ["points"] = 9621.45,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4609,
@@ -31684,10 +31684,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 7145,
         ["kill_count"] = 16,
-        ["points"] = 7843.03,
+        ["points"] = 7843.52,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7045,
+        ["rank_raids"] = 7046,
         ["kill_count"] = 16,
         ["points"] = 8066.04,
       },
@@ -31726,7 +31726,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1275,
         ["kill_count"] = 15,
-        ["points"] = 9683.19,
+        ["points"] = 9683.26,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1851,
@@ -31741,10 +31741,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 512,
         ["kill_count"] = 31,
-        ["points"] = 9817.21,
+        ["points"] = 9817.25,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5153,
+        ["rank_raids"] = 5154,
         ["kill_count"] = 18,
         ["points"] = 8518.61,
       },
@@ -31783,7 +31783,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3674,
         ["kill_count"] = 12,
-        ["points"] = 9175.41,
+        ["points"] = 9175.59,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7851,
@@ -31798,12 +31798,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4932,
         ["kill_count"] = 12,
-        ["points"] = 8435.96,
+        ["points"] = 8436.32,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3877,
+        ["rank_raids"] = 3878,
         ["kill_count"] = 11,
-        ["points"] = 8828.4,
+        ["points"] = 8827.13,
       },
     },
   },
@@ -31840,7 +31840,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6827,
         ["kill_count"] = 6,
-        ["points"] = 8466.72,
+        ["points"] = 8467.06,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2562,
@@ -31855,7 +31855,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5214,
         ["kill_count"] = 6,
-        ["points"] = 8360.56,
+        ["points"] = 8360.94,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2892,
@@ -31897,7 +31897,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 9411,
         ["kill_count"] = 14,
-        ["points"] = 7910.37,
+        ["points"] = 7910.83,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4232,
@@ -31912,10 +31912,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2443,
         ["kill_count"] = 14,
-        ["points"] = 9187.71,
+        ["points"] = 9187.89,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4725,
+        ["rank_raids"] = 4726,
         ["kill_count"] = 10,
         ["points"] = 8635.9,
       },
@@ -31954,7 +31954,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2392,
         ["kill_count"] = 17,
-        ["points"] = 9440.34,
+        ["points"] = 9440.46,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3689,
@@ -31969,7 +31969,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 7006,
         ["kill_count"] = 16,
-        ["points"] = 7883.01,
+        ["points"] = 7883.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2440,
@@ -32011,7 +32011,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2149,
         ["kill_count"] = 16,
-        ["points"] = 9491.11,
+        ["points"] = 9491.23,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2522,
@@ -32026,7 +32026,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2410,
         ["kill_count"] = 13,
-        ["points"] = 9204.84,
+        ["points"] = 9205.03,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1297,
@@ -32068,7 +32068,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3776,
         ["kill_count"] = 6,
-        ["points"] = 9151.12,
+        ["points"] = 9151.31,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2183,
@@ -32083,10 +32083,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4431,
         ["kill_count"] = 4,
-        ["points"] = 8574.2,
+        ["points"] = 8574.53,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 14990,
+        ["rank_raids"] = 14991,
         ["kill_count"] = 6,
         ["points"] = 6634.8,
       },
@@ -32125,7 +32125,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3437,
         ["kill_count"] = 7,
-        ["points"] = 9229.5,
+        ["points"] = 9229.67,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2735,
@@ -32140,10 +32140,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4706,
         ["kill_count"] = 5,
-        ["points"] = 8499.94,
+        ["points"] = 8500.29,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5421,
+        ["rank_raids"] = 5422,
         ["kill_count"] = 6,
         ["points"] = 8452.32,
       },
@@ -32182,7 +32182,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2007,
         ["kill_count"] = 14,
-        ["points"] = 9524.23,
+        ["points"] = 9524.34,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 16532,
@@ -32197,7 +32197,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1345,
         ["kill_count"] = 12,
-        ["points"] = 9521.31,
+        ["points"] = 9521.42,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2011,
@@ -32239,7 +32239,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5480,
         ["kill_count"] = 28,
-        ["points"] = 8783.53,
+        ["points"] = 8783.8,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4927,
@@ -32254,7 +32254,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4330,
         ["kill_count"] = 19,
-        ["points"] = 8613.05,
+        ["points"] = 8613.36,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1341,
@@ -32296,7 +32296,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3045,
         ["kill_count"] = 15,
-        ["points"] = 9297.94,
+        ["points"] = 9298.09,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 670,
@@ -32311,7 +32311,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1983,
         ["kill_count"] = 15,
-        ["points"] = 9314.52,
+        ["points"] = 9314.68,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 669,
@@ -32353,7 +32353,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6429,
         ["kill_count"] = 3,
-        ["points"] = 8571.59,
+        ["points"] = 8571.9,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7263,
@@ -32368,10 +32368,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2520,
         ["kill_count"] = 3,
-        ["points"] = 9161.43,
+        ["points"] = 9161.62,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 14837,
+        ["rank_raids"] = 14838,
         ["kill_count"] = 2,
         ["points"] = 6646.61,
       },
@@ -32410,7 +32410,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2553,
         ["kill_count"] = 22,
-        ["points"] = 9405.01,
+        ["points"] = 9405.14,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2609,
@@ -32425,12 +32425,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2553,
         ["kill_count"] = 13,
-        ["points"] = 9145.44,
+        ["points"] = 9145.63,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3265,
+        ["rank_raids"] = 3266,
         ["kill_count"] = 20,
-        ["points"] = 8981.39,
+        ["points"] = 8980.11,
       },
     },
   },
@@ -32467,7 +32467,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7711,
         ["kill_count"] = 15,
-        ["points"] = 8281.27,
+        ["points"] = 8281.65,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2070,
@@ -32482,7 +32482,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2539,
         ["kill_count"] = 16,
-        ["points"] = 9151.15,
+        ["points"] = 9151.34,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 397,
@@ -32524,7 +32524,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1993,
         ["kill_count"] = 3,
-        ["points"] = 9527.54,
+        ["points"] = 9527.65,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 437,
@@ -32539,7 +32539,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 9393,
         ["kill_count"] = 2,
-        ["points"] = 7298.07,
+        ["points"] = 7298.69,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1797,
@@ -32581,7 +32581,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4730,
         ["kill_count"] = 13,
-        ["points"] = 8944.7,
+        ["points"] = 8944.93,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5168,
@@ -32596,7 +32596,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2420,
         ["kill_count"] = 4,
-        ["points"] = 9201.42,
+        ["points"] = 9201.6,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 858,
@@ -32638,7 +32638,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2787,
         ["kill_count"] = 8,
-        ["points"] = 9350.92,
+        ["points"] = 9351.07,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6191,
@@ -32653,12 +32653,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4114,
         ["kill_count"] = 12,
-        ["points"] = 8663.32,
+        ["points"] = 8663.62,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3515,
+        ["rank_raids"] = 3516,
         ["kill_count"] = 9,
-        ["points"] = 8921.47,
+        ["points"] = 8920.19,
       },
     },
   },
@@ -32695,7 +32695,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3971,
         ["kill_count"] = 15,
-        ["points"] = 9108.07,
+        ["points"] = 9108.27,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5445,
@@ -32710,12 +32710,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2762,
         ["kill_count"] = 15,
-        ["points"] = 9079.17,
+        ["points"] = 9079.38,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3448,
+        ["rank_raids"] = 3449,
         ["kill_count"] = 15,
-        ["points"] = 8934.22,
+        ["points"] = 8932.94,
       },
     },
   },
@@ -32752,7 +32752,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1861,
         ["kill_count"] = 21,
-        ["points"] = 9562.87,
+        ["points"] = 9562.96,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 850,
@@ -32767,10 +32767,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1810,
         ["kill_count"] = 21,
-        ["points"] = 9364.79,
+        ["points"] = 9364.93,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6064,
+        ["rank_raids"] = 6065,
         ["kill_count"] = 18,
         ["points"] = 8292.96,
       },
@@ -32809,7 +32809,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3901,
         ["kill_count"] = 5,
-        ["points"] = 9122.42,
+        ["points"] = 9122.61,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5364,
@@ -32824,7 +32824,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 13447,
         ["kill_count"] = 5,
-        ["points"] = 6501.77,
+        ["points"] = 6502.57,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1534,
@@ -32866,7 +32866,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2403,
         ["kill_count"] = 15,
-        ["points"] = 9437.02,
+        ["points"] = 9437.15,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6054,
@@ -32881,7 +32881,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4646,
         ["kill_count"] = 12,
-        ["points"] = 8518.22,
+        ["points"] = 8518.56,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1043,
@@ -32923,7 +32923,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2281,
         ["kill_count"] = 14,
-        ["points"] = 9464.62,
+        ["points"] = 9464.74,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2961,
@@ -32938,7 +32938,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1209,
         ["kill_count"] = 9,
-        ["points"] = 9570.43,
+        ["points"] = 9570.53,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 637,
@@ -32980,7 +32980,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4352,
         ["kill_count"] = 26,
-        ["points"] = 9020.86,
+        ["points"] = 9021.08,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2272,
@@ -32995,7 +32995,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2890,
         ["kill_count"] = 26,
-        ["points"] = 9044.9,
+        ["points"] = 9045.12,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1150,
@@ -33037,7 +33037,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2519,
         ["kill_count"] = 8,
-        ["points"] = 9412.74,
+        ["points"] = 9412.87,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1415,
@@ -33052,7 +33052,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6536,
         ["kill_count"] = 3,
-        ["points"] = 7998.4,
+        ["points"] = 7998.86,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 765,
@@ -33094,7 +33094,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8906,
         ["kill_count"] = 11,
-        ["points"] = 8027.38,
+        ["points"] = 8027.81,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1201,
@@ -33109,10 +33109,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1430,
         ["kill_count"] = 19,
-        ["points"] = 9484.75,
+        ["points"] = 9484.87,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4421,
+        ["rank_raids"] = 4422,
         ["kill_count"] = 11,
         ["points"] = 8689.44,
       },
@@ -33151,7 +33151,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 11094,
         ["kill_count"] = 5,
-        ["points"] = 7551.61,
+        ["points"] = 7552.15,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8488,
@@ -33166,7 +33166,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1511,
         ["kill_count"] = 4,
-        ["points"] = 9458.47,
+        ["points"] = 9458.6,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1435,
@@ -33208,7 +33208,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4012,
         ["kill_count"] = 7,
-        ["points"] = 9090.41,
+        ["points"] = 9090.61,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7282,
@@ -33223,7 +33223,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2365,
         ["kill_count"] = 7,
-        ["points"] = 9215.13,
+        ["points"] = 9215.31,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2742,
@@ -33233,7 +33233,7 @@ UWULogsData[4][3] = {
     },
   },
   ["Bjorniepala"] = {
-    ["percentile"] = 90.33,
+    ["percentile"] = 90.34,
     ["server"] = "Icecrown",
     ["overall_rank"] = 586,
     ["bosses"] = {
@@ -33265,7 +33265,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4200,
         ["kill_count"] = 27,
-        ["points"] = 9049.56,
+        ["points"] = 9049.77,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2108,
@@ -33280,7 +33280,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 11587,
         ["kill_count"] = 13,
-        ["points"] = 6843.37,
+        ["points"] = 6844.09,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1368,
@@ -33322,7 +33322,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2015,
         ["kill_count"] = 11,
-        ["points"] = 9520.92,
+        ["points"] = 9521.02,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3627,
@@ -33337,12 +33337,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1696,
         ["kill_count"] = 7,
-        ["points"] = 9408.2,
+        ["points"] = 9408.34,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4233,
+        ["rank_raids"] = 4234,
         ["kill_count"] = 11,
-        ["points"] = 8736.61,
+        ["points"] = 8735.34,
       },
     },
   },
@@ -33379,7 +33379,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5883,
         ["kill_count"] = 11,
-        ["points"] = 8687.49,
+        ["points"] = 8687.78,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1432,
@@ -33394,10 +33394,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1451,
         ["kill_count"] = 30,
-        ["points"] = 9475.61,
+        ["points"] = 9475.73,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5635,
+        ["rank_raids"] = 5636,
         ["kill_count"] = 10,
         ["points"] = 8401.33,
       },
@@ -33436,7 +33436,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4579,
         ["kill_count"] = 23,
-        ["points"] = 8974.5,
+        ["points"] = 8974.73,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7176,
@@ -33451,7 +33451,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5860,
         ["kill_count"] = 31,
-        ["points"] = 8173.2,
+        ["points"] = 8173.62,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 293,
@@ -33461,7 +33461,7 @@ UWULogsData[4][3] = {
     },
   },
   ["Awkward"] = {
-    ["percentile"] = 90.16,
+    ["percentile"] = 90.17,
     ["server"] = "Icecrown",
     ["overall_rank"] = 591,
     ["bosses"] = {
@@ -33493,7 +33493,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6211,
         ["kill_count"] = 3,
-        ["points"] = 8616.85,
+        ["points"] = 8617.15,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2831,
@@ -33508,7 +33508,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3826,
         ["kill_count"] = 5,
-        ["points"] = 8770.71,
+        ["points"] = 8770.99,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1393,
@@ -33550,7 +33550,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4772,
         ["kill_count"] = 14,
-        ["points"] = 8933.66,
+        ["points"] = 8933.89,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 852,
@@ -33565,7 +33565,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4354,
         ["kill_count"] = 13,
-        ["points"] = 8601.62,
+        ["points"] = 8601.94,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1800,
@@ -33607,7 +33607,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2237,
         ["kill_count"] = 13,
-        ["points"] = 9475.66,
+        ["points"] = 9475.78,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2630,
@@ -33622,7 +33622,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 7422,
         ["kill_count"] = 10,
-        ["points"] = 7763.05,
+        ["points"] = 7763.56,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2984,
@@ -33664,7 +33664,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5657,
         ["kill_count"] = 20,
-        ["points"] = 8732.75,
+        ["points"] = 8733.03,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4158,
@@ -33679,12 +33679,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2836,
         ["kill_count"] = 9,
-        ["points"] = 9058.61,
+        ["points"] = 9058.82,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3311,
+        ["rank_raids"] = 3312,
         ["kill_count"] = 18,
-        ["points"] = 8969.91,
+        ["points"] = 8968.64,
       },
     },
   },
@@ -33721,7 +33721,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 532,
         ["kill_count"] = 1,
-        ["points"] = 9842.15,
+        ["points"] = 9842.18,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4343,
@@ -33736,7 +33736,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4256,
         ["kill_count"] = 1,
-        ["points"] = 8632.47,
+        ["points"] = 8632.78,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2642,
@@ -33778,7 +33778,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6585,
         ["kill_count"] = 12,
-        ["points"] = 8527.43,
+        ["points"] = 8527.76,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4134,
@@ -33793,12 +33793,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3002,
         ["kill_count"] = 12,
-        ["points"] = 9006.06,
+        ["points"] = 9006.28,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3359,
+        ["rank_raids"] = 3360,
         ["kill_count"] = 9,
-        ["points"] = 8963.54,
+        ["points"] = 8962.26,
       },
     },
   },
@@ -33835,7 +33835,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6602,
         ["kill_count"] = 12,
-        ["points"] = 8524.12,
+        ["points"] = 8524.45,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2083,
@@ -33850,10 +33850,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3757,
         ["kill_count"] = 12,
-        ["points"] = 8791.27,
+        ["points"] = 8791.55,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4318,
+        ["rank_raids"] = 4319,
         ["kill_count"] = 10,
         ["points"] = 8716.22,
       },
@@ -33892,7 +33892,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6152,
         ["kill_count"] = 27,
-        ["points"] = 8632.3,
+        ["points"] = 8632.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3315,
@@ -33907,12 +33907,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1853,
         ["kill_count"] = 20,
-        ["points"] = 9354.51,
+        ["points"] = 9354.65,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3521,
+        ["rank_raids"] = 3522,
         ["kill_count"] = 17,
-        ["points"] = 8920.19,
+        ["points"] = 8918.92,
       },
     },
   },
@@ -33949,7 +33949,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2723,
         ["kill_count"] = 21,
-        ["points"] = 9374.1,
+        ["points"] = 9374.24,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7631,
@@ -33964,7 +33964,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4310,
         ["kill_count"] = 8,
-        ["points"] = 8617.62,
+        ["points"] = 8617.93,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2741,
@@ -34006,7 +34006,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1346,
         ["kill_count"] = 20,
-        ["points"] = 9665.53,
+        ["points"] = 9665.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1385,
@@ -34021,7 +34021,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6887,
         ["kill_count"] = 38,
-        ["points"] = 7911.57,
+        ["points"] = 7912.05,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 194,
@@ -34063,7 +34063,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4541,
         ["kill_count"] = 11,
-        ["points"] = 8980.02,
+        ["points"] = 8980.25,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3876,
@@ -34078,10 +34078,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5582,
         ["kill_count"] = 11,
-        ["points"] = 8256.6,
+        ["points"] = 8257.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5066,
+        ["rank_raids"] = 5067,
         ["kill_count"] = 11,
         ["points"] = 8539.01,
       },
@@ -34120,7 +34120,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1072,
         ["kill_count"] = 12,
-        ["points"] = 9726.24,
+        ["points"] = 9726.3,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3341,
@@ -34135,7 +34135,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1091,
         ["kill_count"] = 12,
-        ["points"] = 9617.27,
+        ["points"] = 9617.36,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1935,
@@ -34177,7 +34177,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2843,
         ["kill_count"] = 5,
-        ["points"] = 9340.99,
+        ["points"] = 9341.13,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1251,
@@ -34192,7 +34192,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5879,
         ["kill_count"] = 3,
-        ["points"] = 8168.63,
+        ["points"] = 8169.05,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1895,
@@ -34234,7 +34234,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6921,
         ["kill_count"] = 6,
-        ["points"] = 8450.16,
+        ["points"] = 8450.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3691,
@@ -34249,7 +34249,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1445,
         ["kill_count"] = 6,
-        ["points"] = 9477.89,
+        ["points"] = 9478.01,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2482,
@@ -34291,7 +34291,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3012,
         ["kill_count"] = 20,
-        ["points"] = 9304.56,
+        ["points"] = 9304.71,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3218,
@@ -34306,10 +34306,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2414,
         ["kill_count"] = 11,
-        ["points"] = 9202.56,
+        ["points"] = 9202.74,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6041,
+        ["rank_raids"] = 6042,
         ["kill_count"] = 20,
         ["points"] = 8299.34,
       },
@@ -34348,7 +34348,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2097,
         ["kill_count"] = 3,
-        ["points"] = 9501.05,
+        ["points"] = 9501.16,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 14983,
@@ -34363,7 +34363,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 690,
         ["kill_count"] = 3,
-        ["points"] = 9753.23,
+        ["points"] = 9753.28,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 101,
@@ -34405,7 +34405,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4021,
         ["kill_count"] = 11,
-        ["points"] = 9089.3,
+        ["points"] = 9089.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2718,
@@ -34420,10 +34420,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 583,
         ["kill_count"] = 11,
-        ["points"] = 9795.5,
+        ["points"] = 9795.55,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8438,
+        ["rank_raids"] = 8439,
         ["kill_count"] = 11,
         ["points"] = 7748.6,
       },
@@ -34462,7 +34462,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3184,
         ["kill_count"] = 3,
-        ["points"] = 9272.55,
+        ["points"] = 9272.71,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1929,
@@ -34477,10 +34477,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 11680,
         ["kill_count"] = 2,
-        ["points"] = 6831.94,
+        ["points"] = 6832.67,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5413,
+        ["rank_raids"] = 5414,
         ["kill_count"] = 1,
         ["points"] = 8456.14,
       },
@@ -34519,7 +34519,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6543,
         ["kill_count"] = 11,
-        ["points"] = 8538.47,
+        ["points"] = 8538.79,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 990,
@@ -34534,12 +34534,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 297,
         ["kill_count"] = 39,
-        ["points"] = 9875.47,
+        ["points"] = 9875.5,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3216,
+        ["rank_raids"] = 3217,
         ["kill_count"] = 9,
-        ["points"] = 8990.31,
+        ["points"] = 8989.04,
       },
     },
   },
@@ -34576,7 +34576,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5252,
         ["kill_count"] = 52,
-        ["points"] = 8834.31,
+        ["points"] = 8834.57,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3875,
@@ -34591,10 +34591,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3132,
         ["kill_count"] = 51,
-        ["points"] = 8971.78,
+        ["points"] = 8972.02,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5543,
+        ["rank_raids"] = 5544,
         ["kill_count"] = 53,
         ["points"] = 8417.9,
       },
@@ -34633,7 +34633,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5228,
         ["kill_count"] = 5,
-        ["points"] = 8842.04,
+        ["points"] = 8842.29,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 643,
@@ -34648,10 +34648,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 298,
         ["kill_count"] = 4,
-        ["points"] = 9874.33,
+        ["points"] = 9874.36,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4329,
+        ["rank_raids"] = 4330,
         ["kill_count"] = 5,
         ["points"] = 8712.39,
       },
@@ -34690,7 +34690,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4266,
         ["kill_count"] = 11,
-        ["points"] = 9038.53,
+        ["points"] = 9038.74,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 931,
@@ -34705,10 +34705,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1235,
         ["kill_count"] = 9,
-        ["points"] = 9561.29,
+        ["points"] = 9561.39,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8901,
+        ["rank_raids"] = 8902,
         ["kill_count"] = 11,
         ["points"] = 7644.06,
       },
@@ -34747,7 +34747,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2243,
         ["kill_count"] = 3,
-        ["points"] = 9474.56,
+        ["points"] = 9474.67,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4414,
@@ -34762,10 +34762,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3629,
         ["kill_count"] = 16,
-        ["points"] = 8835.83,
+        ["points"] = 8836.09,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6133,
+        ["rank_raids"] = 6134,
         ["kill_count"] = 2,
         ["points"] = 8277.66,
       },
@@ -34804,7 +34804,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1023,
         ["kill_count"] = 3,
-        ["points"] = 9739.49,
+        ["points"] = 9739.54,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1802,
@@ -34819,7 +34819,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1392,
         ["kill_count"] = 3,
-        ["points"] = 9500.74,
+        ["points"] = 9500.86,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1356,
@@ -34861,7 +34861,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5199,
         ["kill_count"] = 18,
-        ["points"] = 8851.97,
+        ["points"] = 8852.22,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5146,
@@ -34876,12 +34876,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4178,
         ["kill_count"] = 14,
-        ["points"] = 8653.03,
+        ["points"] = 8653.34,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4208,
+        ["rank_raids"] = 4209,
         ["kill_count"] = 21,
-        ["points"] = 8742.99,
+        ["points"] = 8741.71,
       },
     },
   },
@@ -34918,7 +34918,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5940,
         ["kill_count"] = 9,
-        ["points"] = 8676.45,
+        ["points"] = 8676.75,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3578,
@@ -34933,12 +34933,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3675,
         ["kill_count"] = 9,
-        ["points"] = 8823.26,
+        ["points"] = 8823.53,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3433,
+        ["rank_raids"] = 3434,
         ["kill_count"] = 7,
-        ["points"] = 8936.77,
+        ["points"] = 8935.49,
       },
     },
   },
@@ -34975,7 +34975,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3721,
         ["kill_count"] = 17,
-        ["points"] = 9167.68,
+        ["points"] = 9167.86,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1386,
@@ -34990,10 +34990,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 820,
         ["kill_count"] = 12,
-        ["points"] = 9707.53,
+        ["points"] = 9707.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6387,
+        ["rank_raids"] = 6388,
         ["kill_count"] = 16,
         ["points"] = 8221.57,
       },
@@ -35032,7 +35032,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3468,
         ["kill_count"] = 7,
-        ["points"] = 9220.66,
+        ["points"] = 9220.84,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2964,
@@ -35047,10 +35047,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2618,
         ["kill_count"] = 5,
-        ["points"] = 9123.73,
+        ["points"] = 9123.93,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7784,
+        ["rank_raids"] = 7785,
         ["kill_count"] = 6,
         ["points"] = 7904.13,
       },
@@ -35089,7 +35089,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4674,
         ["kill_count"] = 23,
-        ["points"] = 8955.73,
+        ["points"] = 8955.97,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2345,
@@ -35104,7 +35104,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3108,
         ["kill_count"] = 16,
-        ["points"] = 8976.35,
+        ["points"] = 8976.58,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2549,
@@ -35146,7 +35146,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1208,
         ["kill_count"] = 4,
-        ["points"] = 9692.02,
+        ["points"] = 9692.09,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1212,
@@ -35161,10 +35161,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5142,
         ["kill_count"] = 1,
-        ["points"] = 8382.27,
+        ["points"] = 8382.64,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5310,
+        ["rank_raids"] = 5311,
         ["kill_count"] = 4,
         ["points"] = 8481.64,
       },
@@ -35203,7 +35203,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4481,
         ["kill_count"] = 7,
-        ["points"] = 8991.06,
+        ["points"] = 8991.28,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3271,
@@ -35218,7 +35218,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2502,
         ["kill_count"] = 2,
-        ["points"] = 9167.14,
+        ["points"] = 9167.33,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 434,
@@ -35260,7 +35260,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4370,
         ["kill_count"] = 6,
-        ["points"] = 9013.14,
+        ["points"] = 9013.35,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2384,
@@ -35275,7 +35275,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4109,
         ["kill_count"] = 2,
-        ["points"] = 8665.6,
+        ["points"] = 8665.91,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2408,
@@ -35317,7 +35317,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 68,
         ["kill_count"] = 4,
-        ["points"] = 9972.4,
+        ["points"] = 9972.41,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1638,
@@ -35332,12 +35332,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4281,
         ["kill_count"] = 4,
-        ["points"] = 8624.47,
+        ["points"] = 8624.79,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3070,
+        ["rank_raids"] = 3071,
         ["kill_count"] = 5,
-        ["points"] = 9029.83,
+        ["points"] = 9028.56,
       },
     },
   },
@@ -35374,7 +35374,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2501,
         ["kill_count"] = 7,
-        ["points"] = 9416.05,
+        ["points"] = 9416.18,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 469,
@@ -35389,17 +35389,17 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 12419,
         ["kill_count"] = 3,
-        ["points"] = 6699.42,
+        ["points"] = 6700.17,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4186,
+        ["rank_raids"] = 4187,
         ["kill_count"] = 7,
-        ["points"] = 8748.09,
+        ["points"] = 8746.81,
       },
     },
   },
   ["Pumpieret"] = {
-    ["percentile"] = 89.72,
+    ["percentile"] = 89.73,
     ["server"] = "Icecrown",
     ["overall_rank"] = 625,
     ["bosses"] = {
@@ -35431,7 +35431,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4905,
         ["kill_count"] = 6,
-        ["points"] = 8904.96,
+        ["points"] = 8905.2,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4002,
@@ -35446,10 +35446,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 840,
         ["kill_count"] = 6,
-        ["points"] = 9698.39,
+        ["points"] = 9698.46,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8524,
+        ["rank_raids"] = 8525,
         ["kill_count"] = 2,
         ["points"] = 7725.65,
       },
@@ -35488,7 +35488,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1689,
         ["kill_count"] = 10,
-        ["points"] = 9597.09,
+        ["points"] = 9597.17,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2529,
@@ -35503,10 +35503,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2348,
         ["kill_count"] = 9,
-        ["points"] = 9220.84,
+        ["points"] = 9221.02,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 9976,
+        ["rank_raids"] = 9977,
         ["kill_count"] = 6,
         ["points"] = 7424.78,
       },
@@ -35545,7 +35545,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2408,
         ["kill_count"] = 5,
-        ["points"] = 9435.92,
+        ["points"] = 9436.04,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4279,
@@ -35560,7 +35560,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 730,
         ["kill_count"] = 15,
-        ["points"] = 9739.52,
+        ["points"] = 9739.58,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1586,
@@ -35602,7 +35602,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6613,
         ["kill_count"] = 2,
-        ["points"] = 8520.81,
+        ["points"] = 8521.13,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3580,
@@ -35617,7 +35617,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 688,
         ["kill_count"] = 2,
-        ["points"] = 9754.37,
+        ["points"] = 9754.43,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1617,
@@ -35659,7 +35659,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6979,
         ["kill_count"] = 17,
-        ["points"] = 8440.23,
+        ["points"] = 8440.57,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5066,
@@ -35674,12 +35674,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1527,
         ["kill_count"] = 12,
-        ["points"] = 9455.04,
+        ["points"] = 9455.17,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3104,
+        ["rank_raids"] = 3105,
         ["kill_count"] = 18,
-        ["points"] = 9019.63,
+        ["points"] = 9018.36,
       },
     },
   },
@@ -35716,7 +35716,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2732,
         ["kill_count"] = 6,
-        ["points"] = 9370.79,
+        ["points"] = 9370.93,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 359,
@@ -35731,10 +35731,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3704,
         ["kill_count"] = 6,
-        ["points"] = 8809.55,
+        ["points"] = 8809.82,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5691,
+        ["rank_raids"] = 5692,
         ["kill_count"] = 5,
         ["points"] = 8388.58,
       },
@@ -35773,7 +35773,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4849,
         ["kill_count"] = 4,
-        ["points"] = 8916.0,
+        ["points"] = 8916.23,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2833,
@@ -35788,7 +35788,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1034,
         ["kill_count"] = 3,
-        ["points"] = 9641.27,
+        ["points"] = 9641.35,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 377,
@@ -35830,7 +35830,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1457,
         ["kill_count"] = 22,
-        ["points"] = 9644.55,
+        ["points"] = 9644.63,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5185,
@@ -35845,10 +35845,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5338,
         ["kill_count"] = 22,
-        ["points"] = 8327.43,
+        ["points"] = 8327.81,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7585,
+        ["rank_raids"] = 7586,
         ["kill_count"] = 19,
         ["points"] = 7946.2,
       },
@@ -35887,7 +35887,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5403,
         ["kill_count"] = 7,
-        ["points"] = 8800.09,
+        ["points"] = 8800.35,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6999,
@@ -35902,10 +35902,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3480,
         ["kill_count"] = 5,
-        ["points"] = 8894.09,
+        ["points"] = 8894.35,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 9687,
+        ["rank_raids"] = 9688,
         ["kill_count"] = 3,
         ["points"] = 7483.43,
       },
@@ -35944,7 +35944,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2170,
         ["kill_count"] = 7,
-        ["points"] = 9485.59,
+        ["points"] = 9485.71,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2490,
@@ -35959,10 +35959,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 778,
         ["kill_count"] = 8,
-        ["points"] = 9720.1,
+        ["points"] = 9720.16,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4943,
+        ["rank_raids"] = 4944,
         ["kill_count"] = 11,
         ["points"] = 8574.71,
       },
@@ -36001,7 +36001,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4353,
         ["kill_count"] = 56,
-        ["points"] = 9019.76,
+        ["points"] = 9019.98,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2746,
@@ -36016,7 +36016,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2831,
         ["kill_count"] = 58,
-        ["points"] = 9060.89,
+        ["points"] = 9061.11,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2705,
@@ -36058,7 +36058,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3458,
         ["kill_count"] = 42,
-        ["points"] = 9223.98,
+        ["points"] = 9224.15,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 998,
@@ -36073,10 +36073,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1963,
         ["kill_count"] = 30,
-        ["points"] = 9319.09,
+        ["points"] = 9319.25,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6142,
+        ["rank_raids"] = 6143,
         ["kill_count"] = 44,
         ["points"] = 8275.11,
       },
@@ -36115,7 +36115,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 695,
         ["kill_count"] = 6,
-        ["points"] = 9807.93,
+        ["points"] = 9807.97,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2764,
@@ -36133,7 +36133,7 @@ UWULogsData[4][3] = {
         ["points"] = 5822.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4824,
+        ["rank_raids"] = 4825,
         ["kill_count"] = 4,
         ["points"] = 8607.85,
       },
@@ -36172,7 +36172,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2396,
         ["kill_count"] = 7,
-        ["points"] = 9438.13,
+        ["points"] = 9438.25,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 13437,
@@ -36187,12 +36187,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1090,
         ["kill_count"] = 6,
-        ["points"] = 9618.42,
+        ["points"] = 9618.5,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3269,
+        ["rank_raids"] = 3270,
         ["kill_count"] = 4,
-        ["points"] = 8980.11,
+        ["points"] = 8978.84,
       },
     },
   },
@@ -36229,7 +36229,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3124,
         ["kill_count"] = 11,
-        ["points"] = 9288.0,
+        ["points"] = 9288.16,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8385,
@@ -36244,17 +36244,17 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1070,
         ["kill_count"] = 16,
-        ["points"] = 9627.56,
+        ["points"] = 9627.64,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5973,
+        ["rank_raids"] = 5974,
         ["kill_count"] = 9,
         ["points"] = 8317.19,
       },
     },
   },
   ["Paybacks"] = {
-    ["percentile"] = 89.55,
+    ["percentile"] = 89.56,
     ["server"] = "Icecrown",
     ["overall_rank"] = 640,
     ["bosses"] = {
@@ -36286,7 +36286,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3903,
         ["kill_count"] = 25,
-        ["points"] = 9121.32,
+        ["points"] = 9121.51,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2198,
@@ -36301,10 +36301,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3959,
         ["kill_count"] = 24,
-        ["points"] = 8722.72,
+        ["points"] = 8723.02,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6433,
+        ["rank_raids"] = 6434,
         ["kill_count"] = 28,
         ["points"] = 8212.65,
       },
@@ -36343,7 +36343,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4377,
         ["kill_count"] = 15,
-        ["points"] = 9010.93,
+        ["points"] = 9011.15,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2644,
@@ -36358,12 +36358,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5862,
         ["kill_count"] = 11,
-        ["points"] = 8172.06,
+        ["points"] = 8172.47,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3527,
+        ["rank_raids"] = 3528,
         ["kill_count"] = 20,
-        ["points"] = 8917.64,
+        ["points"] = 8916.37,
       },
     },
   },
@@ -36400,7 +36400,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1718,
         ["kill_count"] = 9,
-        ["points"] = 9592.67,
+        ["points"] = 9592.76,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6686,
@@ -36415,7 +36415,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4635,
         ["kill_count"] = 8,
-        ["points"] = 8520.51,
+        ["points"] = 8520.85,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2089,
@@ -36457,7 +36457,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4288,
         ["kill_count"] = 19,
-        ["points"] = 9037.42,
+        ["points"] = 9037.63,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2287,
@@ -36472,10 +36472,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2054,
         ["kill_count"] = 20,
-        ["points"] = 9295.1,
+        ["points"] = 9295.26,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5009,
+        ["rank_raids"] = 5010,
         ["kill_count"] = 19,
         ["points"] = 8554.31,
       },
@@ -36514,7 +36514,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1314,
         ["kill_count"] = 14,
-        ["points"] = 9675.46,
+        ["points"] = 9675.53,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4254,
@@ -36529,12 +36529,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5792,
         ["kill_count"] = 15,
-        ["points"] = 8192.62,
+        ["points"] = 8193.03,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3476,
+        ["rank_raids"] = 3477,
         ["kill_count"] = 12,
-        ["points"] = 8930.39,
+        ["points"] = 8929.12,
       },
     },
   },
@@ -36571,7 +36571,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1667,
         ["kill_count"] = 3,
-        ["points"] = 9600.4,
+        ["points"] = 9600.49,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6359,
@@ -36586,7 +36586,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4416,
         ["kill_count"] = 3,
-        ["points"] = 8582.2,
+        ["points"] = 8582.52,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2417,
@@ -36628,7 +36628,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3990,
         ["kill_count"] = 11,
-        ["points"] = 9099.24,
+        ["points"] = 9099.44,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3747,
@@ -36643,7 +36643,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3825,
         ["kill_count"] = 11,
-        ["points"] = 8771.85,
+        ["points"] = 8772.13,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1769,
@@ -36685,7 +36685,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5035,
         ["kill_count"] = 13,
-        ["points"] = 8880.67,
+        ["points"] = 8880.92,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3452,
@@ -36700,10 +36700,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1548,
         ["kill_count"] = 11,
-        ["points"] = 9449.33,
+        ["points"] = 9449.46,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5836,
+        ["rank_raids"] = 5837,
         ["kill_count"] = 12,
         ["points"] = 8350.33,
       },
@@ -36742,7 +36742,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6670,
         ["kill_count"] = 10,
-        ["points"] = 8506.46,
+        ["points"] = 8506.79,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8472,
@@ -36757,7 +36757,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2693,
         ["kill_count"] = 10,
-        ["points"] = 9100.88,
+        ["points"] = 9101.09,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2904,
@@ -36799,7 +36799,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2689,
         ["kill_count"] = 11,
-        ["points"] = 9378.52,
+        ["points"] = 9378.66,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1730,
@@ -36814,7 +36814,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 12786,
         ["kill_count"] = 9,
-        ["points"] = 6632.01,
+        ["points"] = 6632.78,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 767,
@@ -36856,7 +36856,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4992,
         ["kill_count"] = 32,
-        ["points"] = 8890.61,
+        ["points"] = 8890.85,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2830,
@@ -36871,12 +36871,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2526,
         ["kill_count"] = 31,
-        ["points"] = 9158.0,
+        ["points"] = 9158.2,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3918,
+        ["rank_raids"] = 3919,
         ["kill_count"] = 30,
-        ["points"] = 8820.75,
+        ["points"] = 8819.48,
       },
     },
   },
@@ -36913,7 +36913,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4501,
         ["kill_count"] = 41,
-        ["points"] = 8988.85,
+        ["points"] = 8989.07,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7008,
@@ -36928,10 +36928,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2564,
         ["kill_count"] = 40,
-        ["points"] = 9140.87,
+        ["points"] = 9141.06,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6309,
+        ["rank_raids"] = 6310,
         ["kill_count"] = 35,
         ["points"] = 8240.69,
       },
@@ -36970,7 +36970,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7701,
         ["kill_count"] = 6,
-        ["points"] = 8285.68,
+        ["points"] = 8286.06,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8505,
@@ -36985,7 +36985,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 600,
         ["kill_count"] = 6,
-        ["points"] = 9787.5,
+        ["points"] = 9787.55,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2217,
@@ -37027,7 +37027,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2850,
         ["kill_count"] = 18,
-        ["points"] = 9338.78,
+        ["points"] = 9338.93,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1797,
@@ -37042,7 +37042,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4198,
         ["kill_count"] = 12,
-        ["points"] = 8647.32,
+        ["points"] = 8647.63,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1518,
@@ -37084,7 +37084,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8681,
         ["kill_count"] = 20,
-        ["points"] = 8086.99,
+        ["points"] = 8087.41,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7741,
@@ -37099,10 +37099,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3529,
         ["kill_count"] = 47,
-        ["points"] = 8875.81,
+        ["points"] = 8876.07,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4604,
+        ["rank_raids"] = 4605,
         ["kill_count"] = 6,
         ["points"] = 8660.12,
       },
@@ -37141,7 +37141,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8928,
         ["kill_count"] = 12,
-        ["points"] = 8024.06,
+        ["points"] = 8024.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1247,
@@ -37156,7 +37156,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3970,
         ["kill_count"] = 6,
-        ["points"] = 8720.44,
+        ["points"] = 8720.73,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 694,
@@ -37198,7 +37198,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4023,
         ["kill_count"] = 4,
-        ["points"] = 9087.1,
+        ["points"] = 9087.3,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7826,
@@ -37213,12 +37213,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3538,
         ["kill_count"] = 3,
-        ["points"] = 8871.24,
+        ["points"] = 8871.5,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3697,
+        ["rank_raids"] = 3698,
         ["kill_count"] = 5,
-        ["points"] = 8870.47,
+        ["points"] = 8869.2,
       },
     },
   },
@@ -37255,7 +37255,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4910,
         ["kill_count"] = 6,
-        ["points"] = 8902.75,
+        ["points"] = 8902.99,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 10520,
@@ -37270,10 +37270,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2115,
         ["kill_count"] = 6,
-        ["points"] = 9281.39,
+        ["points"] = 9281.55,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8311,
+        ["rank_raids"] = 8312,
         ["kill_count"] = 7,
         ["points"] = 7786.84,
       },
@@ -37312,7 +37312,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 11420,
         ["kill_count"] = 3,
-        ["points"] = 7496.41,
+        ["points"] = 7496.97,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5385,
@@ -37327,10 +37327,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 8449,
         ["kill_count"] = 2,
-        ["points"] = 7512.85,
+        ["points"] = 7513.42,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 13831,
+        ["rank_raids"] = 13832,
         ["kill_count"] = 3,
         ["points"] = 6718.83,
       },
@@ -37369,7 +37369,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4084,
         ["kill_count"] = 30,
-        ["points"] = 9073.85,
+        ["points"] = 9074.05,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2979,
@@ -37384,10 +37384,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5177,
         ["kill_count"] = 18,
-        ["points"] = 8373.13,
+        ["points"] = 8373.5,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4374,
+        ["rank_raids"] = 4375,
         ["kill_count"] = 26,
         ["points"] = 8700.92,
       },
@@ -37426,7 +37426,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2634,
         ["kill_count"] = 26,
-        ["points"] = 9389.56,
+        ["points"] = 9389.69,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1351,
@@ -37441,7 +37441,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 8465,
         ["kill_count"] = 23,
-        ["points"] = 7509.43,
+        ["points"] = 7509.99,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 977,
@@ -37483,7 +37483,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1026,
         ["kill_count"] = 26,
-        ["points"] = 9738.38,
+        ["points"] = 9738.44,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 849,
@@ -37498,7 +37498,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5406,
         ["kill_count"] = 30,
-        ["points"] = 8306.87,
+        ["points"] = 8307.25,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2266,
@@ -37540,7 +37540,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3461,
         ["kill_count"] = 20,
-        ["points"] = 9222.87,
+        ["points"] = 9223.04,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2205,
@@ -37555,7 +37555,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4767,
         ["kill_count"] = 19,
-        ["points"] = 8481.66,
+        ["points"] = 8482.01,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2848,
@@ -37597,7 +37597,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4566,
         ["kill_count"] = 20,
-        ["points"] = 8975.6,
+        ["points"] = 8975.83,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4469,
@@ -37612,12 +37612,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6888,
         ["kill_count"] = 18,
-        ["points"] = 7910.43,
+        ["points"] = 7910.91,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3105,
+        ["rank_raids"] = 3106,
         ["kill_count"] = 19,
-        ["points"] = 9018.36,
+        ["points"] = 9017.08,
       },
     },
   },
@@ -37654,7 +37654,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5363,
         ["kill_count"] = 4,
-        ["points"] = 8808.92,
+        ["points"] = 8809.18,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5873,
@@ -37669,10 +37669,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5448,
         ["kill_count"] = 2,
-        ["points"] = 8290.87,
+        ["points"] = 8291.26,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5041,
+        ["rank_raids"] = 5042,
         ["kill_count"] = 1,
         ["points"] = 8545.39,
       },
@@ -37711,7 +37711,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4052,
         ["kill_count"] = 9,
-        ["points"] = 9081.58,
+        ["points"] = 9081.78,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1837,
@@ -37726,7 +37726,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6360,
         ["kill_count"] = 4,
-        ["points"] = 8042.96,
+        ["points"] = 8043.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 484,
@@ -37768,7 +37768,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8614,
         ["kill_count"] = 6,
-        ["points"] = 8101.34,
+        ["points"] = 8101.75,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9066,
@@ -37783,10 +37783,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5170,
         ["kill_count"] = 6,
-        ["points"] = 8375.41,
+        ["points"] = 8375.79,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 10883,
+        ["rank_raids"] = 10884,
         ["kill_count"] = 5,
         ["points"] = 7211.88,
       },
@@ -37825,7 +37825,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1410,
         ["kill_count"] = 10,
-        ["points"] = 9654.49,
+        ["points"] = 9654.56,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 726,
@@ -37840,7 +37840,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1330,
         ["kill_count"] = 10,
-        ["points"] = 9530.45,
+        ["points"] = 9530.55,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2600,
@@ -37882,7 +37882,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8579,
         ["kill_count"] = 6,
-        ["points"] = 8107.96,
+        ["points"] = 8108.38,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2682,
@@ -37897,7 +37897,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6460,
         ["kill_count"] = 10,
-        ["points"] = 8022.39,
+        ["points"] = 8022.84,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 847,
@@ -37939,7 +37939,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2858,
         ["kill_count"] = 7,
-        ["points"] = 9336.57,
+        ["points"] = 9336.72,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1013,
@@ -37954,10 +37954,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2683,
         ["kill_count"] = 5,
-        ["points"] = 9104.31,
+        ["points"] = 9104.51,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6942,
+        ["rank_raids"] = 6943,
         ["kill_count"] = 5,
         ["points"] = 8103.01,
       },
@@ -37996,7 +37996,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2119,
         ["kill_count"] = 6,
-        ["points"] = 9498.84,
+        ["points"] = 9498.95,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2750,
@@ -38011,10 +38011,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3788,
         ["kill_count"] = 7,
-        ["points"] = 8782.13,
+        ["points"] = 8782.41,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 14501,
+        ["rank_raids"] = 14502,
         ["kill_count"] = 5,
         ["points"] = 6669.96,
       },
@@ -38053,7 +38053,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8897,
         ["kill_count"] = 27,
-        ["points"] = 8030.69,
+        ["points"] = 8031.12,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2228,
@@ -38068,10 +38068,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3178,
         ["kill_count"] = 49,
-        ["points"] = 8964.93,
+        ["points"] = 8965.16,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5665,
+        ["rank_raids"] = 5666,
         ["kill_count"] = 25,
         ["points"] = 8393.68,
       },
@@ -38110,7 +38110,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3266,
         ["kill_count"] = 6,
-        ["points"] = 9259.3,
+        ["points"] = 9259.46,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2435,
@@ -38125,12 +38125,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 8603,
         ["kill_count"] = 7,
-        ["points"] = 7475.15,
+        ["points"] = 7475.73,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3957,
+        ["rank_raids"] = 3958,
         ["kill_count"] = 7,
-        ["points"] = 8811.83,
+        ["points"] = 8810.56,
       },
     },
   },
@@ -38167,7 +38167,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2316,
         ["kill_count"] = 9,
-        ["points"] = 9458.0,
+        ["points"] = 9458.12,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7813,
@@ -38182,12 +38182,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2946,
         ["kill_count"] = 15,
-        ["points"] = 9026.62,
+        ["points"] = 9026.84,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3184,
+        ["rank_raids"] = 3185,
         ["kill_count"] = 10,
-        ["points"] = 8999.24,
+        ["points"] = 8997.96,
       },
     },
   },
@@ -38224,7 +38224,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8157,
         ["kill_count"] = 5,
-        ["points"] = 8185.23,
+        ["points"] = 8185.63,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9134,
@@ -38239,7 +38239,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3085,
         ["kill_count"] = 3,
-        ["points"] = 8988.92,
+        ["points"] = 8989.15,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1515,
@@ -38281,7 +38281,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1832,
         ["kill_count"] = 19,
-        ["points"] = 9571.7,
+        ["points"] = 9571.79,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4221,
@@ -38296,7 +38296,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 610,
         ["kill_count"] = 19,
-        ["points"] = 9785.22,
+        ["points"] = 9785.27,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1233,
@@ -38338,7 +38338,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2362,
         ["kill_count"] = 21,
-        ["points"] = 9448.06,
+        ["points"] = 9448.18,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9348,
@@ -38353,17 +38353,17 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 8824,
         ["kill_count"] = 17,
-        ["points"] = 7418.03,
+        ["points"] = 7418.62,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3624,
+        ["rank_raids"] = 3625,
         ["kill_count"] = 20,
-        ["points"] = 8883.22,
+        ["points"] = 8881.95,
       },
     },
   },
   ["Divinefusion"] = {
-    ["percentile"] = 89.16,
+    ["percentile"] = 89.17,
     ["server"] = "Icecrown",
     ["overall_rank"] = 678,
     ["bosses"] = {
@@ -38395,7 +38395,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7674,
         ["kill_count"] = 13,
-        ["points"] = 8292.31,
+        ["points"] = 8292.68,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1550,
@@ -38410,7 +38410,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3306,
         ["kill_count"] = 12,
-        ["points"] = 8945.5,
+        ["points"] = 8945.75,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1517,
@@ -38452,7 +38452,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2715,
         ["kill_count"] = 7,
-        ["points"] = 9375.21,
+        ["points"] = 9375.34,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5536,
@@ -38467,10 +38467,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3524,
         ["kill_count"] = 5,
-        ["points"] = 8878.1,
+        ["points"] = 8878.36,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4936,
+        ["rank_raids"] = 4937,
         ["kill_count"] = 6,
         ["points"] = 8577.26,
       },
@@ -38509,7 +38509,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2571,
         ["kill_count"] = 15,
-        ["points"] = 9399.49,
+        ["points"] = 9399.62,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4827,
@@ -38524,12 +38524,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3812,
         ["kill_count"] = 17,
-        ["points"] = 8776.42,
+        ["points"] = 8776.7,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3395,
+        ["rank_raids"] = 3396,
         ["kill_count"] = 14,
-        ["points"] = 8949.52,
+        ["points"] = 8948.24,
       },
     },
   },
@@ -38566,7 +38566,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1147,
         ["kill_count"] = 18,
-        ["points"] = 9710.78,
+        ["points"] = 9710.85,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1109,
@@ -38581,10 +38581,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 723,
         ["kill_count"] = 13,
-        ["points"] = 9742.95,
+        ["points"] = 9743.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5492,
+        ["rank_raids"] = 5493,
         ["kill_count"] = 18,
         ["points"] = 8430.65,
       },
@@ -38623,7 +38623,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3802,
         ["kill_count"] = 15,
-        ["points"] = 9142.29,
+        ["points"] = 9142.48,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4907,
@@ -38638,7 +38638,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 869,
         ["kill_count"] = 9,
-        ["points"] = 9686.96,
+        ["points"] = 9687.04,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 300,
@@ -38680,7 +38680,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4360,
         ["kill_count"] = 5,
-        ["points"] = 9017.55,
+        ["points"] = 9017.77,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9648,
@@ -38695,7 +38695,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 12917,
         ["kill_count"] = 4,
-        ["points"] = 6606.88,
+        ["points"] = 6607.65,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2887,
@@ -38705,7 +38705,7 @@ UWULogsData[4][3] = {
     },
   },
   ["Mammuthuss"] = {
-    ["percentile"] = 89.09,
+    ["percentile"] = 89.08,
     ["server"] = "Icecrown",
     ["overall_rank"] = 684,
     ["bosses"] = {
@@ -38737,7 +38737,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2673,
         ["kill_count"] = 16,
-        ["points"] = 9381.83,
+        ["points"] = 9381.97,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 10407,
@@ -38752,12 +38752,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 8663,
         ["kill_count"] = 15,
-        ["points"] = 7460.3,
+        ["points"] = 7460.88,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3346,
+        ["rank_raids"] = 3347,
         ["kill_count"] = 14,
-        ["points"] = 8967.36,
+        ["points"] = 8966.09,
       },
     },
   },
@@ -38794,7 +38794,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5692,
         ["kill_count"] = 15,
-        ["points"] = 8720.61,
+        ["points"] = 8720.89,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3262,
@@ -38809,10 +38809,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2712,
         ["kill_count"] = 13,
-        ["points"] = 9095.17,
+        ["points"] = 9095.37,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7530,
+        ["rank_raids"] = 7531,
         ["kill_count"] = 14,
         ["points"] = 7961.5,
       },
@@ -38851,7 +38851,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 336,
         ["kill_count"] = 13,
-        ["points"] = 9891.82,
+        ["points"] = 9891.84,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 781,
@@ -38866,10 +38866,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 473,
         ["kill_count"] = 8,
-        ["points"] = 9826.35,
+        ["points"] = 9826.38,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5014,
+        ["rank_raids"] = 5015,
         ["kill_count"] = 13,
         ["points"] = 8553.03,
       },
@@ -38908,7 +38908,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2036,
         ["kill_count"] = 8,
-        ["points"] = 9513.19,
+        ["points"] = 9513.3,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4588,
@@ -38923,10 +38923,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2165,
         ["kill_count"] = 24,
-        ["points"] = 9267.68,
+        ["points"] = 9267.85,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8859,
+        ["rank_raids"] = 8860,
         ["kill_count"] = 7,
         ["points"] = 7656.81,
       },
@@ -38965,7 +38965,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 9137,
         ["kill_count"] = 17,
-        ["points"] = 7966.66,
+        ["points"] = 7967.11,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1517,
@@ -38980,12 +38980,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1238,
         ["kill_count"] = 13,
-        ["points"] = 9560.15,
+        ["points"] = 9560.25,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3353,
+        ["rank_raids"] = 3354,
         ["kill_count"] = 18,
-        ["points"] = 8964.81,
+        ["points"] = 8963.54,
       },
     },
   },
@@ -39022,7 +39022,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 12221,
         ["kill_count"] = 3,
-        ["points"] = 7340.77,
+        ["points"] = 7341.35,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 785,
@@ -39037,7 +39037,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 760,
         ["kill_count"] = 3,
-        ["points"] = 9726.95,
+        ["points"] = 9727.01,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1611,
@@ -39079,7 +39079,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2956,
         ["kill_count"] = 11,
-        ["points"] = 9314.49,
+        ["points"] = 9314.65,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4636,
@@ -39094,12 +39094,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1564,
         ["kill_count"] = 12,
-        ["points"] = 9442.48,
+        ["points"] = 9442.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4144,
+        ["rank_raids"] = 4145,
         ["kill_count"] = 13,
-        ["points"] = 8762.11,
+        ["points"] = 8760.84,
       },
     },
   },
@@ -39136,7 +39136,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4108,
         ["kill_count"] = 11,
-        ["points"] = 9068.33,
+        ["points"] = 9068.54,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 328,
@@ -39151,7 +39151,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3182,
         ["kill_count"] = 10,
-        ["points"] = 8963.78,
+        ["points"] = 8964.02,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 522,
@@ -39193,7 +39193,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3582,
         ["kill_count"] = 7,
-        ["points"] = 9196.38,
+        ["points"] = 9196.56,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4784,
@@ -39208,7 +39208,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 8543,
         ["kill_count"] = 5,
-        ["points"] = 7493.43,
+        ["points"] = 7494.0,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1713,
@@ -39250,7 +39250,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5709,
         ["kill_count"] = 2,
-        ["points"] = 8712.88,
+        ["points"] = 8713.17,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3912,
@@ -39265,12 +39265,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 7157,
         ["kill_count"] = 1,
-        ["points"] = 7839.6,
+        ["points"] = 7840.09,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4163,
+        ["rank_raids"] = 4164,
         ["kill_count"] = 2,
-        ["points"] = 8754.46,
+        ["points"] = 8753.19,
       },
     },
   },
@@ -39307,7 +39307,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2417,
         ["kill_count"] = 28,
-        ["points"] = 9433.71,
+        ["points"] = 9433.84,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1346,
@@ -39322,12 +39322,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3097,
         ["kill_count"] = 24,
-        ["points"] = 8982.06,
+        ["points"] = 8982.3,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3347,
+        ["rank_raids"] = 3348,
         ["kill_count"] = 31,
-        ["points"] = 8966.09,
+        ["points"] = 8964.81,
       },
     },
   },
@@ -39364,7 +39364,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3846,
         ["kill_count"] = 11,
-        ["points"] = 9134.56,
+        ["points"] = 9134.75,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2120,
@@ -39379,17 +39379,17 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4861,
         ["kill_count"] = 10,
-        ["points"] = 8457.67,
+        ["points"] = 8458.02,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6552,
+        ["rank_raids"] = 6553,
         ["kill_count"] = 12,
         ["points"] = 8185.87,
       },
     },
   },
   ["Tv"] = {
-    ["percentile"] = 88.96,
+    ["percentile"] = 88.97,
     ["server"] = "Icecrown",
     ["overall_rank"] = 696,
     ["bosses"] = {
@@ -39421,7 +39421,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 11255,
         ["kill_count"] = 16,
-        ["points"] = 7525.11,
+        ["points"] = 7525.66,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 12097,
@@ -39436,7 +39436,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6441,
         ["kill_count"] = 11,
-        ["points"] = 8026.96,
+        ["points"] = 8027.41,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1206,
@@ -39478,7 +39478,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3062,
         ["kill_count"] = 9,
-        ["points"] = 9294.62,
+        ["points"] = 9294.78,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1077,
@@ -39493,10 +39493,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 955,
         ["kill_count"] = 32,
-        ["points"] = 9660.69,
+        ["points"] = 9660.77,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 9382,
+        ["rank_raids"] = 9383,
         ["kill_count"] = 9,
         ["points"] = 7548.44,
       },
@@ -39535,7 +39535,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3182,
         ["kill_count"] = 13,
-        ["points"] = 9273.65,
+        ["points"] = 9273.81,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1551,
@@ -39550,12 +39550,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4407,
         ["kill_count"] = 9,
-        ["points"] = 8586.77,
+        ["points"] = 8587.09,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3231,
+        ["rank_raids"] = 3232,
         ["kill_count"] = 14,
-        ["points"] = 8989.04,
+        ["points"] = 8987.76,
       },
     },
   },
@@ -39592,7 +39592,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2418,
         ["kill_count"] = 10,
-        ["points"] = 9432.61,
+        ["points"] = 9432.73,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3397,
@@ -39607,7 +39607,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3679,
         ["kill_count"] = 10,
-        ["points"] = 8820.98,
+        ["points"] = 8821.25,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2509,
@@ -39649,7 +39649,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1079,
         ["kill_count"] = 10,
-        ["points"] = 9724.03,
+        ["points"] = 9724.09,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4380,
@@ -39664,10 +39664,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1311,
         ["kill_count"] = 14,
-        ["points"] = 9533.87,
+        ["points"] = 9533.98,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7594,
+        ["rank_raids"] = 7595,
         ["kill_count"] = 12,
         ["points"] = 7942.38,
       },
@@ -39706,7 +39706,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2350,
         ["kill_count"] = 26,
-        ["points"] = 9451.37,
+        ["points"] = 9451.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2065,
@@ -39721,10 +39721,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1296,
         ["kill_count"] = 17,
-        ["points"] = 9538.44,
+        ["points"] = 9538.55,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 10842,
+        ["rank_raids"] = 10843,
         ["kill_count"] = 25,
         ["points"] = 7224.63,
       },
@@ -39763,7 +39763,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2803,
         ["kill_count"] = 8,
-        ["points"] = 9348.71,
+        ["points"] = 9348.86,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2467,
@@ -39778,7 +39778,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1204,
         ["kill_count"] = 10,
-        ["points"] = 9572.72,
+        ["points"] = 9572.82,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 295,
@@ -39820,7 +39820,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4163,
         ["kill_count"] = 15,
-        ["points"] = 9056.19,
+        ["points"] = 9056.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3152,
@@ -39835,10 +39835,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6670,
         ["kill_count"] = 15,
-        ["points"] = 7967.55,
+        ["points"] = 7968.02,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 9995,
+        ["rank_raids"] = 9996,
         ["kill_count"] = 11,
         ["points"] = 7418.41,
       },
@@ -39877,7 +39877,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5151,
         ["kill_count"] = 15,
-        ["points"] = 8861.91,
+        ["points"] = 8862.16,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6280,
@@ -39892,17 +39892,17 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2926,
         ["kill_count"] = 9,
-        ["points"] = 9033.47,
+        ["points"] = 9033.7,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4839,
+        ["rank_raids"] = 4840,
         ["kill_count"] = 14,
         ["points"] = 8602.75,
       },
     },
   },
   ["Djaroo"] = {
-    ["percentile"] = 88.84,
+    ["percentile"] = 88.83,
     ["server"] = "Icecrown",
     ["overall_rank"] = 705,
     ["bosses"] = {
@@ -39934,7 +39934,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3596,
         ["kill_count"] = 7,
-        ["points"] = 9191.96,
+        ["points"] = 9192.14,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3992,
@@ -39949,12 +39949,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2382,
         ["kill_count"] = 7,
-        ["points"] = 9209.41,
+        ["points"] = 9209.59,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4094,
+        ["rank_raids"] = 4095,
         ["kill_count"] = 4,
-        ["points"] = 8774.86,
+        ["points"] = 8773.58,
       },
     },
   },
@@ -39991,7 +39991,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6976,
         ["kill_count"] = 5,
-        ["points"] = 8441.33,
+        ["points"] = 8441.67,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2973,
@@ -40006,10 +40006,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5824,
         ["kill_count"] = 5,
-        ["points"] = 8182.34,
+        ["points"] = 8182.75,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6193,
+        ["rank_raids"] = 6194,
         ["kill_count"] = 5,
         ["points"] = 8266.19,
       },
@@ -40048,7 +40048,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1986,
         ["kill_count"] = 14,
-        ["points"] = 9531.96,
+        ["points"] = 9532.06,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6903,
@@ -40063,7 +40063,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5272,
         ["kill_count"] = 13,
-        ["points"] = 8337.71,
+        ["points"] = 8338.09,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1807,
@@ -40105,7 +40105,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3606,
         ["kill_count"] = 16,
-        ["points"] = 9188.65,
+        ["points"] = 9188.83,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3348,
@@ -40120,7 +40120,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3658,
         ["kill_count"] = 10,
-        ["points"] = 8826.69,
+        ["points"] = 8826.96,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1475,
@@ -40162,7 +40162,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7221,
         ["kill_count"] = 13,
-        ["points"] = 8381.72,
+        ["points"] = 8382.08,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4126,
@@ -40177,7 +40177,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 9524,
         ["kill_count"] = 13,
-        ["points"] = 7266.08,
+        ["points"] = 7266.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1187,
@@ -40219,7 +40219,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5020,
         ["kill_count"] = 4,
-        ["points"] = 8883.98,
+        ["points"] = 8884.23,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3450,
@@ -40234,10 +40234,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 416,
         ["kill_count"] = 25,
-        ["points"] = 9840.05,
+        ["points"] = 9840.09,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 21562,
+        ["rank_raids"] = 21563,
         ["kill_count"] = 1,
         ["points"] = 6173.83,
       },
@@ -40276,7 +40276,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8874,
         ["kill_count"] = 23,
-        ["points"] = 8037.31,
+        ["points"] = 8037.74,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1544,
@@ -40291,7 +40291,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 7210,
         ["kill_count"] = 17,
-        ["points"] = 7828.17,
+        ["points"] = 7828.67,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2861,
@@ -40333,7 +40333,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3697,
         ["kill_count"] = 25,
-        ["points"] = 9173.2,
+        ["points"] = 9173.38,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5961,
@@ -40348,7 +40348,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4518,
         ["kill_count"] = 27,
-        ["points"] = 8553.64,
+        ["points"] = 8553.97,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1333,
@@ -40390,7 +40390,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1402,
         ["kill_count"] = 9,
-        ["points"] = 9657.8,
+        ["points"] = 9657.87,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5462,
@@ -40405,7 +40405,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 786,
         ["kill_count"] = 9,
-        ["points"] = 9716.67,
+        ["points"] = 9716.73,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1552,
@@ -40447,7 +40447,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5183,
         ["kill_count"] = 22,
-        ["points"] = 8854.18,
+        ["points"] = 8854.43,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1745,
@@ -40462,12 +40462,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3335,
         ["kill_count"] = 11,
-        ["points"] = 8938.65,
+        ["points"] = 8938.89,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3159,
+        ["rank_raids"] = 3160,
         ["kill_count"] = 19,
-        ["points"] = 9005.61,
+        ["points"] = 9004.33,
       },
     },
   },
@@ -40504,7 +40504,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 10028,
         ["kill_count"] = 6,
-        ["points"] = 7769.07,
+        ["points"] = 7769.56,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1253,
@@ -40519,7 +40519,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 7363,
         ["kill_count"] = 3,
-        ["points"] = 7781.33,
+        ["points"] = 7781.84,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1080,
@@ -40561,7 +40561,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8624,
         ["kill_count"] = 14,
-        ["points"] = 8099.13,
+        ["points"] = 8099.55,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1803,
@@ -40576,7 +40576,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2326,
         ["kill_count"] = 14,
-        ["points"] = 9226.55,
+        ["points"] = 9226.73,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2750,
@@ -40618,7 +40618,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5267,
         ["kill_count"] = 20,
-        ["points"] = 8831.0,
+        ["points"] = 8831.25,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 691,
@@ -40633,10 +40633,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2148,
         ["kill_count"] = 29,
-        ["points"] = 9273.39,
+        ["points"] = 9273.56,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6205,
+        ["rank_raids"] = 6206,
         ["kill_count"] = 17,
         ["points"] = 8263.64,
       },
@@ -40675,7 +40675,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5029,
         ["kill_count"] = 13,
-        ["points"] = 8881.78,
+        ["points"] = 8882.02,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 13069,
@@ -40690,7 +40690,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2995,
         ["kill_count"] = 7,
-        ["points"] = 9009.48,
+        ["points"] = 9009.71,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 922,
@@ -40732,7 +40732,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2579,
         ["kill_count"] = 11,
-        ["points"] = 9397.28,
+        ["points"] = 9397.42,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2566,
@@ -40747,12 +40747,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6378,
         ["kill_count"] = 5,
-        ["points"] = 8039.53,
+        ["points"] = 8039.98,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3992,
+        ["rank_raids"] = 3993,
         ["kill_count"] = 12,
-        ["points"] = 8800.36,
+        ["points"] = 8799.08,
       },
     },
   },
@@ -40789,7 +40789,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3969,
         ["kill_count"] = 19,
-        ["points"] = 9109.17,
+        ["points"] = 9109.37,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4479,
@@ -40804,10 +40804,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6557,
         ["kill_count"] = 17,
-        ["points"] = 7994.97,
+        ["points"] = 7995.43,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5140,
+        ["rank_raids"] = 5141,
         ["kill_count"] = 15,
         ["points"] = 8521.16,
       },
@@ -40846,7 +40846,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5138,
         ["kill_count"] = 12,
-        ["points"] = 8864.11,
+        ["points"] = 8864.36,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5837,
@@ -40861,12 +40861,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3423,
         ["kill_count"] = 10,
-        ["points"] = 8908.95,
+        ["points"] = 8909.19,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3591,
+        ["rank_raids"] = 3592,
         ["kill_count"] = 11,
-        ["points"] = 8895.97,
+        ["points"] = 8894.7,
       },
     },
   },
@@ -40903,7 +40903,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2089,
         ["kill_count"] = 10,
-        ["points"] = 9504.36,
+        ["points"] = 9504.47,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 10565,
@@ -40918,7 +40918,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1809,
         ["kill_count"] = 30,
-        ["points"] = 9365.93,
+        ["points"] = 9366.08,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1626,
@@ -40960,7 +40960,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3601,
         ["kill_count"] = 6,
-        ["points"] = 9189.76,
+        ["points"] = 9189.93,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5630,
@@ -40975,10 +40975,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1246,
         ["kill_count"] = 6,
-        ["points"] = 9554.44,
+        ["points"] = 9554.54,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5576,
+        ["rank_raids"] = 5577,
         ["kill_count"] = 5,
         ["points"] = 8411.52,
       },
@@ -41017,7 +41017,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2389,
         ["kill_count"] = 23,
-        ["points"] = 9442.54,
+        ["points"] = 9442.67,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2839,
@@ -41032,76 +41032,19 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 8168,
         ["kill_count"] = 18,
-        ["points"] = 7571.12,
+        ["points"] = 7571.67,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 9159,
+        ["rank_raids"] = 9160,
         ["kill_count"] = 20,
         ["points"] = 7601.99,
-      },
-    },
-  },
-  ["Uuaabb"] = {
-    ["percentile"] = 88.59,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 725,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 3346,
-        ["kill_count"] = 6,
-        ["points"] = 9004.9,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 3934,
-        ["kill_count"] = 6,
-        ["points"] = 8899.57,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5396,
-        ["kill_count"] = 7,
-        ["points"] = 8780.88,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 2476,
-        ["kill_count"] = 7,
-        ["points"] = 9278.93,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 7091,
-        ["kill_count"] = 7,
-        ["points"] = 8347.83,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 2666,
-        ["kill_count"] = 7,
-        ["points"] = 9384.04,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 3512,
-        ["kill_count"] = 7,
-        ["points"] = 9123.91,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5941,
-        ["kill_count"] = 6,
-        ["points"] = 7768.7,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 2824,
-        ["kill_count"] = 7,
-        ["points"] = 9062.04,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 3775,
-        ["kill_count"] = 7,
-        ["points"] = 8847.53,
       },
     },
   },
   ["Elderaado"] = {
     ["percentile"] = 88.59,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 726,
+    ["overall_rank"] = 725,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2388,
@@ -41131,7 +41074,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6512,
         ["kill_count"] = 12,
-        ["points"] = 8547.3,
+        ["points"] = 8547.62,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4081,
@@ -41146,12 +41089,69 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 7597,
         ["kill_count"] = 11,
-        ["points"] = 7717.35,
+        ["points"] = 7717.88,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2591,
         ["kill_count"] = 12,
         ["points"] = 9161.14,
+      },
+    },
+  },
+  ["Uuaabb"] = {
+    ["percentile"] = 88.59,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 726,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 3346,
+        ["kill_count"] = 6,
+        ["points"] = 9004.9,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 3934,
+        ["kill_count"] = 6,
+        ["points"] = 8899.57,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 5396,
+        ["kill_count"] = 7,
+        ["points"] = 8780.88,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 2476,
+        ["kill_count"] = 7,
+        ["points"] = 9278.93,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 7091,
+        ["kill_count"] = 7,
+        ["points"] = 8347.83,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 2666,
+        ["kill_count"] = 7,
+        ["points"] = 9384.17,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 3512,
+        ["kill_count"] = 7,
+        ["points"] = 9123.91,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 5941,
+        ["kill_count"] = 6,
+        ["points"] = 7768.7,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 2824,
+        ["kill_count"] = 7,
+        ["points"] = 9062.25,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 3776,
+        ["kill_count"] = 7,
+        ["points"] = 8846.25,
       },
     },
   },
@@ -41188,7 +41188,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4900,
         ["kill_count"] = 14,
-        ["points"] = 8907.16,
+        ["points"] = 8907.41,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1786,
@@ -41203,12 +41203,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2874,
         ["kill_count"] = 17,
-        ["points"] = 9048.33,
+        ["points"] = 9048.54,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3155,
+        ["rank_raids"] = 3156,
         ["kill_count"] = 14,
-        ["points"] = 9008.16,
+        ["points"] = 9006.88,
       },
     },
   },
@@ -41245,7 +41245,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5344,
         ["kill_count"] = 12,
-        ["points"] = 8812.23,
+        ["points"] = 8812.49,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4718,
@@ -41260,10 +41260,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1929,
         ["kill_count"] = 12,
-        ["points"] = 9331.66,
+        ["points"] = 9331.81,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7190,
+        ["rank_raids"] = 7191,
         ["kill_count"] = 11,
         ["points"] = 8026.52,
       },
@@ -41302,7 +41302,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 11608,
         ["kill_count"] = 15,
-        ["points"] = 7463.3,
+        ["points"] = 7463.86,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5172,
@@ -41317,7 +41317,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1331,
         ["kill_count"] = 17,
-        ["points"] = 9529.3,
+        ["points"] = 9529.41,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2000,
@@ -41359,7 +41359,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3876,
         ["kill_count"] = 26,
-        ["points"] = 9125.73,
+        ["points"] = 9125.92,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 693,
@@ -41374,10 +41374,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6768,
         ["kill_count"] = 28,
-        ["points"] = 7943.56,
+        ["points"] = 7944.03,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4696,
+        ["rank_raids"] = 4697,
         ["kill_count"] = 27,
         ["points"] = 8643.55,
       },
@@ -41416,7 +41416,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3921,
         ["kill_count"] = 11,
-        ["points"] = 9119.11,
+        ["points"] = 9119.3,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6922,
@@ -41431,10 +41431,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 436,
         ["kill_count"] = 12,
-        ["points"] = 9836.63,
+        ["points"] = 9836.66,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5518,
+        ["rank_raids"] = 5519,
         ["kill_count"] = 12,
         ["points"] = 8425.55,
       },
@@ -41473,7 +41473,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 932,
         ["kill_count"] = 3,
-        ["points"] = 9758.25,
+        ["points"] = 9758.3,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 10784,
@@ -41488,7 +41488,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3836,
         ["kill_count"] = 4,
-        ["points"] = 8767.28,
+        ["points"] = 8767.56,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 349,
@@ -41530,7 +41530,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1909,
         ["kill_count"] = 14,
-        ["points"] = 9550.72,
+        ["points"] = 9550.82,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8744,
@@ -41545,7 +41545,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2972,
         ["kill_count"] = 12,
-        ["points"] = 9016.34,
+        ["points"] = 9016.56,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2898,
@@ -41587,7 +41587,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2687,
         ["kill_count"] = 25,
-        ["points"] = 9380.73,
+        ["points"] = 9380.86,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2565,
@@ -41602,7 +41602,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5785,
         ["kill_count"] = 26,
-        ["points"] = 8198.33,
+        ["points"] = 8198.74,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2622,
@@ -41644,7 +41644,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6721,
         ["kill_count"] = 6,
-        ["points"] = 8492.11,
+        ["points"] = 8492.44,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 694,
@@ -41659,10 +41659,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2528,
         ["kill_count"] = 6,
-        ["points"] = 9156.86,
+        ["points"] = 9157.05,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7783,
+        ["rank_raids"] = 7784,
         ["kill_count"] = 5,
         ["points"] = 7905.41,
       },
@@ -41701,7 +41701,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2162,
         ["kill_count"] = 7,
-        ["points"] = 9487.8,
+        ["points"] = 9487.92,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1690,
@@ -41716,7 +41716,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2723,
         ["kill_count"] = 7,
-        ["points"] = 9091.74,
+        ["points"] = 9091.95,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2680,
@@ -41758,7 +41758,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 527,
         ["kill_count"] = 6,
-        ["points"] = 9844.35,
+        ["points"] = 9844.39,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3142,
@@ -41773,10 +41773,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5418,
         ["kill_count"] = 5,
-        ["points"] = 8301.15,
+        ["points"] = 8301.54,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 12560,
+        ["rank_raids"] = 12561,
         ["kill_count"] = 1,
         ["points"] = 6842.17,
       },
@@ -41815,7 +41815,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2856,
         ["kill_count"] = 20,
-        ["points"] = 9337.68,
+        ["points"] = 9337.82,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3790,
@@ -41830,12 +41830,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3870,
         ["kill_count"] = 5,
-        ["points"] = 8753.57,
+        ["points"] = 8753.85,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3933,
+        ["rank_raids"] = 3934,
         ["kill_count"] = 19,
-        ["points"] = 8818.2,
+        ["points"] = 8816.93,
       },
     },
   },
@@ -41872,7 +41872,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5297,
         ["kill_count"] = 8,
-        ["points"] = 8824.37,
+        ["points"] = 8824.63,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4474,
@@ -41887,7 +41887,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1072,
         ["kill_count"] = 8,
-        ["points"] = 9626.41,
+        ["points"] = 9626.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2865,
@@ -41896,67 +41896,10 @@ UWULogsData[4][3] = {
       },
     },
   },
-  ["Contrappasso"] = {
-    ["percentile"] = 88.36,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 740,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 1338,
-        ["kill_count"] = 16,
-        ["points"] = 9564.96,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 3908,
-        ["kill_count"] = 12,
-        ["points"] = 8911.58,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2056,
-        ["kill_count"] = 16,
-        ["points"] = 9439.94,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 2160,
-        ["kill_count"] = 17,
-        ["points"] = 9348.93,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 3584,
-        ["kill_count"] = 16,
-        ["points"] = 9053.91,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 8026,
-        ["kill_count"] = 12,
-        ["points"] = 8213.93,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 10558,
-        ["kill_count"] = 15,
-        ["points"] = 7753.78,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1880,
-        ["kill_count"] = 15,
-        ["points"] = 9089.91,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 6017,
-        ["kill_count"] = 12,
-        ["points"] = 8138.92,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 4160,
-        ["kill_count"] = 12,
-        ["points"] = 8755.74,
-      },
-    },
-  },
   ["Qnchosad"] = {
     ["percentile"] = 88.36,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 741,
+    ["overall_rank"] = 740,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2273,
@@ -41986,7 +41929,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3835,
         ["kill_count"] = 6,
-        ["points"] = 9136.77,
+        ["points"] = 9136.96,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3399,
@@ -42001,12 +41944,69 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2282,
         ["kill_count"] = 6,
-        ["points"] = 9243.69,
+        ["points"] = 9243.86,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2146,
         ["kill_count"] = 6,
         ["points"] = 9283.53,
+      },
+    },
+  },
+  ["Contrappasso"] = {
+    ["percentile"] = 88.36,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 741,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 1338,
+        ["kill_count"] = 16,
+        ["points"] = 9564.96,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 3908,
+        ["kill_count"] = 12,
+        ["points"] = 8911.58,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 2056,
+        ["kill_count"] = 16,
+        ["points"] = 9439.94,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 2160,
+        ["kill_count"] = 17,
+        ["points"] = 9348.93,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 3584,
+        ["kill_count"] = 16,
+        ["points"] = 9053.91,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 8026,
+        ["kill_count"] = 12,
+        ["points"] = 8214.33,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 10558,
+        ["kill_count"] = 15,
+        ["points"] = 7753.78,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 1880,
+        ["kill_count"] = 15,
+        ["points"] = 9089.91,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 6017,
+        ["kill_count"] = 12,
+        ["points"] = 8139.35,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 4161,
+        ["kill_count"] = 12,
+        ["points"] = 8754.46,
       },
     },
   },
@@ -42043,7 +42043,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2277,
         ["kill_count"] = 19,
-        ["points"] = 9465.72,
+        ["points"] = 9465.84,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 401,
@@ -42058,12 +42058,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 479,
         ["kill_count"] = 18,
-        ["points"] = 9824.06,
+        ["points"] = 9824.1,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3035,
+        ["rank_raids"] = 3036,
         ["kill_count"] = 19,
-        ["points"] = 9037.48,
+        ["points"] = 9036.21,
       },
     },
   },
@@ -42100,7 +42100,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2758,
         ["kill_count"] = 16,
-        ["points"] = 9366.38,
+        ["points"] = 9366.52,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2491,
@@ -42115,10 +42115,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1420,
         ["kill_count"] = 17,
-        ["points"] = 9487.03,
+        ["points"] = 9487.15,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7793,
+        ["rank_raids"] = 7794,
         ["kill_count"] = 18,
         ["points"] = 7900.31,
       },
@@ -42157,7 +42157,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8020,
         ["kill_count"] = 9,
-        ["points"] = 8216.14,
+        ["points"] = 8216.53,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4054,
@@ -42172,7 +42172,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6909,
         ["kill_count"] = 6,
-        ["points"] = 7903.58,
+        ["points"] = 7904.05,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1767,
@@ -42214,7 +42214,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4299,
         ["kill_count"] = 11,
-        ["points"] = 9033.01,
+        ["points"] = 9033.22,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5156,
@@ -42229,10 +42229,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5982,
         ["kill_count"] = 12,
-        ["points"] = 8148.06,
+        ["points"] = 8148.49,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7058,
+        ["rank_raids"] = 7059,
         ["kill_count"] = 10,
         ["points"] = 8062.21,
       },
@@ -42271,7 +42271,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2343,
         ["kill_count"] = 11,
-        ["points"] = 9452.48,
+        ["points"] = 9452.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1530,
@@ -42286,10 +42286,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6466,
         ["kill_count"] = 7,
-        ["points"] = 8020.11,
+        ["points"] = 8020.56,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 9372,
+        ["rank_raids"] = 9373,
         ["kill_count"] = 7,
         ["points"] = 7552.27,
       },
@@ -42328,7 +42328,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4060,
         ["kill_count"] = 27,
-        ["points"] = 9079.37,
+        ["points"] = 9079.57,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3642,
@@ -42343,7 +42343,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3380,
         ["kill_count"] = 27,
-        ["points"] = 8926.08,
+        ["points"] = 8926.33,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2281,
@@ -42385,7 +42385,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7682,
         ["kill_count"] = 14,
-        ["points"] = 8291.2,
+        ["points"] = 8291.58,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1742,
@@ -42400,7 +42400,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2079,
         ["kill_count"] = 14,
-        ["points"] = 9288.24,
+        ["points"] = 9288.41,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2773,
@@ -42442,7 +42442,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8430,
         ["kill_count"] = 3,
-        ["points"] = 8141.08,
+        ["points"] = 8141.49,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3077,
@@ -42457,10 +42457,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5634,
         ["kill_count"] = 3,
-        ["points"] = 8242.89,
+        ["points"] = 8243.29,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4734,
+        ["rank_raids"] = 4735,
         ["kill_count"] = 4,
         ["points"] = 8630.8,
       },
@@ -42499,7 +42499,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3781,
         ["kill_count"] = 39,
-        ["points"] = 9148.91,
+        ["points"] = 9149.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2174,
@@ -42514,10 +42514,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5163,
         ["kill_count"] = 32,
-        ["points"] = 8376.56,
+        ["points"] = 8376.93,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5884,
+        ["rank_raids"] = 5885,
         ["kill_count"] = 35,
         ["points"] = 8336.31,
       },
@@ -42556,7 +42556,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1970,
         ["kill_count"] = 6,
-        ["points"] = 9535.27,
+        ["points"] = 9535.37,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 13249,
@@ -42571,7 +42571,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4633,
         ["kill_count"] = 6,
-        ["points"] = 8521.65,
+        ["points"] = 8521.99,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2537,
@@ -42613,7 +42613,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5011,
         ["kill_count"] = 3,
-        ["points"] = 8887.29,
+        ["points"] = 8887.54,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3178,
@@ -42628,7 +42628,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1253,
         ["kill_count"] = 2,
-        ["points"] = 9551.01,
+        ["points"] = 9551.11,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2245,
@@ -42670,7 +42670,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2924,
         ["kill_count"] = 15,
-        ["points"] = 9322.22,
+        ["points"] = 9322.37,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1377,
@@ -42685,12 +42685,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1691,
         ["kill_count"] = 13,
-        ["points"] = 9411.63,
+        ["points"] = 9411.76,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3555,
+        ["rank_raids"] = 3556,
         ["kill_count"] = 16,
-        ["points"] = 8911.27,
+        ["points"] = 8909.99,
       },
     },
   },
@@ -42727,7 +42727,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4657,
         ["kill_count"] = 22,
-        ["points"] = 8957.94,
+        ["points"] = 8958.17,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1367,
@@ -42742,12 +42742,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4901,
         ["kill_count"] = 21,
-        ["points"] = 8445.1,
+        ["points"] = 8445.46,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3502,
+        ["rank_raids"] = 3503,
         ["kill_count"] = 22,
-        ["points"] = 8925.29,
+        ["points"] = 8924.02,
       },
     },
   },
@@ -42784,7 +42784,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3567,
         ["kill_count"] = 10,
-        ["points"] = 9201.9,
+        ["points"] = 9202.07,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1858,
@@ -42799,7 +42799,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2288,
         ["kill_count"] = 25,
-        ["points"] = 9239.12,
+        ["points"] = 9239.29,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 923,
@@ -42841,7 +42841,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7870,
         ["kill_count"] = 4,
-        ["points"] = 8244.84,
+        ["points"] = 8245.23,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 952,
@@ -42856,10 +42856,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5700,
         ["kill_count"] = 2,
-        ["points"] = 8222.32,
+        ["points"] = 8222.73,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5585,
+        ["rank_raids"] = 5586,
         ["kill_count"] = 4,
         ["points"] = 8407.7,
       },
@@ -42898,7 +42898,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8682,
         ["kill_count"] = 4,
-        ["points"] = 8085.88,
+        ["points"] = 8086.3,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 732,
@@ -42913,7 +42913,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1182,
         ["kill_count"] = 5,
-        ["points"] = 9587.57,
+        ["points"] = 9587.66,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1304,
@@ -42955,7 +42955,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8004,
         ["kill_count"] = 4,
-        ["points"] = 8219.45,
+        ["points"] = 8219.84,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2298,
@@ -42970,7 +42970,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6688,
         ["kill_count"] = 15,
-        ["points"] = 7960.7,
+        ["points"] = 7961.17,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1116,
@@ -43012,7 +43012,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 9174,
         ["kill_count"] = 14,
-        ["points"] = 7960.04,
+        ["points"] = 7960.49,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1718,
@@ -43027,7 +43027,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 8386,
         ["kill_count"] = 15,
-        ["points"] = 7531.13,
+        ["points"] = 7531.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2451,
@@ -43069,7 +43069,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1862,
         ["kill_count"] = 8,
-        ["points"] = 9561.76,
+        ["points"] = 9561.86,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 15002,
@@ -43084,7 +43084,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3637,
         ["kill_count"] = 3,
-        ["points"] = 8832.4,
+        ["points"] = 8832.67,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2836,
@@ -43126,7 +43126,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6989,
         ["kill_count"] = 10,
-        ["points"] = 8435.81,
+        ["points"] = 8436.15,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4795,
@@ -43141,10 +43141,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6005,
         ["kill_count"] = 9,
-        ["points"] = 8142.35,
+        ["points"] = 8142.78,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4455,
+        ["rank_raids"] = 4456,
         ["kill_count"] = 7,
         ["points"] = 8684.34,
       },
@@ -43183,7 +43183,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3464,
         ["kill_count"] = 14,
-        ["points"] = 9221.77,
+        ["points"] = 9221.94,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4318,
@@ -43198,10 +43198,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 650,
         ["kill_count"] = 17,
-        ["points"] = 9765.79,
+        ["points"] = 9765.85,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4372,
+        ["rank_raids"] = 4373,
         ["kill_count"] = 17,
         ["points"] = 8702.19,
       },
@@ -43240,7 +43240,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4223,
         ["kill_count"] = 19,
-        ["points"] = 9045.15,
+        ["points"] = 9045.36,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4950,
@@ -43255,17 +43255,17 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2108,
         ["kill_count"] = 14,
-        ["points"] = 9283.67,
+        ["points"] = 9283.84,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6979,
+        ["rank_raids"] = 6980,
         ["kill_count"] = 8,
         ["points"] = 8091.53,
       },
     },
   },
   ["Torches"] = {
-    ["percentile"] = 88.08,
+    ["percentile"] = 88.09,
     ["server"] = "Icecrown",
     ["overall_rank"] = 765,
     ["bosses"] = {
@@ -43297,7 +43297,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5654,
         ["kill_count"] = 12,
-        ["points"] = 8733.86,
+        ["points"] = 8734.14,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2828,
@@ -43312,10 +43312,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6473,
         ["kill_count"] = 12,
-        ["points"] = 8015.54,
+        ["points"] = 8015.99,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8758,
+        ["rank_raids"] = 8759,
         ["kill_count"] = 9,
         ["points"] = 7677.21,
       },
@@ -43354,7 +43354,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2672,
         ["kill_count"] = 7,
-        ["points"] = 9382.93,
+        ["points"] = 9383.07,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6938,
@@ -43369,7 +43369,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6779,
         ["kill_count"] = 4,
-        ["points"] = 7938.99,
+        ["points"] = 7939.46,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2911,
@@ -43379,7 +43379,7 @@ UWULogsData[4][3] = {
     },
   },
   ["Idangerl"] = {
-    ["percentile"] = 88.08,
+    ["percentile"] = 88.07,
     ["server"] = "Icecrown",
     ["overall_rank"] = 767,
     ["bosses"] = {
@@ -43411,7 +43411,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6092,
         ["kill_count"] = 21,
-        ["points"] = 8651.07,
+        ["points"] = 8651.36,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2852,
@@ -43426,12 +43426,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4424,
         ["kill_count"] = 13,
-        ["points"] = 8576.49,
+        ["points"] = 8576.81,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3700,
+        ["rank_raids"] = 3701,
         ["kill_count"] = 19,
-        ["points"] = 8869.2,
+        ["points"] = 8867.92,
       },
     },
   },
@@ -43468,7 +43468,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2048,
         ["kill_count"] = 14,
-        ["points"] = 9509.88,
+        ["points"] = 9509.99,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1365,
@@ -43483,10 +43483,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 9626,
         ["kill_count"] = 10,
-        ["points"] = 7248.94,
+        ["points"] = 7249.57,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4701,
+        ["rank_raids"] = 4702,
         ["kill_count"] = 14,
         ["points"] = 8641.0,
       },
@@ -43525,7 +43525,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2875,
         ["kill_count"] = 12,
-        ["points"] = 9331.05,
+        ["points"] = 9331.2,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1155,
@@ -43540,7 +43540,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1164,
         ["kill_count"] = 27,
-        ["points"] = 9595.57,
+        ["points"] = 9595.66,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2690,
@@ -43582,7 +43582,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4642,
         ["kill_count"] = 23,
-        ["points"] = 8963.46,
+        ["points"] = 8963.69,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2256,
@@ -43597,10 +43597,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 8187,
         ["kill_count"] = 25,
-        ["points"] = 7566.55,
+        ["points"] = 7567.1,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4348,
+        ["rank_raids"] = 4349,
         ["kill_count"] = 23,
         ["points"] = 8707.29,
       },
@@ -43639,7 +43639,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1987,
         ["kill_count"] = 22,
-        ["points"] = 9530.85,
+        ["points"] = 9530.96,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2891,
@@ -43654,7 +43654,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3900,
         ["kill_count"] = 15,
-        ["points"] = 8744.43,
+        ["points"] = 8744.72,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1239,
@@ -43696,7 +43696,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4824,
         ["kill_count"] = 8,
-        ["points"] = 8922.62,
+        ["points"] = 8922.86,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4504,
@@ -43711,10 +43711,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 8870,
         ["kill_count"] = 7,
-        ["points"] = 7404.32,
+        ["points"] = 7404.91,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7679,
+        ["rank_raids"] = 7680,
         ["kill_count"] = 7,
         ["points"] = 7930.9,
       },
@@ -43753,7 +43753,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2691,
         ["kill_count"] = 2,
-        ["points"] = 9377.41,
+        ["points"] = 9377.55,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6192,
@@ -43768,10 +43768,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6371,
         ["kill_count"] = 1,
-        ["points"] = 8041.81,
+        ["points"] = 8042.26,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4671,
+        ["rank_raids"] = 4672,
         ["kill_count"] = 2,
         ["points"] = 8649.92,
       },
@@ -43810,7 +43810,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3973,
         ["kill_count"] = 2,
-        ["points"] = 9105.86,
+        ["points"] = 9106.06,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 929,
@@ -43825,10 +43825,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1654,
         ["kill_count"] = 2,
-        ["points"] = 9420.77,
+        ["points"] = 9420.9,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8089,
+        ["rank_raids"] = 8090,
         ["kill_count"] = 2,
         ["points"] = 7831.46,
       },
@@ -43867,7 +43867,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5731,
         ["kill_count"] = 31,
-        ["points"] = 8708.47,
+        ["points"] = 8708.75,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1633,
@@ -43882,10 +43882,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4461,
         ["kill_count"] = 31,
-        ["points"] = 8566.21,
+        ["points"] = 8566.53,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4313,
+        ["rank_raids"] = 4314,
         ["kill_count"] = 33,
         ["points"] = 8717.49,
       },
@@ -43924,7 +43924,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 14736,
         ["kill_count"] = 38,
-        ["points"] = 6881.55,
+        ["points"] = 6882.24,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2080,
@@ -43939,12 +43939,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2311,
         ["kill_count"] = 38,
-        ["points"] = 9231.12,
+        ["points"] = 9231.3,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4204,
+        ["rank_raids"] = 4205,
         ["kill_count"] = 38,
-        ["points"] = 8744.26,
+        ["points"] = 8742.99,
       },
     },
   },
@@ -43981,7 +43981,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5684,
         ["kill_count"] = 6,
-        ["points"] = 8723.92,
+        ["points"] = 8724.2,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8662,
@@ -43996,7 +43996,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 11718,
         ["kill_count"] = 5,
-        ["points"] = 6823.95,
+        ["points"] = 6824.67,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 712,
@@ -44038,7 +44038,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4980,
         ["kill_count"] = 6,
-        ["points"] = 8891.71,
+        ["points"] = 8891.95,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3741,
@@ -44053,7 +44053,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 8773,
         ["kill_count"] = 4,
-        ["points"] = 7435.17,
+        ["points"] = 7435.75,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2309,
@@ -44095,7 +44095,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6477,
         ["kill_count"] = 4,
-        ["points"] = 8559.44,
+        ["points"] = 8559.76,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 12054,
@@ -44110,10 +44110,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 306,
         ["kill_count"] = 7,
-        ["points"] = 9872.04,
+        ["points"] = 9872.07,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6553,
+        ["rank_raids"] = 6554,
         ["kill_count"] = 3,
         ["points"] = 8184.6,
       },
@@ -44152,7 +44152,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7558,
         ["kill_count"] = 24,
-        ["points"] = 8319.9,
+        ["points"] = 8320.27,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4047,
@@ -44167,10 +44167,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6655,
         ["kill_count"] = 16,
-        ["points"] = 7975.55,
+        ["points"] = 7976.01,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5005,
+        ["rank_raids"] = 5006,
         ["kill_count"] = 20,
         ["points"] = 8555.58,
       },
@@ -44209,7 +44209,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1210,
         ["kill_count"] = 9,
-        ["points"] = 9690.92,
+        ["points"] = 9690.98,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6408,
@@ -44224,10 +44224,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1221,
         ["kill_count"] = 30,
-        ["points"] = 9565.86,
+        ["points"] = 9565.96,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 10296,
+        ["rank_raids"] = 10297,
         ["kill_count"] = 10,
         ["points"] = 7344.47,
       },
@@ -44266,7 +44266,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3587,
         ["kill_count"] = 12,
-        ["points"] = 9194.17,
+        ["points"] = 9194.35,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 827,
@@ -44281,12 +44281,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5935,
         ["kill_count"] = 12,
-        ["points"] = 8160.63,
+        ["points"] = 8161.05,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3581,
+        ["rank_raids"] = 3582,
         ["kill_count"] = 11,
-        ["points"] = 8901.07,
+        ["points"] = 8899.8,
       },
     },
   },
@@ -44323,7 +44323,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5410,
         ["kill_count"] = 7,
-        ["points"] = 8798.98,
+        ["points"] = 8799.25,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2711,
@@ -44338,10 +44338,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5070,
         ["kill_count"] = 7,
-        ["points"] = 8409.69,
+        ["points"] = 8410.05,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 9779,
+        ["rank_raids"] = 9780,
         ["kill_count"] = 7,
         ["points"] = 7470.68,
       },
@@ -44380,7 +44380,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5426,
         ["kill_count"] = 18,
-        ["points"] = 8796.78,
+        ["points"] = 8797.04,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1210,
@@ -44395,7 +44395,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3575,
         ["kill_count"] = 16,
-        ["points"] = 8858.68,
+        ["points"] = 8858.94,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2034,
@@ -44437,7 +44437,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2034,
         ["kill_count"] = 18,
-        ["points"] = 9515.4,
+        ["points"] = 9515.51,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2103,
@@ -44452,76 +44452,19 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2522,
         ["kill_count"] = 38,
-        ["points"] = 9160.29,
+        ["points"] = 9160.48,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3404,
+        ["rank_raids"] = 3405,
         ["kill_count"] = 14,
-        ["points"] = 8945.69,
-      },
-    },
-  },
-  ["Timopaladin"] = {
-    ["percentile"] = 87.79,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 786,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 1320,
-        ["kill_count"] = 3,
-        ["points"] = 9570.96,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 9414,
-        ["kill_count"] = 2,
-        ["points"] = 7591.3,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 918,
-        ["kill_count"] = 3,
-        ["points"] = 9712.97,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 11815,
-        ["kill_count"] = 3,
-        ["points"] = 8042.52,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 2044,
-        ["kill_count"] = 3,
-        ["points"] = 9400.94,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 4440,
-        ["kill_count"] = 3,
-        ["points"] = 9002.1,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 19008,
-        ["kill_count"] = 3,
-        ["points"] = 6315.63,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1182,
-        ["kill_count"] = 3,
-        ["points"] = 9420.94,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 1524,
-        ["kill_count"] = 2,
-        ["points"] = 9456.19,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 2507,
-        ["kill_count"] = 5,
-        ["points"] = 9182.81,
+        ["points"] = 8944.42,
       },
     },
   },
   ["Hellenos"] = {
     ["percentile"] = 87.79,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 787,
+    ["overall_rank"] = 786,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1982,
@@ -44551,7 +44494,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4655,
         ["kill_count"] = 23,
-        ["points"] = 8959.05,
+        ["points"] = 8959.28,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1457,
@@ -44566,12 +44509,69 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6493,
         ["kill_count"] = 23,
-        ["points"] = 8009.83,
+        ["points"] = 8010.28,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5287,
+        ["rank_raids"] = 5288,
         ["kill_count"] = 20,
         ["points"] = 8486.74,
+      },
+    },
+  },
+  ["Timopaladin"] = {
+    ["percentile"] = 87.79,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 787,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 1320,
+        ["kill_count"] = 3,
+        ["points"] = 9570.96,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 9414,
+        ["kill_count"] = 2,
+        ["points"] = 7591.3,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 918,
+        ["kill_count"] = 3,
+        ["points"] = 9712.97,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 11815,
+        ["kill_count"] = 3,
+        ["points"] = 8042.52,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 2044,
+        ["kill_count"] = 3,
+        ["points"] = 9400.94,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 4440,
+        ["kill_count"] = 3,
+        ["points"] = 9002.32,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 19008,
+        ["kill_count"] = 3,
+        ["points"] = 6315.63,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 1182,
+        ["kill_count"] = 3,
+        ["points"] = 9420.94,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 1524,
+        ["kill_count"] = 2,
+        ["points"] = 9456.31,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 2507,
+        ["kill_count"] = 5,
+        ["points"] = 9182.81,
       },
     },
   },
@@ -44608,7 +44608,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4113,
         ["kill_count"] = 2,
-        ["points"] = 9067.23,
+        ["points"] = 9067.43,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5369,
@@ -44623,10 +44623,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1079,
         ["kill_count"] = 2,
-        ["points"] = 9622.99,
+        ["points"] = 9623.07,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7687,
+        ["rank_raids"] = 7688,
         ["kill_count"] = 2,
         ["points"] = 7928.35,
       },
@@ -44665,7 +44665,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3584,
         ["kill_count"] = 13,
-        ["points"] = 9195.28,
+        ["points"] = 9195.45,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2734,
@@ -44680,10 +44680,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1995,
         ["kill_count"] = 11,
-        ["points"] = 9311.09,
+        ["points"] = 9311.25,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6583,
+        ["rank_raids"] = 6584,
         ["kill_count"] = 12,
         ["points"] = 8180.78,
       },
@@ -44722,7 +44722,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3699,
         ["kill_count"] = 9,
-        ["points"] = 9172.09,
+        ["points"] = 9172.28,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 916,
@@ -44737,17 +44737,17 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4948,
         ["kill_count"] = 9,
-        ["points"] = 8432.54,
+        ["points"] = 8432.9,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3172,
+        ["rank_raids"] = 3173,
         ["kill_count"] = 9,
-        ["points"] = 9001.78,
+        ["points"] = 9000.51,
       },
     },
   },
   ["Khes"] = {
-    ["percentile"] = 87.74,
+    ["percentile"] = 87.75,
     ["server"] = "Icecrown",
     ["overall_rank"] = 791,
     ["bosses"] = {
@@ -44779,7 +44779,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4067,
         ["kill_count"] = 15,
-        ["points"] = 9078.26,
+        ["points"] = 9078.47,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4639,
@@ -44794,10 +44794,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5813,
         ["kill_count"] = 15,
-        ["points"] = 8185.76,
+        ["points"] = 8186.18,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 10161,
+        ["rank_raids"] = 10162,
         ["kill_count"] = 14,
         ["points"] = 7376.34,
       },
@@ -44836,7 +44836,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4158,
         ["kill_count"] = 2,
-        ["points"] = 9058.39,
+        ["points"] = 9058.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3533,
@@ -44851,76 +44851,19 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4148,
         ["kill_count"] = 2,
-        ["points"] = 8656.46,
+        ["points"] = 8656.77,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3384,
+        ["rank_raids"] = 3385,
         ["kill_count"] = 2,
-        ["points"] = 8955.89,
-      },
-    },
-  },
-  ["Papen"] = {
-    ["percentile"] = 87.74,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 793,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 15719,
-        ["kill_count"] = 19,
-        ["points"] = 6838.99,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 5373,
-        ["kill_count"] = 19,
-        ["points"] = 8552.38,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4097,
-        ["kill_count"] = 21,
-        ["points"] = 9012.9,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 6065,
-        ["kill_count"] = 22,
-        ["points"] = 8482.85,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 3776,
-        ["kill_count"] = 22,
-        ["points"] = 9007.9,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 2688,
-        ["kill_count"] = 22,
-        ["points"] = 9379.62,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 7523,
-        ["kill_count"] = 21,
-        ["points"] = 8337.83,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 322,
-        ["kill_count"] = 22,
-        ["points"] = 9849.98,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 2351,
-        ["kill_count"] = 21,
-        ["points"] = 9219.7,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 3368,
-        ["kill_count"] = 18,
-        ["points"] = 8962.26,
+        ["points"] = 8954.61,
       },
     },
   },
   ["Hoper"] = {
-    ["percentile"] = 87.73,
+    ["percentile"] = 87.74,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 794,
+    ["overall_rank"] = 793,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1114,
@@ -44950,7 +44893,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6743,
         ["kill_count"] = 20,
-        ["points"] = 8488.8,
+        ["points"] = 8489.13,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9151,
@@ -44965,12 +44908,69 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4764,
         ["kill_count"] = 20,
-        ["points"] = 8482.81,
+        ["points"] = 8483.15,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4726,
+        ["rank_raids"] = 4727,
         ["kill_count"] = 20,
         ["points"] = 8634.63,
+      },
+    },
+  },
+  ["Papen"] = {
+    ["percentile"] = 87.73,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 794,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 15719,
+        ["kill_count"] = 19,
+        ["points"] = 6838.99,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 5373,
+        ["kill_count"] = 19,
+        ["points"] = 8552.38,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 4097,
+        ["kill_count"] = 21,
+        ["points"] = 9012.9,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 6065,
+        ["kill_count"] = 22,
+        ["points"] = 8482.85,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 3776,
+        ["kill_count"] = 22,
+        ["points"] = 9007.9,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 2688,
+        ["kill_count"] = 22,
+        ["points"] = 9379.76,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 7523,
+        ["kill_count"] = 21,
+        ["points"] = 8337.83,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 322,
+        ["kill_count"] = 22,
+        ["points"] = 9849.98,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 2351,
+        ["kill_count"] = 21,
+        ["points"] = 9219.87,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 3369,
+        ["kill_count"] = 18,
+        ["points"] = 8960.99,
       },
     },
   },
@@ -45007,7 +45007,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2840,
         ["kill_count"] = 9,
-        ["points"] = 9342.09,
+        ["points"] = 9342.24,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5794,
@@ -45022,17 +45022,17 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2375,
         ["kill_count"] = 8,
-        ["points"] = 9211.7,
+        ["points"] = 9211.88,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 9933,
+        ["rank_raids"] = 9934,
         ["kill_count"] = 6,
         ["points"] = 7429.88,
       },
     },
   },
   ["Unterwelt"] = {
-    ["percentile"] = 87.71,
+    ["percentile"] = 87.72,
     ["server"] = "Icecrown",
     ["overall_rank"] = 796,
     ["bosses"] = {
@@ -45064,7 +45064,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3141,
         ["kill_count"] = 24,
-        ["points"] = 9282.48,
+        ["points"] = 9282.64,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7736,
@@ -45079,7 +45079,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 7970,
         ["kill_count"] = 24,
-        ["points"] = 7620.24,
+        ["points"] = 7620.79,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2845,
@@ -45121,7 +45121,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4704,
         ["kill_count"] = 18,
-        ["points"] = 8951.32,
+        ["points"] = 8951.55,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3412,
@@ -45136,10 +45136,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4328,
         ["kill_count"] = 22,
-        ["points"] = 8614.19,
+        ["points"] = 8614.51,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 9663,
+        ["rank_raids"] = 9664,
         ["kill_count"] = 17,
         ["points"] = 7489.8,
       },
@@ -45178,7 +45178,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2120,
         ["kill_count"] = 6,
-        ["points"] = 9497.74,
+        ["points"] = 9497.85,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1138,
@@ -45193,7 +45193,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6871,
         ["kill_count"] = 6,
-        ["points"] = 7916.14,
+        ["points"] = 7916.62,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1706,
@@ -45235,7 +45235,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8813,
         ["kill_count"] = 11,
-        ["points"] = 8051.66,
+        ["points"] = 8052.09,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9653,
@@ -45250,7 +45250,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 898,
         ["kill_count"] = 11,
-        ["points"] = 9674.4,
+        ["points"] = 9674.47,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2989,
@@ -45260,7 +45260,7 @@ UWULogsData[4][3] = {
     },
   },
   ["Shancha"] = {
-    ["percentile"] = 87.67,
+    ["percentile"] = 87.68,
     ["server"] = "Icecrown",
     ["overall_rank"] = 800,
     ["bosses"] = {
@@ -45292,7 +45292,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6261,
         ["kill_count"] = 17,
-        ["points"] = 8606.91,
+        ["points"] = 8607.22,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5653,
@@ -45307,7 +45307,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 9944,
         ["kill_count"] = 17,
-        ["points"] = 7189.54,
+        ["points"] = 7190.18,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 645,
@@ -45349,7 +45349,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3002,
         ["kill_count"] = 6,
-        ["points"] = 9306.77,
+        ["points"] = 9306.92,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2429,
@@ -45364,10 +45364,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2902,
         ["kill_count"] = 15,
-        ["points"] = 9038.04,
+        ["points"] = 9038.26,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6985,
+        ["rank_raids"] = 6986,
         ["kill_count"] = 4,
         ["points"] = 8086.44,
       },
@@ -45406,7 +45406,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4443,
         ["kill_count"] = 13,
-        ["points"] = 8999.89,
+        ["points"] = 9000.11,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2914,
@@ -45421,7 +45421,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 9864,
         ["kill_count"] = 3,
-        ["points"] = 7208.96,
+        ["points"] = 7209.59,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1901,
@@ -45463,7 +45463,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6663,
         ["kill_count"] = 13,
-        ["points"] = 8508.67,
+        ["points"] = 8508.99,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6975,
@@ -45478,7 +45478,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2911,
         ["kill_count"] = 11,
-        ["points"] = 9036.9,
+        ["points"] = 9037.12,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 768,
@@ -45520,7 +45520,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1463,
         ["kill_count"] = 4,
-        ["points"] = 9642.34,
+        ["points"] = 9642.42,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6763,
@@ -45535,10 +45535,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1743,
         ["kill_count"] = 4,
-        ["points"] = 9393.35,
+        ["points"] = 9393.49,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7349,
+        ["rank_raids"] = 7350,
         ["kill_count"] = 5,
         ["points"] = 7994.65,
       },
@@ -45577,7 +45577,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1880,
         ["kill_count"] = 5,
-        ["points"] = 9559.55,
+        ["points"] = 9559.65,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6693,
@@ -45592,10 +45592,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1404,
         ["kill_count"] = 19,
-        ["points"] = 9493.89,
+        ["points"] = 9494.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 9238,
+        ["rank_raids"] = 9239,
         ["kill_count"] = 2,
         ["points"] = 7581.59,
       },
@@ -45634,7 +45634,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8326,
         ["kill_count"] = 14,
-        ["points"] = 8157.63,
+        ["points"] = 8158.04,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 937,
@@ -45649,17 +45649,17 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1176,
         ["kill_count"] = 18,
-        ["points"] = 9589.85,
+        ["points"] = 9589.95,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5184,
+        ["rank_raids"] = 5185,
         ["kill_count"] = 14,
         ["points"] = 8508.41,
       },
     },
   },
   ["Bacterial"] = {
-    ["percentile"] = 87.58,
+    ["percentile"] = 87.59,
     ["server"] = "Icecrown",
     ["overall_rank"] = 807,
     ["bosses"] = {
@@ -45691,7 +45691,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6840,
         ["kill_count"] = 28,
-        ["points"] = 8462.3,
+        ["points"] = 8462.64,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8837,
@@ -45706,10 +45706,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 8256,
         ["kill_count"] = 27,
-        ["points"] = 7552.84,
+        ["points"] = 7553.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7973,
+        ["rank_raids"] = 7974,
         ["kill_count"] = 24,
         ["points"] = 7855.69,
       },
@@ -45748,7 +45748,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5187,
         ["kill_count"] = 6,
-        ["points"] = 8853.07,
+        ["points"] = 8853.33,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3198,
@@ -45763,10 +45763,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6958,
         ["kill_count"] = 9,
-        ["points"] = 7892.15,
+        ["points"] = 7892.63,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8106,
+        ["rank_raids"] = 8107,
         ["kill_count"] = 5,
         ["points"] = 7827.64,
       },
@@ -45805,7 +45805,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8247,
         ["kill_count"] = 24,
-        ["points"] = 8175.3,
+        ["points"] = 8175.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6455,
@@ -45820,12 +45820,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3192,
         ["kill_count"] = 12,
-        ["points"] = 8960.36,
+        ["points"] = 8960.59,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3801,
+        ["rank_raids"] = 3802,
         ["kill_count"] = 22,
-        ["points"] = 8842.43,
+        ["points"] = 8841.15,
       },
     },
   },
@@ -45862,7 +45862,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5658,
         ["kill_count"] = 23,
-        ["points"] = 8731.65,
+        ["points"] = 8731.93,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6956,
@@ -45877,10 +45877,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3996,
         ["kill_count"] = 16,
-        ["points"] = 8709.01,
+        ["points"] = 8709.31,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5212,
+        ["rank_raids"] = 5213,
         ["kill_count"] = 14,
         ["points"] = 8502.04,
       },
@@ -45919,7 +45919,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3909,
         ["kill_count"] = 25,
-        ["points"] = 9120.21,
+        ["points"] = 9120.41,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7533,
@@ -45934,12 +45934,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6485,
         ["kill_count"] = 21,
-        ["points"] = 8012.11,
+        ["points"] = 8012.56,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3854,
+        ["rank_raids"] = 3855,
         ["kill_count"] = 24,
-        ["points"] = 8834.78,
+        ["points"] = 8833.5,
       },
     },
   },
@@ -45976,7 +45976,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3020,
         ["kill_count"] = 13,
-        ["points"] = 9303.46,
+        ["points"] = 9303.61,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2219,
@@ -45991,10 +45991,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2291,
         ["kill_count"] = 12,
-        ["points"] = 9237.98,
+        ["points"] = 9238.15,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8428,
+        ["rank_raids"] = 8429,
         ["kill_count"] = 12,
         ["points"] = 7756.25,
       },
@@ -46033,7 +46033,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3514,
         ["kill_count"] = 32,
-        ["points"] = 9211.83,
+        ["points"] = 9212.01,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3353,
@@ -46048,10 +46048,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3681,
         ["kill_count"] = 34,
-        ["points"] = 8819.83,
+        ["points"] = 8820.1,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 9151,
+        ["rank_raids"] = 9152,
         ["kill_count"] = 33,
         ["points"] = 7603.26,
       },
@@ -46090,7 +46090,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5612,
         ["kill_count"] = 12,
-        ["points"] = 8747.1,
+        ["points"] = 8747.38,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5716,
@@ -46105,12 +46105,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4030,
         ["kill_count"] = 12,
-        ["points"] = 8694.16,
+        ["points"] = 8694.46,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4268,
+        ["rank_raids"] = 4269,
         ["kill_count"] = 16,
-        ["points"] = 8727.69,
+        ["points"] = 8726.42,
       },
     },
   },
@@ -46162,12 +46162,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 745,
         ["kill_count"] = 23,
-        ["points"] = 9736.09,
+        ["points"] = 9736.15,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3198,
+        ["rank_raids"] = 3199,
         ["kill_count"] = 12,
-        ["points"] = 8995.41,
+        ["points"] = 8994.14,
       },
     },
   },
@@ -46204,7 +46204,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3711,
         ["kill_count"] = 23,
-        ["points"] = 9168.78,
+        ["points"] = 9168.97,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 540,
@@ -46219,10 +46219,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 8719,
         ["kill_count"] = 21,
-        ["points"] = 7447.73,
+        ["points"] = 7448.32,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6465,
+        ["rank_raids"] = 6466,
         ["kill_count"] = 21,
         ["points"] = 8210.1,
       },
@@ -46261,7 +46261,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2096,
         ["kill_count"] = 3,
-        ["points"] = 9502.15,
+        ["points"] = 9502.26,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 10405,
@@ -46276,7 +46276,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 718,
         ["kill_count"] = 3,
-        ["points"] = 9744.09,
+        ["points"] = 9744.15,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1042,
@@ -46318,7 +46318,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6279,
         ["kill_count"] = 7,
-        ["points"] = 8604.7,
+        ["points"] = 8605.01,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7984,
@@ -46333,10 +46333,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3310,
         ["kill_count"] = 3,
-        ["points"] = 8944.36,
+        ["points"] = 8944.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7105,
+        ["rank_raids"] = 7106,
         ["kill_count"] = 5,
         ["points"] = 8046.91,
       },
@@ -46375,7 +46375,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6902,
         ["kill_count"] = 11,
-        ["points"] = 8452.37,
+        ["points"] = 8452.71,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 10937,
@@ -46390,7 +46390,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2449,
         ["kill_count"] = 11,
-        ["points"] = 9185.42,
+        ["points"] = 9185.61,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1764,
@@ -46432,7 +46432,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4755,
         ["kill_count"] = 14,
-        ["points"] = 8939.18,
+        ["points"] = 8939.41,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2638,
@@ -46447,12 +46447,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5606,
         ["kill_count"] = 9,
-        ["points"] = 8249.74,
+        ["points"] = 8250.14,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4247,
+        ["rank_raids"] = 4248,
         ["kill_count"] = 14,
-        ["points"] = 8732.79,
+        ["points"] = 8731.51,
       },
     },
   },
@@ -46489,7 +46489,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4630,
         ["kill_count"] = 19,
-        ["points"] = 8964.57,
+        ["points"] = 8964.79,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2845,
@@ -46504,10 +46504,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4805,
         ["kill_count"] = 16,
-        ["points"] = 8471.38,
+        ["points"] = 8471.73,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8831,
+        ["rank_raids"] = 8832,
         ["kill_count"] = 16,
         ["points"] = 7663.18,
       },
@@ -46546,7 +46546,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5688,
         ["kill_count"] = 19,
-        ["points"] = 8721.71,
+        ["points"] = 8722.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2987,
@@ -46561,12 +46561,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3813,
         ["kill_count"] = 15,
-        ["points"] = 8775.28,
+        ["points"] = 8775.56,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4215,
+        ["rank_raids"] = 4216,
         ["kill_count"] = 16,
-        ["points"] = 8740.44,
+        ["points"] = 8739.16,
       },
     },
   },
@@ -46603,7 +46603,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4026,
         ["kill_count"] = 6,
-        ["points"] = 9084.89,
+        ["points"] = 9085.09,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2229,
@@ -46618,10 +46618,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3041,
         ["kill_count"] = 6,
-        ["points"] = 8998.06,
+        ["points"] = 8998.29,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4778,
+        ["rank_raids"] = 4779,
         ["kill_count"] = 5,
         ["points"] = 8620.6,
       },
@@ -46660,7 +46660,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6645,
         ["kill_count"] = 15,
-        ["points"] = 8513.08,
+        ["points"] = 8513.41,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4638,
@@ -46675,10 +46675,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 8152,
         ["kill_count"] = 10,
-        ["points"] = 7575.69,
+        ["points"] = 7576.24,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4907,
+        ["rank_raids"] = 4908,
         ["kill_count"] = 11,
         ["points"] = 8586.18,
       },
@@ -46717,7 +46717,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2393,
         ["kill_count"] = 7,
-        ["points"] = 9439.23,
+        ["points"] = 9439.36,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 940,
@@ -46732,10 +46732,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3155,
         ["kill_count"] = 9,
-        ["points"] = 8969.5,
+        ["points"] = 8969.73,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7090,
+        ["rank_raids"] = 7091,
         ["kill_count"] = 6,
         ["points"] = 8050.74,
       },
@@ -46774,7 +46774,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3856,
         ["kill_count"] = 5,
-        ["points"] = 9132.35,
+        ["points"] = 9132.55,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 10511,
@@ -46789,10 +46789,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4982,
         ["kill_count"] = 6,
-        ["points"] = 8425.68,
+        ["points"] = 8426.04,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5136,
+        ["rank_raids"] = 5137,
         ["kill_count"] = 5,
         ["points"] = 8523.71,
       },
@@ -46831,7 +46831,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7990,
         ["kill_count"] = 31,
-        ["points"] = 8221.66,
+        ["points"] = 8222.05,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4022,
@@ -46846,12 +46846,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 13755,
         ["kill_count"] = 29,
-        ["points"] = 6433.22,
+        ["points"] = 6434.04,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3485,
+        ["rank_raids"] = 3486,
         ["kill_count"] = 29,
-        ["points"] = 8929.12,
+        ["points"] = 8927.84,
       },
     },
   },
@@ -46888,7 +46888,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4150,
         ["kill_count"] = 17,
-        ["points"] = 9060.6,
+        ["points"] = 9060.81,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4388,
@@ -46903,10 +46903,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6894,
         ["kill_count"] = 13,
-        ["points"] = 7909.29,
+        ["points"] = 7909.77,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 10356,
+        ["rank_raids"] = 10357,
         ["kill_count"] = 9,
         ["points"] = 7330.44,
       },
@@ -46945,7 +46945,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5474,
         ["kill_count"] = 15,
-        ["points"] = 8785.74,
+        ["points"] = 8786.01,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1434,
@@ -46960,7 +46960,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 563,
         ["kill_count"] = 14,
-        ["points"] = 9800.07,
+        ["points"] = 9800.11,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2452,
@@ -47002,7 +47002,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2208,
         ["kill_count"] = 15,
-        ["points"] = 9481.18,
+        ["points"] = 9481.29,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4975,
@@ -47017,10 +47017,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 11139,
         ["kill_count"] = 14,
-        ["points"] = 6932.48,
+        ["points"] = 6933.18,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6007,
+        ["rank_raids"] = 6008,
         ["kill_count"] = 15,
         ["points"] = 8306.99,
       },
@@ -47059,7 +47059,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3209,
         ["kill_count"] = 5,
-        ["points"] = 9265.92,
+        ["points"] = 9266.09,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5987,
@@ -47074,10 +47074,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1139,
         ["kill_count"] = 7,
-        ["points"] = 9603.56,
+        ["points"] = 9603.66,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8336,
+        ["rank_raids"] = 8337,
         ["kill_count"] = 4,
         ["points"] = 7777.92,
       },
@@ -47116,7 +47116,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7648,
         ["kill_count"] = 11,
-        ["points"] = 8296.72,
+        ["points"] = 8297.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8215,
@@ -47131,7 +47131,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 8415,
         ["kill_count"] = 14,
-        ["points"] = 7523.13,
+        ["points"] = 7523.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1109,
@@ -47173,7 +47173,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2894,
         ["kill_count"] = 43,
-        ["points"] = 9326.64,
+        ["points"] = 9326.79,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1999,
@@ -47188,17 +47188,17 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3105,
         ["kill_count"] = 44,
-        ["points"] = 8977.49,
+        ["points"] = 8977.73,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 9503,
+        ["rank_raids"] = 9504,
         ["kill_count"] = 45,
         ["points"] = 7512.75,
       },
     },
   },
   ["Holyzor"] = {
-    ["percentile"] = 87.26,
+    ["percentile"] = 87.25,
     ["server"] = "Icecrown",
     ["overall_rank"] = 835,
     ["bosses"] = {
@@ -47230,7 +47230,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2991,
         ["kill_count"] = 9,
-        ["points"] = 9307.87,
+        ["points"] = 9308.02,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2912,
@@ -47245,12 +47245,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5405,
         ["kill_count"] = 15,
-        ["points"] = 8308.01,
+        ["points"] = 8308.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3730,
+        ["rank_raids"] = 3731,
         ["kill_count"] = 8,
-        ["points"] = 8859.0,
+        ["points"] = 8857.73,
       },
     },
   },
@@ -47287,7 +47287,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1892,
         ["kill_count"] = 4,
-        ["points"] = 9555.14,
+        ["points"] = 9555.24,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2923,
@@ -47302,10 +47302,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2569,
         ["kill_count"] = 4,
-        ["points"] = 9139.72,
+        ["points"] = 9139.92,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8434,
+        ["rank_raids"] = 8435,
         ["kill_count"] = 2,
         ["points"] = 7751.15,
       },
@@ -47344,7 +47344,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 9998,
         ["kill_count"] = 11,
-        ["points"] = 7780.11,
+        ["points"] = 7780.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4443,
@@ -47359,7 +47359,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2721,
         ["kill_count"] = 10,
-        ["points"] = 9092.88,
+        ["points"] = 9093.09,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1763,
@@ -47401,7 +47401,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1966,
         ["kill_count"] = 28,
-        ["points"] = 9537.48,
+        ["points"] = 9537.58,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3722,
@@ -47416,10 +47416,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2450,
         ["kill_count"] = 26,
-        ["points"] = 9184.28,
+        ["points"] = 9184.47,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4589,
+        ["rank_raids"] = 4590,
         ["kill_count"] = 13,
         ["points"] = 8663.95,
       },
@@ -47458,7 +47458,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3616,
         ["kill_count"] = 14,
-        ["points"] = 9186.44,
+        ["points"] = 9186.62,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9387,
@@ -47473,10 +47473,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5260,
         ["kill_count"] = 17,
-        ["points"] = 8344.57,
+        ["points"] = 8344.95,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5399,
+        ["rank_raids"] = 5400,
         ["kill_count"] = 12,
         ["points"] = 8459.97,
       },
@@ -47515,7 +47515,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2486,
         ["kill_count"] = 4,
-        ["points"] = 9419.36,
+        ["points"] = 9419.49,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3886,
@@ -47530,7 +47530,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2750,
         ["kill_count"] = 5,
-        ["points"] = 9083.74,
+        ["points"] = 9083.95,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2723,
@@ -47572,7 +47572,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 11440,
         ["kill_count"] = 27,
-        ["points"] = 7492.0,
+        ["points"] = 7492.55,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1152,
@@ -47587,10 +47587,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4366,
         ["kill_count"] = 29,
-        ["points"] = 8597.05,
+        ["points"] = 8597.37,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7495,
+        ["rank_raids"] = 7496,
         ["kill_count"] = 28,
         ["points"] = 7965.32,
       },
@@ -47629,7 +47629,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2642,
         ["kill_count"] = 15,
-        ["points"] = 9387.35,
+        ["points"] = 9387.48,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3059,
@@ -47644,12 +47644,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1340,
         ["kill_count"] = 13,
-        ["points"] = 9524.73,
+        ["points"] = 9524.84,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3947,
+        ["rank_raids"] = 3948,
         ["kill_count"] = 15,
-        ["points"] = 8813.11,
+        ["points"] = 8811.83,
       },
     },
   },
@@ -47686,7 +47686,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5503,
         ["kill_count"] = 11,
-        ["points"] = 8778.01,
+        ["points"] = 8778.28,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 10177,
@@ -47704,7 +47704,7 @@ UWULogsData[4][3] = {
         ["points"] = 5791.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4981,
+        ["rank_raids"] = 4982,
         ["kill_count"] = 13,
         ["points"] = 8561.96,
       },
@@ -47743,7 +47743,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4775,
         ["kill_count"] = 8,
-        ["points"] = 8932.55,
+        ["points"] = 8932.79,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7055,
@@ -47758,10 +47758,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3035,
         ["kill_count"] = 6,
-        ["points"] = 9000.34,
+        ["points"] = 9000.57,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6204,
+        ["rank_raids"] = 6205,
         ["kill_count"] = 6,
         ["points"] = 8264.92,
       },
@@ -47800,7 +47800,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1530,
         ["kill_count"] = 5,
-        ["points"] = 9629.1,
+        ["points"] = 9629.18,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7288,
@@ -47815,12 +47815,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 8448,
         ["kill_count"] = 1,
-        ["points"] = 7514.0,
+        ["points"] = 7514.56,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3398,
+        ["rank_raids"] = 3399,
         ["kill_count"] = 5,
-        ["points"] = 8946.97,
+        ["points"] = 8945.69,
       },
     },
   },
@@ -47857,7 +47857,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4088,
         ["kill_count"] = 3,
-        ["points"] = 9071.64,
+        ["points"] = 9071.85,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7447,
@@ -47872,7 +47872,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4608,
         ["kill_count"] = 8,
-        ["points"] = 8530.79,
+        ["points"] = 8531.13,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2047,
@@ -47914,7 +47914,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2378,
         ["kill_count"] = 4,
-        ["points"] = 9444.75,
+        ["points"] = 9444.87,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8893,
@@ -47929,7 +47929,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6726,
         ["kill_count"] = 4,
-        ["points"] = 7952.7,
+        ["points"] = 7953.17,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 650,
@@ -47971,7 +47971,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4899,
         ["kill_count"] = 18,
-        ["points"] = 8908.27,
+        ["points"] = 8908.51,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3086,
@@ -47986,10 +47986,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6657,
         ["kill_count"] = 10,
-        ["points"] = 7974.41,
+        ["points"] = 7974.87,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 11033,
+        ["rank_raids"] = 11034,
         ["kill_count"] = 6,
         ["points"] = 7178.74,
       },
@@ -48028,7 +48028,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3273,
         ["kill_count"] = 5,
-        ["points"] = 9258.2,
+        ["points"] = 9258.36,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5422,
@@ -48043,10 +48043,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3190,
         ["kill_count"] = 5,
-        ["points"] = 8961.5,
+        ["points"] = 8961.74,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7070,
+        ["rank_raids"] = 7071,
         ["kill_count"] = 4,
         ["points"] = 8059.66,
       },
@@ -48085,7 +48085,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3976,
         ["kill_count"] = 4,
-        ["points"] = 9103.65,
+        ["points"] = 9103.85,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8696,
@@ -48100,7 +48100,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2164,
         ["kill_count"] = 4,
-        ["points"] = 9268.82,
+        ["points"] = 9268.99,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1441,
@@ -48142,7 +48142,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2352,
         ["kill_count"] = 68,
-        ["points"] = 9450.27,
+        ["points"] = 9450.39,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4105,
@@ -48157,10 +48157,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5543,
         ["kill_count"] = 71,
-        ["points"] = 8268.02,
+        ["points"] = 8268.42,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 13281,
+        ["rank_raids"] = 13282,
         ["kill_count"] = 64,
         ["points"] = 6757.67,
       },
@@ -48199,7 +48199,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2979,
         ["kill_count"] = 10,
-        ["points"] = 9308.97,
+        ["points"] = 9309.13,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3687,
@@ -48214,7 +48214,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4847,
         ["kill_count"] = 9,
-        ["points"] = 8462.24,
+        ["points"] = 8462.59,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2232,
@@ -48256,7 +48256,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 11760,
         ["kill_count"] = 16,
-        ["points"] = 7423.56,
+        ["points"] = 7424.13,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3814,
@@ -48271,10 +48271,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3086,
         ["kill_count"] = 13,
-        ["points"] = 8987.78,
+        ["points"] = 8988.01,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8161,
+        ["rank_raids"] = 8162,
         ["kill_count"] = 8,
         ["points"] = 7817.44,
       },
@@ -48313,7 +48313,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3226,
         ["kill_count"] = 18,
-        ["points"] = 9262.61,
+        ["points"] = 9262.77,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3386,
@@ -48328,12 +48328,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 7817,
         ["kill_count"] = 12,
-        ["points"] = 7651.09,
+        ["points"] = 7651.63,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3204,
+        ["rank_raids"] = 3205,
         ["kill_count"] = 19,
-        ["points"] = 8991.59,
+        ["points"] = 8990.31,
       },
     },
   },
@@ -48370,7 +48370,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4813,
         ["kill_count"] = 12,
-        ["points"] = 8924.83,
+        ["points"] = 8925.06,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5027,
@@ -48385,10 +48385,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 9741,
         ["kill_count"] = 10,
-        ["points"] = 7232.95,
+        ["points"] = 7233.58,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 12510,
+        ["rank_raids"] = 12511,
         ["kill_count"] = 11,
         ["points"] = 6858.75,
       },
@@ -48427,7 +48427,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3785,
         ["kill_count"] = 13,
-        ["points"] = 9146.7,
+        ["points"] = 9146.89,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3319,
@@ -48442,10 +48442,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2893,
         ["kill_count"] = 8,
-        ["points"] = 9042.61,
+        ["points"] = 9042.83,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6328,
+        ["rank_raids"] = 6329,
         ["kill_count"] = 13,
         ["points"] = 8236.87,
       },
@@ -48484,7 +48484,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6581,
         ["kill_count"] = 5,
-        ["points"] = 8528.54,
+        ["points"] = 8528.86,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 17944,
@@ -48499,10 +48499,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4446,
         ["kill_count"] = 4,
-        ["points"] = 8573.06,
+        ["points"] = 8573.39,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6515,
+        ["rank_raids"] = 6516,
         ["kill_count"] = 3,
         ["points"] = 8196.07,
       },
@@ -48541,7 +48541,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5694,
         ["kill_count"] = 5,
-        ["points"] = 8718.4,
+        ["points"] = 8718.68,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3244,
@@ -48556,7 +48556,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 7823,
         ["kill_count"] = 5,
-        ["points"] = 7649.95,
+        ["points"] = 7650.49,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 489,
@@ -48598,7 +48598,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2257,
         ["kill_count"] = 15,
-        ["points"] = 9471.24,
+        ["points"] = 9471.36,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1973,
@@ -48613,12 +48613,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 724,
         ["kill_count"] = 14,
-        ["points"] = 9741.8,
+        ["points"] = 9741.86,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3617,
+        ["rank_raids"] = 3618,
         ["kill_count"] = 15,
-        ["points"] = 8887.05,
+        ["points"] = 8885.77,
       },
     },
   },
@@ -48655,7 +48655,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 10102,
         ["kill_count"] = 12,
-        ["points"] = 7756.93,
+        ["points"] = 7757.42,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5752,
@@ -48670,7 +48670,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1489,
         ["kill_count"] = 11,
-        ["points"] = 9465.33,
+        ["points"] = 9465.45,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 276,
@@ -48680,7 +48680,7 @@ UWULogsData[4][3] = {
     },
   },
   ["Dybala"] = {
-    ["percentile"] = 86.95,
+    ["percentile"] = 86.96,
     ["server"] = "Icecrown",
     ["overall_rank"] = 862,
     ["bosses"] = {
@@ -48712,7 +48712,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6313,
         ["kill_count"] = 7,
-        ["points"] = 8588.14,
+        ["points"] = 8588.46,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7102,
@@ -48727,7 +48727,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6216,
         ["kill_count"] = 8,
-        ["points"] = 8080.66,
+        ["points"] = 8081.1,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 899,
@@ -48769,7 +48769,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7048,
         ["kill_count"] = 11,
-        ["points"] = 8415.94,
+        ["points"] = 8416.29,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4763,
@@ -48784,10 +48784,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2917,
         ["kill_count"] = 12,
-        ["points"] = 9035.76,
+        ["points"] = 9035.98,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 10975,
+        ["rank_raids"] = 10976,
         ["kill_count"] = 10,
         ["points"] = 7186.38,
       },
@@ -48826,7 +48826,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2813,
         ["kill_count"] = 6,
-        ["points"] = 9346.51,
+        ["points"] = 9346.65,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4867,
@@ -48841,7 +48841,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4641,
         ["kill_count"] = 6,
-        ["points"] = 8519.36,
+        ["points"] = 8519.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1580,
@@ -48851,7 +48851,7 @@ UWULogsData[4][3] = {
     },
   },
   ["Liandryyn"] = {
-    ["percentile"] = 86.89,
+    ["percentile"] = 86.9,
     ["server"] = "Icecrown",
     ["overall_rank"] = 865,
     ["bosses"] = {
@@ -48883,7 +48883,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6154,
         ["kill_count"] = 6,
-        ["points"] = 8631.2,
+        ["points"] = 8631.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3576,
@@ -48898,10 +48898,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4238,
         ["kill_count"] = 6,
-        ["points"] = 8637.04,
+        ["points"] = 8637.35,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8824,
+        ["rank_raids"] = 8825,
         ["kill_count"] = 6,
         ["points"] = 7664.46,
       },
@@ -48940,7 +48940,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7742,
         ["kill_count"] = 1,
-        ["points"] = 8271.33,
+        ["points"] = 8271.71,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1237,
@@ -48955,10 +48955,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6217,
         ["kill_count"] = 1,
-        ["points"] = 8079.52,
+        ["points"] = 8079.95,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 13214,
+        ["rank_raids"] = 13215,
         ["kill_count"] = 2,
         ["points"] = 6763.17,
       },
@@ -48997,7 +48997,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 10944,
         ["kill_count"] = 8,
-        ["points"] = 7578.1,
+        ["points"] = 7578.63,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2250,
@@ -49012,12 +49012,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1457,
         ["kill_count"] = 8,
-        ["points"] = 9473.32,
+        ["points"] = 9473.44,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3990,
+        ["rank_raids"] = 3991,
         ["kill_count"] = 5,
-        ["points"] = 8801.63,
+        ["points"] = 8800.36,
       },
     },
   },
@@ -49054,7 +49054,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 10748,
         ["kill_count"] = 7,
-        ["points"] = 7617.84,
+        ["points"] = 7618.36,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1194,
@@ -49069,7 +49069,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1955,
         ["kill_count"] = 8,
-        ["points"] = 9321.38,
+        ["points"] = 9321.53,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1924,
@@ -49111,7 +49111,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5142,
         ["kill_count"] = 18,
-        ["points"] = 8863.01,
+        ["points"] = 8863.26,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1202,
@@ -49126,10 +49126,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1166,
         ["kill_count"] = 18,
-        ["points"] = 9593.28,
+        ["points"] = 9593.38,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5740,
+        ["rank_raids"] = 5741,
         ["kill_count"] = 18,
         ["points"] = 8373.28,
       },
@@ -49168,7 +49168,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3340,
         ["kill_count"] = 9,
-        ["points"] = 9247.16,
+        ["points"] = 9247.32,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2535,
@@ -49183,10 +49183,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3777,
         ["kill_count"] = 10,
-        ["points"] = 8784.42,
+        ["points"] = 8784.69,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4466,
+        ["rank_raids"] = 4467,
         ["kill_count"] = 11,
         ["points"] = 8683.07,
       },
@@ -49225,7 +49225,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5450,
         ["kill_count"] = 6,
-        ["points"] = 8791.26,
+        ["points"] = 8791.52,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7521,
@@ -49240,12 +49240,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1040,
         ["kill_count"] = 5,
-        ["points"] = 9637.84,
+        ["points"] = 9637.92,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4129,
+        ["rank_raids"] = 4130,
         ["kill_count"] = 8,
-        ["points"] = 8765.94,
+        ["points"] = 8764.66,
       },
     },
   },
@@ -49282,7 +49282,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8658,
         ["kill_count"] = 10,
-        ["points"] = 8090.3,
+        ["points"] = 8090.72,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 12714,
@@ -49297,12 +49297,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3673,
         ["kill_count"] = 10,
-        ["points"] = 8824.4,
+        ["points"] = 8824.67,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3566,
+        ["rank_raids"] = 3567,
         ["kill_count"] = 9,
-        ["points"] = 8906.17,
+        ["points"] = 8904.9,
       },
     },
   },
@@ -49339,7 +49339,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1911,
         ["kill_count"] = 13,
-        ["points"] = 9548.52,
+        ["points"] = 9548.61,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5721,
@@ -49354,7 +49354,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4080,
         ["kill_count"] = 19,
-        ["points"] = 8673.6,
+        ["points"] = 8673.9,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2208,
@@ -49396,7 +49396,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8965,
         ["kill_count"] = 11,
-        ["points"] = 8015.23,
+        ["points"] = 8015.67,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2071,
@@ -49411,7 +49411,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3856,
         ["kill_count"] = 1,
-        ["points"] = 8757.0,
+        ["points"] = 8757.28,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1718,
@@ -49453,7 +49453,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3814,
         ["kill_count"] = 12,
-        ["points"] = 9138.98,
+        ["points"] = 9139.17,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5380,
@@ -49468,12 +49468,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 10999,
         ["kill_count"] = 9,
-        ["points"] = 6970.18,
+        ["points"] = 6970.87,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3797,
+        ["rank_raids"] = 3798,
         ["kill_count"] = 6,
-        ["points"] = 8843.7,
+        ["points"] = 8842.43,
       },
     },
   },
@@ -49510,7 +49510,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 537,
         ["kill_count"] = 21,
-        ["points"] = 9841.04,
+        ["points"] = 9841.08,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 861,
@@ -49525,7 +49525,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3063,
         ["kill_count"] = 14,
-        ["points"] = 8992.35,
+        ["points"] = 8992.58,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1711,
@@ -49567,7 +49567,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 13194,
         ["kill_count"] = 6,
-        ["points"] = 7158.63,
+        ["points"] = 7159.25,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2969,
@@ -49582,10 +49582,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3693,
         ["kill_count"] = 16,
-        ["points"] = 8814.12,
+        ["points"] = 8814.39,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6732,
+        ["rank_raids"] = 6733,
         ["kill_count"] = 5,
         ["points"] = 8150.18,
       },
@@ -49624,7 +49624,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5220,
         ["kill_count"] = 15,
-        ["points"] = 8843.14,
+        ["points"] = 8843.39,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3611,
@@ -49639,10 +49639,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2924,
         ["kill_count"] = 13,
-        ["points"] = 9034.62,
+        ["points"] = 9034.84,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5488,
+        ["rank_raids"] = 5489,
         ["kill_count"] = 16,
         ["points"] = 8433.2,
       },
@@ -49681,7 +49681,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4338,
         ["kill_count"] = 20,
-        ["points"] = 9026.38,
+        ["points"] = 9026.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 884,
@@ -49696,10 +49696,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 9111,
         ["kill_count"] = 10,
-        ["points"] = 7350.62,
+        ["points"] = 7351.23,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8407,
+        ["rank_raids"] = 8408,
         ["kill_count"] = 19,
         ["points"] = 7761.35,
       },
@@ -49738,7 +49738,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6077,
         ["kill_count"] = 5,
-        ["points"] = 8653.27,
+        ["points"] = 8653.57,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6389,
@@ -49753,7 +49753,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2684,
         ["kill_count"] = 5,
-        ["points"] = 9103.16,
+        ["points"] = 9103.37,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2410,
@@ -49763,7 +49763,7 @@ UWULogsData[4][3] = {
     },
   },
   ["Tucachera"] = {
-    ["percentile"] = 86.71,
+    ["percentile"] = 86.72,
     ["server"] = "Icecrown",
     ["overall_rank"] = 881,
     ["bosses"] = {
@@ -49795,7 +49795,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5210,
         ["kill_count"] = 31,
-        ["points"] = 8847.55,
+        ["points"] = 8847.81,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3586,
@@ -49810,10 +49810,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1786,
         ["kill_count"] = 29,
-        ["points"] = 9372.79,
+        ["points"] = 9372.93,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6378,
+        ["rank_raids"] = 6379,
         ["kill_count"] = 31,
         ["points"] = 8226.67,
       },
@@ -49852,7 +49852,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5763,
         ["kill_count"] = 17,
-        ["points"] = 8704.05,
+        ["points"] = 8704.34,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1989,
@@ -49867,10 +49867,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1306,
         ["kill_count"] = 11,
-        ["points"] = 9536.16,
+        ["points"] = 9536.26,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4511,
+        ["rank_raids"] = 4512,
         ["kill_count"] = 16,
         ["points"] = 8676.7,
       },
@@ -49909,7 +49909,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2946,
         ["kill_count"] = 9,
-        ["points"] = 9320.01,
+        ["points"] = 9320.16,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1663,
@@ -49924,7 +49924,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3186,
         ["kill_count"] = 5,
-        ["points"] = 8962.64,
+        ["points"] = 8962.88,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2916,
@@ -49966,7 +49966,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5512,
         ["kill_count"] = 11,
-        ["points"] = 8773.6,
+        ["points"] = 8773.87,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5079,
@@ -49981,7 +49981,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4468,
         ["kill_count"] = 8,
-        ["points"] = 8563.92,
+        ["points"] = 8564.25,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1073,
@@ -50023,7 +50023,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4658,
         ["kill_count"] = 8,
-        ["points"] = 8956.84,
+        ["points"] = 8957.07,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8320,
@@ -50038,10 +50038,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 7459,
         ["kill_count"] = 10,
-        ["points"] = 7752.77,
+        ["points"] = 7753.28,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4646,
+        ["rank_raids"] = 4647,
         ["kill_count"] = 8,
         ["points"] = 8653.75,
       },
@@ -50080,7 +50080,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3780,
         ["kill_count"] = 7,
-        ["points"] = 9150.02,
+        ["points"] = 9150.2,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7967,
@@ -50095,7 +50095,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1762,
         ["kill_count"] = 7,
-        ["points"] = 9385.35,
+        ["points"] = 9385.49,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2315,
@@ -50137,7 +50137,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1786,
         ["kill_count"] = 2,
-        ["points"] = 9581.63,
+        ["points"] = 9581.72,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 10905,
@@ -50152,7 +50152,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3353,
         ["kill_count"] = 2,
-        ["points"] = 8934.08,
+        ["points"] = 8934.32,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1788,
@@ -50194,7 +50194,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5132,
         ["kill_count"] = 9,
-        ["points"] = 8865.22,
+        ["points"] = 8865.47,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6412,
@@ -50209,10 +50209,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1708,
         ["kill_count"] = 12,
-        ["points"] = 9402.49,
+        ["points"] = 9402.63,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7764,
+        ["rank_raids"] = 7765,
         ["kill_count"] = 8,
         ["points"] = 7913.05,
       },
@@ -50251,7 +50251,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5986,
         ["kill_count"] = 17,
-        ["points"] = 8669.83,
+        ["points"] = 8670.12,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 12163,
@@ -50266,7 +50266,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1951,
         ["kill_count"] = 15,
-        ["points"] = 9322.52,
+        ["points"] = 9322.67,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1326,
@@ -50308,7 +50308,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4676,
         ["kill_count"] = 5,
-        ["points"] = 8954.63,
+        ["points"] = 8954.86,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4055,
@@ -50323,10 +50323,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4388,
         ["kill_count"] = 7,
-        ["points"] = 8594.77,
+        ["points"] = 8595.09,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5771,
+        ["rank_raids"] = 5772,
         ["kill_count"] = 8,
         ["points"] = 8369.45,
       },
@@ -50365,7 +50365,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3581,
         ["kill_count"] = 7,
-        ["points"] = 9197.48,
+        ["points"] = 9197.66,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6794,
@@ -50380,10 +50380,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6350,
         ["kill_count"] = 8,
-        ["points"] = 8046.38,
+        ["points"] = 8046.83,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 13872,
+        ["rank_raids"] = 13873,
         ["kill_count"] = 7,
         ["points"] = 6716.45,
       },
@@ -50422,7 +50422,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2284,
         ["kill_count"] = 23,
-        ["points"] = 9463.52,
+        ["points"] = 9463.64,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 316,
@@ -50437,7 +50437,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3333,
         ["kill_count"] = 18,
-        ["points"] = 8939.79,
+        ["points"] = 8940.03,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2718,
@@ -50479,7 +50479,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1882,
         ["kill_count"] = 5,
-        ["points"] = 9558.45,
+        ["points"] = 9558.55,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8798,
@@ -50494,10 +50494,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4571,
         ["kill_count"] = 4,
-        ["points"] = 8539.93,
+        ["points"] = 8540.26,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5562,
+        ["rank_raids"] = 5563,
         ["kill_count"] = 3,
         ["points"] = 8415.35,
       },
@@ -50536,7 +50536,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8736,
         ["kill_count"] = 7,
-        ["points"] = 8072.63,
+        ["points"] = 8073.06,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9544,
@@ -50551,10 +50551,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 633,
         ["kill_count"] = 18,
-        ["points"] = 9777.22,
+        ["points"] = 9777.27,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 14663,
+        ["rank_raids"] = 14664,
         ["kill_count"] = 3,
         ["points"] = 6658.26,
       },
@@ -50593,7 +50593,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 12561,
         ["kill_count"] = 5,
-        ["points"] = 7280.05,
+        ["points"] = 7280.65,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 974,
@@ -50608,10 +50608,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2867,
         ["kill_count"] = 5,
-        ["points"] = 9051.75,
+        ["points"] = 9051.97,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8845,
+        ["rank_raids"] = 8846,
         ["kill_count"] = 5,
         ["points"] = 7659.36,
       },
@@ -50650,7 +50650,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4252,
         ["kill_count"] = 13,
-        ["points"] = 9041.84,
+        ["points"] = 9042.05,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7926,
@@ -50665,7 +50665,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5113,
         ["kill_count"] = 12,
-        ["points"] = 8394.84,
+        ["points"] = 8395.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2504,
@@ -50707,7 +50707,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5115,
         ["kill_count"] = 17,
-        ["points"] = 8867.42,
+        ["points"] = 8867.67,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8415,
@@ -50722,10 +50722,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1972,
         ["kill_count"] = 18,
-        ["points"] = 9316.81,
+        ["points"] = 9316.96,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5489,
+        ["rank_raids"] = 5490,
         ["kill_count"] = 14,
         ["points"] = 8431.92,
       },
@@ -50764,7 +50764,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3519,
         ["kill_count"] = 20,
-        ["points"] = 9209.63,
+        ["points"] = 9209.8,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1660,
@@ -50779,10 +50779,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1610,
         ["kill_count"] = 18,
-        ["points"] = 9432.19,
+        ["points"] = 9432.32,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 12439,
+        ["rank_raids"] = 12440,
         ["kill_count"] = 20,
         ["points"] = 6872.77,
       },
@@ -50821,7 +50821,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1323,
         ["kill_count"] = 4,
-        ["points"] = 9671.05,
+        ["points"] = 9671.12,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 12266,
@@ -50836,7 +50836,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2839,
         ["kill_count"] = 17,
-        ["points"] = 9056.32,
+        ["points"] = 9056.54,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2110,
@@ -50878,7 +50878,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8794,
         ["kill_count"] = 10,
-        ["points"] = 8056.08,
+        ["points"] = 8056.51,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6495,
@@ -50893,12 +50893,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2295,
         ["kill_count"] = 13,
-        ["points"] = 9235.69,
+        ["points"] = 9235.87,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3589,
+        ["rank_raids"] = 3590,
         ["kill_count"] = 8,
-        ["points"] = 8897.25,
+        ["points"] = 8895.97,
       },
     },
   },
@@ -50935,7 +50935,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5000,
         ["kill_count"] = 15,
-        ["points"] = 8888.4,
+        ["points"] = 8888.64,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4160,
@@ -50950,10 +50950,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4245,
         ["kill_count"] = 15,
-        ["points"] = 8634.75,
+        ["points"] = 8635.07,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 11593,
+        ["rank_raids"] = 11594,
         ["kill_count"] = 13,
         ["points"] = 7052.52,
       },
@@ -50992,7 +50992,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 9367,
         ["kill_count"] = 22,
-        ["points"] = 7924.72,
+        ["points"] = 7925.17,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7388,
@@ -51007,12 +51007,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 7078,
         ["kill_count"] = 23,
-        ["points"] = 7863.59,
+        ["points"] = 7864.08,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3622,
+        ["rank_raids"] = 3623,
         ["kill_count"] = 23,
-        ["points"] = 8884.5,
+        ["points"] = 8883.22,
       },
     },
   },
@@ -51049,7 +51049,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4846,
         ["kill_count"] = 20,
-        ["points"] = 8917.1,
+        ["points"] = 8917.34,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2232,
@@ -51106,7 +51106,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1459,
         ["kill_count"] = 2,
-        ["points"] = 9643.45,
+        ["points"] = 9643.53,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8608,
@@ -51121,10 +51121,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1275,
         ["kill_count"] = 2,
-        ["points"] = 9545.3,
+        ["points"] = 9545.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5300,
+        ["rank_raids"] = 5301,
         ["kill_count"] = 5,
         ["points"] = 8482.92,
       },
@@ -51163,7 +51163,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4382,
         ["kill_count"] = 14,
-        ["points"] = 9008.72,
+        ["points"] = 9008.94,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5680,
@@ -51178,10 +51178,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1586,
         ["kill_count"] = 17,
-        ["points"] = 9435.62,
+        ["points"] = 9435.75,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7533,
+        ["rank_raids"] = 7534,
         ["kill_count"] = 13,
         ["points"] = 7960.22,
       },
@@ -51220,7 +51220,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3736,
         ["kill_count"] = 8,
-        ["points"] = 9163.26,
+        ["points"] = 9163.45,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2605,
@@ -51235,10 +51235,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4195,
         ["kill_count"] = 6,
-        ["points"] = 8648.46,
+        ["points"] = 8648.77,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 12619,
+        ["rank_raids"] = 12620,
         ["kill_count"] = 8,
         ["points"] = 6828.15,
       },
@@ -51277,7 +51277,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3965,
         ["kill_count"] = 6,
-        ["points"] = 9111.38,
+        ["points"] = 9111.58,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3124,
@@ -51292,10 +51292,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3289,
         ["kill_count"] = 10,
-        ["points"] = 8948.93,
+        ["points"] = 8949.17,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5763,
+        ["rank_raids"] = 5764,
         ["kill_count"] = 8,
         ["points"] = 8372.0,
       },
@@ -51334,7 +51334,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3645,
         ["kill_count"] = 4,
-        ["points"] = 9180.93,
+        ["points"] = 9181.11,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4071,
@@ -51349,10 +51349,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5161,
         ["kill_count"] = 1,
-        ["points"] = 8377.7,
+        ["points"] = 8378.07,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8264,
+        ["rank_raids"] = 8265,
         ["kill_count"] = 6,
         ["points"] = 7800.87,
       },
@@ -51391,7 +51391,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3855,
         ["kill_count"] = 12,
-        ["points"] = 9133.46,
+        ["points"] = 9133.65,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3458,
@@ -51406,7 +51406,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1379,
         ["kill_count"] = 12,
-        ["points"] = 9505.31,
+        ["points"] = 9505.43,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2944,
@@ -51448,7 +51448,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3594,
         ["kill_count"] = 10,
-        ["points"] = 9193.07,
+        ["points"] = 9193.25,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1897,
@@ -51463,10 +51463,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5663,
         ["kill_count"] = 9,
-        ["points"] = 8233.75,
+        ["points"] = 8234.15,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7117,
+        ["rank_raids"] = 7118,
         ["kill_count"] = 10,
         ["points"] = 8043.09,
       },
@@ -51505,7 +51505,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5308,
         ["kill_count"] = 2,
-        ["points"] = 8822.17,
+        ["points"] = 8822.43,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 14172,
@@ -51520,12 +51520,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1932,
         ["kill_count"] = 1,
-        ["points"] = 9330.52,
+        ["points"] = 9330.67,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3108,
+        ["rank_raids"] = 3109,
         ["kill_count"] = 2,
-        ["points"] = 9015.81,
+        ["points"] = 9014.53,
       },
     },
   },
@@ -51562,7 +51562,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3879,
         ["kill_count"] = 12,
-        ["points"] = 9124.63,
+        ["points"] = 9124.82,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2018,
@@ -51577,10 +51577,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1895,
         ["kill_count"] = 32,
-        ["points"] = 9341.94,
+        ["points"] = 9342.09,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8358,
+        ["rank_raids"] = 8359,
         ["kill_count"] = 9,
         ["points"] = 7772.82,
       },
@@ -51619,7 +51619,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1658,
         ["kill_count"] = 4,
-        ["points"] = 9603.71,
+        ["points"] = 9603.8,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6494,
@@ -51634,7 +51634,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 7727,
         ["kill_count"] = 2,
-        ["points"] = 7679.65,
+        ["points"] = 7680.18,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2471,
@@ -51676,7 +51676,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1146,
         ["kill_count"] = 2,
-        ["points"] = 9711.89,
+        ["points"] = 9711.95,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6908,
@@ -51691,7 +51691,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1950,
         ["kill_count"] = 2,
-        ["points"] = 9323.66,
+        ["points"] = 9323.81,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 148,
@@ -51733,7 +51733,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6053,
         ["kill_count"] = 7,
-        ["points"] = 8657.69,
+        ["points"] = 8657.98,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3274,
@@ -51748,12 +51748,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 12832,
         ["kill_count"] = 4,
-        ["points"] = 6621.73,
+        ["points"] = 6622.5,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3076,
+        ["rank_raids"] = 3077,
         ["kill_count"] = 7,
-        ["points"] = 9027.28,
+        ["points"] = 9026.01,
       },
     },
   },
@@ -51790,7 +51790,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3863,
         ["kill_count"] = 13,
-        ["points"] = 9129.04,
+        ["points"] = 9129.24,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7376,
@@ -51805,10 +51805,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 11872,
         ["kill_count"] = 12,
-        ["points"] = 6788.53,
+        ["points"] = 6789.26,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4775,
+        ["rank_raids"] = 4776,
         ["kill_count"] = 11,
         ["points"] = 8623.15,
       },
@@ -51847,7 +51847,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4873,
         ["kill_count"] = 5,
-        ["points"] = 8911.58,
+        ["points"] = 8911.82,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7195,
@@ -51862,12 +51862,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3381,
         ["kill_count"] = 5,
-        ["points"] = 8924.94,
+        ["points"] = 8925.19,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3789,
+        ["rank_raids"] = 3790,
         ["kill_count"] = 5,
-        ["points"] = 8844.98,
+        ["points"] = 8843.7,
       },
     },
   },
@@ -51904,7 +51904,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 305,
         ["kill_count"] = 4,
-        ["points"] = 9901.76,
+        ["points"] = 9901.78,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3795,
@@ -51961,7 +51961,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4003,
         ["kill_count"] = 18,
-        ["points"] = 9093.72,
+        ["points"] = 9093.92,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5652,
@@ -51976,10 +51976,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 11850,
         ["kill_count"] = 13,
-        ["points"] = 6794.24,
+        ["points"] = 6794.97,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 9139,
+        ["rank_raids"] = 9140,
         ["kill_count"] = 17,
         ["points"] = 7605.81,
       },
@@ -52018,7 +52018,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 9092,
         ["kill_count"] = 5,
-        ["points"] = 7979.91,
+        ["points"] = 7980.36,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 10057,
@@ -52033,7 +52033,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 7137,
         ["kill_count"] = 7,
-        ["points"] = 7845.31,
+        ["points"] = 7845.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1786,
@@ -52075,7 +52075,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4793,
         ["kill_count"] = 9,
-        ["points"] = 8929.24,
+        ["points"] = 8929.48,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9848,
@@ -52090,10 +52090,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2114,
         ["kill_count"] = 6,
-        ["points"] = 9282.53,
+        ["points"] = 9282.7,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 11254,
+        ["rank_raids"] = 11255,
         ["kill_count"] = 7,
         ["points"] = 7127.74,
       },
@@ -52132,7 +52132,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6148,
         ["kill_count"] = 12,
-        ["points"] = 8634.51,
+        ["points"] = 8634.81,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6767,
@@ -52147,12 +52147,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1694,
         ["kill_count"] = 12,
-        ["points"] = 9409.35,
+        ["points"] = 9409.48,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4218,
+        ["rank_raids"] = 4219,
         ["kill_count"] = 12,
-        ["points"] = 8739.16,
+        ["points"] = 8737.89,
       },
     },
   },
@@ -52189,7 +52189,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 18784,
         ["kill_count"] = 8,
-        ["points"] = 6111.05,
+        ["points"] = 6111.91,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9942,
@@ -52204,7 +52204,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3542,
         ["kill_count"] = 15,
-        ["points"] = 8868.96,
+        ["points"] = 8869.22,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2646,
@@ -52246,7 +52246,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4968,
         ["kill_count"] = 6,
-        ["points"] = 8893.92,
+        ["points"] = 8894.16,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3023,
@@ -52261,12 +52261,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4988,
         ["kill_count"] = 5,
-        ["points"] = 8423.4,
+        ["points"] = 8423.76,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3897,
+        ["rank_raids"] = 3898,
         ["kill_count"] = 2,
-        ["points"] = 8825.85,
+        ["points"] = 8824.58,
       },
     },
   },
@@ -52303,7 +52303,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3618,
         ["kill_count"] = 4,
-        ["points"] = 9185.34,
+        ["points"] = 9185.52,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6871,
@@ -52318,12 +52318,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2533,
         ["kill_count"] = 3,
-        ["points"] = 9155.72,
+        ["points"] = 9155.91,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3702,
+        ["rank_raids"] = 3703,
         ["kill_count"] = 1,
-        ["points"] = 8867.92,
+        ["points"] = 8866.65,
       },
     },
   },
@@ -52360,7 +52360,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5837,
         ["kill_count"] = 13,
-        ["points"] = 8693.01,
+        ["points"] = 8693.3,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8564,
@@ -52375,10 +52375,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6302,
         ["kill_count"] = 13,
-        ["points"] = 8057.81,
+        ["points"] = 8058.25,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7502,
+        ["rank_raids"] = 7503,
         ["kill_count"] = 12,
         ["points"] = 7962.77,
       },
@@ -52417,7 +52417,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3110,
         ["kill_count"] = 6,
-        ["points"] = 9292.42,
+        ["points"] = 9292.57,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2907,
@@ -52432,12 +52432,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 15384,
         ["kill_count"] = 2,
-        ["points"] = 6121.33,
+        ["points"] = 6122.22,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3707,
+        ["rank_raids"] = 3708,
         ["kill_count"] = 5,
-        ["points"] = 8866.65,
+        ["points"] = 8865.37,
       },
     },
   },
@@ -52474,7 +52474,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7822,
         ["kill_count"] = 4,
-        ["points"] = 8255.88,
+        ["points"] = 8256.26,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5651,
@@ -52489,10 +52489,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 15908,
         ["kill_count"] = 2,
-        ["points"] = 6031.08,
+        ["points"] = 6031.98,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7860,
+        ["rank_raids"] = 7861,
         ["kill_count"] = 4,
         ["points"] = 7881.18,
       },
@@ -52531,7 +52531,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2566,
         ["kill_count"] = 7,
-        ["points"] = 9401.7,
+        ["points"] = 9401.83,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4672,
@@ -52546,10 +52546,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 587,
         ["kill_count"] = 10,
-        ["points"] = 9794.36,
+        ["points"] = 9794.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8490,
+        ["rank_raids"] = 8491,
         ["kill_count"] = 7,
         ["points"] = 7735.85,
       },
@@ -52588,7 +52588,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4306,
         ["kill_count"] = 9,
-        ["points"] = 9031.9,
+        ["points"] = 9032.12,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2669,
@@ -52603,10 +52603,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 9565,
         ["kill_count"] = 6,
-        ["points"] = 7259.23,
+        ["points"] = 7259.85,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8498,
+        ["rank_raids"] = 8499,
         ["kill_count"] = 7,
         ["points"] = 7733.3,
       },
@@ -52645,7 +52645,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5706,
         ["kill_count"] = 14,
-        ["points"] = 8716.19,
+        ["points"] = 8716.48,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 15832,
@@ -52660,10 +52660,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1212,
         ["kill_count"] = 32,
-        ["points"] = 9568.15,
+        ["points"] = 9568.25,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8110,
+        ["rank_raids"] = 8111,
         ["kill_count"] = 10,
         ["points"] = 7825.09,
       },
@@ -52702,7 +52702,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6026,
         ["kill_count"] = 15,
-        ["points"] = 8667.62,
+        ["points"] = 8667.92,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2376,
@@ -52717,10 +52717,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6907,
         ["kill_count"] = 15,
-        ["points"] = 7904.72,
+        ["points"] = 7905.2,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5654,
+        ["rank_raids"] = 5655,
         ["kill_count"] = 12,
         ["points"] = 8397.5,
       },
@@ -52759,7 +52759,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5836,
         ["kill_count"] = 48,
-        ["points"] = 8694.12,
+        ["points"] = 8694.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4995,
@@ -52774,10 +52774,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5848,
         ["kill_count"] = 49,
-        ["points"] = 8176.63,
+        ["points"] = 8177.04,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7000,
+        ["rank_raids"] = 7001,
         ["kill_count"] = 52,
         ["points"] = 8080.06,
       },
@@ -52816,7 +52816,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4958,
         ["kill_count"] = 6,
-        ["points"] = 8896.13,
+        ["points"] = 8896.37,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4545,
@@ -52831,7 +52831,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5725,
         ["kill_count"] = 5,
-        ["points"] = 8212.04,
+        ["points"] = 8212.45,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1999,
@@ -52873,10 +52873,10 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2774,
         ["kill_count"] = 4,
-        ["points"] = 9357.54,
+        ["points"] = 9357.69,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 39679,
+        ["rank_raids"] = 39680,
         ["kill_count"] = 9,
         ["points"] = 4979.0,
       },
@@ -52888,10 +52888,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2595,
         ["kill_count"] = 4,
-        ["points"] = 9132.87,
+        ["points"] = 9133.07,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7376,
+        ["rank_raids"] = 7377,
         ["kill_count"] = 4,
         ["points"] = 7988.27,
       },
@@ -52930,7 +52930,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5065,
         ["kill_count"] = 10,
-        ["points"] = 8874.05,
+        ["points"] = 8874.3,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3600,
@@ -52945,10 +52945,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5823,
         ["kill_count"] = 5,
-        ["points"] = 8183.48,
+        ["points"] = 8183.89,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6474,
+        ["rank_raids"] = 6475,
         ["kill_count"] = 6,
         ["points"] = 8207.55,
       },
@@ -52987,7 +52987,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2539,
         ["kill_count"] = 4,
-        ["points"] = 9408.32,
+        ["points"] = 9408.45,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 14254,
@@ -53002,10 +53002,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5717,
         ["kill_count"] = 12,
-        ["points"] = 8214.33,
+        ["points"] = 8214.73,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6242,
+        ["rank_raids"] = 6243,
         ["kill_count"] = 5,
         ["points"] = 8253.44,
       },
@@ -53044,7 +53044,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7143,
         ["kill_count"] = 18,
-        ["points"] = 8391.65,
+        ["points"] = 8392.01,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5964,
@@ -53059,12 +53059,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6327,
         ["kill_count"] = 19,
-        ["points"] = 8052.1,
+        ["points"] = 8052.54,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3946,
+        ["rank_raids"] = 3947,
         ["kill_count"] = 20,
-        ["points"] = 8814.38,
+        ["points"] = 8813.11,
       },
     },
   },
@@ -53101,7 +53101,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6215,
         ["kill_count"] = 14,
-        ["points"] = 8615.74,
+        ["points"] = 8616.05,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3451,
@@ -53116,10 +53116,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 13109,
         ["kill_count"] = 5,
-        ["points"] = 6569.18,
+        ["points"] = 6569.96,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7139,
+        ["rank_raids"] = 7140,
         ["kill_count"] = 17,
         ["points"] = 8032.89,
       },
@@ -53158,7 +53158,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 10045,
         ["kill_count"] = 7,
-        ["points"] = 7766.86,
+        ["points"] = 7767.35,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2640,
@@ -53173,10 +53173,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3584,
         ["kill_count"] = 7,
-        ["points"] = 8856.39,
+        ["points"] = 8856.65,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4840,
+        ["rank_raids"] = 4841,
         ["kill_count"] = 7,
         ["points"] = 8601.48,
       },
@@ -53215,7 +53215,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1724,
         ["kill_count"] = 3,
-        ["points"] = 9591.57,
+        ["points"] = 9591.66,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5509,
@@ -53230,7 +53230,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5645,
         ["kill_count"] = 19,
-        ["points"] = 8237.18,
+        ["points"] = 8237.58,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2282,
@@ -53272,7 +53272,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2318,
         ["kill_count"] = 5,
-        ["points"] = 9456.89,
+        ["points"] = 9457.01,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6634,
@@ -53287,7 +53287,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4691,
         ["kill_count"] = 13,
-        ["points"] = 8505.66,
+        ["points"] = 8506.0,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2331,
@@ -53329,7 +53329,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5753,
         ["kill_count"] = 46,
-        ["points"] = 8705.16,
+        ["points"] = 8705.44,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1136,
@@ -53344,7 +53344,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 7134,
         ["kill_count"] = 47,
-        ["points"] = 7846.45,
+        ["points"] = 7846.94,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1884,
@@ -53354,7 +53354,7 @@ UWULogsData[4][3] = {
     },
   },
   ["Celebration"] = {
-    ["percentile"] = 86.04,
+    ["percentile"] = 86.05,
     ["server"] = "Icecrown",
     ["overall_rank"] = 944,
     ["bosses"] = {
@@ -53386,7 +53386,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1433,
         ["kill_count"] = 2,
-        ["points"] = 9646.76,
+        ["points"] = 9646.84,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 11932,
@@ -53401,7 +53401,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 9530,
         ["kill_count"] = 2,
-        ["points"] = 7264.94,
+        ["points"] = 7265.56,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1197,
@@ -53443,7 +53443,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1988,
         ["kill_count"] = 4,
-        ["points"] = 9529.75,
+        ["points"] = 9529.85,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5534,
@@ -53458,10 +53458,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2155,
         ["kill_count"] = 5,
-        ["points"] = 9272.25,
+        ["points"] = 9272.42,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6995,
+        ["rank_raids"] = 6996,
         ["kill_count"] = 5,
         ["points"] = 8083.89,
       },
@@ -53500,7 +53500,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7775,
         ["kill_count"] = 3,
-        ["points"] = 8264.71,
+        ["points"] = 8265.09,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5679,
@@ -53515,10 +53515,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 788,
         ["kill_count"] = 4,
-        ["points"] = 9715.53,
+        ["points"] = 9715.59,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4351,
+        ["rank_raids"] = 4352,
         ["kill_count"] = 4,
         ["points"] = 8704.74,
       },
@@ -53557,7 +53557,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5949,
         ["kill_count"] = 23,
-        ["points"] = 8673.14,
+        ["points"] = 8673.44,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5877,
@@ -53572,17 +53572,17 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5580,
         ["kill_count"] = 21,
-        ["points"] = 8257.74,
+        ["points"] = 8258.14,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6705,
+        ["rank_raids"] = 6706,
         ["kill_count"] = 21,
         ["points"] = 8159.1,
       },
     },
   },
   ["Hiimsaul"] = {
-    ["percentile"] = 86.01,
+    ["percentile"] = 86.02,
     ["server"] = "Icecrown",
     ["overall_rank"] = 948,
     ["bosses"] = {
@@ -53614,7 +53614,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 10537,
         ["kill_count"] = 20,
-        ["points"] = 7674.14,
+        ["points"] = 7674.65,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6006,
@@ -53629,10 +53629,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 9292,
         ["kill_count"] = 14,
-        ["points"] = 7316.35,
+        ["points"] = 7316.96,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4495,
+        ["rank_raids"] = 4496,
         ["kill_count"] = 20,
         ["points"] = 8677.97,
       },
@@ -53671,7 +53671,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2952,
         ["kill_count"] = 10,
-        ["points"] = 9316.7,
+        ["points"] = 9316.85,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1445,
@@ -53686,10 +53686,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5222,
         ["kill_count"] = 12,
-        ["points"] = 8358.28,
+        ["points"] = 8358.65,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7396,
+        ["rank_raids"] = 7397,
         ["kill_count"] = 11,
         ["points"] = 7985.72,
       },
@@ -53728,7 +53728,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 10728,
         ["kill_count"] = 8,
-        ["points"] = 7625.57,
+        ["points"] = 7626.09,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6539,
@@ -53743,7 +53743,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 11166,
         ["kill_count"] = 10,
-        ["points"] = 6929.05,
+        ["points"] = 6929.75,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2350,
@@ -53785,7 +53785,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 15524,
         ["kill_count"] = 19,
-        ["points"] = 6724.8,
+        ["points"] = 6725.53,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 14030,
@@ -53800,10 +53800,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3586,
         ["kill_count"] = 13,
-        ["points"] = 8854.11,
+        ["points"] = 8854.37,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6631,
+        ["rank_raids"] = 6632,
         ["kill_count"] = 16,
         ["points"] = 8171.85,
       },
@@ -53842,7 +53842,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6521,
         ["kill_count"] = 3,
-        ["points"] = 8543.99,
+        ["points"] = 8544.31,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 11149,
@@ -53857,7 +53857,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5952,
         ["kill_count"] = 1,
-        ["points"] = 8153.78,
+        ["points"] = 8154.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2603,
@@ -53899,7 +53899,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 10766,
         ["kill_count"] = 12,
-        ["points"] = 7612.32,
+        ["points"] = 7612.85,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6912,
@@ -53914,7 +53914,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4928,
         ["kill_count"] = 12,
-        ["points"] = 8437.11,
+        ["points"] = 8437.46,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1230,
@@ -53956,7 +53956,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5179,
         ["kill_count"] = 22,
-        ["points"] = 8856.39,
+        ["points"] = 8856.64,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2848,
@@ -53971,12 +53971,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3440,
         ["kill_count"] = 22,
-        ["points"] = 8904.38,
+        ["points"] = 8904.63,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3869,
+        ["rank_raids"] = 3870,
         ["kill_count"] = 20,
-        ["points"] = 8830.95,
+        ["points"] = 8829.68,
       },
     },
   },
@@ -54013,7 +54013,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 9746,
         ["kill_count"] = 7,
-        ["points"] = 7837.51,
+        ["points"] = 7837.99,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3535,
@@ -54028,10 +54028,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 11088,
         ["kill_count"] = 7,
-        ["points"] = 6942.76,
+        ["points"] = 6943.46,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5098,
+        ["rank_raids"] = 5099,
         ["kill_count"] = 7,
         ["points"] = 8531.36,
       },
@@ -54070,7 +54070,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3746,
         ["kill_count"] = 11,
-        ["points"] = 9159.95,
+        ["points"] = 9160.14,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4154,
@@ -54085,17 +54085,17 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 8874,
         ["kill_count"] = 9,
-        ["points"] = 7403.18,
+        ["points"] = 7403.77,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 10505,
+        ["rank_raids"] = 10506,
         ["kill_count"] = 15,
         ["points"] = 7297.3,
       },
     },
   },
   ["Caelicola"] = {
-    ["percentile"] = 85.92,
+    ["percentile"] = 85.93,
     ["server"] = "Icecrown",
     ["overall_rank"] = 957,
     ["bosses"] = {
@@ -54127,7 +54127,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 10683,
         ["kill_count"] = 2,
-        ["points"] = 7638.81,
+        ["points"] = 7639.33,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 29140,
@@ -54142,7 +54142,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5138,
         ["kill_count"] = 3,
-        ["points"] = 8383.41,
+        ["points"] = 8383.78,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2152,
@@ -54184,7 +54184,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8409,
         ["kill_count"] = 6,
-        ["points"] = 8146.59,
+        ["points"] = 8147.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9100,
@@ -54199,10 +54199,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1727,
         ["kill_count"] = 6,
-        ["points"] = 9396.78,
+        ["points"] = 9396.92,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 11454,
+        ["rank_raids"] = 11455,
         ["kill_count"] = 4,
         ["points"] = 7086.95,
       },
@@ -54241,7 +54241,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 11417,
         ["kill_count"] = 19,
-        ["points"] = 7497.52,
+        ["points"] = 7498.07,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5074,
@@ -54256,10 +54256,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1168,
         ["kill_count"] = 17,
-        ["points"] = 9592.14,
+        ["points"] = 9592.23,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6714,
+        ["rank_raids"] = 6715,
         ["kill_count"] = 17,
         ["points"] = 8156.55,
       },
@@ -54298,7 +54298,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 15073,
         ["kill_count"] = 30,
-        ["points"] = 6819.74,
+        ["points"] = 6820.44,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4885,
@@ -54313,10 +54313,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4970,
         ["kill_count"] = 26,
-        ["points"] = 8427.97,
+        ["points"] = 8428.33,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 9510,
+        ["rank_raids"] = 9511,
         ["kill_count"] = 21,
         ["points"] = 7511.47,
       },
@@ -54355,7 +54355,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7765,
         ["kill_count"] = 7,
-        ["points"] = 8269.12,
+        ["points"] = 8269.51,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 13908,
@@ -54370,12 +54370,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4272,
         ["kill_count"] = 5,
-        ["points"] = 8627.9,
+        ["points"] = 8628.21,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3766,
+        ["rank_raids"] = 3767,
         ["kill_count"] = 5,
-        ["points"] = 8851.35,
+        ["points"] = 8850.08,
       },
     },
   },
@@ -54412,7 +54412,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 8996,
         ["kill_count"] = 8,
-        ["points"] = 8005.3,
+        ["points"] = 8005.74,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7676,
@@ -54427,10 +54427,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4072,
         ["kill_count"] = 3,
-        ["points"] = 8678.17,
+        ["points"] = 8678.47,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7569,
+        ["rank_raids"] = 7570,
         ["kill_count"] = 6,
         ["points"] = 7948.75,
       },
@@ -54469,7 +54469,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1665,
         ["kill_count"] = 13,
-        ["points"] = 9601.5,
+        ["points"] = 9601.59,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5192,
@@ -54484,10 +54484,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 14866,
         ["kill_count"] = 12,
-        ["points"] = 6228.72,
+        ["points"] = 6229.58,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6040,
+        ["rank_raids"] = 6041,
         ["kill_count"] = 12,
         ["points"] = 8300.61,
       },
@@ -54526,7 +54526,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 9564,
         ["kill_count"] = 7,
-        ["points"] = 7875.04,
+        ["points"] = 7875.51,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3657,
@@ -54541,10 +54541,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2873,
         ["kill_count"] = 7,
-        ["points"] = 9049.47,
+        ["points"] = 9049.69,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6534,
+        ["rank_raids"] = 6535,
         ["kill_count"] = 6,
         ["points"] = 8192.25,
       },
@@ -54583,7 +54583,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7135,
         ["kill_count"] = 27,
-        ["points"] = 8393.86,
+        ["points"] = 8394.22,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4224,
@@ -54598,12 +54598,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4308,
         ["kill_count"] = 27,
-        ["points"] = 8618.76,
+        ["points"] = 8619.07,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3618,
+        ["rank_raids"] = 3619,
         ["kill_count"] = 25,
-        ["points"] = 8885.77,
+        ["points"] = 8884.5,
       },
     },
   },
@@ -54640,7 +54640,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5229,
         ["kill_count"] = 6,
-        ["points"] = 8840.93,
+        ["points"] = 8841.19,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 11284,
@@ -54655,12 +54655,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 823,
         ["kill_count"] = 9,
-        ["points"] = 9704.1,
+        ["points"] = 9704.17,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3693,
+        ["rank_raids"] = 3694,
         ["kill_count"] = 9,
-        ["points"] = 8871.75,
+        ["points"] = 8870.47,
       },
     },
   },
@@ -54697,7 +54697,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2005,
         ["kill_count"] = 10,
-        ["points"] = 9525.33,
+        ["points"] = 9525.44,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2949,
@@ -54712,10 +54712,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1049,
         ["kill_count"] = 10,
-        ["points"] = 9633.27,
+        ["points"] = 9633.35,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5992,
+        ["rank_raids"] = 5993,
         ["kill_count"] = 8,
         ["points"] = 8310.81,
       },
@@ -54754,7 +54754,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6138,
         ["kill_count"] = 9,
-        ["points"] = 8636.71,
+        ["points"] = 8637.02,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8133,
@@ -54769,12 +54769,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2226,
         ["kill_count"] = 9,
-        ["points"] = 9257.4,
+        ["points"] = 9257.57,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3896,
+        ["rank_raids"] = 3897,
         ["kill_count"] = 9,
-        ["points"] = 8827.13,
+        ["points"] = 8825.85,
       },
     },
   },
@@ -54811,7 +54811,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4046,
         ["kill_count"] = 21,
-        ["points"] = 9082.68,
+        ["points"] = 9082.88,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4925,
@@ -54826,10 +54826,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1939,
         ["kill_count"] = 20,
-        ["points"] = 9328.23,
+        ["points"] = 9328.38,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 13931,
+        ["rank_raids"] = 13932,
         ["kill_count"] = 16,
         ["points"] = 6711.6,
       },
@@ -54868,7 +54868,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 14029,
         ["kill_count"] = 5,
-        ["points"] = 7010.71,
+        ["points"] = 7011.37,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3902,
@@ -54883,7 +54883,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 7180,
         ["kill_count"] = 7,
-        ["points"] = 7836.17,
+        ["points"] = 7836.66,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2999,
@@ -54925,7 +54925,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 9293,
         ["kill_count"] = 34,
-        ["points"] = 7937.96,
+        ["points"] = 7938.42,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6985,
@@ -54940,10 +54940,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2674,
         ["kill_count"] = 59,
-        ["points"] = 9108.88,
+        ["points"] = 9109.08,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6811,
+        ["rank_raids"] = 6812,
         ["kill_count"] = 33,
         ["points"] = 8136.16,
       },
@@ -54982,7 +54982,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6547,
         ["kill_count"] = 20,
-        ["points"] = 8536.26,
+        ["points"] = 8536.59,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1700,
@@ -54997,10 +54997,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3446,
         ["kill_count"] = 19,
-        ["points"] = 8902.09,
+        ["points"] = 8902.34,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6237,
+        ["rank_raids"] = 6238,
         ["kill_count"] = 17,
         ["points"] = 8255.99,
       },
@@ -55039,7 +55039,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5888,
         ["kill_count"] = 10,
-        ["points"] = 8685.29,
+        ["points"] = 8685.58,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6832,
@@ -55054,10 +55054,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2439,
         ["kill_count"] = 7,
-        ["points"] = 9189.99,
+        ["points"] = 9190.18,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 12720,
+        ["rank_raids"] = 12721,
         ["kill_count"] = 5,
         ["points"] = 6810.3,
       },
@@ -55096,7 +55096,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3531,
         ["kill_count"] = 18,
-        ["points"] = 9206.31,
+        ["points"] = 9206.49,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4174,
@@ -55111,17 +55111,17 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3792,
         ["kill_count"] = 18,
-        ["points"] = 8780.99,
+        ["points"] = 8781.27,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8761,
+        ["rank_raids"] = 8762,
         ["kill_count"] = 16,
         ["points"] = 7674.66,
       },
     },
   },
   ["Shakebubble"] = {
-    ["percentile"] = 85.64,
+    ["percentile"] = 85.65,
     ["server"] = "Icecrown",
     ["overall_rank"] = 975,
     ["bosses"] = {
@@ -55153,7 +55153,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4615,
         ["kill_count"] = 17,
-        ["points"] = 8966.77,
+        ["points"] = 8967.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9738,
@@ -55168,17 +55168,17 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6352,
         ["kill_count"] = 14,
-        ["points"] = 8045.24,
+        ["points"] = 8045.69,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4869,
+        ["rank_raids"] = 4870,
         ["kill_count"] = 13,
         ["points"] = 8595.1,
       },
     },
   },
   ["Vacancy"] = {
-    ["percentile"] = 85.64,
+    ["percentile"] = 85.65,
     ["server"] = "Icecrown",
     ["overall_rank"] = 976,
     ["bosses"] = {
@@ -55210,7 +55210,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3801,
         ["kill_count"] = 7,
-        ["points"] = 9143.39,
+        ["points"] = 9143.58,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 11918,
@@ -55225,7 +55225,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1989,
         ["kill_count"] = 5,
-        ["points"] = 9312.24,
+        ["points"] = 9312.39,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1238,
@@ -55267,7 +55267,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2066,
         ["kill_count"] = 20,
-        ["points"] = 9507.67,
+        ["points"] = 9507.78,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 12245,
@@ -55282,10 +55282,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3903,
         ["kill_count"] = 21,
-        ["points"] = 8743.29,
+        ["points"] = 8743.58,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5448,
+        ["rank_raids"] = 5449,
         ["kill_count"] = 20,
         ["points"] = 8447.22,
       },
@@ -55324,7 +55324,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4691,
         ["kill_count"] = 8,
-        ["points"] = 8952.42,
+        ["points"] = 8952.65,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2211,
@@ -55339,10 +55339,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 13022,
         ["kill_count"] = 6,
-        ["points"] = 6589.74,
+        ["points"] = 6590.52,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6383,
+        ["rank_raids"] = 6384,
         ["kill_count"] = 7,
         ["points"] = 8222.85,
       },
@@ -55381,7 +55381,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 1333,
         ["kill_count"] = 3,
-        ["points"] = 9669.94,
+        ["points"] = 9670.01,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3513,
@@ -55399,9 +55399,9 @@ UWULogsData[4][3] = {
         ["points"] = 5738.1,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3748,
+        ["rank_raids"] = 3749,
         ["kill_count"] = 3,
-        ["points"] = 8855.18,
+        ["points"] = 8853.9,
       },
     },
   },
@@ -55438,7 +55438,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 13591,
         ["kill_count"] = 9,
-        ["points"] = 7095.71,
+        ["points"] = 7096.35,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1738,
@@ -55453,10 +55453,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5544,
         ["kill_count"] = 8,
-        ["points"] = 8266.88,
+        ["points"] = 8267.28,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4597,
+        ["rank_raids"] = 4598,
         ["kill_count"] = 9,
         ["points"] = 8662.67,
       },
@@ -55495,7 +55495,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7955,
         ["kill_count"] = 6,
-        ["points"] = 8230.49,
+        ["points"] = 8230.88,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8790,
@@ -55510,10 +55510,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1714,
         ["kill_count"] = 5,
-        ["points"] = 9401.35,
+        ["points"] = 9401.48,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6878,
+        ["rank_raids"] = 6879,
         ["kill_count"] = 7,
         ["points"] = 8120.86,
       },
@@ -55552,7 +55552,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4920,
         ["kill_count"] = 8,
-        ["points"] = 8900.54,
+        ["points"] = 8900.78,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3632,
@@ -55567,12 +55567,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 8819,
         ["kill_count"] = 8,
-        ["points"] = 7420.31,
+        ["points"] = 7420.9,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4079,
+        ["rank_raids"] = 4080,
         ["kill_count"] = 8,
-        ["points"] = 8778.68,
+        ["points"] = 8777.41,
       },
     },
   },
@@ -55609,7 +55609,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5671,
         ["kill_count"] = 7,
-        ["points"] = 8727.23,
+        ["points"] = 8727.51,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1576,
@@ -55624,7 +55624,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5538,
         ["kill_count"] = 4,
-        ["points"] = 8269.16,
+        ["points"] = 8269.56,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2552,
@@ -55666,7 +55666,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5056,
         ["kill_count"] = 11,
-        ["points"] = 8875.15,
+        ["points"] = 8875.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6508,
@@ -55681,10 +55681,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 9722,
         ["kill_count"] = 22,
-        ["points"] = 7235.23,
+        ["points"] = 7235.87,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4791,
+        ["rank_raids"] = 4792,
         ["kill_count"] = 14,
         ["points"] = 8618.05,
       },
@@ -55723,7 +55723,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 2962,
         ["kill_count"] = 12,
-        ["points"] = 9313.39,
+        ["points"] = 9313.54,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2470,
@@ -55738,12 +55738,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1202,
         ["kill_count"] = 11,
-        ["points"] = 9575.0,
+        ["points"] = 9575.1,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3250,
+        ["rank_raids"] = 3251,
         ["kill_count"] = 9,
-        ["points"] = 8983.94,
+        ["points"] = 8982.66,
       },
     },
   },
@@ -55780,7 +55780,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6794,
         ["kill_count"] = 5,
-        ["points"] = 8477.76,
+        ["points"] = 8478.09,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6513,
@@ -55795,7 +55795,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 11471,
         ["kill_count"] = 5,
-        ["points"] = 6867.36,
+        ["points"] = 6868.08,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1674,
@@ -55837,7 +55837,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 5905,
         ["kill_count"] = 4,
-        ["points"] = 8683.08,
+        ["points"] = 8683.37,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2200,
@@ -55852,10 +55852,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3094,
         ["kill_count"] = 3,
-        ["points"] = 8984.35,
+        ["points"] = 8984.58,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8595,
+        ["rank_raids"] = 8596,
         ["kill_count"] = 2,
         ["points"] = 7706.53,
       },
@@ -55894,7 +55894,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4298,
         ["kill_count"] = 16,
-        ["points"] = 9034.11,
+        ["points"] = 9034.32,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 14737,
@@ -55909,10 +55909,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6287,
         ["kill_count"] = 17,
-        ["points"] = 8061.24,
+        ["points"] = 8061.68,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7127,
+        ["rank_raids"] = 7128,
         ["kill_count"] = 14,
         ["points"] = 8037.99,
       },
@@ -55951,7 +55951,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6718,
         ["kill_count"] = 8,
-        ["points"] = 8493.21,
+        ["points"] = 8493.54,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6462,
@@ -55966,10 +55966,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5694,
         ["kill_count"] = 8,
-        ["points"] = 8225.75,
+        ["points"] = 8226.16,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 11384,
+        ["rank_raids"] = 11385,
         ["kill_count"] = 8,
         ["points"] = 7104.79,
       },
@@ -56008,7 +56008,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3573,
         ["kill_count"] = 14,
-        ["points"] = 9200.79,
+        ["points"] = 9200.97,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 14823,
@@ -56023,7 +56023,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 16567,
         ["kill_count"] = 9,
-        ["points"] = 5912.26,
+        ["points"] = 5913.19,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 594,
@@ -56065,7 +56065,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7027,
         ["kill_count"] = 16,
-        ["points"] = 8422.56,
+        ["points"] = 8422.91,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3749,
@@ -56080,10 +56080,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6458,
         ["kill_count"] = 9,
-        ["points"] = 8023.53,
+        ["points"] = 8023.99,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 23002,
+        ["rank_raids"] = 23003,
         ["kill_count"] = 2,
         ["points"] = 6074.95,
       },
@@ -56122,7 +56122,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4000,
         ["kill_count"] = 10,
-        ["points"] = 9095.93,
+        ["points"] = 9096.13,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6797,
@@ -56137,10 +56137,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 12621,
         ["kill_count"] = 6,
-        ["points"] = 6670.86,
+        ["points"] = 6671.62,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5047,
+        ["rank_raids"] = 5048,
         ["kill_count"] = 6,
         ["points"] = 8542.84,
       },
@@ -56179,7 +56179,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4867,
         ["kill_count"] = 1,
-        ["points"] = 8912.68,
+        ["points"] = 8912.92,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7856,
@@ -56194,10 +56194,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3572,
         ["kill_count"] = 1,
-        ["points"] = 8859.82,
+        ["points"] = 8860.08,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4966,
+        ["rank_raids"] = 4967,
         ["kill_count"] = 1,
         ["points"] = 8567.06,
       },
@@ -56236,7 +56236,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3158,
         ["kill_count"] = 6,
-        ["points"] = 9278.07,
+        ["points"] = 9278.23,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2327,
@@ -56251,10 +56251,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 9641,
         ["kill_count"] = 6,
-        ["points"] = 7247.8,
+        ["points"] = 7248.43,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4794,
+        ["rank_raids"] = 4795,
         ["kill_count"] = 7,
         ["points"] = 8616.78,
       },
@@ -56293,7 +56293,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3358,
         ["kill_count"] = 3,
-        ["points"] = 9244.95,
+        ["points"] = 9245.12,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 892,
@@ -56308,10 +56308,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 810,
         ["kill_count"] = 6,
-        ["points"] = 9712.1,
+        ["points"] = 9712.16,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6537,
+        ["rank_raids"] = 6538,
         ["kill_count"] = 5,
         ["points"] = 8190.97,
       },
@@ -56350,7 +56350,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3388,
         ["kill_count"] = 17,
-        ["points"] = 9239.43,
+        ["points"] = 9239.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5973,
@@ -56368,7 +56368,7 @@ UWULogsData[4][3] = {
         ["points"] = 5418.8,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5402,
+        ["rank_raids"] = 5403,
         ["kill_count"] = 16,
         ["points"] = 8458.69,
       },
@@ -56407,7 +56407,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7317,
         ["kill_count"] = 5,
-        ["points"] = 8360.75,
+        ["points"] = 8361.11,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8771,
@@ -56422,7 +56422,7 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 3040,
         ["kill_count"] = 5,
-        ["points"] = 8999.2,
+        ["points"] = 8999.43,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 552,
@@ -56464,7 +56464,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 6791,
         ["kill_count"] = 25,
-        ["points"] = 8478.86,
+        ["points"] = 8479.2,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 12350,
@@ -56479,12 +56479,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4598,
         ["kill_count"] = 20,
-        ["points"] = 8535.36,
+        ["points"] = 8535.69,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 3722,
+        ["rank_raids"] = 3723,
         ["kill_count"] = 21,
-        ["points"] = 8860.28,
+        ["points"] = 8859.0,
       },
     },
   },
@@ -56521,7 +56521,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 4320,
         ["kill_count"] = 15,
-        ["points"] = 9029.69,
+        ["points"] = 9029.91,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3119,
@@ -56536,12 +56536,12 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6882,
         ["kill_count"] = 15,
-        ["points"] = 7913.86,
+        ["points"] = 7914.33,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4246,
+        ["rank_raids"] = 4247,
         ["kill_count"] = 16,
-        ["points"] = 8734.06,
+        ["points"] = 8732.79,
       },
     },
   },
@@ -56578,7 +56578,7 @@ UWULogsData[4][3] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 3972,
         ["kill_count"] = 10,
-        ["points"] = 9106.97,
+        ["points"] = 9107.16,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 9095,
@@ -56593,10 +56593,10 @@ UWULogsData[4][3] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 1397,
         ["kill_count"] = 7,
-        ["points"] = 9497.32,
+        ["points"] = 9497.43,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8942,
+        ["rank_raids"] = 8943,
         ["kill_count"] = 5,
         ["points"] = 7637.68,
       },

@@ -5358,14 +5358,14 @@ UWULogsData[9][1] = {
         ["points"] = 6510.3,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 2050,
+        ["rank_raids"] = 2051,
         ["kill_count"] = 3,
-        ["points"] = 8936.0,
+        ["points"] = 8935.7,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 1976,
+        ["rank_raids"] = 1977,
         ["kill_count"] = 4,
-        ["points"] = 8960.6,
+        ["points"] = 8960.2,
       },
     },
   },

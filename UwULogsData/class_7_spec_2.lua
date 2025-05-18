@@ -18515,7 +18515,7 @@ UWULogsData[7][2] = {
     ["overall_rank"] = 4916,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 38260,
+        ["rank_raids"] = 38261,
         ["kill_count"] = 7,
         ["points"] = 5727.95,
       },
@@ -18555,12 +18555,12 @@ UWULogsData[7][2] = {
         ["points"] = 6191.9,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 27547,
+        ["rank_raids"] = 27548,
         ["kill_count"] = 2,
         ["points"] = 5374.42,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 42642,
+        ["rank_raids"] = 42644,
         ["kill_count"] = 3,
         ["points"] = 5059.41,
       },
@@ -42804,9 +42804,9 @@ UWULogsData[7][2] = {
     ["overall_rank"] = 2972,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 22629,
+        ["rank_raids"] = 22631,
         ["kill_count"] = 2,
-        ["points"] = 5288.1,
+        ["points"] = 5287.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6889,
@@ -42814,19 +42814,19 @@ UWULogsData[7][2] = {
         ["points"] = 7484.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 19616,
+        ["rank_raids"] = 19617,
         ["kill_count"] = 3,
-        ["points"] = 5589.4,
+        ["points"] = 5589.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5855,
+        ["rank_raids"] = 5856,
         ["kill_count"] = 3,
-        ["points"] = 7794.5,
+        ["points"] = 7794.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 11649,
+        ["rank_raids"] = 11651,
         ["kill_count"] = 3,
-        ["points"] = 6386.1,
+        ["points"] = 6385.9,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7047,
@@ -42839,9 +42839,9 @@ UWULogsData[7][2] = {
         ["points"] = 5300.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7091,
+        ["rank_raids"] = 7092,
         ["kill_count"] = 2,
-        ["points"] = 7423.7,
+        ["points"] = 7423.4,
       },
     },
   },

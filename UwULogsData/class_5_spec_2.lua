@@ -9526,7 +9526,7 @@ UWULogsData[5][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7604,
         ["kill_count"] = 11,
-        ["points"] = 8626.56,
+        ["points"] = 8626.86,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4267,
@@ -9544,7 +9544,7 @@ UWULogsData[5][2] = {
         ["points"] = 9755.39,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 18894,
+        ["rank_raids"] = 18895,
         ["kill_count"] = 9,
         ["points"] = 6469.52,
       },
