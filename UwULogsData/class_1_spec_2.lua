@@ -309,7 +309,7 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 57,
         ["kill_count"] = 63,
-        ["points"] = 9949.85,
+        ["points"] = 9949.87,
       },
       ["Rotface"] = {
         ["rank_raids"] = 17,
@@ -366,7 +366,7 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 52,
         ["kill_count"] = 64,
-        ["points"] = 9951.58,
+        ["points"] = 9951.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 32,
@@ -522,7 +522,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 56,
         ["kill_count"] = 41,
-        ["points"] = 9952.82,
+        ["points"] = 9952.84,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 12,
@@ -594,7 +594,7 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 91,
         ["kill_count"] = 30,
-        ["points"] = 9922.19,
+        ["points"] = 9922.21,
       },
       ["Rotface"] = {
         ["rank_raids"] = 10,
@@ -636,7 +636,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 166,
         ["kill_count"] = 42,
-        ["points"] = 9872.44,
+        ["points"] = 9872.49,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 84,
@@ -651,7 +651,7 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 73,
         ["kill_count"] = 40,
-        ["points"] = 9937.75,
+        ["points"] = 9937.77,
       },
       ["Rotface"] = {
         ["rank_raids"] = 61,
@@ -693,7 +693,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 190,
         ["kill_count"] = 48,
-        ["points"] = 9853.22,
+        ["points"] = 9853.28,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 29,
@@ -708,7 +708,7 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 194,
         ["kill_count"] = 58,
-        ["points"] = 9830.54,
+        ["points"] = 9830.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3,
@@ -750,7 +750,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 105,
         ["kill_count"] = 33,
-        ["points"] = 9917.88,
+        ["points"] = 9917.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 21,
@@ -760,12 +760,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 127,
         ["kill_count"] = 36,
-        ["points"] = 9886.29,
+        ["points"] = 9886.3,
       },
       ["Festergut"] = {
         ["rank_raids"] = 41,
         ["kill_count"] = 36,
-        ["points"] = 9960.23,
+        ["points"] = 9960.24,
       },
       ["Rotface"] = {
         ["rank_raids"] = 69,
@@ -864,7 +864,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 85,
         ["kill_count"] = 53,
-        ["points"] = 9931.85,
+        ["points"] = 9931.88,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 38,
@@ -914,7 +914,7 @@ UWULogsData[1][2] = {
     },
   },
   ["Joaquinferal"] = {
-    ["percentile"] = 99.38,
+    ["percentile"] = 99.39,
     ["server"] = "Icecrown",
     ["overall_rank"] = 17,
     ["bosses"] = {
@@ -931,12 +931,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 151,
         ["kill_count"] = 43,
-        ["points"] = 9872.5,
+        ["points"] = 9872.52,
       },
       ["Festergut"] = {
         ["rank_raids"] = 162,
         ["kill_count"] = 43,
-        ["points"] = 9861.66,
+        ["points"] = 9861.71,
       },
       ["Rotface"] = {
         ["rank_raids"] = 15,
@@ -978,7 +978,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 387,
         ["kill_count"] = 38,
-        ["points"] = 9748.38,
+        ["points"] = 9748.47,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6,
@@ -988,12 +988,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 178,
         ["kill_count"] = 37,
-        ["points"] = 9846.66,
+        ["points"] = 9846.68,
       },
       ["Festergut"] = {
         ["rank_raids"] = 176,
         ["kill_count"] = 37,
-        ["points"] = 9846.1,
+        ["points"] = 9846.15,
       },
       ["Rotface"] = {
         ["rank_raids"] = 6,
@@ -1035,7 +1035,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 62,
         ["kill_count"] = 34,
-        ["points"] = 9949.33,
+        ["points"] = 9949.34,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 425,
@@ -1102,7 +1102,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 330,
         ["kill_count"] = 15,
-        ["points"] = 9753.62,
+        ["points"] = 9753.66,
       },
       ["Festergut"] = {
         ["rank_raids"] = 29,
@@ -1149,7 +1149,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 46,
         ["kill_count"] = 35,
-        ["points"] = 9961.56,
+        ["points"] = 9961.57,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 32,
@@ -1206,7 +1206,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 132,
         ["kill_count"] = 19,
-        ["points"] = 9896.91,
+        ["points"] = 9896.94,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 23,
@@ -1216,17 +1216,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 92,
         ["kill_count"] = 19,
-        ["points"] = 9912.13,
+        ["points"] = 9912.14,
       },
       ["Festergut"] = {
         ["rank_raids"] = 143,
         ["kill_count"] = 19,
-        ["points"] = 9875.5,
+        ["points"] = 9875.54,
       },
       ["Rotface"] = {
         ["rank_raids"] = 189,
         ["kill_count"] = 19,
-        ["points"] = 9826.72,
+        ["points"] = 9826.75,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 37,
@@ -1263,7 +1263,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 64,
         ["kill_count"] = 37,
-        ["points"] = 9945.83,
+        ["points"] = 9945.85,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 56,
@@ -1273,12 +1273,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 119,
         ["kill_count"] = 38,
-        ["points"] = 9891.45,
+        ["points"] = 9891.47,
       },
       ["Festergut"] = {
         ["rank_raids"] = 136,
         ["kill_count"] = 38,
-        ["points"] = 9885.87,
+        ["points"] = 9885.91,
       },
       ["Rotface"] = {
         ["rank_raids"] = 29,
@@ -1320,7 +1320,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 47,
         ["kill_count"] = 38,
-        ["points"] = 9959.81,
+        ["points"] = 9959.83,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 34,
@@ -1330,17 +1330,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 254,
         ["kill_count"] = 39,
-        ["points"] = 9794.97,
+        ["points"] = 9795.0,
       },
       ["Festergut"] = {
         ["rank_raids"] = 58,
         ["kill_count"] = 41,
-        ["points"] = 9948.12,
+        ["points"] = 9948.14,
       },
       ["Rotface"] = {
         ["rank_raids"] = 238,
         ["kill_count"] = 41,
-        ["points"] = 9797.26,
+        ["points"] = 9797.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 105,
@@ -1377,7 +1377,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 63,
         ["kill_count"] = 35,
-        ["points"] = 9947.58,
+        ["points"] = 9947.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 79,
@@ -1392,7 +1392,7 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 369,
         ["kill_count"] = 36,
-        ["points"] = 9711.22,
+        ["points"] = 9711.32,
       },
       ["Rotface"] = {
         ["rank_raids"] = 95,
@@ -1434,7 +1434,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 137,
         ["kill_count"] = 20,
-        ["points"] = 9891.67,
+        ["points"] = 9891.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 8,
@@ -1449,7 +1449,7 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 98,
         ["kill_count"] = 21,
-        ["points"] = 9911.81,
+        ["points"] = 9911.84,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2,
@@ -1491,7 +1491,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 167,
         ["kill_count"] = 43,
-        ["points"] = 9870.7,
+        ["points"] = 9870.74,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 37,
@@ -1501,17 +1501,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 120,
         ["kill_count"] = 45,
-        ["points"] = 9889.73,
+        ["points"] = 9889.75,
       },
       ["Festergut"] = {
         ["rank_raids"] = 87,
         ["kill_count"] = 46,
-        ["points"] = 9925.64,
+        ["points"] = 9925.67,
       },
       ["Rotface"] = {
         ["rank_raids"] = 132,
         ["kill_count"] = 46,
-        ["points"] = 9873.51,
+        ["points"] = 9873.53,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 50,
@@ -1548,7 +1548,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 87,
         ["kill_count"] = 23,
-        ["points"] = 9928.36,
+        ["points"] = 9928.38,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 244,
@@ -1605,7 +1605,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 110,
         ["kill_count"] = 32,
-        ["points"] = 9912.63,
+        ["points"] = 9912.66,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 33,
@@ -1620,7 +1620,7 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 49,
         ["kill_count"] = 33,
-        ["points"] = 9953.31,
+        ["points"] = 9953.33,
       },
       ["Rotface"] = {
         ["rank_raids"] = 35,
@@ -1662,7 +1662,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 128,
         ["kill_count"] = 45,
-        ["points"] = 9900.4,
+        ["points"] = 9900.44,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 81,
@@ -1677,7 +1677,7 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 227,
         ["kill_count"] = 44,
-        ["points"] = 9809.79,
+        ["points"] = 9809.85,
       },
       ["Rotface"] = {
         ["rank_raids"] = 66,
@@ -1719,7 +1719,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 70,
         ["kill_count"] = 54,
-        ["points"] = 9940.59,
+        ["points"] = 9940.61,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 145,
@@ -1734,7 +1734,7 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 78,
         ["kill_count"] = 56,
-        ["points"] = 9936.02,
+        ["points"] = 9936.04,
       },
       ["Rotface"] = {
         ["rank_raids"] = 31,
@@ -1776,7 +1776,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 205,
         ["kill_count"] = 39,
-        ["points"] = 9844.49,
+        ["points"] = 9844.54,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 192,
@@ -1786,17 +1786,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 468,
         ["kill_count"] = 38,
-        ["points"] = 9670.92,
+        ["points"] = 9670.97,
       },
       ["Festergut"] = {
         ["rank_raids"] = 46,
         ["kill_count"] = 38,
-        ["points"] = 9956.77,
+        ["points"] = 9956.78,
       },
       ["Rotface"] = {
         ["rank_raids"] = 152,
         ["kill_count"] = 38,
-        ["points"] = 9859.64,
+        ["points"] = 9859.67,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 95,
@@ -1833,7 +1833,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 106,
         ["kill_count"] = 23,
-        ["points"] = 9916.13,
+        ["points"] = 9916.16,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 182,
@@ -1843,7 +1843,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 143,
         ["kill_count"] = 23,
-        ["points"] = 9877.67,
+        ["points"] = 9877.69,
       },
       ["Festergut"] = {
         ["rank_raids"] = 34,
@@ -1853,7 +1853,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 346,
         ["kill_count"] = 23,
-        ["points"] = 9726.22,
+        ["points"] = 9726.26,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 13,
@@ -1890,7 +1890,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 81,
         ["kill_count"] = 22,
-        ["points"] = 9935.35,
+        ["points"] = 9935.37,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 17,
@@ -1900,7 +1900,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 106,
         ["kill_count"] = 22,
-        ["points"] = 9900.07,
+        ["points"] = 9900.09,
       },
       ["Festergut"] = {
         ["rank_raids"] = 32,
@@ -1910,7 +1910,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 142,
         ["kill_count"] = 23,
-        ["points"] = 9864.84,
+        ["points"] = 9864.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 165,
@@ -1962,12 +1962,12 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 71,
         ["kill_count"] = 45,
-        ["points"] = 9941.21,
+        ["points"] = 9941.23,
       },
       ["Rotface"] = {
         ["rank_raids"] = 981,
         ["kill_count"] = 45,
-        ["points"] = 9429.91,
+        ["points"] = 9430.01,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 128,
@@ -2004,7 +2004,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 221,
         ["kill_count"] = 34,
-        ["points"] = 9837.5,
+        ["points"] = 9837.55,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 45,
@@ -2014,7 +2014,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 378,
         ["kill_count"] = 34,
-        ["points"] = 9724.33,
+        ["points"] = 9724.38,
       },
       ["Festergut"] = {
         ["rank_raids"] = 26,
@@ -2024,7 +2024,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 220,
         ["kill_count"] = 34,
-        ["points"] = 9811.12,
+        ["points"] = 9811.16,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 221,
@@ -2061,7 +2061,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 50,
         ["kill_count"] = 23,
-        ["points"] = 9956.32,
+        ["points"] = 9956.33,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 26,
@@ -2071,12 +2071,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 265,
         ["kill_count"] = 24,
-        ["points"] = 9788.08,
+        ["points"] = 9788.11,
       },
       ["Festergut"] = {
         ["rank_raids"] = 242,
         ["kill_count"] = 26,
-        ["points"] = 9795.95,
+        ["points"] = 9796.02,
       },
       ["Rotface"] = {
         ["rank_raids"] = 97,
@@ -2118,7 +2118,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 111,
         ["kill_count"] = 41,
-        ["points"] = 9910.89,
+        ["points"] = 9910.92,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 116,
@@ -2128,17 +2128,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 156,
         ["kill_count"] = 41,
-        ["points"] = 9867.33,
+        ["points"] = 9867.36,
       },
       ["Festergut"] = {
         ["rank_raids"] = 96,
         ["kill_count"] = 41,
-        ["points"] = 9915.27,
+        ["points"] = 9915.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 218,
         ["kill_count"] = 41,
-        ["points"] = 9812.86,
+        ["points"] = 9812.89,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 123,
@@ -2175,7 +2175,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 149,
         ["kill_count"] = 33,
-        ["points"] = 9884.68,
+        ["points"] = 9884.72,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 42,
@@ -2190,7 +2190,7 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 171,
         ["kill_count"] = 34,
-        ["points"] = 9854.75,
+        ["points"] = 9854.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 112,
@@ -2232,7 +2232,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 130,
         ["kill_count"] = 23,
-        ["points"] = 9898.65,
+        ["points"] = 9898.69,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 351,
@@ -2247,12 +2247,12 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 65,
         ["kill_count"] = 21,
-        ["points"] = 9946.39,
+        ["points"] = 9946.41,
       },
       ["Rotface"] = {
         ["rank_raids"] = 225,
         ["kill_count"] = 23,
-        ["points"] = 9805.93,
+        ["points"] = 9805.96,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 482,
@@ -2289,7 +2289,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 268,
         ["kill_count"] = 37,
-        ["points"] = 9818.28,
+        ["points"] = 9818.34,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 383,
@@ -2304,7 +2304,7 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 264,
         ["kill_count"] = 40,
-        ["points"] = 9782.12,
+        ["points"] = 9782.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 22,
@@ -2346,7 +2346,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 459,
         ["kill_count"] = 26,
-        ["points"] = 9716.93,
+        ["points"] = 9717.03,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 118,
@@ -2356,12 +2356,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 97,
         ["kill_count"] = 26,
-        ["points"] = 9906.96,
+        ["points"] = 9906.98,
       },
       ["Festergut"] = {
         ["rank_raids"] = 140,
         ["kill_count"] = 26,
-        ["points"] = 9880.68,
+        ["points"] = 9880.73,
       },
       ["Rotface"] = {
         ["rank_raids"] = 23,
@@ -2396,14 +2396,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Churban"] = {
-    ["percentile"] = 98.42,
+    ["percentile"] = 98.43,
     ["server"] = "Icecrown",
     ["overall_rank"] = 43,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 371,
         ["kill_count"] = 29,
-        ["points"] = 9758.87,
+        ["points"] = 9758.95,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 106,
@@ -2413,12 +2413,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 172,
         ["kill_count"] = 30,
-        ["points"] = 9851.83,
+        ["points"] = 9851.85,
       },
       ["Festergut"] = {
         ["rank_raids"] = 900,
         ["kill_count"] = 29,
-        ["points"] = 9410.34,
+        ["points"] = 9410.54,
       },
       ["Rotface"] = {
         ["rank_raids"] = 60,
@@ -2475,7 +2475,7 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 97,
         ["kill_count"] = 46,
-        ["points"] = 9913.54,
+        ["points"] = 9913.57,
       },
       ["Rotface"] = {
         ["rank_raids"] = 102,
@@ -2517,7 +2517,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 260,
         ["kill_count"] = 15,
-        ["points"] = 9821.77,
+        ["points"] = 9821.83,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 574,
@@ -2527,12 +2527,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 267,
         ["kill_count"] = 16,
-        ["points"] = 9786.35,
+        ["points"] = 9786.39,
       },
       ["Festergut"] = {
         ["rank_raids"] = 135,
         ["kill_count"] = 16,
-        ["points"] = 9887.6,
+        ["points"] = 9887.64,
       },
       ["Rotface"] = {
         ["rank_raids"] = 65,
@@ -2574,7 +2574,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 40,
         ["kill_count"] = 33,
-        ["points"] = 9965.05,
+        ["points"] = 9965.07,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 40,
@@ -2584,17 +2584,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 139,
         ["kill_count"] = 33,
-        ["points"] = 9881.12,
+        ["points"] = 9881.14,
       },
       ["Festergut"] = {
         ["rank_raids"] = 235,
         ["kill_count"] = 33,
-        ["points"] = 9799.41,
+        ["points"] = 9799.48,
       },
       ["Rotface"] = {
         ["rank_raids"] = 562,
         ["kill_count"] = 33,
-        ["points"] = 9622.25,
+        ["points"] = 9622.31,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 172,
@@ -2631,7 +2631,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 97,
         ["kill_count"] = 34,
-        ["points"] = 9923.12,
+        ["points"] = 9923.14,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 20,
@@ -2641,17 +2641,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 183,
         ["kill_count"] = 38,
-        ["points"] = 9839.77,
+        ["points"] = 9839.79,
       },
       ["Festergut"] = {
         ["rank_raids"] = 94,
         ["kill_count"] = 38,
-        ["points"] = 9918.73,
+        ["points"] = 9918.76,
       },
       ["Rotface"] = {
         ["rank_raids"] = 362,
         ["kill_count"] = 38,
-        ["points"] = 9715.82,
+        ["points"] = 9715.87,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 329,
@@ -2688,7 +2688,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 407,
         ["kill_count"] = 54,
-        ["points"] = 9741.39,
+        ["points"] = 9741.48,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 25,
@@ -2698,17 +2698,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 193,
         ["kill_count"] = 55,
-        ["points"] = 9825.98,
+        ["points"] = 9826.01,
       },
       ["Festergut"] = {
         ["rank_raids"] = 163,
         ["kill_count"] = 55,
-        ["points"] = 9859.93,
+        ["points"] = 9859.98,
       },
       ["Rotface"] = {
         ["rank_raids"] = 521,
         ["kill_count"] = 53,
-        ["points"] = 9644.78,
+        ["points"] = 9644.84,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 120,
@@ -2745,7 +2745,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 859,
         ["kill_count"] = 33,
-        ["points"] = 9509.0,
+        ["points"] = 9509.17,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 53,
@@ -2760,12 +2760,12 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 178,
         ["kill_count"] = 33,
-        ["points"] = 9844.37,
+        ["points"] = 9844.43,
       },
       ["Rotface"] = {
         ["rank_raids"] = 665,
         ["kill_count"] = 33,
-        ["points"] = 9563.33,
+        ["points"] = 9563.41,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 223,
@@ -2802,7 +2802,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 142,
         ["kill_count"] = 13,
-        ["points"] = 9889.92,
+        ["points"] = 9889.96,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 553,
@@ -2812,7 +2812,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 243,
         ["kill_count"] = 14,
-        ["points"] = 9803.58,
+        ["points"] = 9803.62,
       },
       ["Festergut"] = {
         ["rank_raids"] = 24,
@@ -2822,7 +2822,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 401,
         ["kill_count"] = 14,
-        ["points"] = 9693.29,
+        ["points"] = 9693.35,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 190,
@@ -2859,7 +2859,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 452,
         ["kill_count"] = 25,
-        ["points"] = 9720.43,
+        ["points"] = 9720.52,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 19,
@@ -2869,17 +2869,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 241,
         ["kill_count"] = 26,
-        ["points"] = 9805.31,
+        ["points"] = 9805.34,
       },
       ["Festergut"] = {
         ["rank_raids"] = 734,
         ["kill_count"] = 26,
-        ["points"] = 9514.09,
+        ["points"] = 9514.26,
       },
       ["Rotface"] = {
         ["rank_raids"] = 351,
         ["kill_count"] = 26,
-        ["points"] = 9721.02,
+        ["points"] = 9721.07,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 220,
@@ -2926,17 +2926,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 390,
         ["kill_count"] = 24,
-        ["points"] = 9713.99,
+        ["points"] = 9714.04,
       },
       ["Festergut"] = {
         ["rank_raids"] = 138,
         ["kill_count"] = 25,
-        ["points"] = 9884.14,
+        ["points"] = 9884.18,
       },
       ["Rotface"] = {
         ["rank_raids"] = 178,
         ["kill_count"] = 25,
-        ["points"] = 9835.38,
+        ["points"] = 9835.41,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 214,
@@ -2973,7 +2973,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 379,
         ["kill_count"] = 43,
-        ["points"] = 9753.63,
+        ["points"] = 9753.71,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 80,
@@ -2983,17 +2983,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 199,
         ["kill_count"] = 44,
-        ["points"] = 9820.81,
+        ["points"] = 9820.84,
       },
       ["Festergut"] = {
         ["rank_raids"] = 214,
         ["kill_count"] = 45,
-        ["points"] = 9820.16,
+        ["points"] = 9820.22,
       },
       ["Rotface"] = {
         ["rank_raids"] = 155,
         ["kill_count"] = 45,
-        ["points"] = 9857.91,
+        ["points"] = 9857.93,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 131,
@@ -3030,7 +3030,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 197,
         ["kill_count"] = 55,
-        ["points"] = 9847.98,
+        ["points"] = 9848.03,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 164,
@@ -3087,7 +3087,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 705,
         ["kill_count"] = 21,
-        ["points"] = 9585.88,
+        ["points"] = 9586.03,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 76,
@@ -3097,17 +3097,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 161,
         ["kill_count"] = 24,
-        ["points"] = 9858.72,
+        ["points"] = 9858.74,
       },
       ["Festergut"] = {
         ["rank_raids"] = 274,
         ["kill_count"] = 23,
-        ["points"] = 9773.47,
+        ["points"] = 9773.55,
       },
       ["Rotface"] = {
         ["rank_raids"] = 141,
         ["kill_count"] = 24,
-        ["points"] = 9866.57,
+        ["points"] = 9866.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 103,
@@ -3144,7 +3144,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 43,
         ["kill_count"] = 25,
-        ["points"] = 9963.31,
+        ["points"] = 9963.32,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 896,
@@ -3154,17 +3154,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 353,
         ["kill_count"] = 26,
-        ["points"] = 9736.39,
+        ["points"] = 9736.43,
       },
       ["Festergut"] = {
         ["rank_raids"] = 167,
         ["kill_count"] = 28,
-        ["points"] = 9856.48,
+        ["points"] = 9856.53,
       },
       ["Rotface"] = {
         ["rank_raids"] = 183,
         ["kill_count"] = 28,
-        ["points"] = 9830.19,
+        ["points"] = 9830.21,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 538,
@@ -3201,7 +3201,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 83,
         ["kill_count"] = 50,
-        ["points"] = 9933.6,
+        ["points"] = 9933.62,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 342,
@@ -3211,17 +3211,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 160,
         ["kill_count"] = 52,
-        ["points"] = 9860.44,
+        ["points"] = 9860.47,
       },
       ["Festergut"] = {
         ["rank_raids"] = 112,
         ["kill_count"] = 51,
-        ["points"] = 9903.16,
+        ["points"] = 9903.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 822,
         ["kill_count"] = 51,
-        ["points"] = 9497.49,
+        ["points"] = 9497.57,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 171,
@@ -3258,7 +3258,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 252,
         ["kill_count"] = 27,
-        ["points"] = 9827.01,
+        ["points"] = 9827.07,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 9,
@@ -3268,17 +3268,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 153,
         ["kill_count"] = 28,
-        ["points"] = 9870.78,
+        ["points"] = 9870.8,
       },
       ["Festergut"] = {
         ["rank_raids"] = 229,
         ["kill_count"] = 28,
-        ["points"] = 9806.33,
+        ["points"] = 9806.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1208,
         ["kill_count"] = 28,
-        ["points"] = 9332.87,
+        ["points"] = 9332.99,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 304,
@@ -3315,7 +3315,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 86,
         ["kill_count"] = 22,
-        ["points"] = 9930.11,
+        ["points"] = 9930.13,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 586,
@@ -3325,7 +3325,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 121,
         ["kill_count"] = 23,
-        ["points"] = 9888.01,
+        ["points"] = 9888.03,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2201,
@@ -3372,7 +3372,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 337,
         ["kill_count"] = 40,
-        ["points"] = 9783.33,
+        ["points"] = 9783.41,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 65,
@@ -3382,17 +3382,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1014,
         ["kill_count"] = 41,
-        ["points"] = 9414.2,
+        ["points"] = 9414.3,
       },
       ["Festergut"] = {
         ["rank_raids"] = 631,
         ["kill_count"] = 41,
-        ["points"] = 9565.97,
+        ["points"] = 9566.12,
       },
       ["Rotface"] = {
         ["rank_raids"] = 226,
         ["kill_count"] = 40,
-        ["points"] = 9804.19,
+        ["points"] = 9804.23,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 398,
@@ -3429,7 +3429,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 122,
         ["kill_count"] = 42,
-        ["points"] = 9903.9,
+        ["points"] = 9903.93,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 471,
@@ -3444,12 +3444,12 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 380,
         ["kill_count"] = 35,
-        ["points"] = 9702.58,
+        ["points"] = 9702.68,
       },
       ["Rotface"] = {
         ["rank_raids"] = 287,
         ["kill_count"] = 36,
-        ["points"] = 9764.34,
+        ["points"] = 9764.38,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 354,
@@ -3486,7 +3486,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 265,
         ["kill_count"] = 68,
-        ["points"] = 9820.02,
+        ["points"] = 9820.09,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 806,
@@ -3496,17 +3496,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 194,
         ["kill_count"] = 71,
-        ["points"] = 9824.26,
+        ["points"] = 9824.29,
       },
       ["Festergut"] = {
         ["rank_raids"] = 69,
         ["kill_count"] = 71,
-        ["points"] = 9942.94,
+        ["points"] = 9942.96,
       },
       ["Rotface"] = {
         ["rank_raids"] = 163,
         ["kill_count"] = 69,
-        ["points"] = 9850.98,
+        ["points"] = 9851.0,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 197,
@@ -3543,7 +3543,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 255,
         ["kill_count"] = 33,
-        ["points"] = 9825.27,
+        ["points"] = 9825.33,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 22,
@@ -3553,17 +3553,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 86,
         ["kill_count"] = 30,
-        ["points"] = 9915.58,
+        ["points"] = 9915.59,
       },
       ["Festergut"] = {
         ["rank_raids"] = 293,
         ["kill_count"] = 33,
-        ["points"] = 9759.64,
+        ["points"] = 9759.72,
       },
       ["Rotface"] = {
         ["rank_raids"] = 587,
         ["kill_count"] = 31,
-        ["points"] = 9611.85,
+        ["points"] = 9611.92,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 156,
@@ -3600,7 +3600,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 196,
         ["kill_count"] = 22,
-        ["points"] = 9849.73,
+        ["points"] = 9849.78,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 355,
@@ -3610,17 +3610,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 179,
         ["kill_count"] = 21,
-        ["points"] = 9844.93,
+        ["points"] = 9844.96,
       },
       ["Festergut"] = {
         ["rank_raids"] = 466,
         ["kill_count"] = 21,
-        ["points"] = 9655.89,
+        ["points"] = 9656.01,
       },
       ["Rotface"] = {
         ["rank_raids"] = 395,
         ["kill_count"] = 21,
-        ["points"] = 9695.03,
+        ["points"] = 9695.08,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 306,
@@ -3657,7 +3657,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 177,
         ["kill_count"] = 17,
-        ["points"] = 9863.71,
+        ["points"] = 9863.76,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 130,
@@ -3667,7 +3667,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1503,
         ["kill_count"] = 19,
-        ["points"] = 9224.67,
+        ["points"] = 9224.81,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1034,
@@ -3677,7 +3677,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 168,
         ["kill_count"] = 17,
-        ["points"] = 9847.51,
+        ["points"] = 9847.54,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 71,
@@ -3714,7 +3714,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 117,
         ["kill_count"] = 28,
-        ["points"] = 9905.64,
+        ["points"] = 9905.68,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 70,
@@ -3724,17 +3724,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1298,
         ["kill_count"] = 30,
-        ["points"] = 9295.31,
+        ["points"] = 9295.43,
       },
       ["Festergut"] = {
         ["rank_raids"] = 281,
         ["kill_count"] = 32,
-        ["points"] = 9766.56,
+        ["points"] = 9766.64,
       },
       ["Rotface"] = {
         ["rank_raids"] = 879,
         ["kill_count"] = 33,
-        ["points"] = 9466.3,
+        ["points"] = 9466.39,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 225,
@@ -3771,7 +3771,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 282,
         ["kill_count"] = 40,
-        ["points"] = 9814.78,
+        ["points"] = 9814.85,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 467,
@@ -3781,12 +3781,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 114,
         ["kill_count"] = 41,
-        ["points"] = 9893.18,
+        ["points"] = 9893.2,
       },
       ["Festergut"] = {
         ["rank_raids"] = 246,
         ["kill_count"] = 40,
-        ["points"] = 9790.77,
+        ["points"] = 9790.84,
       },
       ["Rotface"] = {
         ["rank_raids"] = 77,
@@ -3828,7 +3828,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 284,
         ["kill_count"] = 20,
-        ["points"] = 9811.29,
+        ["points"] = 9811.35,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 930,
@@ -3838,17 +3838,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 142,
         ["kill_count"] = 20,
-        ["points"] = 9879.39,
+        ["points"] = 9879.41,
       },
       ["Festergut"] = {
         ["rank_raids"] = 305,
         ["kill_count"] = 21,
-        ["points"] = 9750.99,
+        ["points"] = 9751.08,
       },
       ["Rotface"] = {
         ["rank_raids"] = 210,
         ["kill_count"] = 21,
-        ["points"] = 9816.32,
+        ["points"] = 9816.35,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 16,
@@ -3885,7 +3885,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 836,
         ["kill_count"] = 37,
-        ["points"] = 9515.99,
+        ["points"] = 9516.16,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 268,
@@ -3895,17 +3895,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 104,
         ["kill_count"] = 39,
-        ["points"] = 9901.79,
+        ["points"] = 9901.81,
       },
       ["Festergut"] = {
         ["rank_raids"] = 120,
         ["kill_count"] = 38,
-        ["points"] = 9896.25,
+        ["points"] = 9896.28,
       },
       ["Rotface"] = {
         ["rank_raids"] = 548,
         ["kill_count"] = 38,
-        ["points"] = 9632.65,
+        ["points"] = 9632.71,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 129,
@@ -3942,7 +3942,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 212,
         ["kill_count"] = 44,
-        ["points"] = 9840.99,
+        ["points"] = 9841.05,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 288,
@@ -3952,12 +3952,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 912,
         ["kill_count"] = 49,
-        ["points"] = 9448.66,
+        ["points"] = 9448.75,
       },
       ["Festergut"] = {
         ["rank_raids"] = 239,
         ["kill_count"] = 49,
-        ["points"] = 9797.68,
+        ["points"] = 9797.75,
       },
       ["Rotface"] = {
         ["rank_raids"] = 52,
@@ -3999,7 +3999,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 109,
         ["kill_count"] = 38,
-        ["points"] = 9914.38,
+        ["points"] = 9914.41,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 89,
@@ -4009,12 +4009,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 306,
         ["kill_count"] = 37,
-        ["points"] = 9765.68,
+        ["points"] = 9765.72,
       },
       ["Festergut"] = {
         ["rank_raids"] = 826,
         ["kill_count"] = 36,
-        ["points"] = 9455.3,
+        ["points"] = 9455.49,
       },
       ["Rotface"] = {
         ["rank_raids"] = 93,
@@ -4056,7 +4056,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 482,
         ["kill_count"] = 42,
-        ["points"] = 9699.46,
+        ["points"] = 9699.56,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 474,
@@ -4066,12 +4066,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 425,
         ["kill_count"] = 42,
-        ["points"] = 9695.04,
+        ["points"] = 9695.09,
       },
       ["Festergut"] = {
         ["rank_raids"] = 530,
         ["kill_count"] = 40,
-        ["points"] = 9616.12,
+        ["points"] = 9616.25,
       },
       ["Rotface"] = {
         ["rank_raids"] = 84,
@@ -4113,7 +4113,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 206,
         ["kill_count"] = 15,
-        ["points"] = 9842.74,
+        ["points"] = 9842.79,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 219,
@@ -4123,17 +4123,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 313,
         ["kill_count"] = 15,
-        ["points"] = 9762.23,
+        ["points"] = 9762.27,
       },
       ["Festergut"] = {
         ["rank_raids"] = 118,
         ["kill_count"] = 15,
-        ["points"] = 9897.98,
+        ["points"] = 9898.01,
       },
       ["Rotface"] = {
         ["rank_raids"] = 260,
         ["kill_count"] = 15,
-        ["points"] = 9788.6,
+        ["points"] = 9788.63,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 74,
@@ -4170,7 +4170,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 442,
         ["kill_count"] = 11,
-        ["points"] = 9723.92,
+        ["points"] = 9724.02,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 981,
@@ -4180,17 +4180,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 238,
         ["kill_count"] = 13,
-        ["points"] = 9807.03,
+        ["points"] = 9807.06,
       },
       ["Festergut"] = {
         ["rank_raids"] = 232,
         ["kill_count"] = 13,
-        ["points"] = 9802.87,
+        ["points"] = 9802.94,
       },
       ["Rotface"] = {
         ["rank_raids"] = 423,
         ["kill_count"] = 13,
-        ["points"] = 9677.7,
+        ["points"] = 9677.75,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 527,
@@ -4242,12 +4242,12 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 346,
         ["kill_count"] = 19,
-        ["points"] = 9719.87,
+        ["points"] = 9719.97,
       },
       ["Rotface"] = {
         ["rank_raids"] = 614,
         ["kill_count"] = 19,
-        ["points"] = 9591.06,
+        ["points"] = 9591.13,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 508,
@@ -4284,7 +4284,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 271,
         ["kill_count"] = 40,
-        ["points"] = 9816.53,
+        ["points"] = 9816.59,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 343,
@@ -4294,17 +4294,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 762,
         ["kill_count"] = 43,
-        ["points"] = 9519.3,
+        ["points"] = 9519.38,
       },
       ["Festergut"] = {
         ["rank_raids"] = 110,
         ["kill_count"] = 41,
-        ["points"] = 9904.89,
+        ["points"] = 9904.93,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1301,
         ["kill_count"] = 43,
-        ["points"] = 9299.95,
+        ["points"] = 9300.07,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 267,
@@ -4341,7 +4341,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 96,
         ["kill_count"] = 10,
-        ["points"] = 9924.86,
+        ["points"] = 9924.89,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 378,
@@ -4351,7 +4351,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 159,
         ["kill_count"] = 12,
-        ["points"] = 9862.16,
+        ["points"] = 9862.19,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1754,
@@ -4361,7 +4361,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 783,
         ["kill_count"] = 13,
-        ["points"] = 9514.82,
+        ["points"] = 9514.9,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 145,
@@ -4398,7 +4398,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 127,
         ["kill_count"] = 20,
-        ["points"] = 9902.15,
+        ["points"] = 9902.18,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1236,
@@ -4408,17 +4408,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 187,
         ["kill_count"] = 23,
-        ["points"] = 9836.32,
+        ["points"] = 9836.35,
       },
       ["Festergut"] = {
         ["rank_raids"] = 438,
         ["kill_count"] = 23,
-        ["points"] = 9669.72,
+        ["points"] = 9669.84,
       },
       ["Rotface"] = {
         ["rank_raids"] = 249,
         ["kill_count"] = 23,
-        ["points"] = 9793.8,
+        ["points"] = 9793.83,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 29,
@@ -4455,7 +4455,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 947,
         ["kill_count"] = 14,
-        ["points"] = 9470.56,
+        ["points"] = 9470.74,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 946,
@@ -4465,12 +4465,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 669,
         ["kill_count"] = 16,
-        ["points"] = 9557.2,
+        ["points"] = 9557.28,
       },
       ["Festergut"] = {
         ["rank_raids"] = 193,
         ["kill_count"] = 15,
-        ["points"] = 9832.27,
+        ["points"] = 9832.32,
       },
       ["Rotface"] = {
         ["rank_raids"] = 78,
@@ -4512,7 +4512,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 66,
         ["kill_count"] = 18,
-        ["points"] = 9942.34,
+        ["points"] = 9942.36,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 16,
@@ -4522,12 +4522,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 611,
         ["kill_count"] = 19,
-        ["points"] = 9591.66,
+        ["points"] = 9591.73,
       },
       ["Festergut"] = {
         ["rank_raids"] = 145,
         ["kill_count"] = 19,
-        ["points"] = 9872.04,
+        ["points"] = 9872.08,
       },
       ["Rotface"] = {
         ["rank_raids"] = 13,
@@ -4569,7 +4569,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 473,
         ["kill_count"] = 62,
-        ["points"] = 9706.45,
+        ["points"] = 9706.55,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 848,
@@ -4584,7 +4584,7 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 113,
         ["kill_count"] = 62,
-        ["points"] = 9901.44,
+        ["points"] = 9901.47,
       },
       ["Rotface"] = {
         ["rank_raids"] = 100,
@@ -4626,7 +4626,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 115,
         ["kill_count"] = 31,
-        ["points"] = 9907.39,
+        ["points"] = 9907.42,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 978,
@@ -4636,7 +4636,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 113,
         ["kill_count"] = 32,
-        ["points"] = 9894.9,
+        ["points"] = 9894.92,
       },
       ["Festergut"] = {
         ["rank_raids"] = 27,
@@ -4646,7 +4646,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 353,
         ["kill_count"] = 32,
-        ["points"] = 9719.29,
+        ["points"] = 9719.33,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 696,
@@ -4693,12 +4693,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 279,
         ["kill_count"] = 35,
-        ["points"] = 9781.19,
+        ["points"] = 9781.22,
       },
       ["Festergut"] = {
         ["rank_raids"] = 245,
         ["kill_count"] = 35,
-        ["points"] = 9792.5,
+        ["points"] = 9792.57,
       },
       ["Rotface"] = {
         ["rank_raids"] = 57,
@@ -4740,7 +4740,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 380,
         ["kill_count"] = 21,
-        ["points"] = 9751.88,
+        ["points"] = 9751.97,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 578,
@@ -4750,17 +4750,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 693,
         ["kill_count"] = 21,
-        ["points"] = 9548.59,
+        ["points"] = 9548.66,
       },
       ["Festergut"] = {
         ["rank_raids"] = 211,
         ["kill_count"] = 21,
-        ["points"] = 9823.62,
+        ["points"] = 9823.68,
       },
       ["Rotface"] = {
         ["rank_raids"] = 643,
         ["kill_count"] = 21,
-        ["points"] = 9568.53,
+        ["points"] = 9568.61,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 256,
@@ -4797,7 +4797,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 195,
         ["kill_count"] = 21,
-        ["points"] = 9851.48,
+        ["points"] = 9851.53,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 633,
@@ -4854,7 +4854,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 384,
         ["kill_count"] = 27,
-        ["points"] = 9750.13,
+        ["points"] = 9750.22,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 681,
@@ -4864,17 +4864,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 166,
         ["kill_count"] = 32,
-        ["points"] = 9853.55,
+        ["points"] = 9853.57,
       },
       ["Festergut"] = {
         ["rank_raids"] = 857,
         ["kill_count"] = 32,
-        ["points"] = 9438.01,
+        ["points"] = 9438.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 276,
         ["kill_count"] = 32,
-        ["points"] = 9774.74,
+        ["points"] = 9774.77,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 553,
@@ -4911,7 +4911,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 438,
         ["kill_count"] = 41,
-        ["points"] = 9727.42,
+        ["points"] = 9727.51,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 203,
@@ -4921,12 +4921,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 101,
         ["kill_count"] = 41,
-        ["points"] = 9903.51,
+        ["points"] = 9903.53,
       },
       ["Festergut"] = {
         ["rank_raids"] = 273,
         ["kill_count"] = 40,
-        ["points"] = 9775.2,
+        ["points"] = 9775.28,
       },
       ["Rotface"] = {
         ["rank_raids"] = 21,
@@ -4968,7 +4968,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 165,
         ["kill_count"] = 15,
-        ["points"] = 9874.19,
+        ["points"] = 9874.24,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1102,
@@ -4978,12 +4978,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 695,
         ["kill_count"] = 15,
-        ["points"] = 9546.86,
+        ["points"] = 9546.94,
       },
       ["Festergut"] = {
         ["rank_raids"] = 80,
         ["kill_count"] = 14,
-        ["points"] = 9932.56,
+        ["points"] = 9932.58,
       },
       ["Rotface"] = {
         ["rank_raids"] = 4,
@@ -5025,7 +5025,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 182,
         ["kill_count"] = 5,
-        ["points"] = 9860.21,
+        ["points"] = 9860.26,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1378,
@@ -5035,12 +5035,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 257,
         ["kill_count"] = 9,
-        ["points"] = 9791.52,
+        ["points"] = 9791.56,
       },
       ["Festergut"] = {
         ["rank_raids"] = 175,
         ["kill_count"] = 8,
-        ["points"] = 9847.83,
+        ["points"] = 9847.88,
       },
       ["Rotface"] = {
         ["rank_raids"] = 54,
@@ -5082,7 +5082,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 55,
         ["kill_count"] = 29,
-        ["points"] = 9954.57,
+        ["points"] = 9954.59,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 90,
@@ -5092,17 +5092,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 218,
         ["kill_count"] = 29,
-        ["points"] = 9813.92,
+        ["points"] = 9813.95,
       },
       ["Festergut"] = {
         ["rank_raids"] = 184,
         ["kill_count"] = 29,
-        ["points"] = 9837.45,
+        ["points"] = 9837.51,
       },
       ["Rotface"] = {
         ["rank_raids"] = 161,
         ["kill_count"] = 28,
-        ["points"] = 9854.44,
+        ["points"] = 9854.47,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 380,
@@ -5139,7 +5139,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2046,
         ["kill_count"] = 24,
-        ["points"] = 9045.95,
+        ["points"] = 9046.29,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 210,
@@ -5154,7 +5154,7 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 960,
         ["kill_count"] = 22,
-        ["points"] = 9377.49,
+        ["points"] = 9377.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 63,
@@ -5196,7 +5196,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 145,
         ["kill_count"] = 43,
-        ["points"] = 9886.42,
+        ["points"] = 9886.46,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 121,
@@ -5206,7 +5206,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 657,
         ["kill_count"] = 43,
-        ["points"] = 9570.99,
+        ["points"] = 9571.06,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1192,
@@ -5253,7 +5253,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 175,
         ["kill_count"] = 7,
-        ["points"] = 9865.46,
+        ["points"] = 9865.5,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 561,
@@ -5263,17 +5263,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 791,
         ["kill_count"] = 7,
-        ["points"] = 9510.68,
+        ["points"] = 9510.77,
       },
       ["Festergut"] = {
         ["rank_raids"] = 404,
         ["kill_count"] = 7,
-        ["points"] = 9690.47,
+        ["points"] = 9690.58,
       },
       ["Rotface"] = {
         ["rank_raids"] = 136,
         ["kill_count"] = 7,
-        ["points"] = 9870.04,
+        ["points"] = 9870.06,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1639,
@@ -5310,7 +5310,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 504,
         ["kill_count"] = 8,
-        ["points"] = 9683.73,
+        ["points"] = 9683.84,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 531,
@@ -5320,17 +5320,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 865,
         ["kill_count"] = 9,
-        ["points"] = 9471.05,
+        ["points"] = 9471.15,
       },
       ["Festergut"] = {
         ["rank_raids"] = 411,
         ["kill_count"] = 9,
-        ["points"] = 9685.28,
+        ["points"] = 9685.39,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1038,
         ["kill_count"] = 9,
-        ["points"] = 9405.65,
+        ["points"] = 9405.75,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 281,
@@ -5367,7 +5367,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 48,
         ["kill_count"] = 11,
-        ["points"] = 9958.06,
+        ["points"] = 9958.08,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 155,
@@ -5377,17 +5377,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 522,
         ["kill_count"] = 11,
-        ["points"] = 9643.35,
+        ["points"] = 9643.41,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1006,
         ["kill_count"] = 12,
-        ["points"] = 9358.46,
+        ["points"] = 9358.69,
       },
       ["Rotface"] = {
         ["rank_raids"] = 507,
         ["kill_count"] = 13,
-        ["points"] = 9649.97,
+        ["points"] = 9650.03,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 299,
@@ -5424,7 +5424,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 944,
         ["kill_count"] = 34,
-        ["points"] = 9474.05,
+        ["points"] = 9474.24,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 700,
@@ -5434,17 +5434,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 491,
         ["kill_count"] = 35,
-        ["points"] = 9660.58,
+        ["points"] = 9660.64,
       },
       ["Festergut"] = {
         ["rank_raids"] = 493,
         ["kill_count"] = 35,
-        ["points"] = 9638.6,
+        ["points"] = 9638.72,
       },
       ["Rotface"] = {
         ["rank_raids"] = 604,
         ["kill_count"] = 34,
-        ["points"] = 9601.46,
+        ["points"] = 9601.52,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 374,
@@ -5481,7 +5481,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 151,
         ["kill_count"] = 48,
-        ["points"] = 9881.18,
+        ["points"] = 9881.22,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 905,
@@ -5491,17 +5491,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 784,
         ["kill_count"] = 48,
-        ["points"] = 9514.13,
+        ["points"] = 9514.21,
       },
       ["Festergut"] = {
         ["rank_raids"] = 72,
         ["kill_count"] = 48,
-        ["points"] = 9939.48,
+        ["points"] = 9939.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 588,
         ["kill_count"] = 47,
-        ["points"] = 9610.12,
+        ["points"] = 9610.19,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 981,
@@ -5538,7 +5538,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 539,
         ["kill_count"] = 42,
-        ["points"] = 9662.76,
+        ["points"] = 9662.88,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 678,
@@ -5548,17 +5548,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 460,
         ["kill_count"] = 43,
-        ["points"] = 9674.36,
+        ["points"] = 9674.42,
       },
       ["Festergut"] = {
         ["rank_raids"] = 645,
         ["kill_count"] = 44,
-        ["points"] = 9559.05,
+        ["points"] = 9559.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 571,
         ["kill_count"] = 43,
-        ["points"] = 9620.52,
+        ["points"] = 9620.58,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 133,
@@ -5595,7 +5595,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 60,
         ["kill_count"] = 15,
-        ["points"] = 9951.07,
+        ["points"] = 9951.09,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 466,
@@ -5605,7 +5605,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 560,
         ["kill_count"] = 16,
-        ["points"] = 9620.95,
+        ["points"] = 9621.02,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1311,
@@ -5615,7 +5615,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 134,
         ["kill_count"] = 16,
-        ["points"] = 9871.77,
+        ["points"] = 9871.79,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 466,
@@ -5652,7 +5652,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 283,
         ["kill_count"] = 31,
-        ["points"] = 9813.04,
+        ["points"] = 9813.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1224,
@@ -5662,17 +5662,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 275,
         ["kill_count"] = 34,
-        ["points"] = 9782.91,
+        ["points"] = 9782.95,
       },
       ["Festergut"] = {
         ["rank_raids"] = 716,
         ["kill_count"] = 34,
-        ["points"] = 9522.74,
+        ["points"] = 9522.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 171,
         ["kill_count"] = 34,
-        ["points"] = 9844.05,
+        ["points"] = 9844.07,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 319,
@@ -5709,7 +5709,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1323,
         ["kill_count"] = 14,
-        ["points"] = 9309.8,
+        ["points"] = 9310.04,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 399,
@@ -5719,12 +5719,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 181,
         ["kill_count"] = 13,
-        ["points"] = 9841.49,
+        ["points"] = 9841.52,
       },
       ["Festergut"] = {
         ["rank_raids"] = 89,
         ["kill_count"] = 16,
-        ["points"] = 9923.91,
+        ["points"] = 9923.94,
       },
       ["Rotface"] = {
         ["rank_raids"] = 92,
@@ -5766,7 +5766,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 663,
         ["kill_count"] = 11,
-        ["points"] = 9603.35,
+        ["points"] = 9603.49,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 333,
@@ -5776,17 +5776,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 158,
         ["kill_count"] = 11,
-        ["points"] = 9863.89,
+        ["points"] = 9863.91,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1051,
         ["kill_count"] = 12,
-        ["points"] = 9330.8,
+        ["points"] = 9331.03,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1014,
         ["kill_count"] = 12,
-        ["points"] = 9419.51,
+        ["points"] = 9419.61,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 106,
@@ -5823,7 +5823,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 343,
         ["kill_count"] = 33,
-        ["points"] = 9779.84,
+        ["points"] = 9779.91,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 129,
@@ -5833,17 +5833,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 109,
         ["kill_count"] = 32,
-        ["points"] = 9898.35,
+        ["points"] = 9898.36,
       },
       ["Festergut"] = {
         ["rank_raids"] = 142,
         ["kill_count"] = 32,
-        ["points"] = 9877.23,
+        ["points"] = 9877.27,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1257,
         ["kill_count"] = 32,
-        ["points"] = 9315.54,
+        ["points"] = 9315.66,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1883,
@@ -5880,7 +5880,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 298,
         ["kill_count"] = 19,
-        ["points"] = 9800.8,
+        ["points"] = 9800.87,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 91,
@@ -5890,17 +5890,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 84,
         ["kill_count"] = 19,
-        ["points"] = 9917.3,
+        ["points"] = 9917.31,
       },
       ["Festergut"] = {
         ["rank_raids"] = 554,
         ["kill_count"] = 18,
-        ["points"] = 9604.01,
+        ["points"] = 9604.15,
       },
       ["Rotface"] = {
         ["rank_raids"] = 999,
         ["kill_count"] = 18,
-        ["points"] = 9422.98,
+        ["points"] = 9423.08,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 239,
@@ -5937,7 +5937,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1541,
         ["kill_count"] = 8,
-        ["points"] = 9234.67,
+        ["points"] = 9234.93,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1010,
@@ -5952,7 +5952,7 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 131,
         ["kill_count"] = 6,
-        ["points"] = 9891.06,
+        ["points"] = 9891.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 72,
@@ -5994,7 +5994,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 304,
         ["kill_count"] = 27,
-        ["points"] = 9799.06,
+        ["points"] = 9799.13,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 347,
@@ -6004,17 +6004,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 863,
         ["kill_count"] = 27,
-        ["points"] = 9472.78,
+        ["points"] = 9472.87,
       },
       ["Festergut"] = {
         ["rank_raids"] = 560,
         ["kill_count"] = 27,
-        ["points"] = 9597.09,
+        ["points"] = 9597.23,
       },
       ["Rotface"] = {
         ["rank_raids"] = 338,
         ["kill_count"] = 28,
-        ["points"] = 9729.68,
+        ["points"] = 9729.73,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 430,
@@ -6051,7 +6051,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 294,
         ["kill_count"] = 39,
-        ["points"] = 9806.05,
+        ["points"] = 9806.11,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 901,
@@ -6061,17 +6061,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 515,
         ["kill_count"] = 43,
-        ["points"] = 9646.8,
+        ["points"] = 9646.86,
       },
       ["Festergut"] = {
         ["rank_raids"] = 185,
         ["kill_count"] = 42,
-        ["points"] = 9835.73,
+        ["points"] = 9835.78,
       },
       ["Rotface"] = {
         ["rank_raids"] = 162,
         ["kill_count"] = 42,
-        ["points"] = 9852.71,
+        ["points"] = 9852.74,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 761,
@@ -6108,7 +6108,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 745,
         ["kill_count"] = 28,
-        ["points"] = 9561.42,
+        ["points"] = 9561.57,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 706,
@@ -6118,17 +6118,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 367,
         ["kill_count"] = 28,
-        ["points"] = 9731.22,
+        ["points"] = 9731.27,
       },
       ["Festergut"] = {
         ["rank_raids"] = 739,
         ["kill_count"] = 29,
-        ["points"] = 9510.63,
+        ["points"] = 9510.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 350,
         ["kill_count"] = 29,
-        ["points"] = 9722.75,
+        ["points"] = 9722.8,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 530,
@@ -6158,14 +6158,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Aranukein"] = {
-    ["percentile"] = 96.14,
+    ["percentile"] = 96.15,
     ["server"] = "Icecrown",
     ["overall_rank"] = 109,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 420,
         ["kill_count"] = 21,
-        ["points"] = 9736.15,
+        ["points"] = 9736.24,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 565,
@@ -6175,17 +6175,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3152,
         ["kill_count"] = 21,
-        ["points"] = 8690.56,
+        ["points"] = 8690.78,
       },
       ["Festergut"] = {
         ["rank_raids"] = 124,
         ["kill_count"] = 21,
-        ["points"] = 9894.52,
+        ["points"] = 9894.55,
       },
       ["Rotface"] = {
         ["rank_raids"] = 261,
         ["kill_count"] = 21,
-        ["points"] = 9786.87,
+        ["points"] = 9786.9,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 557,
@@ -6222,7 +6222,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 977,
         ["kill_count"] = 23,
-        ["points"] = 9454.83,
+        ["points"] = 9455.02,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 543,
@@ -6232,17 +6232,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 526,
         ["kill_count"] = 23,
-        ["points"] = 9639.9,
+        ["points"] = 9639.97,
       },
       ["Festergut"] = {
         ["rank_raids"] = 896,
         ["kill_count"] = 23,
-        ["points"] = 9413.8,
+        ["points"] = 9414.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 337,
         ["kill_count"] = 22,
-        ["points"] = 9731.42,
+        ["points"] = 9731.46,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 127,
@@ -6279,7 +6279,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 632,
         ["kill_count"] = 17,
-        ["points"] = 9615.59,
+        ["points"] = 9615.72,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 223,
@@ -6289,17 +6289,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 186,
         ["kill_count"] = 19,
-        ["points"] = 9838.04,
+        ["points"] = 9838.07,
       },
       ["Festergut"] = {
         ["rank_raids"] = 231,
         ["kill_count"] = 19,
-        ["points"] = 9804.6,
+        ["points"] = 9804.67,
       },
       ["Rotface"] = {
         ["rank_raids"] = 601,
         ["kill_count"] = 19,
-        ["points"] = 9604.92,
+        ["points"] = 9604.99,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 58,
@@ -6336,7 +6336,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1175,
         ["kill_count"] = 12,
-        ["points"] = 9372.71,
+        ["points"] = 9372.93,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 259,
@@ -6346,7 +6346,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 164,
         ["kill_count"] = 12,
-        ["points"] = 9855.27,
+        ["points"] = 9855.3,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1304,
@@ -6356,7 +6356,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 746,
         ["kill_count"] = 12,
-        ["points"] = 9525.21,
+        ["points"] = 9525.29,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 116,
@@ -6393,7 +6393,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1092,
         ["kill_count"] = 24,
-        ["points"] = 9400.66,
+        ["points"] = 9400.87,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 932,
@@ -6403,17 +6403,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 719,
         ["kill_count"] = 28,
-        ["points"] = 9539.97,
+        ["points"] = 9540.05,
       },
       ["Festergut"] = {
         ["rank_raids"] = 507,
         ["kill_count"] = 30,
-        ["points"] = 9628.22,
+        ["points"] = 9628.35,
       },
       ["Rotface"] = {
         ["rank_raids"] = 384,
         ["kill_count"] = 30,
-        ["points"] = 9701.96,
+        ["points"] = 9702.01,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 725,
@@ -6450,7 +6450,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 427,
         ["kill_count"] = 16,
-        ["points"] = 9732.66,
+        ["points"] = 9732.75,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 202,
@@ -6460,7 +6460,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 646,
         ["kill_count"] = 17,
-        ["points"] = 9574.43,
+        ["points"] = 9574.5,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1303,
@@ -6470,7 +6470,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 377,
         ["kill_count"] = 17,
-        ["points"] = 9705.42,
+        ["points"] = 9705.47,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 747,
@@ -6507,7 +6507,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 532,
         ["kill_count"] = 34,
-        ["points"] = 9671.5,
+        ["points"] = 9671.62,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1997,
@@ -6517,17 +6517,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 931,
         ["kill_count"] = 34,
-        ["points"] = 9443.49,
+        ["points"] = 9443.58,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1170,
         ["kill_count"] = 34,
-        ["points"] = 9284.11,
+        ["points"] = 9284.36,
       },
       ["Rotface"] = {
         ["rank_raids"] = 165,
         ["kill_count"] = 34,
-        ["points"] = 9849.25,
+        ["points"] = 9849.27,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 227,
@@ -6564,7 +6564,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 307,
         ["kill_count"] = 27,
-        ["points"] = 9797.31,
+        ["points"] = 9797.38,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 832,
@@ -6574,12 +6574,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 387,
         ["kill_count"] = 27,
-        ["points"] = 9719.16,
+        ["points"] = 9719.21,
       },
       ["Festergut"] = {
         ["rank_raids"] = 483,
         ["kill_count"] = 27,
-        ["points"] = 9647.24,
+        ["points"] = 9647.36,
       },
       ["Rotface"] = {
         ["rank_raids"] = 59,
@@ -6621,7 +6621,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 410,
         ["kill_count"] = 17,
-        ["points"] = 9739.65,
+        ["points"] = 9739.74,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1984,
@@ -6631,12 +6631,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 163,
         ["kill_count"] = 17,
-        ["points"] = 9857.0,
+        ["points"] = 9857.02,
       },
       ["Festergut"] = {
         ["rank_raids"] = 79,
         ["kill_count"] = 17,
-        ["points"] = 9934.29,
+        ["points"] = 9934.31,
       },
       ["Rotface"] = {
         ["rank_raids"] = 70,
@@ -6678,7 +6678,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 533,
         ["kill_count"] = 18,
-        ["points"] = 9669.75,
+        ["points"] = 9669.87,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 501,
@@ -6688,12 +6688,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 188,
         ["kill_count"] = 18,
-        ["points"] = 9834.6,
+        ["points"] = 9834.63,
       },
       ["Festergut"] = {
         ["rank_raids"] = 662,
         ["kill_count"] = 18,
-        ["points"] = 9546.95,
+        ["points"] = 9547.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 47,
@@ -6735,7 +6735,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 507,
         ["kill_count"] = 21,
-        ["points"] = 9681.98,
+        ["points"] = 9682.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 243,
@@ -6745,7 +6745,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 564,
         ["kill_count"] = 23,
-        ["points"] = 9615.78,
+        ["points"] = 9615.85,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1035,
@@ -6755,7 +6755,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 228,
         ["kill_count"] = 16,
-        ["points"] = 9802.46,
+        ["points"] = 9802.49,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 163,
@@ -6792,7 +6792,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 494,
         ["kill_count"] = 14,
-        ["points"] = 9688.97,
+        ["points"] = 9689.08,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 389,
@@ -6802,17 +6802,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 349,
         ["kill_count"] = 15,
-        ["points"] = 9739.83,
+        ["points"] = 9739.88,
       },
       ["Festergut"] = {
         ["rank_raids"] = 125,
         ["kill_count"] = 15,
-        ["points"] = 9892.79,
+        ["points"] = 9892.83,
       },
       ["Rotface"] = {
         ["rank_raids"] = 223,
         ["kill_count"] = 15,
-        ["points"] = 9807.66,
+        ["points"] = 9807.69,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 624,
@@ -6849,7 +6849,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 135,
         ["kill_count"] = 25,
-        ["points"] = 9893.41,
+        ["points"] = 9893.45,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1304,
@@ -6859,17 +6859,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 597,
         ["kill_count"] = 27,
-        ["points"] = 9600.28,
+        ["points"] = 9600.34,
       },
       ["Festergut"] = {
         ["rank_raids"] = 743,
         ["kill_count"] = 26,
-        ["points"] = 9505.45,
+        ["points"] = 9505.62,
       },
       ["Rotface"] = {
         ["rank_raids"] = 182,
         ["kill_count"] = 27,
-        ["points"] = 9831.92,
+        ["points"] = 9831.95,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1258,
@@ -6906,7 +6906,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 173,
         ["kill_count"] = 26,
-        ["points"] = 9867.2,
+        ["points"] = 9867.25,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 870,
@@ -6916,17 +6916,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1050,
         ["kill_count"] = 25,
-        ["points"] = 9400.41,
+        ["points"] = 9400.52,
       },
       ["Festergut"] = {
         ["rank_raids"] = 349,
         ["kill_count"] = 25,
-        ["points"] = 9718.14,
+        ["points"] = 9718.24,
       },
       ["Rotface"] = {
         ["rank_raids"] = 177,
         ["kill_count"] = 25,
-        ["points"] = 9837.12,
+        ["points"] = 9837.14,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 892,
@@ -6963,7 +6963,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 100,
         ["kill_count"] = 19,
-        ["points"] = 9919.62,
+        ["points"] = 9919.65,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3089,
@@ -6973,17 +6973,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 469,
         ["kill_count"] = 19,
-        ["points"] = 9669.19,
+        ["points"] = 9669.25,
       },
       ["Festergut"] = {
         ["rank_raids"] = 487,
         ["kill_count"] = 19,
-        ["points"] = 9643.78,
+        ["points"] = 9643.91,
       },
       ["Rotface"] = {
         ["rank_raids"] = 330,
         ["kill_count"] = 19,
-        ["points"] = 9736.61,
+        ["points"] = 9736.66,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 376,
@@ -7020,7 +7020,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 986,
         ["kill_count"] = 26,
-        ["points"] = 9446.09,
+        ["points"] = 9446.29,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 726,
@@ -7030,17 +7030,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 538,
         ["kill_count"] = 26,
-        ["points"] = 9633.01,
+        ["points"] = 9633.07,
       },
       ["Festergut"] = {
         ["rank_raids"] = 516,
         ["kill_count"] = 24,
-        ["points"] = 9623.03,
+        ["points"] = 9623.16,
       },
       ["Rotface"] = {
         ["rank_raids"] = 311,
         ["kill_count"] = 25,
-        ["points"] = 9750.48,
+        ["points"] = 9750.52,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1082,
@@ -7077,7 +7077,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 594,
         ["kill_count"] = 39,
-        ["points"] = 9641.8,
+        ["points"] = 9641.92,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 254,
@@ -7087,17 +7087,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1230,
         ["kill_count"] = 38,
-        ["points"] = 9319.43,
+        ["points"] = 9319.55,
       },
       ["Festergut"] = {
         ["rank_raids"] = 92,
         ["kill_count"] = 38,
-        ["points"] = 9920.46,
+        ["points"] = 9920.48,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1394,
         ["kill_count"] = 37,
-        ["points"] = 9265.29,
+        ["points"] = 9265.42,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 782,
@@ -7134,7 +7134,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 751,
         ["kill_count"] = 20,
-        ["points"] = 9557.92,
+        ["points"] = 9558.08,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 380,
@@ -7144,17 +7144,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 389,
         ["kill_count"] = 20,
-        ["points"] = 9715.71,
+        ["points"] = 9715.76,
       },
       ["Festergut"] = {
         ["rank_raids"] = 326,
         ["kill_count"] = 20,
-        ["points"] = 9735.43,
+        ["points"] = 9735.52,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1444,
         ["kill_count"] = 20,
-        ["points"] = 9247.96,
+        ["points"] = 9248.09,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 524,
@@ -7191,7 +7191,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 295,
         ["kill_count"] = 25,
-        ["points"] = 9804.3,
+        ["points"] = 9804.37,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1266,
@@ -7201,17 +7201,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 208,
         ["kill_count"] = 24,
-        ["points"] = 9819.09,
+        ["points"] = 9819.12,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1184,
         ["kill_count"] = 23,
-        ["points"] = 9277.4,
+        ["points"] = 9277.44,
       },
       ["Rotface"] = {
         ["rank_raids"] = 526,
         ["kill_count"] = 23,
-        ["points"] = 9643.04,
+        ["points"] = 9643.1,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1000,
@@ -7248,7 +7248,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1639,
         ["kill_count"] = 7,
-        ["points"] = 9197.97,
+        ["points"] = 9198.25,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1411,
@@ -7258,17 +7258,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 748,
         ["kill_count"] = 7,
-        ["points"] = 9526.19,
+        ["points"] = 9526.27,
       },
       ["Festergut"] = {
         ["rank_raids"] = 600,
         ["kill_count"] = 7,
-        ["points"] = 9576.34,
+        ["points"] = 9576.49,
       },
       ["Rotface"] = {
         ["rank_raids"] = 174,
         ["kill_count"] = 7,
-        ["points"] = 9840.58,
+        ["points"] = 9840.61,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 242,
@@ -7305,7 +7305,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 534,
         ["kill_count"] = 15,
-        ["points"] = 9668.01,
+        ["points"] = 9668.12,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 167,
@@ -7315,7 +7315,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3107,
         ["kill_count"] = 15,
-        ["points"] = 8702.62,
+        ["points"] = 8702.84,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1540,
@@ -7325,7 +7325,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1042,
         ["kill_count"] = 12,
-        ["points"] = 9403.92,
+        ["points"] = 9404.02,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 210,
@@ -7362,7 +7362,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1393,
         ["kill_count"] = 31,
-        ["points"] = 9285.34,
+        ["points"] = 9285.59,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 147,
@@ -7372,17 +7372,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 251,
         ["kill_count"] = 33,
-        ["points"] = 9800.14,
+        ["points"] = 9800.17,
       },
       ["Festergut"] = {
         ["rank_raids"] = 881,
         ["kill_count"] = 34,
-        ["points"] = 9425.9,
+        ["points"] = 9426.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 221,
         ["kill_count"] = 34,
-        ["points"] = 9809.39,
+        ["points"] = 9809.42,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 983,
@@ -7419,7 +7419,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 677,
         ["kill_count"] = 36,
-        ["points"] = 9599.86,
+        ["points"] = 9600.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 964,
@@ -7429,17 +7429,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 289,
         ["kill_count"] = 38,
-        ["points"] = 9776.02,
+        ["points"] = 9776.06,
       },
       ["Festergut"] = {
         ["rank_raids"] = 298,
         ["kill_count"] = 36,
-        ["points"] = 9756.18,
+        ["points"] = 9756.27,
       },
       ["Rotface"] = {
         ["rank_raids"] = 613,
         ["kill_count"] = 36,
-        ["points"] = 9592.79,
+        ["points"] = 9592.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 403,
@@ -7476,7 +7476,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 971,
         ["kill_count"] = 12,
-        ["points"] = 9456.58,
+        ["points"] = 9456.77,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 855,
@@ -7486,17 +7486,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1449,
         ["kill_count"] = 12,
-        ["points"] = 9248.79,
+        ["points"] = 9248.92,
       },
       ["Festergut"] = {
         ["rank_raids"] = 576,
         ["kill_count"] = 12,
-        ["points"] = 9588.45,
+        ["points"] = 9588.59,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1005,
         ["kill_count"] = 12,
-        ["points"] = 9421.24,
+        ["points"] = 9421.34,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 284,
@@ -7533,7 +7533,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 431,
         ["kill_count"] = 17,
-        ["points"] = 9730.91,
+        ["points"] = 9731.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 801,
@@ -7543,17 +7543,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 510,
         ["kill_count"] = 18,
-        ["points"] = 9648.52,
+        ["points"] = 9648.58,
       },
       ["Festergut"] = {
         ["rank_raids"] = 266,
         ["kill_count"] = 16,
-        ["points"] = 9780.39,
+        ["points"] = 9780.47,
       },
       ["Rotface"] = {
         ["rank_raids"] = 554,
         ["kill_count"] = 17,
-        ["points"] = 9629.18,
+        ["points"] = 9629.24,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1637,
@@ -7590,7 +7590,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 843,
         ["kill_count"] = 11,
-        ["points"] = 9514.24,
+        ["points"] = 9514.41,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 124,
@@ -7600,17 +7600,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1747,
         ["kill_count"] = 12,
-        ["points"] = 9140.25,
+        ["points"] = 9140.4,
       },
       ["Festergut"] = {
         ["rank_raids"] = 454,
         ["kill_count"] = 13,
-        ["points"] = 9659.35,
+        ["points"] = 9659.46,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1032,
         ["kill_count"] = 13,
-        ["points"] = 9407.38,
+        ["points"] = 9407.48,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1256,
@@ -7647,7 +7647,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 585,
         ["kill_count"] = 12,
-        ["points"] = 9645.29,
+        ["points"] = 9645.41,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 143,
@@ -7657,17 +7657,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2022,
         ["kill_count"] = 13,
-        ["points"] = 9035.15,
+        ["points"] = 9035.31,
       },
       ["Festergut"] = {
         ["rank_raids"] = 287,
         ["kill_count"] = 13,
-        ["points"] = 9763.1,
+        ["points"] = 9763.18,
       },
       ["Rotface"] = {
         ["rank_raids"] = 344,
         ["kill_count"] = 13,
-        ["points"] = 9727.95,
+        ["points"] = 9728.0,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 195,
@@ -7704,7 +7704,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 187,
         ["kill_count"] = 9,
-        ["points"] = 9856.72,
+        ["points"] = 9856.77,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 177,
@@ -7714,12 +7714,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1138,
         ["kill_count"] = 11,
-        ["points"] = 9362.51,
+        ["points"] = 9362.62,
       },
       ["Festergut"] = {
         ["rank_raids"] = 172,
         ["kill_count"] = 11,
-        ["points"] = 9853.02,
+        ["points"] = 9853.07,
       },
       ["Rotface"] = {
         ["rank_raids"] = 28,
@@ -7761,7 +7761,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 863,
         ["kill_count"] = 29,
-        ["points"] = 9505.5,
+        ["points"] = 9505.68,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 517,
@@ -7771,7 +7771,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 253,
         ["kill_count"] = 28,
-        ["points"] = 9796.69,
+        ["points"] = 9796.73,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2817,
@@ -7781,7 +7781,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 901,
         ["kill_count"] = 30,
-        ["points"] = 9457.63,
+        ["points"] = 9457.73,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 209,
@@ -7818,7 +7818,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 296,
         ["kill_count"] = 25,
-        ["points"] = 9802.55,
+        ["points"] = 9802.62,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 432,
@@ -7828,17 +7828,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 565,
         ["kill_count"] = 29,
-        ["points"] = 9614.06,
+        ["points"] = 9614.13,
       },
       ["Festergut"] = {
         ["rank_raids"] = 341,
         ["kill_count"] = 31,
-        ["points"] = 9725.06,
+        ["points"] = 9725.15,
       },
       ["Rotface"] = {
         ["rank_raids"] = 480,
         ["kill_count"] = 31,
-        ["points"] = 9658.64,
+        ["points"] = 9658.7,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1174,
@@ -7875,7 +7875,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 178,
         ["kill_count"] = 10,
-        ["points"] = 9861.96,
+        ["points"] = 9862.01,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 170,
@@ -7885,17 +7885,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 584,
         ["kill_count"] = 10,
-        ["points"] = 9605.44,
+        ["points"] = 9605.51,
       },
       ["Festergut"] = {
         ["rank_raids"] = 430,
         ["kill_count"] = 11,
-        ["points"] = 9674.91,
+        ["points"] = 9675.02,
       },
       ["Rotface"] = {
         ["rank_raids"] = 756,
         ["kill_count"] = 10,
-        ["points"] = 9520.01,
+        ["points"] = 9520.1,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 296,
@@ -7932,7 +7932,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 150,
         ["kill_count"] = 30,
-        ["points"] = 9882.93,
+        ["points"] = 9882.97,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 514,
@@ -7942,7 +7942,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 746,
         ["kill_count"] = 31,
-        ["points"] = 9527.91,
+        ["points"] = 9527.99,
       },
       ["Festergut"] = {
         ["rank_raids"] = 36,
@@ -7952,7 +7952,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1635,
         ["kill_count"] = 31,
-        ["points"] = 9171.72,
+        ["points"] = 9171.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 476,
@@ -7989,7 +7989,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 801,
         ["kill_count"] = 11,
-        ["points"] = 9528.22,
+        ["points"] = 9528.38,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1919,
@@ -7999,7 +7999,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 133,
         ["kill_count"] = 11,
-        ["points"] = 9882.84,
+        ["points"] = 9882.86,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3107,
@@ -8009,7 +8009,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 560,
         ["kill_count"] = 13,
-        ["points"] = 9623.98,
+        ["points"] = 9624.05,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 110,
@@ -8046,7 +8046,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 474,
         ["kill_count"] = 18,
-        ["points"] = 9704.7,
+        ["points"] = 9704.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1214,
@@ -8056,7 +8056,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 281,
         ["kill_count"] = 20,
-        ["points"] = 9779.46,
+        ["points"] = 9779.5,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1602,
@@ -8066,7 +8066,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1219,
         ["kill_count"] = 19,
-        ["points"] = 9329.41,
+        ["points"] = 9329.52,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 562,
@@ -8103,7 +8103,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 799,
         ["kill_count"] = 27,
-        ["points"] = 9529.97,
+        ["points"] = 9530.13,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 278,
@@ -8118,12 +8118,12 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 271,
         ["kill_count"] = 26,
-        ["points"] = 9778.66,
+        ["points"] = 9778.74,
       },
       ["Rotface"] = {
         ["rank_raids"] = 413,
         ["kill_count"] = 28,
-        ["points"] = 9682.9,
+        ["points"] = 9682.95,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1250,
@@ -8160,7 +8160,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 621,
         ["kill_count"] = 12,
-        ["points"] = 9620.83,
+        ["points"] = 9620.96,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 439,
@@ -8170,7 +8170,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 346,
         ["kill_count"] = 11,
-        ["points"] = 9741.56,
+        ["points"] = 9741.6,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1897,
@@ -8180,7 +8180,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 662,
         ["kill_count"] = 11,
-        ["points"] = 9565.07,
+        ["points"] = 9565.14,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1079,
@@ -8217,7 +8217,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1460,
         ["kill_count"] = 18,
-        ["points"] = 9269.61,
+        ["points"] = 9269.87,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1166,
@@ -8227,12 +8227,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 792,
         ["kill_count"] = 19,
-        ["points"] = 9508.96,
+        ["points"] = 9509.04,
       },
       ["Festergut"] = {
         ["rank_raids"] = 316,
         ["kill_count"] = 19,
-        ["points"] = 9745.81,
+        ["points"] = 9745.89,
       },
       ["Rotface"] = {
         ["rank_raids"] = 48,
@@ -8274,7 +8274,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 610,
         ["kill_count"] = 16,
-        ["points"] = 9629.56,
+        ["points"] = 9629.69,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1220,
@@ -8284,17 +8284,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 561,
         ["kill_count"] = 15,
-        ["points"] = 9619.23,
+        ["points"] = 9619.29,
       },
       ["Festergut"] = {
         ["rank_raids"] = 419,
         ["kill_count"] = 16,
-        ["points"] = 9678.37,
+        ["points"] = 9678.48,
       },
       ["Rotface"] = {
         ["rank_raids"] = 949,
         ["kill_count"] = 16,
-        ["points"] = 9442.04,
+        ["points"] = 9442.13,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 61,
@@ -8324,14 +8324,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Gabino"] = {
-    ["percentile"] = 95.35,
+    ["percentile"] = 95.36,
     ["server"] = "Icecrown",
     ["overall_rank"] = 147,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 363,
         ["kill_count"] = 34,
-        ["points"] = 9769.35,
+        ["points"] = 9769.43,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 385,
@@ -8341,17 +8341,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1412,
         ["kill_count"] = 35,
-        ["points"] = 9262.58,
+        ["points"] = 9262.7,
       },
       ["Festergut"] = {
         ["rank_raids"] = 506,
         ["kill_count"] = 37,
-        ["points"] = 9629.95,
+        ["points"] = 9630.08,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1531,
         ["kill_count"] = 36,
-        ["points"] = 9204.64,
+        ["points"] = 9204.78,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 610,
@@ -8388,7 +8388,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 484,
         ["kill_count"] = 5,
-        ["points"] = 9697.71,
+        ["points"] = 9697.82,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1181,
@@ -8403,7 +8403,7 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 81,
         ["kill_count"] = 5,
-        ["points"] = 9930.83,
+        ["points"] = 9930.86,
       },
       ["Rotface"] = {
         ["rank_raids"] = 24,
@@ -8445,7 +8445,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 355,
         ["kill_count"] = 39,
-        ["points"] = 9776.34,
+        ["points"] = 9776.42,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 215,
@@ -8455,7 +8455,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 403,
         ["kill_count"] = 39,
-        ["points"] = 9705.38,
+        ["points"] = 9705.43,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1074,
@@ -8465,7 +8465,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 597,
         ["kill_count"] = 39,
-        ["points"] = 9608.39,
+        ["points"] = 9608.45,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 887,
@@ -8502,7 +8502,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 435,
         ["kill_count"] = 52,
-        ["points"] = 9729.16,
+        ["points"] = 9729.26,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 377,
@@ -8512,17 +8512,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 616,
         ["kill_count"] = 52,
-        ["points"] = 9588.22,
+        ["points"] = 9588.29,
       },
       ["Festergut"] = {
         ["rank_raids"] = 822,
         ["kill_count"] = 50,
-        ["points"] = 9462.22,
+        ["points"] = 9462.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1359,
         ["kill_count"] = 50,
-        ["points"] = 9275.69,
+        ["points"] = 9275.81,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 594,
@@ -8559,7 +8559,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 364,
         ["kill_count"] = 9,
-        ["points"] = 9767.6,
+        ["points"] = 9767.69,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 240,
@@ -8569,17 +8569,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 674,
         ["kill_count"] = 9,
-        ["points"] = 9555.48,
+        ["points"] = 9555.56,
       },
       ["Festergut"] = {
         ["rank_raids"] = 103,
         ["kill_count"] = 8,
-        ["points"] = 9908.35,
+        ["points"] = 9908.38,
       },
       ["Rotface"] = {
         ["rank_raids"] = 534,
         ["kill_count"] = 8,
-        ["points"] = 9639.58,
+        ["points"] = 9639.64,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1511,
@@ -8616,7 +8616,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 189,
         ["kill_count"] = 15,
-        ["points"] = 9854.97,
+        ["points"] = 9855.02,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1024,
@@ -8626,17 +8626,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1680,
         ["kill_count"] = 16,
-        ["points"] = 9157.48,
+        ["points"] = 9157.62,
       },
       ["Festergut"] = {
         ["rank_raids"] = 275,
         ["kill_count"] = 17,
-        ["points"] = 9771.74,
+        ["points"] = 9771.82,
       },
       ["Rotface"] = {
         ["rank_raids"] = 757,
         ["kill_count"] = 17,
-        ["points"] = 9518.28,
+        ["points"] = 9518.36,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1092,
@@ -8673,7 +8673,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1331,
         ["kill_count"] = 19,
-        ["points"] = 9302.81,
+        ["points"] = 9303.06,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 264,
@@ -8683,7 +8683,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 110,
         ["kill_count"] = 20,
-        ["points"] = 9896.62,
+        ["points"] = 9896.64,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1421,
@@ -8693,7 +8693,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 433,
         ["kill_count"] = 19,
-        ["points"] = 9674.23,
+        ["points"] = 9674.29,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1362,
@@ -8730,7 +8730,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1377,
         ["kill_count"] = 24,
-        ["points"] = 9290.58,
+        ["points"] = 9290.83,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1096,
@@ -8740,12 +8740,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3212,
         ["kill_count"] = 24,
-        ["points"] = 8671.61,
+        ["points"] = 8671.83,
       },
       ["Festergut"] = {
         ["rank_raids"] = 249,
         ["kill_count"] = 25,
-        ["points"] = 9787.31,
+        ["points"] = 9787.38,
       },
       ["Rotface"] = {
         ["rank_raids"] = 113,
@@ -8787,7 +8787,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1247,
         ["kill_count"] = 18,
-        ["points"] = 9341.25,
+        ["points"] = 9341.48,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1326,
@@ -8797,17 +8797,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1043,
         ["kill_count"] = 22,
-        ["points"] = 9403.86,
+        ["points"] = 9403.96,
       },
       ["Festergut"] = {
         ["rank_raids"] = 751,
         ["kill_count"] = 24,
-        ["points"] = 9501.99,
+        ["points"] = 9502.16,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1139,
         ["kill_count"] = 22,
-        ["points"] = 9358.86,
+        ["points"] = 9358.97,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 295,
@@ -8844,7 +8844,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 223,
         ["kill_count"] = 16,
-        ["points"] = 9835.75,
+        ["points"] = 9835.81,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 695,
@@ -8854,12 +8854,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1833,
         ["kill_count"] = 14,
-        ["points"] = 9107.51,
+        ["points"] = 9107.67,
       },
       ["Festergut"] = {
         ["rank_raids"] = 84,
         ["kill_count"] = 15,
-        ["points"] = 9927.37,
+        ["points"] = 9927.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 88,
@@ -8901,7 +8901,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 964,
         ["kill_count"] = 15,
-        ["points"] = 9461.82,
+        ["points"] = 9462.01,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 637,
@@ -8911,17 +8911,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 894,
         ["kill_count"] = 13,
-        ["points"] = 9455.55,
+        ["points"] = 9455.64,
       },
       ["Festergut"] = {
         ["rank_raids"] = 464,
         ["kill_count"] = 15,
-        ["points"] = 9657.62,
+        ["points"] = 9657.74,
       },
       ["Rotface"] = {
         ["rank_raids"] = 376,
         ["kill_count"] = 15,
-        ["points"] = 9707.16,
+        ["points"] = 9707.21,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1226,
@@ -8958,7 +8958,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 652,
         ["kill_count"] = 15,
-        ["points"] = 9608.6,
+        ["points"] = 9608.73,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1325,
@@ -8968,17 +8968,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1548,
         ["kill_count"] = 17,
-        ["points"] = 9205.72,
+        ["points"] = 9205.86,
       },
       ["Festergut"] = {
         ["rank_raids"] = 416,
         ["kill_count"] = 18,
-        ["points"] = 9681.83,
+        ["points"] = 9681.94,
       },
       ["Rotface"] = {
         ["rank_raids"] = 988,
         ["kill_count"] = 18,
-        ["points"] = 9428.18,
+        ["points"] = 9428.27,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 243,
@@ -9015,7 +9015,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 311,
         ["kill_count"] = 16,
-        ["points"] = 9795.56,
+        ["points"] = 9795.63,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 992,
@@ -9025,7 +9025,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 317,
         ["kill_count"] = 18,
-        ["points"] = 9758.79,
+        ["points"] = 9758.83,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2130,
@@ -9035,7 +9035,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 527,
         ["kill_count"] = 18,
-        ["points"] = 9641.31,
+        ["points"] = 9641.37,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1176,
@@ -9072,7 +9072,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2161,
         ["kill_count"] = 19,
-        ["points"] = 9009.26,
+        ["points"] = 9009.61,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 331,
@@ -9082,17 +9082,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 520,
         ["kill_count"] = 19,
-        ["points"] = 9645.07,
+        ["points"] = 9645.13,
       },
       ["Festergut"] = {
         ["rank_raids"] = 882,
         ["kill_count"] = 20,
-        ["points"] = 9424.17,
+        ["points"] = 9424.37,
       },
       ["Rotface"] = {
         ["rank_raids"] = 390,
         ["kill_count"] = 19,
-        ["points"] = 9698.49,
+        ["points"] = 9698.54,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 318,
@@ -9129,7 +9129,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 742,
         ["kill_count"] = 40,
-        ["points"] = 9564.91,
+        ["points"] = 9565.07,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 588,
@@ -9139,17 +9139,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 811,
         ["kill_count"] = 45,
-        ["points"] = 9500.34,
+        ["points"] = 9500.43,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1004,
         ["kill_count"] = 45,
-        ["points"] = 9360.19,
+        ["points"] = 9360.41,
       },
       ["Rotface"] = {
         ["rank_raids"] = 632,
         ["kill_count"] = 45,
-        ["points"] = 9575.46,
+        ["points"] = 9575.54,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 523,
@@ -9186,7 +9186,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 728,
         ["kill_count"] = 18,
-        ["points"] = 9573.65,
+        ["points"] = 9573.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1615,
@@ -9196,17 +9196,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 363,
         ["kill_count"] = 22,
-        ["points"] = 9732.94,
+        ["points"] = 9732.99,
       },
       ["Festergut"] = {
         ["rank_raids"] = 449,
         ["kill_count"] = 22,
-        ["points"] = 9664.53,
+        ["points"] = 9664.65,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1220,
         ["kill_count"] = 22,
-        ["points"] = 9327.67,
+        ["points"] = 9327.79,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 529,
@@ -9243,7 +9243,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 630,
         ["kill_count"] = 25,
-        ["points"] = 9617.33,
+        ["points"] = 9617.47,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2471,
@@ -9253,12 +9253,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 429,
         ["kill_count"] = 24,
-        ["points"] = 9689.87,
+        ["points"] = 9689.92,
       },
       ["Festergut"] = {
         ["rank_raids"] = 310,
         ["kill_count"] = 24,
-        ["points"] = 9749.27,
+        ["points"] = 9749.35,
       },
       ["Rotface"] = {
         ["rank_raids"] = 18,
@@ -9300,7 +9300,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2351,
         ["kill_count"] = 22,
-        ["points"] = 8927.14,
+        ["points"] = 8927.51,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1611,
@@ -9310,17 +9310,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1604,
         ["kill_count"] = 23,
-        ["points"] = 9181.6,
+        ["points"] = 9181.74,
       },
       ["Festergut"] = {
         ["rank_raids"] = 902,
         ["kill_count"] = 23,
-        ["points"] = 9408.61,
+        ["points"] = 9408.82,
       },
       ["Rotface"] = {
         ["rank_raids"] = 269,
         ["kill_count"] = 23,
-        ["points"] = 9783.4,
+        ["points"] = 9783.44,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 493,
@@ -9357,7 +9357,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 374,
         ["kill_count"] = 17,
-        ["points"] = 9755.37,
+        ["points"] = 9755.46,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 169,
@@ -9367,7 +9367,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 997,
         ["kill_count"] = 17,
-        ["points"] = 9419.37,
+        ["points"] = 9419.47,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1365,
@@ -9377,7 +9377,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 255,
         ["kill_count"] = 17,
-        ["points"] = 9790.33,
+        ["points"] = 9790.37,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1602,
@@ -9414,7 +9414,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 144,
         ["kill_count"] = 13,
-        ["points"] = 9888.17,
+        ["points"] = 9888.21,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 136,
@@ -9424,7 +9424,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 855,
         ["kill_count"] = 13,
-        ["points"] = 9474.5,
+        ["points"] = 9474.59,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2441,
@@ -9434,7 +9434,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 292,
         ["kill_count"] = 13,
-        ["points"] = 9760.87,
+        ["points"] = 9760.91,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3479,
@@ -9471,7 +9471,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2884,
         ["kill_count"] = 12,
-        ["points"] = 8741.92,
+        ["points"] = 8742.36,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 682,
@@ -9481,17 +9481,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 96,
         ["kill_count"] = 12,
-        ["points"] = 9908.68,
+        ["points"] = 9908.7,
       },
       ["Festergut"] = {
         ["rank_raids"] = 180,
         ["kill_count"] = 11,
-        ["points"] = 9840.91,
+        ["points"] = 9840.97,
       },
       ["Rotface"] = {
         ["rank_raids"] = 743,
         ["kill_count"] = 11,
-        ["points"] = 9526.95,
+        ["points"] = 9527.03,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 428,
@@ -9528,7 +9528,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 396,
         ["kill_count"] = 13,
-        ["points"] = 9746.64,
+        ["points"] = 9746.72,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 112,
@@ -9538,17 +9538,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 712,
         ["kill_count"] = 13,
-        ["points"] = 9541.7,
+        ["points"] = 9541.77,
       },
       ["Festergut"] = {
         ["rank_raids"] = 421,
         ["kill_count"] = 13,
-        ["points"] = 9676.64,
+        ["points"] = 9676.75,
       },
       ["Rotface"] = {
         ["rank_raids"] = 800,
         ["kill_count"] = 13,
-        ["points"] = 9504.42,
+        ["points"] = 9504.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 291,
@@ -9585,7 +9585,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2863,
         ["kill_count"] = 11,
-        ["points"] = 8745.41,
+        ["points"] = 8745.85,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1519,
@@ -9595,17 +9595,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 980,
         ["kill_count"] = 11,
-        ["points"] = 9426.26,
+        ["points"] = 9426.36,
       },
       ["Festergut"] = {
         ["rank_raids"] = 406,
         ["kill_count"] = 11,
-        ["points"] = 9688.74,
+        ["points"] = 9688.85,
       },
       ["Rotface"] = {
         ["rank_raids"] = 197,
         ["kill_count"] = 11,
-        ["points"] = 9821.52,
+        ["points"] = 9821.55,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 176,
@@ -9642,7 +9642,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 358,
         ["kill_count"] = 8,
-        ["points"] = 9774.59,
+        ["points"] = 9774.67,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 131,
@@ -9652,7 +9652,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 824,
         ["kill_count"] = 10,
-        ["points"] = 9496.9,
+        ["points"] = 9496.99,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2305,
@@ -9662,7 +9662,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 417,
         ["kill_count"] = 11,
-        ["points"] = 9681.16,
+        ["points"] = 9681.22,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 383,
@@ -9699,7 +9699,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 733,
         ["kill_count"] = 47,
-        ["points"] = 9570.16,
+        ["points"] = 9570.31,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4500,
@@ -9709,17 +9709,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 405,
         ["kill_count"] = 49,
-        ["points"] = 9703.65,
+        ["points"] = 9703.7,
       },
       ["Festergut"] = {
         ["rank_raids"] = 861,
         ["kill_count"] = 48,
-        ["points"] = 9432.82,
+        ["points"] = 9433.02,
       },
       ["Rotface"] = {
         ["rank_raids"] = 315,
         ["kill_count"] = 48,
-        ["points"] = 9748.74,
+        ["points"] = 9748.79,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 125,
@@ -9756,7 +9756,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 755,
         ["kill_count"] = 18,
-        ["points"] = 9554.43,
+        ["points"] = 9554.59,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 319,
@@ -9766,17 +9766,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 464,
         ["kill_count"] = 23,
-        ["points"] = 9672.64,
+        ["points"] = 9672.7,
       },
       ["Festergut"] = {
         ["rank_raids"] = 139,
         ["kill_count"] = 23,
-        ["points"] = 9882.41,
+        ["points"] = 9882.45,
       },
       ["Rotface"] = {
         ["rank_raids"] = 631,
         ["kill_count"] = 22,
-        ["points"] = 9577.2,
+        ["points"] = 9577.27,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1629,
@@ -9813,7 +9813,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 496,
         ["kill_count"] = 7,
-        ["points"] = 9687.23,
+        ["points"] = 9687.34,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2544,
@@ -9823,7 +9823,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 532,
         ["kill_count"] = 7,
-        ["points"] = 9638.18,
+        ["points"] = 9638.24,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1105,
@@ -9833,7 +9833,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 965,
         ["kill_count"] = 6,
-        ["points"] = 9436.84,
+        ["points"] = 9436.94,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1502,
@@ -9870,7 +9870,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 489,
         ["kill_count"] = 46,
-        ["points"] = 9694.22,
+        ["points"] = 9694.32,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1751,
@@ -9880,17 +9880,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 388,
         ["kill_count"] = 54,
-        ["points"] = 9717.44,
+        ["points"] = 9717.48,
       },
       ["Festergut"] = {
         ["rank_raids"] = 302,
         ["kill_count"] = 54,
-        ["points"] = 9752.72,
+        ["points"] = 9752.81,
       },
       ["Rotface"] = {
         ["rank_raids"] = 149,
         ["kill_count"] = 51,
-        ["points"] = 9861.38,
+        ["points"] = 9861.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 681,
@@ -9927,7 +9927,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1265,
         ["kill_count"] = 16,
-        ["points"] = 9332.52,
+        ["points"] = 9332.75,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 15,
@@ -9937,7 +9937,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 157,
         ["kill_count"] = 18,
-        ["points"] = 9865.61,
+        ["points"] = 9865.63,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2114,
@@ -9947,7 +9947,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 805,
         ["kill_count"] = 18,
-        ["points"] = 9502.69,
+        ["points"] = 9502.77,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1601,
@@ -9984,7 +9984,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 607,
         ["kill_count"] = 21,
-        ["points"] = 9633.06,
+        ["points"] = 9633.19,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 47,
@@ -9994,7 +9994,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1146,
         ["kill_count"] = 24,
-        ["points"] = 9357.34,
+        ["points"] = 9357.45,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2375,
@@ -10004,7 +10004,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1248,
         ["kill_count"] = 20,
-        ["points"] = 9317.28,
+        ["points"] = 9317.39,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 104,
@@ -10041,7 +10041,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3206,
         ["kill_count"] = 16,
-        ["points"] = 8645.82,
+        ["points"] = 8646.29,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2828,
@@ -10051,17 +10051,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 848,
         ["kill_count"] = 16,
-        ["points"] = 9477.95,
+        ["points"] = 9478.04,
       },
       ["Festergut"] = {
         ["rank_raids"] = 243,
         ["kill_count"] = 16,
-        ["points"] = 9794.22,
+        ["points"] = 9794.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 137,
         ["kill_count"] = 16,
-        ["points"] = 9868.31,
+        ["points"] = 9868.33,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 259,
@@ -10091,14 +10091,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Pedal"] = {
-    ["percentile"] = 94.51,
+    ["percentile"] = 94.52,
     ["server"] = "Icecrown",
     ["overall_rank"] = 178,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 488,
         ["kill_count"] = 2,
-        ["points"] = 9695.96,
+        ["points"] = 9696.07,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3214,
@@ -10108,17 +10108,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 333,
         ["kill_count"] = 5,
-        ["points"] = 9750.17,
+        ["points"] = 9750.22,
       },
       ["Festergut"] = {
         ["rank_raids"] = 248,
         ["kill_count"] = 5,
-        ["points"] = 9789.04,
+        ["points"] = 9789.11,
       },
       ["Rotface"] = {
         ["rank_raids"] = 841,
         ["kill_count"] = 5,
-        ["points"] = 9487.09,
+        ["points"] = 9487.18,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2044,
@@ -10155,7 +10155,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 860,
         ["kill_count"] = 29,
-        ["points"] = 9507.25,
+        ["points"] = 9507.42,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 245,
@@ -10165,7 +10165,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 817,
         ["kill_count"] = 29,
-        ["points"] = 9498.62,
+        ["points"] = 9498.71,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1382,
@@ -10212,7 +10212,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 903,
         ["kill_count"] = 13,
-        ["points"] = 9491.53,
+        ["points"] = 9491.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 593,
@@ -10222,7 +10222,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 906,
         ["kill_count"] = 13,
-        ["points"] = 9452.1,
+        ["points"] = 9452.2,
       },
       ["Festergut"] = {
         ["rank_raids"] = 15,
@@ -10232,7 +10232,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 857,
         ["kill_count"] = 13,
-        ["points"] = 9483.63,
+        ["points"] = 9483.71,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 541,
@@ -10269,7 +10269,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 163,
         ["kill_count"] = 8,
-        ["points"] = 9875.94,
+        ["points"] = 9875.98,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3627,
@@ -10279,17 +10279,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 449,
         ["kill_count"] = 8,
-        ["points"] = 9679.53,
+        ["points"] = 9679.59,
       },
       ["Festergut"] = {
         ["rank_raids"] = 637,
         ["kill_count"] = 8,
-        ["points"] = 9564.24,
+        ["points"] = 9564.39,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1627,
         ["kill_count"] = 8,
-        ["points"] = 9173.45,
+        ["points"] = 9173.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 124,
@@ -10326,7 +10326,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1498,
         ["kill_count"] = 6,
-        ["points"] = 9250.39,
+        ["points"] = 9250.66,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 301,
@@ -10383,7 +10383,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 683,
         ["kill_count"] = 11,
-        ["points"] = 9594.62,
+        ["points"] = 9594.76,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1165,
@@ -10393,17 +10393,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 614,
         ["kill_count"] = 10,
-        ["points"] = 9589.94,
+        ["points"] = 9590.01,
       },
       ["Festergut"] = {
         ["rank_raids"] = 434,
         ["kill_count"] = 10,
-        ["points"] = 9671.45,
+        ["points"] = 9671.56,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3359,
         ["kill_count"] = 10,
-        ["points"] = 8644.95,
+        ["points"] = 8645.18,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 358,
@@ -10440,7 +10440,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 466,
         ["kill_count"] = 47,
-        ["points"] = 9715.18,
+        ["points"] = 9715.28,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 384,
@@ -10450,12 +10450,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 191,
         ["kill_count"] = 50,
-        ["points"] = 9829.43,
+        ["points"] = 9829.46,
       },
       ["Festergut"] = {
         ["rank_raids"] = 351,
         ["kill_count"] = 49,
-        ["points"] = 9716.41,
+        ["points"] = 9716.51,
       },
       ["Rotface"] = {
         ["rank_raids"] = 51,
@@ -10490,14 +10490,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Hajli"] = {
-    ["percentile"] = 94.42,
+    ["percentile"] = 94.43,
     ["server"] = "Icecrown",
     ["overall_rank"] = 185,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 765,
         ["kill_count"] = 12,
-        ["points"] = 9549.19,
+        ["points"] = 9549.34,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3673,
@@ -10507,17 +10507,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 696,
         ["kill_count"] = 16,
-        ["points"] = 9545.14,
+        ["points"] = 9545.22,
       },
       ["Festergut"] = {
         ["rank_raids"] = 285,
         ["kill_count"] = 16,
-        ["points"] = 9764.83,
+        ["points"] = 9764.91,
       },
       ["Rotface"] = {
         ["rank_raids"] = 799,
         ["kill_count"] = 16,
-        ["points"] = 9506.15,
+        ["points"] = 9506.24,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 905,
@@ -10554,7 +10554,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 613,
         ["kill_count"] = 6,
-        ["points"] = 9626.07,
+        ["points"] = 9626.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 744,
@@ -10564,17 +10564,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 933,
         ["kill_count"] = 7,
-        ["points"] = 9441.76,
+        ["points"] = 9441.86,
       },
       ["Festergut"] = {
         ["rank_raids"] = 319,
         ["kill_count"] = 7,
-        ["points"] = 9742.35,
+        ["points"] = 9742.44,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2271,
         ["kill_count"] = 7,
-        ["points"] = 8934.33,
+        ["points"] = 8934.51,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1178,
@@ -10611,7 +10611,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1871,
         ["kill_count"] = 35,
-        ["points"] = 9103.62,
+        ["points"] = 9103.93,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1277,
@@ -10621,17 +10621,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 399,
         ["kill_count"] = 35,
-        ["points"] = 9708.82,
+        ["points"] = 9708.87,
       },
       ["Festergut"] = {
         ["rank_raids"] = 883,
         ["kill_count"] = 37,
-        ["points"] = 9422.45,
+        ["points"] = 9422.64,
       },
       ["Rotface"] = {
         ["rank_raids"] = 890,
         ["kill_count"] = 35,
-        ["points"] = 9461.1,
+        ["points"] = 9461.19,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 307,
@@ -10668,7 +10668,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 152,
         ["kill_count"] = 23,
-        ["points"] = 9879.43,
+        ["points"] = 9879.48,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 707,
@@ -10678,17 +10678,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 426,
         ["kill_count"] = 24,
-        ["points"] = 9693.31,
+        ["points"] = 9693.37,
       },
       ["Festergut"] = {
         ["rank_raids"] = 146,
         ["kill_count"] = 24,
-        ["points"] = 9870.31,
+        ["points"] = 9870.35,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1121,
         ["kill_count"] = 24,
-        ["points"] = 9362.33,
+        ["points"] = 9362.44,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2403,
@@ -10725,7 +10725,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2730,
         ["kill_count"] = 25,
-        ["points"] = 8790.84,
+        ["points"] = 8791.27,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 266,
@@ -10735,17 +10735,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1007,
         ["kill_count"] = 25,
-        ["points"] = 9415.92,
+        ["points"] = 9416.02,
       },
       ["Festergut"] = {
         ["rank_raids"] = 557,
         ["kill_count"] = 24,
-        ["points"] = 9602.28,
+        ["points"] = 9602.42,
       },
       ["Rotface"] = {
         ["rank_raids"] = 618,
         ["kill_count"] = 25,
-        ["points"] = 9587.59,
+        ["points"] = 9587.66,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 321,
@@ -10782,7 +10782,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 687,
         ["kill_count"] = 11,
-        ["points"] = 9592.87,
+        ["points"] = 9593.01,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1693,
@@ -10792,7 +10792,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 432,
         ["kill_count"] = 12,
-        ["points"] = 9688.15,
+        ["points"] = 9688.2,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1084,
@@ -10802,7 +10802,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1097,
         ["kill_count"] = 11,
-        ["points"] = 9372.73,
+        ["points"] = 9372.83,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 496,
@@ -10839,7 +10839,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 609,
         ["kill_count"] = 14,
-        ["points"] = 9631.31,
+        ["points"] = 9631.44,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 611,
@@ -10849,17 +10849,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 482,
         ["kill_count"] = 15,
-        ["points"] = 9664.02,
+        ["points"] = 9664.08,
       },
       ["Festergut"] = {
         ["rank_raids"] = 408,
         ["kill_count"] = 15,
-        ["points"] = 9687.01,
+        ["points"] = 9687.12,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1521,
         ["kill_count"] = 15,
-        ["points"] = 9209.84,
+        ["points"] = 9209.98,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1216,
@@ -10896,7 +10896,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 732,
         ["kill_count"] = 22,
-        ["points"] = 9571.9,
+        ["points"] = 9572.05,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1393,
@@ -10906,17 +10906,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1063,
         ["kill_count"] = 23,
-        ["points"] = 9396.97,
+        ["points"] = 9397.07,
       },
       ["Festergut"] = {
         ["rank_raids"] = 683,
         ["kill_count"] = 23,
-        ["points"] = 9536.57,
+        ["points"] = 9536.73,
       },
       ["Rotface"] = {
         ["rank_raids"] = 441,
         ["kill_count"] = 23,
-        ["points"] = 9669.03,
+        ["points"] = 9669.09,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1054,
@@ -10953,7 +10953,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 475,
         ["kill_count"] = 28,
-        ["points"] = 9702.95,
+        ["points"] = 9703.06,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2016,
@@ -10963,7 +10963,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2819,
         ["kill_count"] = 28,
-        ["points"] = 8774.98,
+        ["points"] = 8775.19,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1220,
@@ -10973,7 +10973,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1839,
         ["kill_count"] = 28,
-        ["points"] = 9104.14,
+        ["points"] = 9104.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 268,
@@ -11010,7 +11010,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1313,
         ["kill_count"] = 10,
-        ["points"] = 9316.79,
+        ["points"] = 9317.03,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2196,
@@ -11020,17 +11020,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 424,
         ["kill_count"] = 11,
-        ["points"] = 9696.76,
+        ["points"] = 9696.81,
       },
       ["Festergut"] = {
         ["rank_raids"] = 399,
         ["kill_count"] = 11,
-        ["points"] = 9695.66,
+        ["points"] = 9695.76,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1405,
         ["kill_count"] = 11,
-        ["points"] = 9260.09,
+        ["points"] = 9260.22,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 912,
@@ -11060,14 +11060,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Gattamorta"] = {
-    ["percentile"] = 94.21,
+    ["percentile"] = 94.22,
     ["server"] = "Icecrown",
     ["overall_rank"] = 195,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1129,
         ["kill_count"] = 25,
-        ["points"] = 9384.94,
+        ["points"] = 9385.15,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2113,
@@ -11082,12 +11082,12 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 708,
         ["kill_count"] = 25,
-        ["points"] = 9531.39,
+        ["points"] = 9531.55,
       },
       ["Rotface"] = {
         ["rank_raids"] = 285,
         ["kill_count"] = 25,
-        ["points"] = 9767.8,
+        ["points"] = 9767.84,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3244,
@@ -11124,7 +11124,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 360,
         ["kill_count"] = 15,
-        ["points"] = 9772.85,
+        ["points"] = 9772.93,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2835,
@@ -11134,7 +11134,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1421,
         ["kill_count"] = 16,
-        ["points"] = 9260.85,
+        ["points"] = 9260.98,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1584,
@@ -11144,7 +11144,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1489,
         ["kill_count"] = 16,
-        ["points"] = 9227.17,
+        ["points"] = 9227.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1212,
@@ -11181,7 +11181,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1130,
         ["kill_count"] = 6,
-        ["points"] = 9383.19,
+        ["points"] = 9383.41,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1036,
@@ -11238,7 +11238,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 92,
         ["kill_count"] = 12,
-        ["points"] = 9926.61,
+        ["points"] = 9926.64,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3243,
@@ -11248,17 +11248,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 383,
         ["kill_count"] = 13,
-        ["points"] = 9720.88,
+        ["points"] = 9720.93,
       },
       ["Festergut"] = {
         ["rank_raids"] = 858,
         ["kill_count"] = 12,
-        ["points"] = 9436.28,
+        ["points"] = 9436.47,
       },
       ["Rotface"] = {
         ["rank_raids"] = 363,
         ["kill_count"] = 13,
-        ["points"] = 9714.09,
+        ["points"] = 9714.14,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 979,
@@ -11295,7 +11295,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2837,
         ["kill_count"] = 15,
-        ["points"] = 8752.4,
+        ["points"] = 8752.84,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 620,
@@ -11305,17 +11305,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1586,
         ["kill_count"] = 16,
-        ["points"] = 9188.49,
+        ["points"] = 9188.63,
       },
       ["Festergut"] = {
         ["rank_raids"] = 338,
         ["kill_count"] = 16,
-        ["points"] = 9726.79,
+        ["points"] = 9726.88,
       },
       ["Rotface"] = {
         ["rank_raids"] = 848,
         ["kill_count"] = 15,
-        ["points"] = 9485.36,
+        ["points"] = 9485.45,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 574,
@@ -11352,7 +11352,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 133,
         ["kill_count"] = 17,
-        ["points"] = 9895.16,
+        ["points"] = 9895.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 539,
@@ -11362,7 +11362,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 342,
         ["kill_count"] = 18,
-        ["points"] = 9743.28,
+        ["points"] = 9743.32,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2115,
@@ -11372,7 +11372,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 741,
         ["kill_count"] = 17,
-        ["points"] = 9528.68,
+        ["points"] = 9528.76,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1749,
@@ -11409,7 +11409,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1180,
         ["kill_count"] = 18,
-        ["points"] = 9370.96,
+        ["points"] = 9371.18,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 951,
@@ -11419,17 +11419,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 592,
         ["kill_count"] = 17,
-        ["points"] = 9602.0,
+        ["points"] = 9602.07,
       },
       ["Festergut"] = {
         ["rank_raids"] = 473,
         ["kill_count"] = 18,
-        ["points"] = 9654.16,
+        ["points"] = 9654.28,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1101,
         ["kill_count"] = 18,
-        ["points"] = 9369.26,
+        ["points"] = 9369.37,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 642,
@@ -11466,7 +11466,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1255,
         ["kill_count"] = 32,
-        ["points"] = 9337.76,
+        ["points"] = 9337.99,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 295,
@@ -11476,17 +11476,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1057,
         ["kill_count"] = 34,
-        ["points"] = 9398.69,
+        ["points"] = 9398.79,
       },
       ["Festergut"] = {
         ["rank_raids"] = 492,
         ["kill_count"] = 33,
-        ["points"] = 9640.33,
+        ["points"] = 9640.45,
       },
       ["Rotface"] = {
         ["rank_raids"] = 976,
         ["kill_count"] = 33,
-        ["points"] = 9433.37,
+        ["points"] = 9433.47,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1662,
@@ -11523,7 +11523,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 759,
         ["kill_count"] = 39,
-        ["points"] = 9550.93,
+        ["points"] = 9551.09,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 300,
@@ -11533,7 +11533,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 146,
         ["kill_count"] = 38,
-        ["points"] = 9874.22,
+        ["points"] = 9874.25,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1127,
@@ -11543,7 +11543,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 294,
         ["kill_count"] = 38,
-        ["points"] = 9757.41,
+        ["points"] = 9757.45,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1165,
@@ -11580,7 +11580,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1549,
         ["kill_count"] = 15,
-        ["points"] = 9231.17,
+        ["points"] = 9231.44,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 309,
@@ -11590,7 +11590,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 173,
         ["kill_count"] = 18,
-        ["points"] = 9850.1,
+        ["points"] = 9850.13,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2265,
@@ -11600,7 +11600,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1417,
         ["kill_count"] = 18,
-        ["points"] = 9253.16,
+        ["points"] = 9253.29,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 860,
@@ -11637,7 +11637,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1646,
         ["kill_count"] = 10,
-        ["points"] = 9194.48,
+        ["points"] = 9194.76,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2690,
@@ -11647,17 +11647,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 443,
         ["kill_count"] = 10,
-        ["points"] = 9682.98,
+        ["points"] = 9683.03,
       },
       ["Festergut"] = {
         ["rank_raids"] = 334,
         ["kill_count"] = 10,
-        ["points"] = 9731.97,
+        ["points"] = 9732.07,
       },
       ["Rotface"] = {
         ["rank_raids"] = 372,
         ["kill_count"] = 10,
-        ["points"] = 9708.89,
+        ["points"] = 9708.94,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1708,
@@ -11694,7 +11694,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 698,
         ["kill_count"] = 22,
-        ["points"] = 9589.38,
+        ["points"] = 9589.52,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1927,
@@ -11704,17 +11704,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1267,
         ["kill_count"] = 24,
-        ["points"] = 9309.1,
+        ["points"] = 9309.22,
       },
       ["Festergut"] = {
         ["rank_raids"] = 643,
         ["kill_count"] = 24,
-        ["points"] = 9562.51,
+        ["points"] = 9562.66,
       },
       ["Rotface"] = {
         ["rank_raids"] = 175,
         ["kill_count"] = 24,
-        ["points"] = 9838.85,
+        ["points"] = 9838.88,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 558,
@@ -11751,7 +11751,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2740,
         ["kill_count"] = 40,
-        ["points"] = 8787.35,
+        ["points"] = 8787.77,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 321,
@@ -11761,7 +11761,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 382,
         ["kill_count"] = 40,
-        ["points"] = 9722.61,
+        ["points"] = 9722.65,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1566,
@@ -11771,7 +11771,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2113,
         ["kill_count"] = 40,
-        ["points"] = 8998.44,
+        ["points"] = 8998.61,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 517,
@@ -11808,7 +11808,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 569,
         ["kill_count"] = 26,
-        ["points"] = 9650.53,
+        ["points"] = 9650.66,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2952,
@@ -11818,17 +11818,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 890,
         ["kill_count"] = 25,
-        ["points"] = 9458.99,
+        ["points"] = 9459.09,
       },
       ["Festergut"] = {
         ["rank_raids"] = 624,
         ["kill_count"] = 25,
-        ["points"] = 9569.43,
+        ["points"] = 9569.58,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1280,
         ["kill_count"] = 25,
-        ["points"] = 9306.88,
+        ["points"] = 9307.0,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1283,
@@ -11865,7 +11865,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 536,
         ["kill_count"] = 17,
-        ["points"] = 9664.51,
+        ["points"] = 9664.63,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 114,
@@ -11875,17 +11875,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3547,
         ["kill_count"] = 17,
-        ["points"] = 8587.18,
+        ["points"] = 8587.42,
       },
       ["Festergut"] = {
         ["rank_raids"] = 164,
         ["kill_count"] = 17,
-        ["points"] = 9858.21,
+        ["points"] = 9858.25,
       },
       ["Rotface"] = {
         ["rank_raids"] = 607,
         ["kill_count"] = 17,
-        ["points"] = 9597.99,
+        ["points"] = 9598.06,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2914,
@@ -11922,7 +11922,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 470,
         ["kill_count"] = 9,
-        ["points"] = 9709.94,
+        ["points"] = 9710.04,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1367,
@@ -11932,17 +11932,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 374,
         ["kill_count"] = 11,
-        ["points"] = 9726.05,
+        ["points"] = 9726.1,
       },
       ["Festergut"] = {
         ["rank_raids"] = 615,
         ["kill_count"] = 11,
-        ["points"] = 9572.89,
+        ["points"] = 9573.03,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1016,
         ["kill_count"] = 11,
-        ["points"] = 9416.05,
+        ["points"] = 9416.15,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2091,
@@ -11979,7 +11979,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1288,
         ["kill_count"] = 13,
-        ["points"] = 9325.53,
+        ["points"] = 9325.76,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 995,
@@ -11989,7 +11989,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 211,
         ["kill_count"] = 13,
-        ["points"] = 9817.37,
+        ["points"] = 9817.4,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1254,
@@ -11999,7 +11999,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 837,
         ["kill_count"] = 13,
-        ["points"] = 9490.56,
+        ["points"] = 9490.64,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1680,
@@ -12036,7 +12036,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 781,
         ["kill_count"] = 22,
-        ["points"] = 9540.45,
+        ["points"] = 9540.61,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 409,
@@ -12046,7 +12046,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2815,
         ["kill_count"] = 24,
-        ["points"] = 8776.71,
+        ["points"] = 8776.92,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1700,
@@ -12056,7 +12056,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 437,
         ["kill_count"] = 24,
-        ["points"] = 9670.77,
+        ["points"] = 9670.82,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1646,
@@ -12093,7 +12093,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1540,
         ["kill_count"] = 4,
-        ["points"] = 9236.41,
+        ["points"] = 9236.68,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 388,
@@ -12103,17 +12103,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 658,
         ["kill_count"] = 4,
-        ["points"] = 9569.26,
+        ["points"] = 9569.34,
       },
       ["Festergut"] = {
         ["rank_raids"] = 591,
         ["kill_count"] = 4,
-        ["points"] = 9581.53,
+        ["points"] = 9581.68,
       },
       ["Rotface"] = {
         ["rank_raids"] = 297,
         ["kill_count"] = 4,
-        ["points"] = 9753.94,
+        ["points"] = 9753.98,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3056,
@@ -12150,7 +12150,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 806,
         ["kill_count"] = 26,
-        ["points"] = 9526.47,
+        ["points"] = 9526.64,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 937,
@@ -12160,7 +12160,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 887,
         ["kill_count"] = 28,
-        ["points"] = 9462.44,
+        ["points"] = 9462.53,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1396,
@@ -12170,7 +12170,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 409,
         ["kill_count"] = 25,
-        ["points"] = 9686.36,
+        ["points"] = 9686.42,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 996,
@@ -12207,7 +12207,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2305,
         ["kill_count"] = 28,
-        ["points"] = 8949.85,
+        ["points"] = 8950.22,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1808,
@@ -12217,7 +12217,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1453,
         ["kill_count"] = 28,
-        ["points"] = 9247.07,
+        ["points"] = 9247.2,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2492,
@@ -12227,7 +12227,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 930,
         ["kill_count"] = 29,
-        ["points"] = 9450.7,
+        ["points"] = 9450.8,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 457,
@@ -12264,7 +12264,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 535,
         ["kill_count"] = 46,
-        ["points"] = 9666.26,
+        ["points"] = 9666.38,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1694,
@@ -12274,17 +12274,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1659,
         ["kill_count"] = 52,
-        ["points"] = 9166.09,
+        ["points"] = 9166.24,
       },
       ["Festergut"] = {
         ["rank_raids"] = 522,
         ["kill_count"] = 45,
-        ["points"] = 9621.3,
+        ["points"] = 9621.43,
       },
       ["Rotface"] = {
         ["rank_raids"] = 863,
         ["kill_count"] = 45,
-        ["points"] = 9478.43,
+        ["points"] = 9478.52,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 653,
@@ -12321,7 +12321,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1824,
         ["kill_count"] = 16,
-        ["points"] = 9122.84,
+        ["points"] = 9123.14,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1099,
@@ -12331,17 +12331,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 648,
         ["kill_count"] = 17,
-        ["points"] = 9572.71,
+        ["points"] = 9572.78,
       },
       ["Festergut"] = {
         ["rank_raids"] = 160,
         ["kill_count"] = 16,
-        ["points"] = 9863.39,
+        ["points"] = 9863.44,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1025,
         ["kill_count"] = 16,
-        ["points"] = 9409.11,
+        ["points"] = 9409.22,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2109,
@@ -12378,7 +12378,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 445,
         ["kill_count"] = 5,
-        ["points"] = 9722.17,
+        ["points"] = 9722.27,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1083,
@@ -12388,7 +12388,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1198,
         ["kill_count"] = 7,
-        ["points"] = 9334.94,
+        ["points"] = 9335.06,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1436,
@@ -12398,7 +12398,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 836,
         ["kill_count"] = 7,
-        ["points"] = 9492.29,
+        ["points"] = 9492.38,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1153,
@@ -12435,7 +12435,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 204,
         ["kill_count"] = 19,
-        ["points"] = 9846.23,
+        ["points"] = 9846.29,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 776,
@@ -12445,7 +12445,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 571,
         ["kill_count"] = 18,
-        ["points"] = 9610.61,
+        ["points"] = 9610.68,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1462,
@@ -12455,7 +12455,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 871,
         ["kill_count"] = 17,
-        ["points"] = 9473.23,
+        ["points"] = 9473.32,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 802,
@@ -12492,7 +12492,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2514,
         ["kill_count"] = 6,
-        ["points"] = 8864.23,
+        ["points"] = 8864.63,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1687,
@@ -12502,7 +12502,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 93,
         ["kill_count"] = 6,
-        ["points"] = 9910.41,
+        ["points"] = 9910.42,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1642,
@@ -12512,7 +12512,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1179,
         ["kill_count"] = 7,
-        ["points"] = 9345.0,
+        ["points"] = 9345.11,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 953,
@@ -12549,7 +12549,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 330,
         ["kill_count"] = 27,
-        ["points"] = 9788.57,
+        ["points"] = 9788.65,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 225,
@@ -12559,17 +12559,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3376,
         ["kill_count"] = 26,
-        ["points"] = 8621.64,
+        ["points"] = 8621.88,
       },
       ["Festergut"] = {
         ["rank_raids"] = 757,
         ["kill_count"] = 26,
-        ["points"] = 9498.53,
+        ["points"] = 9498.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3877,
         ["kill_count"] = 27,
-        ["points"] = 8485.53,
+        ["points"] = 8485.79,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1334,
@@ -12606,7 +12606,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 716,
         ["kill_count"] = 26,
-        ["points"] = 9578.89,
+        ["points"] = 9579.04,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2023,
@@ -12616,17 +12616,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1397,
         ["kill_count"] = 27,
-        ["points"] = 9267.75,
+        ["points"] = 9267.87,
       },
       ["Festergut"] = {
         ["rank_raids"] = 961,
         ["kill_count"] = 22,
-        ["points"] = 9375.76,
+        ["points"] = 9375.97,
       },
       ["Rotface"] = {
         ["rank_raids"] = 967,
         ["kill_count"] = 22,
-        ["points"] = 9435.11,
+        ["points"] = 9435.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 454,
@@ -12663,7 +12663,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 590,
         ["kill_count"] = 16,
-        ["points"] = 9643.54,
+        ["points"] = 9643.67,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 894,
@@ -12673,7 +12673,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1378,
         ["kill_count"] = 16,
-        ["points"] = 9272.92,
+        ["points"] = 9273.04,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2436,
@@ -12683,7 +12683,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 684,
         ["kill_count"] = 16,
-        ["points"] = 9552.94,
+        ["points"] = 9553.01,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3017,
@@ -12712,72 +12712,15 @@ UWULogsData[1][2] = {
       },
     },
   },
-  ["Healingtouch"] = {
+  ["Ferociousnes"] = {
     ["percentile"] = 93.57,
     ["server"] = "Icecrown",
     ["overall_rank"] = 224,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 99,
-        ["kill_count"] = 15,
-        ["points"] = 9921.37,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 1025,
-        ["kill_count"] = 11,
-        ["points"] = 9341.0,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1529,
-        ["kill_count"] = 14,
-        ["points"] = 9219.5,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 385,
-        ["kill_count"] = 15,
-        ["points"] = 9700.85,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 2063,
-        ["kill_count"] = 14,
-        ["points"] = 9015.77,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 2925,
-        ["kill_count"] = 12,
-        ["points"] = 8673.5,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 2260,
-        ["kill_count"] = 13,
-        ["points"] = 9022.52,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 569,
-        ["kill_count"] = 14,
-        ["points"] = 9566.5,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 501,
-        ["kill_count"] = 12,
-        ["points"] = 9600.5,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 827,
-        ["kill_count"] = 11,
-        ["points"] = 9437.5,
-      },
-    },
-  },
-  ["Ferociousnes"] = {
-    ["percentile"] = 93.57,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 225,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
         ["rank_raids"] = 2205,
         ["kill_count"] = 22,
-        ["points"] = 8990.04,
+        ["points"] = 8990.39,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1692,
@@ -12787,17 +12730,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 540,
         ["kill_count"] = 21,
-        ["points"] = 9629.57,
+        ["points"] = 9629.63,
       },
       ["Festergut"] = {
         ["rank_raids"] = 731,
         ["kill_count"] = 20,
-        ["points"] = 9515.82,
+        ["points"] = 9515.99,
       },
       ["Rotface"] = {
         ["rank_raids"] = 887,
         ["kill_count"] = 20,
-        ["points"] = 9462.83,
+        ["points"] = 9462.92,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1555,
@@ -12826,6 +12769,63 @@ UWULogsData[1][2] = {
       },
     },
   },
+  ["Healingtouch"] = {
+    ["percentile"] = 93.57,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 225,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 99,
+        ["kill_count"] = 15,
+        ["points"] = 9921.4,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 1025,
+        ["kill_count"] = 11,
+        ["points"] = 9341.0,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 1529,
+        ["kill_count"] = 14,
+        ["points"] = 9219.64,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 385,
+        ["kill_count"] = 15,
+        ["points"] = 9700.95,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 2063,
+        ["kill_count"] = 14,
+        ["points"] = 9015.94,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 2925,
+        ["kill_count"] = 12,
+        ["points"] = 8673.5,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 2260,
+        ["kill_count"] = 13,
+        ["points"] = 9022.52,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 569,
+        ["kill_count"] = 14,
+        ["points"] = 9566.5,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 501,
+        ["kill_count"] = 12,
+        ["points"] = 9600.5,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 827,
+        ["kill_count"] = 11,
+        ["points"] = 9437.5,
+      },
+    },
+  },
   ["Aui"] = {
     ["percentile"] = 93.56,
     ["server"] = "Icecrown",
@@ -12834,7 +12834,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 458,
         ["kill_count"] = 7,
-        ["points"] = 9718.68,
+        ["points"] = 9718.78,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 849,
@@ -12854,7 +12854,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 408,
         ["kill_count"] = 8,
-        ["points"] = 9688.1,
+        ["points"] = 9688.15,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 356,
@@ -12872,9 +12872,9 @@ UWULogsData[1][2] = {
         ["points"] = 8398.1,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4472,
+        ["rank_raids"] = 4473,
         ["kill_count"] = 8,
-        ["points"] = 8209.4,
+        ["points"] = 8209.1,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 817,
@@ -12891,7 +12891,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 950,
         ["kill_count"] = 19,
-        ["points"] = 9467.06,
+        ["points"] = 9467.25,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 505,
@@ -12901,17 +12901,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1592,
         ["kill_count"] = 19,
-        ["points"] = 9185.04,
+        ["points"] = 9185.19,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1060,
         ["kill_count"] = 19,
-        ["points"] = 9327.34,
+        ["points"] = 9327.57,
       },
       ["Rotface"] = {
         ["rank_raids"] = 172,
         ["kill_count"] = 19,
-        ["points"] = 9842.32,
+        ["points"] = 9842.34,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 821,
@@ -12948,7 +12948,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 65,
         ["kill_count"] = 13,
-        ["points"] = 9944.09,
+        ["points"] = 9944.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 550,
@@ -12958,17 +12958,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1257,
         ["kill_count"] = 13,
-        ["points"] = 9312.54,
+        ["points"] = 9312.66,
       },
       ["Festergut"] = {
         ["rank_raids"] = 262,
         ["kill_count"] = 13,
-        ["points"] = 9783.85,
+        ["points"] = 9783.92,
       },
       ["Rotface"] = {
         ["rank_raids"] = 702,
         ["kill_count"] = 12,
-        ["points"] = 9544.27,
+        ["points"] = 9544.35,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1676,
@@ -12998,14 +12998,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Mamaniquispe"] = {
-    ["percentile"] = 93.44,
+    ["percentile"] = 93.45,
     ["server"] = "Icecrown",
     ["overall_rank"] = 229,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 220,
         ["kill_count"] = 24,
-        ["points"] = 9839.25,
+        ["points"] = 9839.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 310,
@@ -13015,7 +13015,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3246,
         ["kill_count"] = 26,
-        ["points"] = 8656.1,
+        ["points"] = 8656.33,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1476,
@@ -13025,7 +13025,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1808,
         ["kill_count"] = 24,
-        ["points"] = 9119.74,
+        ["points"] = 9119.89,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1504,
@@ -13062,7 +13062,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 994,
         ["kill_count"] = 11,
-        ["points"] = 9439.11,
+        ["points"] = 9439.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1164,
@@ -13072,17 +13072,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1509,
         ["kill_count"] = 11,
-        ["points"] = 9222.95,
+        ["points"] = 9223.08,
       },
       ["Festergut"] = {
         ["rank_raids"] = 497,
         ["kill_count"] = 12,
-        ["points"] = 9633.41,
+        ["points"] = 9633.54,
       },
       ["Rotface"] = {
         ["rank_raids"] = 299,
         ["kill_count"] = 12,
-        ["points"] = 9752.21,
+        ["points"] = 9752.25,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1342,
@@ -13119,7 +13119,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 797,
         ["kill_count"] = 11,
-        ["points"] = 9533.46,
+        ["points"] = 9533.62,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1657,
@@ -13129,17 +13129,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1020,
         ["kill_count"] = 14,
-        ["points"] = 9409.03,
+        ["points"] = 9409.13,
       },
       ["Festergut"] = {
         ["rank_raids"] = 533,
         ["kill_count"] = 14,
-        ["points"] = 9612.66,
+        ["points"] = 9612.79,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3712,
         ["kill_count"] = 14,
-        ["points"] = 8534.05,
+        ["points"] = 8534.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 532,
@@ -13176,7 +13176,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 406,
         ["kill_count"] = 14,
-        ["points"] = 9743.14,
+        ["points"] = 9743.23,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 608,
@@ -13186,7 +13186,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 369,
         ["kill_count"] = 14,
-        ["points"] = 9729.5,
+        ["points"] = 9729.54,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1901,
@@ -13196,7 +13196,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1529,
         ["kill_count"] = 14,
-        ["points"] = 9206.38,
+        ["points"] = 9206.51,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1823,
@@ -13226,14 +13226,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Taendris"] = {
-    ["percentile"] = 93.39,
+    ["percentile"] = 93.4,
     ["server"] = "Icecrown",
     ["overall_rank"] = 233,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1011,
         ["kill_count"] = 39,
-        ["points"] = 9433.86,
+        ["points"] = 9434.06,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2231,
@@ -13243,17 +13243,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 358,
         ["kill_count"] = 41,
-        ["points"] = 9734.67,
+        ["points"] = 9734.71,
       },
       ["Festergut"] = {
         ["rank_raids"] = 174,
         ["kill_count"] = 39,
-        ["points"] = 9849.56,
+        ["points"] = 9849.61,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1221,
         ["kill_count"] = 39,
-        ["points"] = 9325.94,
+        ["points"] = 9326.06,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2000,
@@ -13290,7 +13290,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 76,
         ["kill_count"] = 8,
-        ["points"] = 9938.84,
+        ["points"] = 9938.86,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 491,
@@ -13300,17 +13300,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1251,
         ["kill_count"] = 7,
-        ["points"] = 9314.27,
+        ["points"] = 9314.38,
       },
       ["Festergut"] = {
         ["rank_raids"] = 549,
         ["kill_count"] = 7,
-        ["points"] = 9605.74,
+        ["points"] = 9605.88,
       },
       ["Rotface"] = {
         ["rank_raids"] = 188,
         ["kill_count"] = 7,
-        ["points"] = 9828.45,
+        ["points"] = 9828.48,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1885,
@@ -13347,7 +13347,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 568,
         ["kill_count"] = 27,
-        ["points"] = 9652.28,
+        ["points"] = 9652.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2876,
@@ -13357,17 +13357,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 534,
         ["kill_count"] = 27,
-        ["points"] = 9636.46,
+        ["points"] = 9636.52,
       },
       ["Festergut"] = {
         ["rank_raids"] = 82,
         ["kill_count"] = 28,
-        ["points"] = 9929.1,
+        ["points"] = 9929.13,
       },
       ["Rotface"] = {
         ["rank_raids"] = 549,
         ["kill_count"] = 28,
-        ["points"] = 9630.91,
+        ["points"] = 9630.98,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2669,
@@ -13404,7 +13404,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 467,
         ["kill_count"] = 33,
-        ["points"] = 9713.44,
+        ["points"] = 9713.54,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1897,
@@ -13414,7 +13414,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 180,
         ["kill_count"] = 34,
-        ["points"] = 9843.21,
+        ["points"] = 9843.24,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1227,
@@ -13424,7 +13424,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 291,
         ["kill_count"] = 33,
-        ["points"] = 9762.61,
+        ["points"] = 9762.65,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2070,
@@ -13481,7 +13481,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1362,
         ["kill_count"] = 2,
-        ["points"] = 9273.96,
+        ["points"] = 9274.08,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 384,
@@ -13518,7 +13518,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 735,
         ["kill_count"] = 15,
-        ["points"] = 9568.41,
+        ["points"] = 9568.56,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 689,
@@ -13528,17 +13528,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 4193,
         ["kill_count"] = 16,
-        ["points"] = 8426.95,
+        ["points"] = 8427.22,
       },
       ["Festergut"] = {
         ["rank_raids"] = 453,
         ["kill_count"] = 15,
-        ["points"] = 9661.08,
+        ["points"] = 9661.19,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2258,
         ["kill_count"] = 17,
-        ["points"] = 8941.26,
+        ["points"] = 8941.44,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1860,
@@ -13575,7 +13575,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1168,
         ["kill_count"] = 10,
-        ["points"] = 9374.45,
+        ["points"] = 9374.67,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1012,
@@ -13585,17 +13585,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1261,
         ["kill_count"] = 10,
-        ["points"] = 9310.82,
+        ["points"] = 9310.94,
       },
       ["Festergut"] = {
         ["rank_raids"] = 141,
         ["kill_count"] = 10,
-        ["points"] = 9878.96,
+        ["points"] = 9879.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3822,
         ["kill_count"] = 11,
-        ["points"] = 8511.52,
+        ["points"] = 8511.78,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 823,
@@ -13625,14 +13625,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Kukuxumusu"] = {
-    ["percentile"] = 93.25,
+    ["percentile"] = 93.26,
     ["server"] = "Icecrown",
     ["overall_rank"] = 240,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1062,
         ["kill_count"] = 11,
-        ["points"] = 9414.64,
+        ["points"] = 9414.85,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3158,
@@ -13642,17 +13642,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 566,
         ["kill_count"] = 12,
-        ["points"] = 9612.34,
+        ["points"] = 9612.4,
       },
       ["Festergut"] = {
         ["rank_raids"] = 828,
         ["kill_count"] = 12,
-        ["points"] = 9451.84,
+        ["points"] = 9452.03,
       },
       ["Rotface"] = {
         ["rank_raids"] = 945,
         ["kill_count"] = 12,
-        ["points"] = 9443.77,
+        ["points"] = 9443.87,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1704,
@@ -13689,7 +13689,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 714,
         ["kill_count"] = 13,
-        ["points"] = 9580.64,
+        ["points"] = 9580.79,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1368,
@@ -13699,17 +13699,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1985,
         ["kill_count"] = 14,
-        ["points"] = 9050.65,
+        ["points"] = 9050.82,
       },
       ["Festergut"] = {
         ["rank_raids"] = 150,
         ["kill_count"] = 14,
-        ["points"] = 9865.12,
+        ["points"] = 9865.17,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2134,
         ["kill_count"] = 12,
-        ["points"] = 8989.78,
+        ["points"] = 8989.95,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2161,
@@ -13746,7 +13746,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2499,
         ["kill_count"] = 17,
-        ["points"] = 8867.73,
+        ["points"] = 8868.12,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1715,
@@ -13756,17 +13756,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1187,
         ["kill_count"] = 19,
-        ["points"] = 9341.83,
+        ["points"] = 9341.95,
       },
       ["Festergut"] = {
         ["rank_raids"] = 102,
         ["kill_count"] = 18,
-        ["points"] = 9910.08,
+        ["points"] = 9910.11,
       },
       ["Rotface"] = {
         ["rank_raids"] = 718,
         ["kill_count"] = 16,
-        ["points"] = 9533.88,
+        ["points"] = 9533.96,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 843,
@@ -13803,7 +13803,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1462,
         ["kill_count"] = 20,
-        ["points"] = 9266.12,
+        ["points"] = 9266.38,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1901,
@@ -13813,17 +13813,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 666,
         ["kill_count"] = 20,
-        ["points"] = 9558.92,
+        ["points"] = 9559.0,
       },
       ["Festergut"] = {
         ["rank_raids"] = 272,
         ["kill_count"] = 21,
-        ["points"] = 9776.93,
+        ["points"] = 9777.01,
       },
       ["Rotface"] = {
         ["rank_raids"] = 497,
         ["kill_count"] = 21,
-        ["points"] = 9651.71,
+        ["points"] = 9651.77,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1667,
@@ -13860,7 +13860,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1152,
         ["kill_count"] = 13,
-        ["points"] = 9377.95,
+        ["points"] = 9378.17,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 511,
@@ -13870,17 +13870,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 630,
         ["kill_count"] = 13,
-        ["points"] = 9581.32,
+        ["points"] = 9581.4,
       },
       ["Festergut"] = {
         ["rank_raids"] = 299,
         ["kill_count"] = 13,
-        ["points"] = 9754.45,
+        ["points"] = 9754.54,
       },
       ["Rotface"] = {
         ["rank_raids"] = 609,
         ["kill_count"] = 12,
-        ["points"] = 9596.26,
+        ["points"] = 9596.33,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1800,
@@ -13917,7 +13917,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2221,
         ["kill_count"] = 5,
-        ["points"] = 8979.56,
+        ["points"] = 8979.91,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 379,
@@ -13927,17 +13927,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 492,
         ["kill_count"] = 5,
-        ["points"] = 9658.86,
+        ["points"] = 9658.91,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1190,
         ["kill_count"] = 4,
-        ["points"] = 9275.46,
+        ["points"] = 9275.71,
       },
       ["Rotface"] = {
         ["rank_raids"] = 683,
         ["kill_count"] = 4,
-        ["points"] = 9554.67,
+        ["points"] = 9554.75,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 706,
@@ -13974,7 +13974,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 412,
         ["kill_count"] = 27,
-        ["points"] = 9737.9,
+        ["points"] = 9737.99,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 740,
@@ -13982,9 +13982,9 @@ UWULogsData[1][2] = {
         ["points"] = 9481.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4580,
+        ["rank_raids"] = 4581,
         ["kill_count"] = 30,
-        ["points"] = 8311.51,
+        ["points"] = 8311.8,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2048,
@@ -13994,7 +13994,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 147,
         ["kill_count"] = 27,
-        ["points"] = 9863.11,
+        ["points"] = 9863.13,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1233,
@@ -14024,14 +14024,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Zekinha"] = {
-    ["percentile"] = 93.19,
+    ["percentile"] = 93.2,
     ["server"] = "Icecrown",
     ["overall_rank"] = 247,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1749,
         ["kill_count"] = 35,
-        ["points"] = 9152.54,
+        ["points"] = 9152.84,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2279,
@@ -14041,17 +14041,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 844,
         ["kill_count"] = 36,
-        ["points"] = 9479.67,
+        ["points"] = 9479.76,
       },
       ["Festergut"] = {
         ["rank_raids"] = 572,
         ["kill_count"] = 31,
-        ["points"] = 9591.91,
+        ["points"] = 9592.05,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1854,
         ["kill_count"] = 31,
-        ["points"] = 9097.21,
+        ["points"] = 9097.37,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 879,
@@ -14088,7 +14088,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1740,
         ["kill_count"] = 5,
-        ["points"] = 9159.53,
+        ["points"] = 9159.83,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 394,
@@ -14098,17 +14098,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1780,
         ["kill_count"] = 5,
-        ["points"] = 9126.46,
+        ["points"] = 9126.61,
       },
       ["Festergut"] = {
         ["rank_raids"] = 894,
         ["kill_count"] = 5,
-        ["points"] = 9417.26,
+        ["points"] = 9417.46,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1044,
         ["kill_count"] = 5,
-        ["points"] = 9402.18,
+        ["points"] = 9402.29,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2453,
@@ -14145,7 +14145,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1119,
         ["kill_count"] = 8,
-        ["points"] = 9391.93,
+        ["points"] = 9392.14,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 579,
@@ -14155,17 +14155,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 428,
         ["kill_count"] = 8,
-        ["points"] = 9691.59,
+        ["points"] = 9691.65,
       },
       ["Festergut"] = {
         ["rank_raids"] = 48,
         ["kill_count"] = 8,
-        ["points"] = 9955.04,
+        ["points"] = 9955.06,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1896,
         ["kill_count"] = 8,
-        ["points"] = 9074.68,
+        ["points"] = 9074.84,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 949,
@@ -14202,7 +14202,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 778,
         ["kill_count"] = 12,
-        ["points"] = 9542.2,
+        ["points"] = 9542.36,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1170,
@@ -14212,17 +14212,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1552,
         ["kill_count"] = 12,
-        ["points"] = 9202.27,
+        ["points"] = 9202.41,
       },
       ["Festergut"] = {
         ["rank_raids"] = 834,
         ["kill_count"] = 12,
-        ["points"] = 9446.65,
+        ["points"] = 9446.85,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2455,
         ["kill_count"] = 12,
-        ["points"] = 8892.74,
+        ["points"] = 8892.93,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1807,
@@ -14259,7 +14259,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 795,
         ["kill_count"] = 22,
-        ["points"] = 9535.21,
+        ["points"] = 9535.37,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1198,
@@ -14269,7 +14269,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 256,
         ["kill_count"] = 21,
-        ["points"] = 9793.25,
+        ["points"] = 9793.28,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1265,
@@ -14279,7 +14279,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1498,
         ["kill_count"] = 23,
-        ["points"] = 9223.7,
+        ["points"] = 9223.84,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2716,
@@ -14316,7 +14316,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 727,
         ["kill_count"] = 14,
-        ["points"] = 9575.4,
+        ["points"] = 9575.55,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2962,
@@ -14326,17 +14326,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1171,
         ["kill_count"] = 14,
-        ["points"] = 9345.28,
+        ["points"] = 9345.39,
       },
       ["Festergut"] = {
         ["rank_raids"] = 999,
         ["kill_count"] = 14,
-        ["points"] = 9363.65,
+        ["points"] = 9363.87,
       },
       ["Rotface"] = {
         ["rank_raids"] = 813,
         ["kill_count"] = 14,
-        ["points"] = 9500.95,
+        ["points"] = 9501.04,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1437,
@@ -14373,7 +14373,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1369,
         ["kill_count"] = 33,
-        ["points"] = 9294.08,
+        ["points"] = 9294.32,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1042,
@@ -14383,17 +14383,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 100,
         ["kill_count"] = 39,
-        ["points"] = 9905.24,
+        ["points"] = 9905.25,
       },
       ["Festergut"] = {
         ["rank_raids"] = 509,
         ["kill_count"] = 38,
-        ["points"] = 9626.49,
+        ["points"] = 9626.62,
       },
       ["Rotface"] = {
         ["rank_raids"] = 293,
         ["kill_count"] = 38,
-        ["points"] = 9759.14,
+        ["points"] = 9759.18,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3266,
@@ -14430,7 +14430,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1036,
         ["kill_count"] = 26,
-        ["points"] = 9423.38,
+        ["points"] = 9423.58,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 917,
@@ -14440,17 +14440,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2127,
         ["kill_count"] = 26,
-        ["points"] = 8995.52,
+        ["points"] = 8995.69,
       },
       ["Festergut"] = {
         ["rank_raids"] = 209,
         ["kill_count"] = 26,
-        ["points"] = 9825.35,
+        ["points"] = 9825.41,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1878,
         ["kill_count"] = 26,
-        ["points"] = 9083.35,
+        ["points"] = 9083.51,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1194,
@@ -14487,7 +14487,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1441,
         ["kill_count"] = 12,
-        ["points"] = 9274.86,
+        ["points"] = 9275.11,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 298,
@@ -14497,17 +14497,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 4065,
         ["kill_count"] = 12,
-        ["points"] = 8457.96,
+        ["points"] = 8458.23,
       },
       ["Festergut"] = {
         ["rank_raids"] = 947,
         ["kill_count"] = 12,
-        ["points"] = 9386.13,
+        ["points"] = 9386.34,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2638,
         ["kill_count"] = 12,
-        ["points"] = 8819.96,
+        ["points"] = 8820.17,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 765,
@@ -14544,7 +14544,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 113,
         ["kill_count"] = 22,
-        ["points"] = 9909.14,
+        ["points"] = 9909.17,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1053,
@@ -14554,12 +14554,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 543,
         ["kill_count"] = 22,
-        ["points"] = 9627.84,
+        ["points"] = 9627.91,
       },
       ["Festergut"] = {
         ["rank_raids"] = 781,
         ["kill_count"] = 21,
-        ["points"] = 9488.15,
+        ["points"] = 9488.33,
       },
       ["Rotface"] = {
         ["rank_raids"] = 76,
@@ -14601,7 +14601,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 528,
         ["kill_count"] = 10,
-        ["points"] = 9673.25,
+        ["points"] = 9673.36,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 391,
@@ -14611,17 +14611,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 457,
         ["kill_count"] = 12,
-        ["points"] = 9677.81,
+        ["points"] = 9677.86,
       },
       ["Festergut"] = {
         ["rank_raids"] = 884,
         ["kill_count"] = 12,
-        ["points"] = 9420.72,
+        ["points"] = 9420.92,
       },
       ["Rotface"] = {
         ["rank_raids"] = 556,
         ["kill_count"] = 12,
-        ["points"] = 9627.45,
+        ["points"] = 9627.51,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3459,
@@ -14651,14 +14651,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Bzm"] = {
-    ["percentile"] = 92.96,
+    ["percentile"] = 92.97,
     ["server"] = "Icecrown",
     ["overall_rank"] = 258,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1094,
         ["kill_count"] = 43,
-        ["points"] = 9398.92,
+        ["points"] = 9399.13,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 693,
@@ -14668,17 +14668,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2799,
         ["kill_count"] = 42,
-        ["points"] = 8783.6,
+        ["points"] = 8783.81,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1025,
         ["kill_count"] = 40,
-        ["points"] = 9341.17,
+        ["points"] = 9341.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 511,
         ["kill_count"] = 40,
-        ["points"] = 9648.24,
+        ["points"] = 9648.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1192,
@@ -14715,7 +14715,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2109,
         ["kill_count"] = 22,
-        ["points"] = 9023.24,
+        ["points"] = 9023.58,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1559,
@@ -14725,17 +14725,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 591,
         ["kill_count"] = 24,
-        ["points"] = 9603.72,
+        ["points"] = 9603.79,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1147,
         ["kill_count"] = 24,
-        ["points"] = 9294.48,
+        ["points"] = 9294.73,
       },
       ["Rotface"] = {
         ["rank_raids"] = 354,
         ["kill_count"] = 24,
-        ["points"] = 9717.55,
+        ["points"] = 9717.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1855,
@@ -14772,7 +14772,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1208,
         ["kill_count"] = 16,
-        ["points"] = 9360.48,
+        ["points"] = 9360.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1918,
@@ -14782,7 +14782,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1194,
         ["kill_count"] = 18,
-        ["points"] = 9336.66,
+        ["points"] = 9336.78,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2244,
@@ -14792,7 +14792,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 992,
         ["kill_count"] = 19,
-        ["points"] = 9424.71,
+        ["points"] = 9424.81,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1420,
@@ -14829,7 +14829,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2787,
         ["kill_count"] = 3,
-        ["points"] = 8773.37,
+        ["points"] = 8773.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 938,
@@ -14839,7 +14839,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1121,
         ["kill_count"] = 5,
-        ["points"] = 9371.12,
+        ["points"] = 9371.23,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2972,
@@ -14849,7 +14849,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1065,
         ["kill_count"] = 6,
-        ["points"] = 9386.59,
+        ["points"] = 9386.69,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 433,
@@ -14886,7 +14886,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 985,
         ["kill_count"] = 33,
-        ["points"] = 9447.84,
+        ["points"] = 9448.03,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 577,
@@ -14896,17 +14896,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1441,
         ["kill_count"] = 38,
-        ["points"] = 9250.52,
+        ["points"] = 9250.65,
       },
       ["Festergut"] = {
         ["rank_raids"] = 485,
         ["kill_count"] = 38,
-        ["points"] = 9645.51,
+        ["points"] = 9645.64,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2321,
         ["kill_count"] = 39,
-        ["points"] = 8929.13,
+        ["points"] = 8929.31,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2890,
@@ -14943,7 +14943,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 168,
         ["kill_count"] = 9,
-        ["points"] = 9868.95,
+        ["points"] = 9869.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 807,
@@ -14953,7 +14953,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 503,
         ["kill_count"] = 9,
-        ["points"] = 9653.69,
+        ["points"] = 9653.75,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2477,
@@ -14963,7 +14963,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1326,
         ["kill_count"] = 9,
-        ["points"] = 9289.55,
+        ["points"] = 9289.67,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1136,
@@ -15000,7 +15000,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1818,
         ["kill_count"] = 26,
-        ["points"] = 9124.59,
+        ["points"] = 9124.89,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 139,
@@ -15010,17 +15010,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1496,
         ["kill_count"] = 26,
-        ["points"] = 9229.84,
+        ["points"] = 9229.97,
       },
       ["Festergut"] = {
         ["rank_raids"] = 212,
         ["kill_count"] = 26,
-        ["points"] = 9821.89,
+        ["points"] = 9821.95,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2193,
         ["kill_count"] = 26,
-        ["points"] = 8970.72,
+        ["points"] = 8970.89,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2873,
@@ -15057,7 +15057,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1499,
         ["kill_count"] = 22,
-        ["points"] = 9248.65,
+        ["points"] = 9248.91,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 607,
@@ -15067,17 +15067,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1154,
         ["kill_count"] = 23,
-        ["points"] = 9353.89,
+        ["points"] = 9354.01,
       },
       ["Festergut"] = {
         ["rank_raids"] = 45,
         ["kill_count"] = 23,
-        ["points"] = 9958.5,
+        ["points"] = 9958.51,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1817,
         ["kill_count"] = 23,
-        ["points"] = 9116.27,
+        ["points"] = 9116.42,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1085,
@@ -15114,7 +15114,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 500,
         ["kill_count"] = 10,
-        ["points"] = 9685.48,
+        ["points"] = 9685.59,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 573,
@@ -15124,7 +15124,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1969,
         ["kill_count"] = 11,
-        ["points"] = 9055.82,
+        ["points"] = 9055.99,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2264,
@@ -15134,7 +15134,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1728,
         ["kill_count"] = 11,
-        ["points"] = 9138.8,
+        ["points"] = 9138.95,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 327,
@@ -15171,7 +15171,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 819,
         ["kill_count"] = 18,
-        ["points"] = 9519.48,
+        ["points"] = 9519.65,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 993,
@@ -15181,7 +15181,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1229,
         ["kill_count"] = 18,
-        ["points"] = 9321.16,
+        ["points"] = 9321.27,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1080,
@@ -15191,7 +15191,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 797,
         ["kill_count"] = 16,
-        ["points"] = 9507.88,
+        ["points"] = 9507.97,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1225,
@@ -15228,7 +15228,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 510,
         ["kill_count"] = 22,
-        ["points"] = 9680.24,
+        ["points"] = 9680.35,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1463,
@@ -15238,17 +15238,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 559,
         ["kill_count"] = 25,
-        ["points"] = 9622.67,
+        ["points"] = 9622.74,
       },
       ["Festergut"] = {
         ["rank_raids"] = 218,
         ["kill_count"] = 27,
-        ["points"] = 9816.7,
+        ["points"] = 9816.77,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2872,
         ["kill_count"] = 28,
-        ["points"] = 8778.37,
+        ["points"] = 8778.59,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4891,
@@ -15285,7 +15285,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2297,
         ["kill_count"] = 16,
-        ["points"] = 8951.6,
+        ["points"] = 8951.97,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 318,
@@ -15295,7 +15295,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 237,
         ["kill_count"] = 15,
-        ["points"] = 9808.75,
+        ["points"] = 9808.79,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2451,
@@ -15305,7 +15305,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 580,
         ["kill_count"] = 16,
-        ["points"] = 9617.05,
+        ["points"] = 9617.12,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2032,
@@ -15342,7 +15342,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2430,
         ["kill_count"] = 5,
-        ["points"] = 8899.18,
+        ["points"] = 8899.56,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 397,
@@ -15352,7 +15352,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1095,
         ["kill_count"] = 5,
-        ["points"] = 9381.46,
+        ["points"] = 9381.57,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2879,
@@ -15362,7 +15362,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2028,
         ["kill_count"] = 5,
-        ["points"] = 9033.1,
+        ["points"] = 9033.26,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 779,
@@ -15399,7 +15399,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1133,
         ["kill_count"] = 26,
-        ["points"] = 9381.44,
+        ["points"] = 9381.66,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2806,
@@ -15409,17 +15409,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2222,
         ["kill_count"] = 31,
-        ["points"] = 8959.34,
+        ["points"] = 8959.52,
       },
       ["Festergut"] = {
         ["rank_raids"] = 997,
         ["kill_count"] = 29,
-        ["points"] = 9365.38,
+        ["points"] = 9365.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 450,
         ["kill_count"] = 29,
-        ["points"] = 9665.57,
+        ["points"] = 9665.63,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 911,
@@ -15456,7 +15456,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4640,
         ["kill_count"] = 7,
-        ["points"] = 8228.2,
+        ["points"] = 8228.82,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2594,
@@ -15466,17 +15466,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1170,
         ["kill_count"] = 8,
-        ["points"] = 9347.0,
+        ["points"] = 9347.11,
       },
       ["Festergut"] = {
         ["rank_raids"] = 342,
         ["kill_count"] = 7,
-        ["points"] = 9723.33,
+        ["points"] = 9723.42,
       },
       ["Rotface"] = {
         ["rank_raids"] = 747,
         ["kill_count"] = 8,
-        ["points"] = 9523.48,
+        ["points"] = 9523.56,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1458,
@@ -15513,7 +15513,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1794,
         ["kill_count"] = 17,
-        ["points"] = 9133.32,
+        ["points"] = 9133.62,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 748,
@@ -15523,17 +15523,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2494,
         ["kill_count"] = 17,
-        ["points"] = 8869.75,
+        ["points"] = 8869.94,
       },
       ["Festergut"] = {
         ["rank_raids"] = 379,
         ["kill_count"] = 17,
-        ["points"] = 9704.31,
+        ["points"] = 9704.41,
       },
       ["Rotface"] = {
         ["rank_raids"] = 820,
         ["kill_count"] = 17,
-        ["points"] = 9499.22,
+        ["points"] = 9499.31,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1626,
@@ -15570,7 +15570,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 929,
         ["kill_count"] = 7,
-        ["points"] = 9479.29,
+        ["points"] = 9479.48,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 786,
@@ -15580,7 +15580,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1276,
         ["kill_count"] = 7,
-        ["points"] = 9303.93,
+        ["points"] = 9304.05,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3299,
@@ -15590,7 +15590,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 751,
         ["kill_count"] = 7,
-        ["points"] = 9521.75,
+        ["points"] = 9521.83,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1651,
@@ -15627,7 +15627,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1161,
         ["kill_count"] = 11,
-        ["points"] = 9376.2,
+        ["points"] = 9376.42,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4616,
@@ -15637,17 +15637,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1941,
         ["kill_count"] = 11,
-        ["points"] = 9071.33,
+        ["points"] = 9071.49,
       },
       ["Festergut"] = {
         ["rank_raids"] = 702,
         ["kill_count"] = 11,
-        ["points"] = 9533.11,
+        ["points"] = 9533.28,
       },
       ["Rotface"] = {
         ["rank_raids"] = 364,
         ["kill_count"] = 11,
-        ["points"] = 9712.35,
+        ["points"] = 9712.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 331,
@@ -15684,7 +15684,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 740,
         ["kill_count"] = 4,
-        ["points"] = 9566.66,
+        ["points"] = 9566.81,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1479,
@@ -15694,17 +15694,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1201,
         ["kill_count"] = 4,
-        ["points"] = 9329.77,
+        ["points"] = 9329.89,
       },
       ["Festergut"] = {
         ["rank_raids"] = 317,
         ["kill_count"] = 4,
-        ["points"] = 9744.08,
+        ["points"] = 9744.17,
       },
       ["Rotface"] = {
         ["rank_raids"] = 275,
         ["kill_count"] = 4,
-        ["points"] = 9776.47,
+        ["points"] = 9776.51,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2368,
@@ -15741,7 +15741,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3596,
         ["kill_count"] = 10,
-        ["points"] = 8509.52,
+        ["points"] = 8510.04,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 666,
@@ -15751,17 +15751,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2918,
         ["kill_count"] = 11,
-        ["points"] = 8745.69,
+        ["points"] = 8745.91,
       },
       ["Festergut"] = {
         ["rank_raids"] = 809,
         ["kill_count"] = 11,
-        ["points"] = 9467.4,
+        ["points"] = 9467.59,
       },
       ["Rotface"] = {
         ["rank_raids"] = 371,
         ["kill_count"] = 11,
-        ["points"] = 9710.62,
+        ["points"] = 9710.67,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1206,
@@ -15798,7 +15798,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 236,
         ["kill_count"] = 11,
-        ["points"] = 9832.26,
+        ["points"] = 9832.31,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 178,
@@ -15808,7 +15808,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2526,
         ["kill_count"] = 11,
-        ["points"] = 8859.41,
+        ["points"] = 8859.6,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4677,
@@ -15818,7 +15818,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4341,
         ["kill_count"] = 11,
-        ["points"] = 8353.84,
+        ["points"] = 8354.12,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1304,
@@ -15855,7 +15855,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 373,
         ["kill_count"] = 10,
-        ["points"] = 9757.12,
+        ["points"] = 9757.21,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 275,
@@ -15865,17 +15865,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2802,
         ["kill_count"] = 10,
-        ["points"] = 8781.87,
+        ["points"] = 8782.08,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1017,
         ["kill_count"] = 10,
-        ["points"] = 9351.55,
+        ["points"] = 9351.77,
       },
       ["Rotface"] = {
         ["rank_raids"] = 710,
         ["kill_count"] = 10,
-        ["points"] = 9537.34,
+        ["points"] = 9537.42,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 115,
@@ -15912,7 +15912,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2450,
         ["kill_count"] = 47,
-        ["points"] = 8888.69,
+        ["points"] = 8889.08,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1717,
@@ -15922,7 +15922,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 831,
         ["kill_count"] = 53,
-        ["points"] = 9484.84,
+        ["points"] = 9484.93,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1298,
@@ -15932,7 +15932,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 902,
         ["kill_count"] = 53,
-        ["points"] = 9455.9,
+        ["points"] = 9455.99,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2978,
@@ -15969,7 +15969,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2248,
         ["kill_count"] = 12,
-        ["points"] = 8972.57,
+        ["points"] = 8972.93,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1618,
@@ -15979,7 +15979,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1545,
         ["kill_count"] = 11,
-        ["points"] = 9207.44,
+        ["points"] = 9207.58,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1259,
@@ -15989,7 +15989,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1735,
         ["kill_count"] = 14,
-        ["points"] = 9137.06,
+        ["points"] = 9137.21,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1655,
@@ -16026,7 +16026,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 318,
         ["kill_count"] = 19,
-        ["points"] = 9792.07,
+        ["points"] = 9792.14,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 104,
@@ -16036,7 +16036,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1746,
         ["kill_count"] = 22,
-        ["points"] = 9141.97,
+        ["points"] = 9142.12,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2083,
@@ -16046,7 +16046,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4507,
         ["kill_count"] = 22,
-        ["points"] = 8315.72,
+        ["points"] = 8316.01,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 902,
@@ -16083,7 +16083,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3278,
         ["kill_count"] = 16,
-        ["points"] = 8624.85,
+        ["points"] = 8625.33,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 224,
@@ -16093,7 +16093,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 736,
         ["kill_count"] = 16,
-        ["points"] = 9533.08,
+        ["points"] = 9533.16,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1483,
@@ -16103,7 +16103,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 617,
         ["kill_count"] = 17,
-        ["points"] = 9589.33,
+        ["points"] = 9589.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2754,
@@ -16140,7 +16140,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1662,
         ["kill_count"] = 22,
-        ["points"] = 9185.74,
+        ["points"] = 9186.03,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2004,
@@ -16150,17 +16150,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2093,
         ["kill_count"] = 23,
-        ["points"] = 9009.3,
+        ["points"] = 9009.47,
       },
       ["Festergut"] = {
         ["rank_raids"] = 907,
         ["kill_count"] = 22,
-        ["points"] = 9405.15,
+        ["points"] = 9405.36,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1019,
         ["kill_count"] = 23,
-        ["points"] = 9412.58,
+        ["points"] = 9412.68,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 330,
@@ -16197,7 +16197,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1742,
         ["kill_count"] = 22,
-        ["points"] = 9157.78,
+        ["points"] = 9158.08,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2458,
@@ -16207,7 +16207,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 737,
         ["kill_count"] = 22,
-        ["points"] = 9531.36,
+        ["points"] = 9531.44,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1750,
@@ -16217,7 +16217,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 318,
         ["kill_count"] = 22,
-        ["points"] = 9747.01,
+        ["points"] = 9747.05,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 907,
@@ -16254,7 +16254,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1665,
         ["kill_count"] = 23,
-        ["points"] = 9182.25,
+        ["points"] = 9182.53,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1172,
@@ -16264,7 +16264,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1574,
         ["kill_count"] = 23,
-        ["points"] = 9193.66,
+        ["points"] = 9193.8,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2679,
@@ -16274,7 +16274,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 861,
         ["kill_count"] = 23,
-        ["points"] = 9480.16,
+        ["points"] = 9480.25,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 233,
@@ -16311,7 +16311,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 851,
         ["kill_count"] = 28,
-        ["points"] = 9512.49,
+        ["points"] = 9512.66,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1062,
@@ -16321,17 +16321,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1158,
         ["kill_count"] = 29,
-        ["points"] = 9352.17,
+        ["points"] = 9352.28,
       },
       ["Festergut"] = {
         ["rank_raids"] = 343,
         ["kill_count"] = 28,
-        ["points"] = 9721.6,
+        ["points"] = 9721.69,
       },
       ["Rotface"] = {
         ["rank_raids"] = 274,
         ["kill_count"] = 29,
-        ["points"] = 9778.2,
+        ["points"] = 9778.24,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1155,
@@ -16368,7 +16368,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 682,
         ["kill_count"] = 11,
-        ["points"] = 9596.37,
+        ["points"] = 9596.51,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 702,
@@ -16376,9 +16376,9 @@ UWULogsData[1][2] = {
         ["points"] = 9500.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4561,
+        ["rank_raids"] = 4562,
         ["kill_count"] = 14,
-        ["points"] = 8314.96,
+        ["points"] = 8315.25,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1940,
@@ -16388,7 +16388,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1100,
         ["kill_count"] = 13,
-        ["points"] = 9370.99,
+        ["points"] = 9371.1,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 548,
@@ -16425,7 +16425,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2693,
         ["kill_count"] = 39,
-        ["points"] = 8803.08,
+        ["points"] = 8803.49,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3540,
@@ -16435,7 +16435,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 925,
         ["kill_count"] = 38,
-        ["points"] = 9445.21,
+        ["points"] = 9445.31,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1061,
@@ -16445,7 +16445,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1509,
         ["kill_count"] = 37,
-        ["points"] = 9218.51,
+        ["points"] = 9218.64,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 637,
@@ -16482,7 +16482,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2011,
         ["kill_count"] = 9,
-        ["points"] = 9056.44,
+        ["points"] = 9056.77,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 878,
@@ -16492,17 +16492,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 299,
         ["kill_count"] = 10,
-        ["points"] = 9767.4,
+        ["points"] = 9767.44,
       },
       ["Festergut"] = {
         ["rank_raids"] = 925,
         ["kill_count"] = 10,
-        ["points"] = 9398.24,
+        ["points"] = 9398.44,
       },
       ["Rotface"] = {
         ["rank_raids"] = 578,
         ["kill_count"] = 10,
-        ["points"] = 9618.78,
+        ["points"] = 9618.85,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1040,
@@ -16532,14 +16532,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Bolbicolord"] = {
-    ["percentile"] = 92.33,
+    ["percentile"] = 92.34,
     ["server"] = "Icecrown",
     ["overall_rank"] = 291,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1272,
         ["kill_count"] = 14,
-        ["points"] = 9330.77,
+        ["points"] = 9331.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2329,
@@ -16549,12 +16549,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1189,
         ["kill_count"] = 13,
-        ["points"] = 9340.11,
+        ["points"] = 9340.22,
       },
       ["Festergut"] = {
         ["rank_raids"] = 710,
         ["kill_count"] = 13,
-        ["points"] = 9527.93,
+        ["points"] = 9528.09,
       },
       ["Rotface"] = {
         ["rank_raids"] = 26,
@@ -16596,7 +16596,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1505,
         ["kill_count"] = 13,
-        ["points"] = 9245.15,
+        ["points"] = 9245.41,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2783,
@@ -16606,7 +16606,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 849,
         ["kill_count"] = 15,
-        ["points"] = 9476.22,
+        ["points"] = 9476.31,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1446,
@@ -16616,7 +16616,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 865,
         ["kill_count"] = 14,
-        ["points"] = 9476.69,
+        ["points"] = 9476.78,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1035,
@@ -16653,7 +16653,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3223,
         ["kill_count"] = 6,
-        ["points"] = 8638.83,
+        ["points"] = 8639.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2039,
@@ -16663,7 +16663,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1268,
         ["kill_count"] = 6,
-        ["points"] = 9307.37,
+        ["points"] = 9307.49,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1711,
@@ -16673,7 +16673,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1157,
         ["kill_count"] = 7,
-        ["points"] = 9351.93,
+        ["points"] = 9352.04,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4024,
@@ -16710,7 +16710,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 185,
         ["kill_count"] = 21,
-        ["points"] = 9858.47,
+        ["points"] = 9858.52,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4828,
@@ -16718,9 +16718,9 @@ UWULogsData[1][2] = {
         ["points"] = 8102.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4939,
+        ["rank_raids"] = 4940,
         ["kill_count"] = 23,
-        ["points"] = 8232.25,
+        ["points"] = 8232.56,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1609,
@@ -16730,7 +16730,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1763,
         ["kill_count"] = 23,
-        ["points"] = 9131.87,
+        ["points"] = 9132.02,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3,
@@ -16767,7 +16767,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 792,
         ["kill_count"] = 13,
-        ["points"] = 9536.96,
+        ["points"] = 9537.12,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 30,
@@ -16777,17 +16777,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 221,
         ["kill_count"] = 13,
-        ["points"] = 9810.48,
+        ["points"] = 9810.51,
       },
       ["Festergut"] = {
         ["rank_raids"] = 117,
         ["kill_count"] = 13,
-        ["points"] = 9899.71,
+        ["points"] = 9899.74,
       },
       ["Rotface"] = {
         ["rank_raids"] = 558,
         ["kill_count"] = 13,
-        ["points"] = 9625.71,
+        ["points"] = 9625.78,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3678,
@@ -16824,7 +16824,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2312,
         ["kill_count"] = 10,
-        ["points"] = 8942.86,
+        ["points"] = 8943.23,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3420,
@@ -16834,7 +16834,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 268,
         ["kill_count"] = 10,
-        ["points"] = 9784.63,
+        ["points"] = 9784.67,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2134,
@@ -16844,7 +16844,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 273,
         ["kill_count"] = 10,
-        ["points"] = 9779.93,
+        ["points"] = 9779.97,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1625,
@@ -16881,7 +16881,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 544,
         ["kill_count"] = 15,
-        ["points"] = 9659.27,
+        ["points"] = 9659.39,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 509,
@@ -16891,7 +16891,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2134,
         ["kill_count"] = 16,
-        ["points"] = 8988.63,
+        ["points"] = 8988.8,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2096,
@@ -16901,7 +16901,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2098,
         ["kill_count"] = 16,
-        ["points"] = 9001.91,
+        ["points"] = 9002.08,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1043,
@@ -16938,7 +16938,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1325,
         ["kill_count"] = 13,
-        ["points"] = 9308.06,
+        ["points"] = 9308.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1837,
@@ -16948,7 +16948,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1737,
         ["kill_count"] = 14,
-        ["points"] = 9145.42,
+        ["points"] = 9145.56,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1853,
@@ -16958,7 +16958,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1071,
         ["kill_count"] = 14,
-        ["points"] = 9383.12,
+        ["points"] = 9383.23,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 659,
@@ -16988,14 +16988,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Felliixx"] = {
-    ["percentile"] = 92.24,
+    ["percentile"] = 92.25,
     ["server"] = "Icecrown",
     ["overall_rank"] = 299,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2082,
         ["kill_count"] = 26,
-        ["points"] = 9030.23,
+        ["points"] = 9030.57,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2017,
@@ -17005,17 +17005,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 189,
         ["kill_count"] = 29,
-        ["points"] = 9832.87,
+        ["points"] = 9832.9,
       },
       ["Festergut"] = {
         ["rank_raids"] = 807,
         ["kill_count"] = 29,
-        ["points"] = 9470.86,
+        ["points"] = 9471.05,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1089,
         ["kill_count"] = 27,
-        ["points"] = 9376.19,
+        ["points"] = 9376.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2257,
@@ -17052,7 +17052,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1479,
         ["kill_count"] = 14,
-        ["points"] = 9257.38,
+        ["points"] = 9257.64,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 475,
@@ -17062,7 +17062,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2591,
         ["kill_count"] = 14,
-        ["points"] = 8837.01,
+        ["points"] = 8837.21,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1200,
@@ -17072,7 +17072,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1049,
         ["kill_count"] = 14,
-        ["points"] = 9398.72,
+        ["points"] = 9398.82,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 588,
@@ -17109,7 +17109,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1912,
         ["kill_count"] = 5,
-        ["points"] = 9096.63,
+        ["points"] = 9096.94,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3109,
@@ -17124,12 +17124,12 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 765,
         ["kill_count"] = 5,
-        ["points"] = 9496.8,
+        ["points"] = 9496.97,
       },
       ["Rotface"] = {
         ["rank_raids"] = 706,
         ["kill_count"] = 5,
-        ["points"] = 9540.81,
+        ["points"] = 9540.89,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1410,
@@ -17166,7 +17166,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1073,
         ["kill_count"] = 10,
-        ["points"] = 9411.15,
+        ["points"] = 9411.35,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1244,
@@ -17176,17 +17176,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 876,
         ["kill_count"] = 11,
-        ["points"] = 9467.61,
+        ["points"] = 9467.7,
       },
       ["Festergut"] = {
         ["rank_raids"] = 337,
         ["kill_count"] = 11,
-        ["points"] = 9728.51,
+        ["points"] = 9728.61,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3057,
         ["kill_count"] = 11,
-        ["points"] = 8728.12,
+        ["points"] = 8728.34,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2870,
@@ -17223,7 +17223,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1238,
         ["kill_count"] = 20,
-        ["points"] = 9346.5,
+        ["points"] = 9346.72,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1922,
@@ -17233,7 +17233,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 396,
         ["kill_count"] = 20,
-        ["points"] = 9710.54,
+        ["points"] = 9710.59,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1201,
@@ -17243,7 +17243,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1554,
         ["kill_count"] = 19,
-        ["points"] = 9195.98,
+        ["points"] = 9196.12,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1705,
@@ -17280,7 +17280,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 894,
         ["kill_count"] = 27,
-        ["points"] = 9495.02,
+        ["points"] = 9495.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3760,
@@ -17290,17 +17290,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 448,
         ["kill_count"] = 26,
-        ["points"] = 9681.25,
+        ["points"] = 9681.31,
       },
       ["Festergut"] = {
         ["rank_raids"] = 95,
         ["kill_count"] = 27,
-        ["points"] = 9917.0,
+        ["points"] = 9917.03,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2160,
         ["kill_count"] = 27,
-        ["points"] = 8979.38,
+        ["points"] = 8979.56,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 726,
@@ -17337,7 +17337,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2885,
         ["kill_count"] = 12,
-        ["points"] = 8740.17,
+        ["points"] = 8740.61,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1069,
@@ -17347,7 +17347,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1951,
         ["kill_count"] = 11,
-        ["points"] = 9066.16,
+        ["points"] = 9066.32,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1671,
@@ -17357,7 +17357,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2467,
         ["kill_count"] = 11,
-        ["points"] = 8887.54,
+        ["points"] = 8887.73,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1064,
@@ -17394,7 +17394,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2384,
         ["kill_count"] = 18,
-        ["points"] = 8920.15,
+        ["points"] = 8920.52,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 584,
@@ -17404,17 +17404,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2546,
         ["kill_count"] = 19,
-        ["points"] = 8854.24,
+        ["points"] = 8854.44,
       },
       ["Festergut"] = {
         ["rank_raids"] = 587,
         ["kill_count"] = 18,
-        ["points"] = 9583.26,
+        ["points"] = 9583.41,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1446,
         ["kill_count"] = 18,
-        ["points"] = 9246.23,
+        ["points"] = 9246.36,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 710,
@@ -17451,7 +17451,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 476,
         ["kill_count"] = 21,
-        ["points"] = 9701.21,
+        ["points"] = 9701.31,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5570,
@@ -17471,7 +17471,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1595,
         ["kill_count"] = 22,
-        ["points"] = 9182.12,
+        ["points"] = 9182.26,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2898,
@@ -17501,14 +17501,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Wispspirit"] = {
-    ["percentile"] = 92.05,
+    ["percentile"] = 92.06,
     ["server"] = "Icecrown",
     ["overall_rank"] = 308,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1151,
         ["kill_count"] = 14,
-        ["points"] = 9379.7,
+        ["points"] = 9379.91,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 267,
@@ -17518,7 +17518,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3626,
         ["kill_count"] = 15,
-        ["points"] = 8561.34,
+        ["points"] = 8561.58,
       },
       ["Festergut"] = {
         ["rank_raids"] = 9713,
@@ -17528,7 +17528,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1607,
         ["kill_count"] = 16,
-        ["points"] = 9176.92,
+        ["points"] = 9177.06,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 622,
@@ -17565,7 +17565,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 866,
         ["kill_count"] = 9,
-        ["points"] = 9502.01,
+        ["points"] = 9502.18,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 838,
@@ -17575,17 +17575,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1004,
         ["kill_count"] = 11,
-        ["points"] = 9417.64,
+        ["points"] = 9417.74,
       },
       ["Festergut"] = {
         ["rank_raids"] = 730,
         ["kill_count"] = 13,
-        ["points"] = 9517.55,
+        ["points"] = 9517.72,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1336,
         ["kill_count"] = 12,
-        ["points"] = 9284.35,
+        ["points"] = 9284.48,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1724,
@@ -17622,7 +17622,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 982,
         ["kill_count"] = 23,
-        ["points"] = 9449.59,
+        ["points"] = 9449.78,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3180,
@@ -17632,17 +17632,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 829,
         ["kill_count"] = 23,
-        ["points"] = 9488.28,
+        ["points"] = 9488.37,
       },
       ["Festergut"] = {
         ["rank_raids"] = 475,
         ["kill_count"] = 23,
-        ["points"] = 9652.43,
+        ["points"] = 9652.55,
       },
       ["Rotface"] = {
         ["rank_raids"] = 714,
         ["kill_count"] = 23,
-        ["points"] = 9535.61,
+        ["points"] = 9535.69,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1159,
@@ -17679,7 +17679,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1881,
         ["kill_count"] = 15,
-        ["points"] = 9101.87,
+        ["points"] = 9102.18,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4136,
@@ -17689,7 +17689,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 738,
         ["kill_count"] = 15,
-        ["points"] = 9529.63,
+        ["points"] = 9529.72,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2119,
@@ -17699,7 +17699,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1568,
         ["kill_count"] = 15,
-        ["points"] = 9189.05,
+        ["points"] = 9189.19,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1482,
@@ -17736,7 +17736,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2954,
         ["kill_count"] = 13,
-        ["points"] = 8726.19,
+        ["points"] = 8726.64,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3301,
@@ -17746,17 +17746,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 324,
         ["kill_count"] = 13,
-        ["points"] = 9755.34,
+        ["points"] = 9755.38,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1010,
         ["kill_count"] = 13,
-        ["points"] = 9355.01,
+        ["points"] = 9355.23,
       },
       ["Rotface"] = {
         ["rank_raids"] = 796,
         ["kill_count"] = 13,
-        ["points"] = 9509.62,
+        ["points"] = 9509.7,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2237,
@@ -17793,7 +17793,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 332,
         ["kill_count"] = 2,
-        ["points"] = 9786.83,
+        ["points"] = 9786.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5987,
@@ -17808,12 +17808,12 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 666,
         ["kill_count"] = 2,
-        ["points"] = 9545.22,
+        ["points"] = 9545.38,
       },
       ["Rotface"] = {
         ["rank_raids"] = 585,
         ["kill_count"] = 2,
-        ["points"] = 9613.59,
+        ["points"] = 9613.65,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2422,
@@ -17850,7 +17850,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 368,
         ["kill_count"] = 30,
-        ["points"] = 9762.36,
+        ["points"] = 9762.45,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4640,
@@ -17860,17 +17860,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 891,
         ["kill_count"] = 32,
-        ["points"] = 9457.27,
+        ["points"] = 9457.36,
       },
       ["Festergut"] = {
         ["rank_raids"] = 288,
         ["kill_count"] = 32,
-        ["points"] = 9761.37,
+        ["points"] = 9761.45,
       },
       ["Rotface"] = {
         ["rank_raids"] = 181,
         ["kill_count"] = 32,
-        ["points"] = 9833.65,
+        ["points"] = 9833.68,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4778,
@@ -17907,7 +17907,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1183,
         ["kill_count"] = 14,
-        ["points"] = 9369.21,
+        ["points"] = 9369.43,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1613,
@@ -17917,17 +17917,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2147,
         ["kill_count"] = 17,
-        ["points"] = 8985.18,
+        ["points"] = 8985.36,
       },
       ["Festergut"] = {
         ["rank_raids"] = 776,
         ["kill_count"] = 15,
-        ["points"] = 9489.88,
+        ["points"] = 9490.06,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1198,
         ["kill_count"] = 16,
-        ["points"] = 9336.34,
+        ["points"] = 9336.45,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1320,
@@ -17964,7 +17964,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3266,
         ["kill_count"] = 19,
-        ["points"] = 8628.34,
+        ["points"] = 8628.82,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1403,
@@ -17974,7 +17974,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 288,
         ["kill_count"] = 22,
-        ["points"] = 9777.74,
+        ["points"] = 9777.78,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2835,
@@ -17984,7 +17984,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2542,
         ["kill_count"] = 22,
-        ["points"] = 8859.82,
+        ["points"] = 8860.01,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 219,
@@ -18021,7 +18021,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1279,
         ["kill_count"] = 13,
-        ["points"] = 9327.28,
+        ["points"] = 9327.51,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2599,
@@ -18031,17 +18031,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 843,
         ["kill_count"] = 13,
-        ["points"] = 9481.39,
+        ["points"] = 9481.48,
       },
       ["Festergut"] = {
         ["rank_raids"] = 228,
         ["kill_count"] = 13,
-        ["points"] = 9808.06,
+        ["points"] = 9808.12,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2059,
         ["kill_count"] = 13,
-        ["points"] = 9019.23,
+        ["points"] = 9019.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 780,
@@ -18078,7 +18078,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 404,
         ["kill_count"] = 37,
-        ["points"] = 9744.89,
+        ["points"] = 9744.98,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2131,
@@ -18088,17 +18088,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3215,
         ["kill_count"] = 37,
-        ["points"] = 8668.16,
+        ["points"] = 8668.39,
       },
       ["Festergut"] = {
         ["rank_raids"] = 315,
         ["kill_count"] = 37,
-        ["points"] = 9747.54,
+        ["points"] = 9747.62,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3821,
         ["kill_count"] = 37,
-        ["points"] = 8513.26,
+        ["points"] = 8513.51,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 908,
@@ -18135,7 +18135,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3160,
         ["kill_count"] = 23,
-        ["points"] = 8665.04,
+        ["points"] = 8665.5,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 918,
@@ -18145,17 +18145,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 706,
         ["kill_count"] = 25,
-        ["points"] = 9543.42,
+        ["points"] = 9543.5,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1055,
         ["kill_count"] = 26,
-        ["points"] = 9329.07,
+        ["points"] = 9329.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 446,
         ["kill_count"] = 25,
-        ["points"] = 9667.3,
+        ["points"] = 9667.36,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1391,
@@ -18185,14 +18185,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Bellionn"] = {
-    ["percentile"] = 91.78,
+    ["percentile"] = 91.79,
     ["server"] = "Icecrown",
     ["overall_rank"] = 320,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 526,
         ["kill_count"] = 16,
-        ["points"] = 9676.74,
+        ["points"] = 9676.86,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1682,
@@ -18202,17 +18202,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1238,
         ["kill_count"] = 16,
-        ["points"] = 9317.71,
+        ["points"] = 9317.83,
       },
       ["Festergut"] = {
         ["rank_raids"] = 796,
         ["kill_count"] = 16,
-        ["points"] = 9479.51,
+        ["points"] = 9479.69,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1860,
         ["kill_count"] = 16,
-        ["points"] = 9090.28,
+        ["points"] = 9090.44,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2241,
@@ -18249,7 +18249,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1524,
         ["kill_count"] = 36,
-        ["points"] = 9241.66,
+        ["points"] = 9241.92,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1380,
@@ -18259,7 +18259,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 294,
         ["kill_count"] = 36,
-        ["points"] = 9770.85,
+        ["points"] = 9770.89,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4032,
@@ -18269,7 +18269,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2065,
         ["kill_count"] = 36,
-        ["points"] = 9014.04,
+        ["points"] = 9014.21,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2085,
@@ -18306,7 +18306,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 581,
         ["kill_count"] = 31,
-        ["points"] = 9647.04,
+        ["points"] = 9647.16,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 510,
@@ -18316,17 +18316,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 322,
         ["kill_count"] = 32,
-        ["points"] = 9757.06,
+        ["points"] = 9757.11,
       },
       ["Festergut"] = {
         ["rank_raids"] = 179,
         ["kill_count"] = 33,
-        ["points"] = 9842.64,
+        ["points"] = 9842.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 674,
         ["kill_count"] = 33,
-        ["points"] = 9559.87,
+        ["points"] = 9559.94,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5211,
@@ -18363,7 +18363,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3219,
         ["kill_count"] = 15,
-        ["points"] = 8642.32,
+        ["points"] = 8642.79,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1125,
@@ -18373,17 +18373,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2341,
         ["kill_count"] = 15,
-        ["points"] = 8914.54,
+        ["points"] = 8914.73,
       },
       ["Festergut"] = {
         ["rank_raids"] = 644,
         ["kill_count"] = 15,
-        ["points"] = 9560.78,
+        ["points"] = 9560.93,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2179,
         ["kill_count"] = 15,
-        ["points"] = 8974.18,
+        ["points"] = 8974.36,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1890,
@@ -18420,7 +18420,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 711,
         ["kill_count"] = 10,
-        ["points"] = 9582.39,
+        ["points"] = 9582.53,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2091,
@@ -18430,17 +18430,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1965,
         ["kill_count"] = 10,
-        ["points"] = 9059.27,
+        ["points"] = 9059.43,
       },
       ["Festergut"] = {
         ["rank_raids"] = 954,
         ["kill_count"] = 10,
-        ["points"] = 9382.67,
+        ["points"] = 9382.89,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1303,
         ["kill_count"] = 10,
-        ["points"] = 9298.22,
+        ["points"] = 9298.34,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2689,
@@ -18477,7 +18477,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1966,
         ["kill_count"] = 7,
-        ["points"] = 9072.16,
+        ["points"] = 9072.49,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 856,
@@ -18487,17 +18487,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2830,
         ["kill_count"] = 7,
-        ["points"] = 8773.26,
+        ["points"] = 8773.47,
       },
       ["Festergut"] = {
         ["rank_raids"] = 543,
         ["kill_count"] = 7,
-        ["points"] = 9607.47,
+        ["points"] = 9607.61,
       },
       ["Rotface"] = {
         ["rank_raids"] = 295,
         ["kill_count"] = 7,
-        ["points"] = 9755.67,
+        ["points"] = 9755.72,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2220,
@@ -18534,7 +18534,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 991,
         ["kill_count"] = 9,
-        ["points"] = 9440.85,
+        ["points"] = 9441.05,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2583,
@@ -18544,17 +18544,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1675,
         ["kill_count"] = 9,
-        ["points"] = 9160.92,
+        ["points"] = 9161.07,
       },
       ["Festergut"] = {
         ["rank_raids"] = 668,
         ["kill_count"] = 8,
-        ["points"] = 9541.76,
+        ["points"] = 9541.92,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2525,
         ["kill_count"] = 9,
-        ["points"] = 8861.55,
+        ["points"] = 8861.75,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2506,
@@ -18591,7 +18591,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1729,
         ["kill_count"] = 16,
-        ["points"] = 9163.03,
+        ["points"] = 9163.32,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2975,
@@ -18601,17 +18601,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1220,
         ["kill_count"] = 17,
-        ["points"] = 9322.88,
+        ["points"] = 9323.0,
       },
       ["Festergut"] = {
         ["rank_raids"] = 825,
         ["kill_count"] = 17,
-        ["points"] = 9457.03,
+        ["points"] = 9457.22,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1236,
         ["kill_count"] = 17,
-        ["points"] = 9320.74,
+        ["points"] = 9320.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4982,
@@ -18648,7 +18648,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1277,
         ["kill_count"] = 27,
-        ["points"] = 9329.02,
+        ["points"] = 9329.26,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 881,
@@ -18658,17 +18658,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 734,
         ["kill_count"] = 28,
-        ["points"] = 9534.8,
+        ["points"] = 9534.88,
       },
       ["Festergut"] = {
         ["rank_raids"] = 829,
         ["kill_count"] = 28,
-        ["points"] = 9450.11,
+        ["points"] = 9450.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1109,
         ["kill_count"] = 28,
-        ["points"] = 9365.79,
+        ["points"] = 9365.9,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2524,
@@ -18705,7 +18705,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 743,
         ["kill_count"] = 4,
-        ["points"] = 9563.17,
+        ["points"] = 9563.32,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2996,
@@ -18715,7 +18715,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2627,
         ["kill_count"] = 4,
-        ["points"] = 8824.95,
+        ["points"] = 8825.15,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5150,
@@ -18725,7 +18725,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 936,
         ["kill_count"] = 4,
-        ["points"] = 9447.24,
+        ["points"] = 9447.33,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1257,
@@ -18762,7 +18762,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 341,
         ["kill_count"] = 21,
-        ["points"] = 9781.58,
+        ["points"] = 9781.66,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1323,
@@ -18772,7 +18772,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3030,
         ["kill_count"] = 20,
-        ["points"] = 8718.13,
+        ["points"] = 8718.35,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3671,
@@ -18782,7 +18782,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2076,
         ["kill_count"] = 21,
-        ["points"] = 9010.57,
+        ["points"] = 9010.74,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 898,
@@ -18812,14 +18812,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Valthar"] = {
-    ["percentile"] = 91.49,
+    ["percentile"] = 91.5,
     ["server"] = "Icecrown",
     ["overall_rank"] = 331,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 924,
         ["kill_count"] = 11,
-        ["points"] = 9481.04,
+        ["points"] = 9481.22,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 791,
@@ -18834,12 +18834,12 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 144,
         ["kill_count"] = 10,
-        ["points"] = 9873.77,
+        ["points"] = 9873.81,
       },
       ["Rotface"] = {
         ["rank_raids"] = 321,
         ["kill_count"] = 10,
-        ["points"] = 9743.55,
+        ["points"] = 9743.59,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2489,
@@ -18868,72 +18868,15 @@ UWULogsData[1][2] = {
       },
     },
   },
-  ["Shacca"] = {
+  ["Shroudy"] = {
     ["percentile"] = 91.47,
     ["server"] = "Icecrown",
     ["overall_rank"] = 332,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2426,
-        ["kill_count"] = 8,
-        ["points"] = 8904.42,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 313,
-        ["kill_count"] = 7,
-        ["points"] = 9721.9,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 476,
-        ["kill_count"] = 8,
-        ["points"] = 9667.47,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 3268,
-        ["kill_count"] = 8,
-        ["points"] = 8570.6,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 787,
-        ["kill_count"] = 8,
-        ["points"] = 9511.35,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 4349,
-        ["kill_count"] = 8,
-        ["points"] = 8246.3,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 2982,
-        ["kill_count"] = 7,
-        ["points"] = 8760.75,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 203,
-        ["kill_count"] = 7,
-        ["points"] = 9808.6,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 2750,
-        ["kill_count"] = 7,
-        ["points"] = 8726.0,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 732,
-        ["kill_count"] = 6,
-        ["points"] = 9485.0,
-      },
-    },
-  },
-  ["Shroudy"] = {
-    ["percentile"] = 91.47,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 333,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
         ["rank_raids"] = 2342,
         ["kill_count"] = 24,
-        ["points"] = 8932.38,
+        ["points"] = 8932.75,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1634,
@@ -18943,7 +18886,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2747,
         ["kill_count"] = 25,
-        ["points"] = 8797.38,
+        ["points"] = 8797.59,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1485,
@@ -18953,7 +18896,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2204,
         ["kill_count"] = 27,
-        ["points"] = 8958.59,
+        ["points"] = 8958.77,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 968,
@@ -18982,6 +18925,63 @@ UWULogsData[1][2] = {
       },
     },
   },
+  ["Shacca"] = {
+    ["percentile"] = 91.47,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 333,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 2426,
+        ["kill_count"] = 8,
+        ["points"] = 8904.8,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 313,
+        ["kill_count"] = 7,
+        ["points"] = 9721.9,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 476,
+        ["kill_count"] = 8,
+        ["points"] = 9667.53,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 3268,
+        ["kill_count"] = 8,
+        ["points"] = 8570.6,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 787,
+        ["kill_count"] = 8,
+        ["points"] = 9511.43,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 4349,
+        ["kill_count"] = 8,
+        ["points"] = 8246.3,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 2982,
+        ["kill_count"] = 7,
+        ["points"] = 8760.75,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 203,
+        ["kill_count"] = 7,
+        ["points"] = 9808.6,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 2750,
+        ["kill_count"] = 7,
+        ["points"] = 8726.0,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 732,
+        ["kill_count"] = 6,
+        ["points"] = 9485.0,
+      },
+    },
+  },
   ["Zvenden"] = {
     ["percentile"] = 91.47,
     ["server"] = "Icecrown",
@@ -18990,7 +18990,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3313,
         ["kill_count"] = 3,
-        ["points"] = 8607.37,
+        ["points"] = 8607.86,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1030,
@@ -19000,7 +19000,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 196,
         ["kill_count"] = 4,
-        ["points"] = 9822.54,
+        ["points"] = 9822.57,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3998,
@@ -19010,7 +19010,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4000,
         ["kill_count"] = 4,
-        ["points"] = 8450.88,
+        ["points"] = 8451.14,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 46,
@@ -19047,7 +19047,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 916,
         ["kill_count"] = 19,
-        ["points"] = 9484.54,
+        ["points"] = 9484.72,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1090,
@@ -19057,17 +19057,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1320,
         ["kill_count"] = 22,
-        ["points"] = 9288.42,
+        ["points"] = 9288.54,
       },
       ["Festergut"] = {
         ["rank_raids"] = 413,
         ["kill_count"] = 22,
-        ["points"] = 9683.56,
+        ["points"] = 9683.66,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1517,
         ["kill_count"] = 22,
-        ["points"] = 9215.04,
+        ["points"] = 9215.18,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 506,
@@ -19104,7 +19104,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 615,
         ["kill_count"] = 22,
-        ["points"] = 9624.32,
+        ["points"] = 9624.45,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1515,
@@ -19119,12 +19119,12 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 378,
         ["kill_count"] = 21,
-        ["points"] = 9706.03,
+        ["points"] = 9706.14,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1187,
         ["kill_count"] = 21,
-        ["points"] = 9339.8,
+        ["points"] = 9339.92,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3716,
@@ -19161,7 +19161,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2946,
         ["kill_count"] = 7,
-        ["points"] = 8727.94,
+        ["points"] = 8728.38,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2587,
@@ -19171,17 +19171,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1433,
         ["kill_count"] = 7,
-        ["points"] = 9257.41,
+        ["points"] = 9257.54,
       },
       ["Festergut"] = {
         ["rank_raids"] = 667,
         ["kill_count"] = 7,
-        ["points"] = 9543.49,
+        ["points"] = 9543.65,
       },
       ["Rotface"] = {
         ["rank_raids"] = 858,
         ["kill_count"] = 7,
-        ["points"] = 9481.89,
+        ["points"] = 9481.98,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2874,
@@ -19218,7 +19218,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1198,
         ["kill_count"] = 11,
-        ["points"] = 9363.97,
+        ["points"] = 9364.19,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 370,
@@ -19228,7 +19228,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1760,
         ["kill_count"] = 11,
-        ["points"] = 9133.36,
+        ["points"] = 9133.51,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2651,
@@ -19238,7 +19238,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5536,
         ["kill_count"] = 12,
-        ["points"] = 8071.39,
+        ["points"] = 8071.73,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1109,
@@ -19275,7 +19275,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2987,
         ["kill_count"] = 13,
-        ["points"] = 8713.96,
+        ["points"] = 8714.41,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2425,
@@ -19285,17 +19285,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1015,
         ["kill_count"] = 13,
-        ["points"] = 9412.47,
+        ["points"] = 9412.58,
       },
       ["Festergut"] = {
         ["rank_raids"] = 972,
         ["kill_count"] = 13,
-        ["points"] = 9374.03,
+        ["points"] = 9374.24,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2935,
         ["kill_count"] = 13,
-        ["points"] = 8764.51,
+        ["points"] = 8764.73,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1361,
@@ -19332,7 +19332,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1066,
         ["kill_count"] = 39,
-        ["points"] = 9412.9,
+        ["points"] = 9413.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 494,
@@ -19342,7 +19342,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1735,
         ["kill_count"] = 43,
-        ["points"] = 9147.14,
+        ["points"] = 9147.29,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1813,
@@ -19352,7 +19352,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 379,
         ["kill_count"] = 45,
-        ["points"] = 9703.69,
+        ["points"] = 9703.74,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2292,
@@ -19389,7 +19389,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 612,
         ["kill_count"] = 9,
-        ["points"] = 9627.82,
+        ["points"] = 9627.95,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1400,
@@ -19399,7 +19399,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 937,
         ["kill_count"] = 9,
-        ["points"] = 9436.6,
+        ["points"] = 9436.69,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1300,
@@ -19446,7 +19446,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1790,
         ["kill_count"] = 21,
-        ["points"] = 9135.07,
+        ["points"] = 9135.37,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 712,
@@ -19456,7 +19456,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1714,
         ["kill_count"] = 23,
-        ["points"] = 9150.59,
+        ["points"] = 9150.73,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3595,
@@ -19466,7 +19466,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 876,
         ["kill_count"] = 22,
-        ["points"] = 9468.03,
+        ["points"] = 9468.12,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1429,
@@ -19503,7 +19503,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1461,
         ["kill_count"] = 23,
-        ["points"] = 9267.87,
+        ["points"] = 9268.12,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2264,
@@ -19513,7 +19513,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 130,
         ["kill_count"] = 23,
-        ["points"] = 9884.56,
+        ["points"] = 9884.58,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2456,
@@ -19523,7 +19523,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 493,
         ["kill_count"] = 23,
-        ["points"] = 9653.44,
+        ["points"] = 9653.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4183,
@@ -19560,7 +19560,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 248,
         ["kill_count"] = 12,
-        ["points"] = 9828.76,
+        ["points"] = 9828.82,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1137,
@@ -19570,7 +19570,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 220,
         ["kill_count"] = 12,
-        ["points"] = 9812.2,
+        ["points"] = 9812.23,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1412,
@@ -19580,7 +19580,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 824,
         ["kill_count"] = 11,
-        ["points"] = 9495.75,
+        ["points"] = 9495.84,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4525,
@@ -19598,9 +19598,9 @@ UWULogsData[1][2] = {
         ["points"] = 8480.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5421,
+        ["rank_raids"] = 5422,
         ["kill_count"] = 13,
-        ["points"] = 7924.7,
+        ["points"] = 7924.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1897,
@@ -19617,7 +19617,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 811,
         ["kill_count"] = 14,
-        ["points"] = 9521.23,
+        ["points"] = 9521.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1298,
@@ -19627,7 +19627,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1200,
         ["kill_count"] = 14,
-        ["points"] = 9331.5,
+        ["points"] = 9331.61,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1784,
@@ -19637,7 +19637,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1651,
         ["kill_count"] = 15,
-        ["points"] = 9164.79,
+        ["points"] = 9164.93,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 662,
@@ -19674,7 +19674,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2609,
         ["kill_count"] = 6,
-        ["points"] = 8827.54,
+        ["points"] = 8827.95,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 111,
@@ -19682,9 +19682,9 @@ UWULogsData[1][2] = {
         ["points"] = 9891.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5347,
+        ["rank_raids"] = 5348,
         ["kill_count"] = 6,
-        ["points"] = 8144.38,
+        ["points"] = 8144.7,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1502,
@@ -19694,7 +19694,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1859,
         ["kill_count"] = 6,
-        ["points"] = 9092.01,
+        ["points"] = 9092.17,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 686,
@@ -19731,7 +19731,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2663,
         ["kill_count"] = 7,
-        ["points"] = 8813.56,
+        ["points"] = 8813.97,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 863,
@@ -19741,17 +19741,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 796,
         ["kill_count"] = 8,
-        ["points"] = 9505.51,
+        ["points"] = 9505.6,
       },
       ["Festergut"] = {
         ["rank_raids"] = 867,
         ["kill_count"] = 8,
-        ["points"] = 9429.36,
+        ["points"] = 9429.56,
       },
       ["Rotface"] = {
         ["rank_raids"] = 629,
         ["kill_count"] = 8,
-        ["points"] = 9578.93,
+        ["points"] = 9579.0,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1925,
@@ -19788,7 +19788,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1919,
         ["kill_count"] = 46,
-        ["points"] = 9094.88,
+        ["points"] = 9095.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 731,
@@ -19798,7 +19798,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 192,
         ["kill_count"] = 47,
-        ["points"] = 9827.71,
+        ["points"] = 9827.73,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3657,
@@ -19808,7 +19808,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 209,
         ["kill_count"] = 47,
-        ["points"] = 9818.06,
+        ["points"] = 9818.09,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2709,
@@ -19845,7 +19845,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2159,
         ["kill_count"] = 11,
-        ["points"] = 9012.76,
+        ["points"] = 9013.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3269,
@@ -19855,17 +19855,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 943,
         ["kill_count"] = 11,
-        ["points"] = 9434.87,
+        ["points"] = 9434.97,
       },
       ["Festergut"] = {
         ["rank_raids"] = 766,
         ["kill_count"] = 11,
-        ["points"] = 9495.07,
+        ["points"] = 9495.25,
       },
       ["Rotface"] = {
         ["rank_raids"] = 233,
         ["kill_count"] = 11,
-        ["points"] = 9800.73,
+        ["points"] = 9800.76,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 520,
@@ -19902,7 +19902,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 333,
         ["kill_count"] = 9,
-        ["points"] = 9785.08,
+        ["points"] = 9785.15,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 668,
@@ -19912,7 +19912,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2613,
         ["kill_count"] = 9,
-        ["points"] = 8831.84,
+        ["points"] = 8832.04,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2269,
@@ -19922,7 +19922,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1773,
         ["kill_count"] = 8,
-        ["points"] = 9128.4,
+        ["points"] = 9128.55,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1617,
@@ -19959,7 +19959,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3151,
         ["kill_count"] = 12,
-        ["points"] = 8668.53,
+        ["points"] = 8669.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2735,
@@ -19969,17 +19969,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 145,
         ["kill_count"] = 12,
-        ["points"] = 9875.95,
+        ["points"] = 9875.97,
       },
       ["Festergut"] = {
         ["rank_raids"] = 824,
         ["kill_count"] = 12,
-        ["points"] = 9458.76,
+        ["points"] = 9458.95,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3088,
         ["kill_count"] = 12,
-        ["points"] = 8714.26,
+        ["points"] = 8714.48,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 957,
@@ -20016,7 +20016,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2604,
         ["kill_count"] = 11,
-        ["points"] = 8829.29,
+        ["points"] = 8829.69,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 877,
@@ -20026,7 +20026,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 504,
         ["kill_count"] = 10,
-        ["points"] = 9651.96,
+        ["points"] = 9652.02,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2180,
@@ -20036,7 +20036,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 869,
         ["kill_count"] = 8,
-        ["points"] = 9474.96,
+        ["points"] = 9475.05,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 734,
@@ -20073,7 +20073,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 557,
         ["kill_count"] = 13,
-        ["points"] = 9655.77,
+        ["points"] = 9655.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2268,
@@ -20083,17 +20083,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 423,
         ["kill_count"] = 12,
-        ["points"] = 9698.48,
+        ["points"] = 9698.54,
       },
       ["Festergut"] = {
         ["rank_raids"] = 478,
         ["kill_count"] = 10,
-        ["points"] = 9650.7,
+        ["points"] = 9650.82,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2874,
         ["kill_count"] = 11,
-        ["points"] = 8776.64,
+        ["points"] = 8776.85,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1426,
@@ -20130,7 +20130,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1120,
         ["kill_count"] = 6,
-        ["points"] = 9390.18,
+        ["points"] = 9390.39,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4817,
@@ -20140,7 +20140,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 340,
         ["kill_count"] = 6,
-        ["points"] = 9745.0,
+        ["points"] = 9745.05,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2426,
@@ -20150,7 +20150,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1181,
         ["kill_count"] = 6,
-        ["points"] = 9343.27,
+        ["points"] = 9343.38,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2658,
@@ -20187,7 +20187,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 919,
         ["kill_count"] = 11,
-        ["points"] = 9482.79,
+        ["points"] = 9482.97,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 238,
@@ -20197,7 +20197,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1363,
         ["kill_count"] = 15,
-        ["points"] = 9276.36,
+        ["points"] = 9276.49,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3347,
@@ -20207,7 +20207,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3089,
         ["kill_count"] = 13,
-        ["points"] = 8712.53,
+        ["points"] = 8712.75,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2373,
@@ -20244,7 +20244,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2278,
         ["kill_count"] = 21,
-        ["points"] = 8956.84,
+        ["points"] = 8957.21,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3549,
@@ -20254,7 +20254,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2063,
         ["kill_count"] = 22,
-        ["points"] = 9021.36,
+        ["points"] = 9021.53,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1859,
@@ -20264,7 +20264,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 286,
         ["kill_count"] = 22,
-        ["points"] = 9766.07,
+        ["points"] = 9766.11,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3411,
@@ -20301,7 +20301,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2437,
         ["kill_count"] = 14,
-        ["points"] = 8895.68,
+        ["points"] = 8896.07,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4413,
@@ -20311,17 +20311,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1764,
         ["kill_count"] = 14,
-        ["points"] = 9131.63,
+        ["points"] = 9131.78,
       },
       ["Festergut"] = {
         ["rank_raids"] = 495,
         ["kill_count"] = 14,
-        ["points"] = 9636.87,
+        ["points"] = 9636.99,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1670,
         ["kill_count"] = 14,
-        ["points"] = 9159.59,
+        ["points"] = 9159.74,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2073,
@@ -20358,7 +20358,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3153,
         ["kill_count"] = 8,
-        ["points"] = 8666.78,
+        ["points"] = 8667.25,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1383,
@@ -20368,7 +20368,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2130,
         ["kill_count"] = 9,
-        ["points"] = 8992.07,
+        ["points"] = 8992.25,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1204,
@@ -20378,7 +20378,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 334,
         ["kill_count"] = 9,
-        ["points"] = 9733.15,
+        ["points"] = 9733.19,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1471,
@@ -20415,7 +20415,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1572,
         ["kill_count"] = 7,
-        ["points"] = 9222.44,
+        ["points"] = 9222.71,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1131,
@@ -20425,17 +20425,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 958,
         ["kill_count"] = 8,
-        ["points"] = 9429.7,
+        ["points"] = 9429.8,
       },
       ["Festergut"] = {
         ["rank_raids"] = 771,
         ["kill_count"] = 7,
-        ["points"] = 9491.61,
+        ["points"] = 9491.79,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1382,
         ["kill_count"] = 7,
-        ["points"] = 9270.49,
+        ["points"] = 9270.62,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4004,
@@ -20472,7 +20472,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 560,
         ["kill_count"] = 18,
-        ["points"] = 9654.03,
+        ["points"] = 9654.15,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4339,
@@ -20482,7 +20482,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 4188,
         ["kill_count"] = 15,
-        ["points"] = 8430.39,
+        ["points"] = 8430.66,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1207,
@@ -20492,7 +20492,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3486,
         ["kill_count"] = 16,
-        ["points"] = 8605.09,
+        ["points"] = 8605.34,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1181,
@@ -20529,7 +20529,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5016,
         ["kill_count"] = 27,
-        ["points"] = 8118.12,
+        ["points"] = 8118.78,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2439,
@@ -20539,17 +20539,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3631,
         ["kill_count"] = 27,
-        ["points"] = 8559.61,
+        ["points"] = 8559.86,
       },
       ["Festergut"] = {
         ["rank_raids"] = 221,
         ["kill_count"] = 27,
-        ["points"] = 9814.97,
+        ["points"] = 9815.04,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1932,
         ["kill_count"] = 27,
-        ["points"] = 9059.09,
+        ["points"] = 9059.25,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 746,
@@ -20586,7 +20586,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1830,
         ["kill_count"] = 17,
-        ["points"] = 9117.6,
+        ["points"] = 9117.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1668,
@@ -20596,7 +20596,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1942,
         ["kill_count"] = 21,
-        ["points"] = 9069.61,
+        ["points"] = 9069.77,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3450,
@@ -20606,7 +20606,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 392,
         ["kill_count"] = 23,
-        ["points"] = 9696.76,
+        ["points"] = 9696.81,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1431,
@@ -20643,7 +20643,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 773,
         ["kill_count"] = 3,
-        ["points"] = 9543.95,
+        ["points"] = 9544.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3799,
@@ -20653,17 +20653,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 246,
         ["kill_count"] = 3,
-        ["points"] = 9801.86,
+        ["points"] = 9801.89,
       },
       ["Festergut"] = {
         ["rank_raids"] = 133,
         ["kill_count"] = 3,
-        ["points"] = 9889.33,
+        ["points"] = 9889.37,
       },
       ["Rotface"] = {
         ["rank_raids"] = 490,
         ["kill_count"] = 4,
-        ["points"] = 9655.17,
+        ["points"] = 9655.23,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4157,
@@ -20700,7 +20700,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2347,
         ["kill_count"] = 25,
-        ["points"] = 8928.88,
+        ["points"] = 8929.26,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1285,
@@ -20710,7 +20710,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 483,
         ["kill_count"] = 28,
-        ["points"] = 9662.3,
+        ["points"] = 9662.36,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3705,
@@ -20720,7 +20720,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1075,
         ["kill_count"] = 26,
-        ["points"] = 9381.39,
+        ["points"] = 9381.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1727,
@@ -20757,7 +20757,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 708,
         ["kill_count"] = 5,
-        ["points"] = 9584.13,
+        ["points"] = 9584.28,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3958,
@@ -20767,7 +20767,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2661,
         ["kill_count"] = 6,
-        ["points"] = 8812.89,
+        ["points"] = 8813.09,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1603,
@@ -20777,7 +20777,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5258,
         ["kill_count"] = 6,
-        ["points"] = 8135.51,
+        ["points"] = 8135.83,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 155,
@@ -20814,7 +20814,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1009,
         ["kill_count"] = 20,
-        ["points"] = 9435.61,
+        ["points"] = 9435.81,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3855,
@@ -20824,12 +20824,12 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 264,
         ["kill_count"] = 20,
-        ["points"] = 9789.8,
+        ["points"] = 9789.84,
       },
       ["Festergut"] = {
         ["rank_raids"] = 443,
         ["kill_count"] = 20,
-        ["points"] = 9666.26,
+        ["points"] = 9666.38,
       },
       ["Rotface"] = {
         ["rank_raids"] = 33,
@@ -20852,9 +20852,9 @@ UWULogsData[1][2] = {
         ["points"] = 8356.7,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6106,
+        ["rank_raids"] = 6107,
         ["kill_count"] = 20,
-        ["points"] = 7719.2,
+        ["points"] = 7718.9,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2503,
@@ -20871,7 +20871,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 825,
         ["kill_count"] = 4,
-        ["points"] = 9517.74,
+        ["points"] = 9517.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4031,
@@ -20881,7 +20881,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 539,
         ["kill_count"] = 4,
-        ["points"] = 9631.29,
+        ["points"] = 9631.35,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1851,
@@ -20891,7 +20891,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2965,
         ["kill_count"] = 5,
-        ["points"] = 8759.31,
+        ["points"] = 8759.53,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 627,
@@ -20928,7 +20928,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1310,
         ["kill_count"] = 4,
-        ["points"] = 9320.29,
+        ["points"] = 9320.52,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1275,
@@ -20938,17 +20938,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1771,
         ["kill_count"] = 5,
-        ["points"] = 9128.19,
+        ["points"] = 9128.34,
       },
       ["Festergut"] = {
         ["rank_raids"] = 678,
         ["kill_count"] = 5,
-        ["points"] = 9538.3,
+        ["points"] = 9538.46,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2391,
         ["kill_count"] = 4,
-        ["points"] = 8911.8,
+        ["points"] = 8911.99,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3189,
@@ -20985,7 +20985,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2762,
         ["kill_count"] = 48,
-        ["points"] = 8778.61,
+        ["points"] = 8779.04,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1356,
@@ -20995,7 +20995,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 339,
         ["kill_count"] = 49,
-        ["points"] = 9746.73,
+        ["points"] = 9746.77,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1778,
@@ -21005,7 +21005,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3454,
         ["kill_count"] = 49,
-        ["points"] = 8612.03,
+        ["points"] = 8612.27,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2538,
@@ -21042,7 +21042,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4874,
         ["kill_count"] = 19,
-        ["points"] = 8165.3,
+        ["points"] = 8165.94,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1228,
@@ -21052,7 +21052,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 190,
         ["kill_count"] = 18,
-        ["points"] = 9831.15,
+        ["points"] = 9831.18,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1639,
@@ -21062,7 +21062,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1582,
         ["kill_count"] = 19,
-        ["points"] = 9183.85,
+        ["points"] = 9183.99,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2271,
@@ -21099,7 +21099,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 353,
         ["kill_count"] = 18,
-        ["points"] = 9778.09,
+        ["points"] = 9778.17,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 413,
@@ -21109,7 +21109,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2066,
         ["kill_count"] = 18,
-        ["points"] = 9017.92,
+        ["points"] = 9018.09,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1082,
@@ -21119,7 +21119,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1056,
         ["kill_count"] = 18,
-        ["points"] = 9396.98,
+        ["points"] = 9397.09,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1170,
@@ -21156,7 +21156,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1250,
         ["kill_count"] = 16,
-        ["points"] = 9339.51,
+        ["points"] = 9339.74,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1108,
@@ -21166,17 +21166,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2940,
         ["kill_count"] = 19,
-        ["points"] = 8742.25,
+        ["points"] = 8742.46,
       },
       ["Festergut"] = {
         ["rank_raids"] = 658,
         ["kill_count"] = 18,
-        ["points"] = 9548.68,
+        ["points"] = 9548.83,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3203,
         ["kill_count"] = 18,
-        ["points"] = 8688.27,
+        ["points"] = 8688.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1878,
@@ -21213,7 +21213,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3688,
         ["kill_count"] = 10,
-        ["points"] = 8481.57,
+        ["points"] = 8482.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1830,
@@ -21223,7 +21223,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3050,
         ["kill_count"] = 10,
-        ["points"] = 8711.23,
+        ["points"] = 8711.46,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1685,
@@ -21233,7 +21233,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 333,
         ["kill_count"] = 10,
-        ["points"] = 9734.88,
+        ["points"] = 9734.93,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 960,
@@ -21270,7 +21270,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1246,
         ["kill_count"] = 16,
-        ["points"] = 9343.0,
+        ["points"] = 9343.23,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 373,
@@ -21280,7 +21280,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2923,
         ["kill_count"] = 17,
-        ["points"] = 8743.97,
+        ["points"] = 8744.19,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5032,
@@ -21290,7 +21290,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1558,
         ["kill_count"] = 14,
-        ["points"] = 9190.78,
+        ["points"] = 9190.92,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 680,
@@ -21327,7 +21327,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 471,
         ["kill_count"] = 40,
-        ["points"] = 9708.2,
+        ["points"] = 9708.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5204,
@@ -21337,17 +21337,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 409,
         ["kill_count"] = 40,
-        ["points"] = 9701.93,
+        ["points"] = 9701.98,
       },
       ["Festergut"] = {
         ["rank_raids"] = 895,
         ["kill_count"] = 40,
-        ["points"] = 9415.53,
+        ["points"] = 9415.73,
       },
       ["Rotface"] = {
         ["rank_raids"] = 190,
         ["kill_count"] = 40,
-        ["points"] = 9824.99,
+        ["points"] = 9825.02,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1058,
@@ -21384,7 +21384,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1229,
         ["kill_count"] = 6,
-        ["points"] = 9353.49,
+        ["points"] = 9353.71,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3808,
@@ -21394,17 +21394,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3367,
         ["kill_count"] = 7,
-        ["points"] = 8626.81,
+        ["points"] = 8627.05,
       },
       ["Festergut"] = {
         ["rank_raids"] = 7628,
         ["kill_count"] = 7,
-        ["points"] = 7437.32,
+        ["points"] = 7438.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 234,
         ["kill_count"] = 7,
-        ["points"] = 9798.99,
+        ["points"] = 9799.03,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 767,
@@ -21441,7 +21441,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2337,
         ["kill_count"] = 23,
-        ["points"] = 8934.13,
+        ["points"] = 8934.5,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1695,
@@ -21451,7 +21451,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 780,
         ["kill_count"] = 24,
-        ["points"] = 9515.85,
+        ["points"] = 9515.93,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1522,
@@ -21461,7 +21461,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1842,
         ["kill_count"] = 25,
-        ["points"] = 9100.68,
+        ["points"] = 9100.83,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1037,
@@ -21498,7 +21498,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 240,
         ["kill_count"] = 13,
-        ["points"] = 9830.51,
+        ["points"] = 9830.57,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2079,
@@ -21508,17 +21508,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3217,
         ["kill_count"] = 15,
-        ["points"] = 8666.44,
+        ["points"] = 8666.67,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5533,
         ["kill_count"] = 16,
-        ["points"] = 7911.12,
+        ["points"] = 7911.84,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1059,
         ["kill_count"] = 16,
-        ["points"] = 9391.79,
+        ["points"] = 9391.89,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 844,
@@ -21555,7 +21555,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 367,
         ["kill_count"] = 10,
-        ["points"] = 9764.11,
+        ["points"] = 9764.19,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2497,
@@ -21565,17 +21565,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3886,
         ["kill_count"] = 13,
-        ["points"] = 8502.76,
+        ["points"] = 8503.01,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1165,
         ["kill_count"] = 13,
-        ["points"] = 9287.57,
+        ["points"] = 9287.81,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1999,
         ["kill_count"] = 12,
-        ["points"] = 9045.23,
+        ["points"] = 9045.39,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2731,
@@ -21612,7 +21612,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1439,
         ["kill_count"] = 7,
-        ["points"] = 9276.6,
+        ["points"] = 9276.86,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1794,
@@ -21622,17 +21622,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1526,
         ["kill_count"] = 9,
-        ["points"] = 9221.23,
+        ["points"] = 9221.36,
       },
       ["Festergut"] = {
         ["rank_raids"] = 794,
         ["kill_count"] = 8,
-        ["points"] = 9481.24,
+        ["points"] = 9481.42,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2461,
         ["kill_count"] = 8,
-        ["points"] = 8891.01,
+        ["points"] = 8891.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2908,
@@ -21662,14 +21662,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Tobiramaa"] = {
-    ["percentile"] = 90.57,
+    ["percentile"] = 90.58,
     ["server"] = "Icecrown",
     ["overall_rank"] = 381,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3417,
         ["kill_count"] = 24,
-        ["points"] = 8572.43,
+        ["points"] = 8572.93,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2960,
@@ -21679,7 +21679,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 499,
         ["kill_count"] = 26,
-        ["points"] = 9657.13,
+        ["points"] = 9657.19,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1528,
@@ -21689,7 +21689,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3427,
         ["kill_count"] = 25,
-        ["points"] = 8620.69,
+        ["points"] = 8620.93,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1782,
@@ -21726,7 +21726,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1885,
         ["kill_count"] = 5,
-        ["points"] = 9100.12,
+        ["points"] = 9100.44,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 420,
@@ -21736,17 +21736,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1437,
         ["kill_count"] = 5,
-        ["points"] = 9252.24,
+        ["points"] = 9252.37,
       },
       ["Festergut"] = {
         ["rank_raids"] = 403,
         ["kill_count"] = 5,
-        ["points"] = 9692.2,
+        ["points"] = 9692.31,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1333,
         ["kill_count"] = 5,
-        ["points"] = 9286.09,
+        ["points"] = 9286.21,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1031,
@@ -21783,7 +21783,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1467,
         ["kill_count"] = 22,
-        ["points"] = 9262.62,
+        ["points"] = 9262.88,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2305,
@@ -21793,17 +21793,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1067,
         ["kill_count"] = 24,
-        ["points"] = 9393.52,
+        ["points"] = 9393.63,
       },
       ["Festergut"] = {
         ["rank_raids"] = 395,
         ["kill_count"] = 23,
-        ["points"] = 9699.12,
+        ["points"] = 9699.22,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1299,
         ["kill_count"] = 24,
-        ["points"] = 9301.68,
+        ["points"] = 9301.8,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3830,
@@ -21821,9 +21821,9 @@ UWULogsData[1][2] = {
         ["points"] = 9059.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4841,
+        ["rank_raids"] = 4842,
         ["kill_count"] = 22,
-        ["points"] = 8098.7,
+        ["points"] = 8098.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1634,
@@ -21840,7 +21840,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5876,
         ["kill_count"] = 11,
-        ["points"] = 7857.77,
+        ["points"] = 7858.52,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 974,
@@ -21850,7 +21850,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 626,
         ["kill_count"] = 14,
-        ["points"] = 9583.05,
+        ["points"] = 9583.12,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3049,
@@ -21860,7 +21860,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1388,
         ["kill_count"] = 15,
-        ["points"] = 9267.02,
+        ["points"] = 9267.15,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1757,
@@ -21897,7 +21897,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 620,
         ["kill_count"] = 4,
-        ["points"] = 9622.58,
+        ["points"] = 9622.71,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3768,
@@ -21907,7 +21907,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 664,
         ["kill_count"] = 3,
-        ["points"] = 9560.65,
+        ["points"] = 9560.72,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4689,
@@ -21917,7 +21917,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 253,
         ["kill_count"] = 4,
-        ["points"] = 9792.06,
+        ["points"] = 9792.1,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2140,
@@ -21954,7 +21954,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2125,
         ["kill_count"] = 9,
-        ["points"] = 9019.74,
+        ["points"] = 9020.09,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 841,
@@ -21964,7 +21964,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3915,
         ["kill_count"] = 10,
-        ["points"] = 8490.7,
+        ["points"] = 8490.96,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1491,
@@ -21974,7 +21974,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 327,
         ["kill_count"] = 12,
-        ["points"] = 9738.35,
+        ["points"] = 9738.39,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1668,
@@ -22011,7 +22011,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 988,
         ["kill_count"] = 11,
-        ["points"] = 9442.6,
+        ["points"] = 9442.79,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2060,
@@ -22021,17 +22021,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 607,
         ["kill_count"] = 12,
-        ["points"] = 9596.83,
+        ["points"] = 9596.9,
       },
       ["Festergut"] = {
         ["rank_raids"] = 921,
         ["kill_count"] = 12,
-        ["points"] = 9399.97,
+        ["points"] = 9400.17,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1581,
         ["kill_count"] = 12,
-        ["points"] = 9185.58,
+        ["points"] = 9185.72,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4400,
@@ -22068,7 +22068,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1951,
         ["kill_count"] = 4,
-        ["points"] = 9084.4,
+        ["points"] = 9084.72,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1970,
@@ -22078,7 +22078,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 4197,
         ["kill_count"] = 4,
-        ["points"] = 8425.22,
+        ["points"] = 8425.5,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3378,
@@ -22088,7 +22088,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2612,
         ["kill_count"] = 4,
-        ["points"] = 8833.82,
+        ["points"] = 8834.03,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3018,
@@ -22125,7 +22125,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 650,
         ["kill_count"] = 15,
-        ["points"] = 9612.09,
+        ["points"] = 9612.23,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3548,
@@ -22135,7 +22135,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 643,
         ["kill_count"] = 16,
-        ["points"] = 9577.88,
+        ["points"] = 9577.95,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1028,
@@ -22145,7 +22145,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 266,
         ["kill_count"] = 16,
-        ["points"] = 9785.13,
+        ["points"] = 9785.17,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4013,
@@ -22163,9 +22163,9 @@ UWULogsData[1][2] = {
         ["points"] = 9856.9,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 7455,
+        ["rank_raids"] = 7456,
         ["kill_count"] = 11,
-        ["points"] = 7314.5,
+        ["points"] = 7314.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2246,
@@ -22182,7 +22182,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3691,
         ["kill_count"] = 10,
-        ["points"] = 8479.82,
+        ["points"] = 8480.35,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 532,
@@ -22192,17 +22192,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1542,
         ["kill_count"] = 11,
-        ["points"] = 9212.61,
+        ["points"] = 9212.75,
       },
       ["Festergut"] = {
         ["rank_raids"] = 835,
         ["kill_count"] = 13,
-        ["points"] = 9444.92,
+        ["points"] = 9445.12,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2474,
         ["kill_count"] = 13,
-        ["points"] = 8882.34,
+        ["points"] = 8882.54,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 261,
@@ -22239,7 +22239,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4404,
         ["kill_count"] = 11,
-        ["points"] = 8287.61,
+        ["points"] = 8288.21,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4292,
@@ -22249,7 +22249,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1136,
         ["kill_count"] = 11,
-        ["points"] = 9364.23,
+        ["points"] = 9364.34,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1388,
@@ -22259,7 +22259,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 639,
         ["kill_count"] = 11,
-        ["points"] = 9572.0,
+        ["points"] = 9572.07,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1011,
@@ -22296,7 +22296,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2563,
         ["kill_count"] = 24,
-        ["points"] = 8845.01,
+        ["points"] = 8845.41,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 684,
@@ -22306,17 +22306,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 692,
         ["kill_count"] = 26,
-        ["points"] = 9550.31,
+        ["points"] = 9550.39,
       },
       ["Festergut"] = {
         ["rank_raids"] = 613,
         ["kill_count"] = 28,
-        ["points"] = 9574.62,
+        ["points"] = 9574.76,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3106,
         ["kill_count"] = 28,
-        ["points"] = 8709.06,
+        ["points"] = 8709.29,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1554,
@@ -22353,7 +22353,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2547,
         ["kill_count"] = 17,
-        ["points"] = 8852.0,
+        ["points"] = 8852.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 939,
@@ -22363,7 +22363,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1109,
         ["kill_count"] = 17,
-        ["points"] = 9376.29,
+        ["points"] = 9376.4,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1500,
@@ -22373,7 +22373,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2150,
         ["kill_count"] = 18,
-        ["points"] = 8982.85,
+        ["points"] = 8983.02,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2022,
@@ -22410,7 +22410,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1563,
         ["kill_count"] = 4,
-        ["points"] = 9227.68,
+        ["points"] = 9227.95,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3607,
@@ -22420,17 +22420,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1671,
         ["kill_count"] = 4,
-        ["points"] = 9162.65,
+        ["points"] = 9162.79,
       },
       ["Festergut"] = {
         ["rank_raids"] = 943,
         ["kill_count"] = 4,
-        ["points"] = 9389.59,
+        ["points"] = 9389.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2496,
         ["kill_count"] = 4,
-        ["points"] = 8871.95,
+        ["points"] = 8872.14,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4350,
@@ -22467,7 +22467,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1212,
         ["kill_count"] = 8,
-        ["points"] = 9358.73,
+        ["points"] = 9358.95,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4494,
@@ -22477,17 +22477,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 878,
         ["kill_count"] = 8,
-        ["points"] = 9465.89,
+        ["points"] = 9465.98,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5356,
         ["kill_count"] = 8,
-        ["points"] = 7944.2,
+        ["points"] = 7944.68,
       },
       ["Rotface"] = {
         ["rank_raids"] = 322,
         ["kill_count"] = 8,
-        ["points"] = 9741.81,
+        ["points"] = 9741.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2766,
@@ -22524,7 +22524,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1312,
         ["kill_count"] = 8,
-        ["points"] = 9318.54,
+        ["points"] = 9318.78,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3070,
@@ -22534,17 +22534,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1469,
         ["kill_count"] = 8,
-        ["points"] = 9240.18,
+        ["points"] = 9240.31,
       },
       ["Festergut"] = {
         ["rank_raids"] = 199,
         ["kill_count"] = 8,
-        ["points"] = 9828.81,
+        ["points"] = 9828.87,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1447,
         ["kill_count"] = 8,
-        ["points"] = 9244.5,
+        ["points"] = 9244.63,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2067,
@@ -22581,7 +22581,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2212,
         ["kill_count"] = 15,
-        ["points"] = 8986.55,
+        ["points"] = 8986.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3954,
@@ -22591,7 +22591,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 562,
         ["kill_count"] = 15,
-        ["points"] = 9617.51,
+        ["points"] = 9617.57,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2594,
@@ -22601,7 +22601,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 827,
         ["kill_count"] = 15,
-        ["points"] = 9494.02,
+        ["points"] = 9494.11,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2274,
@@ -22631,14 +22631,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Drylight"] = {
-    ["percentile"] = 90.28,
+    ["percentile"] = 90.29,
     ["server"] = "Icecrown",
     ["overall_rank"] = 398,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4439,
         ["kill_count"] = 12,
-        ["points"] = 8278.87,
+        ["points"] = 8279.48,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 959,
@@ -22648,17 +22648,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1149,
         ["kill_count"] = 12,
-        ["points"] = 9355.62,
+        ["points"] = 9355.73,
       },
       ["Festergut"] = {
         ["rank_raids"] = 798,
         ["kill_count"] = 13,
-        ["points"] = 9477.78,
+        ["points"] = 9477.96,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3133,
         ["kill_count"] = 13,
-        ["points"] = 8702.13,
+        ["points"] = 8702.36,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1298,
@@ -22695,7 +22695,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 626,
         ["kill_count"] = 4,
-        ["points"] = 9619.08,
+        ["points"] = 9619.21,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3744,
@@ -22705,7 +22705,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1250,
         ["kill_count"] = 4,
-        ["points"] = 9315.99,
+        ["points"] = 9316.11,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2136,
@@ -22715,7 +22715,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1206,
         ["kill_count"] = 5,
-        ["points"] = 9334.6,
+        ["points"] = 9334.72,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 661,
@@ -22752,7 +22752,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2004,
         ["kill_count"] = 16,
-        ["points"] = 9061.68,
+        ["points"] = 9062.01,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1965,
@@ -22762,7 +22762,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1842,
         ["kill_count"] = 14,
-        ["points"] = 9102.34,
+        ["points"] = 9102.5,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4673,
@@ -22772,7 +22772,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1345,
         ["kill_count"] = 15,
-        ["points"] = 9279.15,
+        ["points"] = 9279.28,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 688,
@@ -22809,7 +22809,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 965,
         ["kill_count"] = 13,
-        ["points"] = 9460.07,
+        ["points"] = 9460.26,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3307,
@@ -22819,7 +22819,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 761,
         ["kill_count"] = 14,
-        ["points"] = 9521.02,
+        ["points"] = 9521.1,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2483,
@@ -22829,7 +22829,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 704,
         ["kill_count"] = 14,
-        ["points"] = 9542.54,
+        ["points"] = 9542.62,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1906,
@@ -22866,7 +22866,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 887,
         ["kill_count"] = 11,
-        ["points"] = 9496.77,
+        ["points"] = 9496.94,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4744,
@@ -22876,7 +22876,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 481,
         ["kill_count"] = 11,
-        ["points"] = 9665.75,
+        ["points"] = 9665.81,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2189,
@@ -22886,7 +22886,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2943,
         ["kill_count"] = 11,
-        ["points"] = 8762.78,
+        ["points"] = 8762.99,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 641,
@@ -22923,7 +22923,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1456,
         ["kill_count"] = 25,
-        ["points"] = 9271.36,
+        ["points"] = 9271.62,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1870,
@@ -22933,17 +22933,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3122,
         ["kill_count"] = 26,
-        ["points"] = 8694.0,
+        ["points"] = 8694.23,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1183,
         ["kill_count"] = 28,
-        ["points"] = 9278.92,
+        ["points"] = 9279.17,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1103,
         ["kill_count"] = 28,
-        ["points"] = 9367.53,
+        ["points"] = 9367.64,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1949,
@@ -22961,9 +22961,9 @@ UWULogsData[1][2] = {
         ["points"] = 9621.4,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4823,
+        ["rank_raids"] = 4824,
         ["kill_count"] = 24,
-        ["points"] = 8104.1,
+        ["points"] = 8103.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 3339,
@@ -22980,7 +22980,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1262,
         ["kill_count"] = 3,
-        ["points"] = 9334.27,
+        ["points"] = 9334.5,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 988,
@@ -22990,17 +22990,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 314,
         ["kill_count"] = 4,
-        ["points"] = 9760.51,
+        ["points"] = 9760.55,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1000,
         ["kill_count"] = 4,
-        ["points"] = 9361.92,
+        ["points"] = 9362.14,
       },
       ["Rotface"] = {
         ["rank_raids"] = 650,
         ["kill_count"] = 4,
-        ["points"] = 9566.8,
+        ["points"] = 9566.87,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3110,
@@ -23018,9 +23018,9 @@ UWULogsData[1][2] = {
         ["points"] = 9647.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 8862,
+        ["rank_raids"] = 8863,
         ["kill_count"] = 3,
-        ["points"] = 6892.4,
+        ["points"] = 6892.1,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4332,
@@ -23037,7 +23037,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2219,
         ["kill_count"] = 5,
-        ["points"] = 8981.3,
+        ["points"] = 8981.66,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3733,
@@ -23047,17 +23047,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2460,
         ["kill_count"] = 6,
-        ["points"] = 8876.64,
+        ["points"] = 8876.83,
       },
       ["Festergut"] = {
         ["rank_raids"] = 656,
         ["kill_count"] = 5,
-        ["points"] = 9550.41,
+        ["points"] = 9550.56,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1260,
         ["kill_count"] = 6,
-        ["points"] = 9312.08,
+        ["points"] = 9312.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1485,
@@ -23075,9 +23075,9 @@ UWULogsData[1][2] = {
         ["points"] = 9734.2,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4583,
+        ["rank_raids"] = 4584,
         ["kill_count"] = 5,
-        ["points"] = 8176.1,
+        ["points"] = 8175.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2583,
@@ -23094,7 +23094,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4221,
         ["kill_count"] = 14,
-        ["points"] = 8326.05,
+        ["points"] = 8326.64,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2755,
@@ -23104,7 +23104,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1044,
         ["kill_count"] = 14,
-        ["points"] = 9402.14,
+        ["points"] = 9402.24,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1580,
@@ -23114,7 +23114,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1712,
         ["kill_count"] = 13,
-        ["points"] = 9145.73,
+        ["points"] = 9145.88,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1817,
@@ -23151,7 +23151,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1753,
         ["kill_count"] = 19,
-        ["points"] = 9149.05,
+        ["points"] = 9149.34,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1518,
@@ -23161,7 +23161,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2152,
         ["kill_count"] = 19,
-        ["points"] = 8981.74,
+        ["points"] = 8981.91,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4519,
@@ -23169,9 +23169,9 @@ UWULogsData[1][2] = {
         ["points"] = 8195.3,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6969,
+        ["rank_raids"] = 6970,
         ["kill_count"] = 19,
-        ["points"] = 7693.64,
+        ["points"] = 7694.04,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2154,
@@ -23208,7 +23208,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1762,
         ["kill_count"] = 8,
-        ["points"] = 9147.3,
+        ["points"] = 9147.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2053,
@@ -23218,17 +23218,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1300,
         ["kill_count"] = 8,
-        ["points"] = 9293.59,
+        ["points"] = 9293.71,
       },
       ["Festergut"] = {
         ["rank_raids"] = 741,
         ["kill_count"] = 8,
-        ["points"] = 9508.91,
+        ["points"] = 9509.08,
       },
       ["Rotface"] = {
         ["rank_raids"] = 4346,
         ["kill_count"] = 8,
-        ["points"] = 8352.11,
+        ["points"] = 8352.39,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1587,
@@ -23265,7 +23265,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3410,
         ["kill_count"] = 7,
-        ["points"] = 8575.92,
+        ["points"] = 8576.42,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1836,
@@ -23275,17 +23275,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2792,
         ["kill_count"] = 7,
-        ["points"] = 8785.32,
+        ["points"] = 8785.53,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5326,
         ["kill_count"] = 9,
-        ["points"] = 7954.35,
+        ["points"] = 7955.06,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2122,
         ["kill_count"] = 9,
-        ["points"] = 8994.97,
+        ["points"] = 8995.15,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 387,
@@ -23322,7 +23322,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1030,
         ["kill_count"] = 6,
-        ["points"] = 9426.87,
+        ["points"] = 9427.07,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4592,
@@ -23332,7 +23332,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1649,
         ["kill_count"] = 6,
-        ["points"] = 9167.82,
+        ["points"] = 9167.96,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1321,
@@ -23342,7 +23342,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3396,
         ["kill_count"] = 6,
-        ["points"] = 8625.89,
+        ["points"] = 8626.13,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7242,
@@ -23379,7 +23379,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1495,
         ["kill_count"] = 16,
-        ["points"] = 9253.89,
+        ["points"] = 9254.15,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1483,
@@ -23389,7 +23389,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1943,
         ["kill_count"] = 22,
-        ["points"] = 9067.88,
+        ["points"] = 9068.04,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5011,
@@ -23399,7 +23399,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1944,
         ["kill_count"] = 20,
-        ["points"] = 9057.36,
+        ["points"] = 9057.52,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2324,
@@ -23436,7 +23436,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1699,
         ["kill_count"] = 8,
-        ["points"] = 9173.51,
+        ["points"] = 9173.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1494,
@@ -23446,7 +23446,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1848,
         ["kill_count"] = 8,
-        ["points"] = 9100.62,
+        ["points"] = 9100.78,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2548,
@@ -23456,7 +23456,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1909,
         ["kill_count"] = 8,
-        ["points"] = 9069.49,
+        ["points"] = 9069.65,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1062,
@@ -23493,7 +23493,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1086,
         ["kill_count"] = 9,
-        ["points"] = 9402.41,
+        ["points"] = 9402.62,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 833,
@@ -23503,17 +23503,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 155,
         ["kill_count"] = 11,
-        ["points"] = 9869.06,
+        ["points"] = 9869.08,
       },
       ["Festergut"] = {
         ["rank_raids"] = 186,
         ["kill_count"] = 11,
-        ["points"] = 9834.0,
+        ["points"] = 9834.05,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1504,
         ["kill_count"] = 11,
-        ["points"] = 9221.97,
+        ["points"] = 9222.11,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3752,
@@ -23550,7 +23550,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1115,
         ["kill_count"] = 2,
-        ["points"] = 9395.42,
+        ["points"] = 9395.63,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 7368,
@@ -23560,17 +23560,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1862,
         ["kill_count"] = 2,
-        ["points"] = 9097.17,
+        ["points"] = 9097.33,
       },
       ["Festergut"] = {
         ["rank_raids"] = 525,
         ["kill_count"] = 2,
-        ["points"] = 9619.57,
+        ["points"] = 9619.71,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1262,
         ["kill_count"] = 2,
-        ["points"] = 9310.34,
+        ["points"] = 9310.46,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 859,
@@ -23607,7 +23607,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 323,
         ["kill_count"] = 14,
-        ["points"] = 9790.32,
+        ["points"] = 9790.39,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2110,
@@ -23617,7 +23617,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 663,
         ["kill_count"] = 14,
-        ["points"] = 9562.37,
+        ["points"] = 9562.45,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1727,
@@ -23627,7 +23627,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 157,
         ["kill_count"] = 15,
-        ["points"] = 9856.18,
+        ["points"] = 9856.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2294,
@@ -23645,9 +23645,9 @@ UWULogsData[1][2] = {
         ["points"] = 8593.1,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6389,
+        ["rank_raids"] = 6390,
         ["kill_count"] = 12,
-        ["points"] = 7634.3,
+        ["points"] = 7634.0,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2578,
@@ -23664,7 +23664,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 754,
         ["kill_count"] = 9,
-        ["points"] = 9556.18,
+        ["points"] = 9556.33,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3150,
@@ -23674,17 +23674,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2358,
         ["kill_count"] = 9,
-        ["points"] = 8907.65,
+        ["points"] = 8907.84,
       },
       ["Festergut"] = {
         ["rank_raids"] = 827,
         ["kill_count"] = 8,
-        ["points"] = 9453.57,
+        ["points"] = 9453.76,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1887,
         ["kill_count"] = 8,
-        ["points"] = 9079.88,
+        ["points"] = 9080.04,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1150,
@@ -23702,9 +23702,9 @@ UWULogsData[1][2] = {
         ["points"] = 8724.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5024,
+        ["rank_raids"] = 5025,
         ["kill_count"] = 8,
-        ["points"] = 8043.8,
+        ["points"] = 8043.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1833,
@@ -23721,7 +23721,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1967,
         ["kill_count"] = 7,
-        ["points"] = 9070.42,
+        ["points"] = 9070.74,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3922,
@@ -23731,7 +23731,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2202,
         ["kill_count"] = 8,
-        ["points"] = 8966.23,
+        ["points"] = 8966.41,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1226,
@@ -23741,7 +23741,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 873,
         ["kill_count"] = 8,
-        ["points"] = 9471.5,
+        ["points"] = 9471.59,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4276,
@@ -23778,7 +23778,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3145,
         ["kill_count"] = 17,
-        ["points"] = 8670.28,
+        ["points"] = 8670.74,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3169,
@@ -23788,7 +23788,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2036,
         ["kill_count"] = 16,
-        ["points"] = 9024.81,
+        ["points"] = 9024.98,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3312,
@@ -23798,7 +23798,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1125,
         ["kill_count"] = 16,
-        ["points"] = 9360.6,
+        ["points"] = 9360.71,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2934,
@@ -23835,7 +23835,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1587,
         ["kill_count"] = 6,
-        ["points"] = 9218.94,
+        ["points"] = 9219.21,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1337,
@@ -23845,7 +23845,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3193,
         ["kill_count"] = 8,
-        ["points"] = 8676.77,
+        ["points"] = 8677.0,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1666,
@@ -23855,7 +23855,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2621,
         ["kill_count"] = 11,
-        ["points"] = 8825.16,
+        ["points"] = 8825.36,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1405,
@@ -23892,7 +23892,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3945,
         ["kill_count"] = 6,
-        ["points"] = 8401.19,
+        ["points"] = 8401.75,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3985,
@@ -23902,17 +23902,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3270,
         ["kill_count"] = 7,
-        ["points"] = 8649.21,
+        ["points"] = 8649.44,
       },
       ["Festergut"] = {
         ["rank_raids"] = 109,
         ["kill_count"] = 7,
-        ["points"] = 9906.62,
+        ["points"] = 9906.66,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1321,
         ["kill_count"] = 7,
-        ["points"] = 9291.28,
+        ["points"] = 9291.41,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 263,
@@ -23949,7 +23949,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1194,
         ["kill_count"] = 11,
-        ["points"] = 9365.72,
+        ["points"] = 9365.94,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1560,
@@ -23959,7 +23959,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1958,
         ["kill_count"] = 11,
-        ["points"] = 9062.72,
+        ["points"] = 9062.88,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1725,
@@ -23969,7 +23969,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3371,
         ["kill_count"] = 11,
-        ["points"] = 8636.28,
+        ["points"] = 8636.52,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 786,
@@ -24006,7 +24006,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2804,
         ["kill_count"] = 13,
-        ["points"] = 8764.63,
+        ["points"] = 8765.07,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1884,
@@ -24016,7 +24016,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2581,
         ["kill_count"] = 13,
-        ["points"] = 8838.73,
+        ["points"] = 8838.93,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1260,
@@ -24026,7 +24026,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3035,
         ["kill_count"] = 12,
-        ["points"] = 8738.52,
+        ["points"] = 8738.74,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1745,
@@ -24063,7 +24063,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2470,
         ["kill_count"] = 27,
-        ["points"] = 8878.21,
+        ["points"] = 8878.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1979,
@@ -24073,17 +24073,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1296,
         ["kill_count"] = 28,
-        ["points"] = 9297.04,
+        ["points"] = 9297.16,
       },
       ["Festergut"] = {
         ["rank_raids"] = 955,
         ["kill_count"] = 28,
-        ["points"] = 9380.94,
+        ["points"] = 9381.16,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1311,
         ["kill_count"] = 28,
-        ["points"] = 9294.75,
+        ["points"] = 9294.87,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2863,
@@ -24101,9 +24101,9 @@ UWULogsData[1][2] = {
         ["points"] = 9646.6,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4726,
+        ["rank_raids"] = 4727,
         ["kill_count"] = 21,
-        ["points"] = 8133.2,
+        ["points"] = 8132.9,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2857,
@@ -24120,7 +24120,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2168,
         ["kill_count"] = 18,
-        ["points"] = 9004.02,
+        ["points"] = 9004.37,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2431,
@@ -24128,9 +24128,9 @@ UWULogsData[1][2] = {
         ["points"] = 8821.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4676,
+        ["rank_raids"] = 4677,
         ["kill_count"] = 20,
-        ["points"] = 8287.39,
+        ["points"] = 8287.68,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3348,
@@ -24140,7 +24140,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 170,
         ["kill_count"] = 20,
-        ["points"] = 9845.78,
+        ["points"] = 9845.81,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5476,
@@ -24177,7 +24177,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1330,
         ["kill_count"] = 21,
-        ["points"] = 9304.56,
+        ["points"] = 9304.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6227,
@@ -24187,7 +24187,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1355,
         ["kill_count"] = 21,
-        ["points"] = 9279.81,
+        ["points"] = 9279.93,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2899,
@@ -24197,7 +24197,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 707,
         ["kill_count"] = 20,
-        ["points"] = 9539.07,
+        ["points"] = 9539.15,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3381,
@@ -24234,7 +24234,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2295,
         ["kill_count"] = 10,
-        ["points"] = 8953.35,
+        ["points"] = 8953.71,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3384,
@@ -24242,9 +24242,9 @@ UWULogsData[1][2] = {
         ["points"] = 8535.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4440,
+        ["rank_raids"] = 4441,
         ["kill_count"] = 10,
-        ["points"] = 8351.14,
+        ["points"] = 8351.42,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2396,
@@ -24254,7 +24254,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2784,
         ["kill_count"] = 10,
-        ["points"] = 8792.24,
+        ["points"] = 8792.45,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1752,
@@ -24291,7 +24291,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2714,
         ["kill_count"] = 7,
-        ["points"] = 8796.09,
+        ["points"] = 8796.51,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1071,
@@ -24301,7 +24301,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2149,
         ["kill_count"] = 7,
-        ["points"] = 8983.46,
+        ["points"] = 8983.63,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1409,
@@ -24311,7 +24311,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2245,
         ["kill_count"] = 8,
-        ["points"] = 8946.46,
+        ["points"] = 8946.64,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3003,
@@ -24348,7 +24348,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1049,
         ["kill_count"] = 22,
-        ["points"] = 9418.14,
+        ["points"] = 9418.34,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1011,
@@ -24356,9 +24356,9 @@ UWULogsData[1][2] = {
         ["points"] = 9346.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5024,
+        ["rank_raids"] = 5025,
         ["kill_count"] = 22,
-        ["points"] = 8206.41,
+        ["points"] = 8206.72,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1936,
@@ -24368,7 +24368,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2208,
         ["kill_count"] = 22,
-        ["points"] = 8956.85,
+        ["points"] = 8957.03,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2966,
@@ -24386,9 +24386,9 @@ UWULogsData[1][2] = {
         ["points"] = 9354.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4836,
+        ["rank_raids"] = 4837,
         ["kill_count"] = 19,
-        ["points"] = 8100.2,
+        ["points"] = 8099.9,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1654,
@@ -24405,7 +24405,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3236,
         ["kill_count"] = 5,
-        ["points"] = 8633.58,
+        ["points"] = 8634.06,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 570,
@@ -24415,7 +24415,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1911,
         ["kill_count"] = 5,
-        ["points"] = 9085.11,
+        ["points"] = 9085.27,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3392,
@@ -24425,7 +24425,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1057,
         ["kill_count"] = 5,
-        ["points"] = 9395.25,
+        ["points"] = 9395.36,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2539,
@@ -24462,7 +24462,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4488,
         ["kill_count"] = 4,
-        ["points"] = 8266.64,
+        ["points"] = 8267.25,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 997,
@@ -24472,17 +24472,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2052,
         ["kill_count"] = 6,
-        ["points"] = 9023.09,
+        ["points"] = 9023.26,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1356,
         ["kill_count"] = 5,
-        ["points"] = 9209.75,
+        ["points"] = 9210.03,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2750,
         ["kill_count"] = 6,
-        ["points"] = 8802.63,
+        ["points"] = 8802.84,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 158,
@@ -24519,7 +24519,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 672,
         ["kill_count"] = 33,
-        ["points"] = 9601.61,
+        ["points"] = 9601.75,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1354,
@@ -24529,7 +24529,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2166,
         ["kill_count"] = 34,
-        ["points"] = 8978.29,
+        ["points"] = 8978.47,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1998,
@@ -24539,7 +24539,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2691,
         ["kill_count"] = 34,
-        ["points"] = 8814.76,
+        ["points"] = 8814.97,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1106,
@@ -24576,7 +24576,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3625,
         ["kill_count"] = 21,
-        ["points"] = 8495.54,
+        ["points"] = 8496.07,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2206,
@@ -24586,17 +24586,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1916,
         ["kill_count"] = 21,
-        ["points"] = 9083.39,
+        ["points"] = 9083.55,
       },
       ["Festergut"] = {
         ["rank_raids"] = 370,
         ["kill_count"] = 22,
-        ["points"] = 9709.49,
+        ["points"] = 9709.59,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2199,
         ["kill_count"] = 22,
-        ["points"] = 8965.52,
+        ["points"] = 8965.7,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 695,
@@ -24633,7 +24633,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4523,
         ["kill_count"] = 18,
-        ["points"] = 8259.65,
+        ["points"] = 8260.26,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3616,
@@ -24643,7 +24643,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1926,
         ["kill_count"] = 20,
-        ["points"] = 9076.5,
+        ["points"] = 9076.66,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2098,
@@ -24653,7 +24653,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 840,
         ["kill_count"] = 19,
-        ["points"] = 9488.82,
+        ["points"] = 9488.91,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2300,
@@ -24690,7 +24690,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1664,
         ["kill_count"] = 18,
-        ["points"] = 9183.99,
+        ["points"] = 9184.28,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 812,
@@ -24698,9 +24698,9 @@ UWULogsData[1][2] = {
         ["points"] = 9445.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4324,
+        ["rank_raids"] = 4325,
         ["kill_count"] = 19,
-        ["points"] = 8383.87,
+        ["points"] = 8384.15,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3740,
@@ -24710,7 +24710,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3632,
         ["kill_count"] = 21,
-        ["points"] = 8565.24,
+        ["points"] = 8565.49,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 914,
@@ -24747,7 +24747,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2198,
         ["kill_count"] = 9,
-        ["points"] = 8991.79,
+        ["points"] = 8992.14,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1876,
@@ -24757,7 +24757,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1026,
         ["kill_count"] = 9,
-        ["points"] = 9405.58,
+        ["points"] = 9405.68,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1891,
@@ -24767,7 +24767,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3070,
         ["kill_count"] = 9,
-        ["points"] = 8721.19,
+        ["points"] = 8721.41,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 343,
@@ -24804,7 +24804,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1514,
         ["kill_count"] = 10,
-        ["points"] = 9243.4,
+        ["points"] = 9243.67,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2312,
@@ -24812,9 +24812,9 @@ UWULogsData[1][2] = {
         ["points"] = 8857.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4309,
+        ["rank_raids"] = 4310,
         ["kill_count"] = 11,
-        ["points"] = 8389.04,
+        ["points"] = 8389.32,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1041,
@@ -24824,7 +24824,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2086,
         ["kill_count"] = 12,
-        ["points"] = 9008.84,
+        ["points"] = 9009.01,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1610,
@@ -24861,7 +24861,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2260,
         ["kill_count"] = 10,
-        ["points"] = 8963.83,
+        ["points"] = 8964.19,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4994,
@@ -24871,7 +24871,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3159,
         ["kill_count"] = 10,
-        ["points"] = 8687.11,
+        ["points"] = 8687.34,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1585,
@@ -24881,7 +24881,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 435,
         ["kill_count"] = 10,
-        ["points"] = 9672.5,
+        ["points"] = 9672.56,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4991,
@@ -24918,7 +24918,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 896,
         ["kill_count"] = 7,
-        ["points"] = 9493.27,
+        ["points"] = 9493.45,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1050,
@@ -24928,7 +24928,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3964,
         ["kill_count"] = 6,
-        ["points"] = 8482.08,
+        ["points"] = 8482.34,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2693,
@@ -24938,7 +24938,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2119,
         ["kill_count"] = 7,
-        ["points"] = 8996.71,
+        ["points"] = 8996.88,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1671,
@@ -24956,9 +24956,9 @@ UWULogsData[1][2] = {
         ["points"] = 9432.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 9608,
+        ["rank_raids"] = 9609,
         ["kill_count"] = 5,
-        ["points"] = 6668.6,
+        ["points"] = 6668.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 294,
@@ -24975,7 +24975,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4173,
         ["kill_count"] = 3,
-        ["points"] = 8340.03,
+        ["points"] = 8340.61,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4150,
@@ -24985,7 +24985,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2858,
         ["kill_count"] = 5,
-        ["points"] = 8769.81,
+        ["points"] = 8770.03,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2013,
@@ -24995,7 +24995,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3832,
         ["kill_count"] = 5,
-        ["points"] = 8506.32,
+        ["points"] = 8506.58,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 935,
@@ -25032,7 +25032,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3244,
         ["kill_count"] = 10,
-        ["points"] = 8630.09,
+        ["points"] = 8630.57,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2785,
@@ -25042,7 +25042,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1139,
         ["kill_count"] = 11,
-        ["points"] = 9360.79,
+        ["points"] = 9360.9,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1264,
@@ -25052,7 +25052,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3439,
         ["kill_count"] = 11,
-        ["points"] = 8618.96,
+        ["points"] = 8619.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2279,
@@ -25089,7 +25089,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 9741,
         ["kill_count"] = 3,
-        ["points"] = 6882.75,
+        ["points"] = 6883.84,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 683,
@@ -25099,7 +25099,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 767,
         ["kill_count"] = 5,
-        ["points"] = 9517.57,
+        ["points"] = 9517.66,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1245,
@@ -25109,7 +25109,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2218,
         ["kill_count"] = 5,
-        ["points"] = 8949.92,
+        ["points"] = 8950.1,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 424,
@@ -25146,7 +25146,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6803,
         ["kill_count"] = 18,
-        ["points"] = 7607.9,
+        ["points"] = 7608.73,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2232,
@@ -25156,17 +25156,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1647,
         ["kill_count"] = 18,
-        ["points"] = 9169.54,
+        ["points"] = 9169.68,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1346,
         ["kill_count"] = 19,
-        ["points"] = 9213.21,
+        ["points"] = 9213.48,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1648,
         ["kill_count"] = 19,
-        ["points"] = 9166.52,
+        ["points"] = 9166.67,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1289,
@@ -25203,7 +25203,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3020,
         ["kill_count"] = 11,
-        ["points"] = 8701.73,
+        ["points"] = 8702.18,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2464,
@@ -25213,7 +25213,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 731,
         ["kill_count"] = 12,
-        ["points"] = 9536.53,
+        ["points"] = 9536.61,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2662,
@@ -25223,7 +25223,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2034,
         ["kill_count"] = 13,
-        ["points"] = 9031.36,
+        ["points"] = 9031.53,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2755,
@@ -25241,9 +25241,9 @@ UWULogsData[1][2] = {
         ["points"] = 9585.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5814,
+        ["rank_raids"] = 5815,
         ["kill_count"] = 13,
-        ["points"] = 7806.8,
+        ["points"] = 7806.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1454,
@@ -25260,7 +25260,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2986,
         ["kill_count"] = 13,
-        ["points"] = 8715.71,
+        ["points"] = 8716.16,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1072,
@@ -25268,9 +25268,9 @@ UWULogsData[1][2] = {
         ["points"] = 9322.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4531,
+        ["rank_raids"] = 4532,
         ["kill_count"] = 14,
-        ["points"] = 8327.02,
+        ["points"] = 8327.3,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3948,
@@ -25280,7 +25280,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3850,
         ["kill_count"] = 14,
-        ["points"] = 8495.93,
+        ["points"] = 8496.19,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1955,
@@ -25317,7 +25317,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1670,
         ["kill_count"] = 8,
-        ["points"] = 9180.5,
+        ["points"] = 9180.79,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1500,
@@ -25327,17 +25327,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 917,
         ["kill_count"] = 8,
-        ["points"] = 9446.93,
+        ["points"] = 9447.03,
       },
       ["Festergut"] = {
         ["rank_raids"] = 714,
         ["kill_count"] = 8,
-        ["points"] = 9524.47,
+        ["points"] = 9524.63,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3848,
         ["kill_count"] = 8,
-        ["points"] = 8497.66,
+        ["points"] = 8497.92,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5225,
@@ -25374,7 +25374,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1597,
         ["kill_count"] = 6,
-        ["points"] = 9215.45,
+        ["points"] = 9215.72,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1504,
@@ -25384,7 +25384,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 291,
         ["kill_count"] = 7,
-        ["points"] = 9774.29,
+        ["points"] = 9774.33,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2736,
@@ -25394,7 +25394,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2004,
         ["kill_count"] = 6,
-        ["points"] = 9041.76,
+        ["points"] = 9041.93,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2371,
@@ -25431,7 +25431,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 8243,
         ["kill_count"] = 17,
-        ["points"] = 7230.47,
+        ["points"] = 7231.44,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1987,
@@ -25441,7 +25441,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1544,
         ["kill_count"] = 17,
-        ["points"] = 9209.17,
+        ["points"] = 9209.3,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1027,
@@ -25449,9 +25449,9 @@ UWULogsData[1][2] = {
         ["points"] = 9340.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6849,
+        ["rank_raids"] = 6850,
         ["kill_count"] = 16,
-        ["points"] = 7728.3,
+        ["points"] = 7728.69,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 809,
@@ -25488,7 +25488,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2633,
         ["kill_count"] = 15,
-        ["points"] = 8818.8,
+        ["points"] = 8819.21,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1599,
@@ -25498,7 +25498,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2004,
         ["kill_count"] = 15,
-        ["points"] = 9045.49,
+        ["points"] = 9045.65,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1843,
@@ -25508,7 +25508,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3064,
         ["kill_count"] = 15,
-        ["points"] = 8726.39,
+        ["points"] = 8726.61,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2249,
@@ -25545,7 +25545,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2439,
         ["kill_count"] = 14,
-        ["points"] = 8893.94,
+        ["points"] = 8894.32,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2999,
@@ -25555,7 +25555,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1561,
         ["kill_count"] = 14,
-        ["points"] = 9197.11,
+        ["points"] = 9197.24,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1870,
@@ -25565,7 +25565,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2009,
         ["kill_count"] = 16,
-        ["points"] = 9038.29,
+        ["points"] = 9038.46,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1508,
@@ -25602,7 +25602,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 543,
         ["kill_count"] = 38,
-        ["points"] = 9661.02,
+        ["points"] = 9661.14,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3075,
@@ -25612,17 +25612,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1274,
         ["kill_count"] = 38,
-        ["points"] = 9305.65,
+        ["points"] = 9305.77,
       },
       ["Festergut"] = {
         ["rank_raids"] = 653,
         ["kill_count"] = 39,
-        ["points"] = 9553.86,
+        ["points"] = 9554.02,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3511,
         ["kill_count"] = 39,
-        ["points"] = 8598.16,
+        ["points"] = 8598.41,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3280,
@@ -25659,7 +25659,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5238,
         ["kill_count"] = 13,
-        ["points"] = 8056.96,
+        ["points"] = 8057.64,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1294,
@@ -25669,17 +25669,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2207,
         ["kill_count"] = 13,
-        ["points"] = 8964.51,
+        ["points"] = 8964.69,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1021,
         ["kill_count"] = 12,
-        ["points"] = 9346.36,
+        ["points"] = 9346.59,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3016,
         ["kill_count"] = 13,
-        ["points"] = 8743.72,
+        ["points"] = 8743.94,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 790,
@@ -25716,7 +25716,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1697,
         ["kill_count"] = 17,
-        ["points"] = 9175.26,
+        ["points"] = 9175.55,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3894,
@@ -25726,7 +25726,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 808,
         ["kill_count"] = 17,
-        ["points"] = 9503.79,
+        ["points"] = 9503.88,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1445,
@@ -25736,7 +25736,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3497,
         ["kill_count"] = 16,
-        ["points"] = 8601.63,
+        ["points"] = 8601.87,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2762,
@@ -25773,7 +25773,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3183,
         ["kill_count"] = 14,
-        ["points"] = 8658.05,
+        ["points"] = 8658.52,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1931,
@@ -25783,17 +25783,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2346,
         ["kill_count"] = 13,
-        ["points"] = 8912.82,
+        ["points"] = 8913.01,
       },
       ["Festergut"] = {
         ["rank_raids"] = 754,
         ["kill_count"] = 13,
-        ["points"] = 9500.26,
+        ["points"] = 9500.43,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1914,
         ["kill_count"] = 13,
-        ["points"] = 9066.02,
+        ["points"] = 9066.18,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1654,
@@ -25811,9 +25811,9 @@ UWULogsData[1][2] = {
         ["points"] = 9675.7,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4715,
+        ["rank_raids"] = 4716,
         ["kill_count"] = 13,
-        ["points"] = 8136.5,
+        ["points"] = 8136.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4098,
@@ -25830,7 +25830,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 597,
         ["kill_count"] = 4,
-        ["points"] = 9640.05,
+        ["points"] = 9640.17,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1882,
@@ -25840,7 +25840,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1679,
         ["kill_count"] = 3,
-        ["points"] = 9159.2,
+        ["points"] = 9159.35,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3152,
@@ -25850,7 +25850,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2886,
         ["kill_count"] = 4,
-        ["points"] = 8774.91,
+        ["points"] = 8775.12,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1462,
@@ -25868,9 +25868,9 @@ UWULogsData[1][2] = {
         ["points"] = 7977.5,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6783,
+        ["rank_raids"] = 6784,
         ["kill_count"] = 3,
-        ["points"] = 7516.1,
+        ["points"] = 7515.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 572,
@@ -25887,7 +25887,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6213,
         ["kill_count"] = 2,
-        ["points"] = 7765.16,
+        ["points"] = 7765.94,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3557,
@@ -25897,17 +25897,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2121,
         ["kill_count"] = 5,
-        ["points"] = 8997.24,
+        ["points"] = 8997.42,
       },
       ["Festergut"] = {
         ["rank_raids"] = 371,
         ["kill_count"] = 5,
-        ["points"] = 9707.76,
+        ["points"] = 9707.87,
       },
       ["Rotface"] = {
         ["rank_raids"] = 278,
         ["kill_count"] = 5,
-        ["points"] = 9773.0,
+        ["points"] = 9773.04,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 818,
@@ -25944,7 +25944,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1921,
         ["kill_count"] = 8,
-        ["points"] = 9093.13,
+        ["points"] = 9093.45,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5106,
@@ -25954,7 +25954,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1215,
         ["kill_count"] = 8,
-        ["points"] = 9324.6,
+        ["points"] = 9324.72,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1097,
@@ -25964,7 +25964,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1687,
         ["kill_count"] = 8,
-        ["points"] = 9154.39,
+        ["points"] = 9154.54,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1786,
@@ -26001,7 +26001,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 315,
         ["kill_count"] = 17,
-        ["points"] = 9793.81,
+        ["points"] = 9793.89,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3024,
@@ -26011,17 +26011,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2115,
         ["kill_count"] = 18,
-        ["points"] = 9002.41,
+        ["points"] = 9002.58,
       },
       ["Festergut"] = {
         ["rank_raids"] = 201,
         ["kill_count"] = 18,
-        ["points"] = 9827.08,
+        ["points"] = 9827.14,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2731,
         ["kill_count"] = 18,
-        ["points"] = 8806.1,
+        ["points"] = 8806.31,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3759,
@@ -26058,7 +26058,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5277,
         ["kill_count"] = 13,
-        ["points"] = 8039.49,
+        ["points"] = 8040.17,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1269,
@@ -26068,7 +26068,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 786,
         ["kill_count"] = 15,
-        ["points"] = 9512.41,
+        ["points"] = 9512.49,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1925,
@@ -26078,7 +26078,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 535,
         ["kill_count"] = 16,
-        ["points"] = 9637.84,
+        ["points"] = 9637.91,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1618,
@@ -26115,7 +26115,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2406,
         ["kill_count"] = 7,
-        ["points"] = 8913.16,
+        ["points"] = 8913.54,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 976,
@@ -26125,7 +26125,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1617,
         ["kill_count"] = 7,
-        ["points"] = 9178.15,
+        ["points"] = 9178.29,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1202,
@@ -26135,7 +26135,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2582,
         ["kill_count"] = 7,
-        ["points"] = 8849.42,
+        ["points"] = 8849.62,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2558,
@@ -26153,9 +26153,9 @@ UWULogsData[1][2] = {
         ["points"] = 9129.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5498,
+        ["rank_raids"] = 5499,
         ["kill_count"] = 6,
-        ["points"] = 7901.6,
+        ["points"] = 7901.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2326,
@@ -26172,7 +26172,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1390,
         ["kill_count"] = 20,
-        ["points"] = 9287.09,
+        ["points"] = 9287.34,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1847,
@@ -26182,17 +26182,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 985,
         ["kill_count"] = 21,
-        ["points"] = 9424.53,
+        ["points"] = 9424.63,
       },
       ["Festergut"] = {
         ["rank_raids"] = 784,
         ["kill_count"] = 20,
-        ["points"] = 9484.7,
+        ["points"] = 9484.87,
       },
       ["Rotface"] = {
         ["rank_raids"] = 5242,
         ["kill_count"] = 21,
-        ["points"] = 8140.7,
+        ["points"] = 8141.03,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3931,
@@ -26229,7 +26229,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3910,
         ["kill_count"] = 15,
-        ["points"] = 8415.17,
+        ["points"] = 8415.72,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 479,
@@ -26239,7 +26239,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 577,
         ["kill_count"] = 15,
-        ["points"] = 9608.89,
+        ["points"] = 9608.96,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2147,
@@ -26249,7 +26249,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 214,
         ["kill_count"] = 15,
-        ["points"] = 9814.59,
+        ["points"] = 9814.62,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 498,
@@ -26267,9 +26267,9 @@ UWULogsData[1][2] = {
         ["points"] = 8774.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 8577,
+        ["rank_raids"] = 8578,
         ["kill_count"] = 14,
-        ["points"] = 6977.9,
+        ["points"] = 6977.6,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 5558,
@@ -26286,7 +26286,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2589,
         ["kill_count"] = 3,
-        ["points"] = 8838.02,
+        ["points"] = 8838.43,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 7015,
@@ -26296,7 +26296,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1125,
         ["kill_count"] = 3,
-        ["points"] = 9369.4,
+        ["points"] = 9369.51,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2006,
@@ -26306,7 +26306,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2214,
         ["kill_count"] = 3,
-        ["points"] = 8951.65,
+        ["points"] = 8951.84,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2182,
@@ -26343,7 +26343,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2428,
         ["kill_count"] = 23,
-        ["points"] = 8902.67,
+        ["points"] = 8903.06,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4052,
@@ -26353,7 +26353,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1839,
         ["kill_count"] = 24,
-        ["points"] = 9105.79,
+        ["points"] = 9105.94,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1290,
@@ -26363,7 +26363,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4443,
         ["kill_count"] = 23,
-        ["points"] = 8333.04,
+        ["points"] = 8333.33,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1379,
@@ -26400,7 +26400,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2768,
         ["kill_count"] = 10,
-        ["points"] = 8776.87,
+        ["points"] = 8777.29,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1669,
@@ -26410,7 +26410,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1540,
         ["kill_count"] = 10,
-        ["points"] = 9214.33,
+        ["points"] = 9214.47,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2958,
@@ -26420,7 +26420,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2422,
         ["kill_count"] = 10,
-        ["points"] = 8904.87,
+        ["points"] = 8905.06,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3985,
@@ -26457,7 +26457,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 551,
         ["kill_count"] = 30,
-        ["points"] = 9657.52,
+        ["points"] = 9657.64,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6560,
@@ -26467,7 +26467,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1790,
         ["kill_count"] = 30,
-        ["points"] = 9119.57,
+        ["points"] = 9119.72,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1536,
@@ -26477,7 +26477,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1534,
         ["kill_count"] = 29,
-        ["points"] = 9202.91,
+        ["points"] = 9203.05,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3768,
@@ -26514,7 +26514,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2440,
         ["kill_count"] = 14,
-        ["points"] = 8892.19,
+        ["points"] = 8892.58,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1790,
@@ -26524,17 +26524,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3405,
         ["kill_count"] = 8,
-        ["points"] = 8614.75,
+        ["points"] = 8614.99,
       },
       ["Festergut"] = {
         ["rank_raids"] = 782,
         ["kill_count"] = 9,
-        ["points"] = 9486.43,
+        ["points"] = 9486.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2510,
         ["kill_count"] = 9,
-        ["points"] = 8866.75,
+        ["points"] = 8866.94,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1496,
@@ -26571,7 +26571,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2520,
         ["kill_count"] = 14,
-        ["points"] = 8862.48,
+        ["points"] = 8862.88,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2174,
@@ -26579,9 +26579,9 @@ UWULogsData[1][2] = {
         ["points"] = 8898.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5166,
+        ["rank_raids"] = 5167,
         ["kill_count"] = 14,
-        ["points"] = 8182.29,
+        ["points"] = 8182.6,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1435,
@@ -26591,7 +26591,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 598,
         ["kill_count"] = 14,
-        ["points"] = 9606.65,
+        ["points"] = 9606.72,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 556,
@@ -26628,7 +26628,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 879,
         ["kill_count"] = 8,
-        ["points"] = 9498.51,
+        ["points"] = 9498.69,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3786,
@@ -26638,17 +26638,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 581,
         ["kill_count"] = 8,
-        ["points"] = 9607.17,
+        ["points"] = 9607.24,
       },
       ["Festergut"] = {
         ["rank_raids"] = 985,
         ["kill_count"] = 8,
-        ["points"] = 9370.57,
+        ["points"] = 9370.79,
       },
       ["Rotface"] = {
         ["rank_raids"] = 4288,
         ["kill_count"] = 8,
-        ["points"] = 8374.63,
+        ["points"] = 8374.91,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2831,
@@ -26666,9 +26666,9 @@ UWULogsData[1][2] = {
         ["points"] = 9540.5,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6215,
+        ["rank_raids"] = 6216,
         ["kill_count"] = 4,
-        ["points"] = 7686.5,
+        ["points"] = 7686.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1335,
@@ -26685,7 +26685,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4140,
         ["kill_count"] = 2,
-        ["points"] = 8345.27,
+        ["points"] = 8345.85,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2015,
@@ -26695,7 +26695,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2309,
         ["kill_count"] = 2,
-        ["points"] = 8933.49,
+        ["points"] = 8933.68,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2304,
@@ -26703,7 +26703,7 @@ UWULogsData[1][2] = {
         ["points"] = 8859.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8739,
+        ["rank_raids"] = 8740,
         ["kill_count"] = 2,
         ["points"] = 7433.17,
       },
@@ -26742,7 +26742,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1833,
         ["kill_count"] = 8,
-        ["points"] = 9114.1,
+        ["points"] = 9114.41,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6214,
@@ -26752,7 +26752,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2031,
         ["kill_count"] = 7,
-        ["points"] = 9029.98,
+        ["points"] = 9030.15,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1911,
@@ -26762,7 +26762,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2087,
         ["kill_count"] = 8,
-        ["points"] = 9007.1,
+        ["points"] = 9007.28,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1889,
@@ -26799,7 +26799,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 721,
         ["kill_count"] = 8,
-        ["points"] = 9577.14,
+        ["points"] = 9577.29,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6090,
@@ -26809,7 +26809,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3570,
         ["kill_count"] = 8,
-        ["points"] = 8578.57,
+        ["points"] = 8578.81,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1553,
@@ -26819,7 +26819,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1791,
         ["kill_count"] = 8,
-        ["points"] = 9121.47,
+        ["points"] = 9121.62,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5496,
@@ -26856,7 +26856,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3939,
         ["kill_count"] = 5,
-        ["points"] = 8406.43,
+        ["points"] = 8406.99,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1267,
@@ -26866,7 +26866,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1994,
         ["kill_count"] = 5,
-        ["points"] = 9048.93,
+        ["points"] = 9049.1,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1479,
@@ -26876,7 +26876,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 470,
         ["kill_count"] = 5,
-        ["points"] = 9660.37,
+        ["points"] = 9660.43,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 468,
@@ -26913,7 +26913,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 912,
         ["kill_count"] = 24,
-        ["points"] = 9488.03,
+        ["points"] = 9488.21,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3025,
@@ -26923,17 +26923,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2314,
         ["kill_count"] = 25,
-        ["points"] = 8931.77,
+        ["points"] = 8931.96,
       },
       ["Festergut"] = {
         ["rank_raids"] = 296,
         ["kill_count"] = 24,
-        ["points"] = 9757.91,
+        ["points"] = 9757.99,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3211,
         ["kill_count"] = 24,
-        ["points"] = 8686.54,
+        ["points"] = 8686.76,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2736,
@@ -26951,9 +26951,9 @@ UWULogsData[1][2] = {
         ["points"] = 9347.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4821,
+        ["rank_raids"] = 4822,
         ["kill_count"] = 19,
-        ["points"] = 8104.7,
+        ["points"] = 8104.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 3758,
@@ -26970,7 +26970,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2217,
         ["kill_count"] = 26,
-        ["points"] = 8983.05,
+        ["points"] = 8983.41,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4441,
@@ -26980,17 +26980,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1585,
         ["kill_count"] = 26,
-        ["points"] = 9190.21,
+        ["points"] = 9190.35,
       },
       ["Festergut"] = {
         ["rank_raids"] = 225,
         ["kill_count"] = 26,
-        ["points"] = 9813.25,
+        ["points"] = 9813.31,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1831,
         ["kill_count"] = 26,
-        ["points"] = 9111.07,
+        ["points"] = 9111.23,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2526,
@@ -27027,7 +27027,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5256,
         ["kill_count"] = 12,
-        ["points"] = 8048.23,
+        ["points"] = 8048.91,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3388,
@@ -27035,9 +27035,9 @@ UWULogsData[1][2] = {
         ["points"] = 8534.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8507,
+        ["rank_raids"] = 8508,
         ["kill_count"] = 12,
-        ["points"] = 7437.97,
+        ["points"] = 7438.42,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1063,
@@ -27047,7 +27047,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2975,
         ["kill_count"] = 11,
-        ["points"] = 8752.38,
+        ["points"] = 8752.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 762,
@@ -27084,7 +27084,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 361,
         ["kill_count"] = 8,
-        ["points"] = 9771.1,
+        ["points"] = 9771.18,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4386,
@@ -27099,12 +27099,12 @@ UWULogsData[1][2] = {
       ["Festergut"] = {
         ["rank_raids"] = 323,
         ["kill_count"] = 9,
-        ["points"] = 9737.16,
+        ["points"] = 9737.25,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1655,
         ["kill_count"] = 8,
-        ["points"] = 9163.06,
+        ["points"] = 9163.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1433,
@@ -27117,9 +27117,9 @@ UWULogsData[1][2] = {
         ["points"] = 8762.58,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 10244,
+        ["rank_raids"] = 10245,
         ["kill_count"] = 8,
-        ["points"] = 6526.6,
+        ["points"] = 6526.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3289,
@@ -27141,7 +27141,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6889,
         ["kill_count"] = 18,
-        ["points"] = 7583.44,
+        ["points"] = 7584.28,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2560,
@@ -27151,7 +27151,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1126,
         ["kill_count"] = 21,
-        ["points"] = 9367.68,
+        ["points"] = 9367.79,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2151,
@@ -27161,7 +27161,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 582,
         ["kill_count"] = 21,
-        ["points"] = 9615.32,
+        ["points"] = 9615.38,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1900,
@@ -27198,7 +27198,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2788,
         ["kill_count"] = 13,
-        ["points"] = 8771.62,
+        ["points"] = 8772.05,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1867,
@@ -27208,7 +27208,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 622,
         ["kill_count"] = 13,
-        ["points"] = 9584.77,
+        ["points"] = 9584.84,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1532,
@@ -27218,7 +27218,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3886,
         ["kill_count"] = 13,
-        ["points"] = 8483.8,
+        ["points"] = 8484.06,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3015,
@@ -27255,7 +27255,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2016,
         ["kill_count"] = 14,
-        ["points"] = 9054.69,
+        ["points"] = 9055.02,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3547,
@@ -27265,17 +27265,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 555,
         ["kill_count"] = 12,
-        ["points"] = 9624.4,
+        ["points"] = 9624.46,
       },
       ["Festergut"] = {
         ["rank_raids"] = 628,
         ["kill_count"] = 15,
-        ["points"] = 9567.7,
+        ["points"] = 9567.85,
       },
       ["Rotface"] = {
         ["rank_raids"] = 911,
         ["kill_count"] = 15,
-        ["points"] = 9452.43,
+        ["points"] = 9452.53,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5191,
@@ -27312,7 +27312,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3739,
         ["kill_count"] = 6,
-        ["points"] = 8469.33,
+        ["points"] = 8469.87,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3245,
@@ -27322,7 +27322,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 435,
         ["kill_count"] = 6,
-        ["points"] = 9684.7,
+        ["points"] = 9684.75,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2107,
@@ -27332,7 +27332,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 737,
         ["kill_count"] = 6,
-        ["points"] = 9530.41,
+        ["points"] = 9530.49,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2715,
@@ -27350,9 +27350,9 @@ UWULogsData[1][2] = {
         ["points"] = 9542.5,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5011,
+        ["rank_raids"] = 5012,
         ["kill_count"] = 6,
-        ["points"] = 8047.7,
+        ["points"] = 8047.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 3406,
@@ -27369,7 +27369,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2171,
         ["kill_count"] = 11,
-        ["points"] = 9002.27,
+        ["points"] = 9002.62,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1332,
@@ -27379,7 +27379,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 4113,
         ["kill_count"] = 12,
-        ["points"] = 8445.9,
+        ["points"] = 8446.17,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2976,
@@ -27389,7 +27389,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2353,
         ["kill_count"] = 12,
-        ["points"] = 8923.93,
+        ["points"] = 8924.12,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4096,
@@ -27426,7 +27426,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2152,
         ["kill_count"] = 16,
-        ["points"] = 9014.5,
+        ["points"] = 9014.85,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1584,
@@ -27436,17 +27436,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 4117,
         ["kill_count"] = 16,
-        ["points"] = 8442.45,
+        ["points"] = 8442.72,
       },
       ["Festergut"] = {
         ["rank_raids"] = 932,
         ["kill_count"] = 15,
-        ["points"] = 9394.78,
+        ["points"] = 9394.99,
       },
       ["Rotface"] = {
         ["rank_raids"] = 875,
         ["kill_count"] = 16,
-        ["points"] = 9469.76,
+        ["points"] = 9469.85,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2144,
@@ -27483,7 +27483,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5185,
         ["kill_count"] = 7,
-        ["points"] = 8077.93,
+        ["points"] = 8078.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2323,
@@ -27493,17 +27493,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1930,
         ["kill_count"] = 7,
-        ["points"] = 9074.78,
+        ["points"] = 9074.94,
       },
       ["Festergut"] = {
         ["rank_raids"] = 595,
         ["kill_count"] = 7,
-        ["points"] = 9578.07,
+        ["points"] = 9578.22,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3215,
         ["kill_count"] = 7,
-        ["points"] = 8684.8,
+        ["points"] = 8685.03,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2471,
@@ -27540,7 +27540,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5660,
         ["kill_count"] = 17,
-        ["points"] = 7908.44,
+        ["points"] = 7909.17,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3479,
@@ -27550,7 +27550,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3820,
         ["kill_count"] = 17,
-        ["points"] = 8518.26,
+        ["points"] = 8518.52,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1289,
@@ -27560,7 +27560,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2847,
         ["kill_count"] = 16,
-        ["points"] = 8781.84,
+        ["points"] = 8782.05,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2238,
@@ -27597,7 +27597,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 945,
         ["kill_count"] = 14,
-        ["points"] = 9472.3,
+        ["points"] = 9472.49,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4906,
@@ -27607,7 +27607,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1295,
         ["kill_count"] = 14,
-        ["points"] = 9298.76,
+        ["points"] = 9298.88,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1360,
@@ -27617,7 +27617,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4900,
         ["kill_count"] = 14,
-        ["points"] = 8237.74,
+        ["points"] = 8238.05,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5883,
@@ -27654,7 +27654,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1079,
         ["kill_count"] = 13,
-        ["points"] = 9405.91,
+        ["points"] = 9406.11,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1349,
@@ -27664,7 +27664,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3589,
         ["kill_count"] = 14,
-        ["points"] = 8573.4,
+        ["points"] = 8573.64,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1269,
@@ -27674,7 +27674,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 666,
         ["kill_count"] = 14,
-        ["points"] = 9561.6,
+        ["points"] = 9561.68,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4047,
@@ -27711,7 +27711,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5872,
         ["kill_count"] = 8,
-        ["points"] = 7861.26,
+        ["points"] = 7862.01,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 866,
@@ -27721,7 +27721,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1497,
         ["kill_count"] = 8,
-        ["points"] = 9228.12,
+        ["points"] = 9228.25,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2831,
@@ -27731,7 +27731,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2604,
         ["kill_count"] = 7,
-        ["points"] = 8835.56,
+        ["points"] = 8835.76,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1056,
@@ -27768,7 +27768,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5433,
         ["kill_count"] = 3,
-        ["points"] = 7990.56,
+        ["points"] = 7991.27,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1816,
@@ -27778,7 +27778,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 645,
         ["kill_count"] = 4,
-        ["points"] = 9576.15,
+        ["points"] = 9576.23,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2251,
@@ -27788,7 +27788,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3386,
         ["kill_count"] = 4,
-        ["points"] = 8629.35,
+        ["points"] = 8629.59,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1008,
@@ -27825,7 +27825,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2119,
         ["kill_count"] = 8,
-        ["points"] = 9021.49,
+        ["points"] = 9021.83,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6178,
@@ -27835,7 +27835,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1646,
         ["kill_count"] = 10,
-        ["points"] = 9171.26,
+        ["points"] = 9171.4,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1588,
@@ -27845,7 +27845,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3226,
         ["kill_count"] = 11,
-        ["points"] = 8677.87,
+        ["points"] = 8678.1,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4814,
@@ -27882,7 +27882,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3494,
         ["kill_count"] = 13,
-        ["points"] = 8547.96,
+        ["points"] = 8548.47,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1539,
@@ -27892,7 +27892,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2234,
         ["kill_count"] = 14,
-        ["points"] = 8955.89,
+        ["points"] = 8956.07,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2104,
@@ -27902,7 +27902,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2812,
         ["kill_count"] = 14,
-        ["points"] = 8783.57,
+        ["points"] = 8783.78,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2433,
@@ -27939,7 +27939,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5407,
         ["kill_count"] = 18,
-        ["points"] = 7997.55,
+        ["points"] = 7998.25,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2789,
@@ -27949,7 +27949,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1559,
         ["kill_count"] = 19,
-        ["points"] = 9198.83,
+        ["points"] = 9198.97,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1826,
@@ -27959,7 +27959,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1841,
         ["kill_count"] = 18,
-        ["points"] = 9102.41,
+        ["points"] = 9102.56,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2521,
@@ -27996,7 +27996,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 527,
         ["kill_count"] = 6,
-        ["points"] = 9675.0,
+        ["points"] = 9675.11,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6750,
@@ -28006,17 +28006,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2478,
         ["kill_count"] = 6,
-        ["points"] = 8873.19,
+        ["points"] = 8873.39,
       },
       ["Festergut"] = {
         ["rank_raids"] = 442,
         ["kill_count"] = 6,
-        ["points"] = 9667.99,
+        ["points"] = 9668.11,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1919,
         ["kill_count"] = 5,
-        ["points"] = 9064.29,
+        ["points"] = 9064.45,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5634,
@@ -28053,7 +28053,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4886,
         ["kill_count"] = 9,
-        ["points"] = 8160.06,
+        ["points"] = 8160.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2993,
@@ -28063,7 +28063,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3703,
         ["kill_count"] = 8,
-        ["points"] = 8545.83,
+        ["points"] = 8546.08,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2601,
@@ -28073,7 +28073,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1789,
         ["kill_count"] = 8,
-        ["points"] = 9123.2,
+        ["points"] = 9123.35,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 572,
@@ -28110,7 +28110,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1952,
         ["kill_count"] = 25,
-        ["points"] = 9082.65,
+        ["points"] = 9082.97,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2289,
@@ -28120,7 +28120,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 951,
         ["kill_count"] = 26,
-        ["points"] = 9431.43,
+        ["points"] = 9431.52,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2887,
@@ -28130,7 +28130,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2123,
         ["kill_count"] = 26,
-        ["points"] = 8993.24,
+        ["points"] = 8993.42,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2528,
@@ -28148,9 +28148,9 @@ UWULogsData[1][2] = {
         ["points"] = 9474.5,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6061,
+        ["rank_raids"] = 6062,
         ["kill_count"] = 19,
-        ["points"] = 7732.7,
+        ["points"] = 7732.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 3644,
@@ -28167,7 +28167,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1829,
         ["kill_count"] = 10,
-        ["points"] = 9119.34,
+        ["points"] = 9119.65,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1445,
@@ -28177,17 +28177,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1620,
         ["kill_count"] = 12,
-        ["points"] = 9176.43,
+        ["points"] = 9176.57,
       },
       ["Festergut"] = {
         ["rank_raids"] = 276,
         ["kill_count"] = 13,
-        ["points"] = 9770.02,
+        ["points"] = 9770.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 4042,
         ["kill_count"] = 12,
-        ["points"] = 8435.28,
+        ["points"] = 8435.55,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2871,
@@ -28224,7 +28224,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2321,
         ["kill_count"] = 16,
-        ["points"] = 8939.37,
+        ["points"] = 8939.74,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 640,
@@ -28234,17 +28234,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2565,
         ["kill_count"] = 18,
-        ["points"] = 8849.07,
+        ["points"] = 8849.27,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6053,
         ["kill_count"] = 18,
-        ["points"] = 7783.16,
+        ["points"] = 7783.92,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2071,
         ["kill_count"] = 18,
-        ["points"] = 9012.3,
+        ["points"] = 9012.47,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2046,
@@ -28281,7 +28281,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3119,
         ["kill_count"] = 9,
-        ["points"] = 8675.52,
+        ["points"] = 8675.98,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3170,
@@ -28291,17 +28291,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2213,
         ["kill_count"] = 10,
-        ["points"] = 8961.06,
+        ["points"] = 8961.24,
       },
       ["Festergut"] = {
         ["rank_raids"] = 936,
         ["kill_count"] = 12,
-        ["points"] = 9393.05,
+        ["points"] = 9393.26,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1482,
         ["kill_count"] = 12,
-        ["points"] = 9230.64,
+        ["points"] = 9230.77,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3633,
@@ -28338,7 +28338,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2408,
         ["kill_count"] = 12,
-        ["points"] = 8909.66,
+        ["points"] = 8910.04,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1000,
@@ -28346,9 +28346,9 @@ UWULogsData[1][2] = {
         ["points"] = 9351.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7539,
+        ["rank_raids"] = 7540,
         ["kill_count"] = 11,
-        ["points"] = 7632.67,
+        ["points"] = 7633.07,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1417,
@@ -28358,7 +28358,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 240,
         ["kill_count"] = 13,
-        ["points"] = 9795.53,
+        ["points"] = 9795.56,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1275,
@@ -28395,7 +28395,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4599,
         ["kill_count"] = 16,
-        ["points"] = 8236.94,
+        ["points"] = 8237.55,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 8340,
@@ -28405,7 +28405,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1752,
         ["kill_count"] = 17,
-        ["points"] = 9136.8,
+        ["points"] = 9136.95,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1263,
@@ -28415,7 +28415,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 402,
         ["kill_count"] = 17,
-        ["points"] = 9691.56,
+        ["points"] = 9691.61,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1980,
@@ -28452,7 +28452,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1334,
         ["kill_count"] = 36,
-        ["points"] = 9301.07,
+        ["points"] = 9301.31,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3432,
@@ -28462,17 +28462,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1069,
         ["kill_count"] = 37,
-        ["points"] = 9390.08,
+        ["points"] = 9390.18,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1380,
         ["kill_count"] = 37,
-        ["points"] = 9199.38,
+        ["points"] = 9199.65,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2149,
         ["kill_count"] = 37,
-        ["points"] = 8984.58,
+        ["points"] = 8984.75,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5255,
@@ -28509,7 +28509,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1953,
         ["kill_count"] = 30,
-        ["points"] = 9080.9,
+        ["points"] = 9081.22,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2694,
@@ -28519,17 +28519,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1938,
         ["kill_count"] = 29,
-        ["points"] = 9073.05,
+        ["points"] = 9073.21,
       },
       ["Festergut"] = {
         ["rank_raids"] = 575,
         ["kill_count"] = 29,
-        ["points"] = 9590.18,
+        ["points"] = 9590.32,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1770,
         ["kill_count"] = 29,
-        ["points"] = 9130.13,
+        ["points"] = 9130.28,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6012,
@@ -28566,7 +28566,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 655,
         ["kill_count"] = 3,
-        ["points"] = 9606.85,
+        ["points"] = 9606.99,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5780,
@@ -28574,19 +28574,19 @@ UWULogsData[1][2] = {
         ["points"] = 7817.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5829,
+        ["rank_raids"] = 5830,
         ["kill_count"] = 3,
-        ["points"] = 8004.82,
+        ["points"] = 8005.17,
       },
       ["Festergut"] = {
         ["rank_raids"] = 541,
         ["kill_count"] = 3,
-        ["points"] = 9609.2,
+        ["points"] = 9609.33,
       },
       ["Rotface"] = {
         ["rank_raids"] = 283,
         ["kill_count"] = 3,
-        ["points"] = 9771.27,
+        ["points"] = 9771.31,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3794,
@@ -28623,7 +28623,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2064,
         ["kill_count"] = 10,
-        ["points"] = 9038.97,
+        ["points"] = 9039.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4075,
@@ -28633,7 +28633,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2030,
         ["kill_count"] = 11,
-        ["points"] = 9031.7,
+        ["points"] = 9031.87,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3824,
@@ -28643,7 +28643,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 979,
         ["kill_count"] = 12,
-        ["points"] = 9431.64,
+        ["points"] = 9431.74,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1827,
@@ -28680,7 +28680,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1477,
         ["kill_count"] = 26,
-        ["points"] = 9259.13,
+        ["points"] = 9259.39,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2009,
@@ -28688,9 +28688,9 @@ UWULogsData[1][2] = {
         ["points"] = 8948.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4778,
+        ["rank_raids"] = 4779,
         ["kill_count"] = 32,
-        ["points"] = 8271.88,
+        ["points"] = 8272.18,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3231,
@@ -28700,7 +28700,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4831,
         ["kill_count"] = 31,
-        ["points"] = 8246.4,
+        ["points"] = 8246.71,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2282,
@@ -28737,7 +28737,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3991,
         ["kill_count"] = 14,
-        ["points"] = 8390.7,
+        ["points"] = 8391.27,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1911,
@@ -28747,7 +28747,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2353,
         ["kill_count"] = 14,
-        ["points"] = 8909.37,
+        ["points"] = 8909.56,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1939,
@@ -28757,7 +28757,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 627,
         ["kill_count"] = 14,
-        ["points"] = 9580.66,
+        ["points"] = 9580.73,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3392,
@@ -28794,7 +28794,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1223,
         ["kill_count"] = 15,
-        ["points"] = 9355.23,
+        ["points"] = 9355.46,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3285,
@@ -28804,17 +28804,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3412,
         ["kill_count"] = 15,
-        ["points"] = 8611.3,
+        ["points"] = 8611.54,
       },
       ["Festergut"] = {
         ["rank_raids"] = 855,
         ["kill_count"] = 15,
-        ["points"] = 9439.74,
+        ["points"] = 9439.93,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3136,
         ["kill_count"] = 15,
-        ["points"] = 8700.4,
+        ["points"] = 8700.62,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2833,
@@ -28851,7 +28851,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1845,
         ["kill_count"] = 29,
-        ["points"] = 9112.35,
+        ["points"] = 9112.66,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 337,
@@ -28861,17 +28861,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1758,
         ["kill_count"] = 29,
-        ["points"] = 9135.08,
+        ["points"] = 9135.23,
       },
       ["Festergut"] = {
         ["rank_raids"] = 173,
         ["kill_count"] = 29,
-        ["points"] = 9851.29,
+        ["points"] = 9851.34,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2202,
         ["kill_count"] = 29,
-        ["points"] = 8962.05,
+        ["points"] = 8962.23,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4348,
@@ -28889,9 +28889,9 @@ UWULogsData[1][2] = {
         ["points"] = 9397.5,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6560,
+        ["rank_raids"] = 6561,
         ["kill_count"] = 23,
-        ["points"] = 7583.0,
+        ["points"] = 7582.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 7446,
@@ -28908,7 +28908,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1766,
         ["kill_count"] = 19,
-        ["points"] = 9143.81,
+        ["points"] = 9144.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1532,
@@ -28918,7 +28918,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3605,
         ["kill_count"] = 21,
-        ["points"] = 8566.51,
+        ["points"] = 8566.75,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2869,
@@ -28928,7 +28928,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1705,
         ["kill_count"] = 21,
-        ["points"] = 9150.93,
+        ["points"] = 9151.07,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2510,
@@ -28965,7 +28965,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1776,
         ["kill_count"] = 19,
-        ["points"] = 9138.56,
+        ["points"] = 9138.86,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6165,
@@ -28975,7 +28975,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2065,
         ["kill_count"] = 19,
-        ["points"] = 9019.64,
+        ["points"] = 9019.81,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2331,
@@ -28985,7 +28985,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3600,
         ["kill_count"] = 19,
-        ["points"] = 8572.17,
+        ["points"] = 8572.42,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3338,
@@ -29022,7 +29022,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1345,
         ["kill_count"] = 4,
-        ["points"] = 9297.57,
+        ["points"] = 9297.82,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2180,
@@ -29032,7 +29032,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2007,
         ["kill_count"] = 5,
-        ["points"] = 9042.04,
+        ["points"] = 9042.2,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3062,
@@ -29042,7 +29042,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3935,
         ["kill_count"] = 5,
-        ["points"] = 8469.94,
+        ["points"] = 8470.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2957,
@@ -29079,27 +29079,27 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 424,
         ["kill_count"] = 5,
-        ["points"] = 9734.41,
+        ["points"] = 9734.5,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 18610,
+        ["rank_raids"] = 18611,
         ["kill_count"] = 1,
-        ["points"] = 5690.0,
+        ["points"] = 5689.9,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1995,
         ["kill_count"] = 5,
-        ["points"] = 9047.21,
+        ["points"] = 9047.37,
       },
       ["Festergut"] = {
         ["rank_raids"] = 912,
         ["kill_count"] = 6,
-        ["points"] = 9403.42,
+        ["points"] = 9403.63,
       },
       ["Rotface"] = {
         ["rank_raids"] = 612,
         ["kill_count"] = 7,
-        ["points"] = 9594.52,
+        ["points"] = 9594.59,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5469,
@@ -29129,14 +29129,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Dexferal"] = {
-    ["percentile"] = 88.31,
+    ["percentile"] = 88.32,
     ["server"] = "Icecrown",
     ["overall_rank"] = 512,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3595,
         ["kill_count"] = 4,
-        ["points"] = 8511.27,
+        ["points"] = 8511.79,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1330,
@@ -29146,17 +29146,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3214,
         ["kill_count"] = 4,
-        ["points"] = 8669.88,
+        ["points"] = 8670.11,
       },
       ["Festergut"] = {
         ["rank_raids"] = 926,
         ["kill_count"] = 4,
-        ["points"] = 9396.51,
+        ["points"] = 9396.72,
       },
       ["Rotface"] = {
         ["rank_raids"] = 205,
         ["kill_count"] = 4,
-        ["points"] = 9819.79,
+        ["points"] = 9819.82,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5049,
@@ -29174,9 +29174,9 @@ UWULogsData[1][2] = {
         ["points"] = 8863.1,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6393,
+        ["rank_raids"] = 6394,
         ["kill_count"] = 2,
-        ["points"] = 7633.1,
+        ["points"] = 7632.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2560,
@@ -29193,7 +29193,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2558,
         ["kill_count"] = 8,
-        ["points"] = 8846.76,
+        ["points"] = 8847.16,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1633,
@@ -29203,7 +29203,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1390,
         ["kill_count"] = 9,
-        ["points"] = 9269.47,
+        ["points"] = 9269.6,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4439,
@@ -29213,7 +29213,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1282,
         ["kill_count"] = 11,
-        ["points"] = 9305.15,
+        ["points"] = 9305.27,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3376,
@@ -29250,7 +29250,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2266,
         ["kill_count"] = 21,
-        ["points"] = 8960.34,
+        ["points"] = 8960.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3913,
@@ -29260,17 +29260,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1493,
         ["kill_count"] = 22,
-        ["points"] = 9231.56,
+        ["points"] = 9231.7,
       },
       ["Festergut"] = {
         ["rank_raids"] = 619,
         ["kill_count"] = 22,
-        ["points"] = 9571.16,
+        ["points"] = 9571.31,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2967,
         ["kill_count"] = 22,
-        ["points"] = 8755.85,
+        ["points"] = 8756.06,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4370,
@@ -29288,9 +29288,9 @@ UWULogsData[1][2] = {
         ["points"] = 9580.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 8631,
+        ["rank_raids"] = 8632,
         ["kill_count"] = 16,
-        ["points"] = 6961.7,
+        ["points"] = 6961.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1338,
@@ -29307,7 +29307,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 162,
         ["kill_count"] = 14,
-        ["points"] = 9877.69,
+        ["points"] = 9877.73,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1117,
@@ -29315,19 +29315,19 @@ UWULogsData[1][2] = {
         ["points"] = 9304.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5037,
+        ["rank_raids"] = 5038,
         ["kill_count"] = 16,
-        ["points"] = 8201.24,
+        ["points"] = 8201.55,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1162,
         ["kill_count"] = 15,
-        ["points"] = 9289.3,
+        ["points"] = 9289.54,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2632,
         ["kill_count"] = 15,
-        ["points"] = 8823.43,
+        ["points"] = 8823.63,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1029,
@@ -29364,7 +29364,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 661,
         ["kill_count"] = 6,
-        ["points"] = 9605.1,
+        ["points"] = 9605.24,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1557,
@@ -29372,9 +29372,9 @@ UWULogsData[1][2] = {
         ["points"] = 9128.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7485,
+        ["rank_raids"] = 7486,
         ["kill_count"] = 6,
-        ["points"] = 7644.73,
+        ["points"] = 7645.13,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2154,
@@ -29384,7 +29384,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2277,
         ["kill_count"] = 6,
-        ["points"] = 8932.59,
+        ["points"] = 8932.78,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3248,
@@ -29421,7 +29421,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3550,
         ["kill_count"] = 5,
-        ["points"] = 8527.0,
+        ["points"] = 8527.51,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2903,
@@ -29431,17 +29431,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1889,
         ["kill_count"] = 5,
-        ["points"] = 9092.01,
+        ["points"] = 9092.16,
       },
       ["Festergut"] = {
         ["rank_raids"] = 709,
         ["kill_count"] = 6,
-        ["points"] = 9529.66,
+        ["points"] = 9529.82,
       },
       ["Rotface"] = {
         ["rank_raids"] = 766,
         ["kill_count"] = 7,
-        ["points"] = 9516.55,
+        ["points"] = 9516.63,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3724,
@@ -29478,7 +29478,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1526,
         ["kill_count"] = 9,
-        ["points"] = 9239.91,
+        ["points"] = 9240.17,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 7691,
@@ -29488,17 +29488,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2504,
         ["kill_count"] = 10,
-        ["points"] = 8866.3,
+        ["points"] = 8866.49,
       },
       ["Festergut"] = {
         ["rank_raids"] = 903,
         ["kill_count"] = 10,
-        ["points"] = 9406.88,
+        ["points"] = 9407.09,
       },
       ["Rotface"] = {
         ["rank_raids"] = 4822,
         ["kill_count"] = 10,
-        ["points"] = 8249.87,
+        ["points"] = 8250.17,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2023,
@@ -29535,7 +29535,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1989,
         ["kill_count"] = 23,
-        ["points"] = 9066.92,
+        ["points"] = 9067.25,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1934,
@@ -29543,19 +29543,19 @@ UWULogsData[1][2] = {
         ["points"] = 8977.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4475,
+        ["rank_raids"] = 4476,
         ["kill_count"] = 24,
-        ["points"] = 8342.52,
+        ["points"] = 8342.81,
       },
       ["Festergut"] = {
         ["rank_raids"] = 335,
         ["kill_count"] = 25,
-        ["points"] = 9730.24,
+        ["points"] = 9730.34,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2212,
         ["kill_count"] = 25,
-        ["points"] = 8955.12,
+        ["points"] = 8955.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3472,
@@ -29592,7 +29592,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2546,
         ["kill_count"] = 17,
-        ["points"] = 8853.75,
+        ["points"] = 8854.15,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2589,
@@ -29602,7 +29602,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2575,
         ["kill_count"] = 17,
-        ["points"] = 8845.62,
+        ["points"] = 8845.82,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1477,
@@ -29612,7 +29612,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4852,
         ["kill_count"] = 17,
-        ["points"] = 8242.94,
+        ["points"] = 8243.24,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2233,
@@ -29649,7 +29649,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3722,
         ["kill_count"] = 9,
-        ["points"] = 8474.58,
+        ["points"] = 8475.11,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4638,
@@ -29659,7 +29659,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1690,
         ["kill_count"] = 8,
-        ["points"] = 9155.75,
+        ["points"] = 9155.9,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1728,
@@ -29669,7 +29669,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3866,
         ["kill_count"] = 6,
-        ["points"] = 8490.73,
+        ["points"] = 8490.99,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4145,
@@ -29706,7 +29706,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1464,
         ["kill_count"] = 16,
-        ["points"] = 9264.37,
+        ["points"] = 9264.63,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1484,
@@ -29714,9 +29714,9 @@ UWULogsData[1][2] = {
         ["points"] = 9157.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8648,
+        ["rank_raids"] = 8649,
         ["kill_count"] = 16,
-        ["points"] = 7396.62,
+        ["points"] = 7397.07,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5039,
@@ -29726,7 +29726,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4022,
         ["kill_count"] = 17,
-        ["points"] = 8440.48,
+        ["points"] = 8440.75,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1063,
@@ -29763,7 +29763,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5483,
         ["kill_count"] = 13,
-        ["points"] = 7969.6,
+        ["points"] = 7970.31,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4396,
@@ -29773,7 +29773,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3622,
         ["kill_count"] = 14,
-        ["points"] = 8563.06,
+        ["points"] = 8563.31,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1452,
@@ -29783,7 +29783,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4253,
         ["kill_count"] = 14,
-        ["points"] = 8385.03,
+        ["points"] = 8385.31,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1969,
@@ -29813,14 +29813,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Wookiepaw"] = {
-    ["percentile"] = 88.09,
+    ["percentile"] = 88.1,
     ["server"] = "Icecrown",
     ["overall_rank"] = 524,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1603,
         ["kill_count"] = 4,
-        ["points"] = 9211.95,
+        ["points"] = 9212.23,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2853,
@@ -29830,7 +29830,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1306,
         ["kill_count"] = 4,
-        ["points"] = 9291.87,
+        ["points"] = 9291.99,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2678,
@@ -29840,7 +29840,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2415,
         ["kill_count"] = 4,
-        ["points"] = 8906.6,
+        ["points"] = 8906.79,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1415,
@@ -29877,7 +29877,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2216,
         ["kill_count"] = 14,
-        ["points"] = 8984.8,
+        ["points"] = 8985.15,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5394,
@@ -29887,7 +29887,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2418,
         ["kill_count"] = 37,
-        ["points"] = 8890.42,
+        ["points"] = 8890.61,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2165,
@@ -29897,7 +29897,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5220,
         ["kill_count"] = 20,
-        ["points"] = 8145.9,
+        ["points"] = 8146.22,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1915,
@@ -29934,7 +29934,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4158,
         ["kill_count"] = 11,
-        ["points"] = 8341.78,
+        ["points"] = 8342.36,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4909,
@@ -29944,7 +29944,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1740,
         ["kill_count"] = 12,
-        ["points"] = 9143.69,
+        ["points"] = 9143.84,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2077,
@@ -29954,7 +29954,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2354,
         ["kill_count"] = 12,
-        ["points"] = 8922.2,
+        ["points"] = 8922.38,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1642,
@@ -29984,14 +29984,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Reddudu"] = {
-    ["percentile"] = 88.08,
+    ["percentile"] = 88.09,
     ["server"] = "Icecrown",
     ["overall_rank"] = 527,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1218,
         ["kill_count"] = 20,
-        ["points"] = 9356.98,
+        ["points"] = 9357.21,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1744,
@@ -29999,9 +29999,9 @@ UWULogsData[1][2] = {
         ["points"] = 9053.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4904,
+        ["rank_raids"] = 4905,
         ["kill_count"] = 22,
-        ["points"] = 8239.15,
+        ["points"] = 8239.45,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2018,
@@ -30011,7 +30011,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3361,
         ["kill_count"] = 22,
-        ["points"] = 8641.48,
+        ["points"] = 8641.72,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3442,
@@ -30048,7 +30048,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2195,
         ["kill_count"] = 7,
-        ["points"] = 8993.53,
+        ["points"] = 8993.89,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1048,
@@ -30058,7 +30058,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3384,
         ["kill_count"] = 7,
-        ["points"] = 8618.19,
+        ["points"] = 8618.43,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3234,
@@ -30068,7 +30068,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1477,
         ["kill_count"] = 7,
-        ["points"] = 9235.83,
+        ["points"] = 9235.97,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4946,
@@ -30105,7 +30105,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 651,
         ["kill_count"] = 26,
-        ["points"] = 9610.34,
+        ["points"] = 9610.48,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 547,
@@ -30115,17 +30115,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1064,
         ["kill_count"] = 26,
-        ["points"] = 9395.24,
+        ["points"] = 9395.35,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6466,
         ["kill_count"] = 26,
-        ["points"] = 7696.7,
+        ["points"] = 7697.49,
       },
       ["Rotface"] = {
         ["rank_raids"] = 5945,
         ["kill_count"] = 26,
-        ["points"] = 7962.22,
+        ["points"] = 7962.58,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 931,
@@ -30138,9 +30138,9 @@ UWULogsData[1][2] = {
         ["points"] = 9568.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 11063,
+        ["rank_raids"] = 11064,
         ["kill_count"] = 25,
-        ["points"] = 6444.7,
+        ["points"] = 6444.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 705,
@@ -30162,7 +30162,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2252,
         ["kill_count"] = 20,
-        ["points"] = 8967.32,
+        ["points"] = 8967.69,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1207,
@@ -30170,9 +30170,9 @@ UWULogsData[1][2] = {
         ["points"] = 9268.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4907,
+        ["rank_raids"] = 4908,
         ["kill_count"] = 21,
-        ["points"] = 8237.42,
+        ["points"] = 8237.73,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3040,
@@ -30182,7 +30182,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3039,
         ["kill_count"] = 21,
-        ["points"] = 8735.05,
+        ["points"] = 8735.27,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3597,
@@ -30219,7 +30219,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2099,
         ["kill_count"] = 14,
-        ["points"] = 9024.99,
+        ["points"] = 9025.33,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4916,
@@ -30229,7 +30229,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 4059,
         ["kill_count"] = 16,
-        ["points"] = 8461.41,
+        ["points"] = 8461.67,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3003,
@@ -30239,7 +30239,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2901,
         ["kill_count"] = 18,
-        ["points"] = 8771.44,
+        ["points"] = 8771.66,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2201,
@@ -30276,7 +30276,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1752,
         ["kill_count"] = 21,
-        ["points"] = 9150.8,
+        ["points"] = 9151.09,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2862,
@@ -30284,9 +30284,9 @@ UWULogsData[1][2] = {
         ["points"] = 8692.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4629,
+        ["rank_raids"] = 4630,
         ["kill_count"] = 21,
-        ["points"] = 8301.17,
+        ["points"] = 8301.46,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4553,
@@ -30296,7 +30296,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 736,
         ["kill_count"] = 20,
-        ["points"] = 9532.14,
+        ["points"] = 9532.22,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2430,
@@ -30333,7 +30333,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 441,
         ["kill_count"] = 3,
-        ["points"] = 9725.67,
+        ["points"] = 9725.76,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1890,
@@ -30341,19 +30341,19 @@ UWULogsData[1][2] = {
         ["points"] = 8995.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4669,
+        ["rank_raids"] = 4670,
         ["kill_count"] = 5,
-        ["points"] = 8290.83,
+        ["points"] = 8291.13,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6517,
         ["kill_count"] = 5,
-        ["points"] = 7679.41,
+        ["points"] = 7680.21,
       },
       ["Rotface"] = {
         ["rank_raids"] = 678,
         ["kill_count"] = 5,
-        ["points"] = 9558.14,
+        ["points"] = 9558.21,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4464,
@@ -30390,7 +30390,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5430,
         ["kill_count"] = 5,
-        ["points"] = 7994.06,
+        ["points"] = 7994.76,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1843,
@@ -30400,7 +30400,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 296,
         ["kill_count"] = 5,
-        ["points"] = 9769.12,
+        ["points"] = 9769.16,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1229,
@@ -30410,7 +30410,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1913,
         ["kill_count"] = 6,
-        ["points"] = 9067.75,
+        ["points"] = 9067.91,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4560,
@@ -30447,7 +30447,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1041,
         ["kill_count"] = 13,
-        ["points"] = 9421.63,
+        ["points"] = 9421.83,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5219,
@@ -30457,17 +30457,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 459,
         ["kill_count"] = 15,
-        ["points"] = 9676.09,
+        ["points"] = 9676.14,
       },
       ["Festergut"] = {
         ["rank_raids"] = 854,
         ["kill_count"] = 14,
-        ["points"] = 9441.47,
+        ["points"] = 9441.66,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2203,
         ["kill_count"] = 15,
-        ["points"] = 8960.32,
+        ["points"] = 8960.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6967,
@@ -30504,7 +30504,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 7075,
         ["kill_count"] = 24,
-        ["points"] = 7524.03,
+        ["points"] = 7524.89,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1451,
@@ -30514,7 +30514,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2812,
         ["kill_count"] = 24,
-        ["points"] = 8778.43,
+        ["points"] = 8778.64,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2002,
@@ -30524,7 +30524,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4174,
         ["kill_count"] = 24,
-        ["points"] = 8404.09,
+        ["points"] = 8404.37,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1693,
@@ -30561,7 +30561,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 679,
         ["kill_count"] = 7,
-        ["points"] = 9598.11,
+        ["points"] = 9598.25,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2818,
@@ -30569,9 +30569,9 @@ UWULogsData[1][2] = {
         ["points"] = 8705.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4390,
+        ["rank_raids"] = 4391,
         ["kill_count"] = 7,
-        ["points"] = 8368.37,
+        ["points"] = 8368.65,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4970,
@@ -30581,7 +30581,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2809,
         ["kill_count"] = 7,
-        ["points"] = 8785.31,
+        ["points"] = 8785.52,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1285,
@@ -30599,9 +30599,9 @@ UWULogsData[1][2] = {
         ["points"] = 9763.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 7099,
+        ["rank_raids"] = 7100,
         ["kill_count"] = 7,
-        ["points"] = 7421.3,
+        ["points"] = 7421.0,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 3104,
@@ -30618,7 +30618,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4646,
         ["kill_count"] = 20,
-        ["points"] = 8226.45,
+        ["points"] = 8227.07,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 843,
@@ -30626,9 +30626,9 @@ UWULogsData[1][2] = {
         ["points"] = 9429.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4338,
+        ["rank_raids"] = 4339,
         ["kill_count"] = 24,
-        ["points"] = 8378.7,
+        ["points"] = 8378.98,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1818,
@@ -30638,7 +30638,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2383,
         ["kill_count"] = 23,
-        ["points"] = 8915.27,
+        ["points"] = 8915.45,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2581,
@@ -30675,7 +30675,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5552,
         ["kill_count"] = 2,
-        ["points"] = 7950.38,
+        ["points"] = 7951.09,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4617,
@@ -30685,17 +30685,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1904,
         ["kill_count"] = 2,
-        ["points"] = 9086.84,
+        ["points"] = 9086.99,
       },
       ["Festergut"] = {
         ["rank_raids"] = 860,
         ["kill_count"] = 3,
-        ["points"] = 9434.55,
+        ["points"] = 9434.75,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1481,
         ["kill_count"] = 2,
-        ["points"] = 9232.37,
+        ["points"] = 9232.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6318,
@@ -30713,9 +30713,9 @@ UWULogsData[1][2] = {
         ["points"] = 9786.2,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5884,
+        ["rank_raids"] = 5885,
         ["kill_count"] = 3,
-        ["points"] = 7785.8,
+        ["points"] = 7785.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 197,
@@ -30732,7 +30732,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2006,
         ["kill_count"] = 11,
-        ["points"] = 9059.93,
+        ["points"] = 9060.26,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 920,
@@ -30742,7 +30742,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3604,
         ["kill_count"] = 11,
-        ["points"] = 8568.23,
+        ["points"] = 8568.48,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2893,
@@ -30752,7 +30752,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1996,
         ["kill_count"] = 11,
-        ["points"] = 9046.96,
+        ["points"] = 9047.12,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4267,
@@ -30770,9 +30770,9 @@ UWULogsData[1][2] = {
         ["points"] = 9134.6,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5138,
+        ["rank_raids"] = 5139,
         ["kill_count"] = 9,
-        ["points"] = 8009.6,
+        ["points"] = 8009.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4924,
@@ -30789,7 +30789,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6022,
         ["kill_count"] = 13,
-        ["points"] = 7826.31,
+        ["points"] = 7827.07,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1029,
@@ -30799,7 +30799,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2675,
         ["kill_count"] = 13,
-        ["points"] = 8807.72,
+        ["points"] = 8807.92,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4081,
@@ -30809,7 +30809,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4028,
         ["kill_count"] = 13,
-        ["points"] = 8438.75,
+        ["points"] = 8439.02,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 337,
@@ -30846,7 +30846,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2748,
         ["kill_count"] = 28,
-        ["points"] = 8783.85,
+        ["points"] = 8784.28,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5272,
@@ -30856,7 +30856,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1557,
         ["kill_count"] = 31,
-        ["points"] = 9200.55,
+        ["points"] = 9200.69,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1070,
@@ -30866,7 +30866,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3446,
         ["kill_count"] = 32,
-        ["points"] = 8617.22,
+        ["points"] = 8617.46,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 925,
@@ -30903,7 +30903,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2053,
         ["kill_count"] = 19,
-        ["points"] = 9042.46,
+        ["points"] = 9042.79,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3044,
@@ -30911,9 +30911,9 @@ UWULogsData[1][2] = {
         ["points"] = 8637.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4271,
+        ["rank_raids"] = 4272,
         ["kill_count"] = 20,
-        ["points"] = 8402.83,
+        ["points"] = 8403.1,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2668,
@@ -30923,7 +30923,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1707,
         ["kill_count"] = 17,
-        ["points"] = 9149.19,
+        ["points"] = 9149.34,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4881,
@@ -30960,7 +30960,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4519,
         ["kill_count"] = 11,
-        ["points"] = 8263.15,
+        ["points"] = 8263.76,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3826,
@@ -30970,7 +30970,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 4155,
         ["kill_count"] = 12,
-        ["points"] = 8437.28,
+        ["points"] = 8437.55,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2774,
@@ -30980,7 +30980,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1838,
         ["kill_count"] = 11,
-        ["points"] = 9105.87,
+        ["points"] = 9106.03,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4393,
@@ -31010,14 +31010,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Bleedout"] = {
-    ["percentile"] = 87.79,
+    ["percentile"] = 87.8,
     ["server"] = "Icecrown",
     ["overall_rank"] = 545,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1800,
         ["kill_count"] = 5,
-        ["points"] = 9129.83,
+        ["points"] = 9130.13,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5329,
@@ -31027,17 +31027,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2625,
         ["kill_count"] = 6,
-        ["points"] = 8826.67,
+        ["points"] = 8826.87,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1142,
         ["kill_count"] = 6,
-        ["points"] = 9296.21,
+        ["points"] = 9296.46,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2603,
         ["kill_count"] = 6,
-        ["points"] = 8837.29,
+        ["points"] = 8837.49,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2457,
@@ -31074,7 +31074,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5765,
         ["kill_count"] = 8,
-        ["points"] = 7887.47,
+        ["points"] = 7888.21,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3237,
@@ -31082,9 +31082,9 @@ UWULogsData[1][2] = {
         ["points"] = 8579.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5446,
+        ["rank_raids"] = 5447,
         ["kill_count"] = 8,
-        ["points"] = 8108.2,
+        ["points"] = 8108.53,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4164,
@@ -31094,7 +31094,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 685,
         ["kill_count"] = 10,
-        ["points"] = 9551.2,
+        ["points"] = 9551.28,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1265,
@@ -31131,7 +31131,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1545,
         ["kill_count"] = 2,
-        ["points"] = 9232.92,
+        ["points"] = 9233.19,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 12863,
@@ -31141,17 +31141,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 795,
         ["kill_count"] = 2,
-        ["points"] = 9507.24,
+        ["points"] = 9507.32,
       },
       ["Festergut"] = {
         ["rank_raids"] = 278,
         ["kill_count"] = 2,
-        ["points"] = 9768.29,
+        ["points"] = 9768.37,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3293,
         ["kill_count"] = 2,
-        ["points"] = 8658.81,
+        ["points"] = 8659.04,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 753,
@@ -31188,7 +31188,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3290,
         ["kill_count"] = 7,
-        ["points"] = 8617.86,
+        ["points"] = 8618.34,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3996,
@@ -31198,7 +31198,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 4041,
         ["kill_count"] = 7,
-        ["points"] = 8466.57,
+        ["points"] = 8466.84,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3578,
@@ -31208,7 +31208,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1173,
         ["kill_count"] = 7,
-        ["points"] = 9346.73,
+        ["points"] = 9346.85,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3171,
@@ -31238,14 +31238,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Ripgg"] = {
-    ["percentile"] = 87.72,
+    ["percentile"] = 87.73,
     ["server"] = "Icecrown",
     ["overall_rank"] = 549,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4024,
         ["kill_count"] = 16,
-        ["points"] = 8380.22,
+        ["points"] = 8380.79,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5316,
@@ -31255,7 +31255,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2336,
         ["kill_count"] = 15,
-        ["points"] = 8919.71,
+        ["points"] = 8919.9,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4336,
@@ -31265,7 +31265,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 462,
         ["kill_count"] = 15,
-        ["points"] = 9662.1,
+        ["points"] = 9662.16,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2560,
@@ -31302,7 +31302,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2965,
         ["kill_count"] = 4,
-        ["points"] = 8720.95,
+        ["points"] = 8721.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 208,
@@ -31312,7 +31312,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3452,
         ["kill_count"] = 4,
-        ["points"] = 8604.41,
+        ["points"] = 8604.65,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1196,
@@ -31322,7 +31322,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4602,
         ["kill_count"] = 4,
-        ["points"] = 8294.92,
+        ["points"] = 8295.22,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3263,
@@ -31340,9 +31340,9 @@ UWULogsData[1][2] = {
         ["points"] = 9297.4,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 8617,
+        ["rank_raids"] = 8618,
         ["kill_count"] = 1,
-        ["points"] = 6965.9,
+        ["points"] = 6965.6,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2855,
@@ -31359,7 +31359,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3062,
         ["kill_count"] = 19,
-        ["points"] = 8691.25,
+        ["points"] = 8691.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 9281,
@@ -31369,7 +31369,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1765,
         ["kill_count"] = 20,
-        ["points"] = 9129.91,
+        ["points"] = 9130.06,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2753,
@@ -31379,7 +31379,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1880,
         ["kill_count"] = 19,
-        ["points"] = 9081.61,
+        ["points"] = 9081.77,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3553,
@@ -31416,7 +31416,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2423,
         ["kill_count"] = 26,
-        ["points"] = 8906.17,
+        ["points"] = 8906.55,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1148,
@@ -31426,17 +31426,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2579,
         ["kill_count"] = 27,
-        ["points"] = 8842.18,
+        ["points"] = 8842.38,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6827,
         ["kill_count"] = 27,
-        ["points"] = 7627.53,
+        ["points"] = 7628.35,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6323,
+        ["rank_raids"] = 6324,
         ["kill_count"] = 26,
-        ["points"] = 7854.79,
+        ["points"] = 7855.16,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 456,
@@ -31473,7 +31473,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2475,
         ["kill_count"] = 30,
-        ["points"] = 8874.72,
+        ["points"] = 8875.11,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 942,
@@ -31483,7 +31483,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2658,
         ["kill_count"] = 32,
-        ["points"] = 8814.61,
+        ["points"] = 8814.81,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2227,
@@ -31493,7 +31493,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1827,
         ["kill_count"] = 30,
-        ["points"] = 9112.81,
+        ["points"] = 9112.96,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2710,
@@ -31511,9 +31511,9 @@ UWULogsData[1][2] = {
         ["points"] = 8035.7,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5761,
+        ["rank_raids"] = 5762,
         ["kill_count"] = 29,
-        ["points"] = 7822.7,
+        ["points"] = 7822.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4096,
@@ -31530,7 +31530,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1034,
         ["kill_count"] = 16,
-        ["points"] = 9425.13,
+        ["points"] = 9425.33,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5698,
@@ -31538,19 +31538,19 @@ UWULogsData[1][2] = {
         ["points"] = 7841.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4603,
+        ["rank_raids"] = 4604,
         ["kill_count"] = 16,
-        ["points"] = 8306.34,
+        ["points"] = 8306.63,
       },
       ["Festergut"] = {
         ["rank_raids"] = 735,
         ["kill_count"] = 14,
-        ["points"] = 9512.36,
+        ["points"] = 9512.53,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2423,
         ["kill_count"] = 15,
-        ["points"] = 8903.14,
+        ["points"] = 8903.33,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1700,
@@ -31587,7 +31587,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2619,
         ["kill_count"] = 16,
-        ["points"] = 8822.3,
+        ["points"] = 8822.71,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 859,
@@ -31595,9 +31595,9 @@ UWULogsData[1][2] = {
         ["points"] = 9421.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5577,
+        ["rank_raids"] = 5578,
         ["kill_count"] = 16,
-        ["points"] = 8063.4,
+        ["points"] = 8063.74,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2666,
@@ -31607,7 +31607,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5585,
         ["kill_count"] = 14,
-        ["points"] = 8057.53,
+        ["points"] = 8057.87,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 721,
@@ -31644,7 +31644,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1050,
         ["kill_count"] = 15,
-        ["points"] = 9416.39,
+        ["points"] = 9416.59,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3164,
@@ -31652,19 +31652,19 @@ UWULogsData[1][2] = {
         ["points"] = 8601.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7226,
+        ["rank_raids"] = 7227,
         ["kill_count"] = 15,
-        ["points"] = 7696.42,
+        ["points"] = 7696.81,
       },
       ["Festergut"] = {
         ["rank_raids"] = 654,
         ["kill_count"] = 16,
-        ["points"] = 9552.14,
+        ["points"] = 9552.29,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6497,
+        ["rank_raids"] = 6498,
         ["kill_count"] = 16,
-        ["points"] = 7811.47,
+        ["points"] = 7811.85,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2594,
@@ -31694,14 +31694,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Willferal"] = {
-    ["percentile"] = 87.58,
+    ["percentile"] = 87.59,
     ["server"] = "Icecrown",
     ["overall_rank"] = 557,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1433,
         ["kill_count"] = 11,
-        ["points"] = 9278.35,
+        ["points"] = 9278.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5124,
@@ -31709,19 +31709,19 @@ UWULogsData[1][2] = {
         ["points"] = 8013.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4872,
+        ["rank_raids"] = 4873,
         ["kill_count"] = 11,
-        ["points"] = 8249.48,
+        ["points"] = 8249.78,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1018,
         ["kill_count"] = 11,
-        ["points"] = 9349.82,
+        ["points"] = 9350.04,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2037,
         ["kill_count"] = 11,
-        ["points"] = 9027.9,
+        ["points"] = 9028.07,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2522,
@@ -31758,7 +31758,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1356,
         ["kill_count"] = 26,
-        ["points"] = 9295.82,
+        ["points"] = 9296.07,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1348,
@@ -31766,9 +31766,9 @@ UWULogsData[1][2] = {
         ["points"] = 9211.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6347,
+        ["rank_raids"] = 6348,
         ["kill_count"] = 26,
-        ["points"] = 7877.33,
+        ["points"] = 7877.69,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3150,
@@ -31778,7 +31778,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4196,
         ["kill_count"] = 26,
-        ["points"] = 8398.89,
+        ["points"] = 8399.17,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1300,
@@ -31808,14 +31808,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Chocokraves"] = {
-    ["percentile"] = 87.5,
+    ["percentile"] = 87.51,
     ["server"] = "Icecrown",
     ["overall_rank"] = 559,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 468,
         ["kill_count"] = 15,
-        ["points"] = 9711.69,
+        ["points"] = 9711.79,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 11433,
@@ -31825,7 +31825,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3433,
         ["kill_count"] = 15,
-        ["points"] = 8609.58,
+        ["points"] = 8609.82,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1208,
@@ -31835,7 +31835,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4488,
         ["kill_count"] = 16,
-        ["points"] = 8319.18,
+        ["points"] = 8319.47,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4327,
@@ -31853,9 +31853,9 @@ UWULogsData[1][2] = {
         ["points"] = 9466.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5353,
+        ["rank_raids"] = 5354,
         ["kill_count"] = 11,
-        ["points"] = 7945.1,
+        ["points"] = 7944.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 153,
@@ -31872,7 +31872,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3615,
         ["kill_count"] = 6,
-        ["points"] = 8502.53,
+        ["points"] = 8503.06,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 8153,
@@ -31882,7 +31882,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1751,
         ["kill_count"] = 7,
-        ["points"] = 9138.53,
+        ["points"] = 9138.67,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2187,
@@ -31892,7 +31892,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4473,
         ["kill_count"] = 7,
-        ["points"] = 8322.65,
+        ["points"] = 8322.94,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1839,
@@ -31929,7 +31929,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1789,
         ["kill_count"] = 5,
-        ["points"] = 9136.82,
+        ["points"] = 9137.12,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1728,
@@ -31939,7 +31939,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2337,
         ["kill_count"] = 5,
-        ["points"] = 8917.99,
+        ["points"] = 8918.17,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3634,
@@ -31949,7 +31949,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5668,
         ["kill_count"] = 5,
-        ["points"] = 8028.07,
+        ["points"] = 8028.41,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5807,
@@ -31979,14 +31979,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Awniferal"] = {
-    ["percentile"] = 87.4,
+    ["percentile"] = 87.41,
     ["server"] = "Icecrown",
     ["overall_rank"] = 562,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 600,
         ["kill_count"] = 14,
-        ["points"] = 9638.3,
+        ["points"] = 9638.43,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1855,
@@ -31994,9 +31994,9 @@ UWULogsData[1][2] = {
         ["points"] = 9009.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5814,
+        ["rank_raids"] = 5815,
         ["kill_count"] = 16,
-        ["points"] = 8013.44,
+        ["points"] = 8013.78,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4409,
@@ -32004,9 +32004,9 @@ UWULogsData[1][2] = {
         ["points"] = 8228.3,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7760,
+        ["rank_raids"] = 7761,
         ["kill_count"] = 15,
-        ["points"] = 7534.22,
+        ["points"] = 7534.65,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2414,
@@ -32043,7 +32043,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6547,
         ["kill_count"] = 4,
-        ["points"] = 7663.81,
+        ["points"] = 7664.63,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2634,
@@ -32053,7 +32053,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3839,
         ["kill_count"] = 4,
-        ["points"] = 8514.82,
+        ["points"] = 8515.07,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3076,
@@ -32063,7 +32063,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3945,
         ["kill_count"] = 4,
-        ["points"] = 8466.47,
+        ["points"] = 8466.74,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1494,
@@ -32100,7 +32100,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 292,
         ["kill_count"] = 11,
-        ["points"] = 9807.79,
+        ["points"] = 9807.86,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 947,
@@ -32108,9 +32108,9 @@ UWULogsData[1][2] = {
         ["points"] = 9377.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6267,
+        ["rank_raids"] = 6268,
         ["kill_count"] = 11,
-        ["points"] = 7910.06,
+        ["points"] = 7910.42,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2318,
@@ -32120,7 +32120,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4268,
         ["kill_count"] = 10,
-        ["points"] = 8381.56,
+        ["points"] = 8381.84,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3267,
@@ -32157,7 +32157,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 987,
         ["kill_count"] = 13,
-        ["points"] = 9444.35,
+        ["points"] = 9444.54,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5909,
@@ -32167,7 +32167,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1549,
         ["kill_count"] = 13,
-        ["points"] = 9204.0,
+        ["points"] = 9204.13,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1626,
@@ -32177,12 +32177,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2147,
         ["kill_count"] = 13,
-        ["points"] = 8986.31,
+        ["points"] = 8986.49,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9327,
+        ["rank_raids"] = 9328,
         ["kill_count"] = 13,
-        ["points"] = 6752.9,
+        ["points"] = 6752.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4074,
@@ -32207,14 +32207,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Skechers"] = {
-    ["percentile"] = 87.31,
+    ["percentile"] = 87.32,
     ["server"] = "Icecrown",
     ["overall_rank"] = 566,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6670,
         ["kill_count"] = 14,
-        ["points"] = 7648.09,
+        ["points"] = 7648.91,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2541,
@@ -32222,9 +32222,9 @@ UWULogsData[1][2] = {
         ["points"] = 8788.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6161,
+        ["rank_raids"] = 6162,
         ["kill_count"] = 15,
-        ["points"] = 7941.08,
+        ["points"] = 7941.43,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2005,
@@ -32234,7 +32234,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 680,
         ["kill_count"] = 15,
-        ["points"] = 9556.4,
+        ["points"] = 9556.48,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5803,
@@ -32264,14 +32264,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Eatmilkins"] = {
-    ["percentile"] = 87.31,
+    ["percentile"] = 87.32,
     ["server"] = "Icecrown",
     ["overall_rank"] = 567,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5308,
         ["kill_count"] = 3,
-        ["points"] = 8027.26,
+        ["points"] = 8027.95,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4860,
@@ -32281,7 +32281,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2469,
         ["kill_count"] = 3,
-        ["points"] = 8874.91,
+        ["points"] = 8875.11,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1900,
@@ -32291,7 +32291,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2173,
         ["kill_count"] = 3,
-        ["points"] = 8975.91,
+        ["points"] = 8976.09,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3600,
@@ -32328,7 +32328,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2905,
         ["kill_count"] = 10,
-        ["points"] = 8738.42,
+        ["points"] = 8738.86,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5919,
@@ -32338,7 +32338,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2441,
         ["kill_count"] = 10,
-        ["points"] = 8881.81,
+        ["points"] = 8882.0,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2935,
@@ -32348,7 +32348,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1908,
         ["kill_count"] = 10,
-        ["points"] = 9071.22,
+        ["points"] = 9071.38,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2578,
@@ -32385,7 +32385,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2527,
         ["kill_count"] = 35,
-        ["points"] = 8858.99,
+        ["points"] = 8859.39,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 8841,
@@ -32395,17 +32395,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 335,
         ["kill_count"] = 38,
-        ["points"] = 9748.45,
+        ["points"] = 9748.49,
       },
       ["Festergut"] = {
         ["rank_raids"] = 989,
         ["kill_count"] = 40,
-        ["points"] = 9368.84,
+        ["points"] = 9369.06,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2213,
         ["kill_count"] = 39,
-        ["points"] = 8953.39,
+        ["points"] = 8953.57,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6761,
@@ -32442,7 +32442,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4807,
         ["kill_count"] = 9,
-        ["points"] = 8181.02,
+        ["points"] = 8181.66,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1547,
@@ -32452,7 +32452,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 896,
         ["kill_count"] = 9,
-        ["points"] = 9453.82,
+        ["points"] = 9453.92,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1992,
@@ -32462,7 +32462,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3129,
         ["kill_count"] = 8,
-        ["points"] = 8703.86,
+        ["points"] = 8704.09,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3060,
@@ -32499,7 +32499,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2146,
         ["kill_count"] = 15,
-        ["points"] = 9016.25,
+        ["points"] = 9016.59,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1035,
@@ -32507,9 +32507,9 @@ UWULogsData[1][2] = {
         ["points"] = 9337.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5781,
+        ["rank_raids"] = 5782,
         ["kill_count"] = 16,
-        ["points"] = 8022.05,
+        ["points"] = 8022.39,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4720,
@@ -32519,7 +32519,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1961,
         ["kill_count"] = 16,
-        ["points"] = 9052.16,
+        ["points"] = 9052.32,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1775,
@@ -32556,7 +32556,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3277,
         ["kill_count"] = 18,
-        ["points"] = 8626.59,
+        ["points"] = 8627.07,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3986,
@@ -32566,17 +32566,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1827,
         ["kill_count"] = 17,
-        ["points"] = 9110.96,
+        ["points"] = 9111.11,
       },
       ["Festergut"] = {
         ["rank_raids"] = 713,
         ["kill_count"] = 16,
-        ["points"] = 9526.2,
+        ["points"] = 9526.36,
       },
       ["Rotface"] = {
         ["rank_raids"] = 4407,
         ["kill_count"] = 15,
-        ["points"] = 8338.24,
+        ["points"] = 8338.53,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3693,
@@ -32594,9 +32594,9 @@ UWULogsData[1][2] = {
         ["points"] = 9644.2,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4447,
+        ["rank_raids"] = 4448,
         ["kill_count"] = 7,
-        ["points"] = 8216.9,
+        ["points"] = 8216.6,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2776,
@@ -32613,7 +32613,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6702,
         ["kill_count"] = 7,
-        ["points"] = 7642.84,
+        ["points"] = 7643.67,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3277,
@@ -32623,7 +32623,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1315,
         ["kill_count"] = 7,
-        ["points"] = 9290.14,
+        ["points"] = 9290.27,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1503,
@@ -32633,7 +32633,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3269,
         ["kill_count"] = 7,
-        ["points"] = 8667.48,
+        ["points"] = 8667.71,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 733,
@@ -32651,9 +32651,9 @@ UWULogsData[1][2] = {
         ["points"] = 8831.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 8970,
+        ["rank_raids"] = 8971,
         ["kill_count"] = 7,
-        ["points"] = 6860.0,
+        ["points"] = 6859.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1694,
@@ -32670,7 +32670,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3204,
         ["kill_count"] = 13,
-        ["points"] = 8649.31,
+        ["points"] = 8649.78,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3104,
@@ -32680,7 +32680,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 888,
         ["kill_count"] = 14,
-        ["points"] = 9460.72,
+        ["points"] = 9460.81,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4464,
@@ -32690,7 +32690,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1061,
         ["kill_count"] = 14,
-        ["points"] = 9388.32,
+        ["points"] = 9388.43,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2221,
@@ -32708,9 +32708,9 @@ UWULogsData[1][2] = {
         ["points"] = 7798.4,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5166,
+        ["rank_raids"] = 5167,
         ["kill_count"] = 13,
-        ["points"] = 8001.2,
+        ["points"] = 8000.9,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1408,
@@ -32727,7 +32727,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1112,
         ["kill_count"] = 28,
-        ["points"] = 9397.17,
+        ["points"] = 9397.38,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1678,
@@ -32735,9 +32735,9 @@ UWULogsData[1][2] = {
         ["points"] = 9079.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4370,
+        ["rank_raids"] = 4371,
         ["kill_count"] = 30,
-        ["points"] = 8373.54,
+        ["points"] = 8373.82,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2945,
@@ -32747,7 +32747,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5560,
         ["kill_count"] = 30,
-        ["points"] = 8066.19,
+        ["points"] = 8066.53,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1814,
@@ -32765,9 +32765,9 @@ UWULogsData[1][2] = {
         ["points"] = 8646.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4701,
+        ["rank_raids"] = 4702,
         ["kill_count"] = 25,
-        ["points"] = 8140.7,
+        ["points"] = 8140.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2707,
@@ -32777,14 +32777,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Vacabrava"] = {
-    ["percentile"] = 87.2,
+    ["percentile"] = 87.21,
     ["server"] = "Icecrown",
     ["overall_rank"] = 576,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6681,
         ["kill_count"] = 5,
-        ["points"] = 7646.34,
+        ["points"] = 7647.16,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1467,
@@ -32794,7 +32794,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2698,
         ["kill_count"] = 6,
-        ["points"] = 8802.55,
+        ["points"] = 8802.76,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3569,
@@ -32804,7 +32804,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1478,
         ["kill_count"] = 9,
-        ["points"] = 9234.1,
+        ["points"] = 9234.23,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2606,
@@ -32841,7 +32841,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1564,
         ["kill_count"] = 3,
-        ["points"] = 9225.93,
+        ["points"] = 9226.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4598,
@@ -32851,7 +32851,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1840,
         ["kill_count"] = 5,
-        ["points"] = 9104.07,
+        ["points"] = 9104.22,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2664,
@@ -32861,7 +32861,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3996,
         ["kill_count"] = 4,
-        ["points"] = 8454.34,
+        ["points"] = 8454.61,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 618,
@@ -32898,7 +32898,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2184,
         ["kill_count"] = 6,
-        ["points"] = 8997.03,
+        ["points"] = 8997.38,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2045,
@@ -32908,7 +32908,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1117,
         ["kill_count"] = 6,
-        ["points"] = 9372.85,
+        ["points"] = 9372.95,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1369,
@@ -32918,7 +32918,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1058,
         ["kill_count"] = 6,
-        ["points"] = 9393.52,
+        ["points"] = 9393.62,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3905,
@@ -32936,9 +32936,9 @@ UWULogsData[1][2] = {
         ["points"] = 8758.7,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6100,
+        ["rank_raids"] = 6101,
         ["kill_count"] = 6,
-        ["points"] = 7721.0,
+        ["points"] = 7720.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4784,
@@ -32955,7 +32955,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5042,
         ["kill_count"] = 5,
-        ["points"] = 8104.14,
+        ["points"] = 8104.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2166,
@@ -32965,7 +32965,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1457,
         ["kill_count"] = 6,
-        ["points"] = 9245.35,
+        ["points"] = 9245.48,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3151,
@@ -32975,7 +32975,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3790,
         ["kill_count"] = 6,
-        ["points"] = 8520.19,
+        ["points"] = 8520.44,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5754,
@@ -32993,9 +32993,9 @@ UWULogsData[1][2] = {
         ["points"] = 9340.2,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4965,
+        ["rank_raids"] = 4966,
         ["kill_count"] = 6,
-        ["points"] = 8061.5,
+        ["points"] = 8061.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 878,
@@ -33012,7 +33012,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1727,
         ["kill_count"] = 30,
-        ["points"] = 9164.77,
+        ["points"] = 9165.07,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5610,
@@ -33022,7 +33022,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 525,
         ["kill_count"] = 30,
-        ["points"] = 9641.63,
+        ["points"] = 9641.69,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2632,
@@ -33032,7 +33032,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4871,
         ["kill_count"] = 30,
-        ["points"] = 8241.21,
+        ["points"] = 8241.51,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2520,
@@ -33069,7 +33069,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2564,
         ["kill_count"] = 8,
-        ["points"] = 8843.26,
+        ["points"] = 8843.67,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3139,
@@ -33077,19 +33077,19 @@ UWULogsData[1][2] = {
         ["points"] = 8609.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4825,
+        ["rank_raids"] = 4826,
         ["kill_count"] = 8,
-        ["points"] = 8259.82,
+        ["points"] = 8260.12,
       },
       ["Festergut"] = {
         ["rank_raids"] = 534,
         ["kill_count"] = 8,
-        ["points"] = 9610.93,
+        ["points"] = 9611.06,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3525,
         ["kill_count"] = 8,
-        ["points"] = 8589.5,
+        ["points"] = 8589.74,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5963,
@@ -33126,7 +33126,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 577,
         ["kill_count"] = 35,
-        ["points"] = 9648.79,
+        ["points"] = 9648.91,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4288,
@@ -33134,17 +33134,17 @@ UWULogsData[1][2] = {
         ["points"] = 8264.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4487,
+        ["rank_raids"] = 4488,
         ["kill_count"] = 35,
-        ["points"] = 8337.35,
+        ["points"] = 8337.64,
       },
       ["Festergut"] = {
         ["rank_raids"] = 418,
         ["kill_count"] = 34,
-        ["points"] = 9680.1,
+        ["points"] = 9680.21,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8698,
+        ["rank_raids"] = 8699,
         ["kill_count"] = 34,
         ["points"] = 7436.75,
       },
@@ -33183,7 +33183,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3788,
         ["kill_count"] = 15,
-        ["points"] = 8455.36,
+        ["points"] = 8455.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3416,
@@ -33191,9 +33191,9 @@ UWULogsData[1][2] = {
         ["points"] = 8526.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4415,
+        ["rank_raids"] = 4416,
         ["kill_count"] = 16,
-        ["points"] = 8358.03,
+        ["points"] = 8358.31,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3993,
@@ -33203,7 +33203,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1761,
         ["kill_count"] = 16,
-        ["points"] = 9133.6,
+        ["points"] = 9133.75,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5600,
@@ -33240,7 +33240,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2029,
         ["kill_count"] = 20,
-        ["points"] = 9049.45,
+        ["points"] = 9049.78,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3007,
@@ -33250,7 +33250,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2867,
         ["kill_count"] = 20,
-        ["points"] = 8761.2,
+        ["points"] = 8761.41,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1322,
@@ -33260,7 +33260,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3690,
         ["kill_count"] = 18,
-        ["points"] = 8542.71,
+        ["points"] = 8542.97,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3354,
@@ -33297,7 +33297,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4793,
         ["kill_count"] = 4,
-        ["points"] = 8188.01,
+        ["points"] = 8188.65,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1983,
@@ -33307,17 +33307,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2196,
         ["kill_count"] = 4,
-        ["points"] = 8967.95,
+        ["points"] = 8968.13,
       },
       ["Festergut"] = {
         ["rank_raids"] = 504,
         ["kill_count"] = 5,
-        ["points"] = 9631.68,
+        ["points"] = 9631.81,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6006,
+        ["rank_raids"] = 6007,
         ["kill_count"] = 5,
-        ["points"] = 7934.5,
+        ["points"] = 7934.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4983,
@@ -33354,7 +33354,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5244,
         ["kill_count"] = 12,
-        ["points"] = 8053.47,
+        ["points"] = 8054.15,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4703,
@@ -33364,7 +33364,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2665,
         ["kill_count"] = 12,
-        ["points"] = 8811.16,
+        ["points"] = 8811.37,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3887,
@@ -33374,7 +33374,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1759,
         ["kill_count"] = 12,
-        ["points"] = 9135.33,
+        ["points"] = 9135.48,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1307,
@@ -33411,7 +33411,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2239,
         ["kill_count"] = 12,
-        ["points"] = 8976.06,
+        ["points"] = 8976.42,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3772,
@@ -33419,9 +33419,9 @@ UWULogsData[1][2] = {
         ["points"] = 8419.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4871,
+        ["rank_raids"] = 4872,
         ["kill_count"] = 13,
-        ["points"] = 8251.21,
+        ["points"] = 8251.51,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3961,
@@ -33431,7 +33431,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2485,
         ["kill_count"] = 12,
-        ["points"] = 8878.88,
+        ["points"] = 8879.07,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2143,
@@ -33449,9 +33449,9 @@ UWULogsData[1][2] = {
         ["points"] = 9610.6,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 7476,
+        ["rank_raids"] = 7477,
         ["kill_count"] = 14,
-        ["points"] = 7308.2,
+        ["points"] = 7307.9,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 678,
@@ -33468,7 +33468,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2356,
         ["kill_count"] = 6,
-        ["points"] = 8923.64,
+        ["points"] = 8924.02,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1748,
@@ -33478,7 +33478,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3135,
         ["kill_count"] = 6,
-        ["points"] = 8692.28,
+        ["points"] = 8692.51,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2384,
@@ -33488,7 +33488,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2702,
         ["kill_count"] = 6,
-        ["points"] = 8813.03,
+        ["points"] = 8813.24,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6095,
@@ -33506,9 +33506,9 @@ UWULogsData[1][2] = {
         ["points"] = 9164.2,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6398,
+        ["rank_raids"] = 6399,
         ["kill_count"] = 5,
-        ["points"] = 7631.6,
+        ["points"] = 7631.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2846,
@@ -33525,7 +33525,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3585,
         ["kill_count"] = 2,
-        ["points"] = 8513.02,
+        ["points"] = 8513.54,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 269,
@@ -33535,7 +33535,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2069,
         ["kill_count"] = 2,
-        ["points"] = 9016.2,
+        ["points"] = 9016.37,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5174,
@@ -33545,7 +33545,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1556,
         ["kill_count"] = 2,
-        ["points"] = 9194.25,
+        ["points"] = 9194.39,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4802,
@@ -33582,7 +33582,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2923,
         ["kill_count"] = 10,
-        ["points"] = 8733.18,
+        ["points"] = 8733.62,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3475,
@@ -33592,7 +33592,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3043,
         ["kill_count"] = 10,
-        ["points"] = 8712.96,
+        ["points"] = 8713.18,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2034,
@@ -33602,7 +33602,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2569,
         ["kill_count"] = 10,
-        ["points"] = 8852.89,
+        ["points"] = 8853.08,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1513,
@@ -33632,14 +33632,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Wanabee"] = {
-    ["percentile"] = 86.99,
+    ["percentile"] = 87.0,
     ["server"] = "Icecrown",
     ["overall_rank"] = 591,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2390,
         ["kill_count"] = 29,
-        ["points"] = 8918.4,
+        ["points"] = 8918.78,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3021,
@@ -33649,17 +33649,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 754,
         ["kill_count"] = 35,
-        ["points"] = 9524.47,
+        ["points"] = 9524.55,
       },
       ["Festergut"] = {
         ["rank_raids"] = 7340,
         ["kill_count"] = 36,
-        ["points"] = 7504.76,
+        ["points"] = 7505.62,
       },
       ["Rotface"] = {
         ["rank_raids"] = 5578,
         ["kill_count"] = 34,
-        ["points"] = 8060.99,
+        ["points"] = 8061.33,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3975,
@@ -33696,7 +33696,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1652,
         ["kill_count"] = 10,
-        ["points"] = 9189.24,
+        ["points"] = 9189.52,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3178,
@@ -33704,9 +33704,9 @@ UWULogsData[1][2] = {
         ["points"] = 8597.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5213,
+        ["rank_raids"] = 5214,
         ["kill_count"] = 9,
-        ["points"] = 8173.67,
+        ["points"] = 8173.99,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1664,
@@ -33716,7 +33716,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2436,
         ["kill_count"] = 9,
-        ["points"] = 8899.67,
+        ["points"] = 8899.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1161,
@@ -33734,9 +33734,9 @@ UWULogsData[1][2] = {
         ["points"] = 8938.1,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5244,
+        ["rank_raids"] = 5245,
         ["kill_count"] = 7,
-        ["points"] = 7977.8,
+        ["points"] = 7977.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4875,
@@ -33753,7 +33753,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 8258,
         ["kill_count"] = 12,
-        ["points"] = 7223.48,
+        ["points"] = 7224.45,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3459,
@@ -33763,7 +33763,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2457,
         ["kill_count"] = 12,
-        ["points"] = 8878.36,
+        ["points"] = 8878.55,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3536,
@@ -33773,7 +33773,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1115,
         ["kill_count"] = 13,
-        ["points"] = 9364.06,
+        ["points"] = 9364.17,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1452,
@@ -33810,7 +33810,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2259,
         ["kill_count"] = 14,
-        ["points"] = 8965.58,
+        ["points"] = 8965.94,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3050,
@@ -33820,7 +33820,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3856,
         ["kill_count"] = 15,
-        ["points"] = 8509.65,
+        ["points"] = 8509.91,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1710,
@@ -33830,7 +33830,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3121,
         ["kill_count"] = 15,
-        ["points"] = 8705.6,
+        ["points"] = 8705.82,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1899,
@@ -33867,7 +33867,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2554,
         ["kill_count"] = 4,
-        ["points"] = 8850.25,
+        ["points"] = 8850.66,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4133,
@@ -33877,17 +33877,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2139,
         ["kill_count"] = 7,
-        ["points"] = 8986.91,
+        ["points"] = 8987.08,
       },
       ["Festergut"] = {
         ["rank_raids"] = 742,
         ["kill_count"] = 5,
-        ["points"] = 9507.18,
+        ["points"] = 9507.35,
       },
       ["Rotface"] = {
         ["rank_raids"] = 4800,
         ["kill_count"] = 5,
-        ["points"] = 8253.34,
+        ["points"] = 8253.64,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7873,
@@ -33924,7 +33924,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3346,
         ["kill_count"] = 10,
-        ["points"] = 8598.64,
+        ["points"] = 8599.13,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2990,
@@ -33932,19 +33932,19 @@ UWULogsData[1][2] = {
         ["points"] = 8654.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5756,
+        ["rank_raids"] = 5757,
         ["kill_count"] = 10,
-        ["points"] = 8030.67,
+        ["points"] = 8031.01,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5710,
         ["kill_count"] = 11,
-        ["points"] = 7862.7,
+        ["points"] = 7863.44,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3411,
         ["kill_count"] = 10,
-        ["points"] = 8624.16,
+        ["points"] = 8624.39,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5473,
@@ -33973,72 +33973,15 @@ UWULogsData[1][2] = {
       },
     },
   },
-  ["Sahocaty"] = {
+  ["Michisorr"] = {
     ["percentile"] = 86.8,
     ["server"] = "Icecrown",
     ["overall_rank"] = 597,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 1497,
-        ["kill_count"] = 14,
-        ["points"] = 9252.14,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 5805,
-        ["kill_count"] = 12,
-        ["points"] = 7809.5,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1808,
-        ["kill_count"] = 15,
-        ["points"] = 9114.4,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 3926,
-        ["kill_count"] = 14,
-        ["points"] = 8373.2,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 1332,
-        ["kill_count"] = 14,
-        ["points"] = 9287.82,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 3617,
-        ["kill_count"] = 10,
-        ["points"] = 8465.9,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 2126,
-        ["kill_count"] = 15,
-        ["points"] = 9060.96,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2094,
-        ["kill_count"] = 14,
-        ["points"] = 8922.8,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 1586,
-        ["kill_count"] = 13,
-        ["points"] = 9116.6,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 7396,
-        ["kill_count"] = 7,
-        ["points"] = 7332.2,
-      },
-    },
-  },
-  ["Michisorr"] = {
-    ["percentile"] = 86.8,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 598,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
         ["rank_raids"] = 4753,
         ["kill_count"] = 10,
-        ["points"] = 8198.5,
+        ["points"] = 8199.13,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1008,
@@ -34048,7 +33991,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1399,
         ["kill_count"] = 13,
-        ["points"] = 9266.02,
+        ["points"] = 9266.15,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3575,
@@ -34058,7 +34001,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2200,
         ["kill_count"] = 13,
-        ["points"] = 8963.78,
+        ["points"] = 8963.96,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4256,
@@ -34087,6 +34030,63 @@ UWULogsData[1][2] = {
       },
     },
   },
+  ["Sahocaty"] = {
+    ["percentile"] = 86.8,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 598,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 1497,
+        ["kill_count"] = 14,
+        ["points"] = 9252.4,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 5805,
+        ["kill_count"] = 12,
+        ["points"] = 7809.5,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 1808,
+        ["kill_count"] = 15,
+        ["points"] = 9114.56,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 3926,
+        ["kill_count"] = 14,
+        ["points"] = 8373.2,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 1332,
+        ["kill_count"] = 14,
+        ["points"] = 9287.94,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 3617,
+        ["kill_count"] = 10,
+        ["points"] = 8465.9,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 2126,
+        ["kill_count"] = 15,
+        ["points"] = 9060.96,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 2094,
+        ["kill_count"] = 14,
+        ["points"] = 8922.8,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 1586,
+        ["kill_count"] = 13,
+        ["points"] = 9116.6,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 7396,
+        ["kill_count"] = 7,
+        ["points"] = 7332.2,
+      },
+    },
+  },
   ["Nidale"] = {
     ["percentile"] = 86.8,
     ["server"] = "Icecrown",
@@ -34095,7 +34095,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5837,
         ["kill_count"] = 16,
-        ["points"] = 7866.5,
+        ["points"] = 7867.25,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6486,
@@ -34105,7 +34105,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2670,
         ["kill_count"] = 16,
-        ["points"] = 8809.44,
+        ["points"] = 8809.65,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5187,
@@ -34115,7 +34115,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2506,
         ["kill_count"] = 16,
-        ["points"] = 8868.48,
+        ["points"] = 8868.68,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 868,
@@ -34152,7 +34152,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6072,
         ["kill_count"] = 6,
-        ["points"] = 7805.35,
+        ["points"] = 7806.11,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 7080,
@@ -34162,17 +34162,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3689,
         ["kill_count"] = 7,
-        ["points"] = 8551.0,
+        ["points"] = 8551.25,
       },
       ["Festergut"] = {
         ["rank_raids"] = 577,
         ["kill_count"] = 7,
-        ["points"] = 9586.72,
+        ["points"] = 9586.86,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1471,
         ["kill_count"] = 8,
-        ["points"] = 9237.57,
+        ["points"] = 9237.7,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2223,
@@ -34202,14 +34202,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Nihuya"] = {
-    ["percentile"] = 86.74,
+    ["percentile"] = 86.75,
     ["server"] = "Icecrown",
     ["overall_rank"] = 601,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1768,
         ["kill_count"] = 15,
-        ["points"] = 9142.06,
+        ["points"] = 9142.36,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1208,
@@ -34219,7 +34219,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2405,
         ["kill_count"] = 15,
-        ["points"] = 8895.59,
+        ["points"] = 8895.78,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4534,
@@ -34229,7 +34229,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2361,
         ["kill_count"] = 16,
-        ["points"] = 8920.46,
+        ["points"] = 8920.65,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4758,
@@ -34266,7 +34266,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5654,
         ["kill_count"] = 20,
-        ["points"] = 7911.93,
+        ["points"] = 7912.66,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6474,
@@ -34276,7 +34276,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2131,
         ["kill_count"] = 20,
-        ["points"] = 8990.35,
+        ["points"] = 8990.53,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1791,
@@ -34286,7 +34286,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1145,
         ["kill_count"] = 21,
-        ["points"] = 9357.13,
+        ["points"] = 9357.24,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3515,
@@ -34323,7 +34323,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2783,
         ["kill_count"] = 11,
-        ["points"] = 8775.12,
+        ["points"] = 8775.55,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 453,
@@ -34331,9 +34331,9 @@ UWULogsData[1][2] = {
         ["points"] = 9629.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5826,
+        ["rank_raids"] = 5827,
         ["kill_count"] = 11,
-        ["points"] = 8008.27,
+        ["points"] = 8008.61,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2617,
@@ -34343,7 +34343,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5706,
         ["kill_count"] = 11,
-        ["points"] = 8019.41,
+        ["points"] = 8019.75,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3025,
@@ -34380,7 +34380,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 256,
         ["kill_count"] = 9,
-        ["points"] = 9823.52,
+        ["points"] = 9823.58,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6253,
@@ -34390,7 +34390,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 433,
         ["kill_count"] = 9,
-        ["points"] = 9686.42,
+        ["points"] = 9686.48,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3103,
@@ -34400,7 +34400,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3480,
         ["kill_count"] = 9,
-        ["points"] = 8608.56,
+        ["points"] = 8608.8,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6127,
@@ -34437,7 +34437,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2471,
         ["kill_count"] = 1,
-        ["points"] = 8876.46,
+        ["points"] = 8876.86,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6138,
@@ -34445,19 +34445,19 @@ UWULogsData[1][2] = {
         ["points"] = 7709.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6384,
+        ["rank_raids"] = 6385,
         ["kill_count"] = 1,
-        ["points"] = 7870.43,
+        ["points"] = 7870.8,
       },
       ["Festergut"] = {
         ["rank_raids"] = 685,
         ["kill_count"] = 1,
-        ["points"] = 9534.84,
+        ["points"] = 9535.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 537,
         ["kill_count"] = 1,
-        ["points"] = 9636.11,
+        ["points"] = 9636.17,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5794,
@@ -34475,9 +34475,9 @@ UWULogsData[1][2] = {
         ["points"] = 9806.2,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6863,
+        ["rank_raids"] = 6864,
         ["kill_count"] = 2,
-        ["points"] = 7492.1,
+        ["points"] = 7491.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 946,
@@ -34494,7 +34494,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1122,
         ["kill_count"] = 7,
-        ["points"] = 9388.43,
+        ["points"] = 9388.65,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 323,
@@ -34504,7 +34504,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1955,
         ["kill_count"] = 7,
-        ["points"] = 9064.44,
+        ["points"] = 9064.6,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3462,
@@ -34512,9 +34512,9 @@ UWULogsData[1][2] = {
         ["points"] = 8512.4,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6201,
+        ["rank_raids"] = 6202,
         ["kill_count"] = 6,
-        ["points"] = 7880.78,
+        ["points"] = 7881.15,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4352,
@@ -34527,9 +34527,9 @@ UWULogsData[1][2] = {
         ["points"] = 9604.61,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 16572,
+        ["rank_raids"] = 16574,
         ["kill_count"] = 5,
-        ["points"] = 5893.8,
+        ["points"] = 5893.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 81,
@@ -34551,7 +34551,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 978,
         ["kill_count"] = 11,
-        ["points"] = 9453.08,
+        ["points"] = 9453.28,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4369,
@@ -34559,9 +34559,9 @@ UWULogsData[1][2] = {
         ["points"] = 8240.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5312,
+        ["rank_raids"] = 5313,
         ["kill_count"] = 12,
-        ["points"] = 8153.0,
+        ["points"] = 8153.32,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4185,
@@ -34571,7 +34571,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4830,
         ["kill_count"] = 12,
-        ["points"] = 8248.14,
+        ["points"] = 8248.44,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1464,
@@ -34589,9 +34589,9 @@ UWULogsData[1][2] = {
         ["points"] = 9475.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5820,
+        ["rank_raids"] = 5821,
         ["kill_count"] = 11,
-        ["points"] = 7805.0,
+        ["points"] = 7804.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1142,
@@ -34608,7 +34608,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5599,
         ["kill_count"] = 3,
-        ["points"] = 7934.65,
+        ["points"] = 7935.37,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 7524,
@@ -34618,17 +34618,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 882,
         ["kill_count"] = 3,
-        ["points"] = 9464.16,
+        ["points"] = 9464.25,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5529,
         ["kill_count"] = 3,
-        ["points"] = 7916.31,
+        ["points"] = 7917.03,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6944,
+        ["rank_raids"] = 6945,
         ["kill_count"] = 3,
-        ["points"] = 7702.3,
+        ["points"] = 7702.7,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1650,
@@ -34665,7 +34665,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1243,
         ["kill_count"] = 9,
-        ["points"] = 9344.75,
+        ["points"] = 9344.98,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1812,
@@ -34675,7 +34675,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2510,
         ["kill_count"] = 18,
-        ["points"] = 8862.85,
+        ["points"] = 8863.05,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2598,
@@ -34685,7 +34685,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4441,
         ["kill_count"] = 9,
-        ["points"] = 8334.78,
+        ["points"] = 8335.07,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1325,
@@ -34698,9 +34698,9 @@ UWULogsData[1][2] = {
         ["points"] = 9485.63,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 14014,
+        ["rank_raids"] = 14016,
         ["kill_count"] = 5,
-        ["points"] = 6149.6,
+        ["points"] = 6149.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3639,
@@ -34722,7 +34722,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4103,
         ["kill_count"] = 7,
-        ["points"] = 8355.76,
+        ["points"] = 8356.33,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6429,
@@ -34732,7 +34732,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1017,
         ["kill_count"] = 5,
-        ["points"] = 9410.75,
+        ["points"] = 9410.85,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2964,
@@ -34742,7 +34742,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1513,
         ["kill_count"] = 7,
-        ["points"] = 9216.77,
+        ["points"] = 9216.91,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5028,
@@ -34779,7 +34779,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4035,
         ["kill_count"] = 13,
-        ["points"] = 8373.23,
+        ["points"] = 8373.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3783,
@@ -34789,7 +34789,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2021,
         ["kill_count"] = 15,
-        ["points"] = 9036.87,
+        ["points"] = 9037.04,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2765,
@@ -34799,7 +34799,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2576,
         ["kill_count"] = 15,
-        ["points"] = 8851.15,
+        ["points"] = 8851.35,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3747,
@@ -34829,14 +34829,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Virserk"] = {
-    ["percentile"] = 86.57,
+    ["percentile"] = 86.58,
     ["server"] = "Icecrown",
     ["overall_rank"] = 612,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1300,
         ["kill_count"] = 17,
-        ["points"] = 9322.03,
+        ["points"] = 9322.27,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 989,
@@ -34844,7 +34844,7 @@ UWULogsData[1][2] = {
         ["points"] = 9356.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9084,
+        ["rank_raids"] = 9085,
         ["kill_count"] = 17,
         ["points"] = 7343.12,
       },
@@ -34854,9 +34854,9 @@ UWULogsData[1][2] = {
         ["points"] = 8613.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7193,
+        ["rank_raids"] = 7194,
         ["kill_count"] = 17,
-        ["points"] = 7652.05,
+        ["points"] = 7652.46,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3656,
@@ -34893,7 +34893,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3754,
         ["kill_count"] = 14,
-        ["points"] = 8462.34,
+        ["points"] = 8462.88,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5595,
@@ -34903,7 +34903,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 660,
         ["kill_count"] = 14,
-        ["points"] = 9565.82,
+        ["points"] = 9565.89,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1399,
@@ -34913,7 +34913,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1078,
         ["kill_count"] = 15,
-        ["points"] = 9377.92,
+        ["points"] = 9378.03,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4746,
@@ -34950,7 +34950,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3393,
         ["kill_count"] = 7,
-        ["points"] = 8581.16,
+        ["points"] = 8581.66,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2351,
@@ -34960,7 +34960,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2109,
         ["kill_count"] = 9,
-        ["points"] = 9005.86,
+        ["points"] = 9006.03,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2676,
@@ -34970,7 +34970,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1364,
         ["kill_count"] = 9,
-        ["points"] = 9272.22,
+        ["points"] = 9272.35,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1765,
@@ -35007,7 +35007,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1994,
         ["kill_count"] = 11,
-        ["points"] = 9065.18,
+        ["points"] = 9065.5,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3229,
@@ -35017,7 +35017,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1087,
         ["kill_count"] = 13,
-        ["points"] = 9384.91,
+        ["points"] = 9385.01,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4630,
@@ -35027,7 +35027,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2005,
         ["kill_count"] = 12,
-        ["points"] = 9040.03,
+        ["points"] = 9040.19,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3889,
@@ -35064,7 +35064,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1502,
         ["kill_count"] = 13,
-        ["points"] = 9246.9,
+        ["points"] = 9247.16,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2557,
@@ -35074,7 +35074,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1072,
         ["kill_count"] = 14,
-        ["points"] = 9388.35,
+        ["points"] = 9388.46,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1773,
@@ -35084,7 +35084,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3818,
         ["kill_count"] = 13,
-        ["points"] = 8514.99,
+        ["points"] = 8515.25,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3800,
@@ -35102,9 +35102,9 @@ UWULogsData[1][2] = {
         ["points"] = 8523.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6165,
+        ["rank_raids"] = 6166,
         ["kill_count"] = 12,
-        ["points"] = 7701.5,
+        ["points"] = 7701.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 6280,
@@ -35121,7 +35121,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5683,
         ["kill_count"] = 7,
-        ["points"] = 7903.2,
+        ["points"] = 7903.93,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2542,
@@ -35131,17 +35131,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3767,
         ["kill_count"] = 7,
-        ["points"] = 8532.05,
+        ["points"] = 8532.3,
       },
       ["Festergut"] = {
         ["rank_raids"] = 803,
         ["kill_count"] = 7,
-        ["points"] = 9472.59,
+        ["points"] = 9472.77,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2267,
         ["kill_count"] = 7,
-        ["points"] = 8936.06,
+        ["points"] = 8936.24,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4101,
@@ -35178,7 +35178,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3356,
         ["kill_count"] = 46,
-        ["points"] = 8589.9,
+        ["points"] = 8590.39,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2026,
@@ -35188,7 +35188,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3232,
         ["kill_count"] = 45,
-        ["points"] = 8662.99,
+        ["points"] = 8663.22,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3962,
@@ -35198,7 +35198,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2036,
         ["kill_count"] = 43,
-        ["points"] = 9029.63,
+        ["points"] = 9029.8,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3779,
@@ -35216,9 +35216,9 @@ UWULogsData[1][2] = {
         ["points"] = 9036.2,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5949,
+        ["rank_raids"] = 5950,
         ["kill_count"] = 42,
-        ["points"] = 7766.3,
+        ["points"] = 7766.0,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4530,
@@ -35235,7 +35235,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 7836,
         ["kill_count"] = 9,
-        ["points"] = 7338.81,
+        ["points"] = 7339.74,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4325,
@@ -35243,9 +35243,9 @@ UWULogsData[1][2] = {
         ["points"] = 8253.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5374,
+        ["rank_raids"] = 5375,
         ["kill_count"] = 9,
-        ["points"] = 8132.32,
+        ["points"] = 8132.64,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3923,
@@ -35255,7 +35255,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1163,
         ["kill_count"] = 9,
-        ["points"] = 9350.2,
+        ["points"] = 9350.31,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3295,
@@ -35285,14 +35285,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Verbz"] = {
-    ["percentile"] = 86.42,
+    ["percentile"] = 86.43,
     ["server"] = "Icecrown",
     ["overall_rank"] = 621,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3880,
         ["kill_count"] = 7,
-        ["points"] = 8422.16,
+        ["points"] = 8422.71,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 854,
@@ -35302,7 +35302,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 995,
         ["kill_count"] = 8,
-        ["points"] = 9421.09,
+        ["points"] = 9421.19,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3884,
@@ -35312,7 +35312,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3642,
         ["kill_count"] = 8,
-        ["points"] = 8556.58,
+        ["points"] = 8556.83,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5051,
@@ -35330,9 +35330,9 @@ UWULogsData[1][2] = {
         ["points"] = 8510.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6855,
+        ["rank_raids"] = 6856,
         ["kill_count"] = 8,
-        ["points"] = 7494.5,
+        ["points"] = 7494.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2751,
@@ -35349,7 +35349,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1937,
         ["kill_count"] = 2,
-        ["points"] = 9089.64,
+        ["points"] = 9089.96,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3647,
@@ -35359,7 +35359,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2438,
         ["kill_count"] = 2,
-        ["points"] = 8883.53,
+        ["points"] = 8883.72,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2439,
@@ -35369,7 +35369,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2414,
         ["kill_count"] = 2,
-        ["points"] = 8908.33,
+        ["points"] = 8908.52,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2393,
@@ -35387,9 +35387,9 @@ UWULogsData[1][2] = {
         ["points"] = 7230.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6918,
+        ["rank_raids"] = 6919,
         ["kill_count"] = 2,
-        ["points"] = 7475.6,
+        ["points"] = 7475.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 764,
@@ -35406,7 +35406,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2529,
         ["kill_count"] = 4,
-        ["points"] = 8855.5,
+        ["points"] = 8855.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4165,
@@ -35414,9 +35414,9 @@ UWULogsData[1][2] = {
         ["points"] = 8301.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8123,
+        ["rank_raids"] = 8124,
         ["kill_count"] = 5,
-        ["points"] = 7500.0,
+        ["points"] = 7500.43,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3379,
@@ -35426,7 +35426,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2153,
         ["kill_count"] = 5,
-        ["points"] = 8981.11,
+        ["points"] = 8981.29,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3773,
@@ -35463,7 +35463,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5274,
         ["kill_count"] = 16,
-        ["points"] = 8041.24,
+        ["points"] = 8041.92,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3570,
@@ -35473,7 +35473,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1131,
         ["kill_count"] = 15,
-        ["points"] = 9365.95,
+        ["points"] = 9366.06,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1821,
@@ -35483,7 +35483,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2891,
         ["kill_count"] = 16,
-        ["points"] = 8773.18,
+        ["points"] = 8773.39,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4544,
@@ -35520,7 +35520,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3292,
         ["kill_count"] = 8,
-        ["points"] = 8616.11,
+        ["points"] = 8616.59,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1967,
@@ -35530,17 +35530,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3711,
         ["kill_count"] = 8,
-        ["points"] = 8544.11,
+        ["points"] = 8544.36,
       },
       ["Festergut"] = {
         ["rank_raids"] = 558,
         ["kill_count"] = 7,
-        ["points"] = 9600.55,
+        ["points"] = 9600.69,
       },
       ["Rotface"] = {
         ["rank_raids"] = 411,
         ["kill_count"] = 7,
-        ["points"] = 9684.63,
+        ["points"] = 9684.68,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1981,
@@ -35577,7 +35577,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 7318,
         ["kill_count"] = 10,
-        ["points"] = 7478.6,
+        ["points"] = 7479.48,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6324,
@@ -35587,7 +35587,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 505,
         ["kill_count"] = 12,
-        ["points"] = 9650.24,
+        ["points"] = 9650.3,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3167,
@@ -35597,7 +35597,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2996,
         ["kill_count"] = 9,
-        ["points"] = 8747.18,
+        ["points"] = 8747.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1875,
@@ -35634,7 +35634,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5464,
         ["kill_count"] = 12,
-        ["points"] = 7981.83,
+        ["points"] = 7982.53,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6504,
@@ -35644,7 +35644,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 944,
         ["kill_count"] = 13,
-        ["points"] = 9433.15,
+        ["points"] = 9433.25,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1432,
@@ -35654,7 +35654,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3194,
         ["kill_count"] = 13,
-        ["points"] = 8693.47,
+        ["points"] = 8693.69,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2864,
@@ -35691,7 +35691,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 80,
         ["kill_count"] = 3,
-        ["points"] = 9937.1,
+        ["points"] = 9937.12,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1014,
@@ -35701,17 +35701,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2424,
         ["kill_count"] = 3,
-        ["points"] = 8888.7,
+        ["points"] = 8888.89,
       },
       ["Festergut"] = {
         ["rank_raids"] = 490,
         ["kill_count"] = 2,
-        ["points"] = 9642.05,
+        ["points"] = 9642.18,
       },
       ["Rotface"] = {
         ["rank_raids"] = 5404,
         ["kill_count"] = 3,
-        ["points"] = 8099.12,
+        ["points"] = 8099.45,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7025,
@@ -35729,9 +35729,9 @@ UWULogsData[1][2] = {
         ["points"] = 8216.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4960,
+        ["rank_raids"] = 4961,
         ["kill_count"] = 2,
-        ["points"] = 8063.0,
+        ["points"] = 8062.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4623,
@@ -35748,7 +35748,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6539,
         ["kill_count"] = 2,
-        ["points"] = 7667.31,
+        ["points"] = 7668.12,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4439,
@@ -35758,7 +35758,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3353,
         ["kill_count"] = 2,
-        ["points"] = 8630.25,
+        ["points"] = 8630.49,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3036,
@@ -35768,7 +35768,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 284,
         ["kill_count"] = 2,
-        ["points"] = 9769.54,
+        ["points"] = 9769.58,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5886,
@@ -35805,7 +35805,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5093,
         ["kill_count"] = 27,
-        ["points"] = 8095.4,
+        ["points"] = 8096.07,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2158,
@@ -35815,7 +35815,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2101,
         ["kill_count"] = 27,
-        ["points"] = 9007.58,
+        ["points"] = 9007.75,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2649,
@@ -35825,7 +35825,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5631,
         ["kill_count"] = 27,
-        ["points"] = 8038.47,
+        ["points"] = 8038.81,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1234,
@@ -35843,9 +35843,9 @@ UWULogsData[1][2] = {
         ["points"] = 8629.4,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5216,
+        ["rank_raids"] = 5217,
         ["kill_count"] = 21,
-        ["points"] = 7986.2,
+        ["points"] = 7985.9,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1770,
@@ -35855,14 +35855,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Snopdog"] = {
-    ["percentile"] = 86.3,
+    ["percentile"] = 86.31,
     ["server"] = "Icecrown",
     ["overall_rank"] = 631,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2789,
         ["kill_count"] = 22,
-        ["points"] = 8769.88,
+        ["points"] = 8770.31,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2417,
@@ -35870,9 +35870,9 @@ UWULogsData[1][2] = {
         ["points"] = 8825.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6441,
+        ["rank_raids"] = 6442,
         ["kill_count"] = 22,
-        ["points"] = 7854.93,
+        ["points"] = 7855.3,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1474,
@@ -35882,7 +35882,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1164,
         ["kill_count"] = 22,
-        ["points"] = 9348.47,
+        ["points"] = 9348.58,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3250,
@@ -35919,7 +35919,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3743,
         ["kill_count"] = 12,
-        ["points"] = 8467.59,
+        ["points"] = 8468.12,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3281,
@@ -35929,7 +35929,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2118,
         ["kill_count"] = 20,
-        ["points"] = 9000.69,
+        ["points"] = 9000.86,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3540,
@@ -35939,7 +35939,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1891,
         ["kill_count"] = 17,
-        ["points"] = 9078.15,
+        ["points"] = 9078.31,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3004,
@@ -35976,7 +35976,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4524,
         ["kill_count"] = 15,
-        ["points"] = 8257.91,
+        ["points"] = 8258.52,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4042,
@@ -35986,7 +35986,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2128,
         ["kill_count"] = 15,
-        ["points"] = 8993.8,
+        ["points"] = 8993.97,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3667,
@@ -35996,7 +35996,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5105,
         ["kill_count"] = 14,
-        ["points"] = 8184.02,
+        ["points"] = 8184.34,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1088,
@@ -36014,9 +36014,9 @@ UWULogsData[1][2] = {
         ["points"] = 8606.3,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5974,
+        ["rank_raids"] = 5975,
         ["kill_count"] = 12,
-        ["points"] = 7758.8,
+        ["points"] = 7758.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2206,
@@ -36033,7 +36033,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3432,
         ["kill_count"] = 20,
-        ["points"] = 8568.93,
+        ["points"] = 8569.43,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5673,
@@ -36043,7 +36043,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 720,
         ["kill_count"] = 23,
-        ["points"] = 9538.25,
+        ["points"] = 9538.33,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1511,
@@ -36053,7 +36053,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2332,
         ["kill_count"] = 22,
-        ["points"] = 8927.4,
+        ["points"] = 8927.58,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5695,
@@ -36071,9 +36071,9 @@ UWULogsData[1][2] = {
         ["points"] = 9421.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5085,
+        ["rank_raids"] = 5086,
         ["kill_count"] = 21,
-        ["points"] = 8025.5,
+        ["points"] = 8025.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4846,
@@ -36090,7 +36090,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3865,
         ["kill_count"] = 11,
-        ["points"] = 8427.4,
+        ["points"] = 8427.95,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2084,
@@ -36100,7 +36100,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2033,
         ["kill_count"] = 11,
-        ["points"] = 9028.26,
+        ["points"] = 9028.42,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3559,
@@ -36108,9 +36108,9 @@ UWULogsData[1][2] = {
         ["points"] = 8483.3,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7128,
+        ["rank_raids"] = 7129,
         ["kill_count"] = 11,
-        ["points"] = 7665.92,
+        ["points"] = 7666.32,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1976,
@@ -36147,7 +36147,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1260,
         ["kill_count"] = 14,
-        ["points"] = 9336.01,
+        ["points"] = 9336.24,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1684,
@@ -36157,7 +36157,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2754,
         ["kill_count"] = 13,
-        ["points"] = 8792.21,
+        ["points"] = 8792.42,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4879,
@@ -36165,9 +36165,9 @@ UWULogsData[1][2] = {
         ["points"] = 8087.3,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6059,
+        ["rank_raids"] = 6060,
         ["kill_count"] = 14,
-        ["points"] = 7920.64,
+        ["points"] = 7921.0,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4317,
@@ -36185,9 +36185,9 @@ UWULogsData[1][2] = {
         ["points"] = 8717.3,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6293,
+        ["rank_raids"] = 6294,
         ["kill_count"] = 10,
-        ["points"] = 7663.1,
+        ["points"] = 7662.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2657,
@@ -36204,7 +36204,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2669,
         ["kill_count"] = 5,
-        ["points"] = 8810.06,
+        ["points"] = 8810.48,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 8320,
@@ -36214,7 +36214,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3104,
         ["kill_count"] = 6,
-        ["points"] = 8704.34,
+        ["points"] = 8704.57,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1665,
@@ -36224,7 +36224,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 270,
         ["kill_count"] = 6,
-        ["points"] = 9781.67,
+        ["points"] = 9781.7,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5721,
@@ -36261,7 +36261,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1376,
         ["kill_count"] = 15,
-        ["points"] = 9292.33,
+        ["points"] = 9292.58,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 9556,
@@ -36269,19 +36269,19 @@ UWULogsData[1][2] = {
         ["points"] = 6684.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5376,
+        ["rank_raids"] = 5377,
         ["kill_count"] = 16,
-        ["points"] = 8130.6,
+        ["points"] = 8130.92,
       },
       ["Festergut"] = {
         ["rank_raids"] = 481,
         ["kill_count"] = 17,
-        ["points"] = 9648.97,
+        ["points"] = 9649.09,
       },
       ["Rotface"] = {
         ["rank_raids"] = 4513,
         ["kill_count"] = 17,
-        ["points"] = 8312.25,
+        ["points"] = 8312.54,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3120,
@@ -36318,7 +36318,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2679,
         ["kill_count"] = 6,
-        ["points"] = 8806.57,
+        ["points"] = 8806.99,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2061,
@@ -36328,17 +36328,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1801,
         ["kill_count"] = 6,
-        ["points"] = 9116.13,
+        ["points"] = 9116.28,
       },
       ["Festergut"] = {
         ["rank_raids"] = 885,
         ["kill_count"] = 6,
-        ["points"] = 9418.99,
+        ["points"] = 9419.19,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3360,
         ["kill_count"] = 6,
-        ["points"] = 8643.22,
+        ["points"] = 8643.45,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6840,
@@ -36356,9 +36356,9 @@ UWULogsData[1][2] = {
         ["points"] = 9161.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 7987,
+        ["rank_raids"] = 7988,
         ["kill_count"] = 6,
-        ["points"] = 7154.9,
+        ["points"] = 7154.6,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2585,
@@ -36375,7 +36375,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 934,
         ["kill_count"] = 3,
-        ["points"] = 9477.55,
+        ["points"] = 9477.73,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4486,
@@ -36383,9 +36383,9 @@ UWULogsData[1][2] = {
         ["points"] = 8205.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6414,
+        ["rank_raids"] = 6415,
         ["kill_count"] = 3,
-        ["points"] = 7860.1,
+        ["points"] = 7860.47,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3029,
@@ -36395,7 +36395,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1813,
         ["kill_count"] = 3,
-        ["points"] = 9118.0,
+        ["points"] = 9118.16,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2944,
@@ -36432,7 +36432,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 511,
         ["kill_count"] = 3,
-        ["points"] = 9678.49,
+        ["points"] = 9678.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2188,
@@ -36442,7 +36442,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1580,
         ["kill_count"] = 4,
-        ["points"] = 9191.94,
+        ["points"] = 9192.08,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1623,
@@ -36452,12 +36452,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 460,
         ["kill_count"] = 4,
-        ["points"] = 9663.84,
+        ["points"] = 9663.89,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 13423,
+        ["rank_raids"] = 13424,
         ["kill_count"] = 4,
-        ["points"] = 6208.7,
+        ["points"] = 6208.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 8711,
@@ -36489,7 +36489,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2247,
         ["kill_count"] = 4,
-        ["points"] = 8974.31,
+        ["points"] = 8974.67,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4706,
@@ -36497,9 +36497,9 @@ UWULogsData[1][2] = {
         ["points"] = 8139.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4551,
+        ["rank_raids"] = 4552,
         ["kill_count"] = 4,
-        ["points"] = 8320.12,
+        ["points"] = 8320.41,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1734,
@@ -36509,7 +36509,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2598,
         ["kill_count"] = 5,
-        ["points"] = 8839.02,
+        ["points"] = 8839.22,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3727,
@@ -36522,9 +36522,9 @@ UWULogsData[1][2] = {
         ["points"] = 9752.88,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 12343,
+        ["rank_raids"] = 12345,
         ["kill_count"] = 4,
-        ["points"] = 6316.7,
+        ["points"] = 6316.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1245,
@@ -36546,7 +36546,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3049,
         ["kill_count"] = 10,
-        ["points"] = 8694.74,
+        ["points"] = 8695.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3589,
@@ -36556,7 +36556,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 4185,
         ["kill_count"] = 9,
-        ["points"] = 8432.12,
+        ["points"] = 8432.39,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3722,
@@ -36566,7 +36566,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5624,
         ["kill_count"] = 10,
-        ["points"] = 8041.93,
+        ["points"] = 8042.27,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1632,
@@ -36596,14 +36596,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Paphy"] = {
-    ["percentile"] = 86.19,
+    ["percentile"] = 86.2,
     ["server"] = "Icecrown",
     ["overall_rank"] = 644,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1186,
         ["kill_count"] = 49,
-        ["points"] = 9367.46,
+        ["points"] = 9367.69,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1589,
@@ -36613,7 +36613,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2559,
         ["kill_count"] = 49,
-        ["points"] = 8850.79,
+        ["points"] = 8850.99,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2897,
@@ -36621,7 +36621,7 @@ UWULogsData[1][2] = {
         ["points"] = 8681.9,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9056,
+        ["rank_raids"] = 9057,
         ["kill_count"] = 46,
         ["points"] = 7409.46,
       },
@@ -36660,7 +36660,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1808,
         ["kill_count"] = 1,
-        ["points"] = 9128.08,
+        ["points"] = 9128.38,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 11417,
@@ -36670,7 +36670,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 175,
         ["kill_count"] = 1,
-        ["points"] = 9848.38,
+        ["points"] = 9848.41,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3969,
@@ -36680,7 +36680,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2234,
         ["kill_count"] = 1,
-        ["points"] = 8948.19,
+        ["points"] = 8948.37,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4475,
@@ -36698,9 +36698,9 @@ UWULogsData[1][2] = {
         ["points"] = 9874.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 8455,
+        ["rank_raids"] = 8456,
         ["kill_count"] = 1,
-        ["points"] = 7014.5,
+        ["points"] = 7014.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 908,
@@ -36717,7 +36717,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2638,
         ["kill_count"] = 6,
-        ["points"] = 8817.05,
+        ["points"] = 8817.47,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4557,
@@ -36727,7 +36727,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 550,
         ["kill_count"] = 6,
-        ["points"] = 9626.12,
+        ["points"] = 9626.18,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3430,
@@ -36735,9 +36735,9 @@ UWULogsData[1][2] = {
         ["points"] = 8522.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5999,
+        ["rank_raids"] = 6000,
         ["kill_count"] = 7,
-        ["points"] = 7937.97,
+        ["points"] = 7938.32,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4937,
@@ -36774,7 +36774,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5034,
         ["kill_count"] = 16,
-        ["points"] = 8109.38,
+        ["points"] = 8110.04,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 8600,
@@ -36784,7 +36784,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2612,
         ["kill_count"] = 17,
-        ["points"] = 8833.56,
+        ["points"] = 8833.76,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4248,
@@ -36794,7 +36794,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 882,
         ["kill_count"] = 17,
-        ["points"] = 9464.56,
+        ["points"] = 9464.66,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3406,
@@ -36831,7 +36831,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2956,
         ["kill_count"] = 20,
-        ["points"] = 8724.45,
+        ["points"] = 8724.89,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5776,
@@ -36841,7 +36841,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1502,
         ["kill_count"] = 21,
-        ["points"] = 9226.4,
+        ["points"] = 9226.53,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3587,
@@ -36851,7 +36851,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 951,
         ["kill_count"] = 21,
-        ["points"] = 9440.3,
+        ["points"] = 9440.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4413,
@@ -36869,9 +36869,9 @@ UWULogsData[1][2] = {
         ["points"] = 9360.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5346,
+        ["rank_raids"] = 5347,
         ["kill_count"] = 16,
-        ["points"] = 7947.2,
+        ["points"] = 7946.9,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2557,
@@ -36888,7 +36888,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3229,
         ["kill_count"] = 10,
-        ["points"] = 8635.33,
+        ["points"] = 8635.81,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2444,
@@ -36898,7 +36898,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1491,
         ["kill_count"] = 10,
-        ["points"] = 9233.29,
+        ["points"] = 9233.42,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3889,
@@ -36908,7 +36908,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3640,
         ["kill_count"] = 9,
-        ["points"] = 8558.31,
+        ["points"] = 8558.56,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6540,
@@ -36945,7 +36945,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 791,
         ["kill_count"] = 2,
-        ["points"] = 9538.7,
+        ["points"] = 9538.86,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4626,
@@ -36953,9 +36953,9 @@ UWULogsData[1][2] = {
         ["points"] = 8163.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7956,
+        ["rank_raids"] = 7957,
         ["kill_count"] = 2,
-        ["points"] = 7539.63,
+        ["points"] = 7540.05,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2928,
@@ -36965,7 +36965,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2620,
         ["kill_count"] = 1,
-        ["points"] = 8826.89,
+        ["points"] = 8827.1,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 188,
@@ -37002,7 +37002,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6309,
         ["kill_count"] = 6,
-        ["points"] = 7730.21,
+        ["points"] = 7731.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2137,
@@ -37010,9 +37010,9 @@ UWULogsData[1][2] = {
         ["points"] = 8909.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6516,
+        ["rank_raids"] = 6517,
         ["kill_count"] = 9,
-        ["points"] = 7841.14,
+        ["points"] = 7841.52,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3702,
@@ -37022,7 +37022,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3365,
         ["kill_count"] = 9,
-        ["points"] = 8639.75,
+        ["points"] = 8639.99,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1163,
@@ -37059,7 +37059,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6199,
         ["kill_count"] = 7,
-        ["points"] = 7770.4,
+        ["points"] = 7771.18,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3249,
@@ -37069,17 +37069,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 827,
         ["kill_count"] = 9,
-        ["points"] = 9491.73,
+        ["points"] = 9491.82,
       },
       ["Festergut"] = {
         ["rank_raids"] = 820,
         ["kill_count"] = 9,
-        ["points"] = 9463.95,
+        ["points"] = 9464.13,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1412,
         ["kill_count"] = 9,
-        ["points"] = 9254.9,
+        ["points"] = 9255.02,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2886,
@@ -37097,9 +37097,9 @@ UWULogsData[1][2] = {
         ["points"] = 8846.3,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 8360,
+        ["rank_raids"] = 8361,
         ["kill_count"] = 8,
-        ["points"] = 7043.0,
+        ["points"] = 7042.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2280,
@@ -37116,7 +37116,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3407,
         ["kill_count"] = 7,
-        ["points"] = 8577.67,
+        ["points"] = 8578.17,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3513,
@@ -37124,9 +37124,9 @@ UWULogsData[1][2] = {
         ["points"] = 8497.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5101,
+        ["rank_raids"] = 5102,
         ["kill_count"] = 8,
-        ["points"] = 8192.63,
+        ["points"] = 8192.94,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4013,
@@ -37136,7 +37136,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4707,
         ["kill_count"] = 7,
-        ["points"] = 8277.59,
+        ["points"] = 8277.89,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4039,
@@ -37173,7 +37173,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4057,
         ["kill_count"] = 7,
-        ["points"] = 8366.24,
+        ["points"] = 8366.81,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1121,
@@ -37181,9 +37181,9 @@ UWULogsData[1][2] = {
         ["points"] = 9302.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4870,
+        ["rank_raids"] = 4871,
         ["kill_count"] = 7,
-        ["points"] = 8252.93,
+        ["points"] = 8253.23,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4755,
@@ -37193,7 +37193,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1310,
         ["kill_count"] = 5,
-        ["points"] = 9296.48,
+        ["points"] = 9296.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7283,
@@ -37230,7 +37230,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4232,
         ["kill_count"] = 13,
-        ["points"] = 8322.56,
+        ["points"] = 8323.14,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 7866,
@@ -37238,9 +37238,9 @@ UWULogsData[1][2] = {
         ["points"] = 7191.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5113,
+        ["rank_raids"] = 5114,
         ["kill_count"] = 13,
-        ["points"] = 8190.9,
+        ["points"] = 8191.21,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2092,
@@ -37250,7 +37250,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 784,
         ["kill_count"] = 14,
-        ["points"] = 9513.08,
+        ["points"] = 9513.17,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4963,
@@ -37287,7 +37287,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6267,
         ["kill_count"] = 6,
-        ["points"] = 7751.18,
+        ["points"] = 7751.97,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1350,
@@ -37297,7 +37297,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 420,
         ["kill_count"] = 6,
-        ["points"] = 9700.21,
+        ["points"] = 9700.26,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1484,
@@ -37307,7 +37307,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2000,
         ["kill_count"] = 6,
-        ["points"] = 9043.49,
+        ["points"] = 9043.66,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4271,
@@ -37325,9 +37325,9 @@ UWULogsData[1][2] = {
         ["points"] = 7968.2,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5639,
+        ["rank_raids"] = 5640,
         ["kill_count"] = 3,
-        ["points"] = 7859.3,
+        ["points"] = 7859.0,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 5789,
@@ -37344,7 +37344,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1576,
         ["kill_count"] = 12,
-        ["points"] = 9220.69,
+        ["points"] = 9220.96,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1736,
@@ -37354,7 +37354,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3235,
         ["kill_count"] = 12,
-        ["points"] = 8661.27,
+        ["points"] = 8661.5,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3014,
@@ -37362,9 +37362,9 @@ UWULogsData[1][2] = {
         ["points"] = 8646.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6668,
+        ["rank_raids"] = 6669,
         ["kill_count"] = 12,
-        ["points"] = 7780.28,
+        ["points"] = 7780.67,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2696,
@@ -37401,7 +37401,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3668,
         ["kill_count"] = 5,
-        ["points"] = 8486.81,
+        ["points"] = 8487.34,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3327,
@@ -37409,24 +37409,24 @@ UWULogsData[1][2] = {
         ["points"] = 8552.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4432,
+        ["rank_raids"] = 4433,
         ["kill_count"] = 6,
-        ["points"] = 8354.58,
+        ["points"] = 8354.87,
       },
       ["Festergut"] = {
         ["rank_raids"] = 564,
         ["kill_count"] = 6,
-        ["points"] = 9593.64,
+        ["points"] = 9593.78,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3984,
         ["kill_count"] = 6,
-        ["points"] = 8459.54,
+        ["points"] = 8459.81,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9335,
+        ["rank_raids"] = 9336,
         ["kill_count"] = 5,
-        ["points"] = 6750.5,
+        ["points"] = 6750.2,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2155,
@@ -37458,7 +37458,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2391,
         ["kill_count"] = 16,
-        ["points"] = 8916.65,
+        ["points"] = 8917.03,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2856,
@@ -37468,7 +37468,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3500,
         ["kill_count"] = 16,
-        ["points"] = 8595.8,
+        ["points"] = 8596.04,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3203,
@@ -37476,7 +37476,7 @@ UWULogsData[1][2] = {
         ["points"] = 8590.1,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8565,
+        ["rank_raids"] = 8566,
         ["kill_count"] = 16,
         ["points"] = 7448.79,
       },
@@ -37508,14 +37508,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Kringming"] = {
-    ["percentile"] = 85.89,
+    ["percentile"] = 85.9,
     ["server"] = "Icecrown",
     ["overall_rank"] = 660,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3068,
         ["kill_count"] = 6,
-        ["points"] = 8687.75,
+        ["points"] = 8688.21,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2782,
@@ -37525,7 +37525,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1199,
         ["kill_count"] = 6,
-        ["points"] = 9333.22,
+        ["points"] = 9333.33,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2910,
@@ -37535,7 +37535,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1871,
         ["kill_count"] = 5,
-        ["points"] = 9088.55,
+        ["points"] = 9088.7,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6572,
@@ -37572,7 +37572,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1701,
         ["kill_count"] = 27,
-        ["points"] = 9171.76,
+        ["points"] = 9172.05,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5889,
@@ -37582,7 +37582,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2210,
         ["kill_count"] = 29,
-        ["points"] = 8962.78,
+        ["points"] = 8962.96,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2742,
@@ -37592,7 +37592,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 989,
         ["kill_count"] = 28,
-        ["points"] = 9426.44,
+        ["points"] = 9426.54,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7171,
@@ -37629,7 +37629,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1641,
         ["kill_count"] = 23,
-        ["points"] = 9196.23,
+        ["points"] = 9196.51,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4783,
@@ -37637,19 +37637,19 @@ UWULogsData[1][2] = {
         ["points"] = 8116.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4300,
+        ["rank_raids"] = 4301,
         ["kill_count"] = 23,
-        ["points"] = 8395.93,
+        ["points"] = 8396.21,
       },
       ["Festergut"] = {
         ["rank_raids"] = 7983,
         ["kill_count"] = 23,
-        ["points"] = 7368.15,
+        ["points"] = 7369.06,
       },
       ["Rotface"] = {
         ["rank_raids"] = 5655,
         ["kill_count"] = 23,
-        ["points"] = 8031.54,
+        ["points"] = 8031.88,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2147,
@@ -37686,7 +37686,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 8768,
         ["kill_count"] = 7,
-        ["points"] = 7111.65,
+        ["points"] = 7112.66,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4172,
@@ -37696,17 +37696,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1716,
         ["kill_count"] = 8,
-        ["points"] = 9148.86,
+        ["points"] = 9149.01,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5236,
         ["kill_count"] = 8,
-        ["points"] = 7980.29,
+        ["points"] = 7980.99,
       },
       ["Rotface"] = {
         ["rank_raids"] = 4182,
         ["kill_count"] = 8,
-        ["points"] = 8402.36,
+        ["points"] = 8402.63,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2016,
@@ -37743,7 +37743,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 233,
         ["kill_count"] = 10,
-        ["points"] = 9834.0,
+        ["points"] = 9834.06,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5929,
@@ -37753,17 +37753,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3897,
         ["kill_count"] = 11,
-        ["points"] = 8495.86,
+        ["points"] = 8496.12,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1354,
         ["kill_count"] = 11,
-        ["points"] = 9211.48,
+        ["points"] = 9211.75,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6000,
+        ["rank_raids"] = 6001,
         ["kill_count"] = 11,
-        ["points"] = 7936.23,
+        ["points"] = 7936.59,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2341,
@@ -37781,9 +37781,9 @@ UWULogsData[1][2] = {
         ["points"] = 7763.3,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5928,
+        ["rank_raids"] = 5929,
         ["kill_count"] = 8,
-        ["points"] = 7772.6,
+        ["points"] = 7772.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 3341,
@@ -37800,7 +37800,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 10250,
         ["kill_count"] = 14,
-        ["points"] = 6776.17,
+        ["points"] = 6777.29,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2699,
@@ -37810,17 +37810,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1573,
         ["kill_count"] = 17,
-        ["points"] = 9195.38,
+        ["points"] = 9195.52,
       },
       ["Festergut"] = {
         ["rank_raids"] = 148,
         ["kill_count"] = 18,
-        ["points"] = 9868.58,
+        ["points"] = 9868.63,
       },
       ["Rotface"] = {
         ["rank_raids"] = 424,
         ["kill_count"] = 18,
-        ["points"] = 9675.97,
+        ["points"] = 9676.02,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5424,
@@ -37857,7 +37857,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2835,
         ["kill_count"] = 1,
-        ["points"] = 8754.15,
+        ["points"] = 8754.59,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2865,
@@ -37867,17 +37867,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1093,
         ["kill_count"] = 1,
-        ["points"] = 9383.18,
+        ["points"] = 9383.29,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 16943,
+        ["rank_raids"] = 16944,
         ["kill_count"] = 1,
         ["points"] = 6590.78,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2248,
         ["kill_count"] = 1,
-        ["points"] = 8944.72,
+        ["points"] = 8944.91,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 336,
@@ -37914,7 +37914,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 9077,
         ["kill_count"] = 3,
-        ["points"] = 7022.54,
+        ["points"] = 7023.58,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4152,
@@ -37924,7 +37924,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2375,
         ["kill_count"] = 4,
-        ["points"] = 8904.2,
+        ["points"] = 8904.39,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3012,
@@ -37932,7 +37932,7 @@ UWULogsData[1][2] = {
         ["points"] = 8647.4,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9047,
+        ["rank_raids"] = 9048,
         ["kill_count"] = 4,
         ["points"] = 7409.94,
       },
@@ -37971,7 +37971,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1739,
         ["kill_count"] = 9,
-        ["points"] = 9161.28,
+        ["points"] = 9161.57,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6191,
@@ -37981,7 +37981,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2998,
         ["kill_count"] = 10,
-        ["points"] = 8726.74,
+        ["points"] = 8726.96,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2191,
@@ -37991,7 +37991,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 513,
         ["kill_count"] = 10,
-        ["points"] = 9646.51,
+        ["points"] = 9646.57,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1389,
@@ -38009,9 +38009,9 @@ UWULogsData[1][2] = {
         ["points"] = 8921.3,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5096,
+        ["rank_raids"] = 5097,
         ["kill_count"] = 5,
-        ["points"] = 8022.2,
+        ["points"] = 8021.9,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 7351,
@@ -38028,7 +38028,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 7430,
         ["kill_count"] = 6,
-        ["points"] = 7450.64,
+        ["points"] = 7451.53,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4342,
@@ -38038,17 +38038,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 391,
         ["kill_count"] = 7,
-        ["points"] = 9712.27,
+        ["points"] = 9712.32,
       },
       ["Festergut"] = {
         ["rank_raids"] = 322,
         ["kill_count"] = 7,
-        ["points"] = 9738.89,
+        ["points"] = 9738.98,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1857,
         ["kill_count"] = 7,
-        ["points"] = 9095.48,
+        ["points"] = 9095.63,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6377,
@@ -38085,7 +38085,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3875,
         ["kill_count"] = 10,
-        ["points"] = 8425.65,
+        ["points"] = 8426.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 7446,
@@ -38095,7 +38095,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 4181,
         ["kill_count"] = 10,
-        ["points"] = 8433.84,
+        ["points"] = 8434.11,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1827,
@@ -38105,7 +38105,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4323,
         ["kill_count"] = 9,
-        ["points"] = 8362.5,
+        ["points"] = 8362.79,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1065,
@@ -38135,14 +38135,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Iluminatdud"] = {
-    ["percentile"] = 85.69,
+    ["percentile"] = 85.7,
     ["server"] = "Icecrown",
     ["overall_rank"] = 671,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3841,
         ["kill_count"] = 2,
-        ["points"] = 8436.13,
+        ["points"] = 8436.68,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5509,
@@ -38150,19 +38150,19 @@ UWULogsData[1][2] = {
         ["points"] = 7898.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5239,
+        ["rank_raids"] = 5240,
         ["kill_count"] = 1,
-        ["points"] = 8165.06,
+        ["points"] = 8165.37,
       },
       ["Festergut"] = {
         ["rank_raids"] = 7088,
         ["kill_count"] = 1,
-        ["points"] = 7558.36,
+        ["points"] = 7559.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6380,
+        ["rank_raids"] = 6381,
         ["kill_count"] = 1,
-        ["points"] = 7835.73,
+        ["points"] = 7836.11,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2507,
@@ -38199,7 +38199,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4990,
         ["kill_count"] = 1,
-        ["points"] = 8125.11,
+        ["points"] = 8125.76,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 10059,
@@ -38207,19 +38207,19 @@ UWULogsData[1][2] = {
         ["points"] = 6545.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5490,
+        ["rank_raids"] = 5491,
         ["kill_count"] = 1,
-        ["points"] = 8085.8,
+        ["points"] = 8086.13,
       },
       ["Festergut"] = {
         ["rank_raids"] = 68,
         ["kill_count"] = 1,
-        ["points"] = 9944.67,
+        ["points"] = 9944.68,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1273,
         ["kill_count"] = 1,
-        ["points"] = 9308.61,
+        ["points"] = 9308.73,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2288,
@@ -38237,9 +38237,9 @@ UWULogsData[1][2] = {
         ["points"] = 9918.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 7953,
+        ["rank_raids"] = 7954,
         ["kill_count"] = 1,
-        ["points"] = 7165.1,
+        ["points"] = 7164.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2218,
@@ -38256,7 +38256,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5638,
         ["kill_count"] = 12,
-        ["points"] = 7918.92,
+        ["points"] = 7919.65,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1432,
@@ -38266,7 +38266,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2012,
         ["kill_count"] = 13,
-        ["points"] = 9040.32,
+        ["points"] = 9040.48,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1988,
@@ -38276,7 +38276,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3992,
         ["kill_count"] = 13,
-        ["points"] = 8456.07,
+        ["points"] = 8456.34,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3861,
@@ -38313,7 +38313,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5142,
         ["kill_count"] = 11,
-        ["points"] = 8083.17,
+        ["points"] = 8083.84,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4826,
@@ -38323,7 +38323,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1963,
         ["kill_count"] = 11,
-        ["points"] = 9060.99,
+        ["points"] = 9061.15,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4872,
@@ -38333,7 +38333,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 325,
         ["kill_count"] = 9,
-        ["points"] = 9740.08,
+        ["points"] = 9740.12,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6804,
@@ -38370,7 +38370,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2081,
         ["kill_count"] = 5,
-        ["points"] = 9031.98,
+        ["points"] = 9032.31,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 564,
@@ -38378,7 +38378,7 @@ UWULogsData[1][2] = {
         ["points"] = 9569.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9108,
+        ["rank_raids"] = 9109,
         ["kill_count"] = 5,
         ["points"] = 7341.2,
       },
@@ -38388,7 +38388,7 @@ UWULogsData[1][2] = {
         ["points"] = 8643.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9630,
+        ["rank_raids"] = 9631,
         ["kill_count"] = 5,
         ["points"] = 7358.95,
       },
@@ -38427,7 +38427,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1042,
         ["kill_count"] = 16,
-        ["points"] = 9419.88,
+        ["points"] = 9420.09,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 507,
@@ -38437,7 +38437,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3237,
         ["kill_count"] = 17,
-        ["points"] = 8659.55,
+        ["points"] = 8659.78,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1627,
@@ -38447,7 +38447,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5931,
         ["kill_count"] = 17,
-        ["points"] = 7963.96,
+        ["points"] = 7964.31,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1219,
@@ -38460,14 +38460,14 @@ UWULogsData[1][2] = {
         ["points"] = 9668.68,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 12401,
+        ["rank_raids"] = 12403,
         ["kill_count"] = 14,
-        ["points"] = 6310.9,
+        ["points"] = 6310.7,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 8114,
+        ["rank_raids"] = 8115,
         ["kill_count"] = 10,
-        ["points"] = 7116.8,
+        ["points"] = 7116.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 3531,
@@ -38484,7 +38484,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3280,
         ["kill_count"] = 20,
-        ["points"] = 8621.35,
+        ["points"] = 8621.83,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1625,
@@ -38494,17 +38494,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2315,
         ["kill_count"] = 21,
-        ["points"] = 8930.05,
+        ["points"] = 8930.23,
       },
       ["Festergut"] = {
         ["rank_raids"] = 451,
         ["kill_count"] = 20,
-        ["points"] = 9662.8,
+        ["points"] = 9662.92,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2595,
         ["kill_count"] = 20,
-        ["points"] = 8842.49,
+        ["points"] = 8842.69,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6838,
@@ -38541,7 +38541,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3540,
         ["kill_count"] = 9,
-        ["points"] = 8530.49,
+        ["points"] = 8531.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4434,
@@ -38549,19 +38549,19 @@ UWULogsData[1][2] = {
         ["points"] = 8220.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5828,
+        ["rank_raids"] = 5829,
         ["kill_count"] = 9,
-        ["points"] = 8006.55,
+        ["points"] = 8006.89,
       },
       ["Festergut"] = {
         ["rank_raids"] = 801,
         ["kill_count"] = 9,
-        ["points"] = 9474.32,
+        ["points"] = 9474.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6335,
+        ["rank_raids"] = 6336,
         ["kill_count"] = 9,
-        ["points"] = 7846.13,
+        ["points"] = 7846.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1653,
@@ -38579,9 +38579,9 @@ UWULogsData[1][2] = {
         ["points"] = 9803.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6509,
+        ["rank_raids"] = 6510,
         ["kill_count"] = 11,
-        ["points"] = 7598.3,
+        ["points"] = 7598.0,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4121,
@@ -38598,7 +38598,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3569,
         ["kill_count"] = 4,
-        ["points"] = 8520.01,
+        ["points"] = 8520.52,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2677,
@@ -38608,7 +38608,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2876,
         ["kill_count"] = 4,
-        ["points"] = 8757.75,
+        ["points"] = 8757.97,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4018,
@@ -38618,7 +38618,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4726,
         ["kill_count"] = 5,
-        ["points"] = 8270.66,
+        ["points"] = 8270.96,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3342,
@@ -38655,7 +38655,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2251,
         ["kill_count"] = 4,
-        ["points"] = 8969.07,
+        ["points"] = 8969.43,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3639,
@@ -38665,7 +38665,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2805,
         ["kill_count"] = 5,
-        ["points"] = 8780.15,
+        ["points"] = 8780.36,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1276,
@@ -38675,7 +38675,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5154,
         ["kill_count"] = 5,
-        ["points"] = 8164.96,
+        ["points"] = 8165.28,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5838,
@@ -38693,9 +38693,9 @@ UWULogsData[1][2] = {
         ["points"] = 9619.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4795,
+        ["rank_raids"] = 4796,
         ["kill_count"] = 7,
-        ["points"] = 8112.5,
+        ["points"] = 8112.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 3438,
@@ -38712,7 +38712,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2094,
         ["kill_count"] = 7,
-        ["points"] = 9028.48,
+        ["points"] = 9028.82,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2292,
@@ -38720,19 +38720,19 @@ UWULogsData[1][2] = {
         ["points"] = 8863.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6509,
+        ["rank_raids"] = 6510,
         ["kill_count"] = 8,
-        ["points"] = 7844.59,
+        ["points"] = 7844.96,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1020,
         ["kill_count"] = 8,
-        ["points"] = 9348.09,
+        ["points"] = 9348.31,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6304,
+        ["rank_raids"] = 6305,
         ["kill_count"] = 8,
-        ["points"] = 7859.99,
+        ["points"] = 7860.36,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3703,
@@ -38769,7 +38769,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5076,
         ["kill_count"] = 5,
-        ["points"] = 8098.9,
+        ["points"] = 8099.56,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3055,
@@ -38779,7 +38779,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 252,
         ["kill_count"] = 5,
-        ["points"] = 9798.41,
+        ["points"] = 9798.45,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1729,
@@ -38789,7 +38789,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5456,
         ["kill_count"] = 5,
-        ["points"] = 8090.45,
+        ["points"] = 8090.78,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4710,
@@ -38807,9 +38807,9 @@ UWULogsData[1][2] = {
         ["points"] = 7224.5,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5882,
+        ["rank_raids"] = 5883,
         ["kill_count"] = 5,
-        ["points"] = 7786.4,
+        ["points"] = 7786.1,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1736,
@@ -38826,7 +38826,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1076,
         ["kill_count"] = 18,
-        ["points"] = 9409.4,
+        ["points"] = 9409.61,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 13588,
@@ -38836,22 +38836,22 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1896,
         ["kill_count"] = 20,
-        ["points"] = 9090.28,
+        ["points"] = 9090.44,
       },
       ["Festergut"] = {
         ["rank_raids"] = 671,
         ["kill_count"] = 22,
-        ["points"] = 9540.03,
+        ["points"] = 9540.19,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3004,
         ["kill_count"] = 21,
-        ["points"] = 8745.45,
+        ["points"] = 8745.67,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 10461,
+        ["rank_raids"] = 10462,
         ["kill_count"] = 19,
-        ["points"] = 6504.9,
+        ["points"] = 6504.8,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2898,
@@ -38883,7 +38883,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1831,
         ["kill_count"] = 18,
-        ["points"] = 9115.85,
+        ["points"] = 9116.16,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4969,
@@ -38893,7 +38893,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3301,
         ["kill_count"] = 16,
-        ["points"] = 8645.76,
+        ["points"] = 8645.99,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3198,
@@ -38903,7 +38903,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1727,
         ["kill_count"] = 16,
-        ["points"] = 9140.53,
+        ["points"] = 9140.68,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3070,
@@ -38921,9 +38921,9 @@ UWULogsData[1][2] = {
         ["points"] = 9563.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 7022,
+        ["rank_raids"] = 7023,
         ["kill_count"] = 7,
-        ["points"] = 7444.4,
+        ["points"] = 7444.1,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4643,
@@ -38940,7 +38940,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2037,
         ["kill_count"] = 10,
-        ["points"] = 9047.7,
+        ["points"] = 9048.03,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2404,
@@ -38948,9 +38948,9 @@ UWULogsData[1][2] = {
         ["points"] = 8829.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4439,
+        ["rank_raids"] = 4440,
         ["kill_count"] = 11,
-        ["points"] = 8352.86,
+        ["points"] = 8353.14,
       },
       ["Festergut"] = {
         ["rank_raids"] = 8871,
@@ -38960,7 +38960,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3197,
         ["kill_count"] = 9,
-        ["points"] = 8691.73,
+        ["points"] = 8691.96,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2008,
@@ -38997,7 +38997,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 798,
         ["kill_count"] = 43,
-        ["points"] = 9531.71,
+        ["points"] = 9531.88,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 9562,
@@ -39007,7 +39007,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1321,
         ["kill_count"] = 44,
-        ["points"] = 9286.7,
+        ["points"] = 9286.82,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4175,
@@ -39015,9 +39015,9 @@ UWULogsData[1][2] = {
         ["points"] = 8298.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7441,
+        ["rank_raids"] = 7442,
         ["kill_count"] = 43,
-        ["points"] = 7608.73,
+        ["points"] = 7609.15,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2514,
@@ -39054,7 +39054,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1019,
         ["kill_count"] = 16,
-        ["points"] = 9430.37,
+        ["points"] = 9430.57,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 654,
@@ -39064,7 +39064,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 4229,
         ["kill_count"] = 16,
-        ["points"] = 8411.44,
+        ["points"] = 8411.71,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2858,
@@ -39074,7 +39074,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2469,
         ["kill_count"] = 15,
-        ["points"] = 8885.81,
+        ["points"] = 8886.0,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4200,
@@ -39111,7 +39111,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3005,
         ["kill_count"] = 7,
-        ["points"] = 8706.97,
+        ["points"] = 8707.42,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6723,
@@ -39121,7 +39121,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3055,
         ["kill_count"] = 7,
-        ["points"] = 8709.51,
+        ["points"] = 8709.73,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1635,
@@ -39129,7 +39129,7 @@ UWULogsData[1][2] = {
         ["points"] = 9097.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8617,
+        ["rank_raids"] = 8618,
         ["kill_count"] = 7,
         ["points"] = 7444.5,
       },
@@ -39168,7 +39168,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3078,
         ["kill_count"] = 2,
-        ["points"] = 8684.26,
+        ["points"] = 8684.72,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5019,
@@ -39178,7 +39178,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3796,
         ["kill_count"] = 2,
-        ["points"] = 8526.88,
+        ["points"] = 8527.13,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3803,
@@ -39188,7 +39188,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2711,
         ["kill_count"] = 2,
-        ["points"] = 8809.57,
+        ["points"] = 8809.77,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 886,
@@ -39206,9 +39206,9 @@ UWULogsData[1][2] = {
         ["points"] = 8685.5,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4557,
+        ["rank_raids"] = 4558,
         ["kill_count"] = 2,
-        ["points"] = 8183.9,
+        ["points"] = 8183.6,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2955,
@@ -39225,7 +39225,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3052,
         ["kill_count"] = 8,
-        ["points"] = 8692.99,
+        ["points"] = 8693.45,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 8552,
@@ -39235,7 +39235,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2917,
         ["kill_count"] = 8,
-        ["points"] = 8747.42,
+        ["points"] = 8747.63,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1802,
@@ -39245,7 +39245,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1644,
         ["kill_count"] = 9,
-        ["points"] = 9169.99,
+        ["points"] = 9170.13,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5040,
@@ -39282,7 +39282,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6682,
         ["kill_count"] = 2,
-        ["points"] = 7644.59,
+        ["points"] = 7645.41,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2691,
@@ -39290,7 +39290,7 @@ UWULogsData[1][2] = {
         ["points"] = 8743.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10904,
+        ["rank_raids"] = 10905,
         ["kill_count"] = 2,
         ["points"] = 7195.7,
       },
@@ -39302,7 +39302,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4032,
         ["kill_count"] = 2,
-        ["points"] = 8437.01,
+        ["points"] = 8437.28,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2454,
@@ -39339,7 +39339,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4866,
         ["kill_count"] = 11,
-        ["points"] = 8168.79,
+        ["points"] = 8169.43,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1957,
@@ -39349,7 +39349,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2294,
         ["kill_count"] = 12,
-        ["points"] = 8938.66,
+        ["points"] = 8938.85,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3365,
@@ -39359,7 +39359,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3078,
         ["kill_count"] = 11,
-        ["points"] = 8717.73,
+        ["points"] = 8717.95,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2559,
@@ -39396,7 +39396,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6086,
         ["kill_count"] = 18,
-        ["points"] = 7801.85,
+        ["points"] = 7802.62,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1112,
@@ -39406,7 +39406,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3892,
         ["kill_count"] = 15,
-        ["points"] = 8499.31,
+        ["points"] = 8499.57,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4974,
@@ -39416,7 +39416,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3696,
         ["kill_count"] = 17,
-        ["points"] = 8539.25,
+        ["points"] = 8539.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2470,
@@ -39453,7 +39453,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6143,
         ["kill_count"] = 9,
-        ["points"] = 7789.62,
+        ["points"] = 7790.39,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2056,
@@ -39463,17 +39463,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1435,
         ["kill_count"] = 9,
-        ["points"] = 9255.69,
+        ["points"] = 9255.81,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1022,
         ["kill_count"] = 9,
-        ["points"] = 9344.63,
+        ["points"] = 9344.86,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1520,
         ["kill_count"] = 9,
-        ["points"] = 9211.58,
+        ["points"] = 9211.71,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3169,
@@ -39491,9 +39491,9 @@ UWULogsData[1][2] = {
         ["points"] = 9473.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 9915,
+        ["rank_raids"] = 9916,
         ["kill_count"] = 9,
-        ["points"] = 6576.5,
+        ["points"] = 6576.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 3199,
@@ -39503,14 +39503,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Ramonaz"] = {
-    ["percentile"] = 85.4,
+    ["percentile"] = 85.41,
     ["server"] = "Icecrown",
     ["overall_rank"] = 695,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2997,
         ["kill_count"] = 7,
-        ["points"] = 8710.47,
+        ["points"] = 8710.92,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6403,
@@ -39518,9 +39518,9 @@ UWULogsData[1][2] = {
         ["points"] = 7630.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4553,
+        ["rank_raids"] = 4554,
         ["kill_count"] = 8,
-        ["points"] = 8318.4,
+        ["points"] = 8318.69,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2029,
@@ -39530,7 +39530,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3568,
         ["kill_count"] = 7,
-        ["points"] = 8580.84,
+        ["points"] = 8581.08,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5374,
@@ -39567,7 +39567,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4714,
         ["kill_count"] = 18,
-        ["points"] = 8208.98,
+        ["points"] = 8209.61,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6978,
@@ -39577,17 +39577,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1625,
         ["kill_count"] = 19,
-        ["points"] = 9172.98,
+        ["points"] = 9173.13,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1159,
         ["kill_count"] = 19,
-        ["points"] = 9291.03,
+        ["points"] = 9291.27,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2435,
         ["kill_count"] = 19,
-        ["points"] = 8901.4,
+        ["points"] = 8901.59,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4151,
@@ -39624,7 +39624,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4967,
         ["kill_count"] = 6,
-        ["points"] = 8137.34,
+        ["points"] = 8137.99,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1499,
@@ -39632,9 +39632,9 @@ UWULogsData[1][2] = {
         ["points"] = 9151.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5157,
+        ["rank_raids"] = 5158,
         ["kill_count"] = 7,
-        ["points"] = 8184.01,
+        ["points"] = 8184.32,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4247,
@@ -39644,7 +39644,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3894,
         ["kill_count"] = 7,
-        ["points"] = 8482.07,
+        ["points"] = 8482.33,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5637,
@@ -39681,7 +39681,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6375,
         ["kill_count"] = 7,
-        ["points"] = 7710.99,
+        ["points"] = 7711.79,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1502,
@@ -39691,7 +39691,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 4224,
         ["kill_count"] = 7,
-        ["points"] = 8416.61,
+        ["points"] = 8416.88,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4002,
@@ -39701,7 +39701,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1017,
         ["kill_count"] = 6,
-        ["points"] = 9414.31,
+        ["points"] = 9414.41,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2527,
@@ -39738,7 +39738,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5037,
         ["kill_count"] = 1,
-        ["points"] = 8107.64,
+        ["points"] = 8108.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3529,
@@ -39748,7 +39748,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3888,
         ["kill_count"] = 2,
-        ["points"] = 8501.03,
+        ["points"] = 8501.29,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4939,
@@ -39758,7 +39758,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1819,
         ["kill_count"] = 2,
-        ["points"] = 9114.54,
+        ["points"] = 9114.69,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3616,
@@ -39795,7 +39795,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2187,
         ["kill_count"] = 7,
-        ["points"] = 8995.28,
+        ["points"] = 8995.63,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3777,
@@ -39805,7 +39805,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 599,
         ["kill_count"] = 7,
-        ["points"] = 9598.55,
+        ["points"] = 9598.62,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3965,
@@ -39815,7 +39815,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4706,
         ["kill_count"] = 6,
-        ["points"] = 8279.33,
+        ["points"] = 8279.63,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4834,
@@ -39852,7 +39852,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3704,
         ["kill_count"] = 6,
-        ["points"] = 8478.07,
+        ["points"] = 8478.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5011,
@@ -39862,7 +39862,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1214,
         ["kill_count"] = 6,
-        ["points"] = 9326.33,
+        ["points"] = 9326.44,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3204,
@@ -39872,7 +39872,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2062,
         ["kill_count"] = 6,
-        ["points"] = 9017.5,
+        ["points"] = 9017.67,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5396,
@@ -39909,7 +39909,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 767,
         ["kill_count"] = 12,
-        ["points"] = 9547.44,
+        ["points"] = 9547.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2457,
@@ -39919,7 +39919,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2409,
         ["kill_count"] = 15,
-        ["points"] = 8893.87,
+        ["points"] = 8894.06,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2792,
@@ -39929,7 +39929,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2285,
         ["kill_count"] = 13,
-        ["points"] = 8930.86,
+        ["points"] = 8931.05,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5173,
@@ -39947,9 +39947,9 @@ UWULogsData[1][2] = {
         ["points"] = 9104.2,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5023,
+        ["rank_raids"] = 5024,
         ["kill_count"] = 9,
-        ["points"] = 8044.1,
+        ["points"] = 8043.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 11096,
@@ -39966,7 +39966,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2137,
         ["kill_count"] = 7,
-        ["points"] = 9018.0,
+        ["points"] = 9018.34,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3335,
@@ -39974,9 +39974,9 @@ UWULogsData[1][2] = {
         ["points"] = 8550.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6575,
+        ["rank_raids"] = 6576,
         ["kill_count"] = 9,
-        ["points"] = 7825.64,
+        ["points"] = 7826.01,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4730,
@@ -39986,7 +39986,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2614,
         ["kill_count"] = 9,
-        ["points"] = 8832.09,
+        ["points"] = 8832.29,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2724,
@@ -40015,15 +40015,72 @@ UWULogsData[1][2] = {
       },
     },
   },
-  ["Yourlastnrv"] = {
-    ["percentile"] = 85.21,
+  ["Iilidari"] = {
+    ["percentile"] = 85.24,
     ["server"] = "Icecrown",
     ["overall_rank"] = 704,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
+        ["rank_raids"] = 2374,
+        ["kill_count"] = 42,
+        ["points"] = 8922.27,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 1086,
+        ["kill_count"] = 40,
+        ["points"] = 9316.6,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 3303,
+        ["kill_count"] = 42,
+        ["points"] = 8644.27,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 3957,
+        ["kill_count"] = 43,
+        ["points"] = 8363.9,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 2197,
+        ["kill_count"] = 43,
+        ["points"] = 8967.43,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 4807,
+        ["kill_count"] = 43,
+        ["points"] = 8108.9,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 3337,
+        ["kill_count"] = 44,
+        ["points"] = 8623.47,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 4762,
+        ["kill_count"] = 44,
+        ["points"] = 8122.4,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 4418,
+        ["kill_count"] = 44,
+        ["points"] = 8225.6,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 5577,
+        ["kill_count"] = 40,
+        ["points"] = 7877.9,
+      },
+    },
+  },
+  ["Yourlastnrv"] = {
+    ["percentile"] = 85.21,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 705,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
         ["rank_raids"] = 1327,
         ["kill_count"] = 2,
-        ["points"] = 9306.31,
+        ["points"] = 9306.55,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2827,
@@ -40033,17 +40090,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2292,
         ["kill_count"] = 2,
-        ["points"] = 8940.39,
+        ["points"] = 8940.57,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6694,
         ["kill_count"] = 2,
-        ["points"] = 7644.82,
+        ["points"] = 7645.64,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1232,
         ["kill_count"] = 2,
-        ["points"] = 9324.21,
+        ["points"] = 9324.32,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2541,
@@ -40075,12 +40132,12 @@ UWULogsData[1][2] = {
   ["Koscielny"] = {
     ["percentile"] = 85.19,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 705,
+    ["overall_rank"] = 706,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 914,
         ["kill_count"] = 4,
-        ["points"] = 9486.28,
+        ["points"] = 9486.46,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2582,
@@ -40088,9 +40145,9 @@ UWULogsData[1][2] = {
         ["points"] = 8776.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6177,
+        ["rank_raids"] = 6178,
         ["kill_count"] = 4,
-        ["points"] = 7932.46,
+        ["points"] = 7932.82,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2547,
@@ -40100,7 +40157,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3117,
         ["kill_count"] = 4,
-        ["points"] = 8707.33,
+        ["points"] = 8707.55,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4188,
@@ -40118,9 +40175,9 @@ UWULogsData[1][2] = {
         ["points"] = 7253.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6829,
+        ["rank_raids"] = 6830,
         ["kill_count"] = 3,
-        ["points"] = 7502.3,
+        ["points"] = 7502.0,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 995,
@@ -40132,12 +40189,12 @@ UWULogsData[1][2] = {
   ["Bobe"] = {
     ["percentile"] = 85.19,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 706,
+    ["overall_rank"] = 707,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1746,
         ["kill_count"] = 2,
-        ["points"] = 9156.04,
+        ["points"] = 9156.33,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5109,
@@ -40147,17 +40204,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3805,
         ["kill_count"] = 2,
-        ["points"] = 8525.16,
+        ["points"] = 8525.41,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6527,
         ["kill_count"] = 3,
-        ["points"] = 7670.76,
+        ["points"] = 7671.56,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2559,
         ["kill_count"] = 3,
-        ["points"] = 8854.62,
+        ["points"] = 8854.82,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6322,
@@ -40189,12 +40246,12 @@ UWULogsData[1][2] = {
   ["Klixxbait"] = {
     ["percentile"] = 85.17,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 707,
+    ["overall_rank"] = 708,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2466,
         ["kill_count"] = 16,
-        ["points"] = 8881.71,
+        ["points"] = 8882.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5193,
@@ -40204,7 +40261,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2156,
         ["kill_count"] = 16,
-        ["points"] = 8980.01,
+        ["points"] = 8980.19,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2417,
@@ -40214,7 +40271,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2520,
         ["kill_count"] = 16,
-        ["points"] = 8863.28,
+        ["points"] = 8863.48,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1588,
@@ -40246,12 +40303,12 @@ UWULogsData[1][2] = {
   ["Puoky"] = {
     ["percentile"] = 85.17,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 708,
+    ["overall_rank"] = 709,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 290,
         ["kill_count"] = 15,
-        ["points"] = 9809.54,
+        ["points"] = 9809.61,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 965,
@@ -40259,17 +40316,17 @@ UWULogsData[1][2] = {
         ["points"] = 9368.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9778,
+        ["rank_raids"] = 9779,
         ["kill_count"] = 15,
         ["points"] = 7286.01,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5339,
         ["kill_count"] = 15,
-        ["points"] = 7949.3,
+        ["points"] = 7949.87,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 11617,
+        ["rank_raids"] = 11618,
         ["kill_count"] = 15,
         ["points"] = 7180.91,
       },
@@ -40303,12 +40360,12 @@ UWULogsData[1][2] = {
   ["Yishenmao"] = {
     ["percentile"] = 82.03,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 709,
+    ["overall_rank"] = 710,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3601,
         ["kill_count"] = 28,
-        ["points"] = 8507.78,
+        ["points"] = 8508.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4712,
@@ -40318,7 +40375,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3335,
         ["kill_count"] = 32,
-        ["points"] = 8633.7,
+        ["points"] = 8633.94,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4382,
@@ -40328,7 +40385,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5761,
         ["kill_count"] = 27,
-        ["points"] = 8005.54,
+        ["points"] = 8005.89,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2139,
@@ -40358,14 +40415,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Haedrindudu"] = {
-    ["percentile"] = 85.13,
+    ["percentile"] = 85.14,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 710,
+    ["overall_rank"] = 711,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6117,
         ["kill_count"] = 6,
-        ["points"] = 7794.86,
+        ["points"] = 7795.63,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1579,
@@ -40375,7 +40432,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1141,
         ["kill_count"] = 8,
-        ["points"] = 9359.06,
+        ["points"] = 9359.17,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1983,
@@ -40385,7 +40442,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1647,
         ["kill_count"] = 8,
-        ["points"] = 9168.26,
+        ["points"] = 9168.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7203,
@@ -40403,9 +40460,9 @@ UWULogsData[1][2] = {
         ["points"] = 8310.5,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4574,
+        ["rank_raids"] = 4575,
         ["kill_count"] = 5,
-        ["points"] = 8178.8,
+        ["points"] = 8178.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 5166,
@@ -40417,12 +40474,12 @@ UWULogsData[1][2] = {
   ["Desttydogxd"] = {
     ["percentile"] = 85.12,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 711,
+    ["overall_rank"] = 712,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1319,
         ["kill_count"] = 19,
-        ["points"] = 9313.3,
+        ["points"] = 9313.54,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2933,
@@ -40432,17 +40489,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2573,
         ["kill_count"] = 20,
-        ["points"] = 8847.35,
+        ["points"] = 8847.55,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4852,
         ["kill_count"] = 20,
-        ["points"] = 8096.14,
+        ["points"] = 8096.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3639,
         ["kill_count"] = 20,
-        ["points"] = 8560.04,
+        ["points"] = 8560.29,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4978,
@@ -40474,12 +40531,12 @@ UWULogsData[1][2] = {
   ["Bencat"] = {
     ["percentile"] = 85.09,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 712,
+    ["overall_rank"] = 713,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2071,
         ["kill_count"] = 8,
-        ["points"] = 9035.47,
+        ["points"] = 9035.81,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6295,
@@ -40489,7 +40546,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2487,
         ["kill_count"] = 12,
-        ["points"] = 8871.47,
+        ["points"] = 8871.66,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2568,
@@ -40499,7 +40556,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2617,
         ["kill_count"] = 11,
-        ["points"] = 8830.36,
+        ["points"] = 8830.56,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7623,
@@ -40531,12 +40588,12 @@ UWULogsData[1][2] = {
   ["Goldenbaby"] = {
     ["percentile"] = 85.08,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 713,
+    ["overall_rank"] = 714,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6226,
         ["kill_count"] = 9,
-        ["points"] = 7754.67,
+        ["points"] = 7755.46,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5334,
@@ -40544,9 +40601,9 @@ UWULogsData[1][2] = {
         ["points"] = 7950.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5121,
+        ["rank_raids"] = 5122,
         ["kill_count"] = 9,
-        ["points"] = 8189.18,
+        ["points"] = 8189.49,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1962,
@@ -40556,7 +40613,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2128,
         ["kill_count"] = 9,
-        ["points"] = 8991.51,
+        ["points"] = 8991.68,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 846,
@@ -40585,63 +40642,6 @@ UWULogsData[1][2] = {
       },
     },
   },
-  ["Uwucow"] = {
-    ["percentile"] = 85.07,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 714,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 979,
-        ["kill_count"] = 4,
-        ["points"] = 9451.34,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 2078,
-        ["kill_count"] = 2,
-        ["points"] = 8927.6,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4308,
-        ["kill_count"] = 3,
-        ["points"] = 8390.76,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 594,
-        ["kill_count"] = 2,
-        ["points"] = 9579.8,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 4359,
-        ["kill_count"] = 2,
-        ["points"] = 8345.17,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 1517,
-        ["kill_count"] = 2,
-        ["points"] = 9144.2,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 1856,
-        ["kill_count"] = 2,
-        ["points"] = 9170.79,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8532,
-        ["kill_count"] = 2,
-        ["points"] = 6991.4,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 6305,
-        ["kill_count"] = 2,
-        ["points"] = 7659.5,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 7349,
-        ["kill_count"] = 1,
-        ["points"] = 7346.3,
-      },
-    },
-  },
   ["Lucidetox"] = {
     ["percentile"] = 85.07,
     ["server"] = "Icecrown",
@@ -40650,7 +40650,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4041,
         ["kill_count"] = 6,
-        ["points"] = 8369.74,
+        ["points"] = 8370.31,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 739,
@@ -40660,17 +40660,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 825,
         ["kill_count"] = 6,
-        ["points"] = 9495.18,
+        ["points"] = 9495.26,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5640,
         ["kill_count"] = 6,
-        ["points"] = 7879.99,
+        ["points"] = 7880.73,
       },
       ["Rotface"] = {
         ["rank_raids"] = 623,
         ["kill_count"] = 6,
-        ["points"] = 9582.39,
+        ["points"] = 9582.47,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6852,
@@ -40688,9 +40688,9 @@ UWULogsData[1][2] = {
         ["points"] = 9113.4,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 12467,
+        ["rank_raids"] = 12468,
         ["kill_count"] = 6,
-        ["points"] = 6304.3,
+        ["points"] = 6304.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1814,
@@ -40699,15 +40699,72 @@ UWULogsData[1][2] = {
       },
     },
   },
-  ["Jiangdabai"] = {
-    ["percentile"] = 85.04,
+  ["Uwucow"] = {
+    ["percentile"] = 85.07,
     ["server"] = "Icecrown",
     ["overall_rank"] = 716,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
+        ["rank_raids"] = 979,
+        ["kill_count"] = 4,
+        ["points"] = 9451.53,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 2078,
+        ["kill_count"] = 2,
+        ["points"] = 8927.6,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 4309,
+        ["kill_count"] = 3,
+        ["points"] = 8391.04,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 594,
+        ["kill_count"] = 2,
+        ["points"] = 9579.95,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 4359,
+        ["kill_count"] = 2,
+        ["points"] = 8345.46,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 1517,
+        ["kill_count"] = 2,
+        ["points"] = 9144.2,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 1856,
+        ["kill_count"] = 2,
+        ["points"] = 9170.79,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 8532,
+        ["kill_count"] = 2,
+        ["points"] = 6991.4,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 6306,
+        ["kill_count"] = 2,
+        ["points"] = 7659.2,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 7349,
+        ["kill_count"] = 1,
+        ["points"] = 7346.3,
+      },
+    },
+  },
+  ["Jiangdabai"] = {
+    ["percentile"] = 85.04,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 717,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
         ["rank_raids"] = 5392,
         ["kill_count"] = 24,
-        ["points"] = 8006.29,
+        ["points"] = 8006.99,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 7429,
@@ -40717,7 +40774,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 678,
         ["kill_count"] = 25,
-        ["points"] = 9553.76,
+        ["points"] = 9553.83,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1808,
@@ -40727,7 +40784,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1725,
         ["kill_count"] = 26,
-        ["points"] = 9142.26,
+        ["points"] = 9142.41,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2459,
@@ -40757,14 +40814,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Amorianara"] = {
-    ["percentile"] = 85.03,
+    ["percentile"] = 85.04,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 717,
+    ["overall_rank"] = 718,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2747,
         ["kill_count"] = 6,
-        ["points"] = 8785.6,
+        ["points"] = 8786.03,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1592,
@@ -40774,17 +40831,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2070,
         ["kill_count"] = 6,
-        ["points"] = 9014.47,
+        ["points"] = 9014.64,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5422,
         ["kill_count"] = 6,
-        ["points"] = 7933.6,
+        ["points"] = 7934.31,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2488,
         ["kill_count"] = 6,
-        ["points"] = 8877.14,
+        ["points"] = 8877.34,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2098,
@@ -40816,32 +40873,32 @@ UWULogsData[1][2] = {
   ["Shreia"] = {
     ["percentile"] = 85.0,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 718,
+    ["overall_rank"] = 719,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3732,
         ["kill_count"] = 11,
-        ["points"] = 8471.08,
+        ["points"] = 8471.62,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 16352,
+        ["rank_raids"] = 16353,
         ["kill_count"] = 2,
-        ["points"] = 5915.8,
+        ["points"] = 5915.7,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2340,
         ["kill_count"] = 13,
-        ["points"] = 8916.26,
+        ["points"] = 8916.45,
       },
       ["Festergut"] = {
         ["rank_raids"] = 800,
         ["kill_count"] = 13,
-        ["points"] = 9476.05,
+        ["points"] = 9476.23,
       },
       ["Rotface"] = {
         ["rank_raids"] = 931,
         ["kill_count"] = 13,
-        ["points"] = 9448.97,
+        ["points"] = 9449.06,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2488,
@@ -40864,21 +40921,21 @@ UWULogsData[1][2] = {
         ["points"] = 8875.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 19124,
+        ["rank_raids"] = 19125,
         ["kill_count"] = 1,
-        ["points"] = 5638.6,
+        ["points"] = 5638.5,
       },
     },
   },
   ["Bowanmeow"] = {
     ["percentile"] = 84.97,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 719,
+    ["overall_rank"] = 720,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 9035,
         ["kill_count"] = 20,
-        ["points"] = 7031.28,
+        ["points"] = 7032.31,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 798,
@@ -40888,7 +40945,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3321,
         ["kill_count"] = 20,
-        ["points"] = 8637.15,
+        ["points"] = 8637.38,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4299,
@@ -40898,7 +40955,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3772,
         ["kill_count"] = 20,
-        ["points"] = 8521.92,
+        ["points"] = 8522.18,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2765,
@@ -40927,63 +40984,6 @@ UWULogsData[1][2] = {
       },
     },
   },
-  ["Iilidari"] = {
-    ["percentile"] = 84.95,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 720,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2374,
-        ["kill_count"] = 41,
-        ["points"] = 8921.89,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 1086,
-        ["kill_count"] = 39,
-        ["points"] = 9316.6,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3303,
-        ["kill_count"] = 41,
-        ["points"] = 8644.04,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 3957,
-        ["kill_count"] = 42,
-        ["points"] = 8363.9,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 2197,
-        ["kill_count"] = 42,
-        ["points"] = 8967.25,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 4807,
-        ["kill_count"] = 42,
-        ["points"] = 8108.9,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 3337,
-        ["kill_count"] = 43,
-        ["points"] = 8623.47,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4762,
-        ["kill_count"] = 43,
-        ["points"] = 8122.4,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 5355,
-        ["kill_count"] = 43,
-        ["points"] = 7944.5,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 5577,
-        ["kill_count"] = 39,
-        ["points"] = 7877.9,
-      },
-    },
-  },
   ["Chibrax"] = {
     ["percentile"] = 84.95,
     ["server"] = "Icecrown",
@@ -40992,7 +40992,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3831,
         ["kill_count"] = 8,
-        ["points"] = 8441.38,
+        ["points"] = 8441.92,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3494,
@@ -41000,7 +41000,7 @@ UWULogsData[1][2] = {
         ["points"] = 8502.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8950,
+        ["rank_raids"] = 8951,
         ["kill_count"] = 8,
         ["points"] = 7353.94,
       },
@@ -41012,7 +41012,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4019,
         ["kill_count"] = 9,
-        ["points"] = 8443.94,
+        ["points"] = 8444.21,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1940,
@@ -41049,7 +41049,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4205,
         ["kill_count"] = 3,
-        ["points"] = 8334.79,
+        ["points"] = 8335.37,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 8205,
@@ -41059,7 +41059,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1791,
         ["kill_count"] = 3,
-        ["points"] = 9117.85,
+        ["points"] = 9118.0,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1736,
@@ -41069,7 +41069,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3449,
         ["kill_count"] = 5,
-        ["points"] = 8615.49,
+        ["points"] = 8615.73,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1785,
@@ -41106,7 +41106,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2817,
         ["kill_count"] = 17,
-        ["points"] = 8757.64,
+        ["points"] = 8758.08,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 835,
@@ -41114,7 +41114,7 @@ UWULogsData[1][2] = {
         ["points"] = 9433.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9560,
+        ["rank_raids"] = 9561,
         ["kill_count"] = 17,
         ["points"] = 7302.6,
       },
@@ -41124,7 +41124,7 @@ UWULogsData[1][2] = {
         ["points"] = 8742.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8314,
+        ["rank_raids"] = 8315,
         ["kill_count"] = 17,
         ["points"] = 7466.87,
       },
@@ -41163,7 +41163,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5322,
         ["kill_count"] = 15,
-        ["points"] = 8025.51,
+        ["points"] = 8026.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4301,
@@ -41173,7 +41173,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3154,
         ["kill_count"] = 14,
-        ["points"] = 8688.84,
+        ["points"] = 8689.06,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2036,
@@ -41183,7 +41183,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2050,
         ["kill_count"] = 15,
-        ["points"] = 9022.7,
+        ["points"] = 9022.87,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6857,
@@ -41201,9 +41201,9 @@ UWULogsData[1][2] = {
         ["points"] = 9731.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4422,
+        ["rank_raids"] = 4423,
         ["kill_count"] = 14,
-        ["points"] = 8224.4,
+        ["points"] = 8224.1,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 5481,
@@ -41220,7 +41220,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4014,
         ["kill_count"] = 16,
-        ["points"] = 8383.71,
+        ["points"] = 8384.28,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 232,
@@ -41230,7 +41230,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1468,
         ["kill_count"] = 17,
-        ["points"] = 9241.9,
+        ["points"] = 9242.03,
       },
       ["Festergut"] = {
         ["rank_raids"] = 8555,
@@ -41240,7 +41240,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1780,
         ["kill_count"] = 17,
-        ["points"] = 9126.67,
+        ["points"] = 9126.82,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2714,
@@ -41258,9 +41258,9 @@ UWULogsData[1][2] = {
         ["points"] = 7632.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 10705,
+        ["rank_raids"] = 10706,
         ["kill_count"] = 12,
-        ["points"] = 6480.5,
+        ["points"] = 6480.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 934,
@@ -41277,7 +41277,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4138,
         ["kill_count"] = 7,
-        ["points"] = 8347.02,
+        ["points"] = 8347.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4006,
@@ -41287,7 +41287,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1535,
         ["kill_count"] = 9,
-        ["points"] = 9217.78,
+        ["points"] = 9217.92,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5180,
@@ -41297,7 +41297,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3966,
         ["kill_count"] = 9,
-        ["points"] = 8463.0,
+        ["points"] = 8463.27,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1347,
@@ -41315,9 +41315,9 @@ UWULogsData[1][2] = {
         ["points"] = 9213.4,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 8653,
+        ["rank_raids"] = 8654,
         ["kill_count"] = 7,
-        ["points"] = 6955.1,
+        ["points"] = 6954.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4487,
@@ -41334,7 +41334,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4133,
         ["kill_count"] = 4,
-        ["points"] = 8348.77,
+        ["points"] = 8349.34,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1397,
@@ -41344,7 +41344,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2895,
         ["kill_count"] = 4,
-        ["points"] = 8752.58,
+        ["points"] = 8752.8,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1327,
@@ -41354,7 +41354,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1875,
         ["kill_count"] = 4,
-        ["points"] = 9086.81,
+        ["points"] = 9086.97,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 954,
@@ -41372,9 +41372,9 @@ UWULogsData[1][2] = {
         ["points"] = 7547.6,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6740,
+        ["rank_raids"] = 6741,
         ["kill_count"] = 3,
-        ["points"] = 7529.0,
+        ["points"] = 7528.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2038,
@@ -41391,7 +41391,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2160,
         ["kill_count"] = 4,
-        ["points"] = 9011.01,
+        ["points"] = 9011.35,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 8659,
@@ -41401,7 +41401,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1487,
         ["kill_count"] = 4,
-        ["points"] = 9235.01,
+        ["points"] = 9235.14,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1569,
@@ -41411,12 +41411,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1544,
         ["kill_count"] = 6,
-        ["points"] = 9199.45,
+        ["points"] = 9199.58,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9894,
+        ["rank_raids"] = 9895,
         ["kill_count"] = 5,
-        ["points"] = 6582.8,
+        ["points"] = 6582.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3005,
@@ -41441,14 +41441,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Mackica"] = {
-    ["percentile"] = 84.82,
+    ["percentile"] = 84.83,
     ["server"] = "Icecrown",
     ["overall_rank"] = 729,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2597,
         ["kill_count"] = 4,
-        ["points"] = 8832.78,
+        ["points"] = 8833.19,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 7342,
@@ -41458,7 +41458,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 4141,
         ["kill_count"] = 4,
-        ["points"] = 8439.01,
+        ["points"] = 8439.28,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3096,
@@ -41468,7 +41468,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4972,
         ["kill_count"] = 4,
-        ["points"] = 8218.68,
+        ["points"] = 8218.99,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3073,
@@ -41505,7 +41505,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4345,
         ["kill_count"] = 29,
-        ["points"] = 8303.34,
+        ["points"] = 8303.93,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 767,
@@ -41515,7 +41515,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3976,
         ["kill_count"] = 30,
-        ["points"] = 8478.64,
+        ["points"] = 8478.9,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3876,
@@ -41525,12 +41525,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1046,
         ["kill_count"] = 30,
-        ["points"] = 9400.45,
+        ["points"] = 9400.55,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9781,
+        ["rank_raids"] = 9782,
         ["kill_count"] = 21,
-        ["points"] = 6616.7,
+        ["points"] = 6616.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2437,
@@ -41562,7 +41562,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3542,
         ["kill_count"] = 31,
-        ["points"] = 8528.74,
+        ["points"] = 8529.26,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3272,
@@ -41570,9 +41570,9 @@ UWULogsData[1][2] = {
         ["points"] = 8569.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5236,
+        ["rank_raids"] = 5237,
         ["kill_count"] = 33,
-        ["points"] = 8168.5,
+        ["points"] = 8168.82,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1507,
@@ -41580,9 +41580,9 @@ UWULogsData[1][2] = {
         ["points"] = 9148.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6337,
+        ["rank_raids"] = 6338,
         ["kill_count"] = 32,
-        ["points"] = 7844.39,
+        ["points"] = 7844.77,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4940,
@@ -41619,7 +41619,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4384,
         ["kill_count"] = 3,
-        ["points"] = 8294.6,
+        ["points"] = 8295.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2198,
@@ -41629,7 +41629,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2896,
         ["kill_count"] = 5,
-        ["points"] = 8750.86,
+        ["points"] = 8751.08,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2592,
@@ -41637,9 +41637,9 @@ UWULogsData[1][2] = {
         ["points"] = 8773.4,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7592,
+        ["rank_raids"] = 7593,
         ["kill_count"] = 3,
-        ["points"] = 7568.88,
+        ["points"] = 7569.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2838,
@@ -41657,9 +41657,9 @@ UWULogsData[1][2] = {
         ["points"] = 9292.2,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 14839,
+        ["rank_raids"] = 14840,
         ["kill_count"] = 2,
-        ["points"] = 6067.1,
+        ["points"] = 6067.0,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1813,
@@ -41676,7 +41676,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2800,
         ["kill_count"] = 15,
-        ["points"] = 8766.38,
+        ["points"] = 8766.81,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3379,
@@ -41686,17 +41686,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 618,
         ["kill_count"] = 16,
-        ["points"] = 9586.49,
+        ["points"] = 9586.56,
       },
       ["Festergut"] = {
         ["rank_raids"] = 647,
         ["kill_count"] = 15,
-        ["points"] = 9557.32,
+        ["points"] = 9557.48,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3092,
         ["kill_count"] = 15,
-        ["points"] = 8710.8,
+        ["points"] = 8711.02,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5736,
@@ -41714,9 +41714,9 @@ UWULogsData[1][2] = {
         ["points"] = 7798.1,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6017,
+        ["rank_raids"] = 6018,
         ["kill_count"] = 16,
-        ["points"] = 7745.9,
+        ["points"] = 7745.6,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 5646,
@@ -41733,27 +41733,27 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 491,
         ["kill_count"] = 7,
-        ["points"] = 9692.47,
+        ["points"] = 9692.58,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 14962,
+        ["rank_raids"] = 14963,
         ["kill_count"] = 2,
-        ["points"] = 6054.8,
+        ["points"] = 6054.7,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3756,
         ["kill_count"] = 9,
-        ["points"] = 8537.22,
+        ["points"] = 8537.47,
       },
       ["Festergut"] = {
         ["rank_raids"] = 149,
         ["kill_count"] = 10,
-        ["points"] = 9866.85,
+        ["points"] = 9866.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3907,
         ["kill_count"] = 9,
-        ["points"] = 8476.87,
+        ["points"] = 8477.13,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2390,
@@ -41790,7 +41790,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2465,
         ["kill_count"] = 11,
-        ["points"] = 8883.45,
+        ["points"] = 8883.84,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1386,
@@ -41798,9 +41798,9 @@ UWULogsData[1][2] = {
         ["points"] = 9196.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8339,
+        ["rank_raids"] = 8340,
         ["kill_count"] = 14,
-        ["points"] = 7468.99,
+        ["points"] = 7469.42,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2174,
@@ -41810,7 +41810,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3464,
         ["kill_count"] = 14,
-        ["points"] = 8610.29,
+        ["points"] = 8610.53,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2269,
@@ -41828,9 +41828,9 @@ UWULogsData[1][2] = {
         ["points"] = 8285.6,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 8748,
+        ["rank_raids"] = 8749,
         ["kill_count"] = 14,
-        ["points"] = 6926.6,
+        ["points"] = 6926.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 687,
@@ -41847,7 +41847,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 702,
         ["kill_count"] = 3,
-        ["points"] = 9587.63,
+        ["points"] = 9587.77,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4833,
@@ -41857,7 +41857,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2018,
         ["kill_count"] = 3,
-        ["points"] = 9038.59,
+        ["points"] = 9038.76,
       },
       ["Festergut"] = {
         ["rank_raids"] = 9569,
@@ -41867,7 +41867,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3073,
         ["kill_count"] = 3,
-        ["points"] = 8719.46,
+        ["points"] = 8719.68,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5464,
@@ -41885,9 +41885,9 @@ UWULogsData[1][2] = {
         ["points"] = 9638.2,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 9456,
+        ["rank_raids"] = 9457,
         ["kill_count"] = 2,
-        ["points"] = 6714.2,
+        ["points"] = 6713.9,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1167,
@@ -41904,7 +41904,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4657,
         ["kill_count"] = 19,
-        ["points"] = 8221.21,
+        ["points"] = 8221.83,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3217,
@@ -41914,7 +41914,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3011,
         ["kill_count"] = 19,
-        ["points"] = 8725.02,
+        ["points"] = 8725.24,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3088,
@@ -41924,7 +41924,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5466,
         ["kill_count"] = 20,
-        ["points"] = 8086.99,
+        ["points"] = 8087.32,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3050,
@@ -41961,7 +41961,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4869,
         ["kill_count"] = 2,
-        ["points"] = 8167.05,
+        ["points"] = 8167.69,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2327,
@@ -41971,7 +41971,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1622,
         ["kill_count"] = 2,
-        ["points"] = 9174.71,
+        ["points"] = 9174.85,
       },
       ["Festergut"] = {
         ["rank_raids"] = 13471,
@@ -41981,7 +41981,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4098,
         ["kill_count"] = 4,
-        ["points"] = 8426.62,
+        ["points"] = 8426.89,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3860,
@@ -42011,14 +42011,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Cobraax"] = {
-    ["percentile"] = 84.55,
+    ["percentile"] = 84.56,
     ["server"] = "Icecrown",
     ["overall_rank"] = 739,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6007,
         ["kill_count"] = 18,
-        ["points"] = 7829.81,
+        ["points"] = 7830.57,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3838,
@@ -42028,17 +42028,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2622,
         ["kill_count"] = 23,
-        ["points"] = 8828.39,
+        ["points"] = 8828.6,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6144,
         ["kill_count"] = 23,
-        ["points"] = 7762.41,
+        ["points"] = 7763.18,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6821,
+        ["rank_raids"] = 6822,
         ["kill_count"] = 22,
-        ["points"] = 7740.43,
+        ["points"] = 7740.82,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1953,
@@ -42075,7 +42075,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 7517,
         ["kill_count"] = 7,
-        ["points"] = 7422.68,
+        ["points"] = 7423.58,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3644,
@@ -42083,9 +42083,9 @@ UWULogsData[1][2] = {
         ["points"] = 8457.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4902,
+        ["rank_raids"] = 4903,
         ["kill_count"] = 9,
-        ["points"] = 8240.87,
+        ["points"] = 8241.17,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2229,
@@ -42095,7 +42095,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4053,
         ["kill_count"] = 8,
-        ["points"] = 8431.81,
+        ["points"] = 8432.09,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1864,
@@ -42113,9 +42113,9 @@ UWULogsData[1][2] = {
         ["points"] = 9692.5,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5968,
+        ["rank_raids"] = 5969,
         ["kill_count"] = 12,
-        ["points"] = 7760.6,
+        ["points"] = 7760.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4282,
@@ -42132,7 +42132,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2816,
         ["kill_count"] = 10,
-        ["points"] = 8759.39,
+        ["points"] = 8759.83,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6529,
@@ -42142,7 +42142,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 4231,
         ["kill_count"] = 10,
-        ["points"] = 8409.72,
+        ["points"] = 8409.99,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1568,
@@ -42152,7 +42152,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3521,
         ["kill_count"] = 10,
-        ["points"] = 8592.96,
+        ["points"] = 8593.21,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1316,
@@ -42189,7 +42189,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6733,
         ["kill_count"] = 14,
-        ["points"] = 7635.86,
+        ["points"] = 7636.68,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 11294,
@@ -42199,17 +42199,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3022,
         ["kill_count"] = 14,
-        ["points"] = 8719.85,
+        ["points"] = 8720.07,
       },
       ["Festergut"] = {
         ["rank_raids"] = 431,
         ["kill_count"] = 14,
-        ["points"] = 9673.18,
+        ["points"] = 9673.29,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2647,
         ["kill_count"] = 14,
-        ["points"] = 8818.23,
+        ["points"] = 8818.43,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3228,
@@ -42246,7 +42246,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5384,
         ["kill_count"] = 2,
-        ["points"] = 8009.79,
+        ["points"] = 8010.48,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6766,
@@ -42256,7 +42256,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 610,
         ["kill_count"] = 4,
-        ["points"] = 9593.38,
+        ["points"] = 9593.45,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2506,
@@ -42266,7 +42266,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1858,
         ["kill_count"] = 4,
-        ["points"] = 9093.74,
+        ["points"] = 9093.9,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4237,
@@ -42284,9 +42284,9 @@ UWULogsData[1][2] = {
         ["points"] = 9271.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5766,
+        ["rank_raids"] = 5767,
         ["kill_count"] = 4,
-        ["points"] = 7821.2,
+        ["points"] = 7820.9,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4303,
@@ -42303,7 +42303,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5470,
         ["kill_count"] = 16,
-        ["points"] = 7978.33,
+        ["points"] = 7979.04,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 7804,
@@ -42313,7 +42313,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1458,
         ["kill_count"] = 16,
-        ["points"] = 9243.63,
+        ["points"] = 9243.76,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2424,
@@ -42323,7 +42323,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1576,
         ["kill_count"] = 16,
-        ["points"] = 9187.32,
+        ["points"] = 9187.46,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3817,
@@ -42360,7 +42360,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3281,
         ["kill_count"] = 9,
-        ["points"] = 8619.61,
+        ["points"] = 8620.09,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3461,
@@ -42368,9 +42368,9 @@ UWULogsData[1][2] = {
         ["points"] = 8512.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7261,
+        ["rank_raids"] = 7262,
         ["kill_count"] = 9,
-        ["points"] = 7687.8,
+        ["points"] = 7688.2,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4799,
@@ -42378,7 +42378,7 @@ UWULogsData[1][2] = {
         ["points"] = 8111.3,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8076,
+        ["rank_raids"] = 8077,
         ["kill_count"] = 9,
         ["points"] = 7485.79,
       },
@@ -42417,7 +42417,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2574,
         ["kill_count"] = 25,
-        ["points"] = 8839.77,
+        ["points"] = 8840.17,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 9667,
@@ -42427,7 +42427,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2366,
         ["kill_count"] = 28,
-        ["points"] = 8905.93,
+        ["points"] = 8906.12,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2084,
@@ -42437,7 +42437,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5114,
         ["kill_count"] = 28,
-        ["points"] = 8177.09,
+        ["points"] = 8177.41,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5608,
@@ -42474,7 +42474,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3551,
         ["kill_count"] = 12,
-        ["points"] = 8525.25,
+        ["points"] = 8525.76,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 12304,
@@ -42484,7 +42484,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2656,
         ["kill_count"] = 12,
-        ["points"] = 8816.33,
+        ["points"] = 8816.54,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3007,
@@ -42494,7 +42494,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2443,
         ["kill_count"] = 12,
-        ["points"] = 8897.94,
+        ["points"] = 8898.13,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5871,
@@ -42531,7 +42531,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6360,
         ["kill_count"] = 4,
-        ["points"] = 7714.49,
+        ["points"] = 7715.28,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 8604,
@@ -42539,9 +42539,9 @@ UWULogsData[1][2] = {
         ["points"] = 6969.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6794,
+        ["rank_raids"] = 6795,
         ["kill_count"] = 4,
-        ["points"] = 7780.84,
+        ["points"] = 7781.22,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1069,
@@ -42551,7 +42551,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3321,
         ["kill_count"] = 4,
-        ["points"] = 8653.61,
+        ["points"] = 8653.85,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5568,
@@ -42588,7 +42588,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3042,
         ["kill_count"] = 14,
-        ["points"] = 8698.24,
+        ["points"] = 8698.69,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6458,
@@ -42598,7 +42598,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 830,
         ["kill_count"] = 15,
-        ["points"] = 9486.56,
+        ["points"] = 9486.65,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1535,
@@ -42606,9 +42606,9 @@ UWULogsData[1][2] = {
         ["points"] = 9137.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7255,
+        ["rank_raids"] = 7256,
         ["kill_count"] = 14,
-        ["points"] = 7643.39,
+        ["points"] = 7643.8,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3631,
@@ -42626,9 +42626,9 @@ UWULogsData[1][2] = {
         ["points"] = 8520.2,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6784,
+        ["rank_raids"] = 6785,
         ["kill_count"] = 8,
-        ["points"] = 7515.8,
+        ["points"] = 7515.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 3028,
@@ -42645,7 +42645,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 8437,
         ["kill_count"] = 6,
-        ["points"] = 7183.3,
+        ["points"] = 7184.28,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4305,
@@ -42655,7 +42655,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2948,
         ["kill_count"] = 8,
-        ["points"] = 8740.52,
+        ["points"] = 8740.74,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2674,
@@ -42665,7 +42665,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3223,
         ["kill_count"] = 8,
-        ["points"] = 8679.6,
+        ["points"] = 8679.83,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3728,
@@ -42683,9 +42683,9 @@ UWULogsData[1][2] = {
         ["points"] = 9219.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 8155,
+        ["rank_raids"] = 8156,
         ["kill_count"] = 8,
-        ["points"] = 7104.5,
+        ["points"] = 7104.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 3792,
@@ -42702,7 +42702,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6483,
         ["kill_count"] = 2,
-        ["points"] = 7691.77,
+        ["points"] = 7692.58,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 8124,
@@ -42712,17 +42712,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3893,
         ["kill_count"] = 2,
-        ["points"] = 8497.59,
+        ["points"] = 8497.85,
       },
       ["Festergut"] = {
         ["rank_raids"] = 836,
         ["kill_count"] = 2,
-        ["points"] = 9443.2,
+        ["points"] = 9443.39,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3287,
         ["kill_count"] = 2,
-        ["points"] = 8662.28,
+        ["points"] = 8662.51,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1624,
@@ -42759,7 +42759,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4648,
         ["kill_count"] = 6,
-        ["points"] = 8224.71,
+        ["points"] = 8225.33,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3185,
@@ -42767,9 +42767,9 @@ UWULogsData[1][2] = {
         ["points"] = 8595.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4516,
+        ["rank_raids"] = 4517,
         ["kill_count"] = 5,
-        ["points"] = 8330.46,
+        ["points"] = 8330.75,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2720,
@@ -42779,7 +42779,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1022,
         ["kill_count"] = 6,
-        ["points"] = 9410.85,
+        ["points"] = 9410.95,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2571,
@@ -42797,9 +42797,9 @@ UWULogsData[1][2] = {
         ["points"] = 7784.6,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6094,
+        ["rank_raids"] = 6095,
         ["kill_count"] = 6,
-        ["points"] = 7722.8,
+        ["points"] = 7722.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 7017,
@@ -42816,7 +42816,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 7880,
         ["kill_count"] = 11,
-        ["points"] = 7326.58,
+        ["points"] = 7327.51,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4174,
@@ -42826,17 +42826,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3855,
         ["kill_count"] = 11,
-        ["points"] = 8511.37,
+        ["points"] = 8511.63,
       },
       ["Festergut"] = {
         ["rank_raids"] = 561,
         ["kill_count"] = 11,
-        ["points"] = 9595.37,
+        ["points"] = 9595.51,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6293,
+        ["rank_raids"] = 6294,
         ["kill_count"] = 11,
-        ["points"] = 7863.46,
+        ["points"] = 7863.83,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4556,
@@ -42873,7 +42873,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3728,
         ["kill_count"] = 9,
-        ["points"] = 8472.83,
+        ["points"] = 8473.36,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1820,
@@ -42881,9 +42881,9 @@ UWULogsData[1][2] = {
         ["points"] = 9023.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5255,
+        ["rank_raids"] = 5256,
         ["kill_count"] = 9,
-        ["points"] = 8163.34,
+        ["points"] = 8163.65,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3426,
@@ -42893,7 +42893,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4190,
         ["kill_count"] = 9,
-        ["points"] = 8400.62,
+        ["points"] = 8400.9,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1970,
@@ -42911,9 +42911,9 @@ UWULogsData[1][2] = {
         ["points"] = 8365.4,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 7937,
+        ["rank_raids"] = 7938,
         ["kill_count"] = 8,
-        ["points"] = 7169.9,
+        ["points"] = 7169.6,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 5203,
@@ -42930,7 +42930,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6271,
         ["kill_count"] = 13,
-        ["points"] = 7747.68,
+        ["points"] = 7748.47,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6999,
@@ -42940,7 +42940,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1101,
         ["kill_count"] = 14,
-        ["points"] = 9378.02,
+        ["points"] = 9378.12,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3753,
@@ -42950,7 +42950,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1683,
         ["kill_count"] = 14,
-        ["points"] = 9156.13,
+        ["points"] = 9156.27,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4853,
@@ -42987,7 +42987,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4615,
         ["kill_count"] = 4,
-        ["points"] = 8233.44,
+        ["points"] = 8234.06,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2754,
@@ -42997,17 +42997,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3038,
         ["kill_count"] = 6,
-        ["points"] = 8716.4,
+        ["points"] = 8716.62,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6789,
         ["kill_count"] = 2,
-        ["points"] = 7630.99,
+        ["points"] = 7631.81,
       },
       ["Rotface"] = {
         ["rank_raids"] = 487,
         ["kill_count"] = 2,
-        ["points"] = 9656.91,
+        ["points"] = 9656.96,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1774,
@@ -43020,9 +43020,9 @@ UWULogsData[1][2] = {
         ["points"] = 8319.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 11915,
+        ["rank_raids"] = 11917,
         ["kill_count"] = 2,
-        ["points"] = 6359.5,
+        ["points"] = 6359.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2648,
@@ -43044,7 +43044,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1084,
         ["kill_count"] = 4,
-        ["points"] = 9404.16,
+        ["points"] = 9404.37,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 487,
@@ -43052,7 +43052,7 @@ UWULogsData[1][2] = {
         ["points"] = 9608.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10476,
+        ["rank_raids"] = 10477,
         ["kill_count"] = 4,
         ["points"] = 7232.67,
       },
@@ -43064,7 +43064,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5714,
         ["kill_count"] = 4,
-        ["points"] = 8017.67,
+        ["points"] = 8018.02,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2905,
@@ -43082,9 +43082,9 @@ UWULogsData[1][2] = {
         ["points"] = 7017.5,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5635,
+        ["rank_raids"] = 5636,
         ["kill_count"] = 4,
-        ["points"] = 7860.5,
+        ["points"] = 7860.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2664,
@@ -43101,7 +43101,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3892,
         ["kill_count"] = 13,
-        ["points"] = 8418.66,
+        ["points"] = 8419.21,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 916,
@@ -43109,9 +43109,9 @@ UWULogsData[1][2] = {
         ["points"] = 9393.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6033,
+        ["rank_raids"] = 6034,
         ["kill_count"] = 13,
-        ["points"] = 7970.37,
+        ["points"] = 7970.71,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2349,
@@ -43121,7 +43121,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2335,
         ["kill_count"] = 13,
-        ["points"] = 8925.66,
+        ["points"] = 8925.85,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5326,
@@ -43158,7 +43158,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6927,
         ["kill_count"] = 2,
-        ["points"] = 7565.96,
+        ["points"] = 7566.81,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2406,
@@ -43168,7 +43168,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2119,
         ["kill_count"] = 2,
-        ["points"] = 8998.97,
+        ["points"] = 8999.14,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1384,
@@ -43178,7 +43178,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5377,
         ["kill_count"] = 2,
-        ["points"] = 8104.31,
+        ["points"] = 8104.64,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1198,
@@ -43196,9 +43196,9 @@ UWULogsData[1][2] = {
         ["points"] = 8422.1,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 12424,
+        ["rank_raids"] = 12425,
         ["kill_count"] = 2,
-        ["points"] = 6308.6,
+        ["points"] = 6308.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1164,
@@ -43215,7 +43215,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3220,
         ["kill_count"] = 5,
-        ["points"] = 8640.57,
+        ["points"] = 8641.05,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6550,
@@ -43225,17 +43225,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2275,
         ["kill_count"] = 6,
-        ["points"] = 8947.28,
+        ["points"] = 8947.46,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6189,
         ["kill_count"] = 6,
-        ["points"] = 7746.84,
+        ["points"] = 7747.62,
       },
       ["Rotface"] = {
         ["rank_raids"] = 4735,
         ["kill_count"] = 6,
-        ["points"] = 8265.47,
+        ["points"] = 8265.77,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2576,
@@ -43272,7 +43272,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 7788,
         ["kill_count"] = 5,
-        ["points"] = 7351.04,
+        ["points"] = 7351.97,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4356,
@@ -43280,7 +43280,7 @@ UWULogsData[1][2] = {
         ["points"] = 8244.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9252,
+        ["rank_raids"] = 9253,
         ["kill_count"] = 5,
         ["points"] = 7328.64,
       },
@@ -43292,7 +43292,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5199,
         ["kill_count"] = 6,
-        ["points"] = 8156.3,
+        ["points"] = 8156.62,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1227,
@@ -43329,7 +43329,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3862,
         ["kill_count"] = 11,
-        ["points"] = 8430.89,
+        ["points"] = 8431.44,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3341,
@@ -43337,19 +43337,19 @@ UWULogsData[1][2] = {
         ["points"] = 8548.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4964,
+        ["rank_raids"] = 4965,
         ["kill_count"] = 11,
-        ["points"] = 8223.64,
+        ["points"] = 8223.94,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5813,
         ["kill_count"] = 11,
-        ["points"] = 7835.03,
+        ["points"] = 7835.78,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3233,
         ["kill_count"] = 11,
-        ["points"] = 8674.41,
+        ["points"] = 8674.64,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7048,
@@ -43386,7 +43386,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2809,
         ["kill_count"] = 2,
-        ["points"] = 8762.89,
+        ["points"] = 8763.32,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5530,
@@ -43396,7 +43396,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1966,
         ["kill_count"] = 2,
-        ["points"] = 9057.55,
+        ["points"] = 9057.71,
       },
       ["Festergut"] = {
         ["rank_raids"] = 10688,
@@ -43406,7 +43406,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3856,
         ["kill_count"] = 2,
-        ["points"] = 8492.46,
+        ["points"] = 8492.72,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4921,
@@ -43443,7 +43443,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4058,
         ["kill_count"] = 22,
-        ["points"] = 8364.49,
+        ["points"] = 8365.07,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2715,
@@ -43453,7 +43453,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2301,
         ["kill_count"] = 22,
-        ["points"] = 8935.22,
+        ["points"] = 8935.4,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4174,
@@ -43463,7 +43463,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5338,
         ["kill_count"] = 23,
-        ["points"] = 8114.71,
+        ["points"] = 8115.04,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4952,
@@ -43481,9 +43481,9 @@ UWULogsData[1][2] = {
         ["points"] = 8760.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4713,
+        ["rank_raids"] = 4714,
         ["kill_count"] = 20,
-        ["points"] = 8137.1,
+        ["points"] = 8136.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 3282,
@@ -43500,7 +43500,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4317,
         ["kill_count"] = 3,
-        ["points"] = 8310.33,
+        ["points"] = 8310.92,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4310,
@@ -43508,9 +43508,9 @@ UWULogsData[1][2] = {
         ["points"] = 8258.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6593,
+        ["rank_raids"] = 6594,
         ["kill_count"] = 3,
-        ["points"] = 7817.02,
+        ["points"] = 7817.4,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3788,
@@ -43520,7 +43520,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3828,
         ["kill_count"] = 3,
-        ["points"] = 8508.06,
+        ["points"] = 8508.32,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2364,
@@ -43557,7 +43557,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 951,
         ["kill_count"] = 5,
-        ["points"] = 9465.32,
+        ["points"] = 9465.5,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2705,
@@ -43565,24 +43565,24 @@ UWULogsData[1][2] = {
         ["points"] = 8739.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8822,
+        ["rank_raids"] = 8823,
         ["kill_count"] = 6,
         ["points"] = 7364.82,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5605,
         ["kill_count"] = 6,
-        ["points"] = 7892.1,
+        ["points"] = 7892.83,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2045,
         ["kill_count"] = 6,
-        ["points"] = 9026.17,
+        ["points"] = 9026.33,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 12168,
+        ["rank_raids"] = 12169,
         ["kill_count"] = 6,
-        ["points"] = 6334.2,
+        ["points"] = 6334.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2691,
@@ -43614,7 +43614,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1614,
         ["kill_count"] = 19,
-        ["points"] = 9206.71,
+        ["points"] = 9206.99,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4161,
@@ -43624,7 +43624,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3985,
         ["kill_count"] = 19,
-        ["points"] = 8475.19,
+        ["points"] = 8475.45,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4242,
@@ -43632,9 +43632,9 @@ UWULogsData[1][2] = {
         ["points"] = 8278.4,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7599,
+        ["rank_raids"] = 7600,
         ["kill_count"] = 18,
-        ["points"] = 7567.15,
+        ["points"] = 7567.57,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5923,
@@ -43652,9 +43652,9 @@ UWULogsData[1][2] = {
         ["points"] = 9511.5,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4812,
+        ["rank_raids"] = 4813,
         ["kill_count"] = 22,
-        ["points"] = 8107.4,
+        ["points"] = 8107.1,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 3485,
@@ -43671,7 +43671,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 9039,
         ["kill_count"] = 6,
-        ["points"] = 7029.53,
+        ["points"] = 7030.57,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2496,
@@ -43681,7 +43681,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 961,
         ["kill_count"] = 6,
-        ["points"] = 9427.98,
+        ["points"] = 9428.08,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1131,
@@ -43689,7 +43689,7 @@ UWULogsData[1][2] = {
         ["points"] = 9298.6,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 10252,
+        ["rank_raids"] = 10253,
         ["kill_count"] = 6,
         ["points"] = 7303.86,
       },
@@ -43728,7 +43728,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4968,
         ["kill_count"] = 7,
-        ["points"] = 8135.59,
+        ["points"] = 8136.24,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1714,
@@ -43736,9 +43736,9 @@ UWULogsData[1][2] = {
         ["points"] = 9065.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7975,
+        ["rank_raids"] = 7976,
         ["kill_count"] = 7,
-        ["points"] = 7532.74,
+        ["points"] = 7533.16,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3085,
@@ -43746,9 +43746,9 @@ UWULogsData[1][2] = {
         ["points"] = 8625.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7131,
+        ["rank_raids"] = 7132,
         ["kill_count"] = 6,
-        ["points"] = 7664.18,
+        ["points"] = 7664.59,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1498,
@@ -43766,9 +43766,9 @@ UWULogsData[1][2] = {
         ["points"] = 7977.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5350,
+        ["rank_raids"] = 5351,
         ["kill_count"] = 6,
-        ["points"] = 7946.0,
+        ["points"] = 7945.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 836,
@@ -43785,7 +43785,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 370,
         ["kill_count"] = 2,
-        ["points"] = 9760.62,
+        ["points"] = 9760.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2088,
@@ -43793,9 +43793,9 @@ UWULogsData[1][2] = {
         ["points"] = 8924.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8039,
+        ["rank_raids"] = 8040,
         ["kill_count"] = 1,
-        ["points"] = 7520.68,
+        ["points"] = 7521.1,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2531,
@@ -43805,12 +43805,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1505,
         ["kill_count"] = 1,
-        ["points"] = 9220.24,
+        ["points"] = 9220.37,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 13264,
+        ["rank_raids"] = 13265,
         ["kill_count"] = 1,
-        ["points"] = 6224.6,
+        ["points"] = 6224.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7717,
@@ -43823,9 +43823,9 @@ UWULogsData[1][2] = {
         ["points"] = 8711.9,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6026,
+        ["rank_raids"] = 6027,
         ["kill_count"] = 1,
-        ["points"] = 7743.2,
+        ["points"] = 7742.9,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 319,
@@ -43842,7 +43842,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6952,
         ["kill_count"] = 11,
-        ["points"] = 7560.72,
+        ["points"] = 7561.57,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1505,
@@ -43850,17 +43850,17 @@ UWULogsData[1][2] = {
         ["points"] = 9149.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6527,
+        ["rank_raids"] = 6528,
         ["kill_count"] = 11,
-        ["points"] = 7837.7,
+        ["points"] = 7838.07,
       },
       ["Festergut"] = {
         ["rank_raids"] = 7017,
         ["kill_count"] = 12,
-        ["points"] = 7577.38,
+        ["points"] = 7578.22,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8337,
+        ["rank_raids"] = 8338,
         ["kill_count"] = 11,
         ["points"] = 7465.34,
       },
@@ -43899,7 +43899,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4639,
         ["kill_count"] = 2,
-        ["points"] = 8229.95,
+        ["points"] = 8230.57,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1638,
@@ -43907,9 +43907,9 @@ UWULogsData[1][2] = {
         ["points"] = 9095.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5847,
+        ["rank_raids"] = 5848,
         ["kill_count"] = 2,
-        ["points"] = 7997.93,
+        ["points"] = 7998.28,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1431,
@@ -43917,14 +43917,14 @@ UWULogsData[1][2] = {
         ["points"] = 9178.6,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6616,
+        ["rank_raids"] = 6617,
         ["kill_count"] = 2,
-        ["points"] = 7794.14,
+        ["points"] = 7794.53,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8932,
+        ["rank_raids"] = 8933,
         ["kill_count"] = 3,
-        ["points"] = 6871.4,
+        ["points"] = 6871.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2969,
@@ -43956,7 +43956,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 7477,
         ["kill_count"] = 4,
-        ["points"] = 7433.16,
+        ["points"] = 7434.06,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3231,
@@ -43966,17 +43966,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1871,
         ["kill_count"] = 4,
-        ["points"] = 9095.45,
+        ["points"] = 9095.61,
       },
       ["Festergut"] = {
         ["rank_raids"] = 940,
         ["kill_count"] = 4,
-        ["points"] = 9391.32,
+        ["points"] = 9391.53,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6786,
+        ["rank_raids"] = 6787,
         ["kill_count"] = 4,
-        ["points"] = 7745.62,
+        ["points"] = 7746.02,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3972,
@@ -44013,7 +44013,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1946,
         ["kill_count"] = 5,
-        ["points"] = 9087.89,
+        ["points"] = 9088.21,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4811,
@@ -44023,17 +44023,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 4176,
         ["kill_count"] = 6,
-        ["points"] = 8435.56,
+        ["points"] = 8435.83,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6473,
         ["kill_count"] = 7,
-        ["points"] = 7693.24,
+        ["points"] = 7694.04,
       },
       ["Rotface"] = {
         ["rank_raids"] = 4336,
         ["kill_count"] = 6,
-        ["points"] = 8357.3,
+        ["points"] = 8357.59,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6378,
@@ -44070,7 +44070,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3985,
         ["kill_count"] = 7,
-        ["points"] = 8392.45,
+        ["points"] = 8393.01,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 7824,
@@ -44078,19 +44078,19 @@ UWULogsData[1][2] = {
         ["points"] = 7203.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6586,
+        ["rank_raids"] = 6587,
         ["kill_count"] = 8,
-        ["points"] = 7820.47,
+        ["points"] = 7820.84,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6312,
         ["kill_count"] = 6,
-        ["points"] = 7726.09,
+        ["points"] = 7726.88,
       },
       ["Rotface"] = {
         ["rank_raids"] = 634,
         ["kill_count"] = 6,
-        ["points"] = 9573.73,
+        ["points"] = 9573.8,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4125,
@@ -44127,7 +44127,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3187,
         ["kill_count"] = 7,
-        ["points"] = 8656.3,
+        ["points"] = 8656.77,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 7436,
@@ -44135,9 +44135,9 @@ UWULogsData[1][2] = {
         ["points"] = 7320.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6360,
+        ["rank_raids"] = 6361,
         ["kill_count"] = 9,
-        ["points"] = 7873.88,
+        ["points"] = 7874.25,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2277,
@@ -44145,9 +44145,9 @@ UWULogsData[1][2] = {
         ["points"] = 8867.9,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6095,
+        ["rank_raids"] = 6096,
         ["kill_count"] = 8,
-        ["points"] = 7910.24,
+        ["points"] = 7910.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1133,
@@ -44165,9 +44165,9 @@ UWULogsData[1][2] = {
         ["points"] = 9081.4,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 8344,
+        ["rank_raids"] = 8345,
         ["kill_count"] = 4,
-        ["points"] = 7047.8,
+        ["points"] = 7047.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4448,
@@ -44184,7 +44184,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 7762,
         ["kill_count"] = 6,
-        ["points"] = 7358.03,
+        ["points"] = 7358.95,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 7014,
@@ -44194,7 +44194,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2237,
         ["kill_count"] = 7,
-        ["points"] = 8954.17,
+        ["points"] = 8954.35,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1251,
@@ -44204,7 +44204,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 406,
         ["kill_count"] = 7,
-        ["points"] = 9689.83,
+        ["points"] = 9689.88,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6135,
@@ -44222,9 +44222,9 @@ UWULogsData[1][2] = {
         ["points"] = 9318.2,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4687,
+        ["rank_raids"] = 4688,
         ["kill_count"] = 5,
-        ["points"] = 8144.9,
+        ["points"] = 8144.6,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 8216,
@@ -44241,7 +44241,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3081,
         ["kill_count"] = 11,
-        ["points"] = 8680.76,
+        ["points"] = 8681.22,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5541,
@@ -44249,7 +44249,7 @@ UWULogsData[1][2] = {
         ["points"] = 7888.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10930,
+        ["rank_raids"] = 10931,
         ["kill_count"] = 12,
         ["points"] = 7193.5,
       },
@@ -44259,7 +44259,7 @@ UWULogsData[1][2] = {
         ["points"] = 9111.4,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8312,
+        ["rank_raids"] = 8313,
         ["kill_count"] = 12,
         ["points"] = 7466.93,
       },
@@ -44298,7 +44298,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2984,
         ["kill_count"] = 8,
-        ["points"] = 8717.46,
+        ["points"] = 8717.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 8132,
@@ -44308,17 +44308,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3434,
         ["kill_count"] = 9,
-        ["points"] = 8607.86,
+        ["points"] = 8608.1,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5692,
         ["kill_count"] = 8,
-        ["points"] = 7866.16,
+        ["points"] = 7866.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 4631,
         ["kill_count"] = 8,
-        ["points"] = 8293.19,
+        ["points"] = 8293.49,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1942,
@@ -44336,9 +44336,9 @@ UWULogsData[1][2] = {
         ["points"] = 9321.4,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5972,
+        ["rank_raids"] = 5973,
         ["kill_count"] = 8,
-        ["points"] = 7759.4,
+        ["points"] = 7759.1,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1861,
@@ -44355,7 +44355,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4887,
         ["kill_count"] = 9,
-        ["points"] = 8158.31,
+        ["points"] = 8158.95,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1303,
@@ -44363,9 +44363,9 @@ UWULogsData[1][2] = {
         ["points"] = 9229.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6213,
+        ["rank_raids"] = 6214,
         ["kill_count"] = 10,
-        ["points"] = 7923.85,
+        ["points"] = 7924.2,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2332,
@@ -44375,7 +44375,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5112,
         ["kill_count"] = 10,
-        ["points"] = 8180.56,
+        ["points"] = 8180.87,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5143,
@@ -44412,7 +44412,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6054,
         ["kill_count"] = 9,
-        ["points"] = 7815.83,
+        ["points"] = 7816.59,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4679,
@@ -44422,7 +44422,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2323,
         ["kill_count"] = 10,
-        ["points"] = 8924.88,
+        ["points"] = 8925.06,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3619,
@@ -44432,7 +44432,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4929,
         ["kill_count"] = 10,
-        ["points"] = 8230.81,
+        ["points"] = 8231.12,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5120,
@@ -44469,7 +44469,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2180,
         ["kill_count"] = 5,
-        ["points"] = 8998.78,
+        ["points"] = 8999.13,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 8868,
@@ -44477,9 +44477,9 @@ UWULogsData[1][2] = {
         ["points"] = 6890.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6767,
+        ["rank_raids"] = 6768,
         ["kill_count"] = 5,
-        ["points"] = 7786.01,
+        ["points"] = 7786.39,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2529,
@@ -44487,9 +44487,9 @@ UWULogsData[1][2] = {
         ["points"] = 8792.3,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6559,
+        ["rank_raids"] = 6560,
         ["kill_count"] = 5,
-        ["points"] = 7802.81,
+        ["points"] = 7803.19,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1918,
@@ -44526,7 +44526,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 606,
         ["kill_count"] = 3,
-        ["points"] = 9634.81,
+        ["points"] = 9634.93,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4457,
@@ -44534,9 +44534,9 @@ UWULogsData[1][2] = {
         ["points"] = 8213.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4333,
+        ["rank_raids"] = 4334,
         ["kill_count"] = 3,
-        ["points"] = 8380.43,
+        ["points"] = 8380.71,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2370,
@@ -44546,7 +44546,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3165,
         ["kill_count"] = 3,
-        ["points"] = 8698.67,
+        ["points"] = 8698.89,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4969,
@@ -44564,9 +44564,9 @@ UWULogsData[1][2] = {
         ["points"] = 9282.2,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5081,
+        ["rank_raids"] = 5082,
         ["kill_count"] = 2,
-        ["points"] = 8026.7,
+        ["points"] = 8026.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 5101,
@@ -44583,7 +44583,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3518,
         ["kill_count"] = 16,
-        ["points"] = 8539.23,
+        ["points"] = 8539.74,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6016,
@@ -44593,7 +44593,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 401,
         ["kill_count"] = 17,
-        ["points"] = 9707.1,
+        ["points"] = 9707.15,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3771,
@@ -44603,12 +44603,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3275,
         ["kill_count"] = 18,
-        ["points"] = 8665.74,
+        ["points"] = 8665.97,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9106,
+        ["rank_raids"] = 9107,
         ["kill_count"] = 12,
-        ["points"] = 6819.2,
+        ["points"] = 6818.9,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4154,
@@ -44640,7 +44640,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6012,
         ["kill_count"] = 11,
-        ["points"] = 7828.06,
+        ["points"] = 7828.82,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3569,
@@ -44650,7 +44650,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3553,
         ["kill_count"] = 11,
-        ["points"] = 8585.46,
+        ["points"] = 8585.7,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5037,
@@ -44660,7 +44660,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2756,
         ["kill_count"] = 11,
-        ["points"] = 8800.9,
+        ["points"] = 8801.11,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3030,
@@ -44678,9 +44678,9 @@ UWULogsData[1][2] = {
         ["points"] = 8577.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 7993,
+        ["rank_raids"] = 7994,
         ["kill_count"] = 10,
-        ["points"] = 7153.1,
+        ["points"] = 7152.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1821,
@@ -44697,7 +44697,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3437,
         ["kill_count"] = 27,
-        ["points"] = 8565.44,
+        ["points"] = 8565.94,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3456,
@@ -44707,7 +44707,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1280,
         ["kill_count"] = 27,
-        ["points"] = 9302.21,
+        ["points"] = 9302.33,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2049,
@@ -44717,7 +44717,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2546,
         ["kill_count"] = 26,
-        ["points"] = 8858.08,
+        ["points"] = 8858.28,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5844,
@@ -44735,9 +44735,9 @@ UWULogsData[1][2] = {
         ["points"] = 9053.4,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 7874,
+        ["rank_raids"] = 7875,
         ["kill_count"] = 24,
-        ["points"] = 7188.8,
+        ["points"] = 7188.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 5173,
@@ -44754,7 +44754,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3679,
         ["kill_count"] = 14,
-        ["points"] = 8483.31,
+        ["points"] = 8483.84,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 8198,
@@ -44762,19 +44762,19 @@ UWULogsData[1][2] = {
         ["points"] = 7091.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4840,
+        ["rank_raids"] = 4841,
         ["kill_count"] = 16,
-        ["points"] = 8258.1,
+        ["points"] = 8258.4,
       },
       ["Festergut"] = {
         ["rank_raids"] = 648,
         ["kill_count"] = 18,
-        ["points"] = 9555.59,
+        ["points"] = 9555.75,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3312,
         ["kill_count"] = 18,
-        ["points"] = 8655.35,
+        ["points"] = 8655.58,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4007,
@@ -44811,7 +44811,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3965,
         ["kill_count"] = 11,
-        ["points"] = 8399.44,
+        ["points"] = 8400.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3682,
@@ -44819,9 +44819,9 @@ UWULogsData[1][2] = {
         ["points"] = 8446.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6956,
+        ["rank_raids"] = 6957,
         ["kill_count"] = 12,
-        ["points"] = 7749.83,
+        ["points"] = 7750.22,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4573,
@@ -44831,7 +44831,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1557,
         ["kill_count"] = 12,
-        ["points"] = 9192.51,
+        ["points"] = 9192.65,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3915,
@@ -44868,7 +44868,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4971,
         ["kill_count"] = 6,
-        ["points"] = 8132.1,
+        ["points"] = 8132.75,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 11601,
@@ -44878,17 +44878,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1202,
         ["kill_count"] = 8,
-        ["points"] = 9328.05,
+        ["points"] = 9328.17,
       },
       ["Festergut"] = {
         ["rank_raids"] = 215,
         ["kill_count"] = 8,
-        ["points"] = 9818.43,
+        ["points"] = 9818.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1689,
         ["kill_count"] = 8,
-        ["points"] = 9152.66,
+        ["points"] = 9152.81,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6038,
@@ -44906,9 +44906,9 @@ UWULogsData[1][2] = {
         ["points"] = 8556.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5872,
+        ["rank_raids"] = 5873,
         ["kill_count"] = 7,
-        ["points"] = 7789.4,
+        ["points"] = 7789.1,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4610,
@@ -44925,7 +44925,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 8106,
         ["kill_count"] = 6,
-        ["points"] = 7263.67,
+        ["points"] = 7264.63,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1659,
@@ -44933,19 +44933,19 @@ UWULogsData[1][2] = {
         ["points"] = 9087.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4612,
+        ["rank_raids"] = 4613,
         ["kill_count"] = 6,
-        ["points"] = 8304.62,
+        ["points"] = 8304.91,
       },
       ["Festergut"] = {
         ["rank_raids"] = 977,
         ["kill_count"] = 6,
-        ["points"] = 9372.3,
+        ["points"] = 9372.52,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3496,
         ["kill_count"] = 6,
-        ["points"] = 8603.36,
+        ["points"] = 8603.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7123,
@@ -44982,7 +44982,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3863,
         ["kill_count"] = 12,
-        ["points"] = 8429.15,
+        ["points"] = 8429.69,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5957,
@@ -44992,7 +44992,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3110,
         ["kill_count"] = 12,
-        ["points"] = 8697.45,
+        ["points"] = 8697.67,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4077,
@@ -45002,7 +45002,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1467,
         ["kill_count"] = 12,
-        ["points"] = 9242.77,
+        ["points"] = 9242.9,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4408,
@@ -45020,9 +45020,9 @@ UWULogsData[1][2] = {
         ["points"] = 9407.5,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4762,
+        ["rank_raids"] = 4763,
         ["kill_count"] = 11,
-        ["points"] = 8122.4,
+        ["points"] = 8122.1,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 3861,
@@ -45039,7 +45039,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4188,
         ["kill_count"] = 7,
-        ["points"] = 8338.28,
+        ["points"] = 8338.86,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5665,
@@ -45049,22 +45049,22 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1543,
         ["kill_count"] = 7,
-        ["points"] = 9210.89,
+        ["points"] = 9211.02,
       },
       ["Festergut"] = {
         ["rank_raids"] = 585,
         ["kill_count"] = 8,
-        ["points"] = 9584.99,
+        ["points"] = 9585.13,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2782,
         ["kill_count"] = 8,
-        ["points"] = 8793.97,
+        ["points"] = 8794.18,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8530,
+        ["rank_raids"] = 8531,
         ["kill_count"] = 8,
-        ["points"] = 6992.0,
+        ["points"] = 6991.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6000,
@@ -45096,7 +45096,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4955,
         ["kill_count"] = 10,
-        ["points"] = 8140.84,
+        ["points"] = 8141.48,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3762,
@@ -45106,17 +45106,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3543,
         ["kill_count"] = 10,
-        ["points"] = 8588.9,
+        ["points"] = 8589.15,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1358,
         ["kill_count"] = 11,
-        ["points"] = 9208.02,
+        ["points"] = 9208.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3227,
         ["kill_count"] = 10,
-        ["points"] = 8676.14,
+        ["points"] = 8676.37,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4103,
@@ -45134,9 +45134,9 @@ UWULogsData[1][2] = {
         ["points"] = 9032.2,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6374,
+        ["rank_raids"] = 6375,
         ["kill_count"] = 10,
-        ["points"] = 7638.8,
+        ["points"] = 7638.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4219,
@@ -45145,72 +45145,15 @@ UWULogsData[1][2] = {
       },
     },
   },
-  ["Slowfinger"] = {
+  ["Parkow"] = {
     ["percentile"] = 83.7,
     ["server"] = "Icecrown",
     ["overall_rank"] = 794,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 1957,
-        ["kill_count"] = 9,
-        ["points"] = 9077.41,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 4465,
-        ["kill_count"] = 7,
-        ["points"] = 8211.5,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3975,
-        ["kill_count"] = 9,
-        ["points"] = 8480.36,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 2387,
-        ["kill_count"] = 9,
-        ["points"] = 8834.9,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 4992,
-        ["kill_count"] = 9,
-        ["points"] = 8213.48,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 6241,
-        ["kill_count"] = 8,
-        ["points"] = 7678.7,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 4089,
-        ["kill_count"] = 9,
-        ["points"] = 8392.82,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7934,
-        ["kill_count"] = 9,
-        ["points"] = 7170.8,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 2579,
-        ["kill_count"] = 9,
-        ["points"] = 8777.3,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 2508,
-        ["kill_count"] = 9,
-        ["points"] = 8798.6,
-      },
-    },
-  },
-  ["Parkow"] = {
-    ["percentile"] = 83.7,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 795,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
         ["rank_raids"] = 8490,
         ["kill_count"] = 5,
-        ["points"] = 7172.81,
+        ["points"] = 7173.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 7682,
@@ -45218,9 +45161,9 @@ UWULogsData[1][2] = {
         ["points"] = 7246.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6769,
+        ["rank_raids"] = 6770,
         ["kill_count"] = 5,
-        ["points"] = 7784.29,
+        ["points"] = 7784.67,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2467,
@@ -45230,7 +45173,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1662,
         ["kill_count"] = 5,
-        ["points"] = 9161.32,
+        ["points"] = 9161.47,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2843,
@@ -45259,6 +45202,63 @@ UWULogsData[1][2] = {
       },
     },
   },
+  ["Slowfinger"] = {
+    ["percentile"] = 83.7,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 795,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 1957,
+        ["kill_count"] = 9,
+        ["points"] = 9077.73,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 4465,
+        ["kill_count"] = 7,
+        ["points"] = 8211.5,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 3975,
+        ["kill_count"] = 9,
+        ["points"] = 8480.62,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 2387,
+        ["kill_count"] = 9,
+        ["points"] = 8834.9,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 4992,
+        ["kill_count"] = 9,
+        ["points"] = 8213.79,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 6241,
+        ["kill_count"] = 8,
+        ["points"] = 7678.7,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 4089,
+        ["kill_count"] = 9,
+        ["points"] = 8392.82,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 7934,
+        ["kill_count"] = 9,
+        ["points"] = 7170.8,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 2579,
+        ["kill_count"] = 9,
+        ["points"] = 8777.3,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 2508,
+        ["kill_count"] = 9,
+        ["points"] = 8798.6,
+      },
+    },
+  },
   ["Wynoom"] = {
     ["percentile"] = 83.68,
     ["server"] = "Icecrown",
@@ -45267,7 +45267,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4399,
         ["kill_count"] = 5,
-        ["points"] = 8291.11,
+        ["points"] = 8291.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3694,
@@ -45277,7 +45277,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1697,
         ["kill_count"] = 5,
-        ["points"] = 9154.03,
+        ["points"] = 9154.18,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1420,
@@ -45287,7 +45287,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1717,
         ["kill_count"] = 6,
-        ["points"] = 9144.0,
+        ["points"] = 9144.14,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6875,
@@ -45305,9 +45305,9 @@ UWULogsData[1][2] = {
         ["points"] = 8764.4,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 7133,
+        ["rank_raids"] = 7134,
         ["kill_count"] = 4,
-        ["points"] = 7411.1,
+        ["points"] = 7410.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 7411,
@@ -45324,7 +45324,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3647,
         ["kill_count"] = 6,
-        ["points"] = 8492.05,
+        ["points"] = 8492.58,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2235,
@@ -45334,17 +45334,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3675,
         ["kill_count"] = 6,
-        ["points"] = 8556.17,
+        ["points"] = 8556.42,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5530,
         ["kill_count"] = 6,
-        ["points"] = 7914.58,
+        ["points"] = 7915.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 944,
         ["kill_count"] = 6,
-        ["points"] = 9445.5,
+        ["points"] = 9445.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3881,
@@ -45357,9 +45357,9 @@ UWULogsData[1][2] = {
         ["points"] = 8872.41,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 11840,
+        ["rank_raids"] = 11842,
         ["kill_count"] = 6,
-        ["points"] = 6367.0,
+        ["points"] = 6366.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2539,
@@ -45381,7 +45381,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5119,
         ["kill_count"] = 5,
-        ["points"] = 8088.42,
+        ["points"] = 8089.08,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 8039,
@@ -45391,7 +45391,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2859,
         ["kill_count"] = 6,
-        ["points"] = 8768.09,
+        ["points"] = 8768.3,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2960,
@@ -45401,7 +45401,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2796,
         ["kill_count"] = 5,
-        ["points"] = 8790.5,
+        ["points"] = 8790.71,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3969,
@@ -45419,9 +45419,9 @@ UWULogsData[1][2] = {
         ["points"] = 8939.9,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5059,
+        ["rank_raids"] = 5060,
         ["kill_count"] = 6,
-        ["points"] = 8033.3,
+        ["points"] = 8033.0,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2536,
@@ -45438,7 +45438,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2756,
         ["kill_count"] = 9,
-        ["points"] = 8780.36,
+        ["points"] = 8780.79,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 8056,
@@ -45446,9 +45446,9 @@ UWULogsData[1][2] = {
         ["points"] = 7134.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7954,
+        ["rank_raids"] = 7955,
         ["kill_count"] = 12,
-        ["points"] = 7541.35,
+        ["points"] = 7541.77,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3064,
@@ -45458,7 +45458,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3676,
         ["kill_count"] = 11,
-        ["points"] = 8551.38,
+        ["points"] = 8551.63,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2028,
@@ -45495,7 +45495,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3412,
         ["kill_count"] = 12,
-        ["points"] = 8574.17,
+        ["points"] = 8574.67,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3611,
@@ -45503,7 +45503,7 @@ UWULogsData[1][2] = {
         ["points"] = 8467.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9995,
+        ["rank_raids"] = 9996,
         ["kill_count"] = 14,
         ["points"] = 7268.78,
       },
@@ -45515,7 +45515,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4290,
         ["kill_count"] = 14,
-        ["points"] = 8372.9,
+        ["points"] = 8373.18,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 878,
@@ -45533,9 +45533,9 @@ UWULogsData[1][2] = {
         ["points"] = 9346.2,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 7711,
+        ["rank_raids"] = 7712,
         ["kill_count"] = 11,
-        ["points"] = 7237.7,
+        ["points"] = 7237.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4406,
@@ -45552,7 +45552,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4425,
         ["kill_count"] = 17,
-        ["points"] = 8280.62,
+        ["points"] = 8281.22,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1916,
@@ -45560,9 +45560,9 @@ UWULogsData[1][2] = {
         ["points"] = 8984.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4455,
+        ["rank_raids"] = 4456,
         ["kill_count"] = 17,
-        ["points"] = 8345.97,
+        ["points"] = 8346.25,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2401,
@@ -45572,7 +45572,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4535,
         ["kill_count"] = 19,
-        ["points"] = 8307.05,
+        ["points"] = 8307.35,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5356,
@@ -45609,7 +45609,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3941,
         ["kill_count"] = 8,
-        ["points"] = 8402.94,
+        ["points"] = 8403.49,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2240,
@@ -45619,7 +45619,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2576,
         ["kill_count"] = 7,
-        ["points"] = 8843.9,
+        ["points"] = 8844.1,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4096,
@@ -45629,7 +45629,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5589,
         ["kill_count"] = 7,
-        ["points"] = 8055.8,
+        ["points"] = 8056.13,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3657,
@@ -45647,9 +45647,9 @@ UWULogsData[1][2] = {
         ["points"] = 7417.7,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4584,
+        ["rank_raids"] = 4585,
         ["kill_count"] = 6,
-        ["points"] = 8175.8,
+        ["points"] = 8175.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1399,
@@ -45666,7 +45666,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5617,
         ["kill_count"] = 16,
-        ["points"] = 7925.91,
+        ["points"] = 7926.64,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4250,
@@ -45676,7 +45676,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1173,
         ["kill_count"] = 17,
-        ["points"] = 9343.56,
+        ["points"] = 9343.67,
       },
       ["Festergut"] = {
         ["rank_raids"] = 8815,
@@ -45686,7 +45686,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4669,
         ["kill_count"] = 18,
-        ["points"] = 8284.53,
+        ["points"] = 8284.82,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3987,
@@ -45704,9 +45704,9 @@ UWULogsData[1][2] = {
         ["points"] = 9516.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6070,
+        ["rank_raids"] = 6071,
         ["kill_count"] = 12,
-        ["points"] = 7730.0,
+        ["points"] = 7729.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 5873,
@@ -45723,7 +45723,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5650,
         ["kill_count"] = 12,
-        ["points"] = 7913.68,
+        ["points"] = 7914.41,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 7705,
@@ -45733,7 +45733,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1898,
         ["kill_count"] = 13,
-        ["points"] = 9088.56,
+        ["points"] = 9088.72,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4024,
@@ -45743,7 +45743,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3901,
         ["kill_count"] = 11,
-        ["points"] = 8480.33,
+        ["points"] = 8480.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1781,
@@ -45780,7 +45780,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4564,
         ["kill_count"] = 15,
-        ["points"] = 8247.42,
+        ["points"] = 8248.03,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2880,
@@ -45788,9 +45788,9 @@ UWULogsData[1][2] = {
         ["points"] = 8687.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4565,
+        ["rank_raids"] = 4566,
         ["kill_count"] = 17,
-        ["points"] = 8313.23,
+        ["points"] = 8313.52,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4169,
@@ -45800,7 +45800,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4015,
         ["kill_count"] = 18,
-        ["points"] = 8445.68,
+        ["points"] = 8445.95,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3588,
@@ -45837,7 +45837,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 8756,
         ["kill_count"] = 19,
-        ["points"] = 7116.9,
+        ["points"] = 7117.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3365,
@@ -45845,9 +45845,9 @@ UWULogsData[1][2] = {
         ["points"] = 8541.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7553,
+        ["rank_raids"] = 7554,
         ["kill_count"] = 21,
-        ["points"] = 7629.22,
+        ["points"] = 7629.63,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2341,
@@ -45857,7 +45857,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3847,
         ["kill_count"] = 20,
-        ["points"] = 8499.39,
+        ["points"] = 8499.65,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3452,
@@ -45894,7 +45894,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 7851,
         ["kill_count"] = 25,
-        ["points"] = 7337.06,
+        ["points"] = 7337.99,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6285,
@@ -45902,9 +45902,9 @@ UWULogsData[1][2] = {
         ["points"] = 7665.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4661,
+        ["rank_raids"] = 4662,
         ["kill_count"] = 24,
-        ["points"] = 8294.28,
+        ["points"] = 8294.57,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1600,
@@ -45914,7 +45914,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2376,
         ["kill_count"] = 25,
-        ["points"] = 8917.0,
+        ["points"] = 8917.19,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1392,
@@ -45951,7 +45951,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5399,
         ["kill_count"] = 6,
-        ["points"] = 8004.54,
+        ["points"] = 8005.24,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3507,
@@ -45961,17 +45961,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3649,
         ["kill_count"] = 6,
-        ["points"] = 8557.89,
+        ["points"] = 8558.14,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6689,
         ["kill_count"] = 6,
-        ["points"] = 7646.55,
+        ["points"] = 7647.36,
       },
       ["Rotface"] = {
         ["rank_raids"] = 4976,
         ["kill_count"] = 5,
-        ["points"] = 8216.95,
+        ["points"] = 8217.26,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2652,
@@ -46001,14 +46001,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Zarkt"] = {
-    ["percentile"] = 83.45,
+    ["percentile"] = 83.46,
     ["server"] = "Icecrown",
     ["overall_rank"] = 809,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2280,
         ["kill_count"] = 19,
-        ["points"] = 8955.09,
+        ["points"] = 8955.46,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2242,
@@ -46016,19 +46016,19 @@ UWULogsData[1][2] = {
         ["points"] = 8878.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6167,
+        ["rank_raids"] = 6168,
         ["kill_count"] = 20,
-        ["points"] = 7937.63,
+        ["points"] = 7937.98,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5451,
         ["kill_count"] = 20,
-        ["points"] = 7930.14,
+        ["points"] = 7930.86,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7483,
+        ["rank_raids"] = 7484,
         ["kill_count"] = 20,
-        ["points"] = 7596.6,
+        ["points"] = 7597.02,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3147,
@@ -46065,7 +46065,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6792,
         ["kill_count"] = 3,
-        ["points"] = 7614.89,
+        ["points"] = 7615.72,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4722,
@@ -46075,7 +46075,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3774,
         ["kill_count"] = 5,
-        ["points"] = 8528.6,
+        ["points"] = 8528.85,
       },
       ["Festergut"] = {
         ["rank_raids"] = 8534,
@@ -46085,7 +46085,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3923,
         ["kill_count"] = 6,
-        ["points"] = 8475.13,
+        ["points"] = 8475.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4322,
@@ -46122,7 +46122,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4898,
         ["kill_count"] = 5,
-        ["points"] = 8153.07,
+        ["points"] = 8153.71,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6414,
@@ -46132,7 +46132,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 609,
         ["kill_count"] = 4,
-        ["points"] = 9595.11,
+        ["points"] = 9595.18,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5084,
@@ -46142,7 +46142,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2483,
         ["kill_count"] = 4,
-        ["points"] = 8880.61,
+        ["points"] = 8880.8,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3540,
@@ -46160,9 +46160,9 @@ UWULogsData[1][2] = {
         ["points"] = 7362.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4478,
+        ["rank_raids"] = 4479,
         ["kill_count"] = 4,
-        ["points"] = 8207.6,
+        ["points"] = 8207.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 6391,
@@ -46179,7 +46179,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2047,
         ["kill_count"] = 14,
-        ["points"] = 9044.21,
+        ["points"] = 9044.54,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6629,
@@ -46187,9 +46187,9 @@ UWULogsData[1][2] = {
         ["points"] = 7562.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5856,
+        ["rank_raids"] = 5857,
         ["kill_count"] = 13,
-        ["points"] = 7996.21,
+        ["points"] = 7996.55,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2787,
@@ -46199,7 +46199,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3183,
         ["kill_count"] = 13,
-        ["points"] = 8695.2,
+        ["points"] = 8695.43,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2616,
@@ -46236,7 +46236,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1647,
         ["kill_count"] = 7,
-        ["points"] = 9192.73,
+        ["points"] = 9193.01,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3344,
@@ -46246,22 +46246,22 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1022,
         ["kill_count"] = 7,
-        ["points"] = 9407.31,
+        ["points"] = 9407.41,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6761,
         ["kill_count"] = 7,
-        ["points"] = 7634.45,
+        ["points"] = 7635.26,
       },
       ["Rotface"] = {
         ["rank_raids"] = 4366,
         ["kill_count"] = 7,
-        ["points"] = 8341.71,
+        ["points"] = 8342.0,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9064,
+        ["rank_raids"] = 9065,
         ["kill_count"] = 7,
-        ["points"] = 6831.8,
+        ["points"] = 6831.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3664,
@@ -46274,9 +46274,9 @@ UWULogsData[1][2] = {
         ["points"] = 9313.4,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6831,
+        ["rank_raids"] = 6832,
         ["kill_count"] = 10,
-        ["points"] = 7501.7,
+        ["points"] = 7501.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 5149,
@@ -46293,7 +46293,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2918,
         ["kill_count"] = 8,
-        ["points"] = 8734.93,
+        ["points"] = 8735.37,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1986,
@@ -46301,19 +46301,19 @@ UWULogsData[1][2] = {
         ["points"] = 8956.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6319,
+        ["rank_raids"] = 6320,
         ["kill_count"] = 9,
-        ["points"] = 7884.22,
+        ["points"] = 7884.58,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5390,
         ["kill_count"] = 11,
-        ["points"] = 7938.79,
+        ["points"] = 7939.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 4964,
         ["kill_count"] = 11,
-        ["points"] = 8223.88,
+        ["points"] = 8224.19,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4453,
@@ -46331,9 +46331,9 @@ UWULogsData[1][2] = {
         ["points"] = 8731.4,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4785,
+        ["rank_raids"] = 4786,
         ["kill_count"] = 8,
-        ["points"] = 8115.5,
+        ["points"] = 8115.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4244,
@@ -46350,7 +46350,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4889,
         ["kill_count"] = 10,
-        ["points"] = 8156.56,
+        ["points"] = 8157.21,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6568,
@@ -46358,17 +46358,17 @@ UWULogsData[1][2] = {
         ["points"] = 7580.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5013,
+        ["rank_raids"] = 5014,
         ["kill_count"] = 10,
-        ["points"] = 8211.58,
+        ["points"] = 8211.89,
       },
       ["Festergut"] = {
         ["rank_raids"] = 234,
         ["kill_count"] = 11,
-        ["points"] = 9801.14,
+        ["points"] = 9801.21,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8678,
+        ["rank_raids"] = 8679,
         ["kill_count"] = 9,
         ["points"] = 7438.39,
       },
@@ -46388,9 +46388,9 @@ UWULogsData[1][2] = {
         ["points"] = 8230.7,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 8649,
+        ["rank_raids"] = 8650,
         ["kill_count"] = 7,
-        ["points"] = 6956.3,
+        ["points"] = 6956.0,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1975,
@@ -46407,7 +46407,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 7319,
         ["kill_count"] = 15,
-        ["points"] = 7476.85,
+        ["points"] = 7477.73,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4878,
@@ -46415,19 +46415,19 @@ UWULogsData[1][2] = {
         ["points"] = 8087.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5663,
+        ["rank_raids"] = 5664,
         ["kill_count"] = 15,
-        ["points"] = 8047.9,
+        ["points"] = 8048.23,
       },
       ["Festergut"] = {
         ["rank_raids"] = 823,
         ["kill_count"] = 14,
-        ["points"] = 9460.49,
+        ["points"] = 9460.67,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3584,
         ["kill_count"] = 14,
-        ["points"] = 8577.37,
+        ["points"] = 8577.62,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2703,
@@ -46445,9 +46445,9 @@ UWULogsData[1][2] = {
         ["points"] = 9370.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6110,
+        ["rank_raids"] = 6111,
         ["kill_count"] = 12,
-        ["points"] = 7718.0,
+        ["points"] = 7717.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 5823,
@@ -46464,7 +46464,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1202,
         ["kill_count"] = 2,
-        ["points"] = 9362.22,
+        ["points"] = 9362.45,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 10818,
@@ -46474,17 +46474,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2505,
         ["kill_count"] = 3,
-        ["points"] = 8864.58,
+        ["points"] = 8864.77,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5522,
         ["kill_count"] = 3,
-        ["points"] = 7918.04,
+        ["points"] = 7918.76,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1288,
         ["kill_count"] = 3,
-        ["points"] = 9303.41,
+        ["points"] = 9303.53,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6799,
@@ -46521,7 +46521,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1796,
         ["kill_count"] = 9,
-        ["points"] = 9131.57,
+        ["points"] = 9131.88,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3121,
@@ -46531,7 +46531,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2187,
         ["kill_count"] = 9,
-        ["points"] = 8971.4,
+        ["points"] = 8971.58,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3289,
@@ -46541,7 +46541,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3687,
         ["kill_count"] = 8,
-        ["points"] = 8544.45,
+        ["points"] = 8544.7,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3350,
@@ -46559,9 +46559,9 @@ UWULogsData[1][2] = {
         ["points"] = 7925.3,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5455,
+        ["rank_raids"] = 5456,
         ["kill_count"] = 4,
-        ["points"] = 7914.5,
+        ["points"] = 7914.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 7333,
@@ -46578,7 +46578,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5377,
         ["kill_count"] = 5,
-        ["points"] = 8011.53,
+        ["points"] = 8012.23,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4883,
@@ -46586,19 +46586,19 @@ UWULogsData[1][2] = {
         ["points"] = 8086.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10087,
+        ["rank_raids"] = 10088,
         ["kill_count"] = 5,
         ["points"] = 7262.38,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6341,
         ["kill_count"] = 5,
-        ["points"] = 7722.64,
+        ["points"] = 7723.42,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1990,
         ["kill_count"] = 5,
-        ["points"] = 9050.42,
+        ["points"] = 9050.59,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2824,
@@ -46611,9 +46611,9 @@ UWULogsData[1][2] = {
         ["points"] = 9183.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 10483,
+        ["rank_raids"] = 10484,
         ["kill_count"] = 5,
-        ["points"] = 6502.7,
+        ["points"] = 6502.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 229,
@@ -46635,7 +46635,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1447,
         ["kill_count"] = 18,
-        ["points"] = 9273.11,
+        ["points"] = 9273.36,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6134,
@@ -46645,7 +46645,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 4228,
         ["kill_count"] = 19,
-        ["points"] = 8413.16,
+        ["points"] = 8413.44,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3673,
@@ -46655,7 +46655,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1905,
         ["kill_count"] = 19,
-        ["points"] = 9072.95,
+        ["points"] = 9073.11,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6751,
@@ -46673,9 +46673,9 @@ UWULogsData[1][2] = {
         ["points"] = 8562.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4507,
+        ["rank_raids"] = 4508,
         ["kill_count"] = 18,
-        ["points"] = 8198.9,
+        ["points"] = 8198.6,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 3796,
@@ -46692,7 +46692,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6146,
         ["kill_count"] = 16,
-        ["points"] = 7787.87,
+        ["points"] = 7788.65,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1826,
@@ -46700,19 +46700,19 @@ UWULogsData[1][2] = {
         ["points"] = 9020.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6513,
+        ["rank_raids"] = 6514,
         ["kill_count"] = 16,
-        ["points"] = 7842.87,
+        ["points"] = 7843.24,
       },
       ["Festergut"] = {
         ["rank_raids"] = 330,
         ["kill_count"] = 18,
-        ["points"] = 9733.7,
+        ["points"] = 9733.79,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3679,
         ["kill_count"] = 16,
-        ["points"] = 8549.64,
+        ["points"] = 8549.9,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1813,
@@ -46730,9 +46730,9 @@ UWULogsData[1][2] = {
         ["points"] = 9113.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5912,
+        ["rank_raids"] = 5913,
         ["kill_count"] = 14,
-        ["points"] = 7777.4,
+        ["points"] = 7777.1,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 10534,
@@ -46749,7 +46749,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 36,
         ["kill_count"] = 5,
-        ["points"] = 9966.8,
+        ["points"] = 9966.81,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4401,
@@ -46757,7 +46757,7 @@ UWULogsData[1][2] = {
         ["points"] = 8230.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9020,
+        ["rank_raids"] = 9021,
         ["kill_count"] = 4,
         ["points"] = 7347.91,
       },
@@ -46769,12 +46769,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2619,
         ["kill_count"] = 3,
-        ["points"] = 8828.63,
+        ["points"] = 8828.83,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 10201,
+        ["rank_raids"] = 10202,
         ["kill_count"] = 2,
-        ["points"] = 6530.9,
+        ["points"] = 6530.8,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2467,
@@ -46806,7 +46806,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6487,
         ["kill_count"] = 6,
-        ["points"] = 7690.02,
+        ["points"] = 7690.83,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2057,
@@ -46814,9 +46814,9 @@ UWULogsData[1][2] = {
         ["points"] = 8933.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7279,
+        ["rank_raids"] = 7280,
         ["kill_count"] = 6,
-        ["points"] = 7680.91,
+        ["points"] = 7681.31,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1922,
@@ -46826,12 +46826,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5148,
         ["kill_count"] = 6,
-        ["points"] = 8170.16,
+        ["points"] = 8170.48,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 10619,
+        ["rank_raids"] = 10620,
         ["kill_count"] = 6,
-        ["points"] = 6489.1,
+        ["points"] = 6489.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4712,
@@ -46863,7 +46863,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5935,
         ["kill_count"] = 8,
-        ["points"] = 7840.29,
+        ["points"] = 7841.05,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5625,
@@ -46871,9 +46871,9 @@ UWULogsData[1][2] = {
         ["points"] = 7863.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5184,
+        ["rank_raids"] = 5185,
         ["kill_count"] = 8,
-        ["points"] = 8180.57,
+        ["points"] = 8180.88,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2908,
@@ -46883,7 +46883,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5103,
         ["kill_count"] = 8,
-        ["points"] = 8185.76,
+        ["points"] = 8186.07,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5099,
@@ -46920,7 +46920,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3128,
         ["kill_count"] = 8,
-        ["points"] = 8673.77,
+        ["points"] = 8674.24,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3745,
@@ -46930,7 +46930,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 4200,
         ["kill_count"] = 8,
-        ["points"] = 8423.5,
+        ["points"] = 8423.77,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1439,
@@ -46938,9 +46938,9 @@ UWULogsData[1][2] = {
         ["points"] = 9175.4,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6045,
+        ["rank_raids"] = 6046,
         ["kill_count"] = 8,
-        ["points"] = 7924.1,
+        ["points"] = 7924.46,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4196,
@@ -46958,9 +46958,9 @@ UWULogsData[1][2] = {
         ["points"] = 8325.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 7258,
+        ["rank_raids"] = 7259,
         ["kill_count"] = 7,
-        ["points"] = 7373.6,
+        ["points"] = 7373.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 6399,
@@ -46977,7 +46977,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4881,
         ["kill_count"] = 7,
-        ["points"] = 8163.55,
+        ["points"] = 8164.19,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3747,
@@ -46987,7 +46987,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2176,
         ["kill_count"] = 9,
-        ["points"] = 8973.12,
+        ["points"] = 8973.3,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3852,
@@ -47000,9 +47000,9 @@ UWULogsData[1][2] = {
         ["points"] = 9961.0,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 14423,
+        ["rank_raids"] = 14424,
         ["kill_count"] = 6,
-        ["points"] = 6108.7,
+        ["points"] = 6108.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6524,
@@ -47034,7 +47034,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 9803,
         ["kill_count"] = 4,
-        ["points"] = 6874.02,
+        ["points"] = 6875.11,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 7869,
@@ -47042,19 +47042,19 @@ UWULogsData[1][2] = {
         ["points"] = 7190.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4959,
+        ["rank_raids"] = 4960,
         ["kill_count"] = 3,
-        ["points"] = 8228.81,
+        ["points"] = 8229.11,
       },
       ["Festergut"] = {
         ["rank_raids"] = 259,
         ["kill_count"] = 3,
-        ["points"] = 9785.58,
+        ["points"] = 9785.65,
       },
       ["Rotface"] = {
         ["rank_raids"] = 5205,
         ["kill_count"] = 3,
-        ["points"] = 8154.57,
+        ["points"] = 8154.89,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5306,
@@ -47084,14 +47084,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Porkypaw"] = {
-    ["percentile"] = 82.93,
+    ["percentile"] = 82.94,
     ["server"] = "Icecrown",
     ["overall_rank"] = 828,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 9651,
         ["kill_count"] = 10,
-        ["points"] = 6891.49,
+        ["points"] = 6892.58,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6575,
@@ -47101,7 +47101,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3757,
         ["kill_count"] = 10,
-        ["points"] = 8535.49,
+        ["points"] = 8535.75,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2553,
@@ -47111,7 +47111,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1430,
         ["kill_count"] = 10,
-        ["points"] = 9251.43,
+        ["points"] = 9251.56,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4773,
@@ -47141,14 +47141,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Mightyboy"] = {
-    ["percentile"] = 82.92,
+    ["percentile"] = 82.93,
     ["server"] = "Icecrown",
     ["overall_rank"] = 829,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4456,
         ["kill_count"] = 6,
-        ["points"] = 8271.89,
+        ["points"] = 8272.49,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4715,
@@ -47158,17 +47158,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1917,
         ["kill_count"] = 9,
-        ["points"] = 9081.67,
+        ["points"] = 9081.83,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5330,
         ["kill_count"] = 9,
-        ["points"] = 7952.62,
+        ["points"] = 7953.33,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6776,
+        ["rank_raids"] = 6777,
         ["kill_count"] = 9,
-        ["points"] = 7752.56,
+        ["points"] = 7752.95,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3414,
@@ -47186,9 +47186,9 @@ UWULogsData[1][2] = {
         ["points"] = 8574.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6316,
+        ["rank_raids"] = 6317,
         ["kill_count"] = 7,
-        ["points"] = 7656.2,
+        ["points"] = 7655.9,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2470,
@@ -47198,14 +47198,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Kellepaca"] = {
-    ["percentile"] = 82.89,
+    ["percentile"] = 82.9,
     ["server"] = "Icecrown",
     ["overall_rank"] = 830,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1487,
         ["kill_count"] = 2,
-        ["points"] = 9255.64,
+        ["points"] = 9255.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 12012,
@@ -47215,17 +47215,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3771,
         ["kill_count"] = 2,
-        ["points"] = 8530.32,
+        ["points"] = 8530.58,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6659,
         ["kill_count"] = 2,
-        ["points"] = 7650.01,
+        ["points"] = 7650.82,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7442,
+        ["rank_raids"] = 7443,
         ["kill_count"] = 2,
-        ["points"] = 7607.0,
+        ["points"] = 7607.42,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2158,
@@ -47262,7 +47262,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5474,
         ["kill_count"] = 19,
-        ["points"] = 7976.59,
+        ["points"] = 7977.29,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 8598,
@@ -47272,7 +47272,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2870,
         ["kill_count"] = 24,
-        ["points"] = 8759.48,
+        ["points"] = 8759.69,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3008,
@@ -47282,12 +47282,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1409,
         ["kill_count"] = 19,
-        ["points"] = 9258.36,
+        ["points"] = 9258.49,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8854,
+        ["rank_raids"] = 8855,
         ["kill_count"] = 13,
-        ["points"] = 6894.8,
+        ["points"] = 6894.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4342,
@@ -47319,7 +47319,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2624,
         ["kill_count"] = 10,
-        ["points"] = 8820.55,
+        ["points"] = 8820.96,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4198,
@@ -47327,7 +47327,7 @@ UWULogsData[1][2] = {
         ["points"] = 8291.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 11268,
+        ["rank_raids"] = 11269,
         ["kill_count"] = 11,
         ["points"] = 7161.23,
       },
@@ -47337,7 +47337,7 @@ UWULogsData[1][2] = {
         ["points"] = 9021.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9643,
+        ["rank_raids"] = 9644,
         ["kill_count"] = 10,
         ["points"] = 7357.86,
       },
@@ -47357,9 +47357,9 @@ UWULogsData[1][2] = {
         ["points"] = 9029.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 8249,
+        ["rank_raids"] = 8250,
         ["kill_count"] = 7,
-        ["points"] = 7076.3,
+        ["points"] = 7076.0,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 6748,
@@ -47369,14 +47369,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Anbers"] = {
-    ["percentile"] = 82.82,
+    ["percentile"] = 82.83,
     ["server"] = "Icecrown",
     ["overall_rank"] = 833,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1608,
         ["kill_count"] = 6,
-        ["points"] = 9210.2,
+        ["points"] = 9210.48,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2085,
@@ -47384,9 +47384,9 @@ UWULogsData[1][2] = {
         ["points"] = 8925.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6133,
+        ["rank_raids"] = 6134,
         ["kill_count"] = 6,
-        ["points"] = 7946.24,
+        ["points"] = 7946.6,
       },
       ["Festergut"] = {
         ["rank_raids"] = 10601,
@@ -47394,9 +47394,9 @@ UWULogsData[1][2] = {
         ["points"] = 7148.88,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7935,
+        ["rank_raids"] = 7936,
         ["kill_count"] = 6,
-        ["points"] = 7497.83,
+        ["points"] = 7498.27,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3330,
@@ -47433,7 +47433,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4026,
         ["kill_count"] = 1,
-        ["points"] = 8378.47,
+        ["points"] = 8379.04,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1185,
@@ -47441,7 +47441,7 @@ UWULogsData[1][2] = {
         ["points"] = 9277.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8903,
+        ["rank_raids"] = 8904,
         ["kill_count"] = 1,
         ["points"] = 7357.48,
       },
@@ -47451,7 +47451,7 @@ UWULogsData[1][2] = {
         ["points"] = 9281.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 12217,
+        ["rank_raids"] = 12218,
         ["kill_count"] = 1,
         ["points"] = 7131.16,
       },
@@ -47471,9 +47471,9 @@ UWULogsData[1][2] = {
         ["points"] = 7745.9,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6256,
+        ["rank_raids"] = 6257,
         ["kill_count"] = 1,
-        ["points"] = 7674.2,
+        ["points"] = 7673.9,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 976,
@@ -47490,7 +47490,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3400,
         ["kill_count"] = 4,
-        ["points"] = 8579.42,
+        ["points"] = 8579.91,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 8386,
@@ -47498,9 +47498,9 @@ UWULogsData[1][2] = {
         ["points"] = 7035.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4655,
+        ["rank_raids"] = 4656,
         ["kill_count"] = 6,
-        ["points"] = 8296.0,
+        ["points"] = 8296.3,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4653,
@@ -47510,7 +47510,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5113,
         ["kill_count"] = 6,
-        ["points"] = 8178.83,
+        ["points"] = 8179.14,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 796,
@@ -47540,14 +47540,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Quentin"] = {
-    ["percentile"] = 82.8,
+    ["percentile"] = 82.81,
     ["server"] = "Icecrown",
     ["overall_rank"] = 836,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1423,
         ["kill_count"] = 5,
-        ["points"] = 9280.1,
+        ["points"] = 9280.35,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5578,
@@ -47557,17 +47557,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 216,
         ["kill_count"] = 4,
-        ["points"] = 9815.64,
+        ["points"] = 9815.68,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6213,
         ["kill_count"] = 5,
-        ["points"] = 7739.93,
+        ["points"] = 7740.71,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2908,
         ["kill_count"] = 5,
-        ["points"] = 8767.98,
+        ["points"] = 8768.19,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5734,
@@ -47580,9 +47580,9 @@ UWULogsData[1][2] = {
         ["points"] = 7614.86,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 10672,
+        ["rank_raids"] = 10673,
         ["kill_count"] = 5,
-        ["points"] = 6483.8,
+        ["points"] = 6483.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 399,
@@ -47597,14 +47597,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Polidoro"] = {
-    ["percentile"] = 82.77,
+    ["percentile"] = 82.78,
     ["server"] = "Icecrown",
     ["overall_rank"] = 837,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 7829,
         ["kill_count"] = 9,
-        ["points"] = 7342.3,
+        ["points"] = 7343.23,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1095,
@@ -47612,9 +47612,9 @@ UWULogsData[1][2] = {
         ["points"] = 9313.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5467,
+        ["rank_raids"] = 5468,
         ["kill_count"] = 10,
-        ["points"] = 8096.14,
+        ["points"] = 8096.47,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5260,
@@ -47624,7 +47624,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5212,
         ["kill_count"] = 10,
-        ["points"] = 8151.1,
+        ["points"] = 8151.42,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4326,
@@ -47642,9 +47642,9 @@ UWULogsData[1][2] = {
         ["points"] = 8117.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6282,
+        ["rank_raids"] = 6283,
         ["kill_count"] = 9,
-        ["points"] = 7666.4,
+        ["points"] = 7666.1,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1406,
@@ -47669,7 +47669,7 @@ UWULogsData[1][2] = {
         ["points"] = 8615.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9491,
+        ["rank_raids"] = 9492,
         ["kill_count"] = 3,
         ["points"] = 7308.08,
       },
@@ -47681,7 +47681,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4360,
         ["kill_count"] = 3,
-        ["points"] = 8343.44,
+        ["points"] = 8343.73,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3142,
@@ -47718,7 +47718,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3879,
         ["kill_count"] = 18,
-        ["points"] = 8423.9,
+        ["points"] = 8424.45,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5819,
@@ -47728,7 +47728,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 934,
         ["kill_count"] = 22,
-        ["points"] = 9440.04,
+        ["points"] = 9440.14,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2731,
@@ -47738,7 +47738,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2104,
         ["kill_count"] = 21,
-        ["points"] = 9000.17,
+        ["points"] = 9000.35,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6045,
@@ -47756,9 +47756,9 @@ UWULogsData[1][2] = {
         ["points"] = 9307.4,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 9757,
+        ["rank_raids"] = 9758,
         ["kill_count"] = 15,
-        ["points"] = 6623.9,
+        ["points"] = 6623.6,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 8795,
@@ -47775,7 +47775,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 7377,
         ["kill_count"] = 8,
-        ["points"] = 7462.87,
+        ["points"] = 7463.76,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4158,
@@ -47783,9 +47783,9 @@ UWULogsData[1][2] = {
         ["points"] = 8303.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5440,
+        ["rank_raids"] = 5441,
         ["kill_count"] = 8,
-        ["points"] = 8113.37,
+        ["points"] = 8113.7,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2639,
@@ -47795,7 +47795,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2451,
         ["kill_count"] = 8,
-        ["points"] = 8894.47,
+        ["points"] = 8894.66,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3989,
@@ -47832,7 +47832,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 12307,
         ["kill_count"] = 9,
-        ["points"] = 6330.6,
+        ["points"] = 6331.88,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1145,
@@ -47840,9 +47840,9 @@ UWULogsData[1][2] = {
         ["points"] = 9293.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6072,
+        ["rank_raids"] = 6073,
         ["kill_count"] = 8,
-        ["points"] = 7960.03,
+        ["points"] = 7960.38,
       },
       ["Festergut"] = {
         ["rank_raids"] = 10081,
@@ -47852,7 +47852,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3870,
         ["kill_count"] = 9,
-        ["points"] = 8489.0,
+        ["points"] = 8489.26,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3485,
@@ -47889,7 +47889,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4410,
         ["kill_count"] = 4,
-        ["points"] = 8285.86,
+        ["points"] = 8286.46,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6454,
@@ -47897,17 +47897,17 @@ UWULogsData[1][2] = {
         ["points"] = 7614.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10697,
+        ["rank_raids"] = 10698,
         ["kill_count"] = 4,
         ["points"] = 7212.3,
       },
       ["Festergut"] = {
         ["rank_raids"] = 868,
         ["kill_count"] = 4,
-        ["points"] = 9427.63,
+        ["points"] = 9427.83,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 12107,
+        ["rank_raids"] = 12108,
         ["kill_count"] = 3,
         ["points"] = 7140.38,
       },
@@ -47927,9 +47927,9 @@ UWULogsData[1][2] = {
         ["points"] = 9350.6,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4698,
+        ["rank_raids"] = 4699,
         ["kill_count"] = 2,
-        ["points"] = 8141.6,
+        ["points"] = 8141.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4668,
@@ -47946,7 +47946,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4009,
         ["kill_count"] = 8,
-        ["points"] = 8387.21,
+        ["points"] = 8387.77,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 8000,
@@ -47954,9 +47954,9 @@ UWULogsData[1][2] = {
         ["points"] = 7151.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5694,
+        ["rank_raids"] = 5695,
         ["kill_count"] = 9,
-        ["points"] = 8037.56,
+        ["points"] = 8037.9,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4404,
@@ -47966,7 +47966,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3267,
         ["kill_count"] = 8,
-        ["points"] = 8669.21,
+        ["points"] = 8669.44,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3958,
@@ -48003,7 +48003,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5264,
         ["kill_count"] = 8,
-        ["points"] = 8042.98,
+        ["points"] = 8043.67,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5269,
@@ -48013,7 +48013,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1925,
         ["kill_count"] = 10,
-        ["points"] = 9078.22,
+        ["points"] = 9078.38,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2689,
@@ -48023,7 +48023,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2596,
         ["kill_count"] = 10,
-        ["points"] = 8840.76,
+        ["points"] = 8840.96,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5819,
@@ -48060,7 +48060,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2512,
         ["kill_count"] = 2,
-        ["points"] = 8865.98,
+        ["points"] = 8866.38,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 12039,
@@ -48070,7 +48070,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1787,
         ["kill_count"] = 2,
-        ["points"] = 9121.3,
+        ["points"] = 9121.45,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1519,
@@ -48080,7 +48080,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3340,
         ["kill_count"] = 2,
-        ["points"] = 8648.41,
+        ["points"] = 8648.65,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3775,
@@ -48098,9 +48098,9 @@ UWULogsData[1][2] = {
         ["points"] = 9248.6,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 10468,
+        ["rank_raids"] = 10469,
         ["kill_count"] = 1,
-        ["points"] = 6504.2,
+        ["points"] = 6504.1,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2445,
@@ -48117,7 +48117,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5874,
         ["kill_count"] = 8,
-        ["points"] = 7859.51,
+        ["points"] = 7860.26,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2429,
@@ -48125,9 +48125,9 @@ UWULogsData[1][2] = {
         ["points"] = 8822.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4731,
+        ["rank_raids"] = 4732,
         ["kill_count"] = 8,
-        ["points"] = 8282.22,
+        ["points"] = 8282.52,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3239,
@@ -48137,7 +48137,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3562,
         ["kill_count"] = 8,
-        ["points"] = 8582.57,
+        ["points"] = 8582.81,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7549,
@@ -48167,14 +48167,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Yourlastcatz"] = {
-    ["percentile"] = 82.52,
+    ["percentile"] = 82.53,
     ["server"] = "Icecrown",
     ["overall_rank"] = 847,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 7735,
         ["kill_count"] = 1,
-        ["points"] = 7366.77,
+        ["points"] = 7367.69,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6973,
@@ -48184,22 +48184,22 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 311,
         ["kill_count"] = 1,
-        ["points"] = 9763.96,
+        ["points"] = 9764.0,
       },
       ["Festergut"] = {
         ["rank_raids"] = 865,
         ["kill_count"] = 1,
-        ["points"] = 9431.09,
+        ["points"] = 9431.29,
       },
       ["Rotface"] = {
         ["rank_raids"] = 320,
         ["kill_count"] = 1,
-        ["points"] = 9745.28,
+        ["points"] = 9745.32,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 10978,
+        ["rank_raids"] = 10979,
         ["kill_count"] = 1,
-        ["points"] = 6453.2,
+        ["points"] = 6453.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5666,
@@ -48212,9 +48212,9 @@ UWULogsData[1][2] = {
         ["points"] = 8155.7,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6800,
+        ["rank_raids"] = 6801,
         ["kill_count"] = 1,
-        ["points"] = 7511.0,
+        ["points"] = 7510.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 3107,
@@ -48231,7 +48231,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5479,
         ["kill_count"] = 7,
-        ["points"] = 7973.09,
+        ["points"] = 7973.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2389,
@@ -48239,9 +48239,9 @@ UWULogsData[1][2] = {
         ["points"] = 8834.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7932,
+        ["rank_raids"] = 7933,
         ["kill_count"] = 7,
-        ["points"] = 7544.8,
+        ["points"] = 7545.22,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5124,
@@ -48251,7 +48251,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5390,
         ["kill_count"] = 7,
-        ["points"] = 8102.58,
+        ["points"] = 8102.91,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2836,
@@ -48269,9 +48269,9 @@ UWULogsData[1][2] = {
         ["points"] = 9100.2,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 10326,
+        ["rank_raids"] = 10327,
         ["kill_count"] = 5,
-        ["points"] = 6518.4,
+        ["points"] = 6518.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2736,
@@ -48288,27 +48288,27 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 11344,
         ["kill_count"] = 1,
-        ["points"] = 6519.31,
+        ["points"] = 6520.52,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 15661,
+        ["rank_raids"] = 15662,
         ["kill_count"] = 2,
-        ["points"] = 5984.9,
+        ["points"] = 5984.8,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 4100,
         ["kill_count"] = 2,
-        ["points"] = 8452.79,
+        ["points"] = 8453.06,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6034,
         ["kill_count"] = 2,
-        ["points"] = 7788.35,
+        ["points"] = 7789.11,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3420,
         ["kill_count"] = 2,
-        ["points"] = 8622.42,
+        ["points"] = 8622.66,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2726,
@@ -48345,7 +48345,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 9360,
         ["kill_count"] = 5,
-        ["points"] = 6959.64,
+        ["points"] = 6960.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6030,
@@ -48355,7 +48355,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2332,
         ["kill_count"] = 5,
-        ["points"] = 8921.43,
+        ["points"] = 8921.62,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2645,
@@ -48365,12 +48365,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3381,
         ["kill_count"] = 4,
-        ["points"] = 8631.09,
+        ["points"] = 8631.32,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9322,
+        ["rank_raids"] = 9323,
         ["kill_count"] = 3,
-        ["points"] = 6754.4,
+        ["points"] = 6754.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2091,
@@ -48402,7 +48402,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4520,
         ["kill_count"] = 1,
-        ["points"] = 8261.4,
+        ["points"] = 8262.01,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 11792,
@@ -48412,7 +48412,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2092,
         ["kill_count"] = 1,
-        ["points"] = 9011.03,
+        ["points"] = 9011.2,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4732,
@@ -48422,7 +48422,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1953,
         ["kill_count"] = 1,
-        ["points"] = 9053.89,
+        ["points"] = 9054.05,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5711,
@@ -48440,9 +48440,9 @@ UWULogsData[1][2] = {
         ["points"] = 9737.4,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 9345,
+        ["rank_raids"] = 9346,
         ["kill_count"] = 1,
-        ["points"] = 6747.5,
+        ["points"] = 6747.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2662,
@@ -48459,7 +48459,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 963,
         ["kill_count"] = 24,
-        ["points"] = 9463.57,
+        ["points"] = 9463.76,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 9577,
@@ -48469,7 +48469,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 989,
         ["kill_count"] = 23,
-        ["points"] = 9422.81,
+        ["points"] = 9422.91,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3670,
@@ -48479,7 +48479,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4049,
         ["kill_count"] = 25,
-        ["points"] = 8433.55,
+        ["points"] = 8433.82,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6077,
@@ -48497,9 +48497,9 @@ UWULogsData[1][2] = {
         ["points"] = 9386.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4718,
+        ["rank_raids"] = 4719,
         ["kill_count"] = 21,
-        ["points"] = 8135.6,
+        ["points"] = 8135.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 10421,
@@ -48516,7 +48516,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5586,
         ["kill_count"] = 7,
-        ["points"] = 7941.64,
+        ["points"] = 7942.36,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5862,
@@ -48524,9 +48524,9 @@ UWULogsData[1][2] = {
         ["points"] = 7792.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5221,
+        ["rank_raids"] = 5222,
         ["kill_count"] = 7,
-        ["points"] = 8170.23,
+        ["points"] = 8170.54,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3432,
@@ -48536,7 +48536,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3691,
         ["kill_count"] = 7,
-        ["points"] = 8540.98,
+        ["points"] = 8541.23,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6240,
@@ -48573,7 +48573,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3466,
         ["kill_count"] = 10,
-        ["points"] = 8560.2,
+        ["points"] = 8560.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1646,
@@ -48581,19 +48581,19 @@ UWULogsData[1][2] = {
         ["points"] = 9092.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4798,
+        ["rank_raids"] = 4799,
         ["kill_count"] = 8,
-        ["points"] = 8268.44,
+        ["points"] = 8268.73,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6173,
         ["kill_count"] = 8,
-        ["points"] = 7753.76,
+        ["points"] = 7754.54,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7188,
+        ["rank_raids"] = 7189,
         ["kill_count"] = 8,
-        ["points"] = 7653.79,
+        ["points"] = 7654.19,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5119,
@@ -48630,7 +48630,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5500,
         ["kill_count"] = 1,
-        ["points"] = 7966.1,
+        ["points"] = 7966.81,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1305,
@@ -48640,7 +48640,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2321,
         ["kill_count"] = 3,
-        ["points"] = 8928.33,
+        ["points"] = 8928.51,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2894,
@@ -48650,12 +48650,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4928,
         ["kill_count"] = 3,
-        ["points"] = 8232.54,
+        ["points"] = 8232.85,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 10979,
+        ["rank_raids"] = 10980,
         ["kill_count"] = 2,
-        ["points"] = 6453.1,
+        ["points"] = 6453.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6744,
@@ -48668,9 +48668,9 @@ UWULogsData[1][2] = {
         ["points"] = 8852.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6470,
+        ["rank_raids"] = 6471,
         ["kill_count"] = 3,
-        ["points"] = 7610.0,
+        ["points"] = 7609.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2527,
@@ -48687,7 +48687,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1620,
         ["kill_count"] = 1,
-        ["points"] = 9203.22,
+        ["points"] = 9203.49,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 9108,
@@ -48695,9 +48695,9 @@ UWULogsData[1][2] = {
         ["points"] = 6818.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6162,
+        ["rank_raids"] = 6163,
         ["kill_count"] = 1,
-        ["points"] = 7939.35,
+        ["points"] = 7939.71,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2953,
@@ -48705,7 +48705,7 @@ UWULogsData[1][2] = {
         ["points"] = 8665.1,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9799,
+        ["rank_raids"] = 9800,
         ["kill_count"] = 1,
         ["points"] = 7344.79,
       },
@@ -48744,7 +48744,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 7229,
         ["kill_count"] = 9,
-        ["points"] = 7499.56,
+        ["points"] = 7500.44,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1575,
@@ -48752,9 +48752,9 @@ UWULogsData[1][2] = {
         ["points"] = 9121.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6201,
+        ["rank_raids"] = 6202,
         ["kill_count"] = 9,
-        ["points"] = 7929.01,
+        ["points"] = 7929.37,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2378,
@@ -48764,7 +48764,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5245,
         ["kill_count"] = 9,
-        ["points"] = 8138.97,
+        ["points"] = 8139.29,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5683,
@@ -48782,9 +48782,9 @@ UWULogsData[1][2] = {
         ["points"] = 8205.2,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6018,
+        ["rank_raids"] = 6019,
         ["kill_count"] = 12,
-        ["points"] = 7745.6,
+        ["points"] = 7745.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1667,
@@ -48801,7 +48801,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3279,
         ["kill_count"] = 1,
-        ["points"] = 8623.1,
+        ["points"] = 8623.58,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 10454,
@@ -48809,24 +48809,24 @@ UWULogsData[1][2] = {
         ["points"] = 6505.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5617,
+        ["rank_raids"] = 5618,
         ["kill_count"] = 1,
-        ["points"] = 8059.96,
+        ["points"] = 8060.29,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1155,
         ["kill_count"] = 1,
-        ["points"] = 9292.75,
+        ["points"] = 9293.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 4754,
         ["kill_count"] = 1,
-        ["points"] = 8263.73,
+        ["points"] = 8264.03,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8754,
+        ["rank_raids"] = 8755,
         ["kill_count"] = 1,
-        ["points"] = 6924.8,
+        ["points"] = 6924.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4066,
@@ -48858,7 +48858,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5048,
         ["kill_count"] = 5,
-        ["points"] = 8102.39,
+        ["points"] = 8103.06,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 7122,
@@ -48868,7 +48868,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2006,
         ["kill_count"] = 6,
-        ["points"] = 9043.76,
+        ["points"] = 9043.93,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5031,
@@ -48878,7 +48878,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3833,
         ["kill_count"] = 6,
-        ["points"] = 8504.59,
+        ["points"] = 8504.85,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5724,
@@ -48896,9 +48896,9 @@ UWULogsData[1][2] = {
         ["points"] = 8978.2,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5314,
+        ["rank_raids"] = 5315,
         ["kill_count"] = 5,
-        ["points"] = 7956.8,
+        ["points"] = 7956.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4604,
@@ -48915,7 +48915,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6376,
         ["kill_count"] = 3,
-        ["points"] = 7709.24,
+        ["points"] = 7710.04,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 9426,
@@ -48923,9 +48923,9 @@ UWULogsData[1][2] = {
         ["points"] = 6723.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4875,
+        ["rank_raids"] = 4876,
         ["kill_count"] = 4,
-        ["points"] = 8247.76,
+        ["points"] = 8248.06,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2015,
@@ -48935,7 +48935,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 695,
         ["kill_count"] = 4,
-        ["points"] = 9547.74,
+        ["points"] = 9547.82,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4888,
@@ -48972,7 +48972,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3358,
         ["kill_count"] = 17,
-        ["points"] = 8588.15,
+        ["points"] = 8588.65,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 8850,
@@ -48982,17 +48982,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3314,
         ["kill_count"] = 19,
-        ["points"] = 8640.59,
+        ["points"] = 8640.83,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6592,
         ["kill_count"] = 18,
-        ["points"] = 7662.11,
+        ["points"] = 7662.92,
       },
       ["Rotface"] = {
         ["rank_raids"] = 5150,
         ["kill_count"] = 18,
-        ["points"] = 8166.7,
+        ["points"] = 8167.01,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4302,
@@ -49029,7 +49029,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2672,
         ["kill_count"] = 6,
-        ["points"] = 8808.32,
+        ["points"] = 8808.73,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6926,
@@ -49039,7 +49039,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 4097,
         ["kill_count"] = 7,
-        ["points"] = 8454.51,
+        ["points"] = 8454.78,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4255,
@@ -49049,7 +49049,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2195,
         ["kill_count"] = 6,
-        ["points"] = 8968.98,
+        ["points"] = 8969.16,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7052,
@@ -49067,9 +49067,9 @@ UWULogsData[1][2] = {
         ["points"] = 8072.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6719,
+        ["rank_raids"] = 6720,
         ["kill_count"] = 7,
-        ["points"] = 7535.3,
+        ["points"] = 7535.0,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2668,
@@ -49086,7 +49086,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6978,
         ["kill_count"] = 9,
-        ["points"] = 7551.98,
+        ["points"] = 7552.84,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5422,
@@ -49096,7 +49096,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1811,
         ["kill_count"] = 10,
-        ["points"] = 9112.68,
+        ["points"] = 9112.83,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1406,
@@ -49106,7 +49106,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4909,
         ["kill_count"] = 10,
-        ["points"] = 8234.27,
+        ["points"] = 8234.58,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5956,
@@ -49124,9 +49124,9 @@ UWULogsData[1][2] = {
         ["points"] = 9414.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5561,
+        ["rank_raids"] = 5562,
         ["kill_count"] = 9,
-        ["points"] = 7882.7,
+        ["points"] = 7882.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 5573,
@@ -49143,7 +49143,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5635,
         ["kill_count"] = 16,
-        ["points"] = 7920.67,
+        ["points"] = 7921.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4838,
@@ -49153,17 +49153,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2979,
         ["kill_count"] = 16,
-        ["points"] = 8728.46,
+        ["points"] = 8728.68,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6549,
         ["kill_count"] = 16,
-        ["points"] = 7665.57,
+        ["points"] = 7666.38,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2634,
         ["kill_count"] = 16,
-        ["points"] = 8821.69,
+        ["points"] = 8821.9,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3777,
@@ -49200,7 +49200,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2600,
         ["kill_count"] = 5,
-        ["points"] = 8831.03,
+        ["points"] = 8831.44,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 9558,
@@ -49208,9 +49208,9 @@ UWULogsData[1][2] = {
         ["points"] = 6683.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5734,
+        ["rank_raids"] = 5735,
         ["kill_count"] = 6,
-        ["points"] = 8032.39,
+        ["points"] = 8032.73,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1560,
@@ -49220,7 +49220,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3276,
         ["kill_count"] = 5,
-        ["points"] = 8664.01,
+        ["points"] = 8664.24,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4958,
@@ -49257,7 +49257,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4344,
         ["kill_count"] = 15,
-        ["points"] = 8305.08,
+        ["points"] = 8305.68,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4418,
@@ -49265,7 +49265,7 @@ UWULogsData[1][2] = {
         ["points"] = 8225.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8966,
+        ["rank_raids"] = 8967,
         ["kill_count"] = 15,
         ["points"] = 7352.57,
       },
@@ -49275,9 +49275,9 @@ UWULogsData[1][2] = {
         ["points"] = 7258.96,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6847,
+        ["rank_raids"] = 6848,
         ["kill_count"] = 15,
-        ["points"] = 7731.76,
+        ["points"] = 7732.16,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3786,
@@ -49314,7 +49314,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 9364,
         ["kill_count"] = 6,
-        ["points"] = 6956.14,
+        ["points"] = 6957.21,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3599,
@@ -49324,7 +49324,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1609,
         ["kill_count"] = 6,
-        ["points"] = 9179.88,
+        ["points"] = 9180.02,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3396,
@@ -49334,7 +49334,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5044,
         ["kill_count"] = 8,
-        ["points"] = 8197.89,
+        ["points"] = 8198.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2642,
@@ -49371,7 +49371,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5485,
         ["kill_count"] = 3,
-        ["points"] = 7967.85,
+        ["points"] = 7968.56,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4398,
@@ -49379,19 +49379,19 @@ UWULogsData[1][2] = {
         ["points"] = 8231.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7287,
+        ["rank_raids"] = 7288,
         ["kill_count"] = 3,
-        ["points"] = 7679.19,
+        ["points"] = 7679.59,
       },
       ["Festergut"] = {
         ["rank_raids"] = 7943,
         ["kill_count"] = 3,
-        ["points"] = 7381.98,
+        ["points"] = 7382.89,
       },
       ["Rotface"] = {
         ["rank_raids"] = 4655,
         ["kill_count"] = 3,
-        ["points"] = 8289.72,
+        ["points"] = 8290.02,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3680,
@@ -49409,9 +49409,9 @@ UWULogsData[1][2] = {
         ["points"] = 9912.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5440,
+        ["rank_raids"] = 5441,
         ["kill_count"] = 3,
-        ["points"] = 7919.0,
+        ["points"] = 7918.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 3501,
@@ -49428,7 +49428,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4550,
         ["kill_count"] = 3,
-        ["points"] = 8249.17,
+        ["points"] = 8249.78,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2741,
@@ -49438,17 +49438,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1709,
         ["kill_count"] = 3,
-        ["points"] = 9152.31,
+        ["points"] = 9152.45,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5366,
         ["kill_count"] = 3,
-        ["points"] = 7942.24,
+        ["points"] = 7942.96,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6949,
+        ["rank_raids"] = 6950,
         ["kill_count"] = 3,
-        ["points"] = 7698.84,
+        ["points"] = 7699.24,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6571,
@@ -49488,14 +49488,14 @@ UWULogsData[1][2] = {
         ["points"] = 6181.2,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 14949,
+        ["rank_raids"] = 14950,
         ["kill_count"] = 2,
-        ["points"] = 6056.1,
+        ["points"] = 6056.0,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 373,
         ["kill_count"] = 2,
-        ["points"] = 9727.77,
+        ["points"] = 9727.82,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2363,
@@ -49505,7 +49505,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 349,
         ["kill_count"] = 2,
-        ["points"] = 9724.48,
+        ["points"] = 9724.53,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3797,
@@ -49523,9 +49523,9 @@ UWULogsData[1][2] = {
         ["points"] = 8955.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5615,
+        ["rank_raids"] = 5616,
         ["kill_count"] = 2,
-        ["points"] = 7866.5,
+        ["points"] = 7866.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2554,
@@ -49542,7 +49542,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3300,
         ["kill_count"] = 23,
-        ["points"] = 8612.62,
+        ["points"] = 8613.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4688,
@@ -49550,9 +49550,9 @@ UWULogsData[1][2] = {
         ["points"] = 8144.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8083,
+        ["rank_raids"] = 8084,
         ["kill_count"] = 23,
-        ["points"] = 7513.78,
+        ["points"] = 7514.21,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4669,
@@ -49562,7 +49562,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1599,
         ["kill_count"] = 23,
-        ["points"] = 9178.65,
+        ["points"] = 9178.79,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4509,
@@ -49592,14 +49592,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Serbfreak"] = {
-    ["percentile"] = 82.18,
+    ["percentile"] = 82.19,
     ["server"] = "Icecrown",
     ["overall_rank"] = 872,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 8065,
         ["kill_count"] = 4,
-        ["points"] = 7274.16,
+        ["points"] = 7275.11,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2343,
@@ -49609,17 +49609,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1400,
         ["kill_count"] = 3,
-        ["points"] = 9264.3,
+        ["points"] = 9264.43,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5759,
         ["kill_count"] = 3,
-        ["points"] = 7848.87,
+        ["points"] = 7849.61,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6105,
+        ["rank_raids"] = 6106,
         ["kill_count"] = 3,
-        ["points"] = 7905.04,
+        ["points"] = 7905.41,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6291,
@@ -49637,9 +49637,9 @@ UWULogsData[1][2] = {
         ["points"] = 9263.4,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6506,
+        ["rank_raids"] = 6507,
         ["kill_count"] = 3,
-        ["points"] = 7599.2,
+        ["points"] = 7598.9,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 3358,
@@ -49656,7 +49656,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4419,
         ["kill_count"] = 7,
-        ["points"] = 8284.12,
+        ["points"] = 8284.72,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 8934,
@@ -49666,7 +49666,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2783,
         ["kill_count"] = 7,
-        ["points"] = 8788.77,
+        ["points"] = 8788.98,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2842,
@@ -49676,7 +49676,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2386,
         ["kill_count"] = 6,
-        ["points"] = 8913.53,
+        ["points"] = 8913.72,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4176,
@@ -49713,7 +49713,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 9622,
         ["kill_count"] = 8,
-        ["points"] = 6896.73,
+        ["points"] = 6897.82,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2368,
@@ -49723,15 +49723,15 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1079,
         ["kill_count"] = 8,
-        ["points"] = 9386.63,
+        ["points"] = 9386.74,
       },
       ["Festergut"] = {
         ["rank_raids"] = 7422,
         ["kill_count"] = 8,
-        ["points"] = 7487.46,
+        ["points"] = 7488.33,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7947,
+        ["rank_raids"] = 7948,
         ["kill_count"] = 8,
         ["points"] = 7496.25,
       },
@@ -49770,7 +49770,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 7695,
         ["kill_count"] = 9,
-        ["points"] = 7373.76,
+        ["points"] = 7374.67,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2362,
@@ -49780,7 +49780,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3203,
         ["kill_count"] = 9,
-        ["points"] = 8675.05,
+        ["points"] = 8675.28,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4120,
@@ -49790,7 +49790,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3672,
         ["kill_count"] = 10,
-        ["points"] = 8553.11,
+        ["points"] = 8553.36,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4725,
@@ -49820,14 +49820,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Taiyan"] = {
-    ["percentile"] = 82.12,
+    ["percentile"] = 82.13,
     ["server"] = "Icecrown",
     ["overall_rank"] = 876,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6787,
         ["kill_count"] = 3,
-        ["points"] = 7616.63,
+        ["points"] = 7617.47,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2692,
@@ -49835,19 +49835,19 @@ UWULogsData[1][2] = {
         ["points"] = 8743.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 12373,
+        ["rank_raids"] = 12374,
         ["kill_count"] = 4,
         ["points"] = 7070.1,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5677,
         ["kill_count"] = 4,
-        ["points"] = 7869.62,
+        ["points"] = 7870.35,
       },
       ["Rotface"] = {
         ["rank_raids"] = 4163,
         ["kill_count"] = 4,
-        ["points"] = 8407.56,
+        ["points"] = 8407.83,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4038,
@@ -49884,7 +49884,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5303,
         ["kill_count"] = 13,
-        ["points"] = 8030.75,
+        ["points"] = 8031.44,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3936,
@@ -49892,9 +49892,9 @@ UWULogsData[1][2] = {
         ["points"] = 8370.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6269,
+        ["rank_raids"] = 6270,
         ["kill_count"] = 13,
-        ["points"] = 7906.62,
+        ["points"] = 7906.98,
       },
       ["Festergut"] = {
         ["rank_raids"] = 8241,
@@ -49904,7 +49904,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3731,
         ["kill_count"] = 13,
-        ["points"] = 8527.12,
+        ["points"] = 8527.37,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4277,
@@ -49922,9 +49922,9 @@ UWULogsData[1][2] = {
         ["points"] = 9211.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4751,
+        ["rank_raids"] = 4752,
         ["kill_count"] = 12,
-        ["points"] = 8125.7,
+        ["points"] = 8125.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 6661,
@@ -49941,7 +49941,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4702,
         ["kill_count"] = 10,
-        ["points"] = 8210.73,
+        ["points"] = 8211.35,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1026,
@@ -49951,17 +49951,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3192,
         ["kill_count"] = 10,
-        ["points"] = 8678.5,
+        ["points"] = 8678.73,
       },
       ["Festergut"] = {
         ["rank_raids"] = 818,
         ["kill_count"] = 10,
-        ["points"] = 9465.68,
+        ["points"] = 9465.86,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3517,
         ["kill_count"] = 10,
-        ["points"] = 8594.7,
+        ["points"] = 8594.94,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7825,
@@ -49979,9 +49979,9 @@ UWULogsData[1][2] = {
         ["points"] = 6967.7,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 7599,
+        ["rank_raids"] = 7601,
         ["kill_count"] = 6,
-        ["points"] = 7271.3,
+        ["points"] = 7270.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 6226,
@@ -49998,7 +49998,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5292,
         ["kill_count"] = 2,
-        ["points"] = 8034.25,
+        ["points"] = 8034.93,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 13605,
@@ -50006,9 +50006,9 @@ UWULogsData[1][2] = {
         ["points"] = 6190.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5762,
+        ["rank_raids"] = 5763,
         ["kill_count"] = 2,
-        ["points"] = 8027.22,
+        ["points"] = 8027.56,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2656,
@@ -50018,7 +50018,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5791,
         ["kill_count"] = 2,
-        ["points"] = 7998.61,
+        ["points"] = 7998.96,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2460,
@@ -50047,72 +50047,15 @@ UWULogsData[1][2] = {
       },
     },
   },
-  ["Golqmkotor"] = {
-    ["percentile"] = 82.09,
+  ["Kopasscat"] = {
+    ["percentile"] = 82.1,
     ["server"] = "Icecrown",
     ["overall_rank"] = 880,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 4108,
-        ["kill_count"] = 10,
-        ["points"] = 8354.01,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 6235,
-        ["kill_count"] = 9,
-        ["points"] = 7680.5,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1190,
-        ["kill_count"] = 10,
-        ["points"] = 9338.39,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 8409,
-        ["kill_count"] = 10,
-        ["points"] = 7332.21,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 5298,
-        ["kill_count"] = 10,
-        ["points"] = 8125.11,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 2834,
-        ["kill_count"] = 10,
-        ["points"] = 8700.8,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 3249,
-        ["kill_count"] = 10,
-        ["points"] = 8650.92,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6349,
-        ["kill_count"] = 10,
-        ["points"] = 7646.3,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 2241,
-        ["kill_count"] = 9,
-        ["points"] = 8878.7,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 7417,
-        ["kill_count"] = 9,
-        ["points"] = 7325.9,
-      },
-    },
-  },
-  ["Kopasscat"] = {
-    ["percentile"] = 82.09,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 881,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
         ["rank_raids"] = 7563,
         ["kill_count"] = 15,
-        ["points"] = 7410.45,
+        ["points"] = 7411.35,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4294,
@@ -50120,19 +50063,19 @@ UWULogsData[1][2] = {
         ["points"] = 8262.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5354,
+        ["rank_raids"] = 5355,
         ["kill_count"] = 15,
-        ["points"] = 8142.66,
+        ["points"] = 8142.98,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5558,
         ["kill_count"] = 15,
-        ["points"] = 7904.2,
+        ["points"] = 7904.93,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3538,
         ["kill_count"] = 15,
-        ["points"] = 8584.3,
+        ["points"] = 8584.55,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6104,
@@ -50161,6 +50104,63 @@ UWULogsData[1][2] = {
       },
     },
   },
+  ["Golqmkotor"] = {
+    ["percentile"] = 82.09,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 881,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 4108,
+        ["kill_count"] = 10,
+        ["points"] = 8354.59,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 6235,
+        ["kill_count"] = 9,
+        ["points"] = 7680.5,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 1190,
+        ["kill_count"] = 10,
+        ["points"] = 9338.5,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 8409,
+        ["kill_count"] = 10,
+        ["points"] = 7332.21,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 5298,
+        ["kill_count"] = 10,
+        ["points"] = 8125.43,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 2834,
+        ["kill_count"] = 10,
+        ["points"] = 8700.8,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 3249,
+        ["kill_count"] = 10,
+        ["points"] = 8650.92,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 6349,
+        ["kill_count"] = 10,
+        ["points"] = 7646.3,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 2241,
+        ["kill_count"] = 9,
+        ["points"] = 8878.7,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 7417,
+        ["kill_count"] = 9,
+        ["points"] = 7325.9,
+      },
+    },
+  },
   ["Kittybites"] = {
     ["percentile"] = 82.09,
     ["server"] = "Icecrown",
@@ -50169,7 +50169,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 7285,
         ["kill_count"] = 39,
-        ["points"] = 7485.58,
+        ["points"] = 7486.46,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3600,
@@ -50179,7 +50179,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3483,
         ["kill_count"] = 39,
-        ["points"] = 8599.24,
+        ["points"] = 8599.48,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2773,
@@ -50189,7 +50189,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2748,
         ["kill_count"] = 39,
-        ["points"] = 8804.37,
+        ["points"] = 8804.57,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4658,
@@ -50207,9 +50207,9 @@ UWULogsData[1][2] = {
         ["points"] = 9217.4,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5664,
+        ["rank_raids"] = 5665,
         ["kill_count"] = 35,
-        ["points"] = 7851.8,
+        ["points"] = 7851.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 12924,
@@ -50226,7 +50226,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2310,
         ["kill_count"] = 5,
-        ["points"] = 8944.61,
+        ["points"] = 8944.98,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4341,
@@ -50234,9 +50234,9 @@ UWULogsData[1][2] = {
         ["points"] = 8248.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5333,
+        ["rank_raids"] = 5334,
         ["kill_count"] = 6,
-        ["points"] = 8149.55,
+        ["points"] = 8149.87,
       },
       ["Festergut"] = {
         ["rank_raids"] = 10998,
@@ -50246,7 +50246,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4299,
         ["kill_count"] = 7,
-        ["points"] = 8365.97,
+        ["points"] = 8366.25,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6818,
@@ -50283,7 +50283,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2690,
         ["kill_count"] = 21,
-        ["points"] = 8804.82,
+        ["points"] = 8805.24,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6971,
@@ -50291,19 +50291,19 @@ UWULogsData[1][2] = {
         ["points"] = 7459.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6931,
+        ["rank_raids"] = 6932,
         ["kill_count"] = 21,
-        ["points"] = 7755.0,
+        ["points"] = 7755.38,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6799,
         ["kill_count"] = 20,
-        ["points"] = 7629.26,
+        ["points"] = 7630.08,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3512,
         ["kill_count"] = 21,
-        ["points"] = 8596.43,
+        ["points"] = 8596.67,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7077,
@@ -50340,7 +50340,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 809,
         ["kill_count"] = 2,
-        ["points"] = 9522.98,
+        ["points"] = 9523.14,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3918,
@@ -50348,9 +50348,9 @@ UWULogsData[1][2] = {
         ["points"] = 8375.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5298,
+        ["rank_raids"] = 5299,
         ["kill_count"] = 1,
-        ["points"] = 8156.44,
+        ["points"] = 8156.76,
       },
       ["Festergut"] = {
         ["rank_raids"] = 8028,
@@ -50363,9 +50363,9 @@ UWULogsData[1][2] = {
         ["points"] = 9945.0,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8308,
+        ["rank_raids"] = 8309,
         ["kill_count"] = 2,
-        ["points"] = 7058.6,
+        ["points"] = 7058.3,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3033,
@@ -50378,9 +50378,9 @@ UWULogsData[1][2] = {
         ["points"] = 6841.7,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 11127,
+        ["rank_raids"] = 11128,
         ["kill_count"] = 2,
-        ["points"] = 6438.3,
+        ["points"] = 6438.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 665,
@@ -50390,14 +50390,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Kicur"] = {
-    ["percentile"] = 82.0,
+    ["percentile"] = 82.01,
     ["server"] = "Icecrown",
     ["overall_rank"] = 887,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1388,
         ["kill_count"] = 2,
-        ["points"] = 9288.83,
+        ["points"] = 9289.08,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4625,
@@ -50407,7 +50407,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3558,
         ["kill_count"] = 2,
-        ["points"] = 8582.01,
+        ["points"] = 8582.26,
       },
       ["Festergut"] = {
         ["rank_raids"] = 9094,
@@ -50415,14 +50415,14 @@ UWULogsData[1][2] = {
         ["points"] = 7275.6,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 14406,
+        ["rank_raids"] = 14407,
         ["kill_count"] = 2,
         ["points"] = 6940.1,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8846,
+        ["rank_raids"] = 8847,
         ["kill_count"] = 2,
-        ["points"] = 6897.2,
+        ["points"] = 6896.9,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6790,
@@ -50447,14 +50447,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Pasteurorist"] = {
-    ["percentile"] = 81.99,
+    ["percentile"] = 82.0,
     ["server"] = "Icecrown",
     ["overall_rank"] = 888,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2733,
         ["kill_count"] = 16,
-        ["points"] = 8789.1,
+        ["points"] = 8789.52,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1989,
@@ -50464,17 +50464,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 4237,
         ["kill_count"] = 16,
-        ["points"] = 8404.55,
+        ["points"] = 8404.82,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6151,
         ["kill_count"] = 16,
-        ["points"] = 7760.68,
+        ["points"] = 7761.45,
       },
       ["Rotface"] = {
         ["rank_raids"] = 5907,
         ["kill_count"] = 16,
-        ["points"] = 7970.89,
+        ["points"] = 7971.24,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5064,
@@ -50511,7 +50511,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2262,
         ["kill_count"] = 4,
-        ["points"] = 8962.08,
+        ["points"] = 8962.45,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3019,
@@ -50519,19 +50519,19 @@ UWULogsData[1][2] = {
         ["points"] = 8645.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7263,
+        ["rank_raids"] = 7264,
         ["kill_count"] = 5,
-        ["points"] = 7686.08,
+        ["points"] = 7686.48,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6867,
         ["kill_count"] = 6,
-        ["points"] = 7613.7,
+        ["points"] = 7614.52,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2515,
         ["kill_count"] = 6,
-        ["points"] = 8865.01,
+        ["points"] = 8865.21,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3957,
@@ -50549,9 +50549,9 @@ UWULogsData[1][2] = {
         ["points"] = 7892.6,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 7713,
+        ["rank_raids"] = 7714,
         ["kill_count"] = 6,
-        ["points"] = 7237.1,
+        ["points"] = 7236.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 3729,
@@ -50568,7 +50568,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1125,
         ["kill_count"] = 8,
-        ["points"] = 9386.69,
+        ["points"] = 9386.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1677,
@@ -50578,7 +50578,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2916,
         ["kill_count"] = 9,
-        ["points"] = 8749.14,
+        ["points"] = 8749.35,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2342,
@@ -50588,7 +50588,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4994,
         ["kill_count"] = 9,
-        ["points"] = 8211.75,
+        ["points"] = 8212.06,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7241,
@@ -50606,9 +50606,9 @@ UWULogsData[1][2] = {
         ["points"] = 7172.9,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5457,
+        ["rank_raids"] = 5458,
         ["kill_count"] = 9,
-        ["points"] = 7913.9,
+        ["points"] = 7913.6,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4583,
@@ -50625,7 +50625,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6894,
         ["kill_count"] = 9,
-        ["points"] = 7581.69,
+        ["points"] = 7582.53,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3211,
@@ -50633,9 +50633,9 @@ UWULogsData[1][2] = {
         ["points"] = 8587.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5643,
+        ["rank_raids"] = 5644,
         ["kill_count"] = 9,
-        ["points"] = 8054.79,
+        ["points"] = 8055.12,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4181,
@@ -50643,9 +50643,9 @@ UWULogsData[1][2] = {
         ["points"] = 8296.7,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6863,
+        ["rank_raids"] = 6864,
         ["kill_count"] = 9,
-        ["points"] = 7724.83,
+        ["points"] = 7725.23,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2019,
@@ -50682,7 +50682,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1318,
         ["kill_count"] = 6,
-        ["points"] = 9315.04,
+        ["points"] = 9315.28,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 727,
@@ -50690,9 +50690,9 @@ UWULogsData[1][2] = {
         ["points"] = 9487.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4732,
+        ["rank_raids"] = 4733,
         ["kill_count"] = 5,
-        ["points"] = 8280.5,
+        ["points"] = 8280.79,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4790,
@@ -50702,7 +50702,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3452,
         ["kill_count"] = 6,
-        ["points"] = 8613.76,
+        ["points"] = 8614.0,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2924,
@@ -50720,9 +50720,9 @@ UWULogsData[1][2] = {
         ["points"] = 8189.3,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 13170,
+        ["rank_raids"] = 13171,
         ["kill_count"] = 3,
-        ["points"] = 6234.0,
+        ["points"] = 6233.9,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 6448,
@@ -50739,7 +50739,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5937,
         ["kill_count"] = 11,
-        ["points"] = 7838.55,
+        ["points"] = 7839.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 7552,
@@ -50749,7 +50749,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2169,
         ["kill_count"] = 12,
-        ["points"] = 8976.57,
+        ["points"] = 8976.74,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3224,
@@ -50759,7 +50759,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3222,
         ["kill_count"] = 11,
-        ["points"] = 8681.34,
+        ["points"] = 8681.57,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5357,
@@ -50777,9 +50777,9 @@ UWULogsData[1][2] = {
         ["points"] = 9783.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6980,
+        ["rank_raids"] = 6981,
         ["kill_count"] = 11,
-        ["points"] = 7457.0,
+        ["points"] = 7456.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4499,
@@ -50796,7 +50796,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6176,
         ["kill_count"] = 4,
-        ["points"] = 7777.39,
+        ["points"] = 7778.17,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6787,
@@ -50804,9 +50804,9 @@ UWULogsData[1][2] = {
         ["points"] = 7514.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6355,
+        ["rank_raids"] = 6356,
         ["kill_count"] = 4,
-        ["points"] = 7875.6,
+        ["points"] = 7875.97,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2963,
@@ -50814,9 +50814,9 @@ UWULogsData[1][2] = {
         ["points"] = 8662.1,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6644,
+        ["rank_raids"] = 6645,
         ["kill_count"] = 4,
-        ["points"] = 7790.68,
+        ["points"] = 7791.06,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7403,
@@ -50853,7 +50853,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5304,
         ["kill_count"] = 16,
-        ["points"] = 8029.01,
+        ["points"] = 8029.69,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5695,
@@ -50861,19 +50861,19 @@ UWULogsData[1][2] = {
         ["points"] = 7842.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6296,
+        ["rank_raids"] = 6297,
         ["kill_count"] = 17,
-        ["points"] = 7891.11,
+        ["points"] = 7891.47,
       },
       ["Festergut"] = {
         ["rank_raids"] = 7435,
         ["kill_count"] = 18,
-        ["points"] = 7482.28,
+        ["points"] = 7483.15,
       },
       ["Rotface"] = {
         ["rank_raids"] = 4552,
         ["kill_count"] = 17,
-        ["points"] = 8303.59,
+        ["points"] = 8303.88,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1273,
@@ -50891,9 +50891,9 @@ UWULogsData[1][2] = {
         ["points"] = 8773.4,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4565,
+        ["rank_raids"] = 4566,
         ["kill_count"] = 10,
-        ["points"] = 8181.5,
+        ["points"] = 8181.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4885,
@@ -50910,7 +50910,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2178,
         ["kill_count"] = 9,
-        ["points"] = 9000.52,
+        ["points"] = 9000.87,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2981,
@@ -50920,7 +50920,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3702,
         ["kill_count"] = 9,
-        ["points"] = 8547.55,
+        ["points"] = 8547.8,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3843,
@@ -50930,12 +50930,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2466,
         ["kill_count"] = 9,
-        ["points"] = 8889.27,
+        ["points"] = 8889.47,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9549,
+        ["rank_raids"] = 9550,
         ["kill_count"] = 8,
-        ["points"] = 6686.3,
+        ["points"] = 6686.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6917,
@@ -50960,14 +50960,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Dudugood"] = {
-    ["percentile"] = 81.78,
+    ["percentile"] = 81.79,
     ["server"] = "Icecrown",
     ["overall_rank"] = 897,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5282,
         ["kill_count"] = 14,
-        ["points"] = 8037.74,
+        ["points"] = 8038.43,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3492,
@@ -50975,9 +50975,9 @@ UWULogsData[1][2] = {
         ["points"] = 8503.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6156,
+        ["rank_raids"] = 6157,
         ["kill_count"] = 14,
-        ["points"] = 7942.8,
+        ["points"] = 7943.15,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4477,
@@ -50985,9 +50985,9 @@ UWULogsData[1][2] = {
         ["points"] = 8207.9,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6672,
+        ["rank_raids"] = 6673,
         ["kill_count"] = 14,
-        ["points"] = 7778.55,
+        ["points"] = 7778.93,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3944,
@@ -51005,9 +51005,9 @@ UWULogsData[1][2] = {
         ["points"] = 9278.6,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6655,
+        ["rank_raids"] = 6656,
         ["kill_count"] = 11,
-        ["points"] = 7554.5,
+        ["points"] = 7554.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 6099,
@@ -51024,7 +51024,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 757,
         ["kill_count"] = 21,
-        ["points"] = 9552.68,
+        ["points"] = 9552.84,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4515,
@@ -51032,9 +51032,9 @@ UWULogsData[1][2] = {
         ["points"] = 8196.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8599,
+        ["rank_raids"] = 8600,
         ["kill_count"] = 21,
-        ["points"] = 7412.13,
+        ["points"] = 7412.58,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2435,
@@ -51042,7 +51042,7 @@ UWULogsData[1][2] = {
         ["points"] = 8820.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 11945,
+        ["rank_raids"] = 11946,
         ["kill_count"] = 22,
         ["points"] = 7153.83,
       },
@@ -51057,9 +51057,9 @@ UWULogsData[1][2] = {
         ["points"] = 9121.36,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 13935,
+        ["rank_raids"] = 13937,
         ["kill_count"] = 22,
-        ["points"] = 6157.5,
+        ["points"] = 6157.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3393,
@@ -51081,7 +51081,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 635,
         ["kill_count"] = 14,
-        ["points"] = 9613.84,
+        ["points"] = 9613.97,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5073,
@@ -51091,7 +51091,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3012,
         ["kill_count"] = 14,
-        ["points"] = 8723.29,
+        ["points"] = 8723.51,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2691,
@@ -51101,7 +51101,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4520,
         ["kill_count"] = 14,
-        ["points"] = 8308.79,
+        ["points"] = 8309.08,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3427,
@@ -51119,9 +51119,9 @@ UWULogsData[1][2] = {
         ["points"] = 8889.2,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 10148,
+        ["rank_raids"] = 10149,
         ["kill_count"] = 8,
-        ["points"] = 6536.2,
+        ["points"] = 6536.1,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 10508,
@@ -51138,7 +51138,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 907,
         ["kill_count"] = 10,
-        ["points"] = 9489.78,
+        ["points"] = 9489.96,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1490,
@@ -51146,9 +51146,9 @@ UWULogsData[1][2] = {
         ["points"] = 9155.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6399,
+        ["rank_raids"] = 6400,
         ["kill_count"] = 11,
-        ["points"] = 7865.27,
+        ["points"] = 7865.63,
       },
       ["Festergut"] = {
         ["rank_raids"] = 8795,
@@ -51158,7 +51158,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1244,
         ["kill_count"] = 9,
-        ["points"] = 9319.01,
+        ["points"] = 9319.13,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6955,
@@ -51195,7 +51195,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 865,
         ["kill_count"] = 2,
-        ["points"] = 9503.76,
+        ["points"] = 9503.93,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 13535,
@@ -51205,7 +51205,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1878,
         ["kill_count"] = 3,
-        ["points"] = 9093.73,
+        ["points"] = 9093.88,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5264,
@@ -51215,12 +51215,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2970,
         ["kill_count"] = 3,
-        ["points"] = 8754.12,
+        ["points"] = 8754.33,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9134,
+        ["rank_raids"] = 9135,
         ["kill_count"] = 1,
-        ["points"] = 6810.8,
+        ["points"] = 6810.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1334,
@@ -51233,9 +51233,9 @@ UWULogsData[1][2] = {
         ["points"] = 8972.6,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 12191,
+        ["rank_raids"] = 12192,
         ["kill_count"] = 1,
-        ["points"] = 6331.9,
+        ["points"] = 6331.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 3174,
@@ -51252,7 +51252,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 7749,
         ["kill_count"] = 2,
-        ["points"] = 7363.27,
+        ["points"] = 7364.19,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2437,
@@ -51262,22 +51262,22 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2112,
         ["kill_count"] = 2,
-        ["points"] = 9004.14,
+        ["points"] = 9004.31,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1023,
         ["kill_count"] = 2,
-        ["points"] = 9342.9,
+        ["points"] = 9343.13,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2016,
         ["kill_count"] = 2,
-        ["points"] = 9034.83,
+        ["points"] = 9035.0,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 14079,
+        ["rank_raids"] = 14080,
         ["kill_count"] = 3,
-        ["points"] = 6143.1,
+        ["points"] = 6143.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2790,
@@ -51290,9 +51290,9 @@ UWULogsData[1][2] = {
         ["points"] = 7276.4,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4675,
+        ["rank_raids"] = 4676,
         ["kill_count"] = 1,
-        ["points"] = 8148.5,
+        ["points"] = 8148.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 6337,
@@ -51309,7 +51309,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2025,
         ["kill_count"] = 7,
-        ["points"] = 9051.2,
+        ["points"] = 9051.53,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3258,
@@ -51317,9 +51317,9 @@ UWULogsData[1][2] = {
         ["points"] = 8573.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8088,
+        ["rank_raids"] = 8089,
         ["kill_count"] = 8,
-        ["points"] = 7510.34,
+        ["points"] = 7510.77,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4158,
@@ -51329,7 +51329,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3022,
         ["kill_count"] = 7,
-        ["points"] = 8741.99,
+        ["points"] = 8742.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3426,
@@ -51366,7 +51366,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1687,
         ["kill_count"] = 1,
-        ["points"] = 9177.01,
+        ["points"] = 9177.29,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2333,
@@ -51374,9 +51374,9 @@ UWULogsData[1][2] = {
         ["points"] = 8851.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6280,
+        ["rank_raids"] = 6281,
         ["kill_count"] = 1,
-        ["points"] = 7903.17,
+        ["points"] = 7903.53,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4884,
@@ -51386,12 +51386,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3931,
         ["kill_count"] = 1,
-        ["points"] = 8473.4,
+        ["points"] = 8473.67,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 10386,
+        ["rank_raids"] = 10387,
         ["kill_count"] = 1,
-        ["points"] = 6512.4,
+        ["points"] = 6512.3,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4808,
@@ -51404,9 +51404,9 @@ UWULogsData[1][2] = {
         ["points"] = 7741.7,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5855,
+        ["rank_raids"] = 5856,
         ["kill_count"] = 1,
-        ["points"] = 7794.5,
+        ["points"] = 7794.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2120,
@@ -51423,7 +51423,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2324,
         ["kill_count"] = 16,
-        ["points"] = 8937.62,
+        ["points"] = 8937.99,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2964,
@@ -51431,9 +51431,9 @@ UWULogsData[1][2] = {
         ["points"] = 8661.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7172,
+        ["rank_raids"] = 7173,
         ["kill_count"] = 16,
-        ["points"] = 7706.75,
+        ["points"] = 7707.15,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2902,
@@ -51441,7 +51441,7 @@ UWULogsData[1][2] = {
         ["points"] = 8680.4,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9473,
+        ["rank_raids"] = 9474,
         ["kill_count"] = 16,
         ["points"] = 7373.4,
       },
@@ -51473,14 +51473,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Scrappycoco"] = {
-    ["percentile"] = 81.63,
+    ["percentile"] = 81.64,
     ["server"] = "Icecrown",
     ["overall_rank"] = 906,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 12181,
         ["kill_count"] = 1,
-        ["points"] = 6365.54,
+        ["points"] = 6366.81,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 10250,
@@ -51490,17 +51490,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 757,
         ["kill_count"] = 2,
-        ["points"] = 9522.74,
+        ["points"] = 9522.83,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5382,
         ["kill_count"] = 3,
-        ["points"] = 7940.52,
+        ["points"] = 7941.23,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1497,
         ["kill_count"] = 3,
-        ["points"] = 9225.44,
+        ["points"] = 9225.57,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6306,
@@ -51537,7 +51537,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2618,
         ["kill_count"] = 34,
-        ["points"] = 8824.04,
+        ["points"] = 8824.45,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4961,
@@ -51545,9 +51545,9 @@ UWULogsData[1][2] = {
         ["points"] = 8062.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4882,
+        ["rank_raids"] = 4883,
         ["kill_count"] = 35,
-        ["points"] = 8246.04,
+        ["points"] = 8246.34,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1787,
@@ -51557,12 +51557,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2656,
         ["kill_count"] = 36,
-        ["points"] = 8816.5,
+        ["points"] = 8816.7,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9439,
+        ["rank_raids"] = 9440,
         ["kill_count"] = 30,
-        ["points"] = 6719.3,
+        ["points"] = 6719.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 262,
@@ -51575,9 +51575,9 @@ UWULogsData[1][2] = {
         ["points"] = 6783.2,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4952,
+        ["rank_raids"] = 4953,
         ["kill_count"] = 33,
-        ["points"] = 8065.4,
+        ["points"] = 8065.1,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 7858,
@@ -51594,7 +51594,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4803,
         ["kill_count"] = 6,
-        ["points"] = 8184.52,
+        ["points"] = 8185.15,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5815,
@@ -51602,19 +51602,19 @@ UWULogsData[1][2] = {
         ["points"] = 7806.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5345,
+        ["rank_raids"] = 5346,
         ["kill_count"] = 6,
-        ["points"] = 8146.11,
+        ["points"] = 8146.43,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6060,
         ["kill_count"] = 6,
-        ["points"] = 7777.97,
+        ["points"] = 7778.74,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7186,
+        ["rank_raids"] = 7187,
         ["kill_count"] = 6,
-        ["points"] = 7655.52,
+        ["points"] = 7655.93,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1691,
@@ -51632,9 +51632,9 @@ UWULogsData[1][2] = {
         ["points"] = 8849.9,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 7442,
+        ["rank_raids"] = 7443,
         ["kill_count"] = 3,
-        ["points"] = 7318.4,
+        ["points"] = 7318.1,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1982,
@@ -51651,7 +51651,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4885,
         ["kill_count"] = 6,
-        ["points"] = 8161.8,
+        ["points"] = 8162.45,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4624,
@@ -51659,9 +51659,9 @@ UWULogsData[1][2] = {
         ["points"] = 8163.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7175,
+        ["rank_raids"] = 7176,
         ["kill_count"] = 6,
-        ["points"] = 7705.03,
+        ["points"] = 7705.43,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4050,
@@ -51671,7 +51671,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5721,
         ["kill_count"] = 6,
-        ["points"] = 8012.48,
+        ["points"] = 8012.82,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7392,
@@ -51689,9 +51689,9 @@ UWULogsData[1][2] = {
         ["points"] = 9157.4,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6115,
+        ["rank_raids"] = 6116,
         ["kill_count"] = 4,
-        ["points"] = 7716.5,
+        ["points"] = 7716.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 3356,
@@ -51701,14 +51701,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Nautidudu"] = {
-    ["percentile"] = 81.58,
+    ["percentile"] = 81.59,
     ["server"] = "Icecrown",
     ["overall_rank"] = 910,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3100,
         ["kill_count"] = 20,
-        ["points"] = 8679.01,
+        ["points"] = 8679.48,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 9061,
@@ -51716,19 +51716,19 @@ UWULogsData[1][2] = {
         ["points"] = 6832.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6345,
+        ["rank_raids"] = 6346,
         ["kill_count"] = 22,
-        ["points"] = 7879.05,
+        ["points"] = 7879.41,
       },
       ["Festergut"] = {
         ["rank_raids"] = 182,
         ["kill_count"] = 23,
-        ["points"] = 9839.18,
+        ["points"] = 9839.24,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2163,
         ["kill_count"] = 24,
-        ["points"] = 8977.65,
+        ["points"] = 8977.82,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7946,
@@ -51765,7 +51765,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2972,
         ["kill_count"] = 3,
-        ["points"] = 8719.2,
+        ["points"] = 8719.65,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4538,
@@ -51775,15 +51775,15 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1110,
         ["kill_count"] = 3,
-        ["points"] = 9374.57,
+        ["points"] = 9374.68,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4855,
         ["kill_count"] = 3,
-        ["points"] = 8094.5,
+        ["points"] = 8095.07,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 10525,
+        ["rank_raids"] = 10526,
         ["kill_count"] = 3,
         ["points"] = 7281.67,
       },
@@ -51803,9 +51803,9 @@ UWULogsData[1][2] = {
         ["points"] = 8537.9,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5510,
+        ["rank_raids"] = 5511,
         ["kill_count"] = 1,
-        ["points"] = 7898.0,
+        ["points"] = 7897.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 6775,
@@ -51822,7 +51822,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6278,
         ["kill_count"] = 8,
-        ["points"] = 7745.94,
+        ["points"] = 7746.72,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3470,
@@ -51830,19 +51830,19 @@ UWULogsData[1][2] = {
         ["points"] = 8510.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8297,
+        ["rank_raids"] = 8298,
         ["kill_count"] = 8,
-        ["points"] = 7477.6,
+        ["points"] = 7478.04,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5729,
         ["kill_count"] = 8,
-        ["points"] = 7855.78,
+        ["points"] = 7856.53,
       },
       ["Rotface"] = {
         ["rank_raids"] = 5318,
         ["kill_count"] = 8,
-        ["points"] = 8118.18,
+        ["points"] = 8118.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7890,
@@ -51879,7 +51879,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 770,
         ["kill_count"] = 21,
-        ["points"] = 9545.69,
+        ["points"] = 9545.85,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4350,
@@ -51887,9 +51887,9 @@ UWULogsData[1][2] = {
         ["points"] = 8246.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5437,
+        ["rank_raids"] = 5438,
         ["kill_count"] = 21,
-        ["points"] = 8115.09,
+        ["points"] = 8115.42,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5138,
@@ -51899,12 +51899,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2765,
         ["kill_count"] = 19,
-        ["points"] = 8795.7,
+        ["points"] = 8795.91,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8410,
+        ["rank_raids"] = 8411,
         ["kill_count"] = 18,
-        ["points"] = 7028.0,
+        ["points"] = 7027.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6436,
@@ -51917,9 +51917,9 @@ UWULogsData[1][2] = {
         ["points"] = 9377.5,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5420,
+        ["rank_raids"] = 5421,
         ["kill_count"] = 18,
-        ["points"] = 7925.0,
+        ["points"] = 7924.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 10289,
@@ -51936,17 +51936,17 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1077,
         ["kill_count"] = 2,
-        ["points"] = 9407.65,
+        ["points"] = 9407.86,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 16424,
+        ["rank_raids"] = 16425,
         ["kill_count"] = 1,
-        ["points"] = 5908.6,
+        ["points"] = 5908.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5593,
+        ["rank_raids"] = 5594,
         ["kill_count"] = 3,
-        ["points"] = 8061.68,
+        ["points"] = 8062.02,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4061,
@@ -51956,7 +51956,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5581,
         ["kill_count"] = 3,
-        ["points"] = 8059.26,
+        ["points"] = 8059.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5869,
@@ -51993,7 +51993,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 366,
         ["kill_count"] = 3,
-        ["points"] = 9765.86,
+        ["points"] = 9765.94,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2621,
@@ -52003,17 +52003,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2029,
         ["kill_count"] = 3,
-        ["points"] = 9033.43,
+        ["points"] = 9033.59,
       },
       ["Festergut"] = {
         ["rank_raids"] = 226,
         ["kill_count"] = 3,
-        ["points"] = 9811.52,
+        ["points"] = 9811.58,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2470,
         ["kill_count"] = 3,
-        ["points"] = 8884.08,
+        ["points"] = 8884.27,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2569,
@@ -52045,7 +52045,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4938,
         ["kill_count"] = 32,
-        ["points"] = 8144.33,
+        ["points"] = 8144.98,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3008,
@@ -52053,17 +52053,17 @@ UWULogsData[1][2] = {
         ["points"] = 8648.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4321,
+        ["rank_raids"] = 4322,
         ["kill_count"] = 31,
-        ["points"] = 8385.6,
+        ["points"] = 8385.87,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5627,
         ["kill_count"] = 31,
-        ["points"] = 7885.18,
+        ["points"] = 7885.91,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8127,
+        ["rank_raids"] = 8128,
         ["kill_count"] = 31,
         ["points"] = 7481.25,
       },
@@ -52102,7 +52102,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 9855,
         ["kill_count"] = 2,
-        ["points"] = 6863.53,
+        ["points"] = 6864.63,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 8656,
@@ -52110,9 +52110,9 @@ UWULogsData[1][2] = {
         ["points"] = 6954.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7596,
+        ["rank_raids"] = 7597,
         ["kill_count"] = 2,
-        ["points"] = 7618.88,
+        ["points"] = 7619.29,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3505,
@@ -52120,7 +52120,7 @@ UWULogsData[1][2] = {
         ["points"] = 8499.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 13047,
+        ["rank_raids"] = 13048,
         ["kill_count"] = 2,
         ["points"] = 7055.26,
       },
@@ -52159,7 +52159,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5797,
         ["kill_count"] = 13,
-        ["points"] = 7875.24,
+        ["points"] = 7875.98,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5462,
@@ -52167,9 +52167,9 @@ UWULogsData[1][2] = {
         ["points"] = 7912.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8598,
+        ["rank_raids"] = 8599,
         ["kill_count"] = 20,
-        ["points"] = 7413.85,
+        ["points"] = 7414.3,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2807,
@@ -52179,12 +52179,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5868,
         ["kill_count"] = 17,
-        ["points"] = 7976.09,
+        ["points"] = 7976.44,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9764,
+        ["rank_raids"] = 9765,
         ["kill_count"] = 16,
-        ["points"] = 6621.8,
+        ["points"] = 6621.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3163,
@@ -52216,7 +52216,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3921,
         ["kill_count"] = 6,
-        ["points"] = 8411.67,
+        ["points"] = 8412.23,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 7322,
@@ -52226,7 +52226,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1374,
         ["kill_count"] = 6,
-        ["points"] = 9274.64,
+        ["points"] = 9274.76,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4238,
@@ -52236,7 +52236,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2092,
         ["kill_count"] = 6,
-        ["points"] = 9003.64,
+        ["points"] = 9003.81,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7951,
@@ -52273,7 +52273,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 11159,
         ["kill_count"] = 1,
-        ["points"] = 6569.98,
+        ["points"] = 6571.18,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 8602,
@@ -52283,7 +52283,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3909,
         ["kill_count"] = 1,
-        ["points"] = 8494.14,
+        ["points"] = 8494.4,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1482,
@@ -52291,7 +52291,7 @@ UWULogsData[1][2] = {
         ["points"] = 9158.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9649,
+        ["rank_raids"] = 9650,
         ["kill_count"] = 1,
         ["points"] = 7357.62,
       },
@@ -52330,7 +52330,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4189,
         ["kill_count"] = 9,
-        ["points"] = 8336.54,
+        ["points"] = 8337.12,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5964,
@@ -52340,7 +52340,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1164,
         ["kill_count"] = 10,
-        ["points"] = 9348.73,
+        ["points"] = 9348.84,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3768,
@@ -52350,12 +52350,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 898,
         ["kill_count"] = 10,
-        ["points"] = 9459.37,
+        ["points"] = 9459.46,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8248,
+        ["rank_raids"] = 8249,
         ["kill_count"] = 6,
-        ["points"] = 7076.6,
+        ["points"] = 7076.3,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 5436,
@@ -52368,9 +52368,9 @@ UWULogsData[1][2] = {
         ["points"] = 8575.7,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 9606,
+        ["rank_raids"] = 9607,
         ["kill_count"] = 6,
-        ["points"] = 6669.2,
+        ["points"] = 6668.9,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 6381,
@@ -52387,7 +52387,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2277,
         ["kill_count"] = 2,
-        ["points"] = 8958.59,
+        ["points"] = 8958.95,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1119,
@@ -52395,7 +52395,7 @@ UWULogsData[1][2] = {
         ["points"] = 9303.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9193,
+        ["rank_raids"] = 9194,
         ["kill_count"] = 2,
         ["points"] = 7333.61,
       },
@@ -52405,7 +52405,7 @@ UWULogsData[1][2] = {
         ["points"] = 8738.9,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8903,
+        ["rank_raids"] = 8904,
         ["kill_count"] = 2,
         ["points"] = 7419.72,
       },
@@ -52425,9 +52425,9 @@ UWULogsData[1][2] = {
         ["points"] = 7021.1,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 11450,
+        ["rank_raids"] = 11451,
         ["kill_count"] = 2,
-        ["points"] = 6406.0,
+        ["points"] = 6405.9,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4224,
@@ -52444,7 +52444,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3662,
         ["kill_count"] = 5,
-        ["points"] = 8488.55,
+        ["points"] = 8489.08,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5292,
@@ -52452,7 +52452,7 @@ UWULogsData[1][2] = {
         ["points"] = 7963.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9361,
+        ["rank_raids"] = 9362,
         ["kill_count"] = 5,
         ["points"] = 7319.79,
       },
@@ -52464,7 +52464,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4358,
         ["kill_count"] = 5,
-        ["points"] = 8346.91,
+        ["points"] = 8347.19,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6899,
@@ -52482,9 +52482,9 @@ UWULogsData[1][2] = {
         ["points"] = 9131.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4553,
+        ["rank_raids"] = 4554,
         ["kill_count"] = 5,
-        ["points"] = 8185.1,
+        ["points"] = 8184.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4283,
@@ -52501,7 +52501,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 8876,
         ["kill_count"] = 10,
-        ["points"] = 7080.2,
+        ["points"] = 7081.22,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3155,
@@ -52511,17 +52511,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3843,
         ["kill_count"] = 10,
-        ["points"] = 8513.09,
+        ["points"] = 8513.35,
       },
       ["Festergut"] = {
         ["rank_raids"] = 7426,
         ["kill_count"] = 11,
-        ["points"] = 7485.73,
+        ["points"] = 7486.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2260,
         ["kill_count"] = 11,
-        ["points"] = 8939.53,
+        ["points"] = 8939.71,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4616,
@@ -52539,9 +52539,9 @@ UWULogsData[1][2] = {
         ["points"] = 7743.5,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4635,
+        ["rank_raids"] = 4636,
         ["kill_count"] = 11,
-        ["points"] = 8160.5,
+        ["points"] = 8160.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 6931,
@@ -52551,14 +52551,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Vovino"] = {
-    ["percentile"] = 81.3,
+    ["percentile"] = 81.31,
     ["server"] = "Icecrown",
     ["overall_rank"] = 925,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6223,
         ["kill_count"] = 5,
-        ["points"] = 7758.17,
+        ["points"] = 7758.95,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3741,
@@ -52568,7 +52568,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3919,
         ["kill_count"] = 5,
-        ["points"] = 8488.97,
+        ["points"] = 8489.23,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4087,
@@ -52576,9 +52576,9 @@ UWULogsData[1][2] = {
         ["points"] = 8324.9,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6986,
+        ["rank_raids"] = 6987,
         ["kill_count"] = 5,
-        ["points"] = 7688.44,
+        ["points"] = 7688.84,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5426,
@@ -52615,7 +52615,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2850,
         ["kill_count"] = 2,
-        ["points"] = 8748.91,
+        ["points"] = 8749.34,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2490,
@@ -52625,15 +52625,15 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 4208,
         ["kill_count"] = 2,
-        ["points"] = 8421.78,
+        ["points"] = 8422.05,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5565,
         ["kill_count"] = 2,
-        ["points"] = 7902.47,
+        ["points"] = 7903.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9515,
+        ["rank_raids"] = 9516,
         ["kill_count"] = 2,
         ["points"] = 7369.2,
       },
@@ -52672,7 +52672,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6185,
         ["kill_count"] = 14,
-        ["points"] = 7775.64,
+        ["points"] = 7776.42,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4012,
@@ -52682,15 +52682,15 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2034,
         ["kill_count"] = 15,
-        ["points"] = 9026.53,
+        ["points"] = 9026.7,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5479,
         ["kill_count"] = 16,
-        ["points"] = 7924.95,
+        ["points"] = 7925.67,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 10103,
+        ["rank_raids"] = 10104,
         ["kill_count"] = 17,
         ["points"] = 7316.64,
       },
@@ -52710,9 +52710,9 @@ UWULogsData[1][2] = {
         ["points"] = 8962.2,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4674,
+        ["rank_raids"] = 4675,
         ["kill_count"] = 11,
-        ["points"] = 8148.8,
+        ["points"] = 8148.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4967,
@@ -52722,24 +52722,24 @@ UWULogsData[1][2] = {
     },
   },
   ["Infuzija"] = {
-    ["percentile"] = 81.28,
+    ["percentile"] = 81.29,
     ["server"] = "Icecrown",
     ["overall_rank"] = 928,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 10803,
         ["kill_count"] = 1,
-        ["points"] = 6653.85,
+        ["points"] = 6655.02,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 19087,
+        ["rank_raids"] = 19088,
         ["kill_count"] = 1,
-        ["points"] = 5642.3,
+        ["points"] = 5642.2,
       },
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3946,
         ["kill_count"] = 1,
-        ["points"] = 8483.8,
+        ["points"] = 8484.07,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5073,
@@ -52749,7 +52749,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2189,
         ["kill_count"] = 1,
-        ["points"] = 8972.45,
+        ["points"] = 8972.63,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4653,
@@ -52786,7 +52786,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 7129,
         ["kill_count"] = 3,
-        ["points"] = 7517.04,
+        ["points"] = 7517.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 10168,
@@ -52796,7 +52796,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 293,
         ["kill_count"] = 3,
-        ["points"] = 9772.57,
+        ["points"] = 9772.61,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2445,
@@ -52804,7 +52804,7 @@ UWULogsData[1][2] = {
         ["points"] = 8817.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 15041,
+        ["rank_raids"] = 15042,
         ["kill_count"] = 3,
         ["points"] = 6881.22,
       },
@@ -52843,7 +52843,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4574,
         ["kill_count"] = 11,
-        ["points"] = 8245.68,
+        ["points"] = 8246.29,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3796,
@@ -52853,7 +52853,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3522,
         ["kill_count"] = 12,
-        ["points"] = 8592.35,
+        ["points"] = 8592.59,
       },
       ["Festergut"] = {
         ["rank_raids"] = 11575,
@@ -52861,7 +52861,7 @@ UWULogsData[1][2] = {
         ["points"] = 7069.04,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 10176,
+        ["rank_raids"] = 10177,
         ["kill_count"] = 11,
         ["points"] = 7310.6,
       },
@@ -52900,7 +52900,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3975,
         ["kill_count"] = 8,
-        ["points"] = 8395.95,
+        ["points"] = 8396.51,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2901,
@@ -52908,7 +52908,7 @@ UWULogsData[1][2] = {
         ["points"] = 8680.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 12198,
+        ["rank_raids"] = 12199,
         ["kill_count"] = 8,
         ["points"] = 7084.76,
       },
@@ -52920,7 +52920,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5577,
         ["kill_count"] = 7,
-        ["points"] = 8062.73,
+        ["points"] = 8063.06,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6124,
@@ -52957,7 +52957,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6898,
         ["kill_count"] = 17,
-        ["points"] = 7579.94,
+        ["points"] = 7580.79,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5771,
@@ -52965,9 +52965,9 @@ UWULogsData[1][2] = {
         ["points"] = 7819.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5807,
+        ["rank_raids"] = 5808,
         ["kill_count"] = 17,
-        ["points"] = 8016.88,
+        ["points"] = 8017.23,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3727,
@@ -52975,9 +52975,9 @@ UWULogsData[1][2] = {
         ["points"] = 8432.9,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6118,
+        ["rank_raids"] = 6119,
         ["kill_count"] = 17,
-        ["points"] = 7896.38,
+        ["points"] = 7896.74,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5791,
@@ -52995,9 +52995,9 @@ UWULogsData[1][2] = {
         ["points"] = 9482.5,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4539,
+        ["rank_raids"] = 4540,
         ["kill_count"] = 17,
-        ["points"] = 8189.3,
+        ["points"] = 8189.0,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 5782,
@@ -53007,14 +53007,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Klid"] = {
-    ["percentile"] = 81.14,
+    ["percentile"] = 81.15,
     ["server"] = "Icecrown",
     ["overall_rank"] = 933,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4835,
         ["kill_count"] = 3,
-        ["points"] = 8175.78,
+        ["points"] = 8176.42,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 11233,
@@ -53024,17 +53024,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 826,
         ["kill_count"] = 3,
-        ["points"] = 9493.45,
+        ["points"] = 9493.54,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5488,
         ["kill_count"] = 3,
-        ["points"] = 7921.49,
+        ["points"] = 7922.21,
       },
       ["Rotface"] = {
         ["rank_raids"] = 422,
         ["kill_count"] = 3,
-        ["points"] = 9679.43,
+        ["points"] = 9679.49,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5500,
@@ -53071,7 +53071,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6767,
         ["kill_count"] = 13,
-        ["points"] = 7621.88,
+        ["points"] = 7622.71,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4299,
@@ -53079,19 +53079,19 @@ UWULogsData[1][2] = {
         ["points"] = 8261.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7585,
+        ["rank_raids"] = 7586,
         ["kill_count"] = 15,
-        ["points"] = 7622.33,
+        ["points"] = 7622.74,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6444,
         ["kill_count"] = 17,
-        ["points"] = 7701.88,
+        ["points"] = 7702.68,
       },
       ["Rotface"] = {
         ["rank_raids"] = 622,
         ["kill_count"] = 16,
-        ["points"] = 9584.13,
+        ["points"] = 9584.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 8082,
@@ -53128,7 +53128,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6312,
         ["kill_count"] = 5,
-        ["points"] = 7726.72,
+        ["points"] = 7727.51,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4772,
@@ -53136,9 +53136,9 @@ UWULogsData[1][2] = {
         ["points"] = 8119.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5461,
+        ["rank_raids"] = 5462,
         ["kill_count"] = 5,
-        ["points"] = 8099.59,
+        ["points"] = 8099.91,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4568,
@@ -53148,12 +53148,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1319,
         ["kill_count"] = 5,
-        ["points"] = 9293.02,
+        ["points"] = 9293.14,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 10612,
+        ["rank_raids"] = 10613,
         ["kill_count"] = 5,
-        ["points"] = 6489.8,
+        ["points"] = 6489.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2452,
@@ -53185,7 +53185,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4400,
         ["kill_count"] = 5,
-        ["points"] = 8289.36,
+        ["points"] = 8289.96,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1232,
@@ -53195,7 +53195,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3684,
         ["kill_count"] = 5,
-        ["points"] = 8552.72,
+        ["points"] = 8552.97,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3610,
@@ -53203,7 +53203,7 @@ UWULogsData[1][2] = {
         ["points"] = 8468.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 12274,
+        ["rank_raids"] = 12275,
         ["kill_count"] = 5,
         ["points"] = 7125.83,
       },
@@ -53242,7 +53242,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5764,
         ["kill_count"] = 6,
-        ["points"] = 7889.22,
+        ["points"] = 7889.96,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3191,
@@ -53250,19 +53250,19 @@ UWULogsData[1][2] = {
         ["points"] = 8593.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5060,
+        ["rank_raids"] = 5061,
         ["kill_count"] = 7,
-        ["points"] = 8197.79,
+        ["points"] = 8198.11,
       },
       ["Festergut"] = {
         ["rank_raids"] = 510,
         ["kill_count"] = 6,
-        ["points"] = 9624.76,
+        ["points"] = 9624.89,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1400,
         ["kill_count"] = 6,
-        ["points"] = 9261.83,
+        ["points"] = 9261.95,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5251,
@@ -53280,9 +53280,9 @@ UWULogsData[1][2] = {
         ["points"] = 7847.3,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5430,
+        ["rank_raids"] = 5431,
         ["kill_count"] = 7,
-        ["points"] = 7922.0,
+        ["points"] = 7921.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 8774,
@@ -53299,7 +53299,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5505,
         ["kill_count"] = 13,
-        ["points"] = 7964.35,
+        ["points"] = 7965.07,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1810,
@@ -53307,9 +53307,9 @@ UWULogsData[1][2] = {
         ["points"] = 9027.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7093,
+        ["rank_raids"] = 7094,
         ["kill_count"] = 13,
-        ["points"] = 7722.26,
+        ["points"] = 7722.65,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3185,
@@ -53317,9 +53317,9 @@ UWULogsData[1][2] = {
         ["points"] = 8595.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7704,
+        ["rank_raids"] = 7705,
         ["kill_count"] = 13,
-        ["points"] = 7542.89,
+        ["points"] = 7543.31,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3659,
@@ -53337,9 +53337,9 @@ UWULogsData[1][2] = {
         ["points"] = 9273.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 14046,
+        ["rank_raids"] = 14047,
         ["kill_count"] = 13,
-        ["points"] = 6146.4,
+        ["points"] = 6146.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 6405,
@@ -53356,7 +53356,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6563,
         ["kill_count"] = 18,
-        ["points"] = 7660.32,
+        ["points"] = 7661.14,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6950,
@@ -53364,9 +53364,9 @@ UWULogsData[1][2] = {
         ["points"] = 7466.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7102,
+        ["rank_raids"] = 7103,
         ["kill_count"] = 19,
-        ["points"] = 7718.81,
+        ["points"] = 7719.21,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4683,
@@ -53376,7 +53376,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3485,
         ["kill_count"] = 18,
-        ["points"] = 8606.83,
+        ["points"] = 8607.07,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4856,
@@ -53394,9 +53394,9 @@ UWULogsData[1][2] = {
         ["points"] = 9185.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 7917,
+        ["rank_raids"] = 7918,
         ["kill_count"] = 20,
-        ["points"] = 7175.9,
+        ["points"] = 7175.6,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1711,
@@ -53413,7 +53413,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3612,
         ["kill_count"] = 23,
-        ["points"] = 8504.28,
+        ["points"] = 8504.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2665,
@@ -53421,19 +53421,19 @@ UWULogsData[1][2] = {
         ["points"] = 8751.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6071,
+        ["rank_raids"] = 6072,
         ["kill_count"] = 26,
-        ["points"] = 7961.75,
+        ["points"] = 7962.1,
       },
       ["Festergut"] = {
         ["rank_raids"] = 7984,
         ["kill_count"] = 26,
-        ["points"] = 7366.42,
+        ["points"] = 7367.33,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6552,
+        ["rank_raids"] = 6553,
         ["kill_count"] = 26,
-        ["points"] = 7804.54,
+        ["points"] = 7804.92,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4793,
@@ -53470,7 +53470,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4727,
         ["kill_count"] = 23,
-        ["points"] = 8205.49,
+        ["points"] = 8206.11,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 8524,
@@ -53480,22 +53480,22 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1361,
         ["kill_count"] = 24,
-        ["points"] = 9278.08,
+        ["points"] = 9278.21,
       },
       ["Festergut"] = {
         ["rank_raids"] = 808,
         ["kill_count"] = 24,
-        ["points"] = 9469.13,
+        ["points"] = 9469.32,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1924,
         ["kill_count"] = 22,
-        ["points"] = 9062.55,
+        ["points"] = 9062.72,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8750,
+        ["rank_raids"] = 8751,
         ["kill_count"] = 17,
-        ["points"] = 6926.0,
+        ["points"] = 6925.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6492,
@@ -53508,9 +53508,9 @@ UWULogsData[1][2] = {
         ["points"] = 9301.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 9887,
+        ["rank_raids"] = 9888,
         ["kill_count"] = 17,
-        ["points"] = 6584.9,
+        ["points"] = 6584.6,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 7043,
@@ -53527,7 +53527,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5130,
         ["kill_count"] = 8,
-        ["points"] = 8084.92,
+        ["points"] = 8085.59,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6532,
@@ -53535,24 +53535,24 @@ UWULogsData[1][2] = {
         ["points"] = 7591.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5903,
+        ["rank_raids"] = 5904,
         ["kill_count"] = 9,
-        ["points"] = 7991.04,
+        ["points"] = 7991.39,
       },
       ["Festergut"] = {
         ["rank_raids"] = 526,
         ["kill_count"] = 9,
-        ["points"] = 9617.85,
+        ["points"] = 9617.98,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3366,
         ["kill_count"] = 8,
-        ["points"] = 8638.02,
+        ["points"] = 8638.25,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8231,
+        ["rank_raids"] = 8232,
         ["kill_count"] = 7,
-        ["points"] = 7081.7,
+        ["points"] = 7081.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4117,
@@ -53565,9 +53565,9 @@ UWULogsData[1][2] = {
         ["points"] = 9300.6,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6851,
+        ["rank_raids"] = 6852,
         ["kill_count"] = 5,
-        ["points"] = 7495.7,
+        ["points"] = 7495.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 10376,
@@ -53584,7 +53584,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3770,
         ["kill_count"] = 1,
-        ["points"] = 8458.85,
+        ["points"] = 8459.39,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 11993,
@@ -53592,9 +53592,9 @@ UWULogsData[1][2] = {
         ["points"] = 6351.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6619,
+        ["rank_raids"] = 6620,
         ["kill_count"] = 1,
-        ["points"] = 7815.3,
+        ["points"] = 7815.68,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1648,
@@ -53604,7 +53604,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1212,
         ["kill_count"] = 1,
-        ["points"] = 9331.14,
+        ["points"] = 9331.25,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6605,
@@ -53622,9 +53622,9 @@ UWULogsData[1][2] = {
         ["points"] = 7067.3,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5265,
+        ["rank_raids"] = 5266,
         ["kill_count"] = 1,
-        ["points"] = 7971.5,
+        ["points"] = 7971.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2586,
@@ -53641,7 +53641,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2754,
         ["kill_count"] = 25,
-        ["points"] = 8782.11,
+        ["points"] = 8782.53,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2928,
@@ -53649,9 +53649,9 @@ UWULogsData[1][2] = {
         ["points"] = 8672.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4350,
+        ["rank_raids"] = 4351,
         ["kill_count"] = 25,
-        ["points"] = 8376.98,
+        ["points"] = 8377.26,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5114,
@@ -53659,14 +53659,14 @@ UWULogsData[1][2] = {
         ["points"] = 8016.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8377,
+        ["rank_raids"] = 8378,
         ["kill_count"] = 24,
         ["points"] = 7463.08,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 13571,
+        ["rank_raids"] = 13572,
         ["kill_count"] = 14,
-        ["points"] = 6193.9,
+        ["points"] = 6193.8,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2205,
@@ -53698,7 +53698,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6070,
         ["kill_count"] = 3,
-        ["points"] = 7807.09,
+        ["points"] = 7807.86,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6821,
@@ -53708,22 +53708,22 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 4232,
         ["kill_count"] = 3,
-        ["points"] = 8407.99,
+        ["points"] = 8408.27,
       },
       ["Festergut"] = {
         ["rank_raids"] = 790,
         ["kill_count"] = 4,
-        ["points"] = 9482.97,
+        ["points"] = 9483.15,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3263,
         ["kill_count"] = 4,
-        ["points"] = 8670.94,
+        ["points"] = 8671.17,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9513,
+        ["rank_raids"] = 9514,
         ["kill_count"] = 3,
-        ["points"] = 6697.1,
+        ["points"] = 6696.8,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 11274,
@@ -53755,7 +53755,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5235,
         ["kill_count"] = 15,
-        ["points"] = 8058.71,
+        ["points"] = 8059.39,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 13471,
@@ -53765,7 +53765,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1328,
         ["kill_count"] = 15,
-        ["points"] = 9283.25,
+        ["points"] = 9283.38,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2719,
@@ -53773,14 +53773,14 @@ UWULogsData[1][2] = {
         ["points"] = 8735.3,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6685,
+        ["rank_raids"] = 6686,
         ["kill_count"] = 15,
-        ["points"] = 7776.82,
+        ["points"] = 7777.2,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8452,
+        ["rank_raids"] = 8453,
         ["kill_count"] = 11,
-        ["points"] = 7015.4,
+        ["points"] = 7015.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3718,
@@ -53793,9 +53793,9 @@ UWULogsData[1][2] = {
         ["points"] = 9271.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5522,
+        ["rank_raids"] = 5523,
         ["kill_count"] = 11,
-        ["points"] = 7894.4,
+        ["points"] = 7894.1,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4742,
@@ -53812,7 +53812,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4362,
         ["kill_count"] = 7,
-        ["points"] = 8301.59,
+        ["points"] = 8302.18,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 10178,
@@ -53822,22 +53822,22 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1383,
         ["kill_count"] = 7,
-        ["points"] = 9271.19,
+        ["points"] = 9271.32,
       },
       ["Festergut"] = {
         ["rank_raids"] = 532,
         ["kill_count"] = 7,
-        ["points"] = 9614.39,
+        ["points"] = 9614.52,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1185,
         ["kill_count"] = 7,
-        ["points"] = 9341.54,
+        ["points"] = 9341.65,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9561,
+        ["rank_raids"] = 9562,
         ["kill_count"] = 7,
-        ["points"] = 6682.7,
+        ["points"] = 6682.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7723,
@@ -53850,9 +53850,9 @@ UWULogsData[1][2] = {
         ["points"] = 8609.9,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 7977,
+        ["rank_raids"] = 7978,
         ["kill_count"] = 7,
-        ["points"] = 7157.9,
+        ["points"] = 7157.6,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 5328,
@@ -53869,7 +53869,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2616,
         ["kill_count"] = 11,
-        ["points"] = 8825.79,
+        ["points"] = 8826.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5844,
@@ -53877,9 +53877,9 @@ UWULogsData[1][2] = {
         ["points"] = 7797.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4533,
+        ["rank_raids"] = 4534,
         ["kill_count"] = 12,
-        ["points"] = 8325.29,
+        ["points"] = 8325.58,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4136,
@@ -53887,14 +53887,14 @@ UWULogsData[1][2] = {
         ["points"] = 8310.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7261,
+        ["rank_raids"] = 7262,
         ["kill_count"] = 12,
-        ["points"] = 7641.66,
+        ["points"] = 7642.07,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8256,
+        ["rank_raids"] = 8257,
         ["kill_count"] = 8,
-        ["points"] = 7074.2,
+        ["points"] = 7073.9,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6284,
@@ -53907,9 +53907,9 @@ UWULogsData[1][2] = {
         ["points"] = 8813.9,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4652,
+        ["rank_raids"] = 4653,
         ["kill_count"] = 6,
-        ["points"] = 8155.4,
+        ["points"] = 8155.1,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4825,
@@ -53926,7 +53926,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3348,
         ["kill_count"] = 5,
-        ["points"] = 8595.14,
+        ["points"] = 8595.63,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 12667,
@@ -53936,7 +53936,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2282,
         ["kill_count"] = 6,
-        ["points"] = 8943.83,
+        ["points"] = 8944.01,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4675,
@@ -53946,12 +53946,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5289,
         ["kill_count"] = 6,
-        ["points"] = 8128.57,
+        ["points"] = 8128.9,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 11111,
+        ["rank_raids"] = 11112,
         ["kill_count"] = 5,
-        ["points"] = 6439.9,
+        ["points"] = 6439.8,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 6276,
@@ -53975,72 +53975,15 @@ UWULogsData[1][2] = {
       },
     },
   },
-  ["Hoja"] = {
+  ["Kisaeng"] = {
     ["percentile"] = 80.83,
     ["server"] = "Icecrown",
     ["overall_rank"] = 950,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2724,
-        ["kill_count"] = 10,
-        ["points"] = 8794.34,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 11342,
-        ["kill_count"] = 9,
-        ["points"] = 6416.8,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5130,
-        ["kill_count"] = 10,
-        ["points"] = 8187.46,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 1451,
-        ["kill_count"] = 10,
-        ["points"] = 9170.6,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 6369,
-        ["kill_count"] = 10,
-        ["points"] = 7839.2,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 4292,
-        ["kill_count"] = 9,
-        ["points"] = 8263.4,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 5549,
-        ["kill_count"] = 10,
-        ["points"] = 7993.78,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5598,
-        ["kill_count"] = 10,
-        ["points"] = 7871.6,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 3971,
-        ["kill_count"] = 8,
-        ["points"] = 8359.7,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 5607,
-        ["kill_count"] = 8,
-        ["points"] = 7868.9,
-      },
-    },
-  },
-  ["Kisaeng"] = {
-    ["percentile"] = 80.83,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 951,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
         ["rank_raids"] = 6977,
         ["kill_count"] = 27,
-        ["points"] = 7553.73,
+        ["points"] = 7554.59,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5321,
@@ -54048,7 +53991,7 @@ UWULogsData[1][2] = {
         ["points"] = 7954.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9191,
+        ["rank_raids"] = 9192,
         ["kill_count"] = 26,
         ["points"] = 7333.62,
       },
@@ -54058,9 +54001,9 @@ UWULogsData[1][2] = {
         ["points"] = 7990.4,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6332,
+        ["rank_raids"] = 6333,
         ["kill_count"] = 25,
-        ["points"] = 7849.59,
+        ["points"] = 7849.97,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4691,
@@ -54089,6 +54032,63 @@ UWULogsData[1][2] = {
       },
     },
   },
+  ["Hoja"] = {
+    ["percentile"] = 80.83,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 951,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 2724,
+        ["kill_count"] = 10,
+        ["points"] = 8794.76,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 11342,
+        ["kill_count"] = 9,
+        ["points"] = 6416.8,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 5131,
+        ["kill_count"] = 10,
+        ["points"] = 8187.77,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 1451,
+        ["kill_count"] = 10,
+        ["points"] = 9170.6,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 6370,
+        ["kill_count"] = 10,
+        ["points"] = 7839.57,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 4292,
+        ["kill_count"] = 9,
+        ["points"] = 8263.4,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 5549,
+        ["kill_count"] = 10,
+        ["points"] = 7993.78,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 5598,
+        ["kill_count"] = 10,
+        ["points"] = 7871.6,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 3971,
+        ["kill_count"] = 8,
+        ["points"] = 8359.7,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 5607,
+        ["kill_count"] = 8,
+        ["points"] = 7868.9,
+      },
+    },
+  },
   ["Mafteidog"] = {
     ["percentile"] = 80.83,
     ["server"] = "Icecrown",
@@ -54097,7 +54097,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 7680,
         ["kill_count"] = 2,
-        ["points"] = 7377.25,
+        ["points"] = 7378.17,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2145,
@@ -54105,7 +54105,7 @@ UWULogsData[1][2] = {
         ["points"] = 8907.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9962,
+        ["rank_raids"] = 9963,
         ["kill_count"] = 2,
         ["points"] = 7270.83,
       },
@@ -54117,12 +54117,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1708,
         ["kill_count"] = 3,
-        ["points"] = 9147.46,
+        ["points"] = 9147.61,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8552,
+        ["rank_raids"] = 8553,
         ["kill_count"] = 3,
-        ["points"] = 6985.4,
+        ["points"] = 6985.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 11141,
@@ -54154,7 +54154,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1529,
         ["kill_count"] = 11,
-        ["points"] = 9238.16,
+        ["points"] = 9238.43,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 8886,
@@ -54164,17 +54164,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 502,
         ["kill_count"] = 11,
-        ["points"] = 9655.41,
+        ["points"] = 9655.47,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6200,
         ["kill_count"] = 10,
-        ["points"] = 7743.39,
+        ["points"] = 7744.17,
       },
       ["Rotface"] = {
         ["rank_raids"] = 4211,
         ["kill_count"] = 10,
-        ["points"] = 8388.49,
+        ["points"] = 8388.77,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5420,
@@ -54211,7 +54211,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 9226,
         ["kill_count"] = 25,
-        ["points"] = 6985.85,
+        ["points"] = 6986.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4421,
@@ -54221,7 +54221,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2228,
         ["kill_count"] = 25,
-        ["points"] = 8957.62,
+        ["points"] = 8957.8,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4274,
@@ -54231,7 +54231,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4329,
         ["kill_count"] = 26,
-        ["points"] = 8360.77,
+        ["points"] = 8361.05,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5238,
@@ -54249,9 +54249,9 @@ UWULogsData[1][2] = {
         ["points"] = 8846.6,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 7932,
+        ["rank_raids"] = 7933,
         ["kill_count"] = 23,
-        ["points"] = 7171.4,
+        ["points"] = 7171.1,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 6840,
@@ -54268,15 +54268,15 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2407,
         ["kill_count"] = 1,
-        ["points"] = 8911.41,
+        ["points"] = 8911.79,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 15779,
+        ["rank_raids"] = 15780,
         ["kill_count"] = 1,
-        ["points"] = 5973.1,
+        ["points"] = 5973.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8937,
+        ["rank_raids"] = 8938,
         ["kill_count"] = 1,
         ["points"] = 7354.36,
       },
@@ -54286,7 +54286,7 @@ UWULogsData[1][2] = {
         ["points"] = 6835.39,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8027,
+        ["rank_raids"] = 8028,
         ["kill_count"] = 1,
         ["points"] = 7489.08,
       },
@@ -54325,7 +54325,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3616,
         ["kill_count"] = 6,
-        ["points"] = 8500.79,
+        ["points"] = 8501.31,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 10189,
@@ -54333,9 +54333,9 @@ UWULogsData[1][2] = {
         ["points"] = 6532.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7183,
+        ["rank_raids"] = 7184,
         ["kill_count"] = 7,
-        ["points"] = 7703.31,
+        ["points"] = 7703.7,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2504,
@@ -54345,12 +54345,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3527,
         ["kill_count"] = 7,
-        ["points"] = 8587.77,
+        ["points"] = 8588.01,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9120,
+        ["rank_raids"] = 9121,
         ["kill_count"] = 6,
-        ["points"] = 6815.0,
+        ["points"] = 6814.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1927,
@@ -54390,19 +54390,19 @@ UWULogsData[1][2] = {
         ["points"] = 8767.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4400,
+        ["rank_raids"] = 4401,
         ["kill_count"] = 2,
-        ["points"] = 8364.92,
+        ["points"] = 8365.2,
       },
       ["Festergut"] = {
         ["rank_raids"] = 7246,
         ["kill_count"] = 2,
-        ["points"] = 7523.78,
+        ["points"] = 7524.63,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1993,
         ["kill_count"] = 2,
-        ["points"] = 9048.69,
+        ["points"] = 9048.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2171,
@@ -54432,14 +54432,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Darkmeow"] = {
-    ["percentile"] = 80.7,
+    ["percentile"] = 80.71,
     ["server"] = "Icecrown",
     ["overall_rank"] = 958,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 8894,
         ["kill_count"] = 1,
-        ["points"] = 7074.96,
+        ["points"] = 7075.98,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 7293,
@@ -54447,19 +54447,19 @@ UWULogsData[1][2] = {
         ["points"] = 7363.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5447,
+        ["rank_raids"] = 5448,
         ["kill_count"] = 1,
-        ["points"] = 8106.48,
+        ["points"] = 8106.8,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6232,
         ["kill_count"] = 1,
-        ["points"] = 7734.74,
+        ["points"] = 7735.52,
       },
       ["Rotface"] = {
         ["rank_raids"] = 5143,
         ["kill_count"] = 1,
-        ["points"] = 8171.89,
+        ["points"] = 8172.21,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4657,
@@ -54477,9 +54477,9 @@ UWULogsData[1][2] = {
         ["points"] = 9054.6,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5608,
+        ["rank_raids"] = 5609,
         ["kill_count"] = 1,
-        ["points"] = 7868.6,
+        ["points"] = 7868.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4095,
@@ -54496,7 +54496,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6342,
         ["kill_count"] = 16,
-        ["points"] = 7719.73,
+        ["points"] = 7720.52,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2948,
@@ -54504,7 +54504,7 @@ UWULogsData[1][2] = {
         ["points"] = 8666.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9494,
+        ["rank_raids"] = 9495,
         ["kill_count"] = 16,
         ["points"] = 7307.95,
       },
@@ -54516,7 +54516,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5514,
         ["kill_count"] = 18,
-        ["points"] = 8076.59,
+        ["points"] = 8076.92,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4528,
@@ -54534,9 +54534,9 @@ UWULogsData[1][2] = {
         ["points"] = 8197.7,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4544,
+        ["rank_raids"] = 4545,
         ["kill_count"] = 18,
-        ["points"] = 8187.8,
+        ["points"] = 8187.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 7251,
@@ -54553,7 +54553,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1558,
         ["kill_count"] = 3,
-        ["points"] = 9229.43,
+        ["points"] = 9229.69,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2117,
@@ -54563,7 +54563,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 536,
         ["kill_count"] = 3,
-        ["points"] = 9634.73,
+        ["points"] = 9634.8,
       },
       ["Festergut"] = {
         ["rank_raids"] = 11517,
@@ -54571,7 +54571,7 @@ UWULogsData[1][2] = {
         ["points"] = 7073.68,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9800,
+        ["rank_raids"] = 9801,
         ["kill_count"] = 3,
         ["points"] = 7344.7,
       },
@@ -54586,14 +54586,14 @@ UWULogsData[1][2] = {
         ["points"] = 9128.68,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 18579,
+        ["rank_raids"] = 18581,
         ["kill_count"] = 3,
-        ["points"] = 5693.1,
+        ["points"] = 5692.9,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5629,
+        ["rank_raids"] = 5630,
         ["kill_count"] = 3,
-        ["points"] = 7862.3,
+        ["points"] = 7862.0,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 5824,
@@ -54610,7 +54610,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4926,
         ["kill_count"] = 2,
-        ["points"] = 8147.82,
+        ["points"] = 8148.47,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1961,
@@ -54618,7 +54618,7 @@ UWULogsData[1][2] = {
         ["points"] = 8966.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 11610,
+        ["rank_raids"] = 11611,
         ["kill_count"] = 2,
         ["points"] = 7131.37,
       },
@@ -54630,7 +54630,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2046,
         ["kill_count"] = 2,
-        ["points"] = 9024.43,
+        ["points"] = 9024.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6841,
@@ -54648,9 +54648,9 @@ UWULogsData[1][2] = {
         ["points"] = 8303.3,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5258,
+        ["rank_raids"] = 5259,
         ["kill_count"] = 2,
-        ["points"] = 7973.6,
+        ["points"] = 7973.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4824,
@@ -54667,7 +54667,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1947,
         ["kill_count"] = 19,
-        ["points"] = 9086.14,
+        ["points"] = 9086.46,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3884,
@@ -54675,9 +54675,9 @@ UWULogsData[1][2] = {
         ["points"] = 8385.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8493,
+        ["rank_raids"] = 8494,
         ["kill_count"] = 19,
-        ["points"] = 7441.42,
+        ["points"] = 7441.86,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4858,
@@ -54687,7 +54687,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5191,
         ["kill_count"] = 19,
-        ["points"] = 8158.03,
+        ["points"] = 8158.35,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4213,
@@ -54705,9 +54705,9 @@ UWULogsData[1][2] = {
         ["points"] = 6590.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 7383,
+        ["rank_raids"] = 7384,
         ["kill_count"] = 18,
-        ["points"] = 7336.1,
+        ["points"] = 7335.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1704,
@@ -54724,7 +54724,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6129,
         ["kill_count"] = 7,
-        ["points"] = 7793.12,
+        ["points"] = 7793.89,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5097,
@@ -54732,9 +54732,9 @@ UWULogsData[1][2] = {
         ["points"] = 8021.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5028,
+        ["rank_raids"] = 5029,
         ["kill_count"] = 7,
-        ["points"] = 8204.69,
+        ["points"] = 8205.0,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4089,
@@ -54742,9 +54742,9 @@ UWULogsData[1][2] = {
         ["points"] = 8324.3,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5979,
+        ["rank_raids"] = 5980,
         ["kill_count"] = 7,
-        ["points"] = 7943.16,
+        ["points"] = 7943.52,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7428,
@@ -54781,7 +54781,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 7888,
         ["kill_count"] = 12,
-        ["points"] = 7324.83,
+        ["points"] = 7325.76,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5199,
@@ -54791,7 +54791,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 1589,
         ["kill_count"] = 12,
-        ["points"] = 9186.77,
+        ["points"] = 9186.91,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4528,
@@ -54801,12 +54801,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 2251,
         ["kill_count"] = 12,
-        ["points"] = 8942.99,
+        ["points"] = 8943.17,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 11832,
+        ["rank_raids"] = 11833,
         ["kill_count"] = 8,
-        ["points"] = 6367.8,
+        ["points"] = 6367.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 7893,
@@ -54838,7 +54838,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 12243,
         ["kill_count"] = 6,
-        ["points"] = 6351.56,
+        ["points"] = 6352.84,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3506,
@@ -54846,7 +54846,7 @@ UWULogsData[1][2] = {
         ["points"] = 8499.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 14042,
+        ["rank_raids"] = 14043,
         ["kill_count"] = 6,
         ["points"] = 6933.95,
       },
@@ -54858,7 +54858,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3610,
         ["kill_count"] = 6,
-        ["points"] = 8570.44,
+        ["points"] = 8570.69,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5166,
@@ -54895,7 +54895,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5298,
         ["kill_count"] = 16,
-        ["points"] = 8032.5,
+        ["points"] = 8033.19,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2183,
@@ -54903,17 +54903,17 @@ UWULogsData[1][2] = {
         ["points"] = 8896.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4274,
+        ["rank_raids"] = 4275,
         ["kill_count"] = 14,
-        ["points"] = 8401.1,
+        ["points"] = 8401.38,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5823,
         ["kill_count"] = 16,
-        ["points"] = 7833.3,
+        ["points"] = 7834.05,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8843,
+        ["rank_raids"] = 8844,
         ["kill_count"] = 15,
         ["points"] = 7424.81,
       },
@@ -54928,9 +54928,9 @@ UWULogsData[1][2] = {
         ["points"] = 8187.81,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 10806,
+        ["rank_raids"] = 10807,
         ["kill_count"] = 15,
-        ["points"] = 6470.4,
+        ["points"] = 6470.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 822,
@@ -54952,7 +54952,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4055,
         ["kill_count"] = 3,
-        ["points"] = 8367.99,
+        ["points"] = 8368.56,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4137,
@@ -54960,9 +54960,9 @@ UWULogsData[1][2] = {
         ["points"] = 8309.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4374,
+        ["rank_raids"] = 4375,
         ["kill_count"] = 4,
-        ["points"] = 8371.81,
+        ["points"] = 8372.09,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2750,
@@ -54972,12 +54972,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 606,
         ["kill_count"] = 4,
-        ["points"] = 9599.72,
+        ["points"] = 9599.79,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9716,
+        ["rank_raids"] = 9717,
         ["kill_count"] = 3,
-        ["points"] = 6636.2,
+        ["points"] = 6635.9,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3711,
@@ -54990,9 +54990,9 @@ UWULogsData[1][2] = {
         ["points"] = 6693.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 8129,
+        ["rank_raids"] = 8130,
         ["kill_count"] = 3,
-        ["points"] = 7112.3,
+        ["points"] = 7112.0,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4444,
@@ -55009,7 +55009,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1600,
         ["kill_count"] = 5,
-        ["points"] = 9213.7,
+        ["points"] = 9213.97,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6075,
@@ -55017,24 +55017,24 @@ UWULogsData[1][2] = {
         ["points"] = 7728.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4305,
+        ["rank_raids"] = 4306,
         ["kill_count"] = 4,
-        ["points"] = 8392.49,
+        ["points"] = 8392.76,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5350,
         ["kill_count"] = 4,
-        ["points"] = 7947.43,
+        ["points"] = 7948.14,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1468,
         ["kill_count"] = 4,
-        ["points"] = 9241.03,
+        ["points"] = 9241.16,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 12064,
+        ["rank_raids"] = 12065,
         ["kill_count"] = 4,
-        ["points"] = 6344.6,
+        ["points"] = 6344.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 11966,
@@ -55066,7 +55066,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 8132,
         ["kill_count"] = 10,
-        ["points"] = 7253.19,
+        ["points"] = 7254.15,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2336,
@@ -55074,19 +55074,19 @@ UWULogsData[1][2] = {
         ["points"] = 8850.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4513,
+        ["rank_raids"] = 4514,
         ["kill_count"] = 11,
-        ["points"] = 8332.18,
+        ["points"] = 8332.47,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5709,
         ["kill_count"] = 8,
-        ["points"] = 7864.43,
+        ["points"] = 7865.17,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6784,
+        ["rank_raids"] = 6785,
         ["kill_count"] = 8,
-        ["points"] = 7747.36,
+        ["points"] = 7747.75,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2671,
@@ -55099,9 +55099,9 @@ UWULogsData[1][2] = {
         ["points"] = 8264.69,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 11901,
+        ["rank_raids"] = 11903,
         ["kill_count"] = 9,
-        ["points"] = 6360.9,
+        ["points"] = 6360.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2667,
@@ -55123,7 +55123,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5656,
         ["kill_count"] = 6,
-        ["points"] = 7910.19,
+        ["points"] = 7910.92,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 8283,
@@ -55133,7 +55133,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2193,
         ["kill_count"] = 6,
-        ["points"] = 8969.68,
+        ["points"] = 8969.85,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2257,
@@ -55143,12 +55143,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5239,
         ["kill_count"] = 6,
-        ["points"] = 8142.44,
+        ["points"] = 8142.76,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8649,
+        ["rank_raids"] = 8650,
         ["kill_count"] = 6,
-        ["points"] = 6956.3,
+        ["points"] = 6956.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3371,
@@ -55180,7 +55180,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4760,
         ["kill_count"] = 5,
-        ["points"] = 8195.0,
+        ["points"] = 8195.63,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 7087,
@@ -55188,19 +55188,19 @@ UWULogsData[1][2] = {
         ["points"] = 7424.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 11998,
+        ["rank_raids"] = 11999,
         ["kill_count"] = 5,
         ["points"] = 7101.76,
       },
       ["Festergut"] = {
         ["rank_raids"] = 7467,
         ["kill_count"] = 5,
-        ["points"] = 7473.63,
+        ["points"] = 7474.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 5860,
         ["kill_count"] = 6,
-        ["points"] = 7979.55,
+        ["points"] = 7979.9,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4307,
@@ -55218,9 +55218,9 @@ UWULogsData[1][2] = {
         ["points"] = 9123.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6380,
+        ["rank_raids"] = 6381,
         ["kill_count"] = 4,
-        ["points"] = 7637.0,
+        ["points"] = 7636.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 3362,
@@ -55237,7 +55237,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2482,
         ["kill_count"] = 16,
-        ["points"] = 8872.97,
+        ["points"] = 8873.36,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3716,
@@ -55245,9 +55245,9 @@ UWULogsData[1][2] = {
         ["points"] = 8436.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4409,
+        ["rank_raids"] = 4410,
         ["kill_count"] = 17,
-        ["points"] = 8359.75,
+        ["points"] = 8360.03,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4873,
@@ -55255,9 +55255,9 @@ UWULogsData[1][2] = {
         ["points"] = 8089.1,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6156,
+        ["rank_raids"] = 6157,
         ["kill_count"] = 18,
-        ["points"] = 7892.91,
+        ["points"] = 7893.28,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 8125,
@@ -55275,9 +55275,9 @@ UWULogsData[1][2] = {
         ["points"] = 8049.5,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5499,
+        ["rank_raids"] = 5500,
         ["kill_count"] = 15,
-        ["points"] = 7901.3,
+        ["points"] = 7901.0,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 6592,
@@ -55294,7 +55294,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3028,
         ["kill_count"] = 6,
-        ["points"] = 8699.98,
+        ["points"] = 8700.44,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4443,
@@ -55302,9 +55302,9 @@ UWULogsData[1][2] = {
         ["points"] = 8218.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8677,
+        ["rank_raids"] = 8678,
         ["kill_count"] = 7,
-        ["points"] = 7388.01,
+        ["points"] = 7388.46,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3929,
@@ -55314,7 +55314,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5821,
         ["kill_count"] = 7,
-        ["points"] = 7991.68,
+        ["points"] = 7992.03,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6465,
@@ -55351,7 +55351,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 10129,
         ["kill_count"] = 4,
-        ["points"] = 6804.12,
+        ["points"] = 6805.24,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5400,
@@ -55359,9 +55359,9 @@ UWULogsData[1][2] = {
         ["points"] = 7931.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5692,
+        ["rank_raids"] = 5693,
         ["kill_count"] = 6,
-        ["points"] = 8039.28,
+        ["points"] = 8039.62,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1923,
@@ -55369,9 +55369,9 @@ UWULogsData[1][2] = {
         ["points"] = 8981.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6958,
+        ["rank_raids"] = 6959,
         ["kill_count"] = 6,
-        ["points"] = 7695.37,
+        ["points"] = 7695.77,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3531,
@@ -55389,9 +55389,9 @@ UWULogsData[1][2] = {
         ["points"] = 8448.5,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4631,
+        ["rank_raids"] = 4632,
         ["kill_count"] = 6,
-        ["points"] = 8161.7,
+        ["points"] = 8161.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1609,
@@ -55408,7 +55408,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1335,
         ["kill_count"] = 11,
-        ["points"] = 9299.32,
+        ["points"] = 9299.56,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1795,
@@ -55416,9 +55416,9 @@ UWULogsData[1][2] = {
         ["points"] = 9033.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4464,
+        ["rank_raids"] = 4465,
         ["kill_count"] = 15,
-        ["points"] = 8344.25,
+        ["points"] = 8344.53,
       },
       ["Festergut"] = {
         ["rank_raids"] = 10581,
@@ -55428,12 +55428,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5490,
         ["kill_count"] = 13,
-        ["points"] = 8080.06,
+        ["points"] = 8080.39,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 11956,
+        ["rank_raids"] = 11957,
         ["kill_count"] = 8,
-        ["points"] = 6355.4,
+        ["points"] = 6355.3,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 10025,
@@ -55446,9 +55446,9 @@ UWULogsData[1][2] = {
         ["points"] = 9225.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 5284,
+        ["rank_raids"] = 5285,
         ["kill_count"] = 6,
-        ["points"] = 7965.8,
+        ["points"] = 7965.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4633,
@@ -55465,7 +55465,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1236,
         ["kill_count"] = 17,
-        ["points"] = 9348.24,
+        ["points"] = 9348.47,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 11707,
@@ -55473,19 +55473,19 @@ UWULogsData[1][2] = {
         ["points"] = 6380.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7958,
+        ["rank_raids"] = 7959,
         ["kill_count"] = 19,
-        ["points"] = 7537.9,
+        ["points"] = 7538.33,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5862,
         ["kill_count"] = 18,
-        ["points"] = 7824.66,
+        ["points"] = 7825.41,
       },
       ["Rotface"] = {
         ["rank_raids"] = 5594,
         ["kill_count"] = 18,
-        ["points"] = 8054.06,
+        ["points"] = 8054.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5348,
@@ -55515,14 +55515,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Jolyxxq"] = {
-    ["percentile"] = 80.44,
+    ["percentile"] = 80.45,
     ["server"] = "Icecrown",
     ["overall_rank"] = 977,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3351,
         ["kill_count"] = 4,
-        ["points"] = 8593.4,
+        ["points"] = 8593.89,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2321,
@@ -55530,19 +55530,19 @@ UWULogsData[1][2] = {
         ["points"] = 8854.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5193,
+        ["rank_raids"] = 5194,
         ["kill_count"] = 4,
-        ["points"] = 8178.84,
+        ["points"] = 8179.16,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6398,
         ["kill_count"] = 4,
-        ["points"] = 7710.53,
+        ["points"] = 7711.32,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6110,
+        ["rank_raids"] = 6111,
         ["kill_count"] = 4,
-        ["points"] = 7901.58,
+        ["points"] = 7901.94,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3329,
@@ -55555,14 +55555,14 @@ UWULogsData[1][2] = {
         ["points"] = 8599.67,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 12819,
+        ["rank_raids"] = 12821,
         ["kill_count"] = 4,
-        ["points"] = 6269.1,
+        ["points"] = 6268.9,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6883,
+        ["rank_raids"] = 6884,
         ["kill_count"] = 4,
-        ["points"] = 7486.1,
+        ["points"] = 7485.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4377,
@@ -55572,14 +55572,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Lappila"] = {
-    ["percentile"] = 80.43,
+    ["percentile"] = 80.44,
     ["server"] = "Icecrown",
     ["overall_rank"] = 978,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3379,
         ["kill_count"] = 3,
-        ["points"] = 8584.66,
+        ["points"] = 8585.15,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 9820,
@@ -55587,24 +55587,24 @@ UWULogsData[1][2] = {
         ["points"] = 6605.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7352,
+        ["rank_raids"] = 7353,
         ["kill_count"] = 2,
-        ["points"] = 7670.57,
+        ["points"] = 7670.97,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5229,
         ["kill_count"] = 3,
-        ["points"] = 7982.3,
+        ["points"] = 7982.71,
       },
       ["Rotface"] = {
         ["rank_raids"] = 5650,
         ["kill_count"] = 3,
-        ["points"] = 8033.27,
+        ["points"] = 8033.61,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 10787,
+        ["rank_raids"] = 10788,
         ["kill_count"] = 3,
-        ["points"] = 6472.3,
+        ["points"] = 6472.2,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4250,
@@ -55636,7 +55636,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2710,
         ["kill_count"] = 10,
-        ["points"] = 8797.83,
+        ["points"] = 8798.25,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4955,
@@ -55646,7 +55646,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2887,
         ["kill_count"] = 10,
-        ["points"] = 8756.03,
+        ["points"] = 8756.24,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4406,
@@ -55654,9 +55654,9 @@ UWULogsData[1][2] = {
         ["points"] = 8229.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7141,
+        ["rank_raids"] = 7142,
         ["kill_count"] = 10,
-        ["points"] = 7662.45,
+        ["points"] = 7662.86,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3824,
@@ -55674,9 +55674,9 @@ UWULogsData[1][2] = {
         ["points"] = 7298.9,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6334,
+        ["rank_raids"] = 6335,
         ["kill_count"] = 8,
-        ["points"] = 7650.8,
+        ["points"] = 7650.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 6376,
@@ -55685,72 +55685,15 @@ UWULogsData[1][2] = {
       },
     },
   },
-  ["Born"] = {
+  ["Lipindohr"] = {
     ["percentile"] = 80.38,
     ["server"] = "Icecrown",
     ["overall_rank"] = 980,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2460,
-        ["kill_count"] = 7,
-        ["points"] = 8885.2,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 10026,
-        ["kill_count"] = 5,
-        ["points"] = 6548.4,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1665,
-        ["kill_count"] = 7,
-        ["points"] = 9164.37,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 3924,
-        ["kill_count"] = 7,
-        ["points"] = 8373.8,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 694,
-        ["kill_count"] = 7,
-        ["points"] = 9549.47,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 8383,
-        ["kill_count"] = 5,
-        ["points"] = 7036.1,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 2903,
-        ["kill_count"] = 6,
-        ["points"] = 8797.36,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2310,
-        ["kill_count"] = 7,
-        ["points"] = 8858.0,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 11971,
-        ["kill_count"] = 4,
-        ["points"] = 6353.9,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 10016,
-        ["kill_count"] = 4,
-        ["points"] = 6751.89,
-      },
-    },
-  },
-  ["Lipindohr"] = {
-    ["percentile"] = 80.38,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 981,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
         ["rank_raids"] = 5805,
         ["kill_count"] = 4,
-        ["points"] = 7871.75,
+        ["points"] = 7872.49,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3597,
@@ -55760,7 +55703,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3471,
         ["kill_count"] = 6,
-        ["points"] = 8602.69,
+        ["points"] = 8602.93,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2876,
@@ -55770,7 +55713,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5412,
         ["kill_count"] = 5,
-        ["points"] = 8097.38,
+        ["points"] = 8097.71,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6669,
@@ -55788,14 +55731,71 @@ UWULogsData[1][2] = {
         ["points"] = 8702.9,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 6861,
+        ["rank_raids"] = 6862,
         ["kill_count"] = 5,
-        ["points"] = 7492.7,
+        ["points"] = 7492.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4946,
         ["kill_count"] = 4,
         ["points"] = 8067.2,
+      },
+    },
+  },
+  ["Born"] = {
+    ["percentile"] = 80.38,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 981,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 2460,
+        ["kill_count"] = 7,
+        ["points"] = 8885.59,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 10026,
+        ["kill_count"] = 5,
+        ["points"] = 6548.4,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 1665,
+        ["kill_count"] = 7,
+        ["points"] = 9164.51,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 3924,
+        ["kill_count"] = 7,
+        ["points"] = 8373.8,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 694,
+        ["kill_count"] = 7,
+        ["points"] = 9549.55,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 8384,
+        ["kill_count"] = 5,
+        ["points"] = 7035.8,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 2903,
+        ["kill_count"] = 6,
+        ["points"] = 8797.36,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 2310,
+        ["kill_count"] = 7,
+        ["points"] = 8858.0,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 11972,
+        ["kill_count"] = 4,
+        ["points"] = 6353.8,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 10016,
+        ["kill_count"] = 4,
+        ["points"] = 6751.89,
       },
     },
   },
@@ -55807,7 +55807,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1717,
         ["kill_count"] = 9,
-        ["points"] = 9166.52,
+        ["points"] = 9166.81,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 13702,
@@ -55815,9 +55815,9 @@ UWULogsData[1][2] = {
         ["points"] = 6180.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6577,
+        ["rank_raids"] = 6578,
         ["kill_count"] = 10,
-        ["points"] = 7823.91,
+        ["points"] = 7824.29,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2126,
@@ -55825,14 +55825,14 @@ UWULogsData[1][2] = {
         ["points"] = 8913.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6882,
+        ["rank_raids"] = 6883,
         ["kill_count"] = 10,
-        ["points"] = 7719.63,
+        ["points"] = 7720.03,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9942,
+        ["rank_raids"] = 9943,
         ["kill_count"] = 9,
-        ["points"] = 6568.4,
+        ["points"] = 6568.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2846,
@@ -55864,7 +55864,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3205,
         ["kill_count"] = 4,
-        ["points"] = 8647.56,
+        ["points"] = 8648.03,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4753,
@@ -55872,9 +55872,9 @@ UWULogsData[1][2] = {
         ["points"] = 8125.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7929,
+        ["rank_raids"] = 7930,
         ["kill_count"] = 2,
-        ["points"] = 7546.52,
+        ["points"] = 7546.94,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4671,
@@ -55884,12 +55884,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 3066,
         ["kill_count"] = 2,
-        ["points"] = 8724.66,
+        ["points"] = 8724.88,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8803,
+        ["rank_raids"] = 8804,
         ["kill_count"] = 2,
-        ["points"] = 6910.1,
+        ["points"] = 6909.8,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 10070,
@@ -55921,7 +55921,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1618,
         ["kill_count"] = 5,
-        ["points"] = 9204.96,
+        ["points"] = 9205.24,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4877,
@@ -55929,9 +55929,9 @@ UWULogsData[1][2] = {
         ["points"] = 8087.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7333,
+        ["rank_raids"] = 7334,
         ["kill_count"] = 4,
-        ["points"] = 7672.29,
+        ["points"] = 7672.7,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5023,
@@ -55941,7 +55941,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5296,
         ["kill_count"] = 5,
-        ["points"] = 8126.84,
+        ["points"] = 8127.17,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6376,
@@ -55964,9 +55964,9 @@ UWULogsData[1][2] = {
         ["points"] = 8996.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 15464,
+        ["rank_raids"] = 15465,
         ["kill_count"] = 1,
-        ["points"] = 6004.6,
+        ["points"] = 6004.5,
       },
     },
   },
@@ -55978,17 +55978,17 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4260,
         ["kill_count"] = 13,
-        ["points"] = 8319.06,
+        ["points"] = 8319.65,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 14191,
+        ["rank_raids"] = 14192,
         ["kill_count"] = 14,
-        ["points"] = 6131.9,
+        ["points"] = 6131.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4667,
+        ["rank_raids"] = 4668,
         ["kill_count"] = 15,
-        ["points"] = 8292.56,
+        ["points"] = 8292.85,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1706,
@@ -55998,7 +55998,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4944,
         ["kill_count"] = 15,
-        ["points"] = 8229.08,
+        ["points"] = 8229.38,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4088,
@@ -56016,9 +56016,9 @@ UWULogsData[1][2] = {
         ["points"] = 9510.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 8261,
+        ["rank_raids"] = 8262,
         ["kill_count"] = 13,
-        ["points"] = 7072.7,
+        ["points"] = 7072.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 10051,
@@ -56035,7 +56035,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3780,
         ["kill_count"] = 14,
-        ["points"] = 8457.1,
+        ["points"] = 8457.64,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6489,
@@ -56045,17 +56045,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3583,
         ["kill_count"] = 14,
-        ["points"] = 8575.12,
+        ["points"] = 8575.37,
       },
       ["Festergut"] = {
         ["rank_raids"] = 7051,
         ["kill_count"] = 14,
-        ["points"] = 7567.01,
+        ["points"] = 7567.85,
       },
       ["Rotface"] = {
         ["rank_raids"] = 4582,
         ["kill_count"] = 15,
-        ["points"] = 8300.12,
+        ["points"] = 8300.42,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5073,
@@ -56073,9 +56073,9 @@ UWULogsData[1][2] = {
         ["points"] = 9354.5,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 7641,
+        ["rank_raids"] = 7642,
         ["kill_count"] = 9,
-        ["points"] = 7258.7,
+        ["points"] = 7258.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 8567,
@@ -56092,7 +56092,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5589,
         ["kill_count"] = 12,
-        ["points"] = 7939.89,
+        ["points"] = 7940.61,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2689,
@@ -56102,7 +56102,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3940,
         ["kill_count"] = 11,
-        ["points"] = 8487.25,
+        ["points"] = 8487.51,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2685,
@@ -56112,12 +56112,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5119,
         ["kill_count"] = 8,
-        ["points"] = 8175.36,
+        ["points"] = 8175.68,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 10038,
+        ["rank_raids"] = 10039,
         ["kill_count"] = 8,
-        ["points"] = 6547.2,
+        ["points"] = 6547.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3546,
@@ -56130,9 +56130,9 @@ UWULogsData[1][2] = {
         ["points"] = 9378.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 9605,
+        ["rank_raids"] = 9606,
         ["kill_count"] = 7,
-        ["points"] = 6669.5,
+        ["points"] = 6669.2,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 8430,
@@ -56149,7 +56149,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6408,
         ["kill_count"] = 9,
-        ["points"] = 7700.51,
+        ["points"] = 7701.31,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3638,
@@ -56157,7 +56157,7 @@ UWULogsData[1][2] = {
         ["points"] = 8459.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8938,
+        ["rank_raids"] = 8939,
         ["kill_count"] = 10,
         ["points"] = 7354.31,
       },
@@ -56167,7 +56167,7 @@ UWULogsData[1][2] = {
         ["points"] = 8510.6,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9925,
+        ["rank_raids"] = 9926,
         ["kill_count"] = 10,
         ["points"] = 7333.91,
       },
@@ -56187,9 +56187,9 @@ UWULogsData[1][2] = {
         ["points"] = 6936.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4920,
+        ["rank_raids"] = 4921,
         ["kill_count"] = 10,
-        ["points"] = 8075.0,
+        ["points"] = 8074.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4261,
@@ -56206,7 +56206,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 7181,
         ["kill_count"] = 4,
-        ["points"] = 7506.55,
+        ["points"] = 7507.42,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4223,
@@ -56214,9 +56214,9 @@ UWULogsData[1][2] = {
         ["points"] = 8284.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8052,
+        ["rank_raids"] = 8053,
         ["kill_count"] = 6,
-        ["points"] = 7517.23,
+        ["points"] = 7517.66,
       },
       ["Festergut"] = {
         ["rank_raids"] = 12545,
@@ -56226,7 +56226,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5471,
         ["kill_count"] = 5,
-        ["points"] = 8085.25,
+        ["points"] = 8085.59,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1253,
@@ -56239,9 +56239,9 @@ UWULogsData[1][2] = {
         ["points"] = 9732.75,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 15297,
+        ["rank_raids"] = 15299,
         ["kill_count"] = 4,
-        ["points"] = 6021.3,
+        ["points"] = 6021.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2794,
@@ -56263,7 +56263,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2878,
         ["kill_count"] = 10,
-        ["points"] = 8743.67,
+        ["points"] = 8744.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5609,
@@ -56271,9 +56271,9 @@ UWULogsData[1][2] = {
         ["points"] = 7868.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5411,
+        ["rank_raids"] = 5412,
         ["kill_count"] = 11,
-        ["points"] = 8120.26,
+        ["points"] = 8120.59,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1955,
@@ -56281,7 +56281,7 @@ UWULogsData[1][2] = {
         ["points"] = 8969.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8596,
+        ["rank_raids"] = 8597,
         ["kill_count"] = 12,
         ["points"] = 7446.78,
       },
@@ -56301,9 +56301,9 @@ UWULogsData[1][2] = {
         ["points"] = 9281.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 10295,
+        ["rank_raids"] = 10296,
         ["kill_count"] = 10,
-        ["points"] = 6521.5,
+        ["points"] = 6521.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 5221,
@@ -56313,14 +56313,14 @@ UWULogsData[1][2] = {
     },
   },
   ["Sarlia"] = {
-    ["percentile"] = 80.28,
+    ["percentile"] = 80.29,
     ["server"] = "Icecrown",
     ["overall_rank"] = 991,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 5226,
         ["kill_count"] = 2,
-        ["points"] = 8065.7,
+        ["points"] = 8066.38,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4595,
@@ -56330,7 +56330,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3072,
         ["kill_count"] = 2,
-        ["points"] = 8707.79,
+        ["points"] = 8708.01,
       },
       ["Festergut"] = {
         ["rank_raids"] = 1441,
@@ -56338,14 +56338,14 @@ UWULogsData[1][2] = {
         ["points"] = 9174.6,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7664,
+        ["rank_raids"] = 7665,
         ["kill_count"] = 2,
-        ["points"] = 7556.75,
+        ["points"] = 7557.17,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 11004,
+        ["rank_raids"] = 11005,
         ["kill_count"] = 2,
-        ["points"] = 6450.6,
+        ["points"] = 6450.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 3532,
@@ -56358,9 +56358,9 @@ UWULogsData[1][2] = {
         ["points"] = 7429.1,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4862,
+        ["rank_raids"] = 4863,
         ["kill_count"] = 2,
-        ["points"] = 8092.4,
+        ["points"] = 8092.1,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 5086,
@@ -56377,7 +56377,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1706,
         ["kill_count"] = 1,
-        ["points"] = 9170.02,
+        ["points"] = 9170.31,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 9105,
@@ -56385,9 +56385,9 @@ UWULogsData[1][2] = {
         ["points"] = 6819.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8141,
+        ["rank_raids"] = 8142,
         ["kill_count"] = 1,
-        ["points"] = 7498.28,
+        ["points"] = 7498.71,
       },
       ["Festergut"] = {
         ["rank_raids"] = 2373,
@@ -56397,12 +56397,12 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 1437,
         ["kill_count"] = 1,
-        ["points"] = 9249.7,
+        ["points"] = 9249.83,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 13613,
+        ["rank_raids"] = 13614,
         ["kill_count"] = 1,
-        ["points"] = 6189.7,
+        ["points"] = 6189.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4291,
@@ -56410,9 +56410,9 @@ UWULogsData[1][2] = {
         ["points"] = 8326.93,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 12590,
+        ["rank_raids"] = 12592,
         ["kill_count"] = 1,
-        ["points"] = 6292.0,
+        ["points"] = 6291.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3588,
@@ -56434,7 +56434,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3295,
         ["kill_count"] = 12,
-        ["points"] = 8614.36,
+        ["points"] = 8614.85,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 9094,
@@ -56444,17 +56444,17 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 3221,
         ["kill_count"] = 11,
-        ["points"] = 8664.71,
+        ["points"] = 8664.94,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6496,
         ["kill_count"] = 12,
-        ["points"] = 7684.59,
+        ["points"] = 7685.39,
       },
       ["Rotface"] = {
         ["rank_raids"] = 4794,
         ["kill_count"] = 12,
-        ["points"] = 8258.53,
+        ["points"] = 8258.84,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6854,
@@ -56472,9 +56472,9 @@ UWULogsData[1][2] = {
         ["points"] = 8849.3,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 4579,
+        ["rank_raids"] = 4580,
         ["kill_count"] = 9,
-        ["points"] = 8177.3,
+        ["points"] = 8177.0,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 9393,
@@ -56491,7 +56491,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 9602,
         ["kill_count"] = 5,
-        ["points"] = 6907.22,
+        ["points"] = 6908.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6490,
@@ -56499,7 +56499,7 @@ UWULogsData[1][2] = {
         ["points"] = 7604.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 11455,
+        ["rank_raids"] = 11456,
         ["kill_count"] = 4,
         ["points"] = 7145.59,
       },
@@ -56511,7 +56511,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4797,
         ["kill_count"] = 4,
-        ["points"] = 8256.8,
+        ["points"] = 8257.1,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7638,
@@ -56548,7 +56548,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 8474,
         ["kill_count"] = 7,
-        ["points"] = 7176.31,
+        ["points"] = 7177.29,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1493,
@@ -56556,7 +56556,7 @@ UWULogsData[1][2] = {
         ["points"] = 9153.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9838,
+        ["rank_raids"] = 9839,
         ["kill_count"] = 9,
         ["points"] = 7280.58,
       },
@@ -56566,9 +56566,9 @@ UWULogsData[1][2] = {
         ["points"] = 8573.9,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6777,
+        ["rank_raids"] = 6778,
         ["kill_count"] = 9,
-        ["points"] = 7750.82,
+        ["points"] = 7751.21,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5127,
@@ -56586,9 +56586,9 @@ UWULogsData[1][2] = {
         ["points"] = 8121.5,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 7813,
+        ["rank_raids"] = 7814,
         ["kill_count"] = 9,
-        ["points"] = 7207.1,
+        ["points"] = 7206.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 4550,
@@ -56605,7 +56605,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 4015,
         ["kill_count"] = 5,
-        ["points"] = 8381.97,
+        ["points"] = 8382.53,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5378,
@@ -56613,7 +56613,7 @@ UWULogsData[1][2] = {
         ["points"] = 7937.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 11243,
+        ["rank_raids"] = 11244,
         ["kill_count"] = 5,
         ["points"] = 7163.01,
       },
@@ -56625,7 +56625,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 602,
         ["kill_count"] = 5,
-        ["points"] = 9603.19,
+        ["points"] = 9603.26,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3804,
@@ -56662,17 +56662,17 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3984,
         ["kill_count"] = 4,
-        ["points"] = 8394.2,
+        ["points"] = 8394.76,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 18995,
+        ["rank_raids"] = 18996,
         ["kill_count"] = 1,
-        ["points"] = 5651.5,
+        ["points"] = 5651.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4476,
+        ["rank_raids"] = 4477,
         ["kill_count"] = 4,
-        ["points"] = 8340.8,
+        ["points"] = 8341.09,
       },
       ["Festergut"] = {
         ["rank_raids"] = 10147,
@@ -56680,7 +56680,7 @@ UWULogsData[1][2] = {
         ["points"] = 7187.56,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9747,
+        ["rank_raids"] = 9748,
         ["kill_count"] = 3,
         ["points"] = 7349.26,
       },
@@ -56719,7 +56719,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1320,
         ["kill_count"] = 4,
-        ["points"] = 9311.55,
+        ["points"] = 9311.79,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 773,
@@ -56727,9 +56727,9 @@ UWULogsData[1][2] = {
         ["points"] = 9464.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4769,
+        ["rank_raids"] = 4770,
         ["kill_count"] = 4,
-        ["points"] = 8275.33,
+        ["points"] = 8275.62,
       },
       ["Festergut"] = {
         ["rank_raids"] = 3975,
@@ -56739,7 +56739,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5894,
         ["kill_count"] = 4,
-        ["points"] = 7972.62,
+        ["points"] = 7972.97,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 7462,
@@ -56757,9 +56757,9 @@ UWULogsData[1][2] = {
         ["points"] = 9420.5,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 13776,
+        ["rank_raids"] = 13777,
         ["kill_count"] = 1,
-        ["points"] = 6173.4,
+        ["points"] = 6173.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 7400,
@@ -56776,7 +56776,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 8024,
         ["kill_count"] = 14,
-        ["points"] = 7289.88,
+        ["points"] = 7290.83,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4355,
@@ -56786,7 +56786,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2389,
         ["kill_count"] = 14,
-        ["points"] = 8897.31,
+        ["points"] = 8897.5,
       },
       ["Festergut"] = {
         ["rank_raids"] = 5017,
@@ -56796,7 +56796,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 5472,
         ["kill_count"] = 14,
-        ["points"] = 8083.52,
+        ["points"] = 8083.85,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6680,
@@ -56814,9 +56814,9 @@ UWULogsData[1][2] = {
         ["points"] = 7861.7,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 8182,
+        ["rank_raids"] = 8183,
         ["kill_count"] = 9,
-        ["points"] = 7096.4,
+        ["points"] = 7096.1,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 6716,
@@ -56833,7 +56833,7 @@ UWULogsData[1][2] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 9299,
         ["kill_count"] = 1,
-        ["points"] = 6971.87,
+        ["points"] = 6972.93,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1883,
@@ -56843,7 +56843,7 @@ UWULogsData[1][2] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 2285,
         ["kill_count"] = 1,
-        ["points"] = 8942.11,
+        ["points"] = 8942.29,
       },
       ["Festergut"] = {
         ["rank_raids"] = 4487,
@@ -56853,7 +56853,7 @@ UWULogsData[1][2] = {
       ["Rotface"] = {
         ["rank_raids"] = 4449,
         ["kill_count"] = 1,
-        ["points"] = 8329.58,
+        ["points"] = 8329.87,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1789,

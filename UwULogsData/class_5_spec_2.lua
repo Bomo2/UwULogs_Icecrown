@@ -9506,10 +9506,10 @@ UWULogsData[5][2] = {
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 10926,
         ["kill_count"] = 8,
-        ["points"] = 7439.38,
+        ["points"] = 7439.68,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9250,
+        ["rank_raids"] = 9251,
         ["kill_count"] = 14,
         ["points"] = 8324.83,
       },
@@ -9526,7 +9526,7 @@ UWULogsData[5][2] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 7604,
         ["kill_count"] = 11,
-        ["points"] = 8626.86,
+        ["points"] = 8627.02,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 4267,
@@ -9541,12 +9541,12 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 592,
         ["kill_count"] = 9,
-        ["points"] = 9755.39,
+        ["points"] = 9755.42,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 18895,
         ["kill_count"] = 9,
-        ["points"] = 6469.52,
+        ["points"] = 6469.98,
       },
     },
   },
