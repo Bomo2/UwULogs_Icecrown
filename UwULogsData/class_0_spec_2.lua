@@ -114,7 +114,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 27,
-        ["points"] = 9957.1,
+        ["points"] = 9957.11,
       },
       ["Rotface"] = {
         ["kill_count"] = 28,
@@ -126,7 +126,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 26,
-        ["points"] = 9968.22,
+        ["points"] = 9968.23,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 25,
@@ -134,7 +134,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 23,
-        ["points"] = 9951.11,
+        ["points"] = 9951.12,
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
@@ -149,7 +149,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 27,
-        ["points"] = 9982.97,
+        ["points"] = 9982.98,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 24,
@@ -173,7 +173,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 26,
-        ["points"] = 9987.89,
+        ["points"] = 9987.9,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 27,
@@ -196,15 +196,15 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 23,
-        ["points"] = 9994.32,
+        ["points"] = 9994.33,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 9958.67,
+        ["points"] = 9958.68,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
-        ["points"] = 9912.19,
+        ["points"] = 9912.2,
       },
       ["Festergut"] = {
         ["kill_count"] = 19,
@@ -228,7 +228,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 9953.43,
+        ["points"] = 9953.45,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
@@ -243,15 +243,15 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 42,
-        ["points"] = 9738.93,
+        ["points"] = 9738.97,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 36,
-        ["points"] = 9914.38,
+        ["points"] = 9914.4,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 44,
-        ["points"] = 9900.03,
+        ["points"] = 9900.04,
       },
       ["Festergut"] = {
         ["kill_count"] = 46,
@@ -267,11 +267,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 46,
-        ["points"] = 9960.65,
+        ["points"] = 9960.66,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 46,
-        ["points"] = 9928.32,
+        ["points"] = 9928.33,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 43,
@@ -294,11 +294,11 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9825.8,
+        ["points"] = 9825.86,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
-        ["points"] = 9716.29,
+        ["points"] = 9716.33,
       },
       ["Festergut"] = {
         ["kill_count"] = 6,
@@ -337,19 +337,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 11,
-        ["points"] = 9906.36,
+        ["points"] = 9906.37,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 9976.38,
+        ["points"] = 9976.39,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
-        ["points"] = 9893.27,
+        ["points"] = 9893.29,
       },
       ["Festergut"] = {
         ["kill_count"] = 10,
-        ["points"] = 9826.2,
+        ["points"] = 9826.22,
       },
       ["Rotface"] = {
         ["kill_count"] = 10,
@@ -365,11 +365,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 10,
-        ["points"] = 9976.59,
+        ["points"] = 9976.6,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9911.53,
+        ["points"] = 9911.55,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
@@ -384,19 +384,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 18,
-        ["points"] = 9856.7,
+        ["points"] = 9856.72,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 9908.47,
+        ["points"] = 9908.5,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
-        ["points"] = 9948.66,
+        ["points"] = 9948.67,
       },
       ["Festergut"] = {
         ["kill_count"] = 23,
-        ["points"] = 9873.5,
+        ["points"] = 9873.52,
       },
       ["Rotface"] = {
         ["kill_count"] = 18,
@@ -412,11 +412,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 18,
-        ["points"] = 9964.89,
+        ["points"] = 9964.9,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 9913.85,
+        ["points"] = 9913.87,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
@@ -431,15 +431,15 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 11,
-        ["points"] = 9848.18,
+        ["points"] = 9848.21,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9379.98,
+        ["points"] = 9380.17,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
-        ["points"] = 9945.96,
+        ["points"] = 9945.97,
       },
       ["Festergut"] = {
         ["kill_count"] = 13,
@@ -455,7 +455,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
-        ["points"] = 9939.47,
+        ["points"] = 9939.48,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 13,
@@ -463,7 +463,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9955.76,
+        ["points"] = 9955.77,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -482,7 +482,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 9964.57,
+        ["points"] = 9964.58,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -510,7 +510,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 9650.76,
+        ["points"] = 9650.84,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
@@ -529,7 +529,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9923.24,
+        ["points"] = 9923.26,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -549,11 +549,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 9900.12,
+        ["points"] = 9900.14,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 9825.92,
+        ["points"] = 9825.95,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
@@ -572,15 +572,15 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 27,
-        ["points"] = 9741.77,
+        ["points"] = 9741.81,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 9911.43,
+        ["points"] = 9911.45,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 30,
-        ["points"] = 9922.99,
+        ["points"] = 9923.0,
       },
       ["Festergut"] = {
         ["kill_count"] = 29,
@@ -596,11 +596,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 29,
-        ["points"] = 9888.01,
+        ["points"] = 9888.03,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 30,
-        ["points"] = 9885.9,
+        ["points"] = 9885.91,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 22,
@@ -619,19 +619,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 8,
-        ["points"] = 9709.14,
+        ["points"] = 9709.18,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 9867.14,
+        ["points"] = 9867.18,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
-        ["points"] = 9847.34,
+        ["points"] = 9847.36,
       },
       ["Festergut"] = {
         ["kill_count"] = 9,
-        ["points"] = 9893.3,
+        ["points"] = 9893.31,
       },
       ["Rotface"] = {
         ["kill_count"] = 9,
@@ -643,15 +643,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
-        ["points"] = 9813.86,
+        ["points"] = 9813.89,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
-        ["points"] = 9959.04,
+        ["points"] = 9959.05,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 9839.35,
+        ["points"] = 9839.39,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -670,15 +670,15 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 9678.18,
+        ["points"] = 9678.28,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 18,
-        ["points"] = 9804.11,
+        ["points"] = 9804.13,
       },
       ["Festergut"] = {
         ["kill_count"] = 21,
-        ["points"] = 9907.6,
+        ["points"] = 9907.61,
       },
       ["Rotface"] = {
         ["kill_count"] = 18,
@@ -690,15 +690,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
-        ["points"] = 9963.68,
+        ["points"] = 9963.69,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 18,
-        ["points"] = 9980.98,
+        ["points"] = 9980.99,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 9778.81,
+        ["points"] = 9778.86,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
@@ -717,7 +717,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 9920.28,
+        ["points"] = 9920.31,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -725,7 +725,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 22,
-        ["points"] = 9858.1,
+        ["points"] = 9858.12,
       },
       ["Rotface"] = {
         ["kill_count"] = 5,
@@ -737,11 +737,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 9916.77,
+        ["points"] = 9916.78,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 9935.63,
+        ["points"] = 9935.64,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
@@ -760,15 +760,15 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9622.59,
+        ["points"] = 9622.64,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 9468.56,
+        ["points"] = 9468.71,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
-        ["points"] = 9710.89,
+        ["points"] = 9710.93,
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
@@ -784,7 +784,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9903.15,
+        ["points"] = 9903.16,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -792,7 +792,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9969.73,
+        ["points"] = 9969.74,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -801,25 +801,25 @@ UWULogsData[0][2] = {
     },
   },
   ["Natashax"] = {
-    ["percentile"] = 98.14,
+    ["percentile"] = 98.15,
     ["server"] = "Icecrown",
     ["overall_rank"] = 18,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 12,
-        ["points"] = 9746.03,
+        ["points"] = 9746.06,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 9979.33,
+        ["points"] = 9979.34,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
-        ["points"] = 9797.35,
+        ["points"] = 9797.38,
       },
       ["Festergut"] = {
         ["kill_count"] = 12,
-        ["points"] = 9939.5,
+        ["points"] = 9939.51,
       },
       ["Rotface"] = {
         ["kill_count"] = 12,
@@ -831,15 +831,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
-        ["points"] = 9838.08,
+        ["points"] = 9838.1,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 11,
-        ["points"] = 9596.26,
+        ["points"] = 9596.31,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 9811.41,
+        ["points"] = 9811.45,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
@@ -854,19 +854,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 12,
-        ["points"] = 9585.7,
+        ["points"] = 9585.76,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 9890.76,
+        ["points"] = 9890.79,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
-        ["points"] = 9868.95,
+        ["points"] = 9868.97,
       },
       ["Festergut"] = {
         ["kill_count"] = 12,
-        ["points"] = 9458.81,
+        ["points"] = 9458.86,
       },
       ["Rotface"] = {
         ["kill_count"] = 9,
@@ -878,15 +878,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
-        ["points"] = 9965.19,
+        ["points"] = 9965.2,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 10,
-        ["points"] = 9858.1,
+        ["points"] = 9858.12,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 9941.79,
+        ["points"] = 9941.81,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
@@ -901,11 +901,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 15,
-        ["points"] = 9812.71,
+        ["points"] = 9812.74,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 9317.98,
+        ["points"] = 9318.18,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 20,
@@ -913,7 +913,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 18,
-        ["points"] = 9662.3,
+        ["points"] = 9662.34,
       },
       ["Rotface"] = {
         ["kill_count"] = 18,
@@ -925,7 +925,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
-        ["points"] = 9959.14,
+        ["points"] = 9959.15,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 18,
@@ -933,7 +933,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 9720.61,
+        ["points"] = 9720.67,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
@@ -948,19 +948,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 10,
-        ["points"] = 9937.57,
+        ["points"] = 9937.58,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 9858.28,
+        ["points"] = 9858.32,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
-        ["points"] = 9760.88,
+        ["points"] = 9760.91,
       },
       ["Festergut"] = {
         ["kill_count"] = 11,
-        ["points"] = 9953.8,
+        ["points"] = 9953.81,
       },
       ["Rotface"] = {
         ["kill_count"] = 11,
@@ -972,15 +972,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
-        ["points"] = 9912.23,
+        ["points"] = 9912.24,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 11,
-        ["points"] = 9420.71,
+        ["points"] = 9420.8,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 9727.59,
+        ["points"] = 9727.65,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
@@ -1003,11 +1003,11 @@ UWULogsData[0][2] = {
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
-        ["points"] = 9881.11,
+        ["points"] = 9881.13,
       },
       ["Festergut"] = {
         ["kill_count"] = 10,
-        ["points"] = 9854.8,
+        ["points"] = 9854.82,
       },
       ["Rotface"] = {
         ["kill_count"] = 8,
@@ -1027,7 +1027,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 9022.12,
+        ["points"] = 9022.35,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
@@ -1042,11 +1042,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 28,
-        ["points"] = 9764.47,
+        ["points"] = 9764.51,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 28,
-        ["points"] = 9716.56,
+        ["points"] = 9716.65,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 27,
@@ -1054,7 +1054,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 31,
-        ["points"] = 9877.9,
+        ["points"] = 9877.91,
       },
       ["Rotface"] = {
         ["kill_count"] = 28,
@@ -1066,15 +1066,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 28,
-        ["points"] = 9937.95,
+        ["points"] = 9937.96,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 29,
-        ["points"] = 9394.38,
+        ["points"] = 9394.47,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 29,
-        ["points"] = 9760.19,
+        ["points"] = 9760.24,
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
@@ -1089,11 +1089,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 18,
-        ["points"] = 9889.33,
+        ["points"] = 9889.35,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 9415.41,
+        ["points"] = 9415.58,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
@@ -1101,7 +1101,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 22,
-        ["points"] = 9934.0,
+        ["points"] = 9934.01,
       },
       ["Rotface"] = {
         ["kill_count"] = 21,
@@ -1113,15 +1113,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
-        ["points"] = 9850.18,
+        ["points"] = 9850.2,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 18,
-        ["points"] = 9942.95,
+        ["points"] = 9942.96,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 9837.02,
+        ["points"] = 9837.06,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
@@ -1136,19 +1136,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 9,
-        ["points"] = 9835.41,
+        ["points"] = 9835.44,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9220.55,
+        ["points"] = 9220.78,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
-        ["points"] = 9859.5,
+        ["points"] = 9859.52,
       },
       ["Festergut"] = {
         ["kill_count"] = 9,
-        ["points"] = 9956.0,
+        ["points"] = 9956.01,
       },
       ["Rotface"] = {
         ["kill_count"] = 9,
@@ -1160,15 +1160,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
-        ["points"] = 9835.05,
+        ["points"] = 9835.07,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
-        ["points"] = 9913.69,
+        ["points"] = 9913.7,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9771.83,
+        ["points"] = 9771.88,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
@@ -1183,19 +1183,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 25,
-        ["points"] = 9858.12,
+        ["points"] = 9858.14,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 9704.75,
+        ["points"] = 9704.84,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 26,
-        ["points"] = 9737.91,
+        ["points"] = 9737.94,
       },
       ["Festergut"] = {
         ["kill_count"] = 25,
-        ["points"] = 9915.3,
+        ["points"] = 9915.31,
       },
       ["Rotface"] = {
         ["kill_count"] = 25,
@@ -1211,11 +1211,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 24,
-        ["points"] = 9789.35,
+        ["points"] = 9789.38,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 20,
-        ["points"] = 9937.14,
+        ["points"] = 9937.15,
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
@@ -1230,11 +1230,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 9971.62,
+        ["points"] = 9971.63,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 8506.05,
+        ["points"] = 8506.49,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -1254,15 +1254,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9641.34,
+        ["points"] = 9641.4,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9874.2,
+        ["points"] = 9874.21,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9743.89,
+        ["points"] = 9743.95,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -1277,19 +1277,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 9,
-        ["points"] = 9731.84,
+        ["points"] = 9731.88,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 9692.94,
+        ["points"] = 9693.03,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
-        ["points"] = 9616.32,
+        ["points"] = 9616.37,
       },
       ["Festergut"] = {
         ["kill_count"] = 21,
-        ["points"] = 9918.6,
+        ["points"] = 9918.61,
       },
       ["Rotface"] = {
         ["kill_count"] = 9,
@@ -1301,15 +1301,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
-        ["points"] = 9803.27,
+        ["points"] = 9803.3,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 10,
-        ["points"] = 9837.62,
+        ["points"] = 9837.65,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9480.79,
+        ["points"] = 9480.91,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
@@ -1324,19 +1324,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 8,
-        ["points"] = 9534.62,
+        ["points"] = 9534.69,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9940.95,
+        ["points"] = 9940.97,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
-        ["points"] = 9936.5,
+        ["points"] = 9936.51,
       },
       ["Festergut"] = {
         ["kill_count"] = 9,
-        ["points"] = 9906.5,
+        ["points"] = 9906.51,
       },
       ["Rotface"] = {
         ["kill_count"] = 9,
@@ -1352,11 +1352,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
-        ["points"] = 9801.05,
+        ["points"] = 9801.08,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 9587.89,
+        ["points"] = 9587.99,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -1365,25 +1365,25 @@ UWULogsData[0][2] = {
     },
   },
   ["Masturbek"] = {
-    ["percentile"] = 97.2,
+    ["percentile"] = 97.21,
     ["server"] = "Icecrown",
     ["overall_rank"] = 30,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 18,
-        ["points"] = 9453.75,
+        ["points"] = 9453.82,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 19,
-        ["points"] = 9684.09,
+        ["points"] = 9684.18,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
-        ["points"] = 9918.94,
+        ["points"] = 9918.95,
       },
       ["Festergut"] = {
         ["kill_count"] = 21,
-        ["points"] = 9850.4,
+        ["points"] = 9850.42,
       },
       ["Rotface"] = {
         ["kill_count"] = 19,
@@ -1395,15 +1395,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
-        ["points"] = 9706.42,
+        ["points"] = 9706.46,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 18,
-        ["points"] = 9871.27,
+        ["points"] = 9871.29,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 23,
-        ["points"] = 9424.91,
+        ["points"] = 9425.05,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
@@ -1418,19 +1418,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
-        ["points"] = 9821.23,
+        ["points"] = 9821.25,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 9421.32,
+        ["points"] = 9421.49,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
-        ["points"] = 9685.22,
+        ["points"] = 9685.26,
       },
       ["Festergut"] = {
         ["kill_count"] = 6,
-        ["points"] = 9693.1,
+        ["points"] = 9693.14,
       },
       ["Rotface"] = {
         ["kill_count"] = 6,
@@ -1442,15 +1442,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 9665.56,
+        ["points"] = 9665.61,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 9669.4,
+        ["points"] = 9669.45,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 9909.2,
+        ["points"] = 9909.22,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -1469,7 +1469,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9811.04,
+        ["points"] = 9811.1,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -1489,15 +1489,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
-        ["points"] = 9782.08,
+        ["points"] = 9782.12,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 12,
-        ["points"] = 8769.75,
+        ["points"] = 8769.93,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 9785.8,
+        ["points"] = 9785.85,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
@@ -1512,19 +1512,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 15,
-        ["points"] = 9815.55,
+        ["points"] = 9815.58,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 9548.27,
+        ["points"] = 9548.41,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
-        ["points"] = 9718.99,
+        ["points"] = 9719.03,
       },
       ["Festergut"] = {
         ["kill_count"] = 16,
-        ["points"] = 9942.8,
+        ["points"] = 9942.81,
       },
       ["Rotface"] = {
         ["kill_count"] = 16,
@@ -1536,15 +1536,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
-        ["points"] = 9791.16,
+        ["points"] = 9791.19,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 15,
-        ["points"] = 9562.61,
+        ["points"] = 9562.67,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 9539.0,
+        ["points"] = 9539.11,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
@@ -1559,11 +1559,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
-        ["points"] = 9595.63,
+        ["points"] = 9595.69,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 9058.16,
+        ["points"] = 9058.44,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -1571,7 +1571,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 6,
-        ["points"] = 9694.2,
+        ["points"] = 9694.24,
       },
       ["Rotface"] = {
         ["kill_count"] = 6,
@@ -1587,11 +1587,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 9901.99,
+        ["points"] = 9902.0,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 9557.63,
+        ["points"] = 9557.73,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -1606,15 +1606,15 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 10,
-        ["points"] = 9875.14,
+        ["points"] = 9875.16,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 9188.07,
+        ["points"] = 9188.31,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
-        ["points"] = 9901.38,
+        ["points"] = 9901.39,
       },
       ["Festergut"] = {
         ["kill_count"] = 11,
@@ -1630,15 +1630,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
-        ["points"] = 9821.43,
+        ["points"] = 9821.46,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 11,
-        ["points"] = 9818.61,
+        ["points"] = 9818.63,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9066.36,
+        ["points"] = 9066.57,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
@@ -1653,19 +1653,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 7,
-        ["points"] = 9832.58,
+        ["points"] = 9832.6,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 9391.79,
+        ["points"] = 9391.97,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
-        ["points"] = 9840.58,
+        ["points"] = 9840.61,
       },
       ["Festergut"] = {
         ["kill_count"] = 8,
-        ["points"] = 9912.0,
+        ["points"] = 9912.01,
       },
       ["Rotface"] = {
         ["kill_count"] = 8,
@@ -1677,15 +1677,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
-        ["points"] = 9940.98,
+        ["points"] = 9940.99,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 9956.11,
+        ["points"] = 9956.12,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9436.55,
+        ["points"] = 9436.69,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -1704,15 +1704,15 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 9819.9,
+        ["points"] = 9819.95,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
-        ["points"] = 9875.71,
+        ["points"] = 9875.73,
       },
       ["Festergut"] = {
         ["kill_count"] = 6,
-        ["points"] = 9868.0,
+        ["points"] = 9868.02,
       },
       ["Rotface"] = {
         ["kill_count"] = 6,
@@ -1724,15 +1724,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 9651.94,
+        ["points"] = 9651.99,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 9986.83,
+        ["points"] = 9986.84,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 8519.21,
+        ["points"] = 8519.55,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -1747,15 +1747,15 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 10,
-        ["points"] = 9628.26,
+        ["points"] = 9628.32,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 9539.42,
+        ["points"] = 9539.55,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
-        ["points"] = 9835.18,
+        ["points"] = 9835.2,
       },
       ["Festergut"] = {
         ["kill_count"] = 11,
@@ -1771,15 +1771,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
-        ["points"] = 9356.84,
+        ["points"] = 9356.94,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 10,
-        ["points"] = 9410.47,
+        ["points"] = 9410.56,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 9916.18,
+        ["points"] = 9916.2,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
@@ -1794,19 +1794,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 9758.8,
+        ["points"] = 9758.83,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9111.31,
+        ["points"] = 9111.57,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
-        ["points"] = 9706.84,
+        ["points"] = 9706.88,
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9611.7,
+        ["points"] = 9611.75,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -1818,15 +1818,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 9880.45,
+        ["points"] = 9880.47,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9547.98,
+        ["points"] = 9548.05,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9750.87,
+        ["points"] = 9750.93,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -1841,19 +1841,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 18,
-        ["points"] = 9865.21,
+        ["points"] = 9865.23,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 9675.23,
+        ["points"] = 9675.32,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
-        ["points"] = 9821.67,
+        ["points"] = 9821.69,
       },
       ["Festergut"] = {
         ["kill_count"] = 16,
-        ["points"] = 9809.7,
+        ["points"] = 9809.72,
       },
       ["Rotface"] = {
         ["kill_count"] = 16,
@@ -1865,15 +1865,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
-        ["points"] = 9874.39,
+        ["points"] = 9874.41,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 17,
-        ["points"] = 9486.54,
+        ["points"] = 9486.62,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 9746.22,
+        ["points"] = 9746.28,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
@@ -1892,7 +1892,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 9382.93,
+        ["points"] = 9383.12,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -1900,7 +1900,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 6,
-        ["points"] = 9886.7,
+        ["points"] = 9886.71,
       },
       ["Rotface"] = {
         ["kill_count"] = 7,
@@ -1912,7 +1912,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 9789.65,
+        ["points"] = 9789.68,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
@@ -1920,7 +1920,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 9841.68,
+        ["points"] = 9841.71,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -1935,19 +1935,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 20,
-        ["points"] = 9513.34,
+        ["points"] = 9513.41,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 20,
-        ["points"] = 9793.33,
+        ["points"] = 9793.39,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
-        ["points"] = 9855.44,
+        ["points"] = 9855.46,
       },
       ["Festergut"] = {
         ["kill_count"] = 22,
-        ["points"] = 9072.71,
+        ["points"] = 9072.81,
       },
       ["Rotface"] = {
         ["kill_count"] = 24,
@@ -1959,15 +1959,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
-        ["points"] = 9555.08,
+        ["points"] = 9555.15,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 22,
-        ["points"] = 9921.01,
+        ["points"] = 9921.02,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 22,
-        ["points"] = 9864.96,
+        ["points"] = 9864.99,
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
@@ -1982,19 +1982,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 12,
-        ["points"] = 9836.83,
+        ["points"] = 9836.86,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 9746.09,
+        ["points"] = 9746.16,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
-        ["points"] = 9583.9,
+        ["points"] = 9583.95,
       },
       ["Festergut"] = {
         ["kill_count"] = 13,
-        ["points"] = 9785.5,
+        ["points"] = 9785.53,
       },
       ["Rotface"] = {
         ["kill_count"] = 13,
@@ -2006,15 +2006,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
-        ["points"] = 9435.53,
+        ["points"] = 9435.62,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 12,
-        ["points"] = 9918.08,
+        ["points"] = 9918.09,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 9271.25,
+        ["points"] = 9271.42,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
@@ -2029,19 +2029,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 9808.46,
+        ["points"] = 9808.48,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 9495.13,
+        ["points"] = 9495.28,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
-        ["points"] = 9610.92,
+        ["points"] = 9610.97,
       },
       ["Festergut"] = {
         ["kill_count"] = 6,
-        ["points"] = 9549.0,
+        ["points"] = 9549.05,
       },
       ["Rotface"] = {
         ["kill_count"] = 7,
@@ -2053,15 +2053,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 9830.51,
+        ["points"] = 9830.53,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 9806.9,
+        ["points"] = 9806.93,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9627.47,
+        ["points"] = 9627.56,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -2076,11 +2076,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 9609.82,
+        ["points"] = 9609.87,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 9778.57,
+        ["points"] = 9778.63,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -2088,7 +2088,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 11,
-        ["points"] = 9857.0,
+        ["points"] = 9857.02,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -2100,15 +2100,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 9402.24,
+        ["points"] = 9402.33,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9485.08,
+        ["points"] = 9485.15,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 9918.51,
+        ["points"] = 9918.53,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -2123,19 +2123,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 8,
-        ["points"] = 9845.35,
+        ["points"] = 9845.37,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 9893.71,
+        ["points"] = 9893.74,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
-        ["points"] = 9744.66,
+        ["points"] = 9744.7,
       },
       ["Festergut"] = {
         ["kill_count"] = 8,
-        ["points"] = 9762.4,
+        ["points"] = 9762.43,
       },
       ["Rotface"] = {
         ["kill_count"] = 8,
@@ -2147,15 +2147,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
-        ["points"] = 9853.21,
+        ["points"] = 9853.23,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 9888.82,
+        ["points"] = 9888.84,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 8193.25,
+        ["points"] = 8193.67,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -2170,15 +2170,15 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 8,
-        ["points"] = 9642.45,
+        ["points"] = 9642.5,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 9285.5,
+        ["points"] = 9285.71,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
-        ["points"] = 9633.88,
+        ["points"] = 9633.93,
       },
       ["Festergut"] = {
         ["kill_count"] = 15,
@@ -2194,15 +2194,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
-        ["points"] = 9845.64,
+        ["points"] = 9845.67,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 11,
-        ["points"] = 9824.46,
+        ["points"] = 9824.48,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 8635.62,
+        ["points"] = 8635.94,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
@@ -2211,25 +2211,25 @@ UWULogsData[0][2] = {
     },
   },
   ["Desperator"] = {
-    ["percentile"] = 95.93,
+    ["percentile"] = 95.94,
     ["server"] = "Icecrown",
     ["overall_rank"] = 48,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 9846.77,
+        ["points"] = 9846.79,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 9834.66,
+        ["points"] = 9834.71,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
-        ["points"] = 9594.7,
+        ["points"] = 9594.76,
       },
       ["Festergut"] = {
         ["kill_count"] = 6,
-        ["points"] = 9759.1,
+        ["points"] = 9759.13,
       },
       ["Rotface"] = {
         ["kill_count"] = 6,
@@ -2241,15 +2241,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 9412.83,
+        ["points"] = 9412.92,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 9808.37,
+        ["points"] = 9808.4,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9320.14,
+        ["points"] = 9320.3,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -2268,7 +2268,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 9707.71,
+        ["points"] = 9707.79,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -2276,7 +2276,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 19,
-        ["points"] = 9376.31,
+        ["points"] = 9376.37,
       },
       ["Rotface"] = {
         ["kill_count"] = 18,
@@ -2288,15 +2288,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
-        ["points"] = 9862.29,
+        ["points"] = 9862.31,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 16,
-        ["points"] = 9891.75,
+        ["points"] = 9891.77,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 9664.73,
+        ["points"] = 9664.8,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
@@ -2311,19 +2311,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 11,
-        ["points"] = 9338.82,
+        ["points"] = 9338.91,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 8999.11,
+        ["points"] = 8999.41,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
-        ["points"] = 9916.24,
+        ["points"] = 9916.25,
       },
       ["Festergut"] = {
         ["kill_count"] = 10,
-        ["points"] = 9697.5,
+        ["points"] = 9697.54,
       },
       ["Rotface"] = {
         ["kill_count"] = 10,
@@ -2335,7 +2335,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
-        ["points"] = 9745.76,
+        ["points"] = 9745.8,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 10,
@@ -2343,7 +2343,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 9550.64,
+        ["points"] = 9550.74,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
@@ -2358,19 +2358,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 11,
-        ["points"] = 9903.52,
+        ["points"] = 9903.53,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 9799.23,
+        ["points"] = 9799.29,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
-        ["points"] = 9897.33,
+        ["points"] = 9897.34,
       },
       ["Festergut"] = {
         ["kill_count"] = 16,
-        ["points"] = 9708.5,
+        ["points"] = 9708.53,
       },
       ["Rotface"] = {
         ["kill_count"] = 14,
@@ -2386,11 +2386,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 12,
-        ["points"] = 8465.48,
+        ["points"] = 8465.7,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 9124.56,
+        ["points"] = 9124.77,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
@@ -2405,11 +2405,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 11,
-        ["points"] = 9862.37,
+        ["points"] = 9862.39,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9424.27,
+        ["points"] = 9424.44,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -2417,7 +2417,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 12,
-        ["points"] = 9689.8,
+        ["points"] = 9689.84,
       },
       ["Rotface"] = {
         ["kill_count"] = 12,
@@ -2429,15 +2429,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
-        ["points"] = 9951.57,
+        ["points"] = 9951.58,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 11,
-        ["points"] = 9526.04,
+        ["points"] = 9526.11,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9967.4,
+        ["points"] = 9967.41,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
@@ -2452,11 +2452,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 14,
-        ["points"] = 9912.03,
+        ["points"] = 9912.04,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 9506.94,
+        ["points"] = 9507.08,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -2464,7 +2464,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 14,
-        ["points"] = 9803.1,
+        ["points"] = 9803.12,
       },
       ["Rotface"] = {
         ["kill_count"] = 14,
@@ -2476,15 +2476,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
-        ["points"] = 9792.68,
+        ["points"] = 9792.71,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 13,
-        ["points"] = 8986.25,
+        ["points"] = 8986.4,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 9885.91,
+        ["points"] = 9885.94,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
@@ -2493,25 +2493,25 @@ UWULogsData[0][2] = {
     },
   },
   ["Demacia"] = {
-    ["percentile"] = 95.55,
+    ["percentile"] = 95.56,
     ["server"] = "Icecrown",
     ["overall_rank"] = 54,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 9792.85,
+        ["points"] = 9792.88,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 8470.62,
+        ["points"] = 8471.07,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
-        ["points"] = 9877.06,
+        ["points"] = 9877.08,
       },
       ["Festergut"] = {
         ["kill_count"] = 10,
-        ["points"] = 9576.5,
+        ["points"] = 9576.55,
       },
       ["Rotface"] = {
         ["kill_count"] = 7,
@@ -2523,15 +2523,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
-        ["points"] = 9674.64,
+        ["points"] = 9674.69,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 9220.3,
+        ["points"] = 9220.42,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 9853.32,
+        ["points"] = 9853.35,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -2546,19 +2546,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9442.4,
+        ["points"] = 9442.47,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 9737.23,
+        ["points"] = 9737.31,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
-        ["points"] = 9623.07,
+        ["points"] = 9623.13,
       },
       ["Festergut"] = {
         ["kill_count"] = 6,
-        ["points"] = 9255.31,
+        ["points"] = 9255.39,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -2570,15 +2570,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 9742.74,
+        ["points"] = 9742.78,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9823.0,
+        ["points"] = 9823.02,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9890.57,
+        ["points"] = 9890.6,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -2593,11 +2593,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 9843.93,
+        ["points"] = 9843.95,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 9843.52,
+        ["points"] = 9843.57,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -2605,7 +2605,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 26,
-        ["points"] = 9898.8,
+        ["points"] = 9898.81,
       },
       ["Rotface"] = {
         ["kill_count"] = 5,
@@ -2617,15 +2617,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 9735.17,
+        ["points"] = 9735.21,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 9321.24,
+        ["points"] = 9321.34,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 9620.49,
+        ["points"] = 9620.58,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -2644,15 +2644,15 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 9444.94,
+        ["points"] = 9445.1,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
-        ["points"] = 9962.17,
+        ["points"] = 9962.18,
       },
       ["Festergut"] = {
         ["kill_count"] = 17,
-        ["points"] = 9874.6,
+        ["points"] = 9874.62,
       },
       ["Rotface"] = {
         ["kill_count"] = 16,
@@ -2664,15 +2664,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
-        ["points"] = 9919.79,
+        ["points"] = 9919.81,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 16,
-        ["points"] = 9878.58,
+        ["points"] = 9878.6,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9036.09,
+        ["points"] = 9036.31,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -2687,19 +2687,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 12,
-        ["points"] = 9895.01,
+        ["points"] = 9895.02,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 9019.78,
+        ["points"] = 9020.07,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
-        ["points"] = 9824.37,
+        ["points"] = 9824.4,
       },
       ["Festergut"] = {
         ["kill_count"] = 12,
-        ["points"] = 9443.41,
+        ["points"] = 9443.47,
       },
       ["Rotface"] = {
         ["kill_count"] = 13,
@@ -2711,15 +2711,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
-        ["points"] = 9760.9,
+        ["points"] = 9760.93,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 13,
-        ["points"] = 8213.87,
+        ["points"] = 8214.13,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 9648.43,
+        ["points"] = 9648.51,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
@@ -2734,11 +2734,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 17,
-        ["points"] = 9744.61,
+        ["points"] = 9744.64,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 9896.66,
+        ["points"] = 9896.69,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -2746,7 +2746,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 16,
-        ["points"] = 9558.9,
+        ["points"] = 9558.95,
       },
       ["Rotface"] = {
         ["kill_count"] = 17,
@@ -2758,15 +2758,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
-        ["points"] = 9797.22,
+        ["points"] = 9797.25,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 16,
-        ["points"] = 9199.82,
+        ["points"] = 9199.94,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 9057.04,
+        ["points"] = 9057.26,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
@@ -2775,7 +2775,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Darhken"] = {
-    ["percentile"] = 95.25,
+    ["percentile"] = 95.26,
     ["server"] = "Icecrown",
     ["overall_rank"] = 60,
     ["bosses"] = {
@@ -2785,15 +2785,15 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9935.05,
+        ["points"] = 9935.06,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
-        ["points"] = 9762.23,
+        ["points"] = 9762.26,
       },
       ["Festergut"] = {
         ["kill_count"] = 18,
-        ["points"] = 9888.9,
+        ["points"] = 9888.91,
       },
       ["Rotface"] = {
         ["kill_count"] = 11,
@@ -2805,15 +2805,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
-        ["points"] = 9865.31,
+        ["points"] = 9865.34,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 8619.08,
+        ["points"] = 8619.28,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 9147.85,
+        ["points"] = 9148.04,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -2828,19 +2828,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 15,
-        ["points"] = 9828.32,
+        ["points"] = 9828.34,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 8603.48,
+        ["points"] = 8603.9,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
-        ["points"] = 9750.07,
+        ["points"] = 9750.1,
       },
       ["Festergut"] = {
         ["kill_count"] = 17,
-        ["points"] = 9946.1,
+        ["points"] = 9946.11,
       },
       ["Rotface"] = {
         ["kill_count"] = 17,
@@ -2852,15 +2852,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
-        ["points"] = 9659.5,
+        ["points"] = 9659.56,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 16,
-        ["points"] = 9887.36,
+        ["points"] = 9887.38,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 8982.54,
+        ["points"] = 8982.77,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
@@ -2875,11 +2875,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 9761.63,
+        ["points"] = 9761.67,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8482.43,
+        ["points"] = 8482.88,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -2887,7 +2887,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 15,
-        ["points"] = 9909.8,
+        ["points"] = 9909.81,
       },
       ["Rotface"] = {
         ["kill_count"] = 6,
@@ -2899,15 +2899,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 9440.07,
+        ["points"] = 9440.16,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 9423.64,
+        ["points"] = 9423.72,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 9708.96,
+        ["points"] = 9709.03,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -2926,15 +2926,15 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 9273.69,
+        ["points"] = 9273.91,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
-        ["points"] = 9790.6,
+        ["points"] = 9790.63,
       },
       ["Festergut"] = {
         ["kill_count"] = 7,
-        ["points"] = 9825.1,
+        ["points"] = 9825.12,
       },
       ["Rotface"] = {
         ["kill_count"] = 7,
@@ -2946,15 +2946,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 9494.55,
+        ["points"] = 9494.63,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 9910.77,
+        ["points"] = 9910.78,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9522.7,
+        ["points"] = 9522.81,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -2969,19 +2969,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 9807.04,
+        ["points"] = 9807.06,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 9025.69,
+        ["points"] = 9025.97,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
-        ["points"] = 9850.04,
+        ["points"] = 9850.06,
       },
       ["Festergut"] = {
         ["kill_count"] = 7,
-        ["points"] = 9575.4,
+        ["points"] = 9575.45,
       },
       ["Rotface"] = {
         ["kill_count"] = 5,
@@ -2993,15 +2993,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 9776.03,
+        ["points"] = 9776.06,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 9872.73,
+        ["points"] = 9872.75,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8793.95,
+        ["points"] = 8794.23,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -3016,11 +3016,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 16,
-        ["points"] = 9798.52,
+        ["points"] = 9798.55,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 8972.54,
+        ["points"] = 8972.85,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -3028,7 +3028,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 15,
-        ["points"] = 9522.6,
+        ["points"] = 9522.66,
       },
       ["Rotface"] = {
         ["kill_count"] = 15,
@@ -3040,15 +3040,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
-        ["points"] = 9806.3,
+        ["points"] = 9806.32,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 16,
-        ["points"] = 9341.72,
+        ["points"] = 9341.82,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 9501.75,
+        ["points"] = 9501.86,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
@@ -3063,19 +3063,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 35,
-        ["points"] = 9957.43,
+        ["points"] = 9957.44,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 19,
-        ["points"] = 8618.25,
+        ["points"] = 8618.65,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 37,
-        ["points"] = 9686.57,
+        ["points"] = 9686.61,
       },
       ["Festergut"] = {
         ["kill_count"] = 37,
-        ["points"] = 9879.0,
+        ["points"] = 9879.01,
       },
       ["Rotface"] = {
         ["kill_count"] = 36,
@@ -3087,7 +3087,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 36,
-        ["points"] = 9768.46,
+        ["points"] = 9768.5,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 36,
@@ -3095,7 +3095,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 25,
-        ["points"] = 8270.08,
+        ["points"] = 8270.48,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
@@ -3110,19 +3110,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 18,
-        ["points"] = 9662.32,
+        ["points"] = 9662.36,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 7894.89,
+        ["points"] = 7895.51,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
-        ["points"] = 9689.27,
+        ["points"] = 9689.32,
       },
       ["Festergut"] = {
         ["kill_count"] = 18,
-        ["points"] = 9807.5,
+        ["points"] = 9807.52,
       },
       ["Rotface"] = {
         ["kill_count"] = 18,
@@ -3134,15 +3134,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
-        ["points"] = 9644.37,
+        ["points"] = 9644.42,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 20,
-        ["points"] = 9735.23,
+        ["points"] = 9735.26,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 9795.11,
+        ["points"] = 9795.16,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
@@ -3157,19 +3157,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 9902.1,
+        ["points"] = 9902.11,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 9294.36,
+        ["points"] = 9294.57,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
-        ["points"] = 9813.56,
+        ["points"] = 9813.59,
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9589.7,
+        ["points"] = 9589.75,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -3181,15 +3181,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 9114.71,
+        ["points"] = 9114.84,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 8243.12,
+        ["points"] = 8243.38,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9471.48,
+        ["points"] = 9471.6,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -3204,19 +3204,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 12,
-        ["points"] = 9526.11,
+        ["points"] = 9526.17,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 8175.38,
+        ["points"] = 8175.91,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
-        ["points"] = 9924.34,
+        ["points"] = 9924.35,
       },
       ["Festergut"] = {
         ["kill_count"] = 12,
-        ["points"] = 9605.1,
+        ["points"] = 9605.15,
       },
       ["Rotface"] = {
         ["kill_count"] = 12,
@@ -3228,7 +3228,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
-        ["points"] = 9753.33,
+        ["points"] = 9753.37,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 12,
@@ -3236,7 +3236,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 9331.78,
+        ["points"] = 9331.94,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
@@ -3251,11 +3251,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 9242.34,
+        ["points"] = 9242.45,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8798.35,
+        ["points"] = 8798.7,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -3263,7 +3263,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
-        ["points"] = 9400.51,
+        ["points"] = 9400.57,
       },
       ["Rotface"] = {
         ["kill_count"] = 4,
@@ -3275,15 +3275,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 9499.09,
+        ["points"] = 9499.17,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 9041.84,
+        ["points"] = 9041.98,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 9634.46,
+        ["points"] = 9634.54,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -3298,19 +3298,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9802.78,
+        ["points"] = 9802.81,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 9503.99,
+        ["points"] = 9504.13,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
-        ["points"] = 9701.43,
+        ["points"] = 9701.47,
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9497.31,
+        ["points"] = 9497.36,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -3322,15 +3322,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 9438.56,
+        ["points"] = 9438.64,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 7994.44,
+        ["points"] = 7994.73,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 8942.96,
+        ["points"] = 8943.2,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -3345,11 +3345,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9750.28,
+        ["points"] = 9750.32,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 9465.6,
+        ["points"] = 9465.76,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -3357,7 +3357,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
-        ["points"] = 9642.5,
+        ["points"] = 9642.54,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -3369,15 +3369,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9449.15,
+        ["points"] = 9449.24,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8867.76,
+        ["points"] = 8867.92,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9867.29,
+        ["points"] = 9867.32,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -3392,19 +3392,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 9612.66,
+        ["points"] = 9612.71,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9840.57,
+        ["points"] = 9840.61,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
-        ["points"] = 9709.54,
+        ["points"] = 9709.58,
       },
       ["Festergut"] = {
         ["kill_count"] = 5,
-        ["points"] = 9666.7,
+        ["points"] = 9666.74,
       },
       ["Rotface"] = {
         ["kill_count"] = 5,
@@ -3416,15 +3416,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 8842.31,
+        ["points"] = 8842.49,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 9931.25,
+        ["points"] = 9931.26,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 8195.58,
+        ["points"] = 8196.0,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -3439,11 +3439,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 9233.83,
+        ["points"] = 9233.93,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8804.25,
+        ["points"] = 8804.6,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -3451,7 +3451,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9644.7,
+        ["points"] = 9644.74,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -3463,15 +3463,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 9362.89,
+        ["points"] = 9362.99,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9915.16,
+        ["points"] = 9915.17,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8819.56,
+        ["points"] = 8819.83,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -3490,15 +3490,15 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 9064.07,
+        ["points"] = 9064.34,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
-        ["points"] = 9816.27,
+        ["points"] = 9816.29,
       },
       ["Festergut"] = {
         ["kill_count"] = 9,
-        ["points"] = 9792.1,
+        ["points"] = 9792.12,
       },
       ["Rotface"] = {
         ["kill_count"] = 9,
@@ -3510,15 +3510,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
-        ["points"] = 9583.84,
+        ["points"] = 9583.9,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
-        ["points"] = 9119.37,
+        ["points"] = 9119.5,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 8540.16,
+        ["points"] = 8540.5,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
@@ -3533,19 +3533,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 24,
-        ["points"] = 9919.13,
+        ["points"] = 9919.14,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 9226.45,
+        ["points"] = 9226.68,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 24,
-        ["points"] = 9889.22,
+        ["points"] = 9889.23,
       },
       ["Festergut"] = {
         ["kill_count"] = 24,
-        ["points"] = 9467.61,
+        ["points"] = 9467.66,
       },
       ["Rotface"] = {
         ["kill_count"] = 24,
@@ -3557,15 +3557,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 24,
-        ["points"] = 9936.44,
+        ["points"] = 9936.45,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 24,
-        ["points"] = 9546.52,
+        ["points"] = 9546.58,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 8109.43,
+        ["points"] = 8109.87,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
@@ -3580,11 +3580,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 20,
-        ["points"] = 9920.54,
+        ["points"] = 9920.56,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 9164.45,
+        ["points"] = 9164.7,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 20,
@@ -3592,7 +3592,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 19,
-        ["points"] = 9648.0,
+        ["points"] = 9648.04,
       },
       ["Rotface"] = {
         ["kill_count"] = 18,
@@ -3604,15 +3604,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
-        ["points"] = 9353.81,
+        ["points"] = 9353.91,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 16,
-        ["points"] = 9720.6,
+        ["points"] = 9720.64,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 9552.97,
+        ["points"] = 9553.07,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
@@ -3627,19 +3627,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 8,
-        ["points"] = 9669.41,
+        ["points"] = 9669.46,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 7454.97,
+        ["points"] = 7455.73,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
-        ["points"] = 9937.85,
+        ["points"] = 9937.86,
       },
       ["Festergut"] = {
         ["kill_count"] = 8,
-        ["points"] = 9936.2,
+        ["points"] = 9936.21,
       },
       ["Rotface"] = {
         ["kill_count"] = 8,
@@ -3651,15 +3651,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 9403.75,
+        ["points"] = 9403.84,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 9934.17,
+        ["points"] = 9934.18,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 9385.33,
+        ["points"] = 9385.47,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -3674,19 +3674,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 9693.53,
+        ["points"] = 9693.57,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8015.94,
+        ["points"] = 8016.53,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
-        ["points"] = 9652.8,
+        ["points"] = 9652.84,
       },
       ["Festergut"] = {
         ["kill_count"] = 18,
-        ["points"] = 9921.9,
+        ["points"] = 9921.91,
       },
       ["Rotface"] = {
         ["kill_count"] = 7,
@@ -3698,15 +3698,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 9019.37,
+        ["points"] = 9019.52,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 9954.65,
+        ["points"] = 9954.66,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 9799.77,
+        ["points"] = 9799.81,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -3725,7 +3725,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 9385.89,
+        ["points"] = 9386.07,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -3733,7 +3733,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
-        ["points"] = 9257.51,
+        ["points"] = 9257.59,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -3745,15 +3745,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9815.38,
+        ["points"] = 9815.4,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 8844.35,
+        ["points"] = 8844.52,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9834.69,
+        ["points"] = 9834.73,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -3768,11 +3768,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 13,
-        ["points"] = 9069.24,
+        ["points"] = 9069.37,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 9557.13,
+        ["points"] = 9557.26,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -3780,7 +3780,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 13,
-        ["points"] = 9731.6,
+        ["points"] = 9731.63,
       },
       ["Rotface"] = {
         ["kill_count"] = 12,
@@ -3792,15 +3792,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
-        ["points"] = 9538.44,
+        ["points"] = 9538.51,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 13,
-        ["points"] = 9814.22,
+        ["points"] = 9814.25,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 9136.2,
+        ["points"] = 9136.41,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
@@ -3815,19 +3815,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 7,
-        ["points"] = 9575.77,
+        ["points"] = 9575.83,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 8387.95,
+        ["points"] = 8388.43,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
-        ["points"] = 9678.47,
+        ["points"] = 9678.51,
       },
       ["Festergut"] = {
         ["kill_count"] = 9,
-        ["points"] = 9355.41,
+        ["points"] = 9355.48,
       },
       ["Rotface"] = {
         ["kill_count"] = 9,
@@ -3843,11 +3843,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
-        ["points"] = 9233.47,
+        ["points"] = 9233.58,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 8512.22,
+        ["points"] = 8512.57,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -3856,17 +3856,17 @@ UWULogsData[0][2] = {
     },
   },
   ["Bajadojaja"] = {
-    ["percentile"] = 93.19,
+    ["percentile"] = 93.2,
     ["server"] = "Icecrown",
     ["overall_rank"] = 83,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 9487.8,
+        ["points"] = 9487.87,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 7723.65,
+        ["points"] = 7724.32,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -3874,7 +3874,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9685.4,
+        ["points"] = 9685.44,
       },
       ["Rotface"] = {
         ["kill_count"] = 4,
@@ -3886,15 +3886,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 8332.32,
+        ["points"] = 8332.58,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 9817.14,
+        ["points"] = 9817.17,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9871.94,
+        ["points"] = 9871.97,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -3913,7 +3913,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 9471.51,
+        ["points"] = 9471.66,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -3921,7 +3921,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
-        ["points"] = 9550.1,
+        ["points"] = 9550.15,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -3933,15 +3933,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 9795.7,
+        ["points"] = 9795.73,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 8781.45,
+        ["points"] = 8781.63,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 9441.21,
+        ["points"] = 9441.34,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -3956,19 +3956,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9492.05,
+        ["points"] = 9492.13,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 9167.4,
+        ["points"] = 9167.65,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
-        ["points"] = 9864.9,
+        ["points"] = 9864.92,
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9563.3,
+        ["points"] = 9563.35,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -3980,15 +3980,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9514.23,
+        ["points"] = 9514.3,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 8548.86,
+        ["points"] = 8549.07,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 9457.51,
+        ["points"] = 9457.64,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -4007,7 +4007,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 9320.93,
+        ["points"] = 9321.13,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -4015,7 +4015,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 7,
-        ["points"] = 9774.5,
+        ["points"] = 9774.53,
       },
       ["Rotface"] = {
         ["kill_count"] = 6,
@@ -4027,15 +4027,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 9521.79,
+        ["points"] = 9521.86,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 8607.37,
+        ["points"] = 8607.58,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9166.47,
+        ["points"] = 9166.67,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -4050,11 +4050,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9076.33,
+        ["points"] = 9076.46,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 8895.78,
+        ["points"] = 8896.1,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -4062,7 +4062,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 9,
-        ["points"] = 9831.7,
+        ["points"] = 9831.72,
       },
       ["Rotface"] = {
         ["kill_count"] = 4,
@@ -4074,15 +4074,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 9844.13,
+        ["points"] = 9844.15,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 8379.17,
+        ["points"] = 8379.41,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9094.3,
+        ["points"] = 9094.51,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -4091,17 +4091,17 @@ UWULogsData[0][2] = {
     },
   },
   ["Rynardik"] = {
-    ["percentile"] = 92.65,
+    ["percentile"] = 92.66,
     ["server"] = "Icecrown",
     ["overall_rank"] = 88,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 15,
-        ["points"] = 9524.69,
+        ["points"] = 9524.76,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 9090.64,
+        ["points"] = 9090.91,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -4109,7 +4109,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 15,
-        ["points"] = 9678.8,
+        ["points"] = 9678.84,
       },
       ["Rotface"] = {
         ["kill_count"] = 15,
@@ -4121,15 +4121,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
-        ["points"] = 9161.62,
+        ["points"] = 9161.75,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 15,
-        ["points"] = 9192.51,
+        ["points"] = 9192.63,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 9329.45,
+        ["points"] = 9329.61,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
@@ -4144,19 +4144,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 9880.82,
+        ["points"] = 9880.83,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 7883.08,
+        ["points"] = 7883.71,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
-        ["points"] = 9628.48,
+        ["points"] = 9628.53,
       },
       ["Festergut"] = {
         ["kill_count"] = 5,
-        ["points"] = 9256.41,
+        ["points"] = 9256.49,
       },
       ["Rotface"] = {
         ["kill_count"] = 5,
@@ -4168,15 +4168,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 9140.44,
+        ["points"] = 9140.57,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 9678.17,
+        ["points"] = 9678.22,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 9492.43,
+        ["points"] = 9492.55,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -4185,25 +4185,25 @@ UWULogsData[0][2] = {
     },
   },
   ["Uzmiime"] = {
-    ["percentile"] = 92.63,
+    ["percentile"] = 92.64,
     ["server"] = "Icecrown",
     ["overall_rank"] = 90,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 7,
-        ["points"] = 9581.44,
+        ["points"] = 9581.5,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 8432.24,
+        ["points"] = 8432.7,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
-        ["points"] = 9801.41,
+        ["points"] = 9801.43,
       },
       ["Festergut"] = {
         ["kill_count"] = 7,
-        ["points"] = 9226.71,
+        ["points"] = 9226.79,
       },
       ["Rotface"] = {
         ["kill_count"] = 7,
@@ -4215,15 +4215,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 9379.54,
+        ["points"] = 9379.63,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 9856.64,
+        ["points"] = 9856.66,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9741.56,
+        ["points"] = 9741.62,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -4232,17 +4232,17 @@ UWULogsData[0][2] = {
     },
   },
   ["Crememango"] = {
-    ["percentile"] = 92.39,
+    ["percentile"] = 92.4,
     ["server"] = "Icecrown",
     ["overall_rank"] = 91,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 13,
-        ["points"] = 9077.75,
+        ["points"] = 9077.88,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 8134.04,
+        ["points"] = 8134.59,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -4250,7 +4250,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 19,
-        ["points"] = 9822.9,
+        ["points"] = 9822.92,
       },
       ["Rotface"] = {
         ["kill_count"] = 15,
@@ -4262,15 +4262,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
-        ["points"] = 9771.49,
+        ["points"] = 9771.52,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 12,
-        ["points"] = 9388.53,
+        ["points"] = 9388.62,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 9296.86,
+        ["points"] = 9297.02,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
@@ -4285,11 +4285,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 9,
-        ["points"] = 9767.31,
+        ["points"] = 9767.34,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 7874.22,
+        ["points"] = 7874.85,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -4297,7 +4297,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 10,
-        ["points"] = 9930.7,
+        ["points"] = 9930.71,
       },
       ["Rotface"] = {
         ["kill_count"] = 10,
@@ -4309,15 +4309,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
-        ["points"] = 9779.06,
+        ["points"] = 9779.09,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 10,
-        ["points"] = 9938.56,
+        ["points"] = 9938.57,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 9699.65,
+        ["points"] = 9699.72,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
@@ -4332,19 +4332,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
-        ["points"] = 9259.36,
+        ["points"] = 9259.47,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9161.5,
+        ["points"] = 9161.75,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
-        ["points"] = 9764.93,
+        ["points"] = 9764.96,
       },
       ["Festergut"] = {
         ["kill_count"] = 7,
-        ["points"] = 9560.0,
+        ["points"] = 9560.05,
       },
       ["Rotface"] = {
         ["kill_count"] = 7,
@@ -4356,15 +4356,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 9689.77,
+        ["points"] = 9689.82,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 8800.47,
+        ["points"] = 8800.64,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9920.84,
+        ["points"] = 9920.86,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -4379,19 +4379,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 9794.27,
+        ["points"] = 9794.3,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 8405.67,
+        ["points"] = 8406.14,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
-        ["points"] = 9658.2,
+        ["points"] = 9658.25,
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
-        ["points"] = 9312.51,
+        ["points"] = 9312.58,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -4403,15 +4403,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 9750.3,
+        ["points"] = 9750.34,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 8357.23,
+        ["points"] = 8357.47,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 9527.36,
+        ["points"] = 9527.47,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -4426,11 +4426,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 9343.08,
+        ["points"] = 9343.17,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 8869.21,
+        ["points"] = 8869.54,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -4438,7 +4438,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
-        ["points"] = 9165.11,
+        ["points"] = 9165.2,
       },
       ["Rotface"] = {
         ["kill_count"] = 5,
@@ -4450,15 +4450,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 9462.77,
+        ["points"] = 9462.85,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 9455.82,
+        ["points"] = 9455.9,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9806.75,
+        ["points"] = 9806.8,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -4473,19 +4473,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
-        ["points"] = 9938.99,
+        ["points"] = 9939.0,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 7640.98,
+        ["points"] = 7641.68,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
-        ["points"] = 9921.64,
+        ["points"] = 9921.65,
       },
       ["Festergut"] = {
         ["kill_count"] = 6,
-        ["points"] = 9881.2,
+        ["points"] = 9881.21,
       },
       ["Rotface"] = {
         ["kill_count"] = 6,
@@ -4497,15 +4497,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 9724.58,
+        ["points"] = 9724.62,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 8734.64,
+        ["points"] = 8734.83,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 7781.14,
+        ["points"] = 7781.66,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -4520,19 +4520,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 9388.48,
+        ["points"] = 9388.57,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 9630.94,
+        ["points"] = 9631.05,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
-        ["points"] = 9906.78,
+        ["points"] = 9906.79,
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9615.0,
+        ["points"] = 9615.05,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -4548,11 +4548,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 9866.88,
+        ["points"] = 9866.9,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9371.36,
+        ["points"] = 9371.51,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -4567,19 +4567,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 9130.25,
+        ["points"] = 9130.37,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 9007.97,
+        ["points"] = 9008.26,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
-        ["points"] = 9917.59,
+        ["points"] = 9917.6,
       },
       ["Festergut"] = {
         ["kill_count"] = 5,
-        ["points"] = 9617.2,
+        ["points"] = 9617.25,
       },
       ["Rotface"] = {
         ["kill_count"] = 5,
@@ -4591,15 +4591,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 9695.82,
+        ["points"] = 9695.87,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 8758.05,
+        ["points"] = 8758.23,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 8791.62,
+        ["points"] = 8791.9,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
@@ -4618,7 +4618,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 9864.19,
+        ["points"] = 9864.23,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -4638,15 +4638,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
-        ["points"] = 9553.57,
+        ["points"] = 9553.64,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 11,
-        ["points"] = 9681.1,
+        ["points"] = 9681.15,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 9832.36,
+        ["points"] = 9832.4,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
@@ -4661,11 +4661,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 12,
-        ["points"] = 9277.81,
+        ["points"] = 9277.91,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 9043.4,
+        ["points"] = 9043.68,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -4673,7 +4673,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 17,
-        ["points"] = 9380.71,
+        ["points"] = 9380.77,
       },
       ["Rotface"] = {
         ["kill_count"] = 6,
@@ -4685,15 +4685,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 8706.11,
+        ["points"] = 8706.31,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 8534.23,
+        ["points"] = 8534.44,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 9140.86,
+        ["points"] = 9141.06,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -4712,7 +4712,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 9849.42,
+        ["points"] = 9849.47,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -4720,7 +4720,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 13,
-        ["points"] = 8852.71,
+        ["points"] = 8852.84,
       },
       ["Rotface"] = {
         ["kill_count"] = 15,
@@ -4732,15 +4732,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
-        ["points"] = 9217.62,
+        ["points"] = 9217.73,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 11,
-        ["points"] = 9907.84,
+        ["points"] = 9907.85,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 9054.71,
+        ["points"] = 9054.93,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
@@ -4759,15 +4759,15 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7404.78,
+        ["points"] = 7405.55,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
-        ["points"] = 9578.49,
+        ["points"] = 9578.55,
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9686.5,
+        ["points"] = 9686.54,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -4779,15 +4779,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9358.35,
+        ["points"] = 9358.45,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 9786.42,
+        ["points"] = 9786.46,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 9855.65,
+        ["points"] = 9855.68,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -4802,19 +4802,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9591.37,
+        ["points"] = 9591.43,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 9698.85,
+        ["points"] = 9698.94,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
-        ["points"] = 9837.88,
+        ["points"] = 9837.9,
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
-        ["points"] = 9593.0,
+        ["points"] = 9593.05,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -4826,15 +4826,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9726.09,
+        ["points"] = 9726.13,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 7858.4,
+        ["points"] = 7858.71,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9180.44,
+        ["points"] = 9180.63,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -4853,7 +4853,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8621.2,
+        ["points"] = 8621.61,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -4861,7 +4861,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 5,
-        ["points"] = 8974.81,
+        ["points"] = 8974.92,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -4873,15 +4873,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 8899.82,
+        ["points"] = 8899.98,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 9657.69,
+        ["points"] = 9657.74,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 8938.3,
+        ["points"] = 8938.55,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -4896,11 +4896,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 9716.23,
+        ["points"] = 9716.27,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 9368.17,
+        ["points"] = 9368.36,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -4908,7 +4908,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 8,
-        ["points"] = 9756.9,
+        ["points"] = 9756.93,
       },
       ["Rotface"] = {
         ["kill_count"] = 8,
@@ -4920,15 +4920,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 9847.15,
+        ["points"] = 9847.18,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 8617.61,
+        ["points"] = 8617.81,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 7883.59,
+        ["points"] = 7884.08,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -4943,11 +4943,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
-        ["points"] = 9150.11,
+        ["points"] = 9150.23,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 8703.87,
+        ["points"] = 8704.25,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -4955,7 +4955,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 11,
-        ["points"] = 9265.21,
+        ["points"] = 9265.29,
       },
       ["Rotface"] = {
         ["kill_count"] = 6,
@@ -4967,15 +4967,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 9223.67,
+        ["points"] = 9223.79,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 8499.12,
+        ["points"] = 8499.34,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9231.66,
+        ["points"] = 9231.84,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -4990,11 +4990,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 19,
-        ["points"] = 9374.29,
+        ["points"] = 9374.38,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 7546.5,
+        ["points"] = 7547.23,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 20,
@@ -5002,7 +5002,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 20,
-        ["points"] = 9899.9,
+        ["points"] = 9899.91,
       },
       ["Rotface"] = {
         ["kill_count"] = 20,
@@ -5014,15 +5014,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
-        ["points"] = 9055.69,
+        ["points"] = 9055.83,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 19,
-        ["points"] = 9764.48,
+        ["points"] = 9764.52,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 8891.73,
+        ["points"] = 8891.99,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
@@ -5037,11 +5037,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 7,
-        ["points"] = 9516.17,
+        ["points"] = 9516.24,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 8878.06,
+        ["points"] = 8878.39,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -5049,7 +5049,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 7,
-        ["points"] = 9431.31,
+        ["points"] = 9431.37,
       },
       ["Rotface"] = {
         ["kill_count"] = 6,
@@ -5061,15 +5061,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 9754.84,
+        ["points"] = 9754.88,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 9868.34,
+        ["points"] = 9868.36,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 7410.94,
+        ["points"] = 7411.55,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
@@ -5078,25 +5078,25 @@ UWULogsData[0][2] = {
     },
   },
   ["Anatos"] = {
-    ["percentile"] = 90.96,
+    ["percentile"] = 90.97,
     ["server"] = "Icecrown",
     ["overall_rank"] = 110,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 7,
-        ["points"] = 9616.91,
+        ["points"] = 9616.97,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 9583.7,
+        ["points"] = 9583.83,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
-        ["points"] = 9627.13,
+        ["points"] = 9627.18,
       },
       ["Festergut"] = {
         ["kill_count"] = 8,
-        ["points"] = 8860.41,
+        ["points"] = 8860.54,
       },
       ["Rotface"] = {
         ["kill_count"] = 8,
@@ -5108,15 +5108,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
-        ["points"] = 9347.76,
+        ["points"] = 9347.86,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 8633.7,
+        ["points"] = 8633.9,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9878.93,
+        ["points"] = 9878.96,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
@@ -5131,19 +5131,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 9,
-        ["points"] = 9747.45,
+        ["points"] = 9747.48,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 8452.91,
+        ["points"] = 8453.36,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
-        ["points"] = 9787.9,
+        ["points"] = 9787.92,
       },
       ["Festergut"] = {
         ["kill_count"] = 8,
-        ["points"] = 9084.81,
+        ["points"] = 9084.91,
       },
       ["Rotface"] = {
         ["kill_count"] = 8,
@@ -5155,15 +5155,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
-        ["points"] = 8621.37,
+        ["points"] = 8621.58,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 10,
-        ["points"] = 9882.97,
+        ["points"] = 9882.99,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9797.44,
+        ["points"] = 9797.49,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -5178,11 +5178,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 9406.92,
+        ["points"] = 9407.01,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 8547.39,
+        ["points"] = 8547.82,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -5190,7 +5190,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 7,
-        ["points"] = 9122.21,
+        ["points"] = 9122.31,
       },
       ["Rotface"] = {
         ["kill_count"] = 8,
@@ -5202,15 +5202,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
-        ["points"] = 9642.86,
+        ["points"] = 9642.91,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 9795.2,
+        ["points"] = 9795.23,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 9434.23,
+        ["points"] = 9434.36,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
@@ -5225,15 +5225,15 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 12,
-        ["points"] = 9506.24,
+        ["points"] = 9506.31,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 9769.71,
+        ["points"] = 9769.78,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
-        ["points"] = 9587.95,
+        ["points"] = 9588.0,
       },
       ["Festergut"] = {
         ["kill_count"] = 11,
@@ -5249,15 +5249,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
-        ["points"] = 9774.52,
+        ["points"] = 9774.55,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
-        ["points"] = 9306.61,
+        ["points"] = 9306.71,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 9380.68,
+        ["points"] = 9380.82,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
@@ -5266,17 +5266,17 @@ UWULogsData[0][2] = {
     },
   },
   ["Hellcase"] = {
-    ["percentile"] = 90.7,
+    ["percentile"] = 90.71,
     ["server"] = "Icecrown",
     ["overall_rank"] = 114,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 9548.81,
+        ["points"] = 9548.87,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8098.61,
+        ["points"] = 8099.17,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -5284,7 +5284,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
-        ["points"] = 9520.4,
+        ["points"] = 9520.46,
       },
       ["Rotface"] = {
         ["kill_count"] = 4,
@@ -5296,15 +5296,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 9467.31,
+        ["points"] = 9467.39,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 9929.78,
+        ["points"] = 9929.79,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9776.48,
+        ["points"] = 9776.54,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -5319,15 +5319,15 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 11,
-        ["points"] = 9723.33,
+        ["points"] = 9723.37,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9728.37,
+        ["points"] = 9728.45,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
-        ["points"] = 9858.15,
+        ["points"] = 9858.17,
       },
       ["Festergut"] = {
         ["kill_count"] = 15,
@@ -5343,15 +5343,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
-        ["points"] = 9526.33,
+        ["points"] = 9526.4,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 12,
-        ["points"] = 9782.04,
+        ["points"] = 9782.07,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 7110.59,
+        ["points"] = 7111.27,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
@@ -5370,7 +5370,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 8447.0,
+        ["points"] = 8447.46,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -5378,7 +5378,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 8,
-        ["points"] = 9309.21,
+        ["points"] = 9309.28,
       },
       ["Rotface"] = {
         ["kill_count"] = 9,
@@ -5390,15 +5390,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
-        ["points"] = 8595.64,
+        ["points"] = 8595.85,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
-        ["points"] = 9125.22,
+        ["points"] = 9125.35,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 9850.99,
+        ["points"] = 9851.02,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -5417,7 +5417,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 9625.04,
+        ["points"] = 9625.15,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -5425,7 +5425,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 6,
-        ["points"] = 8865.91,
+        ["points"] = 8866.04,
       },
       ["Rotface"] = {
         ["kill_count"] = 6,
@@ -5437,15 +5437,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 9240.31,
+        ["points"] = 9240.43,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 8155.35,
+        ["points"] = 8155.62,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 9790.45,
+        ["points"] = 9790.5,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -5454,7 +5454,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Marinnaa"] = {
-    ["percentile"] = 90.36,
+    ["percentile"] = 90.37,
     ["server"] = "Icecrown",
     ["overall_rank"] = 118,
     ["bosses"] = {
@@ -5464,7 +5464,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8727.49,
+        ["points"] = 8727.86,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -5472,7 +5472,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9616.1,
+        ["points"] = 9616.15,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -5484,15 +5484,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 8778.75,
+        ["points"] = 8778.94,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9597.72,
+        ["points"] = 9597.78,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8048.89,
+        ["points"] = 8049.35,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -5507,11 +5507,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 9273.55,
+        ["points"] = 9273.66,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8240.33,
+        ["points"] = 8240.85,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -5519,7 +5519,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9468.71,
+        ["points"] = 9468.76,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -5531,15 +5531,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 9036.02,
+        ["points"] = 9036.16,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9752.78,
+        ["points"] = 9752.82,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9781.14,
+        ["points"] = 9781.19,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -5548,17 +5548,17 @@ UWULogsData[0][2] = {
     },
   },
   ["Frosthoe"] = {
-    ["percentile"] = 90.11,
+    ["percentile"] = 90.12,
     ["server"] = "Icecrown",
     ["overall_rank"] = 120,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 8,
-        ["points"] = 9340.24,
+        ["points"] = 9340.33,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9648.66,
+        ["points"] = 9648.76,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -5566,7 +5566,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 8,
-        ["points"] = 9568.8,
+        ["points"] = 9568.85,
       },
       ["Rotface"] = {
         ["kill_count"] = 8,
@@ -5578,15 +5578,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 9822.94,
+        ["points"] = 9822.97,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 6688.12,
+        ["points"] = 6688.61,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9443.54,
+        ["points"] = 9443.67,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
@@ -5601,11 +5601,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 25,
-        ["points"] = 9229.57,
+        ["points"] = 9229.68,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 9061.12,
+        ["points"] = 9061.39,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
@@ -5613,7 +5613,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 26,
-        ["points"] = 9651.3,
+        ["points"] = 9651.34,
       },
       ["Rotface"] = {
         ["kill_count"] = 21,
@@ -5625,15 +5625,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
-        ["points"] = 9008.78,
+        ["points"] = 9008.93,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 21,
-        ["points"] = 8104.15,
+        ["points"] = 8104.43,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 9555.3,
+        ["points"] = 9555.4,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
@@ -5648,19 +5648,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 9311.86,
+        ["points"] = 9311.96,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9512.84,
+        ["points"] = 9512.99,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
-        ["points"] = 9579.84,
+        ["points"] = 9579.9,
       },
       ["Festergut"] = {
         ["kill_count"] = 5,
-        ["points"] = 9274.01,
+        ["points"] = 9274.09,
       },
       ["Rotface"] = {
         ["kill_count"] = 5,
@@ -5676,11 +5676,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 9539.2,
+        ["points"] = 9539.27,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 8030.27,
+        ["points"] = 8030.73,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -5699,7 +5699,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 8148.8,
+        ["points"] = 8149.35,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -5707,7 +5707,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 12,
-        ["points"] = 9342.21,
+        ["points"] = 9342.28,
       },
       ["Rotface"] = {
         ["kill_count"] = 12,
@@ -5719,15 +5719,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
-        ["points"] = 8725.79,
+        ["points"] = 8725.98,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 13,
-        ["points"] = 9087.19,
+        ["points"] = 9087.32,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 9599.53,
+        ["points"] = 9599.63,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -5746,7 +5746,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8653.68,
+        ["points"] = 8654.07,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -5754,7 +5754,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 8847.21,
+        ["points"] = 8847.34,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -5766,15 +5766,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 9464.29,
+        ["points"] = 9464.37,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9768.87,
+        ["points"] = 9768.9,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9417.93,
+        ["points"] = 9418.06,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -5783,7 +5783,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Atreas"] = {
-    ["percentile"] = 89.51,
+    ["percentile"] = 89.52,
     ["server"] = "Icecrown",
     ["overall_rank"] = 125,
     ["bosses"] = {
@@ -5793,15 +5793,15 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 8774.73,
+        ["points"] = 8775.09,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 20,
-        ["points"] = 9767.63,
+        ["points"] = 9767.66,
       },
       ["Festergut"] = {
         ["kill_count"] = 20,
-        ["points"] = 9890.0,
+        ["points"] = 9890.01,
       },
       ["Rotface"] = {
         ["kill_count"] = 20,
@@ -5813,15 +5813,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
-        ["points"] = 9624.7,
+        ["points"] = 9624.75,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 20,
-        ["points"] = 9262.73,
+        ["points"] = 9262.83,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 8060.54,
+        ["points"] = 8060.99,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -5836,11 +5836,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 8,
-        ["points"] = 9415.44,
+        ["points"] = 9415.52,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 6161.8,
+        ["points"] = 6162.93,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -5848,7 +5848,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 8,
-        ["points"] = 9151.91,
+        ["points"] = 9152.0,
       },
       ["Rotface"] = {
         ["kill_count"] = 8,
@@ -5860,15 +5860,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
-        ["points"] = 8585.05,
+        ["points"] = 8585.26,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 9253.95,
+        ["points"] = 9254.06,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9364.38,
+        ["points"] = 9364.53,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -5887,15 +5887,15 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 7747.27,
+        ["points"] = 7747.93,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
-        ["points"] = 9696.03,
+        ["points"] = 9696.07,
       },
       ["Festergut"] = {
         ["kill_count"] = 10,
-        ["points"] = 9594.1,
+        ["points"] = 9594.15,
       },
       ["Rotface"] = {
         ["kill_count"] = 10,
@@ -5907,15 +5907,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
-        ["points"] = 9042.07,
+        ["points"] = 9042.22,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 10,
-        ["points"] = 9796.66,
+        ["points"] = 9796.69,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 8856.81,
+        ["points"] = 8857.08,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -5930,11 +5930,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 9540.3,
+        ["points"] = 9540.36,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 9002.07,
+        ["points"] = 9002.36,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -5942,7 +5942,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 6,
-        ["points"] = 9734.9,
+        ["points"] = 9734.93,
       },
       ["Rotface"] = {
         ["kill_count"] = 4,
@@ -5958,11 +5958,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 8872.15,
+        ["points"] = 8872.31,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9275.9,
+        ["points"] = 9276.07,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
@@ -5981,7 +5981,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9595.51,
+        ["points"] = 9595.63,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -5989,7 +5989,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 14,
-        ["points"] = 8903.31,
+        ["points"] = 8903.43,
       },
       ["Rotface"] = {
         ["kill_count"] = 15,
@@ -6001,15 +6001,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
-        ["points"] = 9568.7,
+        ["points"] = 9568.77,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 13,
-        ["points"] = 8319.19,
+        ["points"] = 8319.44,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 8824.21,
+        ["points"] = 8824.49,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
@@ -6024,19 +6024,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 14,
-        ["points"] = 9269.3,
+        ["points"] = 9269.4,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 8627.1,
+        ["points"] = 8627.51,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
-        ["points"] = 9570.39,
+        ["points"] = 9570.44,
       },
       ["Festergut"] = {
         ["kill_count"] = 21,
-        ["points"] = 9499.51,
+        ["points"] = 9499.56,
       },
       ["Rotface"] = {
         ["kill_count"] = 15,
@@ -6048,15 +6048,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
-        ["points"] = 8975.48,
+        ["points"] = 8975.64,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 13,
-        ["points"] = 8203.63,
+        ["points"] = 8203.89,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 8814.9,
+        ["points"] = 8815.18,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
@@ -6075,7 +6075,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 9013.88,
+        ["points"] = 9014.17,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -6083,7 +6083,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
-        ["points"] = 9184.91,
+        ["points"] = 9185.0,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -6095,15 +6095,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8388.32,
+        ["points"] = 8388.56,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8123.17,
+        ["points"] = 8123.45,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9362.05,
+        ["points"] = 9362.2,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -6122,15 +6122,15 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 8184.23,
+        ["points"] = 8184.77,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
-        ["points"] = 9950.01,
+        ["points"] = 9950.02,
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
-        ["points"] = 9882.3,
+        ["points"] = 9882.31,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -6142,11 +6142,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9661.02,
+        ["points"] = 9661.07,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9975.13,
+        ["points"] = 9975.14,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -6177,7 +6177,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
-        ["points"] = 9601.8,
+        ["points"] = 9601.85,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -6189,15 +6189,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9629.24,
+        ["points"] = 9629.29,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 9799.59,
+        ["points"] = 9799.62,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 9711.29,
+        ["points"] = 9711.36,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -6212,11 +6212,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 19,
-        ["points"] = 9598.47,
+        ["points"] = 9598.52,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 5780.93,
+        ["points"] = 5782.17,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 20,
@@ -6224,7 +6224,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 20,
-        ["points"] = 9535.8,
+        ["points"] = 9535.86,
       },
       ["Rotface"] = {
         ["kill_count"] = 20,
@@ -6236,15 +6236,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 21,
-        ["points"] = 9144.98,
+        ["points"] = 9145.11,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 22,
-        ["points"] = 9663.55,
+        ["points"] = 9663.6,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 21,
-        ["points"] = 9350.41,
+        ["points"] = 9350.56,
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
@@ -6263,7 +6263,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8680.25,
+        ["points"] = 8680.64,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -6283,15 +6283,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9408.29,
+        ["points"] = 9408.38,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 7201.58,
+        ["points"] = 7201.99,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9315.48,
+        ["points"] = 9315.64,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -6306,11 +6306,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 19,
-        ["points"] = 9702.04,
+        ["points"] = 9702.09,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 6640.09,
+        ["points"] = 6641.09,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -6318,7 +6318,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 19,
-        ["points"] = 9828.4,
+        ["points"] = 9828.42,
       },
       ["Rotface"] = {
         ["kill_count"] = 19,
@@ -6330,15 +6330,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
-        ["points"] = 9134.38,
+        ["points"] = 9134.51,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 19,
-        ["points"] = 9369.51,
+        ["points"] = 9369.61,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 9126.89,
+        ["points"] = 9127.09,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
@@ -6353,11 +6353,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 8969.92,
+        ["points"] = 8970.07,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9474.46,
+        ["points"] = 9474.62,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -6365,7 +6365,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 6,
-        ["points"] = 8747.11,
+        ["points"] = 8747.25,
       },
       ["Rotface"] = {
         ["kill_count"] = 6,
@@ -6377,15 +6377,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 9455.21,
+        ["points"] = 9455.29,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 7295.2,
+        ["points"] = 7295.6,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9764.84,
+        ["points"] = 9764.9,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -6400,11 +6400,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 9855.28,
+        ["points"] = 9855.3,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7658.7,
+        ["points"] = 7659.39,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -6412,7 +6412,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9773.4,
+        ["points"] = 9773.43,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -6424,15 +6424,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9617.13,
+        ["points"] = 9617.19,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 8570.8,
+        ["points"] = 8571.01,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 6679.86,
+        ["points"] = 6680.63,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -6447,11 +6447,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 7,
-        ["points"] = 9877.98,
+        ["points"] = 9878.0,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 6790.67,
+        ["points"] = 6791.62,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -6459,7 +6459,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 8,
-        ["points"] = 9370.81,
+        ["points"] = 9370.88,
       },
       ["Rotface"] = {
         ["kill_count"] = 7,
@@ -6471,15 +6471,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 8421.61,
+        ["points"] = 8421.85,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 9890.29,
+        ["points"] = 9890.3,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 9408.61,
+        ["points"] = 9408.75,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -6498,7 +6498,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9005.02,
+        ["points"] = 9005.31,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -6506,7 +6506,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 5,
-        ["points"] = 8968.21,
+        ["points"] = 8968.32,
       },
       ["Rotface"] = {
         ["kill_count"] = 5,
@@ -6518,15 +6518,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 9311.44,
+        ["points"] = 9311.54,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 8714.16,
+        ["points"] = 8714.35,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 7273.57,
+        ["points"] = 7274.21,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
@@ -6541,11 +6541,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 12,
-        ["points"] = 9667.99,
+        ["points"] = 9668.04,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 7711.84,
+        ["points"] = 7712.51,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -6553,7 +6553,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 11,
-        ["points"] = 9395.01,
+        ["points"] = 9395.07,
       },
       ["Rotface"] = {
         ["kill_count"] = 12,
@@ -6565,15 +6565,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
-        ["points"] = 8946.73,
+        ["points"] = 8946.89,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 9574.31,
+        ["points"] = 9574.37,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 8970.9,
+        ["points"] = 8971.14,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -6592,7 +6592,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8255.09,
+        ["points"] = 8255.61,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -6600,7 +6600,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
-        ["points"] = 9410.41,
+        ["points"] = 9410.47,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -6612,15 +6612,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9527.85,
+        ["points"] = 9527.92,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9903.45,
+        ["points"] = 9903.47,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 8114.09,
+        ["points"] = 8114.53,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -6639,7 +6639,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 7720.7,
+        ["points"] = 7721.37,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -6647,7 +6647,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 19,
-        ["points"] = 9861.4,
+        ["points"] = 9861.42,
       },
       ["Rotface"] = {
         ["kill_count"] = 19,
@@ -6659,15 +6659,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
-        ["points"] = 9368.95,
+        ["points"] = 9369.04,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 18,
-        ["points"] = 9792.28,
+        ["points"] = 9792.31,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 7939.46,
+        ["points"] = 7939.94,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -6682,11 +6682,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9519.01,
+        ["points"] = 9519.08,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 9687.04,
+        ["points"] = 9687.13,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -6694,7 +6694,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
-        ["points"] = 9451.11,
+        ["points"] = 9451.17,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -6706,15 +6706,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9176.76,
+        ["points"] = 9176.88,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8253.36,
+        ["points"] = 8253.62,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9052.39,
+        ["points"] = 9052.61,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -6733,7 +6733,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 8624.15,
+        ["points"] = 8624.56,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -6753,15 +6753,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 9214.59,
+        ["points"] = 9214.71,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 9577.24,
+        ["points"] = 9577.3,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9043.07,
+        ["points"] = 9043.3,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -6780,15 +6780,15 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 9258.93,
+        ["points"] = 9259.15,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
-        ["points"] = 9654.15,
+        ["points"] = 9654.19,
       },
       ["Festergut"] = {
         ["kill_count"] = 8,
-        ["points"] = 9606.2,
+        ["points"] = 9606.25,
       },
       ["Rotface"] = {
         ["kill_count"] = 8,
@@ -6800,15 +6800,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
-        ["points"] = 8748.49,
+        ["points"] = 8748.68,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 7912.52,
+        ["points"] = 7912.83,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 9322.47,
+        ["points"] = 9322.63,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -6823,19 +6823,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 27,
-        ["points"] = 9652.38,
+        ["points"] = 9652.43,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 19,
-        ["points"] = 6811.34,
+        ["points"] = 6812.28,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 26,
-        ["points"] = 9931.1,
+        ["points"] = 9931.11,
       },
       ["Festergut"] = {
         ["kill_count"] = 27,
-        ["points"] = 9627.1,
+        ["points"] = 9627.14,
       },
       ["Rotface"] = {
         ["kill_count"] = 27,
@@ -6847,15 +6847,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 25,
-        ["points"] = 9570.22,
+        ["points"] = 9570.28,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 25,
-        ["points"] = 9251.02,
+        ["points"] = 9251.13,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 6430.73,
+        ["points"] = 6431.56,
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
@@ -6870,7 +6870,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 24,
-        ["points"] = 8951.48,
+        ["points"] = 8951.62,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
@@ -6878,11 +6878,11 @@ UWULogsData[0][2] = {
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 24,
-        ["points"] = 9836.53,
+        ["points"] = 9836.55,
       },
       ["Festergut"] = {
         ["kill_count"] = 25,
-        ["points"] = 9772.3,
+        ["points"] = 9772.33,
       },
       ["Rotface"] = {
         ["kill_count"] = 25,
@@ -6894,15 +6894,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 24,
-        ["points"] = 8695.52,
+        ["points"] = 8695.72,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 24,
-        ["points"] = 9926.86,
+        ["points"] = 9926.87,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 8754.37,
+        ["points"] = 8754.66,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
@@ -6921,7 +6921,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 8715.68,
+        ["points"] = 8716.06,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -6929,7 +6929,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 1,
-        ["points"] = 9329.01,
+        ["points"] = 9329.08,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -6941,15 +6941,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9029.96,
+        ["points"] = 9030.11,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 8787.3,
+        ["points"] = 8787.48,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 9487.78,
+        ["points"] = 9487.9,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -6968,7 +6968,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 7741.36,
+        ["points"] = 7742.03,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -6976,7 +6976,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 15,
-        ["points"] = 8897.81,
+        ["points"] = 8897.93,
       },
       ["Rotface"] = {
         ["kill_count"] = 5,
@@ -6996,7 +6996,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 9713.62,
+        ["points"] = 9713.69,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -7011,15 +7011,15 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 9543.13,
+        ["points"] = 9543.2,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 8854.44,
+        ["points"] = 8854.78,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
-        ["points"] = 9755.47,
+        ["points"] = 9755.5,
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
@@ -7035,15 +7035,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 9602.0,
+        ["points"] = 9602.06,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9828.85,
+        ["points"] = 9828.87,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9105.94,
+        ["points"] = 9106.15,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -7062,7 +7062,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 9713.61,
+        ["points"] = 9713.7,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -7070,7 +7070,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 5,
-        ["points"] = 9385.11,
+        ["points"] = 9385.17,
       },
       ["Rotface"] = {
         ["kill_count"] = 4,
@@ -7082,15 +7082,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 9780.57,
+        ["points"] = 9780.6,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9916.62,
+        ["points"] = 9916.63,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8479.63,
+        ["points"] = 8479.98,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -7109,7 +7109,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7655.74,
+        ["points"] = 7656.43,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -7117,7 +7117,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9473.11,
+        ["points"] = 9473.16,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -7129,15 +7129,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9697.34,
+        ["points"] = 9697.38,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8940.9,
+        ["points"] = 8941.06,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 7182.77,
+        ["points"] = 7183.43,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -7156,15 +7156,15 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 8777.68,
+        ["points"] = 8778.04,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
-        ["points"] = 9782.49,
+        ["points"] = 9782.52,
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
-        ["points"] = 9532.5,
+        ["points"] = 9532.56,
       },
       ["Rotface"] = {
         ["kill_count"] = 4,
@@ -7176,15 +7176,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 8221.85,
+        ["points"] = 8222.12,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 7287.89,
+        ["points"] = 7288.28,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 9578.58,
+        ["points"] = 9578.68,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -7199,11 +7199,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 18,
-        ["points"] = 9510.5,
+        ["points"] = 9510.57,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 7502.21,
+        ["points"] = 7502.95,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 18,
@@ -7211,7 +7211,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 18,
-        ["points"] = 8999.01,
+        ["points"] = 8999.12,
       },
       ["Rotface"] = {
         ["kill_count"] = 18,
@@ -7223,15 +7223,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
-        ["points"] = 9441.59,
+        ["points"] = 9441.67,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 18,
-        ["points"] = 9056.47,
+        ["points"] = 9056.6,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 7334.11,
+        ["points"] = 7334.73,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -7246,11 +7246,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 10,
-        ["points"] = 9354.43,
+        ["points"] = 9354.52,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 8801.3,
+        ["points"] = 8801.65,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -7258,7 +7258,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 21,
-        ["points"] = 9172.81,
+        ["points"] = 9172.9,
       },
       ["Rotface"] = {
         ["kill_count"] = 13,
@@ -7270,15 +7270,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
-        ["points"] = 9194.92,
+        ["points"] = 9195.04,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 10,
-        ["points"] = 9638.68,
+        ["points"] = 9638.73,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 6058.21,
+        ["points"] = 6059.12,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
@@ -7293,11 +7293,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 11,
-        ["points"] = 9727.58,
+        ["points"] = 9727.62,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 7130.2,
+        ["points"] = 7131.05,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -7305,7 +7305,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 11,
-        ["points"] = 9013.31,
+        ["points"] = 9013.42,
       },
       ["Rotface"] = {
         ["kill_count"] = 11,
@@ -7317,15 +7317,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
-        ["points"] = 8450.36,
+        ["points"] = 8450.6,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 11,
-        ["points"] = 9338.79,
+        ["points"] = 9338.89,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 8218.86,
+        ["points"] = 8219.27,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
@@ -7344,15 +7344,15 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 9185.12,
+        ["points"] = 9185.36,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
-        ["points"] = 9608.21,
+        ["points"] = 9608.27,
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9367.51,
+        ["points"] = 9367.58,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -7364,15 +7364,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 9146.49,
+        ["points"] = 9146.62,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9155.94,
+        ["points"] = 9156.06,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 7399.3,
+        ["points"] = 7399.91,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -7391,15 +7391,15 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 9371.12,
+        ["points"] = 9371.31,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
-        ["points"] = 9778.44,
+        ["points"] = 9778.47,
       },
       ["Festergut"] = {
         ["kill_count"] = 1,
-        ["points"] = 8995.71,
+        ["points"] = 8995.82,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -7411,15 +7411,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9701.88,
+        ["points"] = 9701.92,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 9724.99,
+        ["points"] = 9725.03,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 8423.75,
+        ["points"] = 8424.12,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -7434,11 +7434,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 12,
-        ["points"] = 9290.58,
+        ["points"] = 9290.68,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 9072.93,
+        ["points"] = 9073.2,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -7446,7 +7446,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 26,
-        ["points"] = 9567.7,
+        ["points"] = 9567.75,
       },
       ["Rotface"] = {
         ["kill_count"] = 14,
@@ -7458,15 +7458,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
-        ["points"] = 9278.15,
+        ["points"] = 9278.26,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 13,
-        ["points"] = 9221.77,
+        ["points"] = 9221.88,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 9452.85,
+        ["points"] = 9452.98,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
@@ -7485,7 +7485,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 8520.81,
+        ["points"] = 8521.25,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -7493,7 +7493,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
-        ["points"] = 9275.11,
+        ["points"] = 9275.19,
       },
       ["Rotface"] = {
         ["kill_count"] = 4,
@@ -7505,15 +7505,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 9414.35,
+        ["points"] = 9414.43,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 9062.32,
+        ["points"] = 9062.45,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 8372.53,
+        ["points"] = 8372.91,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -7528,7 +7528,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
-        ["points"] = 9448.07,
+        ["points"] = 9448.15,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
@@ -7536,11 +7536,11 @@ UWULogsData[0][2] = {
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
-        ["points"] = 9851.39,
+        ["points"] = 9851.41,
       },
       ["Festergut"] = {
         ["kill_count"] = 6,
-        ["points"] = 9804.2,
+        ["points"] = 9804.22,
       },
       ["Rotface"] = {
         ["kill_count"] = 6,
@@ -7552,15 +7552,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 8380.75,
+        ["points"] = 8381.0,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 9210.06,
+        ["points"] = 9210.18,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9399.3,
+        ["points"] = 9399.44,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -7579,7 +7579,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 7936.23,
+        ["points"] = 7936.84,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -7587,7 +7587,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
-        ["points"] = 9905.4,
+        ["points"] = 9905.41,
       },
       ["Rotface"] = {
         ["kill_count"] = 4,
@@ -7599,15 +7599,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 9683.72,
+        ["points"] = 9683.76,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 9128.15,
+        ["points"] = 9128.27,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9694.99,
+        ["points"] = 9695.07,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -7616,17 +7616,17 @@ UWULogsData[0][2] = {
     },
   },
   ["Robmanian"] = {
-    ["percentile"] = 86.36,
+    ["percentile"] = 86.37,
     ["server"] = "Icecrown",
     ["overall_rank"] = 164,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9605.56,
+        ["points"] = 9605.62,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8526.72,
+        ["points"] = 8527.15,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -7634,7 +7634,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 15,
-        ["points"] = 9430.21,
+        ["points"] = 9430.27,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -7646,7 +7646,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9632.26,
+        ["points"] = 9632.32,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -7654,7 +7654,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 7811.41,
+        ["points"] = 7811.92,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -7673,7 +7673,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 8228.52,
+        ["points"] = 8229.04,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -7693,15 +7693,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 8701.57,
+        ["points"] = 8701.77,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 9830.31,
+        ["points"] = 9830.33,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9266.59,
+        ["points"] = 9266.76,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -7716,11 +7716,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 7,
-        ["points"] = 9697.79,
+        ["points"] = 9697.83,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7168.59,
+        ["points"] = 7169.42,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -7740,15 +7740,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 9486.99,
+        ["points"] = 9487.06,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8763.9,
+        ["points"] = 8764.08,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6614.67,
+        ["points"] = 6615.46,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -7757,25 +7757,25 @@ UWULogsData[0][2] = {
     },
   },
   ["Bacefook"] = {
-    ["percentile"] = 86.26,
+    ["percentile"] = 86.27,
     ["server"] = "Icecrown",
     ["overall_rank"] = 167,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 8,
-        ["points"] = 9161.46,
+        ["points"] = 9161.58,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 6781.81,
+        ["points"] = 6782.76,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
-        ["points"] = 9670.36,
+        ["points"] = 9670.4,
       },
       ["Festergut"] = {
         ["kill_count"] = 9,
-        ["points"] = 9417.01,
+        ["points"] = 9417.07,
       },
       ["Rotface"] = {
         ["kill_count"] = 9,
@@ -7791,11 +7791,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
-        ["points"] = 9865.42,
+        ["points"] = 9865.44,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 8430.73,
+        ["points"] = 8431.1,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
@@ -7814,7 +7814,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9028.64,
+        ["points"] = 9028.93,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -7822,7 +7822,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 5,
-        ["points"] = 8729.51,
+        ["points"] = 8729.65,
       },
       ["Rotface"] = {
         ["kill_count"] = 4,
@@ -7838,11 +7838,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 8762.43,
+        ["points"] = 8762.62,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 8509.9,
+        ["points"] = 8510.24,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -7857,11 +7857,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 8964.25,
+        ["points"] = 8964.39,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 8582.82,
+        ["points"] = 8583.23,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -7869,7 +7869,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9419.21,
+        ["points"] = 9419.27,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -7881,15 +7881,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 8813.56,
+        ["points"] = 8813.74,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 8560.56,
+        ["points"] = 8560.77,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 8379.51,
+        ["points"] = 8379.89,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -7908,7 +7908,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 8320.05,
+        ["points"] = 8320.54,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -7916,7 +7916,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 5,
-        ["points"] = 9620.5,
+        ["points"] = 9620.55,
       },
       ["Rotface"] = {
         ["kill_count"] = 4,
@@ -7928,15 +7928,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 9399.21,
+        ["points"] = 9399.3,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 7222.06,
+        ["points"] = 7222.47,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 8984.87,
+        ["points"] = 8985.1,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -7951,11 +7951,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 9787.17,
+        ["points"] = 9787.2,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7159.73,
+        ["points"] = 7160.57,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -7975,15 +7975,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 8061.44,
+        ["points"] = 8061.73,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 8556.17,
+        ["points"] = 8556.38,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 9583.24,
+        ["points"] = 9583.33,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -7998,11 +7998,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 9405.51,
+        ["points"] = 9405.59,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 9235.31,
+        ["points"] = 9235.54,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -8010,7 +8010,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 5,
-        ["points"] = 9357.61,
+        ["points"] = 9357.68,
       },
       ["Rotface"] = {
         ["kill_count"] = 5,
@@ -8022,15 +8022,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 9300.85,
+        ["points"] = 9300.95,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 9587.48,
+        ["points"] = 9587.54,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 7406.29,
+        ["points"] = 7406.89,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -8045,11 +8045,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 13,
-        ["points"] = 8918.84,
+        ["points"] = 8919.0,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 7050.49,
+        ["points"] = 7051.36,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -8057,7 +8057,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 14,
-        ["points"] = 9090.31,
+        ["points"] = 9090.41,
       },
       ["Rotface"] = {
         ["kill_count"] = 12,
@@ -8069,15 +8069,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
-        ["points"] = 9485.47,
+        ["points"] = 9485.55,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 13,
-        ["points"] = 8955.53,
+        ["points"] = 8955.68,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 8072.18,
+        ["points"] = 8072.63,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
@@ -8092,11 +8092,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 12,
-        ["points"] = 8955.73,
+        ["points"] = 8955.88,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 9244.17,
+        ["points"] = 9244.39,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -8104,7 +8104,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 11,
-        ["points"] = 9071.61,
+        ["points"] = 9071.71,
       },
       ["Rotface"] = {
         ["kill_count"] = 11,
@@ -8116,15 +8116,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
-        ["points"] = 9163.14,
+        ["points"] = 9163.26,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 11,
-        ["points"] = 9264.19,
+        ["points"] = 9264.3,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 6810.24,
+        ["points"] = 6810.99,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
@@ -8133,7 +8133,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Qargon"] = {
-    ["percentile"] = 85.58,
+    ["percentile"] = 85.59,
     ["server"] = "Icecrown",
     ["overall_rank"] = 175,
     ["bosses"] = {
@@ -8143,11 +8143,11 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 9129.02,
+        ["points"] = 9129.28,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
-        ["points"] = 9829.78,
+        ["points"] = 9829.8,
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
@@ -8167,11 +8167,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 7244.0,
+        ["points"] = 7244.41,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 9394.64,
+        ["points"] = 9394.79,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -8180,7 +8180,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Kibanen"] = {
-    ["percentile"] = 85.57,
+    ["percentile"] = 85.58,
     ["server"] = "Icecrown",
     ["overall_rank"] = 176,
     ["bosses"] = {
@@ -8190,7 +8190,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7552.41,
+        ["points"] = 7553.13,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -8198,7 +8198,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 1,
-        ["points"] = 9463.21,
+        ["points"] = 9463.26,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -8210,15 +8210,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8958.84,
+        ["points"] = 8959.0,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 9028.67,
+        ["points"] = 9028.81,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 8260.77,
+        ["points"] = 8261.17,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -8233,11 +8233,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
-        ["points"] = 9507.66,
+        ["points"] = 9507.73,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 8272.81,
+        ["points"] = 8273.32,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -8245,7 +8245,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 6,
-        ["points"] = 8750.41,
+        ["points"] = 8750.55,
       },
       ["Rotface"] = {
         ["kill_count"] = 6,
@@ -8261,11 +8261,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 8395.26,
+        ["points"] = 8395.5,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 8603.03,
+        ["points"] = 8603.35,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
@@ -8280,11 +8280,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 9,
-        ["points"] = 9608.4,
+        ["points"] = 9608.46,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 6932.39,
+        ["points"] = 6933.29,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -8292,7 +8292,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 9,
-        ["points"] = 8849.41,
+        ["points"] = 8849.54,
       },
       ["Rotface"] = {
         ["kill_count"] = 9,
@@ -8304,15 +8304,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
-        ["points"] = 8624.39,
+        ["points"] = 8624.6,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
-        ["points"] = 9694.27,
+        ["points"] = 9694.31,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 8274.74,
+        ["points"] = 8275.14,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -8331,7 +8331,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 8231.47,
+        ["points"] = 8232.0,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -8339,7 +8339,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 11,
-        ["points"] = 8791.11,
+        ["points"] = 8791.25,
       },
       ["Rotface"] = {
         ["kill_count"] = 11,
@@ -8351,15 +8351,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
-        ["points"] = 9197.94,
+        ["points"] = 9198.06,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
-        ["points"] = 7760.39,
+        ["points"] = 7760.71,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 8388.82,
+        ["points"] = 8389.2,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
@@ -8378,7 +8378,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 7387.07,
+        ["points"] = 7387.84,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -8398,15 +8398,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
-        ["points"] = 8559.32,
+        ["points"] = 8559.54,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 9578.7,
+        ["points"] = 9578.76,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 8800.93,
+        ["points"] = 8801.21,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -8421,11 +8421,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 9158.63,
+        ["points"] = 9158.75,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8325.95,
+        ["points"] = 8326.45,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -8433,7 +8433,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
-        ["points"] = 9466.51,
+        ["points"] = 9466.56,
       },
       ["Rotface"] = {
         ["kill_count"] = 4,
@@ -8445,15 +8445,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8436.74,
+        ["points"] = 8436.98,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8602.98,
+        ["points"] = 8603.19,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6267.75,
+        ["points"] = 6268.62,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -8462,7 +8462,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Bamidele"] = {
-    ["percentile"] = 85.4,
+    ["percentile"] = 85.41,
     ["server"] = "Icecrown",
     ["overall_rank"] = 182,
     ["bosses"] = {
@@ -8472,7 +8472,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 7847.65,
+        ["points"] = 7848.29,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -8480,7 +8480,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 5,
-        ["points"] = 9070.51,
+        ["points"] = 9070.61,
       },
       ["Rotface"] = {
         ["kill_count"] = 5,
@@ -8492,15 +8492,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 8377.72,
+        ["points"] = 8377.97,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 9565.54,
+        ["points"] = 9565.6,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 8551.8,
+        ["points"] = 8552.14,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -8515,11 +8515,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 10,
-        ["points"] = 9872.3,
+        ["points"] = 9872.32,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8742.25,
+        ["points"] = 8742.62,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -8527,7 +8527,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 10,
-        ["points"] = 8881.31,
+        ["points"] = 8881.43,
       },
       ["Rotface"] = {
         ["kill_count"] = 10,
@@ -8539,15 +8539,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
-        ["points"] = 9154.06,
+        ["points"] = 9154.18,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 10,
-        ["points"] = 9839.09,
+        ["points"] = 9839.11,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 8477.3,
+        ["points"] = 8477.65,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -8562,11 +8562,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9469.35,
+        ["points"] = 9469.43,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 9350.46,
+        ["points"] = 9350.65,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -8586,11 +8586,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9013.32,
+        ["points"] = 9013.47,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8703.92,
+        ["points"] = 8704.11,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -8613,7 +8613,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 9536.46,
+        ["points"] = 9536.6,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -8621,7 +8621,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9406.01,
+        ["points"] = 9406.07,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -8641,7 +8641,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9033.76,
+        ["points"] = 9033.99,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -8656,7 +8656,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
-        ["points"] = 8958.57,
+        ["points"] = 8958.72,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
@@ -8668,7 +8668,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 9,
-        ["points"] = 9862.5,
+        ["points"] = 9862.52,
       },
       ["Rotface"] = {
         ["kill_count"] = 9,
@@ -8680,15 +8680,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 9598.97,
+        ["points"] = 9599.03,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
-        ["points"] = 9618.2,
+        ["points"] = 9618.25,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8395.81,
+        ["points"] = 8396.18,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -8707,7 +8707,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8160.61,
+        ["points"] = 8161.16,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -8715,7 +8715,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 26,
-        ["points"] = 9750.3,
+        ["points"] = 9750.33,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -8727,15 +8727,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9039.04,
+        ["points"] = 9039.19,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9147.16,
+        ["points"] = 9147.29,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 8179.28,
+        ["points"] = 8179.7,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -8750,11 +8750,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9419.69,
+        ["points"] = 9419.78,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8960.73,
+        ["points"] = 8961.04,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -8774,15 +8774,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9562.65,
+        ["points"] = 9562.72,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8523.99,
+        ["points"] = 8524.21,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 5918.51,
+        ["points"] = 5919.46,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -8791,7 +8791,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Crowland"] = {
-    ["percentile"] = 84.95,
+    ["percentile"] = 84.96,
     ["server"] = "Icecrown",
     ["overall_rank"] = 189,
     ["bosses"] = {
@@ -8801,7 +8801,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 8721.58,
+        ["points"] = 8721.96,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -8821,15 +8821,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
-        ["points"] = 8846.85,
+        ["points"] = 8847.03,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 12,
-        ["points"] = 9784.96,
+        ["points"] = 9784.99,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 7438.88,
+        ["points"] = 7439.48,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
@@ -8848,7 +8848,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 8473.58,
+        ["points"] = 8474.03,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -8856,7 +8856,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 8,
-        ["points"] = 8804.31,
+        ["points"] = 8804.44,
       },
       ["Rotface"] = {
         ["kill_count"] = 8,
@@ -8868,15 +8868,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 9196.43,
+        ["points"] = 9196.55,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 9150.09,
+        ["points"] = 9150.21,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9317.81,
+        ["points"] = 9317.97,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -8895,7 +8895,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 7948.04,
+        ["points"] = 7948.64,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -8915,15 +8915,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 9247.88,
+        ["points"] = 9248.0,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 9391.46,
+        ["points"] = 9391.55,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 8966.24,
+        ["points"] = 8966.48,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -8942,7 +8942,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 7192.21,
+        ["points"] = 7193.03,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -8950,7 +8950,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 7,
-        ["points"] = 9500.6,
+        ["points"] = 9500.66,
       },
       ["Rotface"] = {
         ["kill_count"] = 7,
@@ -8962,15 +8962,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 9007.26,
+        ["points"] = 9007.41,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 8976.01,
+        ["points"] = 8976.16,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8747.38,
+        ["points"] = 8747.67,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -8985,11 +8985,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 7,
-        ["points"] = 9287.74,
+        ["points"] = 9287.84,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 7351.64,
+        ["points"] = 7352.42,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -9009,15 +9009,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 9043.58,
+        ["points"] = 9043.73,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 9558.22,
+        ["points"] = 9558.29,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 7827.71,
+        ["points"] = 7828.21,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
@@ -9036,7 +9036,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 5677.59,
+        ["points"] = 5678.87,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -9044,7 +9044,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 9,
-        ["points"] = 8873.61,
+        ["points"] = 8873.74,
       },
       ["Rotface"] = {
         ["kill_count"] = 9,
@@ -9056,15 +9056,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
-        ["points"] = 9182.81,
+        ["points"] = 9182.93,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 9641.6,
+        ["points"] = 9641.66,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 8197.9,
+        ["points"] = 8198.32,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
@@ -9083,15 +9083,15 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9329.79,
+        ["points"] = 9329.99,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
-        ["points"] = 9624.43,
+        ["points"] = 9624.48,
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
-        ["points"] = 9705.2,
+        ["points"] = 9705.24,
       },
       ["Rotface"] = {
         ["kill_count"] = 4,
@@ -9107,7 +9107,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 9328.55,
+        ["points"] = 9328.65,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
@@ -9126,11 +9126,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
-        ["points"] = 9584.28,
+        ["points"] = 9584.34,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 9663.42,
+        ["points"] = 9663.52,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -9138,7 +9138,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 6,
-        ["points"] = 9661.2,
+        ["points"] = 9661.24,
       },
       ["Rotface"] = {
         ["kill_count"] = 6,
@@ -9154,11 +9154,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 9161.79,
+        ["points"] = 9161.91,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 6882.42,
+        ["points"] = 6883.15,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -9177,7 +9177,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 8571.01,
+        ["points"] = 8571.43,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -9185,7 +9185,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
-        ["points"] = 9236.61,
+        ["points"] = 9236.69,
       },
       ["Rotface"] = {
         ["kill_count"] = 4,
@@ -9197,15 +9197,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8445.82,
+        ["points"] = 8446.06,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8348.45,
+        ["points"] = 8348.69,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 7408.61,
+        ["points"] = 7409.22,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -9224,7 +9224,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 8074.99,
+        ["points"] = 8075.56,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -9232,7 +9232,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 5,
-        ["points"] = 9227.81,
+        ["points"] = 9227.89,
       },
       ["Rotface"] = {
         ["kill_count"] = 4,
@@ -9244,15 +9244,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 9291.77,
+        ["points"] = 9291.87,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 7501.46,
+        ["points"] = 7501.83,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 7783.47,
+        ["points"] = 7783.99,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -9271,7 +9271,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 8957.78,
+        ["points"] = 8958.09,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -9291,15 +9291,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 8361.08,
+        ["points"] = 8361.33,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 7656.52,
+        ["points"] = 7656.87,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8281.72,
+        ["points"] = 8282.12,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -9308,7 +9308,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Rimebag"] = {
-    ["percentile"] = 84.42,
+    ["percentile"] = 84.43,
     ["server"] = "Icecrown",
     ["overall_rank"] = 200,
     ["bosses"] = {
@@ -9318,7 +9318,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7756.13,
+        ["points"] = 7756.79,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -9338,15 +9338,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8432.2,
+        ["points"] = 8432.44,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7175.25,
+        ["points"] = 7175.66,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 9820.72,
+        ["points"] = 9820.76,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -9361,11 +9361,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 9913.45,
+        ["points"] = 9913.46,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 6958.96,
+        ["points"] = 6959.86,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -9385,15 +9385,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 9533.9,
+        ["points"] = 9533.97,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 9182.27,
+        ["points"] = 9182.39,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 7417.93,
+        ["points"] = 7418.53,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -9408,11 +9408,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 8957.15,
+        ["points"] = 8957.3,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 9303.22,
+        ["points"] = 9303.42,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -9420,7 +9420,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9116.71,
+        ["points"] = 9116.81,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -9432,7 +9432,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8796.91,
+        ["points"] = 8797.09,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -9440,7 +9440,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 7587.89,
+        ["points"] = 7588.45,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -9455,11 +9455,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 7,
-        ["points"] = 9195.52,
+        ["points"] = 9195.63,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9158.55,
+        ["points"] = 9158.8,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -9467,7 +9467,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 14,
-        ["points"] = 9486.31,
+        ["points"] = 9486.36,
       },
       ["Rotface"] = {
         ["kill_count"] = 7,
@@ -9479,15 +9479,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 9586.86,
+        ["points"] = 9586.93,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 7205.97,
+        ["points"] = 7206.38,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 5781.14,
+        ["points"] = 5782.12,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -9506,7 +9506,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 7224.68,
+        ["points"] = 7225.5,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -9514,7 +9514,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 9,
-        ["points"] = 9398.31,
+        ["points"] = 9398.37,
       },
       ["Rotface"] = {
         ["kill_count"] = 9,
@@ -9526,15 +9526,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
-        ["points"] = 8901.33,
+        ["points"] = 8901.5,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 8661.5,
+        ["points"] = 8661.69,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 7287.54,
+        ["points"] = 7288.18,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -9553,7 +9553,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 6132.27,
+        ["points"] = 6133.41,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -9561,7 +9561,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 6,
-        ["points"] = 9120.01,
+        ["points"] = 9120.11,
       },
       ["Rotface"] = {
         ["kill_count"] = 6,
@@ -9573,15 +9573,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 8141.65,
+        ["points"] = 8141.93,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 9761.56,
+        ["points"] = 9761.59,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9080.33,
+        ["points"] = 9080.54,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -9596,11 +9596,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 8962.83,
+        ["points"] = 8962.97,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 6347.8,
+        ["points"] = 6348.88,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -9620,15 +9620,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 8783.29,
+        ["points"] = 8783.48,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 7428.32,
+        ["points"] = 7428.7,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9476.14,
+        ["points"] = 9476.26,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -9637,17 +9637,17 @@ UWULogsData[0][2] = {
     },
   },
   ["Motorboater"] = {
-    ["percentile"] = 83.94,
+    ["percentile"] = 83.95,
     ["server"] = "Icecrown",
     ["overall_rank"] = 207,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9619.75,
+        ["points"] = 9619.8,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 9456.75,
+        ["points"] = 9456.91,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -9667,15 +9667,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 9276.63,
+        ["points"] = 9276.74,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 6960.21,
+        ["points"] = 6960.66,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 6961.58,
+        ["points"] = 6962.29,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -9690,19 +9690,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9656.64,
+        ["points"] = 9656.69,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7186.3,
+        ["points"] = 7187.13,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
-        ["points"] = 9667.66,
+        ["points"] = 9667.7,
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
-        ["points"] = 9664.5,
+        ["points"] = 9664.54,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -9714,15 +9714,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8772.7,
+        ["points"] = 8772.89,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9272.97,
+        ["points"] = 9273.07,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 7017.46,
+        ["points"] = 7018.16,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -9737,7 +9737,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 19,
-        ["points"] = 9638.2,
+        ["points"] = 9638.25,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 19,
@@ -9745,11 +9745,11 @@ UWULogsData[0][2] = {
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
-        ["points"] = 9809.51,
+        ["points"] = 9809.54,
       },
       ["Festergut"] = {
         ["kill_count"] = 20,
-        ["points"] = 9744.8,
+        ["points"] = 9744.83,
       },
       ["Rotface"] = {
         ["kill_count"] = 21,
@@ -9761,15 +9761,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
-        ["points"] = 9232.75,
+        ["points"] = 9232.86,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 22,
-        ["points"] = 9803.98,
+        ["points"] = 9804.01,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 7892.9,
+        ["points"] = 7893.39,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
@@ -9788,7 +9788,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8706.82,
+        ["points"] = 8707.2,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -9796,7 +9796,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
-        ["points"] = 8911.01,
+        ["points"] = 8911.13,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -9808,15 +9808,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9073.85,
+        ["points"] = 9073.99,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8779.99,
+        ["points"] = 8780.17,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 5583.24,
+        ["points"] = 5584.26,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -9831,11 +9831,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 12,
-        ["points"] = 9310.44,
+        ["points"] = 9310.54,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 6592.86,
+        ["points"] = 6593.86,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -9859,11 +9859,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
-        ["points"] = 9637.21,
+        ["points"] = 9637.27,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 8228.17,
+        ["points"] = 8228.58,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
@@ -9878,19 +9878,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 10,
-        ["points"] = 9853.86,
+        ["points"] = 9853.88,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9117.21,
+        ["points"] = 9117.47,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
-        ["points"] = 9639.29,
+        ["points"] = 9639.34,
       },
       ["Festergut"] = {
         ["kill_count"] = 10,
-        ["points"] = 9916.4,
+        ["points"] = 9916.41,
       },
       ["Rotface"] = {
         ["kill_count"] = 8,
@@ -9902,15 +9902,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
-        ["points"] = 9483.96,
+        ["points"] = 9484.04,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 10,
-        ["points"] = 9271.5,
+        ["points"] = 9271.61,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 8356.23,
+        ["points"] = 8356.61,
       },
     },
   },
@@ -9921,11 +9921,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 9,
-        ["points"] = 9785.75,
+        ["points"] = 9785.79,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 8683.2,
+        ["points"] = 8683.59,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -9933,7 +9933,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 10,
-        ["points"] = 9333.41,
+        ["points"] = 9333.48,
       },
       ["Rotface"] = {
         ["kill_count"] = 10,
@@ -9945,15 +9945,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
-        ["points"] = 8280.87,
+        ["points"] = 8281.13,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
-        ["points"] = 9629.9,
+        ["points"] = 9629.95,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 7620.49,
+        ["points"] = 7621.04,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -9968,7 +9968,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 9,
-        ["points"] = 9334.56,
+        ["points"] = 9334.66,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
@@ -9980,7 +9980,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 10,
-        ["points"] = 9349.91,
+        ["points"] = 9349.98,
       },
       ["Rotface"] = {
         ["kill_count"] = 10,
@@ -9992,15 +9992,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
-        ["points"] = 8704.6,
+        ["points"] = 8704.8,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 10,
-        ["points"] = 9283.21,
+        ["points"] = 9283.31,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 9003.49,
+        ["points"] = 9003.72,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
@@ -10009,7 +10009,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Weakenedsoul"] = {
-    ["percentile"] = 83.42,
+    ["percentile"] = 83.43,
     ["server"] = "Icecrown",
     ["overall_rank"] = 215,
     ["bosses"] = {
@@ -10019,7 +10019,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8479.48,
+        ["points"] = 8479.93,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -10027,7 +10027,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 7,
-        ["points"] = 9267.41,
+        ["points"] = 9267.49,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -10039,7 +10039,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9261.5,
+        ["points"] = 9261.61,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -10047,7 +10047,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9012.81,
+        ["points"] = 9013.04,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
@@ -10066,7 +10066,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 8810.16,
+        ["points"] = 8810.51,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -10086,15 +10086,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 8674.33,
+        ["points"] = 8674.53,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 9520.19,
+        ["points"] = 9520.26,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 7573.92,
+        ["points"] = 7574.49,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
@@ -10103,7 +10103,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Bruichladdic"] = {
-    ["percentile"] = 83.24,
+    ["percentile"] = 83.25,
     ["server"] = "Icecrown",
     ["overall_rank"] = 217,
     ["bosses"] = {
@@ -10113,7 +10113,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 6923.53,
+        ["points"] = 6924.44,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -10121,7 +10121,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
-        ["points"] = 9037.51,
+        ["points"] = 9037.62,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -10133,15 +10133,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 9488.5,
+        ["points"] = 9488.58,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9012.58,
+        ["points"] = 9012.72,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 7708.96,
+        ["points"] = 7709.5,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -10156,11 +10156,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 8,
-        ["points"] = 9145.86,
+        ["points"] = 9145.98,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 8641.87,
+        ["points"] = 8642.27,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -10168,7 +10168,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 10,
-        ["points"] = 8826.31,
+        ["points"] = 8826.44,
       },
       ["Rotface"] = {
         ["kill_count"] = 10,
@@ -10180,15 +10180,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 8176.45,
+        ["points"] = 8176.73,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 7685.78,
+        ["points"] = 7686.12,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 7790.45,
+        ["points"] = 7790.97,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -10197,7 +10197,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Helmofawe"] = {
-    ["percentile"] = 83.21,
+    ["percentile"] = 83.22,
     ["server"] = "Icecrown",
     ["overall_rank"] = 219,
     ["bosses"] = {
@@ -10207,7 +10207,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 8181.28,
+        ["points"] = 8181.82,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -10227,15 +10227,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
-        ["points"] = 8886.2,
+        ["points"] = 8886.37,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 6579.87,
+        ["points"] = 6580.37,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 8845.17,
+        ["points"] = 8845.44,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -10254,7 +10254,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 8733.39,
+        ["points"] = 8733.77,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -10262,7 +10262,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 12,
-        ["points"] = 8830.71,
+        ["points"] = 8830.84,
       },
       ["Rotface"] = {
         ["kill_count"] = 12,
@@ -10274,15 +10274,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
-        ["points"] = 9798.73,
+        ["points"] = 9798.76,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 12,
-        ["points"] = 7331.77,
+        ["points"] = 7332.16,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 6132.71,
+        ["points"] = 6133.61,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
@@ -10301,7 +10301,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6710.95,
+        ["points"] = 6711.92,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -10309,7 +10309,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 7,
-        ["points"] = 9600.7,
+        ["points"] = 9600.75,
       },
       ["Rotface"] = {
         ["kill_count"] = 7,
@@ -10321,11 +10321,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 9573.24,
+        ["points"] = 9573.31,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 9710.36,
+        ["points"] = 9710.4,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -10344,11 +10344,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9174.23,
+        ["points"] = 9174.35,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 9524.65,
+        ["points"] = 9524.79,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -10372,11 +10372,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8614.69,
+        ["points"] = 8614.89,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 6509.9,
+        ["points"] = 6510.71,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -10395,7 +10395,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 8045.47,
+        ["points"] = 8046.04,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -10419,11 +10419,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 9869.81,
+        ["points"] = 9869.83,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9161.82,
+        ["points"] = 9162.01,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -10432,7 +10432,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Aidsspread"] = {
-    ["percentile"] = 83.04,
+    ["percentile"] = 83.05,
     ["server"] = "Icecrown",
     ["overall_rank"] = 224,
     ["bosses"] = {
@@ -10442,7 +10442,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 5656.92,
+        ["points"] = 5658.21,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -10450,7 +10450,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 13,
-        ["points"] = 9191.51,
+        ["points"] = 9191.6,
       },
       ["Rotface"] = {
         ["kill_count"] = 6,
@@ -10462,15 +10462,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 9326.57,
+        ["points"] = 9326.68,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 9660.62,
+        ["points"] = 9660.67,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 8402.79,
+        ["points"] = 8403.17,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
@@ -10497,7 +10497,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 11,
-        ["points"] = 9183.81,
+        ["points"] = 9183.9,
       },
       ["Rotface"] = {
         ["kill_count"] = 8,
@@ -10509,15 +10509,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 9204.0,
+        ["points"] = 9204.12,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 9626.97,
+        ["points"] = 9627.03,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 8076.83,
+        ["points"] = 8077.28,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -10536,7 +10536,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 9199.88,
+        ["points"] = 9200.12,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -10544,7 +10544,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 15,
-        ["points"] = 9233.31,
+        ["points"] = 9233.39,
       },
       ["Rotface"] = {
         ["kill_count"] = 16,
@@ -10556,7 +10556,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
-        ["points"] = 9539.95,
+        ["points"] = 9540.02,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
@@ -10564,7 +10564,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 9082.65,
+        ["points"] = 9082.87,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
@@ -10579,11 +10579,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 9143.02,
+        ["points"] = 9143.14,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 7635.08,
+        ["points"] = 7635.77,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -10591,7 +10591,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
-        ["points"] = 9799.8,
+        ["points"] = 9799.82,
       },
       ["Rotface"] = {
         ["kill_count"] = 4,
@@ -10603,11 +10603,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 8482.14,
+        ["points"] = 8482.37,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9305.15,
+        ["points"] = 9305.25,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -10630,7 +10630,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 7697.08,
+        ["points"] = 7697.76,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -10638,7 +10638,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 15,
-        ["points"] = 8892.31,
+        ["points"] = 8892.43,
       },
       ["Rotface"] = {
         ["kill_count"] = 14,
@@ -10654,11 +10654,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 13,
-        ["points"] = 9726.45,
+        ["points"] = 9726.49,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 7206.05,
+        ["points"] = 7206.7,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -10677,7 +10677,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 8665.49,
+        ["points"] = 8665.88,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -10701,11 +10701,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 7581.92,
+        ["points"] = 7582.27,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 6752.04,
+        ["points"] = 6752.79,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -10724,7 +10724,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 7809.27,
+        ["points"] = 7809.92,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -10744,15 +10744,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
-        ["points"] = 9026.94,
+        ["points"] = 9027.08,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
-        ["points"] = 6796.37,
+        ["points"] = 6796.84,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 9541.33,
+        ["points"] = 9541.43,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
@@ -10761,7 +10761,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Demoniot"] = {
-    ["percentile"] = 82.47,
+    ["percentile"] = 82.48,
     ["server"] = "Icecrown",
     ["overall_rank"] = 231,
     ["bosses"] = {
@@ -10771,7 +10771,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 6542.66,
+        ["points"] = 6543.68,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -10779,7 +10779,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 6,
-        ["points"] = 9325.71,
+        ["points"] = 9325.78,
       },
       ["Rotface"] = {
         ["kill_count"] = 5,
@@ -10791,15 +10791,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 8128.03,
+        ["points"] = 8128.31,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 8197.78,
+        ["points"] = 8198.04,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 9401.63,
+        ["points"] = 9401.77,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -10818,15 +10818,15 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 9509.89,
+        ["points"] = 9510.04,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
-        ["points"] = 9571.74,
+        ["points"] = 9571.8,
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9143.11,
+        ["points"] = 9143.2,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -10842,11 +10842,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 8750.73,
+        ["points"] = 8750.91,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 7371.36,
+        ["points"] = 7371.97,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -10861,11 +10861,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 13,
-        ["points"] = 9555.9,
+        ["points"] = 9555.97,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 8399.76,
+        ["points"] = 8400.24,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -10885,15 +10885,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
-        ["points"] = 8890.74,
+        ["points"] = 8890.91,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 12,
-        ["points"] = 7450.26,
+        ["points"] = 7450.64,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 7848.66,
+        ["points"] = 7849.16,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
@@ -10932,15 +10932,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
-        ["points"] = 8610.77,
+        ["points"] = 8610.99,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 11,
-        ["points"] = 8932.12,
+        ["points"] = 8932.28,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 9091.97,
+        ["points"] = 9092.18,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
@@ -10949,7 +10949,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Ixil"] = {
-    ["percentile"] = 81.83,
+    ["percentile"] = 81.84,
     ["server"] = "Icecrown",
     ["overall_rank"] = 236,
     ["bosses"] = {
@@ -10959,7 +10959,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 9084.74,
+        ["points"] = 9085.01,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -10983,11 +10983,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8010.53,
+        ["points"] = 8010.82,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8672.88,
+        ["points"] = 8673.18,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -11006,7 +11006,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 8842.63,
+        ["points"] = 8842.98,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -11030,11 +11030,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 13,
-        ["points"] = 8971.62,
+        ["points"] = 8971.77,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 6002.33,
+        ["points"] = 6003.26,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
@@ -11043,7 +11043,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Praxi"] = {
-    ["percentile"] = 81.78,
+    ["percentile"] = 81.79,
     ["server"] = "Icecrown",
     ["overall_rank"] = 238,
     ["bosses"] = {
@@ -11053,7 +11053,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 9412.46,
+        ["points"] = 9412.63,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -11073,15 +11073,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
-        ["points"] = 9378.03,
+        ["points"] = 9378.12,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 7633.12,
+        ["points"] = 7633.46,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 6381.84,
+        ["points"] = 6382.68,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -11100,7 +11100,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 8591.67,
+        ["points"] = 8592.09,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -11108,7 +11108,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 5,
-        ["points"] = 9598.5,
+        ["points"] = 9598.55,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -11124,11 +11124,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 8466.94,
+        ["points"] = 8467.16,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9569.27,
+        ["points"] = 9569.37,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -11155,7 +11155,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 5,
-        ["points"] = 9610.6,
+        ["points"] = 9610.65,
       },
       ["Rotface"] = {
         ["kill_count"] = 5,
@@ -11167,15 +11167,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 8703.09,
+        ["points"] = 8703.28,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 9843.48,
+        ["points"] = 9843.5,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 6861.47,
+        ["points"] = 6862.2,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -11190,11 +11190,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9357.26,
+        ["points"] = 9357.36,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 8157.66,
+        ["points"] = 8158.21,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -11202,7 +11202,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
-        ["points"] = 8993.51,
+        ["points"] = 8993.62,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -11214,11 +11214,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9210.05,
+        ["points"] = 9210.17,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9068.17,
+        ["points"] = 9068.3,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -11237,7 +11237,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
-        ["points"] = 9778.66,
+        ["points"] = 9778.69,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -11245,7 +11245,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 16,
-        ["points"] = 9632.6,
+        ["points"] = 9632.64,
       },
       ["Rotface"] = {
         ["kill_count"] = 6,
@@ -11257,15 +11257,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 9367.43,
+        ["points"] = 9367.53,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 9900.53,
+        ["points"] = 9900.54,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 9119.91,
+        ["points"] = 9120.11,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -11280,11 +11280,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 9080.59,
+        ["points"] = 9080.72,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 8461.77,
+        ["points"] = 8462.22,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -11308,11 +11308,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 6603.28,
+        ["points"] = 6603.77,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8358.56,
+        ["points"] = 8358.94,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -11331,7 +11331,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 8718.63,
+        ["points"] = 8719.01,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -11339,7 +11339,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
-        ["points"] = 9587.5,
+        ["points"] = 9587.55,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -11355,11 +11355,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7160.62,
+        ["points"] = 7161.04,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 7736.9,
+        ["points"] = 7737.43,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -11368,7 +11368,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Skaduche"] = {
-    ["percentile"] = 81.45,
+    ["percentile"] = 81.46,
     ["server"] = "Icecrown",
     ["overall_rank"] = 245,
     ["bosses"] = {
@@ -11378,7 +11378,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9323.89,
+        ["points"] = 9324.09,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -11398,15 +11398,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 9827.48,
+        ["points"] = 9827.51,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 9790.81,
+        ["points"] = 9790.84,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 9506.4,
+        ["points"] = 9506.52,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -11421,11 +11421,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 9239.5,
+        ["points"] = 9239.61,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 9214.64,
+        ["points"] = 9214.88,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -11433,7 +11433,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
-        ["points"] = 9528.1,
+        ["points"] = 9528.16,
       },
       ["Rotface"] = {
         ["kill_count"] = 4,
@@ -11445,15 +11445,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 8781.78,
+        ["points"] = 8781.96,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 8222.64,
+        ["points"] = 8222.9,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 6419.09,
+        ["points"] = 6419.93,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -11472,7 +11472,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 6014.17,
+        ["points"] = 6015.35,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -11480,7 +11480,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 15,
-        ["points"] = 9044.11,
+        ["points"] = 9044.21,
       },
       ["Rotface"] = {
         ["kill_count"] = 15,
@@ -11492,15 +11492,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
-        ["points"] = 8851.39,
+        ["points"] = 8851.57,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 15,
-        ["points"] = 9224.69,
+        ["points"] = 9224.81,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 7343.42,
+        ["points"] = 7344.04,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -11519,7 +11519,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 7177.44,
+        ["points"] = 7178.28,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -11527,7 +11527,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9609.5,
+        ["points"] = 9609.55,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -11543,11 +11543,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9713.28,
+        ["points"] = 9713.32,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 8728.75,
+        ["points"] = 8729.05,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -11566,7 +11566,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 6820.19,
+        ["points"] = 6821.13,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -11586,15 +11586,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8560.84,
+        ["points"] = 8561.05,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9741.08,
+        ["points"] = 9741.11,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 7268.92,
+        ["points"] = 7269.55,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -11609,7 +11609,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 12,
-        ["points"] = 9790.01,
+        ["points"] = 9790.04,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
@@ -11621,7 +11621,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 15,
-        ["points"] = 8741.61,
+        ["points"] = 8741.75,
       },
       ["Rotface"] = {
         ["kill_count"] = 15,
@@ -11637,11 +11637,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 14,
-        ["points"] = 9141.31,
+        ["points"] = 9141.44,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 8069.85,
+        ["points"] = 8070.3,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
@@ -11660,7 +11660,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 6262.18,
+        ["points"] = 6263.28,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -11680,11 +11680,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 9346.25,
+        ["points"] = 9346.35,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 9392.92,
+        ["points"] = 9393.01,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
@@ -11703,11 +11703,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 7,
-        ["points"] = 9154.37,
+        ["points"] = 9154.49,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 8789.49,
+        ["points"] = 8789.85,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -11727,15 +11727,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 8798.43,
+        ["points"] = 8798.61,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 6459.92,
+        ["points"] = 6460.44,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 6332.95,
+        ["points"] = 6333.8,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -11750,7 +11750,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 9734.68,
+        ["points"] = 9734.71,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
@@ -11778,11 +11778,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 6768.58,
+        ["points"] = 6769.05,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 7937.14,
+        ["points"] = 7937.62,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -11801,7 +11801,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 6315.32,
+        ["points"] = 6316.41,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -11809,7 +11809,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 16,
-        ["points"] = 8970.41,
+        ["points"] = 8970.52,
       },
       ["Rotface"] = {
         ["kill_count"] = 16,
@@ -11821,15 +11821,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
-        ["points"] = 8069.01,
+        ["points"] = 8069.3,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 15,
-        ["points"] = 8720.01,
+        ["points"] = 8720.2,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 8058.21,
+        ["points"] = 8058.66,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -11848,7 +11848,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 8402.72,
+        ["points"] = 8403.19,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -11868,15 +11868,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 8881.66,
+        ["points"] = 8881.83,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 9158.86,
+        ["points"] = 9158.99,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 6237.49,
+        ["points"] = 6238.36,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -11895,7 +11895,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 7339.83,
+        ["points"] = 7340.61,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -11903,7 +11903,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 9,
-        ["points"] = 9459.91,
+        ["points"] = 9459.96,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -11919,11 +11919,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9476.3,
+        ["points"] = 9476.38,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 9143.19,
+        ["points"] = 9143.39,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -11942,7 +11942,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 9288.46,
+        ["points"] = 9288.67,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -11966,11 +11966,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 7845.23,
+        ["points"] = 7845.55,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 9357.39,
+        ["points"] = 9357.54,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -11989,7 +11989,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 9173.31,
+        ["points"] = 9173.55,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -12013,11 +12013,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 6707.14,
+        ["points"] = 6707.62,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 9273.57,
+        ["points"] = 9273.74,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -12032,7 +12032,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9267.88,
+        ["points"] = 9267.98,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
@@ -12044,7 +12044,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
-        ["points"] = 8776.81,
+        ["points"] = 8776.95,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -12056,15 +12056,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8692.49,
+        ["points"] = 8692.69,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 7954.94,
+        ["points"] = 7955.24,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 7525.03,
+        ["points"] = 7525.61,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -12073,7 +12073,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Takemeagain"] = {
-    ["percentile"] = 80.59,
+    ["percentile"] = 80.6,
     ["server"] = "Icecrown",
     ["overall_rank"] = 260,
     ["bosses"] = {
@@ -12083,7 +12083,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 6938.29,
+        ["points"] = 6939.2,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -12103,15 +12103,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 8341.4,
+        ["points"] = 8341.66,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 9619.66,
+        ["points"] = 9619.72,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9566.94,
+        ["points"] = 9567.04,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -12120,13 +12120,13 @@ UWULogsData[0][2] = {
     },
   },
   ["Drljava"] = {
-    ["percentile"] = 80.55,
+    ["percentile"] = 80.56,
     ["server"] = "Icecrown",
     ["overall_rank"] = 261,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 9404.09,
+        ["points"] = 9404.17,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
@@ -12154,11 +12154,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 7756.0,
+        ["points"] = 7756.33,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9774.16,
+        ["points"] = 9774.21,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -12167,7 +12167,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Rakhz"] = {
-    ["percentile"] = 80.53,
+    ["percentile"] = 80.54,
     ["server"] = "Icecrown",
     ["overall_rank"] = 262,
     ["bosses"] = {
@@ -12177,7 +12177,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 5583.11,
+        ["points"] = 5584.42,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -12185,7 +12185,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9569.9,
+        ["points"] = 9569.95,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -12197,15 +12197,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 9167.68,
+        ["points"] = 9167.8,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 8086.6,
+        ["points"] = 8086.88,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 7788.13,
+        ["points"] = 7788.64,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -12220,11 +12220,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9178.49,
+        ["points"] = 9178.61,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8449.96,
+        ["points"] = 8450.41,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -12232,7 +12232,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9032.01,
+        ["points"] = 9032.12,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -12252,7 +12252,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 6807.92,
+        ["points"] = 6808.66,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -12271,7 +12271,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7390.02,
+        ["points"] = 7390.79,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -12279,7 +12279,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 5,
-        ["points"] = 9212.41,
+        ["points"] = 9212.49,
       },
       ["Rotface"] = {
         ["kill_count"] = 5,
@@ -12291,15 +12291,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 9157.08,
+        ["points"] = 9157.21,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 8200.7,
+        ["points"] = 8200.97,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 7457.51,
+        ["points"] = 7458.1,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -12318,7 +12318,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8311.19,
+        ["points"] = 8311.69,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -12342,11 +12342,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 8813.63,
+        ["points"] = 8813.81,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 6221.19,
+        ["points"] = 6222.07,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -12365,7 +12365,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 7522.88,
+        ["points"] = 7523.61,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -12373,7 +12373,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9158.51,
+        ["points"] = 9158.6,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -12385,15 +12385,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 8082.63,
+        ["points"] = 8082.92,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 8586.89,
+        ["points"] = 8587.1,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 6605.36,
+        ["points"] = 6606.15,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -12408,19 +12408,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 22,
-        ["points"] = 9649.55,
+        ["points"] = 9649.6,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 5721.88,
+        ["points"] = 5723.14,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 27,
-        ["points"] = 9770.33,
+        ["points"] = 9770.36,
       },
       ["Festergut"] = {
         ["kill_count"] = 28,
-        ["points"] = 9491.81,
+        ["points"] = 9491.86,
       },
       ["Rotface"] = {
         ["kill_count"] = 26,
@@ -12432,15 +12432,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 26,
-        ["points"] = 8951.27,
+        ["points"] = 8951.43,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 28,
-        ["points"] = 9662.08,
+        ["points"] = 9662.13,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 6924.33,
+        ["points"] = 6925.05,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -12467,7 +12467,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 8848.31,
+        ["points"] = 8848.44,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -12479,15 +12479,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9238.8,
+        ["points"] = 9238.92,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 6850.5,
+        ["points"] = 6850.96,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 8335.27,
+        ["points"] = 8335.66,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -12506,7 +12506,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 8234.43,
+        ["points"] = 8234.95,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -12514,7 +12514,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 10,
-        ["points"] = 9050.71,
+        ["points"] = 9050.81,
       },
       ["Rotface"] = {
         ["kill_count"] = 10,
@@ -12526,15 +12526,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
-        ["points"] = 9263.01,
+        ["points"] = 9263.13,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
-        ["points"] = 6844.65,
+        ["points"] = 6845.11,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 6256.11,
+        ["points"] = 6256.98,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
@@ -12543,17 +12543,17 @@ UWULogsData[0][2] = {
     },
   },
   ["Coldiedk"] = {
-    ["percentile"] = 80.09,
+    ["percentile"] = 80.1,
     ["server"] = "Icecrown",
     ["overall_rank"] = 270,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 22,
-        ["points"] = 9829.74,
+        ["points"] = 9829.76,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 6486.57,
+        ["points"] = 6487.6,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 22,
@@ -12573,11 +12573,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
-        ["points"] = 8986.08,
+        ["points"] = 8986.23,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 21,
-        ["points"] = 8232.88,
+        ["points"] = 8233.14,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 20,
@@ -12600,7 +12600,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 8925.3,
+        ["points"] = 8925.62,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -12620,15 +12620,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 8099.27,
+        ["points"] = 8099.56,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 7495.61,
+        ["points"] = 7495.98,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9254.95,
+        ["points"] = 9255.12,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -12643,11 +12643,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 11,
-        ["points"] = 9660.9,
+        ["points"] = 9660.94,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 5969.88,
+        ["points"] = 5971.07,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -12671,7 +12671,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 11,
-        ["points"] = 9859.57,
+        ["points"] = 9859.59,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
@@ -12694,7 +12694,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 9149.69,
+        ["points"] = 9149.94,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -12718,11 +12718,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 8187.54,
+        ["points"] = 8187.8,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 6412.11,
+        ["points"] = 6412.94,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -12741,7 +12741,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 7578.98,
+        ["points"] = 7579.69,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -12749,7 +12749,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
-        ["points"] = 8988.01,
+        ["points"] = 8988.12,
       },
       ["Rotface"] = {
         ["kill_count"] = 4,
@@ -12761,15 +12761,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 8391.34,
+        ["points"] = 8391.59,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 7480.98,
+        ["points"] = 7481.35,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 8821.89,
+        ["points"] = 8822.16,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -12778,17 +12778,17 @@ UWULogsData[0][2] = {
     },
   },
   ["Heavyhorn"] = {
-    ["percentile"] = 79.9,
+    ["percentile"] = 79.91,
     ["server"] = "Icecrown",
     ["overall_rank"] = 275,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 9213.96,
+        ["points"] = 9214.07,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 6241.51,
+        ["points"] = 6242.62,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -12808,15 +12808,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 8577.48,
+        ["points"] = 8577.7,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 9299.3,
+        ["points"] = 9299.4,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 8505.24,
+        ["points"] = 8505.59,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -12831,11 +12831,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 9496.31,
+        ["points"] = 9496.38,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 6970.77,
+        ["points"] = 6971.66,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -12855,11 +12855,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 9704.9,
+        ["points"] = 9704.95,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 8279.7,
+        ["points"] = 8279.95,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
@@ -12882,7 +12882,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 5984.65,
+        ["points"] = 5985.83,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -12906,11 +12906,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 9701.58,
+        ["points"] = 9701.62,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 8256.11,
+        ["points"] = 8256.52,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -12937,7 +12937,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 11,
-        ["points"] = 9276.21,
+        ["points"] = 9276.29,
       },
       ["Rotface"] = {
         ["kill_count"] = 11,
@@ -12949,15 +12949,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
-        ["points"] = 8642.55,
+        ["points"] = 8642.76,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 11,
-        ["points"] = 9019.89,
+        ["points"] = 9020.04,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 7045.4,
+        ["points"] = 7046.09,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
@@ -12972,11 +12972,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 9470.77,
+        ["points"] = 9470.85,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 5966.93,
+        ["points"] = 5968.12,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -12984,7 +12984,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 6,
-        ["points"] = 9363.11,
+        ["points"] = 9363.18,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -13000,11 +13000,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 9297.83,
+        ["points"] = 9297.94,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 6803.26,
+        ["points"] = 6804.0,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -13013,7 +13013,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Bomlax"] = {
-    ["percentile"] = 79.5,
+    ["percentile"] = 79.51,
     ["server"] = "Icecrown",
     ["overall_rank"] = 280,
     ["bosses"] = {
@@ -13031,7 +13031,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9134.31,
+        ["points"] = 9134.4,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -13047,11 +13047,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9751.32,
+        ["points"] = 9751.35,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 6887.08,
+        ["points"] = 6887.8,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -13070,7 +13070,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 9347.51,
+        ["points"] = 9347.7,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -13094,11 +13094,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 7741.37,
+        ["points"] = 7741.7,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 8665.89,
+        ["points"] = 8666.2,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -13117,7 +13117,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 7773.84,
+        ["points"] = 7774.5,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -13125,7 +13125,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 9,
-        ["points"] = 9193.71,
+        ["points"] = 9193.8,
       },
       ["Rotface"] = {
         ["kill_count"] = 8,
@@ -13137,7 +13137,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
-        ["points"] = 9325.06,
+        ["points"] = 9325.16,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
@@ -13145,7 +13145,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 8803.26,
+        ["points"] = 8803.54,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -13160,7 +13160,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9431.04,
+        ["points"] = 9431.12,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
@@ -13184,7 +13184,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8161.32,
+        ["points"] = 8161.6,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -13192,7 +13192,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8826.54,
+        ["points"] = 8826.82,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -13211,7 +13211,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 8163.57,
+        ["points"] = 8164.11,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -13235,11 +13235,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 8098.3,
+        ["points"] = 8098.58,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 5820.72,
+        ["points"] = 5821.69,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -13282,11 +13282,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 9470.45,
+        ["points"] = 9470.53,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 7171.13,
+        ["points"] = 7171.79,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -13305,7 +13305,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 6973.72,
+        ["points"] = 6974.62,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -13329,11 +13329,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9120.83,
+        ["points"] = 9120.96,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 8696.16,
+        ["points"] = 8696.46,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -13348,11 +13348,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 9216.8,
+        ["points"] = 9216.91,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6758.19,
+        ["points"] = 6759.15,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -13360,7 +13360,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 1,
-        ["points"] = 9203.61,
+        ["points"] = 9203.7,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -13376,11 +13376,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 8630.78,
+        ["points"] = 8630.98,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 9387.66,
+        ["points"] = 9387.8,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -13389,7 +13389,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Deathkna"] = {
-    ["percentile"] = 78.81,
+    ["percentile"] = 78.82,
     ["server"] = "Icecrown",
     ["overall_rank"] = 288,
     ["bosses"] = {
@@ -13399,7 +13399,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 9146.74,
+        ["points"] = 9146.99,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -13419,7 +13419,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 8753.03,
+        ["points"] = 8753.22,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -13427,7 +13427,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 8530.85,
+        ["points"] = 8531.19,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -13446,7 +13446,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 7071.15,
+        ["points"] = 7072.02,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -13454,7 +13454,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9104.61,
+        ["points"] = 9104.71,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -13466,11 +13466,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9576.27,
+        ["points"] = 9576.34,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 6923.64,
+        ["points"] = 6924.09,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -13483,13 +13483,13 @@ UWULogsData[0][2] = {
     },
   },
   ["Somcarovny"] = {
-    ["percentile"] = 78.71,
+    ["percentile"] = 78.72,
     ["server"] = "Icecrown",
     ["overall_rank"] = 290,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 10,
-        ["points"] = 9222.47,
+        ["points"] = 9222.58,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
@@ -13501,7 +13501,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 12,
-        ["points"] = 8816.41,
+        ["points"] = 8816.54,
       },
       ["Rotface"] = {
         ["kill_count"] = 11,
@@ -13517,11 +13517,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 10,
-        ["points"] = 8554.71,
+        ["points"] = 8554.92,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 8302.68,
+        ["points"] = 8303.07,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -13540,7 +13540,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 7363.45,
+        ["points"] = 7364.23,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -13564,11 +13564,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 7527.79,
+        ["points"] = 7528.16,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9366.71,
+        ["points"] = 9366.85,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -13607,15 +13607,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9275.12,
+        ["points"] = 9275.23,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 7184.03,
+        ["points"] = 7184.44,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8745.05,
+        ["points"] = 8745.34,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -13634,7 +13634,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 7328.02,
+        ["points"] = 7328.81,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -13642,7 +13642,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
-        ["points"] = 8990.21,
+        ["points"] = 8990.32,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -13654,15 +13654,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8730.33,
+        ["points"] = 8730.52,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9211.53,
+        ["points"] = 9211.64,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 7434.23,
+        ["points"] = 7434.82,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -13681,7 +13681,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 6755.24,
+        ["points"] = 6756.2,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -13701,15 +13701,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
-        ["points"] = 8444.31,
+        ["points"] = 8444.55,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 16,
-        ["points"] = 8519.6,
+        ["points"] = 8519.82,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 7885.91,
+        ["points"] = 7886.41,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
@@ -13728,7 +13728,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 9436.08,
+        ["points"] = 9436.25,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -13736,7 +13736,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9681.0,
+        ["points"] = 9681.04,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -13748,7 +13748,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8780.27,
+        ["points"] = 8780.45,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -13756,7 +13756,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 9580.91,
+        ["points"] = 9581.01,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -13775,7 +13775,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 9217.6,
+        ["points"] = 9217.83,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -13783,7 +13783,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
-        ["points"] = 9301.51,
+        ["points"] = 9301.58,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -13795,15 +13795,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8438.26,
+        ["points"] = 8438.49,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 7804.27,
+        ["points"] = 7804.59,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 7445.87,
+        ["points"] = 7446.46,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -13822,7 +13822,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 7974.61,
+        ["points"] = 7975.21,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -13846,11 +13846,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 7391.75,
+        ["points"] = 7392.13,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 7005.82,
+        ["points"] = 7006.52,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -13859,7 +13859,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Braxar"] = {
-    ["percentile"] = 78.39,
+    ["percentile"] = 78.4,
     ["server"] = "Icecrown",
     ["overall_rank"] = 298,
     ["bosses"] = {
@@ -13869,7 +13869,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6666.67,
+        ["points"] = 6667.65,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -13889,11 +13889,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 8948.24,
+        ["points"] = 8948.4,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 8521.06,
+        ["points"] = 8521.28,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -13924,7 +13924,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
-        ["points"] = 9080.41,
+        ["points"] = 9080.51,
       },
       ["Rotface"] = {
         ["kill_count"] = 4,
@@ -13936,15 +13936,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 8108.35,
+        ["points"] = 8108.64,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 8930.66,
+        ["points"] = 8930.82,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 9227.01,
+        ["points"] = 9227.19,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -13963,7 +13963,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 6536.76,
+        ["points"] = 6537.78,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -13983,15 +13983,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 8663.74,
+        ["points"] = 8663.94,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 7421.01,
+        ["points"] = 7421.38,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 7559.95,
+        ["points"] = 7560.52,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -14010,7 +14010,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 8748.15,
+        ["points"] = 8748.52,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -14018,7 +14018,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 5,
-        ["points"] = 9059.51,
+        ["points"] = 9059.61,
       },
       ["Rotface"] = {
         ["kill_count"] = 5,
@@ -14034,11 +14034,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 6971.91,
+        ["points"] = 6972.36,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 8996.51,
+        ["points"] = 8996.74,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -14061,7 +14061,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 10,
-        ["points"] = 9590.8,
+        ["points"] = 9590.85,
       },
       ["Rotface"] = {
         ["kill_count"] = 4,
@@ -14073,15 +14073,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 8426.15,
+        ["points"] = 8426.39,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 9274.43,
+        ["points"] = 9274.54,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9473.81,
+        ["points"] = 9473.93,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -14096,7 +14096,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9232.41,
+        ["points"] = 9232.52,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
@@ -14120,15 +14120,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9048.12,
+        ["points"] = 9048.27,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 7995.9,
+        ["points"] = 7996.2,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8158.32,
+        ["points"] = 8158.75,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -14147,7 +14147,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 5949.22,
+        ["points"] = 5950.41,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -14155,7 +14155,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9541.3,
+        ["points"] = 9541.36,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -14171,11 +14171,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 7963.72,
+        ["points"] = 7964.02,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 6398.14,
+        ["points"] = 6398.98,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -14194,7 +14194,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 8012.99,
+        ["points"] = 8013.58,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -14202,7 +14202,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
-        ["points"] = 9106.81,
+        ["points"] = 9106.91,
       },
       ["Rotface"] = {
         ["kill_count"] = 4,
@@ -14214,11 +14214,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 8963.38,
+        ["points"] = 8963.53,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 9303.69,
+        ["points"] = 9303.79,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -14231,7 +14231,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Zamiec"] = {
-    ["percentile"] = 78.04,
+    ["percentile"] = 78.05,
     ["server"] = "Icecrown",
     ["overall_rank"] = 306,
     ["bosses"] = {
@@ -14241,7 +14241,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 7434.31,
+        ["points"] = 7435.06,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -14261,15 +14261,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
-        ["points"] = 8326.27,
+        ["points"] = 8326.52,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 17,
-        ["points"] = 8529.84,
+        ["points"] = 8530.06,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 7951.11,
+        ["points"] = 7951.58,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -14278,7 +14278,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Craptastical"] = {
-    ["percentile"] = 77.93,
+    ["percentile"] = 77.94,
     ["server"] = "Icecrown",
     ["overall_rank"] = 307,
     ["bosses"] = {
@@ -14292,7 +14292,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 22,
-        ["points"] = 9552.3,
+        ["points"] = 9552.35,
       },
       ["Rotface"] = {
         ["kill_count"] = 19,
@@ -14304,15 +14304,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
-        ["points"] = 9151.03,
+        ["points"] = 9151.16,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 21,
-        ["points"] = 9584.55,
+        ["points"] = 9584.61,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 8903.38,
+        ["points"] = 8903.63,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -14331,7 +14331,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 6660.76,
+        ["points"] = 6661.75,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -14351,15 +14351,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 8029.66,
+        ["points"] = 8029.96,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 8579.58,
+        ["points"] = 8579.79,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 8905.7,
+        ["points"] = 8905.96,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -14378,7 +14378,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 7959.85,
+        ["points"] = 7960.45,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -14402,11 +14402,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8311.88,
+        ["points"] = 8312.13,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 5676.37,
+        ["points"] = 5677.37,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -14421,11 +14421,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9282.07,
+        ["points"] = 9282.17,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6321.23,
+        ["points"] = 6322.31,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -14433,7 +14433,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
-        ["points"] = 8770.21,
+        ["points"] = 8770.35,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -14449,7 +14449,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8592.74,
+        ["points"] = 8592.95,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -14472,7 +14472,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 6510.19,
+        ["points"] = 6511.22,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -14492,15 +14492,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 8430.69,
+        ["points"] = 8430.93,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 9426.57,
+        ["points"] = 9426.65,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 7089.64,
+        ["points"] = 7090.32,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -14509,7 +14509,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Linuch"] = {
-    ["percentile"] = 77.54,
+    ["percentile"] = 77.55,
     ["server"] = "Icecrown",
     ["overall_rank"] = 312,
     ["bosses"] = {
@@ -14519,7 +14519,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6421.61,
+        ["points"] = 6422.67,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -14543,7 +14543,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 9256.88,
+        ["points"] = 9256.98,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -14566,7 +14566,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 8423.38,
+        ["points"] = 8423.85,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -14586,15 +14586,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
-        ["points"] = 8226.39,
+        ["points"] = 8226.66,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 6658.86,
+        ["points"] = 6659.35,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 8544.82,
+        ["points"] = 8545.16,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
@@ -14613,7 +14613,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 7307.35,
+        ["points"] = 7308.15,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -14633,15 +14633,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 8569.92,
+        ["points"] = 8570.13,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 9075.48,
+        ["points"] = 9075.62,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 8204.89,
+        ["points"] = 8205.31,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
@@ -14660,7 +14660,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 6020.08,
+        ["points"] = 6021.25,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -14668,7 +14668,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 6,
-        ["points"] = 8766.91,
+        ["points"] = 8767.05,
       },
       ["Rotface"] = {
         ["kill_count"] = 6,
@@ -14684,11 +14684,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 8032.48,
+        ["points"] = 8032.76,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 8684.52,
+        ["points"] = 8684.82,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -14697,17 +14697,17 @@ UWULogsData[0][2] = {
     },
   },
   ["Lettro"] = {
-    ["percentile"] = 77.33,
+    ["percentile"] = 77.34,
     ["server"] = "Icecrown",
     ["overall_rank"] = 316,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 9089.1,
+        ["points"] = 9089.23,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5775.02,
+        ["points"] = 5776.27,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -14731,11 +14731,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 8743.42,
+        ["points"] = 8743.6,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 8321.3,
+        ["points"] = 8321.69,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -14754,7 +14754,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 8686.15,
+        ["points"] = 8686.54,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -14778,11 +14778,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7185.49,
+        ["points"] = 7185.9,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 9217.69,
+        ["points"] = 9217.88,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -14801,7 +14801,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 8638.91,
+        ["points"] = 8639.32,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -14809,7 +14809,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 1,
-        ["points"] = 8780.11,
+        ["points"] = 8780.25,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -14829,7 +14829,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 8833.53,
+        ["points"] = 8833.8,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -14848,7 +14848,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 7292.59,
+        ["points"] = 7293.39,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -14872,11 +14872,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 7830.6,
+        ["points"] = 7830.92,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8172.29,
+        ["points"] = 8172.72,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -14885,17 +14885,17 @@ UWULogsData[0][2] = {
     },
   },
   ["Maironxd"] = {
-    ["percentile"] = 77.26,
+    ["percentile"] = 77.27,
     ["server"] = "Icecrown",
     ["overall_rank"] = 320,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9218.22,
+        ["points"] = 9218.33,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6557.43,
+        ["points"] = 6558.44,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -14919,11 +14919,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 6897.31,
+        ["points"] = 6897.76,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6703.14,
+        ["points"] = 6703.91,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -14942,7 +14942,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 8913.49,
+        ["points"] = 8913.81,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -14962,11 +14962,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 8131.05,
+        ["points"] = 8131.34,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 9325.63,
+        ["points"] = 9325.73,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
@@ -14989,7 +14989,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 6055.51,
+        ["points"] = 6056.67,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -15013,11 +15013,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 8143.65,
+        ["points"] = 8143.92,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 7916.18,
+        ["points"] = 7916.67,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -15036,7 +15036,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 7505.17,
+        ["points"] = 7505.9,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -15060,11 +15060,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 6992.39,
+        ["points"] = 6992.83,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8444.7,
+        ["points"] = 8445.07,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -15083,7 +15083,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 8488.34,
+        ["points"] = 8488.78,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -15107,11 +15107,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 8145.11,
+        ["points"] = 8145.39,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 6593.71,
+        ["points"] = 6594.51,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -15120,7 +15120,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Darkestmind"] = {
-    ["percentile"] = 77.08,
+    ["percentile"] = 77.09,
     ["server"] = "Icecrown",
     ["overall_rank"] = 325,
     ["bosses"] = {
@@ -15130,7 +15130,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7431.36,
+        ["points"] = 7432.11,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -15158,7 +15158,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 8663.56,
+        ["points"] = 8663.87,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -15177,7 +15177,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 8187.19,
+        ["points"] = 8187.72,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -15197,11 +15197,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8235.47,
+        ["points"] = 8235.74,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 7617.03,
+        ["points"] = 7617.38,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -15224,7 +15224,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 6507.23,
+        ["points"] = 6508.26,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -15244,15 +15244,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 8067.49,
+        ["points"] = 8067.79,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 9651.84,
+        ["points"] = 9651.89,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 8062.86,
+        ["points"] = 8063.31,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -15271,7 +15271,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 8650.72,
+        ["points"] = 8651.12,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -15295,11 +15295,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 6947.05,
+        ["points"] = 6947.49,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6437.72,
+        ["points"] = 6438.55,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -15308,7 +15308,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Brusslee"] = {
-    ["percentile"] = 76.88,
+    ["percentile"] = 76.89,
     ["server"] = "Icecrown",
     ["overall_rank"] = 329,
     ["bosses"] = {
@@ -15318,7 +15318,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 6067.32,
+        ["points"] = 6068.48,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -15338,15 +15338,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
-        ["points"] = 8675.85,
+        ["points"] = 8676.05,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 10,
-        ["points"] = 9553.83,
+        ["points"] = 9553.9,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 7161.82,
+        ["points"] = 7162.48,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
@@ -15365,7 +15365,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 6746.38,
+        ["points"] = 6747.34,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -15389,11 +15389,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 12,
-        ["points"] = 9138.39,
+        ["points"] = 9138.51,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 7545.98,
+        ["points"] = 7546.55,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -15412,7 +15412,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 8314.14,
+        ["points"] = 8314.64,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -15420,7 +15420,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9657.9,
+        ["points"] = 9657.94,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -15436,11 +15436,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9648.92,
+        ["points"] = 9648.97,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 5944.12,
+        ["points"] = 5945.07,
       },
     },
   },
@@ -15455,7 +15455,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 6527.9,
+        ["points"] = 6528.93,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -15463,7 +15463,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 13,
-        ["points"] = 9024.31,
+        ["points"] = 9024.42,
       },
       ["Rotface"] = {
         ["kill_count"] = 6,
@@ -15479,7 +15479,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 9685.49,
+        ["points"] = 9685.53,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
@@ -15492,7 +15492,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Facchetti"] = {
-    ["percentile"] = 76.65,
+    ["percentile"] = 76.66,
     ["server"] = "Icecrown",
     ["overall_rank"] = 333,
     ["bosses"] = {
@@ -15510,7 +15510,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
-        ["points"] = 9448.91,
+        ["points"] = 9448.97,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -15522,15 +15522,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8102.3,
+        ["points"] = 8102.59,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9094.5,
+        ["points"] = 9094.63,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6125.73,
+        ["points"] = 6126.63,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -15549,7 +15549,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 7006.2,
+        ["points"] = 7007.08,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -15569,7 +15569,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8833.23,
+        ["points"] = 8833.41,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -15577,7 +15577,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9327.12,
+        ["points"] = 9327.28,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -15586,7 +15586,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Dudusgodx"] = {
-    ["percentile"] = 76.61,
+    ["percentile"] = 76.62,
     ["server"] = "Icecrown",
     ["overall_rank"] = 335,
     ["bosses"] = {
@@ -15596,7 +15596,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6170.65,
+        ["points"] = 6171.78,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -15604,7 +15604,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 16,
-        ["points"] = 9364.21,
+        ["points"] = 9364.28,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -15616,7 +15616,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8880.15,
+        ["points"] = 8880.31,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -15624,7 +15624,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 7983.7,
+        ["points"] = 7984.17,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -15643,7 +15643,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 6176.56,
+        ["points"] = 6177.69,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -15663,15 +15663,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8153.75,
+        ["points"] = 8154.03,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 6695.44,
+        ["points"] = 6695.92,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9420.26,
+        ["points"] = 9420.39,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -15680,7 +15680,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Maezona"] = {
-    ["percentile"] = 75.92,
+    ["percentile"] = 75.93,
     ["server"] = "Icecrown",
     ["overall_rank"] = 337,
     ["bosses"] = {
@@ -15690,7 +15690,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6468.85,
+        ["points"] = 6469.89,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -15710,15 +15710,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 8728.81,
+        ["points"] = 8729.01,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 7154.77,
+        ["points"] = 7155.19,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 7592.55,
+        ["points"] = 7593.11,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -15757,15 +15757,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8420.1,
+        ["points"] = 8420.34,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 9309.54,
+        ["points"] = 9309.64,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 7119.91,
+        ["points"] = 7120.58,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -15784,7 +15784,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5928.55,
+        ["points"] = 5929.75,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -15808,11 +15808,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 9779.11,
+        ["points"] = 9779.14,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 7147.85,
+        ["points"] = 7148.51,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -15821,13 +15821,13 @@ UWULogsData[0][2] = {
     },
   },
   ["Badb"] = {
-    ["percentile"] = 75.85,
+    ["percentile"] = 75.86,
     ["server"] = "Icecrown",
     ["overall_rank"] = 340,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 9870.89,
+        ["points"] = 9870.9,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -15847,7 +15847,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 8931.6,
+        ["points"] = 8931.76,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
@@ -15855,7 +15855,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8081.49,
+        ["points"] = 8081.94,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -15870,11 +15870,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9536.04,
+        ["points"] = 9536.1,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6654.86,
+        ["points"] = 6655.84,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -15894,15 +15894,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9244.85,
+        ["points"] = 9244.97,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 7753.07,
+        ["points"] = 7753.4,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 9338.77,
+        ["points"] = 9338.92,
       },
     },
   },
@@ -15913,7 +15913,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 8340.71,
+        ["points"] = 8341.2,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -15921,7 +15921,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 1,
-        ["points"] = 9371.91,
+        ["points"] = 9371.98,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -15933,7 +15933,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9349.27,
+        ["points"] = 9349.37,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -15941,7 +15941,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 9203.73,
+        ["points"] = 9203.91,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -15956,7 +15956,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 8,
-        ["points"] = 9133.09,
+        ["points"] = 9133.21,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
@@ -15968,7 +15968,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 9,
-        ["points"] = 8957.21,
+        ["points"] = 8957.33,
       },
       ["Rotface"] = {
         ["kill_count"] = 7,
@@ -15980,15 +15980,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 8828.69,
+        ["points"] = 8828.87,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 7377.12,
+        ["points"] = 7377.5,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 5566.94,
+        ["points"] = 5567.97,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -16031,11 +16031,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9729.37,
+        ["points"] = 9729.41,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9606.52,
+        ["points"] = 9606.61,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -16054,7 +16054,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 9193.98,
+        ["points"] = 9194.21,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -16074,11 +16074,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9426.45,
+        ["points"] = 9426.54,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9763.02,
+        ["points"] = 9763.05,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -16097,7 +16097,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 8857.4,
+        ["points"] = 8857.73,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -16117,7 +16117,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 8049.33,
+        ["points"] = 8049.63,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
@@ -16125,7 +16125,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 9287.54,
+        ["points"] = 9287.71,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -16144,7 +16144,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 7206.97,
+        ["points"] = 7207.79,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -16164,15 +16164,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 8064.47,
+        ["points"] = 8064.76,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 9593.33,
+        ["points"] = 9593.39,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 7664.73,
+        ["points"] = 7665.27,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -16191,7 +16191,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 6273.99,
+        ["points"] = 6275.09,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -16211,7 +16211,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 8474.58,
+        ["points"] = 8474.81,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
@@ -16219,7 +16219,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 8386.5,
+        ["points"] = 8386.87,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -16238,7 +16238,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 8145.85,
+        ["points"] = 8146.4,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -16262,11 +16262,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 9793.74,
+        ["points"] = 9793.77,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 5527.36,
+        ["points"] = 5528.4,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -16281,7 +16281,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 9951.76,
+        ["points"] = 9951.77,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -16289,7 +16289,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9624.9,
+        ["points"] = 9624.95,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -16297,15 +16297,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9571.73,
+        ["points"] = 9571.8,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9572.85,
+        ["points"] = 9572.91,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 8772.99,
+        ["points"] = 8773.28,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -16324,7 +16324,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 7888.99,
+        ["points"] = 7889.61,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -16348,11 +16348,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 9183.73,
+        ["points"] = 9183.85,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 7746.22,
+        ["points"] = 7746.74,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -16371,7 +16371,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 6637.14,
+        ["points"] = 6638.13,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -16395,16 +16395,16 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9881.51,
+        ["points"] = 9881.53,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8055.88,
+        ["points"] = 8056.33,
       },
     },
   },
   ["Kalyfrost"] = {
-    ["percentile"] = 75.27,
+    ["percentile"] = 75.28,
     ["server"] = "Icecrown",
     ["overall_rank"] = 353,
     ["bosses"] = {
@@ -16414,7 +16414,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 8993.21,
+        ["points"] = 8993.51,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -16438,11 +16438,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 6862.2,
+        ["points"] = 6862.66,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 8190.92,
+        ["points"] = 8191.34,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -16481,11 +16481,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
-        ["points"] = 9456.72,
+        ["points"] = 9456.8,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
-        ["points"] = 9738.15,
+        ["points"] = 9738.19,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -16516,7 +16516,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
-        ["points"] = 9173.91,
+        ["points"] = 9174.0,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -16528,11 +16528,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8276.33,
+        ["points"] = 8276.59,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 7615.56,
+        ["points"] = 7615.91,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
@@ -16555,7 +16555,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 7091.82,
+        ["points"] = 7092.68,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -16575,15 +16575,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 8335.35,
+        ["points"] = 8335.6,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 6402.87,
+        ["points"] = 6403.39,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 8980.21,
+        ["points"] = 8980.45,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -16610,7 +16610,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
-        ["points"] = 9904.3,
+        ["points"] = 9904.31,
       },
       ["Rotface"] = {
         ["kill_count"] = 4,
@@ -16622,15 +16622,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 8908.9,
+        ["points"] = 8909.06,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 9463.14,
+        ["points"] = 9463.21,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 5976.72,
+        ["points"] = 5977.65,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -16649,7 +16649,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 8349.57,
+        ["points"] = 8350.06,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -16669,11 +16669,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9237.29,
+        ["points"] = 9237.4,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7021.65,
+        ["points"] = 7022.09,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -16686,7 +16686,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Deathae"] = {
-    ["percentile"] = 74.95,
+    ["percentile"] = 74.96,
     ["server"] = "Icecrown",
     ["overall_rank"] = 359,
     ["bosses"] = {
@@ -16696,7 +16696,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 6566.28,
+        ["points"] = 6567.3,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -16720,11 +16720,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 9166.18,
+        ["points"] = 9166.3,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 7618.16,
+        ["points"] = 7618.72,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -16733,7 +16733,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Gravitysword"] = {
-    ["percentile"] = 74.73,
+    ["percentile"] = 74.74,
     ["server"] = "Icecrown",
     ["overall_rank"] = 360,
     ["bosses"] = {
@@ -16743,7 +16743,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7841.75,
+        ["points"] = 7842.38,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -16767,11 +16767,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7220.6,
+        ["points"] = 7221.0,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 5809.08,
+        ["points"] = 5810.06,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -16786,11 +16786,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 9303.35,
+        ["points"] = 9303.45,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 6964.87,
+        ["points"] = 6965.76,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -16814,11 +16814,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 9621.12,
+        ["points"] = 9621.18,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9788.13,
+        ["points"] = 9788.18,
       },
     },
   },
@@ -16829,7 +16829,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 19,
-        ["points"] = 8934.45,
+        ["points"] = 8934.6,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
@@ -16841,7 +16841,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 20,
-        ["points"] = 8872.51,
+        ["points"] = 8872.64,
       },
       ["Rotface"] = {
         ["kill_count"] = 19,
@@ -16853,11 +16853,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
-        ["points"] = 8398.91,
+        ["points"] = 8399.15,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 19,
-        ["points"] = 9208.6,
+        ["points"] = 9208.72,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -16870,7 +16870,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Iceiron"] = {
-    ["percentile"] = 74.55,
+    ["percentile"] = 74.56,
     ["server"] = "Icecrown",
     ["overall_rank"] = 363,
     ["bosses"] = {
@@ -16880,7 +16880,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 6418.66,
+        ["points"] = 6419.72,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -16904,7 +16904,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 8164.13,
+        ["points"] = 8164.4,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -16927,7 +16927,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8503.1,
+        ["points"] = 8503.54,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -16955,7 +16955,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 8733.41,
+        ["points"] = 8733.71,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -16982,7 +16982,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 8,
-        ["points"] = 9327.91,
+        ["points"] = 9327.98,
       },
       ["Rotface"] = {
         ["kill_count"] = 8,
@@ -16994,15 +16994,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 8984.56,
+        ["points"] = 8984.72,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 9607.96,
+        ["points"] = 9608.02,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 7511.06,
+        ["points"] = 7511.64,
       },
     },
   },
@@ -17017,7 +17017,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 8892.83,
+        ["points"] = 8893.15,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -17025,7 +17025,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 1,
-        ["points"] = 9588.6,
+        ["points"] = 9588.65,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -17037,11 +17037,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8138.62,
+        ["points"] = 8138.9,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 5778.81,
+        ["points"] = 5779.8,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -17060,7 +17060,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8370.24,
+        ["points"] = 8370.72,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -17068,7 +17068,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 7,
-        ["points"] = 9595.2,
+        ["points"] = 9595.25,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -17088,7 +17088,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 7168.8,
+        ["points"] = 7169.46,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -17107,7 +17107,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 6344.85,
+        ["points"] = 6345.93,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -17131,11 +17131,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 12,
-        ["points"] = 9628.44,
+        ["points"] = 9628.49,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 7194.41,
+        ["points"] = 7195.07,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -17144,7 +17144,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Nelmonteiro"] = {
-    ["percentile"] = 74.43,
+    ["percentile"] = 74.44,
     ["server"] = "Icecrown",
     ["overall_rank"] = 369,
     ["bosses"] = {
@@ -17154,7 +17154,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6439.33,
+        ["points"] = 6440.38,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -17162,7 +17162,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 8,
-        ["points"] = 8907.71,
+        ["points"] = 8907.83,
       },
       ["Rotface"] = {
         ["kill_count"] = 7,
@@ -17174,11 +17174,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 8597.15,
+        ["points"] = 8597.37,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 9749.85,
+        ["points"] = 9749.89,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -17201,7 +17201,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6737.53,
+        ["points"] = 6738.49,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -17225,11 +17225,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 9670.86,
+        ["points"] = 9670.91,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6384.17,
+        ["points"] = 6385.01,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -17248,7 +17248,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 6356.66,
+        ["points"] = 6357.73,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -17268,7 +17268,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8441.28,
+        ["points"] = 8441.52,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -17276,7 +17276,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8924.33,
+        ["points"] = 8924.58,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -17295,7 +17295,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 7803.37,
+        ["points"] = 7804.01,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -17315,7 +17315,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 9405.27,
+        ["points"] = 9405.36,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
@@ -17323,7 +17323,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 6176.95,
+        ["points"] = 6177.84,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -17350,7 +17350,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 8,
-        ["points"] = 8871.41,
+        ["points"] = 8871.54,
       },
       ["Rotface"] = {
         ["kill_count"] = 6,
@@ -17366,7 +17366,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 7163.55,
+        ["points"] = 7163.96,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
@@ -17379,7 +17379,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Hevan"] = {
-    ["percentile"] = 74.14,
+    ["percentile"] = 74.15,
     ["server"] = "Icecrown",
     ["overall_rank"] = 374,
     ["bosses"] = {
@@ -17389,7 +17389,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 7779.75,
+        ["points"] = 7780.4,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -17409,15 +17409,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
-        ["points"] = 8091.71,
+        ["points"] = 8092.0,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 10,
-        ["points"] = 8608.84,
+        ["points"] = 8609.04,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 7315.48,
+        ["points"] = 7316.11,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
@@ -17436,7 +17436,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 6427.52,
+        ["points"] = 6428.57,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -17460,11 +17460,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
-        ["points"] = 8178.76,
+        ["points"] = 8179.03,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 6735.74,
+        ["points"] = 6736.5,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -17503,11 +17503,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9460.21,
+        ["points"] = 9460.29,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9185.1,
+        ["points"] = 9185.29,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -17518,7 +17518,7 @@ UWULogsData[0][2] = {
   ["Sarthana"] = {
     ["percentile"] = 74.06,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 3062,
+    ["overall_rank"] = 3066,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 18,
@@ -17526,7 +17526,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 6447.05,
+        ["points"] = 6445.93,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -17542,19 +17542,19 @@ UWULogsData[0][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 20,
-        ["points"] = 6686.64,
+        ["points"] = 6684.79,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
-        ["points"] = 6584.66,
+        ["points"] = 6582.66,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 20,
-        ["points"] = 5305.1,
+        ["points"] = 5304.5,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 5296.45,
+        ["points"] = 5291.64,
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
@@ -17573,7 +17573,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5642.16,
+        ["points"] = 5643.45,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -17581,7 +17581,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 15,
-        ["points"] = 9248.71,
+        ["points"] = 9248.79,
       },
       ["Rotface"] = {
         ["kill_count"] = 12,
@@ -17593,15 +17593,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 8641.04,
+        ["points"] = 8641.25,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
-        ["points"] = 9730.84,
+        ["points"] = 9730.88,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 8107.1,
+        ["points"] = 8107.54,
       },
     },
   },
@@ -17616,7 +17616,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 7183.35,
+        ["points"] = 7184.18,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -17640,11 +17640,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
-        ["points"] = 7832.07,
+        ["points"] = 7832.38,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 5850.99,
+        ["points"] = 5851.96,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -17671,7 +17671,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 1,
-        ["points"] = 8864.81,
+        ["points"] = 8864.94,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -17691,7 +17691,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 7676.37,
+        ["points"] = 7676.91,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -17718,7 +17718,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9078.21,
+        ["points"] = 9078.31,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -17734,11 +17734,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 9809.83,
+        ["points"] = 9809.86,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 8686.85,
+        ["points"] = 8687.15,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -17757,7 +17757,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 6061.41,
+        ["points"] = 6062.57,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -17777,15 +17777,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
-        ["points"] = 8121.97,
+        ["points"] = 8122.26,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 10,
-        ["points"] = 9368.05,
+        ["points"] = 9368.14,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 7040.75,
+        ["points"] = 7041.43,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
@@ -17828,11 +17828,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9035.99,
+        ["points"] = 9036.13,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9445.87,
+        ["points"] = 9446.0,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -17851,7 +17851,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 8635.96,
+        ["points"] = 8636.36,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -17871,7 +17871,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9509.69,
+        ["points"] = 9509.76,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -17898,7 +17898,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5996.46,
+        ["points"] = 5997.64,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -17922,11 +17922,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 9447.05,
+        ["points"] = 9447.13,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 8738.07,
+        ["points"] = 8738.36,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -17935,7 +17935,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Darknesaa"] = {
-    ["percentile"] = 73.72,
+    ["percentile"] = 73.73,
     ["server"] = "Icecrown",
     ["overall_rank"] = 386,
     ["bosses"] = {
@@ -17969,11 +17969,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 7665.3,
+        ["points"] = 7665.64,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 7501.75,
+        ["points"] = 7502.33,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
@@ -17988,7 +17988,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 18,
-        ["points"] = 9292.0,
+        ["points"] = 9292.1,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
@@ -18012,15 +18012,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
-        ["points"] = 8763.62,
+        ["points"] = 8763.81,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 11,
-        ["points"] = 9653.31,
+        ["points"] = 9653.36,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 5664.73,
+        ["points"] = 5665.74,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -18039,7 +18039,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8576.91,
+        ["points"] = 8577.33,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -18063,11 +18063,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 8425.98,
+        ["points"] = 8426.21,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 6856.81,
+        ["points"] = 6857.54,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -18086,7 +18086,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 7133.16,
+        ["points"] = 7134.0,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -18114,7 +18114,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 6994.18,
+        ["points"] = 6994.88,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -18123,7 +18123,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Ripservice"] = {
-    ["percentile"] = 73.57,
+    ["percentile"] = 73.58,
     ["server"] = "Icecrown",
     ["overall_rank"] = 390,
     ["bosses"] = {
@@ -18133,7 +18133,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 8266.9,
+        ["points"] = 8267.41,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -18153,11 +18153,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 8365.62,
+        ["points"] = 8365.86,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 6909.01,
+        ["points"] = 6909.46,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
@@ -18188,7 +18188,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 5,
-        ["points"] = 8845.01,
+        ["points"] = 8845.14,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -18204,11 +18204,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 9081.33,
+        ["points"] = 9081.47,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 6868.45,
+        ["points"] = 6869.18,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -18227,7 +18227,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 7029.82,
+        ["points"] = 7030.7,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -18247,11 +18247,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
-        ["points"] = 8754.54,
+        ["points"] = 8754.73,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 12,
-        ["points"] = 6432.12,
+        ["points"] = 6432.65,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
@@ -18274,7 +18274,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7664.6,
+        ["points"] = 7665.29,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -18298,7 +18298,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9322.7,
+        ["points"] = 9322.8,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
@@ -18311,7 +18311,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Galgadoth"] = {
-    ["percentile"] = 73.36,
+    ["percentile"] = 73.37,
     ["server"] = "Icecrown",
     ["overall_rank"] = 394,
     ["bosses"] = {
@@ -18345,11 +18345,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9714.75,
+        ["points"] = 9714.79,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 6500.58,
+        ["points"] = 6501.4,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -18358,7 +18358,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Lulune"] = {
-    ["percentile"] = 73.27,
+    ["percentile"] = 73.28,
     ["server"] = "Icecrown",
     ["overall_rank"] = 395,
     ["bosses"] = {
@@ -18368,7 +18368,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 7041.63,
+        ["points"] = 7042.5,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -18392,11 +18392,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 7690.17,
+        ["points"] = 7690.51,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 5755.53,
+        ["points"] = 5756.52,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
@@ -18415,7 +18415,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 9034.54,
+        ["points"] = 9034.83,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -18439,7 +18439,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 7609.71,
+        ["points"] = 7610.06,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -18482,15 +18482,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 8471.55,
+        ["points"] = 8471.78,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 9523.11,
+        ["points"] = 9523.18,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9313.15,
+        ["points"] = 9313.31,
       },
     },
   },
@@ -18505,7 +18505,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6279.89,
+        ["points"] = 6280.99,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -18525,11 +18525,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8035.71,
+        ["points"] = 8036.01,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7453.19,
+        ["points"] = 7453.56,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -18552,7 +18552,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 7410.69,
+        ["points"] = 7411.45,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 18,
@@ -18560,7 +18560,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 22,
-        ["points"] = 8991.31,
+        ["points"] = 8991.42,
       },
       ["Rotface"] = {
         ["kill_count"] = 18,
@@ -18576,7 +18576,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 17,
-        ["points"] = 8009.07,
+        ["points"] = 8009.36,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
@@ -18599,7 +18599,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 6873.34,
+        ["points"] = 6874.26,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -18623,11 +18623,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 22,
-        ["points"] = 8962.84,
+        ["points"] = 8963.0,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 5606.52,
+        ["points"] = 5607.54,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -18646,7 +18646,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 7121.35,
+        ["points"] = 7122.2,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -18670,11 +18670,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 7406.38,
+        ["points"] = 7406.76,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 7692.67,
+        ["points"] = 7693.2,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -18717,11 +18717,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 8332.36,
+        ["points"] = 8332.6,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 7222.35,
+        ["points"] = 7223.0,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -18730,7 +18730,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Deathmasterr"] = {
-    ["percentile"] = 72.92,
+    ["percentile"] = 72.93,
     ["server"] = "Icecrown",
     ["overall_rank"] = 403,
     ["bosses"] = {
@@ -18740,7 +18740,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 8007.09,
+        ["points"] = 8007.67,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -18787,7 +18787,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7868.32,
+        ["points"] = 7868.95,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -18807,15 +18807,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8411.02,
+        ["points"] = 8411.26,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7096.26,
+        ["points"] = 7096.68,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6246.8,
+        ["points"] = 6247.67,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -18842,7 +18842,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
-        ["points"] = 9019.91,
+        ["points"] = 9020.02,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -18858,7 +18858,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8725.86,
+        ["points"] = 8726.05,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -18877,15 +18877,15 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 9443.81,
+        ["points"] = 9443.89,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
-        ["points"] = 9729.8,
+        ["points"] = 9729.84,
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9677.7,
+        ["points"] = 9677.74,
       },
       ["Rotface"] = {
         ["kill_count"] = 4,
@@ -18901,16 +18901,16 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 9844.94,
+        ["points"] = 9844.96,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 9469.15,
+        ["points"] = 9469.27,
       },
     },
   },
   ["Saltakosis"] = {
-    ["percentile"] = 72.74,
+    ["percentile"] = 72.75,
     ["server"] = "Icecrown",
     ["overall_rank"] = 407,
     ["bosses"] = {
@@ -18920,7 +18920,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 5813.4,
+        ["points"] = 5814.64,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -18940,15 +18940,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 8622.88,
+        ["points"] = 8623.09,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 6616.44,
+        ["points"] = 6616.94,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 6793.95,
+        ["points"] = 6794.69,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -18963,11 +18963,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 8950.06,
+        ["points"] = 8950.21,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 6852.67,
+        ["points"] = 6853.6,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -18975,7 +18975,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
-        ["points"] = 9269.61,
+        ["points"] = 9269.69,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -18991,11 +18991,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 8393.8,
+        ["points"] = 8394.03,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 6328.29,
+        ["points"] = 6329.14,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -19004,7 +19004,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Chodiciburgr"] = {
-    ["percentile"] = 72.72,
+    ["percentile"] = 72.73,
     ["server"] = "Icecrown",
     ["overall_rank"] = 409,
     ["bosses"] = {
@@ -19038,11 +19038,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
-        ["points"] = 6771.5,
+        ["points"] = 6771.98,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 8377.18,
+        ["points"] = 8377.56,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -19069,7 +19069,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
-        ["points"] = 9221.21,
+        ["points"] = 9221.29,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -19085,11 +19085,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9610.88,
+        ["points"] = 9610.94,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 6945.29,
+        ["points"] = 6946.0,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -19108,7 +19108,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 7085.92,
+        ["points"] = 7086.78,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -19128,15 +19128,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8463.98,
+        ["points"] = 8464.22,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9755.71,
+        ["points"] = 9755.74,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 8263.1,
+        ["points"] = 8263.5,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -19155,7 +19155,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 7965.75,
+        ["points"] = 7966.35,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -19175,15 +19175,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 8299.03,
+        ["points"] = 8299.29,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 8057.34,
+        ["points"] = 8057.63,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 7855.65,
+        ["points"] = 7856.15,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -19202,7 +19202,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6403.9,
+        ["points"] = 6404.96,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -19222,11 +19222,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 8633.47,
+        ["points"] = 8633.68,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9008.19,
+        ["points"] = 9008.34,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
@@ -19249,7 +19249,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 6802.48,
+        ["points"] = 6803.42,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -19257,7 +19257,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
-        ["points"] = 9111.21,
+        ["points"] = 9111.31,
       },
       ["Rotface"] = {
         ["kill_count"] = 4,
@@ -19273,7 +19273,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 7937.39,
+        ["points"] = 7937.69,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
@@ -19292,11 +19292,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 9192.68,
+        ["points"] = 9192.79,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7109.54,
+        ["points"] = 7110.39,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -19316,15 +19316,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 8709.14,
+        ["points"] = 8709.34,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 8423.05,
+        ["points"] = 8423.29,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 7466.82,
+        ["points"] = 7467.41,
       },
     },
   },
@@ -19339,7 +19339,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5961.03,
+        ["points"] = 5962.22,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -19367,7 +19367,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8922.0,
+        ["points"] = 8922.25,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -19376,7 +19376,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Drouzerk"] = {
-    ["percentile"] = 72.46,
+    ["percentile"] = 72.47,
     ["server"] = "Icecrown",
     ["overall_rank"] = 417,
     ["bosses"] = {
@@ -19386,7 +19386,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 5875.41,
+        ["points"] = 5876.62,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -19406,15 +19406,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 8143.16,
+        ["points"] = 8143.44,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 7738.44,
+        ["points"] = 7738.77,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 6942.96,
+        ["points"] = 6943.67,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -19433,7 +19433,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 5822.26,
+        ["points"] = 5823.49,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -19457,11 +19457,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9245.17,
+        ["points"] = 9245.28,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 5997.67,
+        ["points"] = 5998.6,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -19488,7 +19488,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 7,
-        ["points"] = 8869.21,
+        ["points"] = 8869.34,
       },
       ["Rotface"] = {
         ["kill_count"] = 7,
@@ -19500,11 +19500,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 8795.4,
+        ["points"] = 8795.58,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 8848.74,
+        ["points"] = 8848.91,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -19523,7 +19523,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9473.61,
+        ["points"] = 9473.68,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
@@ -19547,7 +19547,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9503.63,
+        ["points"] = 9503.71,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -19555,7 +19555,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 6719.44,
+        ["points"] = 6720.2,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -19574,7 +19574,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 9356.36,
+        ["points"] = 9356.55,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -19602,7 +19602,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 7455.18,
+        ["points"] = 7455.77,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -19621,7 +19621,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 5801.59,
+        ["points"] = 5802.83,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -19649,7 +19649,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8668.22,
+        ["points"] = 8668.53,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -19668,7 +19668,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 5645.11,
+        ["points"] = 5646.4,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -19688,15 +19688,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 9011.8,
+        ["points"] = 9011.95,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 4854.01,
+        ["points"] = 4849.45,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 8230.5,
+        ["points"] = 8230.91,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -19739,11 +19739,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 9732.3,
+        ["points"] = 9732.34,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 6889.41,
+        ["points"] = 6890.13,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -19762,7 +19762,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 7236.49,
+        ["points"] = 7237.31,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -19770,7 +19770,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
-        ["points"] = 9238.81,
+        ["points"] = 9238.89,
       },
       ["Rotface"] = {
         ["kill_count"] = 4,
@@ -19782,7 +19782,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 8084.14,
+        ["points"] = 8084.43,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -19790,7 +19790,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 7909.2,
+        ["points"] = 7909.68,
       },
     },
   },
@@ -19805,7 +19805,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 7534.69,
+        ["points"] = 7535.42,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -19825,15 +19825,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
-        ["points"] = 7175.14,
+        ["points"] = 7170.43,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
-        ["points"] = 6476.01,
+        ["points"] = 6476.52,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 5813.74,
+        ["points"] = 5814.71,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
@@ -19852,7 +19852,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 6025.98,
+        ["points"] = 6027.15,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -19872,11 +19872,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
-        ["points"] = 8473.06,
+        ["points"] = 8473.29,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 7966.65,
+        ["points"] = 7966.94,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
@@ -19915,15 +19915,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8088.68,
+        ["points"] = 8088.97,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 8610.3,
+        ["points"] = 8610.5,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 8139.7,
+        ["points"] = 8140.13,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -19958,15 +19958,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9058.72,
+        ["points"] = 9058.86,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8731.71,
+        ["points"] = 8731.9,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 8591.39,
+        ["points"] = 8591.71,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -19985,7 +19985,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7153.82,
+        ["points"] = 7154.66,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -20009,11 +20009,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9625.51,
+        ["points"] = 9625.57,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8598.37,
+        ["points"] = 8598.7,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -20028,11 +20028,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9868.05,
+        ["points"] = 9868.07,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 6778.86,
+        ["points"] = 6779.81,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -20056,16 +20056,16 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 6774.43,
+        ["points"] = 6774.9,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8561.12,
+        ["points"] = 8561.45,
       },
     },
   },
   ["Efli"] = {
-    ["percentile"] = 71.63,
+    ["percentile"] = 71.64,
     ["server"] = "Icecrown",
     ["overall_rank"] = 432,
     ["bosses"] = {
@@ -20099,7 +20099,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 10,
-        ["points"] = 9027.21,
+        ["points"] = 9027.35,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
@@ -20118,7 +20118,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
-        ["points"] = 9375.71,
+        ["points"] = 9375.8,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -20134,11 +20134,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 9542.98,
+        ["points"] = 9543.05,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 8320.66,
+        ["points"] = 8320.9,
       },
     },
   },
@@ -20173,15 +20173,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 9355.33,
+        ["points"] = 9355.42,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 6787.6,
+        ["points"] = 6788.06,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 6277.07,
+        ["points"] = 6277.93,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -20196,11 +20196,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 9646.71,
+        ["points"] = 9646.76,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6235.61,
+        ["points"] = 6236.72,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -20220,11 +20220,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 9102.6,
+        ["points"] = 9102.74,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 8139.26,
+        ["points"] = 8139.53,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -20233,7 +20233,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Swordsaintz"] = {
-    ["percentile"] = 71.51,
+    ["percentile"] = 71.52,
     ["server"] = "Icecrown",
     ["overall_rank"] = 436,
     ["bosses"] = {
@@ -20243,7 +20243,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5810.45,
+        ["points"] = 5811.69,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -20267,11 +20267,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7042.13,
+        ["points"] = 7042.56,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 8474.97,
+        ["points"] = 8475.33,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -20290,7 +20290,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6167.7,
+        ["points"] = 6168.83,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -20314,7 +20314,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 8956.99,
+        ["points"] = 8957.14,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -20345,7 +20345,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 8831.81,
+        ["points"] = 8831.94,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -20357,15 +20357,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9269.07,
+        ["points"] = 9269.18,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8107.08,
+        ["points"] = 8107.36,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 7897.56,
+        ["points"] = 7898.04,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -20380,7 +20380,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 7,
-        ["points"] = 9465.1,
+        ["points"] = 9465.17,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -20388,7 +20388,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 7,
-        ["points"] = 9631.5,
+        ["points"] = 9631.54,
       },
       ["Rotface"] = {
         ["kill_count"] = 7,
@@ -20400,15 +20400,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 8476.09,
+        ["points"] = 8476.32,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 9616.73,
+        ["points"] = 9616.79,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 6323.63,
+        ["points"] = 6324.49,
       },
     },
   },
@@ -20423,7 +20423,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7366.4,
+        ["points"] = 7367.18,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -20443,7 +20443,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8462.47,
+        ["points"] = 8462.7,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -20451,7 +20451,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 9210.71,
+        ["points"] = 9210.89,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -20470,7 +20470,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 6489.52,
+        ["points"] = 6490.55,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -20494,7 +20494,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 8003.22,
+        ["points"] = 8003.51,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -20541,7 +20541,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
-        ["points"] = 9340.26,
+        ["points"] = 9340.35,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
@@ -20554,7 +20554,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Planetary"] = {
-    ["percentile"] = 70.98,
+    ["percentile"] = 70.99,
     ["server"] = "Icecrown",
     ["overall_rank"] = 443,
     ["bosses"] = {
@@ -20564,7 +20564,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5987.6,
+        ["points"] = 5988.78,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -20588,11 +20588,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 9590.4,
+        ["points"] = 9590.46,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 7552.97,
+        ["points"] = 7553.54,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -20607,19 +20607,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9135.93,
+        ["points"] = 9136.05,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7251.25,
+        ["points"] = 7252.07,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
-        ["points"] = 9660.9,
+        ["points"] = 9660.95,
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
-        ["points"] = 9793.2,
+        ["points"] = 9793.22,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -20635,11 +20635,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8181.69,
+        ["points"] = 8181.95,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6698.49,
+        ["points"] = 6699.26,
       },
     },
   },
@@ -20654,7 +20654,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 7422.5,
+        ["points"] = 7423.26,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -20678,11 +20678,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 7004.1,
+        ["points"] = 7004.53,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 6072.18,
+        ["points"] = 6073.09,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -20725,7 +20725,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 8724.4,
+        ["points"] = 8724.59,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
@@ -20748,7 +20748,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 5896.07,
+        ["points"] = 5897.28,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -20772,7 +20772,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 8048.57,
+        ["points"] = 8048.85,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -20819,11 +20819,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 6427.74,
+        ["points"] = 6428.26,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 7497.09,
+        ["points"] = 7497.67,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -20832,7 +20832,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Ryw"] = {
-    ["percentile"] = 70.83,
+    ["percentile"] = 70.84,
     ["server"] = "Icecrown",
     ["overall_rank"] = 449,
     ["bosses"] = {
@@ -20842,7 +20842,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6581.05,
+        ["points"] = 6582.05,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -20909,15 +20909,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
-        ["points"] = 8371.67,
+        ["points"] = 8371.92,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 13,
-        ["points"] = 9347.57,
+        ["points"] = 9347.67,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 7776.48,
+        ["points"] = 7777.0,
       },
     },
   },
@@ -20932,7 +20932,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6867.43,
+        ["points"] = 6868.36,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -20960,7 +20960,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8162.98,
+        ["points"] = 8163.41,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -21007,7 +21007,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 8405.12,
+        ["points"] = 8405.49,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -21046,15 +21046,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8969.43,
+        ["points"] = 8969.59,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 9174.96,
+        ["points"] = 9175.08,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 5913.85,
+        ["points"] = 5914.8,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -21097,11 +21097,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9177.88,
+        ["points"] = 9178.0,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 6747.38,
+        ["points"] = 6748.14,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -21124,7 +21124,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 6,
-        ["points"] = 9414.81,
+        ["points"] = 9414.87,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -21140,11 +21140,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 9861.03,
+        ["points"] = 9861.05,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9701.98,
+        ["points"] = 9702.05,
       },
     },
   },
@@ -21183,11 +21183,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9511.41,
+        ["points"] = 9511.48,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 8242.14,
+        ["points"] = 8242.55,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -21230,7 +21230,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 22,
-        ["points"] = 9033.06,
+        ["points"] = 9033.2,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 21,
@@ -21253,7 +21253,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6646.0,
+        ["points"] = 6646.99,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -21277,11 +21277,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 6585.72,
+        ["points"] = 6586.22,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 7611.18,
+        ["points"] = 7611.73,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -21324,7 +21324,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 9071.09,
+        ["points"] = 9071.23,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
@@ -21337,7 +21337,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Ubiwankenobi"] = {
-    ["percentile"] = 70.19,
+    ["percentile"] = 70.2,
     ["server"] = "Icecrown",
     ["overall_rank"] = 460,
     ["bosses"] = {
@@ -21351,7 +21351,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 5,
-        ["points"] = 9005.61,
+        ["points"] = 9005.72,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -21363,15 +21363,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9175.24,
+        ["points"] = 9175.37,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7457.58,
+        ["points"] = 7457.95,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 6630.97,
+        ["points"] = 6631.75,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -21437,7 +21437,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6197.22,
+        ["points"] = 6198.35,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -21461,11 +21461,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7548.27,
+        ["points"] = 7548.63,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 5788.13,
+        ["points"] = 5789.11,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -21508,11 +21508,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 10,
-        ["points"] = 6872.44,
+        ["points"] = 6872.9,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 6761.35,
+        ["points"] = 6762.1,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
@@ -21527,7 +21527,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6905.82,
+        ["points"] = 6906.73,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -21535,7 +21535,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 1,
-        ["points"] = 9157.41,
+        ["points"] = 9157.5,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -21547,15 +21547,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9067.8,
+        ["points"] = 9067.94,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 6775.89,
+        ["points"] = 6776.36,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 8563.45,
+        ["points"] = 8563.78,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -21598,7 +21598,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 9464.6,
+        ["points"] = 9464.68,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -21641,15 +21641,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9034.5,
+        ["points"] = 9034.65,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 6417.5,
+        ["points"] = 6418.02,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6940.63,
+        ["points"] = 6941.34,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -21658,7 +21658,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Miclawan"] = {
-    ["percentile"] = 69.96,
+    ["percentile"] = 69.97,
     ["server"] = "Icecrown",
     ["overall_rank"] = 467,
     ["bosses"] = {
@@ -21668,7 +21668,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6223.8,
+        ["points"] = 6224.91,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -21692,11 +21692,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 7418.08,
+        ["points"] = 7418.46,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8374.85,
+        ["points"] = 8375.23,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -21705,7 +21705,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Urabrask"] = {
-    ["percentile"] = 69.9,
+    ["percentile"] = 69.91,
     ["server"] = "Icecrown",
     ["overall_rank"] = 468,
     ["bosses"] = {
@@ -21715,7 +21715,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 5624.45,
+        ["points"] = 5625.74,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -21743,7 +21743,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 7320.14,
+        ["points"] = 7320.76,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -21786,7 +21786,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 9088.65,
+        ["points"] = 9088.78,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
@@ -21833,11 +21833,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8450.85,
+        ["points"] = 8451.08,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6086.15,
+        ["points"] = 6087.06,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -21876,11 +21876,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8719.73,
+        ["points"] = 8719.93,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 6995.32,
+        ["points"] = 6995.76,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -21903,7 +21903,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6448.18,
+        ["points"] = 6449.23,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -21927,11 +21927,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 7514.63,
+        ["points"] = 7514.99,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8847.5,
+        ["points"] = 8847.77,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -21950,7 +21950,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 6126.37,
+        ["points"] = 6127.51,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -21974,11 +21974,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 6620.83,
+        ["points"] = 6621.33,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 6817.23,
+        ["points"] = 6817.97,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -21987,7 +21987,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Whiskeyblues"] = {
-    ["percentile"] = 69.51,
+    ["percentile"] = 69.52,
     ["server"] = "Icecrown",
     ["overall_rank"] = 474,
     ["bosses"] = {
@@ -22005,7 +22005,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
-        ["points"] = 9110.11,
+        ["points"] = 9110.21,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -22021,11 +22021,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 7709.19,
+        ["points"] = 7709.52,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8211.87,
+        ["points"] = 8212.29,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -22044,7 +22044,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
-        ["points"] = 9521.5,
+        ["points"] = 9521.56,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -22060,11 +22060,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8412.81,
+        ["points"] = 8413.05,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 7876.6,
+        ["points"] = 7877.09,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -22083,7 +22083,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6291.7,
+        ["points"] = 6292.8,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -22111,7 +22111,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8768.34,
+        ["points"] = 8768.62,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -22150,15 +22150,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9273.61,
+        ["points"] = 9273.72,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7552.66,
+        ["points"] = 7553.02,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 7913.85,
+        ["points"] = 7914.34,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -22177,7 +22177,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 7638.03,
+        ["points"] = 7638.72,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -22201,7 +22201,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 8513.75,
+        ["points"] = 8513.97,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
@@ -22224,7 +22224,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8293.48,
+        ["points"] = 8293.98,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -22248,11 +22248,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 6522.82,
+        ["points"] = 6523.33,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 6204.89,
+        ["points"] = 6205.77,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -22271,7 +22271,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 7257.16,
+        ["points"] = 7257.97,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -22299,7 +22299,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 6980.21,
+        ["points"] = 6980.91,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -22308,7 +22308,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Enjzo"] = {
-    ["percentile"] = 69.3,
+    ["percentile"] = 69.31,
     ["server"] = "Icecrown",
     ["overall_rank"] = 481,
     ["bosses"] = {
@@ -22322,7 +22322,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 5,
-        ["points"] = 9085.91,
+        ["points"] = 9086.01,
       },
       ["Rotface"] = {
         ["kill_count"] = 5,
@@ -22338,11 +22338,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 8111.47,
+        ["points"] = 8111.74,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6481.96,
+        ["points"] = 6482.77,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -22350,10 +22350,53 @@ UWULogsData[0][2] = {
       },
     },
   },
-  ["Btchplzz"] = {
+  ["Tutyfruti"] = {
     ["percentile"] = 69.3,
     ["server"] = "Icecrown",
     ["overall_rank"] = 482,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 1,
+        ["points"] = 8693.25,
+      },
+      ["Lady Deathwhisper"] = {
+        ["kill_count"] = 1,
+        ["points"] = 7018.89,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 1,
+        ["points"] = 8035.41,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 1,
+        ["points"] = 8609.67,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 1,
+        ["points"] = 9209.74,
+      },
+      ["Professor Putricide"] = {
+        ["kill_count"] = 1,
+        ["points"] = 7600.62,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 1,
+        ["points"] = 2435.99,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 1,
+        ["points"] = 9069.77,
+      },
+      ["Sindragosa"] = {
+        ["kill_count"] = 1,
+        ["points"] = 8614.99,
+      },
+    },
+  },
+  ["Btchplzz"] = {
+    ["percentile"] = 69.3,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 483,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 7,
@@ -22385,7 +22428,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 7257.17,
+        ["points"] = 7257.57,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
@@ -22397,51 +22440,8 @@ UWULogsData[0][2] = {
       },
     },
   },
-  ["Tutyfruti"] = {
-    ["percentile"] = 69.3,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 483,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 1,
-        ["points"] = 8693.25,
-      },
-      ["Lady Deathwhisper"] = {
-        ["kill_count"] = 1,
-        ["points"] = 7018.01,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 1,
-        ["points"] = 8035.41,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 1,
-        ["points"] = 8609.67,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 1,
-        ["points"] = 9209.74,
-      },
-      ["Professor Putricide"] = {
-        ["kill_count"] = 1,
-        ["points"] = 7600.62,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 1,
-        ["points"] = 2435.99,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 1,
-        ["points"] = 9069.63,
-      },
-      ["Sindragosa"] = {
-        ["kill_count"] = 1,
-        ["points"] = 8614.67,
-      },
-    },
-  },
   ["Deathjinzx"] = {
-    ["percentile"] = 69.29,
+    ["percentile"] = 69.3,
     ["server"] = "Icecrown",
     ["overall_rank"] = 484,
     ["bosses"] = {
@@ -22451,7 +22451,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6209.03,
+        ["points"] = 6210.15,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -22475,7 +22475,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 6481.86,
+        ["points"] = 6482.38,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -22522,7 +22522,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 9142.77,
+        ["points"] = 9142.9,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
@@ -22545,7 +22545,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 6991.44,
+        ["points"] = 6992.33,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -22573,7 +22573,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 6521.54,
+        ["points"] = 6522.35,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -22592,7 +22592,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6861.53,
+        ["points"] = 6862.46,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -22616,11 +22616,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 7482.45,
+        ["points"] = 7482.81,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 6656.58,
+        ["points"] = 6657.36,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -22639,7 +22639,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8172.42,
+        ["points"] = 8172.96,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -22663,7 +22663,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 8850.2,
+        ["points"] = 8850.37,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -22710,11 +22710,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9398.77,
+        ["points"] = 9398.86,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6931.32,
+        ["points"] = 6932.03,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -22723,7 +22723,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Greenciaga"] = {
-    ["percentile"] = 69.07,
+    ["percentile"] = 69.08,
     ["server"] = "Icecrown",
     ["overall_rank"] = 490,
     ["bosses"] = {
@@ -22757,7 +22757,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 6926.57,
+        ["points"] = 6927.01,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -22770,7 +22770,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Nisekaizer"] = {
-    ["percentile"] = 68.98,
+    ["percentile"] = 68.99,
     ["server"] = "Icecrown",
     ["overall_rank"] = 491,
     ["bosses"] = {
@@ -22780,7 +22780,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 7003.25,
+        ["points"] = 7004.13,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -22808,7 +22808,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 5750.87,
+        ["points"] = 5751.86,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -22817,7 +22817,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Fedoros"] = {
-    ["percentile"] = 68.88,
+    ["percentile"] = 68.89,
     ["server"] = "Icecrown",
     ["overall_rank"] = 492,
     ["bosses"] = {
@@ -22827,7 +22827,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 9093.59,
+        ["points"] = 9093.86,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -22855,7 +22855,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6037.25,
+        ["points"] = 6038.18,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -22874,7 +22874,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5881.31,
+        ["points"] = 5882.53,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -22882,7 +22882,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 13,
-        ["points"] = 8758.11,
+        ["points"] = 8758.25,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -22894,11 +22894,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8479.12,
+        ["points"] = 8479.35,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 8285.55,
+        ["points"] = 8285.8,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
@@ -22911,13 +22911,13 @@ UWULogsData[0][2] = {
     },
   },
   ["Frostcilla"] = {
-    ["percentile"] = 68.79,
+    ["percentile"] = 68.8,
     ["server"] = "Icecrown",
     ["overall_rank"] = 494,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 8,
-        ["points"] = 8967.08,
+        ["points"] = 8967.23,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
@@ -22945,7 +22945,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 8336.75,
+        ["points"] = 8336.99,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
@@ -22992,7 +22992,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9425.1,
+        ["points"] = 9425.19,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -23015,7 +23015,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 6917.63,
+        ["points"] = 6918.54,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -23062,7 +23062,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 6288.75,
+        ["points"] = 6289.85,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -23086,11 +23086,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 6739.32,
+        ["points"] = 6739.8,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 7084.98,
+        ["points"] = 7085.66,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -23133,11 +23133,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7065.54,
+        ["points"] = 7065.96,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 7441.21,
+        ["points"] = 7441.81,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -23156,7 +23156,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5751.4,
+        ["points"] = 5752.66,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -23180,11 +23180,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9643.07,
+        ["points"] = 9643.12,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 5823.05,
+        ["points"] = 5824.02,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -23223,7 +23223,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9216.1,
+        ["points"] = 9216.22,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -23231,7 +23231,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 5890.57,
+        ["points"] = 5891.53,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -23250,7 +23250,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 6090.94,
+        ["points"] = 6092.09,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -23270,11 +23270,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 7170.43,
+        ["points"] = 7165.73,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 9024.28,
+        ["points"] = 9024.43,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
@@ -23297,7 +23297,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 7416.59,
+        ["points"] = 7417.36,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -23321,11 +23321,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 13,
-        ["points"] = 8892.63,
+        ["points"] = 8892.79,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 7532.01,
+        ["points"] = 7532.59,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
@@ -23340,7 +23340,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6400.94,
+        ["points"] = 6402.01,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -23348,7 +23348,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 1,
-        ["points"] = 8955.01,
+        ["points"] = 8955.13,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -23360,15 +23360,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 8957.32,
+        ["points"] = 8957.48,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 9549.44,
+        ["points"] = 9549.51,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 5525.03,
+        ["points"] = 5526.07,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -23377,7 +23377,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Gargoyl"] = {
-    ["percentile"] = 67.92,
+    ["percentile"] = 67.93,
     ["server"] = "Icecrown",
     ["overall_rank"] = 504,
     ["bosses"] = {
@@ -23387,7 +23387,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5568.35,
+        ["points"] = 5569.66,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -23415,7 +23415,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 5641.44,
+        ["points"] = 5642.46,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -23458,11 +23458,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 7972.5,
+        ["points"] = 7972.8,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 7778.81,
+        ["points"] = 7779.33,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -23471,7 +23471,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Bronholm"] = {
-    ["percentile"] = 67.72,
+    ["percentile"] = 67.73,
     ["server"] = "Icecrown",
     ["overall_rank"] = 506,
     ["bosses"] = {
@@ -23481,7 +23481,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 6123.41,
+        ["points"] = 6124.56,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -23505,11 +23505,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 7276.18,
+        ["points"] = 7276.58,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 6181.61,
+        ["points"] = 6182.5,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -23565,7 +23565,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Frozentouch"] = {
-    ["percentile"] = 67.59,
+    ["percentile"] = 67.6,
     ["server"] = "Icecrown",
     ["overall_rank"] = 508,
     ["bosses"] = {
@@ -23599,11 +23599,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 9095.96,
+        ["points"] = 9096.09,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 5657.74,
+        ["points"] = 5658.75,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -23622,7 +23622,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5742.55,
+        ["points"] = 5743.8,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -23646,7 +23646,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 6740.78,
+        ["points"] = 6741.26,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -23689,7 +23689,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8662.23,
+        ["points"] = 8662.43,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -23716,7 +23716,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7097.73,
+        ["points"] = 7098.58,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -23740,11 +23740,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 6418.96,
+        ["points"] = 6419.48,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 5674.04,
+        ["points"] = 5675.05,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -23763,7 +23763,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 6179.51,
+        ["points"] = 6180.64,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -23787,11 +23787,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 6628.15,
+        ["points"] = 6628.64,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 7862.63,
+        ["points"] = 7863.13,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -23810,7 +23810,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 7242.4,
+        ["points"] = 7243.21,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -23857,7 +23857,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 6282.85,
+        ["points"] = 6283.94,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -23928,7 +23928,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 9378.29,
+        ["points"] = 9378.38,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -23971,7 +23971,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 8386.8,
+        ["points"] = 8387.05,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -23979,7 +23979,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 8717.11,
+        ["points"] = 8717.41,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -23998,7 +23998,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 5857.69,
+        ["points"] = 5858.91,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -24018,11 +24018,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 8407.99,
+        ["points"] = 8408.23,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 9501.17,
+        ["points"] = 9501.24,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -24041,7 +24041,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7738.41,
+        ["points"] = 7739.08,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -24112,7 +24112,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 7378.58,
+        ["points"] = 7378.97,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -24159,11 +24159,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 8604.45,
+        ["points"] = 8604.65,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 5599.53,
+        ["points"] = 5600.56,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -24190,7 +24190,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 1,
-        ["points"] = 9378.51,
+        ["points"] = 9378.57,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -24202,7 +24202,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9418.89,
+        ["points"] = 9418.97,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -24225,11 +24225,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 8,
-        ["points"] = 9639.61,
+        ["points"] = 9639.67,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 7995.28,
+        ["points"] = 7995.87,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -24237,7 +24237,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 11,
-        ["points"] = 9720.6,
+        ["points"] = 9720.63,
       },
       ["Rotface"] = {
         ["kill_count"] = 11,
@@ -24253,12 +24253,12 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
-        ["points"] = 8464.01,
+        ["points"] = 8464.24,
       },
     },
   },
   ["Sollares"] = {
-    ["percentile"] = 66.84,
+    ["percentile"] = 66.85,
     ["server"] = "Icecrown",
     ["overall_rank"] = 523,
     ["bosses"] = {
@@ -24268,7 +24268,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 6046.65,
+        ["points"] = 6047.82,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -24296,7 +24296,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 6901.05,
+        ["points"] = 6901.77,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -24343,7 +24343,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 21,
-        ["points"] = 7138.53,
+        ["points"] = 7139.2,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
@@ -24352,7 +24352,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Ivete"] = {
-    ["percentile"] = 66.75,
+    ["percentile"] = 66.76,
     ["server"] = "Icecrown",
     ["overall_rank"] = 525,
     ["bosses"] = {
@@ -24362,7 +24362,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6076.17,
+        ["points"] = 6077.33,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -24386,7 +24386,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 6516.97,
+        ["points"] = 6517.48,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -24429,11 +24429,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 8636.5,
+        ["points"] = 8636.71,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 8440.61,
+        ["points"] = 8440.84,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -24511,7 +24511,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 9354.31,
+        ["points"] = 9354.38,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -24527,7 +24527,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9018.43,
+        ["points"] = 9018.58,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -24578,7 +24578,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 7403.96,
+        ["points"] = 7404.56,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -24597,7 +24597,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 5958.07,
+        ["points"] = 5959.27,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -24621,7 +24621,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 7277.65,
+        ["points"] = 7278.05,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
@@ -24668,7 +24668,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 9189.58,
+        ["points"] = 9189.7,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -24691,7 +24691,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 6495.42,
+        ["points"] = 6496.46,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -24766,7 +24766,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 8912.69,
+        ["points"] = 8912.94,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
@@ -24781,11 +24781,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 9391.32,
+        ["points"] = 9391.4,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 6002.36,
+        ["points"] = 6003.54,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -24809,11 +24809,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 8012.0,
+        ["points"] = 8012.29,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 5725.26,
+        ["points"] = 5726.26,
       },
     },
   },
@@ -24852,7 +24852,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 6449.68,
+        ["points"] = 6450.2,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
@@ -24865,7 +24865,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Neuroticna"] = {
-    ["percentile"] = 66.15,
+    ["percentile"] = 66.16,
     ["server"] = "Icecrown",
     ["overall_rank"] = 536,
     ["bosses"] = {
@@ -24875,7 +24875,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 6037.79,
+        ["points"] = 6038.96,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -24903,7 +24903,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 6123.4,
+        ["points"] = 6124.3,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -24912,7 +24912,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Benis"] = {
-    ["percentile"] = 66.15,
+    ["percentile"] = 66.16,
     ["server"] = "Icecrown",
     ["overall_rank"] = 537,
     ["bosses"] = {
@@ -24942,11 +24942,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7195.73,
+        ["points"] = 7196.14,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9131.55,
+        ["points"] = 9131.75,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -24955,7 +24955,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Tvrd"] = {
-    ["percentile"] = 66.02,
+    ["percentile"] = 66.03,
     ["server"] = "Icecrown",
     ["overall_rank"] = 538,
     ["bosses"] = {
@@ -24993,7 +24993,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 8044.24,
+        ["points"] = 8044.69,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -25012,7 +25012,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 5952.17,
+        ["points"] = 5953.36,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -25036,7 +25036,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
-        ["points"] = 9005.27,
+        ["points"] = 9005.41,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
@@ -25083,11 +25083,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 7742.83,
+        ["points"] = 7743.16,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 6407.45,
+        ["points"] = 6408.29,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -25106,7 +25106,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 5695.31,
+        ["points"] = 5696.58,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -25130,7 +25130,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 6569.63,
+        ["points"] = 6570.13,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -25153,7 +25153,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 6681.43,
+        ["points"] = 6682.41,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -25224,11 +25224,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 8493.27,
+        ["points"] = 8493.49,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 6370.2,
+        ["points"] = 6371.04,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -25247,7 +25247,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6152.94,
+        ["points"] = 6154.07,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -25275,7 +25275,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6358.56,
+        ["points"] = 6359.4,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -25302,7 +25302,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
-        ["points"] = 9938.4,
+        ["points"] = 9938.41,
       },
       ["Rotface"] = {
         ["kill_count"] = 3,
@@ -25322,7 +25322,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9899.88,
+        ["points"] = 9899.91,
       },
     },
   },
@@ -25361,7 +25361,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9428.03,
+        ["points"] = 9428.11,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -25384,7 +25384,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6625.33,
+        ["points"] = 6626.33,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -25408,11 +25408,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9575.78,
+        ["points"] = 9575.84,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 5692.67,
+        ["points"] = 5693.67,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -25431,7 +25431,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5819.31,
+        ["points"] = 5820.54,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -25455,11 +25455,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 4758.21,
+        ["points"] = 4753.65,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6435.39,
+        ["points"] = 6436.22,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -25502,7 +25502,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 4803.83,
+        ["points"] = 4799.27,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -25549,7 +25549,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 6562.32,
+        ["points"] = 6562.82,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -25596,7 +25596,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 7965.18,
+        ["points"] = 7965.48,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
@@ -25619,7 +25619,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 5689.4,
+        ["points"] = 5690.67,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -25643,11 +25643,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9050.61,
+        ["points"] = 9050.75,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 6933.64,
+        ["points"] = 6934.36,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -25690,7 +25690,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 16,
-        ["points"] = 8611.76,
+        ["points"] = 8611.96,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
@@ -25784,7 +25784,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7668.23,
+        ["points"] = 7668.57,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -25807,7 +25807,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5772.07,
+        ["points"] = 5773.32,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -25831,11 +25831,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 9634.29,
+        ["points"] = 9634.34,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6968.57,
+        ["points"] = 6969.27,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -25854,7 +25854,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 7139.06,
+        ["points"] = 7139.91,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -25874,7 +25874,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8311.99,
+        ["points"] = 8312.38,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -25893,7 +25893,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 6238.56,
+        ["points"] = 6239.67,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -25917,7 +25917,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 6755.41,
+        ["points"] = 6755.89,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
@@ -25964,7 +25964,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 7393.21,
+        ["points"] = 7393.59,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -25983,7 +25983,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6947.15,
+        ["points"] = 6948.05,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -26003,15 +26003,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8078.09,
+        ["points"] = 8078.38,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7870.1,
+        ["points"] = 7870.41,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 5576.25,
+        ["points"] = 5577.28,
       },
     },
   },
@@ -26022,7 +26022,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 10,
-        ["points"] = 9426.79,
+        ["points"] = 9426.87,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -26030,7 +26030,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 10,
-        ["points"] = 8958.31,
+        ["points"] = 8958.42,
       },
       ["Rotface"] = {
         ["kill_count"] = 11,
@@ -26042,11 +26042,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 7179.85,
+        ["points"] = 7175.14,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 11,
-        ["points"] = 9675.25,
+        ["points"] = 9675.3,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -26065,7 +26065,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7649.84,
+        ["points"] = 7650.53,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -26136,7 +26136,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 6733.47,
+        ["points"] = 6733.95,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
@@ -26179,11 +26179,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 6803.69,
+        ["points"] = 6804.15,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 8090.8,
+        ["points"] = 8091.25,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -26230,7 +26230,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6263.1,
+        ["points"] = 6263.97,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -26239,7 +26239,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Frosteanu"] = {
-    ["percentile"] = 64.46,
+    ["percentile"] = 64.47,
     ["server"] = "Icecrown",
     ["overall_rank"] = 566,
     ["bosses"] = {
@@ -26249,7 +26249,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 6628.28,
+        ["points"] = 6629.28,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -26277,7 +26277,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 6991.85,
+        ["points"] = 6992.55,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -26316,11 +26316,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8980.02,
+        ["points"] = 8980.18,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 6655.94,
+        ["points"] = 6656.43,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -26390,7 +26390,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7074.11,
+        ["points"] = 7074.97,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -26414,7 +26414,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 9499.71,
+        ["points"] = 9499.78,
       },
     },
   },
@@ -26453,7 +26453,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 15,
-        ["points"] = 7067.0,
+        ["points"] = 7067.43,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
@@ -26472,11 +26472,11 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9489.22,
+        ["points"] = 9489.29,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 8494.24,
+        ["points"] = 8494.69,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -26496,7 +26496,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9765.94,
+        ["points"] = 9765.98,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -26543,7 +26543,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 6041.91,
+        ["points"] = 6042.83,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -26586,7 +26586,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 8774.14,
+        ["points"] = 8774.32,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
@@ -26633,11 +26633,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 8958.46,
+        ["points"] = 8958.61,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 7480.79,
+        ["points"] = 7481.38,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -26656,7 +26656,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6950.1,
+        ["points"] = 6951.0,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -26664,7 +26664,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 1,
-        ["points"] = 9154.11,
+        ["points"] = 9154.2,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -26684,7 +26684,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 7934.81,
+        ["points"] = 7935.29,
       },
     },
   },
@@ -26727,7 +26727,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 5802.1,
+        ["points"] = 5803.07,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -26746,7 +26746,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 6377.33,
+        ["points"] = 6378.39,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -26770,7 +26770,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 7194.27,
+        ["points"] = 7194.68,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -26813,15 +26813,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 8665.25,
+        ["points"] = 8665.46,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 8690.75,
+        ["points"] = 8690.95,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 5920.84,
+        ["points"] = 5921.79,
       },
     },
   },
@@ -26836,7 +26836,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 6767.05,
+        ["points"] = 6768.0,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -26883,7 +26883,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 5899.03,
+        ["points"] = 5900.24,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -26950,7 +26950,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8925.54,
+        ["points"] = 8925.71,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -26977,7 +26977,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 7062.3,
+        ["points"] = 7063.16,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -27048,11 +27048,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 6389.7,
+        ["points"] = 6390.23,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 5646.1,
+        ["points"] = 5647.11,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -27095,7 +27095,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 6710.06,
+        ["points"] = 6710.55,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -27118,7 +27118,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7266.02,
+        ["points"] = 7266.82,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -27193,7 +27193,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6738.07,
+        ["points"] = 6738.83,
       },
     },
   },
@@ -27232,7 +27232,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 9311.0,
+        ["points"] = 9311.1,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -27283,7 +27283,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 5767.17,
+        ["points"] = 5768.16,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -27326,11 +27326,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 7791.11,
+        ["points"] = 7791.43,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 5711.29,
+        ["points"] = 5712.29,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -27373,7 +27373,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 6990.93,
+        ["points"] = 6991.37,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -27396,7 +27396,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7065.25,
+        ["points"] = 7066.12,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -27420,7 +27420,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 6607.67,
+        ["points"] = 6608.16,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -27510,11 +27510,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8987.59,
+        ["points"] = 8987.74,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9647.45,
+        ["points"] = 9647.51,
       },
     },
   },
@@ -27529,7 +27529,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6843.81,
+        ["points"] = 6844.75,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -27557,7 +27557,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8537.83,
+        ["points"] = 8538.18,
       },
     },
   },
@@ -27572,7 +27572,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7142.01,
+        ["points"] = 7142.86,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -27600,7 +27600,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 9285.22,
+        ["points"] = 9285.38,
       },
     },
   },
@@ -27639,7 +27639,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7750.15,
+        ["points"] = 7750.48,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -27686,7 +27686,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 7947.63,
+        ["points"] = 7947.93,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
@@ -27709,7 +27709,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 6268.08,
+        ["points"] = 6269.19,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -27733,7 +27733,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
-        ["points"] = 6609.13,
+        ["points"] = 6609.62,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
@@ -27760,7 +27760,7 @@ UWULogsData[0][2] = {
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
-        ["points"] = 9766.28,
+        ["points"] = 9766.31,
       },
       ["Festergut"] = {
         ["kill_count"] = 1,
@@ -27780,11 +27780,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7744.29,
+        ["points"] = 7744.62,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 7993.02,
+        ["points"] = 7993.48,
       },
     },
   },
@@ -27823,7 +27823,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 7604.19,
+        ["points"] = 7604.75,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -27870,7 +27870,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 8528.52,
+        ["points"] = 8528.86,
       },
     },
   },
@@ -27932,7 +27932,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 6380.28,
+        ["points"] = 6381.35,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -27956,7 +27956,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 8559.1,
+        ["points"] = 8559.31,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
@@ -28003,7 +28003,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 8452.31,
+        ["points"] = 8452.54,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -28026,7 +28026,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7212.87,
+        ["points"] = 7213.7,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -28050,7 +28050,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9622.59,
+        ["points"] = 9622.64,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -28089,11 +28089,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
-        ["points"] = 8188.56,
+        ["points"] = 8188.83,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 14,
-        ["points"] = 9524.58,
+        ["points"] = 9524.65,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -28116,7 +28116,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
-        ["points"] = 9817.4,
+        ["points"] = 9817.42,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -28128,15 +28128,15 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8680.39,
+        ["points"] = 8680.59,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9280.28,
+        ["points"] = 9280.39,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8200.23,
+        ["points"] = 8200.65,
       },
     },
   },
@@ -28151,7 +28151,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 5901.98,
+        ["points"] = 5903.19,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -28222,7 +28222,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 18,
-        ["points"] = 9053.54,
+        ["points"] = 9053.68,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -28265,11 +28265,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 7814.51,
+        ["points"] = 7814.83,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 6146.68,
+        ["points"] = 6147.58,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
@@ -28359,7 +28359,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 7915.45,
+        ["points"] = 7915.75,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -28406,7 +28406,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7498.54,
+        ["points"] = 7498.9,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -28453,11 +28453,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 8601.52,
+        ["points"] = 8601.73,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8365.54,
+        ["points"] = 8365.92,
       },
     },
   },
@@ -28543,11 +28543,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 4685.22,
+        ["points"] = 4680.66,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 7678.7,
+        ["points"] = 7679.24,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -28566,7 +28566,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 6699.14,
+        ["points"] = 6700.12,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -28594,7 +28594,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 5902.21,
+        ["points"] = 5903.17,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -28613,7 +28613,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 5724.83,
+        ["points"] = 5726.09,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -28633,7 +28633,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
-        ["points"] = 8146.19,
+        ["points"] = 8146.47,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
@@ -28676,16 +28676,16 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7599.47,
+        ["points"] = 7599.82,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 8346.92,
+        ["points"] = 8347.3,
       },
     },
   },
   ["Nedk"] = {
-    ["percentile"] = 61.9,
+    ["percentile"] = 61.91,
     ["server"] = "Icecrown",
     ["overall_rank"] = 620,
     ["bosses"] = {
@@ -28723,7 +28723,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 5639.12,
+        ["points"] = 5640.13,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -28762,7 +28762,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8367.13,
+        ["points"] = 8367.38,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -28793,7 +28793,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 10,
-        ["points"] = 8972.61,
+        ["points"] = 8972.72,
       },
       ["Rotface"] = {
         ["kill_count"] = 8,
@@ -28805,11 +28805,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 8184.02,
+        ["points"] = 8184.29,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 9136.92,
+        ["points"] = 9137.05,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -28852,11 +28852,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7861.32,
+        ["points"] = 7861.64,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 6959.25,
+        ["points"] = 6959.96,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -28891,11 +28891,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
-        ["points"] = 8404.96,
+        ["points"] = 8405.21,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 11,
-        ["points"] = 9078.41,
+        ["points"] = 9078.54,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
@@ -28904,7 +28904,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Shynfrost"] = {
-    ["percentile"] = 61.68,
+    ["percentile"] = 61.67,
     ["server"] = "Icecrown",
     ["overall_rank"] = 625,
     ["bosses"] = {
@@ -28914,7 +28914,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6876.29,
+        ["points"] = 6877.21,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -28938,11 +28938,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 4881.39,
+        ["points"] = 4876.82,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 8514.55,
+        ["points"] = 8514.9,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -28961,7 +28961,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 6613.52,
+        ["points"] = 6614.52,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -28985,7 +28985,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 4995.44,
+        ["points"] = 4990.88,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
@@ -29032,7 +29032,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9406.09,
+        ["points"] = 9406.17,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
@@ -29079,7 +29079,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8904.33,
+        ["points"] = 8904.49,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -29177,7 +29177,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6121.07,
+        ["points"] = 6121.97,
       },
     },
   },
@@ -29192,7 +29192,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6087.98,
+        ["points"] = 6089.14,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -29220,7 +29220,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 5683.35,
+        ["points"] = 5684.36,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -29263,11 +29263,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 9771.8,
+        ["points"] = 9771.83,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 5806.75,
+        ["points"] = 5807.73,
       },
     },
   },
@@ -29282,7 +29282,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6359.61,
+        ["points"] = 6360.68,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -29302,11 +29302,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 8308.95,
+        ["points"] = 8309.2,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 9559.95,
+        ["points"] = 9560.06,
       },
     },
   },
@@ -29396,7 +29396,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 6062.86,
+        ["points"] = 6063.78,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -29439,7 +29439,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 6821.24,
+        ["points"] = 6821.71,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -29470,7 +29470,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 1,
-        ["points"] = 9025.41,
+        ["points"] = 9025.52,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -29486,11 +29486,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 6727.62,
+        ["points"] = 6728.1,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6484.28,
+        ["points"] = 6485.1,
       },
     },
   },
@@ -29505,7 +29505,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 7788.6,
+        ["points"] = 7789.26,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -29529,7 +29529,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 4639.6,
+        ["points"] = 4635.04,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -29576,7 +29576,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 8943.83,
+        ["points"] = 8943.98,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
@@ -29646,7 +29646,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 5760.26,
+        ["points"] = 5761.51,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -29674,7 +29674,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 7373.69,
+        ["points"] = 7374.3,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -29815,7 +29815,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6428.41,
+        ["points"] = 6429.24,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -29858,11 +29858,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8099.77,
+        ["points"] = 8100.04,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 7164.14,
+        ["points"] = 7164.8,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -29881,7 +29881,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6696.19,
+        ["points"] = 6697.17,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -29905,7 +29905,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7657.99,
+        ["points"] = 7658.33,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -29948,7 +29948,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 4844.89,
+        ["points"] = 4840.33,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -29971,7 +29971,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 7345.73,
+        ["points"] = 7346.52,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -29995,11 +29995,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 6614.98,
+        ["points"] = 6615.47,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 5969.73,
+        ["points"] = 5970.67,
       },
     },
   },
@@ -30038,7 +30038,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 4730.84,
+        ["points"] = 4726.28,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -30085,7 +30085,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 5004.56,
+        ["points"] = 5000.0,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -30124,11 +30124,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
-        ["points"] = 8591.1,
+        ["points"] = 8591.31,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 9366.59,
+        ["points"] = 9366.68,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -30222,7 +30222,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8583.97,
+        ["points"] = 8584.17,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -30316,7 +30316,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 8363.21,
+        ["points"] = 8363.59,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -30335,7 +30335,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5615.59,
+        ["points"] = 5616.88,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -30410,7 +30410,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 6286.38,
+        ["points"] = 6287.24,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -30453,7 +30453,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 9552.37,
+        ["points"] = 9552.44,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -30543,11 +30543,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 6873.9,
+        ["points"] = 6874.36,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 7317.81,
+        ["points"] = 7318.44,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -30562,7 +30562,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 9493.47,
+        ["points"] = 9493.55,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -30570,7 +30570,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
-        ["points"] = 9742.6,
+        ["points"] = 9742.63,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -30586,7 +30586,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 9392.32,
+        ["points"] = 9392.46,
       },
     },
   },
@@ -30601,7 +30601,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 8051.37,
+        ["points"] = 8051.95,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -30766,7 +30766,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9492.39,
+        ["points"] = 9492.47,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -30826,7 +30826,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Chandre"] = {
-    ["percentile"] = 59.55,
+    ["percentile"] = 59.56,
     ["server"] = "Icecrown",
     ["overall_rank"] = 667,
     ["bosses"] = {
@@ -30836,7 +30836,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5651.02,
+        ["points"] = 5652.3,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -30860,7 +30860,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9284.67,
+        ["points"] = 9284.77,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -30907,7 +30907,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 4936.13,
+        ["points"] = 4931.57,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -31048,7 +31048,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 13,
-        ["points"] = 8839.96,
+        ["points"] = 8840.13,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -31075,7 +31075,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 1,
-        ["points"] = 8876.91,
+        ["points"] = 8877.03,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -31091,11 +31091,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 8326.51,
+        ["points"] = 8326.75,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 8572.76,
+        ["points"] = 8573.09,
       },
     },
   },
@@ -31138,7 +31138,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6798.6,
+        ["points"] = 6799.35,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -31146,10 +31146,57 @@ UWULogsData[0][2] = {
       },
     },
   },
+  ["Ayedka"] = {
+    ["percentile"] = 59.41,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 674,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 10,
+        ["points"] = 5733.51,
+      },
+      ["Lady Deathwhisper"] = {
+        ["kill_count"] = 4,
+        ["points"] = 5158.97,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 10,
+        ["points"] = 6526.95,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 10,
+        ["points"] = 6299.97,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 9,
+        ["points"] = 6921.2,
+      },
+      ["Professor Putricide"] = {
+        ["kill_count"] = 4,
+        ["points"] = 6196.16,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 9,
+        ["points"] = 7184.56,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 9,
+        ["points"] = 5041.06,
+      },
+      ["Sindragosa"] = {
+        ["kill_count"] = 3,
+        ["points"] = 4502.64,
+      },
+      ["The Lich King"] = {
+        ["kill_count"] = 2,
+        ["points"] = 5837.92,
+      },
+    },
+  },
   ["Uerbainner"] = {
     ["percentile"] = 59.38,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 674,
+    ["overall_rank"] = 675,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -31157,7 +31204,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6979.63,
+        ["points"] = 6980.52,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -31181,7 +31228,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 7513.17,
+        ["points"] = 7513.53,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -31196,7 +31243,7 @@ UWULogsData[0][2] = {
   ["Convikt"] = {
     ["percentile"] = 59.14,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 675,
+    ["overall_rank"] = 676,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 11,
@@ -31243,7 +31290,7 @@ UWULogsData[0][2] = {
   ["Tygon"] = {
     ["percentile"] = 59.03,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 676,
+    ["overall_rank"] = 677,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 8,
@@ -31290,7 +31337,7 @@ UWULogsData[0][2] = {
   ["Iijindii"] = {
     ["percentile"] = 58.94,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 677,
+    ["overall_rank"] = 678,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
@@ -31298,7 +31345,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 7425.45,
+        ["points"] = 7426.21,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -31322,18 +31369,18 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 5009.12,
+        ["points"] = 5004.56,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 7701.98,
+        ["points"] = 7702.51,
       },
     },
   },
   ["Sisterone"] = {
     ["percentile"] = 58.9,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 678,
+    ["overall_rank"] = 679,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
@@ -31365,11 +31412,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 4954.38,
+        ["points"] = 4949.82,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 6279.39,
+        ["points"] = 6280.26,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -31380,7 +31427,7 @@ UWULogsData[0][2] = {
   ["Czarusjuras"] = {
     ["percentile"] = 58.88,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 679,
+    ["overall_rank"] = 680,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
@@ -31388,7 +31435,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7162.68,
+        ["points"] = 7163.52,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -31427,7 +31474,7 @@ UWULogsData[0][2] = {
   ["Akamezzfdk"] = {
     ["percentile"] = 58.88,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 680,
+    ["overall_rank"] = 681,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
@@ -31474,7 +31521,7 @@ UWULogsData[0][2] = {
   ["Frostaki"] = {
     ["percentile"] = 58.83,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 681,
+    ["overall_rank"] = 682,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
@@ -31482,7 +31529,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 6265.13,
+        ["points"] = 6266.23,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -31521,7 +31568,7 @@ UWULogsData[0][2] = {
   ["Problemx"] = {
     ["percentile"] = 58.8,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 682,
+    ["overall_rank"] = 683,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -31566,9 +31613,9 @@ UWULogsData[0][2] = {
     },
   },
   ["Dorlon"] = {
-    ["percentile"] = 58.78,
+    ["percentile"] = 58.79,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 683,
+    ["overall_rank"] = 684,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 8,
@@ -31596,18 +31643,18 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 9571.39,
+        ["points"] = 9571.45,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 7338.77,
+        ["points"] = 7339.39,
       },
     },
   },
   ["Limerence"] = {
     ["percentile"] = 58.76,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 684,
+    ["overall_rank"] = 685,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -31615,7 +31662,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 9,
-        ["points"] = 9320.21,
+        ["points"] = 9320.28,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -31635,7 +31682,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 6610.01,
+        ["points"] = 6610.8,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -31646,7 +31693,7 @@ UWULogsData[0][2] = {
   ["Akanepphilim"] = {
     ["percentile"] = 58.75,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 685,
+    ["overall_rank"] = 686,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
@@ -31682,7 +31729,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 6179.28,
+        ["points"] = 6180.17,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -31693,7 +31740,7 @@ UWULogsData[0][2] = {
   ["Drepynka"] = {
     ["percentile"] = 58.68,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 686,
+    ["overall_rank"] = 687,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -31740,7 +31787,7 @@ UWULogsData[0][2] = {
   ["Defnyt"] = {
     ["percentile"] = 58.55,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 687,
+    ["overall_rank"] = 688,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -31764,11 +31811,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 6961.67,
+        ["points"] = 6962.12,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 8884.75,
+        ["points"] = 8885.01,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -31779,7 +31826,7 @@ UWULogsData[0][2] = {
   ["Getstabfdk"] = {
     ["percentile"] = 58.54,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 688,
+    ["overall_rank"] = 689,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -31826,7 +31873,7 @@ UWULogsData[0][2] = {
   ["Corgalom"] = {
     ["percentile"] = 58.52,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 689,
+    ["overall_rank"] = 690,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
@@ -31854,7 +31901,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8805.99,
+        ["points"] = 8806.17,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -31873,7 +31920,7 @@ UWULogsData[0][2] = {
   ["Zedamm"] = {
     ["percentile"] = 58.51,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 690,
+    ["overall_rank"] = 691,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
@@ -31920,7 +31967,7 @@ UWULogsData[0][2] = {
   ["Ugbash"] = {
     ["percentile"] = 58.51,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 691,
+    ["overall_rank"] = 692,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 9,
@@ -31952,18 +31999,18 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 9215.92,
+        ["points"] = 9216.03,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 5622.82,
+        ["points"] = 5623.84,
       },
     },
   },
   ["Hampuso"] = {
     ["percentile"] = 58.49,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 692,
+    ["overall_rank"] = 693,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
@@ -31999,7 +32046,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 6079.16,
+        ["points"] = 6080.07,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -32010,7 +32057,7 @@ UWULogsData[0][2] = {
   ["Babygah"] = {
     ["percentile"] = 58.45,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 693,
+    ["overall_rank"] = 694,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -32057,7 +32104,7 @@ UWULogsData[0][2] = {
   ["Kooper"] = {
     ["percentile"] = 58.43,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 694,
+    ["overall_rank"] = 695,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
@@ -32089,7 +32136,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 7711.29,
+        ["points"] = 7711.82,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -32100,7 +32147,7 @@ UWULogsData[0][2] = {
   ["Bloodboundx"] = {
     ["percentile"] = 58.42,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 695,
+    ["overall_rank"] = 696,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -32132,11 +32179,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 6720.3,
+        ["points"] = 6720.78,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 5827.71,
+        ["points"] = 5828.68,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -32147,7 +32194,7 @@ UWULogsData[0][2] = {
   ["Pivasex"] = {
     ["percentile"] = 58.39,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 696,
+    ["overall_rank"] = 697,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -32179,7 +32226,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7186.95,
+        ["points"] = 7187.36,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -32194,11 +32241,11 @@ UWULogsData[0][2] = {
   ["Notsoyean"] = {
     ["percentile"] = 58.37,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 697,
+    ["overall_rank"] = 698,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
-        ["points"] = 9765.89,
+        ["points"] = 9765.92,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -32206,7 +32253,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 7,
-        ["points"] = 9732.7,
+        ["points"] = 9732.73,
       },
       ["Rotface"] = {
         ["kill_count"] = 7,
@@ -32214,18 +32261,18 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 9744.25,
+        ["points"] = 9744.29,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 9776.18,
+        ["points"] = 9776.22,
       },
     },
   },
   ["Zterben"] = {
     ["percentile"] = 58.28,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 698,
+    ["overall_rank"] = 699,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -32257,11 +32304,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 4972.63,
+        ["points"] = 4968.07,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6488.94,
+        ["points"] = 6489.76,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -32272,7 +32319,7 @@ UWULogsData[0][2] = {
   ["Mefistofell"] = {
     ["percentile"] = 58.27,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 699,
+    ["overall_rank"] = 700,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
@@ -32316,53 +32363,6 @@ UWULogsData[0][2] = {
       },
     },
   },
-  ["Ayedka"] = {
-    ["percentile"] = 58.16,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 700,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 9,
-        ["points"] = 5733.51,
-      },
-      ["Lady Deathwhisper"] = {
-        ["kill_count"] = 3,
-        ["points"] = 5158.97,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 9,
-        ["points"] = 6526.95,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 9,
-        ["points"] = 6299.97,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 9,
-        ["points"] = 6921.2,
-      },
-      ["Professor Putricide"] = {
-        ["kill_count"] = 4,
-        ["points"] = 6196.16,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 8,
-        ["points"] = 7151.6,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 8,
-        ["points"] = 4621.35,
-      },
-      ["Sindragosa"] = {
-        ["kill_count"] = 2,
-        ["points"] = 3705.98,
-      },
-      ["The Lich King"] = {
-        ["kill_count"] = 2,
-        ["points"] = 5837.92,
-      },
-    },
-  },
   ["Gyrosislife"] = {
     ["percentile"] = 58.05,
     ["server"] = "Icecrown",
@@ -32402,7 +32402,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6100.12,
+        ["points"] = 6101.02,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -32417,7 +32417,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 9164.3,
+        ["points"] = 9164.42,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -32437,11 +32437,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 9322.03,
+        ["points"] = 9322.14,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 9811.29,
+        ["points"] = 9811.32,
       },
     },
   },
@@ -32480,7 +32480,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 6951.43,
+        ["points"] = 6951.88,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -32527,7 +32527,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 4771.9,
+        ["points"] = 4767.34,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
@@ -32540,7 +32540,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Galekrim"] = {
-    ["percentile"] = 57.66,
+    ["percentile"] = 57.65,
     ["server"] = "Icecrown",
     ["overall_rank"] = 705,
     ["bosses"] = {
@@ -32550,7 +32550,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 5763.21,
+        ["points"] = 5764.46,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -32574,7 +32574,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 4927.01,
+        ["points"] = 4922.45,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -32644,7 +32644,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 7088.87,
+        ["points"] = 7089.73,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -32668,7 +32668,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 6828.55,
+        ["points"] = 6829.02,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -32711,7 +32711,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 7846.69,
+        ["points"] = 7847.01,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -32758,7 +32758,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9000.88,
+        ["points"] = 9001.02,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -32797,11 +32797,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9184.32,
+        ["points"] = 9184.45,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 5620.49,
+        ["points"] = 5621.51,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -32879,7 +32879,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7546.81,
+        ["points"] = 7547.17,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -33020,7 +33020,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 5678.7,
+        ["points"] = 5679.7,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -33063,7 +33063,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7533.65,
+        ["points"] = 7534.01,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -33086,7 +33086,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6028.93,
+        ["points"] = 6030.11,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -33114,7 +33114,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6344.59,
+        ["points"] = 6345.44,
       },
     },
   },
@@ -33125,15 +33125,15 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 9760.22,
+        ["points"] = 9760.25,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
-        ["points"] = 9779.79,
+        ["points"] = 9779.82,
       },
       ["Festergut"] = {
         ["kill_count"] = 1,
-        ["points"] = 9743.7,
+        ["points"] = 9743.73,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -33141,11 +33141,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8457.93,
+        ["points"] = 8458.16,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 9688.41,
+        ["points"] = 9688.46,
       },
     },
   },
@@ -33184,7 +33184,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 8954.07,
+        ["points"] = 8954.22,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -33219,11 +33219,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8355.02,
+        ["points"] = 8355.27,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9665.01,
+        ["points"] = 9665.06,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -33279,7 +33279,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Tyroonee"] = {
-    ["percentile"] = 56.67,
+    ["percentile"] = 56.66,
     ["server"] = "Icecrown",
     ["overall_rank"] = 722,
     ["bosses"] = {
@@ -33313,7 +33313,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 4790.15,
+        ["points"] = 4785.58,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -33485,7 +33485,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
-        ["points"] = 9056.21,
+        ["points"] = 9056.31,
       },
       ["Rotface"] = {
         ["kill_count"] = 4,
@@ -33501,7 +33501,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9145.7,
+        ["points"] = 9145.82,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -33544,7 +33544,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9176.42,
+        ["points"] = 9176.54,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -33567,7 +33567,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6607.62,
+        ["points"] = 6608.62,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -33591,7 +33591,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 4958.94,
+        ["points"] = 4954.38,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -33638,7 +33638,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6249.13,
+        ["points"] = 6250.0,
       },
     },
   },
@@ -33677,11 +33677,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8974.55,
+        ["points"] = 8974.7,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6768.34,
+        ["points"] = 6769.09,
       },
     },
   },
@@ -33786,7 +33786,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6684.38,
+        ["points"] = 6685.36,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -33810,7 +33810,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 8949.68,
+        ["points"] = 8949.83,
       },
     },
   },
@@ -33900,7 +33900,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 5774.16,
+        ["points"] = 5775.14,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -33943,7 +33943,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 4977.19,
+        ["points"] = 4972.63,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -34033,7 +34033,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7018.72,
+        ["points"] = 7019.16,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -34056,7 +34056,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6648.95,
+        ["points"] = 6649.94,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -34080,7 +34080,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 4817.52,
+        ["points"] = 4812.96,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -34131,7 +34131,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6109.43,
+        ["points"] = 6110.34,
       },
     },
   },
@@ -34146,7 +34146,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 5710.07,
+        ["points"] = 5711.33,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -34170,7 +34170,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 7523.41,
+        ["points"] = 7523.77,
       },
     },
   },
@@ -34299,7 +34299,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 9052.08,
+        ["points"] = 9052.22,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
@@ -34455,7 +34455,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 15,
-        ["points"] = 9743.19,
+        ["points"] = 9743.23,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
@@ -34479,7 +34479,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 11,
-        ["points"] = 9805.44,
+        ["points"] = 9805.47,
       },
     },
   },
@@ -34490,7 +34490,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 7,
-        ["points"] = 9839.67,
+        ["points"] = 9839.69,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -34498,7 +34498,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 7,
-        ["points"] = 9281.71,
+        ["points"] = 9281.79,
       },
       ["Rotface"] = {
         ["kill_count"] = 7,
@@ -34506,11 +34506,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
-        ["points"] = 9766.95,
+        ["points"] = 9766.98,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 8130.49,
+        ["points"] = 8130.76,
       },
     },
   },
@@ -34623,7 +34623,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 6,
-        ["points"] = 8934.11,
+        ["points"] = 8934.23,
       },
       ["Rotface"] = {
         ["kill_count"] = 6,
@@ -34639,7 +34639,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 7801.35,
+        ["points"] = 7801.67,
       },
     },
   },
@@ -34725,11 +34725,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 5027.37,
+        ["points"] = 5022.81,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 5867.29,
+        ["points"] = 5868.25,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -34772,7 +34772,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 8794.62,
+        ["points"] = 8794.79,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -34811,7 +34811,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7235.23,
+        ["points"] = 7235.63,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -34819,10 +34819,53 @@ UWULogsData[0][2] = {
       },
     },
   },
-  ["Tonyfrost"] = {
+  ["Greenfiend"] = {
     ["percentile"] = 55.28,
     ["server"] = "Icecrown",
     ["overall_rank"] = 757,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 5,
+        ["points"] = 7021.64,
+      },
+      ["Lady Deathwhisper"] = {
+        ["kill_count"] = 1,
+        ["points"] = 4283.63,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 5,
+        ["points"] = 6672.16,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 5,
+        ["points"] = 7029.9,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 5,
+        ["points"] = 7364.65,
+      },
+      ["Professor Putricide"] = {
+        ["kill_count"] = 1,
+        ["points"] = 4667.39,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 4,
+        ["points"] = 5739.17,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 5,
+        ["points"] = 6956.27,
+      },
+      ["Sindragosa"] = {
+        ["kill_count"] = 1,
+        ["points"] = 5535.38,
+      },
+    },
+  },
+  ["Tonyfrost"] = {
+    ["percentile"] = 55.28,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 758,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
@@ -34866,49 +34909,6 @@ UWULogsData[0][2] = {
       },
     },
   },
-  ["Greenfiend"] = {
-    ["percentile"] = 55.28,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 758,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 5,
-        ["points"] = 7021.64,
-      },
-      ["Lady Deathwhisper"] = {
-        ["kill_count"] = 1,
-        ["points"] = 4283.63,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 5,
-        ["points"] = 6672.16,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 5,
-        ["points"] = 7029.9,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 5,
-        ["points"] = 7364.65,
-      },
-      ["Professor Putricide"] = {
-        ["kill_count"] = 1,
-        ["points"] = 4667.39,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 4,
-        ["points"] = 5739.17,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 5,
-        ["points"] = 6955.82,
-      },
-      ["Sindragosa"] = {
-        ["kill_count"] = 1,
-        ["points"] = 5534.34,
-      },
-    },
-  },
   ["Kauu"] = {
     ["percentile"] = 55.23,
     ["server"] = "Icecrown",
@@ -34944,7 +34944,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 6789.06,
+        ["points"] = 6789.53,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -34987,7 +34987,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 4662.41,
+        ["points"] = 4657.85,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -35030,22 +35030,22 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 9717.67,
+        ["points"] = 9717.71,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 8309.66,
+        ["points"] = 8310.06,
       },
     },
   },
   ["Unig"] = {
-    ["percentile"] = 55.17,
+    ["percentile"] = 55.18,
     ["server"] = "Icecrown",
     ["overall_rank"] = 762,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 9791.43,
+        ["points"] = 9791.46,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -35053,7 +35053,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 1,
-        ["points"] = 9128.81,
+        ["points"] = 9128.9,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -35061,11 +35061,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8588.08,
+        ["points"] = 8588.29,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 8880.92,
+        ["points"] = 8881.09,
       },
     },
   },
@@ -35100,11 +35100,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 6777.36,
+        ["points"] = 6777.83,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 8118.74,
+        ["points"] = 8119.18,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -35113,7 +35113,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Jajcardk"] = {
-    ["percentile"] = 54.96,
+    ["percentile"] = 54.97,
     ["server"] = "Icecrown",
     ["overall_rank"] = 764,
     ["bosses"] = {
@@ -35139,11 +35139,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7080.16,
+        ["points"] = 7080.59,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6316.65,
+        ["points"] = 6317.5,
       },
     },
   },
@@ -35178,7 +35178,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 6392.63,
+        ["points"] = 6393.15,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -35201,7 +35201,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 8514.91,
+        ["points"] = 8515.35,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -35229,7 +35229,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 5685.68,
+        ["points"] = 5686.69,
       },
     },
   },
@@ -35287,7 +35287,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 9177.07,
+        ["points"] = 9177.19,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -35311,7 +35311,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 8060.27,
+        ["points"] = 8060.55,
       },
     },
   },
@@ -35326,7 +35326,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6058.46,
+        ["points"] = 6059.62,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -35346,11 +35346,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 6414.57,
+        ["points"] = 6415.09,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8789.29,
+        ["points"] = 8789.57,
       },
     },
   },
@@ -35381,11 +35381,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 8368.64,
+        ["points"] = 8368.89,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 6689.58,
+        ["points"] = 6690.07,
       },
     },
   },
@@ -35420,7 +35420,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 11,
-        ["points"] = 9691.34,
+        ["points"] = 9691.39,
       },
     },
   },
@@ -35459,7 +35459,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 7687.24,
+        ["points"] = 7687.58,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -35549,7 +35549,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 4708.03,
+        ["points"] = 4703.47,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -35596,7 +35596,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 8212.4,
+        ["points"] = 8212.67,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -35615,7 +35615,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 5686.45,
+        ["points"] = 5687.72,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -35823,7 +35823,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 6724.1,
+        ["points"] = 6724.86,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
@@ -35889,7 +35889,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6604.66,
+        ["points"] = 6605.67,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -35905,11 +35905,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8914.95,
+        ["points"] = 8915.12,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 9545.06,
+        ["points"] = 9545.12,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -35952,7 +35952,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9372.44,
+        ["points"] = 9372.53,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -35979,7 +35979,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 12,
-        ["points"] = 9455.51,
+        ["points"] = 9455.57,
       },
       ["Rotface"] = {
         ["kill_count"] = 12,
@@ -35987,11 +35987,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
-        ["points"] = 8857.45,
+        ["points"] = 8857.62,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 11,
-        ["points"] = 9821.53,
+        ["points"] = 9821.56,
       },
     },
   },
@@ -36006,11 +36006,11 @@ UWULogsData[0][2] = {
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
-        ["points"] = 9602.81,
+        ["points"] = 9602.86,
       },
       ["Festergut"] = {
         ["kill_count"] = 5,
-        ["points"] = 9717.3,
+        ["points"] = 9717.33,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -36026,7 +36026,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8244.47,
+        ["points"] = 8244.88,
       },
     },
   },
@@ -36065,7 +36065,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 8822.41,
+        ["points"] = 8822.58,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -36210,7 +36210,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6530.85,
+        ["points"] = 6531.66,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -36276,7 +36276,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 6158.84,
+        ["points"] = 6159.98,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -36327,7 +36327,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
-        ["points"] = 9228.91,
+        ["points"] = 9228.99,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -36335,16 +36335,16 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9002.72,
+        ["points"] = 9002.87,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8939.44,
+        ["points"] = 8939.59,
       },
     },
   },
   ["Zeromistakes"] = {
-    ["percentile"] = 53.77,
+    ["percentile"] = 53.78,
     ["server"] = "Icecrown",
     ["overall_rank"] = 793,
     ["bosses"] = {
@@ -36354,7 +36354,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7617.36,
+        ["points"] = 7618.06,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -36421,7 +36421,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 8860.44,
+        ["points"] = 8860.61,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -36562,7 +36562,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6251.46,
+        ["points"] = 6252.33,
       },
     },
   },
@@ -36644,7 +36644,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9531.89,
+        ["points"] = 9531.96,
       },
     },
   },
@@ -36659,7 +36659,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 5594.92,
+        ["points"] = 5596.22,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -36734,7 +36734,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 9906.87,
+        ["points"] = 9906.89,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
@@ -36828,7 +36828,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 5906.87,
+        ["points"] = 5907.82,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -36886,7 +36886,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
-        ["points"] = 9375.71,
+        ["points"] = 9375.8,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -36902,11 +36902,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 9542.98,
+        ["points"] = 9543.05,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 8320.66,
+        ["points"] = 8320.9,
       },
     },
   },
@@ -36945,7 +36945,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 4762.77,
+        ["points"] = 4758.21,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -36964,7 +36964,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 9770.15,
+        ["points"] = 9770.18,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -36980,11 +36980,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9185.84,
+        ["points"] = 9185.96,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 7992.98,
+        ["points"] = 7993.27,
       },
     },
   },
@@ -37023,7 +37023,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6568.1,
+        ["points"] = 6568.9,
       },
     },
   },
@@ -37156,7 +37156,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 5792.78,
+        ["points"] = 5793.76,
       },
     },
   },
@@ -37285,7 +37285,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9507.02,
+        ["points"] = 9507.09,
       },
     },
   },
@@ -37300,7 +37300,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7812.22,
+        ["points"] = 7812.87,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -37308,7 +37308,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
-        ["points"] = 9280.61,
+        ["points"] = 9280.69,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -37316,7 +37316,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 9026.78,
+        ["points"] = 9027.0,
       },
     },
   },
@@ -37331,7 +37331,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5978.74,
+        ["points"] = 5979.93,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -37633,7 +37633,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 4931.57,
+        ["points"] = 4927.01,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -37723,7 +37723,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7976.89,
+        ["points"] = 7977.18,
       },
     },
   },
@@ -37738,7 +37738,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5627.4,
+        ["points"] = 5628.69,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -37762,7 +37762,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 7401.63,
+        ["points"] = 7402.23,
       },
     },
   },
@@ -37801,7 +37801,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 7461.97,
+        ["points"] = 7462.34,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -37840,7 +37840,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9016.34,
+        ["points"] = 9016.49,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -37892,7 +37892,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Deathario"] = {
-    ["percentile"] = 52.01,
+    ["percentile"] = 52.02,
     ["server"] = "Icecrown",
     ["overall_rank"] = 829,
     ["bosses"] = {
@@ -37906,7 +37906,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 7,
-        ["points"] = 9215.71,
+        ["points"] = 9215.79,
       },
       ["Rotface"] = {
         ["kill_count"] = 7,
@@ -37914,11 +37914,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 9458.23,
+        ["points"] = 9458.31,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 9477.76,
+        ["points"] = 9477.84,
       },
     },
   },
@@ -37933,11 +37933,11 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 8541.48,
+        ["points"] = 8541.91,
       },
       ["Festergut"] = {
         ["kill_count"] = 1,
-        ["points"] = 9780.0,
+        ["points"] = 9780.03,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -37949,7 +37949,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9169.19,
+        ["points"] = 9169.31,
       },
     },
   },
@@ -38082,7 +38082,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 6657.4,
+        ["points"] = 6657.89,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -38125,7 +38125,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 7580.46,
+        ["points"] = 7580.81,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -38446,7 +38446,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 4644.16,
+        ["points"] = 4639.6,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -38489,7 +38489,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 8801.93,
+        ["points"] = 8802.11,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -38504,7 +38504,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 9116.06,
+        ["points"] = 9116.19,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -38512,7 +38512,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
-        ["points"] = 9334.51,
+        ["points"] = 9334.58,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -38524,7 +38524,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9479.23,
+        ["points"] = 9479.3,
       },
     },
   },
@@ -38578,7 +38578,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 6501.33,
+        ["points"] = 6502.36,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -38688,7 +38688,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 4876.82,
+        ["points"] = 4872.26,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
@@ -38762,7 +38762,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
-        ["points"] = 8879.11,
+        ["points"] = 8879.23,
       },
       ["Rotface"] = {
         ["kill_count"] = 4,
@@ -38774,7 +38774,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 9947.34,
+        ["points"] = 9947.35,
       },
     },
   },
@@ -38828,7 +38828,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 8938.71,
+        ["points"] = 8938.86,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
@@ -38856,7 +38856,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 6783.21,
+        ["points"] = 6783.68,
       },
     },
   },
@@ -38914,7 +38914,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 1,
-        ["points"] = 8815.31,
+        ["points"] = 8815.44,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -38926,11 +38926,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 9767.41,
+        ["points"] = 9767.44,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 5522.7,
+        ["points"] = 5523.74,
       },
     },
   },
@@ -39035,7 +39035,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5804.55,
+        ["points"] = 5805.79,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -39090,11 +39090,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8182.51,
+        ["points"] = 8182.78,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9324.17,
+        ["points"] = 9324.27,
       },
     },
   },
@@ -39246,7 +39246,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5745.5,
+        ["points"] = 5746.75,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -39270,7 +39270,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 4981.75,
+        ["points"] = 4977.19,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -39309,7 +39309,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 6887.07,
+        ["points"] = 6887.52,
       },
     },
   },
@@ -39328,7 +39328,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 1,
-        ["points"] = 9390.61,
+        ["points"] = 9390.67,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -39340,7 +39340,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7713.58,
+        ["points"] = 7713.91,
       },
     },
   },
@@ -39398,7 +39398,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
-        ["points"] = 8878.01,
+        ["points"] = 8878.13,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -39414,11 +39414,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7782.33,
+        ["points"] = 7782.65,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 8915.02,
+        ["points"] = 8915.27,
       },
     },
   },
@@ -39453,12 +39453,12 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9103.28,
+        ["points"] = 9103.41,
       },
     },
   },
   ["Deathhshik"] = {
-    ["percentile"] = 50.75,
+    ["percentile"] = 50.74,
     ["server"] = "Icecrown",
     ["overall_rank"] = 868,
     ["bosses"] = {
@@ -39484,11 +39484,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 8353.51,
+        ["points"] = 8353.76,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 4986.31,
+        ["points"] = 4981.75,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -39507,7 +39507,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7824.03,
+        ["points"] = 7824.68,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -39527,11 +39527,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 4949.82,
+        ["points"] = 4945.26,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 5771.83,
+        ["points"] = 5772.81,
       },
     },
   },
@@ -39546,7 +39546,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6389.13,
+        ["points"] = 6390.2,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -39585,7 +39585,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 7,
-        ["points"] = 9472.19,
+        ["points"] = 9472.27,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -39593,7 +39593,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 7,
-        ["points"] = 9003.41,
+        ["points"] = 9003.52,
       },
       ["Rotface"] = {
         ["kill_count"] = 7,
@@ -39605,7 +39605,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 9495.32,
+        ["points"] = 9495.39,
       },
     },
   },
@@ -39616,7 +39616,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
-        ["points"] = 9084.85,
+        ["points"] = 9084.98,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -39624,7 +39624,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 5,
-        ["points"] = 8768.01,
+        ["points"] = 8768.15,
       },
       ["Rotface"] = {
         ["kill_count"] = 5,
@@ -39636,7 +39636,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9411.94,
+        ["points"] = 9412.02,
       },
     },
   },
@@ -39788,7 +39788,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 18,
-        ["points"] = 9474.84,
+        ["points"] = 9474.92,
       },
     },
   },
@@ -39874,7 +39874,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 4749.09,
+        ["points"] = 4744.53,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -39917,7 +39917,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 4872.26,
+        ["points"] = 4867.7,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -39956,11 +39956,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 7361.03,
+        ["points"] = 7361.42,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 8612.34,
+        ["points"] = 8612.66,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -40085,11 +40085,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 9541.46,
+        ["points"] = 9541.53,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9855.18,
+        ["points"] = 9855.2,
       },
     },
   },
@@ -40175,7 +40175,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 8569.34,
+        ["points"] = 8569.55,
       },
     },
   },
@@ -40186,7 +40186,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5866.55,
+        ["points"] = 5867.77,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -40194,7 +40194,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 1,
-        ["points"] = 8821.91,
+        ["points"] = 8822.04,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -40210,7 +40210,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7119.66,
+        ["points"] = 7120.08,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -40237,7 +40237,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
-        ["points"] = 9181.61,
+        ["points"] = 9181.7,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -40245,7 +40245,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8147.7,
+        ["points"] = 8147.98,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -40301,7 +40301,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Jashinn"] = {
-    ["percentile"] = 49.59,
+    ["percentile"] = 49.6,
     ["server"] = "Icecrown",
     ["overall_rank"] = 889,
     ["bosses"] = {
@@ -40339,7 +40339,7 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 5629.8,
+        ["points"] = 5630.82,
       },
     },
   },
@@ -40370,11 +40370,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 7941.78,
+        ["points"] = 7942.08,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 7471.48,
+        ["points"] = 7472.07,
       },
     },
   },
@@ -40413,7 +40413,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 7188.41,
+        ["points"] = 7188.83,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -40467,7 +40467,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9125.99,
+        ["points"] = 9126.12,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -40483,11 +40483,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8125.0,
+        ["points"] = 8125.28,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8809.25,
+        ["points"] = 8809.42,
       },
     },
   },
@@ -40498,7 +40498,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 8935.87,
+        ["points"] = 8936.02,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -40518,7 +40518,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 8882.39,
+        ["points"] = 8882.55,
       },
     },
   },
@@ -40529,7 +40529,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 9480.7,
+        ["points"] = 9480.78,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -40549,12 +40549,12 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9360.74,
+        ["points"] = 9360.83,
       },
     },
   },
   ["Cayret"] = {
-    ["percentile"] = 49.37,
+    ["percentile"] = 49.36,
     ["server"] = "Icecrown",
     ["overall_rank"] = 896,
     ["bosses"] = {
@@ -40588,7 +40588,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 4657.85,
+        ["points"] = 4653.28,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -40670,7 +40670,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 9401.7,
+        ["points"] = 9401.78,
       },
     },
   },
@@ -40705,7 +40705,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 8741.95,
+        ["points"] = 8742.14,
       },
     },
   },
@@ -40838,7 +40838,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 4808.39,
+        ["points"] = 4803.83,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -40924,7 +40924,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 8433.29,
+        ["points"] = 8433.52,
       },
     },
   },
@@ -40943,7 +40943,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
-        ["points"] = 9392.81,
+        ["points"] = 9392.87,
       },
       ["Rotface"] = {
         ["kill_count"] = 4,
@@ -40955,7 +40955,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9591.87,
+        ["points"] = 9591.93,
       },
     },
   },
@@ -40986,7 +40986,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 10,
-        ["points"] = 9432.42,
+        ["points"] = 9432.5,
       },
     },
   },
@@ -41127,57 +41127,10 @@ UWULogsData[0][2] = {
       },
     },
   },
-  ["Felscourge"] = {
-    ["percentile"] = 48.54,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 910,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 1,
-        ["points"] = 5115.52,
-      },
-      ["Lady Deathwhisper"] = {
-        ["kill_count"] = 1,
-        ["points"] = 2572.61,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 1,
-        ["points"] = 6305.96,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 1,
-        ["points"] = 5911.76,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 1,
-        ["points"] = 6495.82,
-      },
-      ["Professor Putricide"] = {
-        ["kill_count"] = 1,
-        ["points"] = 5071.12,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 1,
-        ["points"] = 2388.56,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 1,
-        ["points"] = 4822.08,
-      },
-      ["Sindragosa"] = {
-        ["kill_count"] = 1,
-        ["points"] = 5119.49,
-      },
-      ["The Lich King"] = {
-        ["kill_count"] = 1,
-        ["points"] = 4728.51,
-      },
-    },
-  },
   ["Destroyerka"] = {
     ["percentile"] = 48.54,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 911,
+    ["overall_rank"] = 910,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -41218,6 +41171,53 @@ UWULogsData[0][2] = {
       ["The Lich King"] = {
         ["kill_count"] = 1,
         ["points"] = 6543.01,
+      },
+    },
+  },
+  ["Felscourge"] = {
+    ["percentile"] = 48.53,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 911,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 1,
+        ["points"] = 5115.52,
+      },
+      ["Lady Deathwhisper"] = {
+        ["kill_count"] = 1,
+        ["points"] = 2572.61,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 1,
+        ["points"] = 6305.96,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 1,
+        ["points"] = 5911.76,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 1,
+        ["points"] = 6495.82,
+      },
+      ["Professor Putricide"] = {
+        ["kill_count"] = 1,
+        ["points"] = 5071.12,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 1,
+        ["points"] = 2388.56,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 1,
+        ["points"] = 4817.52,
+      },
+      ["Sindragosa"] = {
+        ["kill_count"] = 1,
+        ["points"] = 5119.49,
+      },
+      ["The Lich King"] = {
+        ["kill_count"] = 1,
+        ["points"] = 4728.51,
       },
     },
   },
@@ -41377,11 +41377,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 8364.1,
+        ["points"] = 8364.35,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 9514.34,
+        ["points"] = 9514.41,
       },
     },
   },
@@ -41463,7 +41463,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 4922.45,
+        ["points"] = 4917.88,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -41502,7 +41502,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 8077.82,
+        ["points"] = 8078.1,
       },
     },
   },
@@ -41611,7 +41611,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 1,
-        ["points"] = 8938.51,
+        ["points"] = 8938.63,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -41619,11 +41619,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9312.95,
+        ["points"] = 9313.06,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 6509.65,
+        ["points"] = 6510.17,
       },
     },
   },
@@ -41634,7 +41634,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 9486.38,
+        ["points"] = 9486.45,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -41654,7 +41654,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 8415.74,
+        ["points"] = 8415.97,
       },
     },
   },
@@ -41669,7 +41669,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5589.02,
+        ["points"] = 5590.32,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -41693,7 +41693,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 4739.96,
+        ["points"] = 4735.4,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -41732,7 +41732,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 6786.13,
+        ["points"] = 6786.6,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -41841,7 +41841,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5937.41,
+        ["points"] = 5938.61,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -41869,12 +41869,12 @@ UWULogsData[0][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6512.22,
+        ["points"] = 6513.04,
       },
     },
   },
   ["Mixogokis"] = {
-    ["percentile"] = 48.14,
+    ["percentile"] = 48.13,
     ["server"] = "Icecrown",
     ["overall_rank"] = 928,
     ["bosses"] = {
@@ -41908,7 +41908,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 4908.76,
+        ["points"] = 4904.2,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -41943,7 +41943,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9682.56,
+        ["points"] = 9682.61,
       },
     },
   },
@@ -42017,7 +42017,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 8797.54,
+        ["points"] = 8797.72,
       },
     },
   },
@@ -42079,7 +42079,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 5612.64,
+        ["points"] = 5613.93,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -42103,7 +42103,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8304.56,
+        ["points"] = 8304.81,
       },
     },
   },
@@ -42114,7 +42114,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9202.61,
+        ["points"] = 9202.72,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -42134,7 +42134,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 9561.15,
+        ["points"] = 9561.21,
       },
     },
   },
@@ -42200,7 +42200,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 7,
-        ["points"] = 9429.11,
+        ["points"] = 9429.17,
       },
       ["Rotface"] = {
         ["kill_count"] = 2,
@@ -42251,7 +42251,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 8001.76,
+        ["points"] = 8002.05,
       },
     },
   },
@@ -42309,7 +42309,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7514.02,
+        ["points"] = 7514.76,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -42333,7 +42333,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 4753.65,
+        ["points"] = 4749.09,
       },
     },
   },
@@ -42381,7 +42381,7 @@ UWULogsData[0][2] = {
     },
   },
   ["Yserah"] = {
-    ["percentile"] = 47.32,
+    ["percentile"] = 47.31,
     ["server"] = "Icecrown",
     ["overall_rank"] = 941,
     ["bosses"] = {
@@ -42411,11 +42411,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 4849.45,
+        ["points"] = 4844.89,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6337.6,
+        ["points"] = 6338.45,
       },
     },
   },
@@ -42755,14 +42755,57 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 8509.36,
+        ["points"] = 8509.58,
+      },
+    },
+  },
+  ["Clichedk"] = {
+    ["percentile"] = 47.01,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 950,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 5,
+        ["points"] = 4644.64,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 5,
+        ["points"] = 6252.19,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 5,
+        ["points"] = 5922.44,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 5,
+        ["points"] = 5783.34,
+      },
+      ["Professor Putricide"] = {
+        ["kill_count"] = 2,
+        ["points"] = 4537.32,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 5,
+        ["points"] = 4449.39,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 4,
+        ["points"] = 6475.06,
+      },
+      ["Sindragosa"] = {
+        ["kill_count"] = 1,
+        ["points"] = 3968.53,
+      },
+      ["The Lich King"] = {
+        ["kill_count"] = 1,
+        ["points"] = 4971.11,
       },
     },
   },
   ["Diikei"] = {
     ["percentile"] = 47.01,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 950,
+    ["overall_rank"] = 951,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -42803,49 +42846,6 @@ UWULogsData[0][2] = {
       ["The Lich King"] = {
         ["kill_count"] = 1,
         ["points"] = 6367.51,
-      },
-    },
-  },
-  ["Clichedk"] = {
-    ["percentile"] = 47.01,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 951,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 5,
-        ["points"] = 4644.64,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 5,
-        ["points"] = 6252.19,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 5,
-        ["points"] = 5922.44,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 5,
-        ["points"] = 5783.34,
-      },
-      ["Professor Putricide"] = {
-        ["kill_count"] = 2,
-        ["points"] = 4537.32,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 5,
-        ["points"] = 4449.39,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 4,
-        ["points"] = 6474.55,
-      },
-      ["Sindragosa"] = {
-        ["kill_count"] = 1,
-        ["points"] = 3968.53,
-      },
-      ["The Lich King"] = {
-        ["kill_count"] = 1,
-        ["points"] = 4971.11,
       },
     },
   },
@@ -42923,7 +42923,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 4712.59,
+        ["points"] = 4708.03,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -42958,7 +42958,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 12,
-        ["points"] = 9308.07,
+        ["points"] = 9308.18,
       },
     },
   },
@@ -42973,7 +42973,7 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 7254.21,
+        ["points"] = 7255.02,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -43016,7 +43016,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 8,
-        ["points"] = 8942.96,
+        ["points"] = 8943.11,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -43040,7 +43040,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 6617.91,
+        ["points"] = 6618.4,
       },
     },
   },
@@ -43071,7 +43071,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 6919.25,
+        ["points"] = 6919.7,
       },
     },
   },
@@ -43102,7 +43102,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8158.29,
+        ["points"] = 8158.57,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -43137,7 +43137,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 9742.54,
+        ["points"] = 9742.58,
       },
     },
   },
@@ -43211,7 +43211,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 6879.75,
+        ["points"] = 6880.21,
       },
     },
   },
@@ -43308,7 +43308,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 9283.48,
+        ["points"] = 9283.59,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -43359,7 +43359,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 9480.69,
+        ["points"] = 9480.77,
       },
     },
   },
@@ -43441,11 +43441,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 4671.53,
+        ["points"] = 4666.97,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 6763.68,
+        ["points"] = 6764.43,
       },
     },
   },
@@ -43472,11 +43472,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8215.8,
+        ["points"] = 8216.07,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8961.38,
+        ["points"] = 8961.53,
       },
     },
   },
@@ -43491,11 +43491,11 @@ UWULogsData[0][2] = {
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
-        ["points"] = 4629.4,
+        ["points"] = 4628.8,
       },
       ["Festergut"] = {
         ["kill_count"] = 1,
-        ["points"] = 8215.4,
+        ["points"] = 8215.1,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -43503,11 +43503,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 5053.4,
+        ["points"] = 5053.0,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 6520.6,
+        ["points"] = 6520.4,
       },
     },
   },
@@ -43589,7 +43589,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 7618.49,
+        ["points"] = 7618.84,
       },
     },
   },
@@ -43768,7 +43768,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5648.07,
+        ["points"] = 5649.35,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -43819,11 +43819,11 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 7161.02,
+        ["points"] = 7156.31,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9169.1,
+        ["points"] = 9169.23,
       },
     },
   },
@@ -43858,7 +43858,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 7748.68,
+        ["points"] = 7749.01,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -43873,7 +43873,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 9120.32,
+        ["points"] = 9120.44,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -43893,7 +43893,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 9433.88,
+        ["points"] = 9433.96,
       },
     },
   },
@@ -43947,7 +43947,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 9771.57,
+        ["points"] = 9771.6,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -43955,7 +43955,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 1,
-        ["points"] = 9209.11,
+        ["points"] = 9209.19,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -43967,7 +43967,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 8997.95,
+        ["points"] = 8998.1,
       },
     },
   },
@@ -44041,7 +44041,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 9163.25,
+        ["points"] = 9163.38,
       },
     },
   },
@@ -44056,15 +44056,15 @@ UWULogsData[0][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5881.2,
+        ["points"] = 5880.7,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
-        ["points"] = 8555.26,
+        ["points"] = 8553.77,
       },
       ["Festergut"] = {
         ["kill_count"] = 12,
-        ["points"] = 5975.9,
+        ["points"] = 5975.8,
       },
       ["Rotface"] = {
         ["kill_count"] = 12,
@@ -44080,7 +44080,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 12,
-        ["points"] = 8757.2,
+        ["points"] = 8756.9,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -44111,7 +44111,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8075.06,
+        ["points"] = 8075.35,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -44146,7 +44146,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9152.54,
+        ["points"] = 9152.67,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -44232,10 +44232,41 @@ UWULogsData[0][2] = {
       },
     },
   },
-  ["Latchare"] = {
+  ["Yiu"] = {
     ["percentile"] = 46.01,
     ["server"] = "Icecrown",
     ["overall_rank"] = 989,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 8,
+        ["points"] = 7938.06,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 8,
+        ["points"] = 7436.76,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 8,
+        ["points"] = 6991.32,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 8,
+        ["points"] = 7162.38,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 8,
+        ["points"] = 7495.29,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 8,
+        ["points"] = 8982.01,
+      },
+    },
+  },
+  ["Latchare"] = {
+    ["percentile"] = 46.01,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 990,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
@@ -44267,42 +44298,11 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 4812.96,
+        ["points"] = 4808.39,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
         ["points"] = 3368.68,
-      },
-    },
-  },
-  ["Yiu"] = {
-    ["percentile"] = 46.01,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 990,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 8,
-        ["points"] = 7938.06,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 8,
-        ["points"] = 7436.76,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 8,
-        ["points"] = 6991.32,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 8,
-        ["points"] = 7162.38,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 8,
-        ["points"] = 7495.29,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 8,
-        ["points"] = 8981.86,
       },
     },
   },
@@ -44368,7 +44368,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 6726.16,
+        ["points"] = 6726.63,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -44489,7 +44489,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 8208.02,
+        ["points"] = 8208.28,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -44524,7 +44524,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8525.45,
+        ["points"] = 8525.67,
       },
     },
   },
@@ -44555,7 +44555,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 11,
-        ["points"] = 7897.89,
+        ["points"] = 7898.2,
       },
     },
   },
@@ -44590,7 +44590,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 9659.16,
+        ["points"] = 9659.21,
       },
     },
   },

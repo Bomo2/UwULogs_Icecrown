@@ -5195,7 +5195,7 @@ UWULogsData[9][3] = {
   ["Honor"] = {
     ["percentile"] = 45.66,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 8908,
+    ["overall_rank"] = 8911,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
@@ -13309,7 +13309,7 @@ UWULogsData[9][3] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 7057.84,
+        ["points"] = 7059.6,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -13325,7 +13325,7 @@ UWULogsData[9][3] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 6686.5,
+        ["points"] = 6687.96,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -13337,7 +13337,7 @@ UWULogsData[9][3] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 8421.95,
+        ["points"] = 8421.89,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,

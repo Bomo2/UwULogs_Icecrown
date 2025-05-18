@@ -24152,11 +24152,11 @@ UWULogsData[3][1] = {
   ["Sunmazu"] = {
     ["percentile"] = 5.98,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 9416,
+    ["overall_rank"] = 9418,
     ["bosses"] = {
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 5480.0,
+        ["points"] = 5479.6,
       },
     },
   },
