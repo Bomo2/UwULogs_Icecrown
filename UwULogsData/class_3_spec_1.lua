@@ -28588,9 +28588,9 @@ UWULogsData[3][1] = {
     ["overall_rank"] = 9402,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 20665,
+        ["rank_raids"] = 20666,
         ["kill_count"] = 1,
-        ["points"] = 5484.5,
+        ["points"] = 5484.4,
       },
     },
   },

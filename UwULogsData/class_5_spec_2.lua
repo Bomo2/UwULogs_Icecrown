@@ -49,7 +49,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 4,
         ["kill_count"] = 7,
-        ["points"] = 9972.01,
+        ["points"] = 9972.04,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1,
@@ -106,7 +106,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 141,
         ["kill_count"] = 6,
-        ["points"] = 8694.03,
+        ["points"] = 8695.25,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 67,
@@ -163,7 +163,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 93,
         ["kill_count"] = 8,
-        ["points"] = 9141.79,
+        ["points"] = 9142.59,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 14,
@@ -173,7 +173,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Yenneferka"] = {
-    ["percentile"] = 88.82,
+    ["percentile"] = 88.81,
     ["server"] = "Icecrown",
     ["overall_rank"] = 4,
     ["bosses"] = {
@@ -218,9 +218,9 @@ UWULogsData[5][2] = {
         ["points"] = 8730.87,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 351,
+        ["rank_raids"] = 352,
         ["kill_count"] = 23,
-        ["points"] = 6735.07,
+        ["points"] = 6728.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 112,
@@ -277,7 +277,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 38,
         ["kill_count"] = 7,
-        ["points"] = 9654.85,
+        ["points"] = 9655.17,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 24,
@@ -386,7 +386,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 22,
         ["kill_count"] = 3,
-        ["points"] = 9804.1,
+        ["points"] = 9804.29,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 9,
@@ -443,7 +443,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 32,
         ["kill_count"] = 14,
-        ["points"] = 9710.82,
+        ["points"] = 9711.09,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 61,
@@ -498,9 +498,9 @@ UWULogsData[5][2] = {
         ["points"] = 6399.64,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 913,
+        ["rank_raids"] = 914,
         ["kill_count"] = 1,
-        ["points"] = 1492.54,
+        ["points"] = 1491.15,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 53,
@@ -557,7 +557,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 183,
         ["kill_count"] = 4,
-        ["points"] = 8302.24,
+        ["points"] = 8303.82,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 99,
@@ -614,7 +614,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 75,
         ["kill_count"] = 5,
-        ["points"] = 9309.7,
+        ["points"] = 9310.34,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 70,
@@ -666,7 +666,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 46,
         ["kill_count"] = 12,
-        ["points"] = 9580.22,
+        ["points"] = 9580.62,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 47,
@@ -723,7 +723,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 76,
         ["kill_count"] = 5,
-        ["points"] = 9300.37,
+        ["points"] = 9301.03,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 8,
@@ -780,7 +780,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 61,
         ["kill_count"] = 5,
-        ["points"] = 9440.3,
+        ["points"] = 9440.82,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 164,
@@ -837,7 +837,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 49,
         ["kill_count"] = 8,
-        ["points"] = 9552.24,
+        ["points"] = 9552.66,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 36,
@@ -889,7 +889,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 311,
         ["kill_count"] = 1,
-        ["points"] = 7108.21,
+        ["points"] = 7110.9,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 222,
@@ -899,7 +899,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Rabbitpriest"] = {
-    ["percentile"] = 81.71,
+    ["percentile"] = 81.72,
     ["server"] = "Icecrown",
     ["overall_rank"] = 17,
     ["bosses"] = {
@@ -946,7 +946,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 39,
         ["kill_count"] = 26,
-        ["points"] = 9645.52,
+        ["points"] = 9645.85,
       },
     },
   },
@@ -998,12 +998,12 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 102,
         ["kill_count"] = 5,
-        ["points"] = 9057.84,
+        ["points"] = 9058.71,
       },
     },
   },
   ["Nethercore"] = {
-    ["percentile"] = 80.65,
+    ["percentile"] = 80.64,
     ["server"] = "Icecrown",
     ["overall_rank"] = 19,
     ["bosses"] = {
@@ -1048,9 +1048,9 @@ UWULogsData[5][2] = {
         ["points"] = 9477.95,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 425,
+        ["rank_raids"] = 426,
         ["kill_count"] = 5,
-        ["points"] = 6044.78,
+        ["points"] = 6039.14,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 15,
@@ -1107,7 +1107,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 35,
         ["kill_count"] = 3,
-        ["points"] = 9682.84,
+        ["points"] = 9683.13,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 38,
@@ -1164,7 +1164,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 205,
         ["kill_count"] = 4,
-        ["points"] = 8097.01,
+        ["points"] = 8098.79,
       },
     },
   },
@@ -1211,7 +1211,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 9,
         ["kill_count"] = 7,
-        ["points"] = 9925.37,
+        ["points"] = 9925.44,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 10,
@@ -1221,7 +1221,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Meshaq"] = {
-    ["percentile"] = 78.71,
+    ["percentile"] = 78.7,
     ["server"] = "Icecrown",
     ["overall_rank"] = 23,
     ["bosses"] = {
@@ -1266,9 +1266,9 @@ UWULogsData[5][2] = {
         ["points"] = 8721.87,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 561,
+        ["rank_raids"] = 562,
         ["kill_count"] = 1,
-        ["points"] = 4776.12,
+        ["points"] = 4771.67,
       },
     },
   },
@@ -1315,7 +1315,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 127,
         ["kill_count"] = 9,
-        ["points"] = 8824.63,
+        ["points"] = 8825.72,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 48,
@@ -1367,7 +1367,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 13,
         ["kill_count"] = 2,
-        ["points"] = 9888.06,
+        ["points"] = 9888.16,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 160,
@@ -1422,9 +1422,9 @@ UWULogsData[5][2] = {
         ["points"] = 9333.93,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 633,
+        ["rank_raids"] = 634,
         ["kill_count"] = 1,
-        ["points"] = 4104.48,
+        ["points"] = 4100.65,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 111,
@@ -1434,7 +1434,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Silvermyth"] = {
-    ["percentile"] = 76.64,
+    ["percentile"] = 76.65,
     ["server"] = "Icecrown",
     ["overall_rank"] = 27,
     ["bosses"] = {
@@ -1481,7 +1481,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 118,
         ["kill_count"] = 8,
-        ["points"] = 8908.58,
+        ["points"] = 8909.6,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 76,
@@ -1538,7 +1538,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 125,
         ["kill_count"] = 7,
-        ["points"] = 8843.28,
+        ["points"] = 8844.36,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 154,
@@ -1595,7 +1595,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 148,
         ["kill_count"] = 7,
-        ["points"] = 8628.73,
+        ["points"] = 8630.01,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 113,
@@ -1647,7 +1647,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 71,
         ["kill_count"] = 16,
-        ["points"] = 9347.01,
+        ["points"] = 9347.62,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 58,
@@ -1704,7 +1704,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 174,
         ["kill_count"] = 1,
-        ["points"] = 8386.19,
+        ["points"] = 8387.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 145,
@@ -1714,7 +1714,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Easypeasie"] = {
-    ["percentile"] = 74.92,
+    ["percentile"] = 74.91,
     ["server"] = "Icecrown",
     ["overall_rank"] = 32,
     ["bosses"] = {
@@ -1759,9 +1759,9 @@ UWULogsData[5][2] = {
         ["points"] = 9306.93,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 433,
+        ["rank_raids"] = 434,
         ["kill_count"] = 2,
-        ["points"] = 5970.15,
+        ["points"] = 5964.59,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 165,
@@ -1771,7 +1771,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Shally"] = {
-    ["percentile"] = 74.81,
+    ["percentile"] = 74.82,
     ["server"] = "Icecrown",
     ["overall_rank"] = 33,
     ["bosses"] = {
@@ -1818,7 +1818,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 193,
         ["kill_count"] = 3,
-        ["points"] = 8208.96,
+        ["points"] = 8210.62,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 106,
@@ -1873,9 +1873,9 @@ UWULogsData[5][2] = {
         ["points"] = 9072.91,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 754,
+        ["rank_raids"] = 755,
         ["kill_count"] = 1,
-        ["points"] = 2975.75,
+        ["points"] = 2972.97,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 182,
@@ -1932,7 +1932,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 55,
         ["kill_count"] = 8,
-        ["points"] = 9496.27,
+        ["points"] = 9496.74,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 51,
@@ -1989,7 +1989,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 240,
         ["kill_count"] = 3,
-        ["points"] = 7770.52,
+        ["points"] = 7772.6,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 120,
@@ -1999,7 +1999,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Multihealz"] = {
-    ["percentile"] = 73.57,
+    ["percentile"] = 73.56,
     ["server"] = "Icecrown",
     ["overall_rank"] = 37,
     ["bosses"] = {
@@ -2039,9 +2039,9 @@ UWULogsData[5][2] = {
         ["points"] = 8127.81,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 422,
+        ["rank_raids"] = 423,
         ["kill_count"] = 1,
-        ["points"] = 6072.76,
+        ["points"] = 6067.1,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 156,
@@ -2098,7 +2098,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 259,
         ["kill_count"] = 5,
-        ["points"] = 7593.28,
+        ["points"] = 7595.53,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 167,
@@ -2150,7 +2150,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 184,
         ["kill_count"] = 1,
-        ["points"] = 8292.91,
+        ["points"] = 8294.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 368,
@@ -2207,7 +2207,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 338,
         ["kill_count"] = 2,
-        ["points"] = 6856.34,
+        ["points"] = 6859.27,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 75,
@@ -2262,9 +2262,9 @@ UWULogsData[5][2] = {
         ["points"] = 8172.82,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 851,
+        ["rank_raids"] = 852,
         ["kill_count"] = 2,
-        ["points"] = 2070.9,
+        ["points"] = 2068.97,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 83,
@@ -2319,9 +2319,9 @@ UWULogsData[5][2] = {
         ["points"] = 7785.78,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 353,
+        ["rank_raids"] = 354,
         ["kill_count"] = 1,
-        ["points"] = 6716.42,
+        ["points"] = 6710.16,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 94,
@@ -2373,7 +2373,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 28,
         ["kill_count"] = 1,
-        ["points"] = 9748.13,
+        ["points"] = 9748.37,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 208,
@@ -2428,9 +2428,9 @@ UWULogsData[5][2] = {
         ["points"] = 8793.88,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 860,
+        ["rank_raids"] = 861,
         ["kill_count"] = 1,
-        ["points"] = 1986.94,
+        ["points"] = 1985.09,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 248,
@@ -2482,7 +2482,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 126,
         ["kill_count"] = 4,
-        ["points"] = 8833.96,
+        ["points"] = 8835.04,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 30,
@@ -2534,7 +2534,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 122,
         ["kill_count"] = 7,
-        ["points"] = 8871.27,
+        ["points"] = 8872.32,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 362,
@@ -2591,7 +2591,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 142,
         ["kill_count"] = 9,
-        ["points"] = 8684.7,
+        ["points"] = 8685.93,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 171,
@@ -2648,7 +2648,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 82,
         ["kill_count"] = 2,
-        ["points"] = 9244.4,
+        ["points"] = 9245.11,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 57,
@@ -2658,7 +2658,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Holyktong"] = {
-    ["percentile"] = 65.21,
+    ["percentile"] = 65.2,
     ["server"] = "Icecrown",
     ["overall_rank"] = 49,
     ["bosses"] = {
@@ -2698,9 +2698,9 @@ UWULogsData[5][2] = {
         ["points"] = 8532.85,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 364,
+        ["rank_raids"] = 365,
         ["kill_count"] = 5,
-        ["points"] = 6613.81,
+        ["points"] = 6607.64,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 45,
@@ -2710,7 +2710,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Hongchabiao"] = {
-    ["percentile"] = 65.09,
+    ["percentile"] = 65.08,
     ["server"] = "Icecrown",
     ["overall_rank"] = 50,
     ["bosses"] = {
@@ -2755,9 +2755,9 @@ UWULogsData[5][2] = {
         ["points"] = 8901.89,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 650,
+        ["rank_raids"] = 651,
         ["kill_count"] = 1,
-        ["points"] = 3945.9,
+        ["points"] = 3942.22,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 336,
@@ -2809,7 +2809,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 56,
         ["kill_count"] = 4,
-        ["points"] = 9486.94,
+        ["points"] = 9487.42,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 66,
@@ -2864,9 +2864,9 @@ UWULogsData[5][2] = {
         ["points"] = 7389.74,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 365,
+        ["rank_raids"] = 366,
         ["kill_count"] = 6,
-        ["points"] = 6604.48,
+        ["points"] = 6598.32,
       },
     },
   },
@@ -2916,9 +2916,9 @@ UWULogsData[5][2] = {
         ["points"] = 8973.9,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 967,
+        ["rank_raids"] = 968,
         ["kill_count"] = 3,
-        ["points"] = 988.81,
+        ["points"] = 987.88,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 86,
@@ -2928,7 +2928,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Bengie"] = {
-    ["percentile"] = 64.87,
+    ["percentile"] = 64.86,
     ["server"] = "Icecrown",
     ["overall_rank"] = 54,
     ["bosses"] = {
@@ -2968,9 +2968,9 @@ UWULogsData[5][2] = {
         ["points"] = 8766.88,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 370,
+        ["rank_raids"] = 371,
         ["kill_count"] = 1,
-        ["points"] = 6557.84,
+        ["points"] = 6551.72,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 268,
@@ -3022,7 +3022,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 301,
         ["kill_count"] = 4,
-        ["points"] = 7201.49,
+        ["points"] = 7204.1,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 380,
@@ -3079,7 +3079,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 222,
         ["kill_count"] = 3,
-        ["points"] = 7938.43,
+        ["points"] = 7940.35,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 437,
@@ -3131,7 +3131,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 220,
         ["kill_count"] = 6,
-        ["points"] = 7957.09,
+        ["points"] = 7958.99,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 286,
@@ -3181,9 +3181,9 @@ UWULogsData[5][2] = {
         ["points"] = 8037.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 569,
+        ["rank_raids"] = 570,
         ["kill_count"] = 3,
-        ["points"] = 4701.49,
+        ["points"] = 4697.11,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 133,
@@ -3235,7 +3235,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 293,
         ["kill_count"] = 1,
-        ["points"] = 7276.12,
+        ["points"] = 7278.66,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 29,
@@ -3245,7 +3245,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Katerinhe"] = {
-    ["percentile"] = 62.86,
+    ["percentile"] = 62.85,
     ["server"] = "Icecrown",
     ["overall_rank"] = 60,
     ["bosses"] = {
@@ -3290,14 +3290,14 @@ UWULogsData[5][2] = {
         ["points"] = 6516.65,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 742,
+        ["rank_raids"] = 743,
         ["kill_count"] = 1,
-        ["points"] = 3087.69,
+        ["points"] = 3084.81,
       },
     },
   },
   ["Virgensita"] = {
-    ["percentile"] = 62.63,
+    ["percentile"] = 62.62,
     ["server"] = "Icecrown",
     ["overall_rank"] = 61,
     ["bosses"] = {
@@ -3342,9 +3342,9 @@ UWULogsData[5][2] = {
         ["points"] = 4383.44,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 452,
+        ["rank_raids"] = 453,
         ["kill_count"] = 2,
-        ["points"] = 5792.91,
+        ["points"] = 5787.51,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 321,
@@ -3354,7 +3354,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Seraphimtrol"] = {
-    ["percentile"] = 62.3,
+    ["percentile"] = 62.29,
     ["server"] = "Icecrown",
     ["overall_rank"] = 62,
     ["bosses"] = {
@@ -3399,9 +3399,9 @@ UWULogsData[5][2] = {
         ["points"] = 3312.33,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 393,
+        ["rank_raids"] = 394,
         ["kill_count"] = 2,
-        ["points"] = 6343.28,
+        ["points"] = 6337.37,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 322,
@@ -3458,7 +3458,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 7,
         ["kill_count"] = 3,
-        ["points"] = 9944.03,
+        ["points"] = 9944.08,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 262,
@@ -3503,9 +3503,9 @@ UWULogsData[5][2] = {
         ["points"] = 8136.81,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 348,
+        ["rank_raids"] = 349,
         ["kill_count"] = 4,
-        ["points"] = 6763.06,
+        ["points"] = 6756.76,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 378,
@@ -3515,7 +3515,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Healbunny"] = {
-    ["percentile"] = 61.75,
+    ["percentile"] = 61.74,
     ["server"] = "Icecrown",
     ["overall_rank"] = 65,
     ["bosses"] = {
@@ -3560,9 +3560,9 @@ UWULogsData[5][2] = {
         ["points"] = 5373.54,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 470,
+        ["rank_raids"] = 471,
         ["kill_count"] = 1,
-        ["points"] = 5625.0,
+        ["points"] = 5619.76,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 25,
@@ -3609,7 +3609,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 2,
         ["kill_count"] = 9,
-        ["points"] = 9990.67,
+        ["points"] = 9990.68,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 192,
@@ -3619,7 +3619,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Sanatsu"] = {
-    ["percentile"] = 61.54,
+    ["percentile"] = 61.53,
     ["server"] = "Icecrown",
     ["overall_rank"] = 67,
     ["bosses"] = {
@@ -3659,9 +3659,9 @@ UWULogsData[5][2] = {
         ["points"] = 9090.91,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 450,
+        ["rank_raids"] = 451,
         ["kill_count"] = 5,
-        ["points"] = 5811.57,
+        ["points"] = 5806.15,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 146,
@@ -3708,7 +3708,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 226,
         ["kill_count"] = 1,
-        ["points"] = 7901.12,
+        ["points"] = 7903.08,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 341,
@@ -3763,9 +3763,9 @@ UWULogsData[5][2] = {
         ["points"] = 6642.66,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 417,
+        ["rank_raids"] = 418,
         ["kill_count"] = 4,
-        ["points"] = 6119.4,
+        ["points"] = 6113.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 41,
@@ -3820,9 +3820,9 @@ UWULogsData[5][2] = {
         ["points"] = 9207.92,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 532,
+        ["rank_raids"] = 533,
         ["kill_count"] = 3,
-        ["points"] = 5046.64,
+        ["points"] = 5041.94,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 306,
@@ -3832,7 +3832,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Mpr"] = {
-    ["percentile"] = 59.61,
+    ["percentile"] = 59.6,
     ["server"] = "Icecrown",
     ["overall_rank"] = 71,
     ["bosses"] = {
@@ -3877,9 +3877,9 @@ UWULogsData[5][2] = {
         ["points"] = 4599.46,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 344,
+        ["rank_raids"] = 345,
         ["kill_count"] = 1,
-        ["points"] = 6800.37,
+        ["points"] = 6794.04,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 115,
@@ -3931,7 +3931,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 172,
         ["kill_count"] = 9,
-        ["points"] = 8404.85,
+        ["points"] = 8406.34,
       },
     },
   },
@@ -4010,7 +4010,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 6,
         ["kill_count"] = 1,
-        ["points"] = 9953.36,
+        ["points"] = 9953.4,
       },
     },
   },
@@ -4055,9 +4055,9 @@ UWULogsData[5][2] = {
         ["points"] = 5652.57,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 427,
+        ["rank_raids"] = 428,
         ["kill_count"] = 3,
-        ["points"] = 6026.12,
+        ["points"] = 6020.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 313,
@@ -4102,9 +4102,9 @@ UWULogsData[5][2] = {
         ["points"] = 9342.93,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 1030,
+        ["rank_raids"] = 1031,
         ["kill_count"] = 3,
-        ["points"] = 401.12,
+        ["points"] = 400.75,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 35,
@@ -4146,7 +4146,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 81,
         ["kill_count"] = 3,
-        ["points"] = 9253.73,
+        ["points"] = 9254.43,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 22,
@@ -4203,7 +4203,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 255,
         ["kill_count"] = 2,
-        ["points"] = 7630.6,
+        ["points"] = 7632.81,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 157,
@@ -4213,7 +4213,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Ellcore"] = {
-    ["percentile"] = 57.23,
+    ["percentile"] = 57.22,
     ["server"] = "Icecrown",
     ["overall_rank"] = 79,
     ["bosses"] = {
@@ -4253,14 +4253,14 @@ UWULogsData[5][2] = {
         ["points"] = 5418.54,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 733,
+        ["rank_raids"] = 734,
         ["kill_count"] = 1,
-        ["points"] = 3171.64,
+        ["points"] = 3168.69,
       },
     },
   },
   ["Bangout"] = {
-    ["percentile"] = 56.79,
+    ["percentile"] = 56.78,
     ["server"] = "Icecrown",
     ["overall_rank"] = 80,
     ["bosses"] = {
@@ -4305,9 +4305,9 @@ UWULogsData[5][2] = {
         ["points"] = 9441.94,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 567,
+        ["rank_raids"] = 568,
         ["kill_count"] = 1,
-        ["points"] = 4720.15,
+        ["points"] = 4715.75,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 200,
@@ -4317,7 +4317,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Reviac"] = {
-    ["percentile"] = 56.27,
+    ["percentile"] = 56.26,
     ["server"] = "Icecrown",
     ["overall_rank"] = 81,
     ["bosses"] = {
@@ -4357,9 +4357,9 @@ UWULogsData[5][2] = {
         ["points"] = 9711.97,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 943,
+        ["rank_raids"] = 944,
         ["kill_count"] = 1,
-        ["points"] = 1212.69,
+        ["points"] = 1211.56,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 339,
@@ -4369,7 +4369,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Shoko"] = {
-    ["percentile"] = 55.98,
+    ["percentile"] = 55.99,
     ["server"] = "Icecrown",
     ["overall_rank"] = 82,
     ["bosses"] = {
@@ -4406,7 +4406,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 262,
         ["kill_count"] = 3,
-        ["points"] = 7565.3,
+        ["points"] = 7567.57,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 79,
@@ -4458,7 +4458,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 257,
         ["kill_count"] = 1,
-        ["points"] = 7611.94,
+        ["points"] = 7614.17,
       },
     },
   },
@@ -4510,7 +4510,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 273,
         ["kill_count"] = 2,
-        ["points"] = 7462.69,
+        ["points"] = 7465.05,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 297,
@@ -4567,7 +4567,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 117,
         ["kill_count"] = 4,
-        ["points"] = 8917.91,
+        ["points"] = 8918.92,
       },
     },
   },
@@ -4609,7 +4609,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 272,
         ["kill_count"] = 2,
-        ["points"] = 7472.01,
+        ["points"] = 7474.37,
       },
     },
   },
@@ -4703,7 +4703,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 62,
         ["kill_count"] = 4,
-        ["points"] = 9430.97,
+        ["points"] = 9431.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 285,
@@ -4834,7 +4834,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 209,
         ["kill_count"] = 3,
-        ["points"] = 8059.7,
+        ["points"] = 8061.51,
       },
     },
   },
@@ -4881,7 +4881,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 159,
         ["kill_count"] = 10,
-        ["points"] = 8526.12,
+        ["points"] = 8527.49,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 373,
@@ -4980,7 +4980,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 33,
         ["kill_count"] = 2,
-        ["points"] = 9701.49,
+        ["points"] = 9701.77,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 294,
@@ -5030,9 +5030,9 @@ UWULogsData[5][2] = {
         ["points"] = 6380.21,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 403,
+        ["rank_raids"] = 404,
         ["kill_count"] = 1,
-        ["points"] = 6250.0,
+        ["points"] = 6244.18,
       },
     },
   },
@@ -5072,9 +5072,9 @@ UWULogsData[5][2] = {
         ["points"] = 9432.94,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 676,
+        ["rank_raids"] = 677,
         ["kill_count"] = 13,
-        ["points"] = 3703.36,
+        ["points"] = 3699.91,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 162,
@@ -5084,7 +5084,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Noicanicula"] = {
-    ["percentile"] = 51.48,
+    ["percentile"] = 51.49,
     ["server"] = "Icecrown",
     ["overall_rank"] = 97,
     ["bosses"] = {
@@ -5126,7 +5126,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 73,
         ["kill_count"] = 2,
-        ["points"] = 9328.36,
+        ["points"] = 9328.98,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 49,
@@ -5173,7 +5173,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 144,
         ["kill_count"] = 2,
-        ["points"] = 8666.04,
+        ["points"] = 8667.29,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 140,
@@ -5208,9 +5208,9 @@ UWULogsData[5][2] = {
         ["points"] = 7938.79,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 552,
+        ["rank_raids"] = 553,
         ["kill_count"] = 1,
-        ["points"] = 4860.07,
+        ["points"] = 4855.55,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 23,
@@ -5220,7 +5220,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Ivka"] = {
-    ["percentile"] = 50.96,
+    ["percentile"] = 50.95,
     ["server"] = "Icecrown",
     ["overall_rank"] = 100,
     ["bosses"] = {
@@ -5260,9 +5260,9 @@ UWULogsData[5][2] = {
         ["points"] = 4455.45,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 523,
+        ["rank_raids"] = 524,
         ["kill_count"] = 6,
-        ["points"] = 5130.6,
+        ["points"] = 5125.82,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 100,
@@ -5272,7 +5272,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Epicpriest"] = {
-    ["percentile"] = 50.87,
+    ["percentile"] = 50.86,
     ["server"] = "Icecrown",
     ["overall_rank"] = 101,
     ["bosses"] = {
@@ -5312,14 +5312,14 @@ UWULogsData[5][2] = {
         ["points"] = 8055.81,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 398,
+        ["rank_raids"] = 399,
         ["kill_count"] = 1,
-        ["points"] = 6296.64,
+        ["points"] = 6290.77,
       },
     },
   },
   ["Leitedarck"] = {
-    ["percentile"] = 50.5,
+    ["percentile"] = 50.49,
     ["server"] = "Icecrown",
     ["overall_rank"] = 102,
     ["bosses"] = {
@@ -5359,14 +5359,14 @@ UWULogsData[5][2] = {
         ["points"] = 5499.55,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 701,
+        ["rank_raids"] = 702,
         ["kill_count"] = 1,
-        ["points"] = 3470.15,
+        ["points"] = 3466.92,
       },
     },
   },
   ["Daddyrob"] = {
-    ["percentile"] = 50.35,
+    ["percentile"] = 50.36,
     ["server"] = "Icecrown",
     ["overall_rank"] = 103,
     ["bosses"] = {
@@ -5408,7 +5408,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 229,
         ["kill_count"] = 11,
-        ["points"] = 7873.13,
+        ["points"] = 7875.12,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 168,
@@ -5418,7 +5418,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Honzi"] = {
-    ["percentile"] = 50.29,
+    ["percentile"] = 50.28,
     ["server"] = "Icecrown",
     ["overall_rank"] = 104,
     ["bosses"] = {
@@ -5458,9 +5458,9 @@ UWULogsData[5][2] = {
         ["points"] = 6768.68,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 639,
+        ["rank_raids"] = 640,
         ["kill_count"] = 2,
-        ["points"] = 4048.51,
+        ["points"] = 4044.73,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 353,
@@ -5507,7 +5507,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 281,
         ["kill_count"] = 1,
-        ["points"] = 7388.06,
+        ["points"] = 7390.49,
       },
     },
   },
@@ -5552,9 +5552,9 @@ UWULogsData[5][2] = {
         ["points"] = 765.08,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 541,
+        ["rank_raids"] = 542,
         ["kill_count"] = 1,
-        ["points"] = 4962.69,
+        ["points"] = 4958.06,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 28,
@@ -5564,7 +5564,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Mahakek"] = {
-    ["percentile"] = 48.99,
+    ["percentile"] = 48.98,
     ["server"] = "Icecrown",
     ["overall_rank"] = 107,
     ["bosses"] = {
@@ -5599,9 +5599,9 @@ UWULogsData[5][2] = {
         ["points"] = 8505.85,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 352,
+        ["rank_raids"] = 353,
         ["kill_count"] = 1,
-        ["points"] = 6725.75,
+        ["points"] = 6719.48,
       },
     },
   },
@@ -5643,7 +5643,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 283,
         ["kill_count"] = 4,
-        ["points"] = 7369.4,
+        ["points"] = 7371.85,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 78,
@@ -5653,7 +5653,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Superrman"] = {
-    ["percentile"] = 48.82,
+    ["percentile"] = 48.81,
     ["server"] = "Icecrown",
     ["overall_rank"] = 109,
     ["bosses"] = {
@@ -5693,9 +5693,9 @@ UWULogsData[5][2] = {
         ["points"] = 7596.76,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 363,
+        ["rank_raids"] = 364,
         ["kill_count"] = 8,
-        ["points"] = 6623.13,
+        ["points"] = 6616.96,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 104,
@@ -5750,9 +5750,9 @@ UWULogsData[5][2] = {
         ["points"] = 4770.48,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 714,
+        ["rank_raids"] = 715,
         ["kill_count"] = 1,
-        ["points"] = 3348.88,
+        ["points"] = 3345.76,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 143,
@@ -5804,7 +5804,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 294,
         ["kill_count"] = 1,
-        ["points"] = 7266.79,
+        ["points"] = 7269.34,
       },
     },
   },
@@ -5846,7 +5846,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 179,
         ["kill_count"] = 2,
-        ["points"] = 8339.55,
+        ["points"] = 8341.1,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 127,
@@ -5935,7 +5935,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 91,
         ["kill_count"] = 6,
-        ["points"] = 9160.45,
+        ["points"] = 9161.23,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 346,
@@ -5985,9 +5985,9 @@ UWULogsData[5][2] = {
         ["points"] = 3897.39,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 747,
+        ["rank_raids"] = 748,
         ["kill_count"] = 1,
-        ["points"] = 3041.04,
+        ["points"] = 3038.21,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 405,
@@ -6034,7 +6034,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 292,
         ["kill_count"] = 3,
-        ["points"] = 7285.45,
+        ["points"] = 7287.98,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 116,
@@ -6089,9 +6089,9 @@ UWULogsData[5][2] = {
         ["points"] = 9738.97,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 508,
+        ["rank_raids"] = 509,
         ["kill_count"] = 1,
-        ["points"] = 5270.52,
+        ["points"] = 5265.61,
       },
     },
   },
@@ -6133,12 +6133,12 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 154,
         ["kill_count"] = 6,
-        ["points"] = 8572.76,
+        ["points"] = 8574.09,
       },
     },
   },
   ["Jhennyy"] = {
-    ["percentile"] = 47.66,
+    ["percentile"] = 47.65,
     ["server"] = "Icecrown",
     ["overall_rank"] = 119,
     ["bosses"] = {
@@ -6178,9 +6178,9 @@ UWULogsData[5][2] = {
         ["points"] = 4635.46,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 409,
+        ["rank_raids"] = 410,
         ["kill_count"] = 2,
-        ["points"] = 6194.03,
+        ["points"] = 6188.26,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 21,
@@ -6227,7 +6227,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 45,
         ["kill_count"] = 3,
-        ["points"] = 9589.55,
+        ["points"] = 9589.93,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 289,
@@ -6272,9 +6272,9 @@ UWULogsData[5][2] = {
         ["points"] = 6417.64,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 898,
+        ["rank_raids"] = 899,
         ["kill_count"] = 1,
-        ["points"] = 1632.46,
+        ["points"] = 1630.94,
       },
     },
   },
@@ -6324,9 +6324,9 @@ UWULogsData[5][2] = {
         ["points"] = 7029.7,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 1063,
+        ["rank_raids"] = 1064,
         ["kill_count"] = 3,
-        ["points"] = 98.52,
+        ["points"] = 98.28,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 68,
@@ -6371,9 +6371,9 @@ UWULogsData[5][2] = {
         ["points"] = 9225.92,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 892,
+        ["rank_raids"] = 893,
         ["kill_count"] = 1,
-        ["points"] = 1688.43,
+        ["points"] = 1686.86,
       },
     },
   },
@@ -6504,7 +6504,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Onegin"] = {
-    ["percentile"] = 45.37,
+    ["percentile"] = 45.38,
     ["server"] = "Icecrown",
     ["overall_rank"] = 128,
     ["bosses"] = {
@@ -6536,7 +6536,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 274,
         ["kill_count"] = 6,
-        ["points"] = 7453.36,
+        ["points"] = 7455.73,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 394,
@@ -6620,7 +6620,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 74,
         ["kill_count"] = 1,
-        ["points"] = 9319.03,
+        ["points"] = 9319.66,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 65,
@@ -6667,7 +6667,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 336,
         ["kill_count"] = 2,
-        ["points"] = 6875.0,
+        ["points"] = 6877.91,
       },
     },
   },
@@ -6707,9 +6707,9 @@ UWULogsData[5][2] = {
         ["points"] = 7047.7,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 843,
+        ["rank_raids"] = 844,
         ["kill_count"] = 4,
-        ["points"] = 2145.52,
+        ["points"] = 2143.52,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 60,
@@ -6754,9 +6754,9 @@ UWULogsData[5][2] = {
         ["points"] = 6111.61,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 644,
+        ["rank_raids"] = 645,
         ["kill_count"] = 1,
-        ["points"] = 4001.87,
+        ["points"] = 3998.14,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 125,
@@ -6811,9 +6811,9 @@ UWULogsData[5][2] = {
         ["points"] = 4680.47,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 903,
+        ["rank_raids"] = 904,
         ["kill_count"] = 1,
-        ["points"] = 1585.82,
+        ["points"] = 1584.34,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 183,
@@ -6823,7 +6823,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Depressiva"] = {
-    ["percentile"] = 43.87,
+    ["percentile"] = 43.86,
     ["server"] = "Icecrown",
     ["overall_rank"] = 135,
     ["bosses"] = {
@@ -6974,9 +6974,9 @@ UWULogsData[5][2] = {
         ["points"] = 3852.39,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 681,
+        ["rank_raids"] = 682,
         ["kill_count"] = 1,
-        ["points"] = 3656.72,
+        ["points"] = 3653.31,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 184,
@@ -6986,7 +6986,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Darkdeathvxv"] = {
-    ["percentile"] = 43.3,
+    ["percentile"] = 43.29,
     ["server"] = "Icecrown",
     ["overall_rank"] = 139,
     ["bosses"] = {
@@ -7016,9 +7016,9 @@ UWULogsData[5][2] = {
         ["points"] = 8906.25,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 441,
+        ["rank_raids"] = 442,
         ["kill_count"] = 4,
-        ["points"] = 5895.52,
+        ["points"] = 5890.03,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 428,
@@ -7060,7 +7060,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 244,
         ["kill_count"] = 3,
-        ["points"] = 7733.21,
+        ["points"] = 7735.32,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 213,
@@ -7226,9 +7226,9 @@ UWULogsData[5][2] = {
         ["points"] = 9450.95,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 512,
+        ["rank_raids"] = 513,
         ["kill_count"] = 2,
-        ["points"] = 5233.21,
+        ["points"] = 5228.33,
       },
     },
   },
@@ -7260,14 +7260,46 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 104,
         ["kill_count"] = 4,
-        ["points"] = 9039.18,
+        ["points"] = 9040.07,
+      },
+    },
+  },
+  ["Leohbzalkk"] = {
+    ["percentile"] = 42.18,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 146,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 29,
+        ["kill_count"] = 1,
+        ["points"] = 9611.65,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 218,
+        ["kill_count"] = 1,
+        ["points"] = 6206.29,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 125,
+        ["kill_count"] = 1,
+        ["points"] = 8402.06,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 108,
+        ["kill_count"] = 1,
+        ["points"] = 8606.77,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 92,
+        ["kill_count"] = 1,
+        ["points"] = 9180.92,
       },
     },
   },
   ["Pipii"] = {
-    ["percentile"] = 42.19,
+    ["percentile"] = 42.18,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 146,
+    ["overall_rank"] = 147,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 247,
@@ -7300,46 +7332,14 @@ UWULogsData[5][2] = {
         ["points"] = 8757.88,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 382,
+        ["rank_raids"] = 383,
         ["kill_count"] = 2,
-        ["points"] = 6445.9,
+        ["points"] = 6439.89,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 259,
         ["kill_count"] = 1,
         ["points"] = 4215.25,
-      },
-    },
-  },
-  ["Leohbzalkk"] = {
-    ["percentile"] = 42.18,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 147,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 29,
-        ["kill_count"] = 1,
-        ["points"] = 9611.65,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 218,
-        ["kill_count"] = 1,
-        ["points"] = 6206.29,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 125,
-        ["kill_count"] = 1,
-        ["points"] = 8402.06,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 108,
-        ["kill_count"] = 1,
-        ["points"] = 8606.77,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 92,
-        ["kill_count"] = 1,
-        ["points"] = 9180.92,
       },
     },
   },
@@ -7384,9 +7384,9 @@ UWULogsData[5][2] = {
         ["points"] = 2331.23,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 598,
+        ["rank_raids"] = 599,
         ["kill_count"] = 1,
-        ["points"] = 4430.97,
+        ["points"] = 4426.84,
       },
     },
   },
@@ -7458,9 +7458,9 @@ UWULogsData[5][2] = {
         ["points"] = 6489.65,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 629,
+        ["rank_raids"] = 630,
         ["kill_count"] = 1,
-        ["points"] = 4141.79,
+        ["points"] = 4137.93,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 335,
@@ -7502,7 +7502,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 271,
         ["kill_count"] = 5,
-        ["points"] = 7481.34,
+        ["points"] = 7483.69,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 275,
@@ -7547,9 +7547,9 @@ UWULogsData[5][2] = {
         ["points"] = 6750.68,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 996,
+        ["rank_raids"] = 997,
         ["kill_count"] = 1,
-        ["points"] = 718.28,
+        ["points"] = 717.61,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 205,
@@ -7591,7 +7591,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 57,
         ["kill_count"] = 1,
-        ["points"] = 9477.61,
+        ["points"] = 9478.1,
       },
     },
   },
@@ -7626,9 +7626,9 @@ UWULogsData[5][2] = {
         ["points"] = 8253.83,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 862,
+        ["rank_raids"] = 863,
         ["kill_count"] = 1,
-        ["points"] = 1968.28,
+        ["points"] = 1966.45,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 148,
@@ -7762,9 +7762,9 @@ UWULogsData[5][2] = {
         ["points"] = 5454.55,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 496,
+        ["rank_raids"] = 497,
         ["kill_count"] = 1,
-        ["points"] = 5382.46,
+        ["points"] = 5377.45,
       },
     },
   },
@@ -7888,9 +7888,9 @@ UWULogsData[5][2] = {
         ["points"] = 7857.79,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 442,
+        ["rank_raids"] = 443,
         ["kill_count"] = 3,
-        ["points"] = 5886.19,
+        ["points"] = 5880.71,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 246,
@@ -7937,7 +7937,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 212,
         ["kill_count"] = 3,
-        ["points"] = 8031.72,
+        ["points"] = 8033.55,
       },
     },
   },
@@ -7979,7 +7979,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Kinrofbank"] = {
-    ["percentile"] = 39.6,
+    ["percentile"] = 39.59,
     ["server"] = "Icecrown",
     ["overall_rank"] = 163,
     ["bosses"] = {
@@ -8014,9 +8014,9 @@ UWULogsData[5][2] = {
         ["points"] = 6867.69,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 495,
+        ["rank_raids"] = 496,
         ["kill_count"] = 1,
-        ["points"] = 5391.79,
+        ["points"] = 5386.77,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 72,
@@ -8063,7 +8063,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Chicagg"] = {
-    ["percentile"] = 39.26,
+    ["percentile"] = 39.27,
     ["server"] = "Icecrown",
     ["overall_rank"] = 165,
     ["bosses"] = {
@@ -8105,7 +8105,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 267,
         ["kill_count"] = 1,
-        ["points"] = 7518.66,
+        ["points"] = 7520.97,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 88,
@@ -8290,7 +8290,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 310,
         ["kill_count"] = 1,
-        ["points"] = 7117.54,
+        ["points"] = 7120.22,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 432,
@@ -8364,7 +8364,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 109,
         ["kill_count"] = 2,
-        ["points"] = 8992.54,
+        ["points"] = 8993.48,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 132,
@@ -8416,7 +8416,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 131,
         ["kill_count"] = 14,
-        ["points"] = 8787.31,
+        ["points"] = 8788.44,
       },
     },
   },
@@ -8480,7 +8480,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 169,
         ["kill_count"] = 9,
-        ["points"] = 8432.84,
+        ["points"] = 8434.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 73,
@@ -8520,9 +8520,9 @@ UWULogsData[5][2] = {
         ["points"] = 8199.82,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 981,
+        ["rank_raids"] = 982,
         ["kill_count"] = 2,
-        ["points"] = 858.21,
+        ["points"] = 857.41,
       },
     },
   },
@@ -8606,7 +8606,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Two"] = {
-    ["percentile"] = 36.7,
+    ["percentile"] = 36.69,
     ["server"] = "Icecrown",
     ["overall_rank"] = 179,
     ["bosses"] = {
@@ -8636,9 +8636,9 @@ UWULogsData[5][2] = {
         ["points"] = 9099.91,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 355,
+        ["rank_raids"] = 356,
         ["kill_count"] = 3,
-        ["points"] = 6697.76,
+        ["points"] = 6691.52,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 203,
@@ -8801,7 +8801,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Kosmos"] = {
-    ["percentile"] = 36.15,
+    ["percentile"] = 36.16,
     ["server"] = "Icecrown",
     ["overall_rank"] = 184,
     ["bosses"] = {
@@ -8833,7 +8833,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 214,
         ["kill_count"] = 3,
-        ["points"] = 8013.06,
+        ["points"] = 8014.91,
       },
     },
   },
@@ -8860,7 +8860,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 94,
         ["kill_count"] = 3,
-        ["points"] = 9132.46,
+        ["points"] = 9133.27,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 32,
@@ -8934,7 +8934,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Asalam"] = {
-    ["percentile"] = 35.89,
+    ["percentile"] = 35.88,
     ["server"] = "Icecrown",
     ["overall_rank"] = 188,
     ["bosses"] = {
@@ -8969,9 +8969,9 @@ UWULogsData[5][2] = {
         ["points"] = 819.08,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 617,
+        ["rank_raids"] = 618,
         ["kill_count"] = 3,
-        ["points"] = 4253.73,
+        ["points"] = 4249.77,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 393,
@@ -9040,7 +9040,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 188,
         ["kill_count"] = 2,
-        ["points"] = 8255.6,
+        ["points"] = 8257.22,
       },
     },
   },
@@ -9408,9 +9408,9 @@ UWULogsData[5][2] = {
         ["points"] = 4572.46,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 594,
+        ["rank_raids"] = 595,
         ["kill_count"] = 1,
-        ["points"] = 4468.28,
+        ["points"] = 4464.12,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 410,
@@ -9499,37 +9499,37 @@ UWULogsData[5][2] = {
     ["overall_rank"] = 1158,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 1340,
+        ["rank_raids"] = 1351,
         ["kill_count"] = 12,
-        ["points"] = 9567.96,
+        ["points"] = 9565.96,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 10914,
+        ["rank_raids"] = 10925,
         ["kill_count"] = 8,
-        ["points"] = 7439.96,
+        ["points"] = 7439.38,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9238,
+        ["rank_raids"] = 9248,
         ["kill_count"] = 14,
         ["points"] = 8324.83,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 13184,
+        ["rank_raids"] = 13200,
         ["kill_count"] = 13,
         ["points"] = 7689.77,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5782,
+        ["rank_raids"] = 5785,
         ["kill_count"] = 10,
         ["points"] = 8839.88,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 7600,
+        ["rank_raids"] = 7603,
         ["kill_count"] = 11,
-        ["points"] = 8626.25,
+        ["points"] = 8626.56,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4263,
+        ["rank_raids"] = 4267,
         ["kill_count"] = 12,
         ["points"] = 9056.91,
       },
@@ -9539,14 +9539,14 @@ UWULogsData[5][2] = {
         ["points"] = 8705.87,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 587,
+        ["rank_raids"] = 592,
         ["kill_count"] = 9,
-        ["points"] = 9755.33,
+        ["points"] = 9755.39,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 18884,
+        ["rank_raids"] = 18893,
         ["kill_count"] = 9,
-        ["points"] = 6468.53,
+        ["points"] = 6468.15,
       },
     },
   },
@@ -9623,9 +9623,9 @@ UWULogsData[5][2] = {
         ["points"] = 4437.44,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 577,
+        ["rank_raids"] = 578,
         ["kill_count"] = 3,
-        ["points"] = 4626.87,
+        ["points"] = 4622.55,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 220,
@@ -9813,9 +9813,9 @@ UWULogsData[5][2] = {
         ["points"] = 243.02,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 899,
+        ["rank_raids"] = 900,
         ["kill_count"] = 1,
-        ["points"] = 1623.13,
+        ["points"] = 1621.62,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 193,
@@ -9825,7 +9825,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Prisara"] = {
-    ["percentile"] = 33.72,
+    ["percentile"] = 33.71,
     ["server"] = "Icecrown",
     ["overall_rank"] = 211,
     ["bosses"] = {
@@ -9855,9 +9855,9 @@ UWULogsData[5][2] = {
         ["points"] = 7380.74,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 454,
+        ["rank_raids"] = 455,
         ["kill_count"] = 1,
-        ["points"] = 5774.25,
+        ["points"] = 5768.87,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 329,
@@ -9981,9 +9981,9 @@ UWULogsData[5][2] = {
         ["points"] = 9801.98,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 543,
+        ["rank_raids"] = 544,
         ["kill_count"] = 1,
-        ["points"] = 4944.03,
+        ["points"] = 4939.42,
       },
     },
   },
@@ -10018,9 +10018,9 @@ UWULogsData[5][2] = {
         ["points"] = 7974.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 930,
+        ["rank_raids"] = 931,
         ["kill_count"] = 4,
-        ["points"] = 1333.96,
+        ["points"] = 1332.71,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 212,
@@ -10065,9 +10065,9 @@ UWULogsData[5][2] = {
         ["points"] = 1593.16,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 924,
+        ["rank_raids"] = 925,
         ["kill_count"] = 2,
-        ["points"] = 1389.93,
+        ["points"] = 1388.63,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 85,
@@ -10183,7 +10183,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Tonyfaith"] = {
-    ["percentile"] = 32.42,
+    ["percentile"] = 32.41,
     ["server"] = "Icecrown",
     ["overall_rank"] = 220,
     ["bosses"] = {
@@ -10208,9 +10208,9 @@ UWULogsData[5][2] = {
         ["points"] = 7929.69,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 436,
+        ["rank_raids"] = 437,
         ["kill_count"] = 8,
-        ["points"] = 5942.16,
+        ["points"] = 5936.63,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 298,
@@ -10361,9 +10361,9 @@ UWULogsData[5][2] = {
         ["points"] = 7731.77,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 964,
+        ["rank_raids"] = 965,
         ["kill_count"] = 3,
-        ["points"] = 1016.79,
+        ["points"] = 1015.84,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 206,
@@ -10445,9 +10445,9 @@ UWULogsData[5][2] = {
         ["points"] = 7506.75,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 793,
+        ["rank_raids"] = 794,
         ["kill_count"] = 6,
-        ["points"] = 2611.94,
+        ["points"] = 2609.51,
       },
     },
   },
@@ -10615,9 +10615,9 @@ UWULogsData[5][2] = {
         ["points"] = 4248.42,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 697,
+        ["rank_raids"] = 698,
         ["kill_count"] = 1,
-        ["points"] = 3507.46,
+        ["points"] = 3504.19,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 261,
@@ -10664,7 +10664,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Loralen"] = {
-    ["percentile"] = 31.14,
+    ["percentile"] = 31.13,
     ["server"] = "Icecrown",
     ["overall_rank"] = 233,
     ["bosses"] = {
@@ -10684,9 +10684,9 @@ UWULogsData[5][2] = {
         ["points"] = 6917.81,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 571,
+        ["rank_raids"] = 572,
         ["kill_count"] = 1,
-        ["points"] = 4682.84,
+        ["points"] = 4678.47,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 366,
@@ -10780,7 +10780,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Healioss"] = {
-    ["percentile"] = 30.73,
+    ["percentile"] = 30.72,
     ["server"] = "Icecrown",
     ["overall_rank"] = 236,
     ["bosses"] = {
@@ -10810,14 +10810,14 @@ UWULogsData[5][2] = {
         ["points"] = 1080.73,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 426,
+        ["rank_raids"] = 427,
         ["kill_count"] = 3,
-        ["points"] = 6035.45,
+        ["points"] = 6029.82,
       },
     },
   },
   ["Shadowlone"] = {
-    ["percentile"] = 30.68,
+    ["percentile"] = 30.67,
     ["server"] = "Icecrown",
     ["overall_rank"] = 237,
     ["bosses"] = {
@@ -10847,9 +10847,9 @@ UWULogsData[5][2] = {
         ["points"] = 7866.79,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 529,
+        ["rank_raids"] = 530,
         ["kill_count"] = 1,
-        ["points"] = 5074.63,
+        ["points"] = 5069.9,
       },
     },
   },
@@ -10889,9 +10889,9 @@ UWULogsData[5][2] = {
         ["points"] = 1602.16,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 945,
+        ["rank_raids"] = 946,
         ["kill_count"] = 1,
-        ["points"] = 1194.03,
+        ["points"] = 1192.92,
       },
     },
   },
@@ -11007,7 +11007,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 298,
         ["kill_count"] = 1,
-        ["points"] = 7229.48,
+        ["points"] = 7232.06,
       },
     },
   },
@@ -11039,7 +11039,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Moonprayer"] = {
-    ["percentile"] = 29.93,
+    ["percentile"] = 29.94,
     ["server"] = "Icecrown",
     ["overall_rank"] = 243,
     ["bosses"] = {
@@ -11071,7 +11071,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 84,
         ["kill_count"] = 2,
-        ["points"] = 9225.75,
+        ["points"] = 9226.47,
       },
     },
   },
@@ -11138,9 +11138,9 @@ UWULogsData[5][2] = {
         ["points"] = 1755.18,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 836,
+        ["rank_raids"] = 837,
         ["kill_count"] = 1,
-        ["points"] = 2210.82,
+        ["points"] = 2208.76,
       },
     },
   },
@@ -11189,7 +11189,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 285,
         ["kill_count"] = 2,
-        ["points"] = 7350.75,
+        ["points"] = 7353.22,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 233,
@@ -11320,9 +11320,9 @@ UWULogsData[5][2] = {
         ["points"] = 5940.59,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 729,
+        ["rank_raids"] = 730,
         ["kill_count"] = 4,
-        ["points"] = 3208.96,
+        ["points"] = 3205.96,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 131,
@@ -11362,9 +11362,9 @@ UWULogsData[5][2] = {
         ["points"] = 4806.48,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 349,
+        ["rank_raids"] = 350,
         ["kill_count"] = 1,
-        ["points"] = 6753.73,
+        ["points"] = 6747.44,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 215,
@@ -11483,9 +11483,9 @@ UWULogsData[5][2] = {
         ["points"] = 5022.5,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 963,
+        ["rank_raids"] = 964,
         ["kill_count"] = 1,
-        ["points"] = 1026.12,
+        ["points"] = 1025.16,
       },
     },
   },
@@ -11594,9 +11594,9 @@ UWULogsData[5][2] = {
         ["points"] = 4041.4,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 501,
+        ["rank_raids"] = 502,
         ["kill_count"] = 1,
-        ["points"] = 5335.82,
+        ["points"] = 5330.85,
       },
     },
   },
@@ -11641,9 +11641,9 @@ UWULogsData[5][2] = {
         ["points"] = 5337.53,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 944,
+        ["rank_raids"] = 945,
         ["kill_count"] = 1,
-        ["points"] = 1203.36,
+        ["points"] = 1202.24,
       },
     },
   },
@@ -11670,7 +11670,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 317,
         ["kill_count"] = 3,
-        ["points"] = 7052.24,
+        ["points"] = 7054.99,
       },
     },
   },
@@ -11739,7 +11739,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 98,
         ["kill_count"] = 2,
-        ["points"] = 9095.15,
+        ["points"] = 9095.99,
       },
     },
   },
@@ -11756,7 +11756,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 36,
         ["kill_count"] = 25,
-        ["points"] = 9673.51,
+        ["points"] = 9673.81,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 43,
@@ -11798,7 +11798,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Kekerek"] = {
-    ["percentile"] = 28.07,
+    ["percentile"] = 28.06,
     ["server"] = "Icecrown",
     ["overall_rank"] = 265,
     ["bosses"] = {
@@ -11833,9 +11833,9 @@ UWULogsData[5][2] = {
         ["points"] = 3321.33,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 775,
+        ["rank_raids"] = 776,
         ["kill_count"] = 1,
-        ["points"] = 2779.85,
+        ["points"] = 2777.26,
       },
     },
   },
@@ -11897,9 +11897,9 @@ UWULogsData[5][2] = {
         ["points"] = 1953.12,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 562,
+        ["rank_raids"] = 563,
         ["kill_count"] = 1,
-        ["points"] = 4766.79,
+        ["points"] = 4762.35,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 159,
@@ -12017,7 +12017,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Citramoni"] = {
-    ["percentile"] = 27.19,
+    ["percentile"] = 27.18,
     ["server"] = "Icecrown",
     ["overall_rank"] = 272,
     ["bosses"] = {
@@ -12052,14 +12052,14 @@ UWULogsData[5][2] = {
         ["points"] = 3519.35,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 623,
+        ["rank_raids"] = 624,
         ["kill_count"] = 1,
-        ["points"] = 4197.76,
+        ["points"] = 4193.85,
       },
     },
   },
   ["Chatmanager"] = {
-    ["percentile"] = 27.18,
+    ["percentile"] = 27.17,
     ["server"] = "Icecrown",
     ["overall_rank"] = 273,
     ["bosses"] = {
@@ -12084,9 +12084,9 @@ UWULogsData[5][2] = {
         ["points"] = 6687.67,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 401,
+        ["rank_raids"] = 402,
         ["kill_count"] = 1,
-        ["points"] = 6268.66,
+        ["points"] = 6262.81,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 44,
@@ -12128,7 +12128,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Havranplate"] = {
-    ["percentile"] = 27.02,
+    ["percentile"] = 27.01,
     ["server"] = "Icecrown",
     ["overall_rank"] = 275,
     ["bosses"] = {
@@ -12148,9 +12148,9 @@ UWULogsData[5][2] = {
         ["points"] = 2871.29,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 462,
+        ["rank_raids"] = 463,
         ["kill_count"] = 1,
-        ["points"] = 5699.63,
+        ["points"] = 5694.32,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 13,
@@ -12177,7 +12177,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 192,
         ["kill_count"] = 5,
-        ["points"] = 8218.28,
+        ["points"] = 8219.94,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 18,
@@ -12333,9 +12333,9 @@ UWULogsData[5][2] = {
         ["points"] = 5868.59,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 744,
+        ["rank_raids"] = 745,
         ["kill_count"] = 2,
-        ["points"] = 3069.03,
+        ["points"] = 3066.17,
       },
     },
   },
@@ -12481,9 +12481,9 @@ UWULogsData[5][2] = {
         ["points"] = 3411.34,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 621,
+        ["rank_raids"] = 622,
         ["kill_count"] = 1,
-        ["points"] = 4216.42,
+        ["points"] = 4212.49,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 426,
@@ -12493,7 +12493,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Joovana"] = {
-    ["percentile"] = 26.11,
+    ["percentile"] = 26.12,
     ["server"] = "Icecrown",
     ["overall_rank"] = 285,
     ["bosses"] = {
@@ -12515,7 +12515,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 248,
         ["kill_count"] = 1,
-        ["points"] = 7695.9,
+        ["points"] = 7698.04,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 134,
@@ -12744,7 +12744,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 173,
         ["kill_count"] = 1,
-        ["points"] = 8395.52,
+        ["points"] = 8397.02,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 161,
@@ -12981,9 +12981,9 @@ UWULogsData[5][2] = {
         ["points"] = 4752.48,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 702,
+        ["rank_raids"] = 703,
         ["kill_count"] = 1,
-        ["points"] = 3460.82,
+        ["points"] = 3457.6,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 434,
@@ -13018,9 +13018,9 @@ UWULogsData[5][2] = {
         ["points"] = 2934.29,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 510,
+        ["rank_raids"] = 511,
         ["kill_count"] = 1,
-        ["points"] = 5251.87,
+        ["points"] = 5246.97,
       },
     },
   },
@@ -13055,9 +13055,9 @@ UWULogsData[5][2] = {
         ["points"] = 7218.72,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 977,
+        ["rank_raids"] = 978,
         ["kill_count"] = 1,
-        ["points"] = 895.52,
+        ["points"] = 894.69,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 197,
@@ -13120,10 +13120,37 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Demania"] = {
+  ["Wiktoria"] = {
     ["percentile"] = 24.42,
     ["server"] = "Icecrown",
     ["overall_rank"] = 304,
+    ["bosses"] = {
+      ["Rotface"] = {
+        ["rank_raids"] = 60,
+        ["kill_count"] = 1,
+        ["points"] = 9239.69,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 312,
+        ["kill_count"] = 1,
+        ["points"] = 2899.54,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 190,
+        ["kill_count"] = 1,
+        ["points"] = 8298.83,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 274,
+        ["kill_count"] = 1,
+        ["points"] = 3878.92,
+      },
+    },
+  },
+  ["Demania"] = {
+    ["percentile"] = 24.41,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 305,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 530,
@@ -13146,36 +13173,9 @@ UWULogsData[5][2] = {
         ["points"] = 5301.53,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 407,
+        ["rank_raids"] = 408,
         ["kill_count"] = 4,
-        ["points"] = 6212.69,
-      },
-    },
-  },
-  ["Wiktoria"] = {
-    ["percentile"] = 24.42,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 305,
-    ["bosses"] = {
-      ["Rotface"] = {
-        ["rank_raids"] = 60,
-        ["kill_count"] = 1,
-        ["points"] = 9239.69,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 312,
-        ["kill_count"] = 1,
-        ["points"] = 2899.54,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 190,
-        ["kill_count"] = 1,
-        ["points"] = 8298.83,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 274,
-        ["kill_count"] = 1,
-        ["points"] = 3878.92,
+        ["points"] = 6206.9,
       },
     },
   },
@@ -13210,9 +13210,9 @@ UWULogsData[5][2] = {
         ["points"] = 3798.38,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 719,
+        ["rank_raids"] = 720,
         ["kill_count"] = 1,
-        ["points"] = 3302.24,
+        ["points"] = 3299.16,
       },
     },
   },
@@ -13271,7 +13271,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 151,
         ["kill_count"] = 1,
-        ["points"] = 8600.75,
+        ["points"] = 8602.05,
       },
     },
   },
@@ -13293,7 +13293,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 313,
         ["kill_count"] = 1,
-        ["points"] = 7089.55,
+        ["points"] = 7092.26,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 71,
@@ -13407,9 +13407,9 @@ UWULogsData[5][2] = {
         ["points"] = 1184.9,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 975,
+        ["rank_raids"] = 976,
         ["kill_count"] = 1,
-        ["points"] = 914.18,
+        ["points"] = 913.33,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 250,
@@ -13498,7 +13498,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Tutantlakon"] = {
-    ["percentile"] = 22.94,
+    ["percentile"] = 22.93,
     ["server"] = "Icecrown",
     ["overall_rank"] = 315,
     ["bosses"] = {
@@ -13533,9 +13533,9 @@ UWULogsData[5][2] = {
         ["points"] = 1197.12,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 514,
+        ["rank_raids"] = 515,
         ["kill_count"] = 1,
-        ["points"] = 5214.55,
+        ["points"] = 5209.69,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 340,
@@ -13555,9 +13555,9 @@ UWULogsData[5][2] = {
         ["points"] = 9680.37,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 357,
+        ["rank_raids"] = 358,
         ["kill_count"] = 2,
-        ["points"] = 6679.1,
+        ["points"] = 6672.88,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 158,
@@ -13567,7 +13567,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Smuxi"] = {
-    ["percentile"] = 22.6,
+    ["percentile"] = 22.59,
     ["server"] = "Icecrown",
     ["overall_rank"] = 317,
     ["bosses"] = {
@@ -13582,9 +13582,9 @@ UWULogsData[5][2] = {
         ["points"] = 3888.39,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 507,
+        ["rank_raids"] = 508,
         ["kill_count"] = 1,
-        ["points"] = 5279.85,
+        ["points"] = 5274.93,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 235,
@@ -13732,9 +13732,9 @@ UWULogsData[5][2] = {
         ["points"] = 9117.91,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 961,
+        ["rank_raids"] = 962,
         ["kill_count"] = 1,
-        ["points"] = 1044.78,
+        ["points"] = 1043.8,
       },
     },
   },
@@ -13759,9 +13759,9 @@ UWULogsData[5][2] = {
         ["points"] = 1623.71,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 551,
+        ["rank_raids"] = 552,
         ["kill_count"] = 1,
-        ["points"] = 4869.4,
+        ["points"] = 4864.86,
       },
     },
   },
@@ -13975,7 +13975,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Powerofprie"] = {
-    ["percentile"] = 21.26,
+    ["percentile"] = 21.25,
     ["server"] = "Icecrown",
     ["overall_rank"] = 333,
     ["bosses"] = {
@@ -13995,9 +13995,9 @@ UWULogsData[5][2] = {
         ["points"] = 8640.86,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 560,
+        ["rank_raids"] = 561,
         ["kill_count"] = 2,
-        ["points"] = 4785.45,
+        ["points"] = 4780.99,
       },
     },
   },
@@ -14088,7 +14088,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 66,
         ["kill_count"] = 10,
-        ["points"] = 9393.66,
+        ["points"] = 9394.22,
       },
     },
   },
@@ -14108,9 +14108,9 @@ UWULogsData[5][2] = {
         ["points"] = 4634.7,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 369,
+        ["rank_raids"] = 370,
         ["kill_count"] = 1,
-        ["points"] = 6567.16,
+        ["points"] = 6561.04,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 155,
@@ -14120,7 +14120,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Vetiti"] = {
-    ["percentile"] = 20.82,
+    ["percentile"] = 20.81,
     ["server"] = "Icecrown",
     ["overall_rank"] = 338,
     ["bosses"] = {
@@ -14130,9 +14130,9 @@ UWULogsData[5][2] = {
         ["points"] = 9324.93,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 682,
+        ["rank_raids"] = 683,
         ["kill_count"] = 1,
-        ["points"] = 3647.39,
+        ["points"] = 3643.99,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 101,
@@ -14430,9 +14430,9 @@ UWULogsData[5][2] = {
         ["points"] = 468.05,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 752,
+        ["rank_raids"] = 753,
         ["kill_count"] = 1,
-        ["points"] = 2994.4,
+        ["points"] = 2991.61,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 332,
@@ -14607,9 +14607,9 @@ UWULogsData[5][2] = {
         ["points"] = 2083.33,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 929,
+        ["rank_raids"] = 930,
         ["kill_count"] = 1,
-        ["points"] = 1343.28,
+        ["points"] = 1342.03,
       },
     },
   },
@@ -14818,7 +14818,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Cripptus"] = {
-    ["percentile"] = 18.46,
+    ["percentile"] = 18.47,
     ["server"] = "Icecrown",
     ["overall_rank"] = 362,
     ["bosses"] = {
@@ -14835,7 +14835,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 290,
         ["kill_count"] = 2,
-        ["points"] = 7304.1,
+        ["points"] = 7306.62,
       },
     },
   },
@@ -14852,7 +14852,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 230,
         ["kill_count"] = 2,
-        ["points"] = 7863.81,
+        ["points"] = 7865.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 280,
@@ -14901,7 +14901,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 171,
         ["kill_count"] = 1,
-        ["points"] = 8414.18,
+        ["points"] = 8415.66,
       },
     },
   },
@@ -14992,9 +14992,9 @@ UWULogsData[5][2] = {
         ["points"] = 6958.76,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 861,
+        ["rank_raids"] = 862,
         ["kill_count"] = 1,
-        ["points"] = 1977.61,
+        ["points"] = 1975.77,
       },
     },
   },
@@ -15011,7 +15011,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 181,
         ["kill_count"] = 2,
-        ["points"] = 8320.9,
+        ["points"] = 8322.46,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 123,
@@ -15051,9 +15051,9 @@ UWULogsData[5][2] = {
         ["points"] = 5571.56,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 910,
+        ["rank_raids"] = 911,
         ["kill_count"] = 1,
-        ["points"] = 1520.52,
+        ["points"] = 1519.11,
       },
     },
   },
@@ -15075,7 +15075,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 153,
         ["kill_count"] = 5,
-        ["points"] = 8582.09,
+        ["points"] = 8583.41,
       },
     },
   },
@@ -15210,7 +15210,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 95,
         ["kill_count"] = 1,
-        ["points"] = 9123.13,
+        ["points"] = 9123.95,
       },
     },
   },
@@ -15281,7 +15281,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 119,
         ["kill_count"] = 3,
-        ["points"] = 8899.25,
+        ["points"] = 8900.28,
       },
     },
   },
@@ -15342,7 +15342,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 48,
         ["kill_count"] = 3,
-        ["points"] = 9561.57,
+        ["points"] = 9561.98,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 110,
@@ -15401,12 +15401,12 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 305,
         ["kill_count"] = 1,
-        ["points"] = 7164.18,
+        ["points"] = 7166.82,
       },
     },
   },
   ["Darkmelter"] = {
-    ["percentile"] = 16.93,
+    ["percentile"] = 16.94,
     ["server"] = "Icecrown",
     ["overall_rank"] = 386,
     ["bosses"] = {
@@ -15418,7 +15418,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 152,
         ["kill_count"] = 2,
-        ["points"] = 8591.42,
+        ["points"] = 8592.73,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 190,
@@ -15443,9 +15443,9 @@ UWULogsData[5][2] = {
         ["points"] = 9558.96,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 1037,
+        ["rank_raids"] = 1038,
         ["kill_count"] = 1,
-        ["points"] = 335.82,
+        ["points"] = 335.51,
       },
     },
   },
@@ -15595,14 +15595,14 @@ UWULogsData[5][2] = {
         ["points"] = 6246.62,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 550,
+        ["rank_raids"] = 551,
         ["kill_count"] = 3,
-        ["points"] = 4878.73,
+        ["points"] = 4874.18,
       },
     },
   },
   ["Varinathrash"] = {
-    ["percentile"] = 16.27,
+    ["percentile"] = 16.28,
     ["server"] = "Icecrown",
     ["overall_rank"] = 394,
     ["bosses"] = {
@@ -15614,7 +15614,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 194,
         ["kill_count"] = 2,
-        ["points"] = 8199.63,
+        ["points"] = 8201.3,
       },
     },
   },
@@ -15629,9 +15629,9 @@ UWULogsData[5][2] = {
         ["points"] = 5733.57,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 486,
+        ["rank_raids"] = 487,
         ["kill_count"] = 6,
-        ["points"] = 5475.75,
+        ["points"] = 5470.64,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 226,
@@ -15641,7 +15641,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Narki"] = {
-    ["percentile"] = 16.15,
+    ["percentile"] = 16.14,
     ["server"] = "Icecrown",
     ["overall_rank"] = 396,
     ["bosses"] = {
@@ -15656,14 +15656,14 @@ UWULogsData[5][2] = {
         ["points"] = 1757.99,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 362,
+        ["rank_raids"] = 363,
         ["kill_count"] = 1,
-        ["points"] = 6632.46,
+        ["points"] = 6626.28,
       },
     },
   },
   ["Gamecontrol"] = {
-    ["percentile"] = 16.11,
+    ["percentile"] = 16.12,
     ["server"] = "Icecrown",
     ["overall_rank"] = 397,
     ["bosses"] = {
@@ -15680,12 +15680,12 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 115,
         ["kill_count"] = 3,
-        ["points"] = 8936.57,
+        ["points"] = 8937.56,
       },
     },
   },
   ["Schierkee"] = {
-    ["percentile"] = 16.0,
+    ["percentile"] = 15.99,
     ["server"] = "Icecrown",
     ["overall_rank"] = 398,
     ["bosses"] = {
@@ -15700,9 +15700,9 @@ UWULogsData[5][2] = {
         ["points"] = 6617.21,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 717,
+        ["rank_raids"] = 718,
         ["kill_count"] = 1,
-        ["points"] = 3320.9,
+        ["points"] = 3317.8,
       },
     },
   },
@@ -15791,9 +15791,9 @@ UWULogsData[5][2] = {
         ["points"] = 3168.32,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 1071,
+        ["rank_raids"] = 1072,
         ["kill_count"] = 1,
-        ["points"] = 49.26,
+        ["points"] = 49.14,
       },
     },
   },
@@ -15815,7 +15815,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 330,
         ["kill_count"] = 2,
-        ["points"] = 6930.97,
+        ["points"] = 6933.83,
       },
     },
   },
@@ -15889,9 +15889,9 @@ UWULogsData[5][2] = {
         ["points"] = 1188.12,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 568,
+        ["rank_raids"] = 569,
         ["kill_count"] = 1,
-        ["points"] = 4710.82,
+        ["points"] = 4706.43,
       },
     },
   },
@@ -16121,7 +16121,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 113,
         ["kill_count"] = 1,
-        ["points"] = 8955.22,
+        ["points"] = 8956.2,
       },
     },
   },
@@ -16261,9 +16261,9 @@ UWULogsData[5][2] = {
     ["overall_rank"] = 421,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 591,
+        ["rank_raids"] = 592,
         ["kill_count"] = 2,
-        ["points"] = 4496.27,
+        ["points"] = 4492.08,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 6,
@@ -16295,7 +16295,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Trickxie"] = {
-    ["percentile"] = 14.28,
+    ["percentile"] = 14.27,
     ["server"] = "Icecrown",
     ["overall_rank"] = 423,
     ["bosses"] = {
@@ -16305,14 +16305,14 @@ UWULogsData[5][2] = {
         ["points"] = 7821.78,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 387,
+        ["rank_raids"] = 388,
         ["kill_count"] = 4,
-        ["points"] = 6399.25,
+        ["points"] = 6393.29,
       },
     },
   },
   ["Epigab"] = {
-    ["percentile"] = 14.11,
+    ["percentile"] = 14.1,
     ["server"] = "Icecrown",
     ["overall_rank"] = 424,
     ["bosses"] = {
@@ -16322,14 +16322,14 @@ UWULogsData[5][2] = {
         ["points"] = 9320.39,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 566,
+        ["rank_raids"] = 567,
         ["kill_count"] = 1,
-        ["points"] = 4729.48,
+        ["points"] = 4725.07,
       },
     },
   },
   ["Neyto"] = {
-    ["percentile"] = 14.0,
+    ["percentile"] = 13.99,
     ["server"] = "Icecrown",
     ["overall_rank"] = 425,
     ["bosses"] = {
@@ -16339,9 +16339,9 @@ UWULogsData[5][2] = {
         ["points"] = 8829.88,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 525,
+        ["rank_raids"] = 526,
         ["kill_count"] = 2,
-        ["points"] = 5111.94,
+        ["points"] = 5107.18,
       },
     },
   },
@@ -16526,14 +16526,14 @@ UWULogsData[5][2] = {
         ["points"] = 1523.44,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 954,
+        ["rank_raids"] = 955,
         ["kill_count"] = 1,
-        ["points"] = 1110.07,
+        ["points"] = 1109.04,
       },
     },
   },
   ["Jokybus"] = {
-    ["percentile"] = 13.64,
+    ["percentile"] = 13.63,
     ["server"] = "Icecrown",
     ["overall_rank"] = 432,
     ["bosses"] = {
@@ -16548,9 +16548,9 @@ UWULogsData[5][2] = {
         ["points"] = 5877.59,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 564,
+        ["rank_raids"] = 565,
         ["kill_count"] = 1,
-        ["points"] = 4748.13,
+        ["points"] = 4743.71,
       },
     },
   },
@@ -16609,9 +16609,9 @@ UWULogsData[5][2] = {
     ["overall_rank"] = 435,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 509,
+        ["rank_raids"] = 510,
         ["kill_count"] = 4,
-        ["points"] = 5261.19,
+        ["points"] = 5256.29,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 81,
@@ -16653,9 +16653,9 @@ UWULogsData[5][2] = {
         ["points"] = 7254.73,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 420,
+        ["rank_raids"] = 421,
         ["kill_count"] = 1,
-        ["points"] = 6091.42,
+        ["points"] = 6085.74,
       },
     },
   },
@@ -16753,31 +16753,14 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 320,
         ["kill_count"] = 1,
-        ["points"] = 7024.25,
-      },
-    },
-  },
-  ["Dovvahkiin"] = {
-    ["percentile"] = 12.85,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 442,
-    ["bosses"] = {
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 389,
-        ["kill_count"] = 1,
-        ["points"] = 6507.65,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 399,
-        ["kill_count"] = 1,
-        ["points"] = 6287.31,
+        ["points"] = 7027.03,
       },
     },
   },
   ["Skymares"] = {
     ["percentile"] = 12.84,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 443,
+    ["overall_rank"] = 442,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 284,
@@ -16788,6 +16771,23 @@ UWULogsData[5][2] = {
         ["rank_raids"] = 366,
         ["kill_count"] = 1,
         ["points"] = 6714.67,
+      },
+    },
+  },
+  ["Dovvahkiin"] = {
+    ["percentile"] = 12.84,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 443,
+    ["bosses"] = {
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 389,
+        ["kill_count"] = 1,
+        ["points"] = 6507.65,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 400,
+        ["kill_count"] = 1,
+        ["points"] = 6281.45,
       },
     },
   },
@@ -16919,7 +16919,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 232,
         ["kill_count"] = 13,
-        ["points"] = 7845.15,
+        ["points"] = 7847.16,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 420,
@@ -16939,9 +16939,9 @@ UWULogsData[5][2] = {
         ["points"] = 5489.61,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 378,
+        ["rank_raids"] = 379,
         ["kill_count"] = 1,
-        ["points"] = 6483.21,
+        ["points"] = 6477.17,
       },
     },
   },
@@ -17034,7 +17034,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Askyourmom"] = {
-    ["percentile"] = 11.8,
+    ["percentile"] = 11.79,
     ["server"] = "Icecrown",
     ["overall_rank"] = 455,
     ["bosses"] = {
@@ -17044,9 +17044,9 @@ UWULogsData[5][2] = {
         ["points"] = 7091.99,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 574,
+        ["rank_raids"] = 575,
         ["kill_count"] = 1,
-        ["points"] = 4654.85,
+        ["points"] = 4650.51,
       },
     },
   },
@@ -17159,7 +17159,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Gustevon"] = {
-    ["percentile"] = 11.47,
+    ["percentile"] = 11.46,
     ["server"] = "Icecrown",
     ["overall_rank"] = 460,
     ["bosses"] = {
@@ -17169,9 +17169,9 @@ UWULogsData[5][2] = {
         ["points"] = 7137.71,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 614,
+        ["rank_raids"] = 615,
         ["kill_count"] = 2,
-        ["points"] = 4281.72,
+        ["points"] = 4277.73,
       },
     },
   },
@@ -17335,9 +17335,9 @@ UWULogsData[5][2] = {
         ["points"] = 2520.25,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 1033,
+        ["rank_raids"] = 1034,
         ["kill_count"] = 1,
-        ["points"] = 373.13,
+        ["points"] = 372.79,
       },
     },
   },
@@ -17364,7 +17364,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Herholyness"] = {
-    ["percentile"] = 11.13,
+    ["percentile"] = 11.14,
     ["server"] = "Icecrown",
     ["overall_rank"] = 470,
     ["bosses"] = {
@@ -17376,7 +17376,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 167,
         ["kill_count"] = 3,
-        ["points"] = 8451.49,
+        ["points"] = 8452.94,
       },
     },
   },
@@ -17467,9 +17467,9 @@ UWULogsData[5][2] = {
         ["points"] = 6963.47,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 672,
+        ["rank_raids"] = 673,
         ["kill_count"] = 1,
-        ["points"] = 3740.67,
+        ["points"] = 3737.19,
       },
     },
   },
@@ -17540,7 +17540,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Balondor"] = {
-    ["percentile"] = 10.6,
+    ["percentile"] = 10.59,
     ["server"] = "Icecrown",
     ["overall_rank"] = 478,
     ["bosses"] = {
@@ -17550,9 +17550,9 @@ UWULogsData[5][2] = {
         ["points"] = 6019.42,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 587,
+        ["rank_raids"] = 588,
         ["kill_count"] = 1,
-        ["points"] = 4533.58,
+        ["points"] = 4529.36,
       },
     },
   },
@@ -17584,9 +17584,9 @@ UWULogsData[5][2] = {
         ["points"] = 8255.21,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 834,
+        ["rank_raids"] = 835,
         ["kill_count"] = 1,
-        ["points"] = 2229.48,
+        ["points"] = 2227.4,
       },
     },
   },
@@ -17606,21 +17606,21 @@ UWULogsData[5][2] = {
         ["points"] = 3456.35,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 1013,
+        ["rank_raids"] = 1014,
         ["kill_count"] = 3,
-        ["points"] = 559.7,
+        ["points"] = 559.18,
       },
     },
   },
   ["Kosting"] = {
-    ["percentile"] = 10.11,
+    ["percentile"] = 10.1,
     ["server"] = "Icecrown",
     ["overall_rank"] = 484,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 511,
+        ["rank_raids"] = 512,
         ["kill_count"] = 1,
-        ["points"] = 5242.54,
+        ["points"] = 5237.65,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 232,
@@ -17649,7 +17649,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 5,
         ["kill_count"] = 2,
-        ["points"] = 9962.69,
+        ["points"] = 9962.72,
       },
     },
   },
@@ -17690,7 +17690,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 14,
         ["kill_count"] = 6,
-        ["points"] = 9878.73,
+        ["points"] = 9878.84,
       },
     },
   },
@@ -17702,7 +17702,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 16,
         ["kill_count"] = 2,
-        ["points"] = 9860.07,
+        ["points"] = 9860.21,
       },
     },
   },
@@ -17714,7 +17714,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 17,
         ["kill_count"] = 2,
-        ["points"] = 9850.75,
+        ["points"] = 9850.89,
       },
     },
   },
@@ -17775,7 +17775,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 21,
         ["kill_count"] = 4,
-        ["points"] = 9813.43,
+        ["points"] = 9813.61,
       },
     },
   },
@@ -17787,7 +17787,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 25,
         ["kill_count"] = 5,
-        ["points"] = 9776.12,
+        ["points"] = 9776.33,
       },
     },
   },
@@ -17799,7 +17799,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 27,
         ["kill_count"] = 1,
-        ["points"] = 9757.46,
+        ["points"] = 9757.69,
       },
     },
   },
@@ -17840,7 +17840,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 41,
         ["kill_count"] = 6,
-        ["points"] = 9626.87,
+        ["points"] = 9627.21,
       },
     },
   },
@@ -17852,7 +17852,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 42,
         ["kill_count"] = 1,
-        ["points"] = 9617.54,
+        ["points"] = 9617.89,
       },
     },
   },
@@ -17864,7 +17864,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 43,
         ["kill_count"] = 3,
-        ["points"] = 9608.21,
+        ["points"] = 9608.57,
       },
     },
   },
@@ -17876,7 +17876,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 44,
         ["kill_count"] = 4,
-        ["points"] = 9598.88,
+        ["points"] = 9599.25,
       },
     },
   },
@@ -17905,19 +17905,19 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 53,
         ["kill_count"] = 2,
-        ["points"] = 9514.93,
+        ["points"] = 9515.38,
       },
     },
   },
   ["Terabinia"] = {
-    ["percentile"] = 9.54,
+    ["percentile"] = 9.55,
     ["server"] = "Icecrown",
     ["overall_rank"] = 505,
     ["bosses"] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 54,
         ["kill_count"] = 1,
-        ["points"] = 9505.6,
+        ["points"] = 9506.06,
       },
     },
   },
@@ -17929,7 +17929,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 58,
         ["kill_count"] = 1,
-        ["points"] = 9468.28,
+        ["points"] = 9468.78,
       },
     },
   },
@@ -17941,7 +17941,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 63,
         ["kill_count"] = 2,
-        ["points"] = 9421.64,
+        ["points"] = 9422.18,
       },
     },
   },
@@ -17953,7 +17953,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 69,
         ["kill_count"] = 1,
-        ["points"] = 9365.67,
+        ["points"] = 9366.26,
       },
     },
   },
@@ -18016,7 +18016,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 77,
         ["kill_count"] = 1,
-        ["points"] = 9291.04,
+        ["points"] = 9291.71,
       },
     },
   },
@@ -18028,7 +18028,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 80,
         ["kill_count"] = 2,
-        ["points"] = 9263.06,
+        ["points"] = 9263.75,
       },
     },
   },
@@ -18045,21 +18045,33 @@ UWULogsData[5][2] = {
     },
   },
   ["Ysirielgodx"] = {
-    ["percentile"] = 9.24,
+    ["percentile"] = 9.25,
     ["server"] = "Icecrown",
     ["overall_rank"] = 515,
     ["bosses"] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 86,
         ["kill_count"] = 3,
-        ["points"] = 9207.09,
+        ["points"] = 9207.83,
+      },
+    },
+  },
+  ["Fengy"] = {
+    ["percentile"] = 9.23,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 516,
+    ["bosses"] = {
+      ["Sindragosa"] = {
+        ["rank_raids"] = 88,
+        ["kill_count"] = 2,
+        ["points"] = 9189.19,
       },
     },
   },
   ["Gebs"] = {
     ["percentile"] = 9.23,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 516,
+    ["overall_rank"] = 517,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 510,
@@ -18087,26 +18099,14 @@ UWULogsData[5][2] = {
         ["points"] = 225.02,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 904,
+        ["rank_raids"] = 905,
         ["kill_count"] = 2,
-        ["points"] = 1576.49,
+        ["points"] = 1575.02,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 431,
         ["kill_count"] = 1,
         ["points"] = 935.99,
-      },
-    },
-  },
-  ["Fengy"] = {
-    ["percentile"] = 9.23,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 517,
-    ["bosses"] = {
-      ["Sindragosa"] = {
-        ["rank_raids"] = 88,
-        ["kill_count"] = 2,
-        ["points"] = 9188.43,
       },
     },
   },
@@ -18135,7 +18135,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 176,
         ["kill_count"] = 2,
-        ["points"] = 8367.54,
+        ["points"] = 8369.06,
       },
     },
   },
@@ -18164,7 +18164,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 105,
         ["kill_count"] = 1,
-        ["points"] = 9029.85,
+        ["points"] = 9030.75,
       },
     },
   },
@@ -18176,7 +18176,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 107,
         ["kill_count"] = 3,
-        ["points"] = 9011.19,
+        ["points"] = 9012.12,
       },
     },
   },
@@ -18188,7 +18188,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 116,
         ["kill_count"] = 1,
-        ["points"] = 8927.24,
+        ["points"] = 8928.24,
       },
     },
   },
@@ -18244,7 +18244,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 123,
         ["kill_count"] = 1,
-        ["points"] = 8861.94,
+        ["points"] = 8863.0,
       },
     },
   },
@@ -18278,7 +18278,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 128,
         ["kill_count"] = 10,
-        ["points"] = 8815.3,
+        ["points"] = 8816.4,
       },
     },
   },
@@ -18290,7 +18290,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 129,
         ["kill_count"] = 3,
-        ["points"] = 8805.97,
+        ["points"] = 8807.08,
       },
     },
   },
@@ -18307,14 +18307,14 @@ UWULogsData[5][2] = {
     },
   },
   ["Iluminatii"] = {
-    ["percentile"] = 8.81,
+    ["percentile"] = 8.82,
     ["server"] = "Icecrown",
     ["overall_rank"] = 531,
     ["bosses"] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 132,
         ["kill_count"] = 5,
-        ["points"] = 8777.99,
+        ["points"] = 8779.12,
       },
     },
   },
@@ -18326,7 +18326,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 135,
         ["kill_count"] = 1,
-        ["points"] = 8750.0,
+        ["points"] = 8751.16,
       },
     },
   },
@@ -18367,7 +18367,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 140,
         ["kill_count"] = 4,
-        ["points"] = 8703.36,
+        ["points"] = 8704.57,
       },
     },
   },
@@ -18379,7 +18379,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 143,
         ["kill_count"] = 1,
-        ["points"] = 8675.37,
+        ["points"] = 8676.61,
       },
     },
   },
@@ -18413,19 +18413,19 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 145,
         ["kill_count"] = 1,
-        ["points"] = 8656.72,
+        ["points"] = 8657.97,
       },
     },
   },
   ["Nethercorre"] = {
-    ["percentile"] = 8.68,
+    ["percentile"] = 8.69,
     ["server"] = "Icecrown",
     ["overall_rank"] = 539,
     ["bosses"] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 146,
         ["kill_count"] = 4,
-        ["points"] = 8647.39,
+        ["points"] = 8648.65,
       },
     },
   },
@@ -18442,19 +18442,19 @@ UWULogsData[5][2] = {
     },
   },
   ["Xploiter"] = {
-    ["percentile"] = 8.53,
+    ["percentile"] = 8.54,
     ["server"] = "Icecrown",
     ["overall_rank"] = 541,
     ["bosses"] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 162,
         ["kill_count"] = 4,
-        ["points"] = 8498.13,
+        ["points"] = 8499.53,
       },
     },
   },
   ["Pchelarkata"] = {
-    ["percentile"] = 8.5,
+    ["percentile"] = 8.49,
     ["server"] = "Icecrown",
     ["overall_rank"] = 542,
     ["bosses"] = {
@@ -18464,9 +18464,9 @@ UWULogsData[5][2] = {
         ["points"] = 4973.96,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 699,
+        ["rank_raids"] = 700,
         ["kill_count"] = 1,
-        ["points"] = 3488.81,
+        ["points"] = 3485.55,
       },
     },
   },
@@ -18478,7 +18478,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 168,
         ["kill_count"] = 2,
-        ["points"] = 8442.16,
+        ["points"] = 8443.62,
       },
     },
   },
@@ -18517,7 +18517,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 177,
         ["kill_count"] = 1,
-        ["points"] = 8358.21,
+        ["points"] = 8359.74,
       },
     },
   },
@@ -18541,7 +18541,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 185,
         ["kill_count"] = 1,
-        ["points"] = 8283.58,
+        ["points"] = 8285.18,
       },
     },
   },
@@ -18597,7 +18597,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 187,
         ["kill_count"] = 2,
-        ["points"] = 8264.93,
+        ["points"] = 8266.54,
       },
     },
   },
@@ -18648,7 +18648,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 190,
         ["kill_count"] = 6,
-        ["points"] = 8236.94,
+        ["points"] = 8238.58,
       },
     },
   },
@@ -18660,7 +18660,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 312,
         ["kill_count"] = 4,
-        ["points"] = 7098.88,
+        ["points"] = 7101.58,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 407,
@@ -18670,14 +18670,14 @@ UWULogsData[5][2] = {
     },
   },
   ["Oriella"] = {
-    ["percentile"] = 8.21,
+    ["percentile"] = 8.22,
     ["server"] = "Icecrown",
     ["overall_rank"] = 555,
     ["bosses"] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 196,
         ["kill_count"] = 2,
-        ["points"] = 8180.97,
+        ["points"] = 8182.67,
       },
     },
   },
@@ -18689,7 +18689,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 197,
         ["kill_count"] = 3,
-        ["points"] = 8171.64,
+        ["points"] = 8173.35,
       },
     },
   },
@@ -18733,9 +18733,9 @@ UWULogsData[5][2] = {
     ["overall_rank"] = 559,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 696,
+        ["rank_raids"] = 697,
         ["kill_count"] = 1,
-        ["points"] = 3516.79,
+        ["points"] = 3513.51,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 245,
@@ -18752,7 +18752,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 216,
         ["kill_count"] = 4,
-        ["points"] = 7994.4,
+        ["points"] = 7996.27,
       },
     },
   },
@@ -18764,24 +18764,24 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 221,
         ["kill_count"] = 2,
-        ["points"] = 7947.76,
+        ["points"] = 7949.67,
       },
     },
   },
   ["Gucciabuse"] = {
-    ["percentile"] = 7.94,
+    ["percentile"] = 7.95,
     ["server"] = "Icecrown",
     ["overall_rank"] = 562,
     ["bosses"] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 225,
         ["kill_count"] = 2,
-        ["points"] = 7910.45,
+        ["points"] = 7912.4,
       },
     },
   },
   ["Noobholyp"] = {
-    ["percentile"] = 7.93,
+    ["percentile"] = 7.92,
     ["server"] = "Icecrown",
     ["overall_rank"] = 563,
     ["bosses"] = {
@@ -18796,9 +18796,9 @@ UWULogsData[5][2] = {
         ["points"] = 1275.77,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 518,
+        ["rank_raids"] = 519,
         ["kill_count"] = 1,
-        ["points"] = 5177.24,
+        ["points"] = 5172.41,
       },
     },
   },
@@ -18832,19 +18832,19 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 238,
         ["kill_count"] = 1,
-        ["points"] = 7789.18,
+        ["points"] = 7791.24,
       },
     },
   },
   ["Restodruid"] = {
-    ["percentile"] = 7.82,
+    ["percentile"] = 7.81,
     ["server"] = "Icecrown",
     ["overall_rank"] = 566,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 955,
+        ["rank_raids"] = 956,
         ["kill_count"] = 1,
-        ["points"] = 1100.75,
+        ["points"] = 1099.72,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 149,
@@ -18854,7 +18854,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Glayq"] = {
-    ["percentile"] = 7.81,
+    ["percentile"] = 7.8,
     ["server"] = "Icecrown",
     ["overall_rank"] = 567,
     ["bosses"] = {
@@ -18864,21 +18864,21 @@ UWULogsData[5][2] = {
         ["points"] = 1872.15,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 440,
+        ["rank_raids"] = 441,
         ["kill_count"] = 1,
-        ["points"] = 5904.85,
+        ["points"] = 5899.35,
       },
     },
   },
   ["Silvainth"] = {
-    ["percentile"] = 7.78,
+    ["percentile"] = 7.79,
     ["server"] = "Icecrown",
     ["overall_rank"] = 568,
     ["bosses"] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 242,
         ["kill_count"] = 1,
-        ["points"] = 7751.87,
+        ["points"] = 7753.96,
       },
     },
   },
@@ -18890,7 +18890,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 243,
         ["kill_count"] = 4,
-        ["points"] = 7742.54,
+        ["points"] = 7744.64,
       },
     },
   },
@@ -18932,9 +18932,9 @@ UWULogsData[5][2] = {
         ["points"] = 3996.4,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 957,
+        ["rank_raids"] = 958,
         ["kill_count"] = 4,
-        ["points"] = 1082.09,
+        ["points"] = 1081.08,
       },
     },
   },
@@ -18946,7 +18946,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 250,
         ["kill_count"] = 8,
-        ["points"] = 7677.24,
+        ["points"] = 7679.4,
       },
     },
   },
@@ -18985,19 +18985,19 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 254,
         ["kill_count"] = 1,
-        ["points"] = 7639.93,
+        ["points"] = 7642.12,
       },
     },
   },
   ["Mackspriest"] = {
-    ["percentile"] = 7.63,
+    ["percentile"] = 7.64,
     ["server"] = "Icecrown",
     ["overall_rank"] = 576,
     ["bosses"] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 258,
         ["kill_count"] = 1,
-        ["points"] = 7602.61,
+        ["points"] = 7604.85,
       },
     },
   },
@@ -19009,7 +19009,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 260,
         ["kill_count"] = 1,
-        ["points"] = 7583.96,
+        ["points"] = 7586.21,
       },
     },
   },
@@ -19021,7 +19021,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 265,
         ["kill_count"] = 2,
-        ["points"] = 7537.31,
+        ["points"] = 7539.61,
       },
     },
   },
@@ -19038,14 +19038,14 @@ UWULogsData[5][2] = {
     },
   },
   ["Kupiholy"] = {
-    ["percentile"] = 7.47,
+    ["percentile"] = 7.48,
     ["server"] = "Icecrown",
     ["overall_rank"] = 580,
     ["bosses"] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 275,
         ["kill_count"] = 2,
-        ["points"] = 7444.03,
+        ["points"] = 7446.41,
       },
     },
   },
@@ -19069,7 +19069,7 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 282,
         ["kill_count"] = 1,
-        ["points"] = 7378.73,
+        ["points"] = 7381.17,
       },
     },
   },
@@ -19086,50 +19086,50 @@ UWULogsData[5][2] = {
     },
   },
   ["Kencii"] = {
-    ["percentile"] = 7.35,
+    ["percentile"] = 7.36,
     ["server"] = "Icecrown",
     ["overall_rank"] = 584,
     ["bosses"] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 288,
         ["kill_count"] = 1,
-        ["points"] = 7322.76,
+        ["points"] = 7325.26,
       },
     },
   },
   ["Holylone"] = {
-    ["percentile"] = 7.34,
+    ["percentile"] = 7.35,
     ["server"] = "Icecrown",
     ["overall_rank"] = 585,
     ["bosses"] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 289,
         ["kill_count"] = 1,
-        ["points"] = 7313.43,
+        ["points"] = 7315.94,
       },
     },
   },
   ["Ppd"] = {
-    ["percentile"] = 7.2,
+    ["percentile"] = 7.21,
     ["server"] = "Icecrown",
     ["overall_rank"] = 586,
     ["bosses"] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 304,
         ["kill_count"] = 1,
-        ["points"] = 7173.51,
+        ["points"] = 7176.14,
       },
     },
   },
   ["Mentalboom"] = {
-    ["percentile"] = 7.18,
+    ["percentile"] = 7.19,
     ["server"] = "Icecrown",
     ["overall_rank"] = 587,
     ["bosses"] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 306,
         ["kill_count"] = 1,
-        ["points"] = 7154.85,
+        ["points"] = 7157.5,
       },
     },
   },
@@ -19156,14 +19156,14 @@ UWULogsData[5][2] = {
     },
   },
   ["Dustya"] = {
-    ["percentile"] = 7.17,
+    ["percentile"] = 7.18,
     ["server"] = "Icecrown",
     ["overall_rank"] = 589,
     ["bosses"] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 307,
         ["kill_count"] = 1,
-        ["points"] = 7145.52,
+        ["points"] = 7148.18,
       },
     },
   },
@@ -19200,9 +19200,9 @@ UWULogsData[5][2] = {
     ["overall_rank"] = 591,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 970,
+        ["rank_raids"] = 971,
         ["kill_count"] = 1,
-        ["points"] = 960.82,
+        ["points"] = 959.93,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 173,
@@ -19275,19 +19275,19 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 332,
         ["kill_count"] = 1,
-        ["points"] = 6912.31,
+        ["points"] = 6915.19,
       },
     },
   },
   ["Bhimaa"] = {
-    ["percentile"] = 6.89,
+    ["percentile"] = 6.9,
     ["server"] = "Icecrown",
     ["overall_rank"] = 596,
     ["bosses"] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 337,
         ["kill_count"] = 1,
-        ["points"] = 6865.67,
+        ["points"] = 6868.59,
       },
     },
   },
@@ -19311,38 +19311,50 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 343,
         ["kill_count"] = 5,
-        ["points"] = 6809.7,
+        ["points"] = 6812.67,
       },
     },
   },
-  ["Psychokid"] = {
-    ["percentile"] = 6.82,
+  ["Khalkulator"] = {
+    ["percentile"] = 6.83,
     ["server"] = "Icecrown",
     ["overall_rank"] = 599,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 345,
+        ["rank_raids"] = 344,
         ["kill_count"] = 1,
-        ["points"] = 6791.04,
+        ["points"] = 6803.36,
+      },
+    },
+  },
+  ["Psychokid"] = {
+    ["percentile"] = 6.81,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 600,
+    ["bosses"] = {
+      ["Sindragosa"] = {
+        ["rank_raids"] = 346,
+        ["kill_count"] = 1,
+        ["points"] = 6784.72,
       },
     },
   },
   ["Kirkjumadur"] = {
     ["percentile"] = 6.77,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 600,
+    ["overall_rank"] = 601,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 350,
+        ["rank_raids"] = 351,
         ["kill_count"] = 1,
-        ["points"] = 6744.4,
+        ["points"] = 6738.12,
       },
     },
   },
   ["Redentions"] = {
     ["percentile"] = 6.75,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 601,
+    ["overall_rank"] = 602,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 679,
@@ -19374,7 +19386,7 @@ UWULogsData[5][2] = {
   ["Lunasweet"] = {
     ["percentile"] = 6.73,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 602,
+    ["overall_rank"] = 603,
     ["bosses"] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 367,
@@ -19384,21 +19396,21 @@ UWULogsData[5][2] = {
     },
   },
   ["Eternallag"] = {
-    ["percentile"] = 6.7,
+    ["percentile"] = 6.69,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 603,
+    ["overall_rank"] = 604,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 358,
+        ["rank_raids"] = 359,
         ["kill_count"] = 3,
-        ["points"] = 6669.78,
+        ["points"] = 6663.56,
       },
     },
   },
   ["Diffa"] = {
     ["percentile"] = 6.64,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 604,
+    ["overall_rank"] = 605,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 303,
@@ -19415,7 +19427,7 @@ UWULogsData[5][2] = {
   ["Wygw"] = {
     ["percentile"] = 6.58,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 605,
+    ["overall_rank"] = 606,
     ["bosses"] = {
       ["Rotface"] = {
         ["rank_raids"] = 354,
@@ -19432,7 +19444,7 @@ UWULogsData[5][2] = {
   ["Meerecimento"] = {
     ["percentile"] = 6.57,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 606,
+    ["overall_rank"] = 607,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 250,
@@ -19442,21 +19454,21 @@ UWULogsData[5][2] = {
     },
   },
   ["Tiamia"] = {
-    ["percentile"] = 6.55,
+    ["percentile"] = 6.54,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 607,
+    ["overall_rank"] = 608,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 374,
+        ["rank_raids"] = 375,
         ["kill_count"] = 1,
-        ["points"] = 6520.52,
+        ["points"] = 6514.45,
       },
     },
   },
   ["Relikantt"] = {
     ["percentile"] = 6.5,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 608,
+    ["overall_rank"] = 609,
     ["bosses"] = {
       ["Festergut"] = {
         ["rank_raids"] = 740,
@@ -19473,7 +19485,7 @@ UWULogsData[5][2] = {
   ["Sanhaae"] = {
     ["percentile"] = 6.49,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 609,
+    ["overall_rank"] = 610,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 344,
@@ -19490,31 +19502,31 @@ UWULogsData[5][2] = {
   ["Rhl"] = {
     ["percentile"] = 6.45,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 610,
+    ["overall_rank"] = 611,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 384,
+        ["rank_raids"] = 385,
         ["kill_count"] = 1,
-        ["points"] = 6427.24,
+        ["points"] = 6421.25,
       },
     },
   },
   ["Ilovemybidet"] = {
-    ["percentile"] = 6.38,
+    ["percentile"] = 6.37,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 611,
+    ["overall_rank"] = 612,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 392,
+        ["rank_raids"] = 393,
         ["kill_count"] = 3,
-        ["points"] = 6352.61,
+        ["points"] = 6346.69,
       },
     },
   },
   ["Lynaria"] = {
     ["percentile"] = 6.33,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 612,
+    ["overall_rank"] = 613,
     ["bosses"] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 336,
@@ -19531,7 +19543,7 @@ UWULogsData[5][2] = {
   ["Tventito"] = {
     ["percentile"] = 6.31,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 613,
+    ["overall_rank"] = 614,
     ["bosses"] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 414,
@@ -19543,7 +19555,7 @@ UWULogsData[5][2] = {
   ["Bjarc"] = {
     ["percentile"] = 6.3,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 614,
+    ["overall_rank"] = 615,
     ["bosses"] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 415,
@@ -19555,36 +19567,24 @@ UWULogsData[5][2] = {
   ["Brasil"] = {
     ["percentile"] = 6.17,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 615,
+    ["overall_rank"] = 616,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 414,
+        ["rank_raids"] = 415,
         ["kill_count"] = 1,
-        ["points"] = 6147.39,
+        ["points"] = 6141.66,
       },
     },
   },
   ["Ewelynne"] = {
     ["percentile"] = 6.16,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 616,
-    ["bosses"] = {
-      ["Sindragosa"] = {
-        ["rank_raids"] = 415,
-        ["kill_count"] = 1,
-        ["points"] = 6138.06,
-      },
-    },
-  },
-  ["Adryel"] = {
-    ["percentile"] = 6.13,
-    ["server"] = "Icecrown",
     ["overall_rank"] = 617,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 419,
+        ["rank_raids"] = 416,
         ["kill_count"] = 1,
-        ["points"] = 6100.75,
+        ["points"] = 6132.34,
       },
     },
   },
@@ -19605,10 +19605,22 @@ UWULogsData[5][2] = {
       },
     },
   },
+  ["Adryel"] = {
+    ["percentile"] = 6.12,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 619,
+    ["bosses"] = {
+      ["Sindragosa"] = {
+        ["rank_raids"] = 420,
+        ["kill_count"] = 1,
+        ["points"] = 6095.06,
+      },
+    },
+  },
   ["Easyheal"] = {
     ["percentile"] = 6.09,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 619,
+    ["overall_rank"] = 620,
     ["bosses"] = {
       ["Festergut"] = {
         ["rank_raids"] = 306,
@@ -19620,7 +19632,7 @@ UWULogsData[5][2] = {
   ["Liorn"] = {
     ["percentile"] = 6.03,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 620,
+    ["overall_rank"] = 621,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 289,
@@ -19632,31 +19644,31 @@ UWULogsData[5][2] = {
   ["Elotrans"] = {
     ["percentile"] = 6.02,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 621,
+    ["overall_rank"] = 622,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 430,
+        ["rank_raids"] = 431,
         ["kill_count"] = 4,
-        ["points"] = 5998.13,
+        ["points"] = 5992.54,
       },
     },
   },
   ["Overfarm"] = {
-    ["percentile"] = 5.96,
+    ["percentile"] = 5.95,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 622,
+    ["overall_rank"] = 623,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 437,
+        ["rank_raids"] = 438,
         ["kill_count"] = 2,
-        ["points"] = 5932.84,
+        ["points"] = 5927.31,
       },
     },
   },
   ["Kotenceffect"] = {
     ["percentile"] = 5.93,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 623,
+    ["overall_rank"] = 624,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 689,
@@ -19688,7 +19700,7 @@ UWULogsData[5][2] = {
   ["Hollypower"] = {
     ["percentile"] = 5.92,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 624,
+    ["overall_rank"] = 625,
     ["bosses"] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 395,
@@ -19705,7 +19717,7 @@ UWULogsData[5][2] = {
   ["Fraan"] = {
     ["percentile"] = 5.89,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 625,
+    ["overall_rank"] = 626,
     ["bosses"] = {
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 323,
@@ -19733,9 +19745,9 @@ UWULogsData[5][2] = {
         ["points"] = 103.52,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 1005,
+        ["rank_raids"] = 1006,
         ["kill_count"] = 3,
-        ["points"] = 634.33,
+        ["points"] = 633.74,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 308,
@@ -19747,60 +19759,60 @@ UWULogsData[5][2] = {
   ["Voltair"] = {
     ["percentile"] = 5.87,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 626,
+    ["overall_rank"] = 627,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 446,
+        ["rank_raids"] = 447,
         ["kill_count"] = 1,
-        ["points"] = 5848.88,
+        ["points"] = 5843.43,
       },
     },
   },
   ["Pootie"] = {
     ["percentile"] = 5.86,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 627,
+    ["overall_rank"] = 628,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 447,
+        ["rank_raids"] = 448,
         ["kill_count"] = 4,
-        ["points"] = 5839.55,
+        ["points"] = 5834.11,
       },
     },
   },
   ["Dogholy"] = {
-    ["percentile"] = 5.83,
+    ["percentile"] = 5.82,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 628,
+    ["overall_rank"] = 629,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 451,
+        ["rank_raids"] = 452,
         ["kill_count"] = 1,
-        ["points"] = 5802.24,
+        ["points"] = 5796.83,
       },
     },
   },
   ["Casuka"] = {
     ["percentile"] = 5.75,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 629,
+    ["overall_rank"] = 630,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 459,
+        ["rank_raids"] = 460,
         ["kill_count"] = 1,
-        ["points"] = 5727.61,
+        ["points"] = 5722.27,
       },
     },
   },
   ["Saranye"] = {
-    ["percentile"] = 5.74,
+    ["percentile"] = 5.73,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 630,
+    ["overall_rank"] = 631,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 689,
+        ["rank_raids"] = 690,
         ["kill_count"] = 1,
-        ["points"] = 3582.09,
+        ["points"] = 3578.75,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 352,
@@ -19812,24 +19824,12 @@ UWULogsData[5][2] = {
   ["Margotrobbie"] = {
     ["percentile"] = 5.71,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 631,
-    ["bosses"] = {
-      ["Sindragosa"] = {
-        ["rank_raids"] = 463,
-        ["kill_count"] = 2,
-        ["points"] = 5690.3,
-      },
-    },
-  },
-  ["Qm"] = {
-    ["percentile"] = 5.69,
-    ["server"] = "Icecrown",
     ["overall_rank"] = 632,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 466,
-        ["kill_count"] = 1,
-        ["points"] = 5662.31,
+        ["rank_raids"] = 464,
+        ["kill_count"] = 2,
+        ["points"] = 5685.0,
       },
     },
   },
@@ -19845,10 +19845,22 @@ UWULogsData[5][2] = {
       },
     },
   },
+  ["Qm"] = {
+    ["percentile"] = 5.68,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 634,
+    ["bosses"] = {
+      ["Sindragosa"] = {
+        ["rank_raids"] = 467,
+        ["kill_count"] = 1,
+        ["points"] = 5657.04,
+      },
+    },
+  },
   ["Darthtempler"] = {
     ["percentile"] = 5.67,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 634,
+    ["overall_rank"] = 635,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 391,
@@ -19868,57 +19880,57 @@ UWULogsData[5][2] = {
     },
   },
   ["Ricardaa"] = {
-    ["percentile"] = 5.64,
+    ["percentile"] = 5.63,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 635,
+    ["overall_rank"] = 636,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 471,
+        ["rank_raids"] = 472,
         ["kill_count"] = 2,
-        ["points"] = 5615.67,
+        ["points"] = 5610.44,
       },
     },
   },
   ["Jhennete"] = {
     ["percentile"] = 5.59,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 637,
+    ["overall_rank"] = 638,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 476,
+        ["rank_raids"] = 477,
         ["kill_count"] = 1,
-        ["points"] = 5569.03,
+        ["points"] = 5563.84,
       },
     },
   },
   ["Powerwordhug"] = {
     ["percentile"] = 5.57,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 638,
+    ["overall_rank"] = 639,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 478,
+        ["rank_raids"] = 479,
         ["kill_count"] = 2,
-        ["points"] = 5550.37,
+        ["points"] = 5545.2,
       },
     },
   },
   ["Heavensdor"] = {
-    ["percentile"] = 5.53,
+    ["percentile"] = 5.52,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 639,
+    ["overall_rank"] = 640,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 483,
+        ["rank_raids"] = 484,
         ["kill_count"] = 2,
-        ["points"] = 5503.73,
+        ["points"] = 5498.6,
       },
     },
   },
   ["Mainlod"] = {
     ["percentile"] = 5.5,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 640,
+    ["overall_rank"] = 641,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 260,
@@ -19930,7 +19942,7 @@ UWULogsData[5][2] = {
   ["Ezrya"] = {
     ["percentile"] = 5.49,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 641,
+    ["overall_rank"] = 642,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 368,
@@ -19955,21 +19967,21 @@ UWULogsData[5][2] = {
     },
   },
   ["Travazaptwo"] = {
-    ["percentile"] = 5.47,
+    ["percentile"] = 5.46,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 642,
+    ["overall_rank"] = 643,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 489,
+        ["rank_raids"] = 490,
         ["kill_count"] = 1,
-        ["points"] = 5447.76,
+        ["points"] = 5442.68,
       },
     },
   },
   ["Koroa"] = {
     ["percentile"] = 5.42,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 643,
+    ["overall_rank"] = 644,
     ["bosses"] = {
       ["Festergut"] = {
         ["rank_raids"] = 707,
@@ -19984,21 +19996,21 @@ UWULogsData[5][2] = {
     },
   },
   ["Madisonyoung"] = {
-    ["percentile"] = 5.37,
+    ["percentile"] = 5.36,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 644,
+    ["overall_rank"] = 645,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 500,
+        ["rank_raids"] = 501,
         ["kill_count"] = 1,
-        ["points"] = 5345.15,
+        ["points"] = 5340.17,
       },
     },
   },
   ["Hothotmoon"] = {
     ["percentile"] = 5.34,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 646,
+    ["overall_rank"] = 647,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 269,
@@ -20010,19 +20022,19 @@ UWULogsData[5][2] = {
   ["Tlana"] = {
     ["percentile"] = 5.33,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 647,
+    ["overall_rank"] = 648,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 504,
+        ["rank_raids"] = 505,
         ["kill_count"] = 1,
-        ["points"] = 5307.84,
+        ["points"] = 5302.89,
       },
     },
   },
   ["Angell"] = {
     ["percentile"] = 5.29,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 648,
+    ["overall_rank"] = 649,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 440,
@@ -20039,7 +20051,7 @@ UWULogsData[5][2] = {
   ["Sanfoora"] = {
     ["percentile"] = 5.28,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 649,
+    ["overall_rank"] = 650,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 455,
@@ -20056,7 +20068,7 @@ UWULogsData[5][2] = {
   ["Vairea"] = {
     ["percentile"] = 5.27,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 650,
+    ["overall_rank"] = 651,
     ["bosses"] = {
       ["Festergut"] = {
         ["rank_raids"] = 427,
@@ -20071,21 +20083,21 @@ UWULogsData[5][2] = {
     },
   },
   ["Vezdow"] = {
-    ["percentile"] = 5.22,
+    ["percentile"] = 5.21,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 651,
+    ["overall_rank"] = 652,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 516,
+        ["rank_raids"] = 517,
         ["kill_count"] = 2,
-        ["points"] = 5195.9,
+        ["points"] = 5191.05,
       },
     },
   },
   ["Apparatus"] = {
     ["percentile"] = 5.2,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 652,
+    ["overall_rank"] = 653,
     ["bosses"] = {
       ["The Lich King"] = {
         ["rank_raids"] = 216,
@@ -20097,19 +20109,19 @@ UWULogsData[5][2] = {
   ["Dndzara"] = {
     ["percentile"] = 5.16,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 653,
+    ["overall_rank"] = 654,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 522,
+        ["rank_raids"] = 523,
         ["kill_count"] = 1,
-        ["points"] = 5139.93,
+        ["points"] = 5135.14,
       },
     },
   },
   ["Heelmii"] = {
     ["percentile"] = 5.13,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 654,
+    ["overall_rank"] = 655,
     ["bosses"] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 732,
@@ -20124,21 +20136,21 @@ UWULogsData[5][2] = {
     },
   },
   ["Holyspirits"] = {
-    ["percentile"] = 5.06,
+    ["percentile"] = 5.05,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 655,
+    ["overall_rank"] = 656,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 533,
+        ["rank_raids"] = 534,
         ["kill_count"] = 1,
-        ["points"] = 5037.31,
+        ["points"] = 5032.62,
       },
     },
   },
   ["Escil"] = {
     ["percentile"] = 5.03,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 656,
+    ["overall_rank"] = 657,
     ["bosses"] = {
       ["Rotface"] = {
         ["rank_raids"] = 490,
@@ -20155,7 +20167,7 @@ UWULogsData[5][2] = {
   ["Dversityhire"] = {
     ["percentile"] = 5.03,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 657,
+    ["overall_rank"] = 658,
     ["bosses"] = {
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 334,
@@ -20172,31 +20184,31 @@ UWULogsData[5][2] = {
   ["Shadowleaf"] = {
     ["percentile"] = 4.97,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 658,
+    ["overall_rank"] = 659,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 542,
+        ["rank_raids"] = 543,
         ["kill_count"] = 1,
-        ["points"] = 4953.36,
+        ["points"] = 4948.74,
       },
     },
   },
   ["Preistaczk"] = {
     ["percentile"] = 4.86,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 659,
+    ["overall_rank"] = 660,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 554,
+        ["rank_raids"] = 555,
         ["kill_count"] = 2,
-        ["points"] = 4841.42,
+        ["points"] = 4836.91,
       },
     },
   },
   ["Pyradora"] = {
     ["percentile"] = 4.78,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 660,
+    ["overall_rank"] = 661,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 379,
@@ -20208,7 +20220,7 @@ UWULogsData[5][2] = {
   ["Exekurva"] = {
     ["percentile"] = 4.75,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 661,
+    ["overall_rank"] = 662,
     ["bosses"] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 586,
@@ -20220,28 +20232,16 @@ UWULogsData[5][2] = {
   ["Chessia"] = {
     ["percentile"] = 4.71,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 662,
+    ["overall_rank"] = 663,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 570,
+        ["rank_raids"] = 571,
         ["kill_count"] = 1,
-        ["points"] = 4692.16,
+        ["points"] = 4687.79,
       },
     },
   },
   ["Elruness"] = {
-    ["percentile"] = 4.67,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 663,
-    ["bosses"] = {
-      ["Sindragosa"] = {
-        ["rank_raids"] = 575,
-        ["kill_count"] = 1,
-        ["points"] = 4645.52,
-      },
-    },
-  },
-  ["Azlone"] = {
     ["percentile"] = 4.66,
     ["server"] = "Icecrown",
     ["overall_rank"] = 664,
@@ -20249,26 +20249,38 @@ UWULogsData[5][2] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 576,
         ["kill_count"] = 1,
-        ["points"] = 4636.19,
+        ["points"] = 4641.19,
       },
     },
   },
-  ["Orela"] = {
-    ["percentile"] = 4.62,
+  ["Azlone"] = {
+    ["percentile"] = 4.65,
     ["server"] = "Icecrown",
     ["overall_rank"] = 665,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 580,
+        ["rank_raids"] = 577,
         ["kill_count"] = 1,
-        ["points"] = 4598.88,
+        ["points"] = 4631.87,
+      },
+    },
+  },
+  ["Orela"] = {
+    ["percentile"] = 4.61,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 666,
+    ["bosses"] = {
+      ["Sindragosa"] = {
+        ["rank_raids"] = 581,
+        ["kill_count"] = 1,
+        ["points"] = 4594.59,
       },
     },
   },
   ["Nadx"] = {
     ["percentile"] = 4.55,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 666,
+    ["overall_rank"] = 667,
     ["bosses"] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 385,
@@ -20285,7 +20297,7 @@ UWULogsData[5][2] = {
   ["Syli"] = {
     ["percentile"] = 4.53,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 667,
+    ["overall_rank"] = 668,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 397,
@@ -20297,31 +20309,31 @@ UWULogsData[5][2] = {
   ["Prosmoke"] = {
     ["percentile"] = 4.41,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 668,
+    ["overall_rank"] = 669,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 602,
+        ["rank_raids"] = 603,
         ["kill_count"] = 1,
-        ["points"] = 4393.66,
+        ["points"] = 4389.56,
       },
     },
   },
   ["Astralwalker"] = {
     ["percentile"] = 4.25,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 669,
+    ["overall_rank"] = 670,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 619,
+        ["rank_raids"] = 620,
         ["kill_count"] = 1,
-        ["points"] = 4235.07,
+        ["points"] = 4231.13,
       },
     },
   },
   ["Lialv"] = {
     ["percentile"] = 4.23,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 670,
+    ["overall_rank"] = 671,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 418,
@@ -20333,7 +20345,7 @@ UWULogsData[5][2] = {
   ["Zzunniyaki"] = {
     ["percentile"] = 4.17,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 671,
+    ["overall_rank"] = 672,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 552,
@@ -20350,7 +20362,7 @@ UWULogsData[5][2] = {
   ["Catlyne"] = {
     ["percentile"] = 4.15,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 672,
+    ["overall_rank"] = 673,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 424,
@@ -20362,7 +20374,7 @@ UWULogsData[5][2] = {
   ["Nordypriest"] = {
     ["percentile"] = 3.96,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 674,
+    ["overall_rank"] = 675,
     ["bosses"] = {
       ["The Lich King"] = {
         ["rank_raids"] = 271,
@@ -20374,7 +20386,7 @@ UWULogsData[5][2] = {
   ["Mengmengya"] = {
     ["percentile"] = 3.93,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 675,
+    ["overall_rank"] = 676,
     ["bosses"] = {
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 206,
@@ -20386,7 +20398,7 @@ UWULogsData[5][2] = {
   ["Unibrow"] = {
     ["percentile"] = 3.93,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 676,
+    ["overall_rank"] = 677,
     ["bosses"] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 677,
@@ -20398,19 +20410,19 @@ UWULogsData[5][2] = {
   ["Desstrroy"] = {
     ["percentile"] = 3.92,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 677,
+    ["overall_rank"] = 678,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 654,
+        ["rank_raids"] = 655,
         ["kill_count"] = 2,
-        ["points"] = 3908.58,
+        ["points"] = 3904.94,
       },
     },
   },
   ["Fakerlove"] = {
     ["percentile"] = 3.91,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 678,
+    ["overall_rank"] = 679,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 534,
@@ -20432,7 +20444,7 @@ UWULogsData[5][2] = {
   ["Holyprostate"] = {
     ["percentile"] = 3.9,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 679,
+    ["overall_rank"] = 680,
     ["bosses"] = {
       ["Rotface"] = {
         ["rank_raids"] = 696,
@@ -20454,12 +20466,12 @@ UWULogsData[5][2] = {
   ["Careerax"] = {
     ["percentile"] = 3.9,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 680,
+    ["overall_rank"] = 681,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 1003,
+        ["rank_raids"] = 1004,
         ["kill_count"] = 1,
-        ["points"] = 652.99,
+        ["points"] = 652.38,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 303,
@@ -20469,21 +20481,21 @@ UWULogsData[5][2] = {
     },
   },
   ["Tamzisgood"] = {
-    ["percentile"] = 3.88,
+    ["percentile"] = 3.87,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 681,
+    ["overall_rank"] = 682,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 659,
+        ["rank_raids"] = 660,
         ["kill_count"] = 1,
-        ["points"] = 3861.94,
+        ["points"] = 3858.34,
       },
     },
   },
   ["Antishock"] = {
     ["percentile"] = 3.83,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 682,
+    ["overall_rank"] = 683,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 447,
@@ -20495,31 +20507,31 @@ UWULogsData[5][2] = {
   ["Cilante"] = {
     ["percentile"] = 3.82,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 683,
+    ["overall_rank"] = 684,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 665,
+        ["rank_raids"] = 666,
         ["kill_count"] = 1,
-        ["points"] = 3805.97,
+        ["points"] = 3802.42,
       },
     },
   },
   ["Adechan"] = {
     ["percentile"] = 3.79,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 684,
+    ["overall_rank"] = 685,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 668,
+        ["rank_raids"] = 669,
         ["kill_count"] = 2,
-        ["points"] = 3777.99,
+        ["points"] = 3774.46,
       },
     },
   },
   ["Site"] = {
     ["percentile"] = 3.74,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 685,
+    ["overall_rank"] = 686,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 674,
@@ -20551,7 +20563,7 @@ UWULogsData[5][2] = {
   ["Discoteka"] = {
     ["percentile"] = 3.7,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 686,
+    ["overall_rank"] = 687,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 362,
@@ -20563,36 +20575,24 @@ UWULogsData[5][2] = {
   ["Omegapadding"] = {
     ["percentile"] = 3.7,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 687,
+    ["overall_rank"] = 688,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 678,
+        ["rank_raids"] = 679,
         ["kill_count"] = 1,
-        ["points"] = 3684.7,
+        ["points"] = 3681.27,
       },
     },
   },
   ["Yoshiisan"] = {
     ["percentile"] = 3.62,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 689,
+    ["overall_rank"] = 690,
     ["bosses"] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 711,
         ["kill_count"] = 1,
         ["points"] = 3609.36,
-      },
-    },
-  },
-  ["Malfy"] = {
-    ["percentile"] = 3.61,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 690,
-    ["bosses"] = {
-      ["Sindragosa"] = {
-        ["rank_raids"] = 688,
-        ["kill_count"] = 1,
-        ["points"] = 3591.42,
       },
     },
   },
@@ -20608,10 +20608,22 @@ UWULogsData[5][2] = {
       },
     },
   },
+  ["Malfy"] = {
+    ["percentile"] = 3.6,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 692,
+    ["bosses"] = {
+      ["Sindragosa"] = {
+        ["rank_raids"] = 689,
+        ["kill_count"] = 1,
+        ["points"] = 3588.07,
+      },
+    },
+  },
   ["Reducer"] = {
     ["percentile"] = 3.52,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 692,
+    ["overall_rank"] = 693,
     ["bosses"] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 722,
@@ -20623,7 +20635,7 @@ UWULogsData[5][2] = {
   ["Stpeter"] = {
     ["percentile"] = 3.5,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 693,
+    ["overall_rank"] = 694,
     ["bosses"] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 725,
@@ -20633,33 +20645,33 @@ UWULogsData[5][2] = {
     },
   },
   ["Aoda"] = {
-    ["percentile"] = 3.47,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 694,
-    ["bosses"] = {
-      ["Sindragosa"] = {
-        ["rank_raids"] = 703,
-        ["kill_count"] = 1,
-        ["points"] = 3451.49,
-      },
-    },
-  },
-  ["Raidsaveer"] = {
     ["percentile"] = 3.46,
     ["server"] = "Icecrown",
     ["overall_rank"] = 695,
     ["bosses"] = {
       ["Sindragosa"] = {
         ["rank_raids"] = 704,
+        ["kill_count"] = 1,
+        ["points"] = 3448.28,
+      },
+    },
+  },
+  ["Raidsaveer"] = {
+    ["percentile"] = 3.45,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 696,
+    ["bosses"] = {
+      ["Sindragosa"] = {
+        ["rank_raids"] = 705,
         ["kill_count"] = 2,
-        ["points"] = 3442.16,
+        ["points"] = 3438.96,
       },
     },
   },
   ["Zexona"] = {
     ["percentile"] = 3.43,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 696,
+    ["overall_rank"] = 697,
     ["bosses"] = {
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 223,
@@ -20671,12 +20683,12 @@ UWULogsData[5][2] = {
   ["Yoshiisama"] = {
     ["percentile"] = 3.42,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 697,
+    ["overall_rank"] = 698,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 847,
+        ["rank_raids"] = 848,
         ["kill_count"] = 2,
-        ["points"] = 2108.21,
+        ["points"] = 2106.24,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 389,
@@ -20688,7 +20700,7 @@ UWULogsData[5][2] = {
   ["Wraxiusttss"] = {
     ["percentile"] = 3.36,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 698,
+    ["overall_rank"] = 699,
     ["bosses"] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 740,
@@ -20698,21 +20710,21 @@ UWULogsData[5][2] = {
     },
   },
   ["Doolo"] = {
-    ["percentile"] = 3.33,
+    ["percentile"] = 3.32,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 699,
+    ["overall_rank"] = 700,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 718,
+        ["rank_raids"] = 719,
         ["kill_count"] = 1,
-        ["points"] = 3311.57,
+        ["points"] = 3308.48,
       },
     },
   },
   ["Gingerinha"] = {
     ["percentile"] = 3.3,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 700,
+    ["overall_rank"] = 701,
     ["bosses"] = {
       ["Rotface"] = {
         ["rank_raids"] = 522,
@@ -20724,7 +20736,7 @@ UWULogsData[5][2] = {
   ["Koreshok"] = {
     ["percentile"] = 3.25,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 701,
+    ["overall_rank"] = 702,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 489,
@@ -20736,7 +20748,7 @@ UWULogsData[5][2] = {
   ["Galanoth"] = {
     ["percentile"] = 3.14,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 702,
+    ["overall_rank"] = 703,
     ["bosses"] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 765,
@@ -20748,55 +20760,55 @@ UWULogsData[5][2] = {
   ["Fjorrah"] = {
     ["percentile"] = 3.12,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 704,
+    ["overall_rank"] = 705,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 740,
+        ["rank_raids"] = 741,
         ["kill_count"] = 1,
-        ["points"] = 3106.34,
+        ["points"] = 3103.45,
       },
     },
   },
   ["Sushibubble"] = {
     ["percentile"] = 3.11,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 705,
+    ["overall_rank"] = 706,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 741,
+        ["rank_raids"] = 742,
         ["kill_count"] = 1,
-        ["points"] = 3097.01,
+        ["points"] = 3094.13,
       },
     },
   },
   ["Xundisc"] = {
     ["percentile"] = 3.09,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 706,
+    ["overall_rank"] = 707,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 743,
+        ["rank_raids"] = 744,
         ["kill_count"] = 1,
-        ["points"] = 3078.36,
+        ["points"] = 3075.49,
       },
     },
   },
   ["Demonry"] = {
-    ["percentile"] = 3.03,
+    ["percentile"] = 3.02,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 707,
+    ["overall_rank"] = 708,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 750,
+        ["rank_raids"] = 751,
         ["kill_count"] = 2,
-        ["points"] = 3013.06,
+        ["points"] = 3010.25,
       },
     },
   },
   ["Melseana"] = {
     ["percentile"] = 3.0,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 708,
+    ["overall_rank"] = 709,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 715,
@@ -20824,9 +20836,9 @@ UWULogsData[5][2] = {
         ["points"] = 36.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 1036,
+        ["rank_raids"] = 1037,
         ["kill_count"] = 1,
-        ["points"] = 345.15,
+        ["points"] = 344.83,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 365,
@@ -20838,7 +20850,7 @@ UWULogsData[5][2] = {
   ["Dremox"] = {
     ["percentile"] = 2.87,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 709,
+    ["overall_rank"] = 710,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 516,
@@ -20850,7 +20862,7 @@ UWULogsData[5][2] = {
   ["Brigitaa"] = {
     ["percentile"] = 2.8,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 710,
+    ["overall_rank"] = 711,
     ["bosses"] = {
       ["Rotface"] = {
         ["rank_raids"] = 580,
@@ -20867,7 +20879,7 @@ UWULogsData[5][2] = {
   ["Koekxqt"] = {
     ["percentile"] = 2.76,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 711,
+    ["overall_rank"] = 712,
     ["bosses"] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 807,
@@ -20877,21 +20889,21 @@ UWULogsData[5][2] = {
     },
   },
   ["Bubbleche"] = {
-    ["percentile"] = 2.57,
+    ["percentile"] = 2.56,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 712,
+    ["overall_rank"] = 713,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 799,
+        ["rank_raids"] = 800,
         ["kill_count"] = 1,
-        ["points"] = 2555.97,
+        ["points"] = 2553.59,
       },
     },
   },
   ["Masmera"] = {
     ["percentile"] = 2.54,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 713,
+    ["overall_rank"] = 714,
     ["bosses"] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 831,
@@ -20903,31 +20915,31 @@ UWULogsData[5][2] = {
   ["Nozez"] = {
     ["percentile"] = 2.53,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 714,
+    ["overall_rank"] = 715,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 803,
+        ["rank_raids"] = 804,
         ["kill_count"] = 1,
-        ["points"] = 2518.66,
+        ["points"] = 2516.31,
       },
     },
   },
   ["Komesar"] = {
     ["percentile"] = 2.38,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 715,
+    ["overall_rank"] = 716,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 819,
+        ["rank_raids"] = 820,
         ["kill_count"] = 1,
-        ["points"] = 2369.4,
+        ["points"] = 2367.19,
       },
     },
   },
   ["Lykanos"] = {
     ["percentile"] = 2.29,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 716,
+    ["overall_rank"] = 717,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 663,
@@ -20949,7 +20961,7 @@ UWULogsData[5][2] = {
   ["Dirtysancez"] = {
     ["percentile"] = 2.23,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 717,
+    ["overall_rank"] = 718,
     ["bosses"] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 865,
@@ -20961,19 +20973,19 @@ UWULogsData[5][2] = {
   ["Tequipriest"] = {
     ["percentile"] = 2.1,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 718,
+    ["overall_rank"] = 719,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 849,
+        ["rank_raids"] = 850,
         ["kill_count"] = 1,
-        ["points"] = 2089.55,
+        ["points"] = 2087.6,
       },
     },
   },
   ["Nelcy"] = {
     ["percentile"] = 2.05,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 719,
+    ["overall_rank"] = 720,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 575,
@@ -20985,7 +20997,7 @@ UWULogsData[5][2] = {
   ["Discoway"] = {
     ["percentile"] = 2.04,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 720,
+    ["overall_rank"] = 721,
     ["bosses"] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 350,
@@ -20997,7 +21009,7 @@ UWULogsData[5][2] = {
   ["Beernudraazs"] = {
     ["percentile"] = 2.04,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 721,
+    ["overall_rank"] = 722,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 565,
@@ -21019,7 +21031,7 @@ UWULogsData[5][2] = {
   ["Discypline"] = {
     ["percentile"] = 1.88,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 722,
+    ["overall_rank"] = 723,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 658,
@@ -21041,7 +21053,7 @@ UWULogsData[5][2] = {
   ["Guarrdiian"] = {
     ["percentile"] = 1.87,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 723,
+    ["overall_rank"] = 724,
     ["bosses"] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 905,
@@ -21053,7 +21065,7 @@ UWULogsData[5][2] = {
   ["Donatora"] = {
     ["percentile"] = 1.81,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 724,
+    ["overall_rank"] = 725,
     ["bosses"] = {
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 326,
@@ -21066,28 +21078,28 @@ UWULogsData[5][2] = {
         ["points"] = 523.69,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 974,
+        ["rank_raids"] = 975,
         ["kill_count"] = 1,
-        ["points"] = 923.51,
+        ["points"] = 922.65,
       },
     },
   },
   ["Moebiusz"] = {
-    ["percentile"] = 1.71,
+    ["percentile"] = 1.7,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 725,
+    ["overall_rank"] = 726,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 891,
+        ["rank_raids"] = 892,
         ["kill_count"] = 1,
-        ["points"] = 1697.76,
+        ["points"] = 1696.18,
       },
     },
   },
   ["Xerciez"] = {
     ["percentile"] = 1.66,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 726,
+    ["overall_rank"] = 727,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 481,
@@ -21099,7 +21111,7 @@ UWULogsData[5][2] = {
   ["Toxicdisc"] = {
     ["percentile"] = 1.57,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 727,
+    ["overall_rank"] = 728,
     ["bosses"] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 938,
@@ -21111,7 +21123,7 @@ UWULogsData[5][2] = {
   ["Jezucrizto"] = {
     ["percentile"] = 1.55,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 728,
+    ["overall_rank"] = 729,
     ["bosses"] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 941,
@@ -21123,7 +21135,7 @@ UWULogsData[5][2] = {
   ["Helpomw"] = {
     ["percentile"] = 1.54,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 729,
+    ["overall_rank"] = 730,
     ["bosses"] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 661,
@@ -21140,7 +21152,7 @@ UWULogsData[5][2] = {
   ["Popfransis"] = {
     ["percentile"] = 1.54,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 730,
+    ["overall_rank"] = 731,
     ["bosses"] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 942,
@@ -21152,7 +21164,7 @@ UWULogsData[5][2] = {
   ["Fateful"] = {
     ["percentile"] = 1.5,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 731,
+    ["overall_rank"] = 732,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 488,
@@ -21164,7 +21176,7 @@ UWULogsData[5][2] = {
   ["Reimu"] = {
     ["percentile"] = 1.48,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 732,
+    ["overall_rank"] = 733,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 616,
@@ -21176,24 +21188,12 @@ UWULogsData[5][2] = {
   ["Selenaxt"] = {
     ["percentile"] = 1.46,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 733,
+    ["overall_rank"] = 734,
     ["bosses"] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 950,
         ["kill_count"] = 1,
         ["points"] = 1458.15,
-      },
-    },
-  },
-  ["Bugothyl"] = {
-    ["percentile"] = 1.45,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 734,
-    ["bosses"] = {
-      ["Sindragosa"] = {
-        ["rank_raids"] = 918,
-        ["kill_count"] = 1,
-        ["points"] = 1445.9,
       },
     },
   },
@@ -21209,22 +21209,34 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Misdreavus"] = {
-    ["percentile"] = 1.43,
+  ["Bugothyl"] = {
+    ["percentile"] = 1.45,
     ["server"] = "Icecrown",
     ["overall_rank"] = 736,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 920,
+        ["rank_raids"] = 919,
+        ["kill_count"] = 1,
+        ["points"] = 1444.55,
+      },
+    },
+  },
+  ["Misdreavus"] = {
+    ["percentile"] = 1.43,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 737,
+    ["bosses"] = {
+      ["Sindragosa"] = {
+        ["rank_raids"] = 921,
         ["kill_count"] = 3,
-        ["points"] = 1427.24,
+        ["points"] = 1425.91,
       },
     },
   },
   ["Azzraelka"] = {
     ["percentile"] = 1.32,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 738,
+    ["overall_rank"] = 739,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 498,
@@ -21236,55 +21248,55 @@ UWULogsData[5][2] = {
   ["Forlishadow"] = {
     ["percentile"] = 1.29,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 739,
+    ["overall_rank"] = 740,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 935,
+        ["rank_raids"] = 936,
         ["kill_count"] = 1,
-        ["points"] = 1287.31,
+        ["points"] = 1286.11,
       },
     },
   },
   ["Dronacharya"] = {
     ["percentile"] = 1.28,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 740,
+    ["overall_rank"] = 741,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 936,
+        ["rank_raids"] = 937,
         ["kill_count"] = 1,
-        ["points"] = 1277.99,
+        ["points"] = 1276.79,
       },
     },
   },
   ["Tutku"] = {
     ["percentile"] = 1.26,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 741,
+    ["overall_rank"] = 742,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 938,
+        ["rank_raids"] = 939,
         ["kill_count"] = 1,
-        ["points"] = 1259.33,
+        ["points"] = 1258.15,
       },
     },
   },
   ["Jaxms"] = {
     ["percentile"] = 1.25,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 742,
+    ["overall_rank"] = 743,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 939,
+        ["rank_raids"] = 940,
         ["kill_count"] = 1,
-        ["points"] = 1250.0,
+        ["points"] = 1248.84,
       },
     },
   },
   ["Savingcigans"] = {
     ["percentile"] = 1.21,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 743,
+    ["overall_rank"] = 744,
     ["bosses"] = {
       ["The Lich King"] = {
         ["rank_raids"] = 398,
@@ -21296,7 +21308,7 @@ UWULogsData[5][2] = {
   ["Antizerg"] = {
     ["percentile"] = 1.18,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 744,
+    ["overall_rank"] = 745,
     ["bosses"] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 982,
@@ -21308,31 +21320,31 @@ UWULogsData[5][2] = {
   ["Alexheal"] = {
     ["percentile"] = 1.15,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 745,
+    ["overall_rank"] = 746,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 950,
+        ["rank_raids"] = 951,
         ["kill_count"] = 1,
-        ["points"] = 1147.39,
+        ["points"] = 1146.32,
       },
     },
   },
   ["Eflon"] = {
     ["percentile"] = 1.13,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 746,
+    ["overall_rank"] = 747,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 952,
+        ["rank_raids"] = 953,
         ["kill_count"] = 1,
-        ["points"] = 1128.73,
+        ["points"] = 1127.68,
       },
     },
   },
   ["Yippikayee"] = {
     ["percentile"] = 1.12,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 747,
+    ["overall_rank"] = 748,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 509,
@@ -21344,7 +21356,7 @@ UWULogsData[5][2] = {
   ["Rostax"] = {
     ["percentile"] = 1.08,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 748,
+    ["overall_rank"] = 749,
     ["bosses"] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 992,
@@ -21356,7 +21368,7 @@ UWULogsData[5][2] = {
   ["Megaxtz"] = {
     ["percentile"] = 1.01,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 749,
+    ["overall_rank"] = 750,
     ["bosses"] = {
       ["The Lich King"] = {
         ["rank_raids"] = 424,
@@ -21368,7 +21380,7 @@ UWULogsData[5][2] = {
   ["Twindoodle"] = {
     ["percentile"] = 0.97,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 750,
+    ["overall_rank"] = 751,
     ["bosses"] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1005,
@@ -21380,19 +21392,19 @@ UWULogsData[5][2] = {
   ["Zaryah"] = {
     ["percentile"] = 0.94,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 751,
+    ["overall_rank"] = 752,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 973,
+        ["rank_raids"] = 974,
         ["kill_count"] = 1,
-        ["points"] = 932.84,
+        ["points"] = 931.97,
       },
     },
   },
   ["Elbandidoxd"] = {
     ["percentile"] = 0.9,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 752,
+    ["overall_rank"] = 753,
     ["bosses"] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1012,
@@ -21404,19 +21416,19 @@ UWULogsData[5][2] = {
   ["Exxonn"] = {
     ["percentile"] = 0.89,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 753,
+    ["overall_rank"] = 754,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 978,
+        ["rank_raids"] = 979,
         ["kill_count"] = 1,
-        ["points"] = 886.19,
+        ["points"] = 885.37,
       },
     },
   },
   ["Loordtrice"] = {
     ["percentile"] = 0.86,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 754,
+    ["overall_rank"] = 755,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 660,
@@ -21428,31 +21440,31 @@ UWULogsData[5][2] = {
   ["Everydayka"] = {
     ["percentile"] = 0.81,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 755,
+    ["overall_rank"] = 756,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 986,
+        ["rank_raids"] = 987,
         ["kill_count"] = 1,
-        ["points"] = 811.57,
+        ["points"] = 810.81,
       },
     },
   },
   ["Nolliq"] = {
     ["percentile"] = 0.8,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 756,
+    ["overall_rank"] = 757,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 988,
+        ["rank_raids"] = 989,
         ["kill_count"] = 1,
-        ["points"] = 792.91,
+        ["points"] = 792.17,
       },
     },
   },
   ["Aldesnkocasi"] = {
     ["percentile"] = 0.78,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 757,
+    ["overall_rank"] = 758,
     ["bosses"] = {
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 312,
@@ -21464,19 +21476,19 @@ UWULogsData[5][2] = {
   ["Ratahpriest"] = {
     ["percentile"] = 0.74,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 758,
+    ["overall_rank"] = 759,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 994,
+        ["rank_raids"] = 995,
         ["kill_count"] = 1,
-        ["points"] = 736.94,
+        ["points"] = 736.25,
       },
     },
   },
   ["Raidhealbot"] = {
     ["percentile"] = 0.74,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 759,
+    ["overall_rank"] = 760,
     ["bosses"] = {
       ["Festergut"] = {
         ["rank_raids"] = 720,
@@ -21488,31 +21500,31 @@ UWULogsData[5][2] = {
   ["Kinroffi"] = {
     ["percentile"] = 0.73,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 760,
+    ["overall_rank"] = 761,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 995,
+        ["rank_raids"] = 996,
         ["kill_count"] = 1,
-        ["points"] = 727.61,
+        ["points"] = 726.93,
       },
     },
   },
   ["Pizzamaker"] = {
     ["percentile"] = 0.71,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 761,
+    ["overall_rank"] = 762,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 997,
+        ["rank_raids"] = 998,
         ["kill_count"] = 2,
-        ["points"] = 708.96,
+        ["points"] = 708.29,
       },
     },
   },
   ["Hotgal"] = {
     ["percentile"] = 0.7,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 762,
+    ["overall_rank"] = 763,
     ["bosses"] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1035,
@@ -21524,19 +21536,19 @@ UWULogsData[5][2] = {
   ["Deafheaven"] = {
     ["percentile"] = 0.67,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 764,
+    ["overall_rank"] = 765,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 1001,
+        ["rank_raids"] = 1002,
         ["kill_count"] = 1,
-        ["points"] = 671.64,
+        ["points"] = 671.02,
       },
     },
   },
   ["Aurastrasza"] = {
     ["percentile"] = 0.66,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 765,
+    ["overall_rank"] = 766,
     ["bosses"] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 411,
@@ -21548,43 +21560,43 @@ UWULogsData[5][2] = {
   ["Gizelin"] = {
     ["percentile"] = 0.65,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 766,
+    ["overall_rank"] = 767,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 1004,
+        ["rank_raids"] = 1005,
         ["kill_count"] = 1,
-        ["points"] = 643.66,
+        ["points"] = 643.06,
       },
     },
   },
   ["Healyamon"] = {
     ["percentile"] = 0.58,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 767,
+    ["overall_rank"] = 768,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 1011,
+        ["rank_raids"] = 1012,
         ["kill_count"] = 1,
-        ["points"] = 578.36,
+        ["points"] = 577.82,
       },
     },
   },
   ["Lanaron"] = {
     ["percentile"] = 0.57,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 768,
+    ["overall_rank"] = 769,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 1012,
+        ["rank_raids"] = 1013,
         ["kill_count"] = 1,
-        ["points"] = 569.03,
+        ["points"] = 568.5,
       },
     },
   },
   ["Sucodegluteo"] = {
     ["percentile"] = 0.48,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 769,
+    ["overall_rank"] = 770,
     ["bosses"] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1059,
@@ -21596,31 +21608,31 @@ UWULogsData[5][2] = {
   ["Synchronized"] = {
     ["percentile"] = 0.48,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 770,
+    ["overall_rank"] = 771,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 1022,
+        ["rank_raids"] = 1023,
         ["kill_count"] = 1,
-        ["points"] = 475.75,
+        ["points"] = 475.3,
       },
     },
   },
   ["Hotpenance"] = {
     ["percentile"] = 0.46,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 771,
+    ["overall_rank"] = 772,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 1024,
+        ["rank_raids"] = 1025,
         ["kill_count"] = 1,
-        ["points"] = 457.09,
+        ["points"] = 456.66,
       },
     },
   },
   ["Yutsuki"] = {
     ["percentile"] = 0.46,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 772,
+    ["overall_rank"] = 773,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
         ["rank_raids"] = 561,
@@ -21637,7 +21649,7 @@ UWULogsData[5][2] = {
   ["Stavrofor"] = {
     ["percentile"] = 0.43,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 773,
+    ["overall_rank"] = 774,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 695,
@@ -21649,7 +21661,7 @@ UWULogsData[5][2] = {
   ["Vishantii"] = {
     ["percentile"] = 0.35,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 776,
+    ["overall_rank"] = 777,
     ["bosses"] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 1073,
@@ -21661,7 +21673,7 @@ UWULogsData[5][2] = {
   ["Finolais"] = {
     ["percentile"] = 0.24,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 777,
+    ["overall_rank"] = 778,
     ["bosses"] = {
       ["Professor Putricide"] = {
         ["rank_raids"] = 429,
@@ -21673,7 +21685,7 @@ UWULogsData[5][2] = {
   ["Separatist"] = {
     ["percentile"] = 0.18,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 779,
+    ["overall_rank"] = 780,
     ["bosses"] = {
       ["Rotface"] = {
         ["rank_raids"] = 763,
@@ -21685,19 +21697,19 @@ UWULogsData[5][2] = {
   ["Spam"] = {
     ["percentile"] = 0.07,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 781,
+    ["overall_rank"] = 782,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 1066,
+        ["rank_raids"] = 1067,
         ["kill_count"] = 1,
-        ["points"] = 73.89,
+        ["points"] = 73.71,
       },
     },
   },
   ["Shelisa"] = {
     ["percentile"] = 0.06,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 782,
+    ["overall_rank"] = 783,
     ["bosses"] = {
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 336,
@@ -21709,7 +21721,7 @@ UWULogsData[5][2] = {
   ["Katsuipr"] = {
     ["percentile"] = 0.05,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 783,
+    ["overall_rank"] = 784,
     ["bosses"] = {
       ["Rotface"] = {
         ["rank_raids"] = 776,
@@ -21731,7 +21743,7 @@ UWULogsData[5][2] = {
   ["Zuniyaki"] = {
     ["percentile"] = 0.05,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 784,
+    ["overall_rank"] = 785,
     ["bosses"] = {
       ["Blood Prince Council"] = {
         ["rank_raids"] = 767,
@@ -21739,16 +21751,16 @@ UWULogsData[5][2] = {
         ["points"] = 26.04,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 1072,
+        ["rank_raids"] = 1073,
         ["kill_count"] = 1,
-        ["points"] = 24.63,
+        ["points"] = 24.57,
       },
     },
   },
   ["Chocospirit"] = {
     ["percentile"] = 0.03,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 785,
+    ["overall_rank"] = 786,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 721,
@@ -21760,10 +21772,10 @@ UWULogsData[5][2] = {
   ["Drogaad"] = {
     ["percentile"] = 0.0,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 786,
+    ["overall_rank"] = 787,
     ["bosses"] = {
       ["Sindragosa"] = {
-        ["rank_raids"] = 1073,
+        ["rank_raids"] = 1074,
         ["kill_count"] = 1,
         ["points"] = 0.0,
       },
