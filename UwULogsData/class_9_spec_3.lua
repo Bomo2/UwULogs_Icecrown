@@ -79,7 +79,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 40,
-        ["points"] = 9978.19,
+        ["points"] = 9978.21,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 39,
@@ -126,7 +126,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 21,
-        ["points"] = 9989.09,
+        ["points"] = 9989.11,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 21,
@@ -173,7 +173,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
-        ["points"] = 9901.85,
+        ["points"] = 9901.96,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 12,
@@ -220,7 +220,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 9851.19,
+        ["points"] = 9851.63,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
@@ -267,7 +267,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
-        ["points"] = 9732.14,
+        ["points"] = 9732.94,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
@@ -314,7 +314,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 9618.32,
+        ["points"] = 9618.74,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
@@ -361,7 +361,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9821.43,
+        ["points"] = 9821.96,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -408,7 +408,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
-        ["points"] = 9541.98,
+        ["points"] = 9542.48,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 11,
@@ -455,7 +455,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9574.7,
+        ["points"] = 9575.16,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -472,7 +472,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Zirablocks"] = {
-    ["percentile"] = 89.39,
+    ["percentile"] = 89.4,
     ["server"] = "Icecrown",
     ["overall_rank"] = 11,
     ["bosses"] = {
@@ -502,7 +502,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
-        ["points"] = 8778.63,
+        ["points"] = 8779.96,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
@@ -549,7 +549,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9934.57,
+        ["points"] = 9934.64,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -592,7 +592,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 8244.27,
+        ["points"] = 8246.19,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
@@ -609,7 +609,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Belsey"] = {
-    ["percentile"] = 87.34,
+    ["percentile"] = 87.33,
     ["server"] = "Icecrown",
     ["overall_rank"] = 14,
     ["bosses"] = {
@@ -639,7 +639,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 7415.49,
+        ["points"] = 7407.41,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
@@ -656,7 +656,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Arniskills"] = {
-    ["percentile"] = 86.71,
+    ["percentile"] = 86.72,
     ["server"] = "Icecrown",
     ["overall_rank"] = 15,
     ["bosses"] = {
@@ -686,7 +686,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9029.44,
+        ["points"] = 9030.5,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -733,7 +733,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
-        ["points"] = 9040.35,
+        ["points"] = 9041.39,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 17,
@@ -780,7 +780,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
-        ["points"] = 8375.14,
+        ["points"] = 8376.91,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
@@ -827,7 +827,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
-        ["points"] = 8527.81,
+        ["points"] = 8529.41,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
@@ -874,7 +874,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9345.69,
+        ["points"] = 9346.41,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -891,7 +891,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Smallpants"] = {
-    ["percentile"] = 83.38,
+    ["percentile"] = 83.37,
     ["server"] = "Icecrown",
     ["overall_rank"] = 20,
     ["bosses"] = {
@@ -921,7 +921,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
-        ["points"] = 7797.16,
+        ["points"] = 7788.67,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 12,
@@ -938,7 +938,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Rabak"] = {
-    ["percentile"] = 82.87,
+    ["percentile"] = 82.86,
     ["server"] = "Icecrown",
     ["overall_rank"] = 21,
     ["bosses"] = {
@@ -968,7 +968,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 7033.81,
+        ["points"] = 7026.14,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
@@ -1015,7 +1015,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
-        ["points"] = 8298.8,
+        ["points"] = 8300.65,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 13,
@@ -1156,7 +1156,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
-        ["points"] = 9531.08,
+        ["points"] = 9531.59,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 16,
@@ -1203,7 +1203,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
-        ["points"] = 7786.26,
+        ["points"] = 7777.78,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 11,
@@ -1220,7 +1220,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Zealoty"] = {
-    ["percentile"] = 80.12,
+    ["percentile"] = 80.13,
     ["server"] = "Icecrown",
     ["overall_rank"] = 27,
     ["bosses"] = {
@@ -1250,7 +1250,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 8462.38,
+        ["points"] = 8464.05,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -1267,7 +1267,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Rakah"] = {
-    ["percentile"] = 79.62,
+    ["percentile"] = 79.61,
     ["server"] = "Icecrown",
     ["overall_rank"] = 28,
     ["bosses"] = {
@@ -1297,7 +1297,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 5747.0,
+        ["points"] = 5740.74,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
@@ -1340,7 +1340,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9378.41,
+        ["points"] = 9379.08,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -1387,7 +1387,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 2977.1,
+        ["points"] = 2973.86,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
@@ -1434,7 +1434,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8157.03,
+        ["points"] = 8159.04,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -1481,7 +1481,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 8636.86,
+        ["points"] = 8638.34,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -1528,7 +1528,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
-        ["points"] = 8844.06,
+        ["points"] = 8845.32,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 11,
@@ -1567,7 +1567,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9225.74,
+        ["points"] = 9226.58,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -1610,7 +1610,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9051.25,
+        ["points"] = 9052.29,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -1657,7 +1657,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 9323.88,
+        ["points"] = 9324.62,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
@@ -1704,7 +1704,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 9672.62,
+        ["points"] = 9673.59,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -1751,7 +1751,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 8189.75,
+        ["points"] = 8191.72,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -1798,7 +1798,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 414.39,
+        ["points"] = 413.94,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -1815,7 +1815,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Lyphaz"] = {
-    ["percentile"] = 72.58,
+    ["percentile"] = 72.57,
     ["server"] = "Icecrown",
     ["overall_rank"] = 40,
     ["bosses"] = {
@@ -1845,7 +1845,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
-        ["points"] = 7655.4,
+        ["points"] = 7647.06,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
@@ -1858,7 +1858,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Sorenwar"] = {
-    ["percentile"] = 72.5,
+    ["percentile"] = 72.51,
     ["server"] = "Icecrown",
     ["overall_rank"] = 41,
     ["bosses"] = {
@@ -1888,7 +1888,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
-        ["points"] = 8920.39,
+        ["points"] = 8921.57,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
@@ -1905,7 +1905,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Makaro"] = {
-    ["percentile"] = 71.86,
+    ["percentile"] = 71.85,
     ["server"] = "Icecrown",
     ["overall_rank"] = 42,
     ["bosses"] = {
@@ -1935,7 +1935,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 7808.07,
+        ["points"] = 7799.56,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -1978,7 +1978,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 4176.66,
+        ["points"] = 4172.11,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
@@ -2025,7 +2025,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 5627.04,
+        ["points"] = 5620.92,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -2119,7 +2119,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 8386.04,
+        ["points"] = 8387.8,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
@@ -2162,7 +2162,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 9247.55,
+        ["points"] = 9248.37,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -2209,7 +2209,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 3642.31,
+        ["points"] = 3638.34,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -2226,7 +2226,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Dragoncita"] = {
-    ["percentile"] = 66.43,
+    ["percentile"] = 66.42,
     ["server"] = "Icecrown",
     ["overall_rank"] = 49,
     ["bosses"] = {
@@ -2256,7 +2256,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
-        ["points"] = 7371.86,
+        ["points"] = 7363.83,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 12,
@@ -2273,7 +2273,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Dealga"] = {
-    ["percentile"] = 66.19,
+    ["percentile"] = 66.18,
     ["server"] = "Icecrown",
     ["overall_rank"] = 50,
     ["bosses"] = {
@@ -2303,7 +2303,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 5049.07,
+        ["points"] = 5043.57,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -2320,7 +2320,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Moltenpride"] = {
-    ["percentile"] = 65.63,
+    ["percentile"] = 65.62,
     ["server"] = "Icecrown",
     ["overall_rank"] = 51,
     ["bosses"] = {
@@ -2350,7 +2350,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 5147.22,
+        ["points"] = 5141.61,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -2359,7 +2359,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Jebactoxin"] = {
-    ["percentile"] = 65.54,
+    ["percentile"] = 65.53,
     ["server"] = "Icecrown",
     ["overall_rank"] = 52,
     ["bosses"] = {
@@ -2385,7 +2385,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 6750.27,
+        ["points"] = 6742.92,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -2428,7 +2428,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9487.46,
+        ["points"] = 9488.02,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -2467,7 +2467,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 7993.46,
+        ["points"] = 7995.64,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
@@ -2502,7 +2502,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9214.83,
+        ["points"] = 9215.69,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -2545,7 +2545,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 534.35,
+        ["points"] = 533.77,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -2562,7 +2562,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Showmerhage"] = {
-    ["percentile"] = 63.63,
+    ["percentile"] = 63.62,
     ["server"] = "Icecrown",
     ["overall_rank"] = 57,
     ["bosses"] = {
@@ -2592,7 +2592,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
-        ["points"] = 6652.13,
+        ["points"] = 6644.88,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 13,
@@ -2609,7 +2609,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Ipullyounuke"] = {
-    ["percentile"] = 63.22,
+    ["percentile"] = 63.23,
     ["server"] = "Icecrown",
     ["overall_rank"] = 58,
     ["bosses"] = {
@@ -2639,7 +2639,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 9509.27,
+        ["points"] = 9509.8,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
@@ -2678,7 +2678,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 1504.91,
+        ["points"] = 1503.27,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -2691,7 +2691,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Bigoof"] = {
-    ["percentile"] = 62.7,
+    ["percentile"] = 62.69,
     ["server"] = "Icecrown",
     ["overall_rank"] = 60,
     ["bosses"] = {
@@ -2721,7 +2721,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 7524.54,
+        ["points"] = 7516.34,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -2734,7 +2734,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Sabver"] = {
-    ["percentile"] = 62.64,
+    ["percentile"] = 62.63,
     ["server"] = "Icecrown",
     ["overall_rank"] = 61,
     ["bosses"] = {
@@ -2764,7 +2764,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 7480.92,
+        ["points"] = 7472.77,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -2781,7 +2781,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Slaymode"] = {
-    ["percentile"] = 62.21,
+    ["percentile"] = 62.2,
     ["server"] = "Icecrown",
     ["overall_rank"] = 62,
     ["bosses"] = {
@@ -2811,7 +2811,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 6739.37,
+        ["points"] = 6732.03,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -2897,7 +2897,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 1374.05,
+        ["points"] = 1372.55,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -2914,7 +2914,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Gale"] = {
-    ["percentile"] = 61.25,
+    ["percentile"] = 61.24,
     ["server"] = "Icecrown",
     ["overall_rank"] = 65,
     ["bosses"] = {
@@ -2944,7 +2944,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 7862.6,
+        ["points"] = 7854.03,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
@@ -2961,7 +2961,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Octanol"] = {
-    ["percentile"] = 61.11,
+    ["percentile"] = 61.1,
     ["server"] = "Icecrown",
     ["overall_rank"] = 66,
     ["bosses"] = {
@@ -2991,7 +2991,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 6106.87,
+        ["points"] = 6100.22,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
@@ -3034,7 +3034,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
-        ["points"] = 8571.43,
+        ["points"] = 8572.98,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 12,
@@ -3081,7 +3081,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 1330.43,
+        ["points"] = 1328.98,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -3128,7 +3128,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8233.37,
+        ["points"] = 8235.29,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -3137,7 +3137,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Pequenita"] = {
-    ["percentile"] = 59.68,
+    ["percentile"] = 59.67,
     ["server"] = "Icecrown",
     ["overall_rank"] = 70,
     ["bosses"] = {
@@ -3167,7 +3167,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
-        ["points"] = 6924.75,
+        ["points"] = 6917.21,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
@@ -3214,7 +3214,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9520.17,
+        ["points"] = 9520.7,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -3257,7 +3257,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 7949.84,
+        ["points"] = 7952.07,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
@@ -3270,7 +3270,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Sushiwarr"] = {
-    ["percentile"] = 58.3,
+    ["percentile"] = 58.29,
     ["server"] = "Icecrown",
     ["overall_rank"] = 73,
     ["bosses"] = {
@@ -3296,7 +3296,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 7197.38,
+        ["points"] = 7189.54,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -3335,7 +3335,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 4296.62,
+        ["points"] = 4291.94,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
@@ -3374,7 +3374,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9596.51,
+        ["points"] = 9596.95,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -3383,7 +3383,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Trasadur"] = {
-    ["percentile"] = 57.65,
+    ["percentile"] = 57.64,
     ["server"] = "Icecrown",
     ["overall_rank"] = 76,
     ["bosses"] = {
@@ -3413,7 +3413,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
-        ["points"] = 7546.35,
+        ["points"] = 7538.13,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
@@ -3456,7 +3456,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 7622.68,
+        ["points"] = 7614.38,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
@@ -3465,7 +3465,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Bloqueo"] = {
-    ["percentile"] = 57.17,
+    ["percentile"] = 57.18,
     ["server"] = "Icecrown",
     ["overall_rank"] = 78,
     ["bosses"] = {
@@ -3495,7 +3495,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 7960.74,
+        ["points"] = 7962.96,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
@@ -3504,7 +3504,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Scanderbeg"] = {
-    ["percentile"] = 57.07,
+    ["percentile"] = 57.06,
     ["server"] = "Icecrown",
     ["overall_rank"] = 79,
     ["bosses"] = {
@@ -3534,7 +3534,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 4852.78,
+        ["points"] = 4847.49,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -3551,7 +3551,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Raseri"] = {
-    ["percentile"] = 56.54,
+    ["percentile"] = 56.53,
     ["server"] = "Icecrown",
     ["overall_rank"] = 80,
     ["bosses"] = {
@@ -3577,7 +3577,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 7251.91,
+        ["points"] = 7244.01,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -3624,7 +3624,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9258.45,
+        ["points"] = 9259.26,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -3667,7 +3667,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 5583.42,
+        ["points"] = 5577.34,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -3683,41 +3683,10 @@ UWULogsData[9][3] = {
       },
     },
   },
-  ["Meekk"] = {
-    ["percentile"] = 55.7,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 83,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 3,
-        ["points"] = 9691.82,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 3,
-        ["points"] = 9845.26,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 3,
-        ["points"] = 9105.69,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 3,
-        ["points"] = 9429.28,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 3,
-        ["points"] = 7906.22,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 4,
-        ["points"] = 9508.6,
-      },
-    },
-  },
   ["Magyoga"] = {
     ["percentile"] = 55.7,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 84,
+    ["overall_rank"] = 83,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -3745,7 +3714,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8473.28,
+        ["points"] = 8474.95,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -3753,8 +3722,39 @@ UWULogsData[9][3] = {
       },
     },
   },
+  ["Meekk"] = {
+    ["percentile"] = 55.7,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 84,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 3,
+        ["points"] = 9691.82,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 3,
+        ["points"] = 9845.26,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 3,
+        ["points"] = 9105.69,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 3,
+        ["points"] = 9429.28,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 3,
+        ["points"] = 7897.6,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 4,
+        ["points"] = 9508.6,
+      },
+    },
+  },
   ["Arniskill"] = {
-    ["percentile"] = 55.26,
+    ["percentile"] = 55.25,
     ["server"] = "Icecrown",
     ["overall_rank"] = 85,
     ["bosses"] = {
@@ -3780,7 +3780,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 4416.58,
+        ["points"] = 4411.76,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -3793,7 +3793,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Eriz"] = {
-    ["percentile"] = 55.18,
+    ["percentile"] = 55.17,
     ["server"] = "Icecrown",
     ["overall_rank"] = 86,
     ["bosses"] = {
@@ -3823,7 +3823,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
-        ["points"] = 6183.21,
+        ["points"] = 6176.47,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
@@ -3836,7 +3836,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Blockbyass"] = {
-    ["percentile"] = 54.88,
+    ["percentile"] = 54.87,
     ["server"] = "Icecrown",
     ["overall_rank"] = 87,
     ["bosses"] = {
@@ -3866,7 +3866,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 7328.24,
+        ["points"] = 7320.26,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -3882,10 +3882,45 @@ UWULogsData[9][3] = {
       },
     },
   },
-  ["Volatile"] = {
+  ["Tremxy"] = {
     ["percentile"] = 54.6,
     ["server"] = "Icecrown",
     ["overall_rank"] = 88,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 4,
+        ["points"] = 9126.98,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 4,
+        ["points"] = 8752.42,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 4,
+        ["points"] = 8009.05,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 4,
+        ["points"] = 9280.4,
+      },
+      ["Professor Putricide"] = {
+        ["kill_count"] = 1,
+        ["points"] = 1507.54,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 4,
+        ["points"] = 8540.31,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 4,
+        ["points"] = 9169.11,
+      },
+    },
+  },
+  ["Volatile"] = {
+    ["percentile"] = 54.59,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 89,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
@@ -3913,7 +3948,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 5616.14,
+        ["points"] = 5610.02,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -3926,41 +3961,6 @@ UWULogsData[9][3] = {
       ["The Lich King"] = {
         ["kill_count"] = 2,
         ["points"] = 6265.36,
-      },
-    },
-  },
-  ["Tremxy"] = {
-    ["percentile"] = 54.6,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 89,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 4,
-        ["points"] = 9126.98,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 4,
-        ["points"] = 8752.42,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 4,
-        ["points"] = 8009.05,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 4,
-        ["points"] = 9280.4,
-      },
-      ["Professor Putricide"] = {
-        ["kill_count"] = 1,
-        ["points"] = 1507.54,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 4,
-        ["points"] = 8538.71,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 4,
-        ["points"] = 9169.11,
       },
     },
   },
@@ -3987,7 +3987,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9791.67,
+        ["points"] = 9792.28,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -4026,7 +4026,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 6913.85,
+        ["points"] = 6906.32,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -4069,7 +4069,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8865.87,
+        ["points"] = 8867.1,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -4086,7 +4086,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Durmashina"] = {
-    ["percentile"] = 52.78,
+    ["percentile"] = 52.77,
     ["server"] = "Icecrown",
     ["overall_rank"] = 93,
     ["bosses"] = {
@@ -4116,7 +4116,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 7448.2,
+        ["points"] = 7440.09,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -4125,7 +4125,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Warpward"] = {
-    ["percentile"] = 52.5,
+    ["percentile"] = 52.49,
     ["server"] = "Icecrown",
     ["overall_rank"] = 94,
     ["bosses"] = {
@@ -4155,7 +4155,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
-        ["points"] = 3565.98,
+        ["points"] = 3562.09,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 14,
@@ -4194,7 +4194,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 8724.1,
+        ["points"] = 8725.49,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -4225,7 +4225,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 8167.94,
+        ["points"] = 8169.93,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
@@ -4234,7 +4234,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Vid"] = {
-    ["percentile"] = 52.15,
+    ["percentile"] = 52.16,
     ["server"] = "Icecrown",
     ["overall_rank"] = 97,
     ["bosses"] = {
@@ -4264,7 +4264,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8440.57,
+        ["points"] = 8442.27,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -4273,7 +4273,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Kidock"] = {
-    ["percentile"] = 51.76,
+    ["percentile"] = 51.75,
     ["server"] = "Icecrown",
     ["overall_rank"] = 98,
     ["bosses"] = {
@@ -4303,7 +4303,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 5594.33,
+        ["points"] = 5588.24,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -4346,7 +4346,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 5419.85,
+        ["points"] = 5413.94,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
@@ -4381,7 +4381,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 8953.11,
+        ["points"] = 8954.25,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -4390,7 +4390,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Moonshield"] = {
-    ["percentile"] = 51.22,
+    ["percentile"] = 51.23,
     ["server"] = "Icecrown",
     ["overall_rank"] = 101,
     ["bosses"] = {
@@ -4412,7 +4412,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8309.71,
+        ["points"] = 8311.55,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -4443,7 +4443,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9702.38,
+        ["points"] = 9703.26,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -4499,7 +4499,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Kethnae"] = {
-    ["percentile"] = 50.81,
+    ["percentile"] = 50.8,
     ["server"] = "Icecrown",
     ["overall_rank"] = 104,
     ["bosses"] = {
@@ -4529,7 +4529,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 6630.32,
+        ["points"] = 6623.09,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -4538,7 +4538,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Ceckawar"] = {
-    ["percentile"] = 49.97,
+    ["percentile"] = 49.96,
     ["server"] = "Icecrown",
     ["overall_rank"] = 105,
     ["bosses"] = {
@@ -4560,7 +4560,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 7437.3,
+        ["points"] = 7429.19,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -4569,7 +4569,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Otra"] = {
-    ["percentile"] = 49.77,
+    ["percentile"] = 49.76,
     ["server"] = "Icecrown",
     ["overall_rank"] = 106,
     ["bosses"] = {
@@ -4599,7 +4599,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 6597.6,
+        ["points"] = 6590.41,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -4642,7 +4642,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 4362.05,
+        ["points"] = 4357.3,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -4677,7 +4677,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 8931.3,
+        ["points"] = 8932.46,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
@@ -4720,7 +4720,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
-        ["points"] = 9389.31,
+        ["points"] = 9389.98,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
@@ -4759,7 +4759,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 3173.39,
+        ["points"] = 3169.93,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
@@ -4790,7 +4790,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 1788.44,
+        ["points"] = 1786.49,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -4837,7 +4837,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 1123.23,
+        ["points"] = 1122.0,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -4880,7 +4880,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 8680.48,
+        ["points"] = 8681.92,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
@@ -4897,7 +4897,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Challenged"] = {
-    ["percentile"] = 47.69,
+    ["percentile"] = 47.68,
     ["server"] = "Icecrown",
     ["overall_rank"] = 114,
     ["bosses"] = {
@@ -4919,7 +4919,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 7873.5,
+        ["points"] = 7864.92,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
@@ -4954,7 +4954,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 185.39,
+        ["points"] = 185.19,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -4963,7 +4963,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Woltaren"] = {
-    ["percentile"] = 46.86,
+    ["percentile"] = 46.85,
     ["server"] = "Icecrown",
     ["overall_rank"] = 116,
     ["bosses"] = {
@@ -4985,7 +4985,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 7709.92,
+        ["points"] = 7701.53,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
@@ -4994,7 +4994,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Grozztok"] = {
-    ["percentile"] = 46.81,
+    ["percentile"] = 46.8,
     ["server"] = "Icecrown",
     ["overall_rank"] = 117,
     ["bosses"] = {
@@ -5024,7 +5024,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 7677.21,
+        ["points"] = 7668.85,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -5037,7 +5037,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Kexbeard"] = {
-    ["percentile"] = 46.71,
+    ["percentile"] = 46.7,
     ["server"] = "Icecrown",
     ["overall_rank"] = 118,
     ["bosses"] = {
@@ -5067,7 +5067,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 5856.05,
+        ["points"] = 5849.67,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
@@ -5110,7 +5110,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 8735.01,
+        ["points"] = 8736.38,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
@@ -5127,7 +5127,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Rammus"] = {
-    ["percentile"] = 45.86,
+    ["percentile"] = 45.85,
     ["server"] = "Icecrown",
     ["overall_rank"] = 120,
     ["bosses"] = {
@@ -5153,7 +5153,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 7764.45,
+        ["points"] = 7755.99,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -5184,7 +5184,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 6608.51,
+        ["points"] = 6601.31,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -5193,9 +5193,9 @@ UWULogsData[9][3] = {
     },
   },
   ["Honor"] = {
-    ["percentile"] = 45.67,
+    ["percentile"] = 45.66,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 8907,
+    ["overall_rank"] = 8908,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
@@ -5224,7 +5224,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Rextitute"] = {
-    ["percentile"] = 45.6,
+    ["percentile"] = 45.61,
     ["server"] = "Icecrown",
     ["overall_rank"] = 123,
     ["bosses"] = {
@@ -5250,7 +5250,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8320.61,
+        ["points"] = 8322.44,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -5281,7 +5281,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 6117.78,
+        ["points"] = 6111.11,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -5316,7 +5316,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9761.9,
+        ["points"] = 9762.61,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -5355,7 +5355,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 4242.09,
+        ["points"] = 4237.47,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
@@ -5402,7 +5402,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 4067.61,
+        ["points"] = 4063.18,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -5449,7 +5449,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 4601.96,
+        ["points"] = 4596.95,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -5466,7 +5466,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Warekkrzys"] = {
-    ["percentile"] = 45.08,
+    ["percentile"] = 45.07,
     ["server"] = "Icecrown",
     ["overall_rank"] = 129,
     ["bosses"] = {
@@ -5496,7 +5496,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 5681.57,
+        ["points"] = 5675.38,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -5535,7 +5535,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
-        ["points"] = 8222.46,
+        ["points"] = 8224.4,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
@@ -5543,41 +5543,10 @@ UWULogsData[9][3] = {
       },
     },
   },
-  ["Caneqt"] = {
+  ["Ajdee"] = {
     ["percentile"] = 45.01,
     ["server"] = "Icecrown",
     ["overall_rank"] = 131,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 1,
-        ["points"] = 7751.32,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 1,
-        ["points"] = 7765.96,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 1,
-        ["points"] = 8753.39,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 1,
-        ["points"] = 9230.77,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 1,
-        ["points"] = 3947.66,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 1,
-        ["points"] = 7380.25,
-      },
-    },
-  },
-  ["Ajdee"] = {
-    ["percentile"] = 45.0,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 132,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 9,
@@ -5597,11 +5566,42 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
-        ["points"] = 8560.52,
+        ["points"] = 8562.09,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 11,
         ["points"] = 6950.15,
+      },
+    },
+  },
+  ["Caneqt"] = {
+    ["percentile"] = 45.0,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 132,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 1,
+        ["points"] = 7751.32,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 1,
+        ["points"] = 7765.96,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 1,
+        ["points"] = 8753.39,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 1,
+        ["points"] = 9230.77,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 1,
+        ["points"] = 3943.36,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 1,
+        ["points"] = 7380.25,
       },
     },
   },
@@ -5628,7 +5628,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 8276.99,
+        ["points"] = 8278.87,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -5663,7 +5663,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 4569.25,
+        ["points"] = 4564.27,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -5676,7 +5676,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Tahs"] = {
-    ["percentile"] = 44.9,
+    ["percentile"] = 44.89,
     ["server"] = "Icecrown",
     ["overall_rank"] = 135,
     ["bosses"] = {
@@ -5698,7 +5698,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 7066.52,
+        ["points"] = 7058.82,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -5707,7 +5707,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Mske"] = {
-    ["percentile"] = 44.7,
+    ["percentile"] = 44.69,
     ["server"] = "Icecrown",
     ["overall_rank"] = 136,
     ["bosses"] = {
@@ -5729,7 +5729,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 3522.36,
+        ["points"] = 3518.52,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -5738,7 +5738,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Warrtzar"] = {
-    ["percentile"] = 44.6,
+    ["percentile"] = 44.59,
     ["server"] = "Icecrown",
     ["overall_rank"] = 137,
     ["bosses"] = {
@@ -5768,7 +5768,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 4972.74,
+        ["points"] = 4967.32,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -5785,7 +5785,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Berserkk"] = {
-    ["percentile"] = 44.56,
+    ["percentile"] = 44.55,
     ["server"] = "Icecrown",
     ["overall_rank"] = 138,
     ["bosses"] = {
@@ -5815,7 +5815,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 5441.66,
+        ["points"] = 5435.73,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -5828,7 +5828,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Tjad"] = {
-    ["percentile"] = 44.48,
+    ["percentile"] = 44.47,
     ["server"] = "Icecrown",
     ["overall_rank"] = 139,
     ["bosses"] = {
@@ -5858,7 +5858,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 4623.77,
+        ["points"] = 4618.74,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -5901,7 +5901,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 1559.43,
+        ["points"] = 1557.73,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -5914,7 +5914,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Astronom"] = {
-    ["percentile"] = 44.25,
+    ["percentile"] = 44.26,
     ["server"] = "Icecrown",
     ["overall_rank"] = 141,
     ["bosses"] = {
@@ -5936,7 +5936,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 8113.41,
+        ["points"] = 8115.47,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -5945,7 +5945,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Jowell"] = {
-    ["percentile"] = 44.11,
+    ["percentile"] = 44.1,
     ["server"] = "Icecrown",
     ["overall_rank"] = 142,
     ["bosses"] = {
@@ -5975,7 +5975,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 6194.11,
+        ["points"] = 6187.36,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -6010,7 +6010,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 8516.9,
+        ["points"] = 8518.52,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -6041,7 +6041,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8822.25,
+        ["points"] = 8823.53,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -6080,7 +6080,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8135.22,
+        ["points"] = 8137.25,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -6123,7 +6123,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 7688.11,
+        ["points"] = 7679.74,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -6170,7 +6170,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 2191.93,
+        ["points"] = 2189.54,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -6201,7 +6201,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 7600.87,
+        ["points"] = 7592.59,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -6217,10 +6217,41 @@ UWULogsData[9][3] = {
       },
     },
   },
-  ["Lewyx"] = {
-    ["percentile"] = 43.02,
+  ["Raptorial"] = {
+    ["percentile"] = 43.01,
     ["server"] = "Icecrown",
     ["overall_rank"] = 149,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 1,
+        ["points"] = 6365.57,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 1,
+        ["points"] = 7369.44,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 1,
+        ["points"] = 8563.69,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 1,
+        ["points"] = 4746.77,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 1,
+        ["points"] = 7919.39,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 1,
+        ["points"] = 7878.79,
+      },
+    },
+  },
+  ["Lewyx"] = {
+    ["percentile"] = 43.01,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 150,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -6240,7 +6271,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 7753.54,
+        ["points"] = 7745.1,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -6251,7 +6282,7 @@ UWULogsData[9][3] = {
   ["Diicklover"] = {
     ["percentile"] = 42.73,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 150,
+    ["overall_rank"] = 151,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -6279,7 +6310,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 3020.72,
+        ["points"] = 3019.76,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -6290,7 +6321,7 @@ UWULogsData[9][3] = {
   ["Smallaxe"] = {
     ["percentile"] = 42.72,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 151,
+    ["overall_rank"] = 152,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
@@ -6310,7 +6341,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 7938.93,
+        ["points"] = 7941.18,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -6319,9 +6350,9 @@ UWULogsData[9][3] = {
     },
   },
   ["Enanegro"] = {
-    ["percentile"] = 42.57,
+    ["percentile"] = 42.56,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 152,
+    ["overall_rank"] = 153,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
@@ -6349,7 +6380,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 5485.28,
+        ["points"] = 5479.3,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
@@ -6366,9 +6397,9 @@ UWULogsData[9][3] = {
     },
   },
   ["Helfdane"] = {
-    ["percentile"] = 42.48,
+    ["percentile"] = 42.47,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 153,
+    ["overall_rank"] = 154,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
@@ -6396,7 +6427,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 6346.78,
+        ["points"] = 6339.87,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
@@ -6407,7 +6438,7 @@ UWULogsData[9][3] = {
   ["Pyszczku"] = {
     ["percentile"] = 42.44,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 154,
+    ["overall_rank"] = 155,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -6427,14 +6458,14 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 5648.85,
+        ["points"] = 5642.7,
       },
     },
   },
   ["Rolwa"] = {
-    ["percentile"] = 42.38,
+    ["percentile"] = 42.37,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 155,
+    ["overall_rank"] = 156,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -6462,7 +6493,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 4820.07,
+        ["points"] = 4814.81,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -6473,7 +6504,7 @@ UWULogsData[9][3] = {
   ["Angryme"] = {
     ["percentile"] = 42.14,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 156,
+    ["overall_rank"] = 157,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -6497,7 +6528,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 1221.37,
+        ["points"] = 1220.04,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -6516,7 +6547,7 @@ UWULogsData[9][3] = {
   ["Kassawar"] = {
     ["percentile"] = 42.12,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 157,
+    ["overall_rank"] = 158,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
@@ -6540,7 +6571,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 4329.33,
+        ["points"] = 4324.62,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -6553,9 +6584,9 @@ UWULogsData[9][3] = {
     },
   },
   ["Warvole"] = {
-    ["percentile"] = 42.08,
+    ["percentile"] = 42.07,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 158,
+    ["overall_rank"] = 159,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
@@ -6575,7 +6606,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 7818.97,
+        ["points"] = 7810.46,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -6584,9 +6615,9 @@ UWULogsData[9][3] = {
     },
   },
   ["Shieldson"] = {
-    ["percentile"] = 41.97,
+    ["percentile"] = 41.96,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 159,
+    ["overall_rank"] = 160,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -6606,7 +6637,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 6946.56,
+        ["points"] = 6939.0,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -6617,7 +6648,7 @@ UWULogsData[9][3] = {
   ["Shizzhappens"] = {
     ["percentile"] = 41.84,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 160,
+    ["overall_rank"] = 161,
     ["bosses"] = {
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
@@ -6637,7 +6668,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9585.61,
+        ["points"] = 9586.06,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
@@ -6648,7 +6679,7 @@ UWULogsData[9][3] = {
   ["Insaneforce"] = {
     ["percentile"] = 41.51,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 161,
+    ["overall_rank"] = 162,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
@@ -6668,7 +6699,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 3369.68,
+        ["points"] = 3366.01,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -6677,9 +6708,9 @@ UWULogsData[9][3] = {
     },
   },
   ["Indecis"] = {
-    ["percentile"] = 41.3,
+    ["percentile"] = 41.29,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 162,
+    ["overall_rank"] = 163,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -6707,7 +6738,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 6804.8,
+        ["points"] = 6797.39,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -6716,9 +6747,9 @@ UWULogsData[9][3] = {
     },
   },
   ["Zurgohg"] = {
-    ["percentile"] = 41.27,
+    ["percentile"] = 41.26,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 163,
+    ["overall_rank"] = 164,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
@@ -6738,7 +6769,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 5757.91,
+        ["points"] = 5751.63,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -6747,9 +6778,9 @@ UWULogsData[9][3] = {
     },
   },
   ["Aleirian"] = {
-    ["percentile"] = 40.99,
+    ["percentile"] = 40.98,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 164,
+    ["overall_rank"] = 165,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
@@ -6777,7 +6808,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 5507.09,
+        ["points"] = 5501.09,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -6792,7 +6823,7 @@ UWULogsData[9][3] = {
   ["Somenoob"] = {
     ["percentile"] = 40.65,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 165,
+    ["overall_rank"] = 166,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -6829,9 +6860,9 @@ UWULogsData[9][3] = {
     },
   },
   ["Dwbulla"] = {
-    ["percentile"] = 40.58,
+    ["percentile"] = 40.57,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 166,
+    ["overall_rank"] = 167,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
@@ -6859,7 +6890,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 4198.47,
+        ["points"] = 4193.9,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -6874,7 +6905,7 @@ UWULogsData[9][3] = {
   ["Zackfairbull"] = {
     ["percentile"] = 40.31,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 167,
+    ["overall_rank"] = 168,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
@@ -6919,9 +6950,9 @@ UWULogsData[9][3] = {
     },
   },
   ["Testotiqo"] = {
-    ["percentile"] = 40.3,
+    ["percentile"] = 40.29,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 168,
+    ["overall_rank"] = 169,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -6941,7 +6972,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 7284.62,
+        ["points"] = 7276.69,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -6950,9 +6981,9 @@ UWULogsData[9][3] = {
     },
   },
   ["Welderony"] = {
-    ["percentile"] = 40.22,
+    ["percentile"] = 40.21,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 169,
+    ["overall_rank"] = 170,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -6980,7 +7011,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 3500.55,
+        ["points"] = 3496.73,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -6991,7 +7022,7 @@ UWULogsData[9][3] = {
   ["Berserkzord"] = {
     ["percentile"] = 40.11,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 170,
+    ["overall_rank"] = 171,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -7015,7 +7046,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 4514.72,
+        ["points"] = 4509.8,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -7030,7 +7061,7 @@ UWULogsData[9][3] = {
   ["Ratahwar"] = {
     ["percentile"] = 39.93,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 171,
+    ["overall_rank"] = 172,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
@@ -7050,7 +7081,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 7459.11,
+        ["points"] = 7450.98,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -7059,9 +7090,9 @@ UWULogsData[9][3] = {
     },
   },
   ["Roughstone"] = {
-    ["percentile"] = 39.64,
+    ["percentile"] = 39.65,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 172,
+    ["overall_rank"] = 173,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
@@ -7081,7 +7112,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8211.56,
+        ["points"] = 8213.51,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -7092,7 +7123,7 @@ UWULogsData[9][3] = {
   ["Krepps"] = {
     ["percentile"] = 39.6,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 173,
+    ["overall_rank"] = 174,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -7112,7 +7143,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 5877.86,
+        ["points"] = 5871.46,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -7127,7 +7158,7 @@ UWULogsData[9][3] = {
   ["Tu"] = {
     ["percentile"] = 39.47,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 174,
+    ["overall_rank"] = 175,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -7155,7 +7186,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 7928.03,
+        ["points"] = 7930.28,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -7170,7 +7201,7 @@ UWULogsData[9][3] = {
   ["Bleksac"] = {
     ["percentile"] = 39.47,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 175,
+    ["overall_rank"] = 176,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
@@ -7190,7 +7221,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 8745.91,
+        ["points"] = 8747.28,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
@@ -7201,7 +7232,7 @@ UWULogsData[9][3] = {
   ["Cliner"] = {
     ["percentile"] = 39.24,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 176,
+    ["overall_rank"] = 177,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -7221,7 +7252,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9160.31,
+        ["points"] = 9161.22,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -7232,7 +7263,7 @@ UWULogsData[9][3] = {
   ["Browntank"] = {
     ["percentile"] = 39.21,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 177,
+    ["overall_rank"] = 178,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
@@ -7252,7 +7283,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 4809.16,
+        ["points"] = 4803.92,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -7261,9 +7292,9 @@ UWULogsData[9][3] = {
     },
   },
   ["Bloodunicorn"] = {
-    ["percentile"] = 38.93,
+    ["percentile"] = 38.92,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 178,
+    ["overall_rank"] = 179,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -7283,7 +7314,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 6128.68,
+        ["points"] = 6122.0,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -7294,7 +7325,7 @@ UWULogsData[9][3] = {
   ["Stilgar"] = {
     ["percentile"] = 38.66,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 179,
+    ["overall_rank"] = 180,
     ["bosses"] = {
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
@@ -7310,7 +7341,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9498.36,
+        ["points"] = 9498.91,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -7321,7 +7352,7 @@ UWULogsData[9][3] = {
   ["Kubrador"] = {
     ["percentile"] = 38.18,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 180,
+    ["overall_rank"] = 181,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -7349,7 +7380,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8582.33,
+        ["points"] = 8583.88,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -7360,7 +7391,7 @@ UWULogsData[9][3] = {
   ["Xlothly"] = {
     ["percentile"] = 38.08,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 181,
+    ["overall_rank"] = 182,
     ["bosses"] = {
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
@@ -7380,7 +7411,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9367.5,
+        ["points"] = 9368.19,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -7391,7 +7422,7 @@ UWULogsData[9][3] = {
   ["Duckyqt"] = {
     ["percentile"] = 37.93,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 182,
+    ["overall_rank"] = 183,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
@@ -7420,9 +7451,9 @@ UWULogsData[9][3] = {
     },
   },
   ["Melienia"] = {
-    ["percentile"] = 37.9,
+    ["percentile"] = 37.89,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 183,
+    ["overall_rank"] = 184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -7446,7 +7477,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 5768.81,
+        ["points"] = 5762.53,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -7455,9 +7486,9 @@ UWULogsData[9][3] = {
     },
   },
   ["Solomilloo"] = {
-    ["percentile"] = 37.7,
+    ["percentile"] = 37.69,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 184,
+    ["overall_rank"] = 185,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -7477,7 +7508,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 7099.24,
+        ["points"] = 7091.5,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -7486,9 +7517,9 @@ UWULogsData[9][3] = {
     },
   },
   ["Brompe"] = {
-    ["percentile"] = 37.35,
+    ["percentile"] = 37.34,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 185,
+    ["overall_rank"] = 186,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
@@ -7508,7 +7539,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 621.59,
+        ["points"] = 620.92,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -7519,7 +7550,7 @@ UWULogsData[9][3] = {
   ["Kontonzs"] = {
     ["percentile"] = 36.81,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 186,
+    ["overall_rank"] = 187,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
@@ -7543,7 +7574,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 5430.75,
+        ["points"] = 5424.84,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -7552,9 +7583,9 @@ UWULogsData[9][3] = {
     },
   },
   ["Wakaziki"] = {
-    ["percentile"] = 36.72,
+    ["percentile"] = 36.71,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 187,
+    ["overall_rank"] = 188,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -7582,7 +7613,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 7470.01,
+        ["points"] = 7461.87,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -7593,7 +7624,7 @@ UWULogsData[9][3] = {
   ["Ripolyo"] = {
     ["percentile"] = 36.58,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 188,
+    ["overall_rank"] = 189,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
@@ -7613,7 +7644,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 436.21,
+        ["points"] = 435.73,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
@@ -7622,9 +7653,9 @@ UWULogsData[9][3] = {
     },
   },
   ["Tw"] = {
-    ["percentile"] = 36.04,
+    ["percentile"] = 36.05,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 189,
+    ["overall_rank"] = 190,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -7640,7 +7671,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8146.13,
+        ["points"] = 8148.15,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -7649,9 +7680,9 @@ UWULogsData[9][3] = {
     },
   },
   ["Howtoprotwar"] = {
-    ["percentile"] = 35.46,
+    ["percentile"] = 35.45,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 190,
+    ["overall_rank"] = 191,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -7679,7 +7710,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 6379.5,
+        ["points"] = 6372.55,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -7698,7 +7729,7 @@ UWULogsData[9][3] = {
   ["Cruzzado"] = {
     ["percentile"] = 35.16,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 191,
+    ["overall_rank"] = 192,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -7710,7 +7741,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9443.84,
+        ["points"] = 9444.44,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -7719,33 +7750,6 @@ UWULogsData[9][3] = {
       ["The Lich King"] = {
         ["kill_count"] = 1,
         ["points"] = 4791.15,
-      },
-    },
-  },
-  ["Raptorial"] = {
-    ["percentile"] = 35.06,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 192,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 1,
-        ["points"] = 6365.57,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 1,
-        ["points"] = 7369.44,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 1,
-        ["points"] = 8563.69,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 1,
-        ["points"] = 4746.77,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 1,
-        ["points"] = 7878.79,
       },
     },
   },
@@ -7768,7 +7772,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8418.76,
+        ["points"] = 8420.48,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -7777,7 +7781,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Bracho"] = {
-    ["percentile"] = 34.66,
+    ["percentile"] = 34.65,
     ["server"] = "Icecrown",
     ["overall_rank"] = 194,
     ["bosses"] = {
@@ -7795,7 +7799,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 1035.99,
+        ["points"] = 1034.86,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -7834,7 +7838,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8985.82,
+        ["points"] = 8986.93,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -7843,7 +7847,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Kreioss"] = {
-    ["percentile"] = 34.52,
+    ["percentile"] = 34.51,
     ["server"] = "Icecrown",
     ["overall_rank"] = 196,
     ["bosses"] = {
@@ -7865,7 +7869,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 6510.36,
+        ["points"] = 6503.27,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -7874,7 +7878,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Sepi"] = {
-    ["percentile"] = 34.48,
+    ["percentile"] = 34.47,
     ["server"] = "Icecrown",
     ["overall_rank"] = 197,
     ["bosses"] = {
@@ -7896,7 +7900,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 4667.39,
+        ["points"] = 4662.31,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -7905,7 +7909,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Tankeable"] = {
-    ["percentile"] = 34.45,
+    ["percentile"] = 34.44,
     ["server"] = "Icecrown",
     ["overall_rank"] = 198,
     ["bosses"] = {
@@ -7927,7 +7931,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 4394.77,
+        ["points"] = 4389.98,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -7936,7 +7940,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Schmaizer"] = {
-    ["percentile"] = 34.25,
+    ["percentile"] = 34.24,
     ["server"] = "Icecrown",
     ["overall_rank"] = 199,
     ["bosses"] = {
@@ -7958,7 +7962,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 4089.42,
+        ["points"] = 4084.97,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -7997,7 +8001,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 5692.48,
+        ["points"] = 5686.27,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -8032,7 +8036,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 6848.42,
+        ["points"] = 6840.96,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
@@ -8086,7 +8090,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 9651.04,
+        ["points"] = 9651.42,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -8121,7 +8125,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 1635.77,
+        ["points"] = 1633.99,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -8148,7 +8152,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 5528.9,
+        ["points"] = 5522.88,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -8157,7 +8161,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Bottleofwoda"] = {
-    ["percentile"] = 32.85,
+    ["percentile"] = 32.84,
     ["server"] = "Icecrown",
     ["overall_rank"] = 206,
     ["bosses"] = {
@@ -8179,7 +8183,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 6706.65,
+        ["points"] = 6699.35,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -8214,7 +8218,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 1483.1,
+        ["points"] = 1481.48,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -8223,7 +8227,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Agarwenbeast"] = {
-    ["percentile"] = 32.62,
+    ["percentile"] = 32.61,
     ["server"] = "Icecrown",
     ["overall_rank"] = 208,
     ["bosses"] = {
@@ -8245,7 +8249,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 6085.06,
+        ["points"] = 6078.43,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -8272,7 +8276,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 6870.23,
+        ["points"] = 6862.75,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -8303,7 +8307,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 4874.59,
+        ["points"] = 4869.28,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -8312,7 +8316,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Dalliya"] = {
-    ["percentile"] = 31.72,
+    ["percentile"] = 31.71,
     ["server"] = "Icecrown",
     ["overall_rank"] = 211,
     ["bosses"] = {
@@ -8334,7 +8338,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 6019.63,
+        ["points"] = 6013.07,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -8365,7 +8369,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 3238.82,
+        ["points"] = 3235.29,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -8396,7 +8400,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 1526.72,
+        ["points"] = 1525.05,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -8405,7 +8409,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Nakvip"] = {
-    ["percentile"] = 31.32,
+    ["percentile"] = 31.31,
     ["server"] = "Icecrown",
     ["overall_rank"] = 214,
     ["bosses"] = {
@@ -8435,7 +8439,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 1886.59,
+        ["points"] = 1884.53,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -8452,7 +8456,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Birkenstocks"] = {
-    ["percentile"] = 31.13,
+    ["percentile"] = 31.12,
     ["server"] = "Icecrown",
     ["overall_rank"] = 215,
     ["bosses"] = {
@@ -8478,7 +8482,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 5398.04,
+        ["points"] = 5392.16,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -8487,7 +8491,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Wedzdene"] = {
-    ["percentile"] = 31.02,
+    ["percentile"] = 31.01,
     ["server"] = "Icecrown",
     ["overall_rank"] = 216,
     ["bosses"] = {
@@ -8509,7 +8513,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 4950.93,
+        ["points"] = 4945.53,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -8518,7 +8522,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Battal"] = {
-    ["percentile"] = 30.97,
+    ["percentile"] = 30.96,
     ["server"] = "Icecrown",
     ["overall_rank"] = 217,
     ["bosses"] = {
@@ -8536,7 +8540,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 7589.97,
+        ["points"] = 7581.7,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -8545,7 +8549,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Orokai"] = {
-    ["percentile"] = 30.82,
+    ["percentile"] = 30.81,
     ["server"] = "Icecrown",
     ["overall_rank"] = 218,
     ["bosses"] = {
@@ -8567,7 +8571,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 4013.09,
+        ["points"] = 4008.71,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -8641,7 +8645,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 861.5,
+        ["points"] = 860.57,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -8676,7 +8680,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 4929.12,
+        ["points"] = 4923.75,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -8704,7 +8708,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Theprot"] = {
-    ["percentile"] = 29.54,
+    ["percentile"] = 29.53,
     ["server"] = "Icecrown",
     ["overall_rank"] = 223,
     ["bosses"] = {
@@ -8722,7 +8726,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 3631.41,
+        ["points"] = 3627.45,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -8753,7 +8757,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 774.26,
+        ["points"] = 773.42,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -8784,7 +8788,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 3326.06,
+        ["points"] = 3322.44,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -8807,7 +8811,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9116.68,
+        ["points"] = 9117.65,
       },
     },
   },
@@ -8834,7 +8838,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 905.13,
+        ["points"] = 904.14,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -8865,7 +8869,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 7153.76,
+        ["points"] = 7145.97,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -8900,7 +8904,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8909.49,
+        ["points"] = 8910.68,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -8913,7 +8917,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Yatori"] = {
-    ["percentile"] = 28.3,
+    ["percentile"] = 28.29,
     ["server"] = "Icecrown",
     ["overall_rank"] = 230,
     ["bosses"] = {
@@ -8935,7 +8939,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 4220.28,
+        ["points"] = 4215.69,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -8966,7 +8970,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 370.77,
+        ["points"] = 370.37,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -9048,7 +9052,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 5223.56,
+        ["points"] = 5217.86,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -9075,7 +9079,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 3838.6,
+        ["points"] = 3834.42,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -9114,7 +9118,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 2148.31,
+        ["points"] = 2145.97,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -9149,7 +9153,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 5245.37,
+        ["points"] = 5239.65,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -9157,41 +9161,10 @@ UWULogsData[9][3] = {
       },
     },
   },
-  ["Xperal"] = {
-    ["percentile"] = 27.6,
+  ["Darktefuu"] = {
+    ["percentile"] = 27.59,
     ["server"] = "Icecrown",
     ["overall_rank"] = 237,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 1,
-        ["points"] = 3581.49,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 1,
-        ["points"] = 2943.04,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 1,
-        ["points"] = 2695.28,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 1,
-        ["points"] = 7616.68,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 1,
-        ["points"] = 6575.79,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 1,
-        ["points"] = 4076.25,
-      },
-    },
-  },
-  ["Darktefuu"] = {
-    ["percentile"] = 27.6,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 238,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
@@ -9219,11 +9192,42 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 4405.67,
+        ["points"] = 4400.87,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
         ["points"] = 5454.55,
+      },
+    },
+  },
+  ["Xperal"] = {
+    ["percentile"] = 27.59,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 238,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 1,
+        ["points"] = 3581.49,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 1,
+        ["points"] = 2943.04,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 1,
+        ["points"] = 2695.28,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 1,
+        ["points"] = 7616.68,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 1,
+        ["points"] = 6568.63,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 1,
+        ["points"] = 4076.25,
       },
     },
   },
@@ -9250,7 +9254,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 2955.29,
+        ["points"] = 2952.07,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -9281,7 +9285,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 5474.37,
+        ["points"] = 5468.41,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -9290,7 +9294,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Dodocze"] = {
-    ["percentile"] = 27.33,
+    ["percentile"] = 27.32,
     ["server"] = "Icecrown",
     ["overall_rank"] = 241,
     ["bosses"] = {
@@ -9312,7 +9316,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 7633.59,
+        ["points"] = 7625.27,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -9321,7 +9325,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Chitobold"] = {
-    ["percentile"] = 27.31,
+    ["percentile"] = 27.3,
     ["server"] = "Icecrown",
     ["overall_rank"] = 242,
     ["bosses"] = {
@@ -9343,7 +9347,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 6488.55,
+        ["points"] = 6481.48,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -9421,7 +9425,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 4340.24,
+        ["points"] = 4335.51,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -9452,7 +9456,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 3042.53,
+        ["points"] = 3039.22,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -9488,7 +9492,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Kampfhund"] = {
-    ["percentile"] = 26.38,
+    ["percentile"] = 26.37,
     ["server"] = "Icecrown",
     ["overall_rank"] = 247,
     ["bosses"] = {
@@ -9510,7 +9514,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 4045.8,
+        ["points"] = 4041.39,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -9564,7 +9568,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 839.69,
+        ["points"] = 838.78,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -9573,7 +9577,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Itsluci"] = {
-    ["percentile"] = 26.3,
+    ["percentile"] = 26.29,
     ["server"] = "Icecrown",
     ["overall_rank"] = 250,
     ["bosses"] = {
@@ -9595,7 +9599,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 3696.84,
+        ["points"] = 3692.81,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -9626,7 +9630,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 4634.68,
+        ["points"] = 4629.63,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -9635,7 +9639,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Jingowar"] = {
-    ["percentile"] = 26.06,
+    ["percentile"] = 26.05,
     ["server"] = "Icecrown",
     ["overall_rank"] = 252,
     ["bosses"] = {
@@ -9665,7 +9669,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 4056.71,
+        ["points"] = 4052.29,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -9678,7 +9682,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Randymarsh"] = {
-    ["percentile"] = 25.77,
+    ["percentile"] = 25.76,
     ["server"] = "Icecrown",
     ["overall_rank"] = 253,
     ["bosses"] = {
@@ -9700,7 +9704,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 6281.35,
+        ["points"] = 6274.51,
       },
     },
   },
@@ -9727,7 +9731,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 3653.22,
+        ["points"] = 3649.24,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -9789,7 +9793,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 4547.44,
+        ["points"] = 4542.48,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -9824,7 +9828,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 2126.5,
+        ["points"] = 2124.18,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -9886,7 +9890,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 806.98,
+        ["points"] = 806.1,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -9895,7 +9899,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Kiroronde"] = {
-    ["percentile"] = 24.67,
+    ["percentile"] = 24.66,
     ["server"] = "Icecrown",
     ["overall_rank"] = 260,
     ["bosses"] = {
@@ -9917,7 +9921,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 1286.8,
+        ["points"] = 1285.4,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -9948,7 +9952,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 3751.36,
+        ["points"] = 3747.28,
       },
     },
   },
@@ -9998,7 +10002,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 741.55,
+        ["points"] = 740.74,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -10007,7 +10011,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Shieldmoo"] = {
-    ["percentile"] = 24.14,
+    ["percentile"] = 24.13,
     ["server"] = "Icecrown",
     ["overall_rank"] = 264,
     ["bosses"] = {
@@ -10029,7 +10033,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 5790.62,
+        ["points"] = 5784.31,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -10038,7 +10042,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Protcandoit"] = {
-    ["percentile"] = 24.09,
+    ["percentile"] = 24.08,
     ["server"] = "Icecrown",
     ["overall_rank"] = 265,
     ["bosses"] = {
@@ -10060,7 +10064,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 4253.0,
+        ["points"] = 4248.37,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -10069,7 +10073,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Ninfeta"] = {
-    ["percentile"] = 24.05,
+    ["percentile"] = 24.04,
     ["server"] = "Icecrown",
     ["overall_rank"] = 266,
     ["bosses"] = {
@@ -10091,7 +10095,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 4318.43,
+        ["points"] = 4313.73,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -10127,7 +10131,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Reusreus"] = {
-    ["percentile"] = 23.96,
+    ["percentile"] = 23.95,
     ["server"] = "Icecrown",
     ["overall_rank"] = 268,
     ["bosses"] = {
@@ -10149,7 +10153,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 6368.59,
+        ["points"] = 6361.66,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
@@ -10158,7 +10162,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Besttankeu"] = {
-    ["percentile"] = 23.88,
+    ["percentile"] = 23.87,
     ["server"] = "Icecrown",
     ["overall_rank"] = 269,
     ["bosses"] = {
@@ -10180,7 +10184,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 4351.15,
+        ["points"] = 4346.41,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -10296,7 +10300,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 785.17,
+        ["points"] = 784.31,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -10305,7 +10309,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Mineplease"] = {
-    ["percentile"] = 23.37,
+    ["percentile"] = 23.36,
     ["server"] = "Icecrown",
     ["overall_rank"] = 274,
     ["bosses"] = {
@@ -10327,7 +10331,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 3773.17,
+        ["points"] = 3769.06,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -10406,7 +10410,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Elfamatinal"] = {
-    ["percentile"] = 23.21,
+    ["percentile"] = 23.2,
     ["server"] = "Icecrown",
     ["overall_rank"] = 277,
     ["bosses"] = {
@@ -10416,7 +10420,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 7110.14,
+        ["points"] = 7102.4,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -10451,7 +10455,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 3718.65,
+        ["points"] = 3714.6,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -10498,7 +10502,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 1254.09,
+        ["points"] = 1252.72,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -10515,7 +10519,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Dirtybrain"] = {
-    ["percentile"] = 22.77,
+    ["percentile"] = 22.76,
     ["server"] = "Icecrown",
     ["overall_rank"] = 280,
     ["bosses"] = {
@@ -10537,7 +10541,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 4580.15,
+        ["points"] = 4575.16,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -10591,7 +10595,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 1264.99,
+        ["points"] = 1263.62,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -10618,7 +10622,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 1134.13,
+        ["points"] = 1132.9,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -10680,7 +10684,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 2137.4,
+        ["points"] = 2135.08,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -10742,7 +10746,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 1897.49,
+        ["points"] = 1895.42,
       },
     },
   },
@@ -10800,7 +10804,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 3031.62,
+        ["points"] = 3028.92,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -10854,7 +10858,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 1406.76,
+        ["points"] = 1405.23,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -10890,7 +10894,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Dualwielddkp"] = {
-    ["percentile"] = 20.81,
+    ["percentile"] = 20.8,
     ["server"] = "Icecrown",
     ["overall_rank"] = 293,
     ["bosses"] = {
@@ -10908,7 +10912,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 6641.22,
+        ["points"] = 6633.99,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -10939,7 +10943,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 207.2,
+        ["points"] = 206.97,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -10970,7 +10974,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 3053.44,
+        ["points"] = 3050.11,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -11001,7 +11005,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 5081.79,
+        ["points"] = 5076.25,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -11033,7 +11037,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Zangetso"] = {
-    ["percentile"] = 20.21,
+    ["percentile"] = 20.2,
     ["server"] = "Icecrown",
     ["overall_rank"] = 299,
     ["bosses"] = {
@@ -11043,7 +11047,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 7131.95,
+        ["points"] = 7124.18,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -11074,7 +11078,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 763.36,
+        ["points"] = 762.53,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -11133,7 +11137,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Mikeetysonn"] = {
-    ["percentile"] = 19.91,
+    ["percentile"] = 19.9,
     ["server"] = "Icecrown",
     ["overall_rank"] = 303,
     ["bosses"] = {
@@ -11151,7 +11155,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 1832.06,
+        ["points"] = 1830.07,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -11160,7 +11164,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Bornfat"] = {
-    ["percentile"] = 19.79,
+    ["percentile"] = 19.78,
     ["server"] = "Icecrown",
     ["overall_rank"] = 304,
     ["bosses"] = {
@@ -11182,7 +11186,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 5921.48,
+        ["points"] = 5915.03,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -11302,7 +11306,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 1046.89,
+        ["points"] = 1045.75,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -11337,7 +11341,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 1363.14,
+        ["points"] = 1361.66,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -11346,7 +11350,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Cirujq"] = {
-    ["percentile"] = 18.94,
+    ["percentile"] = 18.93,
     ["server"] = "Icecrown",
     ["overall_rank"] = 310,
     ["bosses"] = {
@@ -11368,7 +11372,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 4034.9,
+        ["points"] = 4030.5,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -11435,7 +11439,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Warrtin"] = {
-    ["percentile"] = 18.79,
+    ["percentile"] = 18.78,
     ["server"] = "Icecrown",
     ["overall_rank"] = 313,
     ["bosses"] = {
@@ -11453,7 +11457,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 2998.91,
+        ["points"] = 2995.64,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -11462,7 +11466,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Doubleplated"] = {
-    ["percentile"] = 18.73,
+    ["percentile"] = 18.72,
     ["server"] = "Icecrown",
     ["overall_rank"] = 314,
     ["bosses"] = {
@@ -11484,7 +11488,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 3980.37,
+        ["points"] = 3976.03,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -11515,7 +11519,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 5038.17,
+        ["points"] = 5032.68,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -11570,7 +11574,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Paineds"] = {
-    ["percentile"] = 18.1,
+    ["percentile"] = 18.09,
     ["server"] = "Icecrown",
     ["overall_rank"] = 318,
     ["bosses"] = {
@@ -11588,7 +11592,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 5976.01,
+        ["points"] = 5969.5,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -11619,7 +11623,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 3260.63,
+        ["points"] = 3257.08,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -11674,7 +11678,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Nuklaus"] = {
-    ["percentile"] = 17.34,
+    ["percentile"] = 17.33,
     ["server"] = "Icecrown",
     ["overall_rank"] = 322,
     ["bosses"] = {
@@ -11704,7 +11708,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 1777.54,
+        ["points"] = 1775.6,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -11762,7 +11766,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 5278.08,
+        ["points"] = 5272.33,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -11847,7 +11851,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 229.01,
+        ["points"] = 228.76,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -11913,7 +11917,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 3925.85,
+        ["points"] = 3921.57,
       },
     },
   },
@@ -12005,7 +12009,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 261.72,
+        ["points"] = 261.44,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -12063,7 +12067,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 283.53,
+        ["points"] = 283.22,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -12101,7 +12105,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 8026.17,
+        ["points"] = 8028.32,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -12152,7 +12156,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Chargemytits"] = {
-    ["percentile"] = 15.39,
+    ["percentile"] = 15.38,
     ["server"] = "Icecrown",
     ["overall_rank"] = 342,
     ["bosses"] = {
@@ -12166,7 +12170,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 6390.4,
+        ["points"] = 6383.44,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -12197,7 +12201,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 3271.54,
+        ["points"] = 3267.97,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -12206,13 +12210,13 @@ UWULogsData[9][3] = {
     },
   },
   ["Tdibiswarry"] = {
-    ["percentile"] = 15.18,
+    ["percentile"] = 15.17,
     ["server"] = "Icecrown",
     ["overall_rank"] = 344,
     ["bosses"] = {
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 6935.66,
+        ["points"] = 6928.1,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -12239,7 +12243,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 4558.34,
+        ["points"] = 4553.38,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -12248,13 +12252,13 @@ UWULogsData[9][3] = {
     },
   },
   ["Mehits"] = {
-    ["percentile"] = 15.09,
+    ["percentile"] = 15.08,
     ["server"] = "Icecrown",
     ["overall_rank"] = 346,
     ["bosses"] = {
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 6957.47,
+        ["points"] = 6949.89,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -12408,10 +12412,25 @@ UWULogsData[9][3] = {
       },
     },
   },
-  ["Gedeyfreak"] = {
-    ["percentile"] = 13.97,
+  ["Rokstar"] = {
+    ["percentile"] = 13.96,
     ["server"] = "Icecrown",
     ["overall_rank"] = 353,
+    ["bosses"] = {
+      ["Festergut"] = {
+        ["kill_count"] = 1,
+        ["points"] = 8130.08,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 1,
+        ["points"] = 5777.13,
+      },
+    },
+  },
+  ["Gedeyfreak"] = {
+    ["percentile"] = 13.96,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 354,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -12427,22 +12446,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 6586.7,
-      },
-    },
-  },
-  ["Rokstar"] = {
-    ["percentile"] = 13.96,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 354,
-    ["bosses"] = {
-      ["Festergut"] = {
-        ["kill_count"] = 1,
-        ["points"] = 8130.08,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 1,
-        ["points"] = 5777.13,
+        ["points"] = 6579.52,
       },
     },
   },
@@ -12488,7 +12492,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 2181.03,
+        ["points"] = 2178.65,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -12723,7 +12727,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Dahymery"] = {
-    ["percentile"] = 12.42,
+    ["percentile"] = 12.41,
     ["server"] = "Icecrown",
     ["overall_rank"] = 367,
     ["bosses"] = {
@@ -12745,7 +12749,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 1842.97,
+        ["points"] = 1840.96,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -12864,7 +12868,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 2093.78,
+        ["points"] = 2091.5,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -12873,7 +12877,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Vvitcher"] = {
-    ["percentile"] = 11.82,
+    ["percentile"] = 11.81,
     ["server"] = "Icecrown",
     ["overall_rank"] = 373,
     ["bosses"] = {
@@ -12891,7 +12895,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 665.21,
+        ["points"] = 664.49,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -12910,7 +12914,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 1603.05,
+        ["points"] = 1601.31,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -12971,7 +12975,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 272.63,
+        ["points"] = 272.33,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -13056,7 +13060,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 676.12,
+        ["points"] = 675.38,
       },
     },
   },
@@ -13097,7 +13101,7 @@ UWULogsData[9][3] = {
     ["bosses"] = {
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 1952.02,
+        ["points"] = 1949.89,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -13297,7 +13301,7 @@ UWULogsData[9][3] = {
   ["Draago"] = {
     ["percentile"] = 9.87,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 1740,
+    ["overall_rank"] = 1741,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
@@ -13305,7 +13309,7 @@ UWULogsData[9][3] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 7056.78,
+        ["points"] = 7057.84,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -13321,7 +13325,7 @@ UWULogsData[9][3] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 6685.41,
+        ["points"] = 6686.5,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -13329,11 +13333,11 @@ UWULogsData[9][3] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 8987.9,
+        ["points"] = 8986.9,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 8422.91,
+        ["points"] = 8421.95,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
@@ -13440,7 +13444,7 @@ UWULogsData[9][3] = {
     },
   },
   ["Tacttus"] = {
-    ["percentile"] = 9.45,
+    ["percentile"] = 9.44,
     ["server"] = "Icecrown",
     ["overall_rank"] = 402,
     ["bosses"] = {
@@ -13450,7 +13454,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 6412.21,
+        ["points"] = 6405.23,
       },
     },
   },
@@ -13869,24 +13873,24 @@ UWULogsData[9][3] = {
     },
   },
   ["Twochcpicken"] = {
-    ["percentile"] = 7.39,
+    ["percentile"] = 7.38,
     ["server"] = "Icecrown",
     ["overall_rank"] = 430,
     ["bosses"] = {
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 7360.96,
+        ["points"] = 7352.94,
       },
     },
   },
   ["Rylez"] = {
-    ["percentile"] = 7.19,
+    ["percentile"] = 7.18,
     ["server"] = "Icecrown",
     ["overall_rank"] = 431,
     ["bosses"] = {
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 970.56,
+        ["points"] = 969.5,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -13961,7 +13965,7 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 2039.26,
+        ["points"] = 2037.04,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -14008,13 +14012,13 @@ UWULogsData[9][3] = {
     },
   },
   ["Dwolfwood"] = {
-    ["percentile"] = 6.43,
+    ["percentile"] = 6.42,
     ["server"] = "Icecrown",
     ["overall_rank"] = 440,
     ["bosses"] = {
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 6401.31,
+        ["points"] = 6394.34,
       },
     },
   },
@@ -14106,13 +14110,13 @@ UWULogsData[9][3] = {
     },
   },
   ["Bakkhus"] = {
-    ["percentile"] = 6.2,
+    ["percentile"] = 6.19,
     ["server"] = "Icecrown",
     ["overall_rank"] = 446,
     ["bosses"] = {
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 6172.3,
+        ["points"] = 6165.58,
       },
     },
   },
@@ -14484,7 +14488,7 @@ UWULogsData[9][3] = {
     ["bosses"] = {
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 2028.35,
+        ["points"] = 2026.14,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -14499,7 +14503,7 @@ UWULogsData[9][3] = {
     ["bosses"] = {
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 2388.22,
+        ["points"] = 2385.62,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -15289,7 +15293,7 @@ UWULogsData[9][3] = {
     ["bosses"] = {
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 1984.73,
+        ["points"] = 1982.57,
       },
     },
   },
@@ -15316,13 +15320,13 @@ UWULogsData[9][3] = {
     },
   },
   ["Zheryl"] = {
-    ["percentile"] = 1.81,
+    ["percentile"] = 1.8,
     ["server"] = "Icecrown",
     ["overall_rank"] = 552,
     ["bosses"] = {
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 1799.35,
+        ["points"] = 1797.39,
       },
     },
   },
@@ -15370,7 +15374,7 @@ UWULogsData[9][3] = {
     ["bosses"] = {
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 1613.96,
+        ["points"] = 1612.2,
       },
     },
   },
@@ -15436,7 +15440,7 @@ UWULogsData[9][3] = {
     ["bosses"] = {
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 1188.66,
+        ["points"] = 1187.36,
       },
     },
   },
@@ -15665,13 +15669,13 @@ UWULogsData[9][3] = {
     },
   },
   ["Araghornt"] = {
-    ["percentile"] = 0.52,
+    ["percentile"] = 0.51,
     ["server"] = "Icecrown",
     ["overall_rank"] = 585,
     ["bosses"] = {
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 512.54,
+        ["points"] = 511.98,
       },
     },
   },
