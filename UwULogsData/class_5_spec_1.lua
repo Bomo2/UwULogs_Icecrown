@@ -1162,9 +1162,9 @@ UWULogsData[5][1] = {
         ["points"] = 9839.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 297,
+        ["rank_raids"] = 298,
         ["kill_count"] = 13,
-        ["points"] = 9733.4,
+        ["points"] = 9732.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 155,
@@ -1241,7 +1241,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 519,
         ["kill_count"] = 11,
-        ["points"] = 9600.31,
+        ["points"] = 9600.37,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 28,
@@ -1410,9 +1410,9 @@ UWULogsData[5][1] = {
         ["points"] = 9989.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1071,
+        ["rank_raids"] = 1072,
         ["kill_count"] = 25,
-        ["points"] = 9322.6,
+        ["points"] = 9322.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 14,
@@ -1697,7 +1697,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 531,
         ["kill_count"] = 19,
-        ["points"] = 9589.51,
+        ["points"] = 9589.57,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 715,
@@ -1789,9 +1789,9 @@ UWULogsData[5][1] = {
         ["points"] = 9755.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 246,
+        ["rank_raids"] = 247,
         ["kill_count"] = 63,
-        ["points"] = 9774.2,
+        ["points"] = 9773.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 470,
@@ -1960,9 +1960,9 @@ UWULogsData[5][1] = {
         ["points"] = 9856.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 487,
+        ["rank_raids"] = 488,
         ["kill_count"] = 2,
-        ["points"] = 9608.8,
+        ["points"] = 9608.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 132,
@@ -1980,9 +1980,9 @@ UWULogsData[5][1] = {
         ["points"] = 9851.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1526,
+        ["rank_raids"] = 1527,
         ["kill_count"] = 2,
-        ["points"] = 9140.6,
+        ["points"] = 9140.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 72,
@@ -2017,9 +2017,9 @@ UWULogsData[5][1] = {
         ["points"] = 9700.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 277,
+        ["rank_raids"] = 278,
         ["kill_count"] = 13,
-        ["points"] = 9749.4,
+        ["points"] = 9748.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 76,
@@ -2037,9 +2037,9 @@ UWULogsData[5][1] = {
         ["points"] = 9527.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 753,
+        ["rank_raids"] = 754,
         ["kill_count"] = 17,
-        ["points"] = 9474.5,
+        ["points"] = 9474.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 195,
@@ -2096,7 +2096,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 375,
         ["kill_count"] = 10,
-        ["points"] = 9685.19,
+        ["points"] = 9685.23,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 499,
@@ -2131,9 +2131,9 @@ UWULogsData[5][1] = {
         ["points"] = 9994.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 969,
+        ["rank_raids"] = 970,
         ["kill_count"] = 36,
-        ["points"] = 9366.5,
+        ["points"] = 9366.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 222,
@@ -2151,9 +2151,9 @@ UWULogsData[5][1] = {
         ["points"] = 9908.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 767,
+        ["rank_raids"] = 768,
         ["kill_count"] = 41,
-        ["points"] = 9467.5,
+        ["points"] = 9467.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 88,
@@ -2188,9 +2188,9 @@ UWULogsData[5][1] = {
         ["points"] = 9995.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 703,
+        ["rank_raids"] = 704,
         ["kill_count"] = 25,
-        ["points"] = 9499.5,
+        ["points"] = 9499.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 110,
@@ -2208,9 +2208,9 @@ UWULogsData[5][1] = {
         ["points"] = 9914.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 748,
+        ["rank_raids"] = 749,
         ["kill_count"] = 37,
-        ["points"] = 9477.0,
+        ["points"] = 9476.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 274,
@@ -2225,7 +2225,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Word"] = {
-    ["percentile"] = 96.99,
+    ["percentile"] = 96.98,
     ["server"] = "Icecrown",
     ["overall_rank"] = 40,
     ["bosses"] = {
@@ -2265,9 +2265,9 @@ UWULogsData[5][1] = {
         ["points"] = 9860.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1772,
+        ["rank_raids"] = 1773,
         ["kill_count"] = 51,
-        ["points"] = 9042.2,
+        ["points"] = 9041.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 332,
@@ -2374,14 +2374,14 @@ UWULogsData[5][1] = {
         ["points"] = 9597.5,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3057,
+        ["rank_raids"] = 3058,
         ["kill_count"] = 13,
-        ["points"] = 8633.9,
+        ["points"] = 8633.6,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 241,
         ["kill_count"] = 14,
-        ["points"] = 9780.86,
+        ["points"] = 9780.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 61,
@@ -2421,9 +2421,9 @@ UWULogsData[5][1] = {
         ["points"] = 9913.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4034,
+        ["rank_raids"] = 4035,
         ["kill_count"] = 9,
-        ["points"] = 8340.8,
+        ["points"] = 8340.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 185,
@@ -2473,9 +2473,9 @@ UWULogsData[5][1] = {
         ["points"] = 9165.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 324,
+        ["rank_raids"] = 325,
         ["kill_count"] = 18,
-        ["points"] = 9714.2,
+        ["points"] = 9713.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 261,
@@ -2545,9 +2545,9 @@ UWULogsData[5][1] = {
         ["points"] = 9771.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5863,
+        ["rank_raids"] = 5864,
         ["kill_count"] = 9,
-        ["points"] = 7792.1,
+        ["points"] = 7791.8,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 78,
@@ -2587,9 +2587,9 @@ UWULogsData[5][1] = {
         ["points"] = 9592.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 899,
+        ["rank_raids"] = 900,
         ["kill_count"] = 68,
-        ["points"] = 9401.5,
+        ["points"] = 9401.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 362,
@@ -2607,9 +2607,9 @@ UWULogsData[5][1] = {
         ["points"] = 9827.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1362,
+        ["rank_raids"] = 1363,
         ["kill_count"] = 83,
-        ["points"] = 9206.2,
+        ["points"] = 9205.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 630,
@@ -2701,9 +2701,9 @@ UWULogsData[5][1] = {
         ["points"] = 9977.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 920,
+        ["rank_raids"] = 921,
         ["kill_count"] = 14,
-        ["points"] = 9391.0,
+        ["points"] = 9390.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1235,
@@ -2778,9 +2778,9 @@ UWULogsData[5][1] = {
         ["points"] = 9794.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2308,
+        ["rank_raids"] = 2309,
         ["kill_count"] = 27,
-        ["points"] = 8858.6,
+        ["points"] = 8858.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 181,
@@ -2830,9 +2830,9 @@ UWULogsData[5][1] = {
         ["points"] = 9685.5,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3764,
+        ["rank_raids"] = 3765,
         ["kill_count"] = 6,
-        ["points"] = 8421.8,
+        ["points"] = 8421.5,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 53,
@@ -2872,9 +2872,9 @@ UWULogsData[5][1] = {
         ["points"] = 9993.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 963,
+        ["rank_raids"] = 964,
         ["kill_count"] = 34,
-        ["points"] = 9369.5,
+        ["points"] = 9369.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 163,
@@ -2892,9 +2892,9 @@ UWULogsData[5][1] = {
         ["points"] = 9869.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 614,
+        ["rank_raids"] = 615,
         ["kill_count"] = 43,
-        ["points"] = 9544.0,
+        ["points"] = 9543.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 583,
@@ -2944,9 +2944,9 @@ UWULogsData[5][1] = {
         ["points"] = 9828.1,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5214,
+        ["rank_raids"] = 5215,
         ["kill_count"] = 6,
-        ["points"] = 7986.8,
+        ["points"] = 7986.5,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 100,
@@ -2986,9 +2986,9 @@ UWULogsData[5][1] = {
         ["points"] = 9538.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 984,
+        ["rank_raids"] = 985,
         ["kill_count"] = 18,
-        ["points"] = 9359.0,
+        ["points"] = 9358.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 409,
@@ -3006,9 +3006,9 @@ UWULogsData[5][1] = {
         ["points"] = 9935.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 695,
+        ["rank_raids"] = 696,
         ["kill_count"] = 26,
-        ["points"] = 9503.5,
+        ["points"] = 9503.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 184,
@@ -3043,9 +3043,9 @@ UWULogsData[5][1] = {
         ["points"] = 9660.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 368,
+        ["rank_raids"] = 369,
         ["kill_count"] = 12,
-        ["points"] = 9683.4,
+        ["points"] = 9682.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 320,
@@ -3065,7 +3065,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 433,
         ["kill_count"] = 12,
-        ["points"] = 9648.15,
+        ["points"] = 9648.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1102,
@@ -3157,9 +3157,9 @@ UWULogsData[5][1] = {
         ["points"] = 9777.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 998,
+        ["rank_raids"] = 999,
         ["kill_count"] = 5,
-        ["points"] = 9352.0,
+        ["points"] = 9351.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 127,
@@ -3177,9 +3177,9 @@ UWULogsData[5][1] = {
         ["points"] = 9269.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1272,
+        ["rank_raids"] = 1273,
         ["kill_count"] = 8,
-        ["points"] = 9242.2,
+        ["points"] = 9241.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 117,
@@ -3271,9 +3271,9 @@ UWULogsData[5][1] = {
         ["points"] = 9884.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 469,
+        ["rank_raids"] = 470,
         ["kill_count"] = 22,
-        ["points"] = 9619.6,
+        ["points"] = 9619.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1360,
@@ -3291,9 +3291,9 @@ UWULogsData[5][1] = {
         ["points"] = 9459.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2333,
+        ["rank_raids"] = 2334,
         ["kill_count"] = 29,
-        ["points"] = 8851.1,
+        ["points"] = 8850.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 194,
@@ -3328,9 +3328,9 @@ UWULogsData[5][1] = {
         ["points"] = 9417.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2560,
+        ["rank_raids"] = 2561,
         ["kill_count"] = 19,
-        ["points"] = 8783.0,
+        ["points"] = 8782.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 464,
@@ -3385,9 +3385,9 @@ UWULogsData[5][1] = {
         ["points"] = 9636.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 867,
+        ["rank_raids"] = 868,
         ["kill_count"] = 28,
-        ["points"] = 9417.5,
+        ["points"] = 9417.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1001,
@@ -3405,9 +3405,9 @@ UWULogsData[5][1] = {
         ["points"] = 9786.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1621,
+        ["rank_raids"] = 1622,
         ["kill_count"] = 34,
-        ["points"] = 9102.6,
+        ["points"] = 9102.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 475,
@@ -3442,9 +3442,9 @@ UWULogsData[5][1] = {
         ["points"] = 9543.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 944,
+        ["rank_raids"] = 945,
         ["kill_count"] = 23,
-        ["points"] = 9379.0,
+        ["points"] = 9378.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 819,
@@ -3462,9 +3462,9 @@ UWULogsData[5][1] = {
         ["points"] = 9933.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1546,
+        ["rank_raids"] = 1547,
         ["kill_count"] = 26,
-        ["points"] = 9132.6,
+        ["points"] = 9132.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 170,
@@ -3521,7 +3521,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 483,
         ["kill_count"] = 6,
-        ["points"] = 9620.37,
+        ["points"] = 9620.43,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1558,
@@ -3536,7 +3536,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Holachicano"] = {
-    ["percentile"] = 95.59,
+    ["percentile"] = 95.58,
     ["server"] = "Icecrown",
     ["overall_rank"] = 63,
     ["bosses"] = {
@@ -3556,9 +3556,9 @@ UWULogsData[5][1] = {
         ["points"] = 9969.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1502,
+        ["rank_raids"] = 1503,
         ["kill_count"] = 20,
-        ["points"] = 9150.2,
+        ["points"] = 9149.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 78,
@@ -3576,9 +3576,9 @@ UWULogsData[5][1] = {
         ["points"] = 9940.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1318,
+        ["rank_raids"] = 1319,
         ["kill_count"] = 23,
-        ["points"] = 9223.8,
+        ["points"] = 9223.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 466,
@@ -3613,9 +3613,9 @@ UWULogsData[5][1] = {
         ["points"] = 9570.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 888,
+        ["rank_raids"] = 889,
         ["kill_count"] = 42,
-        ["points"] = 9407.0,
+        ["points"] = 9406.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 395,
@@ -3633,9 +3633,9 @@ UWULogsData[5][1] = {
         ["points"] = 9921.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2303,
+        ["rank_raids"] = 2304,
         ["kill_count"] = 45,
-        ["points"] = 8860.1,
+        ["points"] = 8859.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 320,
@@ -3670,9 +3670,9 @@ UWULogsData[5][1] = {
         ["points"] = 9811.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4030,
+        ["rank_raids"] = 4031,
         ["kill_count"] = 8,
-        ["points"] = 8342.0,
+        ["points"] = 8341.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 97,
@@ -3690,9 +3690,9 @@ UWULogsData[5][1] = {
         ["points"] = 9595.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1523,
+        ["rank_raids"] = 1524,
         ["kill_count"] = 10,
-        ["points"] = 9141.8,
+        ["points"] = 9141.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 547,
@@ -3712,9 +3712,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 66,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6062,
+        ["rank_raids"] = 6063,
         ["kill_count"] = 4,
-        ["points"] = 7732.4,
+        ["points"] = 7732.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 216,
@@ -3784,9 +3784,9 @@ UWULogsData[5][1] = {
         ["points"] = 9476.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 814,
+        ["rank_raids"] = 815,
         ["kill_count"] = 27,
-        ["points"] = 9444.0,
+        ["points"] = 9443.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1182,
@@ -3804,9 +3804,9 @@ UWULogsData[5][1] = {
         ["points"] = 9893.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1024,
+        ["rank_raids"] = 1025,
         ["kill_count"] = 30,
-        ["points"] = 9341.4,
+        ["points"] = 9341.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 388,
@@ -3861,9 +3861,9 @@ UWULogsData[5][1] = {
         ["points"] = 9462.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 869,
+        ["rank_raids"] = 870,
         ["kill_count"] = 17,
-        ["points"] = 9416.5,
+        ["points"] = 9416.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 604,
@@ -3898,9 +3898,9 @@ UWULogsData[5][1] = {
         ["points"] = 9160.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 225,
+        ["rank_raids"] = 226,
         ["kill_count"] = 12,
-        ["points"] = 9791.0,
+        ["points"] = 9790.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 614,
@@ -3920,7 +3920,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 395,
         ["kill_count"] = 17,
-        ["points"] = 9671.3,
+        ["points"] = 9671.35,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 454,
@@ -3955,9 +3955,9 @@ UWULogsData[5][1] = {
         ["points"] = 9454.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1702,
+        ["rank_raids"] = 1703,
         ["kill_count"] = 22,
-        ["points"] = 9070.2,
+        ["points"] = 9069.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 852,
@@ -3975,9 +3975,9 @@ UWULogsData[5][1] = {
         ["points"] = 9926.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1658,
+        ["rank_raids"] = 1659,
         ["kill_count"] = 31,
-        ["points"] = 9087.8,
+        ["points"] = 9087.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 192,
@@ -3997,9 +3997,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 71,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5396,
+        ["rank_raids"] = 5397,
         ["kill_count"] = 2,
-        ["points"] = 7932.2,
+        ["points"] = 7931.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 160,
@@ -4069,9 +4069,9 @@ UWULogsData[5][1] = {
         ["points"] = 9565.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1158,
+        ["rank_raids"] = 1159,
         ["kill_count"] = 26,
-        ["points"] = 9287.8,
+        ["points"] = 9287.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 708,
@@ -4089,9 +4089,9 @@ UWULogsData[5][1] = {
         ["points"] = 9907.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1443,
+        ["rank_raids"] = 1444,
         ["kill_count"] = 37,
-        ["points"] = 9173.8,
+        ["points"] = 9173.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 265,
@@ -4183,9 +4183,9 @@ UWULogsData[5][1] = {
         ["points"] = 9513.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 836,
+        ["rank_raids"] = 837,
         ["kill_count"] = 50,
-        ["points"] = 9433.0,
+        ["points"] = 9432.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 999,
@@ -4203,9 +4203,9 @@ UWULogsData[5][1] = {
         ["points"] = 9769.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2378,
+        ["rank_raids"] = 2379,
         ["kill_count"] = 69,
-        ["points"] = 8837.6,
+        ["points"] = 8837.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 239,
@@ -4235,14 +4235,14 @@ UWULogsData[5][1] = {
         ["points"] = 9568.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3944,
+        ["rank_raids"] = 3946,
         ["kill_count"] = 3,
-        ["points"] = 8367.8,
+        ["points"] = 8367.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 257,
+        ["rank_raids"] = 258,
         ["kill_count"] = 11,
-        ["points"] = 9765.4,
+        ["points"] = 9764.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 162,
@@ -4260,9 +4260,9 @@ UWULogsData[5][1] = {
         ["points"] = 9645.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 637,
+        ["rank_raids"] = 638,
         ["kill_count"] = 10,
-        ["points"] = 9532.5,
+        ["points"] = 9532.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 128,
@@ -4297,9 +4297,9 @@ UWULogsData[5][1] = {
         ["points"] = 9728.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 416,
+        ["rank_raids"] = 417,
         ["kill_count"] = 28,
-        ["points"] = 9651.4,
+        ["points"] = 9650.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1508,
@@ -4319,7 +4319,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 246,
         ["kill_count"] = 43,
-        ["points"] = 9774.69,
+        ["points"] = 9774.73,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 336,
@@ -4354,9 +4354,9 @@ UWULogsData[5][1] = {
         ["points"] = 9524.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 403,
+        ["rank_raids"] = 404,
         ["kill_count"] = 6,
-        ["points"] = 9659.2,
+        ["points"] = 9658.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2022,
@@ -4374,9 +4374,9 @@ UWULogsData[5][1] = {
         ["points"] = 9310.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 586,
+        ["rank_raids"] = 587,
         ["kill_count"] = 7,
-        ["points"] = 9558.0,
+        ["points"] = 9557.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 576,
@@ -4411,9 +4411,9 @@ UWULogsData[5][1] = {
         ["points"] = 9605.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 760,
+        ["rank_raids"] = 761,
         ["kill_count"] = 17,
-        ["points"] = 9471.0,
+        ["points"] = 9470.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 885,
@@ -4431,9 +4431,9 @@ UWULogsData[5][1] = {
         ["points"] = 9850.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2205,
+        ["rank_raids"] = 2206,
         ["kill_count"] = 19,
-        ["points"] = 8889.5,
+        ["points"] = 8889.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 635,
@@ -4468,9 +4468,9 @@ UWULogsData[5][1] = {
         ["points"] = 9443.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1894,
+        ["rank_raids"] = 1895,
         ["kill_count"] = 11,
-        ["points"] = 8993.4,
+        ["points"] = 8993.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 325,
@@ -4525,9 +4525,9 @@ UWULogsData[5][1] = {
         ["points"] = 9492.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1356,
+        ["rank_raids"] = 1357,
         ["kill_count"] = 27,
-        ["points"] = 9208.6,
+        ["points"] = 9208.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 355,
@@ -4545,9 +4545,9 @@ UWULogsData[5][1] = {
         ["points"] = 9771.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1835,
+        ["rank_raids"] = 1836,
         ["kill_count"] = 30,
-        ["points"] = 9017.0,
+        ["points"] = 9016.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 24,
@@ -4597,9 +4597,9 @@ UWULogsData[5][1] = {
         ["points"] = 9549.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4351,
+        ["rank_raids"] = 4352,
         ["kill_count"] = 3,
-        ["points"] = 8245.7,
+        ["points"] = 8245.4,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 60,
@@ -4654,14 +4654,14 @@ UWULogsData[5][1] = {
         ["points"] = 9797.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7420,
+        ["rank_raids"] = 7421,
         ["kill_count"] = 1,
-        ["points"] = 7325.0,
+        ["points"] = 7324.7,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 208,
         ["kill_count"] = 1,
-        ["points"] = 9805.56,
+        ["points"] = 9805.59,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 165,
@@ -4696,9 +4696,9 @@ UWULogsData[5][1] = {
         ["points"] = 9594.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 650,
+        ["rank_raids"] = 651,
         ["kill_count"] = 10,
-        ["points"] = 9526.0,
+        ["points"] = 9525.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 186,
@@ -4711,14 +4711,14 @@ UWULogsData[5][1] = {
         ["points"] = 9669.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6027,
+        ["rank_raids"] = 6028,
         ["kill_count"] = 10,
-        ["points"] = 7742.9,
+        ["points"] = 7742.6,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 307,
         ["kill_count"] = 11,
-        ["points"] = 9736.11,
+        ["points"] = 9736.15,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 85,
@@ -4773,9 +4773,9 @@ UWULogsData[5][1] = {
         ["points"] = 9996.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1025,
+        ["rank_raids"] = 1026,
         ["kill_count"] = 13,
-        ["points"] = 9341.0,
+        ["points"] = 9340.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2278,
@@ -4830,9 +4830,9 @@ UWULogsData[5][1] = {
         ["points"] = 9954.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1966,
+        ["rank_raids"] = 1967,
         ["kill_count"] = 17,
-        ["points"] = 8964.6,
+        ["points"] = 8964.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2629,
@@ -4867,9 +4867,9 @@ UWULogsData[5][1] = {
         ["points"] = 9914.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1263,
+        ["rank_raids"] = 1264,
         ["kill_count"] = 21,
-        ["points"] = 9245.8,
+        ["points"] = 9245.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 24,
@@ -4887,9 +4887,9 @@ UWULogsData[5][1] = {
         ["points"] = 9843.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1933,
+        ["rank_raids"] = 1934,
         ["kill_count"] = 20,
-        ["points"] = 8977.8,
+        ["points"] = 8977.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 391,
@@ -4924,9 +4924,9 @@ UWULogsData[5][1] = {
         ["points"] = 9970.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 437,
+        ["rank_raids"] = 438,
         ["kill_count"] = 13,
-        ["points"] = 9638.8,
+        ["points"] = 9638.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 68,
@@ -4939,14 +4939,14 @@ UWULogsData[5][1] = {
         ["points"] = 9610.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4496,
+        ["rank_raids"] = 4497,
         ["kill_count"] = 16,
-        ["points"] = 8202.2,
+        ["points"] = 8201.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1062,
+        ["rank_raids"] = 1063,
         ["kill_count"] = 17,
-        ["points"] = 9326.2,
+        ["points"] = 9325.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 249,
@@ -4996,9 +4996,9 @@ UWULogsData[5][1] = {
         ["points"] = 9383.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6397,
+        ["rank_raids"] = 6398,
         ["kill_count"] = 2,
-        ["points"] = 7631.9,
+        ["points"] = 7631.6,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 160,
@@ -5038,9 +5038,9 @@ UWULogsData[5][1] = {
         ["points"] = 9478.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1380,
+        ["rank_raids"] = 1381,
         ["kill_count"] = 58,
-        ["points"] = 9199.0,
+        ["points"] = 9198.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 844,
@@ -5058,9 +5058,9 @@ UWULogsData[5][1] = {
         ["points"] = 9911.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2182,
+        ["rank_raids"] = 2183,
         ["kill_count"] = 71,
-        ["points"] = 8896.4,
+        ["points"] = 8896.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 632,
@@ -5132,7 +5132,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Sucicegi"] = {
-    ["percentile"] = 94.89,
+    ["percentile"] = 94.88,
     ["server"] = "Icecrown",
     ["overall_rank"] = 91,
     ["bosses"] = {
@@ -5152,9 +5152,9 @@ UWULogsData[5][1] = {
         ["points"] = 9340.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 765,
+        ["rank_raids"] = 766,
         ["kill_count"] = 19,
-        ["points"] = 9468.5,
+        ["points"] = 9468.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 693,
@@ -5172,9 +5172,9 @@ UWULogsData[5][1] = {
         ["points"] = 9735.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2288,
+        ["rank_raids"] = 2289,
         ["kill_count"] = 24,
-        ["points"] = 8864.6,
+        ["points"] = 8864.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 584,
@@ -5229,9 +5229,9 @@ UWULogsData[5][1] = {
         ["points"] = 9629.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 995,
+        ["rank_raids"] = 996,
         ["kill_count"] = 24,
-        ["points"] = 9353.5,
+        ["points"] = 9353.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 71,
@@ -5266,9 +5266,9 @@ UWULogsData[5][1] = {
         ["points"] = 9463.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 295,
+        ["rank_raids"] = 296,
         ["kill_count"] = 11,
-        ["points"] = 9735.0,
+        ["points"] = 9734.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 156,
@@ -5323,9 +5323,9 @@ UWULogsData[5][1] = {
         ["points"] = 9246.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1698,
+        ["rank_raids"] = 1699,
         ["kill_count"] = 13,
-        ["points"] = 9071.8,
+        ["points"] = 9071.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 86,
@@ -5343,9 +5343,9 @@ UWULogsData[5][1] = {
         ["points"] = 9581.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1308,
+        ["rank_raids"] = 1309,
         ["kill_count"] = 15,
-        ["points"] = 9227.8,
+        ["points"] = 9227.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 862,
@@ -5360,7 +5360,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Satanics"] = {
-    ["percentile"] = 94.69,
+    ["percentile"] = 94.68,
     ["server"] = "Icecrown",
     ["overall_rank"] = 95,
     ["bosses"] = {
@@ -5380,9 +5380,9 @@ UWULogsData[5][1] = {
         ["points"] = 9310.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 699,
+        ["rank_raids"] = 700,
         ["kill_count"] = 86,
-        ["points"] = 9501.5,
+        ["points"] = 9501.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 669,
@@ -5400,9 +5400,9 @@ UWULogsData[5][1] = {
         ["points"] = 9990.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1536,
+        ["rank_raids"] = 1537,
         ["kill_count"] = 97,
-        ["points"] = 9136.6,
+        ["points"] = 9136.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 306,
@@ -5437,9 +5437,9 @@ UWULogsData[5][1] = {
         ["points"] = 9389.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1186,
+        ["rank_raids"] = 1187,
         ["kill_count"] = 11,
-        ["points"] = 9276.6,
+        ["points"] = 9276.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 653,
@@ -5457,9 +5457,9 @@ UWULogsData[5][1] = {
         ["points"] = 9901.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2282,
+        ["rank_raids"] = 2283,
         ["kill_count"] = 16,
-        ["points"] = 8866.4,
+        ["points"] = 8866.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 766,
@@ -5514,9 +5514,9 @@ UWULogsData[5][1] = {
         ["points"] = 9950.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 861,
+        ["rank_raids"] = 862,
         ["kill_count"] = 17,
-        ["points"] = 9420.5,
+        ["points"] = 9420.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1926,
@@ -5551,14 +5551,14 @@ UWULogsData[5][1] = {
         ["points"] = 9251.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 574,
+        ["rank_raids"] = 575,
         ["kill_count"] = 4,
-        ["points"] = 9564.0,
+        ["points"] = 9563.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6071,
+        ["rank_raids"] = 6073,
         ["kill_count"] = 7,
-        ["points"] = 7729.7,
+        ["points"] = 7729.1,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 410,
@@ -5571,9 +5571,9 @@ UWULogsData[5][1] = {
         ["points"] = 9967.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 939,
+        ["rank_raids"] = 940,
         ["kill_count"] = 6,
-        ["points"] = 9381.5,
+        ["points"] = 9381.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 42,
@@ -5608,9 +5608,9 @@ UWULogsData[5][1] = {
         ["points"] = 9889.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 686,
+        ["rank_raids"] = 687,
         ["kill_count"] = 26,
-        ["points"] = 9508.0,
+        ["points"] = 9507.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 44,
@@ -5628,9 +5628,9 @@ UWULogsData[5][1] = {
         ["points"] = 9154.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2131,
+        ["rank_raids"] = 2132,
         ["kill_count"] = 13,
-        ["points"] = 8911.7,
+        ["points"] = 8911.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2051,
@@ -5665,9 +5665,9 @@ UWULogsData[5][1] = {
         ["points"] = 9476.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1392,
+        ["rank_raids"] = 1393,
         ["kill_count"] = 20,
-        ["points"] = 9194.2,
+        ["points"] = 9193.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 340,
@@ -5685,9 +5685,9 @@ UWULogsData[5][1] = {
         ["points"] = 9919.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1955,
+        ["rank_raids"] = 1956,
         ["kill_count"] = 24,
-        ["points"] = 8969.0,
+        ["points"] = 8968.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 855,
@@ -5722,9 +5722,9 @@ UWULogsData[5][1] = {
         ["points"] = 9968.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1092,
+        ["rank_raids"] = 1093,
         ["kill_count"] = 1,
-        ["points"] = 9314.2,
+        ["points"] = 9313.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 81,
@@ -5742,9 +5742,9 @@ UWULogsData[5][1] = {
         ["points"] = 9963.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1608,
+        ["rank_raids"] = 1609,
         ["kill_count"] = 10,
-        ["points"] = 9107.8,
+        ["points"] = 9107.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 709,
@@ -5799,9 +5799,9 @@ UWULogsData[5][1] = {
         ["points"] = 9373.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2500,
+        ["rank_raids"] = 2501,
         ["kill_count"] = 6,
-        ["points"] = 8801.0,
+        ["points"] = 8800.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 414,
@@ -5856,9 +5856,9 @@ UWULogsData[5][1] = {
         ["points"] = 9075.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 647,
+        ["rank_raids"] = 648,
         ["kill_count"] = 20,
-        ["points"] = 9527.5,
+        ["points"] = 9527.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 217,
@@ -5893,9 +5893,9 @@ UWULogsData[5][1] = {
         ["points"] = 9560.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 639,
+        ["rank_raids"] = 640,
         ["kill_count"] = 22,
-        ["points"] = 9531.5,
+        ["points"] = 9531.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 139,
@@ -5913,9 +5913,9 @@ UWULogsData[5][1] = {
         ["points"] = 9275.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1633,
+        ["rank_raids"] = 1634,
         ["kill_count"] = 27,
-        ["points"] = 9097.8,
+        ["points"] = 9097.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1068,
@@ -5950,9 +5950,9 @@ UWULogsData[5][1] = {
         ["points"] = 9799.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 879,
+        ["rank_raids"] = 880,
         ["kill_count"] = 25,
-        ["points"] = 9411.5,
+        ["points"] = 9411.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1050,
@@ -5970,9 +5970,9 @@ UWULogsData[5][1] = {
         ["points"] = 9948.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2050,
+        ["rank_raids"] = 2051,
         ["kill_count"] = 27,
-        ["points"] = 8936.0,
+        ["points"] = 8935.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1588,
@@ -5987,7 +5987,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Bubleblaster"] = {
-    ["percentile"] = 94.5,
+    ["percentile"] = 94.49,
     ["server"] = "Icecrown",
     ["overall_rank"] = 106,
     ["bosses"] = {
@@ -6007,9 +6007,9 @@ UWULogsData[5][1] = {
         ["points"] = 9543.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 965,
+        ["rank_raids"] = 966,
         ["kill_count"] = 15,
-        ["points"] = 9368.5,
+        ["points"] = 9368.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 208,
@@ -6027,9 +6027,9 @@ UWULogsData[5][1] = {
         ["points"] = 9892.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2086,
+        ["rank_raids"] = 2087,
         ["kill_count"] = 15,
-        ["points"] = 8925.2,
+        ["points"] = 8924.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1525,
@@ -6064,9 +6064,9 @@ UWULogsData[5][1] = {
         ["points"] = 9826.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1048,
+        ["rank_raids"] = 1049,
         ["kill_count"] = 3,
-        ["points"] = 9331.8,
+        ["points"] = 9331.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1020,
@@ -6084,9 +6084,9 @@ UWULogsData[5][1] = {
         ["points"] = 9889.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2573,
+        ["rank_raids"] = 2574,
         ["kill_count"] = 12,
-        ["points"] = 8779.1,
+        ["points"] = 8778.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2834,
@@ -6136,14 +6136,14 @@ UWULogsData[5][1] = {
         ["points"] = 9607.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4982,
+        ["rank_raids"] = 4983,
         ["kill_count"] = 22,
-        ["points"] = 8056.4,
+        ["points"] = 8056.1,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 286,
         ["kill_count"] = 24,
-        ["points"] = 9745.37,
+        ["points"] = 9745.41,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 263,
@@ -6178,9 +6178,9 @@ UWULogsData[5][1] = {
         ["points"] = 9715.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 587,
+        ["rank_raids"] = 588,
         ["kill_count"] = 15,
-        ["points"] = 9557.5,
+        ["points"] = 9557.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 538,
@@ -6200,7 +6200,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 498,
         ["kill_count"] = 29,
-        ["points"] = 9611.11,
+        ["points"] = 9611.17,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4143,
@@ -6220,9 +6220,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 110,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5421,
+        ["rank_raids"] = 5422,
         ["kill_count"] = 22,
-        ["points"] = 7924.7,
+        ["points"] = 7924.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 149,
@@ -6250,9 +6250,9 @@ UWULogsData[5][1] = {
         ["points"] = 9714.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5479,
+        ["rank_raids"] = 5480,
         ["kill_count"] = 24,
-        ["points"] = 7907.3,
+        ["points"] = 7907.0,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 111,
@@ -6292,9 +6292,9 @@ UWULogsData[5][1] = {
         ["points"] = 8985.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1951,
+        ["rank_raids"] = 1952,
         ["kill_count"] = 20,
-        ["points"] = 8970.6,
+        ["points"] = 8970.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 787,
@@ -6312,9 +6312,9 @@ UWULogsData[5][1] = {
         ["points"] = 9267.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 980,
+        ["rank_raids"] = 981,
         ["kill_count"] = 29,
-        ["points"] = 9361.0,
+        ["points"] = 9360.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 339,
@@ -6334,9 +6334,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 112,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5295,
+        ["rank_raids"] = 5296,
         ["kill_count"] = 4,
-        ["points"] = 7962.5,
+        ["points"] = 7962.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 158,
@@ -6349,9 +6349,9 @@ UWULogsData[5][1] = {
         ["points"] = 9693.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 233,
+        ["rank_raids"] = 234,
         ["kill_count"] = 5,
-        ["points"] = 9784.6,
+        ["points"] = 9783.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1101,
@@ -6371,7 +6371,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 225,
         ["kill_count"] = 5,
-        ["points"] = 9791.67,
+        ["points"] = 9791.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 277,
@@ -6426,9 +6426,9 @@ UWULogsData[5][1] = {
         ["points"] = 9486.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1754,
+        ["rank_raids"] = 1755,
         ["kill_count"] = 17,
-        ["points"] = 9049.4,
+        ["points"] = 9049.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1638,
@@ -6463,9 +6463,9 @@ UWULogsData[5][1] = {
         ["points"] = 9525.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1312,
+        ["rank_raids"] = 1313,
         ["kill_count"] = 14,
-        ["points"] = 9226.2,
+        ["points"] = 9225.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1371,
@@ -6483,9 +6483,9 @@ UWULogsData[5][1] = {
         ["points"] = 9749.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2521,
+        ["rank_raids"] = 2522,
         ["kill_count"] = 16,
-        ["points"] = 8794.7,
+        ["points"] = 8794.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 366,
@@ -6505,9 +6505,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 115,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6701,
+        ["rank_raids"] = 6702,
         ["kill_count"] = 14,
-        ["points"] = 7540.7,
+        ["points"] = 7540.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 219,
@@ -6520,9 +6520,9 @@ UWULogsData[5][1] = {
         ["points"] = 9430.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1121,
+        ["rank_raids"] = 1122,
         ["kill_count"] = 16,
-        ["points"] = 9302.6,
+        ["points"] = 9302.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 157,
@@ -6540,9 +6540,9 @@ UWULogsData[5][1] = {
         ["points"] = 9981.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 868,
+        ["rank_raids"] = 869,
         ["kill_count"] = 25,
-        ["points"] = 9417.0,
+        ["points"] = 9416.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 649,
@@ -6577,9 +6577,9 @@ UWULogsData[5][1] = {
         ["points"] = 9110.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2049,
+        ["rank_raids"] = 2050,
         ["kill_count"] = 23,
-        ["points"] = 8936.3,
+        ["points"] = 8936.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 685,
@@ -6597,9 +6597,9 @@ UWULogsData[5][1] = {
         ["points"] = 9768.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 675,
+        ["rank_raids"] = 676,
         ["kill_count"] = 27,
-        ["points"] = 9513.5,
+        ["points"] = 9513.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 196,
@@ -6619,9 +6619,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 117,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5071,
+        ["rank_raids"] = 5072,
         ["kill_count"] = 10,
-        ["points"] = 8029.7,
+        ["points"] = 8029.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 109,
@@ -6634,9 +6634,9 @@ UWULogsData[5][1] = {
         ["points"] = 9856.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2091,
+        ["rank_raids"] = 2092,
         ["kill_count"] = 14,
-        ["points"] = 8923.7,
+        ["points"] = 8923.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2235,
@@ -6654,9 +6654,9 @@ UWULogsData[5][1] = {
         ["points"] = 9521.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 606,
+        ["rank_raids"] = 607,
         ["kill_count"] = 22,
-        ["points"] = 9548.0,
+        ["points"] = 9547.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 142,
@@ -6691,9 +6691,9 @@ UWULogsData[5][1] = {
         ["points"] = 9743.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 248,
+        ["rank_raids"] = 249,
         ["kill_count"] = 4,
-        ["points"] = 9772.6,
+        ["points"] = 9771.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 166,
@@ -6711,9 +6711,9 @@ UWULogsData[5][1] = {
         ["points"] = 9438.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1591,
+        ["rank_raids"] = 1592,
         ["kill_count"] = 4,
-        ["points"] = 9114.6,
+        ["points"] = 9114.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 521,
@@ -6748,9 +6748,9 @@ UWULogsData[5][1] = {
         ["points"] = 9885.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1625,
+        ["rank_raids"] = 1626,
         ["kill_count"] = 7,
-        ["points"] = 9101.0,
+        ["points"] = 9100.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 506,
@@ -6768,9 +6768,9 @@ UWULogsData[5][1] = {
         ["points"] = 9644.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2363,
+        ["rank_raids"] = 2364,
         ["kill_count"] = 9,
-        ["points"] = 8842.1,
+        ["points"] = 8841.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2229,
@@ -6790,9 +6790,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 120,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9193,
+        ["rank_raids"] = 9196,
         ["kill_count"] = 1,
-        ["points"] = 6793.1,
+        ["points"] = 6792.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 145,
@@ -6805,9 +6805,9 @@ UWULogsData[5][1] = {
         ["points"] = 9743.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 218,
+        ["rank_raids"] = 219,
         ["kill_count"] = 2,
-        ["points"] = 9796.6,
+        ["points"] = 9795.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 411,
@@ -6862,9 +6862,9 @@ UWULogsData[5][1] = {
         ["points"] = 9274.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 267,
+        ["rank_raids"] = 268,
         ["kill_count"] = 3,
-        ["points"] = 9757.4,
+        ["points"] = 9756.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3331,
@@ -6882,9 +6882,9 @@ UWULogsData[5][1] = {
         ["points"] = 8899.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1190,
+        ["rank_raids"] = 1191,
         ["kill_count"] = 2,
-        ["points"] = 9275.0,
+        ["points"] = 9274.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 377,
@@ -6919,9 +6919,9 @@ UWULogsData[5][1] = {
         ["points"] = 9957.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 693,
+        ["rank_raids"] = 694,
         ["kill_count"] = 19,
-        ["points"] = 9504.5,
+        ["points"] = 9504.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1209,
@@ -6939,9 +6939,9 @@ UWULogsData[5][1] = {
         ["points"] = 9619.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2347,
+        ["rank_raids"] = 2348,
         ["kill_count"] = 23,
-        ["points"] = 8846.9,
+        ["points"] = 8846.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2184,
@@ -6961,9 +6961,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 123,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8216,
+        ["rank_raids"] = 8219,
         ["kill_count"] = 5,
-        ["points"] = 7086.2,
+        ["points"] = 7085.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 309,
@@ -6976,9 +6976,9 @@ UWULogsData[5][1] = {
         ["points"] = 9575.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 343,
+        ["rank_raids"] = 344,
         ["kill_count"] = 7,
-        ["points"] = 9700.9,
+        ["points"] = 9700.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 537,
@@ -6998,7 +6998,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 430,
         ["kill_count"] = 8,
-        ["points"] = 9651.23,
+        ["points"] = 9651.29,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 340,
@@ -7033,9 +7033,9 @@ UWULogsData[5][1] = {
         ["points"] = 9411.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 567,
+        ["rank_raids"] = 568,
         ["kill_count"] = 11,
-        ["points"] = 9567.5,
+        ["points"] = 9567.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 566,
@@ -7053,9 +7053,9 @@ UWULogsData[5][1] = {
         ["points"] = 9584.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1513,
+        ["rank_raids"] = 1514,
         ["kill_count"] = 18,
-        ["points"] = 9145.8,
+        ["points"] = 9145.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 257,
@@ -7090,9 +7090,9 @@ UWULogsData[5][1] = {
         ["points"] = 9277.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1023,
+        ["rank_raids"] = 1024,
         ["kill_count"] = 35,
-        ["points"] = 9341.8,
+        ["points"] = 9341.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 798,
@@ -7110,9 +7110,9 @@ UWULogsData[5][1] = {
         ["points"] = 9767.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2126,
+        ["rank_raids"] = 2127,
         ["kill_count"] = 52,
-        ["points"] = 8913.2,
+        ["points"] = 8912.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 772,
@@ -7147,9 +7147,9 @@ UWULogsData[5][1] = {
         ["points"] = 9581.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 525,
+        ["rank_raids"] = 526,
         ["kill_count"] = 10,
-        ["points"] = 9588.5,
+        ["points"] = 9588.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 321,
@@ -7167,9 +7167,9 @@ UWULogsData[5][1] = {
         ["points"] = 9719.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 768,
+        ["rank_raids"] = 769,
         ["kill_count"] = 10,
-        ["points"] = 9467.0,
+        ["points"] = 9466.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2588,
@@ -7204,9 +7204,9 @@ UWULogsData[5][1] = {
         ["points"] = 9912.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 798,
+        ["rank_raids"] = 799,
         ["kill_count"] = 20,
-        ["points"] = 9452.0,
+        ["points"] = 9451.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 915,
@@ -7224,9 +7224,9 @@ UWULogsData[5][1] = {
         ["points"] = 9647.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1746,
+        ["rank_raids"] = 1747,
         ["kill_count"] = 36,
-        ["points"] = 9052.6,
+        ["points"] = 9052.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 700,
@@ -7246,9 +7246,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 128,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6809,
+        ["rank_raids"] = 6810,
         ["kill_count"] = 18,
-        ["points"] = 7508.3,
+        ["points"] = 7508.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 99,
@@ -7261,9 +7261,9 @@ UWULogsData[5][1] = {
         ["points"] = 8743.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 412,
+        ["rank_raids"] = 413,
         ["kill_count"] = 14,
-        ["points"] = 9653.8,
+        ["points"] = 9653.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 236,
@@ -7318,9 +7318,9 @@ UWULogsData[5][1] = {
         ["points"] = 9521.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1934,
+        ["rank_raids"] = 1935,
         ["kill_count"] = 33,
-        ["points"] = 8977.4,
+        ["points"] = 8977.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 639,
@@ -7338,9 +7338,9 @@ UWULogsData[5][1] = {
         ["points"] = 9923.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1789,
+        ["rank_raids"] = 1790,
         ["kill_count"] = 33,
-        ["points"] = 9035.4,
+        ["points"] = 9035.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1194,
@@ -7375,9 +7375,9 @@ UWULogsData[5][1] = {
         ["points"] = 9540.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1033,
+        ["rank_raids"] = 1034,
         ["kill_count"] = 9,
-        ["points"] = 9337.8,
+        ["points"] = 9337.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 453,
@@ -7395,9 +7395,9 @@ UWULogsData[5][1] = {
         ["points"] = 8731.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1058,
+        ["rank_raids"] = 1059,
         ["kill_count"] = 12,
-        ["points"] = 9327.8,
+        ["points"] = 9327.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 650,
@@ -7432,9 +7432,9 @@ UWULogsData[5][1] = {
         ["points"] = 9097.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 339,
+        ["rank_raids"] = 340,
         ["kill_count"] = 12,
-        ["points"] = 9703.7,
+        ["points"] = 9703.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2485,
@@ -7452,9 +7452,9 @@ UWULogsData[5][1] = {
         ["points"] = 9415.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 974,
+        ["rank_raids"] = 975,
         ["kill_count"] = 9,
-        ["points"] = 9364.0,
+        ["points"] = 9363.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 27,
@@ -7489,9 +7489,9 @@ UWULogsData[5][1] = {
         ["points"] = 9363.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2957,
+        ["rank_raids"] = 2958,
         ["kill_count"] = 3,
-        ["points"] = 8663.9,
+        ["points"] = 8663.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 586,
@@ -7509,9 +7509,9 @@ UWULogsData[5][1] = {
         ["points"] = 9685.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1878,
+        ["rank_raids"] = 1879,
         ["kill_count"] = 8,
-        ["points"] = 8999.8,
+        ["points"] = 8999.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 544,
@@ -7546,9 +7546,9 @@ UWULogsData[5][1] = {
         ["points"] = 9437.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 838,
+        ["rank_raids"] = 839,
         ["kill_count"] = 17,
-        ["points"] = 9432.0,
+        ["points"] = 9431.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1179,
@@ -7566,9 +7566,9 @@ UWULogsData[5][1] = {
         ["points"] = 9917.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 725,
+        ["rank_raids"] = 726,
         ["kill_count"] = 27,
-        ["points"] = 9488.5,
+        ["points"] = 9488.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 892,
@@ -7583,7 +7583,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Shreddasaur"] = {
-    ["percentile"] = 93.82,
+    ["percentile"] = 93.81,
     ["server"] = "Icecrown",
     ["overall_rank"] = 134,
     ["bosses"] = {
@@ -7603,14 +7603,14 @@ UWULogsData[5][1] = {
         ["points"] = 9804.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 391,
+        ["rank_raids"] = 392,
         ["kill_count"] = 2,
-        ["points"] = 9667.3,
+        ["points"] = 9666.6,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9516,
+        ["rank_raids"] = 9518,
         ["kill_count"] = 2,
-        ["points"] = 6696.2,
+        ["points"] = 6695.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 37,
@@ -7625,7 +7625,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 448,
         ["kill_count"] = 2,
-        ["points"] = 9638.89,
+        ["points"] = 9638.94,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 13,
@@ -7660,9 +7660,9 @@ UWULogsData[5][1] = {
         ["points"] = 9904.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1812,
+        ["rank_raids"] = 1813,
         ["kill_count"] = 18,
-        ["points"] = 9026.2,
+        ["points"] = 9025.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 348,
@@ -7680,9 +7680,9 @@ UWULogsData[5][1] = {
         ["points"] = 9866.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2981,
+        ["rank_raids"] = 2982,
         ["kill_count"] = 19,
-        ["points"] = 8656.7,
+        ["points"] = 8656.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3043,
@@ -7722,9 +7722,9 @@ UWULogsData[5][1] = {
         ["points"] = 9919.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 11905,
+        ["rank_raids"] = 11907,
         ["kill_count"] = 2,
-        ["points"] = 6360.5,
+        ["points"] = 6360.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 78,
@@ -7774,9 +7774,9 @@ UWULogsData[5][1] = {
         ["points"] = 9974.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1071,
+        ["rank_raids"] = 1072,
         ["kill_count"] = 8,
-        ["points"] = 9322.6,
+        ["points"] = 9322.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 804,
@@ -7794,9 +7794,9 @@ UWULogsData[5][1] = {
         ["points"] = 9725.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1011,
+        ["rank_raids"] = 1012,
         ["kill_count"] = 21,
-        ["points"] = 9346.6,
+        ["points"] = 9346.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1746,
@@ -7831,9 +7831,9 @@ UWULogsData[5][1] = {
         ["points"] = 9501.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 906,
+        ["rank_raids"] = 907,
         ["kill_count"] = 19,
-        ["points"] = 9398.0,
+        ["points"] = 9397.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1313,
@@ -7851,9 +7851,9 @@ UWULogsData[5][1] = {
         ["points"] = 9654.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2194,
+        ["rank_raids"] = 2195,
         ["kill_count"] = 24,
-        ["points"] = 8892.8,
+        ["points"] = 8892.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 363,
@@ -7888,9 +7888,9 @@ UWULogsData[5][1] = {
         ["points"] = 9485.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2160,
+        ["rank_raids"] = 2161,
         ["kill_count"] = 15,
-        ["points"] = 8903.0,
+        ["points"] = 8902.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3655,
@@ -7908,9 +7908,9 @@ UWULogsData[5][1] = {
         ["points"] = 9743.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 710,
+        ["rank_raids"] = 711,
         ["kill_count"] = 14,
-        ["points"] = 9496.0,
+        ["points"] = 9495.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 126,
@@ -7945,9 +7945,9 @@ UWULogsData[5][1] = {
         ["points"] = 9404.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 823,
+        ["rank_raids"] = 824,
         ["kill_count"] = 16,
-        ["points"] = 9439.5,
+        ["points"] = 9439.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 874,
@@ -7965,9 +7965,9 @@ UWULogsData[5][1] = {
         ["points"] = 9454.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1267,
+        ["rank_raids"] = 1268,
         ["kill_count"] = 19,
-        ["points"] = 9244.2,
+        ["points"] = 9243.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 978,
@@ -8002,9 +8002,9 @@ UWULogsData[5][1] = {
         ["points"] = 9419.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2894,
+        ["rank_raids"] = 2895,
         ["kill_count"] = 8,
-        ["points"] = 8682.8,
+        ["points"] = 8682.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 122,
@@ -8024,7 +8024,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 209,
         ["kill_count"] = 9,
-        ["points"] = 9804.01,
+        ["points"] = 9804.04,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1218,
@@ -8059,9 +8059,9 @@ UWULogsData[5][1] = {
         ["points"] = 9410.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 528,
+        ["rank_raids"] = 529,
         ["kill_count"] = 11,
-        ["points"] = 9587.0,
+        ["points"] = 9586.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 495,
@@ -8079,9 +8079,9 @@ UWULogsData[5][1] = {
         ["points"] = 9686.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2576,
+        ["rank_raids"] = 2577,
         ["kill_count"] = 12,
-        ["points"] = 8778.2,
+        ["points"] = 8777.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1334,
@@ -8116,9 +8116,9 @@ UWULogsData[5][1] = {
         ["points"] = 9928.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 862,
+        ["rank_raids"] = 863,
         ["kill_count"] = 3,
-        ["points"] = 9420.0,
+        ["points"] = 9419.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 417,
@@ -8136,9 +8136,9 @@ UWULogsData[5][1] = {
         ["points"] = 8929.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7206,
+        ["rank_raids"] = 7207,
         ["kill_count"] = 5,
-        ["points"] = 7389.2,
+        ["points"] = 7388.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 191,
@@ -8173,9 +8173,9 @@ UWULogsData[5][1] = {
         ["points"] = 8741.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 426,
+        ["rank_raids"] = 427,
         ["kill_count"] = 20,
-        ["points"] = 9645.4,
+        ["points"] = 9644.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 520,
@@ -8195,7 +8195,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 345,
         ["kill_count"] = 24,
-        ["points"] = 9703.7,
+        ["points"] = 9703.75,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2390,
@@ -8230,9 +8230,9 @@ UWULogsData[5][1] = {
         ["points"] = 9491.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 959,
+        ["rank_raids"] = 960,
         ["kill_count"] = 30,
-        ["points"] = 9371.5,
+        ["points"] = 9371.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1759,
@@ -8250,9 +8250,9 @@ UWULogsData[5][1] = {
         ["points"] = 9339.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2213,
+        ["rank_raids"] = 2214,
         ["kill_count"] = 35,
-        ["points"] = 8887.1,
+        ["points"] = 8886.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 325,
@@ -8287,9 +8287,9 @@ UWULogsData[5][1] = {
         ["points"] = 9491.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1561,
+        ["rank_raids"] = 1562,
         ["kill_count"] = 5,
-        ["points"] = 9126.6,
+        ["points"] = 9126.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1149,
@@ -8307,9 +8307,9 @@ UWULogsData[5][1] = {
         ["points"] = 9661.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2313,
+        ["rank_raids"] = 2314,
         ["kill_count"] = 11,
-        ["points"] = 8857.1,
+        ["points"] = 8856.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 597,
@@ -8324,7 +8324,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Rynardisc"] = {
-    ["percentile"] = 93.58,
+    ["percentile"] = 93.57,
     ["server"] = "Icecrown",
     ["overall_rank"] = 147,
     ["bosses"] = {
@@ -8344,9 +8344,9 @@ UWULogsData[5][1] = {
         ["points"] = 9422.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 419,
+        ["rank_raids"] = 420,
         ["kill_count"] = 6,
-        ["points"] = 9649.6,
+        ["points"] = 9649.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 674,
@@ -8359,14 +8359,14 @@ UWULogsData[5][1] = {
         ["points"] = 9820.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6867,
+        ["rank_raids"] = 6868,
         ["kill_count"] = 7,
-        ["points"] = 7490.9,
+        ["points"] = 7490.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 713,
+        ["rank_raids"] = 714,
         ["kill_count"] = 7,
-        ["points"] = 9494.5,
+        ["points"] = 9494.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 533,
@@ -8401,9 +8401,9 @@ UWULogsData[5][1] = {
         ["points"] = 9329.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1430,
+        ["rank_raids"] = 1431,
         ["kill_count"] = 15,
-        ["points"] = 9179.0,
+        ["points"] = 9178.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 846,
@@ -8421,9 +8421,9 @@ UWULogsData[5][1] = {
         ["points"] = 9695.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1305,
+        ["rank_raids"] = 1306,
         ["kill_count"] = 24,
-        ["points"] = 9229.0,
+        ["points"] = 9228.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 738,
@@ -8458,9 +8458,9 @@ UWULogsData[5][1] = {
         ["points"] = 9340.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 452,
+        ["rank_raids"] = 453,
         ["kill_count"] = 8,
-        ["points"] = 9629.8,
+        ["points"] = 9629.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1151,
@@ -8480,7 +8480,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 504,
         ["kill_count"] = 8,
-        ["points"] = 9609.57,
+        ["points"] = 9609.63,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4451,
@@ -8515,9 +8515,9 @@ UWULogsData[5][1] = {
         ["points"] = 9347.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 674,
+        ["rank_raids"] = 675,
         ["kill_count"] = 11,
-        ["points"] = 9514.0,
+        ["points"] = 9513.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 840,
@@ -8535,9 +8535,9 @@ UWULogsData[5][1] = {
         ["points"] = 8922.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 631,
+        ["rank_raids"] = 632,
         ["kill_count"] = 14,
-        ["points"] = 9535.5,
+        ["points"] = 9535.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 826,
@@ -8572,9 +8572,9 @@ UWULogsData[5][1] = {
         ["points"] = 9381.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 653,
+        ["rank_raids"] = 654,
         ["kill_count"] = 23,
-        ["points"] = 9524.5,
+        ["points"] = 9524.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 824,
@@ -8592,9 +8592,9 @@ UWULogsData[5][1] = {
         ["points"] = 9677.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1603,
+        ["rank_raids"] = 1604,
         ["kill_count"] = 29,
-        ["points"] = 9109.8,
+        ["points"] = 9109.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 806,
@@ -8629,9 +8629,9 @@ UWULogsData[5][1] = {
         ["points"] = 9603.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 628,
+        ["rank_raids"] = 629,
         ["kill_count"] = 12,
-        ["points"] = 9537.0,
+        ["points"] = 9536.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 830,
@@ -8649,9 +8649,9 @@ UWULogsData[5][1] = {
         ["points"] = 9671.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3252,
+        ["rank_raids"] = 3253,
         ["kill_count"] = 17,
-        ["points"] = 8575.4,
+        ["points"] = 8575.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 867,
@@ -8686,9 +8686,9 @@ UWULogsData[5][1] = {
         ["points"] = 9299.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2871,
+        ["rank_raids"] = 2872,
         ["kill_count"] = 8,
-        ["points"] = 8689.7,
+        ["points"] = 8689.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 336,
@@ -8708,7 +8708,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 293,
         ["kill_count"] = 17,
-        ["points"] = 9740.74,
+        ["points"] = 9740.78,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1078,
@@ -8743,9 +8743,9 @@ UWULogsData[5][1] = {
         ["points"] = 9763.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2006,
+        ["rank_raids"] = 2007,
         ["kill_count"] = 24,
-        ["points"] = 8949.2,
+        ["points"] = 8948.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 986,
@@ -8763,9 +8763,9 @@ UWULogsData[5][1] = {
         ["points"] = 9454.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1479,
+        ["rank_raids"] = 1480,
         ["kill_count"] = 39,
-        ["points"] = 9159.4,
+        ["points"] = 9159.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 437,
@@ -8800,9 +8800,9 @@ UWULogsData[5][1] = {
         ["points"] = 9950.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2129,
+        ["rank_raids"] = 2130,
         ["kill_count"] = 25,
-        ["points"] = 8912.3,
+        ["points"] = 8912.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1420,
@@ -8820,9 +8820,9 @@ UWULogsData[5][1] = {
         ["points"] = 9336.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2580,
+        ["rank_raids"] = 2581,
         ["kill_count"] = 27,
-        ["points"] = 8777.0,
+        ["points"] = 8776.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 878,
@@ -8842,9 +8842,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 156,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5567,
+        ["rank_raids"] = 5568,
         ["kill_count"] = 5,
-        ["points"] = 7880.9,
+        ["points"] = 7880.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 73,
@@ -8852,14 +8852,14 @@ UWULogsData[5][1] = {
         ["points"] = 9928.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4296,
+        ["rank_raids"] = 4298,
         ["kill_count"] = 2,
-        ["points"] = 8262.2,
+        ["points"] = 8261.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 375,
+        ["rank_raids"] = 376,
         ["kill_count"] = 7,
-        ["points"] = 9678.5,
+        ["points"] = 9677.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 258,
@@ -8877,9 +8877,9 @@ UWULogsData[5][1] = {
         ["points"] = 9371.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1032,
+        ["rank_raids"] = 1033,
         ["kill_count"] = 8,
-        ["points"] = 9338.2,
+        ["points"] = 9337.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 219,
@@ -8899,9 +8899,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 157,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5816,
+        ["rank_raids"] = 5817,
         ["kill_count"] = 10,
-        ["points"] = 7806.2,
+        ["points"] = 7805.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 187,
@@ -8914,9 +8914,9 @@ UWULogsData[5][1] = {
         ["points"] = 9490.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 434,
+        ["rank_raids"] = 435,
         ["kill_count"] = 11,
-        ["points"] = 9640.6,
+        ["points"] = 9640.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2466,
@@ -8929,9 +8929,9 @@ UWULogsData[5][1] = {
         ["points"] = 9708.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3441,
+        ["rank_raids"] = 3442,
         ["kill_count"] = 12,
-        ["points"] = 8518.7,
+        ["points"] = 8518.4,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 128,
@@ -8971,9 +8971,9 @@ UWULogsData[5][1] = {
         ["points"] = 9539.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 683,
+        ["rank_raids"] = 684,
         ["kill_count"] = 13,
-        ["points"] = 9509.5,
+        ["points"] = 9509.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 993,
@@ -8991,9 +8991,9 @@ UWULogsData[5][1] = {
         ["points"] = 9559.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2039,
+        ["rank_raids"] = 2040,
         ["kill_count"] = 17,
-        ["points"] = 8939.3,
+        ["points"] = 8939.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 792,
@@ -9013,9 +9013,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 159,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5904,
+        ["rank_raids"] = 5905,
         ["kill_count"] = 3,
-        ["points"] = 7779.8,
+        ["points"] = 7779.5,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 224,
@@ -9028,9 +9028,9 @@ UWULogsData[5][1] = {
         ["points"] = 8975.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1505,
+        ["rank_raids"] = 1506,
         ["kill_count"] = 3,
-        ["points"] = 9149.0,
+        ["points"] = 9148.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 544,
@@ -9085,9 +9085,9 @@ UWULogsData[5][1] = {
         ["points"] = 9353.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3311,
+        ["rank_raids"] = 3312,
         ["kill_count"] = 10,
-        ["points"] = 8557.7,
+        ["points"] = 8557.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 70,
@@ -9105,9 +9105,9 @@ UWULogsData[5][1] = {
         ["points"] = 9317.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1577,
+        ["rank_raids"] = 1578,
         ["kill_count"] = 17,
-        ["points"] = 9120.2,
+        ["points"] = 9119.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1053,
@@ -9142,9 +9142,9 @@ UWULogsData[5][1] = {
         ["points"] = 9561.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 966,
+        ["rank_raids"] = 967,
         ["kill_count"] = 14,
-        ["points"] = 9368.0,
+        ["points"] = 9367.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 172,
@@ -9162,9 +9162,9 @@ UWULogsData[5][1] = {
         ["points"] = 9903.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4619,
+        ["rank_raids"] = 4620,
         ["kill_count"] = 24,
-        ["points"] = 8165.3,
+        ["points"] = 8165.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1448,
@@ -9199,9 +9199,9 @@ UWULogsData[5][1] = {
         ["points"] = 9273.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 234,
+        ["rank_raids"] = 235,
         ["kill_count"] = 22,
-        ["points"] = 9783.8,
+        ["points"] = 9783.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 310,
@@ -9221,7 +9221,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 431,
         ["kill_count"] = 26,
-        ["points"] = 9649.69,
+        ["points"] = 9649.75,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 893,
@@ -9256,9 +9256,9 @@ UWULogsData[5][1] = {
         ["points"] = 9976.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1707,
+        ["rank_raids"] = 1708,
         ["kill_count"] = 13,
-        ["points"] = 9068.2,
+        ["points"] = 9067.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3074,
@@ -9276,9 +9276,9 @@ UWULogsData[5][1] = {
         ["points"] = 9969.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2327,
+        ["rank_raids"] = 2328,
         ["kill_count"] = 13,
-        ["points"] = 8852.9,
+        ["points"] = 8852.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 731,
@@ -9313,9 +9313,9 @@ UWULogsData[5][1] = {
         ["points"] = 9520.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1061,
+        ["rank_raids"] = 1062,
         ["kill_count"] = 41,
-        ["points"] = 9326.6,
+        ["points"] = 9326.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1166,
@@ -9333,9 +9333,9 @@ UWULogsData[5][1] = {
         ["points"] = 9240.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1471,
+        ["rank_raids"] = 1472,
         ["kill_count"] = 54,
-        ["points"] = 9162.6,
+        ["points"] = 9162.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2067,
@@ -9370,9 +9370,9 @@ UWULogsData[5][1] = {
         ["points"] = 9515.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 632,
+        ["rank_raids"] = 633,
         ["kill_count"] = 3,
-        ["points"] = 9535.0,
+        ["points"] = 9534.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2301,
@@ -9390,9 +9390,9 @@ UWULogsData[5][1] = {
         ["points"] = 9250.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 786,
+        ["rank_raids"] = 787,
         ["kill_count"] = 3,
-        ["points"] = 9458.0,
+        ["points"] = 9457.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 485,
@@ -9412,9 +9412,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 166,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 4751,
+        ["rank_raids"] = 4752,
         ["kill_count"] = 6,
-        ["points"] = 8125.7,
+        ["points"] = 8125.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1281,
@@ -9442,9 +9442,9 @@ UWULogsData[5][1] = {
         ["points"] = 9556.5,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6880,
+        ["rank_raids"] = 6881,
         ["kill_count"] = 4,
-        ["points"] = 7487.0,
+        ["points"] = 7486.7,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 216,
@@ -9504,9 +9504,9 @@ UWULogsData[5][1] = {
         ["points"] = 9033.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1249,
+        ["rank_raids"] = 1250,
         ["kill_count"] = 8,
-        ["points"] = 9251.4,
+        ["points"] = 9251.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 331,
@@ -9541,9 +9541,9 @@ UWULogsData[5][1] = {
         ["points"] = 9331.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1307,
+        ["rank_raids"] = 1308,
         ["kill_count"] = 9,
-        ["points"] = 9228.2,
+        ["points"] = 9227.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2635,
@@ -9561,9 +9561,9 @@ UWULogsData[5][1] = {
         ["points"] = 9368.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 587,
+        ["rank_raids"] = 588,
         ["kill_count"] = 19,
-        ["points"] = 9557.5,
+        ["points"] = 9557.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1159,
@@ -9598,9 +9598,9 @@ UWULogsData[5][1] = {
         ["points"] = 9451.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2195,
+        ["rank_raids"] = 2196,
         ["kill_count"] = 6,
-        ["points"] = 8892.5,
+        ["points"] = 8892.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1104,
@@ -9618,9 +9618,9 @@ UWULogsData[5][1] = {
         ["points"] = 9733.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1436,
+        ["rank_raids"] = 1437,
         ["kill_count"] = 16,
-        ["points"] = 9176.6,
+        ["points"] = 9176.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2106,
@@ -9655,9 +9655,9 @@ UWULogsData[5][1] = {
         ["points"] = 9473.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 552,
+        ["rank_raids"] = 553,
         ["kill_count"] = 18,
-        ["points"] = 9575.0,
+        ["points"] = 9574.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 288,
@@ -9675,9 +9675,9 @@ UWULogsData[5][1] = {
         ["points"] = 9773.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2818,
+        ["rank_raids"] = 2819,
         ["kill_count"] = 18,
-        ["points"] = 8705.6,
+        ["points"] = 8705.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2413,
@@ -9712,9 +9712,9 @@ UWULogsData[5][1] = {
         ["points"] = 9462.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 694,
+        ["rank_raids"] = 695,
         ["kill_count"] = 18,
-        ["points"] = 9504.0,
+        ["points"] = 9503.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 912,
@@ -9732,9 +9732,9 @@ UWULogsData[5][1] = {
         ["points"] = 9916.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3551,
+        ["rank_raids"] = 3552,
         ["kill_count"] = 19,
-        ["points"] = 8485.7,
+        ["points"] = 8485.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 922,
@@ -9769,9 +9769,9 @@ UWULogsData[5][1] = {
         ["points"] = 9589.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 833,
+        ["rank_raids"] = 834,
         ["kill_count"] = 23,
-        ["points"] = 9434.5,
+        ["points"] = 9434.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 831,
@@ -9789,9 +9789,9 @@ UWULogsData[5][1] = {
         ["points"] = 9698.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2919,
+        ["rank_raids"] = 2920,
         ["kill_count"] = 29,
-        ["points"] = 8675.3,
+        ["points"] = 8675.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 802,
@@ -9826,9 +9826,9 @@ UWULogsData[5][1] = {
         ["points"] = 9323.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1708,
+        ["rank_raids"] = 1709,
         ["kill_count"] = 20,
-        ["points"] = 9067.8,
+        ["points"] = 9067.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1048,
@@ -9846,9 +9846,9 @@ UWULogsData[5][1] = {
         ["points"] = 9626.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1932,
+        ["rank_raids"] = 1933,
         ["kill_count"] = 20,
-        ["points"] = 8978.2,
+        ["points"] = 8977.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1196,
@@ -9863,7 +9863,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Hechizerxz"] = {
-    ["percentile"] = 93.15,
+    ["percentile"] = 93.14,
     ["server"] = "Icecrown",
     ["overall_rank"] = 174,
     ["bosses"] = {
@@ -9883,9 +9883,9 @@ UWULogsData[5][1] = {
         ["points"] = 8732.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1471,
+        ["rank_raids"] = 1472,
         ["kill_count"] = 14,
-        ["points"] = 9162.6,
+        ["points"] = 9162.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1265,
@@ -9903,9 +9903,9 @@ UWULogsData[5][1] = {
         ["points"] = 9952.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3534,
+        ["rank_raids"] = 3535,
         ["kill_count"] = 25,
-        ["points"] = 8490.8,
+        ["points"] = 8490.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 381,
@@ -9940,9 +9940,9 @@ UWULogsData[5][1] = {
         ["points"] = 9663.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 863,
+        ["rank_raids"] = 864,
         ["kill_count"] = 11,
-        ["points"] = 9419.5,
+        ["points"] = 9419.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 226,
@@ -9960,9 +9960,9 @@ UWULogsData[5][1] = {
         ["points"] = 9609.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2747,
+        ["rank_raids"] = 2748,
         ["kill_count"] = 12,
-        ["points"] = 8726.9,
+        ["points"] = 8726.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7414,
@@ -9997,9 +9997,9 @@ UWULogsData[5][1] = {
         ["points"] = 9090.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1077,
+        ["rank_raids"] = 1078,
         ["kill_count"] = 11,
-        ["points"] = 9320.2,
+        ["points"] = 9319.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1184,
@@ -10017,9 +10017,9 @@ UWULogsData[5][1] = {
         ["points"] = 9342.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1478,
+        ["rank_raids"] = 1479,
         ["kill_count"] = 11,
-        ["points"] = 9159.8,
+        ["points"] = 9159.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1109,
@@ -10034,7 +10034,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Jhenna"] = {
-    ["percentile"] = 93.12,
+    ["percentile"] = 93.11,
     ["server"] = "Icecrown",
     ["overall_rank"] = 177,
     ["bosses"] = {
@@ -10049,9 +10049,9 @@ UWULogsData[5][1] = {
         ["points"] = 9994.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6624,
+        ["rank_raids"] = 6627,
         ["kill_count"] = 2,
-        ["points"] = 7563.8,
+        ["points"] = 7562.9,
       },
       ["Festergut"] = {
         ["rank_raids"] = 6,
@@ -10059,9 +10059,9 @@ UWULogsData[5][1] = {
         ["points"] = 9995.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5794,
+        ["rank_raids"] = 5795,
         ["kill_count"] = 4,
-        ["points"] = 7812.8,
+        ["points"] = 7812.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3,
@@ -10084,14 +10084,14 @@ UWULogsData[5][1] = {
         ["points"] = 9999.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5939,
+        ["rank_raids"] = 5940,
         ["kill_count"] = 7,
-        ["points"] = 7769.3,
+        ["points"] = 7769.0,
       },
     },
   },
   ["Etriss"] = {
-    ["percentile"] = 93.12,
+    ["percentile"] = 93.11,
     ["server"] = "Icecrown",
     ["overall_rank"] = 178,
     ["bosses"] = {
@@ -10111,9 +10111,9 @@ UWULogsData[5][1] = {
         ["points"] = 9421.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 809,
+        ["rank_raids"] = 810,
         ["kill_count"] = 14,
-        ["points"] = 9446.5,
+        ["points"] = 9446.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 638,
@@ -10126,14 +10126,14 @@ UWULogsData[5][1] = {
         ["points"] = 9646.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5292,
+        ["rank_raids"] = 5293,
         ["kill_count"] = 11,
-        ["points"] = 7963.4,
+        ["points"] = 7963.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1333,
+        ["rank_raids"] = 1334,
         ["kill_count"] = 17,
-        ["points"] = 9217.8,
+        ["points"] = 9217.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 877,
@@ -10168,9 +10168,9 @@ UWULogsData[5][1] = {
         ["points"] = 9237.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1488,
+        ["rank_raids"] = 1489,
         ["kill_count"] = 5,
-        ["points"] = 9155.8,
+        ["points"] = 9155.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1066,
@@ -10188,9 +10188,9 @@ UWULogsData[5][1] = {
         ["points"] = 9261.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2370,
+        ["rank_raids"] = 2371,
         ["kill_count"] = 10,
-        ["points"] = 8840.0,
+        ["points"] = 8839.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1528,
@@ -10225,9 +10225,9 @@ UWULogsData[5][1] = {
         ["points"] = 9620.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1415,
+        ["rank_raids"] = 1416,
         ["kill_count"] = 8,
-        ["points"] = 9185.0,
+        ["points"] = 9184.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 502,
@@ -10245,9 +10245,9 @@ UWULogsData[5][1] = {
         ["points"] = 9905.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4840,
+        ["rank_raids"] = 4841,
         ["kill_count"] = 12,
-        ["points"] = 8099.0,
+        ["points"] = 8098.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 995,
@@ -10282,9 +10282,9 @@ UWULogsData[5][1] = {
         ["points"] = 9302.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 338,
+        ["rank_raids"] = 339,
         ["kill_count"] = 8,
-        ["points"] = 9704.4,
+        ["points"] = 9703.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1448,
@@ -10297,14 +10297,14 @@ UWULogsData[5][1] = {
         ["points"] = 9480.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7359,
+        ["rank_raids"] = 7360,
         ["kill_count"] = 6,
-        ["points"] = 7343.3,
+        ["points"] = 7343.0,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 509,
         ["kill_count"] = 9,
-        ["points"] = 9606.48,
+        ["points"] = 9606.54,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 563,
@@ -10339,9 +10339,9 @@ UWULogsData[5][1] = {
         ["points"] = 9436.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 941,
+        ["rank_raids"] = 942,
         ["kill_count"] = 19,
-        ["points"] = 9380.5,
+        ["points"] = 9380.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1123,
@@ -10359,9 +10359,9 @@ UWULogsData[5][1] = {
         ["points"] = 9532.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1489,
+        ["rank_raids"] = 1490,
         ["kill_count"] = 32,
-        ["points"] = 9155.4,
+        ["points"] = 9155.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1578,
@@ -10396,9 +10396,9 @@ UWULogsData[5][1] = {
         ["points"] = 9361.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1628,
+        ["rank_raids"] = 1629,
         ["kill_count"] = 36,
-        ["points"] = 9099.8,
+        ["points"] = 9099.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 775,
@@ -10416,9 +10416,9 @@ UWULogsData[5][1] = {
         ["points"] = 9895.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2648,
+        ["rank_raids"] = 2649,
         ["kill_count"] = 38,
-        ["points"] = 8756.6,
+        ["points"] = 8756.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1485,
@@ -10438,9 +10438,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 184,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5369,
+        ["rank_raids"] = 5370,
         ["kill_count"] = 4,
-        ["points"] = 7940.3,
+        ["points"] = 7940.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 113,
@@ -10453,9 +10453,9 @@ UWULogsData[5][1] = {
         ["points"] = 9783.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6049,
+        ["rank_raids"] = 6050,
         ["kill_count"] = 4,
-        ["points"] = 7736.3,
+        ["points"] = 7736.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 230,
@@ -10473,9 +10473,9 @@ UWULogsData[5][1] = {
         ["points"] = 9541.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 874,
+        ["rank_raids"] = 875,
         ["kill_count"] = 4,
-        ["points"] = 9414.0,
+        ["points"] = 9413.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 321,
@@ -10510,9 +10510,9 @@ UWULogsData[5][1] = {
         ["points"] = 9279.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1203,
+        ["rank_raids"] = 1204,
         ["kill_count"] = 12,
-        ["points"] = 9269.8,
+        ["points"] = 9269.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1054,
@@ -10530,9 +10530,9 @@ UWULogsData[5][1] = {
         ["points"] = 9160.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2250,
+        ["rank_raids"] = 2251,
         ["kill_count"] = 17,
-        ["points"] = 8876.0,
+        ["points"] = 8875.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 313,
@@ -10567,9 +10567,9 @@ UWULogsData[5][1] = {
         ["points"] = 9547.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1699,
+        ["rank_raids"] = 1700,
         ["kill_count"] = 18,
-        ["points"] = 9071.4,
+        ["points"] = 9071.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1700,
@@ -10587,9 +10587,9 @@ UWULogsData[5][1] = {
         ["points"] = 9537.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1862,
+        ["rank_raids"] = 1863,
         ["kill_count"] = 29,
-        ["points"] = 9006.2,
+        ["points"] = 9005.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1829,
@@ -10624,9 +10624,9 @@ UWULogsData[5][1] = {
         ["points"] = 9466.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1206,
+        ["rank_raids"] = 1207,
         ["kill_count"] = 22,
-        ["points"] = 9268.6,
+        ["points"] = 9268.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 763,
@@ -10644,9 +10644,9 @@ UWULogsData[5][1] = {
         ["points"] = 9481.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2822,
+        ["rank_raids"] = 2823,
         ["kill_count"] = 22,
-        ["points"] = 8704.4,
+        ["points"] = 8704.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1394,
@@ -10681,9 +10681,9 @@ UWULogsData[5][1] = {
         ["points"] = 9254.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1308,
+        ["rank_raids"] = 1309,
         ["kill_count"] = 22,
-        ["points"] = 9227.8,
+        ["points"] = 9227.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 788,
@@ -10701,9 +10701,9 @@ UWULogsData[5][1] = {
         ["points"] = 9734.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2234,
+        ["rank_raids"] = 2235,
         ["kill_count"] = 26,
-        ["points"] = 8880.8,
+        ["points"] = 8880.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1842,
@@ -10718,7 +10718,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Burrosor"] = {
-    ["percentile"] = 92.9,
+    ["percentile"] = 92.89,
     ["server"] = "Icecrown",
     ["overall_rank"] = 189,
     ["bosses"] = {
@@ -10738,9 +10738,9 @@ UWULogsData[5][1] = {
         ["points"] = 9343.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1021,
+        ["rank_raids"] = 1022,
         ["kill_count"] = 44,
-        ["points"] = 9342.6,
+        ["points"] = 9342.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 683,
@@ -10758,9 +10758,9 @@ UWULogsData[5][1] = {
         ["points"] = 9776.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2413,
+        ["rank_raids"] = 2414,
         ["kill_count"] = 47,
-        ["points"] = 8827.1,
+        ["points"] = 8826.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2617,
@@ -10775,7 +10775,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Fitt"] = {
-    ["percentile"] = 92.9,
+    ["percentile"] = 92.89,
     ["server"] = "Icecrown",
     ["overall_rank"] = 190,
     ["bosses"] = {
@@ -10795,9 +10795,9 @@ UWULogsData[5][1] = {
         ["points"] = 9425.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1279,
+        ["rank_raids"] = 1280,
         ["kill_count"] = 18,
-        ["points"] = 9239.4,
+        ["points"] = 9239.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1039,
@@ -10815,9 +10815,9 @@ UWULogsData[5][1] = {
         ["points"] = 9471.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4367,
+        ["rank_raids"] = 4368,
         ["kill_count"] = 25,
-        ["points"] = 8240.9,
+        ["points"] = 8240.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 476,
@@ -10837,9 +10837,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 191,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7761,
+        ["rank_raids"] = 7763,
         ["kill_count"] = 2,
-        ["points"] = 7222.7,
+        ["points"] = 7222.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 74,
@@ -10847,9 +10847,9 @@ UWULogsData[5][1] = {
         ["points"] = 9927.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7723,
+        ["rank_raids"] = 7726,
         ["kill_count"] = 4,
-        ["points"] = 7234.1,
+        ["points"] = 7233.2,
       },
       ["Festergut"] = {
         ["rank_raids"] = 53,
@@ -10874,7 +10874,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 320,
         ["kill_count"] = 8,
-        ["points"] = 9725.31,
+        ["points"] = 9725.35,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 323,
@@ -10909,9 +10909,9 @@ UWULogsData[5][1] = {
         ["points"] = 9356.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1192,
+        ["rank_raids"] = 1193,
         ["kill_count"] = 14,
-        ["points"] = 9274.2,
+        ["points"] = 9273.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 121,
@@ -10931,7 +10931,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 269,
         ["kill_count"] = 16,
-        ["points"] = 9759.26,
+        ["points"] = 9759.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1161,
@@ -10961,14 +10961,14 @@ UWULogsData[5][1] = {
         ["points"] = 9516.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6353,
+        ["rank_raids"] = 6356,
         ["kill_count"] = 2,
-        ["points"] = 7645.1,
+        ["points"] = 7644.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 935,
+        ["rank_raids"] = 936,
         ["kill_count"] = 7,
-        ["points"] = 9383.5,
+        ["points"] = 9383.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1341,
@@ -10981,9 +10981,9 @@ UWULogsData[5][1] = {
         ["points"] = 9947.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4425,
+        ["rank_raids"] = 4426,
         ["kill_count"] = 4,
-        ["points"] = 8223.5,
+        ["points"] = 8223.2,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 151,
@@ -11023,9 +11023,9 @@ UWULogsData[5][1] = {
         ["points"] = 9479.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1123,
+        ["rank_raids"] = 1124,
         ["kill_count"] = 8,
-        ["points"] = 9301.8,
+        ["points"] = 9301.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1644,
@@ -11043,9 +11043,9 @@ UWULogsData[5][1] = {
         ["points"] = 9957.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3772,
+        ["rank_raids"] = 3773,
         ["kill_count"] = 8,
-        ["points"] = 8419.4,
+        ["points"] = 8419.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2532,
@@ -11080,9 +11080,9 @@ UWULogsData[5][1] = {
         ["points"] = 9282.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 943,
+        ["rank_raids"] = 944,
         ["kill_count"] = 29,
-        ["points"] = 9379.5,
+        ["points"] = 9379.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 730,
@@ -11100,9 +11100,9 @@ UWULogsData[5][1] = {
         ["points"] = 9596.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1564,
+        ["rank_raids"] = 1565,
         ["kill_count"] = 32,
-        ["points"] = 9125.4,
+        ["points"] = 9125.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1261,
@@ -11142,9 +11142,9 @@ UWULogsData[5][1] = {
         ["points"] = 9973.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 10397,
+        ["rank_raids"] = 10399,
         ["kill_count"] = 6,
-        ["points"] = 6511.3,
+        ["points"] = 6511.1,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 75,
@@ -11152,14 +11152,14 @@ UWULogsData[5][1] = {
         ["points"] = 9926.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4115,
+        ["rank_raids"] = 4116,
         ["kill_count"] = 9,
-        ["points"] = 8316.5,
+        ["points"] = 8316.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 998,
+        ["rank_raids"] = 999,
         ["kill_count"] = 12,
-        ["points"] = 9352.0,
+        ["points"] = 9351.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 69,
@@ -11194,9 +11194,9 @@ UWULogsData[5][1] = {
         ["points"] = 9552.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1640,
+        ["rank_raids"] = 1641,
         ["kill_count"] = 8,
-        ["points"] = 9095.0,
+        ["points"] = 9094.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3340,
@@ -11216,7 +11216,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 318,
         ["kill_count"] = 8,
-        ["points"] = 9728.4,
+        ["points"] = 9728.44,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 111,
@@ -11251,9 +11251,9 @@ UWULogsData[5][1] = {
         ["points"] = 9633.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 581,
+        ["rank_raids"] = 582,
         ["kill_count"] = 10,
-        ["points"] = 9560.5,
+        ["points"] = 9560.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1778,
@@ -11293,9 +11293,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 199,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6957,
+        ["rank_raids"] = 6958,
         ["kill_count"] = 1,
-        ["points"] = 7463.9,
+        ["points"] = 7463.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1843,
@@ -11308,9 +11308,9 @@ UWULogsData[5][1] = {
         ["points"] = 9610.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 618,
+        ["rank_raids"] = 619,
         ["kill_count"] = 4,
-        ["points"] = 9542.0,
+        ["points"] = 9541.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2225,
@@ -11328,9 +11328,9 @@ UWULogsData[5][1] = {
         ["points"] = 9595.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 692,
+        ["rank_raids"] = 693,
         ["kill_count"] = 6,
-        ["points"] = 9505.0,
+        ["points"] = 9504.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 225,
@@ -11365,9 +11365,9 @@ UWULogsData[5][1] = {
         ["points"] = 9580.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1953,
+        ["rank_raids"] = 1954,
         ["kill_count"] = 15,
-        ["points"] = 8969.8,
+        ["points"] = 8969.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 138,
@@ -11387,7 +11387,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 223,
         ["kill_count"] = 18,
-        ["points"] = 9793.21,
+        ["points"] = 9793.24,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6057,
@@ -11422,9 +11422,9 @@ UWULogsData[5][1] = {
         ["points"] = 8791.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 744,
+        ["rank_raids"] = 745,
         ["kill_count"] = 13,
-        ["points"] = 9479.0,
+        ["points"] = 9478.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2638,
@@ -11442,9 +11442,9 @@ UWULogsData[5][1] = {
         ["points"] = 9478.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 708,
+        ["rank_raids"] = 709,
         ["kill_count"] = 14,
-        ["points"] = 9497.0,
+        ["points"] = 9496.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1220,
@@ -11479,9 +11479,9 @@ UWULogsData[5][1] = {
         ["points"] = 8559.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1091,
+        ["rank_raids"] = 1092,
         ["kill_count"] = 11,
-        ["points"] = 9314.6,
+        ["points"] = 9314.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 174,
@@ -11499,9 +11499,9 @@ UWULogsData[5][1] = {
         ["points"] = 9771.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3946,
+        ["rank_raids"] = 3947,
         ["kill_count"] = 12,
-        ["points"] = 8367.2,
+        ["points"] = 8366.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1952,
@@ -11551,14 +11551,14 @@ UWULogsData[5][1] = {
         ["points"] = 9827.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6607,
+        ["rank_raids"] = 6608,
         ["kill_count"] = 2,
-        ["points"] = 7568.9,
+        ["points"] = 7568.6,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 272,
         ["kill_count"] = 2,
-        ["points"] = 9756.17,
+        ["points"] = 9756.21,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 875,
@@ -11593,9 +11593,9 @@ UWULogsData[5][1] = {
         ["points"] = 9644.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1409,
+        ["rank_raids"] = 1410,
         ["kill_count"] = 5,
-        ["points"] = 9187.4,
+        ["points"] = 9187.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2209,
@@ -11613,9 +11613,9 @@ UWULogsData[5][1] = {
         ["points"] = 9872.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2893,
+        ["rank_raids"] = 2894,
         ["kill_count"] = 7,
-        ["points"] = 8683.1,
+        ["points"] = 8682.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 345,
@@ -11623,9 +11623,9 @@ UWULogsData[5][1] = {
         ["points"] = 9699.5,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4334,
+        ["rank_raids"] = 4335,
         ["kill_count"] = 8,
-        ["points"] = 8250.8,
+        ["points"] = 8250.5,
       },
     },
   },
@@ -11650,9 +11650,9 @@ UWULogsData[5][1] = {
         ["points"] = 8529.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2065,
+        ["rank_raids"] = 2066,
         ["kill_count"] = 8,
-        ["points"] = 8931.5,
+        ["points"] = 8931.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1472,
@@ -11670,9 +11670,9 @@ UWULogsData[5][1] = {
         ["points"] = 9499.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2117,
+        ["rank_raids"] = 2118,
         ["kill_count"] = 12,
-        ["points"] = 8915.9,
+        ["points"] = 8915.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 137,
@@ -11707,9 +11707,9 @@ UWULogsData[5][1] = {
         ["points"] = 9505.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1914,
+        ["rank_raids"] = 1915,
         ["kill_count"] = 13,
-        ["points"] = 8985.4,
+        ["points"] = 8985.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1518,
@@ -11727,9 +11727,9 @@ UWULogsData[5][1] = {
         ["points"] = 9690.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2034,
+        ["rank_raids"] = 2035,
         ["kill_count"] = 13,
-        ["points"] = 8940.8,
+        ["points"] = 8940.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1922,
@@ -11764,14 +11764,14 @@ UWULogsData[5][1] = {
         ["points"] = 9980.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3648,
+        ["rank_raids"] = 3649,
         ["kill_count"] = 9,
-        ["points"] = 8456.6,
+        ["points"] = 8456.3,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4577,
+        ["rank_raids"] = 4578,
         ["kill_count"] = 6,
-        ["points"] = 8177.9,
+        ["points"] = 8177.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 364,
@@ -11784,9 +11784,9 @@ UWULogsData[5][1] = {
         ["points"] = 8689.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1491,
+        ["rank_raids"] = 1492,
         ["kill_count"] = 11,
-        ["points"] = 9154.6,
+        ["points"] = 9154.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 138,
@@ -11821,9 +11821,9 @@ UWULogsData[5][1] = {
         ["points"] = 9618.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1695,
+        ["rank_raids"] = 1696,
         ["kill_count"] = 8,
-        ["points"] = 9073.0,
+        ["points"] = 9072.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2412,
@@ -11841,9 +11841,9 @@ UWULogsData[5][1] = {
         ["points"] = 9953.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1505,
+        ["rank_raids"] = 1506,
         ["kill_count"] = 8,
-        ["points"] = 9149.0,
+        ["points"] = 9148.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 33,
@@ -11878,9 +11878,9 @@ UWULogsData[5][1] = {
         ["points"] = 9934.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2534,
+        ["rank_raids"] = 2535,
         ["kill_count"] = 4,
-        ["points"] = 8790.8,
+        ["points"] = 8790.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1234,
@@ -11898,9 +11898,9 @@ UWULogsData[5][1] = {
         ["points"] = 9569.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1921,
+        ["rank_raids"] = 1922,
         ["kill_count"] = 6,
-        ["points"] = 8982.6,
+        ["points"] = 8982.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1317,
@@ -11914,10 +11914,67 @@ UWULogsData[5][1] = {
       },
     },
   },
-  ["Puffdaddyy"] = {
+  ["Fengy"] = {
     ["percentile"] = 92.41,
     ["server"] = "Icecrown",
     ["overall_rank"] = 210,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 866,
+        ["kill_count"] = 15,
+        ["points"] = 9418.0,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 1625,
+        ["kill_count"] = 25,
+        ["points"] = 9101.0,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 886,
+        ["kill_count"] = 17,
+        ["points"] = 9408.0,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 1300,
+        ["kill_count"] = 27,
+        ["points"] = 9231.0,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 933,
+        ["kill_count"] = 24,
+        ["points"] = 9384.5,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 669,
+        ["kill_count"] = 27,
+        ["points"] = 9516.5,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 526,
+        ["kill_count"] = 20,
+        ["points"] = 9588.0,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 3488,
+        ["kill_count"] = 25,
+        ["points"] = 8504.6,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 1613,
+        ["kill_count"] = 17,
+        ["points"] = 9105.8,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 1522,
+        ["kill_count"] = 27,
+        ["points"] = 9142.2,
+      },
+    },
+  },
+  ["Puffdaddyy"] = {
+    ["percentile"] = 92.41,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 211,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1862,
@@ -11930,14 +11987,14 @@ UWULogsData[5][1] = {
         ["points"] = 8610.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5419,
+        ["rank_raids"] = 5422,
         ["kill_count"] = 9,
-        ["points"] = 7925.3,
+        ["points"] = 7924.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 371,
+        ["rank_raids"] = 372,
         ["kill_count"] = 14,
-        ["points"] = 9681.3,
+        ["points"] = 9680.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 91,
@@ -11971,63 +12028,6 @@ UWULogsData[5][1] = {
       },
     },
   },
-  ["Fengy"] = {
-    ["percentile"] = 92.41,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 211,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 866,
-        ["kill_count"] = 15,
-        ["points"] = 9418.0,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 1625,
-        ["kill_count"] = 25,
-        ["points"] = 9101.0,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 886,
-        ["kill_count"] = 17,
-        ["points"] = 9408.0,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 1299,
-        ["kill_count"] = 27,
-        ["points"] = 9231.4,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 933,
-        ["kill_count"] = 24,
-        ["points"] = 9384.5,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 669,
-        ["kill_count"] = 27,
-        ["points"] = 9516.5,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 526,
-        ["kill_count"] = 20,
-        ["points"] = 9588.0,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3487,
-        ["kill_count"] = 25,
-        ["points"] = 8504.9,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 1613,
-        ["kill_count"] = 17,
-        ["points"] = 9105.8,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 1522,
-        ["kill_count"] = 27,
-        ["points"] = 9142.2,
-      },
-    },
-  },
   ["Haineko"] = {
     ["percentile"] = 92.39,
     ["server"] = "Icecrown",
@@ -12049,9 +12049,9 @@ UWULogsData[5][1] = {
         ["points"] = 9473.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2392,
+        ["rank_raids"] = 2393,
         ["kill_count"] = 17,
-        ["points"] = 8833.4,
+        ["points"] = 8833.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3856,
@@ -12069,9 +12069,9 @@ UWULogsData[5][1] = {
         ["points"] = 9881.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1441,
+        ["rank_raids"] = 1442,
         ["kill_count"] = 35,
-        ["points"] = 9174.6,
+        ["points"] = 9174.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 956,
@@ -12086,7 +12086,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Entor"] = {
-    ["percentile"] = 92.39,
+    ["percentile"] = 92.38,
     ["server"] = "Icecrown",
     ["overall_rank"] = 213,
     ["bosses"] = {
@@ -12106,9 +12106,9 @@ UWULogsData[5][1] = {
         ["points"] = 9291.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1800,
+        ["rank_raids"] = 1801,
         ["kill_count"] = 9,
-        ["points"] = 9031.0,
+        ["points"] = 9030.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 897,
@@ -12126,9 +12126,9 @@ UWULogsData[5][1] = {
         ["points"] = 9296.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1382,
+        ["rank_raids"] = 1383,
         ["kill_count"] = 16,
-        ["points"] = 9198.2,
+        ["points"] = 9197.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1664,
@@ -12163,9 +12163,9 @@ UWULogsData[5][1] = {
         ["points"] = 8793.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3782,
+        ["rank_raids"] = 3783,
         ["kill_count"] = 17,
-        ["points"] = 8416.4,
+        ["points"] = 8416.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 557,
@@ -12183,9 +12183,9 @@ UWULogsData[5][1] = {
         ["points"] = 9508.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4740,
+        ["rank_raids"] = 4741,
         ["kill_count"] = 20,
-        ["points"] = 8129.0,
+        ["points"] = 8128.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 671,
@@ -12220,9 +12220,9 @@ UWULogsData[5][1] = {
         ["points"] = 9225.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2827,
+        ["rank_raids"] = 2828,
         ["kill_count"] = 31,
-        ["points"] = 8702.9,
+        ["points"] = 8702.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1825,
@@ -12240,9 +12240,9 @@ UWULogsData[5][1] = {
         ["points"] = 9573.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2014,
+        ["rank_raids"] = 2015,
         ["kill_count"] = 53,
-        ["points"] = 8946.8,
+        ["points"] = 8946.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 525,
@@ -12257,7 +12257,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Painkillerx"] = {
-    ["percentile"] = 92.31,
+    ["percentile"] = 92.3,
     ["server"] = "Icecrown",
     ["overall_rank"] = 216,
     ["bosses"] = {
@@ -12277,9 +12277,9 @@ UWULogsData[5][1] = {
         ["points"] = 9795.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2114,
+        ["rank_raids"] = 2115,
         ["kill_count"] = 11,
-        ["points"] = 8916.8,
+        ["points"] = 8916.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 388,
@@ -12297,9 +12297,9 @@ UWULogsData[5][1] = {
         ["points"] = 9420.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3303,
+        ["rank_raids"] = 3304,
         ["kill_count"] = 16,
-        ["points"] = 8560.1,
+        ["points"] = 8559.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1081,
@@ -12314,14 +12314,14 @@ UWULogsData[5][1] = {
     },
   },
   ["Supafine"] = {
-    ["percentile"] = 92.31,
+    ["percentile"] = 92.3,
     ["server"] = "Icecrown",
     ["overall_rank"] = 217,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5628,
+        ["rank_raids"] = 5629,
         ["kill_count"] = 22,
-        ["points"] = 7862.6,
+        ["points"] = 7862.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 262,
@@ -12334,9 +12334,9 @@ UWULogsData[5][1] = {
         ["points"] = 8697.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2855,
+        ["rank_raids"] = 2856,
         ["kill_count"] = 15,
-        ["points"] = 8694.5,
+        ["points"] = 8694.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 199,
@@ -12356,7 +12356,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 525,
         ["kill_count"] = 26,
-        ["points"] = 9594.14,
+        ["points"] = 9594.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1874,
@@ -12391,9 +12391,9 @@ UWULogsData[5][1] = {
         ["points"] = 9549.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2209,
+        ["rank_raids"] = 2210,
         ["kill_count"] = 12,
-        ["points"] = 8888.3,
+        ["points"] = 8888.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 811,
@@ -12413,7 +12413,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 256,
         ["kill_count"] = 17,
-        ["points"] = 9770.06,
+        ["points"] = 9770.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 737,
@@ -12448,9 +12448,9 @@ UWULogsData[5][1] = {
         ["points"] = 9847.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1026,
+        ["rank_raids"] = 1027,
         ["kill_count"] = 13,
-        ["points"] = 9340.6,
+        ["points"] = 9340.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1812,
@@ -12463,14 +12463,14 @@ UWULogsData[5][1] = {
         ["points"] = 9899.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5790,
+        ["rank_raids"] = 5791,
         ["kill_count"] = 16,
-        ["points"] = 7814.0,
+        ["points"] = 7813.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4781,
+        ["rank_raids"] = 4782,
         ["kill_count"] = 16,
-        ["points"] = 8116.7,
+        ["points"] = 8116.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 410,
@@ -12505,9 +12505,9 @@ UWULogsData[5][1] = {
         ["points"] = 8781.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2309,
+        ["rank_raids"] = 2310,
         ["kill_count"] = 10,
-        ["points"] = 8858.3,
+        ["points"] = 8858.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1473,
@@ -12525,9 +12525,9 @@ UWULogsData[5][1] = {
         ["points"] = 8910.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1659,
+        ["rank_raids"] = 1660,
         ["kill_count"] = 20,
-        ["points"] = 9087.4,
+        ["points"] = 9087.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1346,
@@ -12562,9 +12562,9 @@ UWULogsData[5][1] = {
         ["points"] = 8822.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 796,
+        ["rank_raids"] = 797,
         ["kill_count"] = 5,
-        ["points"] = 9453.0,
+        ["points"] = 9452.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1122,
@@ -12582,9 +12582,9 @@ UWULogsData[5][1] = {
         ["points"] = 9630.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2495,
+        ["rank_raids"] = 2496,
         ["kill_count"] = 8,
-        ["points"] = 8802.5,
+        ["points"] = 8802.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4146,
@@ -12619,9 +12619,9 @@ UWULogsData[5][1] = {
         ["points"] = 9272.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1242,
+        ["rank_raids"] = 1243,
         ["kill_count"] = 19,
-        ["points"] = 9254.2,
+        ["points"] = 9253.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 756,
@@ -12639,9 +12639,9 @@ UWULogsData[5][1] = {
         ["points"] = 9726.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3759,
+        ["rank_raids"] = 3760,
         ["kill_count"] = 21,
-        ["points"] = 8423.3,
+        ["points"] = 8423.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 941,
@@ -12676,9 +12676,9 @@ UWULogsData[5][1] = {
         ["points"] = 9076.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1528,
+        ["rank_raids"] = 1529,
         ["kill_count"] = 10,
-        ["points"] = 9139.8,
+        ["points"] = 9139.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 865,
@@ -12696,9 +12696,9 @@ UWULogsData[5][1] = {
         ["points"] = 9930.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2343,
+        ["rank_raids"] = 2344,
         ["kill_count"] = 9,
-        ["points"] = 8848.1,
+        ["points"] = 8847.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3036,
@@ -12738,9 +12738,9 @@ UWULogsData[5][1] = {
         ["points"] = 9912.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 10724,
+        ["rank_raids"] = 10726,
         ["kill_count"] = 4,
-        ["points"] = 6478.6,
+        ["points"] = 6478.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 306,
@@ -12748,9 +12748,9 @@ UWULogsData[5][1] = {
         ["points"] = 9726.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6464,
+        ["rank_raids"] = 6465,
         ["kill_count"] = 5,
-        ["points"] = 7611.8,
+        ["points"] = 7611.5,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 48,
@@ -12790,9 +12790,9 @@ UWULogsData[5][1] = {
         ["points"] = 9411.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1116,
+        ["rank_raids"] = 1117,
         ["kill_count"] = 10,
-        ["points"] = 9304.6,
+        ["points"] = 9304.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2600,
@@ -12810,9 +12810,9 @@ UWULogsData[5][1] = {
         ["points"] = 9785.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2699,
+        ["rank_raids"] = 2700,
         ["kill_count"] = 11,
-        ["points"] = 8741.3,
+        ["points"] = 8741.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2716,
@@ -12847,9 +12847,9 @@ UWULogsData[5][1] = {
         ["points"] = 9117.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1267,
+        ["rank_raids"] = 1268,
         ["kill_count"] = 6,
-        ["points"] = 9244.2,
+        ["points"] = 9243.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1681,
@@ -12867,9 +12867,9 @@ UWULogsData[5][1] = {
         ["points"] = 8711.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2157,
+        ["rank_raids"] = 2158,
         ["kill_count"] = 9,
-        ["points"] = 8903.9,
+        ["points"] = 8903.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 642,
@@ -12904,9 +12904,9 @@ UWULogsData[5][1] = {
         ["points"] = 9262.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 790,
+        ["rank_raids"] = 791,
         ["kill_count"] = 12,
-        ["points"] = 9456.0,
+        ["points"] = 9455.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1880,
@@ -12924,9 +12924,9 @@ UWULogsData[5][1] = {
         ["points"] = 9578.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2195,
+        ["rank_raids"] = 2196,
         ["kill_count"] = 16,
-        ["points"] = 8892.5,
+        ["points"] = 8892.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1572,
@@ -12961,9 +12961,9 @@ UWULogsData[5][1] = {
         ["points"] = 9241.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 822,
+        ["rank_raids"] = 823,
         ["kill_count"] = 15,
-        ["points"] = 9440.0,
+        ["points"] = 9439.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3103,
@@ -12981,9 +12981,9 @@ UWULogsData[5][1] = {
         ["points"] = 9739.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6660,
+        ["rank_raids"] = 6661,
         ["kill_count"] = 14,
-        ["points"] = 7553.0,
+        ["points"] = 7552.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 166,
@@ -13018,9 +13018,9 @@ UWULogsData[5][1] = {
         ["points"] = 9059.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1635,
+        ["rank_raids"] = 1636,
         ["kill_count"] = 17,
-        ["points"] = 9097.0,
+        ["points"] = 9096.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1314,
@@ -13038,9 +13038,9 @@ UWULogsData[5][1] = {
         ["points"] = 9849.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3051,
+        ["rank_raids"] = 3052,
         ["kill_count"] = 27,
-        ["points"] = 8635.7,
+        ["points"] = 8635.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 937,
@@ -13075,9 +13075,9 @@ UWULogsData[5][1] = {
         ["points"] = 9954.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5066,
+        ["rank_raids"] = 5067,
         ["kill_count"] = 13,
-        ["points"] = 8031.2,
+        ["points"] = 8030.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1145,
@@ -13095,9 +13095,9 @@ UWULogsData[5][1] = {
         ["points"] = 9447.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3536,
+        ["rank_raids"] = 3537,
         ["kill_count"] = 24,
-        ["points"] = 8490.2,
+        ["points"] = 8489.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 620,
@@ -13112,7 +13112,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Boltika"] = {
-    ["percentile"] = 92.05,
+    ["percentile"] = 92.04,
     ["server"] = "Icecrown",
     ["overall_rank"] = 231,
     ["bosses"] = {
@@ -13132,9 +13132,9 @@ UWULogsData[5][1] = {
         ["points"] = 9417.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 506,
+        ["rank_raids"] = 507,
         ["kill_count"] = 7,
-        ["points"] = 9598.0,
+        ["points"] = 9597.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 378,
@@ -13152,9 +13152,9 @@ UWULogsData[5][1] = {
         ["points"] = 9461.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4310,
+        ["rank_raids"] = 4311,
         ["kill_count"] = 7,
-        ["points"] = 8258.0,
+        ["points"] = 8257.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1728,
@@ -13189,9 +13189,9 @@ UWULogsData[5][1] = {
         ["points"] = 9270.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3558,
+        ["rank_raids"] = 3559,
         ["kill_count"] = 7,
-        ["points"] = 8483.6,
+        ["points"] = 8483.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 366,
@@ -13209,9 +13209,9 @@ UWULogsData[5][1] = {
         ["points"] = 9020.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 635,
+        ["rank_raids"] = 636,
         ["kill_count"] = 10,
-        ["points"] = 9533.5,
+        ["points"] = 9533.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1549,
@@ -13246,9 +13246,9 @@ UWULogsData[5][1] = {
         ["points"] = 9580.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1423,
+        ["rank_raids"] = 1424,
         ["kill_count"] = 24,
-        ["points"] = 9181.8,
+        ["points"] = 9181.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 604,
@@ -13266,9 +13266,9 @@ UWULogsData[5][1] = {
         ["points"] = 9430.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2659,
+        ["rank_raids"] = 2660,
         ["kill_count"] = 26,
-        ["points"] = 8753.3,
+        ["points"] = 8753.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1410,
@@ -13303,9 +13303,9 @@ UWULogsData[5][1] = {
         ["points"] = 9168.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 774,
+        ["rank_raids"] = 775,
         ["kill_count"] = 18,
-        ["points"] = 9464.0,
+        ["points"] = 9463.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 825,
@@ -13323,9 +13323,9 @@ UWULogsData[5][1] = {
         ["points"] = 9435.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3686,
+        ["rank_raids"] = 3687,
         ["kill_count"] = 21,
-        ["points"] = 8445.2,
+        ["points"] = 8444.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1542,
@@ -13360,9 +13360,9 @@ UWULogsData[5][1] = {
         ["points"] = 9297.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1184,
+        ["rank_raids"] = 1185,
         ["kill_count"] = 14,
-        ["points"] = 9277.4,
+        ["points"] = 9277.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1916,
@@ -13380,9 +13380,9 @@ UWULogsData[5][1] = {
         ["points"] = 9904.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2027,
+        ["rank_raids"] = 2028,
         ["kill_count"] = 23,
-        ["points"] = 8942.9,
+        ["points"] = 8942.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2776,
@@ -13417,9 +13417,9 @@ UWULogsData[5][1] = {
         ["points"] = 8961.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 677,
+        ["rank_raids"] = 678,
         ["kill_count"] = 4,
-        ["points"] = 9512.5,
+        ["points"] = 9512.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1246,
@@ -13437,9 +13437,9 @@ UWULogsData[5][1] = {
         ["points"] = 8768.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 890,
+        ["rank_raids"] = 891,
         ["kill_count"] = 3,
-        ["points"] = 9406.0,
+        ["points"] = 9405.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4809,
@@ -13474,9 +13474,9 @@ UWULogsData[5][1] = {
         ["points"] = 9458.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1789,
+        ["rank_raids"] = 1790,
         ["kill_count"] = 22,
-        ["points"] = 9035.4,
+        ["points"] = 9035.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3381,
@@ -13494,9 +13494,9 @@ UWULogsData[5][1] = {
         ["points"] = 9632.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1970,
+        ["rank_raids"] = 1971,
         ["kill_count"] = 22,
-        ["points"] = 8963.0,
+        ["points"] = 8962.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1630,
@@ -13531,9 +13531,9 @@ UWULogsData[5][1] = {
         ["points"] = 9318.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6252,
+        ["rank_raids"] = 6253,
         ["kill_count"] = 2,
-        ["points"] = 7675.4,
+        ["points"] = 7675.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3265,
@@ -13546,9 +13546,9 @@ UWULogsData[5][1] = {
         ["points"] = 9764.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5484,
+        ["rank_raids"] = 5485,
         ["kill_count"] = 2,
-        ["points"] = 7905.8,
+        ["points"] = 7905.5,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 231,
@@ -13588,9 +13588,9 @@ UWULogsData[5][1] = {
         ["points"] = 9453.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1496,
+        ["rank_raids"] = 1497,
         ["kill_count"] = 12,
-        ["points"] = 9152.6,
+        ["points"] = 9152.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 725,
@@ -13608,9 +13608,9 @@ UWULogsData[5][1] = {
         ["points"] = 9847.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2871,
+        ["rank_raids"] = 2872,
         ["kill_count"] = 17,
-        ["points"] = 8689.7,
+        ["points"] = 8689.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1569,
@@ -13640,14 +13640,14 @@ UWULogsData[5][1] = {
         ["points"] = 9473.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4197,
+        ["rank_raids"] = 4199,
         ["kill_count"] = 3,
-        ["points"] = 8291.9,
+        ["points"] = 8291.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5462,
+        ["rank_raids"] = 5463,
         ["kill_count"] = 2,
-        ["points"] = 7912.4,
+        ["points"] = 7912.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1565,
@@ -13665,9 +13665,9 @@ UWULogsData[5][1] = {
         ["points"] = 9300.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 612,
+        ["rank_raids"] = 613,
         ["kill_count"] = 3,
-        ["points"] = 9545.0,
+        ["points"] = 9544.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 23,
@@ -13702,9 +13702,9 @@ UWULogsData[5][1] = {
         ["points"] = 9166.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6598,
+        ["rank_raids"] = 6599,
         ["kill_count"] = 7,
-        ["points"] = 7571.6,
+        ["points"] = 7571.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 793,
@@ -13759,9 +13759,9 @@ UWULogsData[5][1] = {
         ["points"] = 9235.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3184,
+        ["rank_raids"] = 3185,
         ["kill_count"] = 13,
-        ["points"] = 8595.8,
+        ["points"] = 8595.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 655,
@@ -13779,9 +13779,9 @@ UWULogsData[5][1] = {
         ["points"] = 9675.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2133,
+        ["rank_raids"] = 2134,
         ["kill_count"] = 16,
-        ["points"] = 8911.1,
+        ["points"] = 8910.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1501,
@@ -13796,7 +13796,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Xmander"] = {
-    ["percentile"] = 91.91,
+    ["percentile"] = 91.9,
     ["server"] = "Icecrown",
     ["overall_rank"] = 243,
     ["bosses"] = {
@@ -13816,9 +13816,9 @@ UWULogsData[5][1] = {
         ["points"] = 8853.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1592,
+        ["rank_raids"] = 1593,
         ["kill_count"] = 8,
-        ["points"] = 9114.2,
+        ["points"] = 9113.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2028,
@@ -13836,9 +13836,9 @@ UWULogsData[5][1] = {
         ["points"] = 9103.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1798,
+        ["rank_raids"] = 1799,
         ["kill_count"] = 11,
-        ["points"] = 9031.8,
+        ["points"] = 9031.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1256,
@@ -13873,9 +13873,9 @@ UWULogsData[5][1] = {
         ["points"] = 9125.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1439,
+        ["rank_raids"] = 1440,
         ["kill_count"] = 22,
-        ["points"] = 9175.4,
+        ["points"] = 9175.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 979,
@@ -13893,9 +13893,9 @@ UWULogsData[5][1] = {
         ["points"] = 9679.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2588,
+        ["rank_raids"] = 2589,
         ["kill_count"] = 31,
-        ["points"] = 8774.6,
+        ["points"] = 8774.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 131,
@@ -13930,9 +13930,9 @@ UWULogsData[5][1] = {
         ["points"] = 8637.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 260,
+        ["rank_raids"] = 261,
         ["kill_count"] = 3,
-        ["points"] = 9763.0,
+        ["points"] = 9762.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 79,
@@ -13950,9 +13950,9 @@ UWULogsData[5][1] = {
         ["points"] = 9491.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1516,
+        ["rank_raids"] = 1517,
         ["kill_count"] = 5,
-        ["points"] = 9144.6,
+        ["points"] = 9144.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1301,
@@ -13987,9 +13987,9 @@ UWULogsData[5][1] = {
         ["points"] = 9037.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2170,
+        ["rank_raids"] = 2171,
         ["kill_count"] = 7,
-        ["points"] = 8900.0,
+        ["points"] = 8899.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 695,
@@ -14007,9 +14007,9 @@ UWULogsData[5][1] = {
         ["points"] = 9704.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2742,
+        ["rank_raids"] = 2743,
         ["kill_count"] = 7,
-        ["points"] = 8728.4,
+        ["points"] = 8728.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 722,
@@ -14044,9 +14044,9 @@ UWULogsData[5][1] = {
         ["points"] = 9291.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4202,
+        ["rank_raids"] = 4203,
         ["kill_count"] = 5,
-        ["points"] = 8290.4,
+        ["points"] = 8290.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1618,
@@ -14064,9 +14064,9 @@ UWULogsData[5][1] = {
         ["points"] = 9711.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2504,
+        ["rank_raids"] = 2505,
         ["kill_count"] = 5,
-        ["points"] = 8799.8,
+        ["points"] = 8799.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2037,
@@ -14101,9 +14101,9 @@ UWULogsData[5][1] = {
         ["points"] = 9139.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 369,
+        ["rank_raids"] = 370,
         ["kill_count"] = 18,
-        ["points"] = 9682.7,
+        ["points"] = 9682.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 135,
@@ -14121,9 +14121,9 @@ UWULogsData[5][1] = {
         ["points"] = 9465.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3683,
+        ["rank_raids"] = 3684,
         ["kill_count"] = 13,
-        ["points"] = 8446.1,
+        ["points"] = 8445.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1527,
@@ -14158,9 +14158,9 @@ UWULogsData[5][1] = {
         ["points"] = 9201.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2024,
+        ["rank_raids"] = 2025,
         ["kill_count"] = 3,
-        ["points"] = 8943.8,
+        ["points"] = 8943.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1719,
@@ -14173,14 +14173,14 @@ UWULogsData[5][1] = {
         ["points"] = 9567.5,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3344,
+        ["rank_raids"] = 3345,
         ["kill_count"] = 3,
-        ["points"] = 8547.8,
+        ["points"] = 8547.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1245,
+        ["rank_raids"] = 1246,
         ["kill_count"] = 6,
-        ["points"] = 9253.0,
+        ["points"] = 9252.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 655,
@@ -14215,9 +14215,9 @@ UWULogsData[5][1] = {
         ["points"] = 9170.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1017,
+        ["rank_raids"] = 1018,
         ["kill_count"] = 18,
-        ["points"] = 9344.2,
+        ["points"] = 9343.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1691,
@@ -14235,9 +14235,9 @@ UWULogsData[5][1] = {
         ["points"] = 9197.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2355,
+        ["rank_raids"] = 2356,
         ["kill_count"] = 25,
-        ["points"] = 8844.5,
+        ["points"] = 8844.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 861,
@@ -14272,9 +14272,9 @@ UWULogsData[5][1] = {
         ["points"] = 9245.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1109,
+        ["rank_raids"] = 1110,
         ["kill_count"] = 7,
-        ["points"] = 9307.4,
+        ["points"] = 9307.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1546,
@@ -14292,9 +14292,9 @@ UWULogsData[5][1] = {
         ["points"] = 9856.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4656,
+        ["rank_raids"] = 4657,
         ["kill_count"] = 9,
-        ["points"] = 8154.2,
+        ["points"] = 8153.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2155,
@@ -14329,9 +14329,9 @@ UWULogsData[5][1] = {
         ["points"] = 9106.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1381,
+        ["rank_raids"] = 1382,
         ["kill_count"] = 14,
-        ["points"] = 9198.6,
+        ["points"] = 9198.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1319,
@@ -14349,9 +14349,9 @@ UWULogsData[5][1] = {
         ["points"] = 9196.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2287,
+        ["rank_raids"] = 2288,
         ["kill_count"] = 22,
-        ["points"] = 8864.9,
+        ["points"] = 8864.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1668,
@@ -14386,9 +14386,9 @@ UWULogsData[5][1] = {
         ["points"] = 8920.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1438,
+        ["rank_raids"] = 1439,
         ["kill_count"] = 5,
-        ["points"] = 9175.8,
+        ["points"] = 9175.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1370,
@@ -14406,9 +14406,9 @@ UWULogsData[5][1] = {
         ["points"] = 9121.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1330,
+        ["rank_raids"] = 1331,
         ["kill_count"] = 8,
-        ["points"] = 9219.0,
+        ["points"] = 9218.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 860,
@@ -14443,9 +14443,9 @@ UWULogsData[5][1] = {
         ["points"] = 9496.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2656,
+        ["rank_raids"] = 2657,
         ["kill_count"] = 15,
-        ["points"] = 8754.2,
+        ["points"] = 8753.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1509,
@@ -14463,9 +14463,9 @@ UWULogsData[5][1] = {
         ["points"] = 9519.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2362,
+        ["rank_raids"] = 2363,
         ["kill_count"] = 14,
-        ["points"] = 8842.4,
+        ["points"] = 8842.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 917,
@@ -14500,9 +14500,9 @@ UWULogsData[5][1] = {
         ["points"] = 9086.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2982,
+        ["rank_raids"] = 2983,
         ["kill_count"] = 19,
-        ["points"] = 8656.4,
+        ["points"] = 8656.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1877,
@@ -14515,14 +14515,14 @@ UWULogsData[5][1] = {
         ["points"] = 9830.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3328,
+        ["rank_raids"] = 3329,
         ["kill_count"] = 11,
-        ["points"] = 8552.6,
+        ["points"] = 8552.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1470,
+        ["rank_raids"] = 1471,
         ["kill_count"] = 18,
-        ["points"] = 9163.0,
+        ["points"] = 9162.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 640,
@@ -14557,9 +14557,9 @@ UWULogsData[5][1] = {
         ["points"] = 9271.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4991,
+        ["rank_raids"] = 4992,
         ["kill_count"] = 18,
-        ["points"] = 8053.7,
+        ["points"] = 8053.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 432,
@@ -14577,9 +14577,9 @@ UWULogsData[5][1] = {
         ["points"] = 9367.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2587,
+        ["rank_raids"] = 2588,
         ["kill_count"] = 23,
-        ["points"] = 8774.9,
+        ["points"] = 8774.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 224,
@@ -14599,9 +14599,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 257,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 4867,
+        ["rank_raids"] = 4868,
         ["kill_count"] = 15,
-        ["points"] = 8090.9,
+        ["points"] = 8090.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 447,
@@ -14614,9 +14614,9 @@ UWULogsData[5][1] = {
         ["points"] = 9025.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1610,
+        ["rank_raids"] = 1611,
         ["kill_count"] = 20,
-        ["points"] = 9107.0,
+        ["points"] = 9106.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1793,
@@ -14634,9 +14634,9 @@ UWULogsData[5][1] = {
         ["points"] = 9503.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2210,
+        ["rank_raids"] = 2211,
         ["kill_count"] = 26,
-        ["points"] = 8888.0,
+        ["points"] = 8887.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 725,
@@ -14671,14 +14671,14 @@ UWULogsData[5][1] = {
         ["points"] = 9578.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 305,
+        ["rank_raids"] = 306,
         ["kill_count"] = 5,
-        ["points"] = 9727.5,
+        ["points"] = 9726.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5857,
+        ["rank_raids"] = 5858,
         ["kill_count"] = 5,
-        ["points"] = 7793.9,
+        ["points"] = 7793.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1721,
@@ -14691,9 +14691,9 @@ UWULogsData[5][1] = {
         ["points"] = 9251.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1737,
+        ["rank_raids"] = 1738,
         ["kill_count"] = 5,
-        ["points"] = 9056.2,
+        ["points"] = 9055.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 666,
@@ -14713,9 +14713,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 259,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6331,
+        ["rank_raids"] = 6332,
         ["kill_count"] = 4,
-        ["points"] = 7651.7,
+        ["points"] = 7651.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1215,
@@ -14750,7 +14750,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 236,
         ["kill_count"] = 8,
-        ["points"] = 9782.41,
+        ["points"] = 9782.44,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4307,
@@ -14785,9 +14785,9 @@ UWULogsData[5][1] = {
         ["points"] = 8945.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1785,
+        ["rank_raids"] = 1786,
         ["kill_count"] = 11,
-        ["points"] = 9037.0,
+        ["points"] = 9036.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 292,
@@ -14805,9 +14805,9 @@ UWULogsData[5][1] = {
         ["points"] = 9316.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1482,
+        ["rank_raids"] = 1483,
         ["kill_count"] = 23,
-        ["points"] = 9158.2,
+        ["points"] = 9157.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1093,
@@ -14822,7 +14822,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Ralline"] = {
-    ["percentile"] = 91.67,
+    ["percentile"] = 91.66,
     ["server"] = "Icecrown",
     ["overall_rank"] = 261,
     ["bosses"] = {
@@ -14837,14 +14837,14 @@ UWULogsData[5][1] = {
         ["points"] = 9514.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3921,
+        ["rank_raids"] = 3923,
         ["kill_count"] = 11,
-        ["points"] = 8374.7,
+        ["points"] = 8374.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1651,
+        ["rank_raids"] = 1652,
         ["kill_count"] = 13,
-        ["points"] = 9090.6,
+        ["points"] = 9090.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3501,
@@ -14862,9 +14862,9 @@ UWULogsData[5][1] = {
         ["points"] = 8970.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1353,
+        ["rank_raids"] = 1354,
         ["kill_count"] = 16,
-        ["points"] = 9209.8,
+        ["points"] = 9209.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 716,
@@ -14899,9 +14899,9 @@ UWULogsData[5][1] = {
         ["points"] = 9056.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 968,
+        ["rank_raids"] = 969,
         ["kill_count"] = 21,
-        ["points"] = 9367.0,
+        ["points"] = 9366.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1944,
@@ -14919,9 +14919,9 @@ UWULogsData[5][1] = {
         ["points"] = 9658.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1583,
+        ["rank_raids"] = 1584,
         ["kill_count"] = 22,
-        ["points"] = 9117.8,
+        ["points"] = 9117.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 588,
@@ -14936,7 +14936,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Pipotoo"] = {
-    ["percentile"] = 91.55,
+    ["percentile"] = 91.54,
     ["server"] = "Icecrown",
     ["overall_rank"] = 263,
     ["bosses"] = {
@@ -14956,9 +14956,9 @@ UWULogsData[5][1] = {
         ["points"] = 8563.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 519,
+        ["rank_raids"] = 520,
         ["kill_count"] = 10,
-        ["points"] = 9591.5,
+        ["points"] = 9591.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 295,
@@ -15013,9 +15013,9 @@ UWULogsData[5][1] = {
         ["points"] = 9807.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 9536,
+        ["rank_raids"] = 9537,
         ["kill_count"] = 8,
-        ["points"] = 6690.2,
+        ["points"] = 6689.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 240,
@@ -15033,9 +15033,9 @@ UWULogsData[5][1] = {
         ["points"] = 9617.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1169,
+        ["rank_raids"] = 1170,
         ["kill_count"] = 9,
-        ["points"] = 9283.4,
+        ["points"] = 9283.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1946,
@@ -15070,9 +15070,9 @@ UWULogsData[5][1] = {
         ["points"] = 9345.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2119,
+        ["rank_raids"] = 2120,
         ["kill_count"] = 18,
-        ["points"] = 8915.3,
+        ["points"] = 8915.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1810,
@@ -15090,9 +15090,9 @@ UWULogsData[5][1] = {
         ["points"] = 9128.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2487,
+        ["rank_raids"] = 2488,
         ["kill_count"] = 33,
-        ["points"] = 8804.9,
+        ["points"] = 8804.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 706,
@@ -15127,9 +15127,9 @@ UWULogsData[5][1] = {
         ["points"] = 9286.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1373,
+        ["rank_raids"] = 1374,
         ["kill_count"] = 18,
-        ["points"] = 9201.8,
+        ["points"] = 9201.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1031,
@@ -15147,9 +15147,9 @@ UWULogsData[5][1] = {
         ["points"] = 8864.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2693,
+        ["rank_raids"] = 2694,
         ["kill_count"] = 23,
-        ["points"] = 8743.1,
+        ["points"] = 8742.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1699,
@@ -15184,9 +15184,9 @@ UWULogsData[5][1] = {
         ["points"] = 9089.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1960,
+        ["rank_raids"] = 1961,
         ["kill_count"] = 12,
-        ["points"] = 8967.0,
+        ["points"] = 8966.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1514,
@@ -15204,9 +15204,9 @@ UWULogsData[5][1] = {
         ["points"] = 9286.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1455,
+        ["rank_raids"] = 1456,
         ["kill_count"] = 13,
-        ["points"] = 9169.0,
+        ["points"] = 9168.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 845,
@@ -15241,9 +15241,9 @@ UWULogsData[5][1] = {
         ["points"] = 8752.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 728,
+        ["rank_raids"] = 729,
         ["kill_count"] = 17,
-        ["points"] = 9487.0,
+        ["points"] = 9486.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1781,
@@ -15261,9 +15261,9 @@ UWULogsData[5][1] = {
         ["points"] = 9181.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1323,
+        ["rank_raids"] = 1324,
         ["kill_count"] = 27,
-        ["points"] = 9221.8,
+        ["points"] = 9221.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2072,
@@ -15298,9 +15298,9 @@ UWULogsData[5][1] = {
         ["points"] = 9085.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 372,
+        ["rank_raids"] = 373,
         ["kill_count"] = 7,
-        ["points"] = 9680.6,
+        ["points"] = 9679.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 134,
@@ -15318,9 +15318,9 @@ UWULogsData[5][1] = {
         ["points"] = 9449.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2877,
+        ["rank_raids"] = 2878,
         ["kill_count"] = 8,
-        ["points"] = 8687.9,
+        ["points"] = 8687.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3322,
@@ -15328,9 +15328,9 @@ UWULogsData[5][1] = {
         ["points"] = 8554.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4513,
+        ["rank_raids"] = 4514,
         ["kill_count"] = 7,
-        ["points"] = 8197.1,
+        ["points"] = 8196.8,
       },
     },
   },
@@ -15355,9 +15355,9 @@ UWULogsData[5][1] = {
         ["points"] = 9380.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2756,
+        ["rank_raids"] = 2757,
         ["kill_count"] = 8,
-        ["points"] = 8724.2,
+        ["points"] = 8723.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1556,
@@ -15375,9 +15375,9 @@ UWULogsData[5][1] = {
         ["points"] = 9665.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1907,
+        ["rank_raids"] = 1908,
         ["kill_count"] = 9,
-        ["points"] = 8988.2,
+        ["points"] = 8987.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1103,
@@ -15397,9 +15397,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 271,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7959,
+        ["rank_raids"] = 7962,
         ["kill_count"] = 2,
-        ["points"] = 7163.3,
+        ["points"] = 7162.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 57,
@@ -15412,9 +15412,9 @@ UWULogsData[5][1] = {
         ["points"] = 9899.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 14240,
+        ["rank_raids"] = 14242,
         ["kill_count"] = 2,
-        ["points"] = 6127.0,
+        ["points"] = 6126.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 43,
@@ -15434,7 +15434,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 399,
         ["kill_count"] = 3,
-        ["points"] = 9668.21,
+        ["points"] = 9668.26,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 44,
@@ -15484,14 +15484,14 @@ UWULogsData[5][1] = {
         ["points"] = 9595.5,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5708,
+        ["rank_raids"] = 5709,
         ["kill_count"] = 10,
-        ["points"] = 7838.6,
+        ["points"] = 7838.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 646,
+        ["rank_raids"] = 647,
         ["kill_count"] = 10,
-        ["points"] = 9528.0,
+        ["points"] = 9527.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5135,
@@ -15526,9 +15526,9 @@ UWULogsData[5][1] = {
         ["points"] = 9319.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1163,
+        ["rank_raids"] = 1164,
         ["kill_count"] = 14,
-        ["points"] = 9285.8,
+        ["points"] = 9285.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1445,
@@ -15541,14 +15541,14 @@ UWULogsData[5][1] = {
         ["points"] = 9340.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7180,
+        ["rank_raids"] = 7181,
         ["kill_count"] = 4,
-        ["points"] = 7397.0,
+        ["points"] = 7396.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 873,
+        ["rank_raids"] = 874,
         ["kill_count"] = 23,
-        ["points"] = 9414.5,
+        ["points"] = 9414.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 863,
@@ -15583,9 +15583,9 @@ UWULogsData[5][1] = {
         ["points"] = 8906.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1288,
+        ["rank_raids"] = 1289,
         ["kill_count"] = 13,
-        ["points"] = 9235.8,
+        ["points"] = 9235.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1375,
@@ -15603,9 +15603,9 @@ UWULogsData[5][1] = {
         ["points"] = 9596.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1682,
+        ["rank_raids"] = 1683,
         ["kill_count"] = 18,
-        ["points"] = 9078.2,
+        ["points"] = 9077.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2380,
@@ -15640,14 +15640,14 @@ UWULogsData[5][1] = {
         ["points"] = 8733.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1093,
+        ["rank_raids"] = 1094,
         ["kill_count"] = 9,
-        ["points"] = 9313.8,
+        ["points"] = 9313.4,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4967,
+        ["rank_raids"] = 4968,
         ["kill_count"] = 10,
-        ["points"] = 8060.9,
+        ["points"] = 8060.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1127,
@@ -15660,9 +15660,9 @@ UWULogsData[5][1] = {
         ["points"] = 9293.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2291,
+        ["rank_raids"] = 2292,
         ["kill_count"] = 29,
-        ["points"] = 8863.7,
+        ["points"] = 8863.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 615,
@@ -15697,9 +15697,9 @@ UWULogsData[5][1] = {
         ["points"] = 9917.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2657,
+        ["rank_raids"] = 2658,
         ["kill_count"] = 6,
-        ["points"] = 8753.9,
+        ["points"] = 8753.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1245,
@@ -15717,9 +15717,9 @@ UWULogsData[5][1] = {
         ["points"] = 9196.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2947,
+        ["rank_raids"] = 2948,
         ["kill_count"] = 7,
-        ["points"] = 8666.9,
+        ["points"] = 8666.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5169,
@@ -15727,9 +15727,9 @@ UWULogsData[5][1] = {
         ["points"] = 8000.3,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4794,
+        ["rank_raids"] = 4795,
         ["kill_count"] = 7,
-        ["points"] = 8112.8,
+        ["points"] = 8112.5,
       },
     },
   },
@@ -15754,9 +15754,9 @@ UWULogsData[5][1] = {
         ["points"] = 9393.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1626,
+        ["rank_raids"] = 1627,
         ["kill_count"] = 8,
-        ["points"] = 9100.6,
+        ["points"] = 9100.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 549,
@@ -15774,9 +15774,9 @@ UWULogsData[5][1] = {
         ["points"] = 9312.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4104,
+        ["rank_raids"] = 4105,
         ["kill_count"] = 10,
-        ["points"] = 8319.8,
+        ["points"] = 8319.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 587,
@@ -15784,9 +15784,9 @@ UWULogsData[5][1] = {
         ["points"] = 9557.5,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4410,
+        ["rank_raids"] = 4411,
         ["kill_count"] = 13,
-        ["points"] = 8228.0,
+        ["points"] = 8227.7,
       },
     },
   },
@@ -15811,9 +15811,9 @@ UWULogsData[5][1] = {
         ["points"] = 8473.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6121,
+        ["rank_raids"] = 6122,
         ["kill_count"] = 4,
-        ["points"] = 7714.7,
+        ["points"] = 7714.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 305,
@@ -15831,9 +15831,9 @@ UWULogsData[5][1] = {
         ["points"] = 9522.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1227,
+        ["rank_raids"] = 1228,
         ["kill_count"] = 7,
-        ["points"] = 9260.2,
+        ["points"] = 9259.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1899,
@@ -15868,9 +15868,9 @@ UWULogsData[5][1] = {
         ["points"] = 9554.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2174,
+        ["rank_raids"] = 2175,
         ["kill_count"] = 3,
-        ["points"] = 8898.8,
+        ["points"] = 8898.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1580,
@@ -15883,14 +15883,14 @@ UWULogsData[5][1] = {
         ["points"] = 8737.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6231,
+        ["rank_raids"] = 6232,
         ["kill_count"] = 5,
-        ["points"] = 7681.7,
+        ["points"] = 7681.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 977,
+        ["rank_raids"] = 978,
         ["kill_count"] = 6,
-        ["points"] = 9362.5,
+        ["points"] = 9362.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1795,
@@ -15925,9 +15925,9 @@ UWULogsData[5][1] = {
         ["points"] = 9552.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1751,
+        ["rank_raids"] = 1752,
         ["kill_count"] = 11,
-        ["points"] = 9050.6,
+        ["points"] = 9050.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1643,
@@ -15945,9 +15945,9 @@ UWULogsData[5][1] = {
         ["points"] = 9223.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1556,
+        ["rank_raids"] = 1557,
         ["kill_count"] = 16,
-        ["points"] = 9128.6,
+        ["points"] = 9128.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2976,
@@ -15977,14 +15977,14 @@ UWULogsData[5][1] = {
         ["points"] = 9727.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3767,
+        ["rank_raids"] = 3768,
         ["kill_count"] = 14,
-        ["points"] = 8420.9,
+        ["points"] = 8420.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6895,
+        ["rank_raids"] = 6896,
         ["kill_count"] = 13,
-        ["points"] = 7482.5,
+        ["points"] = 7482.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1545,
@@ -16002,9 +16002,9 @@ UWULogsData[5][1] = {
         ["points"] = 9810.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2232,
+        ["rank_raids"] = 2233,
         ["kill_count"] = 14,
-        ["points"] = 8881.4,
+        ["points"] = 8881.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 304,
@@ -16024,9 +16024,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 282,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8501,
+        ["rank_raids"] = 8504,
         ["kill_count"] = 6,
-        ["points"] = 7000.7,
+        ["points"] = 6999.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 47,
@@ -16044,9 +16044,9 @@ UWULogsData[5][1] = {
         ["points"] = 9823.6,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6854,
+        ["rank_raids"] = 6856,
         ["kill_count"] = 5,
-        ["points"] = 7494.8,
+        ["points"] = 7494.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 212,
@@ -16059,9 +16059,9 @@ UWULogsData[5][1] = {
         ["points"] = 9970.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 664,
+        ["rank_raids"] = 665,
         ["kill_count"] = 6,
-        ["points"] = 9519.0,
+        ["points"] = 9518.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1051,
@@ -16096,9 +16096,9 @@ UWULogsData[5][1] = {
         ["points"] = 9843.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1615,
+        ["rank_raids"] = 1616,
         ["kill_count"] = 9,
-        ["points"] = 9105.0,
+        ["points"] = 9104.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2532,
@@ -16111,14 +16111,14 @@ UWULogsData[5][1] = {
         ["points"] = 9467.5,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5440,
+        ["rank_raids"] = 5441,
         ["kill_count"] = 9,
-        ["points"] = 7919.0,
+        ["points"] = 7918.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2217,
+        ["rank_raids"] = 2218,
         ["kill_count"] = 16,
-        ["points"] = 8885.9,
+        ["points"] = 8885.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1778,
@@ -16148,14 +16148,14 @@ UWULogsData[5][1] = {
         ["points"] = 9677.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 13340,
+        ["rank_raids"] = 13345,
         ["kill_count"] = 4,
-        ["points"] = 6217.0,
+        ["points"] = 6216.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 308,
+        ["rank_raids"] = 309,
         ["kill_count"] = 8,
-        ["points"] = 9725.4,
+        ["points"] = 9724.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1882,
@@ -16173,9 +16173,9 @@ UWULogsData[5][1] = {
         ["points"] = 9151.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 783,
+        ["rank_raids"] = 784,
         ["kill_count"] = 10,
-        ["points"] = 9459.5,
+        ["points"] = 9459.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 123,
@@ -16210,9 +16210,9 @@ UWULogsData[5][1] = {
         ["points"] = 9705.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6372,
+        ["rank_raids"] = 6373,
         ["kill_count"] = 4,
-        ["points"] = 7639.4,
+        ["points"] = 7639.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2653,
@@ -16230,9 +16230,9 @@ UWULogsData[5][1] = {
         ["points"] = 9863.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1897,
+        ["rank_raids"] = 1898,
         ["kill_count"] = 7,
-        ["points"] = 8992.2,
+        ["points"] = 8991.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1212,
@@ -16267,9 +16267,9 @@ UWULogsData[5][1] = {
         ["points"] = 8887.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3024,
+        ["rank_raids"] = 3025,
         ["kill_count"] = 15,
-        ["points"] = 8643.8,
+        ["points"] = 8643.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1222,
@@ -16287,9 +16287,9 @@ UWULogsData[5][1] = {
         ["points"] = 9619.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2106,
+        ["rank_raids"] = 2107,
         ["kill_count"] = 23,
-        ["points"] = 8919.2,
+        ["points"] = 8918.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2850,
@@ -16324,9 +16324,9 @@ UWULogsData[5][1] = {
         ["points"] = 9033.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3164,
+        ["rank_raids"] = 3165,
         ["kill_count"] = 30,
-        ["points"] = 8601.8,
+        ["points"] = 8601.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 605,
@@ -16344,9 +16344,9 @@ UWULogsData[5][1] = {
         ["points"] = 9115.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3788,
+        ["rank_raids"] = 3789,
         ["kill_count"] = 34,
-        ["points"] = 8414.6,
+        ["points"] = 8414.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 517,
@@ -16381,9 +16381,9 @@ UWULogsData[5][1] = {
         ["points"] = 8946.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1681,
+        ["rank_raids"] = 1682,
         ["kill_count"] = 11,
-        ["points"] = 9078.6,
+        ["points"] = 9078.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 860,
@@ -16401,9 +16401,9 @@ UWULogsData[5][1] = {
         ["points"] = 9906.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4354,
+        ["rank_raids"] = 4355,
         ["kill_count"] = 10,
-        ["points"] = 8244.8,
+        ["points"] = 8244.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1019,
@@ -16438,9 +16438,9 @@ UWULogsData[5][1] = {
         ["points"] = 9498.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2862,
+        ["rank_raids"] = 2863,
         ["kill_count"] = 17,
-        ["points"] = 8692.4,
+        ["points"] = 8692.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3921,
@@ -16458,9 +16458,9 @@ UWULogsData[5][1] = {
         ["points"] = 9883.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3912,
+        ["rank_raids"] = 3913,
         ["kill_count"] = 23,
-        ["points"] = 8377.4,
+        ["points"] = 8377.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 828,
@@ -16495,9 +16495,9 @@ UWULogsData[5][1] = {
         ["points"] = 9325.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2877,
+        ["rank_raids"] = 2878,
         ["kill_count"] = 32,
-        ["points"] = 8687.9,
+        ["points"] = 8687.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2527,
@@ -16515,9 +16515,9 @@ UWULogsData[5][1] = {
         ["points"] = 9868.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2799,
+        ["rank_raids"] = 2800,
         ["kill_count"] = 42,
-        ["points"] = 8711.3,
+        ["points"] = 8711.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2286,
@@ -16525,9 +16525,9 @@ UWULogsData[5][1] = {
         ["points"] = 8865.2,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5366,
+        ["rank_raids"] = 5367,
         ["kill_count"] = 25,
-        ["points"] = 7941.2,
+        ["points"] = 7940.9,
       },
     },
   },
@@ -16552,9 +16552,9 @@ UWULogsData[5][1] = {
         ["points"] = 9156.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1051,
+        ["rank_raids"] = 1052,
         ["kill_count"] = 13,
-        ["points"] = 9330.6,
+        ["points"] = 9330.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2561,
@@ -16572,9 +16572,9 @@ UWULogsData[5][1] = {
         ["points"] = 9899.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6313,
+        ["rank_raids"] = 6314,
         ["kill_count"] = 16,
-        ["points"] = 7657.1,
+        ["points"] = 7656.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 906,
@@ -16609,9 +16609,9 @@ UWULogsData[5][1] = {
         ["points"] = 9321.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4575,
+        ["rank_raids"] = 4576,
         ["kill_count"] = 5,
-        ["points"] = 8178.5,
+        ["points"] = 8178.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1060,
@@ -16629,9 +16629,9 @@ UWULogsData[5][1] = {
         ["points"] = 9349.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3146,
+        ["rank_raids"] = 3147,
         ["kill_count"] = 5,
-        ["points"] = 8607.2,
+        ["points"] = 8606.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 793,
@@ -16666,9 +16666,9 @@ UWULogsData[5][1] = {
         ["points"] = 9137.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3026,
+        ["rank_raids"] = 3027,
         ["kill_count"] = 15,
-        ["points"] = 8643.2,
+        ["points"] = 8642.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 165,
@@ -16686,9 +16686,9 @@ UWULogsData[5][1] = {
         ["points"] = 9235.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1069,
+        ["rank_raids"] = 1070,
         ["kill_count"] = 16,
-        ["points"] = 9323.4,
+        ["points"] = 9323.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1913,
@@ -16723,9 +16723,9 @@ UWULogsData[5][1] = {
         ["points"] = 8615.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3289,
+        ["rank_raids"] = 3290,
         ["kill_count"] = 13,
-        ["points"] = 8564.3,
+        ["points"] = 8564.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1655,
@@ -16743,9 +16743,9 @@ UWULogsData[5][1] = {
         ["points"] = 9790.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2874,
+        ["rank_raids"] = 2875,
         ["kill_count"] = 14,
-        ["points"] = 8688.8,
+        ["points"] = 8688.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2403,
@@ -16760,7 +16760,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Prixi"] = {
-    ["percentile"] = 91.06,
+    ["percentile"] = 91.05,
     ["server"] = "Icecrown",
     ["overall_rank"] = 295,
     ["bosses"] = {
@@ -16775,14 +16775,14 @@ UWULogsData[5][1] = {
         ["points"] = 9780.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4089,
+        ["rank_raids"] = 4091,
         ["kill_count"] = 3,
-        ["points"] = 8324.3,
+        ["points"] = 8323.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4892,
+        ["rank_raids"] = 4893,
         ["kill_count"] = 2,
-        ["points"] = 8083.4,
+        ["points"] = 8083.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1318,
@@ -16800,9 +16800,9 @@ UWULogsData[5][1] = {
         ["points"] = 9173.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1212,
+        ["rank_raids"] = 1213,
         ["kill_count"] = 2,
-        ["points"] = 9266.2,
+        ["points"] = 9265.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 297,
@@ -16837,9 +16837,9 @@ UWULogsData[5][1] = {
         ["points"] = 8892.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1606,
+        ["rank_raids"] = 1607,
         ["kill_count"] = 8,
-        ["points"] = 9108.6,
+        ["points"] = 9108.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1602,
@@ -16857,9 +16857,9 @@ UWULogsData[5][1] = {
         ["points"] = 9714.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4712,
+        ["rank_raids"] = 4713,
         ["kill_count"] = 12,
-        ["points"] = 8137.4,
+        ["points"] = 8137.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 940,
@@ -16894,9 +16894,9 @@ UWULogsData[5][1] = {
         ["points"] = 9385.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1660,
+        ["rank_raids"] = 1661,
         ["kill_count"] = 8,
-        ["points"] = 9087.0,
+        ["points"] = 9086.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2056,
@@ -16914,9 +16914,9 @@ UWULogsData[5][1] = {
         ["points"] = 9314.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2436,
+        ["rank_raids"] = 2437,
         ["kill_count"] = 7,
-        ["points"] = 8820.2,
+        ["points"] = 8819.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2208,
@@ -16951,9 +16951,9 @@ UWULogsData[5][1] = {
         ["points"] = 9189.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 933,
+        ["rank_raids"] = 934,
         ["kill_count"] = 30,
-        ["points"] = 9384.5,
+        ["points"] = 9384.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 592,
@@ -16966,14 +16966,14 @@ UWULogsData[5][1] = {
         ["points"] = 9526.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10872,
+        ["rank_raids"] = 10873,
         ["kill_count"] = 36,
-        ["points"] = 6463.8,
+        ["points"] = 6463.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1734,
+        ["rank_raids"] = 1735,
         ["kill_count"] = 36,
-        ["points"] = 9057.4,
+        ["points"] = 9057.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 548,
@@ -17008,9 +17008,9 @@ UWULogsData[5][1] = {
         ["points"] = 8639.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2427,
+        ["rank_raids"] = 2428,
         ["kill_count"] = 12,
-        ["points"] = 8822.9,
+        ["points"] = 8822.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 47,
@@ -17028,9 +17028,9 @@ UWULogsData[5][1] = {
         ["points"] = 9291.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1890,
+        ["rank_raids"] = 1891,
         ["kill_count"] = 15,
-        ["points"] = 8995.0,
+        ["points"] = 8994.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 273,
@@ -17038,9 +17038,9 @@ UWULogsData[5][1] = {
         ["points"] = 9752.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5353,
+        ["rank_raids"] = 5354,
         ["kill_count"] = 6,
-        ["points"] = 7945.1,
+        ["points"] = 7944.8,
       },
     },
   },
@@ -17065,9 +17065,9 @@ UWULogsData[5][1] = {
         ["points"] = 9539.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 220,
+        ["rank_raids"] = 221,
         ["kill_count"] = 5,
-        ["points"] = 9795.0,
+        ["points"] = 9794.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 287,
@@ -17075,19 +17075,19 @@ UWULogsData[5][1] = {
         ["points"] = 9741.4,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 12601,
+        ["rank_raids"] = 12602,
         ["kill_count"] = 3,
-        ["points"] = 6290.9,
+        ["points"] = 6290.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3048,
+        ["rank_raids"] = 3049,
         ["kill_count"] = 5,
-        ["points"] = 8636.6,
+        ["points"] = 8636.3,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 474,
         ["kill_count"] = 5,
-        ["points"] = 9625.0,
+        ["points"] = 9625.06,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2796,
@@ -17102,7 +17102,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Hexada"] = {
-    ["percentile"] = 90.98,
+    ["percentile"] = 90.97,
     ["server"] = "Icecrown",
     ["overall_rank"] = 301,
     ["bosses"] = {
@@ -17122,9 +17122,9 @@ UWULogsData[5][1] = {
         ["points"] = 9121.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1019,
+        ["rank_raids"] = 1020,
         ["kill_count"] = 8,
-        ["points"] = 9343.4,
+        ["points"] = 9343.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1324,
@@ -17142,9 +17142,9 @@ UWULogsData[5][1] = {
         ["points"] = 8858.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3319,
+        ["rank_raids"] = 3320,
         ["kill_count"] = 10,
-        ["points"] = 8555.3,
+        ["points"] = 8555.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2397,
@@ -17164,9 +17164,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 302,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5570,
+        ["rank_raids"] = 5571,
         ["kill_count"] = 14,
-        ["points"] = 7880.0,
+        ["points"] = 7879.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1831,
@@ -17179,14 +17179,14 @@ UWULogsData[5][1] = {
         ["points"] = 9017.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1343,
+        ["rank_raids"] = 1344,
         ["kill_count"] = 9,
-        ["points"] = 9213.8,
+        ["points"] = 9213.4,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4188,
+        ["rank_raids"] = 4189,
         ["kill_count"] = 7,
-        ["points"] = 8294.6,
+        ["points"] = 8294.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 680,
@@ -17201,7 +17201,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 339,
         ["kill_count"] = 21,
-        ["points"] = 9711.42,
+        ["points"] = 9711.46,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 763,
@@ -17221,9 +17221,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 303,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6735,
+        ["rank_raids"] = 6736,
         ["kill_count"] = 3,
-        ["points"] = 7530.5,
+        ["points"] = 7530.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1279,
@@ -17236,9 +17236,9 @@ UWULogsData[5][1] = {
         ["points"] = 8614.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 546,
+        ["rank_raids"] = 547,
         ["kill_count"] = 3,
-        ["points"] = 9578.0,
+        ["points"] = 9577.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 818,
@@ -17251,9 +17251,9 @@ UWULogsData[5][1] = {
         ["points"] = 9594.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7194,
+        ["rank_raids"] = 7195,
         ["kill_count"] = 3,
-        ["points"] = 7392.8,
+        ["points"] = 7392.5,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 122,
@@ -17273,7 +17273,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Fraeya"] = {
-    ["percentile"] = 90.94,
+    ["percentile"] = 90.93,
     ["server"] = "Icecrown",
     ["overall_rank"] = 304,
     ["bosses"] = {
@@ -17293,9 +17293,9 @@ UWULogsData[5][1] = {
         ["points"] = 9326.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2502,
+        ["rank_raids"] = 2503,
         ["kill_count"] = 31,
-        ["points"] = 8800.4,
+        ["points"] = 8800.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 969,
@@ -17313,9 +17313,9 @@ UWULogsData[5][1] = {
         ["points"] = 9289.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1367,
+        ["rank_raids"] = 1368,
         ["kill_count"] = 32,
-        ["points"] = 9204.2,
+        ["points"] = 9203.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 724,
@@ -17330,14 +17330,14 @@ UWULogsData[5][1] = {
     },
   },
   ["Dororosan"] = {
-    ["percentile"] = 90.93,
+    ["percentile"] = 90.92,
     ["server"] = "Icecrown",
     ["overall_rank"] = 305,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8633,
+        ["rank_raids"] = 8636,
         ["kill_count"] = 32,
-        ["points"] = 6961.1,
+        ["points"] = 6960.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 264,
@@ -17350,9 +17350,9 @@ UWULogsData[5][1] = {
         ["points"] = 8956.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 396,
+        ["rank_raids"] = 397,
         ["kill_count"] = 32,
-        ["points"] = 9663.8,
+        ["points"] = 9663.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 501,
@@ -17365,9 +17365,9 @@ UWULogsData[5][1] = {
         ["points"] = 9655.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7461,
+        ["rank_raids"] = 7462,
         ["kill_count"] = 28,
-        ["points"] = 7312.7,
+        ["points"] = 7312.4,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 98,
@@ -17392,9 +17392,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 306,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 4830,
+        ["rank_raids"] = 4831,
         ["kill_count"] = 18,
-        ["points"] = 8102.0,
+        ["points"] = 8101.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2092,
@@ -17407,9 +17407,9 @@ UWULogsData[5][1] = {
         ["points"] = 8882.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1138,
+        ["rank_raids"] = 1139,
         ["kill_count"] = 11,
-        ["points"] = 9295.8,
+        ["points"] = 9295.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2282,
@@ -17427,9 +17427,9 @@ UWULogsData[5][1] = {
         ["points"] = 9920.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 581,
+        ["rank_raids"] = 582,
         ["kill_count"] = 23,
-        ["points"] = 9560.5,
+        ["points"] = 9560.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2785,
@@ -17464,9 +17464,9 @@ UWULogsData[5][1] = {
         ["points"] = 9187.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1273,
+        ["rank_raids"] = 1274,
         ["kill_count"] = 5,
-        ["points"] = 9241.8,
+        ["points"] = 9241.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1016,
@@ -17479,14 +17479,14 @@ UWULogsData[5][1] = {
         ["points"] = 9294.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5456,
+        ["rank_raids"] = 5457,
         ["kill_count"] = 5,
-        ["points"] = 7914.2,
+        ["points"] = 7913.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1820,
+        ["rank_raids"] = 1821,
         ["kill_count"] = 10,
-        ["points"] = 9023.0,
+        ["points"] = 9022.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1132,
@@ -17521,9 +17521,9 @@ UWULogsData[5][1] = {
         ["points"] = 9515.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3720,
+        ["rank_raids"] = 3721,
         ["kill_count"] = 9,
-        ["points"] = 8435.0,
+        ["points"] = 8434.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 593,
@@ -17541,9 +17541,9 @@ UWULogsData[5][1] = {
         ["points"] = 8822.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 671,
+        ["rank_raids"] = 672,
         ["kill_count"] = 9,
-        ["points"] = 9515.5,
+        ["points"] = 9515.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 400,
@@ -17578,9 +17578,9 @@ UWULogsData[5][1] = {
         ["points"] = 9296.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2240,
+        ["rank_raids"] = 2241,
         ["kill_count"] = 20,
-        ["points"] = 8879.0,
+        ["points"] = 8878.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1236,
@@ -17598,9 +17598,9 @@ UWULogsData[5][1] = {
         ["points"] = 9471.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2989,
+        ["rank_raids"] = 2990,
         ["kill_count"] = 22,
-        ["points"] = 8654.3,
+        ["points"] = 8654.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2826,
@@ -17630,9 +17630,9 @@ UWULogsData[5][1] = {
         ["points"] = 7004.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3743,
+        ["rank_raids"] = 3744,
         ["kill_count"] = 5,
-        ["points"] = 8428.1,
+        ["points"] = 8427.8,
       },
       ["Festergut"] = {
         ["rank_raids"] = 185,
@@ -17657,7 +17657,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 283,
         ["kill_count"] = 8,
-        ["points"] = 9748.46,
+        ["points"] = 9748.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 612,
@@ -17692,9 +17692,9 @@ UWULogsData[5][1] = {
         ["points"] = 9833.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1881,
+        ["rank_raids"] = 1882,
         ["kill_count"] = 8,
-        ["points"] = 8998.6,
+        ["points"] = 8998.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 215,
@@ -17712,9 +17712,9 @@ UWULogsData[5][1] = {
         ["points"] = 9099.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3437,
+        ["rank_raids"] = 3438,
         ["kill_count"] = 7,
-        ["points"] = 8519.9,
+        ["points"] = 8519.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3539,
@@ -17749,9 +17749,9 @@ UWULogsData[5][1] = {
         ["points"] = 9209.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1107,
+        ["rank_raids"] = 1108,
         ["kill_count"] = 20,
-        ["points"] = 9308.2,
+        ["points"] = 9307.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1100,
@@ -17769,9 +17769,9 @@ UWULogsData[5][1] = {
         ["points"] = 8859.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3538,
+        ["rank_raids"] = 3539,
         ["kill_count"] = 32,
-        ["points"] = 8489.6,
+        ["points"] = 8489.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1007,
@@ -17806,9 +17806,9 @@ UWULogsData[5][1] = {
         ["points"] = 9455.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1223,
+        ["rank_raids"] = 1224,
         ["kill_count"] = 14,
-        ["points"] = 9261.8,
+        ["points"] = 9261.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1130,
@@ -17821,14 +17821,14 @@ UWULogsData[5][1] = {
         ["points"] = 8274.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3010,
+        ["rank_raids"] = 3011,
         ["kill_count"] = 11,
-        ["points"] = 8648.0,
+        ["points"] = 8647.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3229,
+        ["rank_raids"] = 3230,
         ["kill_count"] = 17,
-        ["points"] = 8582.3,
+        ["points"] = 8582.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1090,
@@ -17868,9 +17868,9 @@ UWULogsData[5][1] = {
         ["points"] = 9916.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8258,
+        ["rank_raids"] = 8260,
         ["kill_count"] = 4,
-        ["points"] = 7073.6,
+        ["points"] = 7073.0,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 253,
@@ -17878,9 +17878,9 @@ UWULogsData[5][1] = {
         ["points"] = 9768.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6462,
+        ["rank_raids"] = 6463,
         ["kill_count"] = 4,
-        ["points"] = 7612.4,
+        ["points"] = 7612.1,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 155,
@@ -17920,9 +17920,9 @@ UWULogsData[5][1] = {
         ["points"] = 8740.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2029,
+        ["rank_raids"] = 2030,
         ["kill_count"] = 7,
-        ["points"] = 8942.3,
+        ["points"] = 8942.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 297,
@@ -17942,7 +17942,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 311,
         ["kill_count"] = 6,
-        ["points"] = 9733.02,
+        ["points"] = 9733.07,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2429,
@@ -17972,9 +17972,9 @@ UWULogsData[5][1] = {
         ["points"] = 9203.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 13539,
+        ["rank_raids"] = 13544,
         ["kill_count"] = 2,
-        ["points"] = 6197.1,
+        ["points"] = 6196.6,
       },
       ["Festergut"] = {
         ["rank_raids"] = 71,
@@ -18034,9 +18034,9 @@ UWULogsData[5][1] = {
         ["points"] = 8910.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2948,
+        ["rank_raids"] = 2949,
         ["kill_count"] = 17,
-        ["points"] = 8666.6,
+        ["points"] = 8666.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 856,
@@ -18054,9 +18054,9 @@ UWULogsData[5][1] = {
         ["points"] = 9663.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2372,
+        ["rank_raids"] = 2373,
         ["kill_count"] = 20,
-        ["points"] = 8839.4,
+        ["points"] = 8839.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3232,
@@ -18091,9 +18091,9 @@ UWULogsData[5][1] = {
         ["points"] = 9115.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1980,
+        ["rank_raids"] = 1981,
         ["kill_count"] = 23,
-        ["points"] = 8959.0,
+        ["points"] = 8958.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 620,
@@ -18111,9 +18111,9 @@ UWULogsData[5][1] = {
         ["points"] = 9524.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4040,
+        ["rank_raids"] = 4041,
         ["kill_count"] = 27,
-        ["points"] = 8339.0,
+        ["points"] = 8338.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4000,
@@ -18148,9 +18148,9 @@ UWULogsData[5][1] = {
         ["points"] = 9233.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2622,
+        ["rank_raids"] = 2623,
         ["kill_count"] = 5,
-        ["points"] = 8764.4,
+        ["points"] = 8764.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1714,
@@ -18168,9 +18168,9 @@ UWULogsData[5][1] = {
         ["points"] = 8760.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2113,
+        ["rank_raids"] = 2114,
         ["kill_count"] = 18,
-        ["points"] = 8917.1,
+        ["points"] = 8916.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1743,
@@ -18205,9 +18205,9 @@ UWULogsData[5][1] = {
         ["points"] = 9055.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1920,
+        ["rank_raids"] = 1921,
         ["kill_count"] = 8,
-        ["points"] = 8983.0,
+        ["points"] = 8982.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 972,
@@ -18225,9 +18225,9 @@ UWULogsData[5][1] = {
         ["points"] = 9189.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2434,
+        ["rank_raids"] = 2435,
         ["kill_count"] = 14,
-        ["points"] = 8820.8,
+        ["points"] = 8820.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 739,
@@ -18262,9 +18262,9 @@ UWULogsData[5][1] = {
         ["points"] = 9494.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 951,
+        ["rank_raids"] = 952,
         ["kill_count"] = 6,
-        ["points"] = 9375.5,
+        ["points"] = 9375.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1390,
@@ -18282,9 +18282,9 @@ UWULogsData[5][1] = {
         ["points"] = 8965.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6298,
+        ["rank_raids"] = 6299,
         ["kill_count"] = 4,
-        ["points"] = 7661.6,
+        ["points"] = 7661.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 859,
@@ -18319,9 +18319,9 @@ UWULogsData[5][1] = {
         ["points"] = 8909.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2218,
+        ["rank_raids"] = 2219,
         ["kill_count"] = 14,
-        ["points"] = 8885.6,
+        ["points"] = 8885.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 437,
@@ -18334,14 +18334,14 @@ UWULogsData[5][1] = {
         ["points"] = 8506.7,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4244,
+        ["rank_raids"] = 4245,
         ["kill_count"] = 13,
-        ["points"] = 8277.8,
+        ["points"] = 8277.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1843,
+        ["rank_raids"] = 1844,
         ["kill_count"] = 16,
-        ["points"] = 9013.8,
+        ["points"] = 9013.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 278,
@@ -18376,9 +18376,9 @@ UWULogsData[5][1] = {
         ["points"] = 9079.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2180,
+        ["rank_raids"] = 2181,
         ["kill_count"] = 10,
-        ["points"] = 8897.0,
+        ["points"] = 8896.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 626,
@@ -18396,9 +18396,9 @@ UWULogsData[5][1] = {
         ["points"] = 9828.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3684,
+        ["rank_raids"] = 3685,
         ["kill_count"] = 12,
-        ["points"] = 8445.8,
+        ["points"] = 8445.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 250,
@@ -18406,9 +18406,9 @@ UWULogsData[5][1] = {
         ["points"] = 9771.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8934,
+        ["rank_raids"] = 8935,
         ["kill_count"] = 9,
-        ["points"] = 6870.8,
+        ["points"] = 6870.5,
       },
     },
   },
@@ -18433,9 +18433,9 @@ UWULogsData[5][1] = {
         ["points"] = 9861.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3492,
+        ["rank_raids"] = 3493,
         ["kill_count"] = 10,
-        ["points"] = 8503.4,
+        ["points"] = 8503.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 467,
@@ -18448,14 +18448,14 @@ UWULogsData[5][1] = {
         ["points"] = 9287.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 11818,
+        ["rank_raids"] = 11819,
         ["kill_count"] = 8,
-        ["points"] = 6369.2,
+        ["points"] = 6369.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1100,
+        ["rank_raids"] = 1101,
         ["kill_count"] = 10,
-        ["points"] = 9311.0,
+        ["points"] = 9310.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 393,
@@ -18470,7 +18470,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Lyxhoran"] = {
-    ["percentile"] = 90.66,
+    ["percentile"] = 90.65,
     ["server"] = "Icecrown",
     ["overall_rank"] = 326,
     ["bosses"] = {
@@ -18485,14 +18485,14 @@ UWULogsData[5][1] = {
         ["points"] = 9264.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6687,
+        ["rank_raids"] = 6690,
         ["kill_count"] = 3,
-        ["points"] = 7544.9,
+        ["points"] = 7544.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 304,
+        ["rank_raids"] = 305,
         ["kill_count"] = 5,
-        ["points"] = 9728.2,
+        ["points"] = 9727.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 650,
@@ -18505,9 +18505,9 @@ UWULogsData[5][1] = {
         ["points"] = 7711.1,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6869,
+        ["rank_raids"] = 6870,
         ["kill_count"] = 5,
-        ["points"] = 7490.3,
+        ["points"] = 7490.0,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 173,
@@ -18526,67 +18526,10 @@ UWULogsData[5][1] = {
       },
     },
   },
-  ["Smol"] = {
-    ["percentile"] = 90.64,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 327,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 4935,
-        ["kill_count"] = 10,
-        ["points"] = 8070.5,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 2098,
-        ["kill_count"] = 8,
-        ["points"] = 8921.6,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6006,
-        ["kill_count"] = 3,
-        ["points"] = 7749.2,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 684,
-        ["kill_count"] = 12,
-        ["points"] = 9509.0,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 146,
-        ["kill_count"] = 11,
-        ["points"] = 9859.6,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 215,
-        ["kill_count"] = 16,
-        ["points"] = 9799.0,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 2557,
-        ["kill_count"] = 16,
-        ["points"] = 8783.9,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1761,
-        ["kill_count"] = 16,
-        ["points"] = 9046.6,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 645,
-        ["kill_count"] = 16,
-        ["points"] = 9528.5,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 977,
-        ["kill_count"] = 16,
-        ["points"] = 9362.5,
-      },
-    },
-  },
   ["Hornywomann"] = {
     ["percentile"] = 90.64,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 328,
+    ["overall_rank"] = 327,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 856,
@@ -18604,9 +18547,9 @@ UWULogsData[5][1] = {
         ["points"] = 8852.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2533,
+        ["rank_raids"] = 2534,
         ["kill_count"] = 17,
-        ["points"] = 8791.1,
+        ["points"] = 8790.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1859,
@@ -18624,9 +18567,9 @@ UWULogsData[5][1] = {
         ["points"] = 9144.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2784,
+        ["rank_raids"] = 2785,
         ["kill_count"] = 17,
-        ["points"] = 8715.8,
+        ["points"] = 8715.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1416,
@@ -18637,6 +18580,63 @@ UWULogsData[5][1] = {
         ["rank_raids"] = 1538,
         ["kill_count"] = 15,
         ["points"] = 9135.8,
+      },
+    },
+  },
+  ["Smol"] = {
+    ["percentile"] = 90.64,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 328,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 4936,
+        ["kill_count"] = 10,
+        ["points"] = 8070.2,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 2098,
+        ["kill_count"] = 8,
+        ["points"] = 8921.6,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 6009,
+        ["kill_count"] = 3,
+        ["points"] = 7748.3,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 685,
+        ["kill_count"] = 12,
+        ["points"] = 9508.5,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 146,
+        ["kill_count"] = 11,
+        ["points"] = 9859.6,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 215,
+        ["kill_count"] = 16,
+        ["points"] = 9799.0,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 2557,
+        ["kill_count"] = 16,
+        ["points"] = 8783.9,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 1762,
+        ["kill_count"] = 16,
+        ["points"] = 9046.2,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 645,
+        ["kill_count"] = 16,
+        ["points"] = 9528.5,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 977,
+        ["kill_count"] = 16,
+        ["points"] = 9362.5,
       },
     },
   },
@@ -18656,14 +18656,14 @@ UWULogsData[5][1] = {
         ["points"] = 9340.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3824,
+        ["rank_raids"] = 3825,
         ["kill_count"] = 4,
-        ["points"] = 8403.8,
+        ["points"] = 8403.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3904,
+        ["rank_raids"] = 3905,
         ["kill_count"] = 7,
-        ["points"] = 8379.8,
+        ["points"] = 8379.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1815,
@@ -18681,9 +18681,9 @@ UWULogsData[5][1] = {
         ["points"] = 9775.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1527,
+        ["rank_raids"] = 1528,
         ["kill_count"] = 10,
-        ["points"] = 9140.2,
+        ["points"] = 9139.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3006,
@@ -18718,9 +18718,9 @@ UWULogsData[5][1] = {
         ["points"] = 9205.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1038,
+        ["rank_raids"] = 1039,
         ["kill_count"] = 9,
-        ["points"] = 9335.8,
+        ["points"] = 9335.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2165,
@@ -18738,9 +18738,9 @@ UWULogsData[5][1] = {
         ["points"] = 9138.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3340,
+        ["rank_raids"] = 3341,
         ["kill_count"] = 10,
-        ["points"] = 8549.0,
+        ["points"] = 8548.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 774,
@@ -18760,9 +18760,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 331,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7391,
+        ["rank_raids"] = 7393,
         ["kill_count"] = 4,
-        ["points"] = 7333.7,
+        ["points"] = 7333.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 244,
@@ -18770,9 +18770,9 @@ UWULogsData[5][1] = {
         ["points"] = 9775.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9387,
+        ["rank_raids"] = 9391,
         ["kill_count"] = 4,
-        ["points"] = 6734.9,
+        ["points"] = 6733.7,
       },
       ["Festergut"] = {
         ["rank_raids"] = 133,
@@ -18812,7 +18812,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Wedz"] = {
-    ["percentile"] = 90.58,
+    ["percentile"] = 90.57,
     ["server"] = "Icecrown",
     ["overall_rank"] = 332,
     ["bosses"] = {
@@ -18832,9 +18832,9 @@ UWULogsData[5][1] = {
         ["points"] = 9913.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5082,
+        ["rank_raids"] = 5083,
         ["kill_count"] = 4,
-        ["points"] = 8026.4,
+        ["points"] = 8026.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 690,
@@ -18847,14 +18847,14 @@ UWULogsData[5][1] = {
         ["points"] = 9785.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4424,
+        ["rank_raids"] = 4425,
         ["kill_count"] = 9,
-        ["points"] = 8223.8,
+        ["points"] = 8223.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1819,
+        ["rank_raids"] = 1820,
         ["kill_count"] = 15,
-        ["points"] = 9023.4,
+        ["points"] = 9023.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6376,
@@ -18869,7 +18869,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Trushot"] = {
-    ["percentile"] = 90.57,
+    ["percentile"] = 90.56,
     ["server"] = "Icecrown",
     ["overall_rank"] = 333,
     ["bosses"] = {
@@ -18884,14 +18884,14 @@ UWULogsData[5][1] = {
         ["points"] = 6902.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5933,
+        ["rank_raids"] = 5936,
         ["kill_count"] = 4,
-        ["points"] = 7771.1,
+        ["points"] = 7770.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1370,
+        ["rank_raids"] = 1371,
         ["kill_count"] = 11,
-        ["points"] = 9203.0,
+        ["points"] = 9202.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 494,
@@ -18911,7 +18911,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 263,
         ["kill_count"] = 17,
-        ["points"] = 9763.89,
+        ["points"] = 9763.93,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 176,
@@ -18946,14 +18946,14 @@ UWULogsData[5][1] = {
         ["points"] = 9135.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1902,
+        ["rank_raids"] = 1903,
         ["kill_count"] = 6,
-        ["points"] = 8990.2,
+        ["points"] = 8989.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4581,
+        ["rank_raids"] = 4582,
         ["kill_count"] = 6,
-        ["points"] = 8176.7,
+        ["points"] = 8176.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1143,
@@ -18966,9 +18966,9 @@ UWULogsData[5][1] = {
         ["points"] = 9322.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 658,
+        ["rank_raids"] = 659,
         ["kill_count"] = 9,
-        ["points"] = 9522.0,
+        ["points"] = 9521.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4662,
@@ -18998,9 +18998,9 @@ UWULogsData[5][1] = {
         ["points"] = 9388.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 12543,
+        ["rank_raids"] = 12548,
         ["kill_count"] = 1,
-        ["points"] = 6296.7,
+        ["points"] = 6296.2,
       },
       ["Festergut"] = {
         ["rank_raids"] = 30,
@@ -19023,9 +19023,9 @@ UWULogsData[5][1] = {
         ["points"] = 9811.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3017,
+        ["rank_raids"] = 3018,
         ["kill_count"] = 31,
-        ["points"] = 8645.9,
+        ["points"] = 8645.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 681,
@@ -19040,14 +19040,14 @@ UWULogsData[5][1] = {
     },
   },
   ["Iputshields"] = {
-    ["percentile"] = 90.52,
+    ["percentile"] = 90.51,
     ["server"] = "Icecrown",
     ["overall_rank"] = 336,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6555,
+        ["rank_raids"] = 6556,
         ["kill_count"] = 5,
-        ["points"] = 7584.5,
+        ["points"] = 7584.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1059,
@@ -19060,9 +19060,9 @@ UWULogsData[5][1] = {
         ["points"] = 9042.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1987,
+        ["rank_raids"] = 1988,
         ["kill_count"] = 8,
-        ["points"] = 8956.2,
+        ["points"] = 8955.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1519,
@@ -19080,9 +19080,9 @@ UWULogsData[5][1] = {
         ["points"] = 9564.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 867,
+        ["rank_raids"] = 868,
         ["kill_count"] = 8,
-        ["points"] = 9417.5,
+        ["points"] = 9417.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2400,
@@ -19117,9 +19117,9 @@ UWULogsData[5][1] = {
         ["points"] = 8868.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4539,
+        ["rank_raids"] = 4540,
         ["kill_count"] = 7,
-        ["points"] = 8189.3,
+        ["points"] = 8189.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 358,
@@ -19139,7 +19139,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 366,
         ["kill_count"] = 9,
-        ["points"] = 9689.81,
+        ["points"] = 9689.86,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2654,
@@ -19189,14 +19189,14 @@ UWULogsData[5][1] = {
         ["points"] = 9537.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 20178,
+        ["rank_raids"] = 20179,
         ["kill_count"] = 8,
-        ["points"] = 5533.2,
+        ["points"] = 5533.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2155,
+        ["rank_raids"] = 2156,
         ["kill_count"] = 9,
-        ["points"] = 8904.5,
+        ["points"] = 8904.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 608,
@@ -19231,9 +19231,9 @@ UWULogsData[5][1] = {
         ["points"] = 8959.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 946,
+        ["rank_raids"] = 947,
         ["kill_count"] = 16,
-        ["points"] = 9378.0,
+        ["points"] = 9377.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 535,
@@ -19251,9 +19251,9 @@ UWULogsData[5][1] = {
         ["points"] = 8917.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3855,
+        ["rank_raids"] = 3856,
         ["kill_count"] = 16,
-        ["points"] = 8394.5,
+        ["points"] = 8394.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1989,
@@ -19288,9 +19288,9 @@ UWULogsData[5][1] = {
         ["points"] = 8991.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1405,
+        ["rank_raids"] = 1406,
         ["kill_count"] = 7,
-        ["points"] = 9189.0,
+        ["points"] = 9188.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2001,
@@ -19308,9 +19308,9 @@ UWULogsData[5][1] = {
         ["points"] = 8909.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2746,
+        ["rank_raids"] = 2747,
         ["kill_count"] = 11,
-        ["points"] = 8727.2,
+        ["points"] = 8726.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 648,
@@ -19340,14 +19340,14 @@ UWULogsData[5][1] = {
         ["points"] = 9339.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4091,
+        ["rank_raids"] = 4093,
         ["kill_count"] = 2,
-        ["points"] = 8323.7,
+        ["points"] = 8323.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1174,
+        ["rank_raids"] = 1175,
         ["kill_count"] = 3,
-        ["points"] = 9281.4,
+        ["points"] = 9281.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 771,
@@ -19360,14 +19360,14 @@ UWULogsData[5][1] = {
         ["points"] = 8352.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4067,
+        ["rank_raids"] = 4068,
         ["kill_count"] = 4,
-        ["points"] = 8330.9,
+        ["points"] = 8330.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1729,
+        ["rank_raids"] = 1730,
         ["kill_count"] = 6,
-        ["points"] = 9059.4,
+        ["points"] = 9059.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 505,
@@ -19402,9 +19402,9 @@ UWULogsData[5][1] = {
         ["points"] = 9305.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 812,
+        ["rank_raids"] = 813,
         ["kill_count"] = 7,
-        ["points"] = 9445.0,
+        ["points"] = 9444.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 700,
@@ -19422,9 +19422,9 @@ UWULogsData[5][1] = {
         ["points"] = 9580.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3961,
+        ["rank_raids"] = 3962,
         ["kill_count"] = 13,
-        ["points"] = 8362.7,
+        ["points"] = 8362.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2725,
@@ -19432,9 +19432,9 @@ UWULogsData[5][1] = {
         ["points"] = 8733.5,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5333,
+        ["rank_raids"] = 5334,
         ["kill_count"] = 14,
-        ["points"] = 7951.1,
+        ["points"] = 7950.8,
       },
     },
   },
@@ -19444,9 +19444,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 343,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6454,
+        ["rank_raids"] = 6455,
         ["kill_count"] = 19,
-        ["points"] = 7614.8,
+        ["points"] = 7614.5,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3126,
@@ -19459,9 +19459,9 @@ UWULogsData[5][1] = {
         ["points"] = 9022.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1362,
+        ["rank_raids"] = 1363,
         ["kill_count"] = 15,
-        ["points"] = 9206.2,
+        ["points"] = 9205.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1090,
@@ -19479,9 +19479,9 @@ UWULogsData[5][1] = {
         ["points"] = 9528.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 958,
+        ["rank_raids"] = 959,
         ["kill_count"] = 28,
-        ["points"] = 9372.0,
+        ["points"] = 9371.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2221,
@@ -19516,9 +19516,9 @@ UWULogsData[5][1] = {
         ["points"] = 8678.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2355,
+        ["rank_raids"] = 2356,
         ["kill_count"] = 5,
-        ["points"] = 8844.5,
+        ["points"] = 8844.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1141,
@@ -19536,9 +19536,9 @@ UWULogsData[5][1] = {
         ["points"] = 9792.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2639,
+        ["rank_raids"] = 2640,
         ["kill_count"] = 8,
-        ["points"] = 8759.3,
+        ["points"] = 8759.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3064,
@@ -19573,9 +19573,9 @@ UWULogsData[5][1] = {
         ["points"] = 9284.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1930,
+        ["rank_raids"] = 1931,
         ["kill_count"] = 5,
-        ["points"] = 8979.0,
+        ["points"] = 8978.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1584,
@@ -19593,9 +19593,9 @@ UWULogsData[5][1] = {
         ["points"] = 9587.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3063,
+        ["rank_raids"] = 3064,
         ["kill_count"] = 5,
-        ["points"] = 8632.1,
+        ["points"] = 8631.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3406,
@@ -19610,7 +19610,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Imacreep"] = {
-    ["percentile"] = 90.43,
+    ["percentile"] = 90.42,
     ["server"] = "Icecrown",
     ["overall_rank"] = 346,
     ["bosses"] = {
@@ -19625,14 +19625,14 @@ UWULogsData[5][1] = {
         ["points"] = 8221.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5525,
+        ["rank_raids"] = 5528,
         ["kill_count"] = 4,
-        ["points"] = 7893.5,
+        ["points"] = 7892.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1776,
+        ["rank_raids"] = 1777,
         ["kill_count"] = 7,
-        ["points"] = 9040.6,
+        ["points"] = 9040.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 676,
@@ -19650,9 +19650,9 @@ UWULogsData[5][1] = {
         ["points"] = 9759.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 810,
+        ["rank_raids"] = 811,
         ["kill_count"] = 6,
-        ["points"] = 9446.0,
+        ["points"] = 9445.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1259,
@@ -19707,9 +19707,9 @@ UWULogsData[5][1] = {
         ["points"] = 9565.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5277,
+        ["rank_raids"] = 5278,
         ["kill_count"] = 34,
-        ["points"] = 7967.9,
+        ["points"] = 7967.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4258,
@@ -19744,9 +19744,9 @@ UWULogsData[5][1] = {
         ["points"] = 9365.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 673,
+        ["rank_raids"] = 674,
         ["kill_count"] = 5,
-        ["points"] = 9514.5,
+        ["points"] = 9514.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 584,
@@ -19759,14 +19759,14 @@ UWULogsData[5][1] = {
         ["points"] = 9065.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 20130,
+        ["rank_raids"] = 20131,
         ["kill_count"] = 4,
-        ["points"] = 5538.0,
+        ["points"] = 5537.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1495,
+        ["rank_raids"] = 1496,
         ["kill_count"] = 6,
-        ["points"] = 9153.0,
+        ["points"] = 9152.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 537,
@@ -19801,9 +19801,9 @@ UWULogsData[5][1] = {
         ["points"] = 9544.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 268,
+        ["rank_raids"] = 269,
         ["kill_count"] = 7,
-        ["points"] = 9756.6,
+        ["points"] = 9755.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1648,
@@ -19831,9 +19831,9 @@ UWULogsData[5][1] = {
         ["points"] = 8462.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6717,
+        ["rank_raids"] = 6718,
         ["kill_count"] = 2,
-        ["points"] = 7535.9,
+        ["points"] = 7535.6,
       },
     },
   },
@@ -19858,9 +19858,9 @@ UWULogsData[5][1] = {
         ["points"] = 9537.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 927,
+        ["rank_raids"] = 928,
         ["kill_count"] = 6,
-        ["points"] = 9387.5,
+        ["points"] = 9387.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2386,
@@ -19878,9 +19878,9 @@ UWULogsData[5][1] = {
         ["points"] = 8752.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3924,
+        ["rank_raids"] = 3925,
         ["kill_count"] = 6,
-        ["points"] = 8373.8,
+        ["points"] = 8373.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1395,
@@ -19915,9 +19915,9 @@ UWULogsData[5][1] = {
         ["points"] = 9372.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1465,
+        ["rank_raids"] = 1466,
         ["kill_count"] = 3,
-        ["points"] = 9165.0,
+        ["points"] = 9164.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3446,
@@ -19935,9 +19935,9 @@ UWULogsData[5][1] = {
         ["points"] = 9219.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2756,
+        ["rank_raids"] = 2757,
         ["kill_count"] = 9,
-        ["points"] = 8724.2,
+        ["points"] = 8723.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1852,
@@ -19972,9 +19972,9 @@ UWULogsData[5][1] = {
         ["points"] = 9464.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1806,
+        ["rank_raids"] = 1807,
         ["kill_count"] = 8,
-        ["points"] = 9028.6,
+        ["points"] = 9028.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 823,
@@ -19992,9 +19992,9 @@ UWULogsData[5][1] = {
         ["points"] = 9238.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2766,
+        ["rank_raids"] = 2767,
         ["kill_count"] = 9,
-        ["points"] = 8721.2,
+        ["points"] = 8720.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5466,
@@ -20029,9 +20029,9 @@ UWULogsData[5][1] = {
         ["points"] = 8860.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2666,
+        ["rank_raids"] = 2667,
         ["kill_count"] = 14,
-        ["points"] = 8751.2,
+        ["points"] = 8750.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1949,
@@ -20049,9 +20049,9 @@ UWULogsData[5][1] = {
         ["points"] = 9513.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4404,
+        ["rank_raids"] = 4405,
         ["kill_count"] = 15,
-        ["points"] = 8229.8,
+        ["points"] = 8229.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1379,
@@ -20086,9 +20086,9 @@ UWULogsData[5][1] = {
         ["points"] = 9659.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5892,
+        ["rank_raids"] = 5893,
         ["kill_count"] = 14,
-        ["points"] = 7783.4,
+        ["points"] = 7783.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 906,
@@ -20106,9 +20106,9 @@ UWULogsData[5][1] = {
         ["points"] = 8928.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1261,
+        ["rank_raids"] = 1262,
         ["kill_count"] = 14,
-        ["points"] = 9246.6,
+        ["points"] = 9246.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2231,
@@ -20143,14 +20143,14 @@ UWULogsData[5][1] = {
         ["points"] = 9564.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2821,
+        ["rank_raids"] = 2822,
         ["kill_count"] = 16,
-        ["points"] = 8704.7,
+        ["points"] = 8704.4,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4185,
+        ["rank_raids"] = 4186,
         ["kill_count"] = 24,
-        ["points"] = 8295.5,
+        ["points"] = 8295.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6076,
@@ -20163,9 +20163,9 @@ UWULogsData[5][1] = {
         ["points"] = 9291.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 796,
+        ["rank_raids"] = 797,
         ["kill_count"] = 36,
-        ["points"] = 9453.0,
+        ["points"] = 9452.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6093,
@@ -20200,9 +20200,9 @@ UWULogsData[5][1] = {
         ["points"] = 8785.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1028,
+        ["rank_raids"] = 1029,
         ["kill_count"] = 10,
-        ["points"] = 9339.8,
+        ["points"] = 9339.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 843,
@@ -20215,14 +20215,14 @@ UWULogsData[5][1] = {
         ["points"] = 9527.5,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3675,
+        ["rank_raids"] = 3676,
         ["kill_count"] = 8,
-        ["points"] = 8448.5,
+        ["points"] = 8448.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4774,
+        ["rank_raids"] = 4775,
         ["kill_count"] = 9,
-        ["points"] = 8118.8,
+        ["points"] = 8118.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 473,
@@ -20257,9 +20257,9 @@ UWULogsData[5][1] = {
         ["points"] = 9215.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1643,
+        ["rank_raids"] = 1644,
         ["kill_count"] = 11,
-        ["points"] = 9093.8,
+        ["points"] = 9093.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2769,
@@ -20277,9 +20277,9 @@ UWULogsData[5][1] = {
         ["points"] = 8934.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1874,
+        ["rank_raids"] = 1875,
         ["kill_count"] = 8,
-        ["points"] = 9001.4,
+        ["points"] = 9001.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 939,
@@ -20314,9 +20314,9 @@ UWULogsData[5][1] = {
         ["points"] = 8708.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4349,
+        ["rank_raids"] = 4350,
         ["kill_count"] = 8,
-        ["points"] = 8246.3,
+        ["points"] = 8246.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 805,
@@ -20334,9 +20334,9 @@ UWULogsData[5][1] = {
         ["points"] = 9552.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2903,
+        ["rank_raids"] = 2904,
         ["kill_count"] = 9,
-        ["points"] = 8680.1,
+        ["points"] = 8679.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1209,
@@ -20371,9 +20371,9 @@ UWULogsData[5][1] = {
         ["points"] = 9328.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 937,
+        ["rank_raids"] = 938,
         ["kill_count"] = 15,
-        ["points"] = 9382.5,
+        ["points"] = 9382.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1379,
@@ -20391,9 +20391,9 @@ UWULogsData[5][1] = {
         ["points"] = 9555.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3169,
+        ["rank_raids"] = 3170,
         ["kill_count"] = 16,
-        ["points"] = 8600.3,
+        ["points"] = 8600.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2523,
@@ -20423,14 +20423,14 @@ UWULogsData[5][1] = {
         ["points"] = 9340.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4216,
+        ["rank_raids"] = 4218,
         ["kill_count"] = 5,
-        ["points"] = 8286.2,
+        ["points"] = 8285.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 382,
+        ["rank_raids"] = 383,
         ["kill_count"] = 7,
-        ["points"] = 9673.6,
+        ["points"] = 9672.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 995,
@@ -20448,9 +20448,9 @@ UWULogsData[5][1] = {
         ["points"] = 9727.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3068,
+        ["rank_raids"] = 3069,
         ["kill_count"] = 10,
-        ["points"] = 8630.6,
+        ["points"] = 8630.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3284,
@@ -20485,9 +20485,9 @@ UWULogsData[5][1] = {
         ["points"] = 9051.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 989,
+        ["rank_raids"] = 990,
         ["kill_count"] = 7,
-        ["points"] = 9356.5,
+        ["points"] = 9356.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1748,
@@ -20505,9 +20505,9 @@ UWULogsData[5][1] = {
         ["points"] = 9855.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1741,
+        ["rank_raids"] = 1742,
         ["kill_count"] = 9,
-        ["points"] = 9054.6,
+        ["points"] = 9054.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3863,
@@ -20542,9 +20542,9 @@ UWULogsData[5][1] = {
         ["points"] = 9113.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2686,
+        ["rank_raids"] = 2687,
         ["kill_count"] = 4,
-        ["points"] = 8745.2,
+        ["points"] = 8744.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1898,
@@ -20562,9 +20562,9 @@ UWULogsData[5][1] = {
         ["points"] = 9557.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4192,
+        ["rank_raids"] = 4193,
         ["kill_count"] = 3,
-        ["points"] = 8293.4,
+        ["points"] = 8293.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3779,
@@ -20584,9 +20584,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 363,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6432,
+        ["rank_raids"] = 6433,
         ["kill_count"] = 7,
-        ["points"] = 7621.4,
+        ["points"] = 7621.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1409,
@@ -20599,9 +20599,9 @@ UWULogsData[5][1] = {
         ["points"] = 9495.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 799,
+        ["rank_raids"] = 800,
         ["kill_count"] = 12,
-        ["points"] = 9451.5,
+        ["points"] = 9451.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1703,
@@ -20619,9 +20619,9 @@ UWULogsData[5][1] = {
         ["points"] = 9329.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2211,
+        ["rank_raids"] = 2212,
         ["kill_count"] = 14,
-        ["points"] = 8887.7,
+        ["points"] = 8887.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1253,
@@ -20656,14 +20656,14 @@ UWULogsData[5][1] = {
         ["points"] = 8965.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2508,
+        ["rank_raids"] = 2509,
         ["kill_count"] = 5,
-        ["points"] = 8798.6,
+        ["points"] = 8798.3,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 3998,
+        ["rank_raids"] = 3999,
         ["kill_count"] = 5,
-        ["points"] = 8351.6,
+        ["points"] = 8351.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1433,
@@ -20676,9 +20676,9 @@ UWULogsData[5][1] = {
         ["points"] = 9097.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2172,
+        ["rank_raids"] = 2173,
         ["kill_count"] = 8,
-        ["points"] = 8899.4,
+        ["points"] = 8899.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1683,
@@ -20713,9 +20713,9 @@ UWULogsData[5][1] = {
         ["points"] = 8945.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 591,
+        ["rank_raids"] = 592,
         ["kill_count"] = 11,
-        ["points"] = 9555.5,
+        ["points"] = 9555.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3368,
@@ -20733,9 +20733,9 @@ UWULogsData[5][1] = {
         ["points"] = 9836.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3585,
+        ["rank_raids"] = 3586,
         ["kill_count"] = 12,
-        ["points"] = 8475.5,
+        ["points"] = 8475.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3555,
@@ -20770,9 +20770,9 @@ UWULogsData[5][1] = {
         ["points"] = 9375.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1205,
+        ["rank_raids"] = 1206,
         ["kill_count"] = 10,
-        ["points"] = 9269.0,
+        ["points"] = 9268.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3165,
@@ -20790,9 +20790,9 @@ UWULogsData[5][1] = {
         ["points"] = 9038.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 825,
+        ["rank_raids"] = 826,
         ["kill_count"] = 13,
-        ["points"] = 9438.5,
+        ["points"] = 9438.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4235,
@@ -20827,9 +20827,9 @@ UWULogsData[5][1] = {
         ["points"] = 8644.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 896,
+        ["rank_raids"] = 897,
         ["kill_count"] = 6,
-        ["points"] = 9403.0,
+        ["points"] = 9402.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3362,
@@ -20847,9 +20847,9 @@ UWULogsData[5][1] = {
         ["points"] = 9376.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3906,
+        ["rank_raids"] = 3907,
         ["kill_count"] = 12,
-        ["points"] = 8379.2,
+        ["points"] = 8378.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2416,
@@ -20869,9 +20869,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 368,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6653,
+        ["rank_raids"] = 6654,
         ["kill_count"] = 2,
-        ["points"] = 7555.1,
+        ["points"] = 7554.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3509,
@@ -20884,9 +20884,9 @@ UWULogsData[5][1] = {
         ["points"] = 8696.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1007,
+        ["rank_raids"] = 1008,
         ["kill_count"] = 2,
-        ["points"] = 9348.2,
+        ["points"] = 9347.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 449,
@@ -20904,9 +20904,9 @@ UWULogsData[5][1] = {
         ["points"] = 9137.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2357,
+        ["rank_raids"] = 2358,
         ["kill_count"] = 3,
-        ["points"] = 8843.9,
+        ["points"] = 8843.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 416,
@@ -20941,9 +20941,9 @@ UWULogsData[5][1] = {
         ["points"] = 9078.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1599,
+        ["rank_raids"] = 1600,
         ["kill_count"] = 10,
-        ["points"] = 9111.4,
+        ["points"] = 9111.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2880,
@@ -20961,9 +20961,9 @@ UWULogsData[5][1] = {
         ["points"] = 9015.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1985,
+        ["rank_raids"] = 1986,
         ["kill_count"] = 12,
-        ["points"] = 8957.0,
+        ["points"] = 8956.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2097,
@@ -20998,9 +20998,9 @@ UWULogsData[5][1] = {
         ["points"] = 9313.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3773,
+        ["rank_raids"] = 3774,
         ["kill_count"] = 17,
-        ["points"] = 8419.1,
+        ["points"] = 8418.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2309,
@@ -21018,9 +21018,9 @@ UWULogsData[5][1] = {
         ["points"] = 9341.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4083,
+        ["rank_raids"] = 4084,
         ["kill_count"] = 16,
-        ["points"] = 8326.1,
+        ["points"] = 8325.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1489,
@@ -21055,14 +21055,14 @@ UWULogsData[5][1] = {
         ["points"] = 9564.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 843,
+        ["rank_raids"] = 844,
         ["kill_count"] = 16,
-        ["points"] = 9429.5,
+        ["points"] = 9429.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 12430,
+        ["rank_raids"] = 12432,
         ["kill_count"] = 11,
-        ["points"] = 6308.0,
+        ["points"] = 6307.8,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 583,
@@ -21070,14 +21070,14 @@ UWULogsData[5][1] = {
         ["points"] = 9559.5,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6292,
+        ["rank_raids"] = 6293,
         ["kill_count"] = 16,
-        ["points"] = 7663.4,
+        ["points"] = 7663.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1440,
+        ["rank_raids"] = 1441,
         ["kill_count"] = 20,
-        ["points"] = 9175.0,
+        ["points"] = 9174.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 589,
@@ -21112,9 +21112,9 @@ UWULogsData[5][1] = {
         ["points"] = 9243.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 761,
+        ["rank_raids"] = 762,
         ["kill_count"] = 13,
-        ["points"] = 9470.5,
+        ["points"] = 9470.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 926,
@@ -21132,9 +21132,9 @@ UWULogsData[5][1] = {
         ["points"] = 9181.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3407,
+        ["rank_raids"] = 3408,
         ["kill_count"] = 13,
-        ["points"] = 8528.9,
+        ["points"] = 8528.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3625,
@@ -21189,14 +21189,14 @@ UWULogsData[5][1] = {
         ["points"] = 9424.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2867,
+        ["rank_raids"] = 2868,
         ["kill_count"] = 3,
-        ["points"] = 8690.9,
+        ["points"] = 8690.6,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 14874,
+        ["rank_raids"] = 14875,
         ["kill_count"] = 2,
-        ["points"] = 6063.6,
+        ["points"] = 6063.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 3988,
@@ -21211,9 +21211,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 374,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9603,
+        ["rank_raids"] = 9606,
         ["kill_count"] = 14,
-        ["points"] = 6670.1,
+        ["points"] = 6669.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 256,
@@ -21226,9 +21226,9 @@ UWULogsData[5][1] = {
         ["points"] = 9388.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1479,
+        ["rank_raids"] = 1480,
         ["kill_count"] = 21,
-        ["points"] = 9159.4,
+        ["points"] = 9159.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1359,
@@ -21246,9 +21246,9 @@ UWULogsData[5][1] = {
         ["points"] = 9448.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2111,
+        ["rank_raids"] = 2112,
         ["kill_count"] = 35,
-        ["points"] = 8917.7,
+        ["points"] = 8917.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3009,
@@ -21283,9 +21283,9 @@ UWULogsData[5][1] = {
         ["points"] = 8891.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1633,
+        ["rank_raids"] = 1634,
         ["kill_count"] = 14,
-        ["points"] = 9097.8,
+        ["points"] = 9097.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 799,
@@ -21303,9 +21303,9 @@ UWULogsData[5][1] = {
         ["points"] = 9531.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1034,
+        ["rank_raids"] = 1035,
         ["kill_count"] = 18,
-        ["points"] = 9337.4,
+        ["points"] = 9337.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3599,
@@ -21313,9 +21313,9 @@ UWULogsData[5][1] = {
         ["points"] = 8471.3,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4398,
+        ["rank_raids"] = 4399,
         ["kill_count"] = 10,
-        ["points"] = 8231.6,
+        ["points"] = 8231.3,
       },
     },
   },
@@ -21340,9 +21340,9 @@ UWULogsData[5][1] = {
         ["points"] = 9124.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1256,
+        ["rank_raids"] = 1257,
         ["kill_count"] = 12,
-        ["points"] = 9248.6,
+        ["points"] = 9248.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2009,
@@ -21360,9 +21360,9 @@ UWULogsData[5][1] = {
         ["points"] = 8712.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3964,
+        ["rank_raids"] = 3965,
         ["kill_count"] = 13,
-        ["points"] = 8361.8,
+        ["points"] = 8361.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 148,
@@ -21377,7 +21377,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Discpriest"] = {
-    ["percentile"] = 90.07,
+    ["percentile"] = 90.06,
     ["server"] = "Icecrown",
     ["overall_rank"] = 377,
     ["bosses"] = {
@@ -21397,9 +21397,9 @@ UWULogsData[5][1] = {
         ["points"] = 8758.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1781,
+        ["rank_raids"] = 1782,
         ["kill_count"] = 17,
-        ["points"] = 9038.6,
+        ["points"] = 9038.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2663,
@@ -21417,9 +21417,9 @@ UWULogsData[5][1] = {
         ["points"] = 9662.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 923,
+        ["rank_raids"] = 924,
         ["kill_count"] = 25,
-        ["points"] = 9389.5,
+        ["points"] = 9389.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1464,
@@ -21434,14 +21434,14 @@ UWULogsData[5][1] = {
     },
   },
   ["Missgrace"] = {
-    ["percentile"] = 90.06,
+    ["percentile"] = 90.05,
     ["server"] = "Icecrown",
     ["overall_rank"] = 378,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6471,
+        ["rank_raids"] = 6472,
         ["kill_count"] = 17,
-        ["points"] = 7609.7,
+        ["points"] = 7609.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 859,
@@ -21454,9 +21454,9 @@ UWULogsData[5][1] = {
         ["points"] = 9492.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 731,
+        ["rank_raids"] = 732,
         ["kill_count"] = 13,
-        ["points"] = 9485.5,
+        ["points"] = 9485.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2151,
@@ -21469,14 +21469,14 @@ UWULogsData[5][1] = {
         ["points"] = 9628.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4295,
+        ["rank_raids"] = 4296,
         ["kill_count"] = 13,
-        ["points"] = 8262.5,
+        ["points"] = 8262.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2161,
+        ["rank_raids"] = 2162,
         ["kill_count"] = 19,
-        ["points"] = 8902.7,
+        ["points"] = 8902.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 601,
@@ -21491,7 +21491,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Gueakas"] = {
-    ["percentile"] = 90.06,
+    ["percentile"] = 90.05,
     ["server"] = "Icecrown",
     ["overall_rank"] = 379,
     ["bosses"] = {
@@ -21511,9 +21511,9 @@ UWULogsData[5][1] = {
         ["points"] = 9253.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2458,
+        ["rank_raids"] = 2459,
         ["kill_count"] = 19,
-        ["points"] = 8813.6,
+        ["points"] = 8813.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2607,
@@ -21531,9 +21531,9 @@ UWULogsData[5][1] = {
         ["points"] = 9539.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2019,
+        ["rank_raids"] = 2020,
         ["kill_count"] = 37,
-        ["points"] = 8945.3,
+        ["points"] = 8945.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4669,
@@ -21568,9 +21568,9 @@ UWULogsData[5][1] = {
         ["points"] = 9285.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1030,
+        ["rank_raids"] = 1031,
         ["kill_count"] = 12,
-        ["points"] = 9339.0,
+        ["points"] = 9338.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1354,
@@ -21588,9 +21588,9 @@ UWULogsData[5][1] = {
         ["points"] = 9223.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4085,
+        ["rank_raids"] = 4086,
         ["kill_count"] = 18,
-        ["points"] = 8325.5,
+        ["points"] = 8325.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2744,
@@ -21625,9 +21625,9 @@ UWULogsData[5][1] = {
         ["points"] = 9303.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 954,
+        ["rank_raids"] = 955,
         ["kill_count"] = 26,
-        ["points"] = 9374.0,
+        ["points"] = 9373.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2529,
@@ -21640,14 +21640,14 @@ UWULogsData[5][1] = {
         ["points"] = 9641.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3181,
+        ["rank_raids"] = 3182,
         ["kill_count"] = 28,
-        ["points"] = 8596.7,
+        ["points"] = 8596.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2545,
+        ["rank_raids"] = 2546,
         ["kill_count"] = 28,
-        ["points"] = 8787.5,
+        ["points"] = 8787.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2068,
@@ -21682,9 +21682,9 @@ UWULogsData[5][1] = {
         ["points"] = 9595.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3666,
+        ["rank_raids"] = 3667,
         ["kill_count"] = 16,
-        ["points"] = 8451.2,
+        ["points"] = 8450.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 702,
@@ -21702,14 +21702,14 @@ UWULogsData[5][1] = {
         ["points"] = 9783.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 785,
+        ["rank_raids"] = 786,
         ["kill_count"] = 26,
-        ["points"] = 9458.5,
+        ["points"] = 9458.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 15881,
+        ["rank_raids"] = 15882,
         ["kill_count"] = 19,
-        ["points"] = 5962.9,
+        ["points"] = 5962.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1241,
@@ -21739,9 +21739,9 @@ UWULogsData[5][1] = {
         ["points"] = 9907.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3633,
+        ["rank_raids"] = 3634,
         ["kill_count"] = 19,
-        ["points"] = 8461.1,
+        ["points"] = 8460.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 273,
@@ -21759,9 +21759,9 @@ UWULogsData[5][1] = {
         ["points"] = 9289.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2437,
+        ["rank_raids"] = 2438,
         ["kill_count"] = 30,
-        ["points"] = 8819.9,
+        ["points"] = 8819.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4595,
@@ -21769,9 +21769,9 @@ UWULogsData[5][1] = {
         ["points"] = 8172.5,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5960,
+        ["rank_raids"] = 5961,
         ["kill_count"] = 11,
-        ["points"] = 7763.0,
+        ["points"] = 7762.7,
       },
     },
   },
@@ -21796,9 +21796,9 @@ UWULogsData[5][1] = {
         ["points"] = 9243.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1485,
+        ["rank_raids"] = 1486,
         ["kill_count"] = 15,
-        ["points"] = 9157.0,
+        ["points"] = 9156.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2628,
@@ -21816,9 +21816,9 @@ UWULogsData[5][1] = {
         ["points"] = 8882.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4156,
+        ["rank_raids"] = 4157,
         ["kill_count"] = 22,
-        ["points"] = 8304.2,
+        ["points"] = 8303.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 543,
@@ -21826,9 +21826,9 @@ UWULogsData[5][1] = {
         ["points"] = 9579.5,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4383,
+        ["rank_raids"] = 4384,
         ["kill_count"] = 20,
-        ["points"] = 8236.1,
+        ["points"] = 8235.8,
       },
     },
   },
@@ -21838,9 +21838,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 385,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7720,
+        ["rank_raids"] = 7722,
         ["kill_count"] = 7,
-        ["points"] = 7235.0,
+        ["points"] = 7234.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2460,
@@ -21853,9 +21853,9 @@ UWULogsData[5][1] = {
         ["points"] = 9542.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1692,
+        ["rank_raids"] = 1693,
         ["kill_count"] = 8,
-        ["points"] = 9074.2,
+        ["points"] = 9073.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 581,
@@ -21873,9 +21873,9 @@ UWULogsData[5][1] = {
         ["points"] = 9121.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1114,
+        ["rank_raids"] = 1115,
         ["kill_count"] = 15,
-        ["points"] = 9305.4,
+        ["points"] = 9305.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3640,
@@ -21890,7 +21890,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Amoayult"] = {
-    ["percentile"] = 89.97,
+    ["percentile"] = 89.96,
     ["server"] = "Icecrown",
     ["overall_rank"] = 386,
     ["bosses"] = {
@@ -21910,9 +21910,9 @@ UWULogsData[5][1] = {
         ["points"] = 8514.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1522,
+        ["rank_raids"] = 1523,
         ["kill_count"] = 4,
-        ["points"] = 9142.2,
+        ["points"] = 9141.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1774,
@@ -21930,9 +21930,9 @@ UWULogsData[5][1] = {
         ["points"] = 9213.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3818,
+        ["rank_raids"] = 3819,
         ["kill_count"] = 5,
-        ["points"] = 8405.6,
+        ["points"] = 8405.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 385,
@@ -21967,9 +21967,9 @@ UWULogsData[5][1] = {
         ["points"] = 9185.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3391,
+        ["rank_raids"] = 3392,
         ["kill_count"] = 9,
-        ["points"] = 8533.7,
+        ["points"] = 8533.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 875,
@@ -21987,9 +21987,9 @@ UWULogsData[5][1] = {
         ["points"] = 8988.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4000,
+        ["rank_raids"] = 4001,
         ["kill_count"] = 10,
-        ["points"] = 8351.0,
+        ["points"] = 8350.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1681,
@@ -22024,9 +22024,9 @@ UWULogsData[5][1] = {
         ["points"] = 9608.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2532,
+        ["rank_raids"] = 2533,
         ["kill_count"] = 10,
-        ["points"] = 8791.4,
+        ["points"] = 8791.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 515,
@@ -22044,9 +22044,9 @@ UWULogsData[5][1] = {
         ["points"] = 8944.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1077,
+        ["rank_raids"] = 1078,
         ["kill_count"] = 12,
-        ["points"] = 9320.2,
+        ["points"] = 9319.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6440,
@@ -22061,7 +22061,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Fennvalo"] = {
-    ["percentile"] = 89.92,
+    ["percentile"] = 89.91,
     ["server"] = "Icecrown",
     ["overall_rank"] = 389,
     ["bosses"] = {
@@ -22076,14 +22076,14 @@ UWULogsData[5][1] = {
         ["points"] = 8709.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4017,
+        ["rank_raids"] = 4019,
         ["kill_count"] = 6,
-        ["points"] = 8345.9,
+        ["points"] = 8345.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1103,
+        ["rank_raids"] = 1104,
         ["kill_count"] = 9,
-        ["points"] = 9309.8,
+        ["points"] = 9309.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1930,
@@ -22101,9 +22101,9 @@ UWULogsData[5][1] = {
         ["points"] = 9116.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2215,
+        ["rank_raids"] = 2216,
         ["kill_count"] = 13,
-        ["points"] = 8886.5,
+        ["points"] = 8886.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1468,
@@ -22138,9 +22138,9 @@ UWULogsData[5][1] = {
         ["points"] = 9519.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2411,
+        ["rank_raids"] = 2412,
         ["kill_count"] = 10,
-        ["points"] = 8827.7,
+        ["points"] = 8827.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1102,
@@ -22158,9 +22158,9 @@ UWULogsData[5][1] = {
         ["points"] = 9807.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2757,
+        ["rank_raids"] = 2758,
         ["kill_count"] = 11,
-        ["points"] = 8723.9,
+        ["points"] = 8723.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2241,
@@ -22168,9 +22168,9 @@ UWULogsData[5][1] = {
         ["points"] = 8878.7,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7408,
+        ["rank_raids"] = 7409,
         ["kill_count"] = 10,
-        ["points"] = 7328.6,
+        ["points"] = 7328.3,
       },
     },
   },
@@ -22195,9 +22195,9 @@ UWULogsData[5][1] = {
         ["points"] = 9026.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4434,
+        ["rank_raids"] = 4435,
         ["kill_count"] = 11,
-        ["points"] = 8220.8,
+        ["points"] = 8220.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 129,
@@ -22215,9 +22215,9 @@ UWULogsData[5][1] = {
         ["points"] = 9106.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3555,
+        ["rank_raids"] = 3556,
         ["kill_count"] = 19,
-        ["points"] = 8484.5,
+        ["points"] = 8484.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 247,
@@ -22225,9 +22225,9 @@ UWULogsData[5][1] = {
         ["points"] = 9773.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4367,
+        ["rank_raids"] = 4368,
         ["kill_count"] = 17,
-        ["points"] = 8240.9,
+        ["points"] = 8240.6,
       },
     },
   },
@@ -22252,9 +22252,9 @@ UWULogsData[5][1] = {
         ["points"] = 8891.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3610,
+        ["rank_raids"] = 3611,
         ["kill_count"] = 8,
-        ["points"] = 8468.0,
+        ["points"] = 8467.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2201,
@@ -22272,9 +22272,9 @@ UWULogsData[5][1] = {
         ["points"] = 8948.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2929,
+        ["rank_raids"] = 2930,
         ["kill_count"] = 14,
-        ["points"] = 8672.3,
+        ["points"] = 8672.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1048,
@@ -22289,7 +22289,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Qusu"] = {
-    ["percentile"] = 89.89,
+    ["percentile"] = 89.88,
     ["server"] = "Icecrown",
     ["overall_rank"] = 393,
     ["bosses"] = {
@@ -22309,9 +22309,9 @@ UWULogsData[5][1] = {
         ["points"] = 8991.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2283,
+        ["rank_raids"] = 2284,
         ["kill_count"] = 14,
-        ["points"] = 8866.1,
+        ["points"] = 8865.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 82,
@@ -22329,9 +22329,9 @@ UWULogsData[5][1] = {
         ["points"] = 9281.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4213,
+        ["rank_raids"] = 4214,
         ["kill_count"] = 20,
-        ["points"] = 8287.1,
+        ["points"] = 8286.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 560,
@@ -22339,9 +22339,9 @@ UWULogsData[5][1] = {
         ["points"] = 9571.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7326,
+        ["rank_raids"] = 7327,
         ["kill_count"] = 37,
-        ["points"] = 7353.2,
+        ["points"] = 7352.9,
       },
     },
   },
@@ -22366,9 +22366,9 @@ UWULogsData[5][1] = {
         ["points"] = 9398.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1226,
+        ["rank_raids"] = 1227,
         ["kill_count"] = 12,
-        ["points"] = 9260.6,
+        ["points"] = 9260.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1684,
@@ -22386,9 +22386,9 @@ UWULogsData[5][1] = {
         ["points"] = 9165.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3979,
+        ["rank_raids"] = 3980,
         ["kill_count"] = 15,
-        ["points"] = 8357.3,
+        ["points"] = 8357.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3174,
@@ -22408,9 +22408,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 395,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 4801,
+        ["rank_raids"] = 4802,
         ["kill_count"] = 2,
-        ["points"] = 8110.7,
+        ["points"] = 8110.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 840,
@@ -22423,9 +22423,9 @@ UWULogsData[5][1] = {
         ["points"] = 8848.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 354,
+        ["rank_raids"] = 355,
         ["kill_count"] = 6,
-        ["points"] = 9693.2,
+        ["points"] = 9692.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1180,
@@ -22443,9 +22443,9 @@ UWULogsData[5][1] = {
         ["points"] = 9574.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6336,
+        ["rank_raids"] = 6337,
         ["kill_count"] = 5,
-        ["points"] = 7650.2,
+        ["points"] = 7649.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1343,
@@ -22480,9 +22480,9 @@ UWULogsData[5][1] = {
         ["points"] = 9462.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1175,
+        ["rank_raids"] = 1176,
         ["kill_count"] = 8,
-        ["points"] = 9281.0,
+        ["points"] = 9280.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 595,
@@ -22500,9 +22500,9 @@ UWULogsData[5][1] = {
         ["points"] = 9586.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2958,
+        ["rank_raids"] = 2959,
         ["kill_count"] = 9,
-        ["points"] = 8663.6,
+        ["points"] = 8663.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3194,
@@ -22510,9 +22510,9 @@ UWULogsData[5][1] = {
         ["points"] = 8592.8,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5266,
+        ["rank_raids"] = 5267,
         ["kill_count"] = 5,
-        ["points"] = 7971.2,
+        ["points"] = 7970.9,
       },
     },
   },
@@ -22537,9 +22537,9 @@ UWULogsData[5][1] = {
         ["points"] = 8679.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1576,
+        ["rank_raids"] = 1577,
         ["kill_count"] = 11,
-        ["points"] = 9120.6,
+        ["points"] = 9120.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1372,
@@ -22557,9 +22557,9 @@ UWULogsData[5][1] = {
         ["points"] = 9747.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4329,
+        ["rank_raids"] = 4330,
         ["kill_count"] = 13,
-        ["points"] = 8252.3,
+        ["points"] = 8252.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4496,
@@ -22589,9 +22589,9 @@ UWULogsData[5][1] = {
         ["points"] = 7239.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5293,
+        ["rank_raids"] = 5296,
         ["kill_count"] = 5,
-        ["points"] = 7963.1,
+        ["points"] = 7962.2,
       },
       ["Festergut"] = {
         ["rank_raids"] = 201,
@@ -22609,9 +22609,9 @@ UWULogsData[5][1] = {
         ["points"] = 8836.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4094,
+        ["rank_raids"] = 4095,
         ["kill_count"] = 7,
-        ["points"] = 8322.8,
+        ["points"] = 8322.5,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 34,
@@ -22636,9 +22636,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 399,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10586,
+        ["rank_raids"] = 10589,
         ["kill_count"] = 2,
-        ["points"] = 6492.4,
+        ["points"] = 6492.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 354,
@@ -22656,9 +22656,9 @@ UWULogsData[5][1] = {
         ["points"] = 9900.1,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 12150,
+        ["rank_raids"] = 12152,
         ["kill_count"] = 2,
-        ["points"] = 6336.0,
+        ["points"] = 6335.8,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 922,
@@ -22671,9 +22671,9 @@ UWULogsData[5][1] = {
         ["points"] = 9791.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1150,
+        ["rank_raids"] = 1151,
         ["kill_count"] = 2,
-        ["points"] = 9291.0,
+        ["points"] = 9290.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 383,
@@ -22693,9 +22693,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 400,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8614,
+        ["rank_raids"] = 8617,
         ["kill_count"] = 21,
-        ["points"] = 6966.8,
+        ["points"] = 6965.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 790,
@@ -22708,14 +22708,14 @@ UWULogsData[5][1] = {
         ["points"] = 9065.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1265,
+        ["rank_raids"] = 1266,
         ["kill_count"] = 21,
-        ["points"] = 9245.0,
+        ["points"] = 9244.6,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4344,
+        ["rank_raids"] = 4345,
         ["kill_count"] = 12,
-        ["points"] = 8247.8,
+        ["points"] = 8247.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1253,
@@ -22728,9 +22728,9 @@ UWULogsData[5][1] = {
         ["points"] = 9722.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1829,
+        ["rank_raids"] = 1830,
         ["kill_count"] = 26,
-        ["points"] = 9019.4,
+        ["points"] = 9019.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1347,
@@ -22765,9 +22765,9 @@ UWULogsData[5][1] = {
         ["points"] = 8691.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1169,
+        ["rank_raids"] = 1170,
         ["kill_count"] = 5,
-        ["points"] = 9283.4,
+        ["points"] = 9283.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1902,
@@ -22785,9 +22785,9 @@ UWULogsData[5][1] = {
         ["points"] = 9652.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3438,
+        ["rank_raids"] = 3439,
         ["kill_count"] = 5,
-        ["points"] = 8519.6,
+        ["points"] = 8519.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1808,
@@ -22795,9 +22795,9 @@ UWULogsData[5][1] = {
         ["points"] = 9027.8,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4927,
+        ["rank_raids"] = 4928,
         ["kill_count"] = 6,
-        ["points"] = 8072.9,
+        ["points"] = 8072.6,
       },
     },
   },
@@ -22817,14 +22817,14 @@ UWULogsData[5][1] = {
         ["points"] = 9314.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4388,
+        ["rank_raids"] = 4390,
         ["kill_count"] = 2,
-        ["points"] = 8234.6,
+        ["points"] = 8234.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2398,
+        ["rank_raids"] = 2399,
         ["kill_count"] = 8,
-        ["points"] = 8831.6,
+        ["points"] = 8831.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2403,
@@ -22842,9 +22842,9 @@ UWULogsData[5][1] = {
         ["points"] = 9857.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6333,
+        ["rank_raids"] = 6334,
         ["kill_count"] = 9,
-        ["points"] = 7651.1,
+        ["points"] = 7650.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1598,
@@ -22859,7 +22859,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Rheeta"] = {
-    ["percentile"] = 89.75,
+    ["percentile"] = 89.74,
     ["server"] = "Icecrown",
     ["overall_rank"] = 403,
     ["bosses"] = {
@@ -22879,9 +22879,9 @@ UWULogsData[5][1] = {
         ["points"] = 9459.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1593,
+        ["rank_raids"] = 1594,
         ["kill_count"] = 14,
-        ["points"] = 9113.8,
+        ["points"] = 9113.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1352,
@@ -22899,9 +22899,9 @@ UWULogsData[5][1] = {
         ["points"] = 9422.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3656,
+        ["rank_raids"] = 3657,
         ["kill_count"] = 18,
-        ["points"] = 8454.2,
+        ["points"] = 8453.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1210,
@@ -22909,9 +22909,9 @@ UWULogsData[5][1] = {
         ["points"] = 9267.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 9744,
+        ["rank_raids"] = 9745,
         ["kill_count"] = 13,
-        ["points"] = 6627.8,
+        ["points"] = 6627.5,
       },
     },
   },
@@ -22936,9 +22936,9 @@ UWULogsData[5][1] = {
         ["points"] = 9275.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1368,
+        ["rank_raids"] = 1369,
         ["kill_count"] = 13,
-        ["points"] = 9203.8,
+        ["points"] = 9203.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1782,
@@ -22956,9 +22956,9 @@ UWULogsData[5][1] = {
         ["points"] = 9643.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2583,
+        ["rank_raids"] = 2584,
         ["kill_count"] = 16,
-        ["points"] = 8776.1,
+        ["points"] = 8775.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4092,
@@ -22993,9 +22993,9 @@ UWULogsData[5][1] = {
         ["points"] = 9203.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1985,
+        ["rank_raids"] = 1986,
         ["kill_count"] = 9,
-        ["points"] = 8957.0,
+        ["points"] = 8956.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2455,
@@ -23013,9 +23013,9 @@ UWULogsData[5][1] = {
         ["points"] = 9022.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4062,
+        ["rank_raids"] = 4063,
         ["kill_count"] = 12,
-        ["points"] = 8332.4,
+        ["points"] = 8332.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4220,
@@ -23050,9 +23050,9 @@ UWULogsData[5][1] = {
         ["points"] = 9355.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1833,
+        ["rank_raids"] = 1834,
         ["kill_count"] = 5,
-        ["points"] = 9017.8,
+        ["points"] = 9017.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1032,
@@ -23070,9 +23070,9 @@ UWULogsData[5][1] = {
         ["points"] = 9691.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3825,
+        ["rank_raids"] = 3826,
         ["kill_count"] = 11,
-        ["points"] = 8403.5,
+        ["points"] = 8403.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2421,
@@ -23080,9 +23080,9 @@ UWULogsData[5][1] = {
         ["points"] = 8824.7,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5223,
+        ["rank_raids"] = 5224,
         ["kill_count"] = 10,
-        ["points"] = 7984.1,
+        ["points"] = 7983.8,
       },
     },
   },
@@ -23092,9 +23092,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 407,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5158,
+        ["rank_raids"] = 5159,
         ["kill_count"] = 9,
-        ["points"] = 8003.6,
+        ["points"] = 8003.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5504,
@@ -23107,9 +23107,9 @@ UWULogsData[5][1] = {
         ["points"] = 9792.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2287,
+        ["rank_raids"] = 2288,
         ["kill_count"] = 5,
-        ["points"] = 8864.9,
+        ["points"] = 8864.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3796,
@@ -23127,9 +23127,9 @@ UWULogsData[5][1] = {
         ["points"] = 9142.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2196,
+        ["rank_raids"] = 2197,
         ["kill_count"] = 8,
-        ["points"] = 8892.2,
+        ["points"] = 8891.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 287,
@@ -23164,9 +23164,9 @@ UWULogsData[5][1] = {
         ["points"] = 8854.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1777,
+        ["rank_raids"] = 1778,
         ["kill_count"] = 5,
-        ["points"] = 9040.2,
+        ["points"] = 9039.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2041,
@@ -23184,9 +23184,9 @@ UWULogsData[5][1] = {
         ["points"] = 8825.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2399,
+        ["rank_raids"] = 2400,
         ["kill_count"] = 8,
-        ["points"] = 8831.3,
+        ["points"] = 8831.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1498,
@@ -23201,7 +23201,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Radonnaa"] = {
-    ["percentile"] = 89.66,
+    ["percentile"] = 89.65,
     ["server"] = "Icecrown",
     ["overall_rank"] = 409,
     ["bosses"] = {
@@ -23221,9 +23221,9 @@ UWULogsData[5][1] = {
         ["points"] = 8626.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 713,
+        ["rank_raids"] = 714,
         ["kill_count"] = 4,
-        ["points"] = 9494.5,
+        ["points"] = 9494.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1294,
@@ -23236,14 +23236,14 @@ UWULogsData[5][1] = {
         ["points"] = 9786.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 24216,
+        ["rank_raids"] = 24219,
         ["kill_count"] = 1,
-        ["points"] = 5129.4,
+        ["points"] = 5129.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1111,
+        ["rank_raids"] = 1112,
         ["kill_count"] = 10,
-        ["points"] = 9306.6,
+        ["points"] = 9306.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 924,
@@ -23273,14 +23273,14 @@ UWULogsData[5][1] = {
         ["points"] = 9277.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5918,
+        ["rank_raids"] = 5921,
         ["kill_count"] = 2,
-        ["points"] = 7775.6,
+        ["points"] = 7774.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1240,
+        ["rank_raids"] = 1241,
         ["kill_count"] = 5,
-        ["points"] = 9255.0,
+        ["points"] = 9254.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1589,
@@ -23298,9 +23298,9 @@ UWULogsData[5][1] = {
         ["points"] = 9553.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4430,
+        ["rank_raids"] = 4431,
         ["kill_count"] = 8,
-        ["points"] = 8222.0,
+        ["points"] = 8221.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2042,
@@ -23335,9 +23335,9 @@ UWULogsData[5][1] = {
         ["points"] = 9323.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2558,
+        ["rank_raids"] = 2559,
         ["kill_count"] = 24,
-        ["points"] = 8783.6,
+        ["points"] = 8783.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 741,
@@ -23350,14 +23350,14 @@ UWULogsData[5][1] = {
         ["points"] = 8380.7,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 2944,
+        ["rank_raids"] = 2945,
         ["kill_count"] = 39,
-        ["points"] = 8667.8,
+        ["points"] = 8667.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2783,
+        ["rank_raids"] = 2784,
         ["kill_count"] = 49,
-        ["points"] = 8716.1,
+        ["points"] = 8715.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1294,
@@ -23387,19 +23387,19 @@ UWULogsData[5][1] = {
         ["points"] = 9447.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4333,
+        ["rank_raids"] = 4335,
         ["kill_count"] = 1,
-        ["points"] = 8251.1,
+        ["points"] = 8250.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1567,
+        ["rank_raids"] = 1568,
         ["kill_count"] = 8,
-        ["points"] = 9124.2,
+        ["points"] = 9123.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7377,
+        ["rank_raids"] = 7379,
         ["kill_count"] = 4,
-        ["points"] = 7337.9,
+        ["points"] = 7337.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 446,
@@ -23407,14 +23407,14 @@ UWULogsData[5][1] = {
         ["points"] = 9633.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3727,
+        ["rank_raids"] = 3728,
         ["kill_count"] = 4,
-        ["points"] = 8432.9,
+        ["points"] = 8432.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2058,
+        ["rank_raids"] = 2059,
         ["kill_count"] = 5,
-        ["points"] = 8933.6,
+        ["points"] = 8933.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 841,
@@ -23449,9 +23449,9 @@ UWULogsData[5][1] = {
         ["points"] = 8561.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1391,
+        ["rank_raids"] = 1392,
         ["kill_count"] = 11,
-        ["points"] = 9194.6,
+        ["points"] = 9194.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3201,
@@ -23469,9 +23469,9 @@ UWULogsData[5][1] = {
         ["points"] = 9928.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3070,
+        ["rank_raids"] = 3071,
         ["kill_count"] = 18,
-        ["points"] = 8630.0,
+        ["points"] = 8629.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1263,
@@ -23506,9 +23506,9 @@ UWULogsData[5][1] = {
         ["points"] = 8908.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3549,
+        ["rank_raids"] = 3550,
         ["kill_count"] = 10,
-        ["points"] = 8486.3,
+        ["points"] = 8486.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 822,
@@ -23526,9 +23526,9 @@ UWULogsData[5][1] = {
         ["points"] = 9206.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5066,
+        ["rank_raids"] = 5067,
         ["kill_count"] = 11,
-        ["points"] = 8031.2,
+        ["points"] = 8030.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 637,
@@ -23563,9 +23563,9 @@ UWULogsData[5][1] = {
         ["points"] = 9489.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1674,
+        ["rank_raids"] = 1675,
         ["kill_count"] = 14,
-        ["points"] = 9081.4,
+        ["points"] = 9081.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1108,
@@ -23583,9 +23583,9 @@ UWULogsData[5][1] = {
         ["points"] = 9703.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3351,
+        ["rank_raids"] = 3352,
         ["kill_count"] = 20,
-        ["points"] = 8545.7,
+        ["points"] = 8545.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7051,
@@ -23615,19 +23615,19 @@ UWULogsData[5][1] = {
         ["points"] = 9135.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4668,
+        ["rank_raids"] = 4670,
         ["kill_count"] = 4,
-        ["points"] = 8150.6,
+        ["points"] = 8150.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1094,
+        ["rank_raids"] = 1095,
         ["kill_count"] = 13,
-        ["points"] = 9313.4,
+        ["points"] = 9313.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6398,
+        ["rank_raids"] = 6400,
         ["kill_count"] = 5,
-        ["points"] = 7631.6,
+        ["points"] = 7631.0,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 272,
@@ -23640,9 +23640,9 @@ UWULogsData[5][1] = {
         ["points"] = 9650.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1846,
+        ["rank_raids"] = 1847,
         ["kill_count"] = 17,
-        ["points"] = 9012.6,
+        ["points"] = 9012.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5768,
@@ -23677,9 +23677,9 @@ UWULogsData[5][1] = {
         ["points"] = 9219.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1897,
+        ["rank_raids"] = 1898,
         ["kill_count"] = 7,
-        ["points"] = 8992.2,
+        ["points"] = 8991.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1436,
@@ -23697,9 +23697,9 @@ UWULogsData[5][1] = {
         ["points"] = 9787.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2814,
+        ["rank_raids"] = 2815,
         ["kill_count"] = 8,
-        ["points"] = 8706.8,
+        ["points"] = 8706.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1545,
@@ -23714,7 +23714,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Amasora"] = {
-    ["percentile"] = 89.53,
+    ["percentile"] = 89.52,
     ["server"] = "Icecrown",
     ["overall_rank"] = 418,
     ["bosses"] = {
@@ -23734,9 +23734,9 @@ UWULogsData[5][1] = {
         ["points"] = 9253.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 992,
+        ["rank_raids"] = 993,
         ["kill_count"] = 6,
-        ["points"] = 9355.0,
+        ["points"] = 9354.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 607,
@@ -23754,9 +23754,9 @@ UWULogsData[5][1] = {
         ["points"] = 8912.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2377,
+        ["rank_raids"] = 2378,
         ["kill_count"] = 6,
-        ["points"] = 8837.9,
+        ["points"] = 8837.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3047,
@@ -23764,14 +23764,14 @@ UWULogsData[5][1] = {
         ["points"] = 8636.9,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6231,
+        ["rank_raids"] = 6232,
         ["kill_count"] = 11,
-        ["points"] = 7681.7,
+        ["points"] = 7681.4,
       },
     },
   },
   ["Mizti"] = {
-    ["percentile"] = 89.52,
+    ["percentile"] = 89.51,
     ["server"] = "Icecrown",
     ["overall_rank"] = 419,
     ["bosses"] = {
@@ -23786,9 +23786,9 @@ UWULogsData[5][1] = {
         ["points"] = 9712.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 13526,
+        ["rank_raids"] = 13531,
         ["kill_count"] = 2,
-        ["points"] = 6198.4,
+        ["points"] = 6197.9,
       },
       ["Festergut"] = {
         ["rank_raids"] = 173,
@@ -23811,9 +23811,9 @@ UWULogsData[5][1] = {
         ["points"] = 9355.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 997,
+        ["rank_raids"] = 998,
         ["kill_count"] = 2,
-        ["points"] = 9352.5,
+        ["points"] = 9352.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6398,
@@ -23848,9 +23848,9 @@ UWULogsData[5][1] = {
         ["points"] = 8736.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 940,
+        ["rank_raids"] = 941,
         ["kill_count"] = 24,
-        ["points"] = 9381.0,
+        ["points"] = 9380.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 953,
@@ -23863,14 +23863,14 @@ UWULogsData[5][1] = {
         ["points"] = 9133.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5454,
+        ["rank_raids"] = 5455,
         ["kill_count"] = 22,
-        ["points"] = 7914.8,
+        ["points"] = 7914.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2070,
+        ["rank_raids"] = 2071,
         ["kill_count"] = 34,
-        ["points"] = 8930.0,
+        ["points"] = 8929.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1137,
@@ -23905,9 +23905,9 @@ UWULogsData[5][1] = {
         ["points"] = 9089.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2678,
+        ["rank_raids"] = 2679,
         ["kill_count"] = 10,
-        ["points"] = 8747.6,
+        ["points"] = 8747.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2110,
@@ -23925,9 +23925,9 @@ UWULogsData[5][1] = {
         ["points"] = 9441.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5105,
+        ["rank_raids"] = 5106,
         ["kill_count"] = 13,
-        ["points"] = 8019.5,
+        ["points"] = 8019.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1086,
@@ -23935,9 +23935,9 @@ UWULogsData[5][1] = {
         ["points"] = 9316.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5379,
+        ["rank_raids"] = 5380,
         ["kill_count"] = 14,
-        ["points"] = 7937.3,
+        ["points"] = 7937.0,
       },
     },
   },
@@ -23962,9 +23962,9 @@ UWULogsData[5][1] = {
         ["points"] = 9065.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2941,
+        ["rank_raids"] = 2942,
         ["kill_count"] = 3,
-        ["points"] = 8668.7,
+        ["points"] = 8668.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2264,
@@ -23982,9 +23982,9 @@ UWULogsData[5][1] = {
         ["points"] = 8989.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4851,
+        ["rank_raids"] = 4852,
         ["kill_count"] = 5,
-        ["points"] = 8095.7,
+        ["points"] = 8095.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 810,
@@ -24004,9 +24004,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 423,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5932,
+        ["rank_raids"] = 5933,
         ["kill_count"] = 2,
-        ["points"] = 7771.4,
+        ["points"] = 7771.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 538,
@@ -24014,14 +24014,14 @@ UWULogsData[5][1] = {
         ["points"] = 9582.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9910,
+        ["rank_raids"] = 9914,
         ["kill_count"] = 2,
-        ["points"] = 6578.0,
+        ["points"] = 6576.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 786,
+        ["rank_raids"] = 787,
         ["kill_count"] = 5,
-        ["points"] = 9458.0,
+        ["points"] = 9457.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 424,
@@ -24034,9 +24034,9 @@ UWULogsData[5][1] = {
         ["points"] = 9618.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6206,
+        ["rank_raids"] = 6207,
         ["kill_count"] = 4,
-        ["points"] = 7689.2,
+        ["points"] = 7688.9,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 63,
@@ -24076,9 +24076,9 @@ UWULogsData[5][1] = {
         ["points"] = 9280.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1824,
+        ["rank_raids"] = 1825,
         ["kill_count"] = 20,
-        ["points"] = 9021.4,
+        ["points"] = 9021.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3249,
@@ -24096,9 +24096,9 @@ UWULogsData[5][1] = {
         ["points"] = 9351.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2212,
+        ["rank_raids"] = 2213,
         ["kill_count"] = 33,
-        ["points"] = 8887.4,
+        ["points"] = 8887.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1881,
@@ -24133,9 +24133,9 @@ UWULogsData[5][1] = {
         ["points"] = 8832.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 498,
+        ["rank_raids"] = 499,
         ["kill_count"] = 11,
-        ["points"] = 9602.2,
+        ["points"] = 9601.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1326,
@@ -24155,7 +24155,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 368,
         ["kill_count"] = 15,
-        ["points"] = 9686.73,
+        ["points"] = 9686.78,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7885,
@@ -24175,9 +24175,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 426,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6493,
+        ["rank_raids"] = 6494,
         ["kill_count"] = 6,
-        ["points"] = 7603.1,
+        ["points"] = 7602.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 192,
@@ -24195,9 +24195,9 @@ UWULogsData[5][1] = {
         ["points"] = 9845.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 11973,
+        ["rank_raids"] = 11975,
         ["kill_count"] = 6,
-        ["points"] = 6353.7,
+        ["points"] = 6353.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 441,
@@ -24205,14 +24205,14 @@ UWULogsData[5][1] = {
         ["points"] = 9636.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6143,
+        ["rank_raids"] = 6144,
         ["kill_count"] = 6,
-        ["points"] = 7708.1,
+        ["points"] = 7707.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 928,
+        ["rank_raids"] = 929,
         ["kill_count"] = 5,
-        ["points"] = 9387.0,
+        ["points"] = 9386.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 479,
@@ -24247,14 +24247,14 @@ UWULogsData[5][1] = {
         ["points"] = 8888.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1516,
+        ["rank_raids"] = 1517,
         ["kill_count"] = 8,
-        ["points"] = 9144.6,
+        ["points"] = 9144.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4377,
+        ["rank_raids"] = 4378,
         ["kill_count"] = 9,
-        ["points"] = 8237.9,
+        ["points"] = 8237.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1329,
@@ -24267,9 +24267,9 @@ UWULogsData[5][1] = {
         ["points"] = 9670.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3771,
+        ["rank_raids"] = 3772,
         ["kill_count"] = 13,
-        ["points"] = 8419.7,
+        ["points"] = 8419.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5188,
@@ -24284,14 +24284,14 @@ UWULogsData[5][1] = {
     },
   },
   ["Priestpapa"] = {
-    ["percentile"] = 89.39,
+    ["percentile"] = 89.38,
     ["server"] = "Icecrown",
     ["overall_rank"] = 428,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9484,
+        ["rank_raids"] = 9487,
         ["kill_count"] = 1,
-        ["points"] = 6705.8,
+        ["points"] = 6704.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1062,
@@ -24299,14 +24299,14 @@ UWULogsData[5][1] = {
         ["points"] = 9326.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4076,
+        ["rank_raids"] = 4078,
         ["kill_count"] = 1,
-        ["points"] = 8328.2,
+        ["points"] = 8327.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1054,
+        ["rank_raids"] = 1055,
         ["kill_count"] = 1,
-        ["points"] = 9329.4,
+        ["points"] = 9329.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1933,
@@ -24319,14 +24319,14 @@ UWULogsData[5][1] = {
         ["points"] = 9696.7,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4609,
+        ["rank_raids"] = 4610,
         ["kill_count"] = 1,
-        ["points"] = 8168.3,
+        ["points"] = 8168.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 912,
+        ["rank_raids"] = 913,
         ["kill_count"] = 1,
-        ["points"] = 9395.0,
+        ["points"] = 9394.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 509,
@@ -24346,9 +24346,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 429,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 13126,
+        ["rank_raids"] = 13129,
         ["kill_count"] = 5,
-        ["points"] = 6238.4,
+        ["points"] = 6238.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 920,
@@ -24361,9 +24361,9 @@ UWULogsData[5][1] = {
         ["points"] = 9814.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 995,
+        ["rank_raids"] = 996,
         ["kill_count"] = 15,
-        ["points"] = 9353.5,
+        ["points"] = 9353.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1414,
@@ -24376,14 +24376,14 @@ UWULogsData[5][1] = {
         ["points"] = 9462.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3127,
+        ["rank_raids"] = 3128,
         ["kill_count"] = 9,
-        ["points"] = 8612.9,
+        ["points"] = 8612.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4798,
+        ["rank_raids"] = 4799,
         ["kill_count"] = 12,
-        ["points"] = 8111.6,
+        ["points"] = 8111.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 519,
@@ -24418,9 +24418,9 @@ UWULogsData[5][1] = {
         ["points"] = 8755.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1706,
+        ["rank_raids"] = 1707,
         ["kill_count"] = 10,
-        ["points"] = 9068.6,
+        ["points"] = 9068.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3299,
@@ -24438,9 +24438,9 @@ UWULogsData[5][1] = {
         ["points"] = 9460.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3189,
+        ["rank_raids"] = 3190,
         ["kill_count"] = 8,
-        ["points"] = 8594.3,
+        ["points"] = 8594.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2095,
@@ -24470,14 +24470,14 @@ UWULogsData[5][1] = {
         ["points"] = 8761.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5275,
+        ["rank_raids"] = 5278,
         ["kill_count"] = 2,
-        ["points"] = 7968.5,
+        ["points"] = 7967.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1574,
+        ["rank_raids"] = 1575,
         ["kill_count"] = 7,
-        ["points"] = 9121.4,
+        ["points"] = 9121.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1183,
@@ -24490,14 +24490,14 @@ UWULogsData[5][1] = {
         ["points"] = 9436.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 2986,
+        ["rank_raids"] = 2987,
         ["kill_count"] = 15,
-        ["points"] = 8655.2,
+        ["points"] = 8654.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1804,
+        ["rank_raids"] = 1805,
         ["kill_count"] = 18,
-        ["points"] = 9029.4,
+        ["points"] = 9029.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1796,
@@ -24532,9 +24532,9 @@ UWULogsData[5][1] = {
         ["points"] = 9412.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1979,
+        ["rank_raids"] = 1980,
         ["kill_count"] = 4,
-        ["points"] = 8959.4,
+        ["points"] = 8959.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 985,
@@ -24547,14 +24547,14 @@ UWULogsData[5][1] = {
         ["points"] = 9241.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5693,
+        ["rank_raids"] = 5694,
         ["kill_count"] = 6,
-        ["points"] = 7843.1,
+        ["points"] = 7842.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2859,
+        ["rank_raids"] = 2860,
         ["kill_count"] = 6,
-        ["points"] = 8693.3,
+        ["points"] = 8693.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 743,
@@ -24589,9 +24589,9 @@ UWULogsData[5][1] = {
         ["points"] = 8588.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 820,
+        ["rank_raids"] = 821,
         ["kill_count"] = 10,
-        ["points"] = 9441.0,
+        ["points"] = 9440.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1017,
@@ -24609,9 +24609,9 @@ UWULogsData[5][1] = {
         ["points"] = 9301.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2977,
+        ["rank_raids"] = 2978,
         ["kill_count"] = 15,
-        ["points"] = 8657.9,
+        ["points"] = 8657.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2473,
@@ -24619,9 +24619,9 @@ UWULogsData[5][1] = {
         ["points"] = 8809.1,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4336,
+        ["rank_raids"] = 4337,
         ["kill_count"] = 13,
-        ["points"] = 8250.2,
+        ["points"] = 8249.9,
       },
     },
   },
@@ -24646,9 +24646,9 @@ UWULogsData[5][1] = {
         ["points"] = 8633.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2404,
+        ["rank_raids"] = 2405,
         ["kill_count"] = 9,
-        ["points"] = 8829.8,
+        ["points"] = 8829.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1291,
@@ -24666,9 +24666,9 @@ UWULogsData[5][1] = {
         ["points"] = 9292.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1507,
+        ["rank_raids"] = 1508,
         ["kill_count"] = 12,
-        ["points"] = 9148.2,
+        ["points"] = 9147.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 811,
@@ -24676,14 +24676,14 @@ UWULogsData[5][1] = {
         ["points"] = 9445.5,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4233,
+        ["rank_raids"] = 4234,
         ["kill_count"] = 11,
-        ["points"] = 8281.1,
+        ["points"] = 8280.8,
       },
     },
   },
   ["Multiboss"] = {
-    ["percentile"] = 89.29,
+    ["percentile"] = 89.28,
     ["server"] = "Icecrown",
     ["overall_rank"] = 435,
     ["bosses"] = {
@@ -24703,9 +24703,9 @@ UWULogsData[5][1] = {
         ["points"] = 8825.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1150,
+        ["rank_raids"] = 1151,
         ["kill_count"] = 13,
-        ["points"] = 9291.0,
+        ["points"] = 9290.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1210,
@@ -24723,9 +24723,9 @@ UWULogsData[5][1] = {
         ["points"] = 9622.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2585,
+        ["rank_raids"] = 2586,
         ["kill_count"] = 13,
-        ["points"] = 8775.5,
+        ["points"] = 8775.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2692,
@@ -24733,14 +24733,14 @@ UWULogsData[5][1] = {
         ["points"] = 8743.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4795,
+        ["rank_raids"] = 4796,
         ["kill_count"] = 12,
-        ["points"] = 8112.5,
+        ["points"] = 8112.2,
       },
     },
   },
   ["Floppyhalper"] = {
-    ["percentile"] = 89.29,
+    ["percentile"] = 89.28,
     ["server"] = "Icecrown",
     ["overall_rank"] = 436,
     ["bosses"] = {
@@ -24760,9 +24760,9 @@ UWULogsData[5][1] = {
         ["points"] = 9471.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2965,
+        ["rank_raids"] = 2966,
         ["kill_count"] = 5,
-        ["points"] = 8661.5,
+        ["points"] = 8661.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2599,
@@ -24775,14 +24775,14 @@ UWULogsData[5][1] = {
         ["points"] = 9775.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3079,
+        ["rank_raids"] = 3080,
         ["kill_count"] = 9,
-        ["points"] = 8627.3,
+        ["points"] = 8627.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1250,
+        ["rank_raids"] = 1251,
         ["kill_count"] = 11,
-        ["points"] = 9251.0,
+        ["points"] = 9250.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3203,
@@ -24802,9 +24802,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 437,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5889,
+        ["rank_raids"] = 5890,
         ["kill_count"] = 8,
-        ["points"] = 7784.3,
+        ["points"] = 7784.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1449,
@@ -24817,9 +24817,9 @@ UWULogsData[5][1] = {
         ["points"] = 9426.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3868,
+        ["rank_raids"] = 3869,
         ["kill_count"] = 5,
-        ["points"] = 8390.6,
+        ["points"] = 8390.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1167,
@@ -24837,9 +24837,9 @@ UWULogsData[5][1] = {
         ["points"] = 9403.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2482,
+        ["rank_raids"] = 2483,
         ["kill_count"] = 8,
-        ["points"] = 8806.4,
+        ["points"] = 8806.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2514,
@@ -24874,9 +24874,9 @@ UWULogsData[5][1] = {
         ["points"] = 9628.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1927,
+        ["rank_raids"] = 1928,
         ["kill_count"] = 9,
-        ["points"] = 8980.2,
+        ["points"] = 8979.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3611,
@@ -24894,9 +24894,9 @@ UWULogsData[5][1] = {
         ["points"] = 9646.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1365,
+        ["rank_raids"] = 1366,
         ["kill_count"] = 13,
-        ["points"] = 9205.0,
+        ["points"] = 9204.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4823,
@@ -24931,9 +24931,9 @@ UWULogsData[5][1] = {
         ["points"] = 9482.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1814,
+        ["rank_raids"] = 1815,
         ["kill_count"] = 10,
-        ["points"] = 9025.4,
+        ["points"] = 9025.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 505,
@@ -24951,9 +24951,9 @@ UWULogsData[5][1] = {
         ["points"] = 8684.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4012,
+        ["rank_raids"] = 4013,
         ["kill_count"] = 12,
-        ["points"] = 8347.4,
+        ["points"] = 8347.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3275,
@@ -24988,9 +24988,9 @@ UWULogsData[5][1] = {
         ["points"] = 8618.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1155,
+        ["rank_raids"] = 1156,
         ["kill_count"] = 14,
-        ["points"] = 9289.0,
+        ["points"] = 9288.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 838,
@@ -25003,14 +25003,14 @@ UWULogsData[5][1] = {
         ["points"] = 9217.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6342,
+        ["rank_raids"] = 6343,
         ["kill_count"] = 22,
-        ["points"] = 7648.4,
+        ["points"] = 7648.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2118,
+        ["rank_raids"] = 2119,
         ["kill_count"] = 26,
-        ["points"] = 8915.6,
+        ["points"] = 8915.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1665,
@@ -25018,9 +25018,9 @@ UWULogsData[5][1] = {
         ["points"] = 9085.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5130,
+        ["rank_raids"] = 5131,
         ["kill_count"] = 17,
-        ["points"] = 8012.0,
+        ["points"] = 8011.7,
       },
     },
   },
@@ -25040,14 +25040,14 @@ UWULogsData[5][1] = {
         ["points"] = 9313.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 13688,
+        ["rank_raids"] = 13693,
         ["kill_count"] = 1,
-        ["points"] = 6182.2,
+        ["points"] = 6181.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 510,
+        ["rank_raids"] = 511,
         ["kill_count"] = 6,
-        ["points"] = 9596.0,
+        ["points"] = 9595.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1821,
@@ -25065,9 +25065,9 @@ UWULogsData[5][1] = {
         ["points"] = 9814.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2445,
+        ["rank_raids"] = 2446,
         ["kill_count"] = 6,
-        ["points"] = 8817.5,
+        ["points"] = 8817.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 972,
@@ -25082,7 +25082,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Discome"] = {
-    ["percentile"] = 89.15,
+    ["percentile"] = 89.14,
     ["server"] = "Icecrown",
     ["overall_rank"] = 442,
     ["bosses"] = {
@@ -25097,14 +25097,14 @@ UWULogsData[5][1] = {
         ["points"] = 9693.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5928,
+        ["rank_raids"] = 5931,
         ["kill_count"] = 5,
-        ["points"] = 7772.6,
+        ["points"] = 7771.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2743,
+        ["rank_raids"] = 2744,
         ["kill_count"] = 7,
-        ["points"] = 8728.1,
+        ["points"] = 8727.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 934,
@@ -25122,9 +25122,9 @@ UWULogsData[5][1] = {
         ["points"] = 8905.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3389,
+        ["rank_raids"] = 3390,
         ["kill_count"] = 7,
-        ["points"] = 8534.3,
+        ["points"] = 8534.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3468,
@@ -25159,9 +25159,9 @@ UWULogsData[5][1] = {
         ["points"] = 9349.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2019,
+        ["rank_raids"] = 2020,
         ["kill_count"] = 11,
-        ["points"] = 8945.3,
+        ["points"] = 8945.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2366,
@@ -25179,9 +25179,9 @@ UWULogsData[5][1] = {
         ["points"] = 9389.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2950,
+        ["rank_raids"] = 2951,
         ["kill_count"] = 16,
-        ["points"] = 8666.0,
+        ["points"] = 8665.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2381,
@@ -25201,9 +25201,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 444,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5974,
+        ["rank_raids"] = 5975,
         ["kill_count"] = 6,
-        ["points"] = 7758.8,
+        ["points"] = 7758.5,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1088,
@@ -25216,14 +25216,14 @@ UWULogsData[5][1] = {
         ["points"] = 9488.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1463,
+        ["rank_raids"] = 1464,
         ["kill_count"] = 8,
-        ["points"] = 9165.8,
+        ["points"] = 9165.4,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4467,
+        ["rank_raids"] = 4468,
         ["kill_count"] = 7,
-        ["points"] = 8210.9,
+        ["points"] = 8210.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 422,
@@ -25231,14 +25231,14 @@ UWULogsData[5][1] = {
         ["points"] = 9647.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6110,
+        ["rank_raids"] = 6111,
         ["kill_count"] = 7,
-        ["points"] = 7718.0,
+        ["points"] = 7717.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 718,
+        ["rank_raids"] = 719,
         ["kill_count"] = 12,
-        ["points"] = 9492.0,
+        ["points"] = 9491.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2431,
@@ -25258,9 +25258,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 445,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7849,
+        ["rank_raids"] = 7851,
         ["kill_count"] = 5,
-        ["points"] = 7196.3,
+        ["points"] = 7195.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 307,
@@ -25268,14 +25268,14 @@ UWULogsData[5][1] = {
         ["points"] = 9726.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10587,
+        ["rank_raids"] = 10591,
         ["kill_count"] = 2,
-        ["points"] = 6492.3,
+        ["points"] = 6491.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 271,
+        ["rank_raids"] = 272,
         ["kill_count"] = 7,
-        ["points"] = 9754.2,
+        ["points"] = 9753.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2461,
@@ -25288,9 +25288,9 @@ UWULogsData[5][1] = {
         ["points"] = 9857.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4936,
+        ["rank_raids"] = 4937,
         ["kill_count"] = 7,
-        ["points"] = 8070.2,
+        ["points"] = 8069.9,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 95,
@@ -25330,9 +25330,9 @@ UWULogsData[5][1] = {
         ["points"] = 8609.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2186,
+        ["rank_raids"] = 2187,
         ["kill_count"] = 7,
-        ["points"] = 8895.2,
+        ["points"] = 8894.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2570,
@@ -25350,9 +25350,9 @@ UWULogsData[5][1] = {
         ["points"] = 9386.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3920,
+        ["rank_raids"] = 3921,
         ["kill_count"] = 7,
-        ["points"] = 8375.0,
+        ["points"] = 8374.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1115,
@@ -25387,9 +25387,9 @@ UWULogsData[5][1] = {
         ["points"] = 9445.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1228,
+        ["rank_raids"] = 1229,
         ["kill_count"] = 7,
-        ["points"] = 9259.8,
+        ["points"] = 9259.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 850,
@@ -25407,9 +25407,9 @@ UWULogsData[5][1] = {
         ["points"] = 9838.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3193,
+        ["rank_raids"] = 3194,
         ["kill_count"] = 7,
-        ["points"] = 8593.1,
+        ["points"] = 8592.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 9566,
@@ -25444,9 +25444,9 @@ UWULogsData[5][1] = {
         ["points"] = 9312.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3824,
+        ["rank_raids"] = 3825,
         ["kill_count"] = 7,
-        ["points"] = 8403.8,
+        ["points"] = 8403.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2122,
@@ -25464,9 +25464,9 @@ UWULogsData[5][1] = {
         ["points"] = 9191.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3762,
+        ["rank_raids"] = 3763,
         ["kill_count"] = 8,
-        ["points"] = 8422.4,
+        ["points"] = 8422.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2963,
@@ -25501,14 +25501,14 @@ UWULogsData[5][1] = {
         ["points"] = 8575.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1198,
+        ["rank_raids"] = 1199,
         ["kill_count"] = 7,
-        ["points"] = 9271.8,
+        ["points"] = 9271.4,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4495,
+        ["rank_raids"] = 4496,
         ["kill_count"] = 8,
-        ["points"] = 8202.5,
+        ["points"] = 8202.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1289,
@@ -25521,9 +25521,9 @@ UWULogsData[5][1] = {
         ["points"] = 9199.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1982,
+        ["rank_raids"] = 1983,
         ["kill_count"] = 13,
-        ["points"] = 8958.2,
+        ["points"] = 8957.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1507,
@@ -25538,7 +25538,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Menudencia"] = {
-    ["percentile"] = 89.05,
+    ["percentile"] = 89.04,
     ["server"] = "Icecrown",
     ["overall_rank"] = 450,
     ["bosses"] = {
@@ -25558,9 +25558,9 @@ UWULogsData[5][1] = {
         ["points"] = 9240.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1998,
+        ["rank_raids"] = 1999,
         ["kill_count"] = 21,
-        ["points"] = 8951.8,
+        ["points"] = 8951.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1823,
@@ -25573,14 +25573,14 @@ UWULogsData[5][1] = {
         ["points"] = 9316.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3114,
+        ["rank_raids"] = 3115,
         ["kill_count"] = 30,
-        ["points"] = 8616.8,
+        ["points"] = 8616.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2499,
+        ["rank_raids"] = 2500,
         ["kill_count"] = 31,
-        ["points"] = 8801.3,
+        ["points"] = 8801.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3907,
@@ -25615,9 +25615,9 @@ UWULogsData[5][1] = {
         ["points"] = 9123.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3186,
+        ["rank_raids"] = 3187,
         ["kill_count"] = 7,
-        ["points"] = 8595.2,
+        ["points"] = 8594.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2003,
@@ -25635,9 +25635,9 @@ UWULogsData[5][1] = {
         ["points"] = 8881.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8443,
+        ["rank_raids"] = 8444,
         ["kill_count"] = 7,
-        ["points"] = 7018.1,
+        ["points"] = 7017.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 914,
@@ -25672,9 +25672,9 @@ UWULogsData[5][1] = {
         ["points"] = 9941.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2708,
+        ["rank_raids"] = 2709,
         ["kill_count"] = 10,
-        ["points"] = 8738.6,
+        ["points"] = 8738.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 276,
@@ -25687,14 +25687,14 @@ UWULogsData[5][1] = {
         ["points"] = 9906.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7658,
+        ["rank_raids"] = 7659,
         ["kill_count"] = 11,
-        ["points"] = 7253.6,
+        ["points"] = 7253.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8485,
+        ["rank_raids"] = 8486,
         ["kill_count"] = 12,
-        ["points"] = 7005.5,
+        ["points"] = 7005.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6760,
@@ -25724,14 +25724,14 @@ UWULogsData[5][1] = {
         ["points"] = 9291.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 13999,
+        ["rank_raids"] = 14004,
         ["kill_count"] = 1,
-        ["points"] = 6151.1,
+        ["points"] = 6150.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1379,
+        ["rank_raids"] = 1380,
         ["kill_count"] = 12,
-        ["points"] = 9199.4,
+        ["points"] = 9199.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1207,
@@ -25744,14 +25744,14 @@ UWULogsData[5][1] = {
         ["points"] = 9583.5,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6609,
+        ["rank_raids"] = 6610,
         ["kill_count"] = 10,
-        ["points"] = 7568.3,
+        ["points"] = 7568.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1039,
+        ["rank_raids"] = 1040,
         ["kill_count"] = 19,
-        ["points"] = 9335.4,
+        ["points"] = 9335.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 453,
@@ -25786,9 +25786,9 @@ UWULogsData[5][1] = {
         ["points"] = 9415.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2034,
+        ["rank_raids"] = 2035,
         ["kill_count"] = 4,
-        ["points"] = 8940.8,
+        ["points"] = 8940.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2735,
@@ -25806,9 +25806,9 @@ UWULogsData[5][1] = {
         ["points"] = 9278.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4497,
+        ["rank_raids"] = 4498,
         ["kill_count"] = 7,
-        ["points"] = 8201.9,
+        ["points"] = 8201.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4471,
@@ -25843,9 +25843,9 @@ UWULogsData[5][1] = {
         ["points"] = 9282.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1892,
+        ["rank_raids"] = 1893,
         ["kill_count"] = 4,
-        ["points"] = 8994.2,
+        ["points"] = 8993.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2220,
@@ -25863,9 +25863,9 @@ UWULogsData[5][1] = {
         ["points"] = 9924.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4106,
+        ["rank_raids"] = 4107,
         ["kill_count"] = 5,
-        ["points"] = 8319.2,
+        ["points"] = 8318.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2339,
@@ -25900,9 +25900,9 @@ UWULogsData[5][1] = {
         ["points"] = 9380.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4083,
+        ["rank_raids"] = 4084,
         ["kill_count"] = 5,
-        ["points"] = 8326.1,
+        ["points"] = 8325.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 246,
@@ -25920,9 +25920,9 @@ UWULogsData[5][1] = {
         ["points"] = 9269.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5764,
+        ["rank_raids"] = 5765,
         ["kill_count"] = 8,
-        ["points"] = 7821.8,
+        ["points"] = 7821.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1927,
@@ -25957,9 +25957,9 @@ UWULogsData[5][1] = {
         ["points"] = 8859.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3364,
+        ["rank_raids"] = 3365,
         ["kill_count"] = 10,
-        ["points"] = 8541.8,
+        ["points"] = 8541.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2595,
@@ -25977,9 +25977,9 @@ UWULogsData[5][1] = {
         ["points"] = 8681.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2400,
+        ["rank_raids"] = 2401,
         ["kill_count"] = 11,
-        ["points"] = 8831.0,
+        ["points"] = 8830.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1541,
@@ -26014,14 +26014,14 @@ UWULogsData[5][1] = {
         ["points"] = 9214.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 645,
+        ["rank_raids"] = 646,
         ["kill_count"] = 6,
-        ["points"] = 9528.5,
+        ["points"] = 9528.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6231,
+        ["rank_raids"] = 6233,
         ["kill_count"] = 8,
-        ["points"] = 7681.7,
+        ["points"] = 7681.1,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1884,
@@ -26029,14 +26029,14 @@ UWULogsData[5][1] = {
         ["points"] = 8997.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3227,
+        ["rank_raids"] = 3228,
         ["kill_count"] = 10,
-        ["points"] = 8582.9,
+        ["points"] = 8582.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1113,
+        ["rank_raids"] = 1114,
         ["kill_count"] = 10,
-        ["points"] = 9305.8,
+        ["points"] = 9305.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 465,
@@ -26056,9 +26056,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 459,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5016,
+        ["rank_raids"] = 5017,
         ["kill_count"] = 1,
-        ["points"] = 8046.2,
+        ["points"] = 8045.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1128,
@@ -26066,14 +26066,14 @@ UWULogsData[5][1] = {
         ["points"] = 9299.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10375,
+        ["rank_raids"] = 10379,
         ["kill_count"] = 1,
-        ["points"] = 6513.5,
+        ["points"] = 6513.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 882,
+        ["rank_raids"] = 883,
         ["kill_count"] = 1,
-        ["points"] = 9410.0,
+        ["points"] = 9409.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 140,
@@ -26086,14 +26086,14 @@ UWULogsData[5][1] = {
         ["points"] = 9952.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5574,
+        ["rank_raids"] = 5575,
         ["kill_count"] = 2,
-        ["points"] = 7878.8,
+        ["points"] = 7878.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 889,
+        ["rank_raids"] = 890,
         ["kill_count"] = 2,
-        ["points"] = 9406.5,
+        ["points"] = 9406.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 210,
@@ -26128,9 +26128,9 @@ UWULogsData[5][1] = {
         ["points"] = 9420.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2273,
+        ["rank_raids"] = 2274,
         ["kill_count"] = 13,
-        ["points"] = 8869.1,
+        ["points"] = 8868.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 965,
@@ -26143,14 +26143,14 @@ UWULogsData[5][1] = {
         ["points"] = 8912.3,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5028,
+        ["rank_raids"] = 5029,
         ["kill_count"] = 8,
-        ["points"] = 8042.6,
+        ["points"] = 8042.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2932,
+        ["rank_raids"] = 2933,
         ["kill_count"] = 14,
-        ["points"] = 8671.4,
+        ["points"] = 8671.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2989,
@@ -26180,14 +26180,14 @@ UWULogsData[5][1] = {
         ["points"] = 9446.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4250,
+        ["rank_raids"] = 4252,
         ["kill_count"] = 7,
-        ["points"] = 8276.0,
+        ["points"] = 8275.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 9297,
+        ["rank_raids"] = 9298,
         ["kill_count"] = 8,
-        ["points"] = 6761.9,
+        ["points"] = 6761.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 206,
@@ -26200,14 +26200,14 @@ UWULogsData[5][1] = {
         ["points"] = 9721.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4790,
+        ["rank_raids"] = 4791,
         ["kill_count"] = 19,
-        ["points"] = 8114.0,
+        ["points"] = 8113.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1434,
+        ["rank_raids"] = 1435,
         ["kill_count"] = 19,
-        ["points"] = 9177.4,
+        ["points"] = 9177.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1513,
@@ -26242,9 +26242,9 @@ UWULogsData[5][1] = {
         ["points"] = 9495.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1524,
+        ["rank_raids"] = 1525,
         ["kill_count"] = 9,
-        ["points"] = 9141.4,
+        ["points"] = 9141.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1203,
@@ -26262,14 +26262,14 @@ UWULogsData[5][1] = {
         ["points"] = 9890.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4238,
+        ["rank_raids"] = 4239,
         ["kill_count"] = 11,
-        ["points"] = 8279.6,
+        ["points"] = 8279.3,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 15615,
+        ["rank_raids"] = 15616,
         ["kill_count"] = 4,
-        ["points"] = 5989.5,
+        ["points"] = 5989.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1864,
@@ -26284,9 +26284,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 463,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8698,
+        ["rank_raids"] = 8701,
         ["kill_count"] = 3,
-        ["points"] = 6941.6,
+        ["points"] = 6940.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 703,
@@ -26299,9 +26299,9 @@ UWULogsData[5][1] = {
         ["points"] = 9342.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2733,
+        ["rank_raids"] = 2734,
         ["kill_count"] = 2,
-        ["points"] = 8731.1,
+        ["points"] = 8730.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2328,
@@ -26319,9 +26319,9 @@ UWULogsData[5][1] = {
         ["points"] = 9523.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1654,
+        ["rank_raids"] = 1655,
         ["kill_count"] = 6,
-        ["points"] = 9089.4,
+        ["points"] = 9089.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1116,
@@ -26329,9 +26329,9 @@ UWULogsData[5][1] = {
         ["points"] = 9304.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4665,
+        ["rank_raids"] = 4666,
         ["kill_count"] = 4,
-        ["points"] = 8151.5,
+        ["points"] = 8151.2,
       },
     },
   },
@@ -26356,9 +26356,9 @@ UWULogsData[5][1] = {
         ["points"] = 9148.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5272,
+        ["rank_raids"] = 5273,
         ["kill_count"] = 10,
-        ["points"] = 7969.4,
+        ["points"] = 7969.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2709,
@@ -26376,9 +26376,9 @@ UWULogsData[5][1] = {
         ["points"] = 9290.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3640,
+        ["rank_raids"] = 3641,
         ["kill_count"] = 16,
-        ["points"] = 8459.0,
+        ["points"] = 8458.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4418,
@@ -26398,9 +26398,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 465,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 4941,
+        ["rank_raids"] = 4942,
         ["kill_count"] = 1,
-        ["points"] = 8068.7,
+        ["points"] = 8068.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 408,
@@ -26413,9 +26413,9 @@ UWULogsData[5][1] = {
         ["points"] = 9369.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3937,
+        ["rank_raids"] = 3938,
         ["kill_count"] = 5,
-        ["points"] = 8369.9,
+        ["points"] = 8369.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2223,
@@ -26433,9 +26433,9 @@ UWULogsData[5][1] = {
         ["points"] = 9613.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4886,
+        ["rank_raids"] = 4887,
         ["kill_count"] = 4,
-        ["points"] = 8085.2,
+        ["points"] = 8084.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2700,
@@ -26470,9 +26470,9 @@ UWULogsData[5][1] = {
         ["points"] = 8511.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1495,
+        ["rank_raids"] = 1496,
         ["kill_count"] = 11,
-        ["points"] = 9153.0,
+        ["points"] = 9152.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3426,
@@ -26490,9 +26490,9 @@ UWULogsData[5][1] = {
         ["points"] = 8921.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 827,
+        ["rank_raids"] = 828,
         ["kill_count"] = 20,
-        ["points"] = 9437.5,
+        ["points"] = 9437.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4203,
@@ -26500,9 +26500,9 @@ UWULogsData[5][1] = {
         ["points"] = 8290.1,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4529,
+        ["rank_raids"] = 4530,
         ["kill_count"] = 17,
-        ["points"] = 8192.3,
+        ["points"] = 8192.0,
       },
     },
   },
@@ -26512,9 +26512,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 467,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6863,
+        ["rank_raids"] = 6864,
         ["kill_count"] = 7,
-        ["points"] = 7492.1,
+        ["points"] = 7491.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 724,
@@ -26527,9 +26527,9 @@ UWULogsData[5][1] = {
         ["points"] = 9136.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4679,
+        ["rank_raids"] = 4680,
         ["kill_count"] = 5,
-        ["points"] = 8147.3,
+        ["points"] = 8147.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 119,
@@ -26542,14 +26542,14 @@ UWULogsData[5][1] = {
         ["points"] = 9379.5,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5042,
+        ["rank_raids"] = 5043,
         ["kill_count"] = 14,
-        ["points"] = 8038.4,
+        ["points"] = 8038.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1952,
+        ["rank_raids"] = 1953,
         ["kill_count"] = 21,
-        ["points"] = 8970.2,
+        ["points"] = 8969.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2658,
@@ -26584,9 +26584,9 @@ UWULogsData[5][1] = {
         ["points"] = 9378.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3692,
+        ["rank_raids"] = 3693,
         ["kill_count"] = 13,
-        ["points"] = 8443.4,
+        ["points"] = 8443.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 578,
@@ -26604,9 +26604,9 @@ UWULogsData[5][1] = {
         ["points"] = 8821.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3572,
+        ["rank_raids"] = 3573,
         ["kill_count"] = 16,
-        ["points"] = 8479.4,
+        ["points"] = 8479.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2456,
@@ -26641,9 +26641,9 @@ UWULogsData[5][1] = {
         ["points"] = 9470.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1919,
+        ["rank_raids"] = 1920,
         ["kill_count"] = 10,
-        ["points"] = 8983.4,
+        ["points"] = 8983.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3239,
@@ -26656,14 +26656,14 @@ UWULogsData[5][1] = {
         ["points"] = 7778.9,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4149,
+        ["rank_raids"] = 4150,
         ["kill_count"] = 8,
-        ["points"] = 8306.3,
+        ["points"] = 8306.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2164,
+        ["rank_raids"] = 2165,
         ["kill_count"] = 13,
-        ["points"] = 8901.8,
+        ["points"] = 8901.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2923,
@@ -26693,19 +26693,19 @@ UWULogsData[5][1] = {
         ["points"] = 9491.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4729,
+        ["rank_raids"] = 4731,
         ["kill_count"] = 1,
-        ["points"] = 8132.3,
+        ["points"] = 8131.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1684,
+        ["rank_raids"] = 1685,
         ["kill_count"] = 8,
-        ["points"] = 9077.4,
+        ["points"] = 9077.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5363,
+        ["rank_raids"] = 5364,
         ["kill_count"] = 5,
-        ["points"] = 7942.1,
+        ["points"] = 7941.8,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3136,
@@ -26720,7 +26720,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 426,
         ["kill_count"] = 9,
-        ["points"] = 9652.78,
+        ["points"] = 9652.83,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5230,
@@ -26755,9 +26755,9 @@ UWULogsData[5][1] = {
         ["points"] = 9519.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1384,
+        ["rank_raids"] = 1385,
         ["kill_count"] = 5,
-        ["points"] = 9197.4,
+        ["points"] = 9197.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2400,
@@ -26775,9 +26775,9 @@ UWULogsData[5][1] = {
         ["points"] = 9821.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2635,
+        ["rank_raids"] = 2636,
         ["kill_count"] = 4,
-        ["points"] = 8760.5,
+        ["points"] = 8760.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2177,
@@ -26812,14 +26812,14 @@ UWULogsData[5][1] = {
         ["points"] = 8603.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2409,
+        ["rank_raids"] = 2410,
         ["kill_count"] = 3,
-        ["points"] = 8828.3,
+        ["points"] = 8828.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4373,
+        ["rank_raids"] = 4374,
         ["kill_count"] = 7,
-        ["points"] = 8239.1,
+        ["points"] = 8238.8,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 844,
@@ -26827,14 +26827,14 @@ UWULogsData[5][1] = {
         ["points"] = 9429.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3525,
+        ["rank_raids"] = 3526,
         ["kill_count"] = 6,
-        ["points"] = 8493.5,
+        ["points"] = 8493.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1277,
+        ["rank_raids"] = 1278,
         ["kill_count"] = 7,
-        ["points"] = 9240.2,
+        ["points"] = 9239.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1888,
@@ -26869,9 +26869,9 @@ UWULogsData[5][1] = {
         ["points"] = 8742.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1532,
+        ["rank_raids"] = 1533,
         ["kill_count"] = 9,
-        ["points"] = 9138.2,
+        ["points"] = 9137.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 801,
@@ -26889,9 +26889,9 @@ UWULogsData[5][1] = {
         ["points"] = 9434.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5890,
+        ["rank_raids"] = 5891,
         ["kill_count"] = 5,
-        ["points"] = 7784.0,
+        ["points"] = 7783.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1546,
@@ -26926,9 +26926,9 @@ UWULogsData[5][1] = {
         ["points"] = 8449.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 817,
+        ["rank_raids"] = 818,
         ["kill_count"] = 10,
-        ["points"] = 9442.5,
+        ["points"] = 9442.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3226,
@@ -26946,9 +26946,9 @@ UWULogsData[5][1] = {
         ["points"] = 8689.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2069,
+        ["rank_raids"] = 2070,
         ["kill_count"] = 10,
-        ["points"] = 8930.3,
+        ["points"] = 8930.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1033,
@@ -26983,14 +26983,14 @@ UWULogsData[5][1] = {
         ["points"] = 9101.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3865,
+        ["rank_raids"] = 3866,
         ["kill_count"] = 7,
-        ["points"] = 8391.5,
+        ["points"] = 8391.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4957,
+        ["rank_raids"] = 4958,
         ["kill_count"] = 4,
-        ["points"] = 8063.9,
+        ["points"] = 8063.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2173,
@@ -27003,9 +27003,9 @@ UWULogsData[5][1] = {
         ["points"] = 9505.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2688,
+        ["rank_raids"] = 2689,
         ["kill_count"] = 6,
-        ["points"] = 8744.6,
+        ["points"] = 8744.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 958,
@@ -27040,9 +27040,9 @@ UWULogsData[5][1] = {
         ["points"] = 9396.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2736,
+        ["rank_raids"] = 2737,
         ["kill_count"] = 4,
-        ["points"] = 8730.2,
+        ["points"] = 8729.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3619,
@@ -27060,9 +27060,9 @@ UWULogsData[5][1] = {
         ["points"] = 9505.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2356,
+        ["rank_raids"] = 2357,
         ["kill_count"] = 8,
-        ["points"] = 8844.2,
+        ["points"] = 8843.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2009,
@@ -27070,9 +27070,9 @@ UWULogsData[5][1] = {
         ["points"] = 8948.3,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5385,
+        ["rank_raids"] = 5386,
         ["kill_count"] = 7,
-        ["points"] = 7935.5,
+        ["points"] = 7935.2,
       },
     },
   },
@@ -27082,9 +27082,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 477,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5989,
+        ["rank_raids"] = 5990,
         ["kill_count"] = 8,
-        ["points"] = 7754.3,
+        ["points"] = 7754.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3037,
@@ -27097,9 +27097,9 @@ UWULogsData[5][1] = {
         ["points"] = 9112.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3320,
+        ["rank_raids"] = 3321,
         ["kill_count"] = 6,
-        ["points"] = 8555.0,
+        ["points"] = 8554.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2105,
@@ -27117,9 +27117,9 @@ UWULogsData[5][1] = {
         ["points"] = 9761.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4834,
+        ["rank_raids"] = 4835,
         ["kill_count"] = 8,
-        ["points"] = 8100.8,
+        ["points"] = 8100.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2235,
@@ -27139,9 +27139,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 478,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6233,
+        ["rank_raids"] = 6234,
         ["kill_count"] = 1,
-        ["points"] = 7681.1,
+        ["points"] = 7680.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 477,
@@ -27154,9 +27154,9 @@ UWULogsData[5][1] = {
         ["points"] = 8459.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2915,
+        ["rank_raids"] = 2916,
         ["kill_count"] = 2,
-        ["points"] = 8676.5,
+        ["points"] = 8676.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 691,
@@ -27169,14 +27169,14 @@ UWULogsData[5][1] = {
         ["points"] = 9707.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 8636,
+        ["rank_raids"] = 8637,
         ["kill_count"] = 2,
-        ["points"] = 6960.2,
+        ["points"] = 6959.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1710,
+        ["rank_raids"] = 1711,
         ["kill_count"] = 2,
-        ["points"] = 9067.0,
+        ["points"] = 9066.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 771,
@@ -27211,14 +27211,14 @@ UWULogsData[5][1] = {
         ["points"] = 9481.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6379,
+        ["rank_raids"] = 6380,
         ["kill_count"] = 3,
-        ["points"] = 7637.3,
+        ["points"] = 7637.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4036,
+        ["rank_raids"] = 4037,
         ["kill_count"] = 5,
-        ["points"] = 8340.2,
+        ["points"] = 8339.9,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3146,
@@ -27231,9 +27231,9 @@ UWULogsData[5][1] = {
         ["points"] = 9838.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5401,
+        ["rank_raids"] = 5402,
         ["kill_count"] = 4,
-        ["points"] = 7930.7,
+        ["points"] = 7930.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2686,
@@ -27268,9 +27268,9 @@ UWULogsData[5][1] = {
         ["points"] = 9733.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5457,
+        ["rank_raids"] = 5458,
         ["kill_count"] = 5,
-        ["points"] = 7913.9,
+        ["points"] = 7913.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 374,
@@ -27288,9 +27288,9 @@ UWULogsData[5][1] = {
         ["points"] = 8699.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1986,
+        ["rank_raids"] = 1987,
         ["kill_count"] = 5,
-        ["points"] = 8956.6,
+        ["points"] = 8956.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7358,
@@ -27320,14 +27320,14 @@ UWULogsData[5][1] = {
         ["points"] = 9132.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6927,
+        ["rank_raids"] = 6930,
         ["kill_count"] = 5,
-        ["points"] = 7472.9,
+        ["points"] = 7472.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1547,
+        ["rank_raids"] = 1548,
         ["kill_count"] = 7,
-        ["points"] = 9132.2,
+        ["points"] = 9131.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2097,
@@ -27345,9 +27345,9 @@ UWULogsData[5][1] = {
         ["points"] = 8836.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1561,
+        ["rank_raids"] = 1562,
         ["kill_count"] = 17,
-        ["points"] = 9126.6,
+        ["points"] = 9126.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 657,
@@ -27382,9 +27382,9 @@ UWULogsData[5][1] = {
         ["points"] = 8585.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2266,
+        ["rank_raids"] = 2267,
         ["kill_count"] = 9,
-        ["points"] = 8871.2,
+        ["points"] = 8870.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2484,
@@ -27402,9 +27402,9 @@ UWULogsData[5][1] = {
         ["points"] = 9272.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3062,
+        ["rank_raids"] = 3063,
         ["kill_count"] = 11,
-        ["points"] = 8632.4,
+        ["points"] = 8632.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1771,
@@ -27412,9 +27412,9 @@ UWULogsData[5][1] = {
         ["points"] = 9042.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5602,
+        ["rank_raids"] = 5603,
         ["kill_count"] = 14,
-        ["points"] = 7870.4,
+        ["points"] = 7870.1,
       },
     },
   },
@@ -27439,14 +27439,14 @@ UWULogsData[5][1] = {
         ["points"] = 8479.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4874,
+        ["rank_raids"] = 4875,
         ["kill_count"] = 15,
-        ["points"] = 8088.8,
+        ["points"] = 8088.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5730,
+        ["rank_raids"] = 5731,
         ["kill_count"] = 8,
-        ["points"] = 7832.0,
+        ["points"] = 7831.7,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1565,
@@ -27454,14 +27454,14 @@ UWULogsData[5][1] = {
         ["points"] = 9125.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3126,
+        ["rank_raids"] = 3127,
         ["kill_count"] = 18,
-        ["points"] = 8613.2,
+        ["points"] = 8612.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2446,
+        ["rank_raids"] = 2447,
         ["kill_count"] = 31,
-        ["points"] = 8817.2,
+        ["points"] = 8816.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 977,
@@ -27481,9 +27481,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 484,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5857,
+        ["rank_raids"] = 5858,
         ["kill_count"] = 7,
-        ["points"] = 7793.9,
+        ["points"] = 7793.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 478,
@@ -27496,14 +27496,14 @@ UWULogsData[5][1] = {
         ["points"] = 9263.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1827,
+        ["rank_raids"] = 1828,
         ["kill_count"] = 8,
-        ["points"] = 9020.2,
+        ["points"] = 9019.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4634,
+        ["rank_raids"] = 4635,
         ["kill_count"] = 7,
-        ["points"] = 8160.8,
+        ["points"] = 8160.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1639,
@@ -27516,9 +27516,9 @@ UWULogsData[5][1] = {
         ["points"] = 9060.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2442,
+        ["rank_raids"] = 2443,
         ["kill_count"] = 9,
-        ["points"] = 8818.4,
+        ["points"] = 8818.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1060,
@@ -27553,9 +27553,9 @@ UWULogsData[5][1] = {
         ["points"] = 9265.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3023,
+        ["rank_raids"] = 3024,
         ["kill_count"] = 15,
-        ["points"] = 8644.1,
+        ["points"] = 8643.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3086,
@@ -27573,9 +27573,9 @@ UWULogsData[5][1] = {
         ["points"] = 8913.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2197,
+        ["rank_raids"] = 2198,
         ["kill_count"] = 14,
-        ["points"] = 8891.9,
+        ["points"] = 8891.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3136,
@@ -27610,9 +27610,9 @@ UWULogsData[5][1] = {
         ["points"] = 9213.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5341,
+        ["rank_raids"] = 5342,
         ["kill_count"] = 11,
-        ["points"] = 7948.7,
+        ["points"] = 7948.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 665,
@@ -27630,9 +27630,9 @@ UWULogsData[5][1] = {
         ["points"] = 8855.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2087,
+        ["rank_raids"] = 2088,
         ["kill_count"] = 17,
-        ["points"] = 8924.9,
+        ["points"] = 8924.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6604,
@@ -27647,7 +27647,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Healmepriest"] = {
-    ["percentile"] = 88.63,
+    ["percentile"] = 88.62,
     ["server"] = "Icecrown",
     ["overall_rank"] = 487,
     ["bosses"] = {
@@ -27667,9 +27667,9 @@ UWULogsData[5][1] = {
         ["points"] = 9249.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2046,
+        ["rank_raids"] = 2047,
         ["kill_count"] = 4,
-        ["points"] = 8937.2,
+        ["points"] = 8936.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2506,
@@ -27687,9 +27687,9 @@ UWULogsData[5][1] = {
         ["points"] = 9240.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3588,
+        ["rank_raids"] = 3589,
         ["kill_count"] = 5,
-        ["points"] = 8474.6,
+        ["points"] = 8474.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3597,
@@ -27709,9 +27709,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 488,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8252,
+        ["rank_raids"] = 8255,
         ["kill_count"] = 13,
-        ["points"] = 7075.4,
+        ["points"] = 7074.5,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 975,
@@ -27724,9 +27724,9 @@ UWULogsData[5][1] = {
         ["points"] = 9457.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2057,
+        ["rank_raids"] = 2058,
         ["kill_count"] = 16,
-        ["points"] = 8933.9,
+        ["points"] = 8933.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1296,
@@ -27744,9 +27744,9 @@ UWULogsData[5][1] = {
         ["points"] = 9204.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3092,
+        ["rank_raids"] = 3093,
         ["kill_count"] = 21,
-        ["points"] = 8623.4,
+        ["points"] = 8623.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3062,
@@ -27760,67 +27760,10 @@ UWULogsData[5][1] = {
       },
     },
   },
-  ["Jellyduck"] = {
-    ["percentile"] = 88.6,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 489,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 307,
-        ["kill_count"] = 3,
-        ["points"] = 9726.1,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 3092,
-        ["kill_count"] = 1,
-        ["points"] = 8623.4,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7585,
-        ["kill_count"] = 2,
-        ["points"] = 7275.5,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 1232,
-        ["kill_count"] = 5,
-        ["points"] = 9258.2,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 3363,
-        ["kill_count"] = 3,
-        ["points"] = 8542.1,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 2987,
-        ["kill_count"] = 2,
-        ["points"] = 8654.9,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 2699,
-        ["kill_count"] = 5,
-        ["points"] = 8741.3,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2229,
-        ["kill_count"] = 5,
-        ["points"] = 8882.3,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 796,
-        ["kill_count"] = 2,
-        ["points"] = 9453.0,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 834,
-        ["kill_count"] = 3,
-        ["points"] = 9434.0,
-      },
-    },
-  },
   ["Priestwaifu"] = {
     ["percentile"] = 88.6,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 490,
+    ["overall_rank"] = 489,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 280,
@@ -27838,9 +27781,9 @@ UWULogsData[5][1] = {
         ["points"] = 8906.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4378,
+        ["rank_raids"] = 4379,
         ["kill_count"] = 5,
-        ["points"] = 8237.6,
+        ["points"] = 8237.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 988,
@@ -27858,9 +27801,9 @@ UWULogsData[5][1] = {
         ["points"] = 9282.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2850,
+        ["rank_raids"] = 2851,
         ["kill_count"] = 5,
-        ["points"] = 8696.0,
+        ["points"] = 8695.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2749,
@@ -27868,9 +27811,66 @@ UWULogsData[5][1] = {
         ["points"] = 8726.3,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4455,
+        ["rank_raids"] = 4456,
         ["kill_count"] = 4,
-        ["points"] = 8214.5,
+        ["points"] = 8214.2,
+      },
+    },
+  },
+  ["Jellyduck"] = {
+    ["percentile"] = 88.59,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 490,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 307,
+        ["kill_count"] = 3,
+        ["points"] = 9726.1,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 3092,
+        ["kill_count"] = 1,
+        ["points"] = 8623.4,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 7588,
+        ["kill_count"] = 2,
+        ["points"] = 7274.6,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 1233,
+        ["kill_count"] = 5,
+        ["points"] = 9257.8,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 3363,
+        ["kill_count"] = 3,
+        ["points"] = 8542.1,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 2987,
+        ["kill_count"] = 2,
+        ["points"] = 8654.9,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 2699,
+        ["kill_count"] = 5,
+        ["points"] = 8741.3,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 2230,
+        ["kill_count"] = 5,
+        ["points"] = 8882.0,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 796,
+        ["kill_count"] = 2,
+        ["points"] = 9453.0,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 834,
+        ["kill_count"] = 3,
+        ["points"] = 9434.0,
       },
     },
   },
@@ -27880,9 +27880,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 491,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5410,
+        ["rank_raids"] = 5411,
         ["kill_count"] = 5,
-        ["points"] = 7928.0,
+        ["points"] = 7927.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4248,
@@ -27915,9 +27915,9 @@ UWULogsData[5][1] = {
         ["points"] = 9450.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1101,
+        ["rank_raids"] = 1102,
         ["kill_count"] = 6,
-        ["points"] = 9310.6,
+        ["points"] = 9310.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7113,
@@ -27952,9 +27952,9 @@ UWULogsData[5][1] = {
         ["points"] = 8735.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3052,
+        ["rank_raids"] = 3053,
         ["kill_count"] = 11,
-        ["points"] = 8635.4,
+        ["points"] = 8635.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2079,
@@ -27972,9 +27972,9 @@ UWULogsData[5][1] = {
         ["points"] = 9348.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3589,
+        ["rank_raids"] = 3590,
         ["kill_count"] = 16,
-        ["points"] = 8474.3,
+        ["points"] = 8474.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4279,
@@ -28004,14 +28004,14 @@ UWULogsData[5][1] = {
         ["points"] = 8363.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3772,
+        ["rank_raids"] = 3773,
         ["kill_count"] = 7,
-        ["points"] = 8419.4,
+        ["points"] = 8419.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2199,
+        ["rank_raids"] = 2200,
         ["kill_count"] = 7,
-        ["points"] = 8891.3,
+        ["points"] = 8891.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2852,
@@ -28029,9 +28029,9 @@ UWULogsData[5][1] = {
         ["points"] = 9378.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3381,
+        ["rank_raids"] = 3382,
         ["kill_count"] = 8,
-        ["points"] = 8536.7,
+        ["points"] = 8536.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 603,
@@ -28051,9 +28051,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 494,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6209,
+        ["rank_raids"] = 6210,
         ["kill_count"] = 4,
-        ["points"] = 7688.3,
+        ["points"] = 7688.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3697,
@@ -28066,9 +28066,9 @@ UWULogsData[5][1] = {
         ["points"] = 8706.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 388,
+        ["rank_raids"] = 389,
         ["kill_count"] = 10,
-        ["points"] = 9669.4,
+        ["points"] = 9668.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3616,
@@ -28086,9 +28086,9 @@ UWULogsData[5][1] = {
         ["points"] = 9288.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1288,
+        ["rank_raids"] = 1289,
         ["kill_count"] = 10,
-        ["points"] = 9235.8,
+        ["points"] = 9235.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1037,
@@ -28096,14 +28096,14 @@ UWULogsData[5][1] = {
         ["points"] = 9336.2,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5051,
+        ["rank_raids"] = 5052,
         ["kill_count"] = 12,
-        ["points"] = 8035.7,
+        ["points"] = 8035.4,
       },
     },
   },
   ["Sharkesha"] = {
-    ["percentile"] = 88.55,
+    ["percentile"] = 88.54,
     ["server"] = "Icecrown",
     ["overall_rank"] = 495,
     ["bosses"] = {
@@ -28123,9 +28123,9 @@ UWULogsData[5][1] = {
         ["points"] = 9573.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1458,
+        ["rank_raids"] = 1459,
         ["kill_count"] = 10,
-        ["points"] = 9167.8,
+        ["points"] = 9167.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 326,
@@ -28138,14 +28138,14 @@ UWULogsData[5][1] = {
         ["points"] = 7813.7,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7326,
+        ["rank_raids"] = 7327,
         ["kill_count"] = 14,
-        ["points"] = 7353.2,
+        ["points"] = 7352.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1302,
+        ["rank_raids"] = 1303,
         ["kill_count"] = 18,
-        ["points"] = 9230.2,
+        ["points"] = 9229.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 815,
@@ -28180,9 +28180,9 @@ UWULogsData[5][1] = {
         ["points"] = 9803.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3487,
+        ["rank_raids"] = 3488,
         ["kill_count"] = 4,
-        ["points"] = 8504.9,
+        ["points"] = 8504.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3212,
@@ -28195,14 +28195,14 @@ UWULogsData[5][1] = {
         ["points"] = 7790.9,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 2938,
+        ["rank_raids"] = 2939,
         ["kill_count"] = 3,
-        ["points"] = 8669.6,
+        ["points"] = 8669.3,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 396,
         ["kill_count"] = 7,
-        ["points"] = 9669.75,
+        ["points"] = 9669.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2502,
@@ -28232,14 +28232,14 @@ UWULogsData[5][1] = {
         ["points"] = 9466.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3776,
+        ["rank_raids"] = 3777,
         ["kill_count"] = 5,
-        ["points"] = 8418.2,
+        ["points"] = 8417.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1159,
+        ["rank_raids"] = 1160,
         ["kill_count"] = 19,
-        ["points"] = 9287.4,
+        ["points"] = 9287.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2138,
@@ -28252,14 +28252,14 @@ UWULogsData[5][1] = {
         ["points"] = 9163.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7909,
+        ["rank_raids"] = 7910,
         ["kill_count"] = 20,
-        ["points"] = 7178.3,
+        ["points"] = 7178.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 778,
+        ["rank_raids"] = 779,
         ["kill_count"] = 21,
-        ["points"] = 9462.0,
+        ["points"] = 9461.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3670,
@@ -28294,9 +28294,9 @@ UWULogsData[5][1] = {
         ["points"] = 9074.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3504,
+        ["rank_raids"] = 3505,
         ["kill_count"] = 7,
-        ["points"] = 8499.8,
+        ["points"] = 8499.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2580,
@@ -28314,9 +28314,9 @@ UWULogsData[5][1] = {
         ["points"] = 9845.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5525,
+        ["rank_raids"] = 5526,
         ["kill_count"] = 10,
-        ["points"] = 7893.5,
+        ["points"] = 7893.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3821,
@@ -28351,9 +28351,9 @@ UWULogsData[5][1] = {
         ["points"] = 9212.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1540,
+        ["rank_raids"] = 1541,
         ["kill_count"] = 12,
-        ["points"] = 9135.0,
+        ["points"] = 9134.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2356,
@@ -28371,9 +28371,9 @@ UWULogsData[5][1] = {
         ["points"] = 8983.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4252,
+        ["rank_raids"] = 4253,
         ["kill_count"] = 13,
-        ["points"] = 8275.4,
+        ["points"] = 8275.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2223,
@@ -28393,9 +28393,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 500,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 4738,
+        ["rank_raids"] = 4739,
         ["kill_count"] = 1,
-        ["points"] = 8129.6,
+        ["points"] = 8129.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3321,
@@ -28408,9 +28408,9 @@ UWULogsData[5][1] = {
         ["points"] = 9392.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4602,
+        ["rank_raids"] = 4603,
         ["kill_count"] = 5,
-        ["points"] = 8170.4,
+        ["points"] = 8170.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2550,
@@ -28428,9 +28428,9 @@ UWULogsData[5][1] = {
         ["points"] = 9852.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4357,
+        ["rank_raids"] = 4358,
         ["kill_count"] = 5,
-        ["points"] = 8243.9,
+        ["points"] = 8243.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2256,
@@ -28450,9 +28450,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 501,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8007,
+        ["rank_raids"] = 8010,
         ["kill_count"] = 4,
-        ["points"] = 7148.9,
+        ["points"] = 7148.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 464,
@@ -28465,9 +28465,9 @@ UWULogsData[5][1] = {
         ["points"] = 9567.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1177,
+        ["rank_raids"] = 1178,
         ["kill_count"] = 5,
-        ["points"] = 9280.2,
+        ["points"] = 9279.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1022,
@@ -28485,9 +28485,9 @@ UWULogsData[5][1] = {
         ["points"] = 9674.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1769,
+        ["rank_raids"] = 1770,
         ["kill_count"] = 12,
-        ["points"] = 9043.4,
+        ["points"] = 9043.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3312,
@@ -28495,9 +28495,9 @@ UWULogsData[5][1] = {
         ["points"] = 8557.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5029,
+        ["rank_raids"] = 5030,
         ["kill_count"] = 8,
-        ["points"] = 8042.3,
+        ["points"] = 8042.0,
       },
     },
   },
@@ -28517,14 +28517,14 @@ UWULogsData[5][1] = {
         ["points"] = 9335.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5378,
+        ["rank_raids"] = 5381,
         ["kill_count"] = 5,
-        ["points"] = 7937.6,
+        ["points"] = 7936.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1600,
+        ["rank_raids"] = 1601,
         ["kill_count"] = 31,
-        ["points"] = 9111.0,
+        ["points"] = 9110.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1772,
@@ -28542,9 +28542,9 @@ UWULogsData[5][1] = {
         ["points"] = 8848.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3311,
+        ["rank_raids"] = 3312,
         ["kill_count"] = 35,
-        ["points"] = 8557.7,
+        ["points"] = 8557.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3458,
@@ -28564,9 +28564,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 503,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7949,
+        ["rank_raids"] = 7952,
         ["kill_count"] = 5,
-        ["points"] = 7166.3,
+        ["points"] = 7165.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 918,
@@ -28574,14 +28574,14 @@ UWULogsData[5][1] = {
         ["points"] = 9392.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10192,
+        ["rank_raids"] = 10196,
         ["kill_count"] = 5,
-        ["points"] = 6531.8,
+        ["points"] = 6531.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2117,
+        ["rank_raids"] = 2118,
         ["kill_count"] = 5,
-        ["points"] = 8915.9,
+        ["points"] = 8915.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 864,
@@ -28594,14 +28594,14 @@ UWULogsData[5][1] = {
         ["points"] = 9570.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3200,
+        ["rank_raids"] = 3201,
         ["kill_count"] = 5,
-        ["points"] = 8591.0,
+        ["points"] = 8590.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 585,
+        ["rank_raids"] = 586,
         ["kill_count"] = 5,
-        ["points"] = 9558.5,
+        ["points"] = 9558.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 490,
@@ -28636,9 +28636,9 @@ UWULogsData[5][1] = {
         ["points"] = 9228.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3512,
+        ["rank_raids"] = 3513,
         ["kill_count"] = 11,
-        ["points"] = 8497.4,
+        ["points"] = 8497.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2126,
@@ -28656,9 +28656,9 @@ UWULogsData[5][1] = {
         ["points"] = 8796.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3305,
+        ["rank_raids"] = 3306,
         ["kill_count"] = 14,
-        ["points"] = 8559.5,
+        ["points"] = 8559.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4437,
@@ -28693,9 +28693,9 @@ UWULogsData[5][1] = {
         ["points"] = 9395.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4347,
+        ["rank_raids"] = 4348,
         ["kill_count"] = 7,
-        ["points"] = 8246.9,
+        ["points"] = 8246.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 404,
@@ -28713,9 +28713,9 @@ UWULogsData[5][1] = {
         ["points"] = 9779.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 12213,
+        ["rank_raids"] = 12214,
         ["kill_count"] = 8,
-        ["points"] = 6329.7,
+        ["points"] = 6329.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2422,
@@ -28750,9 +28750,9 @@ UWULogsData[5][1] = {
         ["points"] = 8588.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6116,
+        ["rank_raids"] = 6117,
         ["kill_count"] = 3,
-        ["points"] = 7716.2,
+        ["points"] = 7715.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 210,
@@ -28770,9 +28770,9 @@ UWULogsData[5][1] = {
         ["points"] = 9010.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1503,
+        ["rank_raids"] = 1504,
         ["kill_count"] = 4,
-        ["points"] = 9149.8,
+        ["points"] = 9149.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1666,
@@ -28802,14 +28802,14 @@ UWULogsData[5][1] = {
         ["points"] = 7404.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8317,
+        ["rank_raids"] = 8321,
         ["kill_count"] = 4,
-        ["points"] = 7055.9,
+        ["points"] = 7054.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 253,
+        ["rank_raids"] = 254,
         ["kill_count"] = 9,
-        ["points"] = 9768.6,
+        ["points"] = 9767.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 235,
@@ -28827,9 +28827,9 @@ UWULogsData[5][1] = {
         ["points"] = 9530.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 931,
+        ["rank_raids"] = 932,
         ["kill_count"] = 11,
-        ["points"] = 9385.5,
+        ["points"] = 9385.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2469,
@@ -28859,19 +28859,19 @@ UWULogsData[5][1] = {
         ["points"] = 9847.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5789,
+        ["rank_raids"] = 5792,
         ["kill_count"] = 4,
-        ["points"] = 7814.3,
+        ["points"] = 7813.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7369,
+        ["rank_raids"] = 7370,
         ["kill_count"] = 2,
-        ["points"] = 7340.3,
+        ["points"] = 7340.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6225,
+        ["rank_raids"] = 6227,
         ["kill_count"] = 3,
-        ["points"] = 7683.5,
+        ["points"] = 7682.9,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 861,
@@ -28884,9 +28884,9 @@ UWULogsData[5][1] = {
         ["points"] = 9436.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2780,
+        ["rank_raids"] = 2781,
         ["kill_count"] = 3,
-        ["points"] = 8717.0,
+        ["points"] = 8716.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 144,
@@ -28906,9 +28906,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 509,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 11415,
+        ["rank_raids"] = 11418,
         ["kill_count"] = 4,
-        ["points"] = 6409.5,
+        ["points"] = 6409.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 492,
@@ -28921,9 +28921,9 @@ UWULogsData[5][1] = {
         ["points"] = 8677.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5038,
+        ["rank_raids"] = 5039,
         ["kill_count"] = 5,
-        ["points"] = 8039.6,
+        ["points"] = 8039.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2553,
@@ -28941,9 +28941,9 @@ UWULogsData[5][1] = {
         ["points"] = 9678.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2286,
+        ["rank_raids"] = 2287,
         ["kill_count"] = 9,
-        ["points"] = 8865.2,
+        ["points"] = 8864.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 800,
@@ -28978,9 +28978,9 @@ UWULogsData[5][1] = {
         ["points"] = 9548.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1743,
+        ["rank_raids"] = 1744,
         ["kill_count"] = 2,
-        ["points"] = 9053.8,
+        ["points"] = 9053.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 707,
@@ -28993,14 +28993,14 @@ UWULogsData[5][1] = {
         ["points"] = 8929.1,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 22952,
+        ["rank_raids"] = 22955,
         ["kill_count"] = 1,
-        ["points"] = 5255.8,
+        ["points"] = 5255.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2134,
+        ["rank_raids"] = 2135,
         ["kill_count"] = 4,
-        ["points"] = 8910.8,
+        ["points"] = 8910.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 824,
@@ -29035,14 +29035,14 @@ UWULogsData[5][1] = {
         ["points"] = 9211.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 782,
+        ["rank_raids"] = 783,
         ["kill_count"] = 11,
-        ["points"] = 9460.0,
+        ["points"] = 9459.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5341,
+        ["rank_raids"] = 5342,
         ["kill_count"] = 4,
-        ["points"] = 7948.7,
+        ["points"] = 7948.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3554,
@@ -29055,9 +29055,9 @@ UWULogsData[5][1] = {
         ["points"] = 9703.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1324,
+        ["rank_raids"] = 1325,
         ["kill_count"] = 14,
-        ["points"] = 9221.4,
+        ["points"] = 9221.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4885,
@@ -29092,9 +29092,9 @@ UWULogsData[5][1] = {
         ["points"] = 9406.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1303,
+        ["rank_raids"] = 1304,
         ["kill_count"] = 17,
-        ["points"] = 9229.8,
+        ["points"] = 9229.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 148,
@@ -29107,19 +29107,19 @@ UWULogsData[5][1] = {
         ["points"] = 9327.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 16061,
+        ["rank_raids"] = 16062,
         ["kill_count"] = 9,
-        ["points"] = 5944.9,
+        ["points"] = 5944.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 735,
+        ["rank_raids"] = 736,
         ["kill_count"] = 17,
-        ["points"] = 9483.5,
+        ["points"] = 9483.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 13740,
+        ["rank_raids"] = 13741,
         ["kill_count"] = 8,
-        ["points"] = 6177.0,
+        ["points"] = 6176.9,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 556,
@@ -29128,67 +29128,10 @@ UWULogsData[5][1] = {
       },
     },
   },
-  ["Santoo"] = {
-    ["percentile"] = 88.32,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 513,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6680,
-        ["kill_count"] = 13,
-        ["points"] = 7547.0,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 3446,
-        ["kill_count"] = 6,
-        ["points"] = 8517.2,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6462,
-        ["kill_count"] = 3,
-        ["points"] = 7612.4,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 1249,
-        ["kill_count"] = 5,
-        ["points"] = 9251.4,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 1074,
-        ["kill_count"] = 9,
-        ["points"] = 9321.4,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 238,
-        ["kill_count"] = 7,
-        ["points"] = 9780.6,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 1215,
-        ["kill_count"] = 6,
-        ["points"] = 9265.0,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2759,
-        ["kill_count"] = 11,
-        ["points"] = 8723.3,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 2246,
-        ["kill_count"] = 8,
-        ["points"] = 8877.2,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 868,
-        ["kill_count"] = 7,
-        ["points"] = 9417.0,
-      },
-    },
-  },
   ["Usmevbubliny"] = {
     ["percentile"] = 88.32,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 514,
+    ["overall_rank"] = 513,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1110,
@@ -29206,9 +29149,9 @@ UWULogsData[5][1] = {
         ["points"] = 9200.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3519,
+        ["rank_raids"] = 3520,
         ["kill_count"] = 7,
-        ["points"] = 8495.3,
+        ["points"] = 8495.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 902,
@@ -29226,9 +29169,9 @@ UWULogsData[5][1] = {
         ["points"] = 9427.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6527,
+        ["rank_raids"] = 6528,
         ["kill_count"] = 7,
-        ["points"] = 7592.9,
+        ["points"] = 7592.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3309,
@@ -29242,15 +29185,72 @@ UWULogsData[5][1] = {
       },
     },
   },
+  ["Santoo"] = {
+    ["percentile"] = 88.32,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 514,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 6681,
+        ["kill_count"] = 13,
+        ["points"] = 7546.7,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 3446,
+        ["kill_count"] = 6,
+        ["points"] = 8517.2,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 6465,
+        ["kill_count"] = 3,
+        ["points"] = 7611.5,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 1250,
+        ["kill_count"] = 5,
+        ["points"] = 9251.0,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 1074,
+        ["kill_count"] = 9,
+        ["points"] = 9321.4,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 238,
+        ["kill_count"] = 7,
+        ["points"] = 9780.6,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 1215,
+        ["kill_count"] = 6,
+        ["points"] = 9265.0,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 2760,
+        ["kill_count"] = 11,
+        ["points"] = 8723.0,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 2246,
+        ["kill_count"] = 8,
+        ["points"] = 8877.2,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 868,
+        ["kill_count"] = 7,
+        ["points"] = 9417.0,
+      },
+    },
+  },
   ["Dudusv"] = {
     ["percentile"] = 88.31,
     ["server"] = "Icecrown",
     ["overall_rank"] = 515,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6204,
+        ["rank_raids"] = 6205,
         ["kill_count"] = 21,
-        ["points"] = 7689.8,
+        ["points"] = 7689.5,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 518,
@@ -29263,9 +29263,9 @@ UWULogsData[5][1] = {
         ["points"] = 9229.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1654,
+        ["rank_raids"] = 1655,
         ["kill_count"] = 21,
-        ["points"] = 9089.4,
+        ["points"] = 9089.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 285,
@@ -29278,14 +29278,14 @@ UWULogsData[5][1] = {
         ["points"] = 9377.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 14830,
+        ["rank_raids"] = 14831,
         ["kill_count"] = 31,
-        ["points"] = 6068.0,
+        ["points"] = 6067.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1232,
+        ["rank_raids"] = 1233,
         ["kill_count"] = 31,
-        ["points"] = 9258.2,
+        ["points"] = 9257.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 953,
@@ -29320,9 +29320,9 @@ UWULogsData[5][1] = {
         ["points"] = 8894.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1818,
+        ["rank_raids"] = 1819,
         ["kill_count"] = 11,
-        ["points"] = 9023.8,
+        ["points"] = 9023.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1077,
@@ -29340,9 +29340,9 @@ UWULogsData[5][1] = {
         ["points"] = 9795.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4972,
+        ["rank_raids"] = 4973,
         ["kill_count"] = 9,
-        ["points"] = 8059.4,
+        ["points"] = 8059.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7566,
@@ -29377,14 +29377,14 @@ UWULogsData[5][1] = {
         ["points"] = 9053.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3498,
+        ["rank_raids"] = 3499,
         ["kill_count"] = 11,
-        ["points"] = 8501.6,
+        ["points"] = 8501.3,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4837,
+        ["rank_raids"] = 4838,
         ["kill_count"] = 9,
-        ["points"] = 8099.9,
+        ["points"] = 8099.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2036,
@@ -29392,14 +29392,14 @@ UWULogsData[5][1] = {
         ["points"] = 8940.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3132,
+        ["rank_raids"] = 3133,
         ["kill_count"] = 13,
-        ["points"] = 8611.4,
+        ["points"] = 8611.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2494,
+        ["rank_raids"] = 2495,
         ["kill_count"] = 12,
-        ["points"] = 8802.8,
+        ["points"] = 8802.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2897,
@@ -29413,67 +29413,10 @@ UWULogsData[5][1] = {
       },
     },
   },
-  ["Allise"] = {
-    ["percentile"] = 88.29,
+  ["Lukayo"] = {
+    ["percentile"] = 88.28,
     ["server"] = "Icecrown",
     ["overall_rank"] = 518,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 796,
-        ["kill_count"] = 5,
-        ["points"] = 9453.0,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 1250,
-        ["kill_count"] = 6,
-        ["points"] = 9251.0,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5827,
-        ["kill_count"] = 4,
-        ["points"] = 7802.9,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 1145,
-        ["kill_count"] = 12,
-        ["points"] = 9293.0,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 7792,
-        ["kill_count"] = 10,
-        ["points"] = 7213.4,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 498,
-        ["kill_count"] = 15,
-        ["points"] = 9602.2,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 7171,
-        ["kill_count"] = 10,
-        ["points"] = 7399.7,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1348,
-        ["kill_count"] = 12,
-        ["points"] = 9211.8,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 529,
-        ["kill_count"] = 10,
-        ["points"] = 9586.5,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 768,
-        ["kill_count"] = 20,
-        ["points"] = 9467.0,
-      },
-    },
-  },
-  ["Lukayo"] = {
-    ["percentile"] = 88.29,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 519,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 579,
@@ -29491,9 +29434,9 @@ UWULogsData[5][1] = {
         ["points"] = 8897.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3306,
+        ["rank_raids"] = 3307,
         ["kill_count"] = 14,
-        ["points"] = 8559.2,
+        ["points"] = 8558.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1383,
@@ -29506,14 +29449,14 @@ UWULogsData[5][1] = {
         ["points"] = 9315.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3214,
+        ["rank_raids"] = 3215,
         ["kill_count"] = 18,
-        ["points"] = 8586.8,
+        ["points"] = 8586.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5720,
+        ["rank_raids"] = 5721,
         ["kill_count"] = 19,
-        ["points"] = 7835.0,
+        ["points"] = 7834.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3869,
@@ -29524,6 +29467,63 @@ UWULogsData[5][1] = {
         ["rank_raids"] = 1215,
         ["kill_count"] = 6,
         ["points"] = 9265.0,
+      },
+    },
+  },
+  ["Allise"] = {
+    ["percentile"] = 88.28,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 519,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 796,
+        ["kill_count"] = 5,
+        ["points"] = 9453.0,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 1250,
+        ["kill_count"] = 6,
+        ["points"] = 9251.0,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 5830,
+        ["kill_count"] = 4,
+        ["points"] = 7802.0,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 1146,
+        ["kill_count"] = 12,
+        ["points"] = 9292.6,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 7794,
+        ["kill_count"] = 10,
+        ["points"] = 7212.8,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 498,
+        ["kill_count"] = 15,
+        ["points"] = 9602.2,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 7172,
+        ["kill_count"] = 10,
+        ["points"] = 7399.4,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 1349,
+        ["kill_count"] = 12,
+        ["points"] = 9211.4,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 529,
+        ["kill_count"] = 10,
+        ["points"] = 9586.5,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 768,
+        ["kill_count"] = 20,
+        ["points"] = 9467.0,
       },
     },
   },
@@ -29548,9 +29548,9 @@ UWULogsData[5][1] = {
         ["points"] = 9001.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2190,
+        ["rank_raids"] = 2191,
         ["kill_count"] = 9,
-        ["points"] = 8894.0,
+        ["points"] = 8893.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1369,
@@ -29568,9 +29568,9 @@ UWULogsData[5][1] = {
         ["points"] = 9564.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7087,
+        ["rank_raids"] = 7088,
         ["kill_count"] = 11,
-        ["points"] = 7424.9,
+        ["points"] = 7424.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1531,
@@ -29605,9 +29605,9 @@ UWULogsData[5][1] = {
         ["points"] = 8631.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1520,
+        ["rank_raids"] = 1521,
         ["kill_count"] = 22,
-        ["points"] = 9143.0,
+        ["points"] = 9142.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3073,
@@ -29620,14 +29620,14 @@ UWULogsData[5][1] = {
         ["points"] = 8568.5,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5089,
+        ["rank_raids"] = 5090,
         ["kill_count"] = 22,
-        ["points"] = 8024.3,
+        ["points"] = 8024.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 650,
+        ["rank_raids"] = 651,
         ["kill_count"] = 21,
-        ["points"] = 9526.0,
+        ["points"] = 9525.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3510,
@@ -29642,7 +29642,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Discodanza"] = {
-    ["percentile"] = 88.22,
+    ["percentile"] = 88.21,
     ["server"] = "Icecrown",
     ["overall_rank"] = 522,
     ["bosses"] = {
@@ -29657,14 +29657,14 @@ UWULogsData[5][1] = {
         ["points"] = 9442.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5051,
+        ["rank_raids"] = 5053,
         ["kill_count"] = 2,
-        ["points"] = 8035.7,
+        ["points"] = 8035.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2712,
+        ["rank_raids"] = 2713,
         ["kill_count"] = 22,
-        ["points"] = 8737.4,
+        ["points"] = 8737.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 640,
@@ -29682,9 +29682,9 @@ UWULogsData[5][1] = {
         ["points"] = 9723.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2843,
+        ["rank_raids"] = 2844,
         ["kill_count"] = 25,
-        ["points"] = 8698.1,
+        ["points"] = 8697.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3871,
@@ -29692,9 +29692,9 @@ UWULogsData[5][1] = {
         ["points"] = 8389.7,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6220,
+        ["rank_raids"] = 6221,
         ["kill_count"] = 18,
-        ["points"] = 7685.0,
+        ["points"] = 7684.7,
       },
     },
   },
@@ -29719,9 +29719,9 @@ UWULogsData[5][1] = {
         ["points"] = 9192.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2030,
+        ["rank_raids"] = 2031,
         ["kill_count"] = 4,
-        ["points"] = 8942.0,
+        ["points"] = 8941.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1698,
@@ -29739,9 +29739,9 @@ UWULogsData[5][1] = {
         ["points"] = 8798.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4941,
+        ["rank_raids"] = 4942,
         ["kill_count"] = 8,
-        ["points"] = 8068.7,
+        ["points"] = 8068.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1787,
@@ -29749,9 +29749,9 @@ UWULogsData[5][1] = {
         ["points"] = 9036.2,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8186,
+        ["rank_raids"] = 8187,
         ["kill_count"] = 7,
-        ["points"] = 7095.2,
+        ["points"] = 7094.9,
       },
     },
   },
@@ -29776,14 +29776,14 @@ UWULogsData[5][1] = {
         ["points"] = 9320.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2050,
+        ["rank_raids"] = 2051,
         ["kill_count"] = 9,
-        ["points"] = 8936.0,
+        ["points"] = 8935.7,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5104,
+        ["rank_raids"] = 5105,
         ["kill_count"] = 7,
-        ["points"] = 8019.8,
+        ["points"] = 8019.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 822,
@@ -29796,9 +29796,9 @@ UWULogsData[5][1] = {
         ["points"] = 9294.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2558,
+        ["rank_raids"] = 2559,
         ["kill_count"] = 8,
-        ["points"] = 8783.6,
+        ["points"] = 8783.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1533,
@@ -29833,9 +29833,9 @@ UWULogsData[5][1] = {
         ["points"] = 9153.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3457,
+        ["rank_raids"] = 3458,
         ["kill_count"] = 7,
-        ["points"] = 8513.9,
+        ["points"] = 8513.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1226,
@@ -29853,9 +29853,9 @@ UWULogsData[5][1] = {
         ["points"] = 8935.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2881,
+        ["rank_raids"] = 2882,
         ["kill_count"] = 12,
-        ["points"] = 8686.7,
+        ["points"] = 8686.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2967,
@@ -29890,9 +29890,9 @@ UWULogsData[5][1] = {
         ["points"] = 9541.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3193,
+        ["rank_raids"] = 3194,
         ["kill_count"] = 12,
-        ["points"] = 8593.1,
+        ["points"] = 8592.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1505,
@@ -29910,9 +29910,9 @@ UWULogsData[5][1] = {
         ["points"] = 8792.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3764,
+        ["rank_raids"] = 3765,
         ["kill_count"] = 25,
-        ["points"] = 8421.8,
+        ["points"] = 8421.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 667,
@@ -29927,7 +29927,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Baguettedisc"] = {
-    ["percentile"] = 88.19,
+    ["percentile"] = 88.18,
     ["server"] = "Icecrown",
     ["overall_rank"] = 527,
     ["bosses"] = {
@@ -29942,14 +29942,14 @@ UWULogsData[5][1] = {
         ["points"] = 9570.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4093,
+        ["rank_raids"] = 4095,
         ["kill_count"] = 9,
-        ["points"] = 8323.1,
+        ["points"] = 8322.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 996,
+        ["rank_raids"] = 997,
         ["kill_count"] = 10,
-        ["points"] = 9353.0,
+        ["points"] = 9352.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 169,
@@ -29957,9 +29957,9 @@ UWULogsData[5][1] = {
         ["points"] = 9838.9,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 7621,
+        ["rank_raids"] = 7622,
         ["kill_count"] = 7,
-        ["points"] = 7264.7,
+        ["points"] = 7264.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 899,
@@ -29967,9 +29967,9 @@ UWULogsData[5][1] = {
         ["points"] = 9401.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1048,
+        ["rank_raids"] = 1049,
         ["kill_count"] = 16,
-        ["points"] = 9331.8,
+        ["points"] = 9331.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 9191,
@@ -30004,9 +30004,9 @@ UWULogsData[5][1] = {
         ["points"] = 9124.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3003,
+        ["rank_raids"] = 3004,
         ["kill_count"] = 28,
-        ["points"] = 8650.1,
+        ["points"] = 8649.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1868,
@@ -30024,9 +30024,9 @@ UWULogsData[5][1] = {
         ["points"] = 9468.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3267,
+        ["rank_raids"] = 3268,
         ["kill_count"] = 32,
-        ["points"] = 8570.9,
+        ["points"] = 8570.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3354,
@@ -30056,14 +30056,14 @@ UWULogsData[5][1] = {
         ["points"] = 9263.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5397,
+        ["rank_raids"] = 5400,
         ["kill_count"] = 4,
-        ["points"] = 7931.9,
+        ["points"] = 7931.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3971,
+        ["rank_raids"] = 3972,
         ["kill_count"] = 8,
-        ["points"] = 8359.7,
+        ["points"] = 8359.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 738,
@@ -30081,9 +30081,9 @@ UWULogsData[5][1] = {
         ["points"] = 9721.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2190,
+        ["rank_raids"] = 2191,
         ["kill_count"] = 10,
-        ["points"] = 8894.0,
+        ["points"] = 8893.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3703,
@@ -30118,9 +30118,9 @@ UWULogsData[5][1] = {
         ["points"] = 9631.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 640,
+        ["rank_raids"] = 641,
         ["kill_count"] = 5,
-        ["points"] = 9531.0,
+        ["points"] = 9530.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1004,
@@ -30128,19 +30128,19 @@ UWULogsData[5][1] = {
         ["points"] = 9349.4,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 11484,
+        ["rank_raids"] = 11485,
         ["kill_count"] = 2,
-        ["points"] = 6402.6,
+        ["points"] = 6402.5,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3583,
+        ["rank_raids"] = 3584,
         ["kill_count"] = 4,
-        ["points"] = 8476.1,
+        ["points"] = 8475.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1231,
+        ["rank_raids"] = 1232,
         ["kill_count"] = 3,
-        ["points"] = 9258.6,
+        ["points"] = 9258.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1508,
@@ -30148,9 +30148,9 @@ UWULogsData[5][1] = {
         ["points"] = 9147.8,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4632,
+        ["rank_raids"] = 4633,
         ["kill_count"] = 3,
-        ["points"] = 8161.4,
+        ["points"] = 8161.1,
       },
     },
   },
@@ -30160,9 +30160,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 531,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 11033,
+        ["rank_raids"] = 11036,
         ["kill_count"] = 3,
-        ["points"] = 6447.7,
+        ["points"] = 6447.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 548,
@@ -30175,9 +30175,9 @@ UWULogsData[5][1] = {
         ["points"] = 9092.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1786,
+        ["rank_raids"] = 1787,
         ["kill_count"] = 7,
-        ["points"] = 9036.6,
+        ["points"] = 9036.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1800,
@@ -30195,9 +30195,9 @@ UWULogsData[5][1] = {
         ["points"] = 9404.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3867,
+        ["rank_raids"] = 3868,
         ["kill_count"] = 11,
-        ["points"] = 8390.9,
+        ["points"] = 8390.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1087,
@@ -30214,17 +30214,17 @@ UWULogsData[5][1] = {
   ["Yult"] = {
     ["percentile"] = 88.14,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 3240,
+    ["overall_rank"] = 3241,
     ["bosses"] = {
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4048,
+        ["rank_raids"] = 4050,
         ["kill_count"] = 1,
-        ["points"] = 8336.6,
+        ["points"] = 8336.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 10848,
+        ["rank_raids"] = 10849,
         ["kill_count"] = 1,
-        ["points"] = 6466.2,
+        ["points"] = 6466.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1198,
@@ -30232,14 +30232,14 @@ UWULogsData[5][1] = {
         ["points"] = 9271.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 9420,
+        ["rank_raids"] = 9421,
         ["kill_count"] = 1,
-        ["points"] = 6725.0,
+        ["points"] = 6724.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8571,
+        ["rank_raids"] = 8572,
         ["kill_count"] = 2,
-        ["points"] = 6979.7,
+        ["points"] = 6979.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 10495,
@@ -30247,9 +30247,9 @@ UWULogsData[5][1] = {
         ["points"] = 6501.5,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 13442,
+        ["rank_raids"] = 13443,
         ["kill_count"] = 1,
-        ["points"] = 6206.8,
+        ["points"] = 6206.7,
       },
     },
   },
@@ -30274,14 +30274,14 @@ UWULogsData[5][1] = {
         ["points"] = 9763.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3926,
+        ["rank_raids"] = 3927,
         ["kill_count"] = 2,
-        ["points"] = 8373.2,
+        ["points"] = 8372.9,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5505,
+        ["rank_raids"] = 5506,
         ["kill_count"] = 1,
-        ["points"] = 7899.5,
+        ["points"] = 7899.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 100,
@@ -30289,14 +30289,14 @@ UWULogsData[5][1] = {
         ["points"] = 9901.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4766,
+        ["rank_raids"] = 4767,
         ["kill_count"] = 1,
-        ["points"] = 8121.2,
+        ["points"] = 8120.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 13043,
+        ["rank_raids"] = 13044,
         ["kill_count"] = 3,
-        ["points"] = 6246.7,
+        ["points"] = 6246.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 853,
@@ -30331,9 +30331,9 @@ UWULogsData[5][1] = {
         ["points"] = 8686.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2601,
+        ["rank_raids"] = 2602,
         ["kill_count"] = 16,
-        ["points"] = 8770.7,
+        ["points"] = 8770.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3598,
@@ -30346,14 +30346,14 @@ UWULogsData[5][1] = {
         ["points"] = 8648.9,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5998,
+        ["rank_raids"] = 5999,
         ["kill_count"] = 28,
-        ["points"] = 7751.6,
+        ["points"] = 7751.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1125,
+        ["rank_raids"] = 1126,
         ["kill_count"] = 38,
-        ["points"] = 9301.0,
+        ["points"] = 9300.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1286,
@@ -30388,9 +30388,9 @@ UWULogsData[5][1] = {
         ["points"] = 9461.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1578,
+        ["rank_raids"] = 1579,
         ["kill_count"] = 9,
-        ["points"] = 9119.8,
+        ["points"] = 9119.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1864,
@@ -30403,14 +30403,14 @@ UWULogsData[5][1] = {
         ["points"] = 9588.5,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4152,
+        ["rank_raids"] = 4153,
         ["kill_count"] = 7,
-        ["points"] = 8305.4,
+        ["points"] = 8305.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3670,
+        ["rank_raids"] = 3671,
         ["kill_count"] = 18,
-        ["points"] = 8450.0,
+        ["points"] = 8449.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3872,
@@ -30445,9 +30445,9 @@ UWULogsData[5][1] = {
         ["points"] = 9232.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1852,
+        ["rank_raids"] = 1853,
         ["kill_count"] = 9,
-        ["points"] = 9010.2,
+        ["points"] = 9009.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 918,
@@ -30460,14 +30460,14 @@ UWULogsData[5][1] = {
         ["points"] = 8663.3,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3296,
+        ["rank_raids"] = 3297,
         ["kill_count"] = 8,
-        ["points"] = 8562.2,
+        ["points"] = 8561.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5875,
+        ["rank_raids"] = 5876,
         ["kill_count"] = 7,
-        ["points"] = 7788.5,
+        ["points"] = 7788.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4770,
@@ -30502,14 +30502,14 @@ UWULogsData[5][1] = {
         ["points"] = 9119.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3297,
+        ["rank_raids"] = 3298,
         ["kill_count"] = 4,
-        ["points"] = 8561.9,
+        ["points"] = 8561.6,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4224,
+        ["rank_raids"] = 4225,
         ["kill_count"] = 4,
-        ["points"] = 8283.8,
+        ["points"] = 8283.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 804,
@@ -30524,7 +30524,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 435,
         ["kill_count"] = 5,
-        ["points"] = 9646.6,
+        ["points"] = 9646.66,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5700,
@@ -30559,9 +30559,9 @@ UWULogsData[5][1] = {
         ["points"] = 9064.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1639,
+        ["rank_raids"] = 1640,
         ["kill_count"] = 10,
-        ["points"] = 9095.4,
+        ["points"] = 9095.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2531,
@@ -30574,14 +30574,14 @@ UWULogsData[5][1] = {
         ["points"] = 9443.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 9072,
+        ["rank_raids"] = 9073,
         ["kill_count"] = 15,
-        ["points"] = 6829.4,
+        ["points"] = 6829.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3020,
+        ["rank_raids"] = 3021,
         ["kill_count"] = 13,
-        ["points"] = 8645.0,
+        ["points"] = 8644.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1879,
@@ -30616,9 +30616,9 @@ UWULogsData[5][1] = {
         ["points"] = 8515.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4479,
+        ["rank_raids"] = 4480,
         ["kill_count"] = 8,
-        ["points"] = 8207.3,
+        ["points"] = 8207.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 714,
@@ -30636,9 +30636,9 @@ UWULogsData[5][1] = {
         ["points"] = 9322.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2666,
+        ["rank_raids"] = 2667,
         ["kill_count"] = 16,
-        ["points"] = 8751.2,
+        ["points"] = 8750.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4082,
@@ -30646,9 +30646,9 @@ UWULogsData[5][1] = {
         ["points"] = 8326.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4254,
+        ["rank_raids"] = 4255,
         ["kill_count"] = 17,
-        ["points"] = 8274.8,
+        ["points"] = 8274.5,
       },
     },
   },
@@ -30673,9 +30673,9 @@ UWULogsData[5][1] = {
         ["points"] = 8967.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1770,
+        ["rank_raids"] = 1771,
         ["kill_count"] = 4,
-        ["points"] = 9043.0,
+        ["points"] = 9042.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1171,
@@ -30693,9 +30693,9 @@ UWULogsData[5][1] = {
         ["points"] = 9403.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 11773,
+        ["rank_raids"] = 11774,
         ["kill_count"] = 6,
-        ["points"] = 6373.7,
+        ["points"] = 6373.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3465,
@@ -30725,14 +30725,14 @@ UWULogsData[5][1] = {
         ["points"] = 8175.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3967,
+        ["rank_raids"] = 3969,
         ["kill_count"] = 5,
-        ["points"] = 8360.9,
+        ["points"] = 8360.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2604,
+        ["rank_raids"] = 2605,
         ["kill_count"] = 15,
-        ["points"] = 8769.8,
+        ["points"] = 8769.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1736,
@@ -30745,14 +30745,14 @@ UWULogsData[5][1] = {
         ["points"] = 9565.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 2989,
+        ["rank_raids"] = 2990,
         ["kill_count"] = 15,
-        ["points"] = 8654.3,
+        ["points"] = 8654.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2037,
+        ["rank_raids"] = 2038,
         ["kill_count"] = 17,
-        ["points"] = 8939.9,
+        ["points"] = 8939.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 8046,
@@ -30787,9 +30787,9 @@ UWULogsData[5][1] = {
         ["points"] = 8549.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1975,
+        ["rank_raids"] = 1976,
         ["kill_count"] = 10,
-        ["points"] = 8961.0,
+        ["points"] = 8960.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1645,
@@ -30807,9 +30807,9 @@ UWULogsData[5][1] = {
         ["points"] = 8742.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1886,
+        ["rank_raids"] = 1887,
         ["kill_count"] = 11,
-        ["points"] = 8996.6,
+        ["points"] = 8996.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3469,
@@ -30829,9 +30829,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 543,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6823,
+        ["rank_raids"] = 6824,
         ["kill_count"] = 2,
-        ["points"] = 7504.1,
+        ["points"] = 7503.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6567,
@@ -30844,14 +30844,14 @@ UWULogsData[5][1] = {
         ["points"] = 8826.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 314,
+        ["rank_raids"] = 315,
         ["kill_count"] = 3,
-        ["points"] = 9721.2,
+        ["points"] = 9720.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4398,
+        ["rank_raids"] = 4399,
         ["kill_count"] = 3,
-        ["points"] = 8231.6,
+        ["points"] = 8231.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 363,
@@ -30859,14 +30859,14 @@ UWULogsData[5][1] = {
         ["points"] = 9686.9,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7016,
+        ["rank_raids"] = 7017,
         ["kill_count"] = 2,
-        ["points"] = 7446.2,
+        ["points"] = 7445.9,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 328,
         ["kill_count"] = 2,
-        ["points"] = 9719.14,
+        ["points"] = 9719.18,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 647,
@@ -30881,7 +30881,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Alisfade"] = {
-    ["percentile"] = 88.0,
+    ["percentile"] = 87.99,
     ["server"] = "Icecrown",
     ["overall_rank"] = 544,
     ["bosses"] = {
@@ -30901,14 +30901,14 @@ UWULogsData[5][1] = {
         ["points"] = 8525.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1079,
+        ["rank_raids"] = 1080,
         ["kill_count"] = 15,
-        ["points"] = 9319.4,
+        ["points"] = 9319.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4318,
+        ["rank_raids"] = 4319,
         ["kill_count"] = 16,
-        ["points"] = 8255.6,
+        ["points"] = 8255.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1858,
@@ -30916,14 +30916,14 @@ UWULogsData[5][1] = {
         ["points"] = 9007.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3945,
+        ["rank_raids"] = 3946,
         ["kill_count"] = 16,
-        ["points"] = 8367.5,
+        ["points"] = 8367.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3535,
+        ["rank_raids"] = 3536,
         ["kill_count"] = 16,
-        ["points"] = 8490.5,
+        ["points"] = 8490.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1772,
@@ -30958,9 +30958,9 @@ UWULogsData[5][1] = {
         ["points"] = 9364.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1724,
+        ["rank_raids"] = 1725,
         ["kill_count"] = 12,
-        ["points"] = 9061.4,
+        ["points"] = 9061.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 968,
@@ -30978,9 +30978,9 @@ UWULogsData[5][1] = {
         ["points"] = 9233.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7964,
+        ["rank_raids"] = 7965,
         ["kill_count"] = 14,
-        ["points"] = 7161.8,
+        ["points"] = 7161.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1671,
@@ -31000,9 +31000,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 546,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7494,
+        ["rank_raids"] = 7496,
         ["kill_count"] = 2,
-        ["points"] = 7302.8,
+        ["points"] = 7302.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1922,
@@ -31015,9 +31015,9 @@ UWULogsData[5][1] = {
         ["points"] = 9441.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1815,
+        ["rank_raids"] = 1816,
         ["kill_count"] = 9,
-        ["points"] = 9025.0,
+        ["points"] = 9024.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 294,
@@ -31035,9 +31035,9 @@ UWULogsData[5][1] = {
         ["points"] = 9805.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2621,
+        ["rank_raids"] = 2622,
         ["kill_count"] = 12,
-        ["points"] = 8764.7,
+        ["points"] = 8764.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1907,
@@ -31045,9 +31045,9 @@ UWULogsData[5][1] = {
         ["points"] = 8988.2,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7362,
+        ["rank_raids"] = 7363,
         ["kill_count"] = 12,
-        ["points"] = 7342.4,
+        ["points"] = 7342.1,
       },
     },
   },
@@ -31072,9 +31072,9 @@ UWULogsData[5][1] = {
         ["points"] = 8440.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1761,
+        ["rank_raids"] = 1762,
         ["kill_count"] = 7,
-        ["points"] = 9046.6,
+        ["points"] = 9046.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1364,
@@ -31092,9 +31092,9 @@ UWULogsData[5][1] = {
         ["points"] = 9113.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2466,
+        ["rank_raids"] = 2467,
         ["kill_count"] = 10,
-        ["points"] = 8811.2,
+        ["points"] = 8810.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1509,
@@ -31129,9 +31129,9 @@ UWULogsData[5][1] = {
         ["points"] = 9081.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 909,
+        ["rank_raids"] = 910,
         ["kill_count"] = 13,
-        ["points"] = 9396.5,
+        ["points"] = 9396.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1550,
@@ -31149,9 +31149,9 @@ UWULogsData[5][1] = {
         ["points"] = 9210.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2959,
+        ["rank_raids"] = 2960,
         ["kill_count"] = 18,
-        ["points"] = 8663.3,
+        ["points"] = 8663.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3524,
@@ -31186,9 +31186,9 @@ UWULogsData[5][1] = {
         ["points"] = 8618.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5661,
+        ["rank_raids"] = 5662,
         ["kill_count"] = 6,
-        ["points"] = 7852.7,
+        ["points"] = 7852.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 777,
@@ -31201,14 +31201,14 @@ UWULogsData[5][1] = {
         ["points"] = 9337.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3154,
+        ["rank_raids"] = 3155,
         ["kill_count"] = 8,
-        ["points"] = 8604.8,
+        ["points"] = 8604.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 887,
+        ["rank_raids"] = 888,
         ["kill_count"] = 19,
-        ["points"] = 9407.5,
+        ["points"] = 9407.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3364,
@@ -31243,9 +31243,9 @@ UWULogsData[5][1] = {
         ["points"] = 9366.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2764,
+        ["rank_raids"] = 2765,
         ["kill_count"] = 11,
-        ["points"] = 8721.8,
+        ["points"] = 8721.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3748,
@@ -31263,9 +31263,9 @@ UWULogsData[5][1] = {
         ["points"] = 8746.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3880,
+        ["rank_raids"] = 3881,
         ["kill_count"] = 11,
-        ["points"] = 8387.0,
+        ["points"] = 8386.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 96,
@@ -31300,14 +31300,14 @@ UWULogsData[5][1] = {
         ["points"] = 9507.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2869,
+        ["rank_raids"] = 2870,
         ["kill_count"] = 6,
-        ["points"] = 8690.3,
+        ["points"] = 8690.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4155,
+        ["rank_raids"] = 4156,
         ["kill_count"] = 5,
-        ["points"] = 8304.5,
+        ["points"] = 8304.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2941,
@@ -31320,9 +31320,9 @@ UWULogsData[5][1] = {
         ["points"] = 9447.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4221,
+        ["rank_raids"] = 4222,
         ["kill_count"] = 9,
-        ["points"] = 8284.7,
+        ["points"] = 8284.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5888,
@@ -31357,9 +31357,9 @@ UWULogsData[5][1] = {
         ["points"] = 9180.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2053,
+        ["rank_raids"] = 2054,
         ["kill_count"] = 8,
-        ["points"] = 8935.1,
+        ["points"] = 8934.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1486,
@@ -31377,9 +31377,9 @@ UWULogsData[5][1] = {
         ["points"] = 9101.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4439,
+        ["rank_raids"] = 4440,
         ["kill_count"] = 11,
-        ["points"] = 8219.3,
+        ["points"] = 8219.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5343,
@@ -31399,9 +31399,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 553,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5879,
+        ["rank_raids"] = 5880,
         ["kill_count"] = 3,
-        ["points"] = 7787.3,
+        ["points"] = 7787.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 10943,
@@ -31414,9 +31414,9 @@ UWULogsData[5][1] = {
         ["points"] = 9103.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3646,
+        ["rank_raids"] = 3647,
         ["kill_count"] = 3,
-        ["points"] = 8457.2,
+        ["points"] = 8456.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 782,
@@ -31434,9 +31434,9 @@ UWULogsData[5][1] = {
         ["points"] = 8722.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2144,
+        ["rank_raids"] = 2145,
         ["kill_count"] = 6,
-        ["points"] = 8907.8,
+        ["points"] = 8907.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 417,
@@ -31456,9 +31456,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 554,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 12424,
+        ["rank_raids"] = 12427,
         ["kill_count"] = 15,
-        ["points"] = 6308.6,
+        ["points"] = 6308.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 458,
@@ -31471,9 +31471,9 @@ UWULogsData[5][1] = {
         ["points"] = 9072.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 335,
+        ["rank_raids"] = 336,
         ["kill_count"] = 20,
-        ["points"] = 9706.5,
+        ["points"] = 9705.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1068,
@@ -31486,14 +31486,14 @@ UWULogsData[5][1] = {
         ["points"] = 9069.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 2924,
+        ["rank_raids"] = 2925,
         ["kill_count"] = 11,
-        ["points"] = 8673.8,
+        ["points"] = 8673.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5199,
+        ["rank_raids"] = 5200,
         ["kill_count"] = 20,
-        ["points"] = 7991.3,
+        ["points"] = 7991.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1188,
@@ -31508,7 +31508,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Kiwishadow"] = {
-    ["percentile"] = 87.9,
+    ["percentile"] = 87.89,
     ["server"] = "Icecrown",
     ["overall_rank"] = 555,
     ["bosses"] = {
@@ -31528,9 +31528,9 @@ UWULogsData[5][1] = {
         ["points"] = 9148.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5451,
+        ["rank_raids"] = 5452,
         ["kill_count"] = 3,
-        ["points"] = 7915.7,
+        ["points"] = 7915.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1494,
@@ -31543,14 +31543,14 @@ UWULogsData[5][1] = {
         ["points"] = 9525.5,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 11308,
+        ["rank_raids"] = 11309,
         ["kill_count"] = 12,
-        ["points"] = 6420.2,
+        ["points"] = 6420.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 865,
+        ["rank_raids"] = 866,
         ["kill_count"] = 12,
-        ["points"] = 9418.5,
+        ["points"] = 9418.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1889,
@@ -31585,9 +31585,9 @@ UWULogsData[5][1] = {
         ["points"] = 9202.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2088,
+        ["rank_raids"] = 2089,
         ["kill_count"] = 11,
-        ["points"] = 8924.6,
+        ["points"] = 8924.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2827,
@@ -31600,14 +31600,14 @@ UWULogsData[5][1] = {
         ["points"] = 9109.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3247,
+        ["rank_raids"] = 3248,
         ["kill_count"] = 12,
-        ["points"] = 8576.9,
+        ["points"] = 8576.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5088,
+        ["rank_raids"] = 5089,
         ["kill_count"] = 12,
-        ["points"] = 8024.6,
+        ["points"] = 8024.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2331,
@@ -31615,9 +31615,9 @@ UWULogsData[5][1] = {
         ["points"] = 8851.7,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7120,
+        ["rank_raids"] = 7121,
         ["kill_count"] = 6,
-        ["points"] = 7415.0,
+        ["points"] = 7414.7,
       },
     },
   },
@@ -31642,9 +31642,9 @@ UWULogsData[5][1] = {
         ["points"] = 9541.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3671,
+        ["rank_raids"] = 3672,
         ["kill_count"] = 9,
-        ["points"] = 8449.7,
+        ["points"] = 8449.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2214,
@@ -31662,9 +31662,9 @@ UWULogsData[5][1] = {
         ["points"] = 9239.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2777,
+        ["rank_raids"] = 2778,
         ["kill_count"] = 16,
-        ["points"] = 8717.9,
+        ["points"] = 8717.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1474,
@@ -31672,9 +31672,9 @@ UWULogsData[5][1] = {
         ["points"] = 9161.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7056,
+        ["rank_raids"] = 7057,
         ["kill_count"] = 18,
-        ["points"] = 7434.2,
+        ["points"] = 7433.9,
       },
     },
   },
@@ -31699,9 +31699,9 @@ UWULogsData[5][1] = {
         ["points"] = 9572.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1420,
+        ["rank_raids"] = 1421,
         ["kill_count"] = 7,
-        ["points"] = 9183.0,
+        ["points"] = 9182.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1685,
@@ -31714,14 +31714,14 @@ UWULogsData[5][1] = {
         ["points"] = 9005.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 19063,
+        ["rank_raids"] = 19064,
         ["kill_count"] = 3,
-        ["points"] = 5644.7,
+        ["points"] = 5644.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3467,
+        ["rank_raids"] = 3468,
         ["kill_count"] = 8,
-        ["points"] = 8510.9,
+        ["points"] = 8510.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1304,
@@ -31756,14 +31756,14 @@ UWULogsData[5][1] = {
         ["points"] = 9475.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1531,
+        ["rank_raids"] = 1532,
         ["kill_count"] = 5,
-        ["points"] = 9138.6,
+        ["points"] = 9138.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6471,
+        ["rank_raids"] = 6473,
         ["kill_count"] = 6,
-        ["points"] = 7609.7,
+        ["points"] = 7609.1,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 213,
@@ -31771,14 +31771,14 @@ UWULogsData[5][1] = {
         ["points"] = 9800.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3497,
+        ["rank_raids"] = 3498,
         ["kill_count"] = 6,
-        ["points"] = 8501.9,
+        ["points"] = 8501.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1956,
+        ["rank_raids"] = 1957,
         ["kill_count"] = 7,
-        ["points"] = 8968.6,
+        ["points"] = 8968.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3969,
@@ -31786,9 +31786,9 @@ UWULogsData[5][1] = {
         ["points"] = 8360.3,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4995,
+        ["rank_raids"] = 4996,
         ["kill_count"] = 5,
-        ["points"] = 8052.5,
+        ["points"] = 8052.2,
       },
     },
   },
@@ -31798,9 +31798,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 560,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 12943,
+        ["rank_raids"] = 12946,
         ["kill_count"] = 1,
-        ["points"] = 6256.7,
+        ["points"] = 6256.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1201,
@@ -31813,9 +31813,9 @@ UWULogsData[5][1] = {
         ["points"] = 8936.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 811,
+        ["rank_raids"] = 812,
         ["kill_count"] = 3,
-        ["points"] = 9445.5,
+        ["points"] = 9445.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2063,
@@ -31833,9 +31833,9 @@ UWULogsData[5][1] = {
         ["points"] = 9731.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4564,
+        ["rank_raids"] = 4565,
         ["kill_count"] = 5,
-        ["points"] = 8181.8,
+        ["points"] = 8181.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1523,
@@ -31855,9 +31855,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 561,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7570,
+        ["rank_raids"] = 7572,
         ["kill_count"] = 5,
-        ["points"] = 7280.0,
+        ["points"] = 7279.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2483,
@@ -31865,14 +31865,14 @@ UWULogsData[5][1] = {
         ["points"] = 8806.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5092,
+        ["rank_raids"] = 5094,
         ["kill_count"] = 4,
-        ["points"] = 8023.4,
+        ["points"] = 8022.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 930,
+        ["rank_raids"] = 931,
         ["kill_count"] = 19,
-        ["points"] = 9386.0,
+        ["points"] = 9385.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1605,
@@ -31890,9 +31890,9 @@ UWULogsData[5][1] = {
         ["points"] = 8945.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1124,
+        ["rank_raids"] = 1125,
         ["kill_count"] = 25,
-        ["points"] = 9301.4,
+        ["points"] = 9301.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1614,
@@ -31922,14 +31922,14 @@ UWULogsData[5][1] = {
         ["points"] = 8144.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5611,
+        ["rank_raids"] = 5614,
         ["kill_count"] = 4,
-        ["points"] = 7867.7,
+        ["points"] = 7866.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5807,
+        ["rank_raids"] = 5808,
         ["kill_count"] = 5,
-        ["points"] = 7808.9,
+        ["points"] = 7808.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 615,
@@ -31947,9 +31947,9 @@ UWULogsData[5][1] = {
         ["points"] = 9607.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1060,
+        ["rank_raids"] = 1061,
         ["kill_count"] = 5,
-        ["points"] = 9327.0,
+        ["points"] = 9326.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3965,
@@ -31979,14 +31979,14 @@ UWULogsData[5][1] = {
         ["points"] = 8385.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3875,
+        ["rank_raids"] = 3876,
         ["kill_count"] = 1,
-        ["points"] = 8388.5,
+        ["points"] = 8388.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2344,
+        ["rank_raids"] = 2345,
         ["kill_count"] = 3,
-        ["points"] = 8847.8,
+        ["points"] = 8847.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 123,
@@ -32004,9 +32004,9 @@ UWULogsData[5][1] = {
         ["points"] = 9777.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8166,
+        ["rank_raids"] = 8167,
         ["kill_count"] = 4,
-        ["points"] = 7101.2,
+        ["points"] = 7100.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5083,
@@ -32041,14 +32041,14 @@ UWULogsData[5][1] = {
         ["points"] = 9850.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 10520,
+        ["rank_raids"] = 10521,
         ["kill_count"] = 9,
-        ["points"] = 6499.0,
+        ["points"] = 6498.9,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6341,
+        ["rank_raids"] = 6343,
         ["kill_count"] = 11,
-        ["points"] = 7648.7,
+        ["points"] = 7648.1,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 165,
@@ -32061,9 +32061,9 @@ UWULogsData[5][1] = {
         ["points"] = 9245.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6657,
+        ["rank_raids"] = 6658,
         ["kill_count"] = 33,
-        ["points"] = 7553.9,
+        ["points"] = 7553.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 62,
@@ -32093,19 +32093,19 @@ UWULogsData[5][1] = {
         ["points"] = 8827.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3896,
+        ["rank_raids"] = 3897,
         ["kill_count"] = 4,
-        ["points"] = 8382.2,
+        ["points"] = 8381.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2672,
+        ["rank_raids"] = 2673,
         ["kill_count"] = 4,
-        ["points"] = 8749.4,
+        ["points"] = 8749.1,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5875,
+        ["rank_raids"] = 5876,
         ["kill_count"] = 5,
-        ["points"] = 7788.5,
+        ["points"] = 7788.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1196,
@@ -32118,9 +32118,9 @@ UWULogsData[5][1] = {
         ["points"] = 9634.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2183,
+        ["rank_raids"] = 2184,
         ["kill_count"] = 4,
-        ["points"] = 8896.1,
+        ["points"] = 8895.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1515,
@@ -32128,9 +32128,9 @@ UWULogsData[5][1] = {
         ["points"] = 9145.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7165,
+        ["rank_raids"] = 7166,
         ["kill_count"] = 4,
-        ["points"] = 7401.5,
+        ["points"] = 7401.2,
       },
     },
   },
@@ -32155,9 +32155,9 @@ UWULogsData[5][1] = {
         ["points"] = 9122.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1134,
+        ["rank_raids"] = 1135,
         ["kill_count"] = 3,
-        ["points"] = 9297.4,
+        ["points"] = 9297.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3821,
@@ -32170,14 +32170,14 @@ UWULogsData[5][1] = {
         ["points"] = 9640.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3578,
+        ["rank_raids"] = 3579,
         ["kill_count"] = 4,
-        ["points"] = 8477.6,
+        ["points"] = 8477.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1136,
+        ["rank_raids"] = 1137,
         ["kill_count"] = 5,
-        ["points"] = 9296.6,
+        ["points"] = 9296.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3258,
@@ -32212,9 +32212,9 @@ UWULogsData[5][1] = {
         ["points"] = 9388.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 948,
+        ["rank_raids"] = 949,
         ["kill_count"] = 2,
-        ["points"] = 9377.0,
+        ["points"] = 9376.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1896,
@@ -32232,9 +32232,9 @@ UWULogsData[5][1] = {
         ["points"] = 9062.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3809,
+        ["rank_raids"] = 3810,
         ["kill_count"] = 9,
-        ["points"] = 8408.3,
+        ["points"] = 8408.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3760,
@@ -32269,14 +32269,14 @@ UWULogsData[5][1] = {
         ["points"] = 9966.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2566,
+        ["rank_raids"] = 2567,
         ["kill_count"] = 11,
-        ["points"] = 8781.2,
+        ["points"] = 8780.9,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5838,
+        ["rank_raids"] = 5839,
         ["kill_count"] = 8,
-        ["points"] = 7799.6,
+        ["points"] = 7799.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2726,
@@ -32284,14 +32284,14 @@ UWULogsData[5][1] = {
         ["points"] = 8733.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 21734,
+        ["rank_raids"] = 21736,
         ["kill_count"] = 10,
-        ["points"] = 5377.6,
+        ["points"] = 5377.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1509,
+        ["rank_raids"] = 1510,
         ["kill_count"] = 16,
-        ["points"] = 9147.4,
+        ["points"] = 9147.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1226,
@@ -32326,9 +32326,9 @@ UWULogsData[5][1] = {
         ["points"] = 9602.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1586,
+        ["rank_raids"] = 1587,
         ["kill_count"] = 4,
-        ["points"] = 9116.6,
+        ["points"] = 9116.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1214,
@@ -32346,14 +32346,14 @@ UWULogsData[5][1] = {
         ["points"] = 9681.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2658,
+        ["rank_raids"] = 2659,
         ["kill_count"] = 4,
-        ["points"] = 8753.6,
+        ["points"] = 8753.3,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 17279,
+        ["rank_raids"] = 17280,
         ["kill_count"] = 5,
-        ["points"] = 5823.1,
+        ["points"] = 5823.0,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 3302,
@@ -32368,9 +32368,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 570,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 12862,
+        ["rank_raids"] = 12865,
         ["kill_count"] = 5,
-        ["points"] = 6264.8,
+        ["points"] = 6264.5,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2564,
@@ -32383,14 +32383,14 @@ UWULogsData[5][1] = {
         ["points"] = 8938.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 945,
+        ["rank_raids"] = 946,
         ["kill_count"] = 4,
-        ["points"] = 9378.5,
+        ["points"] = 9378.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4646,
+        ["rank_raids"] = 4647,
         ["kill_count"] = 6,
-        ["points"] = 8157.2,
+        ["points"] = 8156.9,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 564,
@@ -32403,9 +32403,9 @@ UWULogsData[5][1] = {
         ["points"] = 9387.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4269,
+        ["rank_raids"] = 4270,
         ["kill_count"] = 9,
-        ["points"] = 8270.3,
+        ["points"] = 8270.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1288,
@@ -32425,9 +32425,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 571,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8181,
+        ["rank_raids"] = 8184,
         ["kill_count"] = 7,
-        ["points"] = 7096.7,
+        ["points"] = 7095.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1022,
@@ -32440,9 +32440,9 @@ UWULogsData[5][1] = {
         ["points"] = 9333.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1845,
+        ["rank_raids"] = 1846,
         ["kill_count"] = 13,
-        ["points"] = 9013.0,
+        ["points"] = 9012.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2694,
@@ -32460,9 +32460,9 @@ UWULogsData[5][1] = {
         ["points"] = 9550.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2193,
+        ["rank_raids"] = 2194,
         ["kill_count"] = 14,
-        ["points"] = 8893.1,
+        ["points"] = 8892.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 8863,
@@ -32497,9 +32497,9 @@ UWULogsData[5][1] = {
         ["points"] = 9149.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2204,
+        ["rank_raids"] = 2205,
         ["kill_count"] = 12,
-        ["points"] = 8889.8,
+        ["points"] = 8889.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2396,
@@ -32507,9 +32507,9 @@ UWULogsData[5][1] = {
         ["points"] = 8832.2,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 7136,
+        ["rank_raids"] = 7137,
         ["kill_count"] = 26,
-        ["points"] = 7410.2,
+        ["points"] = 7409.9,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 727,
@@ -32517,9 +32517,9 @@ UWULogsData[5][1] = {
         ["points"] = 9487.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2731,
+        ["rank_raids"] = 2732,
         ["kill_count"] = 26,
-        ["points"] = 8731.7,
+        ["points"] = 8731.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2350,
@@ -32527,9 +32527,9 @@ UWULogsData[5][1] = {
         ["points"] = 8846.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5549,
+        ["rank_raids"] = 5550,
         ["kill_count"] = 22,
-        ["points"] = 7886.3,
+        ["points"] = 7886.0,
       },
     },
   },
@@ -32539,9 +32539,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 573,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8052,
+        ["rank_raids"] = 8055,
         ["kill_count"] = 4,
-        ["points"] = 7135.4,
+        ["points"] = 7134.5,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 406,
@@ -32554,9 +32554,9 @@ UWULogsData[5][1] = {
         ["points"] = 9216.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1068,
+        ["rank_raids"] = 1069,
         ["kill_count"] = 16,
-        ["points"] = 9323.8,
+        ["points"] = 9323.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1111,
@@ -32569,14 +32569,14 @@ UWULogsData[5][1] = {
         ["points"] = 9521.5,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 20777,
+        ["rank_raids"] = 20778,
         ["kill_count"] = 7,
-        ["points"] = 5473.3,
+        ["points"] = 5473.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1339,
+        ["rank_raids"] = 1340,
         ["kill_count"] = 24,
-        ["points"] = 9215.4,
+        ["points"] = 9215.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 812,
@@ -32596,9 +32596,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 574,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9825,
+        ["rank_raids"] = 9828,
         ["kill_count"] = 3,
-        ["points"] = 6603.5,
+        ["points"] = 6602.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 484,
@@ -32611,9 +32611,9 @@ UWULogsData[5][1] = {
         ["points"] = 8614.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5946,
+        ["rank_raids"] = 5947,
         ["kill_count"] = 8,
-        ["points"] = 7767.2,
+        ["points"] = 7766.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1557,
@@ -32631,9 +32631,9 @@ UWULogsData[5][1] = {
         ["points"] = 9579.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2915,
+        ["rank_raids"] = 2916,
         ["kill_count"] = 16,
-        ["points"] = 8676.5,
+        ["points"] = 8676.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2063,
@@ -32648,14 +32648,14 @@ UWULogsData[5][1] = {
     },
   },
   ["Sad"] = {
-    ["percentile"] = 87.45,
+    ["percentile"] = 87.44,
     ["server"] = "Icecrown",
     ["overall_rank"] = 575,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10183,
+        ["rank_raids"] = 10186,
         ["kill_count"] = 2,
-        ["points"] = 6532.7,
+        ["points"] = 6532.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1975,
@@ -32668,9 +32668,9 @@ UWULogsData[5][1] = {
         ["points"] = 8817.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 892,
+        ["rank_raids"] = 893,
         ["kill_count"] = 7,
-        ["points"] = 9405.0,
+        ["points"] = 9404.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2415,
@@ -32688,9 +32688,9 @@ UWULogsData[5][1] = {
         ["points"] = 8839.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2379,
+        ["rank_raids"] = 2380,
         ["kill_count"] = 6,
-        ["points"] = 8837.3,
+        ["points"] = 8837.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1780,
@@ -32710,9 +32710,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 576,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8684,
+        ["rank_raids"] = 8687,
         ["kill_count"] = 8,
-        ["points"] = 6945.8,
+        ["points"] = 6944.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 814,
@@ -32725,9 +32725,9 @@ UWULogsData[5][1] = {
         ["points"] = 8565.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1044,
+        ["rank_raids"] = 1045,
         ["kill_count"] = 15,
-        ["points"] = 9333.4,
+        ["points"] = 9333.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1711,
@@ -32740,14 +32740,14 @@ UWULogsData[5][1] = {
         ["points"] = 9104.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3205,
+        ["rank_raids"] = 3206,
         ["kill_count"] = 18,
-        ["points"] = 8589.5,
+        ["points"] = 8589.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2594,
+        ["rank_raids"] = 2595,
         ["kill_count"] = 25,
-        ["points"] = 8772.8,
+        ["points"] = 8772.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1241,
@@ -32777,14 +32777,14 @@ UWULogsData[5][1] = {
         ["points"] = 7678.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3998,
+        ["rank_raids"] = 4000,
         ["kill_count"] = 6,
-        ["points"] = 8351.6,
+        ["points"] = 8351.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 830,
+        ["rank_raids"] = 831,
         ["kill_count"] = 13,
-        ["points"] = 9436.0,
+        ["points"] = 9435.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2069,
@@ -32802,9 +32802,9 @@ UWULogsData[5][1] = {
         ["points"] = 9040.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4920,
+        ["rank_raids"] = 4921,
         ["kill_count"] = 14,
-        ["points"] = 8075.0,
+        ["points"] = 8074.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1325,
@@ -32839,9 +32839,9 @@ UWULogsData[5][1] = {
         ["points"] = 8551.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1705,
+        ["rank_raids"] = 1706,
         ["kill_count"] = 8,
-        ["points"] = 9069.0,
+        ["points"] = 9068.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1389,
@@ -32854,14 +32854,14 @@ UWULogsData[5][1] = {
         ["points"] = 9158.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 11340,
+        ["rank_raids"] = 11341,
         ["kill_count"] = 17,
-        ["points"] = 6417.0,
+        ["points"] = 6416.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1483,
+        ["rank_raids"] = 1484,
         ["kill_count"] = 18,
-        ["points"] = 9157.8,
+        ["points"] = 9157.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2056,
@@ -32876,7 +32876,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Catcounter"] = {
-    ["percentile"] = 87.42,
+    ["percentile"] = 87.41,
     ["server"] = "Icecrown",
     ["overall_rank"] = 579,
     ["bosses"] = {
@@ -32896,9 +32896,9 @@ UWULogsData[5][1] = {
         ["points"] = 8748.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2003,
+        ["rank_raids"] = 2004,
         ["kill_count"] = 8,
-        ["points"] = 8950.1,
+        ["points"] = 8949.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 716,
@@ -32911,14 +32911,14 @@ UWULogsData[5][1] = {
         ["points"] = 9493.5,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6169,
+        ["rank_raids"] = 6170,
         ["kill_count"] = 13,
-        ["points"] = 7700.3,
+        ["points"] = 7700.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4075,
+        ["rank_raids"] = 4076,
         ["kill_count"] = 11,
-        ["points"] = 8328.5,
+        ["points"] = 8328.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5297,
@@ -32926,14 +32926,14 @@ UWULogsData[5][1] = {
         ["points"] = 7961.9,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4274,
+        ["rank_raids"] = 4275,
         ["kill_count"] = 4,
-        ["points"] = 8268.8,
+        ["points"] = 8268.5,
       },
     },
   },
   ["Cathaley"] = {
-    ["percentile"] = 87.41,
+    ["percentile"] = 87.4,
     ["server"] = "Icecrown",
     ["overall_rank"] = 580,
     ["bosses"] = {
@@ -32953,9 +32953,9 @@ UWULogsData[5][1] = {
         ["points"] = 9056.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2745,
+        ["rank_raids"] = 2746,
         ["kill_count"] = 15,
-        ["points"] = 8727.5,
+        ["points"] = 8727.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2335,
@@ -32968,14 +32968,14 @@ UWULogsData[5][1] = {
         ["points"] = 9113.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 9985,
+        ["rank_raids"] = 9986,
         ["kill_count"] = 17,
-        ["points"] = 6555.5,
+        ["points"] = 6555.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3433,
+        ["rank_raids"] = 3434,
         ["kill_count"] = 20,
-        ["points"] = 8521.1,
+        ["points"] = 8520.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4228,
@@ -33010,14 +33010,14 @@ UWULogsData[5][1] = {
         ["points"] = 9640.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 776,
+        ["rank_raids"] = 777,
         ["kill_count"] = 8,
-        ["points"] = 9463.0,
+        ["points"] = 9462.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9395,
+        ["rank_raids"] = 9397,
         ["kill_count"] = 5,
-        ["points"] = 6732.5,
+        ["points"] = 6731.9,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1705,
@@ -33025,14 +33025,14 @@ UWULogsData[5][1] = {
         ["points"] = 9069.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4240,
+        ["rank_raids"] = 4241,
         ["kill_count"] = 8,
-        ["points"] = 8279.0,
+        ["points"] = 8278.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1514,
+        ["rank_raids"] = 1515,
         ["kill_count"] = 7,
-        ["points"] = 9145.4,
+        ["points"] = 9145.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 524,
@@ -33040,9 +33040,9 @@ UWULogsData[5][1] = {
         ["points"] = 9589.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7686,
+        ["rank_raids"] = 7687,
         ["kill_count"] = 2,
-        ["points"] = 7245.2,
+        ["points"] = 7244.9,
       },
     },
   },
@@ -33067,9 +33067,9 @@ UWULogsData[5][1] = {
         ["points"] = 9103.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2467,
+        ["rank_raids"] = 2468,
         ["kill_count"] = 6,
-        ["points"] = 8810.9,
+        ["points"] = 8810.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1399,
@@ -33087,9 +33087,9 @@ UWULogsData[5][1] = {
         ["points"] = 9842.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5711,
+        ["rank_raids"] = 5712,
         ["kill_count"] = 6,
-        ["points"] = 7837.7,
+        ["points"] = 7837.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 8057,
@@ -33124,14 +33124,14 @@ UWULogsData[5][1] = {
         ["points"] = 9114.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1638,
+        ["rank_raids"] = 1639,
         ["kill_count"] = 6,
-        ["points"] = 9095.8,
+        ["points"] = 9095.4,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7722,
+        ["rank_raids"] = 7724,
         ["kill_count"] = 6,
-        ["points"] = 7234.4,
+        ["points"] = 7233.8,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4366,
@@ -33144,9 +33144,9 @@ UWULogsData[5][1] = {
         ["points"] = 8860.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3402,
+        ["rank_raids"] = 3403,
         ["kill_count"] = 7,
-        ["points"] = 8530.4,
+        ["points"] = 8530.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3791,
@@ -33166,9 +33166,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 584,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5633,
+        ["rank_raids"] = 5634,
         ["kill_count"] = 1,
-        ["points"] = 7861.1,
+        ["points"] = 7860.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 657,
@@ -33181,9 +33181,9 @@ UWULogsData[5][1] = {
         ["points"] = 9141.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4154,
+        ["rank_raids"] = 4155,
         ["kill_count"] = 1,
-        ["points"] = 8304.8,
+        ["points"] = 8304.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1421,
@@ -33201,9 +33201,9 @@ UWULogsData[5][1] = {
         ["points"] = 9325.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 9290,
+        ["rank_raids"] = 9291,
         ["kill_count"] = 2,
-        ["points"] = 6764.0,
+        ["points"] = 6763.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3892,
@@ -33238,9 +33238,9 @@ UWULogsData[5][1] = {
         ["points"] = 9377.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 8202,
+        ["rank_raids"] = 8203,
         ["kill_count"] = 2,
-        ["points"] = 7090.4,
+        ["points"] = 7090.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1261,
@@ -33258,9 +33258,9 @@ UWULogsData[5][1] = {
         ["points"] = 8824.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6084,
+        ["rank_raids"] = 6085,
         ["kill_count"] = 6,
-        ["points"] = 7725.8,
+        ["points"] = 7725.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1777,
@@ -33295,9 +33295,9 @@ UWULogsData[5][1] = {
         ["points"] = 9031.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2992,
+        ["rank_raids"] = 2993,
         ["kill_count"] = 9,
-        ["points"] = 8653.4,
+        ["points"] = 8653.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1191,
@@ -33315,9 +33315,9 @@ UWULogsData[5][1] = {
         ["points"] = 9762.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1983,
+        ["rank_raids"] = 1984,
         ["kill_count"] = 11,
-        ["points"] = 8957.8,
+        ["points"] = 8957.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3979,
@@ -33325,9 +33325,9 @@ UWULogsData[5][1] = {
         ["points"] = 8357.3,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 10267,
+        ["rank_raids"] = 10268,
         ["kill_count"] = 8,
-        ["points"] = 6524.3,
+        ["points"] = 6524.2,
       },
     },
   },
@@ -33337,9 +33337,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 587,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 15718,
+        ["rank_raids"] = 15721,
         ["kill_count"] = 1,
-        ["points"] = 5979.2,
+        ["points"] = 5978.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2013,
@@ -33352,9 +33352,9 @@ UWULogsData[5][1] = {
         ["points"] = 8881.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3456,
+        ["rank_raids"] = 3457,
         ["kill_count"] = 3,
-        ["points"] = 8514.2,
+        ["points"] = 8513.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 910,
@@ -33372,9 +33372,9 @@ UWULogsData[5][1] = {
         ["points"] = 9402.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3846,
+        ["rank_raids"] = 3847,
         ["kill_count"] = 11,
-        ["points"] = 8397.2,
+        ["points"] = 8396.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 967,
@@ -33388,67 +33388,10 @@ UWULogsData[5][1] = {
       },
     },
   },
-  ["Seephora"] = {
-    ["percentile"] = 87.38,
+  ["Amare"] = {
+    ["percentile"] = 87.37,
     ["server"] = "Icecrown",
     ["overall_rank"] = 588,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2720,
-        ["kill_count"] = 8,
-        ["points"] = 8735.0,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 2511,
-        ["kill_count"] = 9,
-        ["points"] = 8797.7,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1493,
-        ["kill_count"] = 1,
-        ["points"] = 9153.8,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 1323,
-        ["kill_count"] = 6,
-        ["points"] = 9221.8,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 2988,
-        ["kill_count"] = 5,
-        ["points"] = 8654.6,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 2606,
-        ["kill_count"] = 8,
-        ["points"] = 8769.2,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 8470,
-        ["kill_count"] = 2,
-        ["points"] = 7010.0,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1557,
-        ["kill_count"] = 8,
-        ["points"] = 9128.2,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 966,
-        ["kill_count"] = 9,
-        ["points"] = 9368.0,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 3401,
-        ["kill_count"] = 8,
-        ["points"] = 8530.7,
-      },
-    },
-  },
-  ["Amare"] = {
-    ["percentile"] = 87.38,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 589,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2435,
@@ -33466,9 +33409,9 @@ UWULogsData[5][1] = {
         ["points"] = 9248.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1968,
+        ["rank_raids"] = 1969,
         ["kill_count"] = 4,
-        ["points"] = 8963.8,
+        ["points"] = 8963.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1696,
@@ -33486,9 +33429,9 @@ UWULogsData[5][1] = {
         ["points"] = 9688.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2421,
+        ["rank_raids"] = 2422,
         ["kill_count"] = 6,
-        ["points"] = 8824.7,
+        ["points"] = 8824.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4332,
@@ -33496,9 +33439,66 @@ UWULogsData[5][1] = {
         ["points"] = 8251.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 11673,
+        ["rank_raids"] = 11674,
         ["kill_count"] = 7,
-        ["points"] = 6383.7,
+        ["points"] = 6383.6,
+      },
+    },
+  },
+  ["Seephora"] = {
+    ["percentile"] = 87.37,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 589,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 2720,
+        ["kill_count"] = 8,
+        ["points"] = 8735.0,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 2511,
+        ["kill_count"] = 9,
+        ["points"] = 8797.7,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 1493,
+        ["kill_count"] = 1,
+        ["points"] = 9153.8,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 1324,
+        ["kill_count"] = 6,
+        ["points"] = 9221.4,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 2988,
+        ["kill_count"] = 5,
+        ["points"] = 8654.6,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 2606,
+        ["kill_count"] = 8,
+        ["points"] = 8769.2,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 8471,
+        ["kill_count"] = 2,
+        ["points"] = 7009.7,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 1558,
+        ["kill_count"] = 8,
+        ["points"] = 9127.8,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 966,
+        ["kill_count"] = 9,
+        ["points"] = 9368.0,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 3401,
+        ["kill_count"] = 8,
+        ["points"] = 8530.7,
       },
     },
   },
@@ -33518,14 +33518,14 @@ UWULogsData[5][1] = {
         ["points"] = 8959.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4658,
+        ["rank_raids"] = 4660,
         ["kill_count"] = 1,
-        ["points"] = 8153.6,
+        ["points"] = 8153.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3300,
+        ["rank_raids"] = 3301,
         ["kill_count"] = 3,
-        ["points"] = 8561.0,
+        ["points"] = 8560.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1728,
@@ -33543,9 +33543,9 @@ UWULogsData[5][1] = {
         ["points"] = 9208.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4077,
+        ["rank_raids"] = 4078,
         ["kill_count"] = 4,
-        ["points"] = 8327.9,
+        ["points"] = 8327.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3667,
@@ -33580,9 +33580,9 @@ UWULogsData[5][1] = {
         ["points"] = 9478.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3768,
+        ["rank_raids"] = 3769,
         ["kill_count"] = 12,
-        ["points"] = 8420.6,
+        ["points"] = 8420.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1439,
@@ -33600,9 +33600,9 @@ UWULogsData[5][1] = {
         ["points"] = 9261.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3209,
+        ["rank_raids"] = 3210,
         ["kill_count"] = 12,
-        ["points"] = 8588.3,
+        ["points"] = 8588.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6508,
@@ -33622,9 +33622,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 592,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6197,
+        ["rank_raids"] = 6198,
         ["kill_count"] = 5,
-        ["points"] = 7691.9,
+        ["points"] = 7691.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4361,
@@ -33637,9 +33637,9 @@ UWULogsData[5][1] = {
         ["points"] = 8634.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1297,
+        ["rank_raids"] = 1298,
         ["kill_count"] = 4,
-        ["points"] = 9232.2,
+        ["points"] = 9231.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1086,
@@ -33657,9 +33657,9 @@ UWULogsData[5][1] = {
         ["points"] = 9691.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4836,
+        ["rank_raids"] = 4837,
         ["kill_count"] = 9,
-        ["points"] = 8100.2,
+        ["points"] = 8099.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1812,
@@ -33667,9 +33667,9 @@ UWULogsData[5][1] = {
         ["points"] = 9026.2,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4587,
+        ["rank_raids"] = 4588,
         ["kill_count"] = 12,
-        ["points"] = 8174.9,
+        ["points"] = 8174.6,
       },
     },
   },
@@ -33694,9 +33694,9 @@ UWULogsData[5][1] = {
         ["points"] = 9500.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3889,
+        ["rank_raids"] = 3890,
         ["kill_count"] = 6,
-        ["points"] = 8384.3,
+        ["points"] = 8384.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2676,
@@ -33714,9 +33714,9 @@ UWULogsData[5][1] = {
         ["points"] = 9472.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4342,
+        ["rank_raids"] = 4343,
         ["kill_count"] = 7,
-        ["points"] = 8248.4,
+        ["points"] = 8248.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2603,
@@ -33751,9 +33751,9 @@ UWULogsData[5][1] = {
         ["points"] = 8879.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2829,
+        ["rank_raids"] = 2830,
         ["kill_count"] = 8,
-        ["points"] = 8702.3,
+        ["points"] = 8702.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2519,
@@ -33771,9 +33771,9 @@ UWULogsData[5][1] = {
         ["points"] = 9515.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2257,
+        ["rank_raids"] = 2258,
         ["kill_count"] = 8,
-        ["points"] = 8873.9,
+        ["points"] = 8873.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2150,
@@ -33781,9 +33781,9 @@ UWULogsData[5][1] = {
         ["points"] = 8906.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 9764,
+        ["rank_raids"] = 9765,
         ["kill_count"] = 9,
-        ["points"] = 6621.8,
+        ["points"] = 6621.5,
       },
     },
   },
@@ -33808,14 +33808,14 @@ UWULogsData[5][1] = {
         ["points"] = 9186.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5355,
+        ["rank_raids"] = 5356,
         ["kill_count"] = 7,
-        ["points"] = 7944.5,
+        ["points"] = 7944.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5938,
+        ["rank_raids"] = 5939,
         ["kill_count"] = 5,
-        ["points"] = 7769.6,
+        ["points"] = 7769.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3174,
@@ -33828,9 +33828,9 @@ UWULogsData[5][1] = {
         ["points"] = 9400.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3240,
+        ["rank_raids"] = 3241,
         ["kill_count"] = 7,
-        ["points"] = 8579.0,
+        ["points"] = 8578.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 193,
@@ -33850,9 +33850,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 596,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7842,
+        ["rank_raids"] = 7844,
         ["kill_count"] = 7,
-        ["points"] = 7198.4,
+        ["points"] = 7197.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2058,
@@ -33865,9 +33865,9 @@ UWULogsData[5][1] = {
         ["points"] = 8812.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 8334,
+        ["rank_raids"] = 8335,
         ["kill_count"] = 6,
-        ["points"] = 7050.8,
+        ["points"] = 7050.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 284,
@@ -33885,9 +33885,9 @@ UWULogsData[5][1] = {
         ["points"] = 9326.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1494,
+        ["rank_raids"] = 1495,
         ["kill_count"] = 12,
-        ["points"] = 9153.4,
+        ["points"] = 9153.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1893,
@@ -33922,9 +33922,9 @@ UWULogsData[5][1] = {
         ["points"] = 9927.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4475,
+        ["rank_raids"] = 4476,
         ["kill_count"] = 1,
-        ["points"] = 8208.5,
+        ["points"] = 8208.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 64,
@@ -33969,14 +33969,14 @@ UWULogsData[5][1] = {
         ["points"] = 9500.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6554,
+        ["rank_raids"] = 6557,
         ["kill_count"] = 7,
-        ["points"] = 7584.8,
+        ["points"] = 7583.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6001,
+        ["rank_raids"] = 6002,
         ["kill_count"] = 6,
-        ["points"] = 7750.7,
+        ["points"] = 7750.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 922,
@@ -33994,9 +33994,9 @@ UWULogsData[5][1] = {
         ["points"] = 9775.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2271,
+        ["rank_raids"] = 2272,
         ["kill_count"] = 9,
-        ["points"] = 8869.7,
+        ["points"] = 8869.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1534,
@@ -34004,9 +34004,9 @@ UWULogsData[5][1] = {
         ["points"] = 9137.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 11777,
+        ["rank_raids"] = 11778,
         ["kill_count"] = 3,
-        ["points"] = 6373.3,
+        ["points"] = 6373.2,
       },
     },
   },
@@ -34031,14 +34031,14 @@ UWULogsData[5][1] = {
         ["points"] = 9258.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3152,
+        ["rank_raids"] = 3153,
         ["kill_count"] = 4,
-        ["points"] = 8605.4,
+        ["points"] = 8605.1,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4726,
+        ["rank_raids"] = 4727,
         ["kill_count"] = 2,
-        ["points"] = 8133.2,
+        ["points"] = 8132.9,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2568,
@@ -34051,9 +34051,9 @@ UWULogsData[5][1] = {
         ["points"] = 8696.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6289,
+        ["rank_raids"] = 6290,
         ["kill_count"] = 7,
-        ["points"] = 7664.3,
+        ["points"] = 7664.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2096,
@@ -34088,9 +34088,9 @@ UWULogsData[5][1] = {
         ["points"] = 8933.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6170,
+        ["rank_raids"] = 6171,
         ["kill_count"] = 3,
-        ["points"] = 7700.0,
+        ["points"] = 7699.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2876,
@@ -34108,9 +34108,9 @@ UWULogsData[5][1] = {
         ["points"] = 9203.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5902,
+        ["rank_raids"] = 5903,
         ["kill_count"] = 4,
-        ["points"] = 7780.4,
+        ["points"] = 7780.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5069,
@@ -34145,9 +34145,9 @@ UWULogsData[5][1] = {
         ["points"] = 8724.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1865,
+        ["rank_raids"] = 1866,
         ["kill_count"] = 8,
-        ["points"] = 9005.0,
+        ["points"] = 9004.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3468,
@@ -34160,14 +34160,14 @@ UWULogsData[5][1] = {
         ["points"] = 9239.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 11132,
+        ["rank_raids"] = 11133,
         ["kill_count"] = 10,
-        ["points"] = 6437.8,
+        ["points"] = 6437.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4164,
+        ["rank_raids"] = 4165,
         ["kill_count"] = 10,
-        ["points"] = 8301.8,
+        ["points"] = 8301.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2285,
@@ -34202,9 +34202,9 @@ UWULogsData[5][1] = {
         ["points"] = 8552.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1511,
+        ["rank_raids"] = 1512,
         ["kill_count"] = 10,
-        ["points"] = 9146.6,
+        ["points"] = 9146.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3543,
@@ -34222,9 +34222,9 @@ UWULogsData[5][1] = {
         ["points"] = 8886.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2012,
+        ["rank_raids"] = 2013,
         ["kill_count"] = 10,
-        ["points"] = 8947.4,
+        ["points"] = 8947.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2182,
@@ -34232,9 +34232,9 @@ UWULogsData[5][1] = {
         ["points"] = 8896.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4834,
+        ["rank_raids"] = 4835,
         ["kill_count"] = 8,
-        ["points"] = 8100.8,
+        ["points"] = 8100.5,
       },
     },
   },
@@ -34259,9 +34259,9 @@ UWULogsData[5][1] = {
         ["points"] = 8987.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4240,
+        ["rank_raids"] = 4241,
         ["kill_count"] = 8,
-        ["points"] = 8279.0,
+        ["points"] = 8278.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3404,
@@ -34279,9 +34279,9 @@ UWULogsData[5][1] = {
         ["points"] = 9381.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4190,
+        ["rank_raids"] = 4191,
         ["kill_count"] = 9,
-        ["points"] = 8294.0,
+        ["points"] = 8293.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2202,
@@ -34301,9 +34301,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 604,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 13917,
+        ["rank_raids"] = 13920,
         ["kill_count"] = 8,
-        ["points"] = 6159.3,
+        ["points"] = 6159.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 441,
@@ -34316,9 +34316,9 @@ UWULogsData[5][1] = {
         ["points"] = 8904.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1918,
+        ["rank_raids"] = 1919,
         ["kill_count"] = 10,
-        ["points"] = 8983.8,
+        ["points"] = 8983.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3232,
@@ -34336,9 +34336,9 @@ UWULogsData[5][1] = {
         ["points"] = 9211.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5340,
+        ["rank_raids"] = 5341,
         ["kill_count"] = 23,
-        ["points"] = 7949.0,
+        ["points"] = 7948.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3187,
@@ -34368,19 +34368,19 @@ UWULogsData[5][1] = {
         ["points"] = 9119.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6592,
+        ["rank_raids"] = 6595,
         ["kill_count"] = 3,
-        ["points"] = 7573.4,
+        ["points"] = 7572.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3553,
+        ["rank_raids"] = 3554,
         ["kill_count"] = 14,
-        ["points"] = 8485.1,
+        ["points"] = 8484.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7718,
+        ["rank_raids"] = 7720,
         ["kill_count"] = 8,
-        ["points"] = 7235.6,
+        ["points"] = 7235.0,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 685,
@@ -34393,9 +34393,9 @@ UWULogsData[5][1] = {
         ["points"] = 9452.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4428,
+        ["rank_raids"] = 4429,
         ["kill_count"] = 15,
-        ["points"] = 8222.6,
+        ["points"] = 8222.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1582,
@@ -34410,7 +34410,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Kuroshiki"] = {
-    ["percentile"] = 87.2,
+    ["percentile"] = 87.19,
     ["server"] = "Icecrown",
     ["overall_rank"] = 606,
     ["bosses"] = {
@@ -34425,19 +34425,19 @@ UWULogsData[5][1] = {
         ["points"] = 8434.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5437,
+        ["rank_raids"] = 5440,
         ["kill_count"] = 8,
-        ["points"] = 7919.9,
+        ["points"] = 7919.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2514,
+        ["rank_raids"] = 2515,
         ["kill_count"] = 9,
-        ["points"] = 8796.8,
+        ["points"] = 8796.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7470,
+        ["rank_raids"] = 7472,
         ["kill_count"] = 8,
-        ["points"] = 7310.0,
+        ["points"] = 7309.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1719,
@@ -34445,14 +34445,14 @@ UWULogsData[5][1] = {
         ["points"] = 9063.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3428,
+        ["rank_raids"] = 3429,
         ["kill_count"] = 10,
-        ["points"] = 8522.6,
+        ["points"] = 8522.3,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 215,
         ["kill_count"] = 11,
-        ["points"] = 9799.38,
+        ["points"] = 9799.41,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4579,
@@ -34472,9 +34472,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 607,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5197,
+        ["rank_raids"] = 5198,
         ["kill_count"] = 5,
-        ["points"] = 7991.9,
+        ["points"] = 7991.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1900,
@@ -34487,9 +34487,9 @@ UWULogsData[5][1] = {
         ["points"] = 9269.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1879,
+        ["rank_raids"] = 1880,
         ["kill_count"] = 1,
-        ["points"] = 8999.4,
+        ["points"] = 8999.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3731,
@@ -34507,9 +34507,9 @@ UWULogsData[5][1] = {
         ["points"] = 9520.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7282,
+        ["rank_raids"] = 7283,
         ["kill_count"] = 5,
-        ["points"] = 7366.4,
+        ["points"] = 7366.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3499,
@@ -34529,9 +34529,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 608,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 17613,
+        ["rank_raids"] = 17616,
         ["kill_count"] = 2,
-        ["points"] = 5789.7,
+        ["points"] = 5789.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 502,
@@ -34544,14 +34544,14 @@ UWULogsData[5][1] = {
         ["points"] = 9231.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 866,
+        ["rank_raids"] = 867,
         ["kill_count"] = 12,
-        ["points"] = 9418.0,
+        ["points"] = 9417.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4330,
+        ["rank_raids"] = 4331,
         ["kill_count"] = 8,
-        ["points"] = 8252.0,
+        ["points"] = 8251.7,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1532,
@@ -34559,14 +34559,14 @@ UWULogsData[5][1] = {
         ["points"] = 9138.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4065,
+        ["rank_raids"] = 4066,
         ["kill_count"] = 9,
-        ["points"] = 8331.5,
+        ["points"] = 8331.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 604,
+        ["rank_raids"] = 605,
         ["kill_count"] = 12,
-        ["points"] = 9549.0,
+        ["points"] = 9548.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 868,
@@ -34581,14 +34581,14 @@ UWULogsData[5][1] = {
     },
   },
   ["Dextergene"] = {
-    ["percentile"] = 87.15,
+    ["percentile"] = 87.14,
     ["server"] = "Icecrown",
     ["overall_rank"] = 609,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5918,
+        ["rank_raids"] = 5919,
         ["kill_count"] = 6,
-        ["points"] = 7775.6,
+        ["points"] = 7775.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 450,
@@ -34596,14 +34596,14 @@ UWULogsData[5][1] = {
         ["points"] = 9631.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4733,
+        ["rank_raids"] = 4735,
         ["kill_count"] = 2,
-        ["points"] = 8131.1,
+        ["points"] = 8130.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3223,
+        ["rank_raids"] = 3224,
         ["kill_count"] = 5,
-        ["points"] = 8584.1,
+        ["points"] = 8583.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3560,
@@ -34621,9 +34621,9 @@ UWULogsData[5][1] = {
         ["points"] = 8789.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4453,
+        ["rank_raids"] = 4454,
         ["kill_count"] = 10,
-        ["points"] = 8215.1,
+        ["points"] = 8214.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 915,
@@ -34643,9 +34643,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 610,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 4861,
+        ["rank_raids"] = 4862,
         ["kill_count"] = 5,
-        ["points"] = 8092.7,
+        ["points"] = 8092.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4766,
@@ -34658,9 +34658,9 @@ UWULogsData[5][1] = {
         ["points"] = 9313.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 903,
+        ["rank_raids"] = 904,
         ["kill_count"] = 6,
-        ["points"] = 9399.5,
+        ["points"] = 9399.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3246,
@@ -34678,9 +34678,9 @@ UWULogsData[5][1] = {
         ["points"] = 9347.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3292,
+        ["rank_raids"] = 3293,
         ["kill_count"] = 10,
-        ["points"] = 8563.4,
+        ["points"] = 8563.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6348,
@@ -34715,9 +34715,9 @@ UWULogsData[5][1] = {
         ["points"] = 8630.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 9114,
+        ["rank_raids"] = 9115,
         ["kill_count"] = 6,
-        ["points"] = 6816.8,
+        ["points"] = 6816.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1768,
@@ -34735,9 +34735,9 @@ UWULogsData[5][1] = {
         ["points"] = 9239.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4653,
+        ["rank_raids"] = 4654,
         ["kill_count"] = 15,
-        ["points"] = 8155.1,
+        ["points"] = 8154.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1330,
@@ -34772,9 +34772,9 @@ UWULogsData[5][1] = {
         ["points"] = 9006.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3148,
+        ["rank_raids"] = 3149,
         ["kill_count"] = 13,
-        ["points"] = 8606.6,
+        ["points"] = 8606.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2745,
@@ -34787,14 +34787,14 @@ UWULogsData[5][1] = {
         ["points"] = 9509.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4385,
+        ["rank_raids"] = 4386,
         ["kill_count"] = 22,
-        ["points"] = 8235.5,
+        ["points"] = 8235.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4239,
+        ["rank_raids"] = 4240,
         ["kill_count"] = 27,
-        ["points"] = 8279.3,
+        ["points"] = 8279.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4438,
@@ -34824,14 +34824,14 @@ UWULogsData[5][1] = {
         ["points"] = 9512.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3870,
+        ["rank_raids"] = 3871,
         ["kill_count"] = 1,
-        ["points"] = 8390.0,
+        ["points"] = 8389.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1285,
+        ["rank_raids"] = 1286,
         ["kill_count"] = 3,
-        ["points"] = 9237.0,
+        ["points"] = 9236.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3408,
@@ -34849,9 +34849,9 @@ UWULogsData[5][1] = {
         ["points"] = 9064.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5689,
+        ["rank_raids"] = 5690,
         ["kill_count"] = 4,
-        ["points"] = 7844.3,
+        ["points"] = 7844.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4276,
@@ -34871,9 +34871,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 614,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 4795,
+        ["rank_raids"] = 4796,
         ["kill_count"] = 6,
-        ["points"] = 8112.5,
+        ["points"] = 8112.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1475,
@@ -34886,9 +34886,9 @@ UWULogsData[5][1] = {
         ["points"] = 8927.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2860,
+        ["rank_raids"] = 2861,
         ["kill_count"] = 5,
-        ["points"] = 8693.0,
+        ["points"] = 8692.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2697,
@@ -34896,9 +34896,9 @@ UWULogsData[5][1] = {
         ["points"] = 8741.9,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9084,
+        ["rank_raids"] = 9085,
         ["kill_count"] = 4,
-        ["points"] = 6825.8,
+        ["points"] = 6825.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1334,
@@ -34908,7 +34908,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 542,
         ["kill_count"] = 5,
-        ["points"] = 9584.88,
+        ["points"] = 9584.94,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1962,
@@ -34923,14 +34923,14 @@ UWULogsData[5][1] = {
     },
   },
   ["Tesrapture"] = {
-    ["percentile"] = 87.1,
+    ["percentile"] = 87.09,
     ["server"] = "Icecrown",
     ["overall_rank"] = 615,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10297,
+        ["rank_raids"] = 10300,
         ["kill_count"] = 3,
-        ["points"] = 6521.3,
+        ["points"] = 6521.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 211,
@@ -34943,9 +34943,9 @@ UWULogsData[5][1] = {
         ["points"] = 9973.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2395,
+        ["rank_raids"] = 2396,
         ["kill_count"] = 3,
-        ["points"] = 8832.5,
+        ["points"] = 8832.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 9,
@@ -34958,14 +34958,14 @@ UWULogsData[5][1] = {
         ["points"] = 9987.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 8130,
+        ["rank_raids"] = 8131,
         ["kill_count"] = 3,
-        ["points"] = 7112.0,
+        ["points"] = 7111.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2049,
+        ["rank_raids"] = 2050,
         ["kill_count"] = 3,
-        ["points"] = 8936.3,
+        ["points"] = 8936.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5691,
@@ -34973,9 +34973,9 @@ UWULogsData[5][1] = {
         ["points"] = 7843.7,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4868,
+        ["rank_raids"] = 4869,
         ["kill_count"] = 3,
-        ["points"] = 8090.6,
+        ["points"] = 8090.3,
       },
     },
   },
@@ -35000,9 +35000,9 @@ UWULogsData[5][1] = {
         ["points"] = 8667.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5035,
+        ["rank_raids"] = 5036,
         ["kill_count"] = 2,
-        ["points"] = 8040.5,
+        ["points"] = 8040.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3703,
@@ -35020,9 +35020,9 @@ UWULogsData[5][1] = {
         ["points"] = 9833.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5091,
+        ["rank_raids"] = 5092,
         ["kill_count"] = 4,
-        ["points"] = 8023.7,
+        ["points"] = 8023.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5933,
@@ -35037,14 +35037,14 @@ UWULogsData[5][1] = {
     },
   },
   ["Irisca"] = {
-    ["percentile"] = 87.08,
+    ["percentile"] = 87.07,
     ["server"] = "Icecrown",
     ["overall_rank"] = 617,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 17647,
+        ["rank_raids"] = 17650,
         ["kill_count"] = 3,
-        ["points"] = 5786.3,
+        ["points"] = 5786.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 169,
@@ -35057,9 +35057,9 @@ UWULogsData[5][1] = {
         ["points"] = 9435.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2697,
+        ["rank_raids"] = 2698,
         ["kill_count"] = 6,
-        ["points"] = 8741.9,
+        ["points"] = 8741.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3050,
@@ -35077,9 +35077,9 @@ UWULogsData[5][1] = {
         ["points"] = 9859.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2325,
+        ["rank_raids"] = 2326,
         ["kill_count"] = 7,
-        ["points"] = 8853.5,
+        ["points"] = 8853.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1813,
@@ -35087,21 +35087,21 @@ UWULogsData[5][1] = {
         ["points"] = 9025.8,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5087,
+        ["rank_raids"] = 5088,
         ["kill_count"] = 11,
-        ["points"] = 8024.9,
+        ["points"] = 8024.6,
       },
     },
   },
   ["Vampirick"] = {
-    ["percentile"] = 87.08,
+    ["percentile"] = 87.07,
     ["server"] = "Icecrown",
     ["overall_rank"] = 618,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6833,
+        ["rank_raids"] = 6834,
         ["kill_count"] = 7,
-        ["points"] = 7501.1,
+        ["points"] = 7500.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1263,
@@ -35109,14 +35109,14 @@ UWULogsData[5][1] = {
         ["points"] = 9245.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4764,
+        ["rank_raids"] = 4766,
         ["kill_count"] = 3,
-        ["points"] = 8121.8,
+        ["points"] = 8121.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1811,
+        ["rank_raids"] = 1812,
         ["kill_count"] = 7,
-        ["points"] = 9026.6,
+        ["points"] = 9026.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1176,
@@ -35134,9 +35134,9 @@ UWULogsData[5][1] = {
         ["points"] = 8936.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4048,
+        ["rank_raids"] = 4049,
         ["kill_count"] = 10,
-        ["points"] = 8336.6,
+        ["points"] = 8336.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3460,
@@ -35171,9 +35171,9 @@ UWULogsData[5][1] = {
         ["points"] = 9137.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2769,
+        ["rank_raids"] = 2770,
         ["kill_count"] = 5,
-        ["points"] = 8720.3,
+        ["points"] = 8720.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2979,
@@ -35181,9 +35181,9 @@ UWULogsData[5][1] = {
         ["points"] = 8657.3,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 11239,
+        ["rank_raids"] = 11240,
         ["kill_count"] = 3,
-        ["points"] = 6427.1,
+        ["points"] = 6427.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1177,
@@ -35191,9 +35191,9 @@ UWULogsData[5][1] = {
         ["points"] = 9280.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2067,
+        ["rank_raids"] = 2068,
         ["kill_count"] = 6,
-        ["points"] = 8930.9,
+        ["points"] = 8930.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5490,
@@ -35228,9 +35228,9 @@ UWULogsData[5][1] = {
         ["points"] = 9447.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4784,
+        ["rank_raids"] = 4785,
         ["kill_count"] = 4,
-        ["points"] = 8115.8,
+        ["points"] = 8115.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2841,
@@ -35248,9 +35248,9 @@ UWULogsData[5][1] = {
         ["points"] = 9382.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7909,
+        ["rank_raids"] = 7910,
         ["kill_count"] = 6,
-        ["points"] = 7178.3,
+        ["points"] = 7178.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2370,
@@ -35280,14 +35280,14 @@ UWULogsData[5][1] = {
         ["points"] = 8337.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4260,
+        ["rank_raids"] = 4262,
         ["kill_count"] = 7,
-        ["points"] = 8273.0,
+        ["points"] = 8272.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1180,
+        ["rank_raids"] = 1181,
         ["kill_count"] = 12,
-        ["points"] = 9279.0,
+        ["points"] = 9278.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1757,
@@ -35295,9 +35295,9 @@ UWULogsData[5][1] = {
         ["points"] = 9048.2,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8574,
+        ["rank_raids"] = 8575,
         ["kill_count"] = 13,
-        ["points"] = 6978.8,
+        ["points"] = 6978.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 517,
@@ -35305,9 +35305,9 @@ UWULogsData[5][1] = {
         ["points"] = 9592.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1715,
+        ["rank_raids"] = 1716,
         ["kill_count"] = 15,
-        ["points"] = 9065.0,
+        ["points"] = 9064.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3783,
@@ -35342,9 +35342,9 @@ UWULogsData[5][1] = {
         ["points"] = 9247.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3367,
+        ["rank_raids"] = 3368,
         ["kill_count"] = 7,
-        ["points"] = 8540.9,
+        ["points"] = 8540.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2159,
@@ -35357,14 +35357,14 @@ UWULogsData[5][1] = {
         ["points"] = 8973.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 8693,
+        ["rank_raids"] = 8694,
         ["kill_count"] = 2,
-        ["points"] = 6943.1,
+        ["points"] = 6942.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2386,
+        ["rank_raids"] = 2387,
         ["kill_count"] = 8,
-        ["points"] = 8835.2,
+        ["points"] = 8834.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1002,
@@ -35399,14 +35399,14 @@ UWULogsData[5][1] = {
         ["points"] = 9296.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1179,
+        ["rank_raids"] = 1180,
         ["kill_count"] = 11,
-        ["points"] = 9279.4,
+        ["points"] = 9279.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 19682,
+        ["rank_raids"] = 19684,
         ["kill_count"] = 1,
-        ["points"] = 5582.8,
+        ["points"] = 5582.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1939,
@@ -35414,14 +35414,14 @@ UWULogsData[5][1] = {
         ["points"] = 8975.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 2956,
+        ["rank_raids"] = 2957,
         ["kill_count"] = 4,
-        ["points"] = 8664.2,
+        ["points"] = 8663.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1612,
+        ["rank_raids"] = 1613,
         ["kill_count"] = 9,
-        ["points"] = 9106.2,
+        ["points"] = 9105.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2419,
@@ -35456,9 +35456,9 @@ UWULogsData[5][1] = {
         ["points"] = 9257.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2121,
+        ["rank_raids"] = 2122,
         ["kill_count"] = 9,
-        ["points"] = 8914.7,
+        ["points"] = 8914.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3465,
@@ -35471,14 +35471,14 @@ UWULogsData[5][1] = {
         ["points"] = 8320.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5844,
+        ["rank_raids"] = 5845,
         ["kill_count"] = 15,
-        ["points"] = 7797.8,
+        ["points"] = 7797.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1160,
+        ["rank_raids"] = 1161,
         ["kill_count"] = 17,
-        ["points"] = 9287.0,
+        ["points"] = 9286.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5222,
@@ -35513,14 +35513,14 @@ UWULogsData[5][1] = {
         ["points"] = 8498.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3267,
+        ["rank_raids"] = 3268,
         ["kill_count"] = 1,
-        ["points"] = 8570.9,
+        ["points"] = 8570.6,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8775,
+        ["rank_raids"] = 8777,
         ["kill_count"] = 1,
-        ["points"] = 6918.5,
+        ["points"] = 6917.9,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 205,
@@ -35533,9 +35533,9 @@ UWULogsData[5][1] = {
         ["points"] = 9009.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8189,
+        ["rank_raids"] = 8190,
         ["kill_count"] = 2,
-        ["points"] = 7094.3,
+        ["points"] = 7094.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 229,
@@ -35549,67 +35549,10 @@ UWULogsData[5][1] = {
       },
     },
   },
-  ["Fyumz"] = {
-    ["percentile"] = 86.92,
+  ["Pvtalawea"] = {
+    ["percentile"] = 86.91,
     ["server"] = "Icecrown",
     ["overall_rank"] = 626,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 1136,
-        ["kill_count"] = 2,
-        ["points"] = 9296.6,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 1697,
-        ["kill_count"] = 10,
-        ["points"] = 9072.2,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8044,
-        ["kill_count"] = 3,
-        ["points"] = 7137.8,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 2466,
-        ["kill_count"] = 8,
-        ["points"] = 8811.2,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 1177,
-        ["kill_count"] = 7,
-        ["points"] = 9280.2,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 3453,
-        ["kill_count"] = 12,
-        ["points"] = 8515.1,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 2169,
-        ["kill_count"] = 5,
-        ["points"] = 8900.3,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4003,
-        ["kill_count"] = 11,
-        ["points"] = 8350.1,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 2346,
-        ["kill_count"] = 5,
-        ["points"] = 8847.2,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 2842,
-        ["kill_count"] = 12,
-        ["points"] = 8698.4,
-      },
-    },
-  },
-  ["Pvtalawea"] = {
-    ["percentile"] = 86.92,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 627,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1803,
@@ -35627,14 +35570,14 @@ UWULogsData[5][1] = {
         ["points"] = 8518.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5275,
+        ["rank_raids"] = 5276,
         ["kill_count"] = 10,
-        ["points"] = 7968.5,
+        ["points"] = 7968.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4018,
+        ["rank_raids"] = 4019,
         ["kill_count"] = 9,
-        ["points"] = 8345.6,
+        ["points"] = 8345.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5433,
@@ -35649,7 +35592,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 412,
         ["kill_count"] = 12,
-        ["points"] = 9660.49,
+        ["points"] = 9660.55,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1020,
@@ -35657,9 +35600,66 @@ UWULogsData[5][1] = {
         ["points"] = 9343.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4329,
+        ["rank_raids"] = 4330,
         ["kill_count"] = 2,
-        ["points"] = 8252.3,
+        ["points"] = 8252.0,
+      },
+    },
+  },
+  ["Fyumz"] = {
+    ["percentile"] = 86.91,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 627,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 1136,
+        ["kill_count"] = 2,
+        ["points"] = 9296.6,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 1697,
+        ["kill_count"] = 10,
+        ["points"] = 9072.2,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 8048,
+        ["kill_count"] = 3,
+        ["points"] = 7136.6,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 2467,
+        ["kill_count"] = 8,
+        ["points"] = 8810.9,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 1177,
+        ["kill_count"] = 7,
+        ["points"] = 9280.2,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 3453,
+        ["kill_count"] = 12,
+        ["points"] = 8515.1,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 2169,
+        ["kill_count"] = 5,
+        ["points"] = 8900.3,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 4004,
+        ["kill_count"] = 11,
+        ["points"] = 8349.8,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 2346,
+        ["kill_count"] = 5,
+        ["points"] = 8847.2,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 2842,
+        ["kill_count"] = 12,
+        ["points"] = 8698.4,
       },
     },
   },
@@ -35679,14 +35679,14 @@ UWULogsData[5][1] = {
         ["points"] = 8309.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6835,
+        ["rank_raids"] = 6838,
         ["kill_count"] = 8,
-        ["points"] = 7500.5,
+        ["points"] = 7499.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2239,
+        ["rank_raids"] = 2240,
         ["kill_count"] = 15,
-        ["points"] = 8879.3,
+        ["points"] = 8879.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1440,
@@ -35704,9 +35704,9 @@ UWULogsData[5][1] = {
         ["points"] = 9705.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5225,
+        ["rank_raids"] = 5226,
         ["kill_count"] = 16,
-        ["points"] = 7983.5,
+        ["points"] = 7983.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3209,
@@ -35720,67 +35720,10 @@ UWULogsData[5][1] = {
       },
     },
   },
-  ["Drax"] = {
-    ["percentile"] = 86.89,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 629,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 592,
-        ["kill_count"] = 4,
-        ["points"] = 9555.0,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 2658,
-        ["kill_count"] = 5,
-        ["points"] = 8753.6,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6026,
-        ["kill_count"] = 2,
-        ["points"] = 7743.2,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 4720,
-        ["kill_count"] = 6,
-        ["points"] = 8135.0,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 2372,
-        ["kill_count"] = 3,
-        ["points"] = 8839.4,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 1971,
-        ["kill_count"] = 6,
-        ["points"] = 8962.6,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 661,
-        ["kill_count"] = 3,
-        ["points"] = 9520.5,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 678,
-        ["kill_count"] = 6,
-        ["points"] = 9512.0,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 3285,
-        ["kill_count"] = 6,
-        ["points"] = 8565.5,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 7508,
-        ["kill_count"] = 5,
-        ["points"] = 7298.6,
-      },
-    },
-  },
   ["Purified"] = {
     ["percentile"] = 86.89,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 630,
+    ["overall_rank"] = 629,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1011,
@@ -35798,9 +35741,9 @@ UWULogsData[5][1] = {
         ["points"] = 8837.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 228,
+        ["rank_raids"] = 229,
         ["kill_count"] = 10,
-        ["points"] = 9788.6,
+        ["points"] = 9787.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 142,
@@ -35808,19 +35751,19 @@ UWULogsData[5][1] = {
         ["points"] = 9863.2,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 10825,
+        ["rank_raids"] = 10826,
         ["kill_count"] = 3,
-        ["points"] = 6468.5,
+        ["points"] = 6468.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4010,
+        ["rank_raids"] = 4011,
         ["kill_count"] = 6,
-        ["points"] = 8348.0,
+        ["points"] = 8347.7,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 359,
         ["kill_count"] = 7,
-        ["points"] = 9695.99,
+        ["points"] = 9696.03,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2667,
@@ -35834,15 +35777,72 @@ UWULogsData[5][1] = {
       },
     },
   },
+  ["Drax"] = {
+    ["percentile"] = 86.89,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 630,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 592,
+        ["kill_count"] = 4,
+        ["points"] = 9555.0,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 2658,
+        ["kill_count"] = 5,
+        ["points"] = 8753.6,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 6029,
+        ["kill_count"] = 2,
+        ["points"] = 7742.3,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 4721,
+        ["kill_count"] = 6,
+        ["points"] = 8134.7,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 2372,
+        ["kill_count"] = 3,
+        ["points"] = 8839.4,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 1971,
+        ["kill_count"] = 6,
+        ["points"] = 8962.6,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 661,
+        ["kill_count"] = 3,
+        ["points"] = 9520.5,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 679,
+        ["kill_count"] = 6,
+        ["points"] = 9511.5,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 3285,
+        ["kill_count"] = 6,
+        ["points"] = 8565.5,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 7509,
+        ["kill_count"] = 5,
+        ["points"] = 7298.3,
+      },
+    },
+  },
   ["Drokishield"] = {
     ["percentile"] = 86.88,
     ["server"] = "Icecrown",
     ["overall_rank"] = 631,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5160,
+        ["rank_raids"] = 5161,
         ["kill_count"] = 2,
-        ["points"] = 8003.0,
+        ["points"] = 8002.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3405,
@@ -35855,14 +35855,14 @@ UWULogsData[5][1] = {
         ["points"] = 8462.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2563,
+        ["rank_raids"] = 2564,
         ["kill_count"] = 4,
-        ["points"] = 8782.1,
+        ["points"] = 8781.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4709,
+        ["rank_raids"] = 4710,
         ["kill_count"] = 2,
-        ["points"] = 8138.3,
+        ["points"] = 8138.0,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 688,
@@ -35875,9 +35875,9 @@ UWULogsData[5][1] = {
         ["points"] = 9140.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3609,
+        ["rank_raids"] = 3610,
         ["kill_count"] = 4,
-        ["points"] = 8468.3,
+        ["points"] = 8468.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 989,
@@ -35912,9 +35912,9 @@ UWULogsData[5][1] = {
         ["points"] = 8898.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3743,
+        ["rank_raids"] = 3744,
         ["kill_count"] = 7,
-        ["points"] = 8428.1,
+        ["points"] = 8427.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 679,
@@ -35932,9 +35932,9 @@ UWULogsData[5][1] = {
         ["points"] = 9421.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1629,
+        ["rank_raids"] = 1630,
         ["kill_count"] = 9,
-        ["points"] = 9099.4,
+        ["points"] = 9099.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7680,
@@ -35969,9 +35969,9 @@ UWULogsData[5][1] = {
         ["points"] = 8648.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6065,
+        ["rank_raids"] = 6066,
         ["kill_count"] = 4,
-        ["points"] = 7731.5,
+        ["points"] = 7731.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1841,
@@ -35989,9 +35989,9 @@ UWULogsData[5][1] = {
         ["points"] = 9732.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6363,
+        ["rank_raids"] = 6364,
         ["kill_count"] = 9,
-        ["points"] = 7642.1,
+        ["points"] = 7641.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1323,
@@ -36026,9 +36026,9 @@ UWULogsData[5][1] = {
         ["points"] = 8708.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 8156,
+        ["rank_raids"] = 8157,
         ["kill_count"] = 5,
-        ["points"] = 7104.2,
+        ["points"] = 7103.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2840,
@@ -36046,9 +36046,9 @@ UWULogsData[5][1] = {
         ["points"] = 9321.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1999,
+        ["rank_raids"] = 2000,
         ["kill_count"] = 9,
-        ["points"] = 8951.4,
+        ["points"] = 8951.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7697,
@@ -36083,14 +36083,14 @@ UWULogsData[5][1] = {
         ["points"] = 8890.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6073,
+        ["rank_raids"] = 6074,
         ["kill_count"] = 15,
-        ["points"] = 7729.1,
+        ["points"] = 7728.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4539,
+        ["rank_raids"] = 4540,
         ["kill_count"] = 12,
-        ["points"] = 8189.3,
+        ["points"] = 8189.0,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3831,
@@ -36098,14 +36098,14 @@ UWULogsData[5][1] = {
         ["points"] = 8401.7,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6817,
+        ["rank_raids"] = 6818,
         ["kill_count"] = 20,
-        ["points"] = 7505.9,
+        ["points"] = 7505.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4464,
+        ["rank_raids"] = 4465,
         ["kill_count"] = 20,
-        ["points"] = 8211.8,
+        ["points"] = 8211.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1006,
@@ -36125,9 +36125,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 636,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7783,
+        ["rank_raids"] = 7785,
         ["kill_count"] = 3,
-        ["points"] = 7216.1,
+        ["points"] = 7215.5,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1829,
@@ -36140,9 +36140,9 @@ UWULogsData[5][1] = {
         ["points"] = 9125.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 857,
+        ["rank_raids"] = 858,
         ["kill_count"] = 6,
-        ["points"] = 9422.5,
+        ["points"] = 9422.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1089,
@@ -36160,9 +36160,9 @@ UWULogsData[5][1] = {
         ["points"] = 8725.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3224,
+        ["rank_raids"] = 3225,
         ["kill_count"] = 7,
-        ["points"] = 8583.8,
+        ["points"] = 8583.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2282,
@@ -36197,9 +36197,9 @@ UWULogsData[5][1] = {
         ["points"] = 9639.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3913,
+        ["rank_raids"] = 3914,
         ["kill_count"] = 5,
-        ["points"] = 8377.1,
+        ["points"] = 8376.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2658,
@@ -36217,9 +36217,9 @@ UWULogsData[5][1] = {
         ["points"] = 9687.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3787,
+        ["rank_raids"] = 3788,
         ["kill_count"] = 9,
-        ["points"] = 8414.9,
+        ["points"] = 8414.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 8494,
@@ -36254,9 +36254,9 @@ UWULogsData[5][1] = {
         ["points"] = 9031.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5713,
+        ["rank_raids"] = 5714,
         ["kill_count"] = 6,
-        ["points"] = 7837.1,
+        ["points"] = 7836.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 328,
@@ -36274,9 +36274,9 @@ UWULogsData[5][1] = {
         ["points"] = 9569.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5572,
+        ["rank_raids"] = 5573,
         ["kill_count"] = 13,
-        ["points"] = 7879.4,
+        ["points"] = 7879.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3338,
@@ -36306,14 +36306,14 @@ UWULogsData[5][1] = {
         ["points"] = 9051.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9455,
+        ["rank_raids"] = 9459,
         ["kill_count"] = 4,
-        ["points"] = 6714.5,
+        ["points"] = 6713.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1069,
+        ["rank_raids"] = 1070,
         ["kill_count"] = 8,
-        ["points"] = 9323.4,
+        ["points"] = 9323.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 198,
@@ -36331,9 +36331,9 @@ UWULogsData[5][1] = {
         ["points"] = 9801.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2682,
+        ["rank_raids"] = 2683,
         ["kill_count"] = 10,
-        ["points"] = 8746.4,
+        ["points"] = 8746.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7880,
@@ -36368,14 +36368,14 @@ UWULogsData[5][1] = {
         ["points"] = 9261.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1363,
+        ["rank_raids"] = 1364,
         ["kill_count"] = 10,
-        ["points"] = 9205.8,
+        ["points"] = 9205.4,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6563,
+        ["rank_raids"] = 6565,
         ["kill_count"] = 3,
-        ["points"] = 7582.1,
+        ["points"] = 7581.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1454,
@@ -36388,19 +36388,19 @@ UWULogsData[5][1] = {
         ["points"] = 9492.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 816,
+        ["rank_raids"] = 817,
         ["kill_count"] = 9,
-        ["points"] = 9443.0,
+        ["points"] = 9442.5,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 11448,
+        ["rank_raids"] = 11449,
         ["kill_count"] = 8,
-        ["points"] = 6406.2,
+        ["points"] = 6406.1,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6431,
+        ["rank_raids"] = 6432,
         ["kill_count"] = 9,
-        ["points"] = 7621.7,
+        ["points"] = 7621.4,
       },
     },
   },
@@ -36420,14 +36420,14 @@ UWULogsData[5][1] = {
         ["points"] = 8620.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5023,
+        ["rank_raids"] = 5025,
         ["kill_count"] = 6,
-        ["points"] = 8044.1,
+        ["points"] = 8043.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 508,
+        ["rank_raids"] = 509,
         ["kill_count"] = 5,
-        ["points"] = 9597.0,
+        ["points"] = 9596.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 733,
@@ -36445,9 +36445,9 @@ UWULogsData[5][1] = {
         ["points"] = 8981.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3738,
+        ["rank_raids"] = 3739,
         ["kill_count"] = 7,
-        ["points"] = 8429.6,
+        ["points"] = 8429.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4753,
@@ -36455,9 +36455,9 @@ UWULogsData[5][1] = {
         ["points"] = 8125.1,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5198,
+        ["rank_raids"] = 5199,
         ["kill_count"] = 3,
-        ["points"] = 7991.6,
+        ["points"] = 7991.3,
       },
     },
   },
@@ -36467,9 +36467,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 642,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5780,
+        ["rank_raids"] = 5781,
         ["kill_count"] = 3,
-        ["points"] = 7817.0,
+        ["points"] = 7816.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1751,
@@ -36477,14 +36477,14 @@ UWULogsData[5][1] = {
         ["points"] = 9050.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4273,
+        ["rank_raids"] = 4275,
         ["kill_count"] = 6,
-        ["points"] = 8269.1,
+        ["points"] = 8268.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3221,
+        ["rank_raids"] = 3222,
         ["kill_count"] = 9,
-        ["points"] = 8584.7,
+        ["points"] = 8584.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 542,
@@ -36502,9 +36502,9 @@ UWULogsData[5][1] = {
         ["points"] = 9574.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6306,
+        ["rank_raids"] = 6307,
         ["kill_count"] = 9,
-        ["points"] = 7659.2,
+        ["points"] = 7658.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 283,
@@ -36512,9 +36512,9 @@ UWULogsData[5][1] = {
         ["points"] = 9744.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6278,
+        ["rank_raids"] = 6279,
         ["kill_count"] = 6,
-        ["points"] = 7667.6,
+        ["points"] = 7667.3,
       },
     },
   },
@@ -36539,9 +36539,9 @@ UWULogsData[5][1] = {
         ["points"] = 8912.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1195,
+        ["rank_raids"] = 1196,
         ["kill_count"] = 9,
-        ["points"] = 9273.0,
+        ["points"] = 9272.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 260,
@@ -36554,14 +36554,14 @@ UWULogsData[5][1] = {
         ["points"] = 7717.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3680,
+        ["rank_raids"] = 3681,
         ["kill_count"] = 6,
-        ["points"] = 8447.0,
+        ["points"] = 8446.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 802,
+        ["rank_raids"] = 803,
         ["kill_count"] = 9,
-        ["points"] = 9450.0,
+        ["points"] = 9449.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1477,
@@ -36569,21 +36569,21 @@ UWULogsData[5][1] = {
         ["points"] = 9160.2,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8312,
+        ["rank_raids"] = 8313,
         ["kill_count"] = 7,
-        ["points"] = 7057.4,
+        ["points"] = 7057.1,
       },
     },
   },
   ["Katheywalker"] = {
-    ["percentile"] = 86.67,
+    ["percentile"] = 86.66,
     ["server"] = "Icecrown",
     ["overall_rank"] = 644,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 4975,
+        ["rank_raids"] = 4976,
         ["kill_count"] = 1,
-        ["points"] = 8058.5,
+        ["points"] = 8058.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2223,
@@ -36596,14 +36596,14 @@ UWULogsData[5][1] = {
         ["points"] = 9099.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2310,
+        ["rank_raids"] = 2311,
         ["kill_count"] = 7,
-        ["points"] = 8858.0,
+        ["points"] = 8857.7,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8821,
+        ["rank_raids"] = 8823,
         ["kill_count"] = 1,
-        ["points"] = 6904.7,
+        ["points"] = 6904.1,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1371,
@@ -36611,14 +36611,14 @@ UWULogsData[5][1] = {
         ["points"] = 9202.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3054,
+        ["rank_raids"] = 3055,
         ["kill_count"] = 5,
-        ["points"] = 8634.8,
+        ["points"] = 8634.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2306,
+        ["rank_raids"] = 2307,
         ["kill_count"] = 5,
-        ["points"] = 8859.2,
+        ["points"] = 8858.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1932,
@@ -36653,9 +36653,9 @@ UWULogsData[5][1] = {
         ["points"] = 8856.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1757,
+        ["rank_raids"] = 1758,
         ["kill_count"] = 5,
-        ["points"] = 9048.2,
+        ["points"] = 9047.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 500,
@@ -36673,9 +36673,9 @@ UWULogsData[5][1] = {
         ["points"] = 8764.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6375,
+        ["rank_raids"] = 6376,
         ["kill_count"] = 9,
-        ["points"] = 7638.5,
+        ["points"] = 7638.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4013,
@@ -36683,9 +36683,9 @@ UWULogsData[5][1] = {
         ["points"] = 8347.1,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4477,
+        ["rank_raids"] = 4478,
         ["kill_count"] = 9,
-        ["points"] = 8207.9,
+        ["points"] = 8207.6,
       },
     },
   },
@@ -36695,9 +36695,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 646,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6206,
+        ["rank_raids"] = 6207,
         ["kill_count"] = 4,
-        ["points"] = 7689.2,
+        ["points"] = 7688.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 9304,
@@ -36705,9 +36705,9 @@ UWULogsData[5][1] = {
         ["points"] = 6759.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 12127,
+        ["rank_raids"] = 12132,
         ["kill_count"] = 2,
-        ["points"] = 6338.3,
+        ["points"] = 6337.8,
       },
       ["Festergut"] = {
         ["rank_raids"] = 153,
@@ -36725,9 +36725,9 @@ UWULogsData[5][1] = {
         ["points"] = 9868.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6407,
+        ["rank_raids"] = 6408,
         ["kill_count"] = 4,
-        ["points"] = 7628.9,
+        ["points"] = 7628.6,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 134,
@@ -36767,9 +36767,9 @@ UWULogsData[5][1] = {
         ["points"] = 9420.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1234,
+        ["rank_raids"] = 1235,
         ["kill_count"] = 7,
-        ["points"] = 9257.4,
+        ["points"] = 9257.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1897,
@@ -36782,14 +36782,14 @@ UWULogsData[5][1] = {
         ["points"] = 8797.7,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4019,
+        ["rank_raids"] = 4020,
         ["kill_count"] = 5,
-        ["points"] = 8345.3,
+        ["points"] = 8345.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8966,
+        ["rank_raids"] = 8967,
         ["kill_count"] = 7,
-        ["points"] = 6861.2,
+        ["points"] = 6860.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3991,
@@ -36809,9 +36809,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 648,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6975,
+        ["rank_raids"] = 6976,
         ["kill_count"] = 11,
-        ["points"] = 7458.5,
+        ["points"] = 7458.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3080,
@@ -36824,9 +36824,9 @@ UWULogsData[5][1] = {
         ["points"] = 8447.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1500,
+        ["rank_raids"] = 1501,
         ["kill_count"] = 8,
-        ["points"] = 9151.0,
+        ["points"] = 9150.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2330,
@@ -36844,9 +36844,9 @@ UWULogsData[5][1] = {
         ["points"] = 9359.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1994,
+        ["rank_raids"] = 1995,
         ["kill_count"] = 11,
-        ["points"] = 8953.4,
+        ["points"] = 8953.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3097,
@@ -36881,9 +36881,9 @@ UWULogsData[5][1] = {
         ["points"] = 9037.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2618,
+        ["rank_raids"] = 2619,
         ["kill_count"] = 10,
-        ["points"] = 8765.6,
+        ["points"] = 8765.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 412,
@@ -36901,9 +36901,9 @@ UWULogsData[5][1] = {
         ["points"] = 8843.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7475,
+        ["rank_raids"] = 7476,
         ["kill_count"] = 12,
-        ["points"] = 7308.5,
+        ["points"] = 7308.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2814,
@@ -36911,9 +36911,9 @@ UWULogsData[5][1] = {
         ["points"] = 8706.8,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5590,
+        ["rank_raids"] = 5591,
         ["kill_count"] = 8,
-        ["points"] = 7874.0,
+        ["points"] = 7873.7,
       },
     },
   },
@@ -36923,9 +36923,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 650,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 4863,
+        ["rank_raids"] = 4864,
         ["kill_count"] = 6,
-        ["points"] = 8092.1,
+        ["points"] = 8091.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4527,
@@ -36933,14 +36933,14 @@ UWULogsData[5][1] = {
         ["points"] = 8192.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4111,
+        ["rank_raids"] = 4113,
         ["kill_count"] = 8,
-        ["points"] = 8317.7,
+        ["points"] = 8317.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1963,
+        ["rank_raids"] = 1964,
         ["kill_count"] = 6,
-        ["points"] = 8965.8,
+        ["points"] = 8965.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1718,
@@ -36958,9 +36958,9 @@ UWULogsData[5][1] = {
         ["points"] = 8827.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 769,
+        ["rank_raids"] = 770,
         ["kill_count"] = 7,
-        ["points"] = 9466.5,
+        ["points"] = 9466.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4045,
@@ -36995,14 +36995,14 @@ UWULogsData[5][1] = {
         ["points"] = 8763.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2499,
+        ["rank_raids"] = 2500,
         ["kill_count"] = 9,
-        ["points"] = 8801.3,
+        ["points"] = 8801.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8893,
+        ["rank_raids"] = 8895,
         ["kill_count"] = 8,
-        ["points"] = 6883.1,
+        ["points"] = 6882.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3871,
@@ -37015,9 +37015,9 @@ UWULogsData[5][1] = {
         ["points"] = 9877.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6279,
+        ["rank_raids"] = 6280,
         ["kill_count"] = 10,
-        ["points"] = 7667.3,
+        ["points"] = 7667.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3191,
@@ -37052,9 +37052,9 @@ UWULogsData[5][1] = {
         ["points"] = 8811.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2840,
+        ["rank_raids"] = 2841,
         ["kill_count"] = 10,
-        ["points"] = 8699.0,
+        ["points"] = 8698.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2147,
@@ -37067,14 +37067,14 @@ UWULogsData[5][1] = {
         ["points"] = 8671.7,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 13357,
+        ["rank_raids"] = 13358,
         ["kill_count"] = 13,
-        ["points"] = 6215.3,
+        ["points"] = 6215.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1399,
+        ["rank_raids"] = 1400,
         ["kill_count"] = 17,
-        ["points"] = 9191.4,
+        ["points"] = 9191.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1619,
@@ -37109,9 +37109,9 @@ UWULogsData[5][1] = {
         ["points"] = 9063.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1744,
+        ["rank_raids"] = 1745,
         ["kill_count"] = 6,
-        ["points"] = 9053.4,
+        ["points"] = 9053.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2383,
@@ -37124,14 +37124,14 @@ UWULogsData[5][1] = {
         ["points"] = 9143.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7087,
+        ["rank_raids"] = 7088,
         ["kill_count"] = 1,
-        ["points"] = 7424.9,
+        ["points"] = 7424.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7012,
+        ["rank_raids"] = 7013,
         ["kill_count"] = 5,
-        ["points"] = 7447.4,
+        ["points"] = 7447.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 857,
@@ -37166,9 +37166,9 @@ UWULogsData[5][1] = {
         ["points"] = 8678.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1418,
+        ["rank_raids"] = 1419,
         ["kill_count"] = 7,
-        ["points"] = 9183.8,
+        ["points"] = 9183.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2659,
@@ -37186,9 +37186,9 @@ UWULogsData[5][1] = {
         ["points"] = 9238.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3218,
+        ["rank_raids"] = 3219,
         ["kill_count"] = 9,
-        ["points"] = 8585.6,
+        ["points"] = 8585.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3504,
@@ -37223,14 +37223,14 @@ UWULogsData[5][1] = {
         ["points"] = 8773.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2572,
+        ["rank_raids"] = 2573,
         ["kill_count"] = 4,
-        ["points"] = 8779.4,
+        ["points"] = 8779.1,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6046,
+        ["rank_raids"] = 6048,
         ["kill_count"] = 3,
-        ["points"] = 7737.2,
+        ["points"] = 7736.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3278,
@@ -37243,9 +37243,9 @@ UWULogsData[5][1] = {
         ["points"] = 9315.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4273,
+        ["rank_raids"] = 4274,
         ["kill_count"] = 5,
-        ["points"] = 8269.1,
+        ["points"] = 8268.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1590,
@@ -37280,9 +37280,9 @@ UWULogsData[5][1] = {
         ["points"] = 8997.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4771,
+        ["rank_raids"] = 4772,
         ["kill_count"] = 7,
-        ["points"] = 8119.7,
+        ["points"] = 8119.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3058,
@@ -37300,9 +37300,9 @@ UWULogsData[5][1] = {
         ["points"] = 9408.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5247,
+        ["rank_raids"] = 5248,
         ["kill_count"] = 12,
-        ["points"] = 7976.9,
+        ["points"] = 7976.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3613,
@@ -37337,9 +37337,9 @@ UWULogsData[5][1] = {
         ["points"] = 8748.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 9404,
+        ["rank_raids"] = 9405,
         ["kill_count"] = 6,
-        ["points"] = 6729.8,
+        ["points"] = 6729.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1154,
@@ -37352,14 +37352,14 @@ UWULogsData[5][1] = {
         ["points"] = 9043.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3936,
+        ["rank_raids"] = 3937,
         ["kill_count"] = 8,
-        ["points"] = 8370.2,
+        ["points"] = 8369.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4023,
+        ["rank_raids"] = 4024,
         ["kill_count"] = 8,
-        ["points"] = 8344.1,
+        ["points"] = 8343.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6953,
@@ -37394,14 +37394,14 @@ UWULogsData[5][1] = {
         ["points"] = 8729.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1541,
+        ["rank_raids"] = 1542,
         ["kill_count"] = 8,
-        ["points"] = 9134.6,
+        ["points"] = 9134.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6290,
+        ["rank_raids"] = 6292,
         ["kill_count"] = 5,
-        ["points"] = 7664.0,
+        ["points"] = 7663.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2494,
@@ -37409,14 +37409,14 @@ UWULogsData[5][1] = {
         ["points"] = 8802.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3013,
+        ["rank_raids"] = 3014,
         ["kill_count"] = 8,
-        ["points"] = 8647.1,
+        ["points"] = 8646.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5835,
+        ["rank_raids"] = 5836,
         ["kill_count"] = 8,
-        ["points"] = 7800.5,
+        ["points"] = 7800.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3215,
@@ -37451,14 +37451,14 @@ UWULogsData[5][1] = {
         ["points"] = 8631.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4793,
+        ["rank_raids"] = 4794,
         ["kill_count"] = 4,
-        ["points"] = 8113.1,
+        ["points"] = 8112.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4728,
+        ["rank_raids"] = 4729,
         ["kill_count"] = 3,
-        ["points"] = 8132.6,
+        ["points"] = 8132.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2071,
@@ -37466,14 +37466,14 @@ UWULogsData[5][1] = {
         ["points"] = 8929.7,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3173,
+        ["rank_raids"] = 3174,
         ["kill_count"] = 3,
-        ["points"] = 8599.1,
+        ["points"] = 8598.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4217,
+        ["rank_raids"] = 4218,
         ["kill_count"] = 7,
-        ["points"] = 8285.9,
+        ["points"] = 8285.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2410,
@@ -37508,9 +37508,9 @@ UWULogsData[5][1] = {
         ["points"] = 8711.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3271,
+        ["rank_raids"] = 3272,
         ["kill_count"] = 3,
-        ["points"] = 8569.7,
+        ["points"] = 8569.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1591,
@@ -37518,9 +37518,9 @@ UWULogsData[5][1] = {
         ["points"] = 9114.6,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 7431,
+        ["rank_raids"] = 7432,
         ["kill_count"] = 4,
-        ["points"] = 7321.7,
+        ["points"] = 7321.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 441,
@@ -37528,9 +37528,9 @@ UWULogsData[5][1] = {
         ["points"] = 9636.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3074,
+        ["rank_raids"] = 3075,
         ["kill_count"] = 4,
-        ["points"] = 8628.8,
+        ["points"] = 8628.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 26,
@@ -37538,9 +37538,9 @@ UWULogsData[5][1] = {
         ["points"] = 9975.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8239,
+        ["rank_raids"] = 8240,
         ["kill_count"] = 4,
-        ["points"] = 7079.3,
+        ["points"] = 7079.0,
       },
     },
   },
@@ -37565,14 +37565,14 @@ UWULogsData[5][1] = {
         ["points"] = 9029.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3038,
+        ["rank_raids"] = 3039,
         ["kill_count"] = 8,
-        ["points"] = 8639.6,
+        ["points"] = 8639.3,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5282,
+        ["rank_raids"] = 5283,
         ["kill_count"] = 5,
-        ["points"] = 7966.4,
+        ["points"] = 7966.1,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1706,
@@ -37585,9 +37585,9 @@ UWULogsData[5][1] = {
         ["points"] = 9226.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3856,
+        ["rank_raids"] = 3857,
         ["kill_count"] = 10,
-        ["points"] = 8394.2,
+        ["points"] = 8393.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2073,
@@ -37622,19 +37622,19 @@ UWULogsData[5][1] = {
         ["points"] = 9294.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4603,
+        ["rank_raids"] = 4604,
         ["kill_count"] = 6,
-        ["points"] = 8170.1,
+        ["points"] = 8169.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5992,
+        ["rank_raids"] = 5993,
         ["kill_count"] = 3,
-        ["points"] = 7753.4,
+        ["points"] = 7753.1,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8460,
+        ["rank_raids"] = 8461,
         ["kill_count"] = 4,
-        ["points"] = 7013.0,
+        ["points"] = 7012.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 919,
@@ -37642,9 +37642,9 @@ UWULogsData[5][1] = {
         ["points"] = 9391.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1678,
+        ["rank_raids"] = 1679,
         ["kill_count"] = 6,
-        ["points"] = 9079.8,
+        ["points"] = 9079.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2415,
@@ -37679,9 +37679,9 @@ UWULogsData[5][1] = {
         ["points"] = 8913.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5559,
+        ["rank_raids"] = 5560,
         ["kill_count"] = 12,
-        ["points"] = 7883.3,
+        ["points"] = 7883.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2627,
@@ -37699,9 +37699,9 @@ UWULogsData[5][1] = {
         ["points"] = 9215.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5814,
+        ["rank_raids"] = 5815,
         ["kill_count"] = 24,
-        ["points"] = 7806.8,
+        ["points"] = 7806.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4435,
@@ -37736,9 +37736,9 @@ UWULogsData[5][1] = {
         ["points"] = 9292.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1450,
+        ["rank_raids"] = 1451,
         ["kill_count"] = 9,
-        ["points"] = 9171.0,
+        ["points"] = 9170.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1062,
@@ -37756,9 +37756,9 @@ UWULogsData[5][1] = {
         ["points"] = 9686.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4996,
+        ["rank_raids"] = 4997,
         ["kill_count"] = 13,
-        ["points"] = 8052.2,
+        ["points"] = 8051.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4024,
@@ -37766,9 +37766,9 @@ UWULogsData[5][1] = {
         ["points"] = 8343.8,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8451,
+        ["rank_raids"] = 8452,
         ["kill_count"] = 6,
-        ["points"] = 7015.7,
+        ["points"] = 7015.4,
       },
     },
   },
@@ -37793,9 +37793,9 @@ UWULogsData[5][1] = {
         ["points"] = 8662.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5211,
+        ["rank_raids"] = 5212,
         ["kill_count"] = 21,
-        ["points"] = 7987.7,
+        ["points"] = 7987.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2689,
@@ -37808,14 +37808,14 @@ UWULogsData[5][1] = {
         ["points"] = 8138.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5875,
+        ["rank_raids"] = 5876,
         ["kill_count"] = 25,
-        ["points"] = 7788.5,
+        ["points"] = 7788.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4949,
+        ["rank_raids"] = 4950,
         ["kill_count"] = 23,
-        ["points"] = 8066.3,
+        ["points"] = 8066.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1070,
@@ -37830,7 +37830,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Simbelmini"] = {
-    ["percentile"] = 86.49,
+    ["percentile"] = 86.48,
     ["server"] = "Icecrown",
     ["overall_rank"] = 666,
     ["bosses"] = {
@@ -37845,14 +37845,14 @@ UWULogsData[5][1] = {
         ["points"] = 9562.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7067,
+        ["rank_raids"] = 7070,
         ["kill_count"] = 1,
-        ["points"] = 7430.9,
+        ["points"] = 7430.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 10610,
+        ["rank_raids"] = 10611,
         ["kill_count"] = 4,
-        ["points"] = 6490.0,
+        ["points"] = 6489.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1469,
@@ -37870,9 +37870,9 @@ UWULogsData[5][1] = {
         ["points"] = 8963.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1255,
+        ["rank_raids"] = 1256,
         ["kill_count"] = 12,
-        ["points"] = 9249.0,
+        ["points"] = 9248.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1994,
@@ -37907,9 +37907,9 @@ UWULogsData[5][1] = {
         ["points"] = 9442.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3940,
+        ["rank_raids"] = 3941,
         ["kill_count"] = 7,
-        ["points"] = 8369.0,
+        ["points"] = 8368.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 344,
@@ -37922,14 +37922,14 @@ UWULogsData[5][1] = {
         ["points"] = 8865.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 22106,
+        ["rank_raids"] = 22108,
         ["kill_count"] = 10,
-        ["points"] = 5340.4,
+        ["points"] = 5340.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1236,
+        ["rank_raids"] = 1237,
         ["kill_count"] = 14,
-        ["points"] = 9256.6,
+        ["points"] = 9256.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1805,
@@ -37964,14 +37964,14 @@ UWULogsData[5][1] = {
         ["points"] = 8634.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2868,
+        ["rank_raids"] = 2869,
         ["kill_count"] = 7,
-        ["points"] = 8690.6,
+        ["points"] = 8690.3,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7536,
+        ["rank_raids"] = 7538,
         ["kill_count"] = 4,
-        ["points"] = 7290.2,
+        ["points"] = 7289.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1097,
@@ -37979,14 +37979,14 @@ UWULogsData[5][1] = {
         ["points"] = 9312.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4399,
+        ["rank_raids"] = 4400,
         ["kill_count"] = 7,
-        ["points"] = 8231.3,
+        ["points"] = 8231.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2233,
+        ["rank_raids"] = 2234,
         ["kill_count"] = 7,
-        ["points"] = 8881.1,
+        ["points"] = 8880.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2730,
@@ -38021,9 +38021,9 @@ UWULogsData[5][1] = {
         ["points"] = 8777.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2445,
+        ["rank_raids"] = 2446,
         ["kill_count"] = 4,
-        ["points"] = 8817.5,
+        ["points"] = 8817.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1813,
@@ -38036,14 +38036,14 @@ UWULogsData[5][1] = {
         ["points"] = 9524.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5281,
+        ["rank_raids"] = 5282,
         ["kill_count"] = 6,
-        ["points"] = 7966.7,
+        ["points"] = 7966.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2961,
+        ["rank_raids"] = 2962,
         ["kill_count"] = 7,
-        ["points"] = 8662.7,
+        ["points"] = 8662.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1734,
@@ -38078,9 +38078,9 @@ UWULogsData[5][1] = {
         ["points"] = 9518.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2356,
+        ["rank_raids"] = 2357,
         ["kill_count"] = 12,
-        ["points"] = 8844.2,
+        ["points"] = 8843.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1903,
@@ -38093,14 +38093,14 @@ UWULogsData[5][1] = {
         ["points"] = 9003.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7505,
+        ["rank_raids"] = 7506,
         ["kill_count"] = 13,
-        ["points"] = 7299.5,
+        ["points"] = 7299.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3515,
+        ["rank_raids"] = 3516,
         ["kill_count"] = 15,
-        ["points"] = 8496.5,
+        ["points"] = 8496.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4253,
@@ -38135,9 +38135,9 @@ UWULogsData[5][1] = {
         ["points"] = 9735.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5037,
+        ["rank_raids"] = 5038,
         ["kill_count"] = 2,
-        ["points"] = 8039.9,
+        ["points"] = 8039.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1014,
@@ -38155,9 +38155,9 @@ UWULogsData[5][1] = {
         ["points"] = 9902.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 12510,
+        ["rank_raids"] = 12511,
         ["kill_count"] = 2,
-        ["points"] = 6300.0,
+        ["points"] = 6299.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5776,
@@ -38165,9 +38165,9 @@ UWULogsData[5][1] = {
         ["points"] = 7818.2,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5512,
+        ["rank_raids"] = 5513,
         ["kill_count"] = 1,
-        ["points"] = 7897.4,
+        ["points"] = 7897.1,
       },
     },
   },
@@ -38192,9 +38192,9 @@ UWULogsData[5][1] = {
         ["points"] = 9674.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 8297,
+        ["rank_raids"] = 8298,
         ["kill_count"] = 6,
-        ["points"] = 7061.9,
+        ["points"] = 7061.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 382,
@@ -38202,9 +38202,9 @@ UWULogsData[5][1] = {
         ["points"] = 9673.6,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 7441,
+        ["rank_raids"] = 7442,
         ["kill_count"] = 3,
-        ["points"] = 7318.7,
+        ["points"] = 7318.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1554,
@@ -38212,9 +38212,9 @@ UWULogsData[5][1] = {
         ["points"] = 9129.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2546,
+        ["rank_raids"] = 2547,
         ["kill_count"] = 7,
-        ["points"] = 8787.2,
+        ["points"] = 8786.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 784,
@@ -38222,9 +38222,9 @@ UWULogsData[5][1] = {
         ["points"] = 9459.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6352,
+        ["rank_raids"] = 6353,
         ["kill_count"] = 2,
-        ["points"] = 7645.4,
+        ["points"] = 7645.1,
       },
     },
   },
@@ -38234,9 +38234,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 673,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5604,
+        ["rank_raids"] = 5605,
         ["kill_count"] = 2,
-        ["points"] = 7869.8,
+        ["points"] = 7869.5,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 257,
@@ -38244,29 +38244,29 @@ UWULogsData[5][1] = {
         ["points"] = 9765.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 13719,
+        ["rank_raids"] = 13724,
         ["kill_count"] = 1,
-        ["points"] = 6179.1,
+        ["points"] = 6178.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 231,
+        ["rank_raids"] = 232,
         ["kill_count"] = 4,
-        ["points"] = 9786.2,
+        ["points"] = 9785.4,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5131,
+        ["rank_raids"] = 5132,
         ["kill_count"] = 5,
-        ["points"] = 8011.7,
+        ["points"] = 8011.4,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 7122,
+        ["rank_raids"] = 7123,
         ["kill_count"] = 4,
-        ["points"] = 7414.4,
+        ["points"] = 7414.1,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5503,
+        ["rank_raids"] = 5504,
         ["kill_count"] = 6,
-        ["points"] = 7900.1,
+        ["points"] = 7899.8,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 47,
@@ -38301,19 +38301,19 @@ UWULogsData[5][1] = {
         ["points"] = 8768.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7028,
+        ["rank_raids"] = 7031,
         ["kill_count"] = 3,
-        ["points"] = 7442.6,
+        ["points"] = 7441.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3459,
+        ["rank_raids"] = 3460,
         ["kill_count"] = 6,
-        ["points"] = 8513.3,
+        ["points"] = 8513.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4029,
+        ["rank_raids"] = 4030,
         ["kill_count"] = 4,
-        ["points"] = 8342.3,
+        ["points"] = 8342.0,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5878,
@@ -38326,9 +38326,9 @@ UWULogsData[5][1] = {
         ["points"] = 9804.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 720,
+        ["rank_raids"] = 721,
         ["kill_count"] = 7,
-        ["points"] = 9491.0,
+        ["points"] = 9490.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2131,
@@ -38348,9 +38348,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 675,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 16789,
+        ["rank_raids"] = 16792,
         ["kill_count"] = 15,
-        ["points"] = 5872.1,
+        ["points"] = 5871.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3146,
@@ -38363,9 +38363,9 @@ UWULogsData[5][1] = {
         ["points"] = 9071.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4137,
+        ["rank_raids"] = 4138,
         ["kill_count"] = 23,
-        ["points"] = 8309.9,
+        ["points"] = 8309.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3457,
@@ -38383,9 +38383,9 @@ UWULogsData[5][1] = {
         ["points"] = 9856.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5055,
+        ["rank_raids"] = 5056,
         ["kill_count"] = 28,
-        ["points"] = 8034.5,
+        ["points"] = 8034.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2107,
@@ -38415,14 +38415,14 @@ UWULogsData[5][1] = {
         ["points"] = 7962.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6373,
+        ["rank_raids"] = 6376,
         ["kill_count"] = 2,
-        ["points"] = 7639.1,
+        ["points"] = 7638.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5896,
+        ["rank_raids"] = 5897,
         ["kill_count"] = 4,
-        ["points"] = 7782.2,
+        ["points"] = 7781.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 740,
@@ -38440,9 +38440,9 @@ UWULogsData[5][1] = {
         ["points"] = 9931.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1574,
+        ["rank_raids"] = 1575,
         ["kill_count"] = 4,
-        ["points"] = 9121.4,
+        ["points"] = 9121.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7186,
@@ -38457,14 +38457,14 @@ UWULogsData[5][1] = {
     },
   },
   ["Lineicka"] = {
-    ["percentile"] = 86.33,
+    ["percentile"] = 86.32,
     ["server"] = "Icecrown",
     ["overall_rank"] = 677,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9238,
+        ["rank_raids"] = 9241,
         ["kill_count"] = 10,
-        ["points"] = 6779.6,
+        ["points"] = 6778.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3530,
@@ -38477,9 +38477,9 @@ UWULogsData[5][1] = {
         ["points"] = 9255.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1591,
+        ["rank_raids"] = 1592,
         ["kill_count"] = 9,
-        ["points"] = 9114.6,
+        ["points"] = 9114.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1391,
@@ -38497,9 +38497,9 @@ UWULogsData[5][1] = {
         ["points"] = 9896.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2485,
+        ["rank_raids"] = 2486,
         ["kill_count"] = 11,
-        ["points"] = 8805.5,
+        ["points"] = 8805.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6860,
@@ -38534,14 +38534,14 @@ UWULogsData[5][1] = {
         ["points"] = 9370.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5774,
+        ["rank_raids"] = 5775,
         ["kill_count"] = 1,
-        ["points"] = 7818.8,
+        ["points"] = 7818.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5781,
+        ["rank_raids"] = 5782,
         ["kill_count"] = 1,
-        ["points"] = 7816.7,
+        ["points"] = 7816.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 663,
@@ -38554,9 +38554,9 @@ UWULogsData[5][1] = {
         ["points"] = 9772.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8795,
+        ["rank_raids"] = 8796,
         ["kill_count"] = 2,
-        ["points"] = 6912.5,
+        ["points"] = 6912.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4710,
@@ -38591,14 +38591,14 @@ UWULogsData[5][1] = {
         ["points"] = 9675.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2035,
+        ["rank_raids"] = 2036,
         ["kill_count"] = 11,
-        ["points"] = 8940.5,
+        ["points"] = 8940.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5225,
+        ["rank_raids"] = 5226,
         ["kill_count"] = 12,
-        ["points"] = 7983.5,
+        ["points"] = 7983.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 987,
@@ -38606,14 +38606,14 @@ UWULogsData[5][1] = {
         ["points"] = 9357.5,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 20545,
+        ["rank_raids"] = 20546,
         ["kill_count"] = 10,
-        ["points"] = 5496.5,
+        ["points"] = 5496.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1481,
+        ["rank_raids"] = 1482,
         ["kill_count"] = 11,
-        ["points"] = 9158.6,
+        ["points"] = 9158.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 581,
@@ -38648,9 +38648,9 @@ UWULogsData[5][1] = {
         ["points"] = 8783.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3945,
+        ["rank_raids"] = 3946,
         ["kill_count"] = 13,
-        ["points"] = 8367.5,
+        ["points"] = 8367.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 754,
@@ -38663,14 +38663,14 @@ UWULogsData[5][1] = {
         ["points"] = 9013.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 2990,
+        ["rank_raids"] = 2991,
         ["kill_count"] = 10,
-        ["points"] = 8654.0,
+        ["points"] = 8653.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7496,
+        ["rank_raids"] = 7497,
         ["kill_count"] = 16,
-        ["points"] = 7302.2,
+        ["points"] = 7301.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5472,
@@ -38678,9 +38678,9 @@ UWULogsData[5][1] = {
         ["points"] = 7909.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4533,
+        ["rank_raids"] = 4534,
         ["kill_count"] = 14,
-        ["points"] = 8191.1,
+        ["points"] = 8190.8,
       },
     },
   },
@@ -38690,9 +38690,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 681,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5569,
+        ["rank_raids"] = 5570,
         ["kill_count"] = 5,
-        ["points"] = 7880.3,
+        ["points"] = 7880.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3388,
@@ -38705,14 +38705,14 @@ UWULogsData[5][1] = {
         ["points"] = 8580.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1550,
+        ["rank_raids"] = 1551,
         ["kill_count"] = 10,
-        ["points"] = 9131.0,
+        ["points"] = 9130.6,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5249,
+        ["rank_raids"] = 5250,
         ["kill_count"] = 4,
-        ["points"] = 7976.3,
+        ["points"] = 7976.0,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 448,
@@ -38725,9 +38725,9 @@ UWULogsData[5][1] = {
         ["points"] = 9589.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8573,
+        ["rank_raids"] = 8574,
         ["kill_count"] = 7,
-        ["points"] = 6979.1,
+        ["points"] = 6978.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 959,
@@ -38762,9 +38762,9 @@ UWULogsData[5][1] = {
         ["points"] = 8519.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2777,
+        ["rank_raids"] = 2778,
         ["kill_count"] = 2,
-        ["points"] = 8717.9,
+        ["points"] = 8717.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2733,
@@ -38777,14 +38777,14 @@ UWULogsData[5][1] = {
         ["points"] = 7823.9,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6310,
+        ["rank_raids"] = 6311,
         ["kill_count"] = 1,
-        ["points"] = 7658.0,
+        ["points"] = 7657.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5471,
+        ["rank_raids"] = 5472,
         ["kill_count"] = 2,
-        ["points"] = 7909.7,
+        ["points"] = 7909.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1050,
@@ -38814,14 +38814,14 @@ UWULogsData[5][1] = {
         ["points"] = 8774.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4679,
+        ["rank_raids"] = 4681,
         ["kill_count"] = 3,
-        ["points"] = 8147.3,
+        ["points"] = 8146.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4881,
+        ["rank_raids"] = 4882,
         ["kill_count"] = 6,
-        ["points"] = 8086.7,
+        ["points"] = 8086.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3411,
@@ -38839,9 +38839,9 @@ UWULogsData[5][1] = {
         ["points"] = 9724.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2591,
+        ["rank_raids"] = 2592,
         ["kill_count"] = 7,
-        ["points"] = 8773.7,
+        ["points"] = 8773.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4246,
@@ -38849,9 +38849,9 @@ UWULogsData[5][1] = {
         ["points"] = 8277.2,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4326,
+        ["rank_raids"] = 4327,
         ["kill_count"] = 8,
-        ["points"] = 8253.2,
+        ["points"] = 8252.9,
       },
     },
   },
@@ -38861,9 +38861,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 684,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 16051,
+        ["rank_raids"] = 16054,
         ["kill_count"] = 4,
-        ["points"] = 5945.9,
+        ["points"] = 5945.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 567,
@@ -38876,14 +38876,14 @@ UWULogsData[5][1] = {
         ["points"] = 9347.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 755,
+        ["rank_raids"] = 756,
         ["kill_count"] = 13,
-        ["points"] = 9473.5,
+        ["points"] = 9473.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4272,
+        ["rank_raids"] = 4273,
         ["kill_count"] = 12,
-        ["points"] = 8269.4,
+        ["points"] = 8269.1,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4638,
@@ -38896,9 +38896,9 @@ UWULogsData[5][1] = {
         ["points"] = 9094.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4133,
+        ["rank_raids"] = 4134,
         ["kill_count"] = 15,
-        ["points"] = 8311.1,
+        ["points"] = 8310.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1192,
@@ -38933,9 +38933,9 @@ UWULogsData[5][1] = {
         ["points"] = 8710.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3835,
+        ["rank_raids"] = 3836,
         ["kill_count"] = 7,
-        ["points"] = 8400.5,
+        ["points"] = 8400.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1288,
@@ -38953,14 +38953,14 @@ UWULogsData[5][1] = {
         ["points"] = 9597.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3498,
+        ["rank_raids"] = 3499,
         ["kill_count"] = 8,
-        ["points"] = 8501.6,
+        ["points"] = 8501.3,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 12405,
+        ["rank_raids"] = 12406,
         ["kill_count"] = 5,
-        ["points"] = 6310.5,
+        ["points"] = 6310.4,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1776,
@@ -38990,14 +38990,14 @@ UWULogsData[5][1] = {
         ["points"] = 9034.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 9672,
+        ["rank_raids"] = 9673,
         ["kill_count"] = 7,
-        ["points"] = 6649.4,
+        ["points"] = 6649.1,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4184,
+        ["rank_raids"] = 4185,
         ["kill_count"] = 8,
-        ["points"] = 8295.8,
+        ["points"] = 8295.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2516,
@@ -39010,9 +39010,9 @@ UWULogsData[5][1] = {
         ["points"] = 9198.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4039,
+        ["rank_raids"] = 4040,
         ["kill_count"] = 16,
-        ["points"] = 8339.3,
+        ["points"] = 8339.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1162,
@@ -39047,14 +39047,14 @@ UWULogsData[5][1] = {
         ["points"] = 9373.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1727,
+        ["rank_raids"] = 1728,
         ["kill_count"] = 13,
-        ["points"] = 9060.2,
+        ["points"] = 9059.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4411,
+        ["rank_raids"] = 4412,
         ["kill_count"] = 14,
-        ["points"] = 8227.7,
+        ["points"] = 8227.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2277,
@@ -39062,14 +39062,14 @@ UWULogsData[5][1] = {
         ["points"] = 8867.9,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3666,
+        ["rank_raids"] = 3667,
         ["kill_count"] = 16,
-        ["points"] = 8451.2,
+        ["points"] = 8450.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7799,
+        ["rank_raids"] = 7800,
         ["kill_count"] = 14,
-        ["points"] = 7211.3,
+        ["points"] = 7211.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2033,
@@ -39077,9 +39077,9 @@ UWULogsData[5][1] = {
         ["points"] = 8941.1,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6634,
+        ["rank_raids"] = 6635,
         ["kill_count"] = 2,
-        ["points"] = 7560.8,
+        ["points"] = 7560.5,
       },
     },
   },
@@ -39089,9 +39089,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 688,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5624,
+        ["rank_raids"] = 5625,
         ["kill_count"] = 3,
-        ["points"] = 7863.8,
+        ["points"] = 7863.5,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1428,
@@ -39104,9 +39104,9 @@ UWULogsData[5][1] = {
         ["points"] = 9130.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3126,
+        ["rank_raids"] = 3127,
         ["kill_count"] = 2,
-        ["points"] = 8613.2,
+        ["points"] = 8612.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1526,
@@ -39119,14 +39119,14 @@ UWULogsData[5][1] = {
         ["points"] = 8382.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3242,
+        ["rank_raids"] = 3243,
         ["kill_count"] = 3,
-        ["points"] = 8578.4,
+        ["points"] = 8578.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4482,
+        ["rank_raids"] = 4483,
         ["kill_count"] = 5,
-        ["points"] = 8206.4,
+        ["points"] = 8206.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5437,
@@ -39161,14 +39161,14 @@ UWULogsData[5][1] = {
         ["points"] = 8945.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1613,
+        ["rank_raids"] = 1614,
         ["kill_count"] = 6,
-        ["points"] = 9105.8,
+        ["points"] = 9105.4,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6706,
+        ["rank_raids"] = 6708,
         ["kill_count"] = 7,
-        ["points"] = 7539.2,
+        ["points"] = 7538.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1811,
@@ -39181,9 +39181,9 @@ UWULogsData[5][1] = {
         ["points"] = 9485.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8710,
+        ["rank_raids"] = 8711,
         ["kill_count"] = 7,
-        ["points"] = 6938.0,
+        ["points"] = 6937.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3987,
@@ -39218,9 +39218,9 @@ UWULogsData[5][1] = {
         ["points"] = 8935.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2590,
+        ["rank_raids"] = 2591,
         ["kill_count"] = 5,
-        ["points"] = 8774.0,
+        ["points"] = 8773.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3318,
@@ -39233,14 +39233,14 @@ UWULogsData[5][1] = {
         ["points"] = 7613.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3249,
+        ["rank_raids"] = 3250,
         ["kill_count"] = 7,
-        ["points"] = 8576.3,
+        ["points"] = 8576.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3107,
+        ["rank_raids"] = 3108,
         ["kill_count"] = 7,
-        ["points"] = 8618.9,
+        ["points"] = 8618.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3600,
@@ -39260,9 +39260,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 691,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 17829,
+        ["rank_raids"] = 17832,
         ["kill_count"] = 3,
-        ["points"] = 5768.1,
+        ["points"] = 5767.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1237,
@@ -39275,9 +39275,9 @@ UWULogsData[5][1] = {
         ["points"] = 8447.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2231,
+        ["rank_raids"] = 2232,
         ["kill_count"] = 9,
-        ["points"] = 8881.7,
+        ["points"] = 8881.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2899,
@@ -39295,9 +39295,9 @@ UWULogsData[5][1] = {
         ["points"] = 9661.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6815,
+        ["rank_raids"] = 6816,
         ["kill_count"] = 4,
-        ["points"] = 7506.5,
+        ["points"] = 7506.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 928,
@@ -39312,7 +39312,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Blendzior"] = {
-    ["percentile"] = 86.17,
+    ["percentile"] = 86.16,
     ["server"] = "Icecrown",
     ["overall_rank"] = 692,
     ["bosses"] = {
@@ -39327,14 +39327,14 @@ UWULogsData[5][1] = {
         ["points"] = 8616.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10132,
+        ["rank_raids"] = 10136,
         ["kill_count"] = 3,
-        ["points"] = 6537.8,
+        ["points"] = 6537.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1290,
+        ["rank_raids"] = 1291,
         ["kill_count"] = 8,
-        ["points"] = 9235.0,
+        ["points"] = 9234.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1598,
@@ -39352,9 +39352,9 @@ UWULogsData[5][1] = {
         ["points"] = 9282.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2738,
+        ["rank_raids"] = 2739,
         ["kill_count"] = 16,
-        ["points"] = 8729.6,
+        ["points"] = 8729.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1733,
@@ -39374,9 +39374,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 693,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6285,
+        ["rank_raids"] = 6286,
         ["kill_count"] = 3,
-        ["points"] = 7665.5,
+        ["points"] = 7665.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 823,
@@ -39389,14 +39389,14 @@ UWULogsData[5][1] = {
         ["points"] = 8867.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 614,
+        ["rank_raids"] = 615,
         ["kill_count"] = 3,
-        ["points"] = 9544.0,
+        ["points"] = 9543.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 12625,
+        ["rank_raids"] = 12627,
         ["kill_count"] = 3,
-        ["points"] = 6288.5,
+        ["points"] = 6288.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2038,
@@ -39404,14 +39404,14 @@ UWULogsData[5][1] = {
         ["points"] = 8939.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6531,
+        ["rank_raids"] = 6532,
         ["kill_count"] = 3,
-        ["points"] = 7591.7,
+        ["points"] = 7591.4,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 280,
         ["kill_count"] = 3,
-        ["points"] = 9751.54,
+        ["points"] = 9751.58,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4445,
@@ -39441,19 +39441,19 @@ UWULogsData[5][1] = {
         ["points"] = 6716.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4599,
+        ["rank_raids"] = 4601,
         ["kill_count"] = 4,
-        ["points"] = 8171.3,
+        ["points"] = 8170.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 491,
+        ["rank_raids"] = 492,
         ["kill_count"] = 4,
-        ["points"] = 9606.4,
+        ["points"] = 9605.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9108,
+        ["rank_raids"] = 9110,
         ["kill_count"] = 4,
-        ["points"] = 6818.6,
+        ["points"] = 6818.0,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 284,
@@ -39461,9 +39461,9 @@ UWULogsData[5][1] = {
         ["points"] = 9743.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 13413,
+        ["rank_raids"] = 13414,
         ["kill_count"] = 3,
-        ["points"] = 6209.7,
+        ["points"] = 6209.6,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 121,
@@ -39503,14 +39503,14 @@ UWULogsData[5][1] = {
         ["points"] = 9084.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2460,
+        ["rank_raids"] = 2461,
         ["kill_count"] = 7,
-        ["points"] = 8813.0,
+        ["points"] = 8812.7,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5486,
+        ["rank_raids"] = 5487,
         ["kill_count"] = 5,
-        ["points"] = 7905.2,
+        ["points"] = 7904.9,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3295,
@@ -39518,14 +39518,14 @@ UWULogsData[5][1] = {
         ["points"] = 8562.5,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5637,
+        ["rank_raids"] = 5638,
         ["kill_count"] = 10,
-        ["points"] = 7859.9,
+        ["points"] = 7859.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2555,
+        ["rank_raids"] = 2556,
         ["kill_count"] = 9,
-        ["points"] = 8784.5,
+        ["points"] = 8784.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 113,
@@ -39533,9 +39533,9 @@ UWULogsData[5][1] = {
         ["points"] = 9889.3,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 9554,
+        ["rank_raids"] = 9555,
         ["kill_count"] = 7,
-        ["points"] = 6684.8,
+        ["points"] = 6684.5,
       },
     },
   },
@@ -39555,14 +39555,14 @@ UWULogsData[5][1] = {
         ["points"] = 9266.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4896,
+        ["rank_raids"] = 4898,
         ["kill_count"] = 7,
-        ["points"] = 8082.2,
+        ["points"] = 8081.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1082,
+        ["rank_raids"] = 1083,
         ["kill_count"] = 9,
-        ["points"] = 9318.2,
+        ["points"] = 9317.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 611,
@@ -39570,19 +39570,19 @@ UWULogsData[5][1] = {
         ["points"] = 9545.5,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 14705,
+        ["rank_raids"] = 14706,
         ["kill_count"] = 3,
-        ["points"] = 6080.5,
+        ["points"] = 6080.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5297,
+        ["rank_raids"] = 5298,
         ["kill_count"] = 11,
-        ["points"] = 7961.9,
+        ["points"] = 7961.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 623,
+        ["rank_raids"] = 624,
         ["kill_count"] = 9,
-        ["points"] = 9539.5,
+        ["points"] = 9539.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4532,
@@ -39602,9 +39602,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 697,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7902,
+        ["rank_raids"] = 7904,
         ["kill_count"] = 7,
-        ["points"] = 7180.4,
+        ["points"] = 7179.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1963,
@@ -39617,9 +39617,9 @@ UWULogsData[5][1] = {
         ["points"] = 9179.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1210,
+        ["rank_raids"] = 1211,
         ["kill_count"] = 16,
-        ["points"] = 9267.0,
+        ["points"] = 9266.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2734,
@@ -39637,9 +39637,9 @@ UWULogsData[5][1] = {
         ["points"] = 9320.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3345,
+        ["rank_raids"] = 3346,
         ["kill_count"] = 25,
-        ["points"] = 8547.5,
+        ["points"] = 8547.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5100,
@@ -39653,67 +39653,10 @@ UWULogsData[5][1] = {
       },
     },
   },
-  ["Supersister"] = {
-    ["percentile"] = 86.07,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 698,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9745,
-        ["kill_count"] = 1,
-        ["points"] = 6627.5,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 6119,
-        ["kill_count"] = 4,
-        ["points"] = 7715.3,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1093,
-        ["kill_count"] = 2,
-        ["points"] = 9313.8,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 333,
-        ["kill_count"] = 9,
-        ["points"] = 9707.9,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 1886,
-        ["kill_count"] = 10,
-        ["points"] = 8996.6,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 415,
-        ["kill_count"] = 17,
-        ["points"] = 9652.0,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 8560,
-        ["kill_count"] = 12,
-        ["points"] = 6983.0,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1885,
-        ["kill_count"] = 13,
-        ["points"] = 8997.0,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 656,
-        ["kill_count"] = 9,
-        ["points"] = 9523.0,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 3330,
-        ["kill_count"] = 25,
-        ["points"] = 8552.0,
-      },
-    },
-  },
   ["Bjarc"] = {
     ["percentile"] = 86.07,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 699,
+    ["overall_rank"] = 698,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 93,
@@ -39731,14 +39674,14 @@ UWULogsData[5][1] = {
         ["points"] = 9010.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 9403,
+        ["rank_raids"] = 9404,
         ["kill_count"] = 3,
-        ["points"] = 6730.1,
+        ["points"] = 6729.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4382,
+        ["rank_raids"] = 4383,
         ["kill_count"] = 3,
-        ["points"] = 8236.4,
+        ["points"] = 8236.1,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 796,
@@ -39746,14 +39689,14 @@ UWULogsData[5][1] = {
         ["points"] = 9453.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4655,
+        ["rank_raids"] = 4656,
         ["kill_count"] = 3,
-        ["points"] = 8154.5,
+        ["points"] = 8154.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1007,
+        ["rank_raids"] = 1008,
         ["kill_count"] = 3,
-        ["points"] = 9348.2,
+        ["points"] = 9347.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6266,
@@ -39767,8 +39710,65 @@ UWULogsData[5][1] = {
       },
     },
   },
+  ["Supersister"] = {
+    ["percentile"] = 86.07,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 699,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 9748,
+        ["kill_count"] = 1,
+        ["points"] = 6626.6,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 6119,
+        ["kill_count"] = 4,
+        ["points"] = 7715.3,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 1093,
+        ["kill_count"] = 2,
+        ["points"] = 9313.8,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 334,
+        ["kill_count"] = 9,
+        ["points"] = 9707.2,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 1886,
+        ["kill_count"] = 10,
+        ["points"] = 8996.6,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 415,
+        ["kill_count"] = 17,
+        ["points"] = 9652.0,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 8561,
+        ["kill_count"] = 12,
+        ["points"] = 6982.7,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 1886,
+        ["kill_count"] = 13,
+        ["points"] = 8996.6,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 656,
+        ["kill_count"] = 9,
+        ["points"] = 9523.0,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 3330,
+        ["kill_count"] = 25,
+        ["points"] = 8552.0,
+      },
+    },
+  },
   ["Holymed"] = {
-    ["percentile"] = 86.06,
+    ["percentile"] = 86.05,
     ["server"] = "Icecrown",
     ["overall_rank"] = 700,
     ["bosses"] = {
@@ -39788,14 +39788,14 @@ UWULogsData[5][1] = {
         ["points"] = 8689.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1246,
+        ["rank_raids"] = 1247,
         ["kill_count"] = 6,
-        ["points"] = 9252.6,
+        ["points"] = 9252.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9839,
+        ["rank_raids"] = 9841,
         ["kill_count"] = 2,
-        ["points"] = 6599.3,
+        ["points"] = 6598.7,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1156,
@@ -39803,14 +39803,14 @@ UWULogsData[5][1] = {
         ["points"] = 9288.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4192,
+        ["rank_raids"] = 4193,
         ["kill_count"] = 2,
-        ["points"] = 8293.4,
+        ["points"] = 8293.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1262,
+        ["rank_raids"] = 1263,
         ["kill_count"] = 9,
-        ["points"] = 9246.2,
+        ["points"] = 9245.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4903,
@@ -39840,19 +39840,19 @@ UWULogsData[5][1] = {
         ["points"] = 9177.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6404,
+        ["rank_raids"] = 6407,
         ["kill_count"] = 2,
-        ["points"] = 7629.8,
+        ["points"] = 7628.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3752,
+        ["rank_raids"] = 3753,
         ["kill_count"] = 7,
-        ["points"] = 8425.4,
+        ["points"] = 8425.1,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5927,
+        ["rank_raids"] = 5928,
         ["kill_count"] = 5,
-        ["points"] = 7772.9,
+        ["points"] = 7772.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4111,
@@ -39865,9 +39865,9 @@ UWULogsData[5][1] = {
         ["points"] = 8938.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 624,
+        ["rank_raids"] = 625,
         ["kill_count"] = 7,
-        ["points"] = 9539.0,
+        ["points"] = 9538.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2610,
@@ -39887,9 +39887,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 702,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 15378,
+        ["rank_raids"] = 15381,
         ["kill_count"] = 3,
-        ["points"] = 6013.2,
+        ["points"] = 6012.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 570,
@@ -39897,14 +39897,14 @@ UWULogsData[5][1] = {
         ["points"] = 9566.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4824,
+        ["rank_raids"] = 4826,
         ["kill_count"] = 2,
-        ["points"] = 8103.8,
+        ["points"] = 8103.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3505,
+        ["rank_raids"] = 3506,
         ["kill_count"] = 6,
-        ["points"] = 8499.5,
+        ["points"] = 8499.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 967,
@@ -39917,14 +39917,14 @@ UWULogsData[5][1] = {
         ["points"] = 8976.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5286,
+        ["rank_raids"] = 5287,
         ["kill_count"] = 9,
-        ["points"] = 7965.2,
+        ["points"] = 7964.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2709,
+        ["rank_raids"] = 2710,
         ["kill_count"] = 7,
-        ["points"] = 8738.3,
+        ["points"] = 8738.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 746,
@@ -39959,9 +39959,9 @@ UWULogsData[5][1] = {
         ["points"] = 8639.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1563,
+        ["rank_raids"] = 1564,
         ["kill_count"] = 13,
-        ["points"] = 9125.8,
+        ["points"] = 9125.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2408,
@@ -39979,9 +39979,9 @@ UWULogsData[5][1] = {
         ["points"] = 9190.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2013,
+        ["rank_raids"] = 2014,
         ["kill_count"] = 15,
-        ["points"] = 8947.1,
+        ["points"] = 8946.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7335,
@@ -40001,9 +40001,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 704,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 11628,
+        ["rank_raids"] = 11631,
         ["kill_count"] = 1,
-        ["points"] = 6388.2,
+        ["points"] = 6387.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2726,
@@ -40011,14 +40011,14 @@ UWULogsData[5][1] = {
         ["points"] = 8733.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6992,
+        ["rank_raids"] = 6995,
         ["kill_count"] = 2,
-        ["points"] = 7453.4,
+        ["points"] = 7452.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1912,
+        ["rank_raids"] = 1913,
         ["kill_count"] = 3,
-        ["points"] = 8986.2,
+        ["points"] = 8985.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1380,
@@ -40036,9 +40036,9 @@ UWULogsData[5][1] = {
         ["points"] = 9261.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4458,
+        ["rank_raids"] = 4459,
         ["kill_count"] = 3,
-        ["points"] = 8213.6,
+        ["points"] = 8213.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2260,
@@ -40073,14 +40073,14 @@ UWULogsData[5][1] = {
         ["points"] = 8619.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 9510,
+        ["rank_raids"] = 9511,
         ["kill_count"] = 15,
-        ["points"] = 6698.0,
+        ["points"] = 6697.7,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8952,
+        ["rank_raids"] = 8954,
         ["kill_count"] = 14,
-        ["points"] = 6865.4,
+        ["points"] = 6864.8,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 188,
@@ -40088,14 +40088,14 @@ UWULogsData[5][1] = {
         ["points"] = 9821.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 8399,
+        ["rank_raids"] = 8400,
         ["kill_count"] = 21,
-        ["points"] = 7031.3,
+        ["points"] = 7031.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1332,
+        ["rank_raids"] = 1333,
         ["kill_count"] = 22,
-        ["points"] = 9218.2,
+        ["points"] = 9217.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2972,
@@ -40115,9 +40115,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 706,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8113,
+        ["rank_raids"] = 8116,
         ["kill_count"] = 3,
-        ["points"] = 7117.1,
+        ["points"] = 7116.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 454,
@@ -40125,19 +40125,19 @@ UWULogsData[5][1] = {
         ["points"] = 9628.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 13584,
+        ["rank_raids"] = 13589,
         ["kill_count"] = 2,
-        ["points"] = 6192.6,
+        ["points"] = 6192.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 449,
+        ["rank_raids"] = 450,
         ["kill_count"] = 3,
-        ["points"] = 9631.6,
+        ["points"] = 9631.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 11369,
+        ["rank_raids"] = 11371,
         ["kill_count"] = 3,
-        ["points"] = 6414.1,
+        ["points"] = 6413.9,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 378,
@@ -40145,9 +40145,9 @@ UWULogsData[5][1] = {
         ["points"] = 9676.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4867,
+        ["rank_raids"] = 4868,
         ["kill_count"] = 3,
-        ["points"] = 8090.9,
+        ["points"] = 8090.6,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 68,
@@ -40172,9 +40172,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 707,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5231,
+        ["rank_raids"] = 5232,
         ["kill_count"] = 6,
-        ["points"] = 7981.7,
+        ["points"] = 7981.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1888,
@@ -40187,9 +40187,9 @@ UWULogsData[5][1] = {
         ["points"] = 8735.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1590,
+        ["rank_raids"] = 1591,
         ["kill_count"] = 6,
-        ["points"] = 9115.0,
+        ["points"] = 9114.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2766,
@@ -40207,9 +40207,9 @@ UWULogsData[5][1] = {
         ["points"] = 8903.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4161,
+        ["rank_raids"] = 4162,
         ["kill_count"] = 5,
-        ["points"] = 8302.7,
+        ["points"] = 8302.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6240,
@@ -40244,9 +40244,9 @@ UWULogsData[5][1] = {
         ["points"] = 9181.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5110,
+        ["rank_raids"] = 5111,
         ["kill_count"] = 16,
-        ["points"] = 8018.0,
+        ["points"] = 8017.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1097,
@@ -40264,9 +40264,9 @@ UWULogsData[5][1] = {
         ["points"] = 8870.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3421,
+        ["rank_raids"] = 3422,
         ["kill_count"] = 29,
-        ["points"] = 8524.7,
+        ["points"] = 8524.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3550,
@@ -40274,9 +40274,9 @@ UWULogsData[5][1] = {
         ["points"] = 8486.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 11658,
+        ["rank_raids"] = 11659,
         ["kill_count"] = 18,
-        ["points"] = 6385.2,
+        ["points"] = 6385.1,
       },
     },
   },
@@ -40301,14 +40301,14 @@ UWULogsData[5][1] = {
         ["points"] = 8774.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2705,
+        ["rank_raids"] = 2706,
         ["kill_count"] = 2,
-        ["points"] = 8739.5,
+        ["points"] = 8739.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5471,
+        ["rank_raids"] = 5472,
         ["kill_count"] = 2,
-        ["points"] = 7909.7,
+        ["points"] = 7909.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3244,
@@ -40326,9 +40326,9 @@ UWULogsData[5][1] = {
         ["points"] = 9574.5,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 14736,
+        ["rank_raids"] = 14737,
         ["kill_count"] = 1,
-        ["points"] = 6077.4,
+        ["points"] = 6077.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 402,
@@ -40343,9 +40343,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 710,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 11236,
+        ["rank_raids"] = 11239,
         ["kill_count"] = 19,
-        ["points"] = 6427.4,
+        ["points"] = 6427.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3082,
@@ -40358,9 +40358,9 @@ UWULogsData[5][1] = {
         ["points"] = 9566.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1388,
+        ["rank_raids"] = 1389,
         ["kill_count"] = 19,
-        ["points"] = 9195.8,
+        ["points"] = 9195.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2540,
@@ -40378,9 +40378,9 @@ UWULogsData[5][1] = {
         ["points"] = 8840.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3276,
+        ["rank_raids"] = 3277,
         ["kill_count"] = 30,
-        ["points"] = 8568.2,
+        ["points"] = 8567.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2193,
@@ -40388,9 +40388,9 @@ UWULogsData[5][1] = {
         ["points"] = 8893.1,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5217,
+        ["rank_raids"] = 5218,
         ["kill_count"] = 19,
-        ["points"] = 7985.9,
+        ["points"] = 7985.6,
       },
     },
   },
@@ -40415,9 +40415,9 @@ UWULogsData[5][1] = {
         ["points"] = 8761.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5635,
+        ["rank_raids"] = 5636,
         ["kill_count"] = 4,
-        ["points"] = 7860.5,
+        ["points"] = 7860.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1286,
@@ -40435,9 +40435,9 @@ UWULogsData[5][1] = {
         ["points"] = 8726.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4639,
+        ["rank_raids"] = 4640,
         ["kill_count"] = 5,
-        ["points"] = 8159.3,
+        ["points"] = 8159.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3792,
@@ -40445,21 +40445,21 @@ UWULogsData[5][1] = {
         ["points"] = 8413.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4589,
+        ["rank_raids"] = 4590,
         ["kill_count"] = 5,
-        ["points"] = 8174.3,
+        ["points"] = 8174.0,
       },
     },
   },
   ["Creamistry"] = {
-    ["percentile"] = 85.95,
+    ["percentile"] = 85.94,
     ["server"] = "Icecrown",
     ["overall_rank"] = 712,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 16773,
+        ["rank_raids"] = 16776,
         ["kill_count"] = 2,
-        ["points"] = 5873.7,
+        ["points"] = 5873.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3349,
@@ -40472,9 +40472,9 @@ UWULogsData[5][1] = {
         ["points"] = 8935.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1427,
+        ["rank_raids"] = 1428,
         ["kill_count"] = 6,
-        ["points"] = 9180.2,
+        ["points"] = 9179.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1363,
@@ -40492,9 +40492,9 @@ UWULogsData[5][1] = {
         ["points"] = 9947.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5355,
+        ["rank_raids"] = 5356,
         ["kill_count"] = 6,
-        ["points"] = 7944.5,
+        ["points"] = 7944.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1965,
@@ -40502,9 +40502,9 @@ UWULogsData[5][1] = {
         ["points"] = 8965.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4709,
+        ["rank_raids"] = 4710,
         ["kill_count"] = 7,
-        ["points"] = 8138.3,
+        ["points"] = 8138.0,
       },
     },
   },
@@ -40529,9 +40529,9 @@ UWULogsData[5][1] = {
         ["points"] = 9360.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1752,
+        ["rank_raids"] = 1753,
         ["kill_count"] = 1,
-        ["points"] = 9050.2,
+        ["points"] = 9049.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3248,
@@ -40549,9 +40549,9 @@ UWULogsData[5][1] = {
         ["points"] = 9120.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7305,
+        ["rank_raids"] = 7306,
         ["kill_count"] = 3,
-        ["points"] = 7359.5,
+        ["points"] = 7359.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3995,
@@ -40586,9 +40586,9 @@ UWULogsData[5][1] = {
         ["points"] = 9755.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 313,
+        ["rank_raids"] = 314,
         ["kill_count"] = 6,
-        ["points"] = 9721.9,
+        ["points"] = 9721.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 766,
@@ -40601,14 +40601,14 @@ UWULogsData[5][1] = {
         ["points"] = 8310.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3035,
+        ["rank_raids"] = 3036,
         ["kill_count"] = 8,
-        ["points"] = 8640.5,
+        ["points"] = 8640.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1211,
+        ["rank_raids"] = 1212,
         ["kill_count"] = 8,
-        ["points"] = 9266.6,
+        ["points"] = 9266.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 8829,
@@ -40616,9 +40616,9 @@ UWULogsData[5][1] = {
         ["points"] = 6902.3,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8549,
+        ["rank_raids"] = 8550,
         ["kill_count"] = 1,
-        ["points"] = 6986.3,
+        ["points"] = 6986.0,
       },
     },
   },
@@ -40638,9 +40638,9 @@ UWULogsData[5][1] = {
         ["points"] = 9840.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4554,
+        ["rank_raids"] = 4556,
         ["kill_count"] = 2,
-        ["points"] = 8184.8,
+        ["points"] = 8184.2,
       },
       ["Festergut"] = {
         ["rank_raids"] = 47,
@@ -40680,9 +40680,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 716,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 4792,
+        ["rank_raids"] = 4793,
         ["kill_count"] = 8,
-        ["points"] = 8113.4,
+        ["points"] = 8113.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 813,
@@ -40690,14 +40690,14 @@ UWULogsData[5][1] = {
         ["points"] = 9444.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5058,
+        ["rank_raids"] = 5060,
         ["kill_count"] = 6,
-        ["points"] = 8033.6,
+        ["points"] = 8033.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2784,
+        ["rank_raids"] = 2785,
         ["kill_count"] = 14,
-        ["points"] = 8715.8,
+        ["points"] = 8715.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 301,
@@ -40705,9 +40705,9 @@ UWULogsData[5][1] = {
         ["points"] = 9730.3,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8540,
+        ["rank_raids"] = 8541,
         ["kill_count"] = 1,
-        ["points"] = 6989.0,
+        ["points"] = 6988.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 497,
@@ -40715,9 +40715,9 @@ UWULogsData[5][1] = {
         ["points"] = 9602.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 858,
+        ["rank_raids"] = 859,
         ["kill_count"] = 14,
-        ["points"] = 9422.0,
+        ["points"] = 9421.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2952,
@@ -40725,9 +40725,9 @@ UWULogsData[5][1] = {
         ["points"] = 8665.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7834,
+        ["rank_raids"] = 7835,
         ["kill_count"] = 11,
-        ["points"] = 7200.8,
+        ["points"] = 7200.5,
       },
     },
   },
@@ -40752,9 +40752,9 @@ UWULogsData[5][1] = {
         ["points"] = 8693.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3338,
+        ["rank_raids"] = 3339,
         ["kill_count"] = 7,
-        ["points"] = 8549.6,
+        ["points"] = 8549.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1000,
@@ -40762,9 +40762,9 @@ UWULogsData[5][1] = {
         ["points"] = 9351.0,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 10915,
+        ["rank_raids"] = 10916,
         ["kill_count"] = 5,
-        ["points"] = 6459.5,
+        ["points"] = 6459.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1190,
@@ -40772,9 +40772,9 @@ UWULogsData[5][1] = {
         ["points"] = 9275.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6870,
+        ["rank_raids"] = 6871,
         ["kill_count"] = 8,
-        ["points"] = 7490.0,
+        ["points"] = 7489.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1369,
@@ -40794,9 +40794,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 718,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7379,
+        ["rank_raids"] = 7381,
         ["kill_count"] = 5,
-        ["points"] = 7337.3,
+        ["points"] = 7336.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2648,
@@ -40809,9 +40809,9 @@ UWULogsData[5][1] = {
         ["points"] = 8615.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7270,
+        ["rank_raids"] = 7271,
         ["kill_count"] = 4,
-        ["points"] = 7370.0,
+        ["points"] = 7369.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 85,
@@ -40829,9 +40829,9 @@ UWULogsData[5][1] = {
         ["points"] = 8866.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6202,
+        ["rank_raids"] = 6203,
         ["kill_count"] = 9,
-        ["points"] = 7690.4,
+        ["points"] = 7690.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1759,
@@ -40866,9 +40866,9 @@ UWULogsData[5][1] = {
         ["points"] = 9556.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5342,
+        ["rank_raids"] = 5343,
         ["kill_count"] = 5,
-        ["points"] = 7948.4,
+        ["points"] = 7948.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2892,
@@ -40886,9 +40886,9 @@ UWULogsData[5][1] = {
         ["points"] = 9126.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4973,
+        ["rank_raids"] = 4974,
         ["kill_count"] = 9,
-        ["points"] = 8059.1,
+        ["points"] = 8058.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4385,
@@ -40896,9 +40896,9 @@ UWULogsData[5][1] = {
         ["points"] = 8235.5,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5437,
+        ["rank_raids"] = 5438,
         ["kill_count"] = 8,
-        ["points"] = 7919.9,
+        ["points"] = 7919.6,
       },
     },
   },
@@ -40918,14 +40918,14 @@ UWULogsData[5][1] = {
         ["points"] = 8491.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3894,
+        ["rank_raids"] = 3895,
         ["kill_count"] = 3,
-        ["points"] = 8382.8,
+        ["points"] = 8382.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1924,
+        ["rank_raids"] = 1925,
         ["kill_count"] = 5,
-        ["points"] = 8981.4,
+        ["points"] = 8981.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1252,
@@ -40943,9 +40943,9 @@ UWULogsData[5][1] = {
         ["points"] = 9317.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 10838,
+        ["rank_raids"] = 10839,
         ["kill_count"] = 7,
-        ["points"] = 6467.2,
+        ["points"] = 6467.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3192,
@@ -40953,9 +40953,9 @@ UWULogsData[5][1] = {
         ["points"] = 8593.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5954,
+        ["rank_raids"] = 5955,
         ["kill_count"] = 6,
-        ["points"] = 7764.8,
+        ["points"] = 7764.5,
       },
     },
   },
@@ -40980,9 +40980,9 @@ UWULogsData[5][1] = {
         ["points"] = 8595.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1826,
+        ["rank_raids"] = 1827,
         ["kill_count"] = 12,
-        ["points"] = 9020.6,
+        ["points"] = 9020.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3732,
@@ -40990,9 +40990,9 @@ UWULogsData[5][1] = {
         ["points"] = 8431.4,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8874,
+        ["rank_raids"] = 8875,
         ["kill_count"] = 3,
-        ["points"] = 6888.8,
+        ["points"] = 6888.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2632,
@@ -41002,7 +41002,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 476,
         ["kill_count"] = 11,
-        ["points"] = 9623.46,
+        ["points"] = 9623.51,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2465,
@@ -41010,9 +41010,9 @@ UWULogsData[5][1] = {
         ["points"] = 8811.5,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4780,
+        ["rank_raids"] = 4781,
         ["kill_count"] = 4,
-        ["points"] = 8117.0,
+        ["points"] = 8116.7,
       },
     },
   },
@@ -41037,9 +41037,9 @@ UWULogsData[5][1] = {
         ["points"] = 9297.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3450,
+        ["rank_raids"] = 3451,
         ["kill_count"] = 2,
-        ["points"] = 8516.0,
+        ["points"] = 8515.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 465,
@@ -41057,19 +41057,19 @@ UWULogsData[5][1] = {
         ["points"] = 9841.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4527,
+        ["rank_raids"] = 4528,
         ["kill_count"] = 4,
-        ["points"] = 8192.9,
+        ["points"] = 8192.6,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 15420,
+        ["rank_raids"] = 15421,
         ["kill_count"] = 3,
-        ["points"] = 6009.0,
+        ["points"] = 6008.9,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5524,
+        ["rank_raids"] = 5525,
         ["kill_count"] = 2,
-        ["points"] = 7893.8,
+        ["points"] = 7893.5,
       },
     },
   },
@@ -41089,14 +41089,14 @@ UWULogsData[5][1] = {
         ["points"] = 8726.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4905,
+        ["rank_raids"] = 4907,
         ["kill_count"] = 3,
-        ["points"] = 8079.5,
+        ["points"] = 8078.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2052,
+        ["rank_raids"] = 2053,
         ["kill_count"] = 4,
-        ["points"] = 8935.4,
+        ["points"] = 8935.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2139,
@@ -41114,9 +41114,9 @@ UWULogsData[5][1] = {
         ["points"] = 8809.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1153,
+        ["rank_raids"] = 1154,
         ["kill_count"] = 9,
-        ["points"] = 9289.8,
+        ["points"] = 9289.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 8879,
@@ -41136,9 +41136,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 724,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5682,
+        ["rank_raids"] = 5683,
         ["kill_count"] = 3,
-        ["points"] = 7846.4,
+        ["points"] = 7846.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1242,
@@ -41151,9 +41151,9 @@ UWULogsData[5][1] = {
         ["points"] = 8652.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1598,
+        ["rank_raids"] = 1599,
         ["kill_count"] = 2,
-        ["points"] = 9111.8,
+        ["points"] = 9111.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1769,
@@ -41171,9 +41171,9 @@ UWULogsData[5][1] = {
         ["points"] = 9554.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1504,
+        ["rank_raids"] = 1505,
         ["kill_count"] = 4,
-        ["points"] = 9149.4,
+        ["points"] = 9149.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7188,
@@ -41181,9 +41181,9 @@ UWULogsData[5][1] = {
         ["points"] = 7394.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8490,
+        ["rank_raids"] = 8491,
         ["kill_count"] = 4,
-        ["points"] = 7004.0,
+        ["points"] = 7003.7,
       },
     },
   },
@@ -41208,14 +41208,14 @@ UWULogsData[5][1] = {
         ["points"] = 8696.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2930,
+        ["rank_raids"] = 2931,
         ["kill_count"] = 7,
-        ["points"] = 8672.0,
+        ["points"] = 8671.7,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4370,
+        ["rank_raids"] = 4371,
         ["kill_count"] = 9,
-        ["points"] = 8240.0,
+        ["points"] = 8239.7,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 795,
@@ -41223,14 +41223,14 @@ UWULogsData[5][1] = {
         ["points"] = 9453.5,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 19800,
+        ["rank_raids"] = 19801,
         ["kill_count"] = 5,
-        ["points"] = 5571.0,
+        ["points"] = 5570.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2295,
+        ["rank_raids"] = 2296,
         ["kill_count"] = 8,
-        ["points"] = 8862.5,
+        ["points"] = 8862.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1143,
@@ -41265,9 +41265,9 @@ UWULogsData[5][1] = {
         ["points"] = 9341.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2661,
+        ["rank_raids"] = 2662,
         ["kill_count"] = 5,
-        ["points"] = 8752.7,
+        ["points"] = 8752.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3095,
@@ -41285,9 +41285,9 @@ UWULogsData[5][1] = {
         ["points"] = 9675.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 10940,
+        ["rank_raids"] = 10941,
         ["kill_count"] = 7,
-        ["points"] = 6457.0,
+        ["points"] = 6456.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3527,
@@ -41295,9 +41295,9 @@ UWULogsData[5][1] = {
         ["points"] = 8492.9,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7419,
+        ["rank_raids"] = 7420,
         ["kill_count"] = 3,
-        ["points"] = 7325.3,
+        ["points"] = 7325.0,
       },
     },
   },
@@ -41322,9 +41322,9 @@ UWULogsData[5][1] = {
         ["points"] = 8929.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5530,
+        ["rank_raids"] = 5531,
         ["kill_count"] = 6,
-        ["points"] = 7892.0,
+        ["points"] = 7891.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1780,
@@ -41342,9 +41342,9 @@ UWULogsData[5][1] = {
         ["points"] = 8698.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6512,
+        ["rank_raids"] = 6513,
         ["kill_count"] = 6,
-        ["points"] = 7597.4,
+        ["points"] = 7597.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2477,
@@ -41364,9 +41364,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 728,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6732,
+        ["rank_raids"] = 6733,
         ["kill_count"] = 1,
-        ["points"] = 7531.4,
+        ["points"] = 7531.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 221,
@@ -41374,19 +41374,19 @@ UWULogsData[5][1] = {
         ["points"] = 9794.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 11727,
+        ["rank_raids"] = 11732,
         ["kill_count"] = 1,
-        ["points"] = 6378.3,
+        ["points"] = 6377.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 488,
+        ["rank_raids"] = 489,
         ["kill_count"] = 1,
-        ["points"] = 9608.2,
+        ["points"] = 9607.6,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 13174,
+        ["rank_raids"] = 13176,
         ["kill_count"] = 1,
-        ["points"] = 6233.6,
+        ["points"] = 6233.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 439,
@@ -41394,14 +41394,14 @@ UWULogsData[5][1] = {
         ["points"] = 9637.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6979,
+        ["rank_raids"] = 6980,
         ["kill_count"] = 1,
-        ["points"] = 7457.3,
+        ["points"] = 7457.0,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 340,
         ["kill_count"] = 1,
-        ["points"] = 9709.88,
+        ["points"] = 9709.92,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 162,
@@ -41436,14 +41436,14 @@ UWULogsData[5][1] = {
         ["points"] = 8567.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6862,
+        ["rank_raids"] = 6863,
         ["kill_count"] = 10,
-        ["points"] = 7492.4,
+        ["points"] = 7492.1,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9805,
+        ["rank_raids"] = 9807,
         ["kill_count"] = 14,
-        ["points"] = 6609.5,
+        ["points"] = 6608.9,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 98,
@@ -41451,14 +41451,14 @@ UWULogsData[5][1] = {
         ["points"] = 9903.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 16491,
+        ["rank_raids"] = 16492,
         ["kill_count"] = 19,
-        ["points"] = 5901.9,
+        ["points"] = 5901.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2076,
+        ["rank_raids"] = 2077,
         ["kill_count"] = 19,
-        ["points"] = 8928.2,
+        ["points"] = 8927.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 423,
@@ -41478,9 +41478,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 730,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9004,
+        ["rank_raids"] = 9007,
         ["kill_count"] = 1,
-        ["points"] = 6849.8,
+        ["points"] = 6848.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5111,
@@ -41493,9 +41493,9 @@ UWULogsData[5][1] = {
         ["points"] = 9591.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5335,
+        ["rank_raids"] = 5336,
         ["kill_count"] = 3,
-        ["points"] = 7950.5,
+        ["points"] = 7950.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 534,
@@ -41508,14 +41508,14 @@ UWULogsData[5][1] = {
         ["points"] = 7472.3,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7486,
+        ["rank_raids"] = 7487,
         ["kill_count"] = 4,
-        ["points"] = 7305.2,
+        ["points"] = 7304.9,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 485,
         ["kill_count"] = 5,
-        ["points"] = 9618.83,
+        ["points"] = 9618.89,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 204,
@@ -41550,14 +41550,14 @@ UWULogsData[5][1] = {
         ["points"] = 8922.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3366,
+        ["rank_raids"] = 3367,
         ["kill_count"] = 10,
-        ["points"] = 8541.2,
+        ["points"] = 8540.9,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6618,
+        ["rank_raids"] = 6620,
         ["kill_count"] = 9,
-        ["points"] = 7565.6,
+        ["points"] = 7565.0,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 183,
@@ -41570,9 +41570,9 @@ UWULogsData[5][1] = {
         ["points"] = 9116.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2720,
+        ["rank_raids"] = 2721,
         ["kill_count"] = 16,
-        ["points"] = 8735.0,
+        ["points"] = 8734.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7746,
@@ -41580,9 +41580,9 @@ UWULogsData[5][1] = {
         ["points"] = 7227.2,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5171,
+        ["rank_raids"] = 5172,
         ["kill_count"] = 8,
-        ["points"] = 7999.7,
+        ["points"] = 7999.4,
       },
     },
   },
@@ -41607,9 +41607,9 @@ UWULogsData[5][1] = {
         ["points"] = 8717.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1160,
+        ["rank_raids"] = 1161,
         ["kill_count"] = 9,
-        ["points"] = 9287.0,
+        ["points"] = 9286.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3840,
@@ -41622,14 +41622,14 @@ UWULogsData[5][1] = {
         ["points"] = 7887.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6146,
+        ["rank_raids"] = 6147,
         ["kill_count"] = 13,
-        ["points"] = 7707.2,
+        ["points"] = 7706.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2806,
+        ["rank_raids"] = 2807,
         ["kill_count"] = 14,
-        ["points"] = 8709.2,
+        ["points"] = 8708.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1061,
@@ -41637,9 +41637,9 @@ UWULogsData[5][1] = {
         ["points"] = 9326.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5619,
+        ["rank_raids"] = 5620,
         ["kill_count"] = 8,
-        ["points"] = 7865.3,
+        ["points"] = 7865.0,
       },
     },
   },
@@ -41664,9 +41664,9 @@ UWULogsData[5][1] = {
         ["points"] = 9596.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3071,
+        ["rank_raids"] = 3072,
         ["kill_count"] = 2,
-        ["points"] = 8629.7,
+        ["points"] = 8629.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2836,
@@ -41679,14 +41679,14 @@ UWULogsData[5][1] = {
         ["points"] = 9191.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5137,
+        ["rank_raids"] = 5138,
         ["kill_count"] = 3,
-        ["points"] = 8009.9,
+        ["points"] = 8009.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4887,
+        ["rank_raids"] = 4888,
         ["kill_count"] = 6,
-        ["points"] = 8084.9,
+        ["points"] = 8084.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 8077,
@@ -41721,9 +41721,9 @@ UWULogsData[5][1] = {
         ["points"] = 9611.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4229,
+        ["rank_raids"] = 4230,
         ["kill_count"] = 18,
-        ["points"] = 8282.3,
+        ["points"] = 8282.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1630,
@@ -41741,9 +41741,9 @@ UWULogsData[5][1] = {
         ["points"] = 9273.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2127,
+        ["rank_raids"] = 2128,
         ["kill_count"] = 23,
-        ["points"] = 8912.9,
+        ["points"] = 8912.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7755,
@@ -41751,9 +41751,9 @@ UWULogsData[5][1] = {
         ["points"] = 7224.5,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5502,
+        ["rank_raids"] = 5503,
         ["kill_count"] = 18,
-        ["points"] = 7900.4,
+        ["points"] = 7900.1,
       },
     },
   },
@@ -41773,14 +41773,14 @@ UWULogsData[5][1] = {
         ["points"] = 8284.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4236,
+        ["rank_raids"] = 4238,
         ["kill_count"] = 8,
-        ["points"] = 8280.2,
+        ["points"] = 8279.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 227,
+        ["rank_raids"] = 228,
         ["kill_count"] = 10,
-        ["points"] = 9789.4,
+        ["points"] = 9788.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 647,
@@ -41793,14 +41793,14 @@ UWULogsData[5][1] = {
         ["points"] = 7835.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4355,
+        ["rank_raids"] = 4356,
         ["kill_count"] = 6,
-        ["points"] = 8244.5,
+        ["points"] = 8244.2,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 439,
         ["kill_count"] = 8,
-        ["points"] = 9645.06,
+        ["points"] = 9645.12,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4160,
@@ -41808,9 +41808,9 @@ UWULogsData[5][1] = {
         ["points"] = 8303.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7751,
+        ["rank_raids"] = 7752,
         ["kill_count"] = 1,
-        ["points"] = 7225.7,
+        ["points"] = 7225.4,
       },
     },
   },
@@ -41820,9 +41820,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 736,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7845,
+        ["rank_raids"] = 7847,
         ["kill_count"] = 7,
-        ["points"] = 7197.5,
+        ["points"] = 7196.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 11410,
@@ -41835,9 +41835,9 @@ UWULogsData[5][1] = {
         ["points"] = 9149.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1632,
+        ["rank_raids"] = 1633,
         ["kill_count"] = 7,
-        ["points"] = 9098.2,
+        ["points"] = 9097.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2478,
@@ -41857,7 +41857,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 278,
         ["kill_count"] = 8,
-        ["points"] = 9754.63,
+        ["points"] = 9754.67,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6885,
@@ -41887,14 +41887,14 @@ UWULogsData[5][1] = {
         ["points"] = 9015.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3816,
+        ["rank_raids"] = 3817,
         ["kill_count"] = 12,
-        ["points"] = 8406.2,
+        ["points"] = 8405.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4760,
+        ["rank_raids"] = 4761,
         ["kill_count"] = 14,
-        ["points"] = 8123.0,
+        ["points"] = 8122.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1773,
@@ -41912,9 +41912,9 @@ UWULogsData[5][1] = {
         ["points"] = 9057.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 966,
+        ["rank_raids"] = 967,
         ["kill_count"] = 18,
-        ["points"] = 9368.0,
+        ["points"] = 9367.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 9180,
@@ -41929,14 +41929,14 @@ UWULogsData[5][1] = {
     },
   },
   ["Prayers"] = {
-    ["percentile"] = 85.74,
+    ["percentile"] = 85.73,
     ["server"] = "Icecrown",
     ["overall_rank"] = 738,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 18504,
+        ["rank_raids"] = 18507,
         ["kill_count"] = 5,
-        ["points"] = 5700.6,
+        ["points"] = 5700.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1311,
@@ -41949,9 +41949,9 @@ UWULogsData[5][1] = {
         ["points"] = 9305.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 923,
+        ["rank_raids"] = 924,
         ["kill_count"] = 3,
-        ["points"] = 9389.5,
+        ["points"] = 9389.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1040,
@@ -41964,14 +41964,14 @@ UWULogsData[5][1] = {
         ["points"] = 9389.5,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6411,
+        ["rank_raids"] = 6412,
         ["kill_count"] = 6,
-        ["points"] = 7627.7,
+        ["points"] = 7627.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3942,
+        ["rank_raids"] = 3943,
         ["kill_count"] = 7,
-        ["points"] = 8368.4,
+        ["points"] = 8368.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4463,
@@ -41991,9 +41991,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 739,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10340,
+        ["rank_raids"] = 10343,
         ["kill_count"] = 1,
-        ["points"] = 6517.0,
+        ["points"] = 6516.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 601,
@@ -42001,9 +42001,9 @@ UWULogsData[5][1] = {
         ["points"] = 9550.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 13239,
+        ["rank_raids"] = 13244,
         ["kill_count"] = 3,
-        ["points"] = 6227.1,
+        ["points"] = 6226.6,
       },
       ["Festergut"] = {
         ["rank_raids"] = 120,
@@ -42011,9 +42011,9 @@ UWULogsData[5][1] = {
         ["points"] = 9883.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 12483,
+        ["rank_raids"] = 12485,
         ["kill_count"] = 4,
-        ["points"] = 6302.7,
+        ["points"] = 6302.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2537,
@@ -42028,7 +42028,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 281,
         ["kill_count"] = 4,
-        ["points"] = 9750.0,
+        ["points"] = 9750.04,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 200,
@@ -42048,9 +42048,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 740,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7328,
+        ["rank_raids"] = 7330,
         ["kill_count"] = 6,
-        ["points"] = 7352.6,
+        ["points"] = 7352.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2765,
@@ -42063,9 +42063,9 @@ UWULogsData[5][1] = {
         ["points"] = 9759.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2493,
+        ["rank_raids"] = 2494,
         ["kill_count"] = 6,
-        ["points"] = 8803.1,
+        ["points"] = 8802.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 723,
@@ -42078,14 +42078,14 @@ UWULogsData[5][1] = {
         ["points"] = 8975.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10317,
+        ["rank_raids"] = 10318,
         ["kill_count"] = 6,
-        ["points"] = 6519.3,
+        ["points"] = 6519.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5100,
+        ["rank_raids"] = 5101,
         ["kill_count"] = 6,
-        ["points"] = 8021.0,
+        ["points"] = 8020.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1392,
@@ -42105,9 +42105,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 741,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 16843,
+        ["rank_raids"] = 16846,
         ["kill_count"] = 5,
-        ["points"] = 5866.7,
+        ["points"] = 5866.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1867,
@@ -42120,14 +42120,14 @@ UWULogsData[5][1] = {
         ["points"] = 9759.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3036,
+        ["rank_raids"] = 3037,
         ["kill_count"] = 9,
-        ["points"] = 8640.2,
+        ["points"] = 8639.9,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4152,
+        ["rank_raids"] = 4153,
         ["kill_count"] = 7,
-        ["points"] = 8305.4,
+        ["points"] = 8305.1,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1612,
@@ -42140,9 +42140,9 @@ UWULogsData[5][1] = {
         ["points"] = 9496.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2935,
+        ["rank_raids"] = 2936,
         ["kill_count"] = 14,
-        ["points"] = 8670.5,
+        ["points"] = 8670.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6690,
@@ -42157,7 +42157,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Darksbubble"] = {
-    ["percentile"] = 85.65,
+    ["percentile"] = 85.64,
     ["server"] = "Icecrown",
     ["overall_rank"] = 742,
     ["bosses"] = {
@@ -42172,14 +42172,14 @@ UWULogsData[5][1] = {
         ["points"] = 7811.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6311,
+        ["rank_raids"] = 6314,
         ["kill_count"] = 12,
-        ["points"] = 7657.7,
+        ["points"] = 7656.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2368,
+        ["rank_raids"] = 2369,
         ["kill_count"] = 13,
-        ["points"] = 8840.6,
+        ["points"] = 8840.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3886,
@@ -42187,9 +42187,9 @@ UWULogsData[5][1] = {
         ["points"] = 8385.2,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 7880,
+        ["rank_raids"] = 7881,
         ["kill_count"] = 3,
-        ["points"] = 7187.0,
+        ["points"] = 7186.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1116,
@@ -42197,9 +42197,9 @@ UWULogsData[5][1] = {
         ["points"] = 9304.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3691,
+        ["rank_raids"] = 3692,
         ["kill_count"] = 13,
-        ["points"] = 8443.7,
+        ["points"] = 8443.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1478,
@@ -42234,14 +42234,14 @@ UWULogsData[5][1] = {
         ["points"] = 8548.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 724,
+        ["rank_raids"] = 725,
         ["kill_count"] = 3,
-        ["points"] = 9489.0,
+        ["points"] = 9488.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4758,
+        ["rank_raids"] = 4759,
         ["kill_count"] = 3,
-        ["points"] = 8123.6,
+        ["points"] = 8123.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4195,
@@ -42249,14 +42249,14 @@ UWULogsData[5][1] = {
         ["points"] = 8292.5,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4469,
+        ["rank_raids"] = 4470,
         ["kill_count"] = 1,
-        ["points"] = 8210.3,
+        ["points"] = 8210.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 9313,
+        ["rank_raids"] = 9314,
         ["kill_count"] = 3,
-        ["points"] = 6757.1,
+        ["points"] = 6756.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 319,
@@ -42271,7 +42271,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Splime"] = {
-    ["percentile"] = 85.64,
+    ["percentile"] = 85.63,
     ["server"] = "Icecrown",
     ["overall_rank"] = 744,
     ["bosses"] = {
@@ -42286,14 +42286,14 @@ UWULogsData[5][1] = {
         ["points"] = 8282.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4082,
+        ["rank_raids"] = 4084,
         ["kill_count"] = 2,
-        ["points"] = 8326.4,
+        ["points"] = 8325.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3278,
+        ["rank_raids"] = 3279,
         ["kill_count"] = 3,
-        ["points"] = 8567.6,
+        ["points"] = 8567.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1940,
@@ -42306,14 +42306,14 @@ UWULogsData[5][1] = {
         ["points"] = 8833.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4547,
+        ["rank_raids"] = 4548,
         ["kill_count"] = 3,
-        ["points"] = 8186.9,
+        ["points"] = 8186.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2168,
+        ["rank_raids"] = 2169,
         ["kill_count"] = 3,
-        ["points"] = 8900.6,
+        ["points"] = 8900.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1641,
@@ -42321,9 +42321,9 @@ UWULogsData[5][1] = {
         ["points"] = 9094.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5519,
+        ["rank_raids"] = 5520,
         ["kill_count"] = 1,
-        ["points"] = 7895.3,
+        ["points"] = 7895.0,
       },
     },
   },
@@ -42333,9 +42333,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 745,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7382,
+        ["rank_raids"] = 7384,
         ["kill_count"] = 8,
-        ["points"] = 7336.4,
+        ["points"] = 7335.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 951,
@@ -42343,14 +42343,14 @@ UWULogsData[5][1] = {
         ["points"] = 9375.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4237,
+        ["rank_raids"] = 4239,
         ["kill_count"] = 2,
-        ["points"] = 8279.9,
+        ["points"] = 8279.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1482,
+        ["rank_raids"] = 1483,
         ["kill_count"] = 10,
-        ["points"] = 9158.2,
+        ["points"] = 9157.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 921,
@@ -42363,14 +42363,14 @@ UWULogsData[5][1] = {
         ["points"] = 9365.5,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 20861,
+        ["rank_raids"] = 20862,
         ["kill_count"] = 3,
-        ["points"] = 5464.9,
+        ["points"] = 5464.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1759,
+        ["rank_raids"] = 1760,
         ["kill_count"] = 15,
-        ["points"] = 9047.4,
+        ["points"] = 9047.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1151,
@@ -42400,19 +42400,19 @@ UWULogsData[5][1] = {
         ["points"] = 8066.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4437,
+        ["rank_raids"] = 4439,
         ["kill_count"] = 9,
-        ["points"] = 8219.9,
+        ["points"] = 8219.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3914,
+        ["rank_raids"] = 3915,
         ["kill_count"] = 10,
-        ["points"] = 8376.8,
+        ["points"] = 8376.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4385,
+        ["rank_raids"] = 4386,
         ["kill_count"] = 14,
-        ["points"] = 8235.5,
+        ["points"] = 8235.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3733,
@@ -42425,9 +42425,9 @@ UWULogsData[5][1] = {
         ["points"] = 9248.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2394,
+        ["rank_raids"] = 2395,
         ["kill_count"] = 19,
-        ["points"] = 8832.8,
+        ["points"] = 8832.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3534,
@@ -42435,9 +42435,9 @@ UWULogsData[5][1] = {
         ["points"] = 8490.8,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5108,
+        ["rank_raids"] = 5109,
         ["kill_count"] = 16,
-        ["points"] = 8018.6,
+        ["points"] = 8018.3,
       },
     },
   },
@@ -42447,9 +42447,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 747,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 16330,
+        ["rank_raids"] = 16333,
         ["kill_count"] = 2,
-        ["points"] = 5918.0,
+        ["points"] = 5917.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1636,
@@ -42457,14 +42457,14 @@ UWULogsData[5][1] = {
         ["points"] = 9096.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 11955,
+        ["rank_raids"] = 11960,
         ["kill_count"] = 2,
-        ["points"] = 6355.5,
+        ["points"] = 6355.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 616,
+        ["rank_raids"] = 617,
         ["kill_count"] = 2,
-        ["points"] = 9543.0,
+        ["points"] = 9542.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1153,
@@ -42477,14 +42477,14 @@ UWULogsData[5][1] = {
         ["points"] = 9279.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 8667,
+        ["rank_raids"] = 8668,
         ["kill_count"] = 4,
-        ["points"] = 6950.9,
+        ["points"] = 6950.6,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 526,
         ["kill_count"] = 4,
-        ["points"] = 9592.59,
+        ["points"] = 9592.66,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 208,
@@ -42504,9 +42504,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 748,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5531,
+        ["rank_raids"] = 5532,
         ["kill_count"] = 7,
-        ["points"] = 7891.7,
+        ["points"] = 7891.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3003,
@@ -42519,9 +42519,9 @@ UWULogsData[5][1] = {
         ["points"] = 8700.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1548,
+        ["rank_raids"] = 1549,
         ["kill_count"] = 11,
-        ["points"] = 9131.8,
+        ["points"] = 9131.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2251,
@@ -42534,14 +42534,14 @@ UWULogsData[5][1] = {
         ["points"] = 8969.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4733,
+        ["rank_raids"] = 4734,
         ["kill_count"] = 12,
-        ["points"] = 8131.1,
+        ["points"] = 8130.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3596,
+        ["rank_raids"] = 3597,
         ["kill_count"] = 11,
-        ["points"] = 8472.2,
+        ["points"] = 8471.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4891,
@@ -42571,14 +42571,14 @@ UWULogsData[5][1] = {
         ["points"] = 8839.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8257,
+        ["rank_raids"] = 8261,
         ["kill_count"] = 4,
-        ["points"] = 7073.9,
+        ["points"] = 7072.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2932,
+        ["rank_raids"] = 2933,
         ["kill_count"] = 12,
-        ["points"] = 8671.4,
+        ["points"] = 8671.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3343,
@@ -42596,9 +42596,9 @@ UWULogsData[5][1] = {
         ["points"] = 9412.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3884,
+        ["rank_raids"] = 3885,
         ["kill_count"] = 15,
-        ["points"] = 8385.8,
+        ["points"] = 8385.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2553,
@@ -42606,9 +42606,9 @@ UWULogsData[5][1] = {
         ["points"] = 8785.1,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6706,
+        ["rank_raids"] = 6707,
         ["kill_count"] = 8,
-        ["points"] = 7539.2,
+        ["points"] = 7538.9,
       },
     },
   },
@@ -42633,9 +42633,9 @@ UWULogsData[5][1] = {
         ["points"] = 9226.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4462,
+        ["rank_raids"] = 4463,
         ["kill_count"] = 7,
-        ["points"] = 8212.4,
+        ["points"] = 8212.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3973,
@@ -42653,9 +42653,9 @@ UWULogsData[5][1] = {
         ["points"] = 9274.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7845,
+        ["rank_raids"] = 7846,
         ["kill_count"] = 7,
-        ["points"] = 7197.5,
+        ["points"] = 7197.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3169,
@@ -42663,9 +42663,9 @@ UWULogsData[5][1] = {
         ["points"] = 8600.3,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4216,
+        ["rank_raids"] = 4217,
         ["kill_count"] = 10,
-        ["points"] = 8286.2,
+        ["points"] = 8285.9,
       },
     },
   },
@@ -42675,9 +42675,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 751,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 17222,
+        ["rank_raids"] = 17225,
         ["kill_count"] = 4,
-        ["points"] = 5828.8,
+        ["points"] = 5828.5,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4613,
@@ -42690,9 +42690,9 @@ UWULogsData[5][1] = {
         ["points"] = 9080.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1587,
+        ["rank_raids"] = 1588,
         ["kill_count"] = 12,
-        ["points"] = 9116.2,
+        ["points"] = 9115.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2211,
@@ -42710,9 +42710,9 @@ UWULogsData[5][1] = {
         ["points"] = 9707.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2683,
+        ["rank_raids"] = 2684,
         ["kill_count"] = 16,
-        ["points"] = 8746.1,
+        ["points"] = 8745.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1880,
@@ -42732,9 +42732,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 752,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5647,
+        ["rank_raids"] = 5648,
         ["kill_count"] = 5,
-        ["points"] = 7856.9,
+        ["points"] = 7856.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5563,
@@ -42747,9 +42747,9 @@ UWULogsData[5][1] = {
         ["points"] = 9245.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5063,
+        ["rank_raids"] = 5064,
         ["kill_count"] = 6,
-        ["points"] = 8032.1,
+        ["points"] = 8031.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 433,
@@ -42767,9 +42767,9 @@ UWULogsData[5][1] = {
         ["points"] = 9429.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3521,
+        ["rank_raids"] = 3522,
         ["kill_count"] = 14,
-        ["points"] = 8494.7,
+        ["points"] = 8494.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5998,
@@ -42777,9 +42777,9 @@ UWULogsData[5][1] = {
         ["points"] = 7751.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5835,
+        ["rank_raids"] = 5836,
         ["kill_count"] = 10,
-        ["points"] = 7800.5,
+        ["points"] = 7800.2,
       },
     },
   },
@@ -42799,14 +42799,14 @@ UWULogsData[5][1] = {
         ["points"] = 9068.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3933,
+        ["rank_raids"] = 3935,
         ["kill_count"] = 5,
-        ["points"] = 8371.1,
+        ["points"] = 8370.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1115,
+        ["rank_raids"] = 1116,
         ["kill_count"] = 9,
-        ["points"] = 9305.0,
+        ["points"] = 9304.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2758,
@@ -42819,14 +42819,14 @@ UWULogsData[5][1] = {
         ["points"] = 7635.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3968,
+        ["rank_raids"] = 3969,
         ["kill_count"] = 2,
-        ["points"] = 8360.6,
+        ["points"] = 8360.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3665,
+        ["rank_raids"] = 3666,
         ["kill_count"] = 10,
-        ["points"] = 8451.5,
+        ["points"] = 8451.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3742,
@@ -42846,9 +42846,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 754,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5004,
+        ["rank_raids"] = 5005,
         ["kill_count"] = 3,
-        ["points"] = 8049.8,
+        ["points"] = 8049.5,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2757,
@@ -42861,9 +42861,9 @@ UWULogsData[5][1] = {
         ["points"] = 9259.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4195,
+        ["rank_raids"] = 4196,
         ["kill_count"] = 1,
-        ["points"] = 8292.5,
+        ["points"] = 8292.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1478,
@@ -42881,9 +42881,9 @@ UWULogsData[5][1] = {
         ["points"] = 8941.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 739,
+        ["rank_raids"] = 740,
         ["kill_count"] = 3,
-        ["points"] = 9481.5,
+        ["points"] = 9481.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 10273,
@@ -42913,14 +42913,14 @@ UWULogsData[5][1] = {
         ["points"] = 9390.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4529,
+        ["rank_raids"] = 4531,
         ["kill_count"] = 2,
-        ["points"] = 8192.3,
+        ["points"] = 8191.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 10500,
+        ["rank_raids"] = 10501,
         ["kill_count"] = 2,
-        ["points"] = 6501.0,
+        ["points"] = 6500.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3047,
@@ -42938,9 +42938,9 @@ UWULogsData[5][1] = {
         ["points"] = 9925.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3225,
+        ["rank_raids"] = 3226,
         ["kill_count"] = 5,
-        ["points"] = 8583.5,
+        ["points"] = 8583.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1817,
@@ -42955,7 +42955,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Rakzshield"] = {
-    ["percentile"] = 85.5,
+    ["percentile"] = 85.49,
     ["server"] = "Icecrown",
     ["overall_rank"] = 756,
     ["bosses"] = {
@@ -42970,19 +42970,19 @@ UWULogsData[5][1] = {
         ["points"] = 9276.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5214,
+        ["rank_raids"] = 5216,
         ["kill_count"] = 2,
-        ["points"] = 7986.8,
+        ["points"] = 7986.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1024,
+        ["rank_raids"] = 1025,
         ["kill_count"] = 2,
-        ["points"] = 9341.4,
+        ["points"] = 9341.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 12317,
+        ["rank_raids"] = 12319,
         ["kill_count"] = 2,
-        ["points"] = 6319.3,
+        ["points"] = 6319.1,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 579,
@@ -42995,9 +42995,9 @@ UWULogsData[5][1] = {
         ["points"] = 9263.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2492,
+        ["rank_raids"] = 2493,
         ["kill_count"] = 2,
-        ["points"] = 8803.4,
+        ["points"] = 8803.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6698,
@@ -43032,14 +43032,14 @@ UWULogsData[5][1] = {
         ["points"] = 9302.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 8274,
+        ["rank_raids"] = 8275,
         ["kill_count"] = 20,
-        ["points"] = 7068.8,
+        ["points"] = 7068.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7904,
+        ["rank_raids"] = 7906,
         ["kill_count"] = 24,
-        ["points"] = 7179.8,
+        ["points"] = 7179.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2180,
@@ -43052,9 +43052,9 @@ UWULogsData[5][1] = {
         ["points"] = 9418.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2092,
+        ["rank_raids"] = 2093,
         ["kill_count"] = 27,
-        ["points"] = 8923.4,
+        ["points"] = 8923.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1372,
@@ -43062,9 +43062,9 @@ UWULogsData[5][1] = {
         ["points"] = 9202.2,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7809,
+        ["rank_raids"] = 7810,
         ["kill_count"] = 27,
-        ["points"] = 7208.3,
+        ["points"] = 7208.0,
       },
     },
   },
@@ -43084,14 +43084,14 @@ UWULogsData[5][1] = {
         ["points"] = 7506.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6516,
+        ["rank_raids"] = 6519,
         ["kill_count"] = 1,
-        ["points"] = 7596.2,
+        ["points"] = 7595.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2257,
+        ["rank_raids"] = 2258,
         ["kill_count"] = 7,
-        ["points"] = 8873.9,
+        ["points"] = 8873.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 565,
@@ -43104,14 +43104,14 @@ UWULogsData[5][1] = {
         ["points"] = 8777.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 23708,
+        ["rank_raids"] = 23711,
         ["kill_count"] = 1,
-        ["points"] = 5180.2,
+        ["points"] = 5179.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 617,
+        ["rank_raids"] = 618,
         ["kill_count"] = 6,
-        ["points"] = 9542.5,
+        ["points"] = 9542.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1239,
@@ -43131,9 +43131,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 759,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6585,
+        ["rank_raids"] = 6586,
         ["kill_count"] = 4,
-        ["points"] = 7575.5,
+        ["points"] = 7575.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2096,
@@ -43141,14 +43141,14 @@ UWULogsData[5][1] = {
         ["points"] = 8922.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3718,
+        ["rank_raids"] = 3719,
         ["kill_count"] = 3,
-        ["points"] = 8435.6,
+        ["points"] = 8435.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2142,
+        ["rank_raids"] = 2143,
         ["kill_count"] = 13,
-        ["points"] = 8908.4,
+        ["points"] = 8908.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2196,
@@ -43161,14 +43161,14 @@ UWULogsData[5][1] = {
         ["points"] = 8958.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 8051,
+        ["rank_raids"] = 8052,
         ["kill_count"] = 15,
-        ["points"] = 7135.7,
+        ["points"] = 7135.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3470,
+        ["rank_raids"] = 3471,
         ["kill_count"] = 12,
-        ["points"] = 8510.0,
+        ["points"] = 8509.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3591,
@@ -43183,14 +43183,14 @@ UWULogsData[5][1] = {
     },
   },
   ["Pastorralol"] = {
-    ["percentile"] = 85.44,
+    ["percentile"] = 85.43,
     ["server"] = "Icecrown",
     ["overall_rank"] = 760,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5391,
+        ["rank_raids"] = 5392,
         ["kill_count"] = 8,
-        ["points"] = 7933.7,
+        ["points"] = 7933.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1069,
@@ -43203,14 +43203,14 @@ UWULogsData[5][1] = {
         ["points"] = 9001.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3763,
+        ["rank_raids"] = 3764,
         ["kill_count"] = 11,
-        ["points"] = 8422.1,
+        ["points"] = 8421.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4281,
+        ["rank_raids"] = 4282,
         ["kill_count"] = 13,
-        ["points"] = 8266.7,
+        ["points"] = 8266.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2659,
@@ -43223,9 +43223,9 @@ UWULogsData[5][1] = {
         ["points"] = 8794.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2563,
+        ["rank_raids"] = 2564,
         ["kill_count"] = 11,
-        ["points"] = 8782.1,
+        ["points"] = 8781.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4234,
@@ -43233,14 +43233,14 @@ UWULogsData[5][1] = {
         ["points"] = 8280.8,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5601,
+        ["rank_raids"] = 5602,
         ["kill_count"] = 9,
-        ["points"] = 7870.7,
+        ["points"] = 7870.4,
       },
     },
   },
   ["Solutyon"] = {
-    ["percentile"] = 85.43,
+    ["percentile"] = 85.42,
     ["server"] = "Icecrown",
     ["overall_rank"] = 761,
     ["bosses"] = {
@@ -43255,14 +43255,14 @@ UWULogsData[5][1] = {
         ["points"] = 9151.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7340,
+        ["rank_raids"] = 7343,
         ["kill_count"] = 5,
-        ["points"] = 7349.0,
+        ["points"] = 7348.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3304,
+        ["rank_raids"] = 3305,
         ["kill_count"] = 21,
-        ["points"] = 8559.8,
+        ["points"] = 8559.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 498,
@@ -43275,14 +43275,14 @@ UWULogsData[5][1] = {
         ["points"] = 8956.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4260,
+        ["rank_raids"] = 4261,
         ["kill_count"] = 22,
-        ["points"] = 8273.0,
+        ["points"] = 8272.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4512,
+        ["rank_raids"] = 4513,
         ["kill_count"] = 26,
-        ["points"] = 8197.4,
+        ["points"] = 8197.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1629,
@@ -43290,9 +43290,9 @@ UWULogsData[5][1] = {
         ["points"] = 9099.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5773,
+        ["rank_raids"] = 5774,
         ["kill_count"] = 32,
-        ["points"] = 7819.1,
+        ["points"] = 7818.8,
       },
     },
   },
@@ -43302,9 +43302,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 762,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 11045,
+        ["rank_raids"] = 11048,
         ["kill_count"] = 1,
-        ["points"] = 6446.5,
+        ["points"] = 6446.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 8068,
@@ -43317,14 +43317,14 @@ UWULogsData[5][1] = {
         ["points"] = 9557.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 460,
+        ["rank_raids"] = 461,
         ["kill_count"] = 1,
-        ["points"] = 9625.0,
+        ["points"] = 9624.4,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 13113,
+        ["rank_raids"] = 13115,
         ["kill_count"] = 1,
-        ["points"] = 6239.7,
+        ["points"] = 6239.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 287,
@@ -43337,9 +43337,9 @@ UWULogsData[5][1] = {
         ["points"] = 9612.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1033,
+        ["rank_raids"] = 1034,
         ["kill_count"] = 1,
-        ["points"] = 9337.8,
+        ["points"] = 9337.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4872,
@@ -43354,14 +43354,14 @@ UWULogsData[5][1] = {
     },
   },
   ["Drfinalzz"] = {
-    ["percentile"] = 85.4,
+    ["percentile"] = 85.39,
     ["server"] = "Icecrown",
     ["overall_rank"] = 763,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8326,
+        ["rank_raids"] = 8329,
         ["kill_count"] = 3,
-        ["points"] = 7053.2,
+        ["points"] = 7052.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 97,
@@ -43374,14 +43374,14 @@ UWULogsData[5][1] = {
         ["points"] = 9979.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 12439,
+        ["rank_raids"] = 12440,
         ["kill_count"] = 5,
-        ["points"] = 6307.1,
+        ["points"] = 6307.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6329,
+        ["rank_raids"] = 6331,
         ["kill_count"] = 4,
-        ["points"] = 7652.3,
+        ["points"] = 7651.7,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 713,
@@ -43396,7 +43396,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 511,
         ["kill_count"] = 8,
-        ["points"] = 9603.4,
+        ["points"] = 9603.46,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 684,
@@ -43404,21 +43404,21 @@ UWULogsData[5][1] = {
         ["points"] = 9509.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 9041,
+        ["rank_raids"] = 9042,
         ["kill_count"] = 6,
-        ["points"] = 6838.7,
+        ["points"] = 6838.4,
       },
     },
   },
   ["Anaprist"] = {
-    ["percentile"] = 85.35,
+    ["percentile"] = 85.34,
     ["server"] = "Icecrown",
     ["overall_rank"] = 764,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5237,
+        ["rank_raids"] = 5238,
         ["kill_count"] = 6,
-        ["points"] = 7979.9,
+        ["points"] = 7979.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1631,
@@ -43426,19 +43426,19 @@ UWULogsData[5][1] = {
         ["points"] = 9098.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4201,
+        ["rank_raids"] = 4203,
         ["kill_count"] = 7,
-        ["points"] = 8290.7,
+        ["points"] = 8290.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4412,
+        ["rank_raids"] = 4413,
         ["kill_count"] = 8,
-        ["points"] = 8227.4,
+        ["points"] = 8227.1,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4171,
+        ["rank_raids"] = 4172,
         ["kill_count"] = 9,
-        ["points"] = 8299.7,
+        ["points"] = 8299.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3975,
@@ -43451,9 +43451,9 @@ UWULogsData[5][1] = {
         ["points"] = 9324.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2642,
+        ["rank_raids"] = 2643,
         ["kill_count"] = 10,
-        ["points"] = 8758.4,
+        ["points"] = 8758.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1718,
@@ -43461,9 +43461,9 @@ UWULogsData[5][1] = {
         ["points"] = 9063.8,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5375,
+        ["rank_raids"] = 5376,
         ["kill_count"] = 4,
-        ["points"] = 7938.5,
+        ["points"] = 7938.2,
       },
     },
   },
@@ -43483,14 +43483,14 @@ UWULogsData[5][1] = {
         ["points"] = 9358.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3725,
+        ["rank_raids"] = 3726,
         ["kill_count"] = 6,
-        ["points"] = 8433.5,
+        ["points"] = 8433.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7935,
+        ["rank_raids"] = 7936,
         ["kill_count"] = 6,
-        ["points"] = 7170.5,
+        ["points"] = 7170.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2780,
@@ -43503,14 +43503,14 @@ UWULogsData[5][1] = {
         ["points"] = 8146.7,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5452,
+        ["rank_raids"] = 5453,
         ["kill_count"] = 17,
-        ["points"] = 7915.4,
+        ["points"] = 7915.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2236,
+        ["rank_raids"] = 2237,
         ["kill_count"] = 19,
-        ["points"] = 8880.2,
+        ["points"] = 8879.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2020,
@@ -43525,14 +43525,14 @@ UWULogsData[5][1] = {
     },
   },
   ["Shoeskekw"] = {
-    ["percentile"] = 85.32,
+    ["percentile"] = 85.31,
     ["server"] = "Icecrown",
     ["overall_rank"] = 766,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5802,
+        ["rank_raids"] = 5803,
         ["kill_count"] = 10,
-        ["points"] = 7810.4,
+        ["points"] = 7810.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 595,
@@ -43540,14 +43540,14 @@ UWULogsData[5][1] = {
         ["points"] = 9553.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 12870,
+        ["rank_raids"] = 12875,
         ["kill_count"] = 3,
-        ["points"] = 6264.0,
+        ["points"] = 6263.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6376,
+        ["rank_raids"] = 6377,
         ["kill_count"] = 9,
-        ["points"] = 7638.2,
+        ["points"] = 7637.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 187,
@@ -43567,7 +43567,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 548,
         ["kill_count"] = 11,
-        ["points"] = 9578.7,
+        ["points"] = 9578.77,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 9447,
@@ -43602,9 +43602,9 @@ UWULogsData[5][1] = {
         ["points"] = 8933.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6179,
+        ["rank_raids"] = 6180,
         ["kill_count"] = 8,
-        ["points"] = 7697.3,
+        ["points"] = 7697.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1847,
@@ -43622,9 +43622,9 @@ UWULogsData[5][1] = {
         ["points"] = 9647.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7607,
+        ["rank_raids"] = 7608,
         ["kill_count"] = 10,
-        ["points"] = 7268.9,
+        ["points"] = 7268.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1715,
@@ -43654,14 +43654,14 @@ UWULogsData[5][1] = {
         ["points"] = 8187.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9039,
+        ["rank_raids"] = 9043,
         ["kill_count"] = 8,
-        ["points"] = 6839.3,
+        ["points"] = 6838.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5567,
+        ["rank_raids"] = 5568,
         ["kill_count"] = 11,
-        ["points"] = 7880.9,
+        ["points"] = 7880.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 350,
@@ -43679,9 +43679,9 @@ UWULogsData[5][1] = {
         ["points"] = 9235.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6521,
+        ["rank_raids"] = 6522,
         ["kill_count"] = 11,
-        ["points"] = 7594.7,
+        ["points"] = 7594.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 622,
@@ -43716,9 +43716,9 @@ UWULogsData[5][1] = {
         ["points"] = 9902.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3251,
+        ["rank_raids"] = 3252,
         ["kill_count"] = 15,
-        ["points"] = 8575.7,
+        ["points"] = 8575.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2713,
@@ -43731,14 +43731,14 @@ UWULogsData[5][1] = {
         ["points"] = 9271.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3318,
+        ["rank_raids"] = 3319,
         ["kill_count"] = 18,
-        ["points"] = 8555.6,
+        ["points"] = 8555.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3164,
+        ["rank_raids"] = 3165,
         ["kill_count"] = 17,
-        ["points"] = 8601.8,
+        ["points"] = 8601.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 9440,
@@ -43758,9 +43758,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 770,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6131,
+        ["rank_raids"] = 6132,
         ["kill_count"] = 1,
-        ["points"] = 7711.7,
+        ["points"] = 7711.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1103,
@@ -43773,9 +43773,9 @@ UWULogsData[5][1] = {
         ["points"] = 8918.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3563,
+        ["rank_raids"] = 3564,
         ["kill_count"] = 5,
-        ["points"] = 8482.1,
+        ["points"] = 8481.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2940,
@@ -43788,14 +43788,14 @@ UWULogsData[5][1] = {
         ["points"] = 8589.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5142,
+        ["rank_raids"] = 5143,
         ["kill_count"] = 2,
-        ["points"] = 8008.4,
+        ["points"] = 8008.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4757,
+        ["rank_raids"] = 4758,
         ["kill_count"] = 5,
-        ["points"] = 8123.9,
+        ["points"] = 8123.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2154,
@@ -43830,14 +43830,14 @@ UWULogsData[5][1] = {
         ["points"] = 8820.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1512,
+        ["rank_raids"] = 1513,
         ["kill_count"] = 8,
-        ["points"] = 9146.2,
+        ["points"] = 9145.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6956,
+        ["rank_raids"] = 6958,
         ["kill_count"] = 10,
-        ["points"] = 7464.2,
+        ["points"] = 7463.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2312,
@@ -43850,9 +43850,9 @@ UWULogsData[5][1] = {
         ["points"] = 8719.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5160,
+        ["rank_raids"] = 5161,
         ["kill_count"] = 13,
-        ["points"] = 8003.0,
+        ["points"] = 8002.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1723,
@@ -43882,14 +43882,14 @@ UWULogsData[5][1] = {
         ["points"] = 8414.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4722,
+        ["rank_raids"] = 4724,
         ["kill_count"] = 4,
-        ["points"] = 8134.4,
+        ["points"] = 8133.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6718,
+        ["rank_raids"] = 6719,
         ["kill_count"] = 4,
-        ["points"] = 7535.6,
+        ["points"] = 7535.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1992,
@@ -43907,9 +43907,9 @@ UWULogsData[5][1] = {
         ["points"] = 8987.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 9853,
+        ["rank_raids"] = 9854,
         ["kill_count"] = 7,
-        ["points"] = 6595.1,
+        ["points"] = 6594.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1058,
@@ -43944,9 +43944,9 @@ UWULogsData[5][1] = {
         ["points"] = 8829.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2730,
+        ["rank_raids"] = 2731,
         ["kill_count"] = 4,
-        ["points"] = 8732.0,
+        ["points"] = 8731.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1858,
@@ -43959,14 +43959,14 @@ UWULogsData[5][1] = {
         ["points"] = 8466.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3669,
+        ["rank_raids"] = 3670,
         ["kill_count"] = 7,
-        ["points"] = 8450.3,
+        ["points"] = 8450.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2533,
+        ["rank_raids"] = 2534,
         ["kill_count"] = 8,
-        ["points"] = 8791.1,
+        ["points"] = 8790.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 9641,
@@ -44001,9 +44001,9 @@ UWULogsData[5][1] = {
         ["points"] = 9344.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2082,
+        ["rank_raids"] = 2083,
         ["kill_count"] = 10,
-        ["points"] = 8926.4,
+        ["points"] = 8926.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3672,
@@ -44021,9 +44021,9 @@ UWULogsData[5][1] = {
         ["points"] = 8919.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7031,
+        ["rank_raids"] = 7032,
         ["kill_count"] = 11,
-        ["points"] = 7441.7,
+        ["points"] = 7441.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1975,
@@ -44031,9 +44031,9 @@ UWULogsData[5][1] = {
         ["points"] = 8961.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5166,
+        ["rank_raids"] = 5167,
         ["kill_count"] = 7,
-        ["points"] = 8001.2,
+        ["points"] = 8000.9,
       },
     },
   },
@@ -44058,14 +44058,14 @@ UWULogsData[5][1] = {
         ["points"] = 9360.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2107,
+        ["rank_raids"] = 2108,
         ["kill_count"] = 7,
-        ["points"] = 8918.9,
+        ["points"] = 8918.6,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7180,
+        ["rank_raids"] = 7182,
         ["kill_count"] = 6,
-        ["points"] = 7397.0,
+        ["points"] = 7396.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4601,
@@ -44073,14 +44073,14 @@ UWULogsData[5][1] = {
         ["points"] = 8170.7,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7332,
+        ["rank_raids"] = 7333,
         ["kill_count"] = 9,
-        ["points"] = 7351.4,
+        ["points"] = 7351.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4378,
+        ["rank_raids"] = 4379,
         ["kill_count"] = 11,
-        ["points"] = 8237.6,
+        ["points"] = 8237.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 565,
@@ -44115,9 +44115,9 @@ UWULogsData[5][1] = {
         ["points"] = 8465.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1395,
+        ["rank_raids"] = 1396,
         ["kill_count"] = 9,
-        ["points"] = 9193.0,
+        ["points"] = 9192.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1422,
@@ -44135,9 +44135,9 @@ UWULogsData[5][1] = {
         ["points"] = 8857.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5187,
+        ["rank_raids"] = 5188,
         ["kill_count"] = 9,
-        ["points"] = 7994.9,
+        ["points"] = 7994.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7818,
@@ -44157,9 +44157,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 777,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8641,
+        ["rank_raids"] = 8644,
         ["kill_count"] = 5,
-        ["points"] = 6958.7,
+        ["points"] = 6957.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2836,
@@ -44172,14 +44172,14 @@ UWULogsData[5][1] = {
         ["points"] = 8681.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7223,
+        ["rank_raids"] = 7224,
         ["kill_count"] = 11,
-        ["points"] = 7384.1,
+        ["points"] = 7383.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5805,
+        ["rank_raids"] = 5806,
         ["kill_count"] = 8,
-        ["points"] = 7809.5,
+        ["points"] = 7809.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1650,
@@ -44192,9 +44192,9 @@ UWULogsData[5][1] = {
         ["points"] = 9260.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1321,
+        ["rank_raids"] = 1322,
         ["kill_count"] = 18,
-        ["points"] = 9222.6,
+        ["points"] = 9222.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2633,
@@ -44229,9 +44229,9 @@ UWULogsData[5][1] = {
         ["points"] = 8643.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3862,
+        ["rank_raids"] = 3863,
         ["kill_count"] = 9,
-        ["points"] = 8392.4,
+        ["points"] = 8392.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2155,
@@ -44249,9 +44249,9 @@ UWULogsData[5][1] = {
         ["points"] = 9415.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6163,
+        ["rank_raids"] = 6164,
         ["kill_count"] = 17,
-        ["points"] = 7702.1,
+        ["points"] = 7701.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 9238,
@@ -44266,7 +44266,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Anjelstrazny"] = {
-    ["percentile"] = 85.14,
+    ["percentile"] = 85.13,
     ["server"] = "Icecrown",
     ["overall_rank"] = 779,
     ["bosses"] = {
@@ -44286,14 +44286,14 @@ UWULogsData[5][1] = {
         ["points"] = 9511.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 745,
+        ["rank_raids"] = 746,
         ["kill_count"] = 3,
-        ["points"] = 9478.5,
+        ["points"] = 9478.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 10615,
+        ["rank_raids"] = 10617,
         ["kill_count"] = 2,
-        ["points"] = 6489.5,
+        ["points"] = 6489.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1222,
@@ -44301,14 +44301,14 @@ UWULogsData[5][1] = {
         ["points"] = 9262.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6121,
+        ["rank_raids"] = 6122,
         ["kill_count"] = 2,
-        ["points"] = 7714.7,
+        ["points"] = 7714.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2888,
+        ["rank_raids"] = 2889,
         ["kill_count"] = 4,
-        ["points"] = 8684.6,
+        ["points"] = 8684.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2539,
@@ -44316,9 +44316,9 @@ UWULogsData[5][1] = {
         ["points"] = 8789.3,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5878,
+        ["rank_raids"] = 5879,
         ["kill_count"] = 3,
-        ["points"] = 7787.6,
+        ["points"] = 7787.3,
       },
     },
   },
@@ -44343,14 +44343,14 @@ UWULogsData[5][1] = {
         ["points"] = 8552.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1526,
+        ["rank_raids"] = 1527,
         ["kill_count"] = 1,
-        ["points"] = 9140.6,
+        ["points"] = 9140.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7220,
+        ["rank_raids"] = 7222,
         ["kill_count"] = 1,
-        ["points"] = 7385.0,
+        ["points"] = 7384.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1042,
@@ -44363,9 +44363,9 @@ UWULogsData[5][1] = {
         ["points"] = 9796.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 14618,
+        ["rank_raids"] = 14619,
         ["kill_count"] = 1,
-        ["points"] = 6089.2,
+        ["points"] = 6089.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2779,
@@ -44380,7 +44380,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Cremecannoli"] = {
-    ["percentile"] = 85.13,
+    ["percentile"] = 85.12,
     ["server"] = "Icecrown",
     ["overall_rank"] = 781,
     ["bosses"] = {
@@ -44400,9 +44400,9 @@ UWULogsData[5][1] = {
         ["points"] = 9189.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4569,
+        ["rank_raids"] = 4570,
         ["kill_count"] = 6,
-        ["points"] = 8180.3,
+        ["points"] = 8180.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3507,
@@ -44415,19 +44415,19 @@ UWULogsData[5][1] = {
         ["points"] = 9155.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4900,
+        ["rank_raids"] = 4901,
         ["kill_count"] = 6,
-        ["points"] = 8081.0,
+        ["points"] = 8080.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4302,
+        ["rank_raids"] = 4303,
         ["kill_count"] = 8,
-        ["points"] = 8260.4,
+        ["points"] = 8260.1,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 16174,
+        ["rank_raids"] = 16175,
         ["kill_count"] = 5,
-        ["points"] = 5933.6,
+        ["points"] = 5933.5,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1243,
@@ -44457,9 +44457,9 @@ UWULogsData[5][1] = {
         ["points"] = 8710.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3280,
+        ["rank_raids"] = 3281,
         ["kill_count"] = 7,
-        ["points"] = 8567.0,
+        ["points"] = 8566.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2098,
@@ -44472,14 +44472,14 @@ UWULogsData[5][1] = {
         ["points"] = 9087.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3396,
+        ["rank_raids"] = 3397,
         ["kill_count"] = 12,
-        ["points"] = 8532.2,
+        ["points"] = 8531.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4277,
+        ["rank_raids"] = 4278,
         ["kill_count"] = 13,
-        ["points"] = 8267.9,
+        ["points"] = 8267.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1784,
@@ -44487,9 +44487,9 @@ UWULogsData[5][1] = {
         ["points"] = 9037.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 9797,
+        ["rank_raids"] = 9798,
         ["kill_count"] = 11,
-        ["points"] = 6611.9,
+        ["points"] = 6611.6,
       },
     },
   },
@@ -44499,9 +44499,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 783,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 12384,
+        ["rank_raids"] = 12387,
         ["kill_count"] = 2,
-        ["points"] = 6312.6,
+        ["points"] = 6312.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3274,
@@ -44509,14 +44509,14 @@ UWULogsData[5][1] = {
         ["points"] = 8568.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7922,
+        ["rank_raids"] = 7926,
         ["kill_count"] = 3,
-        ["points"] = 7174.4,
+        ["points"] = 7173.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3750,
+        ["rank_raids"] = 3751,
         ["kill_count"] = 8,
-        ["points"] = 8426.0,
+        ["points"] = 8425.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 243,
@@ -44536,7 +44536,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 540,
         ["kill_count"] = 8,
-        ["points"] = 9586.42,
+        ["points"] = 9586.48,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 450,
@@ -44544,9 +44544,9 @@ UWULogsData[5][1] = {
         ["points"] = 9631.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4935,
+        ["rank_raids"] = 4936,
         ["kill_count"] = 3,
-        ["points"] = 8070.5,
+        ["points"] = 8070.2,
       },
     },
   },
@@ -44566,19 +44566,19 @@ UWULogsData[5][1] = {
         ["points"] = 8445.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4142,
+        ["rank_raids"] = 4144,
         ["kill_count"] = 3,
-        ["points"] = 8308.4,
+        ["points"] = 8307.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3167,
+        ["rank_raids"] = 3168,
         ["kill_count"] = 6,
-        ["points"] = 8600.9,
+        ["points"] = 8600.6,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5355,
+        ["rank_raids"] = 5356,
         ["kill_count"] = 6,
-        ["points"] = 7944.5,
+        ["points"] = 7944.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4293,
@@ -44591,9 +44591,9 @@ UWULogsData[5][1] = {
         ["points"] = 9582.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5940,
+        ["rank_raids"] = 5941,
         ["kill_count"] = 6,
-        ["points"] = 7769.0,
+        ["points"] = 7768.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5412,
@@ -44608,7 +44608,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Millianis"] = {
-    ["percentile"] = 85.09,
+    ["percentile"] = 85.08,
     ["server"] = "Icecrown",
     ["overall_rank"] = 785,
     ["bosses"] = {
@@ -44623,19 +44623,19 @@ UWULogsData[5][1] = {
         ["points"] = 9635.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4307,
+        ["rank_raids"] = 4309,
         ["kill_count"] = 2,
-        ["points"] = 8258.9,
+        ["points"] = 8258.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7653,
+        ["rank_raids"] = 7654,
         ["kill_count"] = 2,
-        ["points"] = 7255.1,
+        ["points"] = 7254.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9895,
+        ["rank_raids"] = 9897,
         ["kill_count"] = 2,
-        ["points"] = 6582.5,
+        ["points"] = 6581.9,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2118,
@@ -44648,9 +44648,9 @@ UWULogsData[5][1] = {
         ["points"] = 9439.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2074,
+        ["rank_raids"] = 2075,
         ["kill_count"] = 4,
-        ["points"] = 8928.8,
+        ["points"] = 8928.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6454,
@@ -44665,7 +44665,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Troublebuble"] = {
-    ["percentile"] = 85.09,
+    ["percentile"] = 85.08,
     ["server"] = "Icecrown",
     ["overall_rank"] = 786,
     ["bosses"] = {
@@ -44680,19 +44680,19 @@ UWULogsData[5][1] = {
         ["points"] = 9153.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3719,
+        ["rank_raids"] = 3720,
         ["kill_count"] = 8,
-        ["points"] = 8435.3,
+        ["points"] = 8435.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2297,
+        ["rank_raids"] = 2298,
         ["kill_count"] = 8,
-        ["points"] = 8861.9,
+        ["points"] = 8861.6,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7175,
+        ["rank_raids"] = 7177,
         ["kill_count"] = 6,
-        ["points"] = 7398.5,
+        ["points"] = 7397.9,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4045,
@@ -44700,14 +44700,14 @@ UWULogsData[5][1] = {
         ["points"] = 8337.5,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3293,
+        ["rank_raids"] = 3294,
         ["kill_count"] = 4,
-        ["points"] = 8563.1,
+        ["points"] = 8562.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2823,
+        ["rank_raids"] = 2824,
         ["kill_count"] = 6,
-        ["points"] = 8704.1,
+        ["points"] = 8703.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4079,
@@ -44722,7 +44722,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Ririchs"] = {
-    ["percentile"] = 85.06,
+    ["percentile"] = 85.05,
     ["server"] = "Icecrown",
     ["overall_rank"] = 787,
     ["bosses"] = {
@@ -44742,14 +44742,14 @@ UWULogsData[5][1] = {
         ["points"] = 8670.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3455,
+        ["rank_raids"] = 3456,
         ["kill_count"] = 7,
-        ["points"] = 8514.5,
+        ["points"] = 8514.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4095,
+        ["rank_raids"] = 4096,
         ["kill_count"] = 7,
-        ["points"] = 8322.5,
+        ["points"] = 8322.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2742,
@@ -44762,9 +44762,9 @@ UWULogsData[5][1] = {
         ["points"] = 8959.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 10967,
+        ["rank_raids"] = 10968,
         ["kill_count"] = 8,
-        ["points"] = 6454.3,
+        ["points"] = 6454.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 985,
@@ -44779,14 +44779,14 @@ UWULogsData[5][1] = {
     },
   },
   ["Ivka"] = {
-    ["percentile"] = 85.05,
+    ["percentile"] = 85.04,
     ["server"] = "Icecrown",
     ["overall_rank"] = 788,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9142,
+        ["rank_raids"] = 9145,
         ["kill_count"] = 1,
-        ["points"] = 6808.4,
+        ["points"] = 6807.5,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4457,
@@ -44799,9 +44799,9 @@ UWULogsData[5][1] = {
         ["points"] = 9734.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4398,
+        ["rank_raids"] = 4399,
         ["kill_count"] = 2,
-        ["points"] = 8231.6,
+        ["points"] = 8231.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 481,
@@ -44819,9 +44819,9 @@ UWULogsData[5][1] = {
         ["points"] = 9054.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2098,
+        ["rank_raids"] = 2099,
         ["kill_count"] = 2,
-        ["points"] = 8921.6,
+        ["points"] = 8921.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7632,
@@ -44829,9 +44829,9 @@ UWULogsData[5][1] = {
         ["points"] = 7261.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5272,
+        ["rank_raids"] = 5273,
         ["kill_count"] = 2,
-        ["points"] = 7969.4,
+        ["points"] = 7969.1,
       },
     },
   },
@@ -44851,14 +44851,14 @@ UWULogsData[5][1] = {
         ["points"] = 9584.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5037,
+        ["rank_raids"] = 5039,
         ["kill_count"] = 13,
-        ["points"] = 8039.9,
+        ["points"] = 8039.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1577,
+        ["rank_raids"] = 1578,
         ["kill_count"] = 22,
-        ["points"] = 9120.2,
+        ["points"] = 9119.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3002,
@@ -44871,14 +44871,14 @@ UWULogsData[5][1] = {
         ["points"] = 7886.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3745,
+        ["rank_raids"] = 3746,
         ["kill_count"] = 38,
-        ["points"] = 8427.5,
+        ["points"] = 8427.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2481,
+        ["rank_raids"] = 2482,
         ["kill_count"] = 44,
-        ["points"] = 8806.7,
+        ["points"] = 8806.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5000,
@@ -44886,73 +44886,16 @@ UWULogsData[5][1] = {
         ["points"] = 8051.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7634,
+        ["rank_raids"] = 7635,
         ["kill_count"] = 13,
-        ["points"] = 7260.8,
-      },
-    },
-  },
-  ["Oldspec"] = {
-    ["percentile"] = 85.04,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 790,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9331,
-        ["kill_count"] = 12,
-        ["points"] = 6751.7,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 1347,
-        ["kill_count"] = 11,
-        ["points"] = 9212.2,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5376,
-        ["kill_count"] = 6,
-        ["points"] = 7938.2,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 1848,
-        ["kill_count"] = 12,
-        ["points"] = 9011.8,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 644,
-        ["kill_count"] = 5,
-        ["points"] = 9529.0,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 2291,
-        ["kill_count"] = 10,
-        ["points"] = 8863.7,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 4845,
-        ["kill_count"] = 15,
-        ["points"] = 8097.5,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5188,
-        ["kill_count"] = 18,
-        ["points"] = 7994.6,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 2255,
-        ["kill_count"] = 14,
-        ["points"] = 8874.5,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 2648,
-        ["kill_count"] = 14,
-        ["points"] = 8756.6,
+        ["points"] = 7260.5,
       },
     },
   },
   ["Homisleftbal"] = {
     ["percentile"] = 85.03,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 791,
+    ["overall_rank"] = 790,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 3324,
@@ -44970,9 +44913,9 @@ UWULogsData[5][1] = {
         ["points"] = 8534.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5210,
+        ["rank_raids"] = 5211,
         ["kill_count"] = 18,
-        ["points"] = 7988.0,
+        ["points"] = 7987.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 635,
@@ -44990,9 +44933,9 @@ UWULogsData[5][1] = {
         ["points"] = 9301.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2552,
+        ["rank_raids"] = 2553,
         ["kill_count"] = 22,
-        ["points"] = 8785.4,
+        ["points"] = 8785.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6837,
@@ -45000,9 +44943,66 @@ UWULogsData[5][1] = {
         ["points"] = 7499.9,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4865,
+        ["rank_raids"] = 4866,
         ["kill_count"] = 8,
-        ["points"] = 8091.5,
+        ["points"] = 8091.2,
+      },
+    },
+  },
+  ["Oldspec"] = {
+    ["percentile"] = 85.03,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 791,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 9334,
+        ["kill_count"] = 12,
+        ["points"] = 6750.8,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 1347,
+        ["kill_count"] = 11,
+        ["points"] = 9212.2,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 5379,
+        ["kill_count"] = 6,
+        ["points"] = 7937.3,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 1849,
+        ["kill_count"] = 12,
+        ["points"] = 9011.4,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 644,
+        ["kill_count"] = 5,
+        ["points"] = 9529.0,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 2291,
+        ["kill_count"] = 10,
+        ["points"] = 8863.7,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 4846,
+        ["kill_count"] = 15,
+        ["points"] = 8097.2,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 5189,
+        ["kill_count"] = 18,
+        ["points"] = 7994.3,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 2255,
+        ["kill_count"] = 14,
+        ["points"] = 8874.5,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 2648,
+        ["kill_count"] = 14,
+        ["points"] = 8756.6,
       },
     },
   },
@@ -45027,9 +45027,9 @@ UWULogsData[5][1] = {
         ["points"] = 9271.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5338,
+        ["rank_raids"] = 5339,
         ["kill_count"] = 5,
-        ["points"] = 7949.6,
+        ["points"] = 7949.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3674,
@@ -45047,9 +45047,9 @@ UWULogsData[5][1] = {
         ["points"] = 8835.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 12922,
+        ["rank_raids"] = 12923,
         ["kill_count"] = 5,
-        ["points"] = 6258.8,
+        ["points"] = 6258.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2873,
@@ -45057,9 +45057,9 @@ UWULogsData[5][1] = {
         ["points"] = 8689.1,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4243,
+        ["rank_raids"] = 4244,
         ["kill_count"] = 4,
-        ["points"] = 8278.1,
+        ["points"] = 8277.8,
       },
     },
   },
@@ -45079,19 +45079,19 @@ UWULogsData[5][1] = {
         ["points"] = 8390.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3722,
+        ["rank_raids"] = 3723,
         ["kill_count"] = 3,
-        ["points"] = 8434.4,
+        ["points"] = 8434.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3695,
+        ["rank_raids"] = 3696,
         ["kill_count"] = 5,
-        ["points"] = 8442.5,
+        ["points"] = 8442.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6797,
+        ["rank_raids"] = 6799,
         ["kill_count"] = 4,
-        ["points"] = 7511.9,
+        ["points"] = 7511.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5236,
@@ -45104,9 +45104,9 @@ UWULogsData[5][1] = {
         ["points"] = 9567.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 659,
+        ["rank_raids"] = 660,
         ["kill_count"] = 6,
-        ["points"] = 9521.5,
+        ["points"] = 9521.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1415,
@@ -45114,9 +45114,9 @@ UWULogsData[5][1] = {
         ["points"] = 9185.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 12602,
+        ["rank_raids"] = 12603,
         ["kill_count"] = 2,
-        ["points"] = 6290.8,
+        ["points"] = 6290.7,
       },
     },
   },
@@ -45136,19 +45136,19 @@ UWULogsData[5][1] = {
         ["points"] = 9347.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10104,
+        ["rank_raids"] = 10108,
         ["kill_count"] = 1,
-        ["points"] = 6540.6,
+        ["points"] = 6540.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5146,
+        ["rank_raids"] = 5147,
         ["kill_count"] = 5,
-        ["points"] = 8007.2,
+        ["points"] = 8006.9,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5101,
+        ["rank_raids"] = 5102,
         ["kill_count"] = 7,
-        ["points"] = 8020.7,
+        ["points"] = 8020.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1384,
@@ -45161,9 +45161,9 @@ UWULogsData[5][1] = {
         ["points"] = 8784.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1931,
+        ["rank_raids"] = 1932,
         ["kill_count"] = 8,
-        ["points"] = 8978.6,
+        ["points"] = 8978.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7700,
@@ -45183,9 +45183,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 795,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7781,
+        ["rank_raids"] = 7783,
         ["kill_count"] = 2,
-        ["points"] = 7216.7,
+        ["points"] = 7216.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 395,
@@ -45198,14 +45198,14 @@ UWULogsData[5][1] = {
         ["points"] = 9788.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3959,
+        ["rank_raids"] = 3960,
         ["kill_count"] = 5,
-        ["points"] = 8363.3,
+        ["points"] = 8363.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5853,
+        ["rank_raids"] = 5854,
         ["kill_count"] = 3,
-        ["points"] = 7795.1,
+        ["points"] = 7794.8,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4346,
@@ -45213,14 +45213,14 @@ UWULogsData[5][1] = {
         ["points"] = 8247.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3766,
+        ["rank_raids"] = 3767,
         ["kill_count"] = 4,
-        ["points"] = 8421.2,
+        ["points"] = 8420.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4869,
+        ["rank_raids"] = 4870,
         ["kill_count"] = 7,
-        ["points"] = 8090.3,
+        ["points"] = 8090.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2604,
@@ -45240,9 +45240,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 796,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10041,
+        ["rank_raids"] = 10044,
         ["kill_count"] = 10,
-        ["points"] = 6546.9,
+        ["points"] = 6546.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2643,
@@ -45250,14 +45250,14 @@ UWULogsData[5][1] = {
         ["points"] = 8758.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3864,
+        ["rank_raids"] = 3865,
         ["kill_count"] = 8,
-        ["points"] = 8391.8,
+        ["points"] = 8391.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6616,
+        ["rank_raids"] = 6617,
         ["kill_count"] = 7,
-        ["points"] = 7566.2,
+        ["points"] = 7565.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1160,
@@ -45275,9 +45275,9 @@ UWULogsData[5][1] = {
         ["points"] = 9694.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6133,
+        ["rank_raids"] = 6134,
         ["kill_count"] = 11,
-        ["points"] = 7711.1,
+        ["points"] = 7710.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1789,
@@ -45312,14 +45312,14 @@ UWULogsData[5][1] = {
         ["points"] = 8870.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2783,
+        ["rank_raids"] = 2784,
         ["kill_count"] = 10,
-        ["points"] = 8716.1,
+        ["points"] = 8715.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5482,
+        ["rank_raids"] = 5483,
         ["kill_count"] = 7,
-        ["points"] = 7906.4,
+        ["points"] = 7906.1,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6576,
@@ -45332,9 +45332,9 @@ UWULogsData[5][1] = {
         ["points"] = 8805.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2953,
+        ["rank_raids"] = 2954,
         ["kill_count"] = 14,
-        ["points"] = 8665.1,
+        ["points"] = 8664.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3699,
@@ -45354,9 +45354,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 798,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6635,
+        ["rank_raids"] = 6636,
         ["kill_count"] = 8,
-        ["points"] = 7560.5,
+        ["points"] = 7560.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5419,
@@ -45364,14 +45364,14 @@ UWULogsData[5][1] = {
         ["points"] = 7925.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7418,
+        ["rank_raids"] = 7421,
         ["kill_count"] = 1,
-        ["points"] = 7325.6,
+        ["points"] = 7324.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4094,
+        ["rank_raids"] = 4095,
         ["kill_count"] = 8,
-        ["points"] = 8322.8,
+        ["points"] = 8322.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 547,
@@ -45384,14 +45384,14 @@ UWULogsData[5][1] = {
         ["points"] = 8450.9,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3468,
+        ["rank_raids"] = 3469,
         ["kill_count"] = 7,
-        ["points"] = 8510.6,
+        ["points"] = 8510.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2017,
+        ["rank_raids"] = 2018,
         ["kill_count"] = 9,
-        ["points"] = 8945.9,
+        ["points"] = 8945.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 907,
@@ -45411,9 +45411,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 799,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5423,
+        ["rank_raids"] = 5424,
         ["kill_count"] = 6,
-        ["points"] = 7924.1,
+        ["points"] = 7923.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3276,
@@ -45421,14 +45421,14 @@ UWULogsData[5][1] = {
         ["points"] = 8568.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7000,
+        ["rank_raids"] = 7003,
         ["kill_count"] = 2,
-        ["points"] = 7451.0,
+        ["points"] = 7450.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3286,
+        ["rank_raids"] = 3287,
         ["kill_count"] = 3,
-        ["points"] = 8565.2,
+        ["points"] = 8564.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1188,
@@ -45441,14 +45441,14 @@ UWULogsData[5][1] = {
         ["points"] = 9350.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 11357,
+        ["rank_raids"] = 11358,
         ["kill_count"] = 10,
-        ["points"] = 6415.3,
+        ["points"] = 6415.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2424,
+        ["rank_raids"] = 2425,
         ["kill_count"] = 9,
-        ["points"] = 8823.8,
+        ["points"] = 8823.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1559,
@@ -45483,9 +45483,9 @@ UWULogsData[5][1] = {
         ["points"] = 8625.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3185,
+        ["rank_raids"] = 3186,
         ["kill_count"] = 9,
-        ["points"] = 8595.5,
+        ["points"] = 8595.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3568,
@@ -45498,14 +45498,14 @@ UWULogsData[5][1] = {
         ["points"] = 9021.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4359,
+        ["rank_raids"] = 4360,
         ["kill_count"] = 8,
-        ["points"] = 8243.3,
+        ["points"] = 8243.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2712,
+        ["rank_raids"] = 2713,
         ["kill_count"] = 10,
-        ["points"] = 8737.4,
+        ["points"] = 8737.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 9284,
@@ -45525,9 +45525,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 801,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6688,
+        ["rank_raids"] = 6689,
         ["kill_count"] = 4,
-        ["points"] = 7544.6,
+        ["points"] = 7544.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2670,
@@ -45535,9 +45535,9 @@ UWULogsData[5][1] = {
         ["points"] = 8750.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 11195,
+        ["rank_raids"] = 11199,
         ["kill_count"] = 4,
-        ["points"] = 6431.5,
+        ["points"] = 6431.1,
       },
       ["Festergut"] = {
         ["rank_raids"] = 98,
@@ -45545,9 +45545,9 @@ UWULogsData[5][1] = {
         ["points"] = 9903.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 11731,
+        ["rank_raids"] = 11733,
         ["kill_count"] = 4,
-        ["points"] = 6377.9,
+        ["points"] = 6377.7,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 320,
@@ -45555,14 +45555,14 @@ UWULogsData[5][1] = {
         ["points"] = 9717.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6651,
+        ["rank_raids"] = 6652,
         ["kill_count"] = 4,
-        ["points"] = 7555.7,
+        ["points"] = 7555.4,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 467,
         ["kill_count"] = 4,
-        ["points"] = 9631.17,
+        ["points"] = 9631.23,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1297,
@@ -45597,9 +45597,9 @@ UWULogsData[5][1] = {
         ["points"] = 8485.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4119,
+        ["rank_raids"] = 4120,
         ["kill_count"] = 5,
-        ["points"] = 8315.3,
+        ["points"] = 8315.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1091,
@@ -45617,9 +45617,9 @@ UWULogsData[5][1] = {
         ["points"] = 9623.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4689,
+        ["rank_raids"] = 4690,
         ["kill_count"] = 10,
-        ["points"] = 8144.3,
+        ["points"] = 8144.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 10012,
@@ -45627,9 +45627,9 @@ UWULogsData[5][1] = {
         ["points"] = 6549.8,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4449,
+        ["rank_raids"] = 4450,
         ["kill_count"] = 9,
-        ["points"] = 8216.3,
+        ["points"] = 8216.0,
       },
     },
   },
@@ -45639,9 +45639,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 803,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 16462,
+        ["rank_raids"] = 16465,
         ["kill_count"] = 2,
-        ["points"] = 5904.8,
+        ["points"] = 5904.5,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 776,
@@ -45654,9 +45654,9 @@ UWULogsData[5][1] = {
         ["points"] = 9069.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1295,
+        ["rank_raids"] = 1296,
         ["kill_count"] = 9,
-        ["points"] = 9233.0,
+        ["points"] = 9232.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 580,
@@ -45674,9 +45674,9 @@ UWULogsData[5][1] = {
         ["points"] = 9663.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4336,
+        ["rank_raids"] = 4337,
         ["kill_count"] = 14,
-        ["points"] = 8250.2,
+        ["points"] = 8249.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7076,
@@ -45684,9 +45684,9 @@ UWULogsData[5][1] = {
         ["points"] = 7428.2,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5830,
+        ["rank_raids"] = 5831,
         ["kill_count"] = 22,
-        ["points"] = 7802.0,
+        ["points"] = 7801.7,
       },
     },
   },
@@ -45706,24 +45706,24 @@ UWULogsData[5][1] = {
         ["points"] = 9320.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8502,
+        ["rank_raids"] = 8506,
         ["kill_count"] = 2,
-        ["points"] = 7000.4,
+        ["points"] = 6999.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5415,
+        ["rank_raids"] = 5416,
         ["kill_count"] = 6,
-        ["points"] = 7926.5,
+        ["points"] = 7926.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4192,
+        ["rank_raids"] = 4193,
         ["kill_count"] = 3,
-        ["points"] = 8293.4,
+        ["points"] = 8293.1,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8127,
+        ["rank_raids"] = 8128,
         ["kill_count"] = 2,
-        ["points"] = 7112.9,
+        ["points"] = 7112.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1102,
@@ -45731,9 +45731,9 @@ UWULogsData[5][1] = {
         ["points"] = 9310.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4855,
+        ["rank_raids"] = 4856,
         ["kill_count"] = 6,
-        ["points"] = 8094.5,
+        ["points"] = 8094.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1680,
@@ -45748,7 +45748,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Rorie"] = {
-    ["percentile"] = 84.82,
+    ["percentile"] = 84.81,
     ["server"] = "Icecrown",
     ["overall_rank"] = 805,
     ["bosses"] = {
@@ -45768,9 +45768,9 @@ UWULogsData[5][1] = {
         ["points"] = 9267.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3433,
+        ["rank_raids"] = 3434,
         ["kill_count"] = 8,
-        ["points"] = 8521.1,
+        ["points"] = 8520.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2004,
@@ -45783,14 +45783,14 @@ UWULogsData[5][1] = {
         ["points"] = 9166.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10268,
+        ["rank_raids"] = 10269,
         ["kill_count"] = 16,
-        ["points"] = 6524.2,
+        ["points"] = 6524.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2515,
+        ["rank_raids"] = 2516,
         ["kill_count"] = 14,
-        ["points"] = 8796.5,
+        ["points"] = 8796.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6001,
@@ -45810,9 +45810,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 806,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6293,
+        ["rank_raids"] = 6294,
         ["kill_count"] = 4,
-        ["points"] = 7663.1,
+        ["points"] = 7662.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1407,
@@ -45820,14 +45820,14 @@ UWULogsData[5][1] = {
         ["points"] = 9188.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3785,
+        ["rank_raids"] = 3786,
         ["kill_count"] = 3,
-        ["points"] = 8415.5,
+        ["points"] = 8415.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5900,
+        ["rank_raids"] = 5901,
         ["kill_count"] = 5,
-        ["points"] = 7781.0,
+        ["points"] = 7780.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1229,
@@ -45845,9 +45845,9 @@ UWULogsData[5][1] = {
         ["points"] = 9032.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5328,
+        ["rank_raids"] = 5329,
         ["kill_count"] = 6,
-        ["points"] = 7952.6,
+        ["points"] = 7952.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1422,
@@ -45855,14 +45855,14 @@ UWULogsData[5][1] = {
         ["points"] = 9182.2,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4241,
+        ["rank_raids"] = 4242,
         ["kill_count"] = 15,
-        ["points"] = 8278.7,
+        ["points"] = 8278.4,
       },
     },
   },
   ["Xundisc"] = {
-    ["percentile"] = 84.81,
+    ["percentile"] = 84.8,
     ["server"] = "Icecrown",
     ["overall_rank"] = 807,
     ["bosses"] = {
@@ -45877,14 +45877,14 @@ UWULogsData[5][1] = {
         ["points"] = 9089.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7008,
+        ["rank_raids"] = 7011,
         ["kill_count"] = 2,
-        ["points"] = 7448.6,
+        ["points"] = 7447.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4184,
+        ["rank_raids"] = 4185,
         ["kill_count"] = 5,
-        ["points"] = 8295.8,
+        ["points"] = 8295.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2781,
@@ -45902,9 +45902,9 @@ UWULogsData[5][1] = {
         ["points"] = 8884.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 712,
+        ["rank_raids"] = 713,
         ["kill_count"] = 7,
-        ["points"] = 9495.0,
+        ["points"] = 9494.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4237,
@@ -45912,9 +45912,9 @@ UWULogsData[5][1] = {
         ["points"] = 8279.9,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 10067,
+        ["rank_raids"] = 10068,
         ["kill_count"] = 7,
-        ["points"] = 6544.3,
+        ["points"] = 6544.2,
       },
     },
   },
@@ -45939,9 +45939,9 @@ UWULogsData[5][1] = {
         ["points"] = 9115.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2504,
+        ["rank_raids"] = 2505,
         ["kill_count"] = 6,
-        ["points"] = 8799.8,
+        ["points"] = 8799.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2547,
@@ -45959,9 +45959,9 @@ UWULogsData[5][1] = {
         ["points"] = 8999.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4338,
+        ["rank_raids"] = 4339,
         ["kill_count"] = 5,
-        ["points"] = 8249.6,
+        ["points"] = 8249.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2485,
@@ -45969,14 +45969,14 @@ UWULogsData[5][1] = {
         ["points"] = 8805.5,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6177,
+        ["rank_raids"] = 6178,
         ["kill_count"] = 4,
-        ["points"] = 7697.9,
+        ["points"] = 7697.6,
       },
     },
   },
   ["Helyna"] = {
-    ["percentile"] = 84.77,
+    ["percentile"] = 84.76,
     ["server"] = "Icecrown",
     ["overall_rank"] = 809,
     ["bosses"] = {
@@ -45991,19 +45991,19 @@ UWULogsData[5][1] = {
         ["points"] = 7698.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6205,
+        ["rank_raids"] = 6208,
         ["kill_count"] = 2,
-        ["points"] = 7689.5,
+        ["points"] = 7688.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5534,
+        ["rank_raids"] = 5535,
         ["kill_count"] = 2,
-        ["points"] = 7890.8,
+        ["points"] = 7890.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5832,
+        ["rank_raids"] = 5833,
         ["kill_count"] = 2,
-        ["points"] = 7801.4,
+        ["points"] = 7801.1,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 582,
@@ -46016,9 +46016,9 @@ UWULogsData[5][1] = {
         ["points"] = 9086.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7738,
+        ["rank_raids"] = 7739,
         ["kill_count"] = 2,
-        ["points"] = 7229.6,
+        ["points"] = 7229.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1315,
@@ -46053,9 +46053,9 @@ UWULogsData[5][1] = {
         ["points"] = 8597.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4120,
+        ["rank_raids"] = 4121,
         ["kill_count"] = 4,
-        ["points"] = 8315.0,
+        ["points"] = 8314.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2924,
@@ -46068,14 +46068,14 @@ UWULogsData[5][1] = {
         ["points"] = 8852.9,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 16103,
+        ["rank_raids"] = 16104,
         ["kill_count"] = 6,
-        ["points"] = 5940.7,
+        ["points"] = 5940.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5559,
+        ["rank_raids"] = 5560,
         ["kill_count"] = 8,
-        ["points"] = 7883.3,
+        ["points"] = 7883.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1494,
@@ -46110,9 +46110,9 @@ UWULogsData[5][1] = {
         ["points"] = 9077.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1941,
+        ["rank_raids"] = 1942,
         ["kill_count"] = 7,
-        ["points"] = 8974.6,
+        ["points"] = 8974.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2608,
@@ -46125,14 +46125,14 @@ UWULogsData[5][1] = {
         ["points"] = 8877.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5738,
+        ["rank_raids"] = 5739,
         ["kill_count"] = 3,
-        ["points"] = 7829.6,
+        ["points"] = 7829.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4708,
+        ["rank_raids"] = 4709,
         ["kill_count"] = 8,
-        ["points"] = 8138.6,
+        ["points"] = 8138.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5145,
@@ -46162,14 +46162,14 @@ UWULogsData[5][1] = {
         ["points"] = 8028.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9797,
+        ["rank_raids"] = 9801,
         ["kill_count"] = 2,
-        ["points"] = 6611.9,
+        ["points"] = 6610.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2754,
+        ["rank_raids"] = 2755,
         ["kill_count"] = 5,
-        ["points"] = 8724.8,
+        ["points"] = 8724.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1866,
@@ -46187,9 +46187,9 @@ UWULogsData[5][1] = {
         ["points"] = 9760.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 12749,
+        ["rank_raids"] = 12750,
         ["kill_count"] = 3,
-        ["points"] = 6276.1,
+        ["points"] = 6276.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1886,
@@ -46203,10 +46203,67 @@ UWULogsData[5][1] = {
       },
     },
   },
-  ["Szaati"] = {
+  ["Lillilii"] = {
     ["percentile"] = 84.7,
     ["server"] = "Icecrown",
     ["overall_rank"] = 813,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 987,
+        ["kill_count"] = 4,
+        ["points"] = 9357.5,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 4100,
+        ["kill_count"] = 5,
+        ["points"] = 8321.0,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 10735,
+        ["kill_count"] = 1,
+        ["points"] = 6477.5,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 4033,
+        ["kill_count"] = 2,
+        ["points"] = 8341.1,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 69,
+        ["kill_count"] = 3,
+        ["points"] = 9932.0,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 4741,
+        ["kill_count"] = 5,
+        ["points"] = 8128.7,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 5469,
+        ["kill_count"] = 2,
+        ["points"] = 7910.3,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 211,
+        ["kill_count"] = 5,
+        ["points"] = 9802.5,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 5256,
+        ["kill_count"] = 4,
+        ["points"] = 7974.2,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 3670,
+        ["kill_count"] = 2,
+        ["points"] = 8450.0,
+      },
+    },
+  },
+  ["Szaati"] = {
+    ["percentile"] = 84.7,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 814,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 696,
@@ -46224,14 +46281,14 @@ UWULogsData[5][1] = {
         ["points"] = 8590.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 8286,
+        ["rank_raids"] = 8287,
         ["kill_count"] = 10,
-        ["points"] = 7065.2,
+        ["points"] = 7064.9,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8248,
+        ["rank_raids"] = 8250,
         ["kill_count"] = 16,
-        ["points"] = 7076.6,
+        ["points"] = 7076.0,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2151,
@@ -46239,14 +46296,14 @@ UWULogsData[5][1] = {
         ["points"] = 8905.7,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5755,
+        ["rank_raids"] = 5756,
         ["kill_count"] = 17,
-        ["points"] = 7824.5,
+        ["points"] = 7824.2,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 508,
         ["kill_count"] = 17,
-        ["points"] = 9608.02,
+        ["points"] = 9608.09,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2387,
@@ -46254,66 +46311,9 @@ UWULogsData[5][1] = {
         ["points"] = 8834.9,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6053,
+        ["rank_raids"] = 6054,
         ["kill_count"] = 5,
-        ["points"] = 7735.1,
-      },
-    },
-  },
-  ["Lillilii"] = {
-    ["percentile"] = 84.7,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 814,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 987,
-        ["kill_count"] = 4,
-        ["points"] = 9357.5,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 4100,
-        ["kill_count"] = 5,
-        ["points"] = 8321.0,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10731,
-        ["kill_count"] = 1,
-        ["points"] = 6477.9,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 4032,
-        ["kill_count"] = 2,
-        ["points"] = 8341.4,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 69,
-        ["kill_count"] = 3,
-        ["points"] = 9932.0,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 4741,
-        ["kill_count"] = 5,
-        ["points"] = 8128.7,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 5468,
-        ["kill_count"] = 2,
-        ["points"] = 7910.6,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 211,
-        ["kill_count"] = 5,
-        ["points"] = 9802.47,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 5256,
-        ["kill_count"] = 4,
-        ["points"] = 7974.2,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 3670,
-        ["kill_count"] = 2,
-        ["points"] = 8450.0,
+        ["points"] = 7734.8,
       },
     },
   },
@@ -46333,14 +46333,14 @@ UWULogsData[5][1] = {
         ["points"] = 9350.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4335,
+        ["rank_raids"] = 4337,
         ["kill_count"] = 2,
-        ["points"] = 8250.5,
+        ["points"] = 8249.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 13380,
+        ["rank_raids"] = 13382,
         ["kill_count"] = 2,
-        ["points"] = 6213.0,
+        ["points"] = 6212.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 354,
@@ -46358,9 +46358,9 @@ UWULogsData[5][1] = {
         ["points"] = 9540.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 15610,
+        ["rank_raids"] = 15611,
         ["kill_count"] = 3,
-        ["points"] = 5990.0,
+        ["points"] = 5989.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1046,
@@ -46368,9 +46368,9 @@ UWULogsData[5][1] = {
         ["points"] = 9332.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7559,
+        ["rank_raids"] = 7560,
         ["kill_count"] = 6,
-        ["points"] = 7283.3,
+        ["points"] = 7283.0,
       },
     },
   },
@@ -46390,14 +46390,14 @@ UWULogsData[5][1] = {
         ["points"] = 8642.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5539,
+        ["rank_raids"] = 5542,
         ["kill_count"] = 2,
-        ["points"] = 7889.3,
+        ["points"] = 7888.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4972,
+        ["rank_raids"] = 4973,
         ["kill_count"] = 5,
-        ["points"] = 8059.4,
+        ["points"] = 8059.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1503,
@@ -46415,9 +46415,9 @@ UWULogsData[5][1] = {
         ["points"] = 9201.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 9138,
+        ["rank_raids"] = 9139,
         ["kill_count"] = 7,
-        ["points"] = 6809.6,
+        ["points"] = 6809.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4970,
@@ -46437,9 +46437,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 817,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5709,
+        ["rank_raids"] = 5710,
         ["kill_count"] = 7,
-        ["points"] = 7838.3,
+        ["points"] = 7838.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 7380,
@@ -46447,14 +46447,14 @@ UWULogsData[5][1] = {
         ["points"] = 7337.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8394,
+        ["rank_raids"] = 8398,
         ["kill_count"] = 1,
-        ["points"] = 7032.8,
+        ["points"] = 7031.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4259,
+        ["rank_raids"] = 4260,
         ["kill_count"] = 6,
-        ["points"] = 8273.3,
+        ["points"] = 8273.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2839,
@@ -46472,9 +46472,9 @@ UWULogsData[5][1] = {
         ["points"] = 9212.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2186,
+        ["rank_raids"] = 2187,
         ["kill_count"] = 8,
-        ["points"] = 8895.2,
+        ["points"] = 8894.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 954,
@@ -46494,9 +46494,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 818,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5739,
+        ["rank_raids"] = 5740,
         ["kill_count"] = 10,
-        ["points"] = 7829.3,
+        ["points"] = 7829.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6959,
@@ -46504,14 +46504,14 @@ UWULogsData[5][1] = {
         ["points"] = 7463.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 12651,
+        ["rank_raids"] = 12656,
         ["kill_count"] = 1,
-        ["points"] = 6285.9,
+        ["points"] = 6285.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2527,
+        ["rank_raids"] = 2528,
         ["kill_count"] = 7,
-        ["points"] = 8792.9,
+        ["points"] = 8792.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1776,
@@ -46529,9 +46529,9 @@ UWULogsData[5][1] = {
         ["points"] = 9031.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2429,
+        ["rank_raids"] = 2430,
         ["kill_count"] = 11,
-        ["points"] = 8822.3,
+        ["points"] = 8822.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1191,
@@ -46561,19 +46561,19 @@ UWULogsData[5][1] = {
         ["points"] = 9123.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5762,
+        ["rank_raids"] = 5765,
         ["kill_count"] = 2,
-        ["points"] = 7822.4,
+        ["points"] = 7821.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4819,
+        ["rank_raids"] = 4820,
         ["kill_count"] = 2,
-        ["points"] = 8105.3,
+        ["points"] = 8105.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4912,
+        ["rank_raids"] = 4913,
         ["kill_count"] = 4,
-        ["points"] = 8077.4,
+        ["points"] = 8077.1,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3652,
@@ -46586,9 +46586,9 @@ UWULogsData[5][1] = {
         ["points"] = 9012.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1221,
+        ["rank_raids"] = 1222,
         ["kill_count"] = 8,
-        ["points"] = 9262.6,
+        ["points"] = 9262.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7326,
@@ -46596,9 +46596,9 @@ UWULogsData[5][1] = {
         ["points"] = 7353.2,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5184,
+        ["rank_raids"] = 5185,
         ["kill_count"] = 3,
-        ["points"] = 7995.8,
+        ["points"] = 7995.5,
       },
     },
   },
@@ -46623,14 +46623,14 @@ UWULogsData[5][1] = {
         ["points"] = 8705.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6753,
+        ["rank_raids"] = 6754,
         ["kill_count"] = 6,
-        ["points"] = 7525.1,
+        ["points"] = 7524.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4899,
+        ["rank_raids"] = 4900,
         ["kill_count"] = 3,
-        ["points"] = 8081.3,
+        ["points"] = 8081.0,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1319,
@@ -46643,9 +46643,9 @@ UWULogsData[5][1] = {
         ["points"] = 9019.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3673,
+        ["rank_raids"] = 3674,
         ["kill_count"] = 5,
-        ["points"] = 8449.1,
+        ["points"] = 8448.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 9835,
@@ -46660,7 +46660,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Imascripter"] = {
-    ["percentile"] = 84.63,
+    ["percentile"] = 84.62,
     ["server"] = "Icecrown",
     ["overall_rank"] = 821,
     ["bosses"] = {
@@ -46680,14 +46680,14 @@ UWULogsData[5][1] = {
         ["points"] = 8921.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7269,
+        ["rank_raids"] = 7270,
         ["kill_count"] = 6,
-        ["points"] = 7370.3,
+        ["points"] = 7370.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6392,
+        ["rank_raids"] = 6394,
         ["kill_count"] = 1,
-        ["points"] = 7633.4,
+        ["points"] = 7632.8,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3204,
@@ -46695,14 +46695,14 @@ UWULogsData[5][1] = {
         ["points"] = 8589.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3797,
+        ["rank_raids"] = 3798,
         ["kill_count"] = 3,
-        ["points"] = 8411.9,
+        ["points"] = 8411.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3392,
+        ["rank_raids"] = 3393,
         ["kill_count"] = 15,
-        ["points"] = 8533.4,
+        ["points"] = 8533.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1318,
@@ -46710,9 +46710,9 @@ UWULogsData[5][1] = {
         ["points"] = 9223.8,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5538,
+        ["rank_raids"] = 5539,
         ["kill_count"] = 15,
-        ["points"] = 7889.6,
+        ["points"] = 7889.3,
       },
     },
   },
@@ -46737,9 +46737,9 @@ UWULogsData[5][1] = {
         ["points"] = 8861.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5693,
+        ["rank_raids"] = 5694,
         ["kill_count"] = 7,
-        ["points"] = 7843.1,
+        ["points"] = 7842.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1994,
@@ -46752,14 +46752,14 @@ UWULogsData[5][1] = {
         ["points"] = 8573.3,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3268,
+        ["rank_raids"] = 3269,
         ["kill_count"] = 6,
-        ["points"] = 8570.6,
+        ["points"] = 8570.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 9684,
+        ["rank_raids"] = 9685,
         ["kill_count"] = 6,
-        ["points"] = 6645.8,
+        ["points"] = 6645.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5680,
@@ -46794,29 +46794,29 @@ UWULogsData[5][1] = {
         ["points"] = 9747.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4990,
+        ["rank_raids"] = 4991,
         ["kill_count"] = 5,
-        ["points"] = 8054.0,
+        ["points"] = 8053.7,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6527,
+        ["rank_raids"] = 6529,
         ["kill_count"] = 5,
-        ["points"] = 7592.9,
+        ["points"] = 7592.3,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9302,
+        ["rank_raids"] = 9303,
         ["kill_count"] = 4,
-        ["points"] = 6760.4,
+        ["points"] = 6760.1,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3031,
+        ["rank_raids"] = 3032,
         ["kill_count"] = 6,
-        ["points"] = 8641.7,
+        ["points"] = 8641.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3868,
+        ["rank_raids"] = 3869,
         ["kill_count"] = 8,
-        ["points"] = 8390.6,
+        ["points"] = 8390.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6026,
@@ -46846,19 +46846,19 @@ UWULogsData[5][1] = {
         ["points"] = 9771.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4429,
+        ["rank_raids"] = 4431,
         ["kill_count"] = 2,
-        ["points"] = 8222.3,
+        ["points"] = 8221.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7210,
+        ["rank_raids"] = 7211,
         ["kill_count"] = 3,
-        ["points"] = 7388.0,
+        ["points"] = 7387.7,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5671,
+        ["rank_raids"] = 5672,
         ["kill_count"] = 3,
-        ["points"] = 7849.7,
+        ["points"] = 7849.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6093,
@@ -46871,9 +46871,9 @@ UWULogsData[5][1] = {
         ["points"] = 8829.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4510,
+        ["rank_raids"] = 4511,
         ["kill_count"] = 4,
-        ["points"] = 8198.0,
+        ["points"] = 8197.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 767,
@@ -46881,9 +46881,9 @@ UWULogsData[5][1] = {
         ["points"] = 9467.5,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6698,
+        ["rank_raids"] = 6699,
         ["kill_count"] = 5,
-        ["points"] = 7541.6,
+        ["points"] = 7541.3,
       },
     },
   },
@@ -46893,9 +46893,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 825,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5565,
+        ["rank_raids"] = 5566,
         ["kill_count"] = 5,
-        ["points"] = 7881.5,
+        ["points"] = 7881.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3224,
@@ -46908,9 +46908,9 @@ UWULogsData[5][1] = {
         ["points"] = 9207.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6872,
+        ["rank_raids"] = 6873,
         ["kill_count"] = 2,
-        ["points"] = 7489.4,
+        ["points"] = 7489.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2846,
@@ -46928,9 +46928,9 @@ UWULogsData[5][1] = {
         ["points"] = 9209.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8861,
+        ["rank_raids"] = 8862,
         ["kill_count"] = 3,
-        ["points"] = 6892.7,
+        ["points"] = 6892.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4566,
@@ -46945,7 +46945,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Luvien"] = {
-    ["percentile"] = 84.6,
+    ["percentile"] = 84.59,
     ["server"] = "Icecrown",
     ["overall_rank"] = 826,
     ["bosses"] = {
@@ -46960,14 +46960,14 @@ UWULogsData[5][1] = {
         ["points"] = 6436.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7328,
+        ["rank_raids"] = 7331,
         ["kill_count"] = 3,
-        ["points"] = 7352.6,
+        ["points"] = 7351.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1514,
+        ["rank_raids"] = 1515,
         ["kill_count"] = 6,
-        ["points"] = 9145.4,
+        ["points"] = 9145.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 272,
@@ -46980,14 +46980,14 @@ UWULogsData[5][1] = {
         ["points"] = 8968.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 8807,
+        ["rank_raids"] = 8808,
         ["kill_count"] = 7,
-        ["points"] = 6908.9,
+        ["points"] = 6908.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 835,
+        ["rank_raids"] = 836,
         ["kill_count"] = 8,
-        ["points"] = 9433.5,
+        ["points"] = 9433.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1970,
@@ -47002,14 +47002,14 @@ UWULogsData[5][1] = {
     },
   },
   ["Lokiitaa"] = {
-    ["percentile"] = 84.6,
+    ["percentile"] = 84.59,
     ["server"] = "Icecrown",
     ["overall_rank"] = 827,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7288,
+        ["rank_raids"] = 7289,
         ["kill_count"] = 5,
-        ["points"] = 7364.6,
+        ["points"] = 7364.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 494,
@@ -47022,9 +47022,9 @@ UWULogsData[5][1] = {
         ["points"] = 9183.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1004,
+        ["rank_raids"] = 1005,
         ["kill_count"] = 8,
-        ["points"] = 9349.4,
+        ["points"] = 9349.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 456,
@@ -47037,19 +47037,19 @@ UWULogsData[5][1] = {
         ["points"] = 8787.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7932,
+        ["rank_raids"] = 7933,
         ["kill_count"] = 16,
-        ["points"] = 7171.4,
+        ["points"] = 7171.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4025,
+        ["rank_raids"] = 4026,
         ["kill_count"] = 15,
-        ["points"] = 8343.5,
+        ["points"] = 8343.2,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 14978,
+        ["rank_raids"] = 14979,
         ["kill_count"] = 8,
-        ["points"] = 6053.2,
+        ["points"] = 6053.1,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1614,
@@ -47074,19 +47074,19 @@ UWULogsData[5][1] = {
         ["points"] = 7631.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7518,
+        ["rank_raids"] = 7521,
         ["kill_count"] = 3,
-        ["points"] = 7295.6,
+        ["points"] = 7294.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1710,
+        ["rank_raids"] = 1711,
         ["kill_count"] = 5,
-        ["points"] = 9067.0,
+        ["points"] = 9066.6,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4675,
+        ["rank_raids"] = 4676,
         ["kill_count"] = 5,
-        ["points"] = 8148.5,
+        ["points"] = 8148.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3023,
@@ -47099,9 +47099,9 @@ UWULogsData[5][1] = {
         ["points"] = 9660.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5106,
+        ["rank_raids"] = 5107,
         ["kill_count"] = 5,
-        ["points"] = 8019.2,
+        ["points"] = 8018.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2645,
@@ -47131,19 +47131,19 @@ UWULogsData[5][1] = {
         ["points"] = 9409.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3837,
+        ["rank_raids"] = 3838,
         ["kill_count"] = 8,
-        ["points"] = 8399.9,
+        ["points"] = 8399.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5501,
+        ["rank_raids"] = 5502,
         ["kill_count"] = 9,
-        ["points"] = 7900.7,
+        ["points"] = 7900.4,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5598,
+        ["rank_raids"] = 5599,
         ["kill_count"] = 6,
-        ["points"] = 7871.6,
+        ["points"] = 7871.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1935,
@@ -47156,9 +47156,9 @@ UWULogsData[5][1] = {
         ["points"] = 9025.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4832,
+        ["rank_raids"] = 4833,
         ["kill_count"] = 9,
-        ["points"] = 8101.4,
+        ["points"] = 8101.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6326,
@@ -47188,19 +47188,19 @@ UWULogsData[5][1] = {
         ["points"] = 8777.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5614,
+        ["rank_raids"] = 5617,
         ["kill_count"] = 7,
-        ["points"] = 7866.8,
+        ["points"] = 7865.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4297,
+        ["rank_raids"] = 4298,
         ["kill_count"] = 8,
-        ["points"] = 8261.9,
+        ["points"] = 8261.6,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4892,
+        ["rank_raids"] = 4893,
         ["kill_count"] = 4,
-        ["points"] = 8083.4,
+        ["points"] = 8083.1,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6478,
@@ -47215,7 +47215,7 @@ UWULogsData[5][1] = {
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 523,
         ["kill_count"] = 11,
-        ["points"] = 9595.68,
+        ["points"] = 9595.74,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4626,
@@ -47250,14 +47250,14 @@ UWULogsData[5][1] = {
         ["points"] = 9183.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1467,
+        ["rank_raids"] = 1468,
         ["kill_count"] = 19,
-        ["points"] = 9164.2,
+        ["points"] = 9163.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6708,
+        ["rank_raids"] = 6710,
         ["kill_count"] = 16,
-        ["points"] = 7538.6,
+        ["points"] = 7538.0,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2244,
@@ -47265,14 +47265,14 @@ UWULogsData[5][1] = {
         ["points"] = 8877.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 8010,
+        ["rank_raids"] = 8011,
         ["kill_count"] = 27,
-        ["points"] = 7148.0,
+        ["points"] = 7147.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2107,
+        ["rank_raids"] = 2108,
         ["kill_count"] = 29,
-        ["points"] = 8918.9,
+        ["points"] = 8918.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4277,
@@ -47280,9 +47280,9 @@ UWULogsData[5][1] = {
         ["points"] = 8267.9,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6882,
+        ["rank_raids"] = 6883,
         ["kill_count"] = 25,
-        ["points"] = 7486.4,
+        ["points"] = 7486.1,
       },
     },
   },
@@ -47292,9 +47292,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 832,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 18280,
+        ["rank_raids"] = 18283,
         ["kill_count"] = 2,
-        ["points"] = 5723.0,
+        ["points"] = 5722.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 15,
@@ -47307,9 +47307,9 @@ UWULogsData[5][1] = {
         ["points"] = 9938.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3043,
+        ["rank_raids"] = 3044,
         ["kill_count"] = 2,
-        ["points"] = 8638.1,
+        ["points"] = 8637.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1879,
@@ -47322,14 +47322,14 @@ UWULogsData[5][1] = {
         ["points"] = 9991.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 23276,
+        ["rank_raids"] = 23279,
         ["kill_count"] = 2,
-        ["points"] = 5223.4,
+        ["points"] = 5223.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2943,
+        ["rank_raids"] = 2944,
         ["kill_count"] = 8,
-        ["points"] = 8668.1,
+        ["points"] = 8667.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6016,
@@ -47359,19 +47359,19 @@ UWULogsData[5][1] = {
         ["points"] = 8924.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4551,
+        ["rank_raids"] = 4553,
         ["kill_count"] = 6,
-        ["points"] = 8185.7,
+        ["points"] = 8185.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4327,
+        ["rank_raids"] = 4328,
         ["kill_count"] = 5,
-        ["points"] = 8252.9,
+        ["points"] = 8252.6,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4094,
+        ["rank_raids"] = 4095,
         ["kill_count"] = 4,
-        ["points"] = 8322.8,
+        ["points"] = 8322.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5869,
@@ -47384,9 +47384,9 @@ UWULogsData[5][1] = {
         ["points"] = 8881.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4717,
+        ["rank_raids"] = 4718,
         ["kill_count"] = 6,
-        ["points"] = 8135.9,
+        ["points"] = 8135.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2316,
@@ -47401,14 +47401,14 @@ UWULogsData[5][1] = {
     },
   },
   ["Drsmite"] = {
-    ["percentile"] = 84.54,
+    ["percentile"] = 84.53,
     ["server"] = "Icecrown",
     ["overall_rank"] = 834,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9298,
+        ["rank_raids"] = 9301,
         ["kill_count"] = 6,
-        ["points"] = 6761.6,
+        ["points"] = 6760.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 275,
@@ -47416,19 +47416,19 @@ UWULogsData[5][1] = {
         ["points"] = 9751.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7573,
+        ["rank_raids"] = 7576,
         ["kill_count"] = 6,
-        ["points"] = 7279.1,
+        ["points"] = 7278.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3590,
+        ["rank_raids"] = 3591,
         ["kill_count"] = 6,
-        ["points"] = 8474.0,
+        ["points"] = 8473.7,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 12336,
+        ["rank_raids"] = 12338,
         ["kill_count"] = 6,
-        ["points"] = 6317.4,
+        ["points"] = 6317.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 982,
@@ -47436,14 +47436,14 @@ UWULogsData[5][1] = {
         ["points"] = 9360.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6643,
+        ["rank_raids"] = 6644,
         ["kill_count"] = 6,
-        ["points"] = 7558.1,
+        ["points"] = 7557.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 904,
+        ["rank_raids"] = 905,
         ["kill_count"] = 6,
-        ["points"] = 9399.0,
+        ["points"] = 9398.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 202,
@@ -47463,9 +47463,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 835,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5108,
+        ["rank_raids"] = 5109,
         ["kill_count"] = 8,
-        ["points"] = 8018.6,
+        ["points"] = 8018.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5667,
@@ -47478,9 +47478,9 @@ UWULogsData[5][1] = {
         ["points"] = 8775.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 860,
+        ["rank_raids"] = 861,
         ["kill_count"] = 12,
-        ["points"] = 9421.0,
+        ["points"] = 9420.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 658,
@@ -47493,14 +47493,14 @@ UWULogsData[5][1] = {
         ["points"] = 8794.1,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 16350,
+        ["rank_raids"] = 16351,
         ["kill_count"] = 6,
-        ["points"] = 5916.0,
+        ["points"] = 5915.9,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 414,
         ["kill_count"] = 19,
-        ["points"] = 9657.41,
+        ["points"] = 9657.46,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7151,
@@ -47520,9 +47520,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 836,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 13003,
+        ["rank_raids"] = 13006,
         ["kill_count"] = 3,
-        ["points"] = 6250.7,
+        ["points"] = 6250.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 566,
@@ -47535,14 +47535,14 @@ UWULogsData[5][1] = {
         ["points"] = 9900.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 19592,
+        ["rank_raids"] = 19595,
         ["kill_count"] = 3,
-        ["points"] = 5591.8,
+        ["points"] = 5591.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4347,
+        ["rank_raids"] = 4348,
         ["kill_count"] = 2,
-        ["points"] = 8246.9,
+        ["points"] = 8246.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 133,
@@ -47555,9 +47555,9 @@ UWULogsData[5][1] = {
         ["points"] = 9751.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2348,
+        ["rank_raids"] = 2349,
         ["kill_count"] = 7,
-        ["points"] = 8846.6,
+        ["points"] = 8846.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3358,
@@ -47565,14 +47565,14 @@ UWULogsData[5][1] = {
         ["points"] = 8543.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5394,
+        ["rank_raids"] = 5395,
         ["kill_count"] = 5,
-        ["points"] = 7932.8,
+        ["points"] = 7932.5,
       },
     },
   },
   ["Pulsarr"] = {
-    ["percentile"] = 84.51,
+    ["percentile"] = 84.5,
     ["server"] = "Icecrown",
     ["overall_rank"] = 837,
     ["bosses"] = {
@@ -47587,14 +47587,14 @@ UWULogsData[5][1] = {
         ["points"] = 8659.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6401,
+        ["rank_raids"] = 6404,
         ["kill_count"] = 2,
-        ["points"] = 7630.7,
+        ["points"] = 7629.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4838,
+        ["rank_raids"] = 4839,
         ["kill_count"] = 5,
-        ["points"] = 8099.6,
+        ["points"] = 8099.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3416,
@@ -47612,9 +47612,9 @@ UWULogsData[5][1] = {
         ["points"] = 9305.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6371,
+        ["rank_raids"] = 6372,
         ["kill_count"] = 4,
-        ["points"] = 7639.7,
+        ["points"] = 7639.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2877,
@@ -47649,9 +47649,9 @@ UWULogsData[5][1] = {
         ["points"] = 8474.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2922,
+        ["rank_raids"] = 2923,
         ["kill_count"] = 9,
-        ["points"] = 8674.4,
+        ["points"] = 8674.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1221,
@@ -47664,14 +47664,14 @@ UWULogsData[5][1] = {
         ["points"] = 8932.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6719,
+        ["rank_raids"] = 6720,
         ["kill_count"] = 8,
-        ["points"] = 7535.3,
+        ["points"] = 7535.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5647,
+        ["rank_raids"] = 5648,
         ["kill_count"] = 13,
-        ["points"] = 7856.9,
+        ["points"] = 7856.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6413,
@@ -47691,9 +47691,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 839,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7575,
+        ["rank_raids"] = 7577,
         ["kill_count"] = 10,
-        ["points"] = 7278.5,
+        ["points"] = 7277.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2869,
@@ -47706,9 +47706,9 @@ UWULogsData[5][1] = {
         ["points"] = 8769.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5444,
+        ["rank_raids"] = 5445,
         ["kill_count"] = 10,
-        ["points"] = 7917.8,
+        ["points"] = 7917.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 792,
@@ -47721,14 +47721,14 @@ UWULogsData[5][1] = {
         ["points"] = 9593.5,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 8452,
+        ["rank_raids"] = 8453,
         ["kill_count"] = 12,
-        ["points"] = 7015.4,
+        ["points"] = 7015.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5553,
+        ["rank_raids"] = 5554,
         ["kill_count"] = 11,
-        ["points"] = 7885.1,
+        ["points"] = 7884.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1185,
@@ -47763,14 +47763,14 @@ UWULogsData[5][1] = {
         ["points"] = 9721.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 8555,
+        ["rank_raids"] = 8556,
         ["kill_count"] = 8,
-        ["points"] = 6984.5,
+        ["points"] = 6984.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 16792,
+        ["rank_raids"] = 16794,
         ["kill_count"] = 5,
-        ["points"] = 5871.8,
+        ["points"] = 5871.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3340,
@@ -47778,14 +47778,14 @@ UWULogsData[5][1] = {
         ["points"] = 8549.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 14677,
+        ["rank_raids"] = 14678,
         ["kill_count"] = 15,
-        ["points"] = 6083.3,
+        ["points"] = 6083.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2667,
+        ["rank_raids"] = 2668,
         ["kill_count"] = 15,
-        ["points"] = 8750.9,
+        ["points"] = 8750.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 598,
@@ -47820,9 +47820,9 @@ UWULogsData[5][1] = {
         ["points"] = 8539.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2565,
+        ["rank_raids"] = 2566,
         ["kill_count"] = 6,
-        ["points"] = 8781.5,
+        ["points"] = 8781.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3737,
@@ -47835,14 +47835,14 @@ UWULogsData[5][1] = {
         ["points"] = 8963.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 8213,
+        ["rank_raids"] = 8214,
         ["kill_count"] = 5,
-        ["points"] = 7087.1,
+        ["points"] = 7086.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7946,
+        ["rank_raids"] = 7947,
         ["kill_count"] = 5,
-        ["points"] = 7167.2,
+        ["points"] = 7166.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3569,
@@ -47877,14 +47877,14 @@ UWULogsData[5][1] = {
         ["points"] = 8762.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2137,
+        ["rank_raids"] = 2138,
         ["kill_count"] = 5,
-        ["points"] = 8909.9,
+        ["points"] = 8909.6,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9930,
+        ["rank_raids"] = 9932,
         ["kill_count"] = 4,
-        ["points"] = 6572.0,
+        ["points"] = 6571.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1666,
@@ -47892,14 +47892,14 @@ UWULogsData[5][1] = {
         ["points"] = 9084.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6296,
+        ["rank_raids"] = 6297,
         ["kill_count"] = 5,
-        ["points"] = 7662.2,
+        ["points"] = 7661.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7594,
+        ["rank_raids"] = 7595,
         ["kill_count"] = 5,
-        ["points"] = 7272.8,
+        ["points"] = 7272.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1589,
@@ -47919,9 +47919,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 843,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7049,
+        ["rank_raids"] = 7050,
         ["kill_count"] = 5,
-        ["points"] = 7436.3,
+        ["points"] = 7436.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2839,
@@ -47929,14 +47929,14 @@ UWULogsData[5][1] = {
         ["points"] = 8699.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3840,
+        ["rank_raids"] = 3841,
         ["kill_count"] = 3,
-        ["points"] = 8399.0,
+        ["points"] = 8398.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5932,
+        ["rank_raids"] = 5933,
         ["kill_count"] = 3,
-        ["points"] = 7771.4,
+        ["points"] = 7771.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1036,
@@ -47954,9 +47954,9 @@ UWULogsData[5][1] = {
         ["points"] = 8979.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1426,
+        ["rank_raids"] = 1427,
         ["kill_count"] = 5,
-        ["points"] = 9180.6,
+        ["points"] = 9180.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4315,
@@ -47991,9 +47991,9 @@ UWULogsData[5][1] = {
         ["points"] = 8829.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4495,
+        ["rank_raids"] = 4496,
         ["kill_count"] = 4,
-        ["points"] = 8202.5,
+        ["points"] = 8202.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2616,
@@ -48006,14 +48006,14 @@ UWULogsData[5][1] = {
         ["points"] = 8710.7,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3437,
+        ["rank_raids"] = 3438,
         ["kill_count"] = 3,
-        ["points"] = 8519.9,
+        ["points"] = 8519.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8196,
+        ["rank_raids"] = 8197,
         ["kill_count"] = 3,
-        ["points"] = 7092.2,
+        ["points"] = 7091.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2329,
@@ -48021,9 +48021,9 @@ UWULogsData[5][1] = {
         ["points"] = 8852.3,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6473,
+        ["rank_raids"] = 6474,
         ["kill_count"] = 2,
-        ["points"] = 7609.1,
+        ["points"] = 7608.8,
       },
     },
   },
@@ -48048,9 +48048,9 @@ UWULogsData[5][1] = {
         ["points"] = 9438.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 11255,
+        ["rank_raids"] = 11256,
         ["kill_count"] = 3,
-        ["points"] = 6425.5,
+        ["points"] = 6425.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2783,
@@ -48063,14 +48063,14 @@ UWULogsData[5][1] = {
         ["points"] = 8453.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10670,
+        ["rank_raids"] = 10671,
         ["kill_count"] = 4,
-        ["points"] = 6484.0,
+        ["points"] = 6483.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2064,
+        ["rank_raids"] = 2065,
         ["kill_count"] = 4,
-        ["points"] = 8931.8,
+        ["points"] = 8931.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2130,
@@ -48105,14 +48105,14 @@ UWULogsData[5][1] = {
         ["points"] = 9067.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4203,
+        ["rank_raids"] = 4204,
         ["kill_count"] = 10,
-        ["points"] = 8290.1,
+        ["points"] = 8289.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4250,
+        ["rank_raids"] = 4251,
         ["kill_count"] = 11,
-        ["points"] = 8276.0,
+        ["points"] = 8275.7,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1041,
@@ -48120,14 +48120,14 @@ UWULogsData[5][1] = {
         ["points"] = 9334.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6235,
+        ["rank_raids"] = 6236,
         ["kill_count"] = 10,
-        ["points"] = 7680.5,
+        ["points"] = 7680.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6221,
+        ["rank_raids"] = 6222,
         ["kill_count"] = 15,
-        ["points"] = 7684.7,
+        ["points"] = 7684.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4285,
@@ -48135,21 +48135,78 @@ UWULogsData[5][1] = {
         ["points"] = 8265.5,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8833,
+        ["rank_raids"] = 8834,
         ["kill_count"] = 12,
-        ["points"] = 6901.1,
+        ["points"] = 6900.8,
+      },
+    },
+  },
+  ["Discophi"] = {
+    ["percentile"] = 84.34,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 847,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 3937,
+        ["kill_count"] = 9,
+        ["points"] = 8369.9,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 393,
+        ["kill_count"] = 6,
+        ["points"] = 9665.9,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 5240,
+        ["kill_count"] = 2,
+        ["points"] = 7979.0,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 2960,
+        ["kill_count"] = 11,
+        ["points"] = 8663.0,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 19108,
+        ["kill_count"] = 11,
+        ["points"] = 5640.2,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 1554,
+        ["kill_count"] = 3,
+        ["points"] = 9129.4,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 35,
+        ["kill_count"] = 15,
+        ["points"] = 9966.0,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 4853,
+        ["kill_count"] = 16,
+        ["points"] = 8095.1,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 4966,
+        ["kill_count"] = 12,
+        ["points"] = 8061.2,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 2611,
+        ["kill_count"] = 13,
+        ["points"] = 8767.7,
       },
     },
   },
   ["Posiible"] = {
     ["percentile"] = 84.34,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 847,
+    ["overall_rank"] = 848,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5185,
+        ["rank_raids"] = 5186,
         ["kill_count"] = 8,
-        ["points"] = 7995.5,
+        ["points"] = 7995.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5899,
@@ -48157,14 +48214,14 @@ UWULogsData[5][1] = {
         ["points"] = 7781.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5966,
+        ["rank_raids"] = 5969,
         ["kill_count"] = 2,
-        ["points"] = 7761.2,
+        ["points"] = 7760.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2248,
+        ["rank_raids"] = 2249,
         ["kill_count"] = 7,
-        ["points"] = 8876.6,
+        ["points"] = 8876.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1924,
@@ -48182,9 +48239,9 @@ UWULogsData[5][1] = {
         ["points"] = 8700.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6538,
+        ["rank_raids"] = 6539,
         ["kill_count"] = 4,
-        ["points"] = 7589.6,
+        ["points"] = 7589.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1786,
@@ -48192,66 +48249,9 @@ UWULogsData[5][1] = {
         ["points"] = 9036.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4415,
+        ["rank_raids"] = 4416,
         ["kill_count"] = 9,
-        ["points"] = 8226.5,
-      },
-    },
-  },
-  ["Discophi"] = {
-    ["percentile"] = 84.34,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 848,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 3937,
-        ["kill_count"] = 9,
-        ["points"] = 8369.9,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 393,
-        ["kill_count"] = 6,
-        ["points"] = 9665.9,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5238,
-        ["kill_count"] = 2,
-        ["points"] = 7979.6,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 2959,
-        ["kill_count"] = 11,
-        ["points"] = 8663.3,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 19106,
-        ["kill_count"] = 11,
-        ["points"] = 5640.4,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 1554,
-        ["kill_count"] = 3,
-        ["points"] = 9129.4,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 35,
-        ["kill_count"] = 15,
-        ["points"] = 9966.0,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4852,
-        ["kill_count"] = 16,
-        ["points"] = 8095.4,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 4966,
-        ["kill_count"] = 12,
-        ["points"] = 8061.2,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 2611,
-        ["kill_count"] = 13,
-        ["points"] = 8767.7,
+        ["points"] = 8226.2,
       },
     },
   },
@@ -48261,9 +48261,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 849,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5099,
+        ["rank_raids"] = 5100,
         ["kill_count"] = 7,
-        ["points"] = 8021.3,
+        ["points"] = 8021.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1095,
@@ -48276,9 +48276,9 @@ UWULogsData[5][1] = {
         ["points"] = 9250.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3264,
+        ["rank_raids"] = 3265,
         ["kill_count"] = 7,
-        ["points"] = 8571.8,
+        ["points"] = 8571.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 569,
@@ -48296,9 +48296,9 @@ UWULogsData[5][1] = {
         ["points"] = 9421.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 9200,
+        ["rank_raids"] = 9201,
         ["kill_count"] = 13,
-        ["points"] = 6791.0,
+        ["points"] = 6790.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7153,
@@ -48333,9 +48333,9 @@ UWULogsData[5][1] = {
         ["points"] = 8699.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2086,
+        ["rank_raids"] = 2087,
         ["kill_count"] = 4,
-        ["points"] = 8925.2,
+        ["points"] = 8924.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2696,
@@ -48353,9 +48353,9 @@ UWULogsData[5][1] = {
         ["points"] = 9033.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2724,
+        ["rank_raids"] = 2725,
         ["kill_count"] = 4,
-        ["points"] = 8733.8,
+        ["points"] = 8733.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5178,
@@ -48363,9 +48363,9 @@ UWULogsData[5][1] = {
         ["points"] = 7997.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4864,
+        ["rank_raids"] = 4865,
         ["kill_count"] = 6,
-        ["points"] = 8091.8,
+        ["points"] = 8091.5,
       },
     },
   },
@@ -48390,9 +48390,9 @@ UWULogsData[5][1] = {
         ["points"] = 9283.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7088,
+        ["rank_raids"] = 7089,
         ["kill_count"] = 20,
-        ["points"] = 7424.6,
+        ["points"] = 7424.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3041,
@@ -48410,9 +48410,9 @@ UWULogsData[5][1] = {
         ["points"] = 9536.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2851,
+        ["rank_raids"] = 2852,
         ["kill_count"] = 29,
-        ["points"] = 8695.7,
+        ["points"] = 8695.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3107,
@@ -48442,19 +48442,19 @@ UWULogsData[5][1] = {
         ["points"] = 9478.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5007,
+        ["rank_raids"] = 5009,
         ["kill_count"] = 4,
-        ["points"] = 8048.9,
+        ["points"] = 8048.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6392,
+        ["rank_raids"] = 6393,
         ["kill_count"] = 12,
-        ["points"] = 7633.4,
+        ["points"] = 7633.1,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 3994,
+        ["rank_raids"] = 3995,
         ["kill_count"] = 7,
-        ["points"] = 8352.8,
+        ["points"] = 8352.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1549,
@@ -48467,9 +48467,9 @@ UWULogsData[5][1] = {
         ["points"] = 9234.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 11035,
+        ["rank_raids"] = 11036,
         ["kill_count"] = 13,
-        ["points"] = 6447.5,
+        ["points"] = 6447.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7097,
@@ -48499,19 +48499,19 @@ UWULogsData[5][1] = {
         ["points"] = 8261.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 11730,
+        ["rank_raids"] = 11735,
         ["kill_count"] = 1,
-        ["points"] = 6378.0,
+        ["points"] = 6377.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3359,
+        ["rank_raids"] = 3360,
         ["kill_count"] = 2,
-        ["points"] = 8543.3,
+        ["points"] = 8543.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5111,
+        ["rank_raids"] = 5112,
         ["kill_count"] = 10,
-        ["points"] = 8017.7,
+        ["points"] = 8017.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1130,
@@ -48524,9 +48524,9 @@ UWULogsData[5][1] = {
         ["points"] = 8849.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4186,
+        ["rank_raids"] = 4187,
         ["kill_count"] = 12,
-        ["points"] = 8295.2,
+        ["points"] = 8294.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2099,
@@ -48541,7 +48541,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Devola"] = {
-    ["percentile"] = 84.29,
+    ["percentile"] = 84.28,
     ["server"] = "Icecrown",
     ["overall_rank"] = 854,
     ["bosses"] = {
@@ -48561,9 +48561,9 @@ UWULogsData[5][1] = {
         ["points"] = 8858.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2216,
+        ["rank_raids"] = 2217,
         ["kill_count"] = 3,
-        ["points"] = 8886.2,
+        ["points"] = 8885.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1038,
@@ -48571,9 +48571,9 @@ UWULogsData[5][1] = {
         ["points"] = 9335.8,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 7799,
+        ["rank_raids"] = 7800,
         ["kill_count"] = 5,
-        ["points"] = 7211.3,
+        ["points"] = 7211.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 267,
@@ -48581,9 +48581,9 @@ UWULogsData[5][1] = {
         ["points"] = 9757.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4147,
+        ["rank_raids"] = 4148,
         ["kill_count"] = 5,
-        ["points"] = 8306.9,
+        ["points"] = 8306.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 10290,
@@ -48591,9 +48591,9 @@ UWULogsData[5][1] = {
         ["points"] = 6522.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5200,
+        ["rank_raids"] = 5201,
         ["kill_count"] = 5,
-        ["points"] = 7991.0,
+        ["points"] = 7990.7,
       },
     },
   },
@@ -48613,14 +48613,14 @@ UWULogsData[5][1] = {
         ["points"] = 7595.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3863,
+        ["rank_raids"] = 3864,
         ["kill_count"] = 6,
-        ["points"] = 8392.1,
+        ["points"] = 8391.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7558,
+        ["rank_raids"] = 7559,
         ["kill_count"] = 8,
-        ["points"] = 7283.6,
+        ["points"] = 7283.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2011,
@@ -48638,9 +48638,9 @@ UWULogsData[5][1] = {
         ["points"] = 9243.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4661,
+        ["rank_raids"] = 4662,
         ["kill_count"] = 11,
-        ["points"] = 8152.7,
+        ["points"] = 8152.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1625,
@@ -48660,9 +48660,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 856,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 12912,
+        ["rank_raids"] = 12915,
         ["kill_count"] = 1,
-        ["points"] = 6259.8,
+        ["points"] = 6259.5,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2281,
@@ -48675,9 +48675,9 @@ UWULogsData[5][1] = {
         ["points"] = 8714.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 9498,
+        ["rank_raids"] = 9499,
         ["kill_count"] = 1,
-        ["points"] = 6701.6,
+        ["points"] = 6701.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2070,
@@ -48695,9 +48695,9 @@ UWULogsData[5][1] = {
         ["points"] = 9363.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2484,
+        ["rank_raids"] = 2485,
         ["kill_count"] = 4,
-        ["points"] = 8805.8,
+        ["points"] = 8805.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2333,
@@ -48717,9 +48717,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 857,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 17664,
+        ["rank_raids"] = 17667,
         ["kill_count"] = 10,
-        ["points"] = 5784.6,
+        ["points"] = 5784.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2167,
@@ -48732,9 +48732,9 @@ UWULogsData[5][1] = {
         ["points"] = 9823.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1247,
+        ["rank_raids"] = 1248,
         ["kill_count"] = 11,
-        ["points"] = 9252.2,
+        ["points"] = 9251.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2090,
@@ -48747,14 +48747,14 @@ UWULogsData[5][1] = {
         ["points"] = 9557.5,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 21273,
+        ["rank_raids"] = 21275,
         ["kill_count"] = 22,
-        ["points"] = 5423.7,
+        ["points"] = 5423.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3688,
+        ["rank_raids"] = 3689,
         ["kill_count"] = 21,
-        ["points"] = 8444.6,
+        ["points"] = 8444.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 874,
@@ -48789,14 +48789,14 @@ UWULogsData[5][1] = {
         ["points"] = 9269.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3525,
+        ["rank_raids"] = 3526,
         ["kill_count"] = 6,
-        ["points"] = 8493.5,
+        ["points"] = 8493.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8409,
+        ["rank_raids"] = 8411,
         ["kill_count"] = 5,
-        ["points"] = 7028.3,
+        ["points"] = 7027.7,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 293,
@@ -48804,14 +48804,14 @@ UWULogsData[5][1] = {
         ["points"] = 9736.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 19097,
+        ["rank_raids"] = 19098,
         ["kill_count"] = 5,
-        ["points"] = 5641.3,
+        ["points"] = 5641.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 968,
+        ["rank_raids"] = 969,
         ["kill_count"] = 5,
-        ["points"] = 9367.0,
+        ["points"] = 9366.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2674,
@@ -48841,14 +48841,14 @@ UWULogsData[5][1] = {
         ["points"] = 8357.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6002,
+        ["rank_raids"] = 6005,
         ["kill_count"] = 4,
-        ["points"] = 7750.4,
+        ["points"] = 7749.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5059,
+        ["rank_raids"] = 5060,
         ["kill_count"] = 7,
-        ["points"] = 8033.3,
+        ["points"] = 8033.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2838,
@@ -48856,9 +48856,9 @@ UWULogsData[5][1] = {
         ["points"] = 8699.6,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8818,
+        ["rank_raids"] = 8819,
         ["kill_count"] = 5,
-        ["points"] = 6905.6,
+        ["points"] = 6905.3,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1565,
@@ -48866,9 +48866,9 @@ UWULogsData[5][1] = {
         ["points"] = 9125.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3398,
+        ["rank_raids"] = 3399,
         ["kill_count"] = 5,
-        ["points"] = 8531.6,
+        ["points"] = 8531.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 683,
@@ -48888,9 +48888,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 860,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7019,
+        ["rank_raids"] = 7020,
         ["kill_count"] = 13,
-        ["points"] = 7445.3,
+        ["points"] = 7445.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3587,
@@ -48898,19 +48898,19 @@ UWULogsData[5][1] = {
         ["points"] = 8474.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4028,
+        ["rank_raids"] = 4030,
         ["kill_count"] = 2,
-        ["points"] = 8342.6,
+        ["points"] = 8342.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1549,
+        ["rank_raids"] = 1550,
         ["kill_count"] = 17,
-        ["points"] = 9131.4,
+        ["points"] = 9131.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6367,
+        ["rank_raids"] = 6369,
         ["kill_count"] = 12,
-        ["points"] = 7640.9,
+        ["points"] = 7640.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2222,
@@ -48923,9 +48923,9 @@ UWULogsData[5][1] = {
         ["points"] = 9234.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1901,
+        ["rank_raids"] = 1902,
         ["kill_count"] = 25,
-        ["points"] = 8990.6,
+        ["points"] = 8990.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5149,
@@ -48933,9 +48933,9 @@ UWULogsData[5][1] = {
         ["points"] = 8006.3,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4915,
+        ["rank_raids"] = 4916,
         ["kill_count"] = 21,
-        ["points"] = 8076.5,
+        ["points"] = 8076.2,
       },
     },
   },
@@ -48960,14 +48960,14 @@ UWULogsData[5][1] = {
         ["points"] = 9356.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5044,
+        ["rank_raids"] = 5045,
         ["kill_count"] = 3,
-        ["points"] = 8037.8,
+        ["points"] = 8037.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6579,
+        ["rank_raids"] = 6581,
         ["kill_count"] = 6,
-        ["points"] = 7577.3,
+        ["points"] = 7576.7,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2512,
@@ -48980,9 +48980,9 @@ UWULogsData[5][1] = {
         ["points"] = 8995.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8971,
+        ["rank_raids"] = 8972,
         ["kill_count"] = 6,
-        ["points"] = 6859.7,
+        ["points"] = 6859.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1767,
@@ -48990,9 +48990,9 @@ UWULogsData[5][1] = {
         ["points"] = 9044.2,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7944,
+        ["rank_raids"] = 7945,
         ["kill_count"] = 3,
-        ["points"] = 7167.8,
+        ["points"] = 7167.5,
       },
     },
   },
@@ -49017,9 +49017,9 @@ UWULogsData[5][1] = {
         ["points"] = 8887.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6240,
+        ["rank_raids"] = 6241,
         ["kill_count"] = 18,
-        ["points"] = 7679.0,
+        ["points"] = 7678.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2188,
@@ -49037,9 +49037,9 @@ UWULogsData[5][1] = {
         ["points"] = 8726.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4167,
+        ["rank_raids"] = 4168,
         ["kill_count"] = 22,
-        ["points"] = 8300.9,
+        ["points"] = 8300.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3568,
@@ -49047,73 +49047,16 @@ UWULogsData[5][1] = {
         ["points"] = 8480.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8208,
+        ["rank_raids"] = 8209,
         ["kill_count"] = 3,
-        ["points"] = 7088.6,
-      },
-    },
-  },
-  ["Xenzak"] = {
-    ["percentile"] = 84.22,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 863,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2194,
-        ["kill_count"] = 3,
-        ["points"] = 8892.8,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 4871,
-        ["kill_count"] = 3,
-        ["points"] = 8089.7,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6400,
-        ["kill_count"] = 2,
-        ["points"] = 7631.0,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 4571,
-        ["kill_count"] = 3,
-        ["points"] = 8179.7,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 5752,
-        ["kill_count"] = 3,
-        ["points"] = 7825.4,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 3832,
-        ["kill_count"] = 3,
-        ["points"] = 8401.4,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 2137,
-        ["kill_count"] = 3,
-        ["points"] = 8909.9,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3071,
-        ["kill_count"] = 3,
-        ["points"] = 8629.7,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 4352,
-        ["kill_count"] = 3,
-        ["points"] = 8245.4,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 877,
-        ["kill_count"] = 1,
-        ["points"] = 9412.5,
+        ["points"] = 7088.3,
       },
     },
   },
   ["Priestosaa"] = {
     ["percentile"] = 84.22,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 864,
+    ["overall_rank"] = 863,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2044,
@@ -49131,9 +49074,9 @@ UWULogsData[5][1] = {
         ["points"] = 8657.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3383,
+        ["rank_raids"] = 3384,
         ["kill_count"] = 6,
-        ["points"] = 8536.1,
+        ["points"] = 8535.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1894,
@@ -49151,19 +49094,76 @@ UWULogsData[5][1] = {
         ["points"] = 9514.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6254,
+        ["rank_raids"] = 6255,
         ["kill_count"] = 7,
-        ["points"] = 7674.8,
+        ["points"] = 7674.5,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 15803,
+        ["rank_raids"] = 15804,
         ["kill_count"] = 1,
-        ["points"] = 5970.7,
+        ["points"] = 5970.6,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1471,
         ["kill_count"] = 6,
         ["points"] = 9162.6,
+      },
+    },
+  },
+  ["Xenzak"] = {
+    ["percentile"] = 84.22,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 864,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 2194,
+        ["kill_count"] = 3,
+        ["points"] = 8892.8,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 4871,
+        ["kill_count"] = 3,
+        ["points"] = 8089.7,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 6403,
+        ["kill_count"] = 2,
+        ["points"] = 7630.1,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 4572,
+        ["kill_count"] = 3,
+        ["points"] = 8179.4,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 5753,
+        ["kill_count"] = 3,
+        ["points"] = 7825.1,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 3832,
+        ["kill_count"] = 3,
+        ["points"] = 8401.4,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 2137,
+        ["kill_count"] = 3,
+        ["points"] = 8909.9,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 3072,
+        ["kill_count"] = 3,
+        ["points"] = 8629.4,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 4352,
+        ["kill_count"] = 3,
+        ["points"] = 8245.4,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 877,
+        ["kill_count"] = 1,
+        ["points"] = 9412.5,
       },
     },
   },
@@ -49173,9 +49173,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 865,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 4905,
+        ["rank_raids"] = 4906,
         ["kill_count"] = 14,
-        ["points"] = 8079.5,
+        ["points"] = 8079.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1757,
@@ -49188,9 +49188,9 @@ UWULogsData[5][1] = {
         ["points"] = 9009.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3020,
+        ["rank_raids"] = 3021,
         ["kill_count"] = 12,
-        ["points"] = 8645.0,
+        ["points"] = 8644.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1945,
@@ -49208,19 +49208,19 @@ UWULogsData[5][1] = {
         ["points"] = 9109.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2220,
+        ["rank_raids"] = 2221,
         ["kill_count"] = 25,
-        ["points"] = 8885.0,
+        ["points"] = 8884.7,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 13004,
+        ["rank_raids"] = 13005,
         ["kill_count"] = 13,
-        ["points"] = 6250.6,
+        ["points"] = 6250.5,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8997,
+        ["rank_raids"] = 8998,
         ["kill_count"] = 4,
-        ["points"] = 6851.9,
+        ["points"] = 6851.6,
       },
     },
   },
@@ -49245,19 +49245,19 @@ UWULogsData[5][1] = {
         ["points"] = 8541.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 9920,
+        ["rank_raids"] = 9921,
         ["kill_count"] = 2,
-        ["points"] = 6575.0,
+        ["points"] = 6574.7,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4556,
+        ["rank_raids"] = 4557,
         ["kill_count"] = 3,
-        ["points"] = 8184.2,
+        ["points"] = 8183.9,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 7411,
+        ["rank_raids"] = 7412,
         ["kill_count"] = 3,
-        ["points"] = 7327.7,
+        ["points"] = 7327.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 549,
@@ -49265,9 +49265,9 @@ UWULogsData[5][1] = {
         ["points"] = 9576.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2032,
+        ["rank_raids"] = 2033,
         ["kill_count"] = 4,
-        ["points"] = 8941.4,
+        ["points"] = 8941.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 745,
@@ -49275,9 +49275,9 @@ UWULogsData[5][1] = {
         ["points"] = 9478.5,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5994,
+        ["rank_raids"] = 5995,
         ["kill_count"] = 2,
-        ["points"] = 7752.8,
+        ["points"] = 7752.5,
       },
     },
   },
@@ -49287,9 +49287,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 867,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10342,
+        ["rank_raids"] = 10345,
         ["kill_count"] = 3,
-        ["points"] = 6516.8,
+        ["points"] = 6516.5,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2552,
@@ -49302,9 +49302,9 @@ UWULogsData[5][1] = {
         ["points"] = 9556.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 688,
+        ["rank_raids"] = 689,
         ["kill_count"] = 7,
-        ["points"] = 9507.0,
+        ["points"] = 9506.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1018,
@@ -49317,14 +49317,14 @@ UWULogsData[5][1] = {
         ["points"] = 8699.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 23388,
+        ["rank_raids"] = 23391,
         ["kill_count"] = 5,
-        ["points"] = 5212.2,
+        ["points"] = 5211.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1660,
+        ["rank_raids"] = 1661,
         ["kill_count"] = 22,
-        ["points"] = 9087.0,
+        ["points"] = 9086.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4576,
@@ -49339,7 +49339,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Discy"] = {
-    ["percentile"] = 84.15,
+    ["percentile"] = 84.14,
     ["server"] = "Icecrown",
     ["overall_rank"] = 868,
     ["bosses"] = {
@@ -49354,24 +49354,24 @@ UWULogsData[5][1] = {
         ["points"] = 9121.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3892,
+        ["rank_raids"] = 3893,
         ["kill_count"] = 9,
-        ["points"] = 8383.4,
+        ["points"] = 8383.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4891,
+        ["rank_raids"] = 4892,
         ["kill_count"] = 19,
-        ["points"] = 8083.7,
+        ["points"] = 8083.4,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4461,
+        ["rank_raids"] = 4462,
         ["kill_count"] = 20,
-        ["points"] = 8212.7,
+        ["points"] = 8212.4,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 7908,
+        ["rank_raids"] = 7909,
         ["kill_count"] = 16,
-        ["points"] = 7178.6,
+        ["points"] = 7178.3,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1688,
@@ -49379,9 +49379,9 @@ UWULogsData[5][1] = {
         ["points"] = 9075.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7823,
+        ["rank_raids"] = 7824,
         ["kill_count"] = 24,
-        ["points"] = 7204.1,
+        ["points"] = 7203.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2449,
@@ -49411,14 +49411,14 @@ UWULogsData[5][1] = {
         ["points"] = 7655.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5730,
+        ["rank_raids"] = 5733,
         ["kill_count"] = 4,
-        ["points"] = 7832.0,
+        ["points"] = 7831.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3115,
+        ["rank_raids"] = 3116,
         ["kill_count"] = 5,
-        ["points"] = 8616.5,
+        ["points"] = 8616.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1425,
@@ -49436,9 +49436,9 @@ UWULogsData[5][1] = {
         ["points"] = 8978.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1342,
+        ["rank_raids"] = 1343,
         ["kill_count"] = 5,
-        ["points"] = 9214.2,
+        ["points"] = 9213.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5047,
@@ -49446,9 +49446,9 @@ UWULogsData[5][1] = {
         ["points"] = 8036.9,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 14184,
+        ["rank_raids"] = 14185,
         ["kill_count"] = 2,
-        ["points"] = 6132.6,
+        ["points"] = 6132.5,
       },
     },
   },
@@ -49468,14 +49468,14 @@ UWULogsData[5][1] = {
         ["points"] = 8692.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6590,
+        ["rank_raids"] = 6593,
         ["kill_count"] = 2,
-        ["points"] = 7574.0,
+        ["points"] = 7573.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2910,
+        ["rank_raids"] = 2911,
         ["kill_count"] = 12,
-        ["points"] = 8678.0,
+        ["points"] = 8677.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 720,
@@ -49488,14 +49488,14 @@ UWULogsData[5][1] = {
         ["points"] = 8289.5,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5029,
+        ["rank_raids"] = 5030,
         ["kill_count"] = 8,
-        ["points"] = 8042.3,
+        ["points"] = 8042.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5122,
+        ["rank_raids"] = 5123,
         ["kill_count"] = 13,
-        ["points"] = 8014.4,
+        ["points"] = 8014.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7122,
@@ -49525,14 +49525,14 @@ UWULogsData[5][1] = {
         ["points"] = 8039.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5195,
+        ["rank_raids"] = 5197,
         ["kill_count"] = 8,
-        ["points"] = 7992.5,
+        ["points"] = 7991.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6684,
+        ["rank_raids"] = 6685,
         ["kill_count"] = 7,
-        ["points"] = 7545.8,
+        ["points"] = 7545.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2806,
@@ -49545,14 +49545,14 @@ UWULogsData[5][1] = {
         ["points"] = 9329.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5989,
+        ["rank_raids"] = 5990,
         ["kill_count"] = 9,
-        ["points"] = 7754.3,
+        ["points"] = 7754.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3795,
+        ["rank_raids"] = 3796,
         ["kill_count"] = 12,
-        ["points"] = 8412.5,
+        ["points"] = 8412.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1828,
@@ -49572,9 +49572,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 872,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 13166,
+        ["rank_raids"] = 13169,
         ["kill_count"] = 5,
-        ["points"] = 6234.4,
+        ["points"] = 6234.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1016,
@@ -49587,9 +49587,9 @@ UWULogsData[5][1] = {
         ["points"] = 8504.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3438,
+        ["rank_raids"] = 3439,
         ["kill_count"] = 12,
-        ["points"] = 8519.6,
+        ["points"] = 8519.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1161,
@@ -49607,9 +49607,9 @@ UWULogsData[5][1] = {
         ["points"] = 9343.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4030,
+        ["rank_raids"] = 4031,
         ["kill_count"] = 17,
-        ["points"] = 8342.0,
+        ["points"] = 8341.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6545,
@@ -49624,14 +49624,14 @@ UWULogsData[5][1] = {
     },
   },
   ["Karlaa"] = {
-    ["percentile"] = 84.12,
+    ["percentile"] = 84.11,
     ["server"] = "Icecrown",
     ["overall_rank"] = 873,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6995,
+        ["rank_raids"] = 6996,
         ["kill_count"] = 5,
-        ["points"] = 7452.5,
+        ["points"] = 7452.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3719,
@@ -49639,19 +49639,19 @@ UWULogsData[5][1] = {
         ["points"] = 8435.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 13289,
+        ["rank_raids"] = 13294,
         ["kill_count"] = 1,
-        ["points"] = 6222.1,
+        ["points"] = 6221.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 309,
+        ["rank_raids"] = 310,
         ["kill_count"] = 6,
-        ["points"] = 9724.7,
+        ["points"] = 9724.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 11880,
+        ["rank_raids"] = 11882,
         ["kill_count"] = 5,
-        ["points"] = 6363.0,
+        ["points"] = 6362.8,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 928,
@@ -49659,14 +49659,14 @@ UWULogsData[5][1] = {
         ["points"] = 9387.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6748,
+        ["rank_raids"] = 6749,
         ["kill_count"] = 6,
-        ["points"] = 7526.6,
+        ["points"] = 7526.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 627,
+        ["rank_raids"] = 628,
         ["kill_count"] = 6,
-        ["points"] = 9537.5,
+        ["points"] = 9537.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 291,
@@ -49701,9 +49701,9 @@ UWULogsData[5][1] = {
         ["points"] = 9174.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2014,
+        ["rank_raids"] = 2015,
         ["kill_count"] = 1,
-        ["points"] = 8946.8,
+        ["points"] = 8946.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2042,
@@ -49711,19 +49711,19 @@ UWULogsData[5][1] = {
         ["points"] = 8938.4,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 16281,
+        ["rank_raids"] = 16282,
         ["kill_count"] = 1,
-        ["points"] = 5922.9,
+        ["points"] = 5922.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4421,
+        ["rank_raids"] = 4422,
         ["kill_count"] = 1,
-        ["points"] = 8224.7,
+        ["points"] = 8224.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1064,
+        ["rank_raids"] = 1065,
         ["kill_count"] = 1,
-        ["points"] = 9325.4,
+        ["points"] = 9325.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1027,
@@ -49731,9 +49731,9 @@ UWULogsData[5][1] = {
         ["points"] = 9340.2,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6096,
+        ["rank_raids"] = 6097,
         ["kill_count"] = 1,
-        ["points"] = 7722.2,
+        ["points"] = 7721.9,
       },
     },
   },
@@ -49743,9 +49743,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 875,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10148,
+        ["rank_raids"] = 10151,
         ["kill_count"] = 6,
-        ["points"] = 6536.2,
+        ["points"] = 6535.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 861,
@@ -49753,19 +49753,19 @@ UWULogsData[5][1] = {
         ["points"] = 9420.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5431,
+        ["rank_raids"] = 5434,
         ["kill_count"] = 4,
-        ["points"] = 7921.7,
+        ["points"] = 7920.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5108,
+        ["rank_raids"] = 5109,
         ["kill_count"] = 6,
-        ["points"] = 8018.6,
+        ["points"] = 8018.3,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 18473,
+        ["rank_raids"] = 18475,
         ["kill_count"] = 1,
-        ["points"] = 5703.7,
+        ["points"] = 5703.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 121,
@@ -49773,14 +49773,14 @@ UWULogsData[5][1] = {
         ["points"] = 9882.1,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7154,
+        ["rank_raids"] = 7155,
         ["kill_count"] = 3,
-        ["points"] = 7404.8,
+        ["points"] = 7404.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 741,
+        ["rank_raids"] = 742,
         ["kill_count"] = 7,
-        ["points"] = 9480.5,
+        ["points"] = 9480.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 30,
@@ -49810,19 +49810,19 @@ UWULogsData[5][1] = {
         ["points"] = 8640.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4734,
+        ["rank_raids"] = 4736,
         ["kill_count"] = 9,
-        ["points"] = 8130.8,
+        ["points"] = 8130.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 924,
+        ["rank_raids"] = 925,
         ["kill_count"] = 16,
-        ["points"] = 9389.0,
+        ["points"] = 9388.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6208,
+        ["rank_raids"] = 6210,
         ["kill_count"] = 8,
-        ["points"] = 7688.6,
+        ["points"] = 7688.0,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4487,
@@ -49830,14 +49830,14 @@ UWULogsData[5][1] = {
         ["points"] = 8204.9,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 2939,
+        ["rank_raids"] = 2940,
         ["kill_count"] = 23,
-        ["points"] = 8669.3,
+        ["points"] = 8669.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7651,
+        ["rank_raids"] = 7652,
         ["kill_count"] = 26,
-        ["points"] = 7255.7,
+        ["points"] = 7255.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 545,
@@ -49845,73 +49845,16 @@ UWULogsData[5][1] = {
         ["points"] = 9578.5,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5008,
+        ["rank_raids"] = 5009,
         ["kill_count"] = 17,
-        ["points"] = 8048.6,
-      },
-    },
-  },
-  ["Instyjoy"] = {
-    ["percentile"] = 84.1,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 877,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2523,
-        ["kill_count"] = 15,
-        ["points"] = 8794.1,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 5312,
-        ["kill_count"] = 8,
-        ["points"] = 7957.4,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4150,
-        ["kill_count"] = 1,
-        ["points"] = 8306.0,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 3715,
-        ["kill_count"] = 8,
-        ["points"] = 8436.5,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 11920,
-        ["kill_count"] = 8,
-        ["points"] = 6359.0,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 1081,
-        ["kill_count"] = 9,
-        ["points"] = 9318.6,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 5337,
-        ["kill_count"] = 14,
-        ["points"] = 7949.9,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2072,
-        ["kill_count"] = 11,
-        ["points"] = 8929.4,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 838,
-        ["kill_count"] = 14,
-        ["points"] = 9432.0,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 3142,
-        ["kill_count"] = 13,
-        ["points"] = 8608.4,
+        ["points"] = 8048.3,
       },
     },
   },
   ["Renew"] = {
-    ["percentile"] = 84.1,
+    ["percentile"] = 84.09,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 878,
+    ["overall_rank"] = 877,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 684,
@@ -49929,9 +49872,9 @@ UWULogsData[5][1] = {
         ["points"] = 8798.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 8515,
+        ["rank_raids"] = 8516,
         ["kill_count"] = 3,
-        ["points"] = 6996.5,
+        ["points"] = 6996.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2473,
@@ -49939,9 +49882,9 @@ UWULogsData[5][1] = {
         ["points"] = 8809.1,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9169,
+        ["rank_raids"] = 9170,
         ["kill_count"] = 3,
-        ["points"] = 6800.3,
+        ["points"] = 6800.0,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1350,
@@ -49949,9 +49892,9 @@ UWULogsData[5][1] = {
         ["points"] = 9211.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6206,
+        ["rank_raids"] = 6207,
         ["kill_count"] = 3,
-        ["points"] = 7689.2,
+        ["points"] = 7688.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3266,
@@ -49962,6 +49905,63 @@ UWULogsData[5][1] = {
         ["rank_raids"] = 3145,
         ["kill_count"] = 3,
         ["points"] = 8607.5,
+      },
+    },
+  },
+  ["Instyjoy"] = {
+    ["percentile"] = 84.09,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 878,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 2523,
+        ["kill_count"] = 15,
+        ["points"] = 8794.1,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 5312,
+        ["kill_count"] = 8,
+        ["points"] = 7957.4,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 4152,
+        ["kill_count"] = 1,
+        ["points"] = 8305.4,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 3716,
+        ["kill_count"] = 8,
+        ["points"] = 8436.2,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 11922,
+        ["kill_count"] = 8,
+        ["points"] = 6358.8,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 1081,
+        ["kill_count"] = 9,
+        ["points"] = 9318.6,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 5338,
+        ["kill_count"] = 14,
+        ["points"] = 7949.6,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 2073,
+        ["kill_count"] = 11,
+        ["points"] = 8929.1,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 838,
+        ["kill_count"] = 14,
+        ["points"] = 9432.0,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 3142,
+        ["kill_count"] = 13,
+        ["points"] = 8608.4,
       },
     },
   },
@@ -49981,14 +49981,14 @@ UWULogsData[5][1] = {
         ["points"] = 8651.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5389,
+        ["rank_raids"] = 5392,
         ["kill_count"] = 5,
-        ["points"] = 7934.3,
+        ["points"] = 7933.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3984,
+        ["rank_raids"] = 3985,
         ["kill_count"] = 6,
-        ["points"] = 8355.8,
+        ["points"] = 8355.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1310,
@@ -49996,9 +49996,9 @@ UWULogsData[5][1] = {
         ["points"] = 9227.0,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9254,
+        ["rank_raids"] = 9255,
         ["kill_count"] = 4,
-        ["points"] = 6774.8,
+        ["points"] = 6774.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1691,
@@ -50006,9 +50006,9 @@ UWULogsData[5][1] = {
         ["points"] = 9074.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3567,
+        ["rank_raids"] = 3568,
         ["kill_count"] = 8,
-        ["points"] = 8480.9,
+        ["points"] = 8480.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4963,
@@ -50038,14 +50038,14 @@ UWULogsData[5][1] = {
         ["points"] = 9598.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5085,
+        ["rank_raids"] = 5087,
         ["kill_count"] = 1,
-        ["points"] = 8025.5,
+        ["points"] = 8024.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3639,
+        ["rank_raids"] = 3640,
         ["kill_count"] = 2,
-        ["points"] = 8459.3,
+        ["points"] = 8459.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1256,
@@ -50058,14 +50058,14 @@ UWULogsData[5][1] = {
         ["points"] = 8576.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3019,
+        ["rank_raids"] = 3020,
         ["kill_count"] = 3,
-        ["points"] = 8645.3,
+        ["points"] = 8645.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 14056,
+        ["rank_raids"] = 14057,
         ["kill_count"] = 3,
-        ["points"] = 6145.4,
+        ["points"] = 6145.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1105,
@@ -50073,9 +50073,9 @@ UWULogsData[5][1] = {
         ["points"] = 9309.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7980,
+        ["rank_raids"] = 7981,
         ["kill_count"] = 5,
-        ["points"] = 7157.0,
+        ["points"] = 7156.7,
       },
     },
   },
@@ -50095,14 +50095,14 @@ UWULogsData[5][1] = {
         ["points"] = 9020.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6011,
+        ["rank_raids"] = 6014,
         ["kill_count"] = 3,
-        ["points"] = 7747.7,
+        ["points"] = 7746.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7257,
+        ["rank_raids"] = 7258,
         ["kill_count"] = 4,
-        ["points"] = 7373.9,
+        ["points"] = 7373.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 664,
@@ -50120,14 +50120,14 @@ UWULogsData[5][1] = {
         ["points"] = 9523.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3333,
+        ["rank_raids"] = 3334,
         ["kill_count"] = 4,
-        ["points"] = 8551.1,
+        ["points"] = 8550.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 16842,
+        ["rank_raids"] = 16843,
         ["kill_count"] = 2,
-        ["points"] = 5866.8,
+        ["points"] = 5866.7,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1185,
@@ -50157,9 +50157,9 @@ UWULogsData[5][1] = {
         ["points"] = 8606.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3764,
+        ["rank_raids"] = 3765,
         ["kill_count"] = 7,
-        ["points"] = 8421.8,
+        ["points"] = 8421.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3085,
@@ -50167,9 +50167,9 @@ UWULogsData[5][1] = {
         ["points"] = 8625.5,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 7303,
+        ["rank_raids"] = 7304,
         ["kill_count"] = 7,
-        ["points"] = 7360.1,
+        ["points"] = 7359.8,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1135,
@@ -50177,9 +50177,9 @@ UWULogsData[5][1] = {
         ["points"] = 9297.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1708,
+        ["rank_raids"] = 1709,
         ["kill_count"] = 7,
-        ["points"] = 9067.8,
+        ["points"] = 9067.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2516,
@@ -50187,9 +50187,9 @@ UWULogsData[5][1] = {
         ["points"] = 8796.2,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5315,
+        ["rank_raids"] = 5316,
         ["kill_count"] = 8,
-        ["points"] = 7956.5,
+        ["points"] = 7956.2,
       },
     },
   },
@@ -50199,9 +50199,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 883,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7104,
+        ["rank_raids"] = 7105,
         ["kill_count"] = 7,
-        ["points"] = 7419.8,
+        ["points"] = 7419.5,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2553,
@@ -50209,19 +50209,19 @@ UWULogsData[5][1] = {
         ["points"] = 8785.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 13544,
+        ["rank_raids"] = 13549,
         ["kill_count"] = 4,
-        ["points"] = 6196.6,
+        ["points"] = 6196.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 689,
+        ["rank_raids"] = 690,
         ["kill_count"] = 7,
-        ["points"] = 9506.5,
+        ["points"] = 9506.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 10941,
+        ["rank_raids"] = 10943,
         ["kill_count"] = 7,
-        ["points"] = 6456.9,
+        ["points"] = 6456.7,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2306,
@@ -50229,14 +50229,14 @@ UWULogsData[5][1] = {
         ["points"] = 8859.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6099,
+        ["rank_raids"] = 6100,
         ["kill_count"] = 7,
-        ["points"] = 7721.3,
+        ["points"] = 7721.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 699,
+        ["rank_raids"] = 700,
         ["kill_count"] = 7,
-        ["points"] = 9501.5,
+        ["points"] = 9501.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 334,
@@ -50266,19 +50266,19 @@ UWULogsData[5][1] = {
         ["points"] = 8317.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4942,
+        ["rank_raids"] = 4944,
         ["kill_count"] = 4,
-        ["points"] = 8068.4,
+        ["points"] = 8067.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4474,
+        ["rank_raids"] = 4475,
         ["kill_count"] = 2,
-        ["points"] = 8208.8,
+        ["points"] = 8208.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4144,
+        ["rank_raids"] = 4145,
         ["kill_count"] = 4,
-        ["points"] = 8307.8,
+        ["points"] = 8307.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1296,
@@ -50291,9 +50291,9 @@ UWULogsData[5][1] = {
         ["points"] = 9527.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 9588,
+        ["rank_raids"] = 9589,
         ["kill_count"] = 3,
-        ["points"] = 6674.6,
+        ["points"] = 6674.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4796,
@@ -50301,9 +50301,9 @@ UWULogsData[5][1] = {
         ["points"] = 8112.2,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4252,
+        ["rank_raids"] = 4253,
         ["kill_count"] = 7,
-        ["points"] = 8275.4,
+        ["points"] = 8275.1,
       },
     },
   },
@@ -50328,14 +50328,14 @@ UWULogsData[5][1] = {
         ["points"] = 9173.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 8579,
+        ["rank_raids"] = 8580,
         ["kill_count"] = 4,
-        ["points"] = 6977.3,
+        ["points"] = 6977.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8207,
+        ["rank_raids"] = 8209,
         ["kill_count"] = 2,
-        ["points"] = 7088.9,
+        ["points"] = 7088.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1174,
@@ -50343,14 +50343,14 @@ UWULogsData[5][1] = {
         ["points"] = 9281.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 19681,
+        ["rank_raids"] = 19682,
         ["kill_count"] = 4,
-        ["points"] = 5582.9,
+        ["points"] = 5582.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2672,
+        ["rank_raids"] = 2673,
         ["kill_count"] = 4,
-        ["points"] = 8749.4,
+        ["points"] = 8749.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 167,
@@ -50370,9 +50370,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 886,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5970,
+        ["rank_raids"] = 5971,
         ["kill_count"] = 2,
-        ["points"] = 7760.0,
+        ["points"] = 7759.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 303,
@@ -50385,14 +50385,14 @@ UWULogsData[5][1] = {
         ["points"] = 9001.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 828,
+        ["rank_raids"] = 829,
         ["kill_count"] = 8,
-        ["points"] = 9437.0,
+        ["points"] = 9436.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5684,
+        ["rank_raids"] = 5685,
         ["kill_count"] = 7,
-        ["points"] = 7845.8,
+        ["points"] = 7845.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 394,
@@ -50405,19 +50405,19 @@ UWULogsData[5][1] = {
         ["points"] = 9288.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2675,
+        ["rank_raids"] = 2676,
         ["kill_count"] = 8,
-        ["points"] = 8748.5,
+        ["points"] = 8748.2,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 15593,
+        ["rank_raids"] = 15594,
         ["kill_count"] = 4,
-        ["points"] = 5991.7,
+        ["points"] = 5991.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 9990,
+        ["rank_raids"] = 9991,
         ["kill_count"] = 9,
-        ["points"] = 6554.0,
+        ["points"] = 6553.7,
       },
     },
   },
@@ -50442,14 +50442,14 @@ UWULogsData[5][1] = {
         ["points"] = 8983.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6494,
+        ["rank_raids"] = 6495,
         ["kill_count"] = 4,
-        ["points"] = 7602.8,
+        ["points"] = 7602.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4532,
+        ["rank_raids"] = 4533,
         ["kill_count"] = 4,
-        ["points"] = 8191.4,
+        ["points"] = 8191.1,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1609,
@@ -50462,9 +50462,9 @@ UWULogsData[5][1] = {
         ["points"] = 9628.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2221,
+        ["rank_raids"] = 2222,
         ["kill_count"] = 5,
-        ["points"] = 8884.7,
+        ["points"] = 8884.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7178,
@@ -50472,9 +50472,9 @@ UWULogsData[5][1] = {
         ["points"] = 7397.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7233,
+        ["rank_raids"] = 7234,
         ["kill_count"] = 6,
-        ["points"] = 7381.1,
+        ["points"] = 7380.8,
       },
     },
   },
@@ -50499,14 +50499,14 @@ UWULogsData[5][1] = {
         ["points"] = 8791.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 16261,
+        ["rank_raids"] = 16264,
         ["kill_count"] = 3,
-        ["points"] = 5924.9,
+        ["points"] = 5924.6,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5138,
+        ["rank_raids"] = 5139,
         ["kill_count"] = 4,
-        ["points"] = 8009.6,
+        ["points"] = 8009.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2443,
@@ -50519,9 +50519,9 @@ UWULogsData[5][1] = {
         ["points"] = 9665.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5093,
+        ["rank_raids"] = 5094,
         ["kill_count"] = 9,
-        ["points"] = 8023.1,
+        ["points"] = 8022.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 933,
@@ -50551,19 +50551,19 @@ UWULogsData[5][1] = {
         ["points"] = 9602.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5031,
+        ["rank_raids"] = 5033,
         ["kill_count"] = 9,
-        ["points"] = 8041.7,
+        ["points"] = 8041.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6687,
+        ["rank_raids"] = 6688,
         ["kill_count"] = 8,
-        ["points"] = 7544.9,
+        ["points"] = 7544.6,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5260,
+        ["rank_raids"] = 5261,
         ["kill_count"] = 12,
-        ["points"] = 7973.0,
+        ["points"] = 7972.7,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2622,
@@ -50576,9 +50576,9 @@ UWULogsData[5][1] = {
         ["points"] = 9525.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6087,
+        ["rank_raids"] = 6088,
         ["kill_count"] = 12,
-        ["points"] = 7724.9,
+        ["points"] = 7724.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5673,
@@ -50586,9 +50586,9 @@ UWULogsData[5][1] = {
         ["points"] = 7849.1,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4414,
+        ["rank_raids"] = 4415,
         ["kill_count"] = 4,
-        ["points"] = 8226.8,
+        ["points"] = 8226.5,
       },
     },
   },
@@ -50598,9 +50598,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 890,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9053,
+        ["rank_raids"] = 9056,
         ["kill_count"] = 2,
-        ["points"] = 6835.1,
+        ["points"] = 6834.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4652,
@@ -50613,9 +50613,9 @@ UWULogsData[5][1] = {
         ["points"] = 8944.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5135,
+        ["rank_raids"] = 5136,
         ["kill_count"] = 4,
-        ["points"] = 8010.5,
+        ["points"] = 8010.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3166,
@@ -50633,9 +50633,9 @@ UWULogsData[5][1] = {
         ["points"] = 8771.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3007,
+        ["rank_raids"] = 3008,
         ["kill_count"] = 5,
-        ["points"] = 8648.9,
+        ["points"] = 8648.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3453,
@@ -50650,14 +50650,14 @@ UWULogsData[5][1] = {
     },
   },
   ["Ascon"] = {
-    ["percentile"] = 83.93,
+    ["percentile"] = 83.92,
     ["server"] = "Icecrown",
     ["overall_rank"] = 891,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 13109,
+        ["rank_raids"] = 13112,
         ["kill_count"] = 4,
-        ["points"] = 6240.1,
+        ["points"] = 6239.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3653,
@@ -50670,14 +50670,14 @@ UWULogsData[5][1] = {
         ["points"] = 9311.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3896,
+        ["rank_raids"] = 3897,
         ["kill_count"] = 18,
-        ["points"] = 8382.2,
+        ["points"] = 8381.9,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6242,
+        ["rank_raids"] = 6244,
         ["kill_count"] = 8,
-        ["points"] = 7678.4,
+        ["points"] = 7677.8,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2902,
@@ -50685,14 +50685,14 @@ UWULogsData[5][1] = {
         ["points"] = 8680.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3454,
+        ["rank_raids"] = 3455,
         ["kill_count"] = 26,
-        ["points"] = 8514.8,
+        ["points"] = 8514.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3852,
+        ["rank_raids"] = 3853,
         ["kill_count"] = 26,
-        ["points"] = 8395.4,
+        ["points"] = 8395.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1246,
@@ -50707,7 +50707,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Nowno"] = {
-    ["percentile"] = 83.92,
+    ["percentile"] = 83.91,
     ["server"] = "Icecrown",
     ["overall_rank"] = 892,
     ["bosses"] = {
@@ -50722,14 +50722,14 @@ UWULogsData[5][1] = {
         ["points"] = 9326.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8685,
+        ["rank_raids"] = 8689,
         ["kill_count"] = 1,
-        ["points"] = 6945.5,
+        ["points"] = 6944.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 8914,
+        ["rank_raids"] = 8915,
         ["kill_count"] = 3,
-        ["points"] = 6876.8,
+        ["points"] = 6876.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 308,
@@ -50747,9 +50747,9 @@ UWULogsData[5][1] = {
         ["points"] = 8958.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 20424,
+        ["rank_raids"] = 20426,
         ["kill_count"] = 3,
-        ["points"] = 5508.6,
+        ["points"] = 5508.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1969,
@@ -50784,9 +50784,9 @@ UWULogsData[5][1] = {
         ["points"] = 9146.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3609,
+        ["rank_raids"] = 3610,
         ["kill_count"] = 5,
-        ["points"] = 8468.3,
+        ["points"] = 8468.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1523,
@@ -50804,14 +50804,14 @@ UWULogsData[5][1] = {
         ["points"] = 9200.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5460,
+        ["rank_raids"] = 5461,
         ["kill_count"] = 11,
-        ["points"] = 7913.0,
+        ["points"] = 7912.7,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 16406,
+        ["rank_raids"] = 16407,
         ["kill_count"] = 10,
-        ["points"] = 5910.4,
+        ["points"] = 5910.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2540,
@@ -50841,9 +50841,9 @@ UWULogsData[5][1] = {
         ["points"] = 8445.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5357,
+        ["rank_raids"] = 5358,
         ["kill_count"] = 6,
-        ["points"] = 7943.9,
+        ["points"] = 7943.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1202,
@@ -50856,14 +50856,14 @@ UWULogsData[5][1] = {
         ["points"] = 8633.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3850,
+        ["rank_raids"] = 3851,
         ["kill_count"] = 5,
-        ["points"] = 8396.0,
+        ["points"] = 8395.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6172,
+        ["rank_raids"] = 6173,
         ["kill_count"] = 6,
-        ["points"] = 7699.4,
+        ["points"] = 7699.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1799,
@@ -50871,9 +50871,9 @@ UWULogsData[5][1] = {
         ["points"] = 9031.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7565,
+        ["rank_raids"] = 7566,
         ["kill_count"] = 2,
-        ["points"] = 7281.5,
+        ["points"] = 7281.2,
       },
     },
   },
@@ -50898,14 +50898,14 @@ UWULogsData[5][1] = {
         ["points"] = 9562.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 876,
+        ["rank_raids"] = 877,
         ["kill_count"] = 11,
-        ["points"] = 9413.0,
+        ["points"] = 9412.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9270,
+        ["rank_raids"] = 9272,
         ["kill_count"] = 12,
-        ["points"] = 6770.0,
+        ["points"] = 6769.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5383,
@@ -50918,9 +50918,9 @@ UWULogsData[5][1] = {
         ["points"] = 9319.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2468,
+        ["rank_raids"] = 2469,
         ["kill_count"] = 9,
-        ["points"] = 8810.6,
+        ["points"] = 8810.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5478,
@@ -50928,9 +50928,9 @@ UWULogsData[5][1] = {
         ["points"] = 7907.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6492,
+        ["rank_raids"] = 6493,
         ["kill_count"] = 8,
-        ["points"] = 7603.4,
+        ["points"] = 7603.1,
       },
     },
   },
@@ -50940,9 +50940,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 896,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9073,
+        ["rank_raids"] = 9076,
         ["kill_count"] = 18,
-        ["points"] = 6829.1,
+        ["points"] = 6828.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6525,
@@ -50955,14 +50955,14 @@ UWULogsData[5][1] = {
         ["points"] = 9696.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3736,
+        ["rank_raids"] = 3737,
         ["kill_count"] = 37,
-        ["points"] = 8430.2,
+        ["points"] = 8429.9,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5229,
+        ["rank_raids"] = 5230,
         ["kill_count"] = 18,
-        ["points"] = 7982.3,
+        ["points"] = 7982.0,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2342,
@@ -50970,14 +50970,14 @@ UWULogsData[5][1] = {
         ["points"] = 8848.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3627,
+        ["rank_raids"] = 3628,
         ["kill_count"] = 32,
-        ["points"] = 8462.9,
+        ["points"] = 8462.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2610,
+        ["rank_raids"] = 2611,
         ["kill_count"] = 39,
-        ["points"] = 8768.0,
+        ["points"] = 8767.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1979,
@@ -51007,19 +51007,19 @@ UWULogsData[5][1] = {
         ["points"] = 9608.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6856,
+        ["rank_raids"] = 6859,
         ["kill_count"] = 2,
-        ["points"] = 7494.2,
+        ["points"] = 7493.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 8338,
+        ["rank_raids"] = 8339,
         ["kill_count"] = 6,
-        ["points"] = 7049.6,
+        ["points"] = 7049.3,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 10345,
+        ["rank_raids"] = 10347,
         ["kill_count"] = 9,
-        ["points"] = 6516.5,
+        ["points"] = 6516.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1714,
@@ -51027,14 +51027,14 @@ UWULogsData[5][1] = {
         ["points"] = 9065.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5258,
+        ["rank_raids"] = 5259,
         ["kill_count"] = 12,
-        ["points"] = 7973.6,
+        ["points"] = 7973.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2948,
+        ["rank_raids"] = 2949,
         ["kill_count"] = 13,
-        ["points"] = 8666.6,
+        ["points"] = 8666.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1840,
@@ -51054,9 +51054,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 898,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5883,
+        ["rank_raids"] = 5884,
         ["kill_count"] = 2,
-        ["points"] = 7786.1,
+        ["points"] = 7785.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4651,
@@ -51069,9 +51069,9 @@ UWULogsData[5][1] = {
         ["points"] = 8676.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4728,
+        ["rank_raids"] = 4729,
         ["kill_count"] = 3,
-        ["points"] = 8132.6,
+        ["points"] = 8132.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 291,
@@ -51084,14 +51084,14 @@ UWULogsData[5][1] = {
         ["points"] = 8510.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7267,
+        ["rank_raids"] = 7268,
         ["kill_count"] = 1,
-        ["points"] = 7370.9,
+        ["points"] = 7370.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5099,
+        ["rank_raids"] = 5100,
         ["kill_count"] = 5,
-        ["points"] = 8021.3,
+        ["points"] = 8021.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1432,
@@ -51099,9 +51099,9 @@ UWULogsData[5][1] = {
         ["points"] = 9178.2,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4313,
+        ["rank_raids"] = 4314,
         ["kill_count"] = 8,
-        ["points"] = 8257.1,
+        ["points"] = 8256.8,
       },
     },
   },
@@ -51111,9 +51111,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 899,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6378,
+        ["rank_raids"] = 6379,
         ["kill_count"] = 5,
-        ["points"] = 7637.6,
+        ["points"] = 7637.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3147,
@@ -51126,14 +51126,14 @@ UWULogsData[5][1] = {
         ["points"] = 9935.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 8453,
+        ["rank_raids"] = 8454,
         ["kill_count"] = 5,
-        ["points"] = 7015.1,
+        ["points"] = 7014.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9353,
+        ["rank_raids"] = 9355,
         ["kill_count"] = 9,
-        ["points"] = 6745.1,
+        ["points"] = 6744.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 51,
@@ -51141,14 +51141,14 @@ UWULogsData[5][1] = {
         ["points"] = 9950.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 19004,
+        ["rank_raids"] = 19005,
         ["kill_count"] = 10,
-        ["points"] = 5650.6,
+        ["points"] = 5650.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3239,
+        ["rank_raids"] = 3240,
         ["kill_count"] = 17,
-        ["points"] = 8579.3,
+        ["points"] = 8579.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 342,
@@ -51168,9 +51168,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 900,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10861,
+        ["rank_raids"] = 10864,
         ["kill_count"] = 1,
-        ["points"] = 6464.9,
+        ["points"] = 6464.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1113,
@@ -51178,19 +51178,19 @@ UWULogsData[5][1] = {
         ["points"] = 9305.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3989,
+        ["rank_raids"] = 3991,
         ["kill_count"] = 5,
-        ["points"] = 8354.3,
+        ["points"] = 8353.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3970,
+        ["rank_raids"] = 3971,
         ["kill_count"] = 5,
-        ["points"] = 8360.0,
+        ["points"] = 8359.7,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7654,
+        ["rank_raids"] = 7656,
         ["kill_count"] = 6,
-        ["points"] = 7254.8,
+        ["points"] = 7254.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1455,
@@ -51198,14 +51198,14 @@ UWULogsData[5][1] = {
         ["points"] = 9169.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3699,
+        ["rank_raids"] = 3700,
         ["kill_count"] = 6,
-        ["points"] = 8441.3,
+        ["points"] = 8441.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3728,
+        ["rank_raids"] = 3729,
         ["kill_count"] = 10,
-        ["points"] = 8432.6,
+        ["points"] = 8432.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 413,
@@ -51240,14 +51240,14 @@ UWULogsData[5][1] = {
         ["points"] = 8620.1,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3001,
+        ["rank_raids"] = 3002,
         ["kill_count"] = 3,
-        ["points"] = 8650.7,
+        ["points"] = 8650.4,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5025,
+        ["rank_raids"] = 5026,
         ["kill_count"] = 2,
-        ["points"] = 8043.5,
+        ["points"] = 8043.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2155,
@@ -51260,9 +51260,9 @@ UWULogsData[5][1] = {
         ["points"] = 8842.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6004,
+        ["rank_raids"] = 6005,
         ["kill_count"] = 4,
-        ["points"] = 7749.8,
+        ["points"] = 7749.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4240,
@@ -51282,9 +51282,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 902,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 11806,
+        ["rank_raids"] = 11809,
         ["kill_count"] = 4,
-        ["points"] = 6370.4,
+        ["points"] = 6370.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3380,
@@ -51297,19 +51297,19 @@ UWULogsData[5][1] = {
         ["points"] = 9574.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2541,
+        ["rank_raids"] = 2542,
         ["kill_count"] = 10,
-        ["points"] = 8788.7,
+        ["points"] = 8788.4,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7387,
+        ["rank_raids"] = 7389,
         ["kill_count"] = 11,
-        ["points"] = 7334.9,
+        ["points"] = 7334.3,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 7842,
+        ["rank_raids"] = 7843,
         ["kill_count"] = 5,
-        ["points"] = 7198.4,
+        ["points"] = 7198.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 846,
@@ -51317,9 +51317,9 @@ UWULogsData[5][1] = {
         ["points"] = 9428.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4303,
+        ["rank_raids"] = 4304,
         ["kill_count"] = 10,
-        ["points"] = 8260.1,
+        ["points"] = 8259.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1167,
@@ -51339,9 +51339,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 903,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 10156,
+        ["rank_raids"] = 10159,
         ["kill_count"] = 6,
-        ["points"] = 6535.4,
+        ["points"] = 6535.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1568,
@@ -51354,9 +51354,9 @@ UWULogsData[5][1] = {
         ["points"] = 8742.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2177,
+        ["rank_raids"] = 2178,
         ["kill_count"] = 8,
-        ["points"] = 8897.9,
+        ["points"] = 8897.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3941,
@@ -51369,14 +51369,14 @@ UWULogsData[5][1] = {
         ["points"] = 8579.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3115,
+        ["rank_raids"] = 3116,
         ["kill_count"] = 16,
-        ["points"] = 8616.5,
+        ["points"] = 8616.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2954,
+        ["rank_raids"] = 2955,
         ["kill_count"] = 13,
-        ["points"] = 8664.8,
+        ["points"] = 8664.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6716,
@@ -51411,14 +51411,14 @@ UWULogsData[5][1] = {
         ["points"] = 9527.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4565,
+        ["rank_raids"] = 4566,
         ["kill_count"] = 1,
-        ["points"] = 8181.5,
+        ["points"] = 8181.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7984,
+        ["rank_raids"] = 7986,
         ["kill_count"] = 1,
-        ["points"] = 7155.8,
+        ["points"] = 7155.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3958,
@@ -51431,9 +51431,9 @@ UWULogsData[5][1] = {
         ["points"] = 8771.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4187,
+        ["rank_raids"] = 4188,
         ["kill_count"] = 3,
-        ["points"] = 8294.9,
+        ["points"] = 8294.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 10782,
@@ -51441,9 +51441,9 @@ UWULogsData[5][1] = {
         ["points"] = 6472.8,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4957,
+        ["rank_raids"] = 4958,
         ["kill_count"] = 2,
-        ["points"] = 8063.9,
+        ["points"] = 8063.6,
       },
     },
   },
@@ -51468,9 +51468,9 @@ UWULogsData[5][1] = {
         ["points"] = 9275.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3818,
+        ["rank_raids"] = 3819,
         ["kill_count"] = 7,
-        ["points"] = 8405.6,
+        ["points"] = 8405.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3233,
@@ -51483,14 +51483,14 @@ UWULogsData[5][1] = {
         ["points"] = 8770.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7466,
+        ["rank_raids"] = 7467,
         ["kill_count"] = 7,
-        ["points"] = 7311.2,
+        ["points"] = 7310.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1429,
+        ["rank_raids"] = 1430,
         ["kill_count"] = 12,
-        ["points"] = 9179.4,
+        ["points"] = 9179.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7201,
@@ -51520,19 +51520,19 @@ UWULogsData[5][1] = {
         ["points"] = 7960.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4566,
+        ["rank_raids"] = 4568,
         ["kill_count"] = 5,
-        ["points"] = 8181.2,
+        ["points"] = 8180.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6550,
+        ["rank_raids"] = 6551,
         ["kill_count"] = 6,
-        ["points"] = 7586.0,
+        ["points"] = 7585.7,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5149,
+        ["rank_raids"] = 5150,
         ["kill_count"] = 6,
-        ["points"] = 8006.3,
+        ["points"] = 8006.0,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1366,
@@ -51545,9 +51545,9 @@ UWULogsData[5][1] = {
         ["points"] = 9118.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6827,
+        ["rank_raids"] = 6828,
         ["kill_count"] = 6,
-        ["points"] = 7502.9,
+        ["points"] = 7502.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3764,
@@ -51562,7 +51562,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Peluuche"] = {
-    ["percentile"] = 83.68,
+    ["percentile"] = 83.67,
     ["server"] = "Icecrown",
     ["overall_rank"] = 907,
     ["bosses"] = {
@@ -51577,19 +51577,19 @@ UWULogsData[5][1] = {
         ["points"] = 8100.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5854,
+        ["rank_raids"] = 5857,
         ["kill_count"] = 1,
-        ["points"] = 7794.8,
+        ["points"] = 7793.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1095,
+        ["rank_raids"] = 1096,
         ["kill_count"] = 8,
-        ["points"] = 9313.0,
+        ["points"] = 9312.6,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5083,
+        ["rank_raids"] = 5084,
         ["kill_count"] = 4,
-        ["points"] = 8026.1,
+        ["points"] = 8025.8,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2528,
@@ -51597,14 +51597,14 @@ UWULogsData[5][1] = {
         ["points"] = 8792.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5035,
+        ["rank_raids"] = 5036,
         ["kill_count"] = 11,
-        ["points"] = 8040.5,
+        ["points"] = 8040.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3462,
+        ["rank_raids"] = 3463,
         ["kill_count"] = 12,
-        ["points"] = 8512.4,
+        ["points"] = 8512.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4127,
@@ -51612,14 +51612,14 @@ UWULogsData[5][1] = {
         ["points"] = 8312.9,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5251,
+        ["rank_raids"] = 5252,
         ["kill_count"] = 13,
-        ["points"] = 7975.7,
+        ["points"] = 7975.4,
       },
     },
   },
   ["Shuainiums"] = {
-    ["percentile"] = 83.68,
+    ["percentile"] = 83.67,
     ["server"] = "Icecrown",
     ["overall_rank"] = 908,
     ["bosses"] = {
@@ -51634,14 +51634,14 @@ UWULogsData[5][1] = {
         ["points"] = 9437.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10910,
+        ["rank_raids"] = 10914,
         ["kill_count"] = 1,
-        ["points"] = 6460.0,
+        ["points"] = 6459.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1156,
+        ["rank_raids"] = 1157,
         ["kill_count"] = 8,
-        ["points"] = 9288.6,
+        ["points"] = 9288.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1237,
@@ -51654,14 +51654,14 @@ UWULogsData[5][1] = {
         ["points"] = 7729.1,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4996,
+        ["rank_raids"] = 4997,
         ["kill_count"] = 3,
-        ["points"] = 8052.2,
+        ["points"] = 8051.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4617,
+        ["rank_raids"] = 4618,
         ["kill_count"] = 9,
-        ["points"] = 8165.9,
+        ["points"] = 8165.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3747,
@@ -51669,9 +51669,9 @@ UWULogsData[5][1] = {
         ["points"] = 8426.9,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6211,
+        ["rank_raids"] = 6212,
         ["kill_count"] = 3,
-        ["points"] = 7687.7,
+        ["points"] = 7687.4,
       },
     },
   },
@@ -51696,14 +51696,14 @@ UWULogsData[5][1] = {
         ["points"] = 8470.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3397,
+        ["rank_raids"] = 3398,
         ["kill_count"] = 8,
-        ["points"] = 8531.9,
+        ["points"] = 8531.6,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6189,
+        ["rank_raids"] = 6191,
         ["kill_count"] = 7,
-        ["points"] = 7694.3,
+        ["points"] = 7693.7,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2703,
@@ -51716,9 +51716,9 @@ UWULogsData[5][1] = {
         ["points"] = 9506.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 9409,
+        ["rank_raids"] = 9410,
         ["kill_count"] = 9,
-        ["points"] = 6728.3,
+        ["points"] = 6728.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2982,
@@ -51726,9 +51726,9 @@ UWULogsData[5][1] = {
         ["points"] = 8656.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5170,
+        ["rank_raids"] = 5171,
         ["kill_count"] = 7,
-        ["points"] = 8000.0,
+        ["points"] = 7999.7,
       },
     },
   },
@@ -51753,14 +51753,14 @@ UWULogsData[5][1] = {
         ["points"] = 9684.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4043,
+        ["rank_raids"] = 4044,
         ["kill_count"] = 4,
-        ["points"] = 8338.1,
+        ["points"] = 8337.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5470,
+        ["rank_raids"] = 5471,
         ["kill_count"] = 3,
-        ["points"] = 7910.0,
+        ["points"] = 7909.7,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4821,
@@ -51768,14 +51768,14 @@ UWULogsData[5][1] = {
         ["points"] = 8104.7,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 15786,
+        ["rank_raids"] = 15787,
         ["kill_count"] = 2,
-        ["points"] = 5972.4,
+        ["points"] = 5972.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4870,
+        ["rank_raids"] = 4871,
         ["kill_count"] = 3,
-        ["points"] = 8090.0,
+        ["points"] = 8089.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5945,
@@ -51790,7 +51790,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Reimu"] = {
-    ["percentile"] = 83.65,
+    ["percentile"] = 83.64,
     ["server"] = "Icecrown",
     ["overall_rank"] = 911,
     ["bosses"] = {
@@ -51805,14 +51805,14 @@ UWULogsData[5][1] = {
         ["points"] = 6447.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5711,
+        ["rank_raids"] = 5714,
         ["kill_count"] = 10,
-        ["points"] = 7837.7,
+        ["points"] = 7836.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5227,
+        ["rank_raids"] = 5228,
         ["kill_count"] = 10,
-        ["points"] = 7982.9,
+        ["points"] = 7982.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 101,
@@ -51830,14 +51830,14 @@ UWULogsData[5][1] = {
         ["points"] = 8957.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1027,
+        ["rank_raids"] = 1028,
         ["kill_count"] = 12,
-        ["points"] = 9340.2,
+        ["points"] = 9339.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 12281,
+        ["rank_raids"] = 12282,
         ["kill_count"] = 2,
-        ["points"] = 6322.9,
+        ["points"] = 6322.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1130,
@@ -51852,9 +51852,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 912,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 17840,
+        ["rank_raids"] = 17843,
         ["kill_count"] = 3,
-        ["points"] = 5767.0,
+        ["points"] = 5766.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 866,
@@ -51867,9 +51867,9 @@ UWULogsData[5][1] = {
         ["points"] = 8927.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2898,
+        ["rank_raids"] = 2899,
         ["kill_count"] = 5,
-        ["points"] = 8681.6,
+        ["points"] = 8681.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1033,
@@ -51887,9 +51887,9 @@ UWULogsData[5][1] = {
         ["points"] = 9331.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5709,
+        ["rank_raids"] = 5710,
         ["kill_count"] = 8,
-        ["points"] = 7838.3,
+        ["points"] = 7838.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 8322,
@@ -51909,9 +51909,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 913,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7397,
+        ["rank_raids"] = 7399,
         ["kill_count"] = 3,
-        ["points"] = 7331.9,
+        ["points"] = 7331.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1509,
@@ -51924,14 +51924,14 @@ UWULogsData[5][1] = {
         ["points"] = 8840.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1830,
+        ["rank_raids"] = 1831,
         ["kill_count"] = 4,
-        ["points"] = 9019.0,
+        ["points"] = 9018.6,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5272,
+        ["rank_raids"] = 5273,
         ["kill_count"] = 5,
-        ["points"] = 7969.4,
+        ["points"] = 7969.1,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5343,
@@ -51944,9 +51944,9 @@ UWULogsData[5][1] = {
         ["points"] = 9510.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3012,
+        ["rank_raids"] = 3013,
         ["kill_count"] = 4,
-        ["points"] = 8647.4,
+        ["points"] = 8647.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 10689,
@@ -51961,14 +51961,14 @@ UWULogsData[5][1] = {
     },
   },
   ["Dedine"] = {
-    ["percentile"] = 83.64,
+    ["percentile"] = 83.63,
     ["server"] = "Icecrown",
     ["overall_rank"] = 914,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5964,
+        ["rank_raids"] = 5965,
         ["kill_count"] = 8,
-        ["points"] = 7761.8,
+        ["points"] = 7761.5,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1426,
@@ -51976,14 +51976,14 @@ UWULogsData[5][1] = {
         ["points"] = 9180.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6661,
+        ["rank_raids"] = 6664,
         ["kill_count"] = 2,
-        ["points"] = 7552.7,
+        ["points"] = 7551.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4075,
+        ["rank_raids"] = 4076,
         ["kill_count"] = 6,
-        ["points"] = 8328.5,
+        ["points"] = 8328.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1338,
@@ -51996,14 +51996,14 @@ UWULogsData[5][1] = {
         ["points"] = 9438.0,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7450,
+        ["rank_raids"] = 7451,
         ["kill_count"] = 7,
-        ["points"] = 7316.0,
+        ["points"] = 7315.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1938,
+        ["rank_raids"] = 1939,
         ["kill_count"] = 10,
-        ["points"] = 8975.8,
+        ["points"] = 8975.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6142,
@@ -52011,9 +52011,9 @@ UWULogsData[5][1] = {
         ["points"] = 7708.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4660,
+        ["rank_raids"] = 4661,
         ["kill_count"] = 6,
-        ["points"] = 8153.0,
+        ["points"] = 8152.7,
       },
     },
   },
@@ -52038,9 +52038,9 @@ UWULogsData[5][1] = {
         ["points"] = 9485.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5012,
+        ["rank_raids"] = 5013,
         ["kill_count"] = 9,
-        ["points"] = 8047.4,
+        ["points"] = 8047.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1723,
@@ -52058,9 +52058,9 @@ UWULogsData[5][1] = {
         ["points"] = 8777.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 11819,
+        ["rank_raids"] = 11820,
         ["kill_count"] = 11,
-        ["points"] = 6369.1,
+        ["points"] = 6369.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3126,
@@ -52068,9 +52068,9 @@ UWULogsData[5][1] = {
         ["points"] = 8613.2,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7494,
+        ["rank_raids"] = 7495,
         ["kill_count"] = 5,
-        ["points"] = 7302.8,
+        ["points"] = 7302.5,
       },
     },
   },
@@ -52080,9 +52080,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 916,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 18517,
+        ["rank_raids"] = 18520,
         ["kill_count"] = 1,
-        ["points"] = 5699.3,
+        ["points"] = 5699.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3742,
@@ -52095,9 +52095,9 @@ UWULogsData[5][1] = {
         ["points"] = 8777.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1076,
+        ["rank_raids"] = 1077,
         ["kill_count"] = 3,
-        ["points"] = 9320.6,
+        ["points"] = 9320.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1766,
@@ -52110,14 +52110,14 @@ UWULogsData[5][1] = {
         ["points"] = 7469.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4363,
+        ["rank_raids"] = 4364,
         ["kill_count"] = 4,
-        ["points"] = 8242.1,
+        ["points"] = 8241.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2473,
+        ["rank_raids"] = 2474,
         ["kill_count"] = 4,
-        ["points"] = 8809.1,
+        ["points"] = 8808.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2676,
@@ -52147,14 +52147,14 @@ UWULogsData[5][1] = {
         ["points"] = 7430.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5298,
+        ["rank_raids"] = 5301,
         ["kill_count"] = 2,
-        ["points"] = 7961.6,
+        ["points"] = 7960.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4449,
+        ["rank_raids"] = 4450,
         ["kill_count"] = 11,
-        ["points"] = 8216.3,
+        ["points"] = 8216.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2184,
@@ -52172,9 +52172,9 @@ UWULogsData[5][1] = {
         ["points"] = 9642.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 14233,
+        ["rank_raids"] = 14234,
         ["kill_count"] = 15,
-        ["points"] = 6127.7,
+        ["points"] = 6127.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3440,
@@ -52189,14 +52189,14 @@ UWULogsData[5][1] = {
     },
   },
   ["Drjayy"] = {
-    ["percentile"] = 83.58,
+    ["percentile"] = 83.57,
     ["server"] = "Icecrown",
     ["overall_rank"] = 918,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7889,
+        ["rank_raids"] = 7891,
         ["kill_count"] = 2,
-        ["points"] = 7184.3,
+        ["points"] = 7183.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 598,
@@ -52204,19 +52204,19 @@ UWULogsData[5][1] = {
         ["points"] = 9552.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 13605,
+        ["rank_raids"] = 13610,
         ["kill_count"] = 1,
-        ["points"] = 6190.5,
+        ["points"] = 6190.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 439,
+        ["rank_raids"] = 440,
         ["kill_count"] = 2,
-        ["points"] = 9637.6,
+        ["points"] = 9637.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 12533,
+        ["rank_raids"] = 12535,
         ["kill_count"] = 2,
-        ["points"] = 6297.7,
+        ["points"] = 6297.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2126,
@@ -52229,9 +52229,9 @@ UWULogsData[5][1] = {
         ["points"] = 9755.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1968,
+        ["rank_raids"] = 1969,
         ["kill_count"] = 2,
-        ["points"] = 8963.8,
+        ["points"] = 8963.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6631,
@@ -52266,14 +52266,14 @@ UWULogsData[5][1] = {
         ["points"] = 9669.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6646,
+        ["rank_raids"] = 6647,
         ["kill_count"] = 3,
-        ["points"] = 7557.2,
+        ["points"] = 7556.9,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5200,
+        ["rank_raids"] = 5201,
         ["kill_count"] = 4,
-        ["points"] = 7991.0,
+        ["points"] = 7990.7,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1877,
@@ -52281,14 +52281,14 @@ UWULogsData[5][1] = {
         ["points"] = 9000.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7863,
+        ["rank_raids"] = 7864,
         ["kill_count"] = 4,
-        ["points"] = 7192.1,
+        ["points"] = 7191.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 777,
+        ["rank_raids"] = 778,
         ["kill_count"] = 4,
-        ["points"] = 9462.5,
+        ["points"] = 9462.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6931,
@@ -52318,19 +52318,19 @@ UWULogsData[5][1] = {
         ["points"] = 9135.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5504,
+        ["rank_raids"] = 5507,
         ["kill_count"] = 2,
-        ["points"] = 7899.8,
+        ["points"] = 7898.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4835,
+        ["rank_raids"] = 4836,
         ["kill_count"] = 7,
-        ["points"] = 8100.5,
+        ["points"] = 8100.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6234,
+        ["rank_raids"] = 6236,
         ["kill_count"] = 5,
-        ["points"] = 7680.8,
+        ["points"] = 7680.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3934,
@@ -52343,9 +52343,9 @@ UWULogsData[5][1] = {
         ["points"] = 9218.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5245,
+        ["rank_raids"] = 5246,
         ["kill_count"] = 8,
-        ["points"] = 7977.5,
+        ["points"] = 7977.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1744,
@@ -52353,9 +52353,9 @@ UWULogsData[5][1] = {
         ["points"] = 9053.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5639,
+        ["rank_raids"] = 5640,
         ["kill_count"] = 4,
-        ["points"] = 7859.3,
+        ["points"] = 7859.0,
       },
     },
   },
@@ -52365,9 +52365,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 921,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5151,
+        ["rank_raids"] = 5152,
         ["kill_count"] = 13,
-        ["points"] = 8005.7,
+        ["points"] = 8005.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1905,
@@ -52380,14 +52380,14 @@ UWULogsData[5][1] = {
         ["points"] = 8744.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5791,
+        ["rank_raids"] = 5792,
         ["kill_count"] = 8,
-        ["points"] = 7813.7,
+        ["points"] = 7813.4,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 15754,
+        ["rank_raids"] = 15756,
         ["kill_count"] = 8,
-        ["points"] = 5975.6,
+        ["points"] = 5975.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1891,
@@ -52395,14 +52395,14 @@ UWULogsData[5][1] = {
         ["points"] = 8994.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6986,
+        ["rank_raids"] = 6987,
         ["kill_count"] = 18,
-        ["points"] = 7455.2,
+        ["points"] = 7454.9,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 360,
         ["kill_count"] = 19,
-        ["points"] = 9694.44,
+        ["points"] = 9694.49,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1300,
@@ -52437,9 +52437,9 @@ UWULogsData[5][1] = {
         ["points"] = 8708.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5069,
+        ["rank_raids"] = 5070,
         ["kill_count"] = 7,
-        ["points"] = 8030.3,
+        ["points"] = 8030.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1223,
@@ -52447,9 +52447,9 @@ UWULogsData[5][1] = {
         ["points"] = 9261.8,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8564,
+        ["rank_raids"] = 8565,
         ["kill_count"] = 5,
-        ["points"] = 6981.8,
+        ["points"] = 6981.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2352,
@@ -52457,9 +52457,9 @@ UWULogsData[5][1] = {
         ["points"] = 8845.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3183,
+        ["rank_raids"] = 3184,
         ["kill_count"] = 9,
-        ["points"] = 8596.1,
+        ["points"] = 8595.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2016,
@@ -52467,9 +52467,9 @@ UWULogsData[5][1] = {
         ["points"] = 8946.2,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7646,
+        ["rank_raids"] = 7647,
         ["kill_count"] = 5,
-        ["points"] = 7257.2,
+        ["points"] = 7256.9,
       },
     },
   },
@@ -52489,19 +52489,19 @@ UWULogsData[5][1] = {
         ["points"] = 8492.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5747,
+        ["rank_raids"] = 5750,
         ["kill_count"] = 6,
-        ["points"] = 7826.9,
+        ["points"] = 7826.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7638,
+        ["rank_raids"] = 7639,
         ["kill_count"] = 8,
-        ["points"] = 7259.6,
+        ["points"] = 7259.3,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5212,
+        ["rank_raids"] = 5213,
         ["kill_count"] = 9,
-        ["points"] = 7987.4,
+        ["points"] = 7987.1,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 59,
@@ -52514,9 +52514,9 @@ UWULogsData[5][1] = {
         ["points"] = 9233.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3850,
+        ["rank_raids"] = 3851,
         ["kill_count"] = 9,
-        ["points"] = 8396.0,
+        ["points"] = 8395.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3960,
@@ -52524,9 +52524,9 @@ UWULogsData[5][1] = {
         ["points"] = 8363.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6825,
+        ["rank_raids"] = 6826,
         ["kill_count"] = 11,
-        ["points"] = 7503.5,
+        ["points"] = 7503.2,
       },
     },
   },
@@ -52551,9 +52551,9 @@ UWULogsData[5][1] = {
         ["points"] = 9140.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3047,
+        ["rank_raids"] = 3048,
         ["kill_count"] = 2,
-        ["points"] = 8636.9,
+        ["points"] = 8636.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2586,
@@ -52561,9 +52561,9 @@ UWULogsData[5][1] = {
         ["points"] = 8775.2,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8018,
+        ["rank_raids"] = 8019,
         ["kill_count"] = 4,
-        ["points"] = 7145.6,
+        ["points"] = 7145.3,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2832,
@@ -52571,9 +52571,9 @@ UWULogsData[5][1] = {
         ["points"] = 8701.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 14176,
+        ["rank_raids"] = 14177,
         ["kill_count"] = 3,
-        ["points"] = 6133.4,
+        ["points"] = 6133.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1309,
@@ -52593,9 +52593,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 925,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6232,
+        ["rank_raids"] = 6233,
         ["kill_count"] = 8,
-        ["points"] = 7681.4,
+        ["points"] = 7681.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4435,
@@ -52603,19 +52603,19 @@ UWULogsData[5][1] = {
         ["points"] = 8220.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6111,
+        ["rank_raids"] = 6114,
         ["kill_count"] = 4,
-        ["points"] = 7717.7,
+        ["points"] = 7716.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7480,
+        ["rank_raids"] = 7481,
         ["kill_count"] = 3,
-        ["points"] = 7307.0,
+        ["points"] = 7306.7,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6835,
+        ["rank_raids"] = 6837,
         ["kill_count"] = 3,
-        ["points"] = 7500.5,
+        ["points"] = 7499.9,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 352,
@@ -52628,9 +52628,9 @@ UWULogsData[5][1] = {
         ["points"] = 9130.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4624,
+        ["rank_raids"] = 4625,
         ["kill_count"] = 8,
-        ["points"] = 8163.8,
+        ["points"] = 8163.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1306,
@@ -52650,9 +52650,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 926,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8175,
+        ["rank_raids"] = 8178,
         ["kill_count"] = 12,
-        ["points"] = 7098.5,
+        ["points"] = 7097.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2365,
@@ -52665,14 +52665,14 @@ UWULogsData[5][1] = {
         ["points"] = 9247.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3531,
+        ["rank_raids"] = 3532,
         ["kill_count"] = 11,
-        ["points"] = 8491.7,
+        ["points"] = 8491.4,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4476,
+        ["rank_raids"] = 4477,
         ["kill_count"] = 15,
-        ["points"] = 8208.2,
+        ["points"] = 8207.9,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6088,
@@ -52685,9 +52685,9 @@ UWULogsData[5][1] = {
         ["points"] = 8829.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7647,
+        ["rank_raids"] = 7648,
         ["kill_count"] = 18,
-        ["points"] = 7256.9,
+        ["points"] = 7256.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3515,
@@ -52707,9 +52707,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 927,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 16142,
+        ["rank_raids"] = 16145,
         ["kill_count"] = 2,
-        ["points"] = 5936.8,
+        ["points"] = 5936.5,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2033,
@@ -52722,14 +52722,14 @@ UWULogsData[5][1] = {
         ["points"] = 9047.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 916,
+        ["rank_raids"] = 917,
         ["kill_count"] = 5,
-        ["points"] = 9393.0,
+        ["points"] = 9392.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5201,
+        ["rank_raids"] = 5202,
         ["kill_count"] = 5,
-        ["points"] = 7990.7,
+        ["points"] = 7990.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1018,
@@ -52742,14 +52742,14 @@ UWULogsData[5][1] = {
         ["points"] = 9432.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2690,
+        ["rank_raids"] = 2691,
         ["kill_count"] = 10,
-        ["points"] = 8744.0,
+        ["points"] = 8743.7,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 14019,
+        ["rank_raids"] = 14020,
         ["kill_count"] = 7,
-        ["points"] = 6149.1,
+        ["points"] = 6149.0,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 3590,
@@ -52779,9 +52779,9 @@ UWULogsData[5][1] = {
         ["points"] = 9405.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4410,
+        ["rank_raids"] = 4411,
         ["kill_count"] = 13,
-        ["points"] = 8228.0,
+        ["points"] = 8227.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3431,
@@ -52789,9 +52789,9 @@ UWULogsData[5][1] = {
         ["points"] = 8521.7,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8721,
+        ["rank_raids"] = 8722,
         ["kill_count"] = 6,
-        ["points"] = 6934.7,
+        ["points"] = 6934.4,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1091,
@@ -52799,9 +52799,9 @@ UWULogsData[5][1] = {
         ["points"] = 9314.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1942,
+        ["rank_raids"] = 1943,
         ["kill_count"] = 13,
-        ["points"] = 8974.2,
+        ["points"] = 8973.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4088,
@@ -52821,9 +52821,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 929,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5815,
+        ["rank_raids"] = 5816,
         ["kill_count"] = 7,
-        ["points"] = 7806.5,
+        ["points"] = 7806.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 7087,
@@ -52836,9 +52836,9 @@ UWULogsData[5][1] = {
         ["points"] = 9337.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4096,
+        ["rank_raids"] = 4097,
         ["kill_count"] = 5,
-        ["points"] = 8322.2,
+        ["points"] = 8321.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1484,
@@ -52856,14 +52856,14 @@ UWULogsData[5][1] = {
         ["points"] = 9152.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1582,
+        ["rank_raids"] = 1583,
         ["kill_count"] = 9,
-        ["points"] = 9118.2,
+        ["points"] = 9117.8,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 11283,
+        ["rank_raids"] = 11284,
         ["kill_count"] = 7,
-        ["points"] = 6422.7,
+        ["points"] = 6422.6,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 3939,
@@ -52873,7 +52873,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Blesa"] = {
-    ["percentile"] = 83.43,
+    ["percentile"] = 83.42,
     ["server"] = "Icecrown",
     ["overall_rank"] = 930,
     ["bosses"] = {
@@ -52888,19 +52888,19 @@ UWULogsData[5][1] = {
         ["points"] = 8879.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4207,
+        ["rank_raids"] = 4209,
         ["kill_count"] = 3,
-        ["points"] = 8288.9,
+        ["points"] = 8288.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 8168,
+        ["rank_raids"] = 8169,
         ["kill_count"] = 5,
-        ["points"] = 7100.6,
+        ["points"] = 7100.3,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4383,
+        ["rank_raids"] = 4384,
         ["kill_count"] = 6,
-        ["points"] = 8236.1,
+        ["points"] = 8235.8,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2399,
@@ -52913,9 +52913,9 @@ UWULogsData[5][1] = {
         ["points"] = 9109.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1950,
+        ["rank_raids"] = 1951,
         ["kill_count"] = 6,
-        ["points"] = 8971.0,
+        ["points"] = 8970.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7692,
@@ -52923,9 +52923,9 @@ UWULogsData[5][1] = {
         ["points"] = 7243.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5807,
+        ["rank_raids"] = 5808,
         ["kill_count"] = 8,
-        ["points"] = 7808.9,
+        ["points"] = 7808.6,
       },
     },
   },
@@ -52935,9 +52935,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 931,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 16201,
+        ["rank_raids"] = 16204,
         ["kill_count"] = 4,
-        ["points"] = 5930.9,
+        ["points"] = 5930.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 76,
@@ -52950,9 +52950,9 @@ UWULogsData[5][1] = {
         ["points"] = 9306.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5316,
+        ["rank_raids"] = 5317,
         ["kill_count"] = 6,
-        ["points"] = 7956.2,
+        ["points"] = 7955.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1407,
@@ -52965,19 +52965,19 @@ UWULogsData[5][1] = {
         ["points"] = 9705.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4134,
+        ["rank_raids"] = 4135,
         ["kill_count"] = 9,
-        ["points"] = 8310.8,
+        ["points"] = 8310.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6716,
+        ["rank_raids"] = 6717,
         ["kill_count"] = 10,
-        ["points"] = 7536.2,
+        ["points"] = 7535.9,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 14126,
+        ["rank_raids"] = 14127,
         ["kill_count"] = 3,
-        ["points"] = 6138.4,
+        ["points"] = 6138.3,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 883,
@@ -53002,14 +53002,14 @@ UWULogsData[5][1] = {
         ["points"] = 8819.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9105,
+        ["rank_raids"] = 9109,
         ["kill_count"] = 4,
-        ["points"] = 6819.5,
+        ["points"] = 6818.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1663,
+        ["rank_raids"] = 1664,
         ["kill_count"] = 15,
-        ["points"] = 9085.8,
+        ["points"] = 9085.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3286,
@@ -53027,9 +53027,9 @@ UWULogsData[5][1] = {
         ["points"] = 8702.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 14097,
+        ["rank_raids"] = 14098,
         ["kill_count"] = 17,
-        ["points"] = 6141.3,
+        ["points"] = 6141.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 665,
@@ -53037,9 +53037,9 @@ UWULogsData[5][1] = {
         ["points"] = 9518.5,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4549,
+        ["rank_raids"] = 4550,
         ["kill_count"] = 14,
-        ["points"] = 8186.3,
+        ["points"] = 8186.0,
       },
     },
   },
@@ -53049,9 +53049,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 933,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5240,
+        ["rank_raids"] = 5241,
         ["kill_count"] = 5,
-        ["points"] = 7979.0,
+        ["points"] = 7978.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 7747,
@@ -53064,9 +53064,9 @@ UWULogsData[5][1] = {
         ["points"] = 9813.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4402,
+        ["rank_raids"] = 4403,
         ["kill_count"] = 11,
-        ["points"] = 8230.4,
+        ["points"] = 8230.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1002,
@@ -53079,14 +53079,14 @@ UWULogsData[5][1] = {
         ["points"] = 9263.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 11367,
+        ["rank_raids"] = 11368,
         ["kill_count"] = 14,
-        ["points"] = 6414.3,
+        ["points"] = 6414.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3951,
+        ["rank_raids"] = 3952,
         ["kill_count"] = 15,
-        ["points"] = 8365.7,
+        ["points"] = 8365.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1834,
@@ -53094,9 +53094,9 @@ UWULogsData[5][1] = {
         ["points"] = 9017.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6030,
+        ["rank_raids"] = 6031,
         ["kill_count"] = 14,
-        ["points"] = 7742.0,
+        ["points"] = 7741.7,
       },
     },
   },
@@ -53106,9 +53106,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 934,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 11377,
+        ["rank_raids"] = 11380,
         ["kill_count"] = 6,
-        ["points"] = 6413.3,
+        ["points"] = 6413.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 19,
@@ -53121,14 +53121,14 @@ UWULogsData[5][1] = {
         ["points"] = 9123.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1041,
+        ["rank_raids"] = 1042,
         ["kill_count"] = 10,
-        ["points"] = 9334.6,
+        ["points"] = 9334.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7833,
+        ["rank_raids"] = 7835,
         ["kill_count"] = 11,
-        ["points"] = 7201.1,
+        ["points"] = 7200.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 218,
@@ -53136,14 +53136,14 @@ UWULogsData[5][1] = {
         ["points"] = 9796.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7775,
+        ["rank_raids"] = 7776,
         ["kill_count"] = 13,
-        ["points"] = 7218.5,
+        ["points"] = 7218.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4968,
+        ["rank_raids"] = 4969,
         ["kill_count"] = 14,
-        ["points"] = 8060.6,
+        ["points"] = 8060.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3088,
@@ -53151,9 +53151,9 @@ UWULogsData[5][1] = {
         ["points"] = 8624.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6367,
+        ["rank_raids"] = 6368,
         ["kill_count"] = 14,
-        ["points"] = 7640.9,
+        ["points"] = 7640.6,
       },
     },
   },
@@ -53163,9 +53163,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 935,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5626,
+        ["rank_raids"] = 5627,
         ["kill_count"] = 4,
-        ["points"] = 7863.2,
+        ["points"] = 7862.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 4135,
@@ -53178,9 +53178,9 @@ UWULogsData[5][1] = {
         ["points"] = 8730.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2400,
+        ["rank_raids"] = 2401,
         ["kill_count"] = 6,
-        ["points"] = 8831.0,
+        ["points"] = 8830.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3354,
@@ -53188,19 +53188,19 @@ UWULogsData[5][1] = {
         ["points"] = 8544.8,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 7072,
+        ["rank_raids"] = 7073,
         ["kill_count"] = 8,
-        ["points"] = 7429.4,
+        ["points"] = 7429.1,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3108,
+        ["rank_raids"] = 3109,
         ["kill_count"] = 4,
-        ["points"] = 8618.6,
+        ["points"] = 8618.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 651,
+        ["rank_raids"] = 652,
         ["kill_count"] = 8,
-        ["points"] = 9525.5,
+        ["points"] = 9525.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1418,
@@ -53208,9 +53208,9 @@ UWULogsData[5][1] = {
         ["points"] = 9183.8,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 11955,
+        ["rank_raids"] = 11956,
         ["kill_count"] = 8,
-        ["points"] = 6355.5,
+        ["points"] = 6355.4,
       },
     },
   },
@@ -53220,9 +53220,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 936,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7906,
+        ["rank_raids"] = 7908,
         ["kill_count"] = 5,
-        ["points"] = 7179.2,
+        ["points"] = 7178.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5586,
@@ -53230,19 +53230,19 @@ UWULogsData[5][1] = {
         ["points"] = 7875.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 8150,
+        ["rank_raids"] = 8154,
         ["kill_count"] = 2,
-        ["points"] = 7106.0,
+        ["points"] = 7104.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1245,
+        ["rank_raids"] = 1246,
         ["kill_count"] = 4,
-        ["points"] = 9253.0,
+        ["points"] = 9252.6,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 8413,
+        ["rank_raids"] = 8415,
         ["kill_count"] = 6,
-        ["points"] = 7027.1,
+        ["points"] = 7026.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 145,
@@ -53255,9 +53255,9 @@ UWULogsData[5][1] = {
         ["points"] = 9101.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6038,
+        ["rank_raids"] = 6039,
         ["kill_count"] = 6,
-        ["points"] = 7739.6,
+        ["points"] = 7739.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1537,
@@ -53292,9 +53292,9 @@ UWULogsData[5][1] = {
         ["points"] = 8466.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 8552,
+        ["rank_raids"] = 8553,
         ["kill_count"] = 2,
-        ["points"] = 6985.4,
+        ["points"] = 6985.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1544,
@@ -53312,9 +53312,9 @@ UWULogsData[5][1] = {
         ["points"] = 9227.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6709,
+        ["rank_raids"] = 6710,
         ["kill_count"] = 9,
-        ["points"] = 7538.3,
+        ["points"] = 7538.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3042,
@@ -53322,9 +53322,9 @@ UWULogsData[5][1] = {
         ["points"] = 8638.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4262,
+        ["rank_raids"] = 4263,
         ["kill_count"] = 7,
-        ["points"] = 8272.4,
+        ["points"] = 8272.1,
       },
     },
   },
@@ -53334,9 +53334,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 938,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6721,
+        ["rank_raids"] = 6722,
         ["kill_count"] = 2,
-        ["points"] = 7534.7,
+        ["points"] = 7534.4,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5404,
@@ -53349,14 +53349,14 @@ UWULogsData[5][1] = {
         ["points"] = 8646.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3719,
+        ["rank_raids"] = 3720,
         ["kill_count"] = 6,
-        ["points"] = 8435.3,
+        ["points"] = 8435.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4003,
+        ["rank_raids"] = 4004,
         ["kill_count"] = 6,
-        ["points"] = 8350.1,
+        ["points"] = 8349.8,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2524,
@@ -53369,9 +53369,9 @@ UWULogsData[5][1] = {
         ["points"] = 9072.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3502,
+        ["rank_raids"] = 3503,
         ["kill_count"] = 6,
-        ["points"] = 8500.4,
+        ["points"] = 8500.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7017,
@@ -53391,9 +53391,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 939,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8934,
+        ["rank_raids"] = 8937,
         ["kill_count"] = 4,
-        ["points"] = 6870.8,
+        ["points"] = 6869.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5310,
@@ -53406,9 +53406,9 @@ UWULogsData[5][1] = {
         ["points"] = 9009.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 11159,
+        ["rank_raids"] = 11160,
         ["kill_count"] = 1,
-        ["points"] = 6435.1,
+        ["points"] = 6435.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 612,
@@ -53426,9 +53426,9 @@ UWULogsData[5][1] = {
         ["points"] = 8859.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4060,
+        ["rank_raids"] = 4061,
         ["kill_count"] = 9,
-        ["points"] = 8333.0,
+        ["points"] = 8332.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2802,
@@ -53463,19 +53463,19 @@ UWULogsData[5][1] = {
         ["points"] = 8477.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5912,
+        ["rank_raids"] = 5913,
         ["kill_count"] = 7,
-        ["points"] = 7777.4,
+        ["points"] = 7777.1,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4369,
+        ["rank_raids"] = 4370,
         ["kill_count"] = 6,
-        ["points"] = 8240.3,
+        ["points"] = 8240.0,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 7750,
+        ["rank_raids"] = 7751,
         ["kill_count"] = 8,
-        ["points"] = 7226.0,
+        ["points"] = 7225.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1624,
@@ -53483,9 +53483,9 @@ UWULogsData[5][1] = {
         ["points"] = 9101.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4477,
+        ["rank_raids"] = 4478,
         ["kill_count"] = 12,
-        ["points"] = 8207.9,
+        ["points"] = 8207.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4709,
@@ -53505,9 +53505,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 941,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 14290,
+        ["rank_raids"] = 14293,
         ["kill_count"] = 10,
-        ["points"] = 6122.0,
+        ["points"] = 6121.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1932,
@@ -53515,14 +53515,14 @@ UWULogsData[5][1] = {
         ["points"] = 8978.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5821,
+        ["rank_raids"] = 5824,
         ["kill_count"] = 3,
-        ["points"] = 7804.7,
+        ["points"] = 7803.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4783,
+        ["rank_raids"] = 4784,
         ["kill_count"] = 11,
-        ["points"] = 8116.1,
+        ["points"] = 8115.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1185,
@@ -53535,14 +53535,14 @@ UWULogsData[5][1] = {
         ["points"] = 9256.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 10944,
+        ["rank_raids"] = 10945,
         ["kill_count"] = 25,
-        ["points"] = 6456.6,
+        ["points"] = 6456.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1818,
+        ["rank_raids"] = 1819,
         ["kill_count"] = 20,
-        ["points"] = 9023.8,
+        ["points"] = 9023.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1062,
@@ -53577,14 +53577,14 @@ UWULogsData[5][1] = {
         ["points"] = 9385.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1939,
+        ["rank_raids"] = 1940,
         ["kill_count"] = 3,
-        ["points"] = 8975.4,
+        ["points"] = 8975.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 17263,
+        ["rank_raids"] = 17265,
         ["kill_count"] = 1,
-        ["points"] = 5824.7,
+        ["points"] = 5824.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3860,
@@ -53597,9 +53597,9 @@ UWULogsData[5][1] = {
         ["points"] = 8915.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2879,
+        ["rank_raids"] = 2880,
         ["kill_count"] = 7,
-        ["points"] = 8687.3,
+        ["points"] = 8687.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4165,
@@ -53607,14 +53607,14 @@ UWULogsData[5][1] = {
         ["points"] = 8301.5,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4247,
+        ["rank_raids"] = 4248,
         ["kill_count"] = 9,
-        ["points"] = 8276.9,
+        ["points"] = 8276.6,
       },
     },
   },
   ["Eatdisc"] = {
-    ["percentile"] = 83.33,
+    ["percentile"] = 83.32,
     ["server"] = "Icecrown",
     ["overall_rank"] = 943,
     ["bosses"] = {
@@ -53634,14 +53634,14 @@ UWULogsData[5][1] = {
         ["points"] = 8491.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5725,
+        ["rank_raids"] = 5726,
         ["kill_count"] = 2,
-        ["points"] = 7833.5,
+        ["points"] = 7833.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5384,
+        ["rank_raids"] = 5385,
         ["kill_count"] = 1,
-        ["points"] = 7935.8,
+        ["points"] = 7935.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2427,
@@ -53654,9 +53654,9 @@ UWULogsData[5][1] = {
         ["points"] = 8950.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7602,
+        ["rank_raids"] = 7603,
         ["kill_count"] = 4,
-        ["points"] = 7270.4,
+        ["points"] = 7270.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2619,
@@ -53664,9 +53664,9 @@ UWULogsData[5][1] = {
         ["points"] = 8765.3,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5284,
+        ["rank_raids"] = 5285,
         ["kill_count"] = 5,
-        ["points"] = 7965.8,
+        ["points"] = 7965.5,
       },
     },
   },
@@ -53686,14 +53686,14 @@ UWULogsData[5][1] = {
         ["points"] = 8888.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 3773,
+        ["rank_raids"] = 3774,
         ["kill_count"] = 1,
-        ["points"] = 8419.1,
+        ["points"] = 8418.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 11315,
+        ["rank_raids"] = 11316,
         ["kill_count"] = 4,
-        ["points"] = 6419.5,
+        ["points"] = 6419.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 90,
@@ -53706,14 +53706,14 @@ UWULogsData[5][1] = {
         ["points"] = 7999.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 17271,
+        ["rank_raids"] = 17272,
         ["kill_count"] = 5,
-        ["points"] = 5823.9,
+        ["points"] = 5823.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3140,
+        ["rank_raids"] = 3141,
         ["kill_count"] = 7,
-        ["points"] = 8609.0,
+        ["points"] = 8608.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1769,
@@ -53748,14 +53748,14 @@ UWULogsData[5][1] = {
         ["points"] = 8641.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5398,
+        ["rank_raids"] = 5399,
         ["kill_count"] = 5,
-        ["points"] = 7931.6,
+        ["points"] = 7931.3,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6009,
+        ["rank_raids"] = 6010,
         ["kill_count"] = 4,
-        ["points"] = 7748.3,
+        ["points"] = 7748.0,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 731,
@@ -53768,9 +53768,9 @@ UWULogsData[5][1] = {
         ["points"] = 8789.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 10443,
+        ["rank_raids"] = 10444,
         ["kill_count"] = 5,
-        ["points"] = 6506.7,
+        ["points"] = 6506.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 55,
@@ -53778,9 +53778,9 @@ UWULogsData[5][1] = {
         ["points"] = 9946.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 13774,
+        ["rank_raids"] = 13775,
         ["kill_count"] = 4,
-        ["points"] = 6173.6,
+        ["points"] = 6173.5,
       },
     },
   },
@@ -53805,9 +53805,9 @@ UWULogsData[5][1] = {
         ["points"] = 9482.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 11745,
+        ["rank_raids"] = 11746,
         ["kill_count"] = 7,
-        ["points"] = 6376.5,
+        ["points"] = 6376.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3946,
@@ -53820,14 +53820,14 @@ UWULogsData[5][1] = {
         ["points"] = 8114.3,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4971,
+        ["rank_raids"] = 4972,
         ["kill_count"] = 8,
-        ["points"] = 8059.7,
+        ["points"] = 8059.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 10938,
+        ["rank_raids"] = 10939,
         ["kill_count"] = 9,
-        ["points"] = 6457.2,
+        ["points"] = 6457.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2070,
@@ -53847,9 +53847,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 947,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5553,
+        ["rank_raids"] = 5554,
         ["kill_count"] = 6,
-        ["points"] = 7885.1,
+        ["points"] = 7884.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 7028,
@@ -53862,14 +53862,14 @@ UWULogsData[5][1] = {
         ["points"] = 8958.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4656,
+        ["rank_raids"] = 4657,
         ["kill_count"] = 7,
-        ["points"] = 8154.2,
+        ["points"] = 8153.9,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5336,
+        ["rank_raids"] = 5337,
         ["kill_count"] = 9,
-        ["points"] = 7950.2,
+        ["points"] = 7949.9,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 242,
@@ -53877,14 +53877,14 @@ UWULogsData[5][1] = {
         ["points"] = 9777.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 3838,
+        ["rank_raids"] = 3839,
         ["kill_count"] = 6,
-        ["points"] = 8399.6,
+        ["points"] = 8399.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2800,
+        ["rank_raids"] = 2801,
         ["kill_count"] = 7,
-        ["points"] = 8711.0,
+        ["points"] = 8710.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5067,
@@ -53892,9 +53892,9 @@ UWULogsData[5][1] = {
         ["points"] = 8030.9,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5276,
+        ["rank_raids"] = 5277,
         ["kill_count"] = 8,
-        ["points"] = 7968.2,
+        ["points"] = 7967.9,
       },
     },
   },
@@ -53904,9 +53904,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 948,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5032,
+        ["rank_raids"] = 5033,
         ["kill_count"] = 6,
-        ["points"] = 8041.4,
+        ["points"] = 8041.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 7517,
@@ -53919,9 +53919,9 @@ UWULogsData[5][1] = {
         ["points"] = 8751.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2321,
+        ["rank_raids"] = 2322,
         ["kill_count"] = 9,
-        ["points"] = 8854.7,
+        ["points"] = 8854.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 908,
@@ -53939,9 +53939,9 @@ UWULogsData[5][1] = {
         ["points"] = 9682.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 11064,
+        ["rank_raids"] = 11065,
         ["kill_count"] = 13,
-        ["points"] = 6444.6,
+        ["points"] = 6444.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6112,
@@ -53971,14 +53971,14 @@ UWULogsData[5][1] = {
         ["points"] = 7936.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10662,
+        ["rank_raids"] = 10666,
         ["kill_count"] = 1,
-        ["points"] = 6484.8,
+        ["points"] = 6484.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 8539,
+        ["rank_raids"] = 8540,
         ["kill_count"] = 1,
-        ["points"] = 6989.3,
+        ["points"] = 6989.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3725,
@@ -53996,9 +53996,9 @@ UWULogsData[5][1] = {
         ["points"] = 9293.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4082,
+        ["rank_raids"] = 4083,
         ["kill_count"] = 3,
-        ["points"] = 8326.4,
+        ["points"] = 8326.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3132,
@@ -54018,9 +54018,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 950,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5735,
+        ["rank_raids"] = 5736,
         ["kill_count"] = 2,
-        ["points"] = 7830.5,
+        ["points"] = 7830.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2470,
@@ -54033,9 +54033,9 @@ UWULogsData[5][1] = {
         ["points"] = 9280.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1741,
+        ["rank_raids"] = 1742,
         ["kill_count"] = 8,
-        ["points"] = 9054.6,
+        ["points"] = 9054.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3520,
@@ -54043,9 +54043,9 @@ UWULogsData[5][1] = {
         ["points"] = 8495.0,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9883,
+        ["rank_raids"] = 9884,
         ["kill_count"] = 2,
-        ["points"] = 6586.1,
+        ["points"] = 6585.8,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 391,
@@ -54053,9 +54053,9 @@ UWULogsData[5][1] = {
         ["points"] = 9667.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5951,
+        ["rank_raids"] = 5952,
         ["kill_count"] = 7,
-        ["points"] = 7765.7,
+        ["points"] = 7765.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7202,
@@ -54085,19 +54085,19 @@ UWULogsData[5][1] = {
         ["points"] = 8932.4,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5783,
+        ["rank_raids"] = 5786,
         ["kill_count"] = 2,
-        ["points"] = 7816.1,
+        ["points"] = 7815.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3432,
+        ["rank_raids"] = 3433,
         ["kill_count"] = 4,
-        ["points"] = 8521.4,
+        ["points"] = 8521.1,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9490,
+        ["rank_raids"] = 9492,
         ["kill_count"] = 2,
-        ["points"] = 6704.0,
+        ["points"] = 6703.4,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2061,
@@ -54105,14 +54105,14 @@ UWULogsData[5][1] = {
         ["points"] = 8932.7,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4060,
+        ["rank_raids"] = 4061,
         ["kill_count"] = 3,
-        ["points"] = 8333.0,
+        ["points"] = 8332.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7021,
+        ["rank_raids"] = 7022,
         ["kill_count"] = 5,
-        ["points"] = 7444.7,
+        ["points"] = 7444.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2858,
@@ -54147,9 +54147,9 @@ UWULogsData[5][1] = {
         ["points"] = 8595.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6234,
+        ["rank_raids"] = 6235,
         ["kill_count"] = 7,
-        ["points"] = 7680.8,
+        ["points"] = 7680.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1705,
@@ -54167,9 +54167,9 @@ UWULogsData[5][1] = {
         ["points"] = 8753.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 9548,
+        ["rank_raids"] = 9549,
         ["kill_count"] = 12,
-        ["points"] = 6686.6,
+        ["points"] = 6686.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5377,
@@ -54184,7 +54184,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Vakandava"] = {
-    ["percentile"] = 83.17,
+    ["percentile"] = 83.16,
     ["server"] = "Icecrown",
     ["overall_rank"] = 953,
     ["bosses"] = {
@@ -54199,19 +54199,19 @@ UWULogsData[5][1] = {
         ["points"] = 8371.1,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7266,
+        ["rank_raids"] = 7269,
         ["kill_count"] = 10,
-        ["points"] = 7371.2,
+        ["points"] = 7370.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5782,
+        ["rank_raids"] = 5783,
         ["kill_count"] = 10,
-        ["points"] = 7816.4,
+        ["points"] = 7816.1,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4569,
+        ["rank_raids"] = 4570,
         ["kill_count"] = 10,
-        ["points"] = 8180.3,
+        ["points"] = 8180.0,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6819,
@@ -54224,9 +54224,9 @@ UWULogsData[5][1] = {
         ["points"] = 8922.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6326,
+        ["rank_raids"] = 6327,
         ["kill_count"] = 11,
-        ["points"] = 7653.2,
+        ["points"] = 7652.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 512,
@@ -54246,9 +54246,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 954,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8151,
+        ["rank_raids"] = 8154,
         ["kill_count"] = 3,
-        ["points"] = 7105.7,
+        ["points"] = 7104.8,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2756,
@@ -54261,9 +54261,9 @@ UWULogsData[5][1] = {
         ["points"] = 8649.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6913,
+        ["rank_raids"] = 6914,
         ["kill_count"] = 4,
-        ["points"] = 7477.1,
+        ["points"] = 7476.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 927,
@@ -54271,9 +54271,9 @@ UWULogsData[5][1] = {
         ["points"] = 9387.5,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 7164,
+        ["rank_raids"] = 7165,
         ["kill_count"] = 5,
-        ["points"] = 7401.8,
+        ["points"] = 7401.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2222,
@@ -54281,9 +54281,9 @@ UWULogsData[5][1] = {
         ["points"] = 8884.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2491,
+        ["rank_raids"] = 2492,
         ["kill_count"] = 5,
-        ["points"] = 8803.7,
+        ["points"] = 8803.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 482,
@@ -54291,9 +54291,9 @@ UWULogsData[5][1] = {
         ["points"] = 9611.8,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 8133,
+        ["rank_raids"] = 8134,
         ["kill_count"] = 2,
-        ["points"] = 7111.1,
+        ["points"] = 7110.8,
       },
     },
   },
@@ -54318,14 +54318,14 @@ UWULogsData[5][1] = {
         ["points"] = 9628.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 475,
+        ["rank_raids"] = 476,
         ["kill_count"] = 1,
-        ["points"] = 9616.0,
+        ["points"] = 9615.4,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5477,
+        ["rank_raids"] = 5478,
         ["kill_count"] = 1,
-        ["points"] = 7907.9,
+        ["points"] = 7907.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 342,
@@ -54333,9 +54333,9 @@ UWULogsData[5][1] = {
         ["points"] = 9701.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5387,
+        ["rank_raids"] = 5388,
         ["kill_count"] = 1,
-        ["points"] = 7934.9,
+        ["points"] = 7934.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 68,
@@ -54370,14 +54370,14 @@ UWULogsData[5][1] = {
         ["points"] = 9165.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 10710,
+        ["rank_raids"] = 10711,
         ["kill_count"] = 7,
-        ["points"] = 6480.0,
+        ["points"] = 6479.9,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 17553,
+        ["rank_raids"] = 17555,
         ["kill_count"] = 9,
-        ["points"] = 5795.7,
+        ["points"] = 5795.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2178,
@@ -54390,9 +54390,9 @@ UWULogsData[5][1] = {
         ["points"] = 9019.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2773,
+        ["rank_raids"] = 2774,
         ["kill_count"] = 13,
-        ["points"] = 8719.1,
+        ["points"] = 8718.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2393,
@@ -54406,67 +54406,10 @@ UWULogsData[5][1] = {
       },
     },
   },
-  ["Hollysheett"] = {
-    ["percentile"] = 83.15,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 957,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6611,
-        ["kill_count"] = 4,
-        ["points"] = 7567.7,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 2159,
-        ["kill_count"] = 6,
-        ["points"] = 8903.3,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6632,
-        ["kill_count"] = 5,
-        ["points"] = 7561.4,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 2901,
-        ["kill_count"] = 4,
-        ["points"] = 8680.7,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 1175,
-        ["kill_count"] = 5,
-        ["points"] = 9281.0,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 5109,
-        ["kill_count"] = 6,
-        ["points"] = 8018.3,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 322,
-        ["kill_count"] = 7,
-        ["points"] = 9715.6,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2856,
-        ["kill_count"] = 8,
-        ["points"] = 8694.2,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 15188,
-        ["kill_count"] = 4,
-        ["points"] = 6032.2,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 2869,
-        ["kill_count"] = 6,
-        ["points"] = 8690.3,
-      },
-    },
-  },
   ["Pesticidee"] = {
     ["percentile"] = 83.15,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 958,
+    ["overall_rank"] = 957,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2911,
@@ -54484,9 +54427,9 @@ UWULogsData[5][1] = {
         ["points"] = 9758.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6628,
+        ["rank_raids"] = 6629,
         ["kill_count"] = 8,
-        ["points"] = 7562.6,
+        ["points"] = 7562.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2360,
@@ -54494,9 +54437,9 @@ UWULogsData[5][1] = {
         ["points"] = 8843.0,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8234,
+        ["rank_raids"] = 8235,
         ["kill_count"] = 3,
-        ["points"] = 7080.8,
+        ["points"] = 7080.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 876,
@@ -54504,9 +54447,9 @@ UWULogsData[5][1] = {
         ["points"] = 9413.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 11647,
+        ["rank_raids"] = 11648,
         ["kill_count"] = 8,
-        ["points"] = 6386.3,
+        ["points"] = 6386.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3590,
@@ -54517,6 +54460,63 @@ UWULogsData[5][1] = {
         ["rank_raids"] = 2603,
         ["kill_count"] = 1,
         ["points"] = 8770.1,
+      },
+    },
+  },
+  ["Hollysheett"] = {
+    ["percentile"] = 83.15,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 958,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 6612,
+        ["kill_count"] = 4,
+        ["points"] = 7567.4,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 2159,
+        ["kill_count"] = 6,
+        ["points"] = 8903.3,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 6635,
+        ["kill_count"] = 5,
+        ["points"] = 7560.5,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 2902,
+        ["kill_count"] = 4,
+        ["points"] = 8680.4,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 1175,
+        ["kill_count"] = 5,
+        ["points"] = 9281.0,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 5109,
+        ["kill_count"] = 6,
+        ["points"] = 8018.3,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 322,
+        ["kill_count"] = 7,
+        ["points"] = 9715.6,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 2857,
+        ["kill_count"] = 8,
+        ["points"] = 8693.9,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 15189,
+        ["kill_count"] = 4,
+        ["points"] = 6032.1,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 2869,
+        ["kill_count"] = 6,
+        ["points"] = 8690.3,
       },
     },
   },
@@ -54541,14 +54541,14 @@ UWULogsData[5][1] = {
         ["points"] = 8472.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2126,
+        ["rank_raids"] = 2127,
         ["kill_count"] = 4,
-        ["points"] = 8913.2,
+        ["points"] = 8912.9,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9513,
+        ["rank_raids"] = 9515,
         ["kill_count"] = 1,
-        ["points"] = 6697.1,
+        ["points"] = 6696.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5886,
@@ -54561,9 +54561,9 @@ UWULogsData[5][1] = {
         ["points"] = 8920.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1388,
+        ["rank_raids"] = 1389,
         ["kill_count"] = 6,
-        ["points"] = 9195.8,
+        ["points"] = 9195.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6278,
@@ -54571,9 +54571,9 @@ UWULogsData[5][1] = {
         ["points"] = 7667.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6049,
+        ["rank_raids"] = 6050,
         ["kill_count"] = 6,
-        ["points"] = 7736.3,
+        ["points"] = 7736.0,
       },
     },
   },
@@ -54598,9 +54598,9 @@ UWULogsData[5][1] = {
         ["points"] = 8461.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1383,
+        ["rank_raids"] = 1384,
         ["kill_count"] = 11,
-        ["points"] = 9197.8,
+        ["points"] = 9197.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3270,
@@ -54613,14 +54613,14 @@ UWULogsData[5][1] = {
         ["points"] = 8900.3,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 19262,
+        ["rank_raids"] = 19263,
         ["kill_count"] = 4,
-        ["points"] = 5624.8,
+        ["points"] = 5624.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 14397,
+        ["rank_raids"] = 14398,
         ["kill_count"] = 17,
-        ["points"] = 6111.3,
+        ["points"] = 6111.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 564,
@@ -54655,9 +54655,9 @@ UWULogsData[5][1] = {
         ["points"] = 9158.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4630,
+        ["rank_raids"] = 4631,
         ["kill_count"] = 5,
-        ["points"] = 8162.0,
+        ["points"] = 8161.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 800,
@@ -54665,9 +54665,9 @@ UWULogsData[5][1] = {
         ["points"] = 9451.0,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 11376,
+        ["rank_raids"] = 11377,
         ["kill_count"] = 3,
-        ["points"] = 6413.4,
+        ["points"] = 6413.3,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 736,
@@ -54675,9 +54675,9 @@ UWULogsData[5][1] = {
         ["points"] = 9483.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6628,
+        ["rank_raids"] = 6629,
         ["kill_count"] = 6,
-        ["points"] = 7562.6,
+        ["points"] = 7562.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3127,
@@ -54697,9 +54697,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 962,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 5792,
+        ["rank_raids"] = 5793,
         ["kill_count"] = 16,
-        ["points"] = 7813.4,
+        ["points"] = 7813.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 10095,
@@ -54712,9 +54712,9 @@ UWULogsData[5][1] = {
         ["points"] = 8636.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 255,
+        ["rank_raids"] = 256,
         ["kill_count"] = 15,
-        ["points"] = 9767.0,
+        ["points"] = 9766.2,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1606,
@@ -54727,14 +54727,14 @@ UWULogsData[5][1] = {
         ["points"] = 8554.1,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 5591,
+        ["rank_raids"] = 5592,
         ["kill_count"] = 20,
-        ["points"] = 7873.7,
+        ["points"] = 7873.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1224,
+        ["rank_raids"] = 1225,
         ["kill_count"] = 21,
-        ["points"] = 9261.4,
+        ["points"] = 9261.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7740,
@@ -54764,19 +54764,19 @@ UWULogsData[5][1] = {
         ["points"] = 8420.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6028,
+        ["rank_raids"] = 6031,
         ["kill_count"] = 2,
-        ["points"] = 7742.6,
+        ["points"] = 7741.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7701,
+        ["rank_raids"] = 7702,
         ["kill_count"] = 2,
-        ["points"] = 7240.7,
+        ["points"] = 7240.4,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6086,
+        ["rank_raids"] = 6088,
         ["kill_count"] = 1,
-        ["points"] = 7725.2,
+        ["points"] = 7724.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4953,
@@ -54789,9 +54789,9 @@ UWULogsData[5][1] = {
         ["points"] = 8944.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1202,
+        ["rank_raids"] = 1203,
         ["kill_count"] = 3,
-        ["points"] = 9270.2,
+        ["points"] = 9269.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1324,
@@ -54799,9 +54799,9 @@ UWULogsData[5][1] = {
         ["points"] = 9221.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5194,
+        ["rank_raids"] = 5195,
         ["kill_count"] = 4,
-        ["points"] = 7992.8,
+        ["points"] = 7992.5,
       },
     },
   },
@@ -54826,9 +54826,9 @@ UWULogsData[5][1] = {
         ["points"] = 9321.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6980,
+        ["rank_raids"] = 6981,
         ["kill_count"] = 5,
-        ["points"] = 7457.0,
+        ["points"] = 7456.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3814,
@@ -54846,9 +54846,9 @@ UWULogsData[5][1] = {
         ["points"] = 8849.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 9839,
+        ["rank_raids"] = 9840,
         ["kill_count"] = 5,
-        ["points"] = 6599.3,
+        ["points"] = 6599.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4879,
@@ -54856,9 +54856,9 @@ UWULogsData[5][1] = {
         ["points"] = 8087.3,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4428,
+        ["rank_raids"] = 4429,
         ["kill_count"] = 3,
-        ["points"] = 8222.6,
+        ["points"] = 8222.3,
       },
     },
   },
@@ -54878,14 +54878,14 @@ UWULogsData[5][1] = {
         ["points"] = 9545.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5816,
+        ["rank_raids"] = 5819,
         ["kill_count"] = 3,
-        ["points"] = 7806.2,
+        ["points"] = 7805.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5088,
+        ["rank_raids"] = 5089,
         ["kill_count"] = 3,
-        ["points"] = 8024.6,
+        ["points"] = 8024.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 102,
@@ -54903,9 +54903,9 @@ UWULogsData[5][1] = {
         ["points"] = 9339.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 10513,
+        ["rank_raids"] = 10514,
         ["kill_count"] = 5,
-        ["points"] = 6499.7,
+        ["points"] = 6499.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4794,
@@ -54913,9 +54913,9 @@ UWULogsData[5][1] = {
         ["points"] = 8112.8,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5245,
+        ["rank_raids"] = 5246,
         ["kill_count"] = 5,
-        ["points"] = 7977.5,
+        ["points"] = 7977.2,
       },
     },
   },
@@ -54935,14 +54935,14 @@ UWULogsData[5][1] = {
         ["points"] = 9080.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4663,
+        ["rank_raids"] = 4665,
         ["kill_count"] = 10,
-        ["points"] = 8152.1,
+        ["points"] = 8151.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7152,
+        ["rank_raids"] = 7153,
         ["kill_count"] = 10,
-        ["points"] = 7405.4,
+        ["points"] = 7405.1,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1901,
@@ -54955,14 +54955,14 @@ UWULogsData[5][1] = {
         ["points"] = 8693.3,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 13045,
+        ["rank_raids"] = 13046,
         ["kill_count"] = 20,
-        ["points"] = 6246.5,
+        ["points"] = 6246.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4422,
+        ["rank_raids"] = 4423,
         ["kill_count"] = 20,
-        ["points"] = 8224.4,
+        ["points"] = 8224.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1550,
@@ -54970,9 +54970,9 @@ UWULogsData[5][1] = {
         ["points"] = 9131.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4220,
+        ["rank_raids"] = 4221,
         ["kill_count"] = 7,
-        ["points"] = 8285.0,
+        ["points"] = 8284.7,
       },
     },
   },
@@ -54992,19 +54992,19 @@ UWULogsData[5][1] = {
         ["points"] = 9047.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4907,
+        ["rank_raids"] = 4909,
         ["kill_count"] = 2,
-        ["points"] = 8078.9,
+        ["points"] = 8078.3,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2943,
+        ["rank_raids"] = 2944,
         ["kill_count"] = 6,
-        ["points"] = 8668.1,
+        ["points"] = 8667.8,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5740,
+        ["rank_raids"] = 5741,
         ["kill_count"] = 7,
-        ["points"] = 7829.0,
+        ["points"] = 7828.7,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5157,
@@ -55017,14 +55017,14 @@ UWULogsData[5][1] = {
         ["points"] = 9230.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3488,
+        ["rank_raids"] = 3489,
         ["kill_count"] = 10,
-        ["points"] = 8504.6,
+        ["points"] = 8504.3,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 17071,
+        ["rank_raids"] = 17072,
         ["kill_count"] = 4,
-        ["points"] = 5843.9,
+        ["points"] = 5843.8,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 2661,
@@ -55039,9 +55039,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 968,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9533,
+        ["rank_raids"] = 9536,
         ["kill_count"] = 10,
-        ["points"] = 6691.1,
+        ["points"] = 6690.2,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 5254,
@@ -55049,14 +55049,14 @@ UWULogsData[5][1] = {
         ["points"] = 7974.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7119,
+        ["rank_raids"] = 7122,
         ["kill_count"] = 1,
-        ["points"] = 7415.3,
+        ["points"] = 7414.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6738,
+        ["rank_raids"] = 6739,
         ["kill_count"] = 5,
-        ["points"] = 7529.6,
+        ["points"] = 7529.3,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3766,
@@ -55074,9 +55074,9 @@ UWULogsData[5][1] = {
         ["points"] = 8701.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2227,
+        ["rank_raids"] = 2228,
         ["kill_count"] = 18,
-        ["points"] = 8882.9,
+        ["points"] = 8882.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1203,
@@ -55091,7 +55091,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Shockyholi"] = {
-    ["percentile"] = 83.07,
+    ["percentile"] = 83.06,
     ["server"] = "Icecrown",
     ["overall_rank"] = 969,
     ["bosses"] = {
@@ -55111,9 +55111,9 @@ UWULogsData[5][1] = {
         ["points"] = 8767.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3461,
+        ["rank_raids"] = 3462,
         ["kill_count"] = 4,
-        ["points"] = 8512.7,
+        ["points"] = 8512.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1282,
@@ -55121,19 +55121,19 @@ UWULogsData[5][1] = {
         ["points"] = 9238.2,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 7325,
+        ["rank_raids"] = 7326,
         ["kill_count"] = 7,
-        ["points"] = 7353.5,
+        ["points"] = 7353.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7915,
+        ["rank_raids"] = 7916,
         ["kill_count"] = 2,
-        ["points"] = 7176.5,
+        ["points"] = 7176.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 10037,
+        ["rank_raids"] = 10038,
         ["kill_count"] = 5,
-        ["points"] = 6547.3,
+        ["points"] = 6547.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4403,
@@ -55153,9 +55153,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 970,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8415,
+        ["rank_raids"] = 8418,
         ["kill_count"] = 5,
-        ["points"] = 7026.5,
+        ["points"] = 7025.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 974,
@@ -55163,14 +55163,14 @@ UWULogsData[5][1] = {
         ["points"] = 9364.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4890,
+        ["rank_raids"] = 4892,
         ["kill_count"] = 3,
-        ["points"] = 8084.0,
+        ["points"] = 8083.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1435,
+        ["rank_raids"] = 1436,
         ["kill_count"] = 6,
-        ["points"] = 9177.0,
+        ["points"] = 9176.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1581,
@@ -55188,9 +55188,9 @@ UWULogsData[5][1] = {
         ["points"] = 9044.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8918,
+        ["rank_raids"] = 8919,
         ["kill_count"] = 7,
-        ["points"] = 6875.6,
+        ["points"] = 6875.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1435,
@@ -55198,9 +55198,9 @@ UWULogsData[5][1] = {
         ["points"] = 9177.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7778,
+        ["rank_raids"] = 7779,
         ["kill_count"] = 8,
-        ["points"] = 7217.6,
+        ["points"] = 7217.3,
       },
     },
   },
@@ -55220,14 +55220,14 @@ UWULogsData[5][1] = {
         ["points"] = 7787.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4475,
+        ["rank_raids"] = 4477,
         ["kill_count"] = 2,
-        ["points"] = 8208.5,
+        ["points"] = 8207.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5546,
+        ["rank_raids"] = 5547,
         ["kill_count"] = 2,
-        ["points"] = 7887.2,
+        ["points"] = 7886.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2555,
@@ -55245,9 +55245,9 @@ UWULogsData[5][1] = {
         ["points"] = 8893.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6940,
+        ["rank_raids"] = 6941,
         ["kill_count"] = 3,
-        ["points"] = 7469.0,
+        ["points"] = 7468.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2460,
@@ -55255,9 +55255,9 @@ UWULogsData[5][1] = {
         ["points"] = 8813.0,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 11382,
+        ["rank_raids"] = 11383,
         ["kill_count"] = 1,
-        ["points"] = 6412.8,
+        ["points"] = 6412.7,
       },
     },
   },
@@ -55277,19 +55277,19 @@ UWULogsData[5][1] = {
         ["points"] = 9128.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5768,
+        ["rank_raids"] = 5771,
         ["kill_count"] = 3,
-        ["points"] = 7820.6,
+        ["points"] = 7819.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4481,
+        ["rank_raids"] = 4482,
         ["kill_count"] = 4,
-        ["points"] = 8206.7,
+        ["points"] = 8206.4,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5997,
+        ["rank_raids"] = 5998,
         ["kill_count"] = 5,
-        ["points"] = 7751.9,
+        ["points"] = 7751.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1558,
@@ -55302,9 +55302,9 @@ UWULogsData[5][1] = {
         ["points"] = 9182.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3072,
+        ["rank_raids"] = 3073,
         ["kill_count"] = 5,
-        ["points"] = 8629.4,
+        ["points"] = 8629.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 8905,
@@ -55312,9 +55312,9 @@ UWULogsData[5][1] = {
         ["points"] = 6879.5,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 7493,
+        ["rank_raids"] = 7494,
         ["kill_count"] = 3,
-        ["points"] = 7303.1,
+        ["points"] = 7302.8,
       },
     },
   },
@@ -55334,19 +55334,19 @@ UWULogsData[5][1] = {
         ["points"] = 8878.7,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7494,
+        ["rank_raids"] = 7497,
         ["kill_count"] = 2,
-        ["points"] = 7302.8,
+        ["points"] = 7301.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 11197,
+        ["rank_raids"] = 11198,
         ["kill_count"] = 1,
-        ["points"] = 6431.3,
+        ["points"] = 6431.2,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4427,
+        ["rank_raids"] = 4428,
         ["kill_count"] = 4,
-        ["points"] = 8222.9,
+        ["points"] = 8222.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 930,
@@ -55359,9 +55359,9 @@ UWULogsData[5][1] = {
         ["points"] = 9365.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1861,
+        ["rank_raids"] = 1862,
         ["kill_count"] = 6,
-        ["points"] = 9006.6,
+        ["points"] = 9006.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 9736,
@@ -55391,9 +55391,9 @@ UWULogsData[5][1] = {
         ["points"] = 9467.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 726,
+        ["rank_raids"] = 727,
         ["kill_count"] = 7,
-        ["points"] = 9488.0,
+        ["points"] = 9487.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3399,
@@ -55411,9 +55411,9 @@ UWULogsData[5][1] = {
         ["points"] = 8984.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 598,
+        ["rank_raids"] = 599,
         ["kill_count"] = 7,
-        ["points"] = 9552.0,
+        ["points"] = 9551.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 300,
@@ -55448,9 +55448,9 @@ UWULogsData[5][1] = {
         ["points"] = 9127.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 11703,
+        ["rank_raids"] = 11704,
         ["kill_count"] = 2,
-        ["points"] = 6380.7,
+        ["points"] = 6380.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1664,
@@ -55458,9 +55458,9 @@ UWULogsData[5][1] = {
         ["points"] = 9085.4,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9642,
+        ["rank_raids"] = 9643,
         ["kill_count"] = 3,
-        ["points"] = 6658.4,
+        ["points"] = 6658.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2441,
@@ -55468,9 +55468,9 @@ UWULogsData[5][1] = {
         ["points"] = 8818.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5167,
+        ["rank_raids"] = 5168,
         ["kill_count"] = 3,
-        ["points"] = 8000.9,
+        ["points"] = 8000.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3337,
@@ -55500,19 +55500,19 @@ UWULogsData[5][1] = {
         ["points"] = 9157.0,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 12786,
+        ["rank_raids"] = 12791,
         ["kill_count"] = 1,
-        ["points"] = 6272.4,
+        ["points"] = 6271.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1085,
+        ["rank_raids"] = 1086,
         ["kill_count"] = 13,
-        ["points"] = 9317.0,
+        ["points"] = 9316.6,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4107,
+        ["rank_raids"] = 4108,
         ["kill_count"] = 10,
-        ["points"] = 8318.9,
+        ["points"] = 8318.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 5509,
@@ -55525,9 +55525,9 @@ UWULogsData[5][1] = {
         ["points"] = 9092.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 9061,
+        ["rank_raids"] = 9062,
         ["kill_count"] = 21,
-        ["points"] = 6832.7,
+        ["points"] = 6832.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1025,
@@ -55547,9 +55547,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 977,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6567,
+        ["rank_raids"] = 6568,
         ["kill_count"] = 1,
-        ["points"] = 7580.9,
+        ["points"] = 7580.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 10147,
@@ -55557,19 +55557,19 @@ UWULogsData[5][1] = {
         ["points"] = 6536.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 13477,
+        ["rank_raids"] = 13482,
         ["kill_count"] = 1,
-        ["points"] = 6203.3,
+        ["points"] = 6202.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 842,
+        ["rank_raids"] = 843,
         ["kill_count"] = 1,
-        ["points"] = 9430.0,
+        ["points"] = 9429.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9116,
+        ["rank_raids"] = 9118,
         ["kill_count"] = 1,
-        ["points"] = 6816.2,
+        ["points"] = 6815.6,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 381,
@@ -55577,9 +55577,9 @@ UWULogsData[5][1] = {
         ["points"] = 9674.3,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6177,
+        ["rank_raids"] = 6178,
         ["kill_count"] = 1,
-        ["points"] = 7697.9,
+        ["points"] = 7697.6,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 174,
@@ -55599,7 +55599,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Hoblinka"] = {
-    ["percentile"] = 82.99,
+    ["percentile"] = 82.98,
     ["server"] = "Icecrown",
     ["overall_rank"] = 978,
     ["bosses"] = {
@@ -55619,14 +55619,14 @@ UWULogsData[5][1] = {
         ["points"] = 8972.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3182,
+        ["rank_raids"] = 3183,
         ["kill_count"] = 9,
-        ["points"] = 8596.4,
+        ["points"] = 8596.1,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4854,
+        ["rank_raids"] = 4855,
         ["kill_count"] = 10,
-        ["points"] = 8094.8,
+        ["points"] = 8094.5,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 2346,
@@ -55639,9 +55639,9 @@ UWULogsData[5][1] = {
         ["points"] = 8730.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1595,
+        ["rank_raids"] = 1596,
         ["kill_count"] = 18,
-        ["points"] = 9113.0,
+        ["points"] = 9112.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5393,
@@ -55649,9 +55649,9 @@ UWULogsData[5][1] = {
         ["points"] = 7933.1,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 9932,
+        ["rank_raids"] = 9933,
         ["kill_count"] = 14,
-        ["points"] = 6571.4,
+        ["points"] = 6571.1,
       },
     },
   },
@@ -55676,9 +55676,9 @@ UWULogsData[5][1] = {
         ["points"] = 8884.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1738,
+        ["rank_raids"] = 1739,
         ["kill_count"] = 3,
-        ["points"] = 9055.8,
+        ["points"] = 9055.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3644,
@@ -55691,14 +55691,14 @@ UWULogsData[5][1] = {
         ["points"] = 8386.7,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 19635,
+        ["rank_raids"] = 19636,
         ["kill_count"] = 4,
-        ["points"] = 5587.5,
+        ["points"] = 5587.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1522,
+        ["rank_raids"] = 1523,
         ["kill_count"] = 3,
-        ["points"] = 9142.2,
+        ["points"] = 9141.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3411,
@@ -55713,14 +55713,14 @@ UWULogsData[5][1] = {
     },
   },
   ["Prophanne"] = {
-    ["percentile"] = 82.98,
+    ["percentile"] = 82.97,
     ["server"] = "Icecrown",
     ["overall_rank"] = 980,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7807,
+        ["rank_raids"] = 7809,
         ["kill_count"] = 5,
-        ["points"] = 7208.9,
+        ["points"] = 7208.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3681,
@@ -55733,9 +55733,9 @@ UWULogsData[5][1] = {
         ["points"] = 9199.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 7161,
+        ["rank_raids"] = 7162,
         ["kill_count"] = 8,
-        ["points"] = 7402.7,
+        ["points"] = 7402.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 195,
@@ -55748,14 +55748,14 @@ UWULogsData[5][1] = {
         ["points"] = 8916.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6264,
+        ["rank_raids"] = 6265,
         ["kill_count"] = 10,
-        ["points"] = 7671.8,
+        ["points"] = 7671.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5390,
+        ["rank_raids"] = 5391,
         ["kill_count"] = 10,
-        ["points"] = 7934.0,
+        ["points"] = 7933.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4189,
@@ -55763,9 +55763,9 @@ UWULogsData[5][1] = {
         ["points"] = 8294.3,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4898,
+        ["rank_raids"] = 4899,
         ["kill_count"] = 23,
-        ["points"] = 8081.6,
+        ["points"] = 8081.3,
       },
     },
   },
@@ -55785,14 +55785,14 @@ UWULogsData[5][1] = {
         ["points"] = 7095.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5078,
+        ["rank_raids"] = 5080,
         ["kill_count"] = 3,
-        ["points"] = 8027.6,
+        ["points"] = 8027.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 723,
+        ["rank_raids"] = 724,
         ["kill_count"] = 4,
-        ["points"] = 9489.5,
+        ["points"] = 9489.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 200,
@@ -55805,14 +55805,14 @@ UWULogsData[5][1] = {
         ["points"] = 8679.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 4518,
+        ["rank_raids"] = 4519,
         ["kill_count"] = 4,
-        ["points"] = 8195.6,
+        ["points"] = 8195.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 21109,
+        ["rank_raids"] = 21111,
         ["kill_count"] = 3,
-        ["points"] = 5440.1,
+        ["points"] = 5439.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2907,
@@ -55820,9 +55820,9 @@ UWULogsData[5][1] = {
         ["points"] = 8678.9,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 4945,
+        ["rank_raids"] = 4946,
         ["kill_count"] = 2,
-        ["points"] = 8067.5,
+        ["points"] = 8067.2,
       },
     },
   },
@@ -55847,9 +55847,9 @@ UWULogsData[5][1] = {
         ["points"] = 9241.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2624,
+        ["rank_raids"] = 2625,
         ["kill_count"] = 6,
-        ["points"] = 8763.8,
+        ["points"] = 8763.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3783,
@@ -55867,9 +55867,9 @@ UWULogsData[5][1] = {
         ["points"] = 8948.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4747,
+        ["rank_raids"] = 4748,
         ["kill_count"] = 11,
-        ["points"] = 8126.9,
+        ["points"] = 8126.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1856,
@@ -55877,9 +55877,9 @@ UWULogsData[5][1] = {
         ["points"] = 9008.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 9921,
+        ["rank_raids"] = 9922,
         ["kill_count"] = 8,
-        ["points"] = 6574.7,
+        ["points"] = 6574.4,
       },
     },
   },
@@ -55889,9 +55889,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 983,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 4759,
+        ["rank_raids"] = 4760,
         ["kill_count"] = 5,
-        ["points"] = 8123.3,
+        ["points"] = 8123.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3647,
@@ -55899,19 +55899,19 @@ UWULogsData[5][1] = {
         ["points"] = 8456.9,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 5449,
+        ["rank_raids"] = 5452,
         ["kill_count"] = 3,
-        ["points"] = 7916.3,
+        ["points"] = 7915.4,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2850,
+        ["rank_raids"] = 2851,
         ["kill_count"] = 5,
-        ["points"] = 8696.0,
+        ["points"] = 8695.7,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9682,
+        ["rank_raids"] = 9684,
         ["kill_count"] = 1,
-        ["points"] = 6646.4,
+        ["points"] = 6645.8,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 337,
@@ -55924,9 +55924,9 @@ UWULogsData[5][1] = {
         ["points"] = 9104.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3660,
+        ["rank_raids"] = 3661,
         ["kill_count"] = 6,
-        ["points"] = 8453.0,
+        ["points"] = 8452.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7352,
@@ -55946,9 +55946,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 984,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 12268,
+        ["rank_raids"] = 12271,
         ["kill_count"] = 2,
-        ["points"] = 6324.2,
+        ["points"] = 6323.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2805,
@@ -55961,9 +55961,9 @@ UWULogsData[5][1] = {
         ["points"] = 9035.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1360,
+        ["rank_raids"] = 1361,
         ["kill_count"] = 2,
-        ["points"] = 9207.0,
+        ["points"] = 9206.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 204,
@@ -55971,9 +55971,9 @@ UWULogsData[5][1] = {
         ["points"] = 9807.8,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 10613,
+        ["rank_raids"] = 10614,
         ["kill_count"] = 1,
-        ["points"] = 6489.7,
+        ["points"] = 6489.6,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 748,
@@ -55981,9 +55981,9 @@ UWULogsData[5][1] = {
         ["points"] = 9477.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5284,
+        ["rank_raids"] = 5285,
         ["kill_count"] = 4,
-        ["points"] = 7965.8,
+        ["points"] = 7965.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 803,
@@ -55991,9 +55991,9 @@ UWULogsData[5][1] = {
         ["points"] = 9449.5,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 11108,
+        ["rank_raids"] = 11109,
         ["kill_count"] = 3,
-        ["points"] = 6440.2,
+        ["points"] = 6440.1,
       },
     },
   },
@@ -56003,9 +56003,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 985,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 12644,
+        ["rank_raids"] = 12647,
         ["kill_count"] = 4,
-        ["points"] = 6286.6,
+        ["points"] = 6286.3,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3007,
@@ -56018,14 +56018,14 @@ UWULogsData[5][1] = {
         ["points"] = 8741.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2880,
+        ["rank_raids"] = 2881,
         ["kill_count"] = 5,
-        ["points"] = 8687.0,
+        ["points"] = 8686.7,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 6929,
+        ["rank_raids"] = 6931,
         ["kill_count"] = 5,
-        ["points"] = 7472.3,
+        ["points"] = 7471.7,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 3319,
@@ -56038,9 +56038,9 @@ UWULogsData[5][1] = {
         ["points"] = 9571.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6996,
+        ["rank_raids"] = 6997,
         ["kill_count"] = 5,
-        ["points"] = 7452.2,
+        ["points"] = 7451.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5172,
@@ -56070,14 +56070,14 @@ UWULogsData[5][1] = {
         ["points"] = 7212.8,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4192,
+        ["rank_raids"] = 4194,
         ["kill_count"] = 2,
-        ["points"] = 8293.4,
+        ["points"] = 8292.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2550,
+        ["rank_raids"] = 2551,
         ["kill_count"] = 4,
-        ["points"] = 8786.0,
+        ["points"] = 8785.7,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2172,
@@ -56095,14 +56095,14 @@ UWULogsData[5][1] = {
         ["points"] = 9207.8,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6359,
+        ["rank_raids"] = 6360,
         ["kill_count"] = 5,
-        ["points"] = 7643.3,
+        ["points"] = 7643.0,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 11290,
+        ["rank_raids"] = 11291,
         ["kill_count"] = 3,
-        ["points"] = 6422.0,
+        ["points"] = 6421.9,
       },
       ["The Lich King"] = {
         ["rank_raids"] = 1658,
@@ -56117,9 +56117,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 987,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7841,
+        ["rank_raids"] = 7843,
         ["kill_count"] = 18,
-        ["points"] = 7198.7,
+        ["points"] = 7198.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 1331,
@@ -56127,14 +56127,14 @@ UWULogsData[5][1] = {
         ["points"] = 9218.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 7143,
+        ["rank_raids"] = 7146,
         ["kill_count"] = 6,
-        ["points"] = 7408.1,
+        ["points"] = 7407.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 947,
+        ["rank_raids"] = 948,
         ["kill_count"] = 8,
-        ["points"] = 9377.5,
+        ["points"] = 9377.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3205,
@@ -56147,14 +56147,14 @@ UWULogsData[5][1] = {
         ["points"] = 8581.4,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6307,
+        ["rank_raids"] = 6308,
         ["kill_count"] = 13,
-        ["points"] = 7658.9,
+        ["points"] = 7658.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2338,
+        ["rank_raids"] = 2339,
         ["kill_count"] = 27,
-        ["points"] = 8849.6,
+        ["points"] = 8849.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 7639,
@@ -56174,9 +56174,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 988,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 16238,
+        ["rank_raids"] = 16241,
         ["kill_count"] = 5,
-        ["points"] = 5927.2,
+        ["points"] = 5926.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3293,
@@ -56189,9 +56189,9 @@ UWULogsData[5][1] = {
         ["points"] = 8853.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 17867,
+        ["rank_raids"] = 17870,
         ["kill_count"] = 4,
-        ["points"] = 5764.3,
+        ["points"] = 5764.0,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1410,
@@ -56209,9 +56209,9 @@ UWULogsData[5][1] = {
         ["points"] = 9834.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2557,
+        ["rank_raids"] = 2558,
         ["kill_count"] = 8,
-        ["points"] = 8783.9,
+        ["points"] = 8783.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1988,
@@ -56231,9 +56231,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 989,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6272,
+        ["rank_raids"] = 6273,
         ["kill_count"] = 4,
-        ["points"] = 7669.4,
+        ["points"] = 7669.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 3159,
@@ -56241,19 +56241,19 @@ UWULogsData[5][1] = {
         ["points"] = 8603.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4852,
+        ["rank_raids"] = 4854,
         ["kill_count"] = 7,
-        ["points"] = 8095.4,
+        ["points"] = 8094.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5768,
+        ["rank_raids"] = 5769,
         ["kill_count"] = 1,
-        ["points"] = 7820.6,
+        ["points"] = 7820.3,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 9571,
+        ["rank_raids"] = 9573,
         ["kill_count"] = 3,
-        ["points"] = 6679.7,
+        ["points"] = 6679.1,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 1505,
@@ -56266,9 +56266,9 @@ UWULogsData[5][1] = {
         ["points"] = 9577.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3243,
+        ["rank_raids"] = 3244,
         ["kill_count"] = 6,
-        ["points"] = 8578.1,
+        ["points"] = 8577.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1801,
@@ -56276,9 +56276,9 @@ UWULogsData[5][1] = {
         ["points"] = 9030.6,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 6328,
+        ["rank_raids"] = 6329,
         ["kill_count"] = 9,
-        ["points"] = 7652.6,
+        ["points"] = 7652.3,
       },
     },
   },
@@ -56288,9 +56288,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 990,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 16680,
+        ["rank_raids"] = 16683,
         ["kill_count"] = 5,
-        ["points"] = 5883.0,
+        ["points"] = 5882.7,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2693,
@@ -56303,9 +56303,9 @@ UWULogsData[5][1] = {
         ["points"] = 8514.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 2141,
+        ["rank_raids"] = 2142,
         ["kill_count"] = 19,
-        ["points"] = 8908.7,
+        ["points"] = 8908.4,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1258,
@@ -56318,14 +56318,14 @@ UWULogsData[5][1] = {
         ["points"] = 8520.2,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 6484,
+        ["rank_raids"] = 6485,
         ["kill_count"] = 20,
-        ["points"] = 7605.8,
+        ["points"] = 7605.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3353,
+        ["rank_raids"] = 3354,
         ["kill_count"] = 25,
-        ["points"] = 8545.1,
+        ["points"] = 8544.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5120,
@@ -56360,9 +56360,9 @@ UWULogsData[5][1] = {
         ["points"] = 8924.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 1410,
+        ["rank_raids"] = 1411,
         ["kill_count"] = 2,
-        ["points"] = 9187.0,
+        ["points"] = 9186.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3605,
@@ -56375,14 +56375,14 @@ UWULogsData[5][1] = {
         ["points"] = 8219.3,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 7510,
+        ["rank_raids"] = 7511,
         ["kill_count"] = 1,
-        ["points"] = 7298.0,
+        ["points"] = 7297.7,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 4764,
+        ["rank_raids"] = 4765,
         ["kill_count"] = 2,
-        ["points"] = 8121.8,
+        ["points"] = 8121.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4291,
@@ -56412,14 +56412,14 @@ UWULogsData[5][1] = {
         ["points"] = 8498.6,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 12365,
+        ["rank_raids"] = 12370,
         ["kill_count"] = 1,
-        ["points"] = 6314.5,
+        ["points"] = 6314.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 5247,
+        ["rank_raids"] = 5248,
         ["kill_count"] = 4,
-        ["points"] = 7976.9,
+        ["points"] = 7976.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 3412,
@@ -56427,9 +56427,9 @@ UWULogsData[5][1] = {
         ["points"] = 8527.4,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 8604,
+        ["rank_raids"] = 8605,
         ["kill_count"] = 3,
-        ["points"] = 6969.8,
+        ["points"] = 6969.5,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 2376,
@@ -56437,9 +56437,9 @@ UWULogsData[5][1] = {
         ["points"] = 8838.2,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5857,
+        ["rank_raids"] = 5858,
         ["kill_count"] = 3,
-        ["points"] = 7793.9,
+        ["points"] = 7793.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 905,
@@ -56459,9 +56459,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 993,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 15927,
+        ["rank_raids"] = 15930,
         ["kill_count"] = 1,
-        ["points"] = 5958.3,
+        ["points"] = 5958.0,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2024,
@@ -56474,14 +56474,14 @@ UWULogsData[5][1] = {
         ["points"] = 9283.8,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 4929,
+        ["rank_raids"] = 4930,
         ["kill_count"] = 2,
-        ["points"] = 8072.3,
+        ["points"] = 8072.0,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5918,
+        ["rank_raids"] = 5919,
         ["kill_count"] = 2,
-        ["points"] = 7775.6,
+        ["points"] = 7775.3,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 4823,
@@ -56494,9 +56494,9 @@ UWULogsData[5][1] = {
         ["points"] = 9412.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5332,
+        ["rank_raids"] = 5333,
         ["kill_count"] = 3,
-        ["points"] = 7951.4,
+        ["points"] = 7951.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4184,
@@ -56516,9 +56516,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 994,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 15861,
+        ["rank_raids"] = 15864,
         ["kill_count"] = 10,
-        ["points"] = 5964.9,
+        ["points"] = 5964.6,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2492,
@@ -56531,9 +56531,9 @@ UWULogsData[5][1] = {
         ["points"] = 8847.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 6914,
+        ["rank_raids"] = 6915,
         ["kill_count"] = 3,
-        ["points"] = 7476.8,
+        ["points"] = 7476.5,
       },
       ["Rotface"] = {
         ["rank_raids"] = 2288,
@@ -56551,9 +56551,9 @@ UWULogsData[5][1] = {
         ["points"] = 8837.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2617,
+        ["rank_raids"] = 2618,
         ["kill_count"] = 14,
-        ["points"] = 8765.9,
+        ["points"] = 8765.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5761,
@@ -56568,7 +56568,7 @@ UWULogsData[5][1] = {
     },
   },
   ["Discovalthar"] = {
-    ["percentile"] = 82.78,
+    ["percentile"] = 82.77,
     ["server"] = "Icecrown",
     ["overall_rank"] = 995,
     ["bosses"] = {
@@ -56583,19 +56583,19 @@ UWULogsData[5][1] = {
         ["points"] = 9456.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9077,
+        ["rank_raids"] = 9081,
         ["kill_count"] = 3,
-        ["points"] = 6827.9,
+        ["points"] = 6826.7,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3400,
+        ["rank_raids"] = 3401,
         ["kill_count"] = 7,
-        ["points"] = 8531.0,
+        ["points"] = 8530.7,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 4515,
+        ["rank_raids"] = 4516,
         ["kill_count"] = 8,
-        ["points"] = 8196.5,
+        ["points"] = 8196.2,
       },
       ["Professor Putricide"] = {
         ["rank_raids"] = 6611,
@@ -56608,9 +56608,9 @@ UWULogsData[5][1] = {
         ["points"] = 8974.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7450,
+        ["rank_raids"] = 7451,
         ["kill_count"] = 9,
-        ["points"] = 7316.0,
+        ["points"] = 7315.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2183,
@@ -56645,9 +56645,9 @@ UWULogsData[5][1] = {
         ["points"] = 9429.0,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 8907,
+        ["rank_raids"] = 8908,
         ["kill_count"] = 6,
-        ["points"] = 6878.9,
+        ["points"] = 6878.6,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1212,
@@ -56660,14 +56660,14 @@ UWULogsData[5][1] = {
         ["points"] = 8477.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 19246,
+        ["rank_raids"] = 19247,
         ["kill_count"] = 5,
-        ["points"] = 5626.4,
+        ["points"] = 5626.3,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3244,
+        ["rank_raids"] = 3245,
         ["kill_count"] = 10,
-        ["points"] = 8577.8,
+        ["points"] = 8577.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3682,
@@ -56675,9 +56675,9 @@ UWULogsData[5][1] = {
         ["points"] = 8446.4,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 5095,
+        ["rank_raids"] = 5096,
         ["kill_count"] = 17,
-        ["points"] = 8022.5,
+        ["points"] = 8022.2,
       },
     },
   },
@@ -56697,14 +56697,14 @@ UWULogsData[5][1] = {
         ["points"] = 8430.2,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 10404,
+        ["rank_raids"] = 10408,
         ["kill_count"] = 2,
-        ["points"] = 6510.6,
+        ["points"] = 6510.2,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3683,
+        ["rank_raids"] = 3684,
         ["kill_count"] = 4,
-        ["points"] = 8446.1,
+        ["points"] = 8445.8,
       },
       ["Rotface"] = {
         ["rank_raids"] = 688,
@@ -56717,14 +56717,14 @@ UWULogsData[5][1] = {
         ["points"] = 7553.6,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 8342,
+        ["rank_raids"] = 8343,
         ["kill_count"] = 2,
-        ["points"] = 7048.4,
+        ["points"] = 7048.1,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1119,
+        ["rank_raids"] = 1120,
         ["kill_count"] = 3,
-        ["points"] = 9303.4,
+        ["points"] = 9303.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4252,
@@ -56759,19 +56759,19 @@ UWULogsData[5][1] = {
         ["points"] = 8699.6,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3108,
+        ["rank_raids"] = 3109,
         ["kill_count"] = 8,
-        ["points"] = 8618.6,
+        ["points"] = 8618.3,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 7777,
+        ["rank_raids"] = 7779,
         ["kill_count"] = 8,
-        ["points"] = 7217.9,
+        ["points"] = 7217.3,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 9172,
+        ["rank_raids"] = 9173,
         ["kill_count"] = 7,
-        ["points"] = 6799.4,
+        ["points"] = 6799.1,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1489,
@@ -56779,9 +56779,9 @@ UWULogsData[5][1] = {
         ["points"] = 9155.4,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5259,
+        ["rank_raids"] = 5260,
         ["kill_count"] = 10,
-        ["points"] = 7973.3,
+        ["points"] = 7973.0,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1982,
@@ -56801,9 +56801,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 999,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 11118,
+        ["rank_raids"] = 11121,
         ["kill_count"] = 1,
-        ["points"] = 6439.2,
+        ["points"] = 6438.9,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 829,
@@ -56811,24 +56811,24 @@ UWULogsData[5][1] = {
         ["points"] = 9436.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 9893,
+        ["rank_raids"] = 9897,
         ["kill_count"] = 2,
-        ["points"] = 6583.1,
+        ["points"] = 6581.9,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 662,
+        ["rank_raids"] = 663,
         ["kill_count"] = 2,
-        ["points"] = 9520.0,
+        ["points"] = 9519.5,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 12671,
+        ["rank_raids"] = 12673,
         ["kill_count"] = 2,
-        ["points"] = 6283.9,
+        ["points"] = 6283.7,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 12302,
+        ["rank_raids"] = 12303,
         ["kill_count"] = 2,
-        ["points"] = 6320.8,
+        ["points"] = 6320.7,
       },
       ["Blood Prince Council"] = {
         ["rank_raids"] = 1686,
@@ -56836,9 +56836,9 @@ UWULogsData[5][1] = {
         ["points"] = 9076.6,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1043,
+        ["rank_raids"] = 1044,
         ["kill_count"] = 3,
-        ["points"] = 9333.8,
+        ["points"] = 9333.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 227,
@@ -56858,9 +56858,9 @@ UWULogsData[5][1] = {
     ["overall_rank"] = 1000,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 6282,
+        ["rank_raids"] = 6283,
         ["kill_count"] = 6,
-        ["points"] = 7666.4,
+        ["points"] = 7666.1,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 2579,
@@ -56868,14 +56868,14 @@ UWULogsData[5][1] = {
         ["points"] = 8777.3,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4573,
+        ["rank_raids"] = 4575,
         ["kill_count"] = 4,
-        ["points"] = 8179.1,
+        ["points"] = 8178.5,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 3906,
+        ["rank_raids"] = 3907,
         ["kill_count"] = 7,
-        ["points"] = 8379.2,
+        ["points"] = 8378.9,
       },
       ["Rotface"] = {
         ["rank_raids"] = 1485,
@@ -56893,9 +56893,9 @@ UWULogsData[5][1] = {
         ["points"] = 9425.5,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7413,
+        ["rank_raids"] = 7414,
         ["kill_count"] = 15,
-        ["points"] = 7327.1,
+        ["points"] = 7326.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 492,
@@ -56903,9 +56903,9 @@ UWULogsData[5][1] = {
         ["points"] = 9605.8,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 13340,
+        ["rank_raids"] = 13341,
         ["kill_count"] = 4,
-        ["points"] = 6217.0,
+        ["points"] = 6216.9,
       },
     },
   },

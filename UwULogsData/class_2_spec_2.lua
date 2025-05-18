@@ -396,7 +396,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 48,
         ["kill_count"] = 41,
-        ["points"] = 9968.59,
+        ["points"] = 9968.6,
       },
     },
   },
@@ -458,7 +458,7 @@ UWULogsData[2][2] = {
     },
   },
   ["Bigdypski"] = {
-    ["percentile"] = 99.83,
+    ["percentile"] = 99.84,
     ["server"] = "Icecrown",
     ["overall_rank"] = 9,
     ["bosses"] = {
@@ -510,7 +510,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 81,
         ["kill_count"] = 48,
-        ["points"] = 9952.89,
+        ["points"] = 9952.9,
       },
     },
   },
@@ -567,7 +567,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 58,
         ["kill_count"] = 76,
-        ["points"] = 9963.88,
+        ["points"] = 9963.89,
       },
     },
   },
@@ -966,7 +966,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 44,
         ["kill_count"] = 66,
-        ["points"] = 9971.73,
+        ["points"] = 9971.74,
       },
     },
   },
@@ -1023,7 +1023,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 46,
         ["kill_count"] = 28,
-        ["points"] = 9970.16,
+        ["points"] = 9970.17,
       },
     },
   },
@@ -1080,7 +1080,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 41,
         ["kill_count"] = 24,
-        ["points"] = 9973.3,
+        ["points"] = 9973.31,
       },
     },
   },
@@ -1137,7 +1137,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 170,
         ["kill_count"] = 23,
-        ["points"] = 9913.63,
+        ["points"] = 9913.64,
       },
     },
   },
@@ -1251,7 +1251,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 66,
         ["kill_count"] = 50,
-        ["points"] = 9960.74,
+        ["points"] = 9960.75,
       },
     },
   },
@@ -1308,7 +1308,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 98,
         ["kill_count"] = 60,
-        ["points"] = 9946.61,
+        ["points"] = 9946.62,
       },
     },
   },
@@ -1365,7 +1365,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 304,
         ["kill_count"] = 55,
-        ["points"] = 9864.95,
+        ["points"] = 9864.97,
       },
     },
   },
@@ -1422,7 +1422,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 54,
         ["kill_count"] = 38,
-        ["points"] = 9965.45,
+        ["points"] = 9965.46,
       },
     },
   },
@@ -1479,7 +1479,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 50,
         ["kill_count"] = 30,
-        ["points"] = 9967.02,
+        ["points"] = 9967.03,
       },
     },
   },
@@ -1536,7 +1536,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 273,
         ["kill_count"] = 46,
-        ["points"] = 9880.65,
+        ["points"] = 9880.67,
       },
     },
   },
@@ -1593,7 +1593,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 163,
         ["kill_count"] = 29,
-        ["points"] = 9916.77,
+        ["points"] = 9916.78,
       },
     },
   },
@@ -1650,7 +1650,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 191,
         ["kill_count"] = 49,
-        ["points"] = 9902.64,
+        ["points"] = 9902.65,
       },
     },
   },
@@ -1707,7 +1707,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 144,
         ["kill_count"] = 55,
-        ["points"] = 9926.19,
+        ["points"] = 9926.21,
       },
     },
   },
@@ -1764,7 +1764,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 65,
         ["kill_count"] = 57,
-        ["points"] = 9962.31,
+        ["points"] = 9962.32,
       },
     },
   },
@@ -1821,7 +1821,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 121,
         ["kill_count"] = 23,
-        ["points"] = 9937.19,
+        ["points"] = 9937.2,
       },
     },
   },
@@ -1878,7 +1878,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 504,
         ["kill_count"] = 49,
-        ["points"] = 9816.27,
+        ["points"] = 9816.3,
       },
     },
   },
@@ -1935,7 +1935,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 76,
         ["kill_count"] = 47,
-        ["points"] = 9956.03,
+        ["points"] = 9956.04,
       },
     },
   },
@@ -1992,7 +1992,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 126,
         ["kill_count"] = 26,
-        ["points"] = 9935.62,
+        ["points"] = 9935.63,
       },
     },
   },
@@ -2049,7 +2049,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 244,
         ["kill_count"] = 52,
-        ["points"] = 9886.93,
+        ["points"] = 9886.95,
       },
     },
   },
@@ -2106,7 +2106,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 243,
         ["kill_count"] = 34,
-        ["points"] = 9888.51,
+        ["points"] = 9888.52,
       },
     },
   },
@@ -2163,7 +2163,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 160,
         ["kill_count"] = 31,
-        ["points"] = 9919.91,
+        ["points"] = 9919.92,
       },
     },
   },
@@ -2220,7 +2220,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 439,
         ["kill_count"] = 40,
-        ["points"] = 9828.83,
+        ["points"] = 9828.86,
       },
     },
   },
@@ -2277,7 +2277,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 228,
         ["kill_count"] = 41,
-        ["points"] = 9893.22,
+        ["points"] = 9893.23,
       },
     },
   },
@@ -2322,9 +2322,9 @@ UWULogsData[2][2] = {
         ["points"] = 8950.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 17537,
+        ["rank_raids"] = 17538,
         ["kill_count"] = 13,
-        ["points"] = 5797.3,
+        ["points"] = 5797.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6378,
@@ -2334,7 +2334,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9161,
         ["kill_count"] = 9,
-        ["points"] = 7550.25,
+        ["points"] = 7550.64,
       },
     },
   },
@@ -2391,7 +2391,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 146,
         ["kill_count"] = 32,
-        ["points"] = 9924.62,
+        ["points"] = 9924.63,
       },
     },
   },
@@ -2448,7 +2448,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 130,
         ["kill_count"] = 25,
-        ["points"] = 9932.47,
+        ["points"] = 9932.49,
       },
     },
   },
@@ -2505,7 +2505,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 377,
         ["kill_count"] = 14,
-        ["points"] = 9852.39,
+        ["points"] = 9852.41,
       },
     },
   },
@@ -2562,7 +2562,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 366,
         ["kill_count"] = 25,
-        ["points"] = 9857.1,
+        ["points"] = 9857.12,
       },
     },
   },
@@ -2619,7 +2619,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 172,
         ["kill_count"] = 39,
-        ["points"] = 9912.06,
+        ["points"] = 9912.07,
       },
     },
   },
@@ -2676,7 +2676,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 67,
         ["kill_count"] = 27,
-        ["points"] = 9959.17,
+        ["points"] = 9959.18,
       },
     },
   },
@@ -2733,7 +2733,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 269,
         ["kill_count"] = 31,
-        ["points"] = 9882.22,
+        ["points"] = 9882.24,
       },
     },
   },
@@ -2790,7 +2790,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 119,
         ["kill_count"] = 41,
-        ["points"] = 9938.76,
+        ["points"] = 9938.77,
       },
     },
   },
@@ -2847,7 +2847,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 692,
         ["kill_count"] = 33,
-        ["points"] = 9759.74,
+        ["points"] = 9759.77,
       },
     },
   },
@@ -2904,7 +2904,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 34,
         ["kill_count"] = 33,
-        ["points"] = 9976.44,
+        ["points"] = 9976.45,
       },
     },
   },
@@ -2961,7 +2961,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 457,
         ["kill_count"] = 49,
-        ["points"] = 9825.69,
+        ["points"] = 9825.72,
       },
     },
   },
@@ -3018,7 +3018,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 509,
         ["kill_count"] = 37,
-        ["points"] = 9814.7,
+        ["points"] = 9814.73,
       },
     },
   },
@@ -3075,7 +3075,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 96,
         ["kill_count"] = 28,
-        ["points"] = 9948.18,
+        ["points"] = 9948.19,
       },
     },
   },
@@ -3132,7 +3132,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 589,
         ["kill_count"] = 22,
-        ["points"] = 9795.85,
+        ["points"] = 9795.89,
       },
     },
   },
@@ -3189,7 +3189,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 158,
         ["kill_count"] = 30,
-        ["points"] = 9921.48,
+        ["points"] = 9921.49,
       },
     },
   },
@@ -3246,7 +3246,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 370,
         ["kill_count"] = 38,
-        ["points"] = 9855.53,
+        ["points"] = 9855.55,
       },
     },
   },
@@ -3303,7 +3303,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 204,
         ["kill_count"] = 12,
-        ["points"] = 9896.36,
+        ["points"] = 9896.37,
       },
     },
   },
@@ -3360,7 +3360,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 374,
         ["kill_count"] = 28,
-        ["points"] = 9853.96,
+        ["points"] = 9853.98,
       },
     },
   },
@@ -3417,7 +3417,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1213,
         ["kill_count"] = 46,
-        ["points"] = 9615.26,
+        ["points"] = 9615.32,
       },
     },
   },
@@ -3474,7 +3474,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 328,
         ["kill_count"] = 11,
-        ["points"] = 9861.81,
+        ["points"] = 9861.83,
       },
     },
   },
@@ -3531,7 +3531,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 415,
         ["kill_count"] = 26,
-        ["points"] = 9841.39,
+        ["points"] = 9841.42,
       },
     },
   },
@@ -3588,7 +3588,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 627,
         ["kill_count"] = 22,
-        ["points"] = 9786.43,
+        ["points"] = 9786.47,
       },
     },
   },
@@ -3645,7 +3645,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 101,
         ["kill_count"] = 16,
-        ["points"] = 9945.04,
+        ["points"] = 9945.05,
       },
     },
   },
@@ -3702,7 +3702,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 409,
         ["kill_count"] = 18,
-        ["points"] = 9842.96,
+        ["points"] = 9842.99,
       },
     },
   },
@@ -3759,7 +3759,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 115,
         ["kill_count"] = 6,
-        ["points"] = 9940.33,
+        ["points"] = 9940.34,
       },
     },
   },
@@ -3816,7 +3816,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 460,
         ["kill_count"] = 54,
-        ["points"] = 9824.12,
+        ["points"] = 9824.15,
       },
     },
   },
@@ -3873,7 +3873,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 193,
         ["kill_count"] = 34,
-        ["points"] = 9901.07,
+        ["points"] = 9901.08,
       },
     },
   },
@@ -3930,7 +3930,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 842,
         ["kill_count"] = 22,
-        ["points"] = 9718.91,
+        ["points"] = 9718.95,
       },
     },
   },
@@ -3987,7 +3987,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 812,
         ["kill_count"] = 43,
-        ["points"] = 9728.33,
+        ["points"] = 9728.37,
       },
     },
   },
@@ -4044,7 +4044,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 797,
         ["kill_count"] = 20,
-        ["points"] = 9736.18,
+        ["points"] = 9736.22,
       },
     },
   },
@@ -4101,7 +4101,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 299,
         ["kill_count"] = 16,
-        ["points"] = 9868.09,
+        ["points"] = 9868.11,
       },
     },
   },
@@ -4158,7 +4158,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 863,
         ["kill_count"] = 28,
-        ["points"] = 9711.06,
+        ["points"] = 9711.1,
       },
     },
   },
@@ -4215,7 +4215,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 889,
         ["kill_count"] = 38,
-        ["points"] = 9700.06,
+        ["points"] = 9700.11,
       },
     },
   },
@@ -4272,7 +4272,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 660,
         ["kill_count"] = 38,
-        ["points"] = 9775.44,
+        ["points"] = 9775.47,
       },
     },
   },
@@ -4329,7 +4329,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1489,
         ["kill_count"] = 45,
-        ["points"] = 9546.17,
+        ["points"] = 9546.24,
       },
     },
   },
@@ -4386,7 +4386,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 131,
         ["kill_count"] = 80,
-        ["points"] = 9930.9,
+        ["points"] = 9930.92,
       },
     },
   },
@@ -4443,7 +4443,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 422,
         ["kill_count"] = 13,
-        ["points"] = 9836.68,
+        ["points"] = 9836.71,
       },
     },
   },
@@ -4500,7 +4500,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 532,
         ["kill_count"] = 24,
-        ["points"] = 9808.42,
+        ["points"] = 9808.45,
       },
     },
   },
@@ -4614,7 +4614,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 566,
         ["kill_count"] = 39,
-        ["points"] = 9800.57,
+        ["points"] = 9800.6,
       },
     },
   },
@@ -4671,7 +4671,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 478,
         ["kill_count"] = 19,
-        ["points"] = 9822.55,
+        ["points"] = 9822.58,
       },
     },
   },
@@ -4728,7 +4728,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 432,
         ["kill_count"] = 49,
-        ["points"] = 9831.97,
+        ["points"] = 9832.0,
       },
     },
   },
@@ -4785,7 +4785,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 385,
         ["kill_count"] = 11,
-        ["points"] = 9849.25,
+        ["points"] = 9849.27,
       },
     },
   },
@@ -4842,7 +4842,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 438,
         ["kill_count"] = 33,
-        ["points"] = 9830.4,
+        ["points"] = 9830.43,
       },
     },
   },
@@ -4899,7 +4899,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1210,
         ["kill_count"] = 67,
-        ["points"] = 9618.4,
+        ["points"] = 9618.46,
       },
     },
   },
@@ -4956,7 +4956,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 599,
         ["kill_count"] = 48,
-        ["points"] = 9791.14,
+        ["points"] = 9791.18,
       },
     },
   },
@@ -5013,7 +5013,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 108,
         ["kill_count"] = 24,
-        ["points"] = 9943.47,
+        ["points"] = 9943.48,
       },
     },
   },
@@ -5070,7 +5070,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 678,
         ["kill_count"] = 43,
-        ["points"] = 9767.59,
+        ["points"] = 9767.62,
       },
     },
   },
@@ -5127,7 +5127,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 637,
         ["kill_count"] = 30,
-        ["points"] = 9783.29,
+        ["points"] = 9783.33,
       },
     },
   },
@@ -5184,7 +5184,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 127,
         ["kill_count"] = 22,
-        ["points"] = 9934.05,
+        ["points"] = 9934.06,
       },
     },
   },
@@ -5241,7 +5241,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 77,
         ["kill_count"] = 34,
-        ["points"] = 9954.46,
+        ["points"] = 9954.47,
       },
     },
   },
@@ -5298,7 +5298,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 38,
         ["kill_count"] = 15,
-        ["points"] = 9974.87,
+        ["points"] = 9974.88,
       },
     },
   },
@@ -5355,7 +5355,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1179,
         ["kill_count"] = 46,
-        ["points"] = 9623.12,
+        ["points"] = 9623.17,
       },
     },
   },
@@ -5412,7 +5412,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 883,
         ["kill_count"] = 35,
-        ["points"] = 9703.2,
+        ["points"] = 9703.25,
       },
     },
   },
@@ -5469,7 +5469,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 149,
         ["kill_count"] = 24,
-        ["points"] = 9923.05,
+        ["points"] = 9923.06,
       },
     },
   },
@@ -5526,7 +5526,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 482,
         ["kill_count"] = 29,
-        ["points"] = 9820.98,
+        ["points"] = 9821.01,
       },
     },
   },
@@ -5583,7 +5583,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 137,
         ["kill_count"] = 14,
-        ["points"] = 9929.33,
+        ["points"] = 9929.35,
       },
     },
   },
@@ -5640,7 +5640,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1773,
         ["kill_count"] = 6,
-        ["points"] = 9464.51,
+        ["points"] = 9464.59,
       },
     },
   },
@@ -5697,7 +5697,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 578,
         ["kill_count"] = 14,
-        ["points"] = 9797.42,
+        ["points"] = 9797.46,
       },
     },
   },
@@ -5754,7 +5754,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 162,
         ["kill_count"] = 28,
-        ["points"] = 9918.34,
+        ["points"] = 9918.35,
       },
     },
   },
@@ -5811,7 +5811,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 282,
         ["kill_count"] = 26,
-        ["points"] = 9874.37,
+        ["points"] = 9874.39,
       },
     },
   },
@@ -5868,7 +5868,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 518,
         ["kill_count"] = 19,
-        ["points"] = 9813.13,
+        ["points"] = 9813.16,
       },
     },
   },
@@ -5925,7 +5925,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 364,
         ["kill_count"] = 17,
-        ["points"] = 9858.67,
+        ["points"] = 9858.69,
       },
     },
   },
@@ -5982,7 +5982,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1971,
         ["kill_count"] = 29,
-        ["points"] = 9396.98,
+        ["points"] = 9397.08,
       },
     },
   },
@@ -6039,7 +6039,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 446,
         ["kill_count"] = 22,
-        ["points"] = 9827.26,
+        ["points"] = 9827.29,
       },
     },
   },
@@ -6096,7 +6096,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 417,
         ["kill_count"] = 23,
-        ["points"] = 9839.82,
+        ["points"] = 9839.85,
       },
     },
   },
@@ -6153,7 +6153,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 855,
         ["kill_count"] = 25,
-        ["points"] = 9715.77,
+        ["points"] = 9715.81,
       },
     },
   },
@@ -6210,7 +6210,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 230,
         ["kill_count"] = 33,
-        ["points"] = 9891.65,
+        ["points"] = 9891.66,
       },
     },
   },
@@ -6267,7 +6267,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 194,
         ["kill_count"] = 17,
-        ["points"] = 9899.5,
+        ["points"] = 9899.51,
       },
     },
   },
@@ -6324,7 +6324,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 716,
         ["kill_count"] = 6,
-        ["points"] = 9755.03,
+        ["points"] = 9755.06,
       },
     },
   },
@@ -6381,7 +6381,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1211,
         ["kill_count"] = 41,
-        ["points"] = 9616.83,
+        ["points"] = 9616.89,
       },
     },
   },
@@ -6438,7 +6438,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 185,
         ["kill_count"] = 12,
-        ["points"] = 9907.35,
+        ["points"] = 9907.36,
       },
     },
   },
@@ -6495,7 +6495,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1110,
         ["kill_count"] = 7,
-        ["points"] = 9641.96,
+        ["points"] = 9642.02,
       },
     },
   },
@@ -6552,7 +6552,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 521,
         ["kill_count"] = 12,
-        ["points"] = 9811.56,
+        ["points"] = 9811.59,
       },
     },
   },
@@ -6609,7 +6609,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2884,
         ["kill_count"] = 20,
-        ["points"] = 9181.85,
+        ["points"] = 9181.98,
       },
     },
   },
@@ -6666,7 +6666,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 549,
         ["kill_count"] = 31,
-        ["points"] = 9803.71,
+        ["points"] = 9803.74,
       },
     },
   },
@@ -6723,7 +6723,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 947,
         ["kill_count"] = 12,
-        ["points"] = 9684.36,
+        ["points"] = 9684.41,
       },
     },
   },
@@ -6780,7 +6780,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 595,
         ["kill_count"] = 17,
-        ["points"] = 9794.28,
+        ["points"] = 9794.32,
       },
     },
   },
@@ -6837,7 +6837,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 859,
         ["kill_count"] = 34,
-        ["points"] = 9712.63,
+        ["points"] = 9712.67,
       },
     },
   },
@@ -6894,7 +6894,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1161,
         ["kill_count"] = 22,
-        ["points"] = 9629.4,
+        ["points"] = 9629.46,
       },
     },
   },
@@ -6951,7 +6951,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1664,
         ["kill_count"] = 11,
-        ["points"] = 9491.21,
+        ["points"] = 9491.29,
       },
     },
   },
@@ -7008,7 +7008,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 84,
         ["kill_count"] = 11,
-        ["points"] = 9949.75,
+        ["points"] = 9949.76,
       },
     },
   },
@@ -7065,7 +7065,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 714,
         ["kill_count"] = 15,
-        ["points"] = 9756.6,
+        ["points"] = 9756.63,
       },
     },
   },
@@ -7122,7 +7122,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2124,
         ["kill_count"] = 8,
-        ["points"] = 9360.87,
+        ["points"] = 9360.97,
       },
     },
   },
@@ -7179,7 +7179,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1027,
         ["kill_count"] = 16,
-        ["points"] = 9659.23,
+        ["points"] = 9659.29,
       },
     },
   },
@@ -7236,7 +7236,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 618,
         ["kill_count"] = 28,
-        ["points"] = 9788.0,
+        ["points"] = 9788.04,
       },
     },
   },
@@ -7293,7 +7293,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 247,
         ["kill_count"] = 31,
-        ["points"] = 9885.36,
+        ["points"] = 9885.38,
       },
     },
   },
@@ -7350,7 +7350,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 238,
         ["kill_count"] = 21,
-        ["points"] = 9890.08,
+        ["points"] = 9890.09,
       },
     },
   },
@@ -7407,7 +7407,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 665,
         ["kill_count"] = 12,
-        ["points"] = 9772.3,
+        ["points"] = 9772.33,
       },
     },
   },
@@ -7464,7 +7464,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2004,
         ["kill_count"] = 27,
-        ["points"] = 9385.99,
+        ["points"] = 9386.09,
       },
     },
   },
@@ -7521,7 +7521,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 210,
         ["kill_count"] = 23,
-        ["points"] = 9894.79,
+        ["points"] = 9894.8,
       },
     },
   },
@@ -7578,7 +7578,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 669,
         ["kill_count"] = 8,
-        ["points"] = 9769.16,
+        ["points"] = 9769.19,
       },
     },
   },
@@ -7635,7 +7635,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 286,
         ["kill_count"] = 45,
-        ["points"] = 9869.66,
+        ["points"] = 9869.68,
       },
     },
   },
@@ -7692,7 +7692,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 911,
         ["kill_count"] = 11,
-        ["points"] = 9690.64,
+        ["points"] = 9690.69,
       },
     },
   },
@@ -7749,7 +7749,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 732,
         ["kill_count"] = 17,
-        ["points"] = 9748.74,
+        ["points"] = 9748.78,
       },
     },
   },
@@ -7806,7 +7806,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1748,
         ["kill_count"] = 49,
-        ["points"] = 9475.5,
+        ["points"] = 9475.58,
       },
     },
   },
@@ -7863,7 +7863,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 772,
         ["kill_count"] = 15,
-        ["points"] = 9744.03,
+        ["points"] = 9744.07,
       },
     },
   },
@@ -7920,7 +7920,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3540,
         ["kill_count"] = 16,
-        ["points"] = 9020.1,
+        ["points"] = 9020.25,
       },
     },
   },
@@ -7977,7 +7977,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1354,
         ["kill_count"] = 6,
-        ["points"] = 9587.0,
+        ["points"] = 9587.06,
       },
     },
   },
@@ -8034,7 +8034,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 188,
         ["kill_count"] = 9,
-        ["points"] = 9904.21,
+        ["points"] = 9904.22,
       },
     },
   },
@@ -8091,7 +8091,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1661,
         ["kill_count"] = 21,
-        ["points"] = 9492.78,
+        ["points"] = 9492.86,
       },
     },
   },
@@ -8148,7 +8148,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 174,
         ["kill_count"] = 40,
-        ["points"] = 9910.49,
+        ["points"] = 9910.5,
       },
     },
   },
@@ -8205,7 +8205,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 648,
         ["kill_count"] = 17,
-        ["points"] = 9780.15,
+        ["points"] = 9780.19,
       },
     },
   },
@@ -8262,7 +8262,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1886,
         ["kill_count"] = 51,
-        ["points"] = 9423.68,
+        ["points"] = 9423.77,
       },
     },
   },
@@ -8319,7 +8319,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1875,
         ["kill_count"] = 11,
-        ["points"] = 9428.39,
+        ["points"] = 9428.48,
       },
     },
   },
@@ -8376,7 +8376,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 941,
         ["kill_count"] = 25,
-        ["points"] = 9687.5,
+        ["points"] = 9687.55,
       },
     },
   },
@@ -8433,7 +8433,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1024,
         ["kill_count"] = 7,
-        ["points"] = 9663.94,
+        ["points"] = 9664.0,
       },
     },
   },
@@ -8490,7 +8490,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2485,
         ["kill_count"] = 24,
-        ["points"] = 9287.06,
+        ["points"] = 9287.17,
       },
     },
   },
@@ -8547,7 +8547,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1795,
         ["kill_count"] = 20,
-        ["points"] = 9451.95,
+        ["points"] = 9452.03,
       },
     },
   },
@@ -8604,7 +8604,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1005,
         ["kill_count"] = 49,
-        ["points"] = 9671.8,
+        ["points"] = 9671.85,
       },
     },
   },
@@ -8661,7 +8661,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 725,
         ["kill_count"] = 5,
-        ["points"] = 9751.88,
+        ["points"] = 9751.92,
       },
     },
   },
@@ -8718,7 +8718,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 429,
         ["kill_count"] = 20,
-        ["points"] = 9833.54,
+        ["points"] = 9833.57,
       },
     },
   },
@@ -8775,7 +8775,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1911,
         ["kill_count"] = 26,
-        ["points"] = 9415.83,
+        ["points"] = 9415.92,
       },
     },
   },
@@ -8832,7 +8832,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2592,
         ["kill_count"] = 28,
-        ["points"] = 9260.36,
+        ["points"] = 9260.48,
       },
     },
   },
@@ -8889,7 +8889,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1026,
         ["kill_count"] = 8,
-        ["points"] = 9660.8,
+        ["points"] = 9660.86,
       },
     },
   },
@@ -8946,7 +8946,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 721,
         ["kill_count"] = 38,
-        ["points"] = 9753.45,
+        ["points"] = 9753.49,
       },
     },
   },
@@ -9003,7 +9003,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1451,
         ["kill_count"] = 9,
-        ["points"] = 9557.16,
+        ["points"] = 9557.23,
       },
     },
   },
@@ -9060,7 +9060,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 167,
         ["kill_count"] = 20,
-        ["points"] = 9915.2,
+        ["points"] = 9915.21,
       },
     },
   },
@@ -9117,7 +9117,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 704,
         ["kill_count"] = 35,
-        ["points"] = 9758.17,
+        ["points"] = 9758.2,
       },
     },
   },
@@ -9174,7 +9174,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 810,
         ["kill_count"] = 10,
-        ["points"] = 9731.47,
+        ["points"] = 9731.51,
       },
     },
   },
@@ -9231,7 +9231,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 386,
         ["kill_count"] = 14,
-        ["points"] = 9847.68,
+        ["points"] = 9847.7,
       },
     },
   },
@@ -9288,7 +9288,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 927,
         ["kill_count"] = 38,
-        ["points"] = 9689.07,
+        ["points"] = 9689.12,
       },
     },
   },
@@ -9345,7 +9345,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 357,
         ["kill_count"] = 14,
-        ["points"] = 9860.24,
+        ["points"] = 9860.26,
       },
     },
   },
@@ -9402,7 +9402,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2054,
         ["kill_count"] = 16,
-        ["points"] = 9376.57,
+        ["points"] = 9376.67,
       },
     },
   },
@@ -9459,7 +9459,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1245,
         ["kill_count"] = 28,
-        ["points"] = 9604.27,
+        ["points"] = 9604.33,
       },
     },
   },
@@ -9516,7 +9516,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 493,
         ["kill_count"] = 27,
-        ["points"] = 9819.41,
+        ["points"] = 9819.44,
       },
     },
   },
@@ -9573,7 +9573,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1446,
         ["kill_count"] = 16,
-        ["points"] = 9560.3,
+        ["points"] = 9560.37,
       },
     },
   },
@@ -9630,7 +9630,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2603,
         ["kill_count"] = 39,
-        ["points"] = 9254.08,
+        ["points"] = 9254.2,
       },
     },
   },
@@ -9687,7 +9687,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 109,
         ["kill_count"] = 13,
-        ["points"] = 9941.9,
+        ["points"] = 9941.91,
       },
     },
   },
@@ -9744,7 +9744,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1516,
         ["kill_count"] = 35,
-        ["points"] = 9538.32,
+        ["points"] = 9538.39,
       },
     },
   },
@@ -9801,7 +9801,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1931,
         ["kill_count"] = 27,
-        ["points"] = 9409.55,
+        ["points"] = 9409.64,
       },
     },
   },
@@ -9858,7 +9858,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 984,
         ["kill_count"] = 23,
-        ["points"] = 9676.51,
+        ["points"] = 9676.56,
       },
     },
   },
@@ -9915,7 +9915,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1244,
         ["kill_count"] = 5,
-        ["points"] = 9605.84,
+        ["points"] = 9605.9,
       },
     },
   },
@@ -9972,7 +9972,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1113,
         ["kill_count"] = 9,
-        ["points"] = 9640.39,
+        ["points"] = 9640.45,
       },
     },
   },
@@ -10029,7 +10029,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3462,
         ["kill_count"] = 5,
-        ["points"] = 9042.09,
+        ["points"] = 9042.24,
       },
     },
   },
@@ -10074,7 +10074,7 @@ UWULogsData[2][2] = {
         ["points"] = 9915.99,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7926,
+        ["rank_raids"] = 7927,
         ["kill_count"] = 7,
         ["points"] = 7178.72,
       },
@@ -10086,7 +10086,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 187,
         ["kill_count"] = 6,
-        ["points"] = 9905.78,
+        ["points"] = 9905.79,
       },
     },
   },
@@ -10143,7 +10143,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1362,
         ["kill_count"] = 8,
-        ["points"] = 9583.86,
+        ["points"] = 9583.92,
       },
     },
   },
@@ -10200,7 +10200,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 280,
         ["kill_count"] = 20,
-        ["points"] = 9875.94,
+        ["points"] = 9875.96,
       },
     },
   },
@@ -10257,7 +10257,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1325,
         ["kill_count"] = 23,
-        ["points"] = 9593.28,
+        ["points"] = 9593.34,
       },
     },
   },
@@ -10314,7 +10314,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1384,
         ["kill_count"] = 13,
-        ["points"] = 9576.01,
+        ["points"] = 9576.07,
       },
     },
   },
@@ -10371,7 +10371,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1689,
         ["kill_count"] = 16,
-        ["points"] = 9488.07,
+        ["points"] = 9488.15,
       },
     },
   },
@@ -10428,7 +10428,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2013,
         ["kill_count"] = 25,
-        ["points"] = 9384.42,
+        ["points"] = 9384.52,
       },
     },
   },
@@ -10485,7 +10485,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 283,
         ["kill_count"] = 34,
-        ["points"] = 9872.8,
+        ["points"] = 9872.82,
       },
     },
   },
@@ -10542,7 +10542,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2390,
         ["kill_count"] = 12,
-        ["points"] = 9298.05,
+        ["points"] = 9298.16,
       },
     },
   },
@@ -10599,7 +10599,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1363,
         ["kill_count"] = 11,
-        ["points"] = 9582.29,
+        ["points"] = 9582.35,
       },
     },
   },
@@ -10656,7 +10656,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1824,
         ["kill_count"] = 38,
-        ["points"] = 9447.24,
+        ["points"] = 9447.32,
       },
     },
   },
@@ -10713,7 +10713,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 970,
         ["kill_count"] = 18,
-        ["points"] = 9679.65,
+        ["points"] = 9679.7,
       },
     },
   },
@@ -10770,7 +10770,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 689,
         ["kill_count"] = 11,
-        ["points"] = 9761.31,
+        ["points"] = 9761.34,
       },
     },
   },
@@ -10827,7 +10827,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1647,
         ["kill_count"] = 7,
-        ["points"] = 9497.49,
+        ["points"] = 9497.57,
       },
     },
   },
@@ -10884,7 +10884,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2693,
         ["kill_count"] = 18,
-        ["points"] = 9227.39,
+        ["points"] = 9227.51,
       },
     },
   },
@@ -10941,7 +10941,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2687,
         ["kill_count"] = 47,
-        ["points"] = 9230.53,
+        ["points"] = 9230.65,
       },
     },
   },
@@ -10998,7 +10998,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1074,
         ["kill_count"] = 21,
-        ["points"] = 9645.1,
+        ["points"] = 9645.16,
       },
     },
   },
@@ -11055,7 +11055,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1598,
         ["kill_count"] = 8,
-        ["points"] = 9513.19,
+        ["points"] = 9513.27,
       },
     },
   },
@@ -11112,7 +11112,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1413,
         ["kill_count"] = 17,
-        ["points"] = 9569.72,
+        ["points"] = 9569.79,
       },
     },
   },
@@ -11169,7 +11169,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1122,
         ["kill_count"] = 45,
-        ["points"] = 9638.82,
+        ["points"] = 9638.88,
       },
     },
   },
@@ -11226,7 +11226,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 277,
         ["kill_count"] = 18,
-        ["points"] = 9877.51,
+        ["points"] = 9877.53,
       },
     },
   },
@@ -11271,7 +11271,7 @@ UWULogsData[2][2] = {
         ["points"] = 9995.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6324,
+        ["rank_raids"] = 6325,
         ["kill_count"] = 8,
         ["points"] = 7663.77,
       },
@@ -11283,7 +11283,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 82,
         ["kill_count"] = 8,
-        ["points"] = 9951.32,
+        ["points"] = 9951.33,
       },
     },
   },
@@ -11340,7 +11340,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1295,
         ["kill_count"] = 15,
-        ["points"] = 9597.99,
+        ["points"] = 9598.05,
       },
     },
   },
@@ -11397,7 +11397,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2112,
         ["kill_count"] = 35,
-        ["points"] = 9365.58,
+        ["points"] = 9365.68,
       },
     },
   },
@@ -11454,7 +11454,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1006,
         ["kill_count"] = 26,
-        ["points"] = 9670.23,
+        ["points"] = 9670.28,
       },
     },
   },
@@ -11511,7 +11511,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3091,
         ["kill_count"] = 43,
-        ["points"] = 9133.17,
+        ["points"] = 9133.3,
       },
     },
   },
@@ -11568,7 +11568,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2257,
         ["kill_count"] = 21,
-        ["points"] = 9323.18,
+        ["points"] = 9323.28,
       },
     },
   },
@@ -11625,7 +11625,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 894,
         ["kill_count"] = 38,
-        ["points"] = 9696.92,
+        ["points"] = 9696.97,
       },
     },
   },
@@ -11682,7 +11682,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1791,
         ["kill_count"] = 25,
-        ["points"] = 9453.52,
+        ["points"] = 9453.6,
       },
     },
   },
@@ -11739,7 +11739,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2163,
         ["kill_count"] = 21,
-        ["points"] = 9340.45,
+        ["points"] = 9340.56,
       },
     },
   },
@@ -11796,71 +11796,14 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 138,
         ["kill_count"] = 32,
-        ["points"] = 9927.76,
-      },
-    },
-  },
-  ["Handara"] = {
-    ["percentile"] = 95.69,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 208,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 2098,
-        ["kill_count"] = 15,
-        ["points"] = 9361.94,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 1957,
-        ["kill_count"] = 15,
-        ["points"] = 9189.66,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 493,
-        ["kill_count"] = 15,
-        ["points"] = 9870.99,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 1318,
-        ["kill_count"] = 17,
-        ["points"] = 9687.97,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 2651,
-        ["kill_count"] = 17,
-        ["points"] = 9429.94,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 1867,
-        ["kill_count"] = 18,
-        ["points"] = 9488.4,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 735,
-        ["kill_count"] = 16,
-        ["points"] = 9816.98,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 1796,
-        ["kill_count"] = 17,
-        ["points"] = 9160.92,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 638,
-        ["kill_count"] = 17,
-        ["points"] = 9748.63,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 261,
-        ["kill_count"] = 18,
-        ["points"] = 9883.79,
+        ["points"] = 9927.78,
       },
     },
   },
   ["Kyselka"] = {
     ["percentile"] = 95.69,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 209,
+    ["overall_rank"] = 208,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 424,
@@ -11910,7 +11853,64 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1145,
         ["kill_count"] = 46,
-        ["points"] = 9634.11,
+        ["points"] = 9634.17,
+      },
+    },
+  },
+  ["Handara"] = {
+    ["percentile"] = 95.69,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 209,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 2098,
+        ["kill_count"] = 15,
+        ["points"] = 9361.94,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 1957,
+        ["kill_count"] = 15,
+        ["points"] = 9189.66,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 493,
+        ["kill_count"] = 15,
+        ["points"] = 9870.99,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 1318,
+        ["kill_count"] = 17,
+        ["points"] = 9687.97,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 2651,
+        ["kill_count"] = 17,
+        ["points"] = 9429.94,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 1867,
+        ["kill_count"] = 18,
+        ["points"] = 9488.4,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 735,
+        ["kill_count"] = 16,
+        ["points"] = 9816.98,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 1796,
+        ["kill_count"] = 17,
+        ["points"] = 9160.92,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 638,
+        ["kill_count"] = 17,
+        ["points"] = 9748.63,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 261,
+        ["kill_count"] = 18,
+        ["points"] = 9883.81,
       },
     },
   },
@@ -11967,7 +11967,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3129,
         ["kill_count"] = 28,
-        ["points"] = 9123.74,
+        ["points"] = 9123.88,
       },
     },
   },
@@ -12024,7 +12024,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4420,
         ["kill_count"] = 36,
-        ["points"] = 8801.82,
+        ["points"] = 8802.01,
       },
     },
   },
@@ -12081,7 +12081,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 900,
         ["kill_count"] = 9,
-        ["points"] = 9693.78,
+        ["points"] = 9693.83,
       },
     },
   },
@@ -12138,7 +12138,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 617,
         ["kill_count"] = 17,
-        ["points"] = 9789.57,
+        ["points"] = 9789.61,
       },
     },
   },
@@ -12195,7 +12195,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 814,
         ["kill_count"] = 22,
-        ["points"] = 9726.76,
+        ["points"] = 9726.8,
       },
     },
   },
@@ -12252,7 +12252,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1965,
         ["kill_count"] = 19,
-        ["points"] = 9398.56,
+        ["points"] = 9398.65,
       },
     },
   },
@@ -12309,7 +12309,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2494,
         ["kill_count"] = 29,
-        ["points"] = 9283.92,
+        ["points"] = 9284.03,
       },
     },
   },
@@ -12366,7 +12366,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2869,
         ["kill_count"] = 15,
-        ["points"] = 9189.7,
+        ["points"] = 9189.83,
       },
     },
   },
@@ -12423,7 +12423,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 423,
         ["kill_count"] = 5,
-        ["points"] = 9835.11,
+        ["points"] = 9835.14,
       },
     },
   },
@@ -12480,7 +12480,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 522,
         ["kill_count"] = 19,
-        ["points"] = 9809.99,
+        ["points"] = 9810.02,
       },
     },
   },
@@ -12537,7 +12537,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1601,
         ["kill_count"] = 11,
-        ["points"] = 9511.62,
+        ["points"] = 9511.7,
       },
     },
   },
@@ -12594,7 +12594,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 841,
         ["kill_count"] = 16,
-        ["points"] = 9720.48,
+        ["points"] = 9720.52,
       },
     },
   },
@@ -12651,7 +12651,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4414,
         ["kill_count"] = 19,
-        ["points"] = 8806.53,
+        ["points"] = 8806.72,
       },
     },
   },
@@ -12708,7 +12708,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1694,
         ["kill_count"] = 43,
-        ["points"] = 9486.49,
+        ["points"] = 9486.58,
       },
     },
   },
@@ -12765,7 +12765,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2195,
         ["kill_count"] = 44,
-        ["points"] = 9334.17,
+        ["points"] = 9334.28,
       },
     },
   },
@@ -12822,7 +12822,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2165,
         ["kill_count"] = 19,
-        ["points"] = 9337.31,
+        ["points"] = 9337.42,
       },
     },
   },
@@ -12879,7 +12879,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2129,
         ["kill_count"] = 43,
-        ["points"] = 9357.73,
+        ["points"] = 9357.83,
       },
     },
   },
@@ -12936,7 +12936,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 795,
         ["kill_count"] = 27,
-        ["points"] = 9737.75,
+        ["points"] = 9737.79,
       },
     },
   },
@@ -12993,7 +12993,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 856,
         ["kill_count"] = 22,
-        ["points"] = 9714.2,
+        ["points"] = 9714.24,
       },
     },
   },
@@ -13050,7 +13050,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 824,
         ["kill_count"] = 23,
-        ["points"] = 9725.19,
+        ["points"] = 9725.23,
       },
     },
   },
@@ -13107,7 +13107,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1165,
         ["kill_count"] = 8,
-        ["points"] = 9627.83,
+        ["points"] = 9627.89,
       },
     },
   },
@@ -13164,7 +13164,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 880,
         ["kill_count"] = 11,
-        ["points"] = 9706.34,
+        ["points"] = 9706.39,
       },
     },
   },
@@ -13221,7 +13221,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 811,
         ["kill_count"] = 8,
-        ["points"] = 9729.9,
+        ["points"] = 9729.94,
       },
     },
   },
@@ -13278,7 +13278,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 908,
         ["kill_count"] = 11,
-        ["points"] = 9692.21,
+        ["points"] = 9692.26,
       },
     },
   },
@@ -13335,7 +13335,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1924,
         ["kill_count"] = 20,
-        ["points"] = 9411.12,
+        ["points"] = 9411.21,
       },
     },
   },
@@ -13392,7 +13392,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 575,
         ["kill_count"] = 27,
-        ["points"] = 9798.99,
+        ["points"] = 9799.03,
       },
     },
   },
@@ -13449,7 +13449,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1381,
         ["kill_count"] = 24,
-        ["points"] = 9577.58,
+        ["points"] = 9577.64,
       },
     },
   },
@@ -13506,7 +13506,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1187,
         ["kill_count"] = 29,
-        ["points"] = 9621.55,
+        ["points"] = 9621.6,
       },
     },
   },
@@ -13563,7 +13563,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1870,
         ["kill_count"] = 24,
-        ["points"] = 9429.96,
+        ["points"] = 9430.05,
       },
     },
   },
@@ -13620,7 +13620,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3768,
         ["kill_count"] = 17,
-        ["points"] = 8952.58,
+        ["points"] = 8952.74,
       },
     },
   },
@@ -13677,7 +13677,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1224,
         ["kill_count"] = 10,
-        ["points"] = 9613.69,
+        ["points"] = 9613.75,
       },
     },
   },
@@ -13734,7 +13734,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1399,
         ["kill_count"] = 17,
-        ["points"] = 9571.29,
+        ["points"] = 9571.36,
       },
     },
   },
@@ -13791,7 +13791,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3542,
         ["kill_count"] = 28,
-        ["points"] = 9018.53,
+        ["points"] = 9018.68,
       },
     },
   },
@@ -13848,7 +13848,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 495,
         ["kill_count"] = 16,
-        ["points"] = 9817.84,
+        ["points"] = 9817.87,
       },
     },
   },
@@ -13905,7 +13905,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4863,
         ["kill_count"] = 47,
-        ["points"] = 8698.18,
+        ["points"] = 8698.38,
       },
     },
   },
@@ -13962,7 +13962,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 729,
         ["kill_count"] = 7,
-        ["points"] = 9750.31,
+        ["points"] = 9750.35,
       },
     },
   },
@@ -14019,7 +14019,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4017,
         ["kill_count"] = 20,
-        ["points"] = 8903.89,
+        ["points"] = 8904.07,
       },
     },
   },
@@ -14076,7 +14076,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1448,
         ["kill_count"] = 20,
-        ["points"] = 9558.73,
+        ["points"] = 9558.8,
       },
     },
   },
@@ -14133,7 +14133,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1575,
         ["kill_count"] = 17,
-        ["points"] = 9522.61,
+        ["points"] = 9522.69,
       },
     },
   },
@@ -14190,7 +14190,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1054,
         ["kill_count"] = 20,
-        ["points"] = 9654.52,
+        ["points"] = 9654.58,
       },
     },
   },
@@ -14247,7 +14247,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1614,
         ["kill_count"] = 12,
-        ["points"] = 9505.34,
+        ["points"] = 9505.42,
       },
     },
   },
@@ -14304,7 +14304,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2247,
         ["kill_count"] = 45,
-        ["points"] = 9329.46,
+        ["points"] = 9329.57,
       },
     },
   },
@@ -14361,7 +14361,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 546,
         ["kill_count"] = 7,
-        ["points"] = 9805.28,
+        ["points"] = 9805.31,
       },
     },
   },
@@ -14418,7 +14418,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1818,
         ["kill_count"] = 17,
-        ["points"] = 9450.38,
+        ["points"] = 9450.46,
       },
     },
   },
@@ -14475,7 +14475,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1025,
         ["kill_count"] = 23,
-        ["points"] = 9662.37,
+        ["points"] = 9662.43,
       },
     },
   },
@@ -14532,7 +14532,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 384,
         ["kill_count"] = 15,
-        ["points"] = 9850.82,
+        ["points"] = 9850.84,
       },
     },
   },
@@ -14589,7 +14589,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3213,
         ["kill_count"] = 16,
-        ["points"] = 9106.47,
+        ["points"] = 9106.61,
       },
     },
   },
@@ -14646,7 +14646,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3585,
         ["kill_count"] = 22,
-        ["points"] = 9009.11,
+        ["points"] = 9009.26,
       },
     },
   },
@@ -14703,7 +14703,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 419,
         ["kill_count"] = 24,
-        ["points"] = 9838.25,
+        ["points"] = 9838.28,
       },
     },
   },
@@ -14760,7 +14760,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2276,
         ["kill_count"] = 24,
-        ["points"] = 9313.76,
+        ["points"] = 9313.86,
       },
     },
   },
@@ -14817,7 +14817,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1341,
         ["kill_count"] = 17,
-        ["points"] = 9588.57,
+        ["points"] = 9588.63,
       },
     },
   },
@@ -14874,7 +14874,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2946,
         ["kill_count"] = 11,
-        ["points"] = 9166.14,
+        ["points"] = 9166.27,
       },
     },
   },
@@ -14931,7 +14931,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5530,
         ["kill_count"] = 18,
-        ["points"] = 8538.0,
+        ["points"] = 8538.23,
       },
     },
   },
@@ -14988,7 +14988,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3569,
         ["kill_count"] = 17,
-        ["points"] = 9012.25,
+        ["points"] = 9012.4,
       },
     },
   },
@@ -15045,7 +15045,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2312,
         ["kill_count"] = 43,
-        ["points"] = 9309.05,
+        ["points"] = 9309.15,
       },
     },
   },
@@ -15102,7 +15102,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 952,
         ["kill_count"] = 39,
-        ["points"] = 9682.79,
+        ["points"] = 9682.84,
       },
     },
   },
@@ -15159,7 +15159,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1209,
         ["kill_count"] = 3,
-        ["points"] = 9619.97,
+        ["points"] = 9620.03,
       },
     },
   },
@@ -15216,7 +15216,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1318,
         ["kill_count"] = 40,
-        ["points"] = 9594.85,
+        ["points"] = 9594.91,
       },
     },
   },
@@ -15273,7 +15273,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1923,
         ["kill_count"] = 30,
-        ["points"] = 9412.69,
+        ["points"] = 9412.78,
       },
     },
   },
@@ -15330,7 +15330,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4478,
         ["kill_count"] = 19,
-        ["points"] = 8789.26,
+        ["points"] = 8789.45,
       },
     },
   },
@@ -15387,7 +15387,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1755,
         ["kill_count"] = 13,
-        ["points"] = 9470.79,
+        ["points"] = 9470.87,
       },
     },
   },
@@ -15432,9 +15432,9 @@ UWULogsData[2][2] = {
         ["points"] = 9792.98,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 20280,
+        ["rank_raids"] = 20281,
         ["kill_count"] = 16,
-        ["points"] = 5523.0,
+        ["points"] = 5522.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3537,
@@ -15444,7 +15444,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1545,
         ["kill_count"] = 13,
-        ["points"] = 9532.04,
+        ["points"] = 9532.11,
       },
     },
   },
@@ -15501,7 +15501,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3599,
         ["kill_count"] = 35,
-        ["points"] = 9004.4,
+        ["points"] = 9004.55,
       },
     },
   },
@@ -15558,7 +15558,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1558,
         ["kill_count"] = 14,
-        ["points"] = 9528.89,
+        ["points"] = 9528.97,
       },
     },
   },
@@ -15615,7 +15615,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2048,
         ["kill_count"] = 9,
-        ["points"] = 9378.14,
+        ["points"] = 9378.24,
       },
     },
   },
@@ -15672,7 +15672,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7179,
         ["kill_count"] = 19,
-        ["points"] = 8060.62,
+        ["points"] = 8060.92,
       },
     },
   },
@@ -15729,7 +15729,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1582,
         ["kill_count"] = 11,
-        ["points"] = 9519.47,
+        ["points"] = 9519.55,
       },
     },
   },
@@ -15786,7 +15786,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1770,
         ["kill_count"] = 20,
-        ["points"] = 9466.08,
+        ["points"] = 9466.16,
       },
     },
   },
@@ -15843,7 +15843,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 662,
         ["kill_count"] = 4,
-        ["points"] = 9773.87,
+        ["points"] = 9773.9,
       },
     },
   },
@@ -15900,7 +15900,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4844,
         ["kill_count"] = 23,
-        ["points"] = 8702.89,
+        ["points"] = 8703.09,
       },
     },
   },
@@ -15945,7 +15945,7 @@ UWULogsData[2][2] = {
         ["points"] = 9471.95,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6550,
+        ["rank_raids"] = 6551,
         ["kill_count"] = 23,
         ["points"] = 7593.76,
       },
@@ -15957,7 +15957,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2542,
         ["kill_count"] = 25,
-        ["points"] = 9277.64,
+        ["points"] = 9277.75,
       },
     },
   },
@@ -16014,7 +16014,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 898,
         ["kill_count"] = 9,
-        ["points"] = 9695.35,
+        ["points"] = 9695.4,
       },
     },
   },
@@ -16071,7 +16071,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1172,
         ["kill_count"] = 13,
-        ["points"] = 9624.69,
+        ["points"] = 9624.74,
       },
     },
   },
@@ -16128,7 +16128,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 882,
         ["kill_count"] = 27,
-        ["points"] = 9704.77,
+        ["points"] = 9704.82,
       },
     },
   },
@@ -16185,7 +16185,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 809,
         ["kill_count"] = 23,
-        ["points"] = 9733.04,
+        ["points"] = 9733.08,
       },
     },
   },
@@ -16242,7 +16242,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4036,
         ["kill_count"] = 46,
-        ["points"] = 8902.32,
+        ["points"] = 8902.5,
       },
     },
   },
@@ -16299,7 +16299,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 561,
         ["kill_count"] = 10,
-        ["points"] = 9802.14,
+        ["points"] = 9802.17,
       },
     },
   },
@@ -16356,7 +16356,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1859,
         ["kill_count"] = 16,
-        ["points"] = 9436.24,
+        ["points"] = 9436.33,
       },
     },
   },
@@ -16413,7 +16413,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1443,
         ["kill_count"] = 10,
-        ["points"] = 9561.87,
+        ["points"] = 9561.94,
       },
     },
   },
@@ -16470,7 +16470,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 891,
         ["kill_count"] = 15,
-        ["points"] = 9698.49,
+        ["points"] = 9698.54,
       },
     },
   },
@@ -16527,7 +16527,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1041,
         ["kill_count"] = 15,
-        ["points"] = 9656.09,
+        ["points"] = 9656.15,
       },
     },
   },
@@ -16584,7 +16584,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1659,
         ["kill_count"] = 4,
-        ["points"] = 9494.35,
+        ["points"] = 9494.43,
       },
     },
   },
@@ -16641,7 +16641,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2325,
         ["kill_count"] = 13,
-        ["points"] = 9304.33,
+        ["points"] = 9304.44,
       },
     },
   },
@@ -16698,7 +16698,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2119,
         ["kill_count"] = 37,
-        ["points"] = 9364.01,
+        ["points"] = 9364.11,
       },
     },
   },
@@ -16755,7 +16755,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3969,
         ["kill_count"] = 19,
-        ["points"] = 8918.03,
+        ["points"] = 8918.2,
       },
     },
   },
@@ -16812,7 +16812,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 987,
         ["kill_count"] = 14,
-        ["points"] = 9674.94,
+        ["points"] = 9674.99,
       },
     },
   },
@@ -16869,7 +16869,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4275,
         ["kill_count"] = 15,
-        ["points"] = 8844.22,
+        ["points"] = 8844.4,
       },
     },
   },
@@ -16926,7 +16926,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1589,
         ["kill_count"] = 4,
-        ["points"] = 9514.76,
+        ["points"] = 9514.84,
       },
     },
   },
@@ -16983,7 +16983,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1013,
         ["kill_count"] = 31,
-        ["points"] = 9667.09,
+        ["points"] = 9667.14,
       },
     },
   },
@@ -17040,7 +17040,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1505,
         ["kill_count"] = 48,
-        ["points"] = 9539.89,
+        ["points"] = 9539.96,
       },
     },
   },
@@ -17097,7 +17097,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1543,
         ["kill_count"] = 24,
-        ["points"] = 9533.61,
+        ["points"] = 9533.68,
       },
     },
   },
@@ -17154,7 +17154,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2304,
         ["kill_count"] = 14,
-        ["points"] = 9310.62,
+        ["points"] = 9310.72,
       },
     },
   },
@@ -17211,7 +17211,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2139,
         ["kill_count"] = 8,
-        ["points"] = 9349.87,
+        ["points"] = 9349.98,
       },
     },
   },
@@ -17268,7 +17268,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6570,
         ["kill_count"] = 24,
-        ["points"] = 8239.64,
+        ["points"] = 8239.91,
       },
     },
   },
@@ -17325,7 +17325,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1433,
         ["kill_count"] = 16,
-        ["points"] = 9566.58,
+        ["points"] = 9566.65,
       },
     },
   },
@@ -17382,7 +17382,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1393,
         ["kill_count"] = 4,
-        ["points"] = 9572.86,
+        ["points"] = 9572.93,
       },
     },
   },
@@ -17439,7 +17439,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1998,
         ["kill_count"] = 9,
-        ["points"] = 9387.56,
+        ["points"] = 9387.66,
       },
     },
   },
@@ -17496,7 +17496,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 650,
         ["kill_count"] = 7,
-        ["points"] = 9778.58,
+        ["points"] = 9778.62,
       },
     },
   },
@@ -17541,7 +17541,7 @@ UWULogsData[2][2] = {
         ["points"] = 9118.91,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 9822,
+        ["rank_raids"] = 9823,
         ["kill_count"] = 10,
         ["points"] = 6731.67,
       },
@@ -17553,7 +17553,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 184,
         ["kill_count"] = 8,
-        ["points"] = 9908.92,
+        ["points"] = 9908.93,
       },
     },
   },
@@ -17610,7 +17610,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2850,
         ["kill_count"] = 31,
-        ["points"] = 9194.41,
+        ["points"] = 9194.54,
       },
     },
   },
@@ -17667,7 +17667,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1833,
         ["kill_count"] = 16,
-        ["points"] = 9442.53,
+        ["points"] = 9442.61,
       },
     },
   },
@@ -17724,7 +17724,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5096,
         ["kill_count"] = 4,
-        ["points"] = 8641.65,
+        ["points"] = 8641.86,
       },
     },
   },
@@ -17781,7 +17781,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2544,
         ["kill_count"] = 19,
-        ["points"] = 9276.07,
+        ["points"] = 9276.18,
       },
     },
   },
@@ -17838,12 +17838,12 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1761,
         ["kill_count"] = 14,
-        ["points"] = 9469.22,
+        ["points"] = 9469.3,
       },
     },
   },
   ["Aurieling"] = {
-    ["percentile"] = 93.63,
+    ["percentile"] = 93.64,
     ["server"] = "Icecrown",
     ["overall_rank"] = 314,
     ["bosses"] = {
@@ -17895,7 +17895,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1849,
         ["kill_count"] = 7,
-        ["points"] = 9437.81,
+        ["points"] = 9437.9,
       },
     },
   },
@@ -17952,7 +17952,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2419,
         ["kill_count"] = 16,
-        ["points"] = 9296.48,
+        ["points"] = 9296.59,
       },
     },
   },
@@ -18009,7 +18009,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1750,
         ["kill_count"] = 12,
-        ["points"] = 9473.93,
+        ["points"] = 9474.01,
       },
     },
   },
@@ -18066,7 +18066,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5135,
         ["kill_count"] = 39,
-        ["points"] = 8630.65,
+        ["points"] = 8630.87,
       },
     },
   },
@@ -18123,7 +18123,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 651,
         ["kill_count"] = 16,
-        ["points"] = 9777.01,
+        ["points"] = 9777.05,
       },
     },
   },
@@ -18180,7 +18180,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 636,
         ["kill_count"] = 15,
-        ["points"] = 9784.86,
+        ["points"] = 9784.9,
       },
     },
   },
@@ -18237,7 +18237,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4687,
         ["kill_count"] = 6,
-        ["points"] = 8729.59,
+        ["points"] = 8729.78,
       },
     },
   },
@@ -18294,7 +18294,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1938,
         ["kill_count"] = 14,
-        ["points"] = 9404.84,
+        ["points"] = 9404.93,
       },
     },
   },
@@ -18351,7 +18351,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2141,
         ["kill_count"] = 24,
-        ["points"] = 9348.3,
+        ["points"] = 9348.41,
       },
     },
   },
@@ -18408,7 +18408,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4010,
         ["kill_count"] = 28,
-        ["points"] = 8907.04,
+        ["points"] = 8907.21,
       },
     },
   },
@@ -18465,7 +18465,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 965,
         ["kill_count"] = 13,
-        ["points"] = 9681.22,
+        ["points"] = 9681.27,
       },
     },
   },
@@ -18522,7 +18522,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7930,
         ["kill_count"] = 14,
-        ["points"] = 7854.9,
+        ["points"] = 7855.24,
       },
     },
   },
@@ -18579,7 +18579,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 684,
         ["kill_count"] = 13,
-        ["points"] = 9764.45,
+        ["points"] = 9764.48,
       },
     },
   },
@@ -18636,7 +18636,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1564,
         ["kill_count"] = 12,
-        ["points"] = 9527.32,
+        ["points"] = 9527.4,
       },
     },
   },
@@ -18693,7 +18693,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1525,
         ["kill_count"] = 4,
-        ["points"] = 9536.75,
+        ["points"] = 9536.82,
       },
     },
   },
@@ -18750,7 +18750,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1471,
         ["kill_count"] = 23,
-        ["points"] = 9549.31,
+        ["points"] = 9549.38,
       },
     },
   },
@@ -18807,7 +18807,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2894,
         ["kill_count"] = 34,
-        ["points"] = 9178.71,
+        ["points"] = 9178.83,
       },
     },
   },
@@ -18852,7 +18852,7 @@ UWULogsData[2][2] = {
         ["points"] = 9855.99,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 9005,
+        ["rank_raids"] = 9006,
         ["kill_count"] = 13,
         ["points"] = 6904.69,
       },
@@ -18864,7 +18864,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2248,
         ["kill_count"] = 9,
-        ["points"] = 9327.89,
+        ["points"] = 9327.99,
       },
     },
   },
@@ -18921,7 +18921,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2580,
         ["kill_count"] = 15,
-        ["points"] = 9265.08,
+        ["points"] = 9265.19,
       },
     },
   },
@@ -18978,7 +18978,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3066,
         ["kill_count"] = 26,
-        ["points"] = 9139.45,
+        ["points"] = 9139.58,
       },
     },
   },
@@ -19035,7 +19035,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5782,
         ["kill_count"] = 16,
-        ["points"] = 8456.34,
+        ["points"] = 8456.59,
       },
     },
   },
@@ -19092,7 +19092,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2683,
         ["kill_count"] = 2,
-        ["points"] = 9232.1,
+        ["points"] = 9232.22,
       },
     },
   },
@@ -19149,7 +19149,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3738,
         ["kill_count"] = 25,
-        ["points"] = 8963.57,
+        ["points"] = 8963.73,
       },
     },
   },
@@ -19206,7 +19206,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1107,
         ["kill_count"] = 5,
-        ["points"] = 9643.53,
+        ["points"] = 9643.59,
       },
     },
   },
@@ -19263,7 +19263,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1227,
         ["kill_count"] = 11,
-        ["points"] = 9610.55,
+        ["points"] = 9610.61,
       },
     },
   },
@@ -19320,7 +19320,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3975,
         ["kill_count"] = 19,
-        ["points"] = 8914.89,
+        ["points"] = 8915.06,
       },
     },
   },
@@ -19377,7 +19377,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1864,
         ["kill_count"] = 13,
-        ["points"] = 9433.1,
+        ["points"] = 9433.19,
       },
     },
   },
@@ -19434,7 +19434,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3252,
         ["kill_count"] = 30,
-        ["points"] = 9093.91,
+        ["points"] = 9094.05,
       },
     },
   },
@@ -19491,7 +19491,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3182,
         ["kill_count"] = 23,
-        ["points"] = 9114.32,
+        ["points"] = 9114.46,
       },
     },
   },
@@ -19548,7 +19548,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 831,
         ["kill_count"] = 8,
-        ["points"] = 9723.62,
+        ["points"] = 9723.66,
       },
     },
   },
@@ -19605,7 +19605,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3667,
         ["kill_count"] = 8,
-        ["points"] = 8982.41,
+        ["points"] = 8982.57,
       },
     },
   },
@@ -19662,7 +19662,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2793,
         ["kill_count"] = 7,
-        ["points"] = 9203.83,
+        ["points"] = 9203.96,
       },
     },
   },
@@ -19719,7 +19719,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1932,
         ["kill_count"] = 21,
-        ["points"] = 9407.98,
+        ["points"] = 9408.07,
       },
     },
   },
@@ -19776,7 +19776,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2627,
         ["kill_count"] = 26,
-        ["points"] = 9246.23,
+        ["points"] = 9246.35,
       },
     },
   },
@@ -19833,7 +19833,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1584,
         ["kill_count"] = 15,
-        ["points"] = 9517.9,
+        ["points"] = 9517.98,
       },
     },
   },
@@ -19890,7 +19890,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1712,
         ["kill_count"] = 15,
-        ["points"] = 9480.21,
+        ["points"] = 9480.3,
       },
     },
   },
@@ -19947,7 +19947,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 321,
         ["kill_count"] = 17,
-        ["points"] = 9863.38,
+        ["points"] = 9863.4,
       },
     },
   },
@@ -20004,7 +20004,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8200,
         ["kill_count"] = 6,
-        ["points"] = 7796.8,
+        ["points"] = 7797.14,
       },
     },
   },
@@ -20049,7 +20049,7 @@ UWULogsData[2][2] = {
         ["points"] = 9960.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6989,
+        ["rank_raids"] = 6990,
         ["kill_count"] = 11,
         ["points"] = 7462.75,
       },
@@ -20061,7 +20061,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2667,
         ["kill_count"] = 9,
-        ["points"] = 9235.24,
+        ["points"] = 9235.36,
       },
     },
   },
@@ -20118,7 +20118,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3185,
         ["kill_count"] = 13,
-        ["points"] = 9111.18,
+        ["points"] = 9111.32,
       },
     },
   },
@@ -20175,7 +20175,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 782,
         ["kill_count"] = 12,
-        ["points"] = 9742.46,
+        ["points"] = 9742.5,
       },
     },
   },
@@ -20232,7 +20232,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1762,
         ["kill_count"] = 12,
-        ["points"] = 9467.65,
+        ["points"] = 9467.73,
       },
     },
   },
@@ -20289,7 +20289,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2616,
         ["kill_count"] = 20,
-        ["points"] = 9247.8,
+        ["points"] = 9247.92,
       },
     },
   },
@@ -20346,7 +20346,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5278,
         ["kill_count"] = 18,
-        ["points"] = 8603.96,
+        ["points"] = 8604.18,
       },
     },
   },
@@ -20403,7 +20403,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1157,
         ["kill_count"] = 14,
-        ["points"] = 9630.97,
+        ["points"] = 9631.03,
       },
     },
   },
@@ -20460,7 +20460,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1976,
         ["kill_count"] = 8,
-        ["points"] = 9395.41,
+        ["points"] = 9395.51,
       },
     },
   },
@@ -20517,7 +20517,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3464,
         ["kill_count"] = 17,
-        ["points"] = 9040.52,
+        ["points"] = 9040.67,
       },
     },
   },
@@ -20574,7 +20574,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2874,
         ["kill_count"] = 10,
-        ["points"] = 9186.56,
+        ["points"] = 9186.69,
       },
     },
   },
@@ -20631,7 +20631,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1609,
         ["kill_count"] = 5,
-        ["points"] = 9508.48,
+        ["points"] = 9508.56,
       },
     },
   },
@@ -20688,7 +20688,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1144,
         ["kill_count"] = 12,
-        ["points"] = 9635.68,
+        ["points"] = 9635.74,
       },
     },
   },
@@ -20745,7 +20745,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4260,
         ["kill_count"] = 30,
-        ["points"] = 8848.93,
+        ["points"] = 8849.11,
       },
     },
   },
@@ -20802,7 +20802,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 533,
         ["kill_count"] = 24,
-        ["points"] = 9806.85,
+        ["points"] = 9806.88,
       },
     },
   },
@@ -20859,7 +20859,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 980,
         ["kill_count"] = 13,
-        ["points"] = 9678.08,
+        ["points"] = 9678.13,
       },
     },
   },
@@ -20916,71 +20916,14 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4180,
         ["kill_count"] = 10,
-        ["points"] = 8867.78,
-      },
-    },
-  },
-  ["Pikhuntone"] = {
-    ["percentile"] = 92.87,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 368,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 1761,
-        ["kill_count"] = 18,
-        ["points"] = 9458.95,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 2326,
-        ["kill_count"] = 20,
-        ["points"] = 9085.1,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 2917,
-        ["kill_count"] = 19,
-        ["points"] = 9344.93,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 4661,
-        ["kill_count"] = 19,
-        ["points"] = 8820.88,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 2767,
-        ["kill_count"] = 19,
-        ["points"] = 9401.94,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 1779,
-        ["kill_count"] = 21,
-        ["points"] = 9505.63,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 2759,
-        ["kill_count"] = 21,
-        ["points"] = 9372.94,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 2505,
-        ["kill_count"] = 20,
-        ["points"] = 8859.89,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 2068,
-        ["kill_count"] = 20,
-        ["points"] = 9196.76,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 668,
-        ["kill_count"] = 21,
-        ["points"] = 9770.73,
+        ["points"] = 8867.95,
       },
     },
   },
   ["Tobleronee"] = {
     ["percentile"] = 92.87,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 369,
+    ["overall_rank"] = 368,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 1323,
@@ -21030,7 +20973,64 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5750,
         ["kill_count"] = 21,
-        ["points"] = 8479.9,
+        ["points"] = 8480.14,
+      },
+    },
+  },
+  ["Pikhuntone"] = {
+    ["percentile"] = 92.87,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 369,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 1761,
+        ["kill_count"] = 18,
+        ["points"] = 9458.95,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 2326,
+        ["kill_count"] = 20,
+        ["points"] = 9085.1,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 2917,
+        ["kill_count"] = 19,
+        ["points"] = 9344.93,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 4661,
+        ["kill_count"] = 19,
+        ["points"] = 8820.88,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 2767,
+        ["kill_count"] = 19,
+        ["points"] = 9401.94,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 1779,
+        ["kill_count"] = 21,
+        ["points"] = 9505.63,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 2759,
+        ["kill_count"] = 21,
+        ["points"] = 9372.94,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 2505,
+        ["kill_count"] = 20,
+        ["points"] = 8859.89,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 2068,
+        ["kill_count"] = 20,
+        ["points"] = 9196.76,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 668,
+        ["kill_count"] = 21,
+        ["points"] = 9770.76,
       },
     },
   },
@@ -21087,7 +21087,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3124,
         ["kill_count"] = 25,
-        ["points"] = 9126.88,
+        ["points"] = 9127.02,
       },
     },
   },
@@ -21144,7 +21144,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3306,
         ["kill_count"] = 26,
-        ["points"] = 9082.91,
+        ["points"] = 9083.06,
       },
     },
   },
@@ -21201,7 +21201,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5522,
         ["kill_count"] = 6,
-        ["points"] = 8542.71,
+        ["points"] = 8542.94,
       },
     },
   },
@@ -21258,7 +21258,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 285,
         ["kill_count"] = 23,
-        ["points"] = 9871.23,
+        ["points"] = 9871.25,
       },
     },
   },
@@ -21315,7 +21315,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1876,
         ["kill_count"] = 11,
-        ["points"] = 9426.82,
+        ["points"] = 9426.91,
       },
     },
   },
@@ -21372,7 +21372,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3695,
         ["kill_count"] = 12,
-        ["points"] = 8972.99,
+        ["points"] = 8973.15,
       },
     },
   },
@@ -21429,7 +21429,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3663,
         ["kill_count"] = 9,
-        ["points"] = 8983.98,
+        ["points"] = 8984.14,
       },
     },
   },
@@ -21486,7 +21486,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6060,
         ["kill_count"] = 21,
-        ["points"] = 8388.82,
+        ["points"] = 8389.07,
       },
     },
   },
@@ -21543,7 +21543,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1783,
         ["kill_count"] = 19,
-        ["points"] = 9459.8,
+        ["points"] = 9459.88,
       },
     },
   },
@@ -21600,7 +21600,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 835,
         ["kill_count"] = 5,
-        ["points"] = 9722.05,
+        ["points"] = 9722.09,
       },
     },
   },
@@ -21657,7 +21657,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3759,
         ["kill_count"] = 20,
-        ["points"] = 8954.15,
+        ["points"] = 8954.31,
       },
     },
   },
@@ -21714,7 +21714,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3238,
         ["kill_count"] = 8,
-        ["points"] = 9098.62,
+        ["points"] = 9098.76,
       },
     },
   },
@@ -21771,7 +21771,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1888,
         ["kill_count"] = 12,
-        ["points"] = 9422.11,
+        ["points"] = 9422.2,
       },
     },
   },
@@ -21828,7 +21828,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2936,
         ["kill_count"] = 25,
-        ["points"] = 9169.28,
+        ["points"] = 9169.41,
       },
     },
   },
@@ -21873,7 +21873,7 @@ UWULogsData[2][2] = {
         ["points"] = 9921.99,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6423,
+        ["rank_raids"] = 6424,
         ["kill_count"] = 14,
         ["points"] = 7633.76,
       },
@@ -21885,7 +21885,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2498,
         ["kill_count"] = 13,
-        ["points"] = 9282.35,
+        ["points"] = 9282.46,
       },
     },
   },
@@ -21942,7 +21942,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1442,
         ["kill_count"] = 14,
-        ["points"] = 9563.44,
+        ["points"] = 9563.51,
       },
     },
   },
@@ -21999,7 +21999,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1260,
         ["kill_count"] = 13,
-        ["points"] = 9602.7,
+        ["points"] = 9602.76,
       },
     },
   },
@@ -22056,7 +22056,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2270,
         ["kill_count"] = 2,
-        ["points"] = 9318.47,
+        ["points"] = 9318.57,
       },
     },
   },
@@ -22113,7 +22113,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4672,
         ["kill_count"] = 9,
-        ["points"] = 8731.16,
+        ["points"] = 8731.36,
       },
     },
   },
@@ -22170,7 +22170,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1386,
         ["kill_count"] = 9,
-        ["points"] = 9574.43,
+        ["points"] = 9574.5,
       },
     },
   },
@@ -22227,7 +22227,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1529,
         ["kill_count"] = 13,
-        ["points"] = 9535.18,
+        ["points"] = 9535.25,
       },
     },
   },
@@ -22272,7 +22272,7 @@ UWULogsData[2][2] = {
         ["points"] = 9774.98,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8600,
+        ["rank_raids"] = 8601,
         ["kill_count"] = 29,
         ["points"] = 6996.7,
       },
@@ -22284,7 +22284,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1985,
         ["kill_count"] = 25,
-        ["points"] = 9392.27,
+        ["points"] = 9392.37,
       },
     },
   },
@@ -22341,7 +22341,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2596,
         ["kill_count"] = 6,
-        ["points"] = 9257.22,
+        ["points"] = 9257.34,
       },
     },
   },
@@ -22398,7 +22398,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1832,
         ["kill_count"] = 17,
-        ["points"] = 9444.1,
+        ["points"] = 9444.18,
       },
     },
   },
@@ -22455,7 +22455,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4573,
         ["kill_count"] = 16,
-        ["points"] = 8759.42,
+        ["points"] = 8759.62,
       },
     },
   },
@@ -22512,7 +22512,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3074,
         ["kill_count"] = 14,
-        ["points"] = 9136.31,
+        ["points"] = 9136.44,
       },
     },
   },
@@ -22569,7 +22569,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2099,
         ["kill_count"] = 28,
-        ["points"] = 9367.15,
+        ["points"] = 9367.25,
       },
     },
   },
@@ -22626,7 +22626,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1883,
         ["kill_count"] = 6,
-        ["points"] = 9425.25,
+        ["points"] = 9425.34,
       },
     },
   },
@@ -22683,7 +22683,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1068,
         ["kill_count"] = 11,
-        ["points"] = 9648.24,
+        ["points"] = 9648.3,
       },
     },
   },
@@ -22740,7 +22740,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1963,
         ["kill_count"] = 3,
-        ["points"] = 9400.13,
+        ["points"] = 9400.22,
       },
     },
   },
@@ -22797,7 +22797,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4638,
         ["kill_count"] = 9,
-        ["points"] = 8739.01,
+        ["points"] = 8739.21,
       },
     },
   },
@@ -22854,7 +22854,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1910,
         ["kill_count"] = 3,
-        ["points"] = 9417.4,
+        ["points"] = 9417.49,
       },
     },
   },
@@ -22911,7 +22911,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3801,
         ["kill_count"] = 6,
-        ["points"] = 8949.43,
+        ["points"] = 8949.6,
       },
     },
   },
@@ -22968,7 +22968,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3414,
         ["kill_count"] = 33,
-        ["points"] = 9060.93,
+        ["points"] = 9061.08,
       },
     },
   },
@@ -23025,7 +23025,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5382,
         ["kill_count"] = 18,
-        ["points"] = 8578.83,
+        ["points"] = 8579.05,
       },
     },
   },
@@ -23082,7 +23082,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4742,
         ["kill_count"] = 9,
-        ["points"] = 8720.16,
+        ["points"] = 8720.36,
       },
     },
   },
@@ -23139,7 +23139,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5408,
         ["kill_count"] = 13,
-        ["points"] = 8574.12,
+        ["points"] = 8574.34,
       },
     },
   },
@@ -23196,7 +23196,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1828,
         ["kill_count"] = 7,
-        ["points"] = 9445.67,
+        ["points"] = 9445.75,
       },
     },
   },
@@ -23253,7 +23253,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5851,
         ["kill_count"] = 8,
-        ["points"] = 8442.21,
+        ["points"] = 8442.46,
       },
     },
   },
@@ -23310,7 +23310,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 763,
         ["kill_count"] = 7,
-        ["points"] = 9745.6,
+        ["points"] = 9745.64,
       },
     },
   },
@@ -23367,7 +23367,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2736,
         ["kill_count"] = 15,
-        ["points"] = 9216.39,
+        ["points"] = 9216.52,
       },
     },
   },
@@ -23424,7 +23424,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4131,
         ["kill_count"] = 19,
-        ["points"] = 8877.2,
+        ["points"] = 8877.37,
       },
     },
   },
@@ -23481,7 +23481,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2486,
         ["kill_count"] = 29,
-        ["points"] = 9285.49,
+        ["points"] = 9285.6,
       },
     },
   },
@@ -23538,7 +23538,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2774,
         ["kill_count"] = 24,
-        ["points"] = 9206.97,
+        ["points"] = 9207.1,
       },
     },
   },
@@ -23595,7 +23595,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 74,
         ["kill_count"] = 5,
-        ["points"] = 9957.6,
+        ["points"] = 9957.61,
       },
     },
   },
@@ -23652,7 +23652,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8007,
         ["kill_count"] = 9,
-        ["points"] = 7832.91,
+        ["points"] = 7833.25,
       },
     },
   },
@@ -23709,7 +23709,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6088,
         ["kill_count"] = 19,
-        ["points"] = 8377.83,
+        ["points"] = 8378.08,
       },
     },
   },
@@ -23766,7 +23766,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6645,
         ["kill_count"] = 22,
-        ["points"] = 8219.22,
+        ["points"] = 8219.5,
       },
     },
   },
@@ -23823,7 +23823,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2882,
         ["kill_count"] = 25,
-        ["points"] = 9183.42,
+        ["points"] = 9183.55,
       },
     },
   },
@@ -23880,7 +23880,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3730,
         ["kill_count"] = 5,
-        ["points"] = 8966.71,
+        ["points"] = 8966.87,
       },
     },
   },
@@ -23937,7 +23937,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7261,
         ["kill_count"] = 20,
-        ["points"] = 8032.35,
+        ["points"] = 8032.66,
       },
     },
   },
@@ -23994,7 +23994,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1834,
         ["kill_count"] = 16,
-        ["points"] = 9440.95,
+        ["points"] = 9441.04,
       },
     },
   },
@@ -24051,7 +24051,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2272,
         ["kill_count"] = 16,
-        ["points"] = 9316.9,
+        ["points"] = 9317.0,
       },
     },
   },
@@ -24108,7 +24108,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4388,
         ["kill_count"] = 16,
-        ["points"] = 8815.95,
+        ["points"] = 8816.14,
       },
     },
   },
@@ -24165,7 +24165,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5738,
         ["kill_count"] = 16,
-        ["points"] = 8484.61,
+        ["points"] = 8484.85,
       },
     },
   },
@@ -24222,7 +24222,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5179,
         ["kill_count"] = 21,
-        ["points"] = 8622.8,
+        ["points"] = 8623.02,
       },
     },
   },
@@ -24267,7 +24267,7 @@ UWULogsData[2][2] = {
         ["points"] = 9223.92,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6290,
+        ["rank_raids"] = 6291,
         ["kill_count"] = 8,
         ["points"] = 7675.77,
       },
@@ -24279,7 +24279,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 275,
         ["kill_count"] = 7,
-        ["points"] = 9879.08,
+        ["points"] = 9879.1,
       },
     },
   },
@@ -24324,7 +24324,7 @@ UWULogsData[2][2] = {
         ["points"] = 9385.94,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6698,
+        ["rank_raids"] = 6699,
         ["kill_count"] = 18,
         ["points"] = 7547.75,
       },
@@ -24336,7 +24336,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7036,
         ["kill_count"] = 17,
-        ["points"] = 8099.87,
+        ["points"] = 8100.17,
       },
     },
   },
@@ -24393,7 +24393,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6187,
         ["kill_count"] = 20,
-        ["points"] = 8344.85,
+        ["points"] = 8345.11,
       },
     },
   },
@@ -24450,7 +24450,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1063,
         ["kill_count"] = 9,
-        ["points"] = 9651.38,
+        ["points"] = 9651.44,
       },
     },
   },
@@ -24507,7 +24507,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 11980,
         ["kill_count"] = 17,
-        ["points"] = 6915.83,
+        ["points"] = 6916.31,
       },
     },
   },
@@ -24564,7 +24564,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5596,
         ["kill_count"] = 20,
-        ["points"] = 8523.87,
+        ["points"] = 8524.1,
       },
     },
   },
@@ -24621,7 +24621,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1071,
         ["kill_count"] = 11,
-        ["points"] = 9646.67,
+        ["points"] = 9646.73,
       },
     },
   },
@@ -24678,7 +24678,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2549,
         ["kill_count"] = 9,
-        ["points"] = 9274.5,
+        ["points"] = 9274.61,
       },
     },
   },
@@ -24723,7 +24723,7 @@ UWULogsData[2][2] = {
         ["points"] = 9261.93,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7579,
+        ["rank_raids"] = 7580,
         ["kill_count"] = 19,
         ["points"] = 7277.73,
       },
@@ -24735,7 +24735,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3450,
         ["kill_count"] = 17,
-        ["points"] = 9046.8,
+        ["points"] = 9046.95,
       },
     },
   },
@@ -24792,7 +24792,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4269,
         ["kill_count"] = 13,
-        ["points"] = 8847.36,
+        ["points"] = 8847.54,
       },
     },
   },
@@ -24849,7 +24849,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7210,
         ["kill_count"] = 11,
-        ["points"] = 8046.48,
+        ["points"] = 8046.79,
       },
     },
   },
@@ -24894,7 +24894,7 @@ UWULogsData[2][2] = {
         ["points"] = 9757.98,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 10027,
+        ["rank_raids"] = 10028,
         ["kill_count"] = 21,
         ["points"] = 6690.67,
       },
@@ -24906,7 +24906,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 646,
         ["kill_count"] = 16,
-        ["points"] = 9781.72,
+        ["points"] = 9781.76,
       },
     },
   },
@@ -24963,7 +24963,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1711,
         ["kill_count"] = 24,
-        ["points"] = 9481.78,
+        ["points"] = 9481.87,
       },
     },
   },
@@ -25020,7 +25020,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6282,
         ["kill_count"] = 17,
-        ["points"] = 8326.01,
+        ["points"] = 8326.27,
       },
     },
   },
@@ -25077,7 +25077,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6533,
         ["kill_count"] = 11,
-        ["points"] = 8253.77,
+        ["points"] = 8254.04,
       },
     },
   },
@@ -25134,7 +25134,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2714,
         ["kill_count"] = 23,
-        ["points"] = 9221.11,
+        ["points"] = 9221.23,
       },
     },
   },
@@ -25191,7 +25191,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3249,
         ["kill_count"] = 9,
-        ["points"] = 9097.05,
+        ["points"] = 9097.19,
       },
     },
   },
@@ -25248,7 +25248,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4488,
         ["kill_count"] = 17,
-        ["points"] = 8786.12,
+        ["points"] = 8786.31,
       },
     },
   },
@@ -25305,7 +25305,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5510,
         ["kill_count"] = 12,
-        ["points"] = 8545.85,
+        ["points"] = 8546.08,
       },
     },
   },
@@ -25362,7 +25362,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 946,
         ["kill_count"] = 14,
-        ["points"] = 9685.93,
+        ["points"] = 9685.98,
       },
     },
   },
@@ -25419,7 +25419,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4976,
         ["kill_count"] = 20,
-        ["points"] = 8676.19,
+        ["points"] = 8676.4,
       },
     },
   },
@@ -25476,7 +25476,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1234,
         ["kill_count"] = 18,
-        ["points"] = 9608.98,
+        ["points"] = 9609.04,
       },
     },
   },
@@ -25533,7 +25533,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1611,
         ["kill_count"] = 17,
-        ["points"] = 9506.91,
+        ["points"] = 9506.99,
       },
     },
   },
@@ -25590,7 +25590,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3422,
         ["kill_count"] = 18,
-        ["points"] = 9056.22,
+        ["points"] = 9056.37,
       },
     },
   },
@@ -25635,7 +25635,7 @@ UWULogsData[2][2] = {
         ["points"] = 9201.92,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7301,
+        ["rank_raids"] = 7302,
         ["kill_count"] = 11,
         ["points"] = 7364.74,
       },
@@ -25647,7 +25647,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1422,
         ["kill_count"] = 11,
-        ["points"] = 9568.15,
+        ["points"] = 9568.22,
       },
     },
   },
@@ -25704,7 +25704,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4109,
         ["kill_count"] = 20,
-        ["points"] = 8880.34,
+        ["points"] = 8880.51,
       },
     },
   },
@@ -25761,7 +25761,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1641,
         ["kill_count"] = 15,
-        ["points"] = 9500.63,
+        ["points"] = 9500.71,
       },
     },
   },
@@ -25818,7 +25818,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2635,
         ["kill_count"] = 23,
-        ["points"] = 9244.66,
+        ["points"] = 9244.78,
       },
     },
   },
@@ -25875,7 +25875,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 994,
         ["kill_count"] = 10,
-        ["points"] = 9673.37,
+        ["points"] = 9673.42,
       },
     },
   },
@@ -25920,9 +25920,9 @@ UWULogsData[2][2] = {
         ["points"] = 9702.97,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 13583,
+        ["rank_raids"] = 13584,
         ["kill_count"] = 3,
-        ["points"] = 6192.7,
+        ["points"] = 6192.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1205,
@@ -25932,12 +25932,12 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4192,
         ["kill_count"] = 3,
-        ["points"] = 8866.21,
+        ["points"] = 8866.38,
       },
     },
   },
   ["Bumblebebe"] = {
-    ["percentile"] = 91.44,
+    ["percentile"] = 91.45,
     ["server"] = "Icecrown",
     ["overall_rank"] = 456,
     ["bosses"] = {
@@ -25989,12 +25989,12 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4803,
         ["kill_count"] = 22,
-        ["points"] = 8710.74,
+        ["points"] = 8710.94,
       },
     },
   },
   ["Dronzer"] = {
-    ["percentile"] = 91.44,
+    ["percentile"] = 91.45,
     ["server"] = "Icecrown",
     ["overall_rank"] = 457,
     ["bosses"] = {
@@ -26046,7 +26046,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3417,
         ["kill_count"] = 71,
-        ["points"] = 9059.36,
+        ["points"] = 9059.51,
       },
     },
   },
@@ -26103,7 +26103,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5343,
         ["kill_count"] = 23,
-        ["points"] = 8592.96,
+        ["points"] = 8593.19,
       },
     },
   },
@@ -26160,7 +26160,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3514,
         ["kill_count"] = 17,
-        ["points"] = 9029.52,
+        ["points"] = 9029.67,
       },
     },
   },
@@ -26217,7 +26217,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1500,
         ["kill_count"] = 23,
-        ["points"] = 9543.03,
+        ["points"] = 9543.1,
       },
     },
   },
@@ -26274,7 +26274,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2079,
         ["kill_count"] = 18,
-        ["points"] = 9368.72,
+        ["points"] = 9368.82,
       },
     },
   },
@@ -26331,7 +26331,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3429,
         ["kill_count"] = 18,
-        ["points"] = 9054.65,
+        ["points"] = 9054.8,
       },
     },
   },
@@ -26388,7 +26388,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3546,
         ["kill_count"] = 21,
-        ["points"] = 9016.96,
+        ["points"] = 9017.11,
       },
     },
   },
@@ -26445,7 +26445,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4717,
         ["kill_count"] = 28,
-        ["points"] = 8724.87,
+        ["points"] = 8725.07,
       },
     },
   },
@@ -26502,7 +26502,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6086,
         ["kill_count"] = 16,
-        ["points"] = 8380.97,
+        ["points"] = 8381.22,
       },
     },
   },
@@ -26559,7 +26559,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1062,
         ["kill_count"] = 13,
-        ["points"] = 9652.95,
+        ["points"] = 9653.01,
       },
     },
   },
@@ -26616,7 +26616,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 802,
         ["kill_count"] = 19,
-        ["points"] = 9734.61,
+        ["points"] = 9734.65,
       },
     },
   },
@@ -26673,7 +26673,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2321,
         ["kill_count"] = 14,
-        ["points"] = 9305.9,
+        ["points"] = 9306.01,
       },
     },
   },
@@ -26730,7 +26730,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2951,
         ["kill_count"] = 47,
-        ["points"] = 9163.0,
+        ["points"] = 9163.13,
       },
     },
   },
@@ -26787,7 +26787,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5598,
         ["kill_count"] = 72,
-        ["points"] = 8522.3,
+        ["points"] = 8522.53,
       },
     },
   },
@@ -26832,9 +26832,9 @@ UWULogsData[2][2] = {
         ["points"] = 9205.92,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 15055,
+        ["rank_raids"] = 15056,
         ["kill_count"] = 8,
-        ["points"] = 6045.5,
+        ["points"] = 6045.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 268,
@@ -26844,7 +26844,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2711,
         ["kill_count"] = 5,
-        ["points"] = 9222.68,
+        ["points"] = 9222.8,
       },
     },
   },
@@ -26901,7 +26901,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5634,
         ["kill_count"] = 50,
-        ["points"] = 8512.88,
+        ["points"] = 8513.11,
       },
     },
   },
@@ -26958,7 +26958,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3432,
         ["kill_count"] = 20,
-        ["points"] = 9053.08,
+        ["points"] = 9053.23,
       },
     },
   },
@@ -27015,7 +27015,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4248,
         ["kill_count"] = 16,
-        ["points"] = 8853.64,
+        ["points"] = 8853.82,
       },
     },
   },
@@ -27072,7 +27072,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2062,
         ["kill_count"] = 34,
-        ["points"] = 9371.86,
+        ["points"] = 9371.96,
       },
     },
   },
@@ -27129,7 +27129,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1226,
         ["kill_count"] = 23,
-        ["points"] = 9612.12,
+        ["points"] = 9612.18,
       },
     },
   },
@@ -27186,7 +27186,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6573,
         ["kill_count"] = 11,
-        ["points"] = 8238.07,
+        ["points"] = 8238.34,
       },
     },
   },
@@ -27243,7 +27243,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8951,
         ["kill_count"] = 7,
-        ["points"] = 7611.49,
+        ["points"] = 7611.87,
       },
     },
   },
@@ -27300,7 +27300,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6894,
         ["kill_count"] = 26,
-        ["points"] = 8137.56,
+        ["points"] = 8137.86,
       },
     },
   },
@@ -27357,7 +27357,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3363,
         ["kill_count"] = 10,
-        ["points"] = 9071.92,
+        ["points"] = 9072.07,
       },
     },
   },
@@ -27414,7 +27414,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3912,
         ["kill_count"] = 31,
-        ["points"] = 8933.73,
+        ["points"] = 8933.9,
       },
     },
   },
@@ -27471,7 +27471,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4435,
         ["kill_count"] = 2,
-        ["points"] = 8798.68,
+        ["points"] = 8798.87,
       },
     },
   },
@@ -27528,7 +27528,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1467,
         ["kill_count"] = 9,
-        ["points"] = 9550.88,
+        ["points"] = 9550.95,
       },
     },
   },
@@ -27585,7 +27585,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2590,
         ["kill_count"] = 7,
-        ["points"] = 9263.51,
+        ["points"] = 9263.62,
       },
     },
   },
@@ -27642,12 +27642,12 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2769,
         ["kill_count"] = 9,
-        ["points"] = 9208.54,
+        ["points"] = 9208.67,
       },
     },
   },
   ["Johncupiatra"] = {
-    ["percentile"] = 91.01,
+    ["percentile"] = 91.02,
     ["server"] = "Icecrown",
     ["overall_rank"] = 486,
     ["bosses"] = {
@@ -27699,7 +27699,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1497,
         ["kill_count"] = 10,
-        ["points"] = 9544.6,
+        ["points"] = 9544.67,
       },
     },
   },
@@ -27756,7 +27756,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2023,
         ["kill_count"] = 16,
-        ["points"] = 9382.85,
+        ["points"] = 9382.95,
       },
     },
   },
@@ -27813,7 +27813,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3005,
         ["kill_count"] = 14,
-        ["points"] = 9153.58,
+        ["points"] = 9153.71,
       },
     },
   },
@@ -27858,9 +27858,9 @@ UWULogsData[2][2] = {
         ["points"] = 8741.87,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 12324,
+        ["rank_raids"] = 12325,
         ["kill_count"] = 5,
-        ["points"] = 6318.6,
+        ["points"] = 6318.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 838,
@@ -27870,7 +27870,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1307,
         ["kill_count"] = 6,
-        ["points"] = 9596.42,
+        ["points"] = 9596.48,
       },
     },
   },
@@ -27927,7 +27927,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7488,
         ["kill_count"] = 18,
-        ["points"] = 7975.82,
+        ["points"] = 7976.13,
       },
     },
   },
@@ -27984,7 +27984,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2530,
         ["kill_count"] = 4,
-        ["points"] = 9280.78,
+        ["points"] = 9280.89,
       },
     },
   },
@@ -28041,12 +28041,12 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1371,
         ["kill_count"] = 3,
-        ["points"] = 9580.72,
+        ["points"] = 9580.78,
       },
     },
   },
   ["Tracker"] = {
-    ["percentile"] = 90.92,
+    ["percentile"] = 90.93,
     ["server"] = "Icecrown",
     ["overall_rank"] = 493,
     ["bosses"] = {
@@ -28098,7 +28098,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2897,
         ["kill_count"] = 22,
-        ["points"] = 9177.14,
+        ["points"] = 9177.26,
       },
     },
   },
@@ -28155,7 +28155,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4416,
         ["kill_count"] = 24,
-        ["points"] = 8804.96,
+        ["points"] = 8805.15,
       },
     },
   },
@@ -28212,7 +28212,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2574,
         ["kill_count"] = 21,
-        ["points"] = 9266.65,
+        ["points"] = 9266.76,
       },
     },
   },
@@ -28257,7 +28257,7 @@ UWULogsData[2][2] = {
         ["points"] = 9534.95,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7196,
+        ["rank_raids"] = 7197,
         ["kill_count"] = 10,
         ["points"] = 7400.74,
       },
@@ -28269,7 +28269,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7297,
         ["kill_count"] = 9,
-        ["points"] = 8021.36,
+        ["points"] = 8021.67,
       },
     },
   },
@@ -28326,7 +28326,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2137,
         ["kill_count"] = 20,
-        ["points"] = 9353.02,
+        ["points"] = 9353.12,
       },
     },
   },
@@ -28383,7 +28383,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4562,
         ["kill_count"] = 43,
-        ["points"] = 8764.13,
+        ["points"] = 8764.33,
       },
     },
   },
@@ -28440,7 +28440,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3482,
         ["kill_count"] = 22,
-        ["points"] = 9034.23,
+        ["points"] = 9034.39,
       },
     },
   },
@@ -28497,7 +28497,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4366,
         ["kill_count"] = 16,
-        ["points"] = 8822.24,
+        ["points"] = 8822.42,
       },
     },
   },
@@ -28542,7 +28542,7 @@ UWULogsData[2][2] = {
         ["points"] = 9797.98,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7274,
+        ["rank_raids"] = 7275,
         ["kill_count"] = 19,
         ["points"] = 7372.74,
       },
@@ -28554,7 +28554,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3389,
         ["kill_count"] = 13,
-        ["points"] = 9065.64,
+        ["points"] = 9065.79,
       },
     },
   },
@@ -28611,7 +28611,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5355,
         ["kill_count"] = 13,
-        ["points"] = 8586.68,
+        ["points"] = 8586.91,
       },
     },
   },
@@ -28668,7 +28668,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3344,
         ["kill_count"] = 6,
-        ["points"] = 9078.2,
+        ["points"] = 9078.35,
       },
     },
   },
@@ -28713,7 +28713,7 @@ UWULogsData[2][2] = {
         ["points"] = 9909.99,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6973,
+        ["rank_raids"] = 6974,
         ["kill_count"] = 7,
         ["points"] = 7467.75,
       },
@@ -28725,7 +28725,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2061,
         ["kill_count"] = 7,
-        ["points"] = 9373.43,
+        ["points"] = 9373.53,
       },
     },
   },
@@ -28782,7 +28782,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4934,
         ["kill_count"] = 3,
-        ["points"] = 8684.05,
+        ["points"] = 8684.25,
       },
     },
   },
@@ -28839,7 +28839,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2122,
         ["kill_count"] = 25,
-        ["points"] = 9362.44,
+        ["points"] = 9362.54,
       },
     },
   },
@@ -28896,7 +28896,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1740,
         ["kill_count"] = 8,
-        ["points"] = 9477.07,
+        ["points"] = 9477.15,
       },
     },
   },
@@ -28941,7 +28941,7 @@ UWULogsData[2][2] = {
         ["points"] = 9016.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6428,
+        ["rank_raids"] = 6429,
         ["kill_count"] = 9,
         ["points"] = 7631.76,
       },
@@ -28953,7 +28953,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5040,
         ["kill_count"] = 9,
-        ["points"] = 8658.92,
+        ["points"] = 8659.13,
       },
     },
   },
@@ -29010,7 +29010,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9870,
         ["kill_count"] = 28,
-        ["points"] = 7368.09,
+        ["points"] = 7368.5,
       },
     },
   },
@@ -29067,7 +29067,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7740,
         ["kill_count"] = 23,
-        ["points"] = 7900.44,
+        ["points"] = 7900.77,
       },
     },
   },
@@ -29124,7 +29124,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7072,
         ["kill_count"] = 22,
-        ["points"] = 8090.45,
+        ["points"] = 8090.75,
       },
     },
   },
@@ -29169,7 +29169,7 @@ UWULogsData[2][2] = {
         ["points"] = 9570.96,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7523,
+        ["rank_raids"] = 7524,
         ["kill_count"] = 21,
         ["points"] = 7297.73,
       },
@@ -29181,7 +29181,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3061,
         ["kill_count"] = 18,
-        ["points"] = 9142.59,
+        ["points"] = 9142.72,
       },
     },
   },
@@ -29238,7 +29238,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4152,
         ["kill_count"] = 3,
-        ["points"] = 8874.06,
+        ["points"] = 8874.23,
       },
     },
   },
@@ -29295,7 +29295,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5153,
         ["kill_count"] = 8,
-        ["points"] = 8627.51,
+        ["points"] = 8627.73,
       },
     },
   },
@@ -29352,7 +29352,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 13042,
         ["kill_count"] = 7,
-        ["points"] = 6647.3,
+        ["points"] = 6647.83,
       },
     },
   },
@@ -29409,7 +29409,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3300,
         ["kill_count"] = 2,
-        ["points"] = 9084.48,
+        ["points"] = 9084.63,
       },
     },
   },
@@ -29466,7 +29466,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6955,
         ["kill_count"] = 8,
-        ["points"] = 8123.43,
+        ["points"] = 8123.72,
       },
     },
   },
@@ -29523,7 +29523,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3939,
         ["kill_count"] = 14,
-        ["points"] = 8929.02,
+        ["points"] = 8929.19,
       },
     },
   },
@@ -29580,7 +29580,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3884,
         ["kill_count"] = 7,
-        ["points"] = 8941.58,
+        ["points"] = 8941.75,
       },
     },
   },
@@ -29637,7 +29637,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4457,
         ["kill_count"] = 22,
-        ["points"] = 8795.54,
+        ["points"] = 8795.73,
       },
     },
   },
@@ -29694,7 +29694,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2788,
         ["kill_count"] = 15,
-        ["points"] = 9205.4,
+        ["points"] = 9205.53,
       },
     },
   },
@@ -29751,7 +29751,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2343,
         ["kill_count"] = 25,
-        ["points"] = 9302.76,
+        ["points"] = 9302.87,
       },
     },
   },
@@ -29808,7 +29808,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2266,
         ["kill_count"] = 7,
-        ["points"] = 9320.04,
+        ["points"] = 9320.14,
       },
     },
   },
@@ -29865,7 +29865,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4122,
         ["kill_count"] = 5,
-        ["points"] = 8878.77,
+        ["points"] = 8878.94,
       },
     },
   },
@@ -29922,7 +29922,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2559,
         ["kill_count"] = 12,
-        ["points"] = 9272.93,
+        ["points"] = 9273.04,
       },
     },
   },
@@ -29979,7 +29979,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4379,
         ["kill_count"] = 12,
-        ["points"] = 8820.67,
+        ["points"] = 8820.85,
       },
     },
   },
@@ -30036,7 +30036,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 302,
         ["kill_count"] = 10,
-        ["points"] = 9866.52,
+        ["points"] = 9866.54,
       },
     },
   },
@@ -30093,7 +30093,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1502,
         ["kill_count"] = 17,
-        ["points"] = 9541.46,
+        ["points"] = 9541.53,
       },
     },
   },
@@ -30150,7 +30150,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9229,
         ["kill_count"] = 20,
-        ["points"] = 7534.55,
+        ["points"] = 7534.93,
       },
     },
   },
@@ -30207,7 +30207,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2697,
         ["kill_count"] = 6,
-        ["points"] = 9225.82,
+        ["points"] = 9225.94,
       },
     },
   },
@@ -30264,7 +30264,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1784,
         ["kill_count"] = 13,
-        ["points"] = 9458.23,
+        ["points"] = 9458.31,
       },
     },
   },
@@ -30321,7 +30321,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6406,
         ["kill_count"] = 13,
-        ["points"] = 8294.6,
+        ["points"] = 8294.87,
       },
     },
   },
@@ -30378,7 +30378,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4693,
         ["kill_count"] = 20,
-        ["points"] = 8728.02,
+        ["points"] = 8728.21,
       },
     },
   },
@@ -30435,7 +30435,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2045,
         ["kill_count"] = 14,
-        ["points"] = 9379.71,
+        ["points"] = 9379.81,
       },
     },
   },
@@ -30480,7 +30480,7 @@ UWULogsData[2][2] = {
         ["points"] = 9505.95,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6563,
+        ["rank_raids"] = 6564,
         ["kill_count"] = 7,
         ["points"] = 7588.76,
       },
@@ -30492,7 +30492,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2469,
         ["kill_count"] = 8,
-        ["points"] = 9290.2,
+        ["points"] = 9290.31,
       },
     },
   },
@@ -30549,7 +30549,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7653,
         ["kill_count"] = 16,
-        ["points"] = 7933.42,
+        ["points"] = 7933.74,
       },
     },
   },
@@ -30606,7 +30606,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3526,
         ["kill_count"] = 26,
-        ["points"] = 9026.38,
+        ["points"] = 9026.53,
       },
     },
   },
@@ -30663,7 +30663,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2131,
         ["kill_count"] = 12,
-        ["points"] = 9356.16,
+        ["points"] = 9356.26,
       },
     },
   },
@@ -30708,7 +30708,7 @@ UWULogsData[2][2] = {
         ["points"] = 9166.92,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7489,
+        ["rank_raids"] = 7490,
         ["kill_count"] = 7,
         ["points"] = 7311.73,
       },
@@ -30720,7 +30720,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3735,
         ["kill_count"] = 5,
-        ["points"] = 8965.14,
+        ["points"] = 8965.3,
       },
     },
   },
@@ -30777,7 +30777,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1578,
         ["kill_count"] = 10,
-        ["points"] = 9521.04,
+        ["points"] = 9521.12,
       },
     },
   },
@@ -30834,7 +30834,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5033,
         ["kill_count"] = 16,
-        ["points"] = 8663.63,
+        ["points"] = 8663.84,
       },
     },
   },
@@ -30891,7 +30891,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4596,
         ["kill_count"] = 39,
-        ["points"] = 8754.71,
+        ["points"] = 8754.91,
       },
     },
   },
@@ -30948,7 +30948,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6569,
         ["kill_count"] = 21,
-        ["points"] = 8241.21,
+        ["points"] = 8241.48,
       },
     },
   },
@@ -31005,7 +31005,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 870,
         ["kill_count"] = 15,
-        ["points"] = 9709.48,
+        ["points"] = 9709.53,
       },
     },
   },
@@ -31062,7 +31062,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2251,
         ["kill_count"] = 6,
-        ["points"] = 9326.32,
+        ["points"] = 9326.42,
       },
     },
   },
@@ -31119,7 +31119,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5941,
         ["kill_count"] = 5,
-        ["points"] = 8421.8,
+        ["points"] = 8422.04,
       },
     },
   },
@@ -31176,7 +31176,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 685,
         ["kill_count"] = 12,
-        ["points"] = 9762.88,
+        ["points"] = 9762.91,
       },
     },
   },
@@ -31233,7 +31233,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5965,
         ["kill_count"] = 8,
-        ["points"] = 8417.09,
+        ["points"] = 8417.33,
       },
     },
   },
@@ -31290,7 +31290,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3309,
         ["kill_count"] = 3,
-        ["points"] = 9079.77,
+        ["points"] = 9079.92,
       },
     },
   },
@@ -31347,7 +31347,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4917,
         ["kill_count"] = 35,
-        ["points"] = 8688.76,
+        ["points"] = 8688.96,
       },
     },
   },
@@ -31404,7 +31404,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2146,
         ["kill_count"] = 5,
-        ["points"] = 9346.73,
+        ["points"] = 9346.84,
       },
     },
   },
@@ -31461,7 +31461,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2726,
         ["kill_count"] = 31,
-        ["points"] = 9217.96,
+        ["points"] = 9218.09,
       },
     },
   },
@@ -31506,9 +31506,9 @@ UWULogsData[2][2] = {
         ["points"] = 9306.93,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 13330,
+        ["rank_raids"] = 13331,
         ["kill_count"] = 12,
-        ["points"] = 6218.0,
+        ["points"] = 6217.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 706,
@@ -31518,7 +31518,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5668,
         ["kill_count"] = 8,
-        ["points"] = 8505.03,
+        ["points"] = 8505.26,
       },
     },
   },
@@ -31575,7 +31575,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5434,
         ["kill_count"] = 13,
-        ["points"] = 8563.13,
+        ["points"] = 8563.35,
       },
     },
   },
@@ -31632,7 +31632,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 598,
         ["kill_count"] = 5,
-        ["points"] = 9792.71,
+        ["points"] = 9792.75,
       },
     },
   },
@@ -31689,7 +31689,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 788,
         ["kill_count"] = 21,
-        ["points"] = 9740.89,
+        ["points"] = 9740.93,
       },
     },
   },
@@ -31746,7 +31746,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6138,
         ["kill_count"] = 3,
-        ["points"] = 8357.41,
+        ["points"] = 8357.67,
       },
     },
   },
@@ -31791,7 +31791,7 @@ UWULogsData[2][2] = {
         ["points"] = 9605.96,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7298,
+        ["rank_raids"] = 7299,
         ["kill_count"] = 5,
         ["points"] = 7365.74,
       },
@@ -31803,7 +31803,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2290,
         ["kill_count"] = 5,
-        ["points"] = 9312.19,
+        ["points"] = 9312.29,
       },
     },
   },
@@ -31860,7 +31860,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4475,
         ["kill_count"] = 8,
-        ["points"] = 8790.83,
+        ["points"] = 8791.02,
       },
     },
   },
@@ -31917,7 +31917,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3591,
         ["kill_count"] = 23,
-        ["points"] = 9007.54,
+        ["points"] = 9007.69,
       },
     },
   },
@@ -31974,7 +31974,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2886,
         ["kill_count"] = 21,
-        ["points"] = 9180.28,
+        ["points"] = 9180.41,
       },
     },
   },
@@ -32031,7 +32031,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4246,
         ["kill_count"] = 27,
-        ["points"] = 8855.21,
+        ["points"] = 8855.39,
       },
     },
   },
@@ -32088,7 +32088,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2857,
         ["kill_count"] = 28,
-        ["points"] = 9192.84,
+        ["points"] = 9192.97,
       },
     },
   },
@@ -32145,7 +32145,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4393,
         ["kill_count"] = 15,
-        ["points"] = 8812.81,
+        ["points"] = 8813.0,
       },
     },
   },
@@ -32202,7 +32202,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2164,
         ["kill_count"] = 32,
-        ["points"] = 9338.88,
+        ["points"] = 9338.99,
       },
     },
   },
@@ -32259,7 +32259,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3744,
         ["kill_count"] = 45,
-        ["points"] = 8960.43,
+        ["points"] = 8960.59,
       },
     },
   },
@@ -32316,7 +32316,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7069,
         ["kill_count"] = 15,
-        ["points"] = 8092.02,
+        ["points"] = 8092.32,
       },
     },
   },
@@ -32373,7 +32373,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 12815,
         ["kill_count"] = 7,
-        ["points"] = 6694.41,
+        ["points"] = 6694.93,
       },
     },
   },
@@ -32430,7 +32430,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5192,
         ["kill_count"] = 13,
-        ["points"] = 8621.23,
+        ["points"] = 8621.45,
       },
     },
   },
@@ -32487,7 +32487,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3698,
         ["kill_count"] = 15,
-        ["points"] = 8971.42,
+        ["points"] = 8971.58,
       },
     },
   },
@@ -32544,7 +32544,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7774,
         ["kill_count"] = 7,
-        ["points"] = 7895.73,
+        ["points"] = 7896.06,
       },
     },
   },
@@ -32601,7 +32601,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2901,
         ["kill_count"] = 41,
-        ["points"] = 9175.57,
+        ["points"] = 9175.69,
       },
     },
   },
@@ -32658,7 +32658,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8641,
         ["kill_count"] = 50,
-        ["points"] = 7685.3,
+        ["points"] = 7685.66,
       },
     },
   },
@@ -32715,7 +32715,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3184,
         ["kill_count"] = 2,
-        ["points"] = 9112.75,
+        ["points"] = 9112.89,
       },
     },
   },
@@ -32772,7 +32772,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5352,
         ["kill_count"] = 12,
-        ["points"] = 8589.82,
+        ["points"] = 8590.05,
       },
     },
   },
@@ -32829,7 +32829,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2264,
         ["kill_count"] = 13,
-        ["points"] = 9321.61,
+        ["points"] = 9321.71,
       },
     },
   },
@@ -32886,7 +32886,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4396,
         ["kill_count"] = 19,
-        ["points"] = 8811.24,
+        ["points"] = 8811.43,
       },
     },
   },
@@ -32943,7 +32943,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 10614,
         ["kill_count"] = 6,
-        ["points"] = 7212.63,
+        ["points"] = 7213.06,
       },
     },
   },
@@ -33000,7 +33000,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2835,
         ["kill_count"] = 12,
-        ["points"] = 9195.98,
+        ["points"] = 9196.11,
       },
     },
   },
@@ -33057,7 +33057,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4091,
         ["kill_count"] = 10,
-        ["points"] = 8886.62,
+        ["points"] = 8886.8,
       },
     },
   },
@@ -33114,7 +33114,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4222,
         ["kill_count"] = 18,
-        ["points"] = 8861.49,
+        ["points"] = 8861.67,
       },
     },
   },
@@ -33159,9 +33159,9 @@ UWULogsData[2][2] = {
         ["points"] = 9526.95,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 12521,
+        ["rank_raids"] = 12522,
         ["kill_count"] = 14,
-        ["points"] = 6298.9,
+        ["points"] = 6298.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 884,
@@ -33171,7 +33171,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1674,
         ["kill_count"] = 15,
-        ["points"] = 9489.64,
+        ["points"] = 9489.72,
       },
     },
   },
@@ -33228,7 +33228,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6591,
         ["kill_count"] = 8,
-        ["points"] = 8228.64,
+        ["points"] = 8228.92,
       },
     },
   },
@@ -33285,7 +33285,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3973,
         ["kill_count"] = 16,
-        ["points"] = 8916.46,
+        ["points"] = 8916.63,
       },
     },
   },
@@ -33346,67 +33346,10 @@ UWULogsData[2][2] = {
       },
     },
   },
-  ["Noaim"] = {
-    ["percentile"] = 89.62,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 587,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 1378,
-        ["kill_count"] = 12,
-        ["points"] = 9557.96,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 1964,
-        ["kill_count"] = 9,
-        ["points"] = 9185.3,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 1948,
-        ["kill_count"] = 12,
-        ["points"] = 9529.95,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 3223,
-        ["kill_count"] = 11,
-        ["points"] = 9189.92,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 3516,
-        ["kill_count"] = 11,
-        ["points"] = 9220.92,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 5950,
-        ["kill_count"] = 9,
-        ["points"] = 8420.15,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 2090,
-        ["kill_count"] = 10,
-        ["points"] = 9517.95,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5326,
-        ["kill_count"] = 11,
-        ["points"] = 7976.8,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 6246,
-        ["kill_count"] = 8,
-        ["points"] = 7678.42,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 2438,
-        ["kill_count"] = 6,
-        ["points"] = 9293.34,
-      },
-    },
-  },
   ["Pleeb"] = {
     ["percentile"] = 89.62,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 588,
+    ["overall_rank"] = 587,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2192,
@@ -33456,7 +33399,64 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5697,
         ["kill_count"] = 8,
-        ["points"] = 8497.17,
+        ["points"] = 8497.41,
+      },
+    },
+  },
+  ["Noaim"] = {
+    ["percentile"] = 89.62,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 588,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 1378,
+        ["kill_count"] = 12,
+        ["points"] = 9557.96,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 1964,
+        ["kill_count"] = 9,
+        ["points"] = 9185.3,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 1948,
+        ["kill_count"] = 12,
+        ["points"] = 9529.95,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 3223,
+        ["kill_count"] = 11,
+        ["points"] = 9189.92,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 3516,
+        ["kill_count"] = 11,
+        ["points"] = 9220.92,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 5950,
+        ["kill_count"] = 9,
+        ["points"] = 8420.15,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 2090,
+        ["kill_count"] = 10,
+        ["points"] = 9517.95,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 5326,
+        ["kill_count"] = 11,
+        ["points"] = 7976.8,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 6246,
+        ["kill_count"] = 8,
+        ["points"] = 7678.42,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 2438,
+        ["kill_count"] = 6,
+        ["points"] = 9293.45,
       },
     },
   },
@@ -33513,7 +33513,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3346,
         ["kill_count"] = 8,
-        ["points"] = 9075.06,
+        ["points"] = 9075.21,
       },
     },
   },
@@ -33570,7 +33570,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7731,
         ["kill_count"] = 6,
-        ["points"] = 7903.58,
+        ["points"] = 7903.91,
       },
     },
   },
@@ -33627,7 +33627,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2940,
         ["kill_count"] = 22,
-        ["points"] = 9167.71,
+        ["points"] = 9167.84,
       },
     },
   },
@@ -33684,7 +33684,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6535,
         ["kill_count"] = 30,
-        ["points"] = 8252.2,
+        ["points"] = 8252.47,
       },
     },
   },
@@ -33741,7 +33741,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6380,
         ["kill_count"] = 9,
-        ["points"] = 8300.88,
+        ["points"] = 8301.15,
       },
     },
   },
@@ -33798,7 +33798,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3251,
         ["kill_count"] = 24,
-        ["points"] = 9095.48,
+        ["points"] = 9095.62,
       },
     },
   },
@@ -33855,7 +33855,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3623,
         ["kill_count"] = 5,
-        ["points"] = 8994.97,
+        ["points"] = 8995.13,
       },
     },
   },
@@ -33912,7 +33912,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5348,
         ["kill_count"] = 17,
-        ["points"] = 8591.39,
+        ["points"] = 8591.62,
       },
     },
   },
@@ -33969,7 +33969,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 396,
         ["kill_count"] = 5,
-        ["points"] = 9844.54,
+        ["points"] = 9844.56,
       },
     },
   },
@@ -34026,7 +34026,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4883,
         ["kill_count"] = 13,
-        ["points"] = 8696.61,
+        ["points"] = 8696.81,
       },
     },
   },
@@ -34071,9 +34071,9 @@ UWULogsData[2][2] = {
         ["points"] = 9445.94,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 12322,
+        ["rank_raids"] = 12323,
         ["kill_count"] = 13,
-        ["points"] = 6318.8,
+        ["points"] = 6318.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1475,
@@ -34083,7 +34083,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5296,
         ["kill_count"] = 15,
-        ["points"] = 8599.25,
+        ["points"] = 8599.47,
       },
     },
   },
@@ -34128,7 +34128,7 @@ UWULogsData[2][2] = {
         ["points"] = 8735.87,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7531,
+        ["rank_raids"] = 7532,
         ["kill_count"] = 9,
         ["points"] = 7292.73,
       },
@@ -34140,7 +34140,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7033,
         ["kill_count"] = 8,
-        ["points"] = 8101.44,
+        ["points"] = 8101.74,
       },
     },
   },
@@ -34197,7 +34197,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4301,
         ["kill_count"] = 22,
-        ["points"] = 8836.37,
+        ["points"] = 8836.55,
       },
     },
   },
@@ -34254,7 +34254,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2561,
         ["kill_count"] = 22,
-        ["points"] = 9271.36,
+        ["points"] = 9271.47,
       },
     },
   },
@@ -34311,7 +34311,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2591,
         ["kill_count"] = 8,
-        ["points"] = 9261.93,
+        ["points"] = 9262.05,
       },
     },
   },
@@ -34368,7 +34368,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1008,
         ["kill_count"] = 8,
-        ["points"] = 9668.66,
+        ["points"] = 9668.71,
       },
     },
   },
@@ -34425,7 +34425,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4946,
         ["kill_count"] = 17,
-        ["points"] = 8680.9,
+        ["points"] = 8681.11,
       },
     },
   },
@@ -34482,7 +34482,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6675,
         ["kill_count"] = 11,
-        ["points"] = 8203.52,
+        ["points"] = 8203.8,
       },
     },
   },
@@ -34539,7 +34539,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7782,
         ["kill_count"] = 17,
-        ["points"] = 7892.59,
+        ["points"] = 7892.92,
       },
     },
   },
@@ -34596,7 +34596,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8011,
         ["kill_count"] = 17,
-        ["points"] = 7831.34,
+        ["points"] = 7831.68,
       },
     },
   },
@@ -34641,7 +34641,7 @@ UWULogsData[2][2] = {
         ["points"] = 9668.97,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8360,
+        ["rank_raids"] = 8361,
         ["kill_count"] = 15,
         ["points"] = 7071.71,
       },
@@ -34653,12 +34653,12 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5894,
         ["kill_count"] = 14,
-        ["points"] = 8437.5,
+        ["points"] = 8437.75,
       },
     },
   },
   ["Bootypolice"] = {
-    ["percentile"] = 89.27,
+    ["percentile"] = 89.28,
     ["server"] = "Icecrown",
     ["overall_rank"] = 611,
     ["bosses"] = {
@@ -34710,7 +34710,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7996,
         ["kill_count"] = 24,
-        ["points"] = 7837.63,
+        ["points"] = 7837.97,
       },
     },
   },
@@ -34767,7 +34767,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5580,
         ["kill_count"] = 5,
-        ["points"] = 8528.58,
+        ["points"] = 8528.81,
       },
     },
   },
@@ -34812,9 +34812,9 @@ UWULogsData[2][2] = {
         ["points"] = 9695.97,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 13203,
+        ["rank_raids"] = 13204,
         ["kill_count"] = 10,
-        ["points"] = 6230.7,
+        ["points"] = 6230.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3450,
@@ -34824,7 +34824,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1472,
         ["kill_count"] = 15,
-        ["points"] = 9547.74,
+        ["points"] = 9547.81,
       },
     },
   },
@@ -34881,7 +34881,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6719,
         ["kill_count"] = 57,
-        ["points"] = 8192.53,
+        ["points"] = 8192.81,
       },
     },
   },
@@ -34938,7 +34938,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6531,
         ["kill_count"] = 29,
-        ["points"] = 8255.34,
+        ["points"] = 8255.61,
       },
     },
   },
@@ -34995,7 +34995,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6278,
         ["kill_count"] = 9,
-        ["points"] = 8330.72,
+        ["points"] = 8330.98,
       },
     },
   },
@@ -35052,7 +35052,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6386,
         ["kill_count"] = 31,
-        ["points"] = 8297.74,
+        ["points"] = 8298.01,
       },
     },
   },
@@ -35109,7 +35109,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 10762,
         ["kill_count"] = 22,
-        ["points"] = 7187.5,
+        ["points"] = 7187.94,
       },
     },
   },
@@ -35166,7 +35166,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7229,
         ["kill_count"] = 14,
-        ["points"] = 8041.77,
+        ["points"] = 8042.08,
       },
     },
   },
@@ -35223,7 +35223,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5127,
         ["kill_count"] = 14,
-        ["points"] = 8632.22,
+        ["points"] = 8632.44,
       },
     },
   },
@@ -35280,7 +35280,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3146,
         ["kill_count"] = 18,
-        ["points"] = 9119.03,
+        ["points"] = 9119.17,
       },
     },
   },
@@ -35337,7 +35337,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2595,
         ["kill_count"] = 9,
-        ["points"] = 9258.79,
+        ["points"] = 9258.91,
       },
     },
   },
@@ -35394,7 +35394,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4888,
         ["kill_count"] = 7,
-        ["points"] = 8695.04,
+        ["points"] = 8695.24,
       },
     },
   },
@@ -35451,7 +35451,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3906,
         ["kill_count"] = 9,
-        ["points"] = 8936.87,
+        ["points"] = 8937.04,
       },
     },
   },
@@ -35508,7 +35508,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6661,
         ["kill_count"] = 13,
-        ["points"] = 8209.8,
+        ["points"] = 8210.08,
       },
     },
   },
@@ -35565,7 +35565,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5029,
         ["kill_count"] = 14,
-        ["points"] = 8666.77,
+        ["points"] = 8666.98,
       },
     },
   },
@@ -35622,7 +35622,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5030,
         ["kill_count"] = 15,
-        ["points"] = 8665.2,
+        ["points"] = 8665.41,
       },
     },
   },
@@ -35679,7 +35679,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7178,
         ["kill_count"] = 16,
-        ["points"] = 8062.19,
+        ["points"] = 8062.49,
       },
     },
   },
@@ -35736,7 +35736,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6327,
         ["kill_count"] = 13,
-        ["points"] = 8318.15,
+        ["points"] = 8318.42,
       },
     },
   },
@@ -35793,7 +35793,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2704,
         ["kill_count"] = 16,
-        ["points"] = 9224.25,
+        ["points"] = 9224.37,
       },
     },
   },
@@ -35850,7 +35850,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3501,
         ["kill_count"] = 5,
-        ["points"] = 9031.09,
+        ["points"] = 9031.25,
       },
     },
   },
@@ -35907,7 +35907,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2217,
         ["kill_count"] = 16,
-        ["points"] = 9331.03,
+        ["points"] = 9331.14,
       },
     },
   },
@@ -35964,7 +35964,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1127,
         ["kill_count"] = 7,
-        ["points"] = 9637.25,
+        ["points"] = 9637.31,
       },
     },
   },
@@ -36021,7 +36021,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7111,
         ["kill_count"] = 13,
-        ["points"] = 8082.6,
+        ["points"] = 8082.9,
       },
     },
   },
@@ -36078,7 +36078,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2439,
         ["kill_count"] = 30,
-        ["points"] = 9291.77,
+        ["points"] = 9291.88,
       },
     },
   },
@@ -36135,7 +36135,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4909,
         ["kill_count"] = 17,
-        ["points"] = 8690.33,
+        ["points"] = 8690.53,
       },
     },
   },
@@ -36192,7 +36192,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1700,
         ["kill_count"] = 7,
-        ["points"] = 9483.35,
+        ["points"] = 9483.44,
       },
     },
   },
@@ -36249,7 +36249,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2640,
         ["kill_count"] = 7,
-        ["points"] = 9241.52,
+        ["points"] = 9241.64,
       },
     },
   },
@@ -36306,7 +36306,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8644,
         ["kill_count"] = 25,
-        ["points"] = 7683.73,
+        ["points"] = 7684.09,
       },
     },
   },
@@ -36351,7 +36351,7 @@ UWULogsData[2][2] = {
         ["points"] = 9776.98,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 9380,
+        ["rank_raids"] = 9381,
         ["kill_count"] = 11,
         ["points"] = 6817.68,
       },
@@ -36363,7 +36363,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7716,
         ["kill_count"] = 9,
-        ["points"] = 7906.72,
+        ["points"] = 7907.05,
       },
     },
   },
@@ -36420,7 +36420,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1638,
         ["kill_count"] = 24,
-        ["points"] = 9502.2,
+        ["points"] = 9502.28,
       },
     },
   },
@@ -36465,7 +36465,7 @@ UWULogsData[2][2] = {
         ["points"] = 9154.92,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 11585,
+        ["rank_raids"] = 11586,
         ["kill_count"] = 6,
         ["points"] = 6425.64,
       },
@@ -36477,7 +36477,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1896,
         ["kill_count"] = 6,
-        ["points"] = 9420.54,
+        ["points"] = 9420.63,
       },
     },
   },
@@ -36534,7 +36534,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3457,
         ["kill_count"] = 8,
-        ["points"] = 9043.66,
+        ["points"] = 9043.81,
       },
     },
   },
@@ -36591,7 +36591,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8851,
         ["kill_count"] = 11,
-        ["points"] = 7636.62,
+        ["points"] = 7636.99,
       },
     },
   },
@@ -36636,7 +36636,7 @@ UWULogsData[2][2] = {
         ["points"] = 9228.92,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 10314,
+        ["rank_raids"] = 10315,
         ["kill_count"] = 11,
         ["points"] = 6640.66,
       },
@@ -36648,7 +36648,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2482,
         ["kill_count"] = 8,
-        ["points"] = 9288.63,
+        ["points"] = 9288.74,
       },
     },
   },
@@ -36705,7 +36705,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6236,
         ["kill_count"] = 16,
-        ["points"] = 8337.0,
+        ["points"] = 8337.26,
       },
     },
   },
@@ -36762,7 +36762,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5490,
         ["kill_count"] = 4,
-        ["points"] = 8548.99,
+        ["points"] = 8549.22,
       },
     },
   },
@@ -36819,7 +36819,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2764,
         ["kill_count"] = 7,
-        ["points"] = 9210.11,
+        ["points"] = 9210.24,
       },
     },
   },
@@ -36876,7 +36876,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1789,
         ["kill_count"] = 9,
-        ["points"] = 9456.66,
+        ["points"] = 9456.74,
       },
     },
   },
@@ -36933,7 +36933,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3757,
         ["kill_count"] = 15,
-        ["points"] = 8957.29,
+        ["points"] = 8957.45,
       },
     },
   },
@@ -36990,7 +36990,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9058,
         ["kill_count"] = 4,
-        ["points"] = 7586.37,
+        ["points"] = 7586.75,
       },
     },
   },
@@ -37047,7 +37047,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8724,
         ["kill_count"] = 8,
-        ["points"] = 7671.17,
+        ["points"] = 7671.53,
       },
     },
   },
@@ -37104,7 +37104,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7707,
         ["kill_count"] = 47,
-        ["points"] = 7913.0,
+        ["points"] = 7913.33,
       },
     },
   },
@@ -37161,7 +37161,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7201,
         ["kill_count"] = 10,
-        ["points"] = 8049.62,
+        ["points"] = 8049.93,
       },
     },
   },
@@ -37218,7 +37218,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4707,
         ["kill_count"] = 12,
-        ["points"] = 8726.44,
+        ["points"] = 8726.64,
       },
     },
   },
@@ -37275,7 +37275,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2864,
         ["kill_count"] = 7,
-        ["points"] = 9191.27,
+        ["points"] = 9191.4,
       },
     },
   },
@@ -37332,7 +37332,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2873,
         ["kill_count"] = 17,
-        ["points"] = 9188.13,
+        ["points"] = 9188.26,
       },
     },
   },
@@ -37389,7 +37389,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6678,
         ["kill_count"] = 13,
-        ["points"] = 8201.95,
+        ["points"] = 8202.23,
       },
     },
   },
@@ -37446,7 +37446,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6113,
         ["kill_count"] = 9,
-        ["points"] = 8368.4,
+        ["points"] = 8368.66,
       },
     },
   },
@@ -37503,7 +37503,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1867,
         ["kill_count"] = 11,
-        ["points"] = 9431.53,
+        ["points"] = 9431.62,
       },
     },
   },
@@ -37560,7 +37560,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4419,
         ["kill_count"] = 8,
-        ["points"] = 8803.39,
+        ["points"] = 8803.58,
       },
     },
   },
@@ -37617,7 +37617,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4483,
         ["kill_count"] = 6,
-        ["points"] = 8787.69,
+        ["points"] = 8787.88,
       },
     },
   },
@@ -37662,7 +37662,7 @@ UWULogsData[2][2] = {
         ["points"] = 9575.96,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6481,
+        ["rank_raids"] = 6482,
         ["kill_count"] = 51,
         ["points"] = 7614.76,
       },
@@ -37674,7 +37674,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4623,
         ["kill_count"] = 53,
-        ["points"] = 8748.43,
+        ["points"] = 8748.63,
       },
     },
   },
@@ -37731,7 +37731,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3942,
         ["kill_count"] = 12,
-        ["points"] = 8925.88,
+        ["points"] = 8926.05,
       },
     },
   },
@@ -37776,7 +37776,7 @@ UWULogsData[2][2] = {
         ["points"] = 9117.91,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6733,
+        ["rank_raids"] = 6734,
         ["kill_count"] = 11,
         ["points"] = 7539.75,
       },
@@ -37788,7 +37788,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3982,
         ["kill_count"] = 11,
-        ["points"] = 8913.32,
+        ["points"] = 8913.49,
       },
     },
   },
@@ -37845,7 +37845,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8357,
         ["kill_count"] = 11,
-        ["points"] = 7754.4,
+        ["points"] = 7754.75,
       },
     },
   },
@@ -37902,7 +37902,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2931,
         ["kill_count"] = 16,
-        ["points"] = 9172.42,
+        ["points"] = 9172.55,
       },
     },
   },
@@ -37947,7 +37947,7 @@ UWULogsData[2][2] = {
         ["points"] = 8978.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7020,
+        ["rank_raids"] = 7021,
         ["kill_count"] = 6,
         ["points"] = 7454.75,
       },
@@ -37959,7 +37959,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3539,
         ["kill_count"] = 4,
-        ["points"] = 9021.67,
+        ["points"] = 9021.82,
       },
     },
   },
@@ -38016,7 +38016,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3625,
         ["kill_count"] = 20,
-        ["points"] = 8993.4,
+        ["points"] = 8993.56,
       },
     },
   },
@@ -38073,7 +38073,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5897,
         ["kill_count"] = 6,
-        ["points"] = 8435.93,
+        ["points"] = 8436.18,
       },
     },
   },
@@ -38130,7 +38130,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6405,
         ["kill_count"] = 54,
-        ["points"] = 8296.17,
+        ["points"] = 8296.44,
       },
     },
   },
@@ -38187,7 +38187,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6996,
         ["kill_count"] = 8,
-        ["points"] = 8109.3,
+        ["points"] = 8109.59,
       },
     },
   },
@@ -38244,7 +38244,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 12386,
         ["kill_count"] = 15,
-        ["points"] = 6807.47,
+        ["points"] = 6807.98,
       },
     },
   },
@@ -38301,7 +38301,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4550,
         ["kill_count"] = 22,
-        ["points"] = 8768.84,
+        ["points"] = 8769.04,
       },
     },
   },
@@ -38358,7 +38358,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5702,
         ["kill_count"] = 19,
-        ["points"] = 8494.03,
+        ["points"] = 8494.27,
       },
     },
   },
@@ -38415,7 +38415,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3659,
         ["kill_count"] = 3,
-        ["points"] = 8985.55,
+        ["points"] = 8985.71,
       },
     },
   },
@@ -38472,7 +38472,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3165,
         ["kill_count"] = 11,
-        ["points"] = 9115.89,
+        ["points"] = 9116.03,
       },
     },
   },
@@ -38529,7 +38529,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2663,
         ["kill_count"] = 12,
-        ["points"] = 9236.81,
+        ["points"] = 9236.93,
       },
     },
   },
@@ -38586,7 +38586,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3032,
         ["kill_count"] = 4,
-        ["points"] = 9148.87,
+        ["points"] = 9149.0,
       },
     },
   },
@@ -38643,7 +38643,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8889,
         ["kill_count"] = 14,
-        ["points"] = 7622.49,
+        ["points"] = 7622.86,
       },
     },
   },
@@ -38700,7 +38700,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8091,
         ["kill_count"] = 29,
-        ["points"] = 7812.5,
+        ["points"] = 7812.84,
       },
     },
   },
@@ -38757,7 +38757,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6608,
         ["kill_count"] = 5,
-        ["points"] = 8225.5,
+        ["points"] = 8225.78,
       },
     },
   },
@@ -38814,7 +38814,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5672,
         ["kill_count"] = 4,
-        ["points"] = 8501.88,
+        ["points"] = 8502.12,
       },
     },
   },
@@ -38871,7 +38871,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2638,
         ["kill_count"] = 3,
-        ["points"] = 9243.09,
+        ["points"] = 9243.21,
       },
     },
   },
@@ -38916,9 +38916,9 @@ UWULogsData[2][2] = {
         ["points"] = 9351.94,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 19721,
+        ["rank_raids"] = 19722,
         ["kill_count"] = 6,
-        ["points"] = 5578.9,
+        ["points"] = 5578.8,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1824,
@@ -38928,7 +38928,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1459,
         ["kill_count"] = 6,
-        ["points"] = 9554.02,
+        ["points"] = 9554.09,
       },
     },
   },
@@ -38973,9 +38973,9 @@ UWULogsData[2][2] = {
         ["points"] = 8345.83,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 16163,
+        ["rank_raids"] = 16164,
         ["kill_count"] = 5,
-        ["points"] = 5934.7,
+        ["points"] = 5934.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1406,
@@ -38985,7 +38985,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1066,
         ["kill_count"] = 6,
-        ["points"] = 9649.81,
+        ["points"] = 9649.87,
       },
     },
   },
@@ -39042,7 +39042,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6804,
         ["kill_count"] = 15,
-        ["points"] = 8162.69,
+        ["points"] = 8162.98,
       },
     },
   },
@@ -39099,7 +39099,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5246,
         ["kill_count"] = 13,
-        ["points"] = 8608.67,
+        ["points"] = 8608.89,
       },
     },
   },
@@ -39156,7 +39156,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2970,
         ["kill_count"] = 15,
-        ["points"] = 9159.86,
+        ["points"] = 9159.99,
       },
     },
   },
@@ -39213,7 +39213,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9706,
         ["kill_count"] = 18,
-        ["points"] = 7419.91,
+        ["points"] = 7420.32,
       },
     },
   },
@@ -39258,9 +39258,9 @@ UWULogsData[2][2] = {
         ["points"] = 8858.89,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 12393,
+        ["rank_raids"] = 12394,
         ["kill_count"] = 10,
-        ["points"] = 6311.7,
+        ["points"] = 6311.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 862,
@@ -39270,7 +39270,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4220,
         ["kill_count"] = 10,
-        ["points"] = 8863.07,
+        ["points"] = 8863.24,
       },
     },
   },
@@ -39327,7 +39327,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5841,
         ["kill_count"] = 1,
-        ["points"] = 8445.35,
+        ["points"] = 8445.6,
       },
     },
   },
@@ -39384,7 +39384,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3871,
         ["kill_count"] = 2,
-        ["points"] = 8944.72,
+        ["points"] = 8944.89,
       },
     },
   },
@@ -39441,7 +39441,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1994,
         ["kill_count"] = 5,
-        ["points"] = 9389.13,
+        ["points"] = 9389.23,
       },
     },
   },
@@ -39486,7 +39486,7 @@ UWULogsData[2][2] = {
         ["points"] = 8763.88,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6529,
+        ["rank_raids"] = 6530,
         ["kill_count"] = 11,
         ["points"] = 7597.76,
       },
@@ -39498,7 +39498,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4333,
         ["kill_count"] = 8,
-        ["points"] = 8831.66,
+        ["points"] = 8831.84,
       },
     },
   },
@@ -39555,7 +39555,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6483,
         ["kill_count"] = 9,
-        ["points"] = 8272.61,
+        ["points"] = 8272.88,
       },
     },
   },
@@ -39600,7 +39600,7 @@ UWULogsData[2][2] = {
         ["points"] = 8874.89,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6275,
+        ["rank_raids"] = 6276,
         ["kill_count"] = 6,
         ["points"] = 7680.77,
       },
@@ -39612,7 +39612,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2757,
         ["kill_count"] = 5,
-        ["points"] = 9213.25,
+        ["points"] = 9213.38,
       },
     },
   },
@@ -39669,7 +39669,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7032,
         ["kill_count"] = 84,
-        ["points"] = 8103.02,
+        ["points"] = 8103.31,
       },
     },
   },
@@ -39726,7 +39726,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3452,
         ["kill_count"] = 26,
-        ["points"] = 9045.23,
+        ["points"] = 9045.38,
       },
     },
   },
@@ -39783,7 +39783,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4403,
         ["kill_count"] = 14,
-        ["points"] = 8809.67,
+        ["points"] = 8809.86,
       },
     },
   },
@@ -39840,7 +39840,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2961,
         ["kill_count"] = 9,
-        ["points"] = 9161.43,
+        ["points"] = 9161.56,
       },
     },
   },
@@ -39897,7 +39897,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3682,
         ["kill_count"] = 10,
-        ["points"] = 8976.13,
+        ["points"] = 8976.29,
       },
     },
   },
@@ -39954,7 +39954,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6787,
         ["kill_count"] = 39,
-        ["points"] = 8167.4,
+        ["points"] = 8167.69,
       },
     },
   },
@@ -39999,7 +39999,7 @@ UWULogsData[2][2] = {
         ["points"] = 8849.88,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8563,
+        ["rank_raids"] = 8564,
         ["kill_count"] = 25,
         ["points"] = 7006.7,
       },
@@ -40011,7 +40011,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6011,
         ["kill_count"] = 23,
-        ["points"] = 8401.38,
+        ["points"] = 8401.63,
       },
     },
   },
@@ -40068,7 +40068,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5419,
         ["kill_count"] = 6,
-        ["points"] = 8569.41,
+        ["points"] = 8569.63,
       },
     },
   },
@@ -40125,7 +40125,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4527,
         ["kill_count"] = 5,
-        ["points"] = 8773.56,
+        ["points"] = 8773.75,
       },
     },
   },
@@ -40182,7 +40182,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5429,
         ["kill_count"] = 25,
-        ["points"] = 8566.27,
+        ["points"] = 8566.49,
       },
     },
   },
@@ -40239,7 +40239,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4548,
         ["kill_count"] = 14,
-        ["points"] = 8770.41,
+        ["points"] = 8770.61,
       },
     },
   },
@@ -40296,7 +40296,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6937,
         ["kill_count"] = 22,
-        ["points"] = 8128.14,
+        ["points"] = 8128.43,
       },
     },
   },
@@ -40353,7 +40353,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3716,
         ["kill_count"] = 41,
-        ["points"] = 8968.28,
+        ["points"] = 8968.44,
       },
     },
   },
@@ -40410,7 +40410,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5084,
         ["kill_count"] = 5,
-        ["points"] = 8643.22,
+        ["points"] = 8643.43,
       },
     },
   },
@@ -40467,7 +40467,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2201,
         ["kill_count"] = 3,
-        ["points"] = 9332.6,
+        ["points"] = 9332.71,
       },
     },
   },
@@ -40524,7 +40524,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 12871,
         ["kill_count"] = 17,
-        ["points"] = 6683.42,
+        ["points"] = 6683.94,
       },
     },
   },
@@ -40581,7 +40581,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 13525,
         ["kill_count"] = 18,
-        ["points"] = 6527.95,
+        ["points"] = 6528.5,
       },
     },
   },
@@ -40638,7 +40638,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5238,
         ["kill_count"] = 15,
-        ["points"] = 8610.24,
+        ["points"] = 8610.46,
       },
     },
   },
@@ -40695,7 +40695,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6383,
         ["kill_count"] = 22,
-        ["points"] = 8299.31,
+        ["points"] = 8299.58,
       },
     },
   },
@@ -40752,7 +40752,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6450,
         ["kill_count"] = 9,
-        ["points"] = 8280.46,
+        ["points"] = 8280.73,
       },
     },
   },
@@ -40809,7 +40809,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4318,
         ["kill_count"] = 14,
-        ["points"] = 8834.8,
+        ["points"] = 8834.98,
       },
     },
   },
@@ -40866,7 +40866,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 682,
         ["kill_count"] = 11,
-        ["points"] = 9766.02,
+        ["points"] = 9766.05,
       },
     },
   },
@@ -40923,7 +40923,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5920,
         ["kill_count"] = 20,
-        ["points"] = 8426.51,
+        ["points"] = 8426.75,
       },
     },
   },
@@ -40980,7 +40980,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7564,
         ["kill_count"] = 27,
-        ["points"] = 7966.39,
+        ["points"] = 7966.71,
       },
     },
   },
@@ -41037,7 +41037,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5222,
         ["kill_count"] = 14,
-        ["points"] = 8611.81,
+        ["points"] = 8612.03,
       },
     },
   },
@@ -41094,7 +41094,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5414,
         ["kill_count"] = 10,
-        ["points"] = 8570.98,
+        ["points"] = 8571.2,
       },
     },
   },
@@ -41151,7 +41151,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3675,
         ["kill_count"] = 8,
-        ["points"] = 8977.7,
+        ["points"] = 8977.86,
       },
     },
   },
@@ -41208,7 +41208,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 10048,
         ["kill_count"] = 2,
-        ["points"] = 7331.97,
+        ["points"] = 7332.39,
       },
     },
   },
@@ -41265,7 +41265,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5458,
         ["kill_count"] = 8,
-        ["points"] = 8556.85,
+        ["points"] = 8557.07,
       },
     },
   },
@@ -41322,7 +41322,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3601,
         ["kill_count"] = 5,
-        ["points"] = 9002.83,
+        ["points"] = 9002.98,
       },
     },
   },
@@ -41379,7 +41379,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2974,
         ["kill_count"] = 14,
-        ["points"] = 9158.29,
+        ["points"] = 9158.42,
       },
     },
   },
@@ -41436,7 +41436,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 11322,
         ["kill_count"] = 23,
-        ["points"] = 7072.86,
+        ["points"] = 7073.32,
       },
     },
   },
@@ -41493,7 +41493,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6726,
         ["kill_count"] = 19,
-        ["points"] = 8187.81,
+        ["points"] = 8188.1,
       },
     },
   },
@@ -41550,12 +41550,12 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4494,
         ["kill_count"] = 15,
-        ["points"] = 8782.98,
+        ["points"] = 8783.17,
       },
     },
   },
   ["Kera"] = {
-    ["percentile"] = 87.6,
+    ["percentile"] = 87.61,
     ["server"] = "Icecrown",
     ["overall_rank"] = 732,
     ["bosses"] = {
@@ -41607,7 +41607,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3756,
         ["kill_count"] = 15,
-        ["points"] = 8958.86,
+        ["points"] = 8959.02,
       },
     },
   },
@@ -41664,7 +41664,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3481,
         ["kill_count"] = 12,
-        ["points"] = 9035.8,
+        ["points"] = 9035.96,
       },
     },
   },
@@ -41721,7 +41721,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4764,
         ["kill_count"] = 16,
-        ["points"] = 8718.59,
+        ["points"] = 8718.79,
       },
     },
   },
@@ -41766,7 +41766,7 @@ UWULogsData[2][2] = {
         ["points"] = 9698.97,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7841,
+        ["rank_raids"] = 7842,
         ["kill_count"] = 21,
         ["points"] = 7202.72,
       },
@@ -41778,7 +41778,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4799,
         ["kill_count"] = 17,
-        ["points"] = 8712.31,
+        ["points"] = 8712.51,
       },
     },
   },
@@ -41835,7 +41835,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8782,
         ["kill_count"] = 1,
-        ["points"] = 7650.75,
+        ["points"] = 7651.12,
       },
     },
   },
@@ -41892,7 +41892,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 11883,
         ["kill_count"] = 13,
-        ["points"] = 6931.53,
+        ["points"] = 6932.01,
       },
     },
   },
@@ -41949,7 +41949,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9140,
         ["kill_count"] = 9,
-        ["points"] = 7558.1,
+        ["points"] = 7558.49,
       },
     },
   },
@@ -41994,7 +41994,7 @@ UWULogsData[2][2] = {
         ["points"] = 9739.97,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6315,
+        ["rank_raids"] = 6316,
         ["kill_count"] = 21,
         ["points"] = 7667.77,
       },
@@ -42006,7 +42006,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5669,
         ["kill_count"] = 22,
-        ["points"] = 8503.45,
+        ["points"] = 8503.69,
       },
     },
   },
@@ -42051,7 +42051,7 @@ UWULogsData[2][2] = {
         ["points"] = 9060.91,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7659,
+        ["rank_raids"] = 7660,
         ["kill_count"] = 16,
         ["points"] = 7258.73,
       },
@@ -42063,12 +42063,12 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7914,
         ["kill_count"] = 17,
-        ["points"] = 7862.75,
+        ["points"] = 7863.09,
       },
     },
   },
   ["Quechucha"] = {
-    ["percentile"] = 87.46,
+    ["percentile"] = 87.47,
     ["server"] = "Icecrown",
     ["overall_rank"] = 741,
     ["bosses"] = {
@@ -42120,7 +42120,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7409,
         ["kill_count"] = 31,
-        ["points"] = 7993.09,
+        ["points"] = 7993.41,
       },
     },
   },
@@ -42177,7 +42177,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7949,
         ["kill_count"] = 15,
-        ["points"] = 7845.48,
+        ["points"] = 7845.82,
       },
     },
   },
@@ -42222,9 +42222,9 @@ UWULogsData[2][2] = {
         ["points"] = 9276.93,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 16004,
+        ["rank_raids"] = 16005,
         ["kill_count"] = 17,
-        ["points"] = 5950.6,
+        ["points"] = 5950.5,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3054,
@@ -42234,7 +42234,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3070,
         ["kill_count"] = 17,
-        ["points"] = 9137.88,
+        ["points"] = 9138.01,
       },
     },
   },
@@ -42279,7 +42279,7 @@ UWULogsData[2][2] = {
         ["points"] = 9177.92,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8813,
+        ["rank_raids"] = 8814,
         ["kill_count"] = 7,
         ["points"] = 6949.69,
       },
@@ -42291,7 +42291,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1953,
         ["kill_count"] = 7,
-        ["points"] = 9401.7,
+        ["points"] = 9401.79,
       },
     },
   },
@@ -42348,7 +42348,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2138,
         ["kill_count"] = 6,
-        ["points"] = 9351.44,
+        ["points"] = 9351.55,
       },
     },
   },
@@ -42405,7 +42405,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5772,
         ["kill_count"] = 19,
-        ["points"] = 8464.2,
+        ["points"] = 8464.44,
       },
     },
   },
@@ -42462,7 +42462,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4360,
         ["kill_count"] = 16,
-        ["points"] = 8823.81,
+        ["points"] = 8823.99,
       },
     },
   },
@@ -42519,7 +42519,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3445,
         ["kill_count"] = 11,
-        ["points"] = 9048.37,
+        ["points"] = 9048.52,
       },
     },
   },
@@ -42576,7 +42576,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3467,
         ["kill_count"] = 6,
-        ["points"] = 9038.94,
+        ["points"] = 9039.1,
       },
     },
   },
@@ -42633,7 +42633,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6673,
         ["kill_count"] = 6,
-        ["points"] = 8205.09,
+        ["points"] = 8205.37,
       },
     },
   },
@@ -42690,12 +42690,12 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8162,
         ["kill_count"] = 8,
-        ["points"] = 7801.51,
+        ["points"] = 7801.85,
       },
     },
   },
   ["Sunhuntxx"] = {
-    ["percentile"] = 87.34,
+    ["percentile"] = 87.35,
     ["server"] = "Icecrown",
     ["overall_rank"] = 752,
     ["bosses"] = {
@@ -42747,7 +42747,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 10854,
         ["kill_count"] = 20,
-        ["points"] = 7167.09,
+        ["points"] = 7167.53,
       },
     },
   },
@@ -42804,7 +42804,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6832,
         ["kill_count"] = 2,
-        ["points"] = 8159.55,
+        ["points"] = 8159.84,
       },
     },
   },
@@ -42861,7 +42861,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3967,
         ["kill_count"] = 21,
-        ["points"] = 8921.17,
+        ["points"] = 8921.34,
       },
     },
   },
@@ -42906,7 +42906,7 @@ UWULogsData[2][2] = {
         ["points"] = 6777.68,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6902,
+        ["rank_raids"] = 6903,
         ["kill_count"] = 4,
         ["points"] = 7487.75,
       },
@@ -42918,7 +42918,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1149,
         ["kill_count"] = 4,
-        ["points"] = 9632.54,
+        ["points"] = 9632.6,
       },
     },
   },
@@ -42963,9 +42963,9 @@ UWULogsData[2][2] = {
         ["points"] = 6904.69,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 14933,
+        ["rank_raids"] = 14934,
         ["kill_count"] = 7,
-        ["points"] = 6057.7,
+        ["points"] = 6057.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1494,
@@ -42975,7 +42975,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4100,
         ["kill_count"] = 12,
-        ["points"] = 8883.48,
+        ["points"] = 8883.66,
       },
     },
   },
@@ -43032,7 +43032,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3598,
         ["kill_count"] = 17,
-        ["points"] = 9005.97,
+        ["points"] = 9006.12,
       },
     },
   },
@@ -43077,7 +43077,7 @@ UWULogsData[2][2] = {
         ["points"] = 9587.96,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7727,
+        ["rank_raids"] = 7728,
         ["kill_count"] = 14,
         ["points"] = 7236.72,
       },
@@ -43089,7 +43089,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4271,
         ["kill_count"] = 10,
-        ["points"] = 8845.79,
+        ["points"] = 8845.97,
       },
     },
   },
@@ -43146,7 +43146,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1992,
         ["kill_count"] = 6,
-        ["points"] = 9390.7,
+        ["points"] = 9390.8,
       },
     },
   },
@@ -43203,12 +43203,12 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7343,
         ["kill_count"] = 45,
-        ["points"] = 8008.79,
+        ["points"] = 8009.11,
       },
     },
   },
   ["Jolydb"] = {
-    ["percentile"] = 87.19,
+    ["percentile"] = 87.2,
     ["server"] = "Icecrown",
     ["overall_rank"] = 761,
     ["bosses"] = {
@@ -43260,7 +43260,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9927,
         ["kill_count"] = 10,
-        ["points"] = 7353.96,
+        ["points"] = 7354.37,
       },
     },
   },
@@ -43317,7 +43317,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3126,
         ["kill_count"] = 19,
-        ["points"] = 9125.31,
+        ["points"] = 9125.45,
       },
     },
   },
@@ -43362,9 +43362,9 @@ UWULogsData[2][2] = {
         ["points"] = 7561.76,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 20540,
+        ["rank_raids"] = 20541,
         ["kill_count"] = 2,
-        ["points"] = 5497.0,
+        ["points"] = 5496.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2741,
@@ -43374,7 +43374,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1940,
         ["kill_count"] = 2,
-        ["points"] = 9403.27,
+        ["points"] = 9403.36,
       },
     },
   },
@@ -43419,7 +43419,7 @@ UWULogsData[2][2] = {
         ["points"] = 9473.95,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 9812,
+        ["rank_raids"] = 9813,
         ["kill_count"] = 26,
         ["points"] = 6734.67,
       },
@@ -43431,7 +43431,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8177,
         ["kill_count"] = 19,
-        ["points"] = 7799.94,
+        ["points"] = 7800.28,
       },
     },
   },
@@ -43488,7 +43488,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5628,
         ["kill_count"] = 8,
-        ["points"] = 8516.02,
+        ["points"] = 8516.25,
       },
     },
   },
@@ -43545,7 +43545,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5777,
         ["kill_count"] = 7,
-        ["points"] = 8459.48,
+        ["points"] = 8459.73,
       },
     },
   },
@@ -43590,7 +43590,7 @@ UWULogsData[2][2] = {
         ["points"] = 9094.91,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 11171,
+        ["rank_raids"] = 11172,
         ["kill_count"] = 7,
         ["points"] = 6500.65,
       },
@@ -43602,7 +43602,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3162,
         ["kill_count"] = 7,
-        ["points"] = 9117.46,
+        ["points"] = 9117.6,
       },
     },
   },
@@ -43657,7 +43657,7 @@ UWULogsData[2][2] = {
         ["points"] = 8987.29,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 23016,
+        ["rank_raids"] = 23017,
         ["kill_count"] = 2,
         ["points"] = 5583.56,
       },
@@ -43716,7 +43716,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6087,
         ["kill_count"] = 11,
-        ["points"] = 8379.4,
+        ["points"] = 8379.65,
       },
     },
   },
@@ -43773,7 +43773,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 14080,
         ["kill_count"] = 5,
-        ["points"] = 6392.9,
+        ["points"] = 6393.47,
       },
     },
   },
@@ -43830,7 +43830,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6736,
         ["kill_count"] = 17,
-        ["points"] = 8181.53,
+        ["points"] = 8181.82,
       },
     },
   },
@@ -43887,7 +43887,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3758,
         ["kill_count"] = 36,
-        ["points"] = 8955.72,
+        ["points"] = 8955.88,
       },
     },
   },
@@ -43944,7 +43944,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7011,
         ["kill_count"] = 5,
-        ["points"] = 8104.59,
+        ["points"] = 8104.88,
       },
     },
   },
@@ -44001,7 +44001,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 11306,
         ["kill_count"] = 7,
-        ["points"] = 7079.15,
+        ["points"] = 7079.6,
       },
     },
   },
@@ -44058,7 +44058,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 10192,
         ["kill_count"] = 16,
-        ["points"] = 7295.85,
+        ["points"] = 7296.28,
       },
     },
   },
@@ -44115,7 +44115,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8794,
         ["kill_count"] = 34,
-        ["points"] = 7649.18,
+        ["points"] = 7649.55,
       },
     },
   },
@@ -44160,7 +44160,7 @@ UWULogsData[2][2] = {
         ["points"] = 9004.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8295,
+        ["rank_raids"] = 8296,
         ["kill_count"] = 8,
         ["points"] = 7082.71,
       },
@@ -44172,7 +44172,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1334,
         ["kill_count"] = 7,
-        ["points"] = 9591.71,
+        ["points"] = 9591.77,
       },
     },
   },
@@ -44229,7 +44229,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6575,
         ["kill_count"] = 26,
-        ["points"] = 8236.49,
+        ["points"] = 8236.77,
       },
     },
   },
@@ -44286,7 +44286,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6559,
         ["kill_count"] = 7,
-        ["points"] = 8247.49,
+        ["points"] = 8247.76,
       },
     },
   },
@@ -44331,7 +44331,7 @@ UWULogsData[2][2] = {
         ["points"] = 7833.78,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 11451,
+        ["rank_raids"] = 11452,
         ["kill_count"] = 13,
         ["points"] = 6448.64,
       },
@@ -44343,7 +44343,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1373,
         ["kill_count"] = 13,
-        ["points"] = 9579.15,
+        ["points"] = 9579.21,
       },
     },
   },
@@ -44400,7 +44400,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3909,
         ["kill_count"] = 13,
-        ["points"] = 8935.3,
+        ["points"] = 8935.47,
       },
     },
   },
@@ -44445,7 +44445,7 @@ UWULogsData[2][2] = {
         ["points"] = 9715.97,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6905,
+        ["rank_raids"] = 6906,
         ["kill_count"] = 41,
         ["points"] = 7485.75,
       },
@@ -44457,7 +44457,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9823,
         ["kill_count"] = 40,
-        ["points"] = 7388.51,
+        ["points"] = 7388.92,
       },
     },
   },
@@ -44514,7 +44514,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5756,
         ["kill_count"] = 21,
-        ["points"] = 8476.76,
+        ["points"] = 8477.0,
       },
     },
   },
@@ -44628,7 +44628,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2719,
         ["kill_count"] = 4,
-        ["points"] = 9219.54,
+        ["points"] = 9219.66,
       },
     },
   },
@@ -44685,7 +44685,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6345,
         ["kill_count"] = 30,
-        ["points"] = 8311.87,
+        ["points"] = 8312.14,
       },
     },
   },
@@ -44730,9 +44730,9 @@ UWULogsData[2][2] = {
         ["points"] = 9613.96,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 12728,
+        ["rank_raids"] = 12729,
         ["kill_count"] = 25,
-        ["points"] = 6278.2,
+        ["points"] = 6278.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1648,
@@ -44742,7 +44742,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3377,
         ["kill_count"] = 22,
-        ["points"] = 9068.78,
+        ["points"] = 9068.93,
       },
     },
   },
@@ -44799,7 +44799,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4174,
         ["kill_count"] = 18,
-        ["points"] = 8869.35,
+        ["points"] = 8869.52,
       },
     },
   },
@@ -44856,7 +44856,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4786,
         ["kill_count"] = 19,
-        ["points"] = 8715.45,
+        ["points"] = 8715.65,
       },
     },
   },
@@ -44913,7 +44913,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9736,
         ["kill_count"] = 12,
-        ["points"] = 7413.63,
+        ["points"] = 7414.04,
       },
     },
   },
@@ -44970,7 +44970,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3111,
         ["kill_count"] = 14,
-        ["points"] = 9128.45,
+        ["points"] = 9128.59,
       },
     },
   },
@@ -45027,7 +45027,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8575,
         ["kill_count"] = 18,
-        ["points"] = 7699.43,
+        ["points"] = 7699.8,
       },
     },
   },
@@ -45084,7 +45084,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6731,
         ["kill_count"] = 20,
-        ["points"] = 8186.24,
+        ["points"] = 8186.53,
       },
     },
   },
@@ -45141,7 +45141,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9288,
         ["kill_count"] = 54,
-        ["points"] = 7525.13,
+        ["points"] = 7525.51,
       },
     },
   },
@@ -45198,7 +45198,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3085,
         ["kill_count"] = 9,
-        ["points"] = 9134.74,
+        ["points"] = 9134.87,
       },
     },
   },
@@ -45243,9 +45243,9 @@ UWULogsData[2][2] = {
         ["points"] = 9703.97,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 29450,
+        ["rank_raids"] = 29451,
         ["kill_count"] = 13,
-        ["points"] = 4606.0,
+        ["points"] = 4605.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 4433,
@@ -45255,7 +45255,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4071,
         ["kill_count"] = 10,
-        ["points"] = 8894.47,
+        ["points"] = 8894.65,
       },
     },
   },
@@ -45300,7 +45300,7 @@ UWULogsData[2][2] = {
         ["points"] = 7928.79,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8727,
+        ["rank_raids"] = 8728,
         ["kill_count"] = 8,
         ["points"] = 6970.7,
       },
@@ -45312,7 +45312,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1242,
         ["kill_count"] = 8,
-        ["points"] = 9607.41,
+        ["points"] = 9607.47,
       },
     },
   },
@@ -45369,7 +45369,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9449,
         ["kill_count"] = 14,
-        ["points"] = 7476.44,
+        ["points"] = 7476.84,
       },
     },
   },
@@ -45414,7 +45414,7 @@ UWULogsData[2][2] = {
         ["points"] = 9766.98,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8908,
+        ["rank_raids"] = 8909,
         ["kill_count"] = 12,
         ["points"] = 6926.69,
       },
@@ -45426,7 +45426,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3134,
         ["kill_count"] = 12,
-        ["points"] = 9122.17,
+        ["points"] = 9122.31,
       },
     },
   },
@@ -45471,9 +45471,9 @@ UWULogsData[2][2] = {
         ["points"] = 9716.97,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 22870,
+        ["rank_raids"] = 22871,
         ["kill_count"] = 5,
-        ["points"] = 5264.0,
+        ["points"] = 5263.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2442,
@@ -45483,7 +45483,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3100,
         ["kill_count"] = 6,
-        ["points"] = 9130.03,
+        ["points"] = 9130.16,
       },
     },
   },
@@ -45540,7 +45540,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7163,
         ["kill_count"] = 75,
-        ["points"] = 8068.47,
+        ["points"] = 8068.77,
       },
     },
   },
@@ -45597,7 +45597,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 13373,
         ["kill_count"] = 15,
-        ["points"] = 6571.92,
+        ["points"] = 6572.46,
       },
     },
   },
@@ -45654,7 +45654,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 13174,
         ["kill_count"] = 24,
-        ["points"] = 6615.89,
+        ["points"] = 6616.42,
       },
     },
   },
@@ -45711,12 +45711,12 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2147,
         ["kill_count"] = 10,
-        ["points"] = 9345.16,
+        ["points"] = 9345.27,
       },
     },
   },
   ["Vaknyilas"] = {
-    ["percentile"] = 86.71,
+    ["percentile"] = 86.72,
     ["server"] = "Icecrown",
     ["overall_rank"] = 805,
     ["bosses"] = {
@@ -45768,7 +45768,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1339,
         ["kill_count"] = 6,
-        ["points"] = 9590.14,
+        ["points"] = 9590.2,
       },
     },
   },
@@ -45813,7 +45813,7 @@ UWULogsData[2][2] = {
         ["points"] = 9285.93,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 9954,
+        ["rank_raids"] = 9955,
         ["kill_count"] = 10,
         ["points"] = 6703.67,
       },
@@ -45825,7 +45825,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1820,
         ["kill_count"] = 9,
-        ["points"] = 9448.81,
+        ["points"] = 9448.89,
       },
     },
   },
@@ -45882,7 +45882,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3491,
         ["kill_count"] = 14,
-        ["points"] = 9032.66,
+        ["points"] = 9032.82,
       },
     },
   },
@@ -45939,7 +45939,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5717,
         ["kill_count"] = 4,
-        ["points"] = 8490.89,
+        ["points"] = 8491.13,
       },
     },
   },
@@ -45984,7 +45984,7 @@ UWULogsData[2][2] = {
         ["points"] = 9356.94,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 9799,
+        ["rank_raids"] = 9800,
         ["kill_count"] = 7,
         ["points"] = 6735.67,
       },
@@ -45996,7 +45996,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3436,
         ["kill_count"] = 6,
-        ["points"] = 9051.51,
+        ["points"] = 9051.66,
       },
     },
   },
@@ -46053,7 +46053,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1782,
         ["kill_count"] = 5,
-        ["points"] = 9461.37,
+        ["points"] = 9461.45,
       },
     },
   },
@@ -46110,7 +46110,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5034,
         ["kill_count"] = 11,
-        ["points"] = 8662.06,
+        ["points"] = 8662.27,
       },
     },
   },
@@ -46167,7 +46167,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3286,
         ["kill_count"] = 10,
-        ["points"] = 9086.06,
+        ["points"] = 9086.2,
       },
     },
   },
@@ -46212,9 +46212,9 @@ UWULogsData[2][2] = {
         ["points"] = 9093.91,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 12296,
+        ["rank_raids"] = 12297,
         ["kill_count"] = 14,
-        ["points"] = 6321.4,
+        ["points"] = 6321.3,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 1326,
@@ -46224,7 +46224,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1860,
         ["kill_count"] = 14,
-        ["points"] = 9434.67,
+        ["points"] = 9434.76,
       },
     },
   },
@@ -46281,7 +46281,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1568,
         ["kill_count"] = 6,
-        ["points"] = 9525.75,
+        ["points"] = 9525.83,
       },
     },
   },
@@ -46338,7 +46338,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3404,
         ["kill_count"] = 7,
-        ["points"] = 9062.5,
+        ["points"] = 9062.65,
       },
     },
   },
@@ -46395,7 +46395,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9650,
         ["kill_count"] = 10,
-        ["points"] = 7434.05,
+        ["points"] = 7434.45,
       },
     },
   },
@@ -46452,7 +46452,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2680,
         ["kill_count"] = 6,
-        ["points"] = 9233.67,
+        ["points"] = 9233.79,
       },
     },
   },
@@ -46497,9 +46497,9 @@ UWULogsData[2][2] = {
         ["points"] = 8614.86,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 17127,
+        ["rank_raids"] = 17128,
         ["kill_count"] = 2,
-        ["points"] = 5838.3,
+        ["points"] = 5838.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 911,
@@ -46509,7 +46509,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1651,
         ["kill_count"] = 3,
-        ["points"] = 9495.92,
+        ["points"] = 9496.0,
       },
     },
   },
@@ -46566,7 +46566,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7397,
         ["kill_count"] = 17,
-        ["points"] = 7996.23,
+        ["points"] = 7996.55,
       },
     },
   },
@@ -46623,7 +46623,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3515,
         ["kill_count"] = 1,
-        ["points"] = 9027.95,
+        ["points"] = 9028.1,
       },
     },
   },
@@ -46680,7 +46680,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3359,
         ["kill_count"] = 10,
-        ["points"] = 9073.49,
+        ["points"] = 9073.64,
       },
     },
   },
@@ -46737,7 +46737,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6415,
         ["kill_count"] = 8,
-        ["points"] = 8293.03,
+        ["points"] = 8293.3,
       },
     },
   },
@@ -46782,9 +46782,9 @@ UWULogsData[2][2] = {
         ["points"] = 9191.92,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 15322,
+        ["rank_raids"] = 15323,
         ["kill_count"] = 4,
-        ["points"] = 6018.8,
+        ["points"] = 6018.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5992,
@@ -46794,7 +46794,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1289,
         ["kill_count"] = 4,
-        ["points"] = 9599.56,
+        ["points"] = 9599.62,
       },
     },
   },
@@ -46851,7 +46851,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2152,
         ["kill_count"] = 18,
-        ["points"] = 9343.59,
+        ["points"] = 9343.7,
       },
     },
   },
@@ -46908,71 +46908,14 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 12168,
         ["kill_count"] = 10,
-        ["points"] = 6873.43,
-      },
-    },
-  },
-  ["Alitirei"] = {
-    ["percentile"] = 86.53,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 826,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 8223,
-        ["kill_count"] = 6,
-        ["points"] = 7883.79,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 3366,
-        ["kill_count"] = 5,
-        ["points"] = 8764.16,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6271,
-        ["kill_count"] = 6,
-        ["points"] = 8757.88,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 2377,
-        ["kill_count"] = 6,
-        ["points"] = 9407.94,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 2674,
-        ["kill_count"] = 6,
-        ["points"] = 9423.94,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 1827,
-        ["kill_count"] = 5,
-        ["points"] = 9499.01,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 15738,
-        ["kill_count"] = 5,
-        ["points"] = 7080.71,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 3100,
-        ["kill_count"] = 5,
-        ["points"] = 8630.86,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 2942,
-        ["kill_count"] = 6,
-        ["points"] = 8842.82,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 6725,
-        ["kill_count"] = 6,
-        ["points"] = 8189.38,
+        ["points"] = 6873.92,
       },
     },
   },
   ["Deathbite"] = {
     ["percentile"] = 86.53,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 827,
+    ["overall_rank"] = 826,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6407,
@@ -47022,7 +46965,64 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 10684,
         ["kill_count"] = 7,
-        ["points"] = 7203.2,
+        ["points"] = 7203.64,
+      },
+    },
+  },
+  ["Alitirei"] = {
+    ["percentile"] = 86.53,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 827,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 8223,
+        ["kill_count"] = 6,
+        ["points"] = 7883.79,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 3366,
+        ["kill_count"] = 5,
+        ["points"] = 8764.16,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 6271,
+        ["kill_count"] = 6,
+        ["points"] = 8757.88,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 2377,
+        ["kill_count"] = 6,
+        ["points"] = 9407.94,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 2674,
+        ["kill_count"] = 6,
+        ["points"] = 9423.94,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 1827,
+        ["kill_count"] = 5,
+        ["points"] = 9499.01,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 15738,
+        ["kill_count"] = 5,
+        ["points"] = 7080.71,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 3100,
+        ["kill_count"] = 5,
+        ["points"] = 8630.86,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 2942,
+        ["kill_count"] = 6,
+        ["points"] = 8842.82,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 6725,
+        ["kill_count"] = 6,
+        ["points"] = 8189.67,
       },
     },
   },
@@ -47079,7 +47079,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4553,
         ["kill_count"] = 2,
-        ["points"] = 8767.27,
+        ["points"] = 8767.47,
       },
     },
   },
@@ -47136,7 +47136,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6694,
         ["kill_count"] = 13,
-        ["points"] = 8200.38,
+        ["points"] = 8200.66,
       },
     },
   },
@@ -47193,7 +47193,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4139,
         ["kill_count"] = 13,
-        ["points"] = 8875.63,
+        ["points"] = 8875.8,
       },
     },
   },
@@ -47250,7 +47250,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6136,
         ["kill_count"] = 11,
-        ["points"] = 8360.55,
+        ["points"] = 8360.81,
       },
     },
   },
@@ -47307,7 +47307,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7236,
         ["kill_count"] = 6,
-        ["points"] = 8038.63,
+        ["points"] = 8038.94,
       },
     },
   },
@@ -47364,7 +47364,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7312,
         ["kill_count"] = 16,
-        ["points"] = 8015.08,
+        ["points"] = 8015.39,
       },
     },
   },
@@ -47421,7 +47421,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 11296,
         ["kill_count"] = 7,
-        ["points"] = 7082.29,
+        ["points"] = 7082.74,
       },
     },
   },
@@ -47466,7 +47466,7 @@ UWULogsData[2][2] = {
         ["points"] = 8341.83,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 9633,
+        ["rank_raids"] = 9634,
         ["kill_count"] = 6,
         ["points"] = 6768.68,
       },
@@ -47478,7 +47478,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2135,
         ["kill_count"] = 7,
-        ["points"] = 9354.59,
+        ["points"] = 9354.69,
       },
     },
   },
@@ -47535,7 +47535,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6657,
         ["kill_count"] = 7,
-        ["points"] = 8212.94,
+        ["points"] = 8213.22,
       },
     },
   },
@@ -47592,7 +47592,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5969,
         ["kill_count"] = 13,
-        ["points"] = 8415.52,
+        ["points"] = 8415.76,
       },
     },
   },
@@ -47649,7 +47649,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9665,
         ["kill_count"] = 7,
-        ["points"] = 7430.9,
+        ["points"] = 7431.31,
       },
     },
   },
@@ -47694,7 +47694,7 @@ UWULogsData[2][2] = {
         ["points"] = 9138.91,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6904,
+        ["rank_raids"] = 6905,
         ["kill_count"] = 5,
         ["points"] = 7486.75,
       },
@@ -47706,7 +47706,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5978,
         ["kill_count"] = 3,
-        ["points"] = 8410.8,
+        ["points"] = 8411.05,
       },
     },
   },
@@ -47763,7 +47763,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 14225,
         ["kill_count"] = 27,
-        ["points"] = 6363.07,
+        ["points"] = 6363.64,
       },
     },
   },
@@ -47808,7 +47808,7 @@ UWULogsData[2][2] = {
         ["points"] = 9364.94,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7013,
+        ["rank_raids"] = 7014,
         ["kill_count"] = 14,
         ["points"] = 7457.75,
       },
@@ -47820,7 +47820,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 886,
         ["kill_count"] = 15,
-        ["points"] = 9701.63,
+        ["points"] = 9701.68,
       },
     },
   },
@@ -47877,7 +47877,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5361,
         ["kill_count"] = 16,
-        ["points"] = 8583.54,
+        ["points"] = 8583.77,
       },
     },
   },
@@ -47934,7 +47934,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2902,
         ["kill_count"] = 14,
-        ["points"] = 9173.99,
+        ["points"] = 9174.12,
       },
     },
   },
@@ -47979,9 +47979,9 @@ UWULogsData[2][2] = {
         ["points"] = 8885.89,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 17183,
+        ["rank_raids"] = 17184,
         ["kill_count"] = 6,
-        ["points"] = 5832.7,
+        ["points"] = 5832.6,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5553,
@@ -47991,7 +47991,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2571,
         ["kill_count"] = 6,
-        ["points"] = 9268.22,
+        ["points"] = 9268.33,
       },
     },
   },
@@ -48048,7 +48048,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4502,
         ["kill_count"] = 17,
-        ["points"] = 8779.84,
+        ["points"] = 8780.03,
       },
     },
   },
@@ -48105,7 +48105,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7299,
         ["kill_count"] = 8,
-        ["points"] = 8019.79,
+        ["points"] = 8020.1,
       },
     },
   },
@@ -48162,71 +48162,14 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5667,
         ["kill_count"] = 20,
-        ["points"] = 8506.6,
-      },
-    },
-  },
-  ["Mysiek"] = {
-    ["percentile"] = 86.25,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 848,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 7395,
-        ["kill_count"] = 3,
-        ["points"] = 8066.81,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 7081,
-        ["kill_count"] = 3,
-        ["points"] = 7769.39,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 6266,
-        ["kill_count"] = 3,
-        ["points"] = 8758.88,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 7405,
-        ["kill_count"] = 3,
-        ["points"] = 8229.82,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 2352,
-        ["kill_count"] = 3,
-        ["points"] = 9496.95,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 3627,
-        ["kill_count"] = 3,
-        ["points"] = 9012.59,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 4336,
-        ["kill_count"] = 3,
-        ["points"] = 9079.91,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 5426,
-        ["kill_count"] = 3,
-        ["points"] = 7942.79,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 2067,
-        ["kill_count"] = 3,
-        ["points"] = 9198.21,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 5064,
-        ["kill_count"] = 5,
-        ["points"] = 8652.64,
+        ["points"] = 8506.83,
       },
     },
   },
   ["Greencessa"] = {
     ["percentile"] = 86.25,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 849,
+    ["overall_rank"] = 848,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 2885,
@@ -48276,7 +48219,64 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6472,
         ["kill_count"] = 14,
-        ["points"] = 8274.18,
+        ["points"] = 8274.45,
+      },
+    },
+  },
+  ["Mysiek"] = {
+    ["percentile"] = 86.25,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 849,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 7395,
+        ["kill_count"] = 3,
+        ["points"] = 8066.81,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 7081,
+        ["kill_count"] = 3,
+        ["points"] = 7769.39,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 6266,
+        ["kill_count"] = 3,
+        ["points"] = 8758.88,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 7405,
+        ["kill_count"] = 3,
+        ["points"] = 8229.82,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 2352,
+        ["kill_count"] = 3,
+        ["points"] = 9496.95,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 3627,
+        ["kill_count"] = 3,
+        ["points"] = 9012.59,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 4336,
+        ["kill_count"] = 3,
+        ["points"] = 9079.91,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 5426,
+        ["kill_count"] = 3,
+        ["points"] = 7942.79,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 2067,
+        ["kill_count"] = 3,
+        ["points"] = 9198.21,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 5064,
+        ["kill_count"] = 5,
+        ["points"] = 8652.85,
       },
     },
   },
@@ -48333,7 +48333,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8935,
         ["kill_count"] = 14,
-        ["points"] = 7613.07,
+        ["points"] = 7613.44,
       },
     },
   },
@@ -48390,7 +48390,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6733,
         ["kill_count"] = 16,
-        ["points"] = 8183.1,
+        ["points"] = 8183.39,
       },
     },
   },
@@ -48447,7 +48447,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6075,
         ["kill_count"] = 12,
-        ["points"] = 8385.68,
+        ["points"] = 8385.93,
       },
     },
   },
@@ -48492,7 +48492,7 @@ UWULogsData[2][2] = {
         ["points"] = 8330.83,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6769,
+        ["rank_raids"] = 6770,
         ["kill_count"] = 11,
         ["points"] = 7528.75,
       },
@@ -48504,7 +48504,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7990,
         ["kill_count"] = 6,
-        ["points"] = 7839.2,
+        ["points"] = 7839.54,
       },
     },
   },
@@ -48561,7 +48561,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5213,
         ["kill_count"] = 24,
-        ["points"] = 8613.38,
+        ["points"] = 8613.6,
       },
     },
   },
@@ -48606,7 +48606,7 @@ UWULogsData[2][2] = {
         ["points"] = 7468.75,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6474,
+        ["rank_raids"] = 6475,
         ["kill_count"] = 5,
         ["points"] = 7617.76,
       },
@@ -48618,7 +48618,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1918,
         ["kill_count"] = 5,
-        ["points"] = 9414.26,
+        ["points"] = 9414.35,
       },
     },
   },
@@ -48675,7 +48675,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4805,
         ["kill_count"] = 7,
-        ["points"] = 8709.17,
+        ["points"] = 8709.37,
       },
     },
   },
@@ -48732,7 +48732,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5114,
         ["kill_count"] = 24,
-        ["points"] = 8638.51,
+        ["points"] = 8638.72,
       },
     },
   },
@@ -48789,7 +48789,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8410,
         ["kill_count"] = 7,
-        ["points"] = 7737.12,
+        ["points"] = 7737.48,
       },
     },
   },
@@ -48846,7 +48846,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4331,
         ["kill_count"] = 17,
-        ["points"] = 8833.23,
+        ["points"] = 8833.41,
       },
     },
   },
@@ -48891,7 +48891,7 @@ UWULogsData[2][2] = {
         ["points"] = 8823.88,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7737,
+        ["rank_raids"] = 7738,
         ["kill_count"] = 26,
         ["points"] = 7231.72,
       },
@@ -48903,7 +48903,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 14431,
         ["kill_count"] = 18,
-        ["points"] = 6317.53,
+        ["points"] = 6318.1,
       },
     },
   },
@@ -48960,7 +48960,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 13541,
         ["kill_count"] = 5,
-        ["points"] = 6521.67,
+        ["points"] = 6522.22,
       },
     },
   },
@@ -49005,7 +49005,7 @@ UWULogsData[2][2] = {
         ["points"] = 9160.92,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8428,
+        ["rank_raids"] = 8429,
         ["kill_count"] = 5,
         ["points"] = 7051.71,
       },
@@ -49017,7 +49017,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4464,
         ["kill_count"] = 5,
-        ["points"] = 8793.97,
+        ["points"] = 8794.16,
       },
     },
   },
@@ -49074,7 +49074,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4837,
         ["kill_count"] = 4,
-        ["points"] = 8704.46,
+        ["points"] = 8704.66,
       },
     },
   },
@@ -49131,7 +49131,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5722,
         ["kill_count"] = 5,
-        ["points"] = 8487.75,
+        ["points"] = 8487.99,
       },
     },
   },
@@ -49188,7 +49188,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9798,
         ["kill_count"] = 8,
-        ["points"] = 7396.36,
+        ["points"] = 7396.77,
       },
     },
   },
@@ -49245,7 +49245,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3225,
         ["kill_count"] = 7,
-        ["points"] = 9100.19,
+        ["points"] = 9100.33,
       },
     },
   },
@@ -49290,7 +49290,7 @@ UWULogsData[2][2] = {
         ["points"] = 8972.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 10839,
+        ["rank_raids"] = 10840,
         ["kill_count"] = 23,
         ["points"] = 6552.66,
       },
@@ -49302,7 +49302,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6117,
         ["kill_count"] = 21,
-        ["points"] = 8366.83,
+        ["points"] = 8367.09,
       },
     },
   },
@@ -49359,7 +49359,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1355,
         ["kill_count"] = 14,
-        ["points"] = 9585.43,
+        ["points"] = 9585.49,
       },
     },
   },
@@ -49416,7 +49416,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4244,
         ["kill_count"] = 22,
-        ["points"] = 8856.78,
+        ["points"] = 8856.96,
       },
     },
   },
@@ -49473,7 +49473,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8406,
         ["kill_count"] = 6,
-        ["points"] = 7738.69,
+        ["points"] = 7739.05,
       },
     },
   },
@@ -49530,7 +49530,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5077,
         ["kill_count"] = 10,
-        ["points"] = 8646.36,
+        ["points"] = 8646.57,
       },
     },
   },
@@ -49587,7 +49587,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4563,
         ["kill_count"] = 6,
-        ["points"] = 8762.56,
+        ["points"] = 8762.76,
       },
     },
   },
@@ -49632,7 +49632,7 @@ UWULogsData[2][2] = {
         ["points"] = 7245.72,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7483,
+        ["rank_raids"] = 7484,
         ["kill_count"] = 8,
         ["points"] = 7312.73,
       },
@@ -49644,7 +49644,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1434,
         ["kill_count"] = 5,
-        ["points"] = 9565.01,
+        ["points"] = 9565.08,
       },
     },
   },
@@ -49701,7 +49701,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9121,
         ["kill_count"] = 1,
-        ["points"] = 7567.53,
+        ["points"] = 7567.91,
       },
     },
   },
@@ -49758,7 +49758,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1454,
         ["kill_count"] = 5,
-        ["points"] = 9555.59,
+        ["points"] = 9555.66,
       },
     },
   },
@@ -49815,7 +49815,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7416,
         ["kill_count"] = 18,
-        ["points"] = 7989.95,
+        ["points"] = 7990.27,
       },
     },
   },
@@ -49872,7 +49872,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5688,
         ["kill_count"] = 7,
-        ["points"] = 8498.74,
+        ["points"] = 8498.98,
       },
     },
   },
@@ -49929,7 +49929,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6636,
         ["kill_count"] = 10,
-        ["points"] = 8220.79,
+        ["points"] = 8221.07,
       },
     },
   },
@@ -49974,7 +49974,7 @@ UWULogsData[2][2] = {
         ["points"] = 8884.89,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 10775,
+        ["rank_raids"] = 10776,
         ["kill_count"] = 2,
         ["points"] = 6558.66,
       },
@@ -49986,7 +49986,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4578,
         ["kill_count"] = 2,
-        ["points"] = 8756.28,
+        ["points"] = 8756.48,
       },
     },
   },
@@ -50031,7 +50031,7 @@ UWULogsData[2][2] = {
         ["points"] = 9762.98,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6763,
+        ["rank_raids"] = 6764,
         ["kill_count"] = 29,
         ["points"] = 7530.75,
       },
@@ -50043,7 +50043,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7119,
         ["kill_count"] = 27,
-        ["points"] = 8077.89,
+        ["points"] = 8078.19,
       },
     },
   },
@@ -50100,7 +50100,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2995,
         ["kill_count"] = 26,
-        ["points"] = 9156.72,
+        ["points"] = 9156.85,
       },
     },
   },
@@ -50157,7 +50157,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6420,
         ["kill_count"] = 6,
-        ["points"] = 8291.46,
+        ["points"] = 8291.73,
       },
     },
   },
@@ -50214,7 +50214,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5611,
         ["kill_count"] = 5,
-        ["points"] = 8520.73,
+        ["points"] = 8520.96,
       },
     },
   },
@@ -50271,7 +50271,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 13834,
         ["kill_count"] = 13,
-        ["points"] = 6458.86,
+        ["points"] = 6459.41,
       },
     },
   },
@@ -50316,7 +50316,7 @@ UWULogsData[2][2] = {
         ["points"] = 9472.95,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6539,
+        ["rank_raids"] = 6540,
         ["kill_count"] = 3,
         ["points"] = 7596.76,
       },
@@ -50328,7 +50328,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4386,
         ["kill_count"] = 5,
-        ["points"] = 8817.53,
+        ["points"] = 8817.71,
       },
     },
   },
@@ -50385,7 +50385,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2614,
         ["kill_count"] = 7,
-        ["points"] = 9249.37,
+        ["points"] = 9249.49,
       },
     },
   },
@@ -50430,9 +50430,9 @@ UWULogsData[2][2] = {
         ["points"] = 9746.97,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 13825,
+        ["rank_raids"] = 13826,
         ["kill_count"] = 25,
-        ["points"] = 6168.5,
+        ["points"] = 6168.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3322,
@@ -50442,7 +50442,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4631,
         ["kill_count"] = 24,
-        ["points"] = 8745.29,
+        ["points"] = 8745.49,
       },
     },
   },
@@ -50499,7 +50499,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8419,
         ["kill_count"] = 45,
-        ["points"] = 7733.98,
+        ["points"] = 7734.34,
       },
     },
   },
@@ -50544,9 +50544,9 @@ UWULogsData[2][2] = {
         ["points"] = 9670.97,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 19655,
+        ["rank_raids"] = 19656,
         ["kill_count"] = 27,
-        ["points"] = 5585.5,
+        ["points"] = 5585.4,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2212,
@@ -50556,7 +50556,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 13903,
         ["kill_count"] = 27,
-        ["points"] = 6441.58,
+        ["points"] = 6442.14,
       },
     },
   },
@@ -50613,7 +50613,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7662,
         ["kill_count"] = 7,
-        ["points"] = 7928.71,
+        ["points"] = 7929.03,
       },
     },
   },
@@ -50670,7 +50670,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3637,
         ["kill_count"] = 16,
-        ["points"] = 8991.83,
+        ["points"] = 8991.99,
       },
     },
   },
@@ -50715,7 +50715,7 @@ UWULogsData[2][2] = {
         ["points"] = 8938.89,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7694,
+        ["rank_raids"] = 7695,
         ["kill_count"] = 6,
         ["points"] = 7246.72,
       },
@@ -50727,7 +50727,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2827,
         ["kill_count"] = 5,
-        ["points"] = 9197.55,
+        ["points"] = 9197.68,
       },
     },
   },
@@ -50784,7 +50784,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6431,
         ["kill_count"] = 14,
-        ["points"] = 8288.32,
+        ["points"] = 8288.59,
       },
     },
   },
@@ -50841,7 +50841,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 13456,
         ["kill_count"] = 7,
-        ["points"] = 6545.23,
+        ["points"] = 6545.77,
       },
     },
   },
@@ -50898,7 +50898,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2067,
         ["kill_count"] = 11,
-        ["points"] = 9370.29,
+        ["points"] = 9370.39,
       },
     },
   },
@@ -50955,7 +50955,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5700,
         ["kill_count"] = 12,
-        ["points"] = 8495.6,
+        ["points"] = 8495.84,
       },
     },
   },
@@ -51012,7 +51012,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 12388,
         ["kill_count"] = 19,
-        ["points"] = 6805.9,
+        ["points"] = 6806.41,
       },
     },
   },
@@ -51069,12 +51069,12 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4082,
         ["kill_count"] = 7,
-        ["points"] = 8891.33,
+        ["points"] = 8891.51,
       },
     },
   },
   ["Puusk"] = {
-    ["percentile"] = 85.53,
+    ["percentile"] = 85.54,
     ["server"] = "Icecrown",
     ["overall_rank"] = 899,
     ["bosses"] = {
@@ -51114,7 +51114,7 @@ UWULogsData[2][2] = {
         ["points"] = 9489.95,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 11689,
+        ["rank_raids"] = 11690,
         ["kill_count"] = 4,
         ["points"] = 6408.64,
       },
@@ -51126,7 +51126,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2754,
         ["kill_count"] = 4,
-        ["points"] = 9214.82,
+        ["points"] = 9214.95,
       },
     },
   },
@@ -51171,7 +51171,7 @@ UWULogsData[2][2] = {
         ["points"] = 8094.81,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6322,
+        ["rank_raids"] = 6323,
         ["kill_count"] = 30,
         ["points"] = 7665.77,
       },
@@ -51183,7 +51183,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4341,
         ["kill_count"] = 35,
-        ["points"] = 8826.95,
+        ["points"] = 8827.13,
       },
     },
   },
@@ -51240,7 +51240,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 11664,
         ["kill_count"] = 6,
-        ["points"] = 6994.35,
+        ["points"] = 6994.82,
       },
     },
   },
@@ -51297,7 +51297,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9594,
         ["kill_count"] = 34,
-        ["points"] = 7445.04,
+        ["points"] = 7445.44,
       },
     },
   },
@@ -51354,7 +51354,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3437,
         ["kill_count"] = 17,
-        ["points"] = 9049.94,
+        ["points"] = 9050.09,
       },
     },
   },
@@ -51411,7 +51411,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7200,
         ["kill_count"] = 26,
-        ["points"] = 8051.19,
+        ["points"] = 8051.5,
       },
     },
   },
@@ -51466,7 +51466,7 @@ UWULogsData[2][2] = {
         ["points"] = 8598.67,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 30175,
+        ["rank_raids"] = 30176,
         ["kill_count"] = 1,
         ["points"] = 5032.63,
       },
@@ -51525,7 +51525,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6774,
         ["kill_count"] = 15,
-        ["points"] = 8173.68,
+        ["points"] = 8173.97,
       },
     },
   },
@@ -51582,7 +51582,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4518,
         ["kill_count"] = 9,
-        ["points"] = 8776.7,
+        ["points"] = 8776.89,
       },
     },
   },
@@ -51627,7 +51627,7 @@ UWULogsData[2][2] = {
         ["points"] = 8969.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8754,
+        ["rank_raids"] = 8755,
         ["kill_count"] = 3,
         ["points"] = 6963.7,
       },
@@ -51639,7 +51639,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1935,
         ["kill_count"] = 3,
-        ["points"] = 9406.41,
+        ["points"] = 9406.5,
       },
     },
   },
@@ -51696,7 +51696,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2654,
         ["kill_count"] = 11,
-        ["points"] = 9238.38,
+        ["points"] = 9238.5,
       },
     },
   },
@@ -51753,7 +51753,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7112,
         ["kill_count"] = 18,
-        ["points"] = 8081.03,
+        ["points"] = 8081.33,
       },
     },
   },
@@ -51810,7 +51810,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8610,
         ["kill_count"] = 4,
-        ["points"] = 7694.72,
+        ["points"] = 7695.09,
       },
     },
   },
@@ -51867,7 +51867,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 10969,
         ["kill_count"] = 16,
-        ["points"] = 7143.53,
+        ["points"] = 7143.98,
       },
     },
   },
@@ -51924,7 +51924,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6153,
         ["kill_count"] = 12,
-        ["points"] = 8352.7,
+        ["points"] = 8352.96,
       },
     },
   },
@@ -51981,7 +51981,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8440,
         ["kill_count"] = 25,
-        ["points"] = 7729.27,
+        ["points"] = 7729.63,
       },
     },
   },
@@ -52038,7 +52038,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1780,
         ["kill_count"] = 15,
-        ["points"] = 9462.94,
+        ["points"] = 9463.02,
       },
     },
   },
@@ -52095,7 +52095,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4722,
         ["kill_count"] = 6,
-        ["points"] = 8723.3,
+        ["points"] = 8723.5,
       },
     },
   },
@@ -52152,7 +52152,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7942,
         ["kill_count"] = 18,
-        ["points"] = 7847.05,
+        ["points"] = 7847.39,
       },
     },
   },
@@ -52209,7 +52209,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5324,
         ["kill_count"] = 9,
-        ["points"] = 8594.54,
+        ["points"] = 8594.76,
       },
     },
   },
@@ -52266,7 +52266,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4892,
         ["kill_count"] = 3,
-        ["points"] = 8693.47,
+        ["points"] = 8693.67,
       },
     },
   },
@@ -52323,7 +52323,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6909,
         ["kill_count"] = 20,
-        ["points"] = 8132.85,
+        ["points"] = 8133.14,
       },
     },
   },
@@ -52380,7 +52380,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9339,
         ["kill_count"] = 12,
-        ["points"] = 7509.42,
+        ["points"] = 7509.81,
       },
     },
   },
@@ -52437,7 +52437,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7927,
         ["kill_count"] = 9,
-        ["points"] = 7856.47,
+        ["points"] = 7856.81,
       },
     },
   },
@@ -52494,7 +52494,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 13127,
         ["kill_count"] = 27,
-        ["points"] = 6630.03,
+        ["points"] = 6630.55,
       },
     },
   },
@@ -52551,7 +52551,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9160,
         ["kill_count"] = 16,
-        ["points"] = 7551.82,
+        ["points"] = 7552.21,
       },
     },
   },
@@ -52608,7 +52608,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3941,
         ["kill_count"] = 8,
-        ["points"] = 8927.45,
+        ["points"] = 8927.62,
       },
     },
   },
@@ -52653,7 +52653,7 @@ UWULogsData[2][2] = {
         ["points"] = 8216.82,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6291,
+        ["rank_raids"] = 6292,
         ["kill_count"] = 16,
         ["points"] = 7674.77,
       },
@@ -52665,7 +52665,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5527,
         ["kill_count"] = 16,
-        ["points"] = 8539.57,
+        ["points"] = 8539.8,
       },
     },
   },
@@ -52722,7 +52722,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8689,
         ["kill_count"] = 7,
-        ["points"] = 7674.31,
+        ["points"] = 7674.67,
       },
     },
   },
@@ -52767,9 +52767,9 @@ UWULogsData[2][2] = {
         ["points"] = 8518.85,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 15788,
+        ["rank_raids"] = 15789,
         ["kill_count"] = 5,
-        ["points"] = 5972.2,
+        ["points"] = 5972.1,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 5980,
@@ -52779,7 +52779,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3951,
         ["kill_count"] = 5,
-        ["points"] = 8922.74,
+        ["points"] = 8922.91,
       },
     },
   },
@@ -52836,7 +52836,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 11891,
         ["kill_count"] = 25,
-        ["points"] = 6929.96,
+        ["points"] = 6930.44,
       },
     },
   },
@@ -52893,7 +52893,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6284,
         ["kill_count"] = 7,
-        ["points"] = 8324.43,
+        ["points"] = 8324.7,
       },
     },
   },
@@ -53007,7 +53007,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6999,
         ["kill_count"] = 15,
-        ["points"] = 8107.73,
+        ["points"] = 8108.02,
       },
     },
   },
@@ -53064,7 +53064,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6347,
         ["kill_count"] = 8,
-        ["points"] = 8308.73,
+        ["points"] = 8309.0,
       },
     },
   },
@@ -53121,7 +53121,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3700,
         ["kill_count"] = 18,
-        ["points"] = 8969.85,
+        ["points"] = 8970.01,
       },
     },
   },
@@ -53178,7 +53178,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 12407,
         ["kill_count"] = 6,
-        ["points"] = 6801.19,
+        ["points"] = 6801.7,
       },
     },
   },
@@ -53235,7 +53235,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6583,
         ["kill_count"] = 5,
-        ["points"] = 8231.78,
+        ["points"] = 8232.06,
       },
     },
   },
@@ -53265,7 +53265,7 @@ UWULogsData[2][2] = {
         ["points"] = 9335.93,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 5539,
+        ["rank_raids"] = 5540,
         ["kill_count"] = 6,
         ["points"] = 8790.88,
       },
@@ -53280,9 +53280,9 @@ UWULogsData[2][2] = {
         ["points"] = 9509.95,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 15462,
+        ["rank_raids"] = 15463,
         ["kill_count"] = 8,
-        ["points"] = 6004.8,
+        ["points"] = 6004.7,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 3877,
@@ -53292,7 +53292,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3554,
         ["kill_count"] = 9,
-        ["points"] = 9015.39,
+        ["points"] = 9015.54,
       },
     },
   },
@@ -53349,7 +53349,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5071,
         ["kill_count"] = 8,
-        ["points"] = 8651.07,
+        ["points"] = 8651.28,
       },
     },
   },
@@ -53406,7 +53406,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7591,
         ["kill_count"] = 4,
-        ["points"] = 7958.54,
+        ["points"] = 7958.86,
       },
     },
   },
@@ -53463,7 +53463,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6850,
         ["kill_count"] = 25,
-        ["points"] = 8156.41,
+        ["points"] = 8156.7,
       },
     },
   },
@@ -53520,7 +53520,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7130,
         ["kill_count"] = 8,
-        ["points"] = 8076.32,
+        ["points"] = 8076.62,
       },
     },
   },
@@ -53577,7 +53577,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8682,
         ["kill_count"] = 4,
-        ["points"] = 7675.88,
+        ["points"] = 7676.24,
       },
     },
   },
@@ -53634,7 +53634,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 10118,
         ["kill_count"] = 23,
-        ["points"] = 7314.7,
+        ["points"] = 7315.12,
       },
     },
   },
@@ -53691,7 +53691,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 10515,
         ["kill_count"] = 2,
-        ["points"] = 7231.47,
+        ["points"] = 7231.9,
       },
     },
   },
@@ -53748,7 +53748,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 11921,
         ["kill_count"] = 5,
-        ["points"] = 6925.25,
+        ["points"] = 6925.73,
       },
     },
   },
@@ -53805,7 +53805,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9335,
         ["kill_count"] = 10,
-        ["points"] = 7510.99,
+        ["points"] = 7511.38,
       },
     },
   },
@@ -53815,9 +53815,9 @@ UWULogsData[2][2] = {
     ["overall_rank"] = 948,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 17621,
+        ["rank_raids"] = 17622,
         ["kill_count"] = 3,
-        ["points"] = 6178.62,
+        ["points"] = 6177.62,
       },
       ["Lady Deathwhisper"] = {
         ["rank_raids"] = 6090,
@@ -53862,7 +53862,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3215,
         ["kill_count"] = 4,
-        ["points"] = 9103.33,
+        ["points"] = 9103.47,
       },
     },
   },
@@ -53907,7 +53907,7 @@ UWULogsData[2][2] = {
         ["points"] = 8066.81,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7201,
+        ["rank_raids"] = 7202,
         ["kill_count"] = 26,
         ["points"] = 7398.74,
       },
@@ -53919,7 +53919,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6127,
         ["kill_count"] = 22,
-        ["points"] = 8363.69,
+        ["points"] = 8363.95,
       },
     },
   },
@@ -53964,9 +53964,9 @@ UWULogsData[2][2] = {
         ["points"] = 9346.93,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 14827,
+        ["rank_raids"] = 14828,
         ["kill_count"] = 4,
-        ["points"] = 6068.3,
+        ["points"] = 6068.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2468,
@@ -53976,7 +53976,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4343,
         ["kill_count"] = 6,
-        ["points"] = 8825.38,
+        ["points"] = 8825.56,
       },
     },
   },
@@ -54090,7 +54090,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6627,
         ["kill_count"] = 5,
-        ["points"] = 8223.93,
+        ["points"] = 8224.21,
       },
     },
   },
@@ -54135,9 +54135,9 @@ UWULogsData[2][2] = {
         ["points"] = 9753.98,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 16637,
+        ["rank_raids"] = 16638,
         ["kill_count"] = 3,
-        ["points"] = 5887.3,
+        ["points"] = 5887.2,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 6165,
@@ -54147,7 +54147,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6874,
         ["kill_count"] = 3,
-        ["points"] = 8146.98,
+        ["points"] = 8147.28,
       },
     },
   },
@@ -54204,7 +54204,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5420,
         ["kill_count"] = 22,
-        ["points"] = 8567.84,
+        ["points"] = 8568.06,
       },
     },
   },
@@ -54261,7 +54261,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5775,
         ["kill_count"] = 8,
-        ["points"] = 8462.63,
+        ["points"] = 8462.87,
       },
     },
   },
@@ -54375,7 +54375,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 12984,
         ["kill_count"] = 32,
-        ["points"] = 6656.72,
+        ["points"] = 6657.25,
       },
     },
   },
@@ -54432,7 +54432,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4066,
         ["kill_count"] = 17,
-        ["points"] = 8896.04,
+        ["points"] = 8896.22,
       },
     },
   },
@@ -54489,7 +54489,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9849,
         ["kill_count"] = 8,
-        ["points"] = 7372.8,
+        ["points"] = 7373.21,
       },
     },
   },
@@ -54546,7 +54546,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6866,
         ["kill_count"] = 16,
-        ["points"] = 8150.13,
+        ["points"] = 8150.42,
       },
     },
   },
@@ -54603,7 +54603,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8002,
         ["kill_count"] = 19,
-        ["points"] = 7834.48,
+        ["points"] = 7834.82,
       },
     },
   },
@@ -54660,7 +54660,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5673,
         ["kill_count"] = 7,
-        ["points"] = 8500.31,
+        ["points"] = 8500.55,
       },
     },
   },
@@ -54717,7 +54717,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5627,
         ["kill_count"] = 3,
-        ["points"] = 8517.59,
+        ["points"] = 8517.82,
       },
     },
   },
@@ -54762,7 +54762,7 @@ UWULogsData[2][2] = {
         ["points"] = 8782.88,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7593,
+        ["rank_raids"] = 7594,
         ["kill_count"] = 26,
         ["points"] = 7274.73,
       },
@@ -54774,7 +54774,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9265,
         ["kill_count"] = 19,
-        ["points"] = 7528.27,
+        ["points"] = 7528.65,
       },
     },
   },
@@ -54831,7 +54831,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 11593,
         ["kill_count"] = 6,
-        ["points"] = 7013.19,
+        ["points"] = 7013.66,
       },
     },
   },
@@ -54876,7 +54876,7 @@ UWULogsData[2][2] = {
         ["points"] = 9111.91,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8627,
+        ["rank_raids"] = 8628,
         ["kill_count"] = 20,
         ["points"] = 6992.7,
       },
@@ -54888,7 +54888,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7855,
         ["kill_count"] = 14,
-        ["points"] = 7872.17,
+        ["points"] = 7872.51,
       },
     },
   },
@@ -54945,7 +54945,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5639,
         ["kill_count"] = 21,
-        ["points"] = 8511.31,
+        ["points"] = 8511.54,
       },
     },
   },
@@ -54990,7 +54990,7 @@ UWULogsData[2][2] = {
         ["points"] = 8882.89,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 12020,
+        ["rank_raids"] = 12021,
         ["kill_count"] = 7,
         ["points"] = 6350.64,
       },
@@ -55002,7 +55002,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6876,
         ["kill_count"] = 5,
-        ["points"] = 8145.41,
+        ["points"] = 8145.71,
       },
     },
   },
@@ -55059,7 +55059,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1695,
         ["kill_count"] = 1,
-        ["points"] = 9484.92,
+        ["points"] = 9485.01,
       },
     },
   },
@@ -55104,7 +55104,7 @@ UWULogsData[2][2] = {
         ["points"] = 8880.89,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6907,
+        ["rank_raids"] = 6908,
         ["kill_count"] = 16,
         ["points"] = 7484.75,
       },
@@ -55116,7 +55116,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5736,
         ["kill_count"] = 11,
-        ["points"] = 8486.18,
+        ["points"] = 8486.42,
       },
     },
   },
@@ -55218,9 +55218,9 @@ UWULogsData[2][2] = {
         ["points"] = 8907.89,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 17010,
+        ["rank_raids"] = 17011,
         ["kill_count"] = 15,
-        ["points"] = 5850.0,
+        ["points"] = 5849.9,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 2197,
@@ -55230,7 +55230,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7997,
         ["kill_count"] = 17,
-        ["points"] = 7836.06,
+        ["points"] = 7836.4,
       },
     },
   },
@@ -55275,7 +55275,7 @@ UWULogsData[2][2] = {
         ["points"] = 9275.93,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 10149,
+        ["rank_raids"] = 10150,
         ["kill_count"] = 11,
         ["points"] = 6669.67,
       },
@@ -55287,7 +55287,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6490,
         ["kill_count"] = 10,
-        ["points"] = 8271.04,
+        ["points"] = 8271.31,
       },
     },
   },
@@ -55344,7 +55344,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1281,
         ["kill_count"] = 3,
-        ["points"] = 9601.13,
+        ["points"] = 9601.19,
       },
     },
   },
@@ -55401,7 +55401,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7166,
         ["kill_count"] = 16,
-        ["points"] = 8066.9,
+        ["points"] = 8067.2,
       },
     },
   },
@@ -55458,7 +55458,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 12373,
         ["kill_count"] = 8,
-        ["points"] = 6818.47,
+        ["points"] = 6818.97,
       },
     },
   },
@@ -55503,7 +55503,7 @@ UWULogsData[2][2] = {
         ["points"] = 7786.78,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 10452,
+        ["rank_raids"] = 10453,
         ["kill_count"] = 4,
         ["points"] = 6613.66,
       },
@@ -55515,7 +55515,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3345,
         ["kill_count"] = 13,
-        ["points"] = 9076.63,
+        ["points"] = 9076.78,
       },
     },
   },
@@ -55560,7 +55560,7 @@ UWULogsData[2][2] = {
         ["points"] = 9145.91,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7244,
+        ["rank_raids"] = 7245,
         ["kill_count"] = 64,
         ["points"] = 7381.74,
       },
@@ -55572,7 +55572,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3899,
         ["kill_count"] = 58,
-        ["points"] = 8938.44,
+        ["points"] = 8938.61,
       },
     },
   },
@@ -55629,7 +55629,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9137,
         ["kill_count"] = 17,
-        ["points"] = 7559.67,
+        ["points"] = 7560.06,
       },
     },
   },
@@ -55669,9 +55669,9 @@ UWULogsData[2][2] = {
         ["points"] = 9477.8,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 61418,
+        ["rank_raids"] = 61424,
         ["kill_count"] = 3,
-        ["points"] = 1409.2,
+        ["points"] = 1408.6,
       },
       ["Blood-Queen Lana'thel"] = {
         ["rank_raids"] = 895,
@@ -55686,7 +55686,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2032,
         ["kill_count"] = 14,
-        ["points"] = 9381.28,
+        ["points"] = 9381.38,
       },
     },
   },
@@ -55743,7 +55743,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 10248,
         ["kill_count"] = 14,
-        ["points"] = 7284.86,
+        ["points"] = 7285.29,
       },
     },
   },
@@ -55800,7 +55800,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2365,
         ["kill_count"] = 9,
-        ["points"] = 9301.19,
+        ["points"] = 9301.3,
       },
     },
   },
@@ -55845,7 +55845,7 @@ UWULogsData[2][2] = {
         ["points"] = 7199.72,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8606,
+        ["rank_raids"] = 8607,
         ["kill_count"] = 8,
         ["points"] = 6995.7,
       },
@@ -55857,7 +55857,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3378,
         ["kill_count"] = 8,
-        ["points"] = 9067.21,
+        ["points"] = 9067.36,
       },
     },
   },
@@ -55887,7 +55887,7 @@ UWULogsData[2][2] = {
         ["points"] = 9516.95,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 35621,
+        ["rank_raids"] = 35623,
         ["kill_count"] = 5,
         ["points"] = 6097.6,
       },
@@ -55914,7 +55914,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2613,
         ["kill_count"] = 7,
-        ["points"] = 9250.94,
+        ["points"] = 9251.06,
       },
     },
   },
@@ -55971,7 +55971,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 12508,
         ["kill_count"] = 23,
-        ["points"] = 6777.64,
+        ["points"] = 6778.14,
       },
     },
   },
@@ -56028,7 +56028,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 3256,
         ["kill_count"] = 7,
-        ["points"] = 9092.34,
+        ["points"] = 9092.48,
       },
     },
   },
@@ -56085,71 +56085,14 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6707,
         ["kill_count"] = 23,
-        ["points"] = 8195.67,
-      },
-    },
-  },
-  ["Analysis"] = {
-    ["percentile"] = 84.45,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 988,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["rank_raids"] = 9432,
-        ["kill_count"] = 3,
-        ["points"] = 7644.76,
-      },
-      ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 1762,
-        ["kill_count"] = 3,
-        ["points"] = 9252.11,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 4670,
-        ["kill_count"] = 3,
-        ["points"] = 9031.9,
-      },
-      ["Festergut"] = {
-        ["rank_raids"] = 8926,
-        ["kill_count"] = 3,
-        ["points"] = 7970.8,
-      },
-      ["Rotface"] = {
-        ["rank_raids"] = 5323,
-        ["kill_count"] = 3,
-        ["points"] = 8843.88,
-      },
-      ["Professor Putricide"] = {
-        ["rank_raids"] = 2760,
-        ["kill_count"] = 3,
-        ["points"] = 9253.81,
-      },
-      ["Blood Prince Council"] = {
-        ["rank_raids"] = 2533,
-        ["kill_count"] = 3,
-        ["points"] = 9427.94,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8761,
-        ["kill_count"] = 3,
-        ["points"] = 6962.7,
-      },
-      ["Sindragosa"] = {
-        ["rank_raids"] = 7328,
-        ["kill_count"] = 3,
-        ["points"] = 7352.6,
-      },
-      ["The Lich King"] = {
-        ["rank_raids"] = 5021,
-        ["kill_count"] = 3,
-        ["points"] = 8668.34,
+        ["points"] = 8195.95,
       },
     },
   },
   ["Hunterdin"] = {
     ["percentile"] = 84.45,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 989,
+    ["overall_rank"] = 988,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["rank_raids"] = 6843,
@@ -56199,7 +56142,64 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7573,
         ["kill_count"] = 11,
-        ["points"] = 7961.68,
+        ["points"] = 7962.0,
+      },
+    },
+  },
+  ["Analysis"] = {
+    ["percentile"] = 84.45,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 989,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["rank_raids"] = 9432,
+        ["kill_count"] = 3,
+        ["points"] = 7644.76,
+      },
+      ["Lady Deathwhisper"] = {
+        ["rank_raids"] = 1762,
+        ["kill_count"] = 3,
+        ["points"] = 9252.11,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["rank_raids"] = 4670,
+        ["kill_count"] = 3,
+        ["points"] = 9031.9,
+      },
+      ["Festergut"] = {
+        ["rank_raids"] = 8926,
+        ["kill_count"] = 3,
+        ["points"] = 7970.8,
+      },
+      ["Rotface"] = {
+        ["rank_raids"] = 5323,
+        ["kill_count"] = 3,
+        ["points"] = 8843.88,
+      },
+      ["Professor Putricide"] = {
+        ["rank_raids"] = 2760,
+        ["kill_count"] = 3,
+        ["points"] = 9253.81,
+      },
+      ["Blood Prince Council"] = {
+        ["rank_raids"] = 2533,
+        ["kill_count"] = 3,
+        ["points"] = 9427.94,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["rank_raids"] = 8762,
+        ["kill_count"] = 3,
+        ["points"] = 6962.7,
+      },
+      ["Sindragosa"] = {
+        ["rank_raids"] = 7328,
+        ["kill_count"] = 3,
+        ["points"] = 7352.6,
+      },
+      ["The Lich King"] = {
+        ["rank_raids"] = 5021,
+        ["kill_count"] = 3,
+        ["points"] = 8668.55,
       },
     },
   },
@@ -56244,9 +56244,9 @@ UWULogsData[2][2] = {
         ["points"] = 8757.88,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 7557,
+        ["rank_raids"] = 7558,
         ["kill_count"] = 6,
-        ["points"] = 7283.9,
+        ["points"] = 7283.73,
       },
       ["Sindragosa"] = {
         ["rank_raids"] = 8040,
@@ -56256,7 +56256,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 2254,
         ["kill_count"] = 2,
-        ["points"] = 9324.75,
+        ["points"] = 9324.85,
       },
     },
   },
@@ -56313,7 +56313,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 8058,
         ["kill_count"] = 28,
-        ["points"] = 7818.78,
+        ["points"] = 7819.12,
       },
     },
   },
@@ -56370,7 +56370,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 9041,
         ["kill_count"] = 13,
-        ["points"] = 7594.22,
+        ["points"] = 7594.6,
       },
     },
   },
@@ -56415,7 +56415,7 @@ UWULogsData[2][2] = {
         ["points"] = 8279.83,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 8702,
+        ["rank_raids"] = 8703,
         ["kill_count"] = 11,
         ["points"] = 6976.7,
       },
@@ -56427,7 +56427,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 5790,
         ["kill_count"] = 11,
-        ["points"] = 8454.77,
+        ["points"] = 8455.02,
       },
     },
   },
@@ -56484,7 +56484,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 7040,
         ["kill_count"] = 9,
-        ["points"] = 8096.73,
+        ["points"] = 8097.03,
       },
     },
   },
@@ -56541,12 +56541,12 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 1017,
         ["kill_count"] = 12,
-        ["points"] = 9665.52,
+        ["points"] = 9665.57,
       },
     },
   },
   ["Skutybobbo"] = {
-    ["percentile"] = 84.38,
+    ["percentile"] = 84.39,
     ["server"] = "Icecrown",
     ["overall_rank"] = 996,
     ["bosses"] = {
@@ -56598,7 +56598,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 11802,
         ["kill_count"] = 6,
-        ["points"] = 6956.66,
+        ["points"] = 6957.14,
       },
     },
   },
@@ -56655,7 +56655,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 6014,
         ["kill_count"] = 11,
-        ["points"] = 8398.24,
+        ["points"] = 8398.49,
       },
     },
   },
@@ -56695,7 +56695,7 @@ UWULogsData[2][2] = {
         ["points"] = 9316.1,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 31468,
+        ["rank_raids"] = 31469,
         ["kill_count"] = 7,
         ["points"] = 4618.46,
       },
@@ -56712,7 +56712,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4102,
         ["kill_count"] = 3,
-        ["points"] = 8881.91,
+        ["points"] = 8882.09,
       },
     },
   },
@@ -56722,59 +56722,59 @@ UWULogsData[2][2] = {
     ["overall_rank"] = 6247,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["rank_raids"] = 36308,
+        ["rank_raids"] = 36311,
         ["kill_count"] = 2,
         ["points"] = 4957.35,
       },
       ["Lady Deathwhisper"] = {
-        ["rank_raids"] = 37193,
+        ["rank_raids"] = 37195,
         ["kill_count"] = 1,
-        ["points"] = 3831.7,
+        ["points"] = 3831.5,
       },
       ["Deathbringer Saurfang"] = {
-        ["rank_raids"] = 52441,
+        ["rank_raids"] = 52446,
         ["kill_count"] = 3,
         ["points"] = 5126.28,
       },
       ["Festergut"] = {
-        ["rank_raids"] = 56348,
+        ["rank_raids"] = 56352,
         ["kill_count"] = 3,
         ["points"] = 4788.7,
       },
       ["Rotface"] = {
-        ["rank_raids"] = 50316,
+        ["rank_raids"] = 50319,
         ["kill_count"] = 3,
         ["points"] = 5176.5,
       },
       ["Professor Putricide"] = {
-        ["rank_raids"] = 36834,
+        ["rank_raids"] = 36835,
         ["kill_count"] = 1,
         ["points"] = 4806.41,
       },
       ["Blood Prince Council"] = {
-        ["rank_raids"] = 43817,
+        ["rank_raids"] = 43820,
         ["kill_count"] = 3,
-        ["points"] = 3169.3,
+        ["points"] = 3169.0,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 51891,
+        ["rank_raids"] = 51896,
         ["kill_count"] = 2,
         ["points"] = 3030.32,
       },
       ["Sindragosa"] = {
-        ["rank_raids"] = 37362,
+        ["rank_raids"] = 37364,
         ["kill_count"] = 1,
         ["points"] = 4357.66,
       },
       ["The Lich King"] = {
-        ["rank_raids"] = 41138,
+        ["rank_raids"] = 41140,
         ["kill_count"] = 1,
-        ["points"] = 3437.2,
+        ["points"] = 3437.0,
       },
     },
   },
   ["Kolbasor"] = {
-    ["percentile"] = 84.36,
+    ["percentile"] = 84.37,
     ["server"] = "Icecrown",
     ["overall_rank"] = 1000,
     ["bosses"] = {
@@ -56814,7 +56814,7 @@ UWULogsData[2][2] = {
         ["points"] = 7533.75,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["rank_raids"] = 6635,
+        ["rank_raids"] = 6636,
         ["kill_count"] = 7,
         ["points"] = 7573.76,
       },
@@ -56826,7 +56826,7 @@ UWULogsData[2][2] = {
       ["The Lich King"] = {
         ["rank_raids"] = 4577,
         ["kill_count"] = 6,
-        ["points"] = 8757.85,
+        ["points"] = 8758.05,
       },
     },
   },
