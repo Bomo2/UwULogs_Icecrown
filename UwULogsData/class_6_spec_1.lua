@@ -4450,7 +4450,7 @@ UWULogsData[6][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 4267.7,
+        ["points"] = 4267.6,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,

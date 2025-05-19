@@ -17550,7 +17550,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 20,
-        ["points"] = 5303.9,
+        ["points"] = 5303.8,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
@@ -43491,7 +43491,7 @@ UWULogsData[0][2] = {
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
-        ["points"] = 4628.0,
+        ["points"] = 4627.9,
       },
       ["Festergut"] = {
         ["kill_count"] = 1,
@@ -43499,11 +43499,11 @@ UWULogsData[0][2] = {
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
-        ["points"] = 5904.7,
+        ["points"] = 5904.6,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 5052.2,
+        ["points"] = 5052.1,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -44060,7 +44060,7 @@ UWULogsData[0][2] = {
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
-        ["points"] = 8554.2,
+        ["points"] = 8554.41,
       },
       ["Festergut"] = {
         ["kill_count"] = 12,
@@ -44076,7 +44076,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
-        ["points"] = 9082.3,
+        ["points"] = 9082.45,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 12,

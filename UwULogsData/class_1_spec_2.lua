@@ -11104,7 +11104,7 @@ UWULogsData[1][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 9678.5,
+        ["points"] = 9680.6,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -17543,7 +17543,7 @@ UWULogsData[1][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 9679.2,
+        ["points"] = 9678.5,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,

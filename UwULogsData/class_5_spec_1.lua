@@ -5413,7 +5413,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 14,
-        ["points"] = 7533.2,
+        ["points"] = 7532.9,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
@@ -5648,7 +5648,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 6781.4,
+        ["points"] = 6781.1,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
@@ -5789,7 +5789,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 7075.4,
+        ["points"] = 7075.1,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
@@ -6024,7 +6024,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 18,
-        ["points"] = 7500.2,
+        ["points"] = 7499.9,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 19,
@@ -8985,7 +8985,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 7212.5,
+        ["points"] = 7212.2,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
@@ -9361,7 +9361,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 7455.8,
+        ["points"] = 7455.5,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
@@ -12745,7 +12745,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 7152.5,
+        ["points"] = 7152.2,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
@@ -13262,7 +13262,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
-        ["points"] = 6989.6,
+        ["points"] = 6989.3,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
@@ -13317,7 +13317,7 @@ UWULogsData[5][1] = {
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
-        ["points"] = 6212.7,
+        ["points"] = 6212.6,
       },
       ["Festergut"] = {
         ["kill_count"] = 8,
@@ -14038,7 +14038,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 36,
-        ["points"] = 6459.5,
+        ["points"] = 6459.4,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 36,
@@ -14296,7 +14296,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 7522.4,
+        ["points"] = 7522.1,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
@@ -14390,7 +14390,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 32,
-        ["points"] = 6950.0,
+        ["points"] = 6949.7,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 33,
@@ -14868,7 +14868,7 @@ UWULogsData[5][1] = {
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
-        ["points"] = 6192.6,
+        ["points"] = 6192.5,
       },
       ["Festergut"] = {
         ["kill_count"] = 7,
@@ -15213,7 +15213,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
-        ["points"] = 6364.7,
+        ["points"] = 6364.6,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 10,
@@ -15518,7 +15518,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 7324.4,
+        ["points"] = 7324.1,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
@@ -15871,7 +15871,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
-        ["points"] = 5526.7,
+        ["points"] = 5526.6,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
@@ -16341,7 +16341,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 5531.5,
+        ["points"] = 5531.4,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
@@ -17257,7 +17257,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 7547.6,
+        ["points"] = 7547.3,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
@@ -17539,7 +17539,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 14,
-        ["points"] = 6658.1,
+        ["points"] = 6657.8,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
@@ -18056,7 +18056,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 7,
-        ["points"] = 7224.8,
+        ["points"] = 7224.5,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
@@ -18714,7 +18714,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 6488.0,
+        ["points"] = 6487.9,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
@@ -18808,7 +18808,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 21,
-        ["points"] = 6955.7,
+        ["points"] = 6955.4,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
@@ -19208,7 +19208,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 5121.4,
+        ["points"] = 5121.3,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 10,
@@ -19662,7 +19662,7 @@ UWULogsData[5][1] = {
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
-        ["points"] = 6194.0,
+        ["points"] = 6193.9,
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
@@ -20077,7 +20077,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 6233.5,
+        ["points"] = 6233.4,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
@@ -20124,7 +20124,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 6693.8,
+        ["points"] = 6693.5,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
@@ -20743,7 +20743,7 @@ UWULogsData[5][1] = {
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
-        ["points"] = 6177.6,
+        ["points"] = 6177.5,
       },
       ["Festergut"] = {
         ["kill_count"] = 6,
@@ -20923,7 +20923,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 7185.8,
+        ["points"] = 7185.5,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
@@ -21354,7 +21354,7 @@ UWULogsData[5][1] = {
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
-        ["points"] = 6146.5,
+        ["points"] = 6146.4,
       },
       ["Festergut"] = {
         ["kill_count"] = 12,
@@ -21769,7 +21769,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 6930.2,
+        ["points"] = 6929.9,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
@@ -22004,7 +22004,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 7,
-        ["points"] = 7484.0,
+        ["points"] = 7483.7,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
@@ -22991,7 +22991,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 13,
-        ["points"] = 7064.3,
+        ["points"] = 7064.0,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
@@ -23555,7 +23555,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 7138.1,
+        ["points"] = 7137.8,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
@@ -23696,7 +23696,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 7155.5,
+        ["points"] = 7155.2,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
@@ -23978,7 +23978,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 6405.0,
+        ["points"] = 6404.9,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
@@ -24049,7 +24049,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 5248.1,
+        ["points"] = 5248.0,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
@@ -24143,7 +24143,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
-        ["points"] = 5939.5,
+        ["points"] = 5939.4,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 17,
@@ -24213,7 +24213,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 13,
-        ["points"] = 7539.5,
+        ["points"] = 7539.2,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
@@ -24284,7 +24284,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 31,
-        ["points"] = 6062.9,
+        ["points"] = 6062.8,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 31,
@@ -24311,7 +24311,7 @@ UWULogsData[5][1] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 9001.4,
+        ["points"] = 9001.0,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -25012,7 +25012,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 6443.2,
+        ["points"] = 6443.1,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
@@ -25564,7 +25564,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 7496.0,
+        ["points"] = 7495.7,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
@@ -25705,7 +25705,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 7293.5,
+        ["points"] = 7293.2,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
@@ -26081,7 +26081,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 15,
-        ["points"] = 6303.9,
+        ["points"] = 6303.8,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
@@ -26152,7 +26152,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
-        ["points"] = 6415.9,
+        ["points"] = 6415.8,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 12,
@@ -26246,7 +26246,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 5638.6,
+        ["points"] = 5638.5,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
@@ -26363,7 +26363,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 6251.8,
+        ["points"] = 6251.7,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
@@ -26410,7 +26410,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 7270.4,
+        ["points"] = 7270.1,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
@@ -26763,7 +26763,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
-        ["points"] = 5370.4,
+        ["points"] = 5370.3,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 16,
@@ -26833,7 +26833,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 6259.9,
+        ["points"] = 6259.8,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
@@ -26880,7 +26880,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 7,
-        ["points"] = 7085.9,
+        ["points"] = 7085.6,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
@@ -26927,7 +26927,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 7124.6,
+        ["points"] = 7124.3,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
@@ -26951,7 +26951,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 5466.5,
+        ["points"] = 5466.4,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 24,
@@ -26974,7 +26974,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 6590.9,
+        ["points"] = 6590.6,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
@@ -27021,7 +27021,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 6528.4,
+        ["points"] = 6528.3,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
@@ -27068,7 +27068,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 8,
-        ["points"] = 6934.4,
+        ["points"] = 6934.1,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 19,
@@ -27186,7 +27186,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
-        ["points"] = 6412.7,
+        ["points"] = 6412.6,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 19,
@@ -27585,7 +27585,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 5973.2,
+        ["points"] = 5973.1,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
@@ -28008,7 +28008,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 7,
-        ["points"] = 7188.2,
+        ["points"] = 7187.9,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
@@ -28263,7 +28263,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
-        ["points"] = 6433.5,
+        ["points"] = 6433.4,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 10,
@@ -28380,7 +28380,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 8,
-        ["points"] = 6154.0,
+        ["points"] = 6153.9,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
@@ -28521,7 +28521,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 5783.0,
+        ["points"] = 5782.9,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
@@ -28850,7 +28850,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 6517.0,
+        ["points"] = 6516.9,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
@@ -28944,7 +28944,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 5779.6,
+        ["points"] = 5779.5,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
@@ -29038,7 +29038,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 7,
-        ["points"] = 7493.0,
+        ["points"] = 7492.7,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
@@ -29884,7 +29884,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 7205.9,
+        ["points"] = 7205.6,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
@@ -30495,7 +30495,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 11,
-        ["points"] = 7450.4,
+        ["points"] = 7450.1,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
@@ -30613,7 +30613,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
-        ["points"] = 6210.4,
+        ["points"] = 6210.3,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 17,
@@ -31365,7 +31365,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
-        ["points"] = 5333.1,
+        ["points"] = 5333.0,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 14,
@@ -31631,7 +31631,7 @@ UWULogsData[5][1] = {
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
-        ["points"] = 6174.5,
+        ["points"] = 6174.4,
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
@@ -31764,7 +31764,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 15,
-        ["points"] = 5865.5,
+        ["points"] = 5865.4,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
@@ -31898,14 +31898,61 @@ UWULogsData[5][1] = {
       },
     },
   },
-  ["Lineicka"] = {
+  ["Ateizam"] = {
     ["percentile"] = 86.3,
     ["server"] = "Icecrown",
     ["overall_rank"] = 681,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
+        ["kill_count"] = 8,
+        ["points"] = 8381.6,
+      },
+      ["Lady Deathwhisper"] = {
+        ["kill_count"] = 8,
+        ["points"] = 8932.7,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 7,
+        ["points"] = 9674.3,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 11,
+        ["points"] = 8939.0,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 12,
+        ["points"] = 7979.3,
+      },
+      ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 6767.9,
+        ["points"] = 9356.5,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 10,
+        ["points"] = 5489.9,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 11,
+        ["points"] = 9157.4,
+      },
+      ["Sindragosa"] = {
+        ["kill_count"] = 13,
+        ["points"] = 9560.5,
+      },
+      ["The Lich King"] = {
+        ["kill_count"] = 12,
+        ["points"] = 8818.7,
+      },
+    },
+  },
+  ["Lineicka"] = {
+    ["percentile"] = 86.3,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 682,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 10,
+        ["points"] = 6767.6,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
@@ -31942,53 +31989,6 @@ UWULogsData[5][1] = {
       ["The Lich King"] = {
         ["kill_count"] = 14,
         ["points"] = 8819.6,
-      },
-    },
-  },
-  ["Ateizam"] = {
-    ["percentile"] = 86.3,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 682,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 8,
-        ["points"] = 8381.6,
-      },
-      ["Lady Deathwhisper"] = {
-        ["kill_count"] = 8,
-        ["points"] = 8932.7,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 7,
-        ["points"] = 9674.3,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 11,
-        ["points"] = 8939.0,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 12,
-        ["points"] = 7979.3,
-      },
-      ["Professor Putricide"] = {
-        ["kill_count"] = 10,
-        ["points"] = 9356.5,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 10,
-        ["points"] = 5490.0,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 11,
-        ["points"] = 9157.4,
-      },
-      ["Sindragosa"] = {
-        ["kill_count"] = 13,
-        ["points"] = 9560.5,
-      },
-      ["The Lich King"] = {
-        ["kill_count"] = 12,
-        ["points"] = 8818.7,
       },
     },
   },
@@ -32187,7 +32187,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 5939.6,
+        ["points"] = 5939.5,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
@@ -32510,13 +32510,13 @@ UWULogsData[5][1] = {
     },
   },
   ["Mikeljorden"] = {
-    ["percentile"] = 86.15,
+    ["percentile"] = 86.14,
     ["server"] = "Icecrown",
     ["overall_rank"] = 694,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 5761.4,
+        ["points"] = 5761.3,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
@@ -32681,7 +32681,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 6204.8,
+        ["points"] = 6204.7,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
@@ -32798,7 +32798,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 7,
-        ["points"] = 7169.9,
+        ["points"] = 7169.6,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
@@ -32892,7 +32892,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 6615.2,
+        ["points"] = 6614.9,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
@@ -33080,7 +33080,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 6007.3,
+        ["points"] = 6007.2,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
@@ -33127,7 +33127,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 6383.7,
+        ["points"] = 6383.6,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
@@ -33315,7 +33315,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 7106.3,
+        ["points"] = 7106.0,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
@@ -33323,7 +33323,7 @@ UWULogsData[5][1] = {
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
-        ["points"] = 6188.0,
+        ["points"] = 6187.9,
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
@@ -33409,7 +33409,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 19,
-        ["points"] = 6422.9,
+        ["points"] = 6422.8,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
@@ -33503,7 +33503,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 5867.1,
+        ["points"] = 5867.0,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
@@ -33875,7 +33875,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 7328.0,
+        ["points"] = 7327.7,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
@@ -34181,7 +34181,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 5564.5,
+        ["points"] = 5564.4,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
@@ -34251,7 +34251,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 7523.3,
+        ["points"] = 7523.0,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
@@ -34322,7 +34322,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
-        ["points"] = 5896.5,
+        ["points"] = 5896.4,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 19,
@@ -34345,7 +34345,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 6838.1,
+        ["points"] = 6837.8,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
@@ -34627,7 +34627,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 7,
-        ["points"] = 7187.3,
+        ["points"] = 7187.0,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
@@ -34721,7 +34721,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 5693.8,
+        ["points"] = 5693.7,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
@@ -34768,7 +34768,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 6512.7,
+        ["points"] = 6512.6,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
@@ -34776,7 +34776,7 @@ UWULogsData[5][1] = {
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
-        ["points"] = 6222.9,
+        ["points"] = 6222.8,
       },
       ["Festergut"] = {
         ["kill_count"] = 4,
@@ -34815,7 +34815,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
-        ["points"] = 7343.3,
+        ["points"] = 7343.0,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
@@ -34862,11 +34862,11 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 5860.1,
+        ["points"] = 5860.0,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 9001.8,
+        ["points"] = 9001.4,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -35097,7 +35097,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 8,
-        ["points"] = 7327.1,
+        ["points"] = 7326.8,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
@@ -35121,7 +35121,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 5458.0,
+        ["points"] = 5457.9,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 15,
@@ -35144,7 +35144,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 5911.4,
+        ["points"] = 5911.3,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
@@ -35332,7 +35332,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 5822.2,
+        ["points"] = 5822.1,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
@@ -35685,7 +35685,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 5172.4,
+        ["points"] = 5172.3,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
@@ -35708,7 +35708,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 7568.0,
+        ["points"] = 7567.7,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
@@ -35849,7 +35849,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 6442.0,
+        ["points"] = 6441.9,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
@@ -35896,7 +35896,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 7042.1,
+        ["points"] = 7041.8,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
@@ -36045,7 +36045,7 @@ UWULogsData[5][1] = {
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
-        ["points"] = 6259.9,
+        ["points"] = 6259.8,
       },
       ["Festergut"] = {
         ["kill_count"] = 9,
@@ -36601,7 +36601,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 6947.6,
+        ["points"] = 6947.3,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
@@ -36883,7 +36883,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 6307.9,
+        ["points"] = 6307.8,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
@@ -37165,7 +37165,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 6796.7,
+        ["points"] = 6796.4,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
@@ -37306,7 +37306,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 12,
-        ["points"] = 6740.0,
+        ["points"] = 6739.7,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
@@ -37447,7 +37447,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 10,
-        ["points"] = 6542.6,
+        ["points"] = 6542.5,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
@@ -37541,7 +37541,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 7206.5,
+        ["points"] = 7206.2,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
@@ -37588,7 +37588,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 8,
-        ["points"] = 7553.0,
+        ["points"] = 7552.7,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
@@ -37659,7 +37659,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
-        ["points"] = 6410.9,
+        ["points"] = 6410.8,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 9,
@@ -37729,7 +37729,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 7537.1,
+        ["points"] = 7536.8,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
@@ -37823,7 +37823,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 5898.2,
+        ["points"] = 5898.1,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
@@ -38176,7 +38176,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 5935.3,
+        ["points"] = 5935.2,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
@@ -38998,7 +38998,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 7355.6,
+        ["points"] = 7355.3,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
@@ -39186,7 +39186,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 5716.2,
+        ["points"] = 5716.1,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
@@ -39210,7 +39210,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 5215.6,
+        ["points"] = 5215.5,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
@@ -39304,7 +39304,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 5910.6,
+        ["points"] = 5910.5,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 19,
@@ -39327,7 +39327,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
-        ["points"] = 6749.9,
+        ["points"] = 6749.6,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
@@ -39374,7 +39374,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 6245.8,
+        ["points"] = 6245.7,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
@@ -39515,7 +39515,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 10,
-        ["points"] = 7268.9,
+        ["points"] = 7268.6,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
@@ -39586,7 +39586,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
-        ["points"] = 6078.2,
+        ["points"] = 6078.1,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 15,
@@ -39750,7 +39750,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 7427.9,
+        ["points"] = 7427.6,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
@@ -40267,7 +40267,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 6254.9,
+        ["points"] = 6254.8,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
@@ -40361,7 +40361,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 10,
-        ["points"] = 5777.9,
+        ["points"] = 5777.8,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
@@ -40385,7 +40385,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
-        ["points"] = 5416.7,
+        ["points"] = 5416.6,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 21,
@@ -40432,7 +40432,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 5635.2,
+        ["points"] = 5635.1,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
@@ -40495,57 +40495,10 @@ UWULogsData[5][1] = {
       },
     },
   },
-  ["Athynaa"] = {
-    ["percentile"] = 84.2,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 864,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 13,
-        ["points"] = 7437.2,
-      },
-      ["Lady Deathwhisper"] = {
-        ["kill_count"] = 9,
-        ["points"] = 8471.6,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 2,
-        ["points"] = 8338.4,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 17,
-        ["points"] = 9129.8,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 12,
-        ["points"] = 7634.9,
-      },
-      ["Professor Putricide"] = {
-        ["kill_count"] = 9,
-        ["points"] = 8883.2,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 25,
-        ["points"] = 9233.0,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 25,
-        ["points"] = 8987.8,
-      },
-      ["Sindragosa"] = {
-        ["kill_count"] = 16,
-        ["points"] = 8004.8,
-      },
-      ["The Lich King"] = {
-        ["kill_count"] = 21,
-        ["points"] = 8073.5,
-      },
-    },
-  },
   ["Lanathal"] = {
     ["percentile"] = 84.2,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 865,
+    ["overall_rank"] = 864,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
@@ -40586,6 +40539,53 @@ UWULogsData[5][1] = {
       ["The Lich King"] = {
         ["kill_count"] = 3,
         ["points"] = 7162.7,
+      },
+    },
+  },
+  ["Athynaa"] = {
+    ["percentile"] = 84.2,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 865,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 13,
+        ["points"] = 7436.9,
+      },
+      ["Lady Deathwhisper"] = {
+        ["kill_count"] = 9,
+        ["points"] = 8471.6,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 2,
+        ["points"] = 8338.4,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 17,
+        ["points"] = 9129.8,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 12,
+        ["points"] = 7634.9,
+      },
+      ["Professor Putricide"] = {
+        ["kill_count"] = 9,
+        ["points"] = 8883.2,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 25,
+        ["points"] = 9233.0,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 25,
+        ["points"] = 8987.8,
+      },
+      ["Sindragosa"] = {
+        ["kill_count"] = 16,
+        ["points"] = 8004.8,
+      },
+      ["The Lich King"] = {
+        ["kill_count"] = 21,
+        ["points"] = 8073.5,
       },
     },
   },
@@ -40831,7 +40831,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 6512.5,
+        ["points"] = 6512.4,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
@@ -40855,7 +40855,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 5204.4,
+        ["points"] = 5204.3,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 22,
@@ -41019,7 +41019,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 6229.5,
+        ["points"] = 6229.4,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
@@ -41160,7 +41160,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 7444.4,
+        ["points"] = 7444.1,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
@@ -41168,7 +41168,7 @@ UWULogsData[5][1] = {
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
-        ["points"] = 6217.8,
+        ["points"] = 6217.7,
       },
       ["Festergut"] = {
         ["kill_count"] = 6,
@@ -41207,7 +41207,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
-        ["points"] = 6531.9,
+        ["points"] = 6531.8,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
@@ -41583,7 +41583,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 7,
-        ["points"] = 7411.4,
+        ["points"] = 7411.1,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
@@ -41591,7 +41591,7 @@ UWULogsData[5][1] = {
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
-        ["points"] = 6192.1,
+        ["points"] = 6192.0,
       },
       ["Festergut"] = {
         ["kill_count"] = 7,
@@ -41701,7 +41701,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 5576.4,
+        ["points"] = 5576.3,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
@@ -41912,7 +41912,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 6823.4,
+        ["points"] = 6823.1,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
@@ -41959,7 +41959,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 6235.2,
+        ["points"] = 6235.1,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
@@ -42034,7 +42034,7 @@ UWULogsData[5][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 5502.6,
+        ["points"] = 5502.5,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
@@ -42194,7 +42194,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 18,
-        ["points"] = 6817.4,
+        ["points"] = 6817.1,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
@@ -42359,7 +42359,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
-        ["points"] = 5644.5,
+        ["points"] = 5644.4,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 17,
@@ -42382,7 +42382,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 6460.5,
+        ["points"] = 6460.4,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
@@ -42476,7 +42476,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 6365.9,
+        ["points"] = 6365.8,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
@@ -42523,7 +42523,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
-        ["points"] = 6531.1,
+        ["points"] = 6531.0,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
@@ -42782,7 +42782,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 5967.1,
+        ["points"] = 5967.0,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -42946,7 +42946,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 5760.3,
+        ["points"] = 5760.2,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
@@ -42993,7 +42993,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 7322.6,
+        ["points"] = 7322.3,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
@@ -43134,7 +43134,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 5692.5,
+        ["points"] = 5692.4,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
@@ -43228,7 +43228,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 7173.8,
+        ["points"] = 7173.5,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
@@ -43236,7 +43236,7 @@ UWULogsData[5][1] = {
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
-        ["points"] = 6185.9,
+        ["points"] = 6185.8,
       },
       ["Festergut"] = {
         ["kill_count"] = 2,
@@ -43604,7 +43604,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 12,
-        ["points"] = 7087.7,
+        ["points"] = 7087.4,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
@@ -43651,7 +43651,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 5930.5,
+        ["points"] = 5930.4,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
@@ -43886,7 +43886,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 5924.4,
+        ["points"] = 5924.3,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
@@ -43957,7 +43957,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
-        ["points"] = 6409.9,
+        ["points"] = 6409.8,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 15,
@@ -44027,7 +44027,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
-        ["points"] = 6408.8,
+        ["points"] = 6408.7,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
@@ -44074,7 +44074,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 7527.2,
+        ["points"] = 7526.9,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
@@ -44168,7 +44168,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 7168.7,
+        ["points"] = 7168.4,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
@@ -44215,7 +44215,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 6859.1,
+        ["points"] = 6858.8,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
@@ -44309,7 +44309,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 10,
-        ["points"] = 6116.6,
+        ["points"] = 6116.5,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
@@ -44333,7 +44333,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 25,
-        ["points"] = 6452.3,
+        ["points"] = 6452.2,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 20,
@@ -44474,7 +44474,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 5818.3,
+        ["points"] = 5818.2,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
@@ -45010,7 +45010,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 7094.9,
+        ["points"] = 7094.6,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
@@ -45128,7 +45128,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 5618.7,
+        ["points"] = 5618.6,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 17,
@@ -45198,7 +45198,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 7560.2,
+        ["points"] = 7559.9,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
@@ -45504,7 +45504,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
-        ["points"] = 6241.7,
+        ["points"] = 6241.6,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 20,
@@ -45621,7 +45621,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 10,
-        ["points"] = 6679.1,
+        ["points"] = 6678.8,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
@@ -45668,7 +45668,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 7015.4,
+        ["points"] = 7015.1,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
@@ -45946,7 +45946,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 7573.4,
+        ["points"] = 7573.1,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
@@ -45954,7 +45954,7 @@ UWULogsData[5][1] = {
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
-        ["points"] = 6199.0,
+        ["points"] = 6198.9,
       },
       ["Festergut"] = {
         ["kill_count"] = 1,
@@ -46017,7 +46017,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
-        ["points"] = 5581.0,
+        ["points"] = 5580.9,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -46087,7 +46087,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 7198.7,
+        ["points"] = 7198.4,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
@@ -46162,7 +46162,7 @@ UWULogsData[5][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 5433.6,
+        ["points"] = 5433.5,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -46275,7 +46275,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 6319.5,
+        ["points"] = 6319.4,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
@@ -46322,7 +46322,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 6281.8,
+        ["points"] = 6281.7,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
@@ -46416,7 +46416,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 18,
-        ["points"] = 7188.5,
+        ["points"] = 7188.2,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
@@ -46463,7 +46463,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 5920.7,
+        ["points"] = 5920.6,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
@@ -46510,7 +46510,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 5876.4,
+        ["points"] = 5876.3,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
@@ -46698,7 +46698,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 5952.1,
+        ["points"] = 5952.0,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
@@ -46745,7 +46745,7 @@ UWULogsData[5][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 10,
-        ["points"] = 5958.7,
+        ["points"] = 5958.6,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
@@ -46863,7 +46863,7 @@ UWULogsData[5][1] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 5620.3,
+        ["points"] = 5620.2,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 10,

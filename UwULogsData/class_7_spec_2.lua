@@ -15350,7 +15350,7 @@ UWULogsData[7][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 6189.2,
+        ["points"] = 6189.1,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -35641,7 +35641,7 @@ UWULogsData[7][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 5282.4,
+        ["points"] = 5282.3,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
@@ -35665,7 +35665,7 @@ UWULogsData[7][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 5294.7,
+        ["points"] = 5294.6,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
