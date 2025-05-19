@@ -4462,11 +4462,11 @@ UWULogsData[9][1] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 6071.4,
+        ["points"] = 6071.2,
       },
       ["Rotface"] = {
         ["kill_count"] = 6,
-        ["points"] = 5779.3,
+        ["points"] = 5779.1,
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
@@ -4478,7 +4478,7 @@ UWULogsData[9][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 6507.1,
+        ["points"] = 6507.0,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,

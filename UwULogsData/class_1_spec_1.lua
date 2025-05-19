@@ -232,7 +232,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 77,
-        ["points"] = 9963.14,
+        ["points"] = 9963.15,
       },
     },
   },
@@ -279,7 +279,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 9949.32,
+        ["points"] = 9949.33,
       },
     },
   },
@@ -420,7 +420,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 40,
-        ["points"] = 9884.83,
+        ["points"] = 9884.85,
       },
     },
   },
@@ -467,7 +467,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 61,
-        ["points"] = 9984.64,
+        ["points"] = 9984.65,
       },
     },
   },
@@ -514,7 +514,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 88,
-        ["points"] = 9923.22,
+        ["points"] = 9923.23,
       },
     },
   },
@@ -561,7 +561,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 37,
-        ["points"] = 9987.71,
+        ["points"] = 9987.72,
       },
     },
   },
@@ -608,7 +608,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 45,
-        ["points"] = 9970.82,
+        ["points"] = 9970.83,
       },
     },
   },
@@ -749,7 +749,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 55,
-        ["points"] = 9981.57,
+        ["points"] = 9981.58,
       },
     },
   },
@@ -796,7 +796,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 48,
-        ["points"] = 9960.07,
+        ["points"] = 9960.08,
       },
     },
   },
@@ -843,7 +843,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9927.83,
+        ["points"] = 9927.84,
       },
     },
   },
@@ -890,7 +890,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9953.93,
+        ["points"] = 9953.94,
       },
     },
   },
@@ -937,7 +937,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 47,
-        ["points"] = 9889.43,
+        ["points"] = 9889.45,
       },
     },
   },
@@ -984,7 +984,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9858.72,
+        ["points"] = 9858.74,
       },
     },
   },
@@ -1031,7 +1031,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 52,
-        ["points"] = 9861.79,
+        ["points"] = 9861.81,
       },
     },
   },
@@ -1078,7 +1078,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 52,
-        ["points"] = 9938.57,
+        ["points"] = 9938.58,
       },
     },
   },
@@ -1125,7 +1125,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 39,
-        ["points"] = 9742.01,
+        ["points"] = 9742.05,
       },
     },
   },
@@ -1172,7 +1172,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 88,
-        ["points"] = 9921.68,
+        ["points"] = 9921.7,
       },
     },
   },
@@ -1266,7 +1266,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 9926.29,
+        ["points"] = 9926.3,
       },
     },
   },
@@ -1313,7 +1313,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 51,
-        ["points"] = 9890.97,
+        ["points"] = 9890.99,
       },
     },
   },
@@ -1360,7 +1360,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 41,
-        ["points"] = 9943.18,
+        ["points"] = 9943.19,
       },
     },
   },
@@ -1454,7 +1454,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 39,
-        ["points"] = 9950.86,
+        ["points"] = 9950.87,
       },
     },
   },
@@ -1501,7 +1501,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 53,
-        ["points"] = 9944.72,
+        ["points"] = 9944.73,
       },
     },
   },
@@ -1642,7 +1642,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 9831.08,
+        ["points"] = 9831.11,
       },
     },
   },
@@ -1689,7 +1689,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 50,
-        ["points"] = 9941.65,
+        ["points"] = 9941.66,
       },
     },
   },
@@ -1736,7 +1736,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 41,
-        ["points"] = 9723.59,
+        ["points"] = 9723.63,
       },
     },
   },
@@ -1783,7 +1783,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 42,
-        ["points"] = 9947.79,
+        ["points"] = 9947.8,
       },
     },
   },
@@ -1830,7 +1830,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 43,
-        ["points"] = 9909.4,
+        ["points"] = 9909.41,
       },
     },
   },
@@ -1877,7 +1877,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 29,
-        ["points"] = 9869.47,
+        ["points"] = 9869.49,
       },
     },
   },
@@ -1924,7 +1924,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 9818.8,
+        ["points"] = 9818.82,
       },
     },
   },
@@ -1971,7 +1971,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 64,
-        ["points"] = 9648.34,
+        ["points"] = 9648.4,
       },
     },
   },
@@ -2018,7 +2018,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 34,
-        ["points"] = 9915.54,
+        ["points"] = 9915.55,
       },
     },
   },
@@ -2065,7 +2065,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 55,
-        ["points"] = 9946.25,
+        ["points"] = 9946.26,
       },
     },
   },
@@ -2112,7 +2112,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 49,
-        ["points"] = 9967.75,
+        ["points"] = 9967.76,
       },
     },
   },
@@ -2159,7 +2159,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 9824.94,
+        ["points"] = 9824.97,
       },
     },
   },
@@ -2206,7 +2206,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9749.69,
+        ["points"] = 9749.73,
       },
     },
   },
@@ -2253,7 +2253,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 32,
-        ["points"] = 9815.72,
+        ["points"] = 9815.75,
       },
     },
   },
@@ -2300,7 +2300,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9892.51,
+        ["points"] = 9892.52,
       },
     },
   },
@@ -2347,7 +2347,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 31,
-        ["points"] = 9872.54,
+        ["points"] = 9872.56,
       },
     },
   },
@@ -2394,7 +2394,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 9745.09,
+        ["points"] = 9745.13,
       },
     },
   },
@@ -2441,7 +2441,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9801.9,
+        ["points"] = 9801.93,
       },
     },
   },
@@ -2488,7 +2488,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 38,
-        ["points"] = 9857.19,
+        ["points"] = 9857.21,
       },
     },
   },
@@ -2535,7 +2535,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9685.2,
+        ["points"] = 9685.24,
       },
     },
   },
@@ -2582,7 +2582,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 31,
-        ["points"] = 9851.04,
+        ["points"] = 9851.07,
       },
     },
   },
@@ -2629,7 +2629,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 49,
-        ["points"] = 9748.16,
+        ["points"] = 9748.2,
       },
     },
   },
@@ -2676,7 +2676,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 36,
-        ["points"] = 9883.29,
+        ["points"] = 9883.31,
       },
     },
   },
@@ -2723,7 +2723,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 31,
-        ["points"] = 9838.76,
+        ["points"] = 9838.78,
       },
     },
   },
@@ -2770,7 +2770,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 9611.49,
+        ["points"] = 9611.55,
       },
     },
   },
@@ -2817,7 +2817,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 38,
-        ["points"] = 9789.62,
+        ["points"] = 9789.65,
       },
     },
   },
@@ -2864,7 +2864,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 30,
-        ["points"] = 9740.48,
+        ["points"] = 9740.52,
       },
     },
   },
@@ -2911,7 +2911,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 37,
-        ["points"] = 9878.69,
+        ["points"] = 9878.7,
       },
     },
   },
@@ -2958,7 +2958,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 38,
-        ["points"] = 9783.48,
+        ["points"] = 9783.51,
       },
     },
   },
@@ -3005,7 +3005,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 9973.89,
+        ["points"] = 9973.9,
       },
     },
   },
@@ -3099,7 +3099,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 41,
-        ["points"] = 9712.84,
+        ["points"] = 9712.88,
       },
     },
   },
@@ -3146,7 +3146,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 9929.36,
+        ["points"] = 9929.37,
       },
     },
   },
@@ -3193,7 +3193,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 9881.76,
+        ["points"] = 9881.77,
       },
     },
   },
@@ -3240,7 +3240,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 42,
-        ["points"] = 9832.62,
+        ["points"] = 9832.64,
       },
     },
   },
@@ -3287,7 +3287,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 29,
-        ["points"] = 9837.22,
+        ["points"] = 9837.25,
       },
     },
   },
@@ -3309,7 +3309,7 @@ UWULogsData[1][1] = {
         ["points"] = 9741.97,
       },
       ["Festergut"] = {
-        ["kill_count"] = 45,
+        ["kill_count"] = 46,
         ["points"] = 9891.99,
       },
       ["Rotface"] = {
@@ -3317,15 +3317,15 @@ UWULogsData[1][1] = {
         ["points"] = 9937.99,
       },
       ["Professor Putricide"] = {
-        ["kill_count"] = 41,
+        ["kill_count"] = 42,
         ["points"] = 9944.82,
       },
       ["Blood Prince Council"] = {
-        ["kill_count"] = 44,
+        ["kill_count"] = 45,
         ["points"] = 9834.98,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 42,
+        ["kill_count"] = 43,
         ["points"] = 9877.99,
       },
       ["Sindragosa"] = {
@@ -3333,8 +3333,8 @@ UWULogsData[1][1] = {
         ["points"] = 9711.45,
       },
       ["The Lich King"] = {
-        ["kill_count"] = 40,
-        ["points"] = 9957.0,
+        ["kill_count"] = 41,
+        ["points"] = 9957.01,
       },
     },
   },
@@ -3381,7 +3381,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 30,
-        ["points"] = 9886.36,
+        ["points"] = 9886.38,
       },
     },
   },
@@ -3428,7 +3428,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 38,
-        ["points"] = 9732.8,
+        ["points"] = 9732.84,
       },
     },
   },
@@ -3475,7 +3475,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 9705.16,
+        ["points"] = 9705.2,
       },
     },
   },
@@ -3522,7 +3522,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 45,
-        ["points"] = 9761.98,
+        ["points"] = 9762.01,
       },
     },
   },
@@ -3569,7 +3569,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 52,
-        ["points"] = 9823.4,
+        ["points"] = 9823.43,
       },
     },
   },
@@ -3616,7 +3616,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 30,
-        ["points"] = 9559.28,
+        ["points"] = 9559.34,
       },
     },
   },
@@ -3663,7 +3663,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 28,
-        ["points"] = 9935.5,
+        ["points"] = 9935.51,
       },
     },
   },
@@ -3710,7 +3710,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9735.87,
+        ["points"] = 9735.91,
       },
     },
   },
@@ -3757,7 +3757,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 42,
-        ["points"] = 9751.23,
+        ["points"] = 9751.27,
       },
     },
   },
@@ -3804,7 +3804,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9910.93,
+        ["points"] = 9910.95,
       },
     },
   },
@@ -3851,7 +3851,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9933.97,
+        ["points"] = 9933.98,
       },
     },
   },
@@ -3898,7 +3898,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 33,
-        ["points"] = 9631.45,
+        ["points"] = 9631.51,
       },
     },
   },
@@ -3992,7 +3992,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 42,
-        ["points"] = 9574.63,
+        ["points"] = 9574.7,
       },
     },
   },
@@ -4039,7 +4039,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 9912.47,
+        ["points"] = 9912.48,
       },
     },
   },
@@ -4086,7 +4086,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 42,
-        ["points"] = 9602.27,
+        ["points"] = 9602.33,
       },
     },
   },
@@ -4133,7 +4133,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 9828.01,
+        ["points"] = 9828.04,
       },
     },
   },
@@ -4180,7 +4180,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9726.66,
+        ["points"] = 9726.7,
       },
     },
   },
@@ -4227,7 +4227,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 9834.15,
+        ["points"] = 9834.18,
       },
     },
   },
@@ -4274,7 +4274,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 9914.0,
+        ["points"] = 9914.02,
       },
     },
   },
@@ -4368,7 +4368,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 9814.19,
+        ["points"] = 9814.22,
       },
     },
   },
@@ -4415,7 +4415,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 31,
-        ["points"] = 9840.29,
+        ["points"] = 9840.32,
       },
     },
   },
@@ -4462,7 +4462,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 88,
-        ["points"] = 9755.84,
+        ["points"] = 9755.87,
       },
     },
   },
@@ -4509,7 +4509,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 29,
-        ["points"] = 9654.48,
+        ["points"] = 9654.54,
       },
     },
   },
@@ -4556,7 +4556,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9863.33,
+        ["points"] = 9863.35,
       },
     },
   },
@@ -4603,7 +4603,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9800.37,
+        ["points"] = 9800.4,
       },
     },
   },
@@ -4650,7 +4650,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9812.65,
+        ["points"] = 9812.68,
       },
     },
   },
@@ -4697,7 +4697,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 34,
-        ["points"] = 9651.41,
+        ["points"] = 9651.47,
       },
     },
   },
@@ -4744,7 +4744,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 34,
-        ["points"] = 9657.56,
+        ["points"] = 9657.61,
       },
     },
   },
@@ -4791,7 +4791,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9918.61,
+        ["points"] = 9918.62,
       },
     },
   },
@@ -4838,7 +4838,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9697.48,
+        ["points"] = 9697.53,
       },
     },
   },
@@ -4885,7 +4885,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 44,
-        ["points"] = 9689.8,
+        ["points"] = 9689.85,
       },
     },
   },
@@ -4932,7 +4932,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9897.11,
+        ["points"] = 9897.13,
       },
     },
   },
@@ -4979,7 +4979,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 34,
-        ["points"] = 9768.12,
+        ["points"] = 9768.16,
       },
     },
   },
@@ -5026,7 +5026,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 74,
-        ["points"] = 9847.97,
+        ["points"] = 9848.0,
       },
     },
   },
@@ -5073,7 +5073,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9616.09,
+        ["points"] = 9616.15,
       },
     },
   },
@@ -5120,7 +5120,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 56,
-        ["points"] = 9854.12,
+        ["points"] = 9854.14,
       },
     },
   },
@@ -5167,7 +5167,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9798.83,
+        ["points"] = 9798.86,
       },
     },
   },
@@ -5214,7 +5214,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 31,
-        ["points"] = 9614.56,
+        ["points"] = 9614.62,
       },
     },
   },
@@ -5261,7 +5261,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 51,
-        ["points"] = 9467.14,
+        ["points"] = 9467.22,
       },
     },
   },
@@ -5308,7 +5308,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 50,
-        ["points"] = 9402.64,
+        ["points"] = 9402.73,
       },
     },
   },
@@ -5355,7 +5355,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 32,
-        ["points"] = 9907.86,
+        ["points"] = 9907.88,
       },
     },
   },
@@ -5402,7 +5402,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9477.89,
+        ["points"] = 9477.97,
       },
     },
   },
@@ -5449,7 +5449,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9565.42,
+        ["points"] = 9565.48,
       },
     },
   },
@@ -5496,7 +5496,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 28,
-        ["points"] = 9235.26,
+        ["points"] = 9235.38,
       },
     },
   },
@@ -5543,7 +5543,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 50,
-        ["points"] = 9591.52,
+        ["points"] = 9591.59,
       },
     },
   },
@@ -5590,7 +5590,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 28,
-        ["points"] = 9835.69,
+        ["points"] = 9835.71,
       },
     },
   },
@@ -5637,7 +5637,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 34,
-        ["points"] = 9669.84,
+        ["points"] = 9669.89,
       },
     },
   },
@@ -5684,7 +5684,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9821.87,
+        ["points"] = 9821.89,
       },
     },
   },
@@ -5731,7 +5731,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 30,
-        ["points"] = 9844.9,
+        ["points"] = 9844.93,
       },
     },
   },
@@ -5778,7 +5778,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 36,
-        ["points"] = 9791.15,
+        ["points"] = 9791.19,
       },
     },
   },
@@ -5825,7 +5825,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 32,
-        ["points"] = 9508.6,
+        ["points"] = 9508.67,
       },
     },
   },
@@ -5872,7 +5872,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 44,
-        ["points"] = 9852.58,
+        ["points"] = 9852.6,
       },
     },
   },
@@ -5919,7 +5919,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 28,
-        ["points"] = 9485.57,
+        ["points"] = 9485.64,
       },
     },
   },
@@ -5966,7 +5966,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 42,
-        ["points"] = 9940.11,
+        ["points"] = 9940.12,
       },
     },
   },
@@ -6013,7 +6013,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9901.72,
+        ["points"] = 9901.73,
       },
     },
   },
@@ -6060,7 +6060,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9961.61,
+        ["points"] = 9961.62,
       },
     },
   },
@@ -6107,7 +6107,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 34,
-        ["points"] = 9849.51,
+        ["points"] = 9849.53,
       },
     },
   },
@@ -6201,7 +6201,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 9609.95,
+        ["points"] = 9610.01,
       },
     },
   },
@@ -6248,7 +6248,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 31,
-        ["points"] = 9680.59,
+        ["points"] = 9680.64,
       },
     },
   },
@@ -6295,7 +6295,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9843.37,
+        ["points"] = 9843.39,
       },
     },
   },
@@ -6342,7 +6342,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9765.05,
+        ["points"] = 9765.09,
       },
     },
   },
@@ -6389,7 +6389,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 9898.65,
+        ["points"] = 9898.66,
       },
     },
   },
@@ -6436,7 +6436,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 46,
-        ["points"] = 9405.71,
+        ["points"] = 9405.8,
       },
     },
   },
@@ -6483,7 +6483,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9778.87,
+        ["points"] = 9778.9,
       },
     },
   },
@@ -6530,7 +6530,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 9473.28,
+        ["points"] = 9473.36,
       },
     },
   },
@@ -6577,7 +6577,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9576.17,
+        ["points"] = 9576.23,
       },
     },
   },
@@ -6624,7 +6624,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9692.87,
+        ["points"] = 9692.92,
       },
     },
   },
@@ -6671,7 +6671,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 63,
-        ["points"] = 9803.44,
+        ["points"] = 9803.47,
       },
     },
   },
@@ -6718,7 +6718,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9645.27,
+        ["points"] = 9645.32,
       },
     },
   },
@@ -6765,7 +6765,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 36,
-        ["points"] = 9299.75,
+        ["points"] = 9299.86,
       },
     },
   },
@@ -6812,7 +6812,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9539.31,
+        ["points"] = 9539.38,
       },
     },
   },
@@ -6859,7 +6859,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 39,
-        ["points"] = 9729.73,
+        ["points"] = 9729.77,
       },
     },
   },
@@ -6906,7 +6906,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9866.4,
+        ["points"] = 9866.42,
       },
     },
   },
@@ -6953,7 +6953,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 37,
-        ["points"] = 9806.51,
+        ["points"] = 9806.54,
       },
     },
   },
@@ -7000,7 +7000,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9279.79,
+        ["points"] = 9279.9,
       },
     },
   },
@@ -7047,7 +7047,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9829.55,
+        ["points"] = 9829.57,
       },
     },
   },
@@ -7094,7 +7094,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 9284.4,
+        ["points"] = 9284.51,
       },
     },
   },
@@ -7141,61 +7141,14 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 30,
-        ["points"] = 9585.38,
-      },
-    },
-  },
-  ["Inkolito"] = {
-    ["percentile"] = 96.83,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 153,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 27,
-        ["points"] = 9969.0,
-      },
-      ["Lady Deathwhisper"] = {
-        ["kill_count"] = 22,
-        ["points"] = 9397.56,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 26,
-        ["points"] = 9750.98,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 26,
-        ["points"] = 9892.99,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 25,
-        ["points"] = 9920.99,
-      },
-      ["Professor Putricide"] = {
-        ["kill_count"] = 23,
-        ["points"] = 9557.22,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 26,
-        ["points"] = 9934.99,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 26,
-        ["points"] = 8524.85,
-      },
-      ["Sindragosa"] = {
-        ["kill_count"] = 19,
-        ["points"] = 9915.48,
-      },
-      ["The Lich King"] = {
-        ["kill_count"] = 20,
-        ["points"] = 9906.33,
+        ["points"] = 9585.44,
       },
     },
   },
   ["Savageroar"] = {
     ["percentile"] = 96.83,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 154,
+    ["overall_rank"] = 153,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 19,
@@ -7235,7 +7188,54 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9557.74,
+        ["points"] = 9557.81,
+      },
+    },
+  },
+  ["Inkolito"] = {
+    ["percentile"] = 96.83,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 154,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 27,
+        ["points"] = 9969.0,
+      },
+      ["Lady Deathwhisper"] = {
+        ["kill_count"] = 22,
+        ["points"] = 9397.56,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 26,
+        ["points"] = 9750.98,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 26,
+        ["points"] = 9892.99,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 25,
+        ["points"] = 9920.99,
+      },
+      ["Professor Putricide"] = {
+        ["kill_count"] = 23,
+        ["points"] = 9557.22,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 26,
+        ["points"] = 9934.99,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 26,
+        ["points"] = 8524.85,
+      },
+      ["Sindragosa"] = {
+        ["kill_count"] = 19,
+        ["points"] = 9915.48,
+      },
+      ["The Lich King"] = {
+        ["kill_count"] = 20,
+        ["points"] = 9906.34,
       },
     },
   },
@@ -7282,7 +7282,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9063.27,
+        ["points"] = 9063.41,
       },
     },
   },
@@ -7329,7 +7329,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9332.0,
+        ["points"] = 9332.11,
       },
     },
   },
@@ -7376,7 +7376,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9855.65,
+        ["points"] = 9855.67,
       },
     },
   },
@@ -7423,7 +7423,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 9760.44,
+        ["points"] = 9760.48,
       },
     },
   },
@@ -7517,7 +7517,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 29,
-        ["points"] = 9746.62,
+        ["points"] = 9746.66,
       },
     },
   },
@@ -7564,7 +7564,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9593.06,
+        ["points"] = 9593.12,
       },
     },
   },
@@ -7611,7 +7611,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 9571.56,
+        ["points"] = 9571.63,
       },
     },
   },
@@ -7658,7 +7658,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9808.05,
+        ["points"] = 9808.08,
       },
     },
   },
@@ -7705,7 +7705,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 9646.81,
+        ["points"] = 9646.86,
       },
     },
   },
@@ -7752,7 +7752,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 37,
-        ["points"] = 9743.55,
+        ["points"] = 9743.59,
       },
     },
   },
@@ -7799,7 +7799,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 29,
-        ["points"] = 8978.81,
+        ["points"] = 8978.97,
       },
     },
   },
@@ -7846,7 +7846,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 31,
-        ["points"] = 9219.9,
+        ["points"] = 9220.02,
       },
     },
   },
@@ -7893,7 +7893,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 9554.67,
+        ["points"] = 9554.74,
       },
     },
   },
@@ -7940,7 +7940,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 32,
-        ["points"] = 9563.88,
+        ["points"] = 9563.95,
       },
     },
   },
@@ -7987,7 +7987,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9373.46,
+        ["points"] = 9373.56,
       },
     },
   },
@@ -8034,7 +8034,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 66,
-        ["points"] = 9632.99,
+        ["points"] = 9633.04,
       },
     },
   },
@@ -8081,7 +8081,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9537.78,
+        ["points"] = 9537.85,
       },
     },
   },
@@ -8128,7 +8128,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 9711.3,
+        ["points"] = 9711.35,
       },
     },
   },
@@ -8175,7 +8175,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 39,
-        ["points"] = 9548.53,
+        ["points"] = 9548.6,
       },
     },
   },
@@ -8222,7 +8222,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9788.08,
+        ["points"] = 9788.12,
       },
     },
   },
@@ -8269,7 +8269,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9804.98,
+        ["points"] = 9805.01,
       },
     },
   },
@@ -8316,7 +8316,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 9606.88,
+        ["points"] = 9606.94,
       },
     },
   },
@@ -8363,7 +8363,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 52,
-        ["points"] = 9490.17,
+        ["points"] = 9490.25,
       },
     },
   },
@@ -8410,7 +8410,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9903.26,
+        ["points"] = 9903.27,
       },
     },
   },
@@ -8457,7 +8457,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 32,
-        ["points"] = 9407.25,
+        ["points"] = 9407.34,
       },
     },
   },
@@ -8504,7 +8504,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 33,
-        ["points"] = 9679.05,
+        ["points"] = 9679.1,
       },
     },
   },
@@ -8551,7 +8551,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9702.09,
+        ["points"] = 9702.13,
       },
     },
   },
@@ -8598,7 +8598,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9619.16,
+        ["points"] = 9619.22,
       },
     },
   },
@@ -8645,7 +8645,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 38,
-        ["points"] = 9720.52,
+        ["points"] = 9720.56,
       },
     },
   },
@@ -8692,7 +8692,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 30,
-        ["points"] = 9550.06,
+        ["points"] = 9550.13,
       },
     },
   },
@@ -8739,7 +8739,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 9239.86,
+        ["points"] = 9239.98,
       },
     },
   },
@@ -8786,7 +8786,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9964.68,
+        ["points"] = 9964.69,
       },
     },
   },
@@ -8833,7 +8833,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9826.47,
+        ["points"] = 9826.5,
       },
     },
   },
@@ -8880,7 +8880,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 31,
-        ["points"] = 9388.82,
+        ["points"] = 9388.91,
       },
     },
   },
@@ -8927,7 +8927,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 45,
-        ["points"] = 9666.77,
+        ["points"] = 9666.82,
       },
     },
   },
@@ -8974,7 +8974,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 9169.23,
+        ["points"] = 9169.35,
       },
     },
   },
@@ -9021,7 +9021,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 42,
-        ["points"] = 9867.94,
+        ["points"] = 9867.96,
       },
     },
   },
@@ -9068,7 +9068,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 9820.33,
+        ["points"] = 9820.36,
       },
     },
   },
@@ -9115,7 +9115,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 9877.15,
+        ["points"] = 9877.17,
       },
     },
   },
@@ -9162,7 +9162,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9795.76,
+        ["points"] = 9795.79,
       },
     },
   },
@@ -9209,7 +9209,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 31,
-        ["points"] = 8375.31,
+        ["points"] = 8375.56,
       },
     },
   },
@@ -9256,7 +9256,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 9081.7,
+        ["points"] = 9081.84,
       },
     },
   },
@@ -9303,7 +9303,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9491.71,
+        ["points"] = 9491.79,
       },
     },
   },
@@ -9350,7 +9350,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9772.73,
+        ["points"] = 9772.76,
       },
     },
   },
@@ -9397,7 +9397,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9540.85,
+        ["points"] = 9540.92,
       },
     },
   },
@@ -9444,7 +9444,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9920.15,
+        ["points"] = 9920.16,
       },
     },
   },
@@ -9491,7 +9491,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 33,
-        ["points"] = 9246.01,
+        ["points"] = 9246.12,
       },
     },
   },
@@ -9538,7 +9538,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 9703.62,
+        ["points"] = 9703.67,
       },
     },
   },
@@ -9585,7 +9585,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 9809.58,
+        ["points"] = 9809.61,
       },
     },
   },
@@ -9632,7 +9632,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 9553.13,
+        ["points"] = 9553.2,
       },
     },
   },
@@ -9679,7 +9679,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9625.31,
+        ["points"] = 9625.36,
       },
     },
   },
@@ -9726,7 +9726,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 28,
-        ["points"] = 9318.18,
+        ["points"] = 9318.29,
       },
     },
   },
@@ -9773,7 +9773,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9860.26,
+        ["points"] = 9860.28,
       },
     },
   },
@@ -9867,7 +9867,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 9880.22,
+        ["points"] = 9880.24,
       },
     },
   },
@@ -9914,7 +9914,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 29,
-        ["points"] = 9287.47,
+        ["points"] = 9287.58,
       },
     },
   },
@@ -9961,7 +9961,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9887.9,
+        ["points"] = 9887.92,
       },
     },
   },
@@ -10008,7 +10008,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9708.23,
+        ["points"] = 9708.28,
       },
     },
   },
@@ -10055,7 +10055,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 9763.51,
+        ["points"] = 9763.55,
       },
     },
   },
@@ -10102,7 +10102,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 38,
-        ["points"] = 9728.19,
+        ["points"] = 9728.24,
       },
     },
   },
@@ -10149,7 +10149,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 9668.3,
+        ["points"] = 9668.36,
       },
     },
   },
@@ -10196,7 +10196,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 47,
-        ["points"] = 9871.01,
+        ["points"] = 9871.03,
       },
     },
   },
@@ -10243,7 +10243,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9487.1,
+        ["points"] = 9487.18,
       },
     },
   },
@@ -10290,7 +10290,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 38,
-        ["points"] = 9622.24,
+        ["points"] = 9622.29,
       },
     },
   },
@@ -10337,7 +10337,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 9542.38,
+        ["points"] = 9542.45,
       },
     },
   },
@@ -10384,7 +10384,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9659.09,
+        ["points"] = 9659.14,
       },
     },
   },
@@ -10431,7 +10431,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9722.05,
+        ["points"] = 9722.09,
       },
     },
   },
@@ -10478,7 +10478,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9662.16,
+        ["points"] = 9662.21,
       },
     },
   },
@@ -10525,7 +10525,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 33,
-        ["points"] = 9396.5,
+        ["points"] = 9396.59,
       },
     },
   },
@@ -10572,7 +10572,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 38,
-        ["points"] = 9371.93,
+        ["points"] = 9372.03,
       },
     },
   },
@@ -10619,7 +10619,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 63,
-        ["points"] = 8880.53,
+        ["points"] = 8880.7,
       },
     },
   },
@@ -10666,7 +10666,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 34,
-        ["points"] = 9255.22,
+        ["points"] = 9255.34,
       },
     },
   },
@@ -10713,7 +10713,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 34,
-        ["points"] = 9642.2,
+        ["points"] = 9642.25,
       },
     },
   },
@@ -10760,7 +10760,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 9757.37,
+        ["points"] = 9757.41,
       },
     },
   },
@@ -10807,61 +10807,14 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 9874.08,
-      },
-    },
-  },
-  ["Trapstars"] = {
-    ["percentile"] = 95.43,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 231,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 32,
-        ["points"] = 9876.99,
-      },
-      ["Lady Deathwhisper"] = {
-        ["kill_count"] = 33,
-        ["points"] = 9514.11,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 40,
-        ["points"] = 9922.99,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 40,
-        ["points"] = 9775.98,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 40,
-        ["points"] = 9837.98,
-      },
-      ["Professor Putricide"] = {
-        ["kill_count"] = 36,
-        ["points"] = 8881.88,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 39,
-        ["points"] = 9849.98,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 39,
-        ["points"] = 8634.86,
-      },
-      ["Sindragosa"] = {
-        ["kill_count"] = 38,
-        ["points"] = 9584.67,
-      },
-      ["The Lich King"] = {
-        ["kill_count"] = 36,
-        ["points"] = 9494.78,
+        ["points"] = 9874.1,
       },
     },
   },
   ["Pikachurqa"] = {
     ["percentile"] = 95.43,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 232,
+    ["overall_rank"] = 231,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 26,
@@ -10901,7 +10854,54 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 9285.93,
+        ["points"] = 9286.04,
+      },
+    },
+  },
+  ["Trapstars"] = {
+    ["percentile"] = 95.43,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 232,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 32,
+        ["points"] = 9876.99,
+      },
+      ["Lady Deathwhisper"] = {
+        ["kill_count"] = 33,
+        ["points"] = 9514.11,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 40,
+        ["points"] = 9922.99,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 40,
+        ["points"] = 9775.98,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 40,
+        ["points"] = 9837.98,
+      },
+      ["Professor Putricide"] = {
+        ["kill_count"] = 36,
+        ["points"] = 8881.88,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 39,
+        ["points"] = 9849.98,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 39,
+        ["points"] = 8634.86,
+      },
+      ["Sindragosa"] = {
+        ["kill_count"] = 38,
+        ["points"] = 9584.67,
+      },
+      ["The Lich King"] = {
+        ["kill_count"] = 36,
+        ["points"] = 9494.86,
       },
     },
   },
@@ -10948,7 +10948,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 9634.52,
+        ["points"] = 9634.58,
       },
     },
   },
@@ -10995,7 +10995,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9937.04,
+        ["points"] = 9937.05,
       },
     },
   },
@@ -11042,7 +11042,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9794.23,
+        ["points"] = 9794.26,
       },
     },
   },
@@ -11089,7 +11089,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 9322.79,
+        ["points"] = 9322.89,
       },
     },
   },
@@ -11136,7 +11136,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 49,
-        ["points"] = 9688.27,
+        ["points"] = 9688.32,
       },
     },
   },
@@ -11183,7 +11183,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 33,
-        ["points"] = 9636.06,
+        ["points"] = 9636.11,
       },
     },
   },
@@ -11230,7 +11230,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 9841.83,
+        ["points"] = 9841.85,
       },
     },
   },
@@ -11277,7 +11277,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9718.98,
+        ["points"] = 9719.02,
       },
     },
   },
@@ -11324,7 +11324,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 31,
-        ["points"] = 9599.2,
+        ["points"] = 9599.26,
       },
     },
   },
@@ -11371,7 +11371,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9637.59,
+        ["points"] = 9637.65,
       },
     },
   },
@@ -11418,7 +11418,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 29,
-        ["points"] = 9067.87,
+        ["points"] = 9068.02,
       },
     },
   },
@@ -11465,7 +11465,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 28,
-        ["points"] = 8111.18,
+        ["points"] = 8111.47,
       },
     },
   },
@@ -11512,7 +11512,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 31,
-        ["points"] = 9215.29,
+        ["points"] = 9215.42,
       },
     },
   },
@@ -11559,7 +11559,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9493.24,
+        ["points"] = 9493.32,
       },
     },
   },
@@ -11606,7 +11606,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9523.96,
+        ["points"] = 9524.03,
       },
     },
   },
@@ -11653,7 +11653,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 28,
-        ["points"] = 9771.19,
+        ["points"] = 9771.23,
       },
     },
   },
@@ -11700,7 +11700,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 8639.43,
+        ["points"] = 8639.64,
       },
     },
   },
@@ -11747,7 +11747,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9600.74,
+        ["points"] = 9600.8,
       },
     },
   },
@@ -11794,7 +11794,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9924.75,
+        ["points"] = 9924.77,
       },
     },
   },
@@ -11841,7 +11841,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 44,
-        ["points"] = 8980.34,
+        ["points"] = 8980.5,
       },
     },
   },
@@ -11888,7 +11888,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 8171.07,
+        ["points"] = 8171.35,
       },
     },
   },
@@ -11935,7 +11935,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9594.59,
+        ["points"] = 9594.66,
       },
     },
   },
@@ -11982,7 +11982,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 8805.28,
+        ["points"] = 8805.47,
       },
     },
   },
@@ -12029,7 +12029,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9777.33,
+        ["points"] = 9777.37,
       },
     },
   },
@@ -12123,7 +12123,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 8014.43,
+        ["points"] = 8014.74,
       },
     },
   },
@@ -12170,7 +12170,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8445.95,
+        ["points"] = 8446.18,
       },
     },
   },
@@ -12217,7 +12217,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8320.02,
+        ["points"] = 8320.28,
       },
     },
   },
@@ -12264,7 +12264,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9639.13,
+        ["points"] = 9639.18,
       },
     },
   },
@@ -12311,7 +12311,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 9683.66,
+        ["points"] = 9683.71,
       },
     },
   },
@@ -12358,7 +12358,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9900.18,
+        ["points"] = 9900.2,
       },
     },
   },
@@ -12405,7 +12405,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 9484.03,
+        ["points"] = 9484.11,
       },
     },
   },
@@ -12452,7 +12452,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9365.79,
+        ["points"] = 9365.88,
       },
     },
   },
@@ -12499,7 +12499,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 9032.56,
+        ["points"] = 9032.7,
       },
     },
   },
@@ -12546,7 +12546,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 38,
-        ["points"] = 9461.0,
+        ["points"] = 9461.08,
       },
     },
   },
@@ -12593,7 +12593,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9531.63,
+        ["points"] = 9531.71,
       },
     },
   },
@@ -12640,7 +12640,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9930.9,
+        ["points"] = 9930.91,
       },
     },
   },
@@ -12687,7 +12687,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 37,
-        ["points"] = 9049.45,
+        ["points"] = 9049.59,
       },
     },
   },
@@ -12734,7 +12734,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 33,
-        ["points"] = 9218.37,
+        ["points"] = 9218.49,
       },
     },
   },
@@ -12781,7 +12781,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9766.58,
+        ["points"] = 9766.62,
       },
     },
   },
@@ -12828,7 +12828,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9451.78,
+        ["points"] = 9451.87,
       },
     },
   },
@@ -12875,7 +12875,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9904.79,
+        ["points"] = 9904.81,
       },
     },
   },
@@ -12922,7 +12922,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 9198.4,
+        ["points"] = 9198.53,
       },
     },
   },
@@ -12969,7 +12969,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 9387.29,
+        ["points"] = 9387.38,
       },
     },
   },
@@ -13016,7 +13016,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9399.57,
+        ["points"] = 9399.66,
       },
     },
   },
@@ -13063,7 +13063,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 30,
-        ["points"] = 9256.76,
+        ["points"] = 9256.87,
       },
     },
   },
@@ -13110,7 +13110,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9588.45,
+        ["points"] = 9588.52,
       },
     },
   },
@@ -13157,7 +13157,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9528.56,
+        ["points"] = 9528.64,
       },
     },
   },
@@ -13204,7 +13204,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9203.01,
+        ["points"] = 9203.13,
       },
     },
   },
@@ -13251,7 +13251,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 9143.12,
+        ["points"] = 9143.25,
       },
     },
   },
@@ -13298,7 +13298,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9875.61,
+        ["points"] = 9875.63,
       },
     },
   },
@@ -13345,7 +13345,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 8680.9,
+        ["points"] = 8681.1,
       },
     },
   },
@@ -13392,7 +13392,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 9503.99,
+        ["points"] = 9504.07,
       },
     },
   },
@@ -13439,7 +13439,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 9126.23,
+        ["points"] = 9126.36,
       },
     },
   },
@@ -13486,7 +13486,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 37,
-        ["points"] = 8969.59,
+        ["points"] = 8969.75,
       },
     },
   },
@@ -13533,7 +13533,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9731.27,
+        ["points"] = 9731.31,
       },
     },
   },
@@ -13580,7 +13580,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9533.17,
+        ["points"] = 9533.24,
       },
     },
   },
@@ -13627,7 +13627,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9107.8,
+        ["points"] = 9107.94,
       },
     },
   },
@@ -13674,7 +13674,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9781.94,
+        ["points"] = 9781.97,
       },
     },
   },
@@ -13721,7 +13721,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 29,
-        ["points"] = 9313.57,
+        ["points"] = 9313.68,
       },
     },
   },
@@ -13768,7 +13768,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9597.67,
+        ["points"] = 9597.73,
       },
     },
   },
@@ -13815,7 +13815,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 55,
-        ["points"] = 9216.83,
+        ["points"] = 9216.95,
       },
     },
   },
@@ -13862,7 +13862,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9694.41,
+        ["points"] = 9694.46,
       },
     },
   },
@@ -13909,7 +13909,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 44,
-        ["points"] = 9640.66,
+        ["points"] = 9640.72,
       },
     },
   },
@@ -13956,7 +13956,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 33,
-        ["points"] = 9385.75,
+        ["points"] = 9385.84,
       },
     },
   },
@@ -14003,7 +14003,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 8006.76,
+        ["points"] = 8007.06,
       },
     },
   },
@@ -14050,7 +14050,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8803.75,
+        ["points"] = 8803.93,
       },
     },
   },
@@ -14097,7 +14097,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 9394.96,
+        ["points"] = 9395.06,
       },
     },
   },
@@ -14144,7 +14144,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 9393.43,
+        ["points"] = 9393.52,
       },
     },
   },
@@ -14191,7 +14191,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 32,
-        ["points"] = 9226.04,
+        ["points"] = 9226.16,
       },
     },
   },
@@ -14238,7 +14238,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9769.66,
+        ["points"] = 9769.69,
       },
     },
   },
@@ -14285,7 +14285,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 9497.85,
+        ["points"] = 9497.93,
       },
     },
   },
@@ -14332,7 +14332,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9095.52,
+        ["points"] = 9095.65,
       },
     },
   },
@@ -14379,7 +14379,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 58,
-        ["points"] = 9573.1,
+        ["points"] = 9573.16,
       },
     },
   },
@@ -14426,7 +14426,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 9270.58,
+        ["points"] = 9270.69,
       },
     },
   },
@@ -14473,7 +14473,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9780.41,
+        ["points"] = 9780.44,
       },
     },
   },
@@ -14520,7 +14520,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 9144.66,
+        ["points"] = 9144.79,
       },
     },
   },
@@ -14567,12 +14567,12 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9775.8,
+        ["points"] = 9775.83,
       },
     },
   },
   ["Denniip"] = {
-    ["percentile"] = 93.88,
+    ["percentile"] = 93.89,
     ["server"] = "Icecrown",
     ["overall_rank"] = 311,
     ["bosses"] = {
@@ -14614,7 +14614,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 8860.57,
+        ["points"] = 8860.74,
       },
     },
   },
@@ -14661,7 +14661,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9362.71,
+        ["points"] = 9362.81,
       },
     },
   },
@@ -14708,7 +14708,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 7722.67,
+        ["points"] = 7723.02,
       },
     },
   },
@@ -14755,7 +14755,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 9785.01,
+        ["points"] = 9785.05,
       },
     },
   },
@@ -14802,7 +14802,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 43,
-        ["points"] = 9441.03,
+        ["points"] = 9441.12,
       },
     },
   },
@@ -14896,7 +14896,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9617.63,
+        ["points"] = 9617.69,
       },
     },
   },
@@ -14943,7 +14943,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9404.18,
+        ["points"] = 9404.27,
       },
     },
   },
@@ -14990,7 +14990,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9007.99,
+        ["points"] = 9008.14,
       },
     },
   },
@@ -15037,7 +15037,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 9379.61,
+        ["points"] = 9379.7,
       },
     },
   },
@@ -15084,7 +15084,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 9444.1,
+        ["points"] = 9444.19,
       },
     },
   },
@@ -15131,7 +15131,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9167.69,
+        ["points"] = 9167.82,
       },
     },
   },
@@ -15178,7 +15178,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 63,
-        ["points"] = 9302.83,
+        ["points"] = 9302.93,
       },
     },
   },
@@ -15225,7 +15225,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9566.95,
+        ["points"] = 9567.02,
       },
     },
   },
@@ -15272,7 +15272,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 9328.93,
+        ["points"] = 9329.03,
       },
     },
   },
@@ -15319,7 +15319,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9425.68,
+        ["points"] = 9425.76,
       },
     },
   },
@@ -15366,7 +15366,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9505.53,
+        ["points"] = 9505.6,
       },
     },
   },
@@ -15413,7 +15413,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8935.81,
+        ["points"] = 8935.97,
       },
     },
   },
@@ -15460,7 +15460,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 9367.32,
+        ["points"] = 9367.42,
       },
     },
   },
@@ -15507,7 +15507,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 38,
-        ["points"] = 8903.56,
+        ["points"] = 8903.73,
       },
     },
   },
@@ -15554,7 +15554,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9605.34,
+        ["points"] = 9605.4,
       },
     },
   },
@@ -15601,7 +15601,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 34,
-        ["points"] = 8954.24,
+        ["points"] = 8954.4,
       },
     },
   },
@@ -15648,7 +15648,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9620.7,
+        ["points"] = 9620.76,
       },
     },
   },
@@ -15695,7 +15695,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 30,
-        ["points"] = 9448.71,
+        ["points"] = 9448.79,
       },
     },
   },
@@ -15742,7 +15742,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 47,
-        ["points"] = 8746.93,
+        ["points"] = 8747.12,
       },
     },
   },
@@ -15789,7 +15789,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 9589.99,
+        ["points"] = 9590.05,
       },
     },
   },
@@ -15836,7 +15836,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9752.76,
+        ["points"] = 9752.8,
       },
     },
   },
@@ -15883,7 +15883,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9416.46,
+        ["points"] = 9416.55,
       },
     },
   },
@@ -15930,7 +15930,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8244.78,
+        ["points"] = 8245.05,
       },
     },
   },
@@ -15977,12 +15977,12 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 9895.58,
+        ["points"] = 9895.59,
       },
     },
   },
   ["Zeuswrath"] = {
-    ["percentile"] = 93.48,
+    ["percentile"] = 93.49,
     ["server"] = "Icecrown",
     ["overall_rank"] = 341,
     ["bosses"] = {
@@ -16024,7 +16024,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 9164.62,
+        ["points"] = 9164.75,
       },
     },
   },
@@ -16071,7 +16071,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9786.55,
+        ["points"] = 9786.58,
       },
     },
   },
@@ -16118,7 +16118,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9183.05,
+        ["points"] = 9183.17,
       },
     },
   },
@@ -16165,7 +16165,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9714.37,
+        ["points"] = 9714.42,
       },
     },
   },
@@ -16212,7 +16212,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 8645.58,
+        ["points"] = 8645.79,
       },
     },
   },
@@ -16259,7 +16259,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9682.13,
+        ["points"] = 9682.17,
       },
     },
   },
@@ -16306,7 +16306,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9075.55,
+        ["points"] = 9075.69,
       },
     },
   },
@@ -16353,7 +16353,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8882.06,
+        ["points"] = 8882.24,
       },
     },
   },
@@ -16400,7 +16400,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9027.95,
+        ["points"] = 9028.1,
       },
     },
   },
@@ -16447,7 +16447,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9656.02,
+        ["points"] = 9656.07,
       },
     },
   },
@@ -16494,7 +16494,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9259.83,
+        ["points"] = 9259.94,
       },
     },
   },
@@ -16541,7 +16541,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9355.04,
+        ["points"] = 9355.14,
       },
     },
   },
@@ -16588,7 +16588,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 8667.08,
+        ["points"] = 8667.28,
       },
     },
   },
@@ -16635,7 +16635,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9100.12,
+        ["points"] = 9100.26,
       },
     },
   },
@@ -16682,7 +16682,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 9570.02,
+        ["points"] = 9570.09,
       },
     },
   },
@@ -16729,7 +16729,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 32,
-        ["points"] = 9026.41,
+        ["points"] = 9026.56,
       },
     },
   },
@@ -16776,7 +16776,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9608.42,
+        ["points"] = 9608.48,
       },
     },
   },
@@ -16823,7 +16823,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 35,
-        ["points"] = 9066.34,
+        ["points"] = 9066.48,
       },
     },
   },
@@ -16870,7 +16870,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9282.86,
+        ["points"] = 9282.97,
       },
     },
   },
@@ -16917,7 +16917,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 9468.67,
+        ["points"] = 9468.75,
       },
     },
   },
@@ -16964,7 +16964,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9265.97,
+        ["points"] = 9266.08,
       },
     },
   },
@@ -17011,7 +17011,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 9510.14,
+        ["points"] = 9510.21,
       },
     },
   },
@@ -17058,7 +17058,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9278.26,
+        ["points"] = 9278.37,
       },
     },
   },
@@ -17105,7 +17105,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9447.17,
+        ["points"] = 9447.26,
       },
     },
   },
@@ -17152,7 +17152,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9846.44,
+        ["points"] = 9846.46,
       },
     },
   },
@@ -17199,7 +17199,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9236.79,
+        ["points"] = 9236.91,
       },
     },
   },
@@ -17246,7 +17246,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9596.13,
+        ["points"] = 9596.19,
       },
     },
   },
@@ -17293,7 +17293,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 8762.29,
+        ["points"] = 8762.48,
       },
     },
   },
@@ -17340,7 +17340,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 31,
-        ["points"] = 7788.7,
+        ["points"] = 7789.04,
       },
     },
   },
@@ -17387,7 +17387,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 39,
-        ["points"] = 9023.34,
+        ["points"] = 9023.49,
       },
     },
   },
@@ -17434,7 +17434,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 9264.43,
+        ["points"] = 9264.55,
       },
     },
   },
@@ -17481,7 +17481,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9792.69,
+        ["points"] = 9792.72,
       },
     },
   },
@@ -17520,7 +17520,7 @@ UWULogsData[1][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 5885.7,
+        ["points"] = 5885.5,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
@@ -17528,7 +17528,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 9649.88,
+        ["points"] = 9649.93,
       },
     },
   },
@@ -17575,7 +17575,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 9527.03,
+        ["points"] = 9527.1,
       },
     },
   },
@@ -17622,7 +17622,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 43,
-        ["points"] = 9301.29,
+        ["points"] = 9301.4,
       },
     },
   },
@@ -17669,7 +17669,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 7848.59,
+        ["points"] = 7848.92,
       },
     },
   },
@@ -17716,7 +17716,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9356.57,
+        ["points"] = 9356.67,
       },
     },
   },
@@ -17763,7 +17763,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 32,
-        ["points"] = 9181.51,
+        ["points"] = 9181.64,
       },
     },
   },
@@ -17810,7 +17810,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 28,
-        ["points"] = 9347.36,
+        ["points"] = 9347.46,
       },
     },
   },
@@ -17857,7 +17857,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8622.54,
+        ["points"] = 8622.75,
       },
     },
   },
@@ -17904,7 +17904,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9120.09,
+        ["points"] = 9120.22,
       },
     },
   },
@@ -17951,7 +17951,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9269.04,
+        ["points"] = 9269.15,
       },
     },
   },
@@ -17998,7 +17998,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 30,
-        ["points"] = 9700.55,
+        ["points"] = 9700.6,
       },
     },
   },
@@ -18045,7 +18045,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9462.53,
+        ["points"] = 9462.61,
       },
     },
   },
@@ -18092,7 +18092,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 8352.27,
+        ["points"] = 8352.53,
       },
     },
   },
@@ -18139,7 +18139,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9434.89,
+        ["points"] = 9434.98,
       },
     },
   },
@@ -18186,7 +18186,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9136.98,
+        ["points"] = 9137.11,
       },
     },
   },
@@ -18233,7 +18233,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9009.52,
+        ["points"] = 9009.67,
       },
     },
   },
@@ -18280,7 +18280,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9686.73,
+        ["points"] = 9686.78,
       },
     },
   },
@@ -18327,7 +18327,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 43,
-        ["points"] = 9070.95,
+        ["points"] = 9071.09,
       },
     },
   },
@@ -18374,7 +18374,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9917.08,
+        ["points"] = 9917.09,
       },
     },
   },
@@ -18421,7 +18421,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9069.41,
+        ["points"] = 9069.55,
       },
     },
   },
@@ -18468,7 +18468,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9471.74,
+        ["points"] = 9471.83,
       },
     },
   },
@@ -18515,7 +18515,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 9562.35,
+        ["points"] = 9562.41,
       },
     },
   },
@@ -18530,7 +18530,7 @@ UWULogsData[1][1] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 5701.3,
+        ["points"] = 5701.2,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -18562,7 +18562,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9353.5,
+        ["points"] = 9353.6,
       },
     },
   },
@@ -18609,7 +18609,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 8266.28,
+        ["points"] = 8266.54,
       },
     },
   },
@@ -18656,7 +18656,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 8587.22,
+        ["points"] = 8587.44,
       },
     },
   },
@@ -18703,7 +18703,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 8955.77,
+        ["points"] = 8955.93,
       },
     },
   },
@@ -18750,7 +18750,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 9580.77,
+        ["points"] = 9580.84,
       },
     },
   },
@@ -18797,7 +18797,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 8547.3,
+        ["points"] = 8547.52,
       },
     },
   },
@@ -18844,7 +18844,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9089.37,
+        ["points"] = 9089.51,
       },
     },
   },
@@ -18891,7 +18891,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9293.61,
+        ["points"] = 9293.72,
       },
     },
   },
@@ -18938,7 +18938,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 46,
-        ["points"] = 8358.42,
+        ["points"] = 8358.67,
       },
     },
   },
@@ -18985,7 +18985,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 8986.49,
+        ["points"] = 8986.64,
       },
     },
   },
@@ -19032,7 +19032,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 9603.81,
+        ["points"] = 9603.87,
       },
     },
   },
@@ -19079,7 +19079,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9161.55,
+        ["points"] = 9161.68,
       },
     },
   },
@@ -19126,7 +19126,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9519.35,
+        ["points"] = 9519.42,
       },
     },
   },
@@ -19173,7 +19173,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9391.89,
+        ["points"] = 9391.99,
       },
     },
   },
@@ -19220,7 +19220,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9706.7,
+        ["points"] = 9706.74,
       },
     },
   },
@@ -19267,7 +19267,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9520.88,
+        ["points"] = 9520.96,
       },
     },
   },
@@ -19314,7 +19314,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 9319.72,
+        ["points"] = 9319.82,
       },
     },
   },
@@ -19361,7 +19361,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9186.12,
+        ["points"] = 9186.24,
       },
     },
   },
@@ -19408,7 +19408,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9292.08,
+        ["points"] = 9292.18,
       },
     },
   },
@@ -19455,7 +19455,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 32,
-        ["points"] = 8991.09,
+        ["points"] = 8991.25,
       },
     },
   },
@@ -19502,7 +19502,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 30,
-        ["points"] = 9112.41,
+        ["points"] = 9112.54,
       },
     },
   },
@@ -19549,7 +19549,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 9442.57,
+        ["points"] = 9442.65,
       },
     },
   },
@@ -19596,7 +19596,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8966.52,
+        ["points"] = 8966.68,
       },
     },
   },
@@ -19643,7 +19643,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 28,
-        ["points"] = 9123.16,
+        ["points"] = 9123.29,
       },
     },
   },
@@ -19690,7 +19690,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9364.25,
+        ["points"] = 9364.35,
       },
     },
   },
@@ -19737,7 +19737,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8898.96,
+        ["points"] = 8899.12,
       },
     },
   },
@@ -19784,61 +19784,14 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9147.73,
-      },
-    },
-  },
-  ["Banjobake"] = {
-    ["percentile"] = 92.51,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 422,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 9,
-        ["points"] = 9665.97,
-      },
-      ["Lady Deathwhisper"] = {
-        ["kill_count"] = 8,
-        ["points"] = 9439.69,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 9,
-        ["points"] = 9434.94,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 9,
-        ["points"] = 9650.97,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 9,
-        ["points"] = 9581.96,
-      },
-      ["Professor Putricide"] = {
-        ["kill_count"] = 8,
-        ["points"] = 9558.53,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 9,
-        ["points"] = 9881.99,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 9,
-        ["points"] = 8081.81,
-      },
-      ["Sindragosa"] = {
-        ["kill_count"] = 7,
-        ["points"] = 7534.4,
-      },
-      ["The Lich King"] = {
-        ["kill_count"] = 7,
-        ["points"] = 9623.77,
+        ["points"] = 9147.86,
       },
     },
   },
   ["Spoxpox"] = {
     ["percentile"] = 92.51,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 423,
+    ["overall_rank"] = 422,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 23,
@@ -19878,7 +19831,54 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 8908.17,
+        ["points"] = 8908.34,
+      },
+    },
+  },
+  ["Banjobake"] = {
+    ["percentile"] = 92.51,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 423,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 9,
+        ["points"] = 9665.97,
+      },
+      ["Lady Deathwhisper"] = {
+        ["kill_count"] = 8,
+        ["points"] = 9439.69,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 9,
+        ["points"] = 9434.94,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 9,
+        ["points"] = 9650.97,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 9,
+        ["points"] = 9581.96,
+      },
+      ["Professor Putricide"] = {
+        ["kill_count"] = 8,
+        ["points"] = 9558.53,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 9,
+        ["points"] = 9881.99,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 9,
+        ["points"] = 8081.81,
+      },
+      ["Sindragosa"] = {
+        ["kill_count"] = 7,
+        ["points"] = 7534.4,
+      },
+      ["The Lich King"] = {
+        ["kill_count"] = 7,
+        ["points"] = 9623.83,
       },
     },
   },
@@ -19925,7 +19925,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 34,
-        ["points"] = 8508.91,
+        ["points"] = 8509.14,
       },
     },
   },
@@ -19972,7 +19972,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9001.84,
+        ["points"] = 9002.0,
       },
     },
   },
@@ -20019,7 +20019,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 8984.95,
+        ["points"] = 8985.11,
       },
     },
   },
@@ -20066,7 +20066,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 9310.5,
+        ["points"] = 9310.61,
       },
     },
   },
@@ -20113,7 +20113,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9160.01,
+        ["points"] = 9160.14,
       },
     },
   },
@@ -20160,7 +20160,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9141.58,
+        ["points"] = 9141.72,
       },
     },
   },
@@ -20207,7 +20207,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9029.48,
+        ["points"] = 9029.63,
       },
     },
   },
@@ -20254,7 +20254,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9709.77,
+        ["points"] = 9709.81,
       },
     },
   },
@@ -20293,7 +20293,7 @@ UWULogsData[1][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 12,
-        ["points"] = 6064.4,
+        ["points"] = 6064.2,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
@@ -20301,7 +20301,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9084.77,
+        ["points"] = 9084.91,
       },
     },
   },
@@ -20348,7 +20348,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9295.15,
+        ["points"] = 9295.26,
       },
     },
   },
@@ -20395,7 +20395,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 9421.07,
+        ["points"] = 9421.16,
       },
     },
   },
@@ -20442,7 +20442,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 36,
-        ["points"] = 8808.35,
+        ["points"] = 8808.54,
       },
     },
   },
@@ -20489,7 +20489,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9479.42,
+        ["points"] = 9479.5,
       },
     },
   },
@@ -20536,7 +20536,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 8740.79,
+        ["points"] = 8740.98,
       },
     },
   },
@@ -20583,7 +20583,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8997.24,
+        ["points"] = 8997.39,
       },
     },
   },
@@ -20630,7 +20630,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9359.64,
+        ["points"] = 9359.74,
       },
     },
   },
@@ -20677,7 +20677,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 7943.8,
+        ["points"] = 7944.11,
       },
     },
   },
@@ -20724,7 +20724,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 8625.61,
+        ["points"] = 8625.83,
       },
     },
   },
@@ -20771,7 +20771,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 9158.48,
+        ["points"] = 9158.61,
       },
     },
   },
@@ -20818,7 +20818,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9717.44,
+        ["points"] = 9717.49,
       },
     },
   },
@@ -20865,12 +20865,12 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9691.34,
+        ["points"] = 9691.39,
       },
     },
   },
   ["Mystiquee"] = {
-    ["percentile"] = 92.21,
+    ["percentile"] = 92.22,
     ["server"] = "Icecrown",
     ["overall_rank"] = 445,
     ["bosses"] = {
@@ -20912,7 +20912,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9261.36,
+        ["points"] = 9261.48,
       },
     },
   },
@@ -20959,7 +20959,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 45,
-        ["points"] = 9104.73,
+        ["points"] = 9104.87,
       },
     },
   },
@@ -21006,7 +21006,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9052.52,
+        ["points"] = 9052.66,
       },
     },
   },
@@ -21053,7 +21053,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 8682.43,
+        ["points"] = 8682.63,
       },
     },
   },
@@ -21100,7 +21100,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 8848.28,
+        ["points"] = 8848.46,
       },
     },
   },
@@ -21147,7 +21147,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9513.21,
+        ["points"] = 9513.28,
       },
     },
   },
@@ -21194,7 +21194,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9754.3,
+        ["points"] = 9754.34,
       },
     },
   },
@@ -21241,7 +21241,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 36,
-        ["points"] = 9507.06,
+        ["points"] = 9507.14,
       },
     },
   },
@@ -21288,7 +21288,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8585.69,
+        ["points"] = 8585.91,
       },
     },
   },
@@ -21335,7 +21335,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 42,
-        ["points"] = 8714.68,
+        ["points"] = 8714.88,
       },
     },
   },
@@ -21382,7 +21382,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8594.9,
+        ["points"] = 8595.12,
       },
     },
   },
@@ -21429,7 +21429,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 37,
-        ["points"] = 8458.23,
+        ["points"] = 8458.47,
       },
     },
   },
@@ -21476,7 +21476,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8531.94,
+        ["points"] = 8532.17,
       },
     },
   },
@@ -21523,7 +21523,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 7810.2,
+        ["points"] = 7810.53,
       },
     },
   },
@@ -21570,7 +21570,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9345.82,
+        ["points"] = 9345.92,
       },
     },
   },
@@ -21617,7 +21617,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 8538.08,
+        ["points"] = 8538.31,
       },
     },
   },
@@ -21664,7 +21664,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9530.1,
+        ["points"] = 9530.17,
       },
     },
   },
@@ -21711,7 +21711,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 8785.32,
+        ["points"] = 8785.51,
       },
     },
   },
@@ -21758,7 +21758,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 8032.86,
+        ["points"] = 8033.16,
       },
     },
   },
@@ -21805,7 +21805,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 42,
-        ["points"] = 8828.32,
+        ["points"] = 8828.5,
       },
     },
   },
@@ -21852,7 +21852,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9546.99,
+        ["points"] = 9547.06,
       },
     },
   },
@@ -21899,7 +21899,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 8240.17,
+        ["points"] = 8240.44,
       },
     },
   },
@@ -21946,7 +21946,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8450.55,
+        ["points"] = 8450.79,
       },
     },
   },
@@ -21993,7 +21993,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 8671.68,
+        ["points"] = 8671.89,
       },
     },
   },
@@ -22040,7 +22040,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 9351.97,
+        ["points"] = 9352.07,
       },
     },
   },
@@ -22087,7 +22087,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9577.7,
+        ["points"] = 9577.77,
       },
     },
   },
@@ -22134,7 +22134,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 8513.51,
+        ["points"] = 8513.74,
       },
     },
   },
@@ -22181,7 +22181,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 8653.26,
+        ["points"] = 8653.46,
       },
     },
   },
@@ -22228,7 +22228,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9663.7,
+        ["points"] = 9663.75,
       },
     },
   },
@@ -22275,7 +22275,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 8637.9,
+        ["points"] = 8638.11,
       },
     },
   },
@@ -22322,7 +22322,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9312.04,
+        ["points"] = 9312.14,
       },
     },
   },
@@ -22369,7 +22369,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9034.09,
+        ["points"] = 9034.24,
       },
     },
   },
@@ -22416,7 +22416,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9431.82,
+        ["points"] = 9431.91,
       },
     },
   },
@@ -22463,7 +22463,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9422.6,
+        ["points"] = 9422.69,
       },
     },
   },
@@ -22510,7 +22510,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 8875.92,
+        ["points"] = 8876.09,
       },
     },
   },
@@ -22557,7 +22557,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 8909.71,
+        ["points"] = 8909.87,
       },
     },
   },
@@ -22604,7 +22604,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 8255.53,
+        ["points"] = 8255.8,
       },
     },
   },
@@ -22651,7 +22651,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9674.45,
+        ["points"] = 9674.5,
       },
     },
   },
@@ -22698,7 +22698,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9304.36,
+        ["points"] = 9304.47,
       },
     },
   },
@@ -22745,7 +22745,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 8929.67,
+        ["points"] = 8929.83,
       },
     },
   },
@@ -22792,7 +22792,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9737.41,
+        ["points"] = 9737.45,
       },
     },
   },
@@ -22839,7 +22839,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8482.8,
+        ["points"] = 8483.03,
       },
     },
   },
@@ -22886,7 +22886,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 33,
-        ["points"] = 8536.55,
+        ["points"] = 8536.77,
       },
     },
   },
@@ -22933,7 +22933,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 46,
-        ["points"] = 9414.93,
+        ["points"] = 9415.02,
       },
     },
   },
@@ -22980,7 +22980,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9308.97,
+        ["points"] = 9309.07,
       },
     },
   },
@@ -23027,7 +23027,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9551.6,
+        ["points"] = 9551.67,
       },
     },
   },
@@ -23074,7 +23074,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 9411.86,
+        ["points"] = 9411.95,
       },
     },
   },
@@ -23121,12 +23121,12 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9247.54,
+        ["points"] = 9247.66,
       },
     },
   },
   ["Gozthy"] = {
-    ["percentile"] = 91.46,
+    ["percentile"] = 91.47,
     ["server"] = "Icecrown",
     ["overall_rank"] = 493,
     ["bosses"] = {
@@ -23168,7 +23168,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9238.33,
+        ["points"] = 9238.45,
       },
     },
   },
@@ -23215,7 +23215,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 8995.7,
+        ["points"] = 8995.85,
       },
     },
   },
@@ -23262,7 +23262,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 9568.49,
+        ["points"] = 9568.56,
       },
     },
   },
@@ -23309,7 +23309,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 9153.87,
+        ["points"] = 9154.0,
       },
     },
   },
@@ -23356,7 +23356,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 8617.94,
+        ["points"] = 8618.15,
       },
     },
   },
@@ -23403,7 +23403,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9325.86,
+        ["points"] = 9325.96,
       },
     },
   },
@@ -23450,7 +23450,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9613.02,
+        ["points"] = 9613.08,
       },
     },
   },
@@ -23497,7 +23497,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8717.75,
+        ["points"] = 8717.95,
       },
     },
   },
@@ -23544,7 +23544,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9511.67,
+        ["points"] = 9511.75,
       },
     },
   },
@@ -23591,7 +23591,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8793.0,
+        ["points"] = 8793.18,
       },
     },
   },
@@ -23638,7 +23638,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 35,
-        ["points"] = 8776.11,
+        ["points"] = 8776.29,
       },
     },
   },
@@ -23685,7 +23685,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9660.63,
+        ["points"] = 9660.68,
       },
     },
   },
@@ -23732,7 +23732,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 8934.28,
+        ["points"] = 8934.44,
       },
     },
   },
@@ -23779,7 +23779,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 8249.39,
+        ["points"] = 8249.65,
       },
     },
   },
@@ -23826,7 +23826,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9817.26,
+        ["points"] = 9817.29,
       },
     },
   },
@@ -23873,7 +23873,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9811.12,
+        ["points"] = 9811.15,
       },
     },
   },
@@ -23920,7 +23920,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 8754.61,
+        ["points"] = 8754.8,
       },
     },
   },
@@ -23967,7 +23967,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9695.95,
+        ["points"] = 9695.99,
       },
     },
   },
@@ -24014,7 +24014,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9381.14,
+        ["points"] = 9381.24,
       },
     },
   },
@@ -24061,7 +24061,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 8852.89,
+        ["points"] = 8853.06,
       },
     },
   },
@@ -24108,7 +24108,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 8214.07,
+        ["points"] = 8214.34,
       },
     },
   },
@@ -24155,7 +24155,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 9118.55,
+        ["points"] = 9118.69,
       },
     },
   },
@@ -24202,7 +24202,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9179.98,
+        ["points"] = 9180.1,
       },
     },
   },
@@ -24249,7 +24249,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 32,
-        ["points"] = 8134.21,
+        ["points"] = 8134.5,
       },
     },
   },
@@ -24296,61 +24296,14 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 8304.67,
-      },
-    },
-  },
-  ["Alfhadudu"] = {
-    ["percentile"] = 91.18,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 518,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 3,
-        ["points"] = 9295.93,
-      },
-      ["Lady Deathwhisper"] = {
-        ["kill_count"] = 3,
-        ["points"] = 8639.24,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 4,
-        ["points"] = 9906.99,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 4,
-        ["points"] = 9707.97,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 4,
-        ["points"] = 9193.92,
-      },
-      ["Professor Putricide"] = {
-        ["kill_count"] = 3,
-        ["points"] = 8919.98,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 4,
-        ["points"] = 8887.89,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 4,
-        ["points"] = 7803.78,
-      },
-      ["Sindragosa"] = {
-        ["kill_count"] = 3,
-        ["points"] = 9385.02,
-      },
-      ["The Lich King"] = {
-        ["kill_count"] = 4,
-        ["points"] = 9390.36,
+        ["points"] = 8304.93,
       },
     },
   },
   ["Mesecina"] = {
     ["percentile"] = 91.18,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 519,
+    ["overall_rank"] = 518,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 19,
@@ -24390,7 +24343,54 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 7579.85,
+        ["points"] = 7580.22,
+      },
+    },
+  },
+  ["Alfhadudu"] = {
+    ["percentile"] = 91.18,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 519,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 3,
+        ["points"] = 9295.93,
+      },
+      ["Lady Deathwhisper"] = {
+        ["kill_count"] = 3,
+        ["points"] = 8639.24,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 4,
+        ["points"] = 9906.99,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 4,
+        ["points"] = 9707.97,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 4,
+        ["points"] = 9193.92,
+      },
+      ["Professor Putricide"] = {
+        ["kill_count"] = 3,
+        ["points"] = 8919.98,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 4,
+        ["points"] = 8887.89,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 4,
+        ["points"] = 7803.78,
+      },
+      ["Sindragosa"] = {
+        ["kill_count"] = 3,
+        ["points"] = 9385.02,
+      },
+      ["The Lich King"] = {
+        ["kill_count"] = 4,
+        ["points"] = 9390.45,
       },
     },
   },
@@ -24437,7 +24437,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 8886.67,
+        ["points"] = 8886.84,
       },
     },
   },
@@ -24484,7 +24484,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 7609.03,
+        ["points"] = 7609.4,
       },
     },
   },
@@ -24523,7 +24523,7 @@ UWULogsData[1][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 6193.6,
+        ["points"] = 6193.5,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
@@ -24531,7 +24531,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8260.14,
+        ["points"] = 8260.4,
       },
     },
   },
@@ -24578,7 +24578,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9093.98,
+        ["points"] = 9094.12,
       },
     },
   },
@@ -24625,7 +24625,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9233.72,
+        ["points"] = 9233.84,
       },
     },
   },
@@ -24672,7 +24672,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9499.39,
+        ["points"] = 9499.46,
       },
     },
   },
@@ -24719,7 +24719,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8703.93,
+        ["points"] = 8704.13,
       },
     },
   },
@@ -24766,7 +24766,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8026.72,
+        ["points"] = 8027.02,
       },
     },
   },
@@ -24813,12 +24813,12 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9289.0,
+        ["points"] = 9289.11,
       },
     },
   },
   ["Boomtic"] = {
-    ["percentile"] = 91.03,
+    ["percentile"] = 91.04,
     ["server"] = "Icecrown",
     ["overall_rank"] = 529,
     ["bosses"] = {
@@ -24860,7 +24860,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 8008.29,
+        ["points"] = 8008.6,
       },
     },
   },
@@ -24907,7 +24907,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9671.38,
+        ["points"] = 9671.43,
       },
     },
   },
@@ -24954,7 +24954,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 8614.86,
+        ["points"] = 8615.08,
       },
     },
   },
@@ -25001,7 +25001,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8891.28,
+        ["points"] = 8891.45,
       },
     },
   },
@@ -25048,7 +25048,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 32,
-        ["points"] = 9086.3,
+        ["points"] = 9086.44,
       },
     },
   },
@@ -25095,7 +25095,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 8977.27,
+        ["points"] = 8977.43,
       },
     },
   },
@@ -25142,7 +25142,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9210.69,
+        ["points"] = 9210.81,
       },
     },
   },
@@ -25189,7 +25189,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9375.0,
+        ["points"] = 9375.1,
       },
     },
   },
@@ -25236,7 +25236,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9677.52,
+        ["points"] = 9677.57,
       },
     },
   },
@@ -25283,7 +25283,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 8263.21,
+        ["points"] = 8263.47,
       },
     },
   },
@@ -25330,7 +25330,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9348.89,
+        ["points"] = 9348.99,
       },
     },
   },
@@ -25377,7 +25377,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8918.92,
+        ["points"] = 8919.08,
       },
     },
   },
@@ -25392,7 +25392,7 @@ UWULogsData[1][1] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 2823.4,
+        ["points"] = 2823.0,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -25416,11 +25416,11 @@ UWULogsData[1][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 6245.7,
+        ["points"] = 6245.6,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 3559.5,
+        ["points"] = 3559.2,
       },
     },
   },
@@ -25467,7 +25467,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9398.03,
+        ["points"] = 9398.13,
       },
     },
   },
@@ -25514,7 +25514,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 71,
-        ["points"] = 8616.4,
+        ["points"] = 8616.61,
       },
     },
   },
@@ -25561,7 +25561,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9378.07,
+        ["points"] = 9378.17,
       },
     },
   },
@@ -25608,7 +25608,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 8395.27,
+        ["points"] = 8395.52,
       },
     },
   },
@@ -25655,7 +25655,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 8760.75,
+        ["points"] = 8760.94,
       },
     },
   },
@@ -25702,7 +25702,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 7957.62,
+        ["points"] = 7957.93,
       },
     },
   },
@@ -25749,7 +25749,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 9517.81,
+        ["points"] = 9517.89,
       },
     },
   },
@@ -25796,7 +25796,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 8983.42,
+        ["points"] = 8983.57,
       },
     },
   },
@@ -25843,7 +25843,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9078.62,
+        ["points"] = 9078.77,
       },
     },
   },
@@ -25890,7 +25890,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9146.19,
+        ["points"] = 9146.32,
       },
     },
   },
@@ -25937,7 +25937,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 8286.24,
+        ["points"] = 8286.5,
       },
     },
   },
@@ -25984,7 +25984,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9410.32,
+        ["points"] = 9410.41,
       },
     },
   },
@@ -26031,7 +26031,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 7598.28,
+        ["points"] = 7598.65,
       },
     },
   },
@@ -26078,7 +26078,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8731.57,
+        ["points"] = 8731.77,
       },
     },
   },
@@ -26125,7 +26125,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 8518.12,
+        ["points"] = 8518.35,
       },
     },
   },
@@ -26172,7 +26172,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9582.31,
+        ["points"] = 9582.37,
       },
     },
   },
@@ -26219,7 +26219,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9715.91,
+        ["points"] = 9715.95,
       },
     },
   },
@@ -26266,7 +26266,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8180.28,
+        ["points"] = 8180.56,
       },
     },
   },
@@ -26313,7 +26313,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 8310.81,
+        ["points"] = 8311.07,
       },
     },
   },
@@ -26360,7 +26360,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 8877.46,
+        ["points"] = 8877.63,
       },
     },
   },
@@ -26407,7 +26407,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 8926.6,
+        ["points"] = 8926.76,
       },
     },
   },
@@ -26454,7 +26454,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 9038.7,
+        ["points"] = 9038.85,
       },
     },
   },
@@ -26501,7 +26501,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 8131.14,
+        ["points"] = 8131.43,
       },
     },
   },
@@ -26548,7 +26548,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 8699.32,
+        ["points"] = 8699.52,
       },
     },
   },
@@ -26595,7 +26595,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9514.74,
+        ["points"] = 9514.82,
       },
     },
   },
@@ -26642,7 +26642,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 8720.82,
+        ["points"] = 8721.02,
       },
     },
   },
@@ -26689,7 +26689,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9338.14,
+        ["points"] = 9338.25,
       },
     },
   },
@@ -26736,7 +26736,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9579.24,
+        ["points"] = 9579.3,
       },
     },
   },
@@ -26783,7 +26783,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 32,
-        ["points"] = 8634.83,
+        ["points"] = 8635.04,
       },
     },
   },
@@ -26830,7 +26830,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8657.86,
+        ["points"] = 8658.07,
       },
     },
   },
@@ -26877,7 +26877,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 8952.7,
+        ["points"] = 8952.86,
       },
     },
   },
@@ -26924,7 +26924,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 7868.55,
+        ["points"] = 7868.88,
       },
     },
   },
@@ -26971,7 +26971,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 8694.72,
+        ["points"] = 8694.92,
       },
     },
   },
@@ -27018,7 +27018,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 8206.39,
+        ["points"] = 8206.66,
       },
     },
   },
@@ -27065,7 +27065,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 33,
-        ["points"] = 8780.71,
+        ["points"] = 8780.9,
       },
     },
   },
@@ -27112,7 +27112,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8619.47,
+        ["points"] = 8619.68,
       },
     },
   },
@@ -27159,7 +27159,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9586.92,
+        ["points"] = 9586.98,
       },
     },
   },
@@ -27206,7 +27206,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 38,
-        ["points"] = 7123.77,
+        ["points"] = 7124.21,
       },
     },
   },
@@ -27253,7 +27253,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 9058.66,
+        ["points"] = 9058.81,
       },
     },
   },
@@ -27300,7 +27300,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 8559.58,
+        ["points"] = 8559.8,
       },
     },
   },
@@ -27347,7 +27347,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 8197.17,
+        ["points"] = 8197.45,
       },
     },
   },
@@ -27394,7 +27394,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 7764.13,
+        ["points"] = 7764.47,
       },
     },
   },
@@ -27441,7 +27441,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 35,
-        ["points"] = 9583.85,
+        ["points"] = 9583.91,
       },
     },
   },
@@ -27488,7 +27488,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 9502.46,
+        ["points"] = 9502.53,
       },
     },
   },
@@ -27535,7 +27535,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 8660.93,
+        ["points"] = 8661.14,
       },
     },
   },
@@ -27582,7 +27582,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 8582.62,
+        ["points"] = 8582.83,
       },
     },
   },
@@ -27629,7 +27629,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 59,
-        ["points"] = 9262.9,
+        ["points"] = 9263.01,
       },
     },
   },
@@ -27676,7 +27676,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 8085.07,
+        ["points"] = 8085.37,
       },
     },
   },
@@ -27723,7 +27723,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 29,
-        ["points"] = 8906.63,
+        ["points"] = 8906.8,
       },
     },
   },
@@ -27770,7 +27770,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 38,
-        ["points"] = 8011.36,
+        ["points"] = 8011.67,
       },
     },
   },
@@ -27817,7 +27817,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9436.43,
+        ["points"] = 9436.51,
       },
     },
   },
@@ -27864,7 +27864,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9545.45,
+        ["points"] = 9545.52,
       },
     },
   },
@@ -27911,7 +27911,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9281.33,
+        ["points"] = 9281.44,
       },
     },
   },
@@ -27958,7 +27958,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 7496.93,
+        ["points"] = 7497.31,
       },
     },
   },
@@ -28005,7 +28005,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 40,
-        ["points"] = 8481.27,
+        ["points"] = 8481.5,
       },
     },
   },
@@ -28052,7 +28052,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 9015.66,
+        ["points"] = 9015.81,
       },
     },
   },
@@ -28099,7 +28099,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8797.6,
+        ["points"] = 8797.79,
       },
     },
   },
@@ -28146,7 +28146,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 8665.54,
+        ["points"] = 8665.75,
       },
     },
   },
@@ -28193,7 +28193,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 9336.61,
+        ["points"] = 9336.71,
       },
     },
   },
@@ -28240,7 +28240,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 28,
-        ["points"] = 8734.64,
+        ["points"] = 8734.84,
       },
     },
   },
@@ -28287,7 +28287,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 9361.18,
+        ["points"] = 9361.28,
       },
     },
   },
@@ -28334,7 +28334,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 8029.79,
+        ["points"] = 8030.09,
       },
     },
   },
@@ -28381,7 +28381,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8651.72,
+        ["points"] = 8651.93,
       },
     },
   },
@@ -28428,7 +28428,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9474.82,
+        ["points"] = 9474.9,
       },
     },
   },
@@ -28475,7 +28475,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 34,
-        ["points"] = 8373.77,
+        ["points"] = 8374.02,
       },
     },
   },
@@ -28522,7 +28522,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8120.39,
+        ["points"] = 8120.68,
       },
     },
   },
@@ -28569,7 +28569,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 8849.82,
+        ["points"] = 8849.99,
       },
     },
   },
@@ -28616,7 +28616,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9113.94,
+        ["points"] = 9114.08,
       },
     },
   },
@@ -28663,7 +28663,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 8905.1,
+        ["points"] = 8905.27,
       },
     },
   },
@@ -28710,7 +28710,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 7949.94,
+        ["points"] = 7950.25,
       },
     },
   },
@@ -28757,7 +28757,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8961.92,
+        ["points"] = 8962.08,
       },
     },
   },
@@ -28804,7 +28804,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9652.95,
+        ["points"] = 9653.0,
       },
     },
   },
@@ -28851,7 +28851,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9224.51,
+        ["points"] = 9224.63,
       },
     },
   },
@@ -28898,7 +28898,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8098.89,
+        ["points"] = 8099.19,
       },
     },
   },
@@ -28945,7 +28945,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 7948.4,
+        ["points"] = 7948.72,
       },
     },
   },
@@ -28992,7 +28992,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 8831.39,
+        ["points"] = 8831.57,
       },
     },
   },
@@ -29039,7 +29039,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8928.13,
+        ["points"] = 8928.3,
       },
     },
   },
@@ -29086,7 +29086,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9450.25,
+        ["points"] = 9450.33,
       },
     },
   },
@@ -29133,7 +29133,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9427.21,
+        ["points"] = 9427.3,
       },
     },
   },
@@ -29172,7 +29172,7 @@ UWULogsData[1][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 14,
-        ["points"] = 6048.1,
+        ["points"] = 6047.9,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
@@ -29180,7 +29180,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 9189.19,
+        ["points"] = 9189.31,
       },
     },
   },
@@ -29227,7 +29227,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9476.35,
+        ["points"] = 9476.43,
       },
     },
   },
@@ -29274,7 +29274,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 8730.04,
+        ["points"] = 8730.23,
       },
     },
   },
@@ -29321,7 +29321,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9626.84,
+        ["points"] = 9626.9,
       },
     },
   },
@@ -29368,7 +29368,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8725.43,
+        ["points"] = 8725.63,
       },
     },
   },
@@ -29415,7 +29415,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9212.22,
+        ["points"] = 9212.34,
       },
     },
   },
@@ -29462,7 +29462,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9003.38,
+        ["points"] = 9003.53,
       },
     },
   },
@@ -29509,7 +29509,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 7650.49,
+        ["points"] = 7650.85,
       },
     },
   },
@@ -29556,7 +29556,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 9138.51,
+        ["points"] = 9138.65,
       },
     },
   },
@@ -29603,12 +29603,12 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 8874.39,
+        ["points"] = 8874.56,
       },
     },
   },
   ["Borntomelt"] = {
-    ["percentile"] = 89.61,
+    ["percentile"] = 89.62,
     ["server"] = "Icecrown",
     ["overall_rank"] = 631,
     ["bosses"] = {
@@ -29650,7 +29650,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 7552.21,
+        ["points"] = 7552.59,
       },
     },
   },
@@ -29697,7 +29697,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 8863.64,
+        ["points"] = 8863.81,
       },
     },
   },
@@ -29744,7 +29744,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 8914.31,
+        ["points"] = 8914.48,
       },
     },
   },
@@ -29791,7 +29791,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9155.41,
+        ["points"] = 9155.54,
       },
     },
   },
@@ -29838,7 +29838,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 6907.25,
+        ["points"] = 6907.72,
       },
     },
   },
@@ -29885,7 +29885,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9074.02,
+        ["points"] = 9074.16,
       },
     },
   },
@@ -29932,7 +29932,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8837.53,
+        ["points"] = 8837.71,
       },
     },
   },
@@ -29979,7 +29979,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8636.36,
+        ["points"] = 8636.57,
       },
     },
   },
@@ -30026,7 +30026,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 8105.04,
+        ["points"] = 8105.33,
       },
     },
   },
@@ -30065,7 +30065,7 @@ UWULogsData[1][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 12,
-        ["points"] = 5872.5,
+        ["points"] = 5872.3,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
@@ -30073,7 +30073,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8836.0,
+        ["points"] = 8836.17,
       },
     },
   },
@@ -30120,7 +30120,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9560.81,
+        ["points"] = 9560.88,
       },
     },
   },
@@ -30167,7 +30167,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9250.61,
+        ["points"] = 9250.73,
       },
     },
   },
@@ -30214,7 +30214,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 7612.1,
+        ["points"] = 7612.47,
       },
     },
   },
@@ -30261,7 +30261,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 9175.37,
+        ["points"] = 9175.5,
       },
     },
   },
@@ -30308,7 +30308,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 8728.5,
+        ["points"] = 8728.7,
       },
     },
   },
@@ -30355,7 +30355,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8972.67,
+        ["points"] = 8972.82,
       },
     },
   },
@@ -30402,7 +30402,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8654.79,
+        ["points"] = 8655.0,
       },
     },
   },
@@ -30449,7 +30449,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 8742.32,
+        ["points"] = 8742.51,
       },
     },
   },
@@ -30496,7 +30496,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 8621.01,
+        ["points"] = 8621.22,
       },
     },
   },
@@ -30535,7 +30535,7 @@ UWULogsData[1][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 20,
-        ["points"] = 6181.4,
+        ["points"] = 6181.3,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
@@ -30543,7 +30543,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 9230.65,
+        ["points"] = 9230.77,
       },
     },
   },
@@ -30590,7 +30590,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9249.08,
+        ["points"] = 9249.19,
       },
     },
   },
@@ -30637,7 +30637,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8097.36,
+        ["points"] = 8097.65,
       },
     },
   },
@@ -30684,7 +30684,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 8998.77,
+        ["points"] = 8998.93,
       },
     },
   },
@@ -30731,7 +30731,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9090.91,
+        ["points"] = 9091.05,
       },
     },
   },
@@ -30778,7 +30778,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 8938.88,
+        ["points"] = 8939.04,
       },
     },
   },
@@ -30825,7 +30825,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 9454.85,
+        ["points"] = 9454.94,
       },
     },
   },
@@ -30872,7 +30872,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9276.72,
+        ["points"] = 9276.83,
       },
     },
   },
@@ -30919,7 +30919,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 8168.0,
+        ["points"] = 8168.28,
       },
     },
   },
@@ -30966,7 +30966,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 9166.15,
+        ["points"] = 9166.28,
       },
     },
   },
@@ -31013,7 +31013,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8452.09,
+        ["points"] = 8452.33,
       },
     },
   },
@@ -31060,7 +31060,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 9738.94,
+        ["points"] = 9738.98,
       },
     },
   },
@@ -31107,7 +31107,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 8923.53,
+        ["points"] = 8923.69,
       },
     },
   },
@@ -31146,7 +31146,7 @@ UWULogsData[1][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 17,
-        ["points"] = 6208.9,
+        ["points"] = 6208.8,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
@@ -31154,7 +31154,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 9556.2,
+        ["points"] = 9556.27,
       },
     },
   },
@@ -31201,7 +31201,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9190.72,
+        ["points"] = 9190.85,
       },
     },
   },
@@ -31248,7 +31248,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 9894.04,
+        ["points"] = 9894.06,
       },
     },
   },
@@ -31295,7 +31295,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9382.68,
+        ["points"] = 9382.77,
       },
     },
   },
@@ -31342,7 +31342,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 9298.22,
+        ["points"] = 9298.33,
       },
     },
   },
@@ -31389,7 +31389,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8525.8,
+        ["points"] = 8526.02,
       },
     },
   },
@@ -31436,7 +31436,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9127.76,
+        ["points"] = 9127.9,
       },
     },
   },
@@ -31483,7 +31483,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 7288.08,
+        ["points"] = 7288.5,
       },
     },
   },
@@ -31530,7 +31530,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9227.58,
+        ["points"] = 9227.7,
       },
     },
   },
@@ -31577,7 +31577,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8819.1,
+        ["points"] = 8819.28,
       },
     },
   },
@@ -31624,7 +31624,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8315.42,
+        ["points"] = 8315.68,
       },
     },
   },
@@ -31671,7 +31671,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
-        ["points"] = 7331.08,
+        ["points"] = 7331.49,
       },
     },
   },
@@ -31718,7 +31718,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 28,
-        ["points"] = 9350.43,
+        ["points"] = 9350.53,
       },
     },
   },
@@ -31765,7 +31765,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8786.86,
+        ["points"] = 8787.04,
       },
     },
   },
@@ -31812,7 +31812,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9253.69,
+        ["points"] = 9253.8,
       },
     },
   },
@@ -31859,7 +31859,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 32,
-        ["points"] = 8207.92,
+        ["points"] = 8208.2,
       },
     },
   },
@@ -31906,7 +31906,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 8783.78,
+        ["points"] = 8783.97,
       },
     },
   },
@@ -31953,7 +31953,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 8710.07,
+        ["points"] = 8710.27,
       },
     },
   },
@@ -31968,7 +31968,7 @@ UWULogsData[1][1] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5816.0,
+        ["points"] = 5815.9,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -32000,7 +32000,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
-        ["points"] = 8946.56,
+        ["points"] = 8946.72,
       },
     },
   },
@@ -32047,7 +32047,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 31,
-        ["points"] = 8773.03,
+        ["points"] = 8773.22,
       },
     },
   },
@@ -32094,7 +32094,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 8364.56,
+        ["points"] = 8364.81,
       },
     },
   },
@@ -32141,7 +32141,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 7014.74,
+        ["points"] = 7015.2,
       },
     },
   },
@@ -32188,7 +32188,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9464.07,
+        ["points"] = 9464.15,
       },
     },
   },
@@ -32235,7 +32235,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 33,
-        ["points"] = 9465.6,
+        ["points"] = 9465.68,
       },
     },
   },
@@ -32282,7 +32282,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8940.42,
+        ["points"] = 8940.58,
       },
     },
   },
@@ -32329,7 +32329,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 9050.98,
+        ["points"] = 9051.13,
       },
     },
   },
@@ -32376,7 +32376,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 8862.1,
+        ["points"] = 8862.28,
       },
     },
   },
@@ -32423,7 +32423,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9043.3,
+        ["points"] = 9043.45,
       },
     },
   },
@@ -32470,7 +32470,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 59,
-        ["points"] = 7742.63,
+        ["points"] = 7742.98,
       },
     },
   },
@@ -32517,7 +32517,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8949.63,
+        ["points"] = 8949.79,
       },
     },
   },
@@ -32564,7 +32564,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 7903.87,
+        ["points"] = 7904.19,
       },
     },
   },
@@ -32603,7 +32603,7 @@ UWULogsData[1][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 21,
-        ["points"] = 5877.1,
+        ["points"] = 5876.9,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 20,
@@ -32611,7 +32611,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 8166.46,
+        ["points"] = 8166.74,
       },
     },
   },
@@ -32658,7 +32658,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 8272.42,
+        ["points"] = 8272.69,
       },
     },
   },
@@ -32705,7 +32705,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 30,
-        ["points"] = 8226.35,
+        ["points"] = 8226.62,
       },
     },
   },
@@ -32752,7 +32752,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9327.4,
+        ["points"] = 9327.5,
       },
     },
   },
@@ -32799,7 +32799,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9135.44,
+        ["points"] = 9135.58,
       },
     },
   },
@@ -32846,7 +32846,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9077.09,
+        ["points"] = 9077.23,
       },
     },
   },
@@ -32893,7 +32893,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9229.12,
+        ["points"] = 9229.23,
       },
     },
   },
@@ -32940,7 +32940,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 8470.52,
+        ["points"] = 8470.75,
       },
     },
   },
@@ -32987,7 +32987,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9040.23,
+        ["points"] = 9040.38,
       },
     },
   },
@@ -33034,7 +33034,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 8974.2,
+        ["points"] = 8974.36,
       },
     },
   },
@@ -33081,7 +33081,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 8765.36,
+        ["points"] = 8765.55,
       },
     },
   },
@@ -33128,7 +33128,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8376.84,
+        ["points"] = 8377.09,
       },
     },
   },
@@ -33175,7 +33175,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 32,
-        ["points"] = 9699.02,
+        ["points"] = 9699.06,
       },
     },
   },
@@ -33222,7 +33222,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 8750.0,
+        ["points"] = 8750.19,
       },
     },
   },
@@ -33269,7 +33269,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 7487.71,
+        ["points"] = 7488.1,
       },
     },
   },
@@ -33316,7 +33316,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 8920.45,
+        ["points"] = 8920.62,
       },
     },
   },
@@ -33363,7 +33363,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8545.76,
+        ["points"] = 8545.98,
       },
     },
   },
@@ -33410,7 +33410,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8941.95,
+        ["points"] = 8942.12,
       },
     },
   },
@@ -33457,7 +33457,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9106.27,
+        ["points"] = 9106.4,
       },
     },
   },
@@ -33496,7 +33496,7 @@ UWULogsData[1][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 5867.1,
+        ["points"] = 5866.9,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
@@ -33504,7 +33504,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9628.38,
+        ["points"] = 9628.44,
       },
     },
   },
@@ -33551,7 +33551,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 8814.5,
+        ["points"] = 8814.68,
       },
     },
   },
@@ -33598,7 +33598,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 8604.12,
+        ["points"] = 8604.33,
       },
     },
   },
@@ -33645,7 +33645,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 8989.56,
+        ["points"] = 8989.71,
       },
     },
   },
@@ -33692,7 +33692,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9232.19,
+        ["points"] = 9232.3,
       },
     },
   },
@@ -33739,7 +33739,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
-        ["points"] = 8628.69,
+        ["points"] = 8628.9,
       },
     },
   },
@@ -33786,7 +33786,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 9117.01,
+        ["points"] = 9117.15,
       },
     },
   },
@@ -33833,7 +33833,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9797.3,
+        ["points"] = 9797.33,
       },
     },
   },
@@ -33880,7 +33880,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9290.54,
+        ["points"] = 9290.65,
       },
     },
   },
@@ -33927,7 +33927,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9037.16,
+        ["points"] = 9037.31,
       },
     },
   },
@@ -33974,7 +33974,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 8343.06,
+        ["points"] = 8343.31,
       },
     },
   },
@@ -34021,7 +34021,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 35,
-        ["points"] = 8467.44,
+        ["points"] = 8467.68,
       },
     },
   },
@@ -34068,7 +34068,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 8468.98,
+        ["points"] = 8469.22,
       },
     },
   },
@@ -34115,7 +34115,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9457.92,
+        ["points"] = 9458.01,
       },
     },
   },
@@ -34162,7 +34162,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 9124.69,
+        ["points"] = 9124.83,
       },
     },
   },
@@ -34209,7 +34209,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9267.51,
+        ["points"] = 9267.62,
       },
     },
   },
@@ -34256,7 +34256,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9129.3,
+        ["points"] = 9129.43,
       },
     },
   },
@@ -34303,7 +34303,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8232.49,
+        ["points"] = 8232.77,
       },
     },
   },
@@ -34350,7 +34350,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 8129.61,
+        ["points"] = 8129.89,
       },
     },
   },
@@ -34397,7 +34397,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9184.58,
+        ["points"] = 9184.71,
       },
     },
   },
@@ -34444,7 +34444,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8126.54,
+        ["points"] = 8126.82,
       },
     },
   },
@@ -34491,7 +34491,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8687.04,
+        ["points"] = 8687.24,
       },
     },
   },
@@ -34538,7 +34538,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9316.65,
+        ["points"] = 9316.75,
       },
     },
   },
@@ -34585,7 +34585,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 7515.36,
+        ["points"] = 7515.74,
       },
     },
   },
@@ -34632,7 +34632,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 8948.1,
+        ["points"] = 8948.26,
       },
     },
   },
@@ -34679,7 +34679,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 8889.74,
+        ["points"] = 8889.91,
       },
     },
   },
@@ -34718,7 +34718,7 @@ UWULogsData[1][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 10,
-        ["points"] = 6169.4,
+        ["points"] = 6169.3,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
@@ -34726,7 +34726,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8842.14,
+        ["points"] = 8842.32,
       },
     },
   },
@@ -34773,7 +34773,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 39,
-        ["points"] = 8839.07,
+        ["points"] = 8839.24,
       },
     },
   },
@@ -34820,7 +34820,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9000.31,
+        ["points"] = 9000.46,
       },
     },
   },
@@ -34867,7 +34867,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 8237.1,
+        ["points"] = 8237.37,
       },
     },
   },
@@ -34914,7 +34914,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 33,
-        ["points"] = 8571.87,
+        ["points"] = 8572.09,
       },
     },
   },
@@ -34961,7 +34961,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 7662.78,
+        ["points"] = 7663.14,
       },
     },
   },
@@ -35008,7 +35008,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 6862.71,
+        ["points"] = 6863.2,
       },
     },
   },
@@ -35055,7 +35055,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9321.25,
+        ["points"] = 9321.36,
       },
     },
   },
@@ -35102,7 +35102,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 8668.61,
+        ["points"] = 8668.82,
       },
     },
   },
@@ -35149,7 +35149,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 9046.38,
+        ["points"] = 9046.52,
       },
     },
   },
@@ -35196,7 +35196,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9368.86,
+        ["points"] = 9368.95,
       },
     },
   },
@@ -35243,7 +35243,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9020.27,
+        ["points"] = 9020.42,
       },
     },
   },
@@ -35290,7 +35290,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9734.34,
+        ["points"] = 9734.38,
       },
     },
   },
@@ -35337,7 +35337,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9018.73,
+        ["points"] = 9018.89,
       },
     },
   },
@@ -35384,7 +35384,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 36,
-        ["points"] = 8350.74,
+        ["points"] = 8350.99,
       },
     },
   },
@@ -35431,7 +35431,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 33,
-        ["points"] = 8670.15,
+        ["points"] = 8670.35,
       },
     },
   },
@@ -35478,7 +35478,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9163.08,
+        ["points"] = 9163.21,
       },
     },
   },
@@ -35525,7 +35525,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
-        ["points"] = 8866.71,
+        ["points"] = 8866.88,
       },
     },
   },
@@ -35572,7 +35572,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 8945.02,
+        ["points"] = 8945.19,
       },
     },
   },
@@ -35619,7 +35619,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 9672.91,
+        ["points"] = 9672.96,
       },
     },
   },
@@ -35666,7 +35666,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8257.06,
+        ["points"] = 8257.33,
       },
     },
   },
@@ -35713,7 +35713,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 8759.21,
+        ["points"] = 8759.4,
       },
     },
   },
@@ -35760,7 +35760,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 8829.85,
+        ["points"] = 8830.03,
       },
     },
   },
@@ -35807,7 +35807,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 7744.16,
+        ["points"] = 7744.51,
       },
     },
   },
@@ -35854,7 +35854,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 33,
-        ["points"] = 9206.08,
+        ["points"] = 9206.2,
       },
     },
   },
@@ -35901,7 +35901,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 8270.88,
+        ["points"] = 8271.15,
       },
     },
   },
@@ -35948,7 +35948,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 8449.02,
+        ["points"] = 8449.26,
       },
     },
   },
@@ -35995,7 +35995,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 7711.92,
+        ["points"] = 7712.27,
       },
     },
   },
@@ -36042,7 +36042,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 8261.67,
+        ["points"] = 8261.94,
       },
     },
   },
@@ -36089,7 +36089,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9172.3,
+        ["points"] = 9172.42,
       },
     },
   },
@@ -36104,7 +36104,7 @@ UWULogsData[1][1] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 5625.7,
+        ["points"] = 5625.6,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -36136,7 +36136,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 9017.2,
+        ["points"] = 9017.35,
       },
     },
   },
@@ -36183,7 +36183,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 8565.72,
+        ["points"] = 8565.95,
       },
     },
   },
@@ -36230,7 +36230,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9130.84,
+        ["points"] = 9130.97,
       },
     },
   },
@@ -36277,7 +36277,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 8825.25,
+        ["points"] = 8825.43,
       },
     },
   },
@@ -36324,7 +36324,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9275.18,
+        ["points"] = 9275.3,
       },
     },
   },
@@ -36371,7 +36371,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 7007.06,
+        ["points"] = 7007.52,
       },
     },
   },
@@ -36386,7 +36386,7 @@ UWULogsData[1][1] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 5261.9,
+        ["points"] = 5261.8,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -36418,7 +36418,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9087.84,
+        ["points"] = 9087.98,
       },
     },
   },
@@ -36465,7 +36465,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 7387.9,
+        ["points"] = 7388.3,
       },
     },
   },
@@ -36512,7 +36512,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9115.48,
+        ["points"] = 9115.61,
       },
     },
   },
@@ -36559,7 +36559,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 43,
-        ["points"] = 6939.5,
+        ["points"] = 6939.97,
       },
     },
   },
@@ -36606,7 +36606,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8300.06,
+        ["points"] = 8300.32,
       },
     },
   },
@@ -36653,7 +36653,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 7199.02,
+        ["points"] = 7199.45,
       },
     },
   },
@@ -36700,7 +36700,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 8843.67,
+        ["points"] = 8843.85,
       },
     },
   },
@@ -36747,7 +36747,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8194.1,
+        ["points"] = 8194.38,
       },
     },
   },
@@ -36794,7 +36794,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8679.36,
+        ["points"] = 8679.56,
       },
     },
   },
@@ -36841,7 +36841,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 7982.19,
+        ["points"] = 7982.5,
       },
     },
   },
@@ -36888,7 +36888,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 7148.34,
+        ["points"] = 7148.78,
       },
     },
   },
@@ -36935,7 +36935,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 8356.88,
+        ["points"] = 8357.13,
       },
     },
   },
@@ -36982,7 +36982,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 8823.71,
+        ["points"] = 8823.89,
       },
     },
   },
@@ -37029,12 +37029,12 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9758.91,
+        ["points"] = 9758.94,
       },
     },
   },
   ["Oppaisuki"] = {
-    ["percentile"] = 87.55,
+    ["percentile"] = 87.56,
     ["server"] = "Icecrown",
     ["overall_rank"] = 789,
     ["bosses"] = {
@@ -37076,7 +37076,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 7989.86,
+        ["points"] = 7990.17,
       },
     },
   },
@@ -37123,7 +37123,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 8840.6,
+        ["points"] = 8840.78,
       },
     },
   },
@@ -37170,7 +37170,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9433.35,
+        ["points"] = 9433.44,
       },
     },
   },
@@ -37217,7 +37217,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8419.84,
+        ["points"] = 8420.08,
       },
     },
   },
@@ -37264,7 +37264,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 8290.85,
+        ["points"] = 8291.11,
       },
     },
   },
@@ -37311,7 +37311,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 7880.84,
+        ["points"] = 7881.16,
       },
     },
   },
@@ -37358,7 +37358,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8530.41,
+        ["points"] = 8530.63,
       },
     },
   },
@@ -37405,7 +37405,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 8281.63,
+        ["points"] = 8281.9,
       },
     },
   },
@@ -37452,7 +37452,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9419.53,
+        ["points"] = 9419.62,
       },
     },
   },
@@ -37499,7 +37499,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9103.19,
+        ["points"] = 9103.33,
       },
     },
   },
@@ -37546,7 +37546,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 7962.22,
+        ["points"] = 7962.54,
       },
     },
   },
@@ -37593,7 +37593,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 7659.71,
+        ["points"] = 7660.06,
       },
     },
   },
@@ -37640,7 +37640,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8857.49,
+        ["points"] = 8857.67,
       },
     },
   },
@@ -37687,7 +37687,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 8975.74,
+        ["points"] = 8975.89,
       },
     },
   },
@@ -37734,7 +37734,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8493.55,
+        ["points"] = 8493.78,
       },
     },
   },
@@ -37781,7 +37781,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 8415.23,
+        ["points"] = 8415.48,
       },
     },
   },
@@ -37820,7 +37820,7 @@ UWULogsData[1][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 5794.2,
+        ["points"] = 5794.0,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
@@ -37828,7 +37828,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9307.43,
+        ["points"] = 9307.54,
       },
     },
   },
@@ -37875,7 +37875,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 8696.25,
+        ["points"] = 8696.45,
       },
     },
   },
@@ -37922,12 +37922,12 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8791.46,
+        ["points"] = 8791.65,
       },
     },
   },
   ["Marcuzr"] = {
-    ["percentile"] = 87.38,
+    ["percentile"] = 87.39,
     ["server"] = "Icecrown",
     ["overall_rank"] = 808,
     ["bosses"] = {
@@ -37969,7 +37969,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 7077.7,
+        ["points"] = 7078.15,
       },
     },
   },
@@ -38016,7 +38016,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9418.0,
+        ["points"] = 9418.09,
       },
     },
   },
@@ -38063,7 +38063,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 8418.3,
+        ["points"] = 8418.55,
       },
     },
   },
@@ -38110,7 +38110,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8413.7,
+        ["points"] = 8413.94,
       },
     },
   },
@@ -38157,7 +38157,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 7980.65,
+        ["points"] = 7980.96,
       },
     },
   },
@@ -38204,7 +38204,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9024.88,
+        ["points"] = 9025.03,
       },
     },
   },
@@ -38251,7 +38251,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 8768.43,
+        ["points"] = 8768.62,
       },
     },
   },
@@ -38298,7 +38298,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8378.38,
+        ["points"] = 8378.63,
       },
     },
   },
@@ -38345,12 +38345,12 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 8811.43,
+        ["points"] = 8811.61,
       },
     },
   },
   ["Ebuuy"] = {
-    ["percentile"] = 87.32,
+    ["percentile"] = 87.33,
     ["server"] = "Icecrown",
     ["overall_rank"] = 817,
     ["bosses"] = {
@@ -38392,7 +38392,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 8250.92,
+        ["points"] = 8251.19,
       },
     },
   },
@@ -38439,12 +38439,12 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 8611.79,
+        ["points"] = 8612.01,
       },
     },
   },
   ["Xtrinity"] = {
-    ["percentile"] = 87.3,
+    ["percentile"] = 87.31,
     ["server"] = "Icecrown",
     ["overall_rank"] = 819,
     ["bosses"] = {
@@ -38486,7 +38486,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 7960.69,
+        ["points"] = 7961.0,
       },
     },
   },
@@ -38533,7 +38533,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 9341.22,
+        ["points"] = 9341.32,
       },
     },
   },
@@ -38580,7 +38580,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 9132.37,
+        ["points"] = 9132.5,
       },
     },
   },
@@ -38627,7 +38627,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 8412.16,
+        ["points"] = 8412.41,
       },
     },
   },
@@ -38674,7 +38674,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 8943.49,
+        ["points"] = 8943.65,
       },
     },
   },
@@ -38713,7 +38713,7 @@ UWULogsData[1][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 18,
-        ["points"] = 6029.6,
+        ["points"] = 6029.4,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
@@ -38721,7 +38721,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9437.96,
+        ["points"] = 9438.05,
       },
     },
   },
@@ -38768,7 +38768,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 7761.06,
+        ["points"] = 7761.4,
       },
     },
   },
@@ -38815,7 +38815,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9482.49,
+        ["points"] = 9482.57,
       },
     },
   },
@@ -38854,7 +38854,7 @@ UWULogsData[1][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
-        ["points"] = 5508.1,
+        ["points"] = 5507.9,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
@@ -38862,7 +38862,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9643.73,
+        ["points"] = 9643.79,
       },
     },
   },
@@ -38909,7 +38909,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 8332.31,
+        ["points"] = 8332.57,
       },
     },
   },
@@ -38956,7 +38956,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 40,
-        ["points"] = 8588.76,
+        ["points"] = 8588.98,
       },
     },
   },
@@ -39003,7 +39003,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 8149.57,
+        ["points"] = 8149.85,
       },
     },
   },
@@ -39050,7 +39050,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 7776.41,
+        ["points"] = 7776.75,
       },
     },
   },
@@ -39097,7 +39097,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 8677.83,
+        ["points"] = 8678.03,
       },
     },
   },
@@ -39144,7 +39144,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 7926.9,
+        ["points"] = 7927.22,
       },
     },
   },
@@ -39191,7 +39191,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 9012.59,
+        ["points"] = 9012.74,
       },
     },
   },
@@ -39238,7 +39238,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9133.91,
+        ["points"] = 9134.04,
       },
     },
   },
@@ -39285,7 +39285,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9430.28,
+        ["points"] = 9430.37,
       },
     },
   },
@@ -39332,7 +39332,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 7816.34,
+        ["points"] = 7816.67,
       },
     },
   },
@@ -39379,7 +39379,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8716.22,
+        ["points"] = 8716.41,
       },
     },
   },
@@ -39426,7 +39426,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9192.26,
+        ["points"] = 9192.38,
       },
     },
   },
@@ -39473,7 +39473,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 29,
-        ["points"] = 8042.08,
+        ["points"] = 8042.38,
       },
     },
   },
@@ -39520,7 +39520,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 8683.97,
+        ["points"] = 8684.17,
       },
     },
   },
@@ -39567,7 +39567,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 38,
-        ["points"] = 8258.6,
+        ["points"] = 8258.87,
       },
     },
   },
@@ -39614,7 +39614,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 7888.51,
+        ["points"] = 7888.84,
       },
     },
   },
@@ -39661,7 +39661,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 7767.2,
+        ["points"] = 7767.54,
       },
     },
   },
@@ -39708,7 +39708,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 31,
-        ["points"] = 7908.48,
+        ["points"] = 7908.8,
       },
     },
   },
@@ -39755,7 +39755,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8393.73,
+        ["points"] = 8393.98,
       },
     },
   },
@@ -39802,7 +39802,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 8048.22,
+        ["points"] = 8048.52,
       },
     },
   },
@@ -39849,7 +39849,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8822.17,
+        ["points"] = 8822.36,
       },
     },
   },
@@ -39896,7 +39896,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 7381.76,
+        ["points"] = 7382.16,
       },
     },
   },
@@ -39943,7 +39943,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 35,
-        ["points"] = 8662.47,
+        ["points"] = 8662.67,
       },
     },
   },
@@ -39990,7 +39990,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9522.42,
+        ["points"] = 9522.49,
       },
     },
   },
@@ -40037,7 +40037,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 8932.74,
+        ["points"] = 8932.9,
       },
     },
   },
@@ -40084,7 +40084,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 8607.19,
+        ["points"] = 8607.4,
       },
     },
   },
@@ -40131,7 +40131,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 7774.88,
+        ["points"] = 7775.22,
       },
     },
   },
@@ -40178,7 +40178,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 8379.91,
+        ["points"] = 8380.16,
       },
     },
   },
@@ -40225,7 +40225,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 8994.16,
+        ["points"] = 8994.32,
       },
     },
   },
@@ -40272,7 +40272,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 8367.63,
+        ["points"] = 8367.88,
       },
     },
   },
@@ -40319,7 +40319,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 8711.61,
+        ["points"] = 8711.81,
       },
     },
   },
@@ -40366,7 +40366,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8363.02,
+        ["points"] = 8363.27,
       },
     },
   },
@@ -40413,7 +40413,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 39,
-        ["points"] = 8230.96,
+        ["points"] = 8231.23,
       },
     },
   },
@@ -40460,7 +40460,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8799.14,
+        ["points"] = 8799.32,
       },
     },
   },
@@ -40507,7 +40507,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9330.47,
+        ["points"] = 9330.57,
       },
     },
   },
@@ -40546,7 +40546,7 @@ UWULogsData[1][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 21,
-        ["points"] = 6240.4,
+        ["points"] = 6240.3,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
@@ -40554,7 +40554,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8596.44,
+        ["points"] = 8596.65,
       },
     },
   },
@@ -40601,7 +40601,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8917.38,
+        ["points"] = 8917.55,
       },
     },
   },
@@ -40648,7 +40648,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 8608.72,
+        ["points"] = 8608.94,
       },
     },
   },
@@ -40695,7 +40695,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 8330.77,
+        ["points"] = 8331.03,
       },
     },
   },
@@ -40742,7 +40742,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 8544.23,
+        ["points"] = 8544.45,
       },
     },
   },
@@ -40789,7 +40789,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 32,
-        ["points"] = 8062.04,
+        ["points"] = 8062.34,
       },
     },
   },
@@ -40836,7 +40836,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 7010.14,
+        ["points"] = 7010.59,
       },
     },
   },
@@ -40883,7 +40883,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 8476.66,
+        ["points"] = 8476.89,
       },
     },
   },
@@ -40930,7 +40930,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8447.48,
+        ["points"] = 8447.72,
       },
     },
   },
@@ -40977,7 +40977,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 9305.9,
+        ["points"] = 9306.0,
       },
     },
   },
@@ -41024,7 +41024,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9315.11,
+        ["points"] = 9315.22,
       },
     },
   },
@@ -41071,7 +41071,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 7036.24,
+        ["points"] = 7036.7,
       },
     },
   },
@@ -41118,7 +41118,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 8275.49,
+        ["points"] = 8275.76,
       },
     },
   },
@@ -41165,7 +41165,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 7589.07,
+        ["points"] = 7589.44,
       },
     },
   },
@@ -41212,7 +41212,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 7920.76,
+        ["points"] = 7921.08,
       },
     },
   },
@@ -41251,7 +41251,7 @@ UWULogsData[1][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 12,
-        ["points"] = 6245.9,
+        ["points"] = 6245.8,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
@@ -41259,7 +41259,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8981.88,
+        ["points"] = 8982.04,
       },
     },
   },
@@ -41306,7 +41306,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 9057.13,
+        ["points"] = 9057.27,
       },
     },
   },
@@ -41353,7 +41353,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 8442.87,
+        ["points"] = 8443.11,
       },
     },
   },
@@ -41392,7 +41392,7 @@ UWULogsData[1][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 13,
-        ["points"] = 5696.9,
+        ["points"] = 5696.7,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
@@ -41400,7 +41400,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 8789.93,
+        ["points"] = 8790.11,
       },
     },
   },
@@ -41447,7 +41447,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 37,
-        ["points"] = 8252.46,
+        ["points"] = 8252.73,
       },
     },
   },
@@ -41494,7 +41494,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 8751.54,
+        ["points"] = 8751.73,
       },
     },
   },
@@ -41541,7 +41541,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9675.98,
+        ["points"] = 9676.03,
       },
     },
   },
@@ -41588,7 +41588,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9445.64,
+        ["points"] = 9445.72,
       },
     },
   },
@@ -41635,12 +41635,12 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 7913.08,
+        ["points"] = 7913.4,
       },
     },
   },
   ["Callzedonia"] = {
-    ["percentile"] = 86.45,
+    ["percentile"] = 86.46,
     ["server"] = "Icecrown",
     ["overall_rank"] = 888,
     ["bosses"] = {
@@ -41682,12 +41682,12 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 7562.96,
+        ["points"] = 7563.33,
       },
     },
   },
   ["Ffb"] = {
-    ["percentile"] = 86.44,
+    ["percentile"] = 86.45,
     ["server"] = "Icecrown",
     ["overall_rank"] = 889,
     ["bosses"] = {
@@ -41729,7 +41729,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8872.85,
+        ["points"] = 8873.02,
       },
     },
   },
@@ -41776,7 +41776,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 8796.07,
+        ["points"] = 8796.25,
       },
     },
   },
@@ -41823,7 +41823,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8888.21,
+        ["points"] = 8888.38,
       },
     },
   },
@@ -41870,7 +41870,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 6924.14,
+        ["points"] = 6924.61,
       },
     },
   },
@@ -41917,7 +41917,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8570.33,
+        ["points"] = 8570.55,
       },
     },
   },
@@ -42011,7 +42011,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9221.44,
+        ["points"] = 9221.56,
       },
     },
   },
@@ -42058,7 +42058,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 31,
-        ["points"] = 7882.37,
+        ["points"] = 7882.7,
       },
     },
   },
@@ -42105,7 +42105,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 7576.78,
+        ["points"] = 7577.15,
       },
     },
   },
@@ -42152,7 +42152,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 8581.08,
+        ["points"] = 8581.3,
       },
     },
   },
@@ -42199,7 +42199,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8203.32,
+        ["points"] = 8203.59,
       },
     },
   },
@@ -42238,7 +42238,7 @@ UWULogsData[1][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 5195.8,
+        ["points"] = 5195.5,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -42246,7 +42246,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
-        ["points"] = 8192.57,
+        ["points"] = 8192.85,
       },
     },
   },
@@ -42285,7 +42285,7 @@ UWULogsData[1][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 13,
-        ["points"] = 6081.0,
+        ["points"] = 6080.9,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
@@ -42293,7 +42293,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9149.26,
+        ["points"] = 9149.39,
       },
     },
   },
@@ -42340,7 +42340,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 31,
-        ["points"] = 8897.42,
+        ["points"] = 8897.59,
       },
     },
   },
@@ -42387,7 +42387,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9665.23,
+        ["points"] = 9665.28,
       },
     },
   },
@@ -42434,7 +42434,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8578.01,
+        ["points"] = 8578.23,
       },
     },
   },
@@ -42481,7 +42481,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9252.15,
+        ["points"] = 9252.26,
       },
     },
   },
@@ -42528,7 +42528,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 6670.76,
+        ["points"] = 6671.27,
       },
     },
   },
@@ -42575,7 +42575,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9296.68,
+        ["points"] = 9296.79,
       },
     },
   },
@@ -42622,7 +42622,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 9193.8,
+        ["points"] = 9193.92,
       },
     },
   },
@@ -42669,7 +42669,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 8321.56,
+        ["points"] = 8321.82,
       },
     },
   },
@@ -42716,7 +42716,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 33,
-        ["points"] = 7966.83,
+        ["points"] = 7967.14,
       },
     },
   },
@@ -42763,7 +42763,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 8642.51,
+        ["points"] = 8642.71,
       },
     },
   },
@@ -42810,7 +42810,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 7252.76,
+        ["points"] = 7253.19,
       },
     },
   },
@@ -42857,7 +42857,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 8885.14,
+        ["points"] = 8885.31,
       },
     },
   },
@@ -42904,7 +42904,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 8068.18,
+        ["points"] = 8068.48,
       },
     },
   },
@@ -42951,7 +42951,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 7073.1,
+        ["points"] = 7073.55,
       },
     },
   },
@@ -42990,7 +42990,7 @@ UWULogsData[1][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 18,
-        ["points"] = 6022.8,
+        ["points"] = 6022.6,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
@@ -42998,7 +42998,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8155.71,
+        ["points"] = 8156.0,
       },
     },
   },
@@ -43045,7 +43045,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 8128.07,
+        ["points"] = 8128.36,
       },
     },
   },
@@ -43092,7 +43092,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 7168.3,
+        ["points"] = 7168.74,
       },
     },
   },
@@ -43139,7 +43139,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8834.46,
+        ["points"] = 8834.64,
       },
     },
   },
@@ -43186,7 +43186,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 8189.5,
+        ["points"] = 8189.77,
       },
     },
   },
@@ -43233,7 +43233,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8745.39,
+        ["points"] = 8745.59,
       },
     },
   },
@@ -43280,7 +43280,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8399.88,
+        ["points"] = 8400.12,
       },
     },
   },
@@ -43374,7 +43374,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 6908.78,
+        ["points"] = 6909.26,
       },
     },
   },
@@ -43421,7 +43421,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 7897.73,
+        ["points"] = 7898.05,
       },
     },
   },
@@ -43468,7 +43468,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 8435.2,
+        ["points"] = 8435.44,
       },
     },
   },
@@ -43515,7 +43515,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 9342.75,
+        ["points"] = 9342.85,
       },
     },
   },
@@ -43562,7 +43562,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 8527.33,
+        ["points"] = 8527.56,
       },
     },
   },
@@ -43609,7 +43609,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8361.49,
+        ["points"] = 8361.74,
       },
     },
   },
@@ -43656,7 +43656,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 8183.35,
+        ["points"] = 8183.63,
       },
     },
   },
@@ -43703,7 +43703,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9150.8,
+        ["points"] = 9150.93,
       },
     },
   },
@@ -43750,7 +43750,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8227.89,
+        ["points"] = 8228.16,
       },
     },
   },
@@ -43797,7 +43797,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 8723.89,
+        ["points"] = 8724.09,
       },
     },
   },
@@ -43844,7 +43844,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 29,
-        ["points"] = 7953.01,
+        ["points"] = 7953.32,
       },
     },
   },
@@ -43891,7 +43891,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 8238.64,
+        ["points"] = 8238.91,
       },
     },
   },
@@ -43938,7 +43938,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9222.97,
+        ["points"] = 9223.09,
       },
     },
   },
@@ -43985,7 +43985,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 8326.17,
+        ["points"] = 8326.42,
       },
     },
   },
@@ -44032,7 +44032,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 8505.84,
+        ["points"] = 8506.06,
       },
     },
   },
@@ -44079,7 +44079,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8556.51,
+        ["points"] = 8556.73,
       },
     },
   },
@@ -44126,7 +44126,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 7802.52,
+        ["points"] = 7802.86,
       },
     },
   },
@@ -44173,7 +44173,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8593.37,
+        ["points"] = 8593.58,
       },
     },
   },
@@ -44220,7 +44220,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 8359.95,
+        ["points"] = 8360.2,
       },
     },
   },
@@ -44267,7 +44267,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 7661.24,
+        ["points"] = 7661.6,
       },
     },
   },
@@ -44314,7 +44314,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 8295.45,
+        ["points"] = 8295.72,
       },
     },
   },
@@ -44361,7 +44361,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9011.06,
+        ["points"] = 9011.21,
       },
     },
   },
@@ -44408,7 +44408,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 8501.23,
+        ["points"] = 8501.46,
       },
     },
   },
@@ -44455,7 +44455,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 8911.24,
+        ["points"] = 8911.41,
       },
     },
   },
@@ -44502,7 +44502,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 7972.97,
+        ["points"] = 7973.28,
       },
     },
   },
@@ -44512,44 +44512,44 @@ UWULogsData[1][1] = {
     ["overall_rank"] = 949,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["kill_count"] = 46,
+        ["kill_count"] = 47,
         ["points"] = 9010.9,
       },
       ["Lady Deathwhisper"] = {
-        ["kill_count"] = 28,
+        ["kill_count"] = 29,
         ["points"] = 8411.74,
       },
       ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 46,
+        ["kill_count"] = 47,
         ["points"] = 8840.88,
       },
       ["Festergut"] = {
-        ["kill_count"] = 44,
+        ["kill_count"] = 45,
         ["points"] = 7744.77,
       },
       ["Rotface"] = {
-        ["kill_count"] = 44,
+        ["kill_count"] = 45,
         ["points"] = 8351.84,
       },
       ["Professor Putricide"] = {
-        ["kill_count"] = 32,
+        ["kill_count"] = 33,
         ["points"] = 9415.32,
       },
       ["Blood Prince Council"] = {
-        ["kill_count"] = 45,
+        ["kill_count"] = 46,
         ["points"] = 8999.9,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 43,
+        ["kill_count"] = 44,
         ["points"] = 9280.93,
       },
       ["Sindragosa"] = {
-        ["kill_count"] = 29,
+        ["kill_count"] = 30,
         ["points"] = 8180.3,
       },
       ["The Lich King"] = {
-        ["kill_count"] = 26,
-        ["points"] = 7357.19,
+        ["kill_count"] = 27,
+        ["points"] = 7357.59,
       },
     },
   },
@@ -44596,7 +44596,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 7917.69,
+        ["points"] = 7918.01,
       },
     },
   },
@@ -44643,7 +44643,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8247.85,
+        ["points"] = 8248.12,
       },
     },
   },
@@ -44690,7 +44690,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 38,
-        ["points"] = 7800.98,
+        ["points"] = 7801.32,
       },
     },
   },
@@ -44737,7 +44737,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9204.55,
+        ["points"] = 9204.67,
       },
     },
   },
@@ -44784,7 +44784,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 7337.22,
+        ["points"] = 7337.63,
       },
     },
   },
@@ -44831,7 +44831,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 8865.17,
+        ["points"] = 8865.35,
       },
     },
   },
@@ -44878,7 +44878,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8676.29,
+        ["points"] = 8676.49,
       },
     },
   },
@@ -44925,12 +44925,12 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9536.24,
+        ["points"] = 9536.31,
       },
     },
   },
   ["Wrathlady"] = {
-    ["percentile"] = 85.5,
+    ["percentile"] = 85.51,
     ["server"] = "Icecrown",
     ["overall_rank"] = 958,
     ["bosses"] = {
@@ -44972,7 +44972,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 7114.56,
+        ["points"] = 7115.0,
       },
     },
   },
@@ -45019,7 +45019,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 8396.81,
+        ["points"] = 8397.05,
       },
     },
   },
@@ -45066,12 +45066,12 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 7757.99,
+        ["points"] = 7758.33,
       },
     },
   },
   ["Crisiz"] = {
-    ["percentile"] = 85.45,
+    ["percentile"] = 85.46,
     ["server"] = "Icecrown",
     ["overall_rank"] = 961,
     ["bosses"] = {
@@ -45113,7 +45113,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 7759.52,
+        ["points"] = 7759.86,
       },
     },
   },
@@ -45160,7 +45160,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 29,
-        ["points"] = 8516.58,
+        ["points"] = 8516.81,
       },
     },
   },
@@ -45207,7 +45207,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 8656.33,
+        ["points"] = 8656.53,
       },
     },
   },
@@ -45222,7 +45222,7 @@ UWULogsData[1][1] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 5502.6,
+        ["points"] = 5502.5,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 20,
@@ -45254,7 +45254,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 7996.01,
+        ["points"] = 7996.32,
       },
     },
   },
@@ -45301,7 +45301,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 8521.19,
+        ["points"] = 8521.42,
       },
     },
   },
@@ -45387,7 +45387,7 @@ UWULogsData[1][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 6190.1,
+        ["points"] = 6190.0,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
@@ -45395,7 +45395,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
-        ["points"] = 7983.72,
+        ["points"] = 7984.03,
       },
     },
   },
@@ -45442,7 +45442,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 7751.84,
+        ["points"] = 7752.19,
       },
     },
   },
@@ -45489,7 +45489,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8338.45,
+        ["points"] = 8338.71,
       },
     },
   },
@@ -45536,7 +45536,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 8613.33,
+        ["points"] = 8613.54,
       },
     },
   },
@@ -45575,7 +45575,7 @@ UWULogsData[1][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 6074.5,
+        ["points"] = 6074.4,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
@@ -45583,7 +45583,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8487.41,
+        ["points"] = 8487.64,
       },
     },
   },
@@ -45598,7 +45598,7 @@ UWULogsData[1][1] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 4932.2,
+        ["points"] = 4932.0,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -45630,7 +45630,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8459.77,
+        ["points"] = 8460.0,
       },
     },
   },
@@ -45677,7 +45677,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 7721.13,
+        ["points"] = 7721.48,
       },
     },
   },
@@ -45724,7 +45724,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 7106.88,
+        ["points"] = 7107.32,
       },
     },
   },
@@ -45771,7 +45771,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 8859.03,
+        ["points"] = 8859.2,
       },
     },
   },
@@ -45818,7 +45818,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 7804.05,
+        ["points"] = 7804.39,
       },
     },
   },
@@ -45865,7 +45865,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 6934.89,
+        ["points"] = 6935.36,
       },
     },
   },
@@ -45912,7 +45912,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 42,
-        ["points"] = 8554.98,
+        ["points"] = 8555.2,
       },
     },
   },
@@ -45959,7 +45959,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 8510.44,
+        ["points"] = 8510.67,
       },
     },
   },
@@ -46006,7 +46006,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8816.03,
+        ["points"] = 8816.21,
       },
     },
   },
@@ -46053,7 +46053,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 6893.43,
+        ["points"] = 6893.9,
       },
     },
   },
@@ -46100,7 +46100,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 8422.91,
+        ["points"] = 8423.15,
       },
     },
   },
@@ -46147,7 +46147,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 9014.13,
+        ["points"] = 9014.28,
       },
     },
   },
@@ -46194,7 +46194,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 30,
-        ["points"] = 7988.33,
+        ["points"] = 7988.64,
       },
     },
   },
@@ -46241,7 +46241,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 8685.5,
+        ["points"] = 8685.71,
       },
     },
   },
@@ -46288,7 +46288,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 52,
-        ["points"] = 8158.78,
+        ["points"] = 8159.07,
       },
     },
   },
@@ -46382,7 +46382,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8324.63,
+        ["points"] = 8324.89,
       },
     },
   },
@@ -46429,7 +46429,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 7140.66,
+        ["points"] = 7141.1,
       },
     },
   },
@@ -46476,7 +46476,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8200.25,
+        ["points"] = 8200.52,
       },
     },
   },
@@ -46523,7 +46523,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9047.91,
+        ["points"] = 9048.06,
       },
     },
   },
@@ -46570,7 +46570,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 8284.71,
+        ["points"] = 8284.97,
       },
     },
   },
@@ -46617,7 +46617,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 8968.06,
+        ["points"] = 8968.22,
       },
     },
   },
@@ -46656,7 +46656,7 @@ UWULogsData[1][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 5986.8,
+        ["points"] = 5986.6,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
@@ -46664,7 +46664,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9439.5,
+        ["points"] = 9439.58,
       },
     },
   },
@@ -46711,14 +46711,61 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 8832.92,
+        ["points"] = 8833.1,
+      },
+    },
+  },
+  ["Bondura"] = {
+    ["percentile"] = 84.91,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 996,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 3,
+        ["points"] = 9773.98,
+      },
+      ["Lady Deathwhisper"] = {
+        ["kill_count"] = 2,
+        ["points"] = 7607.08,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 3,
+        ["points"] = 8295.83,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 3,
+        ["points"] = 7756.78,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 3,
+        ["points"] = 7681.77,
+      },
+      ["Professor Putricide"] = {
+        ["kill_count"] = 3,
+        ["points"] = 8234.13,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 3,
+        ["points"] = 8907.89,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 3,
+        ["points"] = 9739.97,
+      },
+      ["Sindragosa"] = {
+        ["kill_count"] = 3,
+        ["points"] = 7847.0,
+      },
+      ["The Lich King"] = {
+        ["kill_count"] = 3,
+        ["points"] = 9021.96,
       },
     },
   },
   ["Joulinare"] = {
     ["percentile"] = 84.91,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 996,
+    ["overall_rank"] = 997,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 23,
@@ -46759,53 +46806,6 @@ UWULogsData[1][1] = {
       ["The Lich King"] = {
         ["kill_count"] = 17,
         ["points"] = 6483.61,
-      },
-    },
-  },
-  ["Bondura"] = {
-    ["percentile"] = 84.91,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 997,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 3,
-        ["points"] = 9773.98,
-      },
-      ["Lady Deathwhisper"] = {
-        ["kill_count"] = 2,
-        ["points"] = 7607.08,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 3,
-        ["points"] = 8295.83,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 3,
-        ["points"] = 7756.78,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 3,
-        ["points"] = 7681.77,
-      },
-      ["Professor Putricide"] = {
-        ["kill_count"] = 3,
-        ["points"] = 8234.13,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 3,
-        ["points"] = 8907.89,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 3,
-        ["points"] = 9739.97,
-      },
-      ["Sindragosa"] = {
-        ["kill_count"] = 3,
-        ["points"] = 7847.0,
-      },
-      ["The Lich King"] = {
-        ["kill_count"] = 3,
-        ["points"] = 9021.81,
       },
     },
   },
@@ -46852,7 +46852,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8925.06,
+        ["points"] = 8925.23,
       },
     },
   },
@@ -46899,7 +46899,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 8209.46,
+        ["points"] = 8209.73,
       },
     },
   },
@@ -46946,7 +46946,7 @@ UWULogsData[1][1] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9173.83,
+        ["points"] = 9173.96,
       },
     },
   },

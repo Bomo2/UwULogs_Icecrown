@@ -8020,7 +8020,7 @@ UWULogsData[5][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 8625.32,
+        ["points"] = 8625.47,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -8032,7 +8032,7 @@ UWULogsData[5][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 9755.86,
+        ["points"] = 9755.89,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
