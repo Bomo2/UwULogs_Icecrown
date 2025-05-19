@@ -22332,43 +22332,43 @@ UWULogsData[3][2] = {
     ["overall_rank"] = 477,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
-        ["kill_count"] = 45,
+        ["kill_count"] = 46,
         ["points"] = 9674.97,
       },
       ["Lady Deathwhisper"] = {
-        ["kill_count"] = 46,
+        ["kill_count"] = 47,
         ["points"] = 9505.51,
       },
       ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 50,
+        ["kill_count"] = 51,
         ["points"] = 9592.96,
       },
       ["Festergut"] = {
-        ["kill_count"] = 47,
+        ["kill_count"] = 48,
         ["points"] = 8902.89,
       },
       ["Rotface"] = {
-        ["kill_count"] = 48,
+        ["kill_count"] = 49,
         ["points"] = 9181.92,
       },
       ["Professor Putricide"] = {
-        ["kill_count"] = 50,
+        ["kill_count"] = 51,
         ["points"] = 9403.15,
       },
       ["Blood Prince Council"] = {
-        ["kill_count"] = 46,
+        ["kill_count"] = 47,
         ["points"] = 9263.93,
       },
       ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 51,
+        ["kill_count"] = 52,
         ["points"] = 9112.91,
       },
       ["Sindragosa"] = {
-        ["kill_count"] = 49,
+        ["kill_count"] = 50,
         ["points"] = 9383.19,
       },
       ["The Lich King"] = {
-        ["kill_count"] = 41,
+        ["kill_count"] = 42,
         ["points"] = 8781.34,
       },
     },
@@ -23309,7 +23309,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 8005.94,
+        ["points"] = 8004.65,
       },
     },
   },
@@ -24907,7 +24907,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8126.13,
+        ["points"] = 8124.84,
       },
     },
   },
@@ -25382,7 +25382,7 @@ UWULogsData[3][2] = {
     },
   },
   ["Gasnica"] = {
-    ["percentile"] = 92.04,
+    ["percentile"] = 92.03,
     ["server"] = "Icecrown",
     ["overall_rank"] = 542,
     ["bosses"] = {
@@ -25424,7 +25424,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 8102.87,
+        ["points"] = 8101.58,
       },
     },
   },
@@ -25565,7 +25565,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 8056.35,
+        ["points"] = 8055.05,
       },
     },
   },
@@ -25663,57 +25663,10 @@ UWULogsData[3][2] = {
       },
     },
   },
-  ["Doing"] = {
-    ["percentile"] = 91.96,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 549,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 27,
-        ["points"] = 8436.84,
-      },
-      ["Lady Deathwhisper"] = {
-        ["kill_count"] = 26,
-        ["points"] = 9127.16,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 27,
-        ["points"] = 9533.95,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 23,
-        ["points"] = 9437.94,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 24,
-        ["points"] = 9978.0,
-      },
-      ["Professor Putricide"] = {
-        ["kill_count"] = 24,
-        ["points"] = 9410.92,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 24,
-        ["points"] = 9188.92,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 25,
-        ["points"] = 9268.93,
-      },
-      ["Sindragosa"] = {
-        ["kill_count"] = 25,
-        ["points"] = 9374.77,
-      },
-      ["The Lich King"] = {
-        ["kill_count"] = 25,
-        ["points"] = 8123.55,
-      },
-    },
-  },
   ["Rageban"] = {
     ["percentile"] = 91.96,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 550,
+    ["overall_rank"] = 549,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 41,
@@ -25760,7 +25713,7 @@ UWULogsData[3][2] = {
   ["Icelanceftw"] = {
     ["percentile"] = 91.96,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 551,
+    ["overall_rank"] = 550,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 8,
@@ -25801,6 +25754,53 @@ UWULogsData[3][2] = {
       ["The Lich King"] = {
         ["kill_count"] = 7,
         ["points"] = 8670.2,
+      },
+    },
+  },
+  ["Doing"] = {
+    ["percentile"] = 91.96,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 551,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 27,
+        ["points"] = 8436.84,
+      },
+      ["Lady Deathwhisper"] = {
+        ["kill_count"] = 26,
+        ["points"] = 9127.16,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 27,
+        ["points"] = 9533.95,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 23,
+        ["points"] = 9437.94,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 24,
+        ["points"] = 9978.0,
+      },
+      ["Professor Putricide"] = {
+        ["kill_count"] = 24,
+        ["points"] = 9410.92,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 24,
+        ["points"] = 9188.92,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 25,
+        ["points"] = 9268.93,
+      },
+      ["Sindragosa"] = {
+        ["kill_count"] = 25,
+        ["points"] = 9374.77,
+      },
+      ["The Lich King"] = {
+        ["kill_count"] = 25,
+        ["points"] = 8122.25,
       },
     },
   },
@@ -29560,7 +29560,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 28,
-        ["points"] = 8127.42,
+        ["points"] = 8126.13,
       },
     },
   },
@@ -31769,7 +31769,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 7894.8,
+        ["points"] = 7893.51,
       },
     },
   },
@@ -32662,12 +32662,12 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 28,
-        ["points"] = 8080.9,
+        ["points"] = 8079.61,
       },
     },
   },
   ["Magicck"] = {
-    ["percentile"] = 89.87,
+    ["percentile"] = 89.86,
     ["server"] = "Icecrown",
     ["overall_rank"] = 699,
     ["bosses"] = {
@@ -32709,7 +32709,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 8009.82,
+        ["points"] = 8008.53,
       },
     },
   },
@@ -33273,7 +33273,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 7808.22,
+        ["points"] = 7806.93,
       },
     },
   },
@@ -33602,7 +33602,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 43,
-        ["points"] = 7937.45,
+        ["points"] = 7936.16,
       },
     },
   },
@@ -34636,7 +34636,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 8055.05,
+        ["points"] = 8053.76,
       },
     },
   },
@@ -34777,14 +34777,61 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 8058.93,
+        ["points"] = 8057.64,
+      },
+    },
+  },
+  ["Atomo"] = {
+    ["percentile"] = 89.26,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 744,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 22,
+        ["points"] = 9353.94,
+      },
+      ["Lady Deathwhisper"] = {
+        ["kill_count"] = 19,
+        ["points"] = 7929.84,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 21,
+        ["points"] = 9355.94,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 23,
+        ["points"] = 9109.91,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 23,
+        ["points"] = 9440.94,
+      },
+      ["Professor Putricide"] = {
+        ["kill_count"] = 21,
+        ["points"] = 8398.05,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 21,
+        ["points"] = 9454.95,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 21,
+        ["points"] = 8748.87,
+      },
+      ["Sindragosa"] = {
+        ["kill_count"] = 24,
+        ["points"] = 9249.73,
+      },
+      ["The Lich King"] = {
+        ["kill_count"] = 18,
+        ["points"] = 8139.05,
       },
     },
   },
   ["Fireticks"] = {
     ["percentile"] = 89.26,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 744,
+    ["overall_rank"] = 745,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 14,
@@ -34816,7 +34863,7 @@ UWULogsData[3][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 16,
-        ["points"] = 4966.0,
+        ["points"] = 4965.9,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
@@ -34831,7 +34878,7 @@ UWULogsData[3][2] = {
   ["Friendster"] = {
     ["percentile"] = 89.26,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 745,
+    ["overall_rank"] = 746,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 17,
@@ -34878,7 +34925,7 @@ UWULogsData[3][2] = {
   ["Pavlaka"] = {
     ["percentile"] = 89.25,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 746,
+    ["overall_rank"] = 747,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
@@ -34925,7 +34972,7 @@ UWULogsData[3][2] = {
   ["Icyhot"] = {
     ["percentile"] = 89.25,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 747,
+    ["overall_rank"] = 748,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 8,
@@ -34972,7 +35019,7 @@ UWULogsData[3][2] = {
   ["Jelo"] = {
     ["percentile"] = 89.25,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 748,
+    ["overall_rank"] = 749,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 14,
@@ -35019,7 +35066,7 @@ UWULogsData[3][2] = {
   ["Xiahu"] = {
     ["percentile"] = 89.24,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 749,
+    ["overall_rank"] = 750,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 9,
@@ -35066,7 +35113,7 @@ UWULogsData[3][2] = {
   ["Weavdeeznutz"] = {
     ["percentile"] = 89.23,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 750,
+    ["overall_rank"] = 751,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 18,
@@ -35113,7 +35160,7 @@ UWULogsData[3][2] = {
   ["Stardmg"] = {
     ["percentile"] = 89.22,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 751,
+    ["overall_rank"] = 752,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
@@ -35160,7 +35207,7 @@ UWULogsData[3][2] = {
   ["Lewak"] = {
     ["percentile"] = 89.21,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 752,
+    ["overall_rank"] = 753,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 11,
@@ -35207,7 +35254,7 @@ UWULogsData[3][2] = {
   ["Drugqe"] = {
     ["percentile"] = 89.2,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 753,
+    ["overall_rank"] = 754,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 24,
@@ -35254,7 +35301,7 @@ UWULogsData[3][2] = {
   ["Forlimage"] = {
     ["percentile"] = 89.19,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 754,
+    ["overall_rank"] = 755,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 10,
@@ -35301,7 +35348,7 @@ UWULogsData[3][2] = {
   ["Critoris"] = {
     ["percentile"] = 89.18,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 755,
+    ["overall_rank"] = 756,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 31,
@@ -35348,7 +35395,7 @@ UWULogsData[3][2] = {
   ["Yourlastbbcx"] = {
     ["percentile"] = 89.18,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 756,
+    ["overall_rank"] = 757,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
@@ -35395,7 +35442,7 @@ UWULogsData[3][2] = {
   ["Loser"] = {
     ["percentile"] = 89.17,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 757,
+    ["overall_rank"] = 758,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 14,
@@ -35442,7 +35489,7 @@ UWULogsData[3][2] = {
   ["Zeroblast"] = {
     ["percentile"] = 89.17,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 758,
+    ["overall_rank"] = 759,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 20,
@@ -35489,7 +35536,7 @@ UWULogsData[3][2] = {
   ["Hornymind"] = {
     ["percentile"] = 89.15,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 759,
+    ["overall_rank"] = 760,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 31,
@@ -35534,9 +35581,9 @@ UWULogsData[3][2] = {
     },
   },
   ["Powerbalasto"] = {
-    ["percentile"] = 89.15,
+    ["percentile"] = 89.14,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 760,
+    ["overall_rank"] = 761,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 17,
@@ -35576,14 +35623,14 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8031.79,
+        ["points"] = 8030.5,
       },
     },
   },
   ["Icck"] = {
     ["percentile"] = 89.13,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 761,
+    ["overall_rank"] = 762,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 49,
@@ -35630,7 +35677,7 @@ UWULogsData[3][2] = {
   ["Aedrena"] = {
     ["percentile"] = 89.12,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 762,
+    ["overall_rank"] = 763,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 16,
@@ -35677,7 +35724,7 @@ UWULogsData[3][2] = {
   ["Robimage"] = {
     ["percentile"] = 89.11,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 763,
+    ["overall_rank"] = 764,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 42,
@@ -35724,7 +35771,7 @@ UWULogsData[3][2] = {
   ["Aldretic"] = {
     ["percentile"] = 89.1,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 764,
+    ["overall_rank"] = 765,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 24,
@@ -35771,7 +35818,7 @@ UWULogsData[3][2] = {
   ["Fanofbeluga"] = {
     ["percentile"] = 89.08,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 765,
+    ["overall_rank"] = 766,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 31,
@@ -35818,7 +35865,7 @@ UWULogsData[3][2] = {
   ["Blessedz"] = {
     ["percentile"] = 89.08,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 766,
+    ["overall_rank"] = 767,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 11,
@@ -35865,7 +35912,7 @@ UWULogsData[3][2] = {
   ["Nazreh"] = {
     ["percentile"] = 89.05,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 767,
+    ["overall_rank"] = 768,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 24,
@@ -35912,7 +35959,7 @@ UWULogsData[3][2] = {
   ["Fxzt"] = {
     ["percentile"] = 89.05,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 768,
+    ["overall_rank"] = 769,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 30,
@@ -35959,7 +36006,7 @@ UWULogsData[3][2] = {
   ["Shmydulf"] = {
     ["percentile"] = 89.04,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 769,
+    ["overall_rank"] = 770,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 13,
@@ -36006,7 +36053,7 @@ UWULogsData[3][2] = {
   ["Peepuu"] = {
     ["percentile"] = 89.04,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 770,
+    ["overall_rank"] = 771,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 24,
@@ -36053,7 +36100,7 @@ UWULogsData[3][2] = {
   ["Zibodine"] = {
     ["percentile"] = 89.04,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 771,
+    ["overall_rank"] = 772,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 29,
@@ -36100,7 +36147,7 @@ UWULogsData[3][2] = {
   ["Alsudar"] = {
     ["percentile"] = 89.04,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 772,
+    ["overall_rank"] = 773,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 21,
@@ -36147,7 +36194,7 @@ UWULogsData[3][2] = {
   ["Zumwanti"] = {
     ["percentile"] = 88.97,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 773,
+    ["overall_rank"] = 774,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
@@ -36187,14 +36234,14 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 7980.1,
+        ["points"] = 7978.81,
       },
     },
   },
   ["Bestwizard"] = {
-    ["percentile"] = 88.97,
+    ["percentile"] = 88.96,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 774,
+    ["overall_rank"] = 775,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 16,
@@ -36234,14 +36281,14 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 7822.43,
+        ["points"] = 7821.14,
       },
     },
   },
   ["Spellsteal"] = {
     ["percentile"] = 88.96,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 775,
+    ["overall_rank"] = 776,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
@@ -36288,7 +36335,7 @@ UWULogsData[3][2] = {
   ["Braphmage"] = {
     ["percentile"] = 88.96,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 776,
+    ["overall_rank"] = 777,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
@@ -36335,7 +36382,7 @@ UWULogsData[3][2] = {
   ["Ephiustrasza"] = {
     ["percentile"] = 88.95,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 777,
+    ["overall_rank"] = 778,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
@@ -36375,14 +36422,14 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 8084.78,
+        ["points"] = 8083.48,
       },
     },
   },
   ["Deronima"] = {
     ["percentile"] = 88.94,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 778,
+    ["overall_rank"] = 779,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 28,
@@ -36422,14 +36469,14 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 7831.48,
+        ["points"] = 7830.19,
       },
     },
   },
   ["Trollzemag"] = {
     ["percentile"] = 88.94,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 779,
+    ["overall_rank"] = 780,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 24,
@@ -36476,7 +36523,7 @@ UWULogsData[3][2] = {
   ["Nymftw"] = {
     ["percentile"] = 88.94,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 780,
+    ["overall_rank"] = 781,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 17,
@@ -36523,7 +36570,7 @@ UWULogsData[3][2] = {
   ["Lovesomemama"] = {
     ["percentile"] = 88.94,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 781,
+    ["overall_rank"] = 782,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 23,
@@ -36570,7 +36617,7 @@ UWULogsData[3][2] = {
   ["Shaos"] = {
     ["percentile"] = 88.93,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 782,
+    ["overall_rank"] = 783,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 8,
@@ -36617,7 +36664,7 @@ UWULogsData[3][2] = {
   ["Myph"] = {
     ["percentile"] = 88.92,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 783,
+    ["overall_rank"] = 784,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 7,
@@ -36664,7 +36711,7 @@ UWULogsData[3][2] = {
   ["Xino"] = {
     ["percentile"] = 88.91,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 784,
+    ["overall_rank"] = 785,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 14,
@@ -36711,7 +36758,7 @@ UWULogsData[3][2] = {
   ["Gnomeregen"] = {
     ["percentile"] = 88.91,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 785,
+    ["overall_rank"] = 786,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 10,
@@ -36758,7 +36805,7 @@ UWULogsData[3][2] = {
   ["Iolgdx"] = {
     ["percentile"] = 88.84,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 786,
+    ["overall_rank"] = 787,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 14,
@@ -36805,7 +36852,7 @@ UWULogsData[3][2] = {
   ["Dollatm"] = {
     ["percentile"] = 88.83,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 787,
+    ["overall_rank"] = 788,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
@@ -36852,7 +36899,7 @@ UWULogsData[3][2] = {
   ["Likirus"] = {
     ["percentile"] = 88.81,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 788,
+    ["overall_rank"] = 789,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 20,
@@ -36899,7 +36946,7 @@ UWULogsData[3][2] = {
   ["Tizyhasfire"] = {
     ["percentile"] = 88.75,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 789,
+    ["overall_rank"] = 790,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
@@ -36946,7 +36993,7 @@ UWULogsData[3][2] = {
   ["Dijazepam"] = {
     ["percentile"] = 88.74,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 790,
+    ["overall_rank"] = 791,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 20,
@@ -36993,7 +37040,7 @@ UWULogsData[3][2] = {
   ["Criixma"] = {
     ["percentile"] = 88.73,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 791,
+    ["overall_rank"] = 792,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
@@ -37040,7 +37087,7 @@ UWULogsData[3][2] = {
   ["Firekame"] = {
     ["percentile"] = 88.73,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 792,
+    ["overall_rank"] = 793,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 17,
@@ -37087,7 +37134,7 @@ UWULogsData[3][2] = {
   ["Xuwei"] = {
     ["percentile"] = 88.72,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 793,
+    ["overall_rank"] = 794,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 23,
@@ -37134,7 +37181,7 @@ UWULogsData[3][2] = {
   ["Rozpor"] = {
     ["percentile"] = 88.71,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 794,
+    ["overall_rank"] = 795,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 14,
@@ -37181,7 +37228,7 @@ UWULogsData[3][2] = {
   ["Blackmagec"] = {
     ["percentile"] = 88.71,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 795,
+    ["overall_rank"] = 796,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 10,
@@ -37228,7 +37275,7 @@ UWULogsData[3][2] = {
   ["Hotpockets"] = {
     ["percentile"] = 88.71,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 796,
+    ["overall_rank"] = 797,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
@@ -37275,7 +37322,7 @@ UWULogsData[3][2] = {
   ["Deathmarkx"] = {
     ["percentile"] = 88.7,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 797,
+    ["overall_rank"] = 798,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 32,
@@ -37315,14 +37362,14 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 8026.62,
+        ["points"] = 8025.33,
       },
     },
   },
   ["Yoursoulmate"] = {
     ["percentile"] = 88.69,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 798,
+    ["overall_rank"] = 799,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 16,
@@ -37369,7 +37416,7 @@ UWULogsData[3][2] = {
   ["Mislitelq"] = {
     ["percentile"] = 88.68,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 799,
+    ["overall_rank"] = 800,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 7,
@@ -37416,7 +37463,7 @@ UWULogsData[3][2] = {
   ["Zhadino"] = {
     ["percentile"] = 88.68,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 800,
+    ["overall_rank"] = 801,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 29,
@@ -37463,7 +37510,7 @@ UWULogsData[3][2] = {
   ["Vcreate"] = {
     ["percentile"] = 88.67,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 801,
+    ["overall_rank"] = 802,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 18,
@@ -37510,7 +37557,7 @@ UWULogsData[3][2] = {
   ["Tiboy"] = {
     ["percentile"] = 88.66,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 802,
+    ["overall_rank"] = 803,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 11,
@@ -37557,7 +37604,7 @@ UWULogsData[3][2] = {
   ["Littlewaawaa"] = {
     ["percentile"] = 88.65,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 803,
+    ["overall_rank"] = 804,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
@@ -37604,7 +37651,7 @@ UWULogsData[3][2] = {
   ["Pyromrdko"] = {
     ["percentile"] = 88.64,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 804,
+    ["overall_rank"] = 805,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 39,
@@ -37651,7 +37698,7 @@ UWULogsData[3][2] = {
   ["Shaotime"] = {
     ["percentile"] = 88.63,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 805,
+    ["overall_rank"] = 806,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 30,
@@ -37698,7 +37745,7 @@ UWULogsData[3][2] = {
   ["Firecito"] = {
     ["percentile"] = 88.58,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 806,
+    ["overall_rank"] = 807,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 27,
@@ -37745,7 +37792,7 @@ UWULogsData[3][2] = {
   ["Khamikatze"] = {
     ["percentile"] = 88.58,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 807,
+    ["overall_rank"] = 808,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 26,
@@ -37792,7 +37839,7 @@ UWULogsData[3][2] = {
   ["Maulmog"] = {
     ["percentile"] = 88.57,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 808,
+    ["overall_rank"] = 809,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 40,
@@ -37839,7 +37886,7 @@ UWULogsData[3][2] = {
   ["Iseengarrd"] = {
     ["percentile"] = 88.56,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 809,
+    ["overall_rank"] = 810,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 51,
@@ -37886,7 +37933,7 @@ UWULogsData[3][2] = {
   ["Idozerodmg"] = {
     ["percentile"] = 88.55,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 810,
+    ["overall_rank"] = 811,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 19,
@@ -37933,7 +37980,7 @@ UWULogsData[3][2] = {
   ["Oberhofer"] = {
     ["percentile"] = 88.53,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 811,
+    ["overall_rank"] = 812,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 11,
@@ -37980,7 +38027,7 @@ UWULogsData[3][2] = {
   ["Exotentacion"] = {
     ["percentile"] = 88.53,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 812,
+    ["overall_rank"] = 813,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 37,
@@ -38027,7 +38074,7 @@ UWULogsData[3][2] = {
   ["Bultika"] = {
     ["percentile"] = 88.51,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 813,
+    ["overall_rank"] = 814,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 12,
@@ -38074,7 +38121,7 @@ UWULogsData[3][2] = {
   ["Bishopmage"] = {
     ["percentile"] = 88.5,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 814,
+    ["overall_rank"] = 815,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 14,
@@ -38121,7 +38168,7 @@ UWULogsData[3][2] = {
   ["Gvyny"] = {
     ["percentile"] = 88.48,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 815,
+    ["overall_rank"] = 816,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 37,
@@ -38168,7 +38215,7 @@ UWULogsData[3][2] = {
   ["Notblasting"] = {
     ["percentile"] = 88.47,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 816,
+    ["overall_rank"] = 817,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 12,
@@ -38215,7 +38262,7 @@ UWULogsData[3][2] = {
   ["Sendomage"] = {
     ["percentile"] = 88.47,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 817,
+    ["overall_rank"] = 818,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 9,
@@ -38262,7 +38309,7 @@ UWULogsData[3][2] = {
   ["Toukaxz"] = {
     ["percentile"] = 88.46,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 818,
+    ["overall_rank"] = 819,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 20,
@@ -38309,7 +38356,7 @@ UWULogsData[3][2] = {
   ["Nookym"] = {
     ["percentile"] = 88.45,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 819,
+    ["overall_rank"] = 820,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
@@ -38356,7 +38403,7 @@ UWULogsData[3][2] = {
   ["Ashiv"] = {
     ["percentile"] = 88.42,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 820,
+    ["overall_rank"] = 821,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
@@ -38403,7 +38450,7 @@ UWULogsData[3][2] = {
   ["Dontargetme"] = {
     ["percentile"] = 88.4,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 821,
+    ["overall_rank"] = 822,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 29,
@@ -38450,7 +38497,7 @@ UWULogsData[3][2] = {
   ["Frostccapped"] = {
     ["percentile"] = 88.39,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 822,
+    ["overall_rank"] = 823,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 7,
@@ -38497,7 +38544,7 @@ UWULogsData[3][2] = {
   ["Nevermmore"] = {
     ["percentile"] = 88.37,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 823,
+    ["overall_rank"] = 824,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 44,
@@ -38544,7 +38591,7 @@ UWULogsData[3][2] = {
   ["Heatius"] = {
     ["percentile"] = 88.36,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 824,
+    ["overall_rank"] = 825,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 37,
@@ -38591,7 +38638,7 @@ UWULogsData[3][2] = {
   ["Vtune"] = {
     ["percentile"] = 88.35,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 825,
+    ["overall_rank"] = 826,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 33,
@@ -38638,7 +38685,7 @@ UWULogsData[3][2] = {
   ["Cluelessmage"] = {
     ["percentile"] = 88.35,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 826,
+    ["overall_rank"] = 827,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 15,
@@ -38678,14 +38725,14 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 7923.24,
+        ["points"] = 7921.94,
       },
     },
   },
   ["Swiftfire"] = {
     ["percentile"] = 88.33,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 827,
+    ["overall_rank"] = 828,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
@@ -38732,7 +38779,7 @@ UWULogsData[3][2] = {
   ["Racattattw"] = {
     ["percentile"] = 88.26,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 828,
+    ["overall_rank"] = 829,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 16,
@@ -38779,7 +38826,7 @@ UWULogsData[3][2] = {
   ["Lalbibox"] = {
     ["percentile"] = 88.26,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 829,
+    ["overall_rank"] = 830,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 29,
@@ -38819,14 +38866,14 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 7881.88,
+        ["points"] = 7880.59,
       },
     },
   },
   ["Geilord"] = {
     ["percentile"] = 88.25,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 830,
+    ["overall_rank"] = 831,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 9,
@@ -38873,7 +38920,7 @@ UWULogsData[3][2] = {
   ["Deyana"] = {
     ["percentile"] = 88.23,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 831,
+    ["overall_rank"] = 832,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 51,
@@ -38913,14 +38960,14 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 47,
-        ["points"] = 8100.28,
+        ["points"] = 8098.99,
       },
     },
   },
   ["Anironfire"] = {
     ["percentile"] = 88.22,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 832,
+    ["overall_rank"] = 833,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 26,
@@ -38967,7 +39014,7 @@ UWULogsData[3][2] = {
   ["Keymonmage"] = {
     ["percentile"] = 88.22,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 833,
+    ["overall_rank"] = 834,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
@@ -39014,7 +39061,7 @@ UWULogsData[3][2] = {
   ["Golondrino"] = {
     ["percentile"] = 88.21,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 834,
+    ["overall_rank"] = 835,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 10,
@@ -39061,7 +39108,7 @@ UWULogsData[3][2] = {
   ["Awnitop"] = {
     ["percentile"] = 88.21,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 835,
+    ["overall_rank"] = 836,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 33,
@@ -39108,7 +39155,7 @@ UWULogsData[3][2] = {
   ["Incomingstds"] = {
     ["percentile"] = 88.21,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 836,
+    ["overall_rank"] = 837,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
@@ -39140,7 +39187,7 @@ UWULogsData[3][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 4805.1,
+        ["points"] = 4805.0,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
@@ -39155,7 +39202,7 @@ UWULogsData[3][2] = {
   ["Furby"] = {
     ["percentile"] = 88.19,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 837,
+    ["overall_rank"] = 838,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 13,
@@ -39202,7 +39249,7 @@ UWULogsData[3][2] = {
   ["Moonlightxz"] = {
     ["percentile"] = 88.19,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 838,
+    ["overall_rank"] = 839,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 30,
@@ -39249,7 +39296,7 @@ UWULogsData[3][2] = {
   ["Skincolor"] = {
     ["percentile"] = 88.19,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 839,
+    ["overall_rank"] = 840,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 23,
@@ -39296,7 +39343,7 @@ UWULogsData[3][2] = {
   ["Miratrrix"] = {
     ["percentile"] = 88.18,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 840,
+    ["overall_rank"] = 841,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 30,
@@ -39336,14 +39383,14 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8074.44,
+        ["points"] = 8073.15,
       },
     },
   },
   ["Elbeyopubico"] = {
     ["percentile"] = 88.17,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 841,
+    ["overall_rank"] = 842,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 42,
@@ -39390,7 +39437,7 @@ UWULogsData[3][2] = {
   ["Elotiito"] = {
     ["percentile"] = 88.16,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 842,
+    ["overall_rank"] = 843,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 21,
@@ -39437,7 +39484,7 @@ UWULogsData[3][2] = {
   ["Dawning"] = {
     ["percentile"] = 88.16,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 843,
+    ["overall_rank"] = 844,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 16,
@@ -39484,7 +39531,7 @@ UWULogsData[3][2] = {
   ["Xtd"] = {
     ["percentile"] = 88.15,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 844,
+    ["overall_rank"] = 845,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 37,
@@ -39531,7 +39578,7 @@ UWULogsData[3][2] = {
   ["Fyreon"] = {
     ["percentile"] = 88.13,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 845,
+    ["overall_rank"] = 846,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 19,
@@ -39572,53 +39619,6 @@ UWULogsData[3][2] = {
       ["The Lich King"] = {
         ["kill_count"] = 18,
         ["points"] = 8614.63,
-      },
-    },
-  },
-  ["Kriogenic"] = {
-    ["percentile"] = 88.08,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 846,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 17,
-        ["points"] = 9413.94,
-      },
-      ["Lady Deathwhisper"] = {
-        ["kill_count"] = 17,
-        ["points"] = 9188.22,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 17,
-        ["points"] = 9398.94,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 19,
-        ["points"] = 8994.9,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 19,
-        ["points"] = 8725.87,
-      },
-      ["Professor Putricide"] = {
-        ["kill_count"] = 17,
-        ["points"] = 9139.12,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 18,
-        ["points"] = 9638.96,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 18,
-        ["points"] = 7356.74,
-      },
-      ["Sindragosa"] = {
-        ["kill_count"] = 19,
-        ["points"] = 8557.17,
-      },
-      ["The Lich King"] = {
-        ["kill_count"] = 16,
-        ["points"] = 7591.11,
       },
     },
   },
@@ -39669,10 +39669,57 @@ UWULogsData[3][2] = {
       },
     },
   },
-  ["Ashleen"] = {
+  ["Kriogenic"] = {
     ["percentile"] = 88.08,
     ["server"] = "Icecrown",
     ["overall_rank"] = 848,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 17,
+        ["points"] = 9413.94,
+      },
+      ["Lady Deathwhisper"] = {
+        ["kill_count"] = 17,
+        ["points"] = 9188.22,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 17,
+        ["points"] = 9398.94,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 19,
+        ["points"] = 8994.9,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 19,
+        ["points"] = 8725.87,
+      },
+      ["Professor Putricide"] = {
+        ["kill_count"] = 17,
+        ["points"] = 9139.12,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 18,
+        ["points"] = 9638.96,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 18,
+        ["points"] = 7356.74,
+      },
+      ["Sindragosa"] = {
+        ["kill_count"] = 19,
+        ["points"] = 8557.17,
+      },
+      ["The Lich King"] = {
+        ["kill_count"] = 16,
+        ["points"] = 7589.82,
+      },
+    },
+  },
+  ["Ashleen"] = {
+    ["percentile"] = 88.08,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 849,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 35,
@@ -39719,7 +39766,7 @@ UWULogsData[3][2] = {
   ["Medeiv"] = {
     ["percentile"] = 88.05,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 849,
+    ["overall_rank"] = 850,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 9,
@@ -39766,7 +39813,7 @@ UWULogsData[3][2] = {
   ["Lachingada"] = {
     ["percentile"] = 88.02,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 850,
+    ["overall_rank"] = 851,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 18,
@@ -39813,7 +39860,7 @@ UWULogsData[3][2] = {
   ["Magusmachine"] = {
     ["percentile"] = 88.01,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 851,
+    ["overall_rank"] = 852,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 31,
@@ -39860,7 +39907,7 @@ UWULogsData[3][2] = {
   ["Asridd"] = {
     ["percentile"] = 88.0,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 852,
+    ["overall_rank"] = 853,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 12,
@@ -39900,14 +39947,14 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 7969.76,
+        ["points"] = 7968.47,
       },
     },
   },
   ["Firefruit"] = {
     ["percentile"] = 87.99,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 853,
+    ["overall_rank"] = 854,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 8,
@@ -39948,53 +39995,6 @@ UWULogsData[3][2] = {
       ["The Lich King"] = {
         ["kill_count"] = 3,
         ["points"] = 8145.52,
-      },
-    },
-  },
-  ["Atomo"] = {
-    ["percentile"] = 87.96,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 854,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 21,
-        ["points"] = 9353.94,
-      },
-      ["Lady Deathwhisper"] = {
-        ["kill_count"] = 18,
-        ["points"] = 7929.84,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 20,
-        ["points"] = 9355.94,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 22,
-        ["points"] = 9109.91,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 22,
-        ["points"] = 9440.94,
-      },
-      ["Professor Putricide"] = {
-        ["kill_count"] = 20,
-        ["points"] = 8398.05,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 20,
-        ["points"] = 9454.95,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 20,
-        ["points"] = 8748.87,
-      },
-      ["Sindragosa"] = {
-        ["kill_count"] = 23,
-        ["points"] = 9249.73,
-      },
-      ["The Lich King"] = {
-        ["kill_count"] = 17,
-        ["points"] = 6837.68,
       },
     },
   },
@@ -40135,7 +40135,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 7707.42,
+        ["points"] = 7706.13,
       },
     },
   },
@@ -40511,7 +40511,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 7713.88,
+        ["points"] = 7712.59,
       },
     },
   },
@@ -40558,7 +40558,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 7669.94,
+        ["points"] = 7668.65,
       },
     },
   },
@@ -40746,7 +40746,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 7918.07,
+        ["points"] = 7916.77,
       },
     },
   },
@@ -40840,7 +40840,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 33,
-        ["points"] = 7981.39,
+        ["points"] = 7980.1,
       },
     },
   },
@@ -41357,7 +41357,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 8067.98,
+        ["points"] = 8066.68,
       },
     },
   },
@@ -41597,7 +41597,7 @@ UWULogsData[3][2] = {
     },
   },
   ["Luda"] = {
-    ["percentile"] = 87.53,
+    ["percentile"] = 87.52,
     ["server"] = "Icecrown",
     ["overall_rank"] = 889,
     ["bosses"] = {
@@ -41639,7 +41639,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 7909.02,
+        ["points"] = 7907.73,
       },
     },
   },
@@ -41780,7 +41780,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 7536.83,
+        ["points"] = 7535.54,
       },
     },
   },
@@ -42109,7 +42109,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8095.12,
+        ["points"] = 8093.82,
       },
     },
   },
@@ -42630,57 +42630,10 @@ UWULogsData[3][2] = {
       },
     },
   },
-  ["Deepcast"] = {
-    ["percentile"] = 87.28,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 911,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 59,
-        ["points"] = 9412.94,
-      },
-      ["Lady Deathwhisper"] = {
-        ["kill_count"] = 55,
-        ["points"] = 9079.26,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 60,
-        ["points"] = 9042.9,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 60,
-        ["points"] = 9033.9,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 61,
-        ["points"] = 8493.85,
-      },
-      ["Professor Putricide"] = {
-        ["kill_count"] = 59,
-        ["points"] = 8381.41,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 59,
-        ["points"] = 8795.88,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 59,
-        ["points"] = 9137.91,
-      },
-      ["Sindragosa"] = {
-        ["kill_count"] = 57,
-        ["points"] = 7982.45,
-      },
-      ["The Lich King"] = {
-        ["kill_count"] = 55,
-        ["points"] = 7841.82,
-      },
-    },
-  },
   ["Poweroles"] = {
     ["percentile"] = 87.28,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 912,
+    ["overall_rank"] = 911,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 19,
@@ -42721,6 +42674,53 @@ UWULogsData[3][2] = {
       ["The Lich King"] = {
         ["kill_count"] = 17,
         ["points"] = 8782.63,
+      },
+    },
+  },
+  ["Deepcast"] = {
+    ["percentile"] = 87.28,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 912,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 59,
+        ["points"] = 9412.94,
+      },
+      ["Lady Deathwhisper"] = {
+        ["kill_count"] = 55,
+        ["points"] = 9079.26,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 60,
+        ["points"] = 9042.9,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 60,
+        ["points"] = 9033.9,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 61,
+        ["points"] = 8493.85,
+      },
+      ["Professor Putricide"] = {
+        ["kill_count"] = 59,
+        ["points"] = 8381.41,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 59,
+        ["points"] = 8795.88,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 59,
+        ["points"] = 9137.91,
+      },
+      ["Sindragosa"] = {
+        ["kill_count"] = 57,
+        ["points"] = 7982.45,
+      },
+      ["The Lich King"] = {
+        ["kill_count"] = 55,
+        ["points"] = 7840.53,
       },
     },
   },
@@ -42806,7 +42806,7 @@ UWULogsData[3][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 12,
-        ["points"] = 3701.8,
+        ["points"] = 3701.7,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
@@ -43049,7 +43049,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 7012.15,
+        ["points"] = 7010.86,
       },
     },
   },
@@ -43237,7 +43237,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 7858.62,
+        ["points"] = 7857.33,
       },
     },
   },
@@ -43284,7 +43284,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 7654.43,
+        ["points"] = 7653.14,
       },
     },
   },
@@ -43331,7 +43331,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 7945.21,
+        ["points"] = 7943.91,
       },
     },
   },
@@ -43472,7 +43472,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 7588.52,
+        ["points"] = 7587.23,
       },
     },
   },
@@ -43519,7 +43519,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 7319.72,
+        ["points"] = 7318.43,
       },
     },
   },
@@ -43754,7 +43754,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 73,
-        ["points"] = 7796.59,
+        ["points"] = 7795.3,
       },
     },
   },
@@ -43989,7 +43989,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 28,
-        ["points"] = 7044.46,
+        ["points"] = 7043.16,
       },
     },
   },
@@ -44036,7 +44036,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 7710.0,
+        ["points"] = 7708.71,
       },
     },
   },
@@ -44417,7 +44417,7 @@ UWULogsData[3][2] = {
     },
   },
   ["Fireballonly"] = {
-    ["percentile"] = 86.84,
+    ["percentile"] = 86.83,
     ["server"] = "Icecrown",
     ["overall_rank"] = 949,
     ["bosses"] = {
@@ -44459,7 +44459,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 7932.28,
+        ["points"] = 7930.99,
       },
     },
   },
@@ -44976,12 +44976,12 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 7477.38,
+        ["points"] = 7476.09,
       },
     },
   },
   ["Magodefogo"] = {
-    ["percentile"] = 86.68,
+    ["percentile"] = 86.67,
     ["server"] = "Icecrown",
     ["overall_rank"] = 961,
     ["bosses"] = {
@@ -45023,7 +45023,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 7996.9,
+        ["points"] = 7995.61,
       },
     },
   },
@@ -45164,7 +45164,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 6987.59,
+        ["points"] = 6986.3,
       },
     },
   },
@@ -45728,7 +45728,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 7739.73,
+        ["points"] = 7738.43,
       },
     },
   },
@@ -45775,7 +45775,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 7960.71,
+        ["points"] = 7959.42,
       },
     },
   },
@@ -46104,7 +46104,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 8060.22,
+        ["points"] = 8058.93,
       },
     },
   },
@@ -46574,7 +46574,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 7827.6,
+        ["points"] = 7826.31,
       },
     },
   },
@@ -46626,7 +46626,7 @@ UWULogsData[3][2] = {
     },
   },
   ["Soofie"] = {
-    ["percentile"] = 86.2,
+    ["percentile"] = 86.19,
     ["server"] = "Icecrown",
     ["overall_rank"] = 996,
     ["bosses"] = {
@@ -46668,7 +46668,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 8061.51,
+        ["points"] = 8060.22,
       },
     },
   },
@@ -46809,7 +46809,7 @@ UWULogsData[3][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 35,
-        ["points"] = 7244.77,
+        ["points"] = 7243.47,
       },
     },
   },

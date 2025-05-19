@@ -4458,15 +4458,15 @@ UWULogsData[9][1] = {
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
-        ["points"] = 5955.0,
+        ["points"] = 5954.9,
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 6071.0,
+        ["points"] = 6070.8,
       },
       ["Rotface"] = {
         ["kill_count"] = 6,
-        ["points"] = 5779.0,
+        ["points"] = 5778.9,
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,

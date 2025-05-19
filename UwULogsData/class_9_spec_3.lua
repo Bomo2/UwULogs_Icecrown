@@ -13301,7 +13301,7 @@ UWULogsData[9][3] = {
   ["Draago"] = {
     ["percentile"] = 9.87,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 1742,
+    ["overall_rank"] = 1743,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
@@ -13313,7 +13313,7 @@ UWULogsData[9][3] = {
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
-        ["points"] = 8436.84,
+        ["points"] = 8435.84,
       },
       ["Festergut"] = {
         ["kill_count"] = 7,
