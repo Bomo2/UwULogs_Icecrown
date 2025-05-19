@@ -4450,7 +4450,7 @@ UWULogsData[9][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 6535.3,
+        ["points"] = 6535.2,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
@@ -4462,7 +4462,7 @@ UWULogsData[9][1] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
-        ["points"] = 6071.1,
+        ["points"] = 6071.0,
       },
       ["Rotface"] = {
         ["kill_count"] = 6,
@@ -4478,7 +4478,7 @@ UWULogsData[9][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 6506.9,
+        ["points"] = 6506.8,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,

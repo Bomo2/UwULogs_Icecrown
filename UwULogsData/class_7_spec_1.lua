@@ -11641,7 +11641,7 @@ UWULogsData[7][1] = {
       },
     },
   },
-  ["Cogollista"] = {
+  ["Uwuele"] = {
     ["percentile"] = 42.26,
     ["server"] = "Icecrown",
     ["overall_rank"] = 282,

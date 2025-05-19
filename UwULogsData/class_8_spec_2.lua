@@ -3416,7 +3416,7 @@ UWULogsData[8][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
-        ["points"] = 5748.2,
+        ["points"] = 5748.1,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
@@ -3428,7 +3428,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
-        ["points"] = 6357.9,
+        ["points"] = 6357.8,
       },
     },
   },
@@ -7599,7 +7599,7 @@ UWULogsData[8][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
-        ["points"] = 6003.5,
+        ["points"] = 6003.4,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
@@ -21252,7 +21252,7 @@ UWULogsData[8][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 6203.5,
+        ["points"] = 6203.4,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
@@ -23790,7 +23790,7 @@ UWULogsData[8][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 6364.6,
+        ["points"] = 6364.5,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
@@ -29430,7 +29430,7 @@ UWULogsData[8][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 12,
-        ["points"] = 6202.7,
+        ["points"] = 6202.6,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
@@ -31440,7 +31440,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 6522.5,
+        ["points"] = 6522.4,
       },
     },
   },
@@ -32192,7 +32192,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
-        ["points"] = 5558.5,
+        ["points"] = 5558.4,
       },
     },
   },
@@ -32485,7 +32485,7 @@ UWULogsData[8][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 6106.7,
+        ["points"] = 6106.6,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
@@ -33555,7 +33555,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 6459.4,
+        ["points"] = 6459.3,
       },
     },
   },
@@ -34506,7 +34506,7 @@ UWULogsData[8][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 6346.1,
+        ["points"] = 6346.0,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
@@ -35341,7 +35341,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 6750.5,
+        ["points"] = 6750.2,
       },
     },
   },
@@ -35576,7 +35576,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 6626.6,
+        ["points"] = 6626.3,
       },
     },
   },
@@ -36598,7 +36598,7 @@ UWULogsData[8][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
-        ["points"] = 5899.3,
+        ["points"] = 5899.2,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
@@ -38631,7 +38631,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
-        ["points"] = 6946.4,
+        ["points"] = 6946.1,
       },
     },
   },
@@ -40197,7 +40197,7 @@ UWULogsData[8][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5456.6,
+        ["points"] = 5456.5,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -40229,7 +40229,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
-        ["points"] = 5425.3,
+        ["points"] = 5425.2,
       },
     },
   },
@@ -40558,7 +40558,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 6761.9,
+        ["points"] = 6761.6,
       },
     },
   },
@@ -41075,7 +41075,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
-        ["points"] = 6304.9,
+        ["points"] = 6304.8,
       },
     },
   },
@@ -41122,7 +41122,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 6503.7,
+        ["points"] = 6503.6,
       },
     },
   },
@@ -41310,7 +41310,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
-        ["points"] = 6714.8,
+        ["points"] = 6714.5,
       },
     },
   },
@@ -41451,7 +41451,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 6548.6,
+        ["points"] = 6548.5,
       },
     },
   },
@@ -41650,7 +41650,7 @@ UWULogsData[8][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 7,
-        ["points"] = 6337.2,
+        ["points"] = 6337.1,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
@@ -42161,13 +42161,13 @@ UWULogsData[8][2] = {
     },
   },
   ["Blaziing"] = {
-    ["percentile"] = 83.11,
+    ["percentile"] = 83.1,
     ["server"] = "Icecrown",
     ["overall_rank"] = 902,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 3,
-        ["points"] = 6349.7,
+        ["points"] = 6349.6,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
@@ -42443,7 +42443,7 @@ UWULogsData[8][2] = {
     },
   },
   ["Banhammerlex"] = {
-    ["percentile"] = 83.02,
+    ["percentile"] = 83.01,
     ["server"] = "Icecrown",
     ["overall_rank"] = 908,
     ["bosses"] = {
@@ -42485,7 +42485,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 7010.0,
+        ["points"] = 7009.7,
       },
     },
   },
@@ -42579,7 +42579,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 59,
-        ["points"] = 6542.6,
+        ["points"] = 6542.5,
       },
     },
   },
@@ -42955,7 +42955,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 6379.3,
+        ["points"] = 6379.2,
       },
     },
   },
@@ -43225,7 +43225,7 @@ UWULogsData[8][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 6006.3,
+        ["points"] = 6006.2,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -43284,7 +43284,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 6368.0,
+        ["points"] = 6367.9,
       },
     },
   },
@@ -43425,7 +43425,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 6689.3,
+        ["points"] = 6689.0,
       },
     },
   },
@@ -43530,7 +43530,7 @@ UWULogsData[8][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 6115.9,
+        ["points"] = 6115.8,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
@@ -43581,7 +43581,7 @@ UWULogsData[8][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5324.4,
+        ["points"] = 5324.3,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -43746,7 +43746,7 @@ UWULogsData[8][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 4425.1,
+        ["points"] = 4425.0,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -43895,7 +43895,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 6323.9,
+        ["points"] = 6323.8,
       },
     },
   },
@@ -43942,7 +43942,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
-        ["points"] = 6459.1,
+        ["points"] = 6459.0,
       },
     },
   },
@@ -44224,7 +44224,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 6984.8,
+        ["points"] = 6984.5,
       },
     },
   },
@@ -44400,7 +44400,7 @@ UWULogsData[8][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
-        ["points"] = 5903.3,
+        ["points"] = 5903.2,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
@@ -44553,7 +44553,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 6904.7,
+        ["points"] = 6904.4,
       },
     },
   },
@@ -44741,7 +44741,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 6539.4,
+        ["points"] = 6539.3,
       },
     },
   },
@@ -44929,7 +44929,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 6940.1,
+        ["points"] = 6939.8,
       },
     },
   },
@@ -45222,7 +45222,7 @@ UWULogsData[8][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 4384.7,
+        ["points"] = 4384.5,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
@@ -45258,7 +45258,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
-        ["points"] = 6374.9,
+        ["points"] = 6374.8,
       },
     },
   },
@@ -45634,7 +45634,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 6486.5,
+        ["points"] = 6486.4,
       },
     },
   },
@@ -45833,7 +45833,7 @@ UWULogsData[8][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 2,
-        ["points"] = 6217.6,
+        ["points"] = 6217.5,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
@@ -45963,7 +45963,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
-        ["points"] = 6546.3,
+        ["points"] = 6546.2,
       },
     },
   },
@@ -46292,7 +46292,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 6754.7,
+        ["points"] = 6754.4,
       },
     },
   },
@@ -46433,7 +46433,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 6993.2,
+        ["points"] = 6992.9,
       },
     },
   },
@@ -46668,7 +46668,7 @@ UWULogsData[8][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 6368.3,
+        ["points"] = 6368.2,
       },
     },
   },

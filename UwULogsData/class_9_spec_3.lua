@@ -13301,7 +13301,7 @@ UWULogsData[9][3] = {
   ["Draago"] = {
     ["percentile"] = 9.87,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 1741,
+    ["overall_rank"] = 1742,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
@@ -13329,11 +13329,11 @@ UWULogsData[9][3] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
-        ["points"] = 7246.72,
+        ["points"] = 7245.72,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 6,
-        ["points"] = 8986.9,
+        ["points"] = 8985.9,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,

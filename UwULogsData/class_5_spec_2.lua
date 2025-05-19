@@ -8004,7 +8004,7 @@ UWULogsData[5][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 7442.22,
+        ["points"] = 7442.53,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -8032,11 +8032,11 @@ UWULogsData[5][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 9755.89,
+        ["points"] = 9755.92,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 6471.5,
+        ["points"] = 6471.96,
       },
     },
   },
