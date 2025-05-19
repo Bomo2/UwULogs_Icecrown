@@ -6,43 +6,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 1,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 9,
         ["pnt"] = 9916.49,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 10,
         ["pnt"] = 10000.0,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 10,
         ["pnt"] = 10000.0,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 11,
         ["pnt"] = 10000.0,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 11,
         ["pnt"] = 10000.0,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 11,
         ["pnt"] = 10000.0,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 11,
         ["pnt"] = 9975.9,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 11,
         ["pnt"] = 9975.12,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 11,
         ["pnt"] = 9895.29,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 10,
         ["pnt"] = 10000.0,
       },
@@ -53,43 +53,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 2,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 4,
         ["pnt"] = 9937.37,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 4,
         ["pnt"] = 9356.44,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 4,
         ["pnt"] = 9748.43,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 3,
         ["pnt"] = 9978.35,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 3,
         ["pnt"] = 9890.71,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 2,
         ["pnt"] = 9850.75,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 4,
         ["pnt"] = 10000.0,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 4,
         ["pnt"] = 10000.0,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 4,
         ["pnt"] = 9738.22,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 2,
         ["pnt"] = 9777.78,
       },
@@ -100,43 +100,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 3,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 5,
         ["pnt"] = 9812.11,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 4,
         ["pnt"] = 9405.94,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 4,
         ["pnt"] = 9874.21,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 4,
         ["pnt"] = 9891.77,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 4,
         ["pnt"] = 9956.24,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 4,
         ["pnt"] = 8656.72,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 4,
         ["pnt"] = 9927.71,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 4,
         ["pnt"] = 9950.25,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 4,
         ["pnt"] = 10000.0,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 3,
         ["pnt"] = 9627.33,
       },
@@ -147,43 +147,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 4,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 3,
         ["pnt"] = 10000.0,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 3,
         ["pnt"] = 9801.98,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 3,
         ["pnt"] = 9948.19,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 3,
         ["pnt"] = 9913.42,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 3,
         ["pnt"] = 9846.83,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 3,
         ["pnt"] = 9090.91,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 9759.04,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 3,
         ["pnt"] = 9825.87,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 2,
         ["pnt"] = 9267.02,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 3,
         ["pnt"] = 9378.88,
       },
@@ -194,43 +194,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 5,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 20,
         ["pnt"] = 9958.25,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 18,
         ["pnt"] = 9900.99,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 20,
         ["pnt"] = 9792.75,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 20,
         ["pnt"] = 9610.39,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 20,
         ["pnt"] = 9508.2,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 17,
         ["pnt"] = 9696.97,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 19,
         ["pnt"] = 9710.84,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 19,
         ["pnt"] = 9925.37,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 16,
         ["pnt"] = 9109.95,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 17,
         ["pnt"] = 8458.0,
       },
@@ -241,43 +241,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 6,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 5,
         ["pnt"] = 9311.06,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 6,
         ["pnt"] = 9158.42,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 5,
         ["pnt"] = 9585.49,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 7,
         ["pnt"] = 9696.97,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 8,
         ["pnt"] = 9726.78,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 5,
         ["pnt"] = 9494.95,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 9,
         ["pnt"] = 9806.45,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 9,
         ["pnt"] = 9104.48,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 8,
         ["pnt"] = 9790.58,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 9,
         ["pnt"] = 9254.66,
       },
@@ -288,43 +288,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 7,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 17,
         ["pnt"] = 9832.99,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 13,
         ["pnt"] = 9504.95,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 16,
         ["pnt"] = 9706.5,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 16,
         ["pnt"] = 9588.74,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 15,
         ["pnt"] = 9289.62,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 8,
         ["pnt"] = 9797.98,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 14,
         ["pnt"] = 8746.99,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 15,
         ["pnt"] = 9626.87,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 8,
         ["pnt"] = 9476.44,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 8,
         ["pnt"] = 9316.77,
       },
@@ -335,43 +335,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 8,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 32,
         ["pnt"] = 9895.62,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 19,
         ["pnt"] = 9108.91,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 33,
         ["pnt"] = 9533.68,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 32,
         ["pnt"] = 9728.26,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 32,
         ["pnt"] = 9617.49,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 24,
         ["pnt"] = 9646.46,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 32,
         ["pnt"] = 9445.78,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 32,
         ["pnt"] = 9751.24,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 21,
         ["pnt"] = 8376.96,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 17,
         ["pnt"] = 9192.55,
       },
@@ -382,43 +382,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 9,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 5,
         ["pnt"] = 9436.33,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 3,
         ["pnt"] = 9603.96,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 3,
         ["pnt"] = 9378.24,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 5,
         ["pnt"] = 9653.68,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 3,
         ["pnt"] = 9016.39,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 3,
         ["pnt"] = 9444.44,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 4,
         ["pnt"] = 9493.98,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 4,
         ["pnt"] = 9701.49,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 4,
         ["pnt"] = 9424.08,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 4,
         ["pnt"] = 8881.99,
       },
@@ -429,43 +429,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 10,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 19,
         ["pnt"] = 9686.85,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 18,
         ["pnt"] = 9752.48,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 19,
         ["pnt"] = 9170.98,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 20,
         ["pnt"] = 9502.16,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 21,
         ["pnt"] = 9672.13,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 19,
         ["pnt"] = 9595.96,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 19,
         ["pnt"] = 9180.72,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 19,
         ["pnt"] = 9378.11,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 20,
         ["pnt"] = 8691.1,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 18,
         ["pnt"] = 9068.32,
       },
@@ -476,43 +476,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 11,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 4,
         ["pnt"] = 9979.12,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 8514.85,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 5,
         ["pnt"] = 9015.54,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 4,
         ["pnt"] = 9805.19,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 4,
         ["pnt"] = 9234.97,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 7910.45,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 9156.63,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 3,
         ["pnt"] = 9577.11,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 9581.15,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 1,
         ["pnt"] = 8612.19,
       },
@@ -523,43 +523,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 12,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 8,
         ["pnt"] = 8719.21,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 5,
         ["pnt"] = 6959.12,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 8,
         ["pnt"] = 8911.92,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 8,
         ["pnt"] = 8750.0,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 8,
         ["pnt"] = 9562.84,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 6,
         ["pnt"] = 7462.69,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 8,
         ["pnt"] = 9421.69,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 8,
         ["pnt"] = 9900.5,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 4,
         ["pnt"] = 8743.46,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 3,
         ["pnt"] = 6252.37,
       },
@@ -570,43 +570,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 13,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 4,
         ["pnt"] = 8620.69,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 4,
         ["pnt"] = 9257.43,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 4,
         ["pnt"] = 9222.8,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 4,
         ["pnt"] = 8532.61,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 4,
         ["pnt"] = 9344.26,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 4,
         ["pnt"] = 8208.96,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 4,
         ["pnt"] = 8580.65,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 4,
         ["pnt"] = 7814.57,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 4,
         ["pnt"] = 7079.75,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 3,
         ["pnt"] = 7803.41,
       },
@@ -617,43 +617,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 14,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 5,
         ["pnt"] = 8275.86,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 5,
         ["pnt"] = 7464.79,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 5,
         ["pnt"] = 9481.87,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 5,
         ["pnt"] = 8695.65,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 5,
         ["pnt"] = 9453.55,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 5,
         ["pnt"] = 7076.22,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 5,
         ["pnt"] = 8064.52,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 5,
         ["pnt"] = 9228.86,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 5,
         ["pnt"] = 7539.27,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 5,
         ["pnt"] = 7541.93,
       },
@@ -664,43 +664,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 15,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 5,
         ["pnt"] = 7586.21,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 4,
         ["pnt"] = 6870.09,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 6,
         ["pnt"] = 8756.48,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 9,
         ["pnt"] = 8804.35,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 7,
         ["pnt"] = 9125.68,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 6,
         ["pnt"] = 7008.76,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 7806.45,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 9,
         ["pnt"] = 8830.85,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 5,
         ["pnt"] = 6825.33,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 8,
         ["pnt"] = 7798.29,
       },
@@ -711,43 +711,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 16,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 2,
         ["pnt"] = 7438.42,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 2,
         ["pnt"] = 7331.8,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 2,
         ["pnt"] = 8860.1,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 3,
         ["pnt"] = 9021.74,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 2,
         ["pnt"] = 7213.11,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 2,
         ["pnt"] = 6056.07,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 9638.55,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 2,
         ["pnt"] = 9154.23,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 3,
         ["pnt"] = 6866.83,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 2,
         ["pnt"] = 7070.35,
       },
@@ -758,43 +758,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 17,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 5,
         ["pnt"] = 8029.56,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 5,
         ["pnt"] = 7605.63,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 5,
         ["pnt"] = 6943.01,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 5,
         ["pnt"] = 7717.39,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 6,
         ["pnt"] = 7704.92,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 6,
         ["pnt"] = 6716.34,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 5,
         ["pnt"] = 8843.37,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 6,
         ["pnt"] = 7880.79,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 5,
         ["pnt"] = 8534.03,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 6,
         ["pnt"] = 7359.54,
       },
@@ -805,43 +805,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 18,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 6355.91,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 8564.36,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 8652.85,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 8858.7,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 8797.81,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 6597.75,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 9036.14,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 5629.14,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 6120.79,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 1,
         ["pnt"] = 7536.59,
       },
@@ -852,43 +852,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 19,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 3,
         ["pnt"] = 7931.03,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 3,
         ["pnt"] = 7746.48,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 3,
         ["pnt"] = 8704.66,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 3,
         ["pnt"] = 7934.78,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 3,
         ["pnt"] = 8579.23,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 3,
         ["pnt"] = 6798.03,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 3,
         ["pnt"] = 6838.71,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 3,
         ["pnt"] = 6688.74,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 3,
         ["pnt"] = 6421.71,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 3,
         ["pnt"] = 8161.73,
       },
@@ -899,43 +899,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 20,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 2,
         ["pnt"] = 7536.95,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 2,
         ["pnt"] = 6506.48,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 2,
         ["pnt"] = 8601.04,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 2,
         ["pnt"] = 7445.65,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 2,
         ["pnt"] = 8360.66,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 2,
         ["pnt"] = 6009.72,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 8867.47,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 2,
         ["pnt"] = 9552.24,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 2,
         ["pnt"] = 6518.98,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 1,
         ["pnt"] = 6402.05,
       },
@@ -946,39 +946,39 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 21,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 9261.08,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 6851.48,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 8808.29,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 9393.94,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 8961.75,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 8358.21,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 7548.39,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 9253.73,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 6944.23,
       },
@@ -989,39 +989,39 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 22,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 2,
         ["pnt"] = 8522.17,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 7155.83,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 2,
         ["pnt"] = 8497.41,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 2,
         ["pnt"] = 9130.43,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 2,
         ["pnt"] = 9180.33,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 7313.43,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 4451.61,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 8532.34,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 6009.13,
       },
@@ -1032,39 +1032,39 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 23,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 2,
         ["pnt"] = 9561.59,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 6835.67,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 2,
         ["pnt"] = 7979.27,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 2,
         ["pnt"] = 8097.83,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 2,
         ["pnt"] = 8688.52,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 8059.7,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 7032.26,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 6887.42,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 5589.32,
       },
@@ -1075,39 +1075,39 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 24,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 3,
         ["pnt"] = 7881.77,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 5591.45,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 3,
         ["pnt"] = 7720.21,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 3,
         ["pnt"] = 9239.13,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 3,
         ["pnt"] = 8469.95,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 2,
         ["pnt"] = 6759.16,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 7096.77,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 2,
         ["pnt"] = 7152.32,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 7382.2,
       },
@@ -1118,39 +1118,39 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 25,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 10,
         ["pnt"] = 9359.61,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 6022.51,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 10,
         ["pnt"] = 7772.02,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 10,
         ["pnt"] = 8423.91,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 10,
         ["pnt"] = 8087.43,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 3,
         ["pnt"] = 7611.94,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 8,
         ["pnt"] = 7612.9,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 10,
         ["pnt"] = 7350.99,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 4833.71,
       },
@@ -1161,31 +1161,31 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 26,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 2,
         ["pnt"] = 9770.35,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 2,
         ["pnt"] = 9851.49,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 2,
         ["pnt"] = 9637.31,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 9523.81,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 9071.04,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 2,
         ["pnt"] = 9850.75,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 9214.66,
       },
@@ -1196,39 +1196,39 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 27,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 7,
         ["pnt"] = 8423.65,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 6318.23,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 7,
         ["pnt"] = 8963.73,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 7,
         ["pnt"] = 7010.87,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 7,
         ["pnt"] = 6519.01,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 6677.17,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 5,
         ["pnt"] = 8258.06,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 6,
         ["pnt"] = 9651.74,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 5049.49,
       },
@@ -1239,43 +1239,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 28,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 5,
         ["pnt"] = 8817.73,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 3,
         ["pnt"] = 5399.14,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 4,
         ["pnt"] = 6846.3,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 7,
         ["pnt"] = 7391.3,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 7,
         ["pnt"] = 6899.96,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 5,
         ["pnt"] = 5072.93,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 7,
         ["pnt"] = 6709.68,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 7,
         ["pnt"] = 7682.12,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 5,
         ["pnt"] = 5943.21,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 6,
         ["pnt"] = 5791.51,
       },
@@ -1286,43 +1286,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 29,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 6995.07,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 2,
         ["pnt"] = 6469.33,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 2,
         ["pnt"] = 6571.28,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 2,
         ["pnt"] = 6346.03,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 2,
         ["pnt"] = 6681.23,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 2,
         ["pnt"] = 6398.1,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 8819.28,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 2,
         ["pnt"] = 5099.34,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 2,
         ["pnt"] = 6125.0,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 1,
         ["pnt"] = 5839.48,
       },
@@ -1333,39 +1333,39 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 30,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 4,
         ["pnt"] = 8226.6,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 2,
         ["pnt"] = 6956.43,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 4,
         ["pnt"] = 7202.07,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 3,
         ["pnt"] = 7500.0,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 4,
         ["pnt"] = 7267.76,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 2,
         ["pnt"] = 6091.94,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 4,
         ["pnt"] = 9060.24,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 4,
         ["pnt"] = 6556.29,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 2,
         ["pnt"] = 6273.46,
       },
@@ -1376,39 +1376,39 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 31,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 5,
         ["pnt"] = 8325.12,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 7147.0,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 5,
         ["pnt"] = 6839.8,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 5,
         ["pnt"] = 7989.13,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 5,
         ["pnt"] = 7486.34,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 6204.69,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 5,
         ["pnt"] = 8193.55,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 4,
         ["pnt"] = 6357.62,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 6278.83,
       },
@@ -1419,43 +1419,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 32,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 2,
         ["pnt"] = 4624.83,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 2,
         ["pnt"] = 6385.98,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 2,
         ["pnt"] = 7305.7,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 2,
         ["pnt"] = 6147.92,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 2,
         ["pnt"] = 6483.15,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 2,
         ["pnt"] = 4622.66,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 8987.95,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 2,
         ["pnt"] = 5364.24,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 2,
         ["pnt"] = 6530.83,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 2,
         ["pnt"] = 5990.03,
       },
@@ -1466,43 +1466,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 33,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5420.68,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 6317.82,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 6322.21,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 6439.04,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 6624.27,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 5672.95,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 6322.58,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 5695.36,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 5098.15,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 1,
         ["pnt"] = 6342.65,
       },
@@ -1513,43 +1513,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 34,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 4,
         ["pnt"] = 6650.25,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 4185.53,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 4,
         ["pnt"] = 8082.9,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 3,
         ["pnt"] = 6552.38,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 2,
         ["pnt"] = 6930.41,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 5233.61,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 3,
         ["pnt"] = 4193.55,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 3,
         ["pnt"] = 6291.39,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 4959.8,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 1,
         ["pnt"] = 5671.7,
       },
@@ -1560,31 +1560,31 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 35,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 18,
         ["pnt"] = 8965.52,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 20,
         ["pnt"] = 8393.78,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 17,
         ["pnt"] = 8641.3,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 17,
         ["pnt"] = 8306.01,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 5876.2,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 16,
         ["pnt"] = 8516.13,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 16,
         ["pnt"] = 9726.37,
       },
@@ -1595,39 +1595,39 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 36,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 4,
         ["pnt"] = 6798.03,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 4,
         ["pnt"] = 6070.07,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 3,
         ["pnt"] = 6302.69,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 4,
         ["pnt"] = 6098.93,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 2,
         ["pnt"] = 6372.08,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 3,
         ["pnt"] = 6000.0,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 3,
         ["pnt"] = 6953.64,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 3911.82,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 1,
         ["pnt"] = 4983.39,
       },
@@ -1638,43 +1638,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 37,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 4,
         ["pnt"] = 6094.84,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 3,
         ["pnt"] = 5306.85,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 4,
         ["pnt"] = 6125.43,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 4,
         ["pnt"] = 5560.25,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 4,
         ["pnt"] = 5344.94,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 4,
         ["pnt"] = 6241.96,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 4,
         ["pnt"] = 4967.74,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 4,
         ["pnt"] = 3841.06,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 4,
         ["pnt"] = 4652.76,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 4,
         ["pnt"] = 5332.88,
       },
@@ -1685,27 +1685,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 38,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4885.55,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 9430.05,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 9632.03,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 9824.95,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 9349.4,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 9875.62,
       },
@@ -1716,39 +1716,39 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 39,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5452.32,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 5635.9,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 7150.26,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 5515.33,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 5562.69,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 5102.42,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 9253.01,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 3907.28,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 4626.65,
       },
@@ -1759,43 +1759,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 40,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 6,
         ["pnt"] = 5486.44,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 7,
         ["pnt"] = 5621.89,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 6,
         ["pnt"] = 5797.32,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 4,
         ["pnt"] = 4606.68,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 5,
         ["pnt"] = 5692.3,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 4,
         ["pnt"] = 5148.74,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 5,
         ["pnt"] = 5419.35,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 5,
         ["pnt"] = 3708.61,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 5,
         ["pnt"] = 5168.02,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 4,
         ["pnt"] = 5061.75,
       },
@@ -1806,35 +1806,35 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 41,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 2,
         ["pnt"] = 6331.88,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 4702.31,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 3,
         ["pnt"] = 7253.89,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 2,
         ["pnt"] = 6442.29,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 2,
         ["pnt"] = 7431.69,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 1537.05,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 8129.03,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 2,
         ["pnt"] = 7019.87,
       },
@@ -1845,39 +1845,39 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 42,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5665.3,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 4181.77,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5391.03,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 5311.66,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 4986.53,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 4898.6,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 8387.1,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 4460.21,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 1,
         ["pnt"] = 4964.43,
       },
@@ -1888,27 +1888,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 43,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 6304.97,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 9274.61,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 8369.57,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 9398.91,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 5612.9,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 9203.98,
       },
@@ -1919,43 +1919,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 44,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4751.39,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 4123.39,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5437.99,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 5552.6,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 4824.13,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 4307.15,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 6193.55,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 2373.44,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 5030.2,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 1,
         ["pnt"] = 5340.98,
       },
@@ -1966,27 +1966,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 45,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 5,
         ["pnt"] = 8916.26,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 5,
         ["pnt"] = 8549.22,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 7,
         ["pnt"] = 8967.39,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 7,
         ["pnt"] = 8907.1,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 8,
         ["pnt"] = 2967.74,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 8,
         ["pnt"] = 9129.35,
       },
@@ -1997,31 +1997,31 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 46,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 3,
         ["pnt"] = 8374.38,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 6280.24,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 2,
         ["pnt"] = 6699.84,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 2,
         ["pnt"] = 6719.74,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 3,
         ["pnt"] = 6706.83,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 7870.97,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 2,
         ["pnt"] = 4701.99,
       },
@@ -2032,43 +2032,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 47,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4706.73,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 4666.41,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5199.49,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 5471.13,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 5721.36,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 4985.59,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 3032.26,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 4437.09,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 3786.99,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 1,
         ["pnt"] = 5210.14,
       },
@@ -2079,27 +2079,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 48,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 7684.73,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 6200.8,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 2,
         ["pnt"] = 8478.26,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 8032.79,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 7419.35,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 9353.23,
       },
@@ -2110,31 +2110,31 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 49,
     ["b"] = {
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 6630.32,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 6678.7,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 6674.26,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 8451.61,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 6225.17,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 5749.5,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 1,
         ["pnt"] = 5611.81,
       },
@@ -2145,43 +2145,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 50,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4471.05,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 5281.87,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5133.98,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 6117.46,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 3763.35,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 4353.61,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 2193.55,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 3377.48,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 5577.64,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 1,
         ["pnt"] = 5269.52,
       },
@@ -2192,31 +2192,31 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 51,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 5,
         ["pnt"] = 6131.56,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 6539.86,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 5,
         ["pnt"] = 6463.95,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 4,
         ["pnt"] = 6105.87,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 4,
         ["pnt"] = 6190.2,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 4,
         ["pnt"] = 7161.29,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 3,
         ["pnt"] = 6490.07,
       },
@@ -2227,27 +2227,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 52,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 8128.08,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 6942.03,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 7512.95,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 7771.74,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 7923.5,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 6391.22,
       },
@@ -2258,43 +2258,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 53,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 3971.85,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 4716.93,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 4539.58,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 4451.95,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 4506.63,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 4324.74,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 6516.13,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 3128.43,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 3692.92,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 1,
         ["pnt"] = 4625.0,
       },
@@ -2305,27 +2305,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 54,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 7,
         ["pnt"] = 8078.82,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 7,
         ["pnt"] = 8186.53,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 6,
         ["pnt"] = 8152.17,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 5,
         ["pnt"] = 8415.3,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 5,
         ["pnt"] = 2451.61,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 4,
         ["pnt"] = 9054.73,
       },
@@ -2336,27 +2336,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 55,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 9211.82,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 7616.58,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 6996.09,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 6968.06,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 7290.32,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 5298.01,
       },
@@ -2367,39 +2367,39 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 56,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4943.57,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 4723.23,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5971.6,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 5999.97,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 5402.0,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 4278.45,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 3741.94,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 3241.03,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 4957.65,
       },
@@ -2410,35 +2410,35 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 57,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 3,
         ["pnt"] = 5277.74,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 939.89,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 3,
         ["pnt"] = 6348.46,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 3,
         ["pnt"] = 7554.35,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 3,
         ["pnt"] = 6815.92,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 5926.57,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 3,
         ["pnt"] = 4387.1,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 3,
         ["pnt"] = 5430.46,
       },
@@ -2449,27 +2449,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 58,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 2,
         ["pnt"] = 7733.99,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 4,
         ["pnt"] = 7357.51,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 4,
         ["pnt"] = 7173.91,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 3,
         ["pnt"] = 8196.72,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 3,
         ["pnt"] = 3612.9,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 3,
         ["pnt"] = 8079.47,
       },
@@ -2480,39 +2480,39 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 59,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4928.94,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 5628.3,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5556.23,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 4950.97,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 5084.19,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 4208.28,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 4258.06,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 3268.72,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 3814.05,
       },
@@ -2523,27 +2523,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 60,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5655.52,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 8238.34,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 7663.04,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 8251.37,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 6903.23,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 4768.21,
       },
@@ -2554,23 +2554,23 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 61,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 3,
         ["pnt"] = 9519.83,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 3,
         ["pnt"] = 7284.26,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 3,
         ["pnt"] = 9896.37,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 7868.85,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 6794.17,
       },
@@ -2581,27 +2581,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 62,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 3,
         ["pnt"] = 7241.38,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 6613.42,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 3,
         ["pnt"] = 7046.63,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 6679.57,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 7322.4,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 6451.61,
       },
@@ -2612,23 +2612,23 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 63,
     ["b"] = {
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 7880.43,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 7814.21,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 9548.39,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 8880.6,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 1,
         ["pnt"] = 6934.59,
       },
@@ -2639,31 +2639,31 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 64,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 7339.9,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 6122.12,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 6160.12,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 6654.96,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 5355.26,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 3354.84,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 5761.59,
       },
@@ -2674,27 +2674,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 65,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 8867.0,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 7409.33,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 7228.26,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 7049.18,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 7483.87,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 2626.8,
       },
@@ -2705,27 +2705,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 66,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 7783.25,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 6546.51,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 2,
         ["pnt"] = 6468.82,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 2,
         ["pnt"] = 6070.55,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 5806.45,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 2,
         ["pnt"] = 7549.67,
       },
@@ -2736,27 +2736,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 67,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 4,
         ["pnt"] = 7832.51,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 4,
         ["pnt"] = 6994.82,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 5,
         ["pnt"] = 6669.78,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 5,
         ["pnt"] = 7595.63,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 2580.65,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 3,
         ["pnt"] = 8013.25,
       },
@@ -2767,27 +2767,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 68,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5778.3,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 6095.65,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 2,
         ["pnt"] = 6841.21,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 3,
         ["pnt"] = 6907.33,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 6645.16,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 7284.77,
       },
@@ -2798,23 +2798,23 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 69,
     ["b"] = {
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 7823.83,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 8913.04,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 7540.98,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 3,
         ["pnt"] = 8507.46,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 6606.65,
       },
@@ -2825,27 +2825,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 70,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 7487.68,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 7564.77,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 8586.96,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 7377.05,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 2258.06,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 6026.49,
       },
@@ -2856,39 +2856,39 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 71,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 3769.1,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 4676.91,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5023.06,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 4843.07,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 4512.0,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 4038.19,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 2918.7,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 4000.24,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 1,
         ["pnt"] = 5000.87,
       },
@@ -2899,43 +2899,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 72,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4304.25,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 5267.24,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 4388.83,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 4177.24,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 1406.96,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 2310.83,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 5225.81,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 2816.37,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 3698.82,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 1,
         ["pnt"] = 5132.72,
       },
@@ -2946,27 +2946,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 73,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 3,
         ["pnt"] = 7635.47,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 4,
         ["pnt"] = 6549.52,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 3,
         ["pnt"] = 6712.85,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 3,
         ["pnt"] = 6884.23,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 5741.94,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 2,
         ["pnt"] = 5033.11,
       },
@@ -2977,27 +2977,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 74,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 8,
         ["pnt"] = 7980.3,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 9,
         ["pnt"] = 6089.22,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 9,
         ["pnt"] = 6388.98,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 9,
         ["pnt"] = 6679.93,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 9,
         ["pnt"] = 3548.39,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 8,
         ["pnt"] = 7748.34,
       },
@@ -3008,27 +3008,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 75,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 3,
         ["pnt"] = 7290.64,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 3,
         ["pnt"] = 6200.08,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 3,
         ["pnt"] = 6251.18,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 2,
         ["pnt"] = 6708.1,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 3,
         ["pnt"] = 6967.74,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 3,
         ["pnt"] = 4834.44,
       },
@@ -3039,31 +3039,31 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 76,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 4,
         ["pnt"] = 5955.94,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 4,
         ["pnt"] = 5350.13,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 4,
         ["pnt"] = 6199.36,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 4,
         ["pnt"] = 5727.07,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 3387.93,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 4,
         ["pnt"] = 5677.42,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 4,
         ["pnt"] = 5562.91,
       },
@@ -3074,27 +3074,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 77,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 2,
         ["pnt"] = 6847.29,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 2,
         ["pnt"] = 6498.38,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 2,
         ["pnt"] = 6399.95,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 2,
         ["pnt"] = 6300.39,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 6387.1,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 2,
         ["pnt"] = 5231.79,
       },
@@ -3105,27 +3105,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 78,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 4,
         ["pnt"] = 7389.16,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 3,
         ["pnt"] = 6683.76,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 3,
         ["pnt"] = 7826.09,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 3,
         ["pnt"] = 6791.67,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 3,
         ["pnt"] = 4580.65,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 3,
         ["pnt"] = 4039.74,
       },
@@ -3136,27 +3136,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 79,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 3992.02,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 8134.72,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 7608.7,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 8633.88,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 2516.13,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 6423.84,
       },
@@ -3167,19 +3167,19 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 80,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 3,
         ["pnt"] = 9164.93,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 2,
         ["pnt"] = 9702.97,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 2,
         ["pnt"] = 9067.36,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 2,
         ["pnt"] = 9371.73,
       },
@@ -3190,23 +3190,23 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 81,
     ["b"] = {
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 8445.6,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 6974.58,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 6021.11,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 8980.1,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 6464.14,
       },
@@ -3217,27 +3217,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 82,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5518.35,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 2,
         ["pnt"] = 6214.14,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 2,
         ["pnt"] = 6868.39,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 2,
         ["pnt"] = 6908.05,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 3806.45,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 2,
         ["pnt"] = 7417.22,
       },
@@ -3248,27 +3248,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 83,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5788.35,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 6015.34,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 4801.9,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 7650.27,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 5246.24,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 5960.26,
       },
@@ -3279,27 +3279,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 84,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 6896.55,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5835.41,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 6925.12,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 7103.83,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 3935.48,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 4635.76,
       },
@@ -3310,27 +3310,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 85,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 4,
         ["pnt"] = 6271.3,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 4,
         ["pnt"] = 6267.91,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 5,
         ["pnt"] = 6139.27,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 4,
         ["pnt"] = 6328.37,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 6774.19,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 2,
         ["pnt"] = 3509.93,
       },
@@ -3341,19 +3341,19 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 86,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 8472.91,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 8465.35,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 9119.17,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 8952.88,
       },
@@ -3364,27 +3364,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 87,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 2,
         ["pnt"] = 6271.98,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5726.53,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 2,
         ["pnt"] = 6747.22,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 2,
         ["pnt"] = 6091.29,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 1935.48,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 2,
         ["pnt"] = 7947.02,
       },
@@ -3395,23 +3395,23 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 88,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 6748.77,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 6498.22,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 7282.61,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 6945.18,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 7086.09,
       },
@@ -3422,27 +3422,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 89,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5824.89,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 2,
         ["pnt"] = 6536.18,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 6535.15,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 5696.0,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 5870.97,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 3443.71,
       },
@@ -3453,27 +3453,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 90,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 2885.19,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 6839.0,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 7119.57,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 6271.25,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 4064.52,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 6622.52,
       },
@@ -3484,27 +3484,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 91,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 2,
         ["pnt"] = 6011.83,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 2,
         ["pnt"] = 5843.94,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 2,
         ["pnt"] = 6071.22,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 2,
         ["pnt"] = 4172.86,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 8000.0,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 2,
         ["pnt"] = 3334.0,
       },
@@ -3515,27 +3515,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 92,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 7142.86,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 6726.27,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 8260.87,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 2686.7,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 967.74,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 7483.44,
       },
@@ -3546,27 +3546,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 93,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5508.32,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5715.22,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 6353.62,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 6649.16,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 4645.16,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 4304.64,
       },
@@ -3577,23 +3577,23 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 94,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 3,
         ["pnt"] = 8571.43,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 2,
         ["pnt"] = 6891.19,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 6932.91,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 3389.29,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 7225.81,
       },
@@ -3604,31 +3604,31 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 95,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5507.15,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5536.09,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 5171.44,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 3556.15,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 4611.31,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 5032.26,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 3363.4,
       },
@@ -3639,31 +3639,31 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 96,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 4,
         ["pnt"] = 6105.07,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 4,
         ["pnt"] = 5659.4,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 4,
         ["pnt"] = 5851.16,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 4,
         ["pnt"] = 6324.72,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 5525.68,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 1225.81,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 1964.5,
       },
@@ -3674,27 +3674,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 97,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5363.77,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5494.37,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 5773.99,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 6095.21,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 5483.87,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 4370.86,
       },
@@ -3705,27 +3705,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 98,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5211.44,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 2,
         ["pnt"] = 5353.16,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 2,
         ["pnt"] = 5614.63,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 2,
         ["pnt"] = 4230.59,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 6580.65,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 2,
         ["pnt"] = 5496.69,
       },
@@ -3736,27 +3736,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 99,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 2,
         ["pnt"] = 6059.81,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 2,
         ["pnt"] = 5837.63,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 2,
         ["pnt"] = 6627.04,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 2,
         ["pnt"] = 6369.19,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 1638.55,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 2,
         ["pnt"] = 5894.04,
       },
@@ -3767,27 +3767,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 100,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5144.25,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 6631.8,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 5998.05,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 4668.23,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 2361.33,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 1,
         ["pnt"] = 7525.48,
       },
@@ -3798,27 +3798,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 101,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 2,
         ["pnt"] = 6129.98,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5228.92,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 6238.12,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 6208.25,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 3870.97,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 4569.54,
       },
@@ -3829,19 +3829,19 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 102,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 9014.78,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 8290.16,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 6734.13,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 7978.14,
       },
@@ -3852,23 +3852,23 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 103,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4704.65,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 8341.97,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 3985.13,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 7741.94,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 7218.54,
       },
@@ -3879,43 +3879,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 104,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 2462.41,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 3753.95,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 3757.39,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 3668.55,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 3736.47,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 3214.32,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 4000.0,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 2399.98,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 765.49,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 1,
         ["pnt"] = 3943.7,
       },
@@ -3926,27 +3926,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 105,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 2,
         ["pnt"] = 2534.03,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 2,
         ["pnt"] = 6357.46,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 2,
         ["pnt"] = 6613.03,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 2,
         ["pnt"] = 6278.99,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 4709.68,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 2,
         ["pnt"] = 5165.56,
       },
@@ -3957,35 +3957,35 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 106,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4427.57,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 4773.97,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5164.16,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 4683.58,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 4116.59,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 4031.7,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 1354.84,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 2953.05,
       },
@@ -3996,27 +3996,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 107,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5441.93,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 6554.96,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 6372.53,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 5440.42,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 4322.58,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 3324.1,
       },
@@ -4027,27 +4027,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 108,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 3100.23,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5741.93,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 2,
         ["pnt"] = 6568.35,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 3,
         ["pnt"] = 6520.18,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 6129.03,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 3367.27,
       },
@@ -4058,19 +4058,19 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 109,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 6699.51,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 8031.09,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 8043.48,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 8524.59,
       },
@@ -4081,19 +4081,19 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 110,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 9123.17,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 6685.52,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 7486.91,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 1,
         ["pnt"] = 7431.3,
       },
@@ -4104,27 +4104,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 111,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 2,
         ["pnt"] = 5063.52,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 2,
         ["pnt"] = 5312.55,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 3,
         ["pnt"] = 6110.8,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 2,
         ["pnt"] = 5772.81,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 3483.87,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 2,
         ["pnt"] = 4900.66,
       },
@@ -4135,27 +4135,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 112,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4943.1,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 4850.18,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 5864.47,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 5381.05,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 4903.23,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 4172.19,
       },
@@ -4166,23 +4166,23 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 113,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 2,
         ["pnt"] = 6453.2,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 2108.72,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 3,
         ["pnt"] = 7098.45,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 6181.74,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 6632.91,
       },
@@ -4193,39 +4193,39 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 114,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4529.17,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 3019.67,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 4121.36,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 3803.01,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 5092.86,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 4184.58,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 580.65,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 2709.78,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 312.5,
       },
@@ -4236,23 +4236,23 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 115,
     ["b"] = {
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 2,
         ["pnt"] = 4806.35,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 3,
         ["pnt"] = 6481.64,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 3,
         ["pnt"] = 6809.47,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 3,
         ["pnt"] = 6480.53,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 3576.16,
       },
@@ -4263,27 +4263,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 116,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5473.69,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5589.49,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 6264.96,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 5797.55,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 2064.52,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 2950.72,
       },
@@ -4294,27 +4294,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 117,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 2,
         ["pnt"] = 5525.91,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 2,
         ["pnt"] = 5110.94,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 2,
         ["pnt"] = 5234.05,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 2,
         ["pnt"] = 5077.82,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 4129.03,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 2,
         ["pnt"] = 3034.08,
       },
@@ -4325,27 +4325,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 118,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5882.24,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 2,
         ["pnt"] = 5531.55,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5627.03,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 3434.39,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 4537.76,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 3063.18,
       },
@@ -4356,19 +4356,19 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 119,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5842.62,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 6824.23,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 8315.22,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 6911.67,
       },
@@ -4379,35 +4379,35 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 120,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4909.23,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 4344.03,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 4933.47,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 4143.74,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 4454.51,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 2903.23,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 815.95,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 1204.15,
       },
@@ -4418,27 +4418,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 121,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 3,
         ["pnt"] = 6152.41,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 3,
         ["pnt"] = 5324.52,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 2,
         ["pnt"] = 5565.28,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 3,
         ["pnt"] = 4205.64,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 3,
         ["pnt"] = 3225.81,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 3,
         ["pnt"] = 3136.86,
       },
@@ -4449,19 +4449,19 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 122,
     ["b"] = {
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 6461.08,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 6967.67,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 7677.42,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 6092.72,
       },
@@ -4472,23 +4472,23 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 123,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5756.57,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 5425.8,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 5463.62,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 7354.84,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 3169.75,
       },
@@ -4499,15 +4499,15 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 124,
     ["b"] = {
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 9184.78,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 8852.46,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 8145.7,
       },
@@ -4518,27 +4518,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 125,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5257.73,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 4913.44,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 5135.09,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 4840.42,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 3096.77,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 2803.34,
       },
@@ -4549,23 +4549,23 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 126,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5325.23,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5926.73,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 6295.96,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 3419.35,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 4966.89,
       },
@@ -4576,15 +4576,15 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 127,
     ["b"] = {
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 9076.09,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 8743.17,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 7761.19,
       },
@@ -4595,27 +4595,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 128,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4419.63,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 4409.99,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 4375.81,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 4631.2,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 4774.19,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 2725.01,
       },
@@ -4626,27 +4626,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 129,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4366.72,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5365.34,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 4422.25,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 5805.75,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 2322.58,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 3009.22,
       },
@@ -4657,19 +4657,19 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 130,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 2,
         ["pnt"] = 5982.78,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 6485.11,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 4744.37,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 7759.56,
       },
@@ -4680,19 +4680,19 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 131,
     ["b"] = {
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 6762.47,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 7065.22,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 3506.61,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 7615.89,
       },
@@ -4703,27 +4703,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 132,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4417.02,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 4568.36,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 2,
         ["pnt"] = 5546.19,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 2,
         ["pnt"] = 5107.95,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 1741.94,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 2,
         ["pnt"] = 3077.71,
       },
@@ -4734,19 +4734,19 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 133,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5575.86,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5334.77,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 6708.47,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 6588.33,
       },
@@ -4757,23 +4757,23 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 134,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5439.8,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5014.18,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 5081.35,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 5041.5,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 3066.62,
       },
@@ -4784,31 +4784,31 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 135,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5148.27,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 3848.58,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 1743.64,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 5375.78,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 2340.89,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 5093.44,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 1,
         ["pnt"] = 42.49,
       },
@@ -4819,27 +4819,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 136,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4925.66,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 4911.84,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 5030.0,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 5326.49,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 774.19,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 2569.49,
       },
@@ -4850,43 +4850,43 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 137,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 2250.81,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 1920.6,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 2671.5,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 3180.88,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 2791.93,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 2479.03,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 1807.23,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 1590.13,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 2,
         ["pnt"] = 2099.81,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 1,
         ["pnt"] = 2617.86,
       },
@@ -4897,23 +4897,23 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 138,
     ["b"] = {
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5088.19,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 5763.48,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 6012.56,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 2645.16,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 3774.83,
       },
@@ -4924,19 +4924,19 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 139,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5580.5,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5522.73,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 6068.53,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 5859.5,
       },
@@ -4947,23 +4947,23 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 140,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5114.87,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 2,
         ["pnt"] = 5319.75,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 4609.11,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 4595.22,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 3305.42,
       },
@@ -4974,31 +4974,31 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 141,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 2,
         ["pnt"] = 4259.67,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 3120.93,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 3366.52,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 1139.13,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 4333.16,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 3290.32,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 2,
         ["pnt"] = 3248.77,
       },
@@ -5009,23 +5009,23 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 142,
     ["b"] = {
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5232.97,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 5122.95,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 5375.3,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 3677.42,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 3267.88,
       },
@@ -5036,19 +5036,19 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 143,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 3930.85,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5713.38,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 6622.34,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 6233.9,
       },
@@ -5059,23 +5059,23 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 144,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 7044.33,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 5231.9,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 6079.86,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 1161.29,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 2808.11,
       },
@@ -5086,19 +5086,19 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 145,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5400.28,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5149.93,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 6204.36,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 5546.81,
       },
@@ -5109,15 +5109,15 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 146,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 2,
         ["pnt"] = 8177.34,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 2,
         ["pnt"] = 6060.46,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 7875.65,
       },
@@ -5128,35 +5128,35 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 147,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 3044.66,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 2574.3,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 3760.94,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 3415.85,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 3810.95,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 2650.06,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 1563.72,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 1051.56,
       },
@@ -5167,19 +5167,19 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 148,
     ["b"] = {
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 2,
         ["pnt"] = 5841.35,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 2,
         ["pnt"] = 5944.63,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 2,
         ["pnt"] = 5976.28,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 3973.51,
       },
@@ -5190,19 +5190,19 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 149,
     ["b"] = {
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 3,
         ["pnt"] = 6323.28,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 5974.33,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 5096.77,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 2,
         ["pnt"] = 4238.41,
       },
@@ -5213,27 +5213,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 150,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 3585.14,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 944.6,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 3944.97,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 4069.31,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 2729.87,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 6258.06,
       },
@@ -5244,15 +5244,15 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 151,
     ["b"] = {
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 7927.46,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 2,
         ["pnt"] = 8142.08,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 5290.32,
       },
@@ -5263,27 +5263,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 152,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 2,
         ["pnt"] = 4184.23,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 2,
         ["pnt"] = 3703.62,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 3478.22,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 2,
         ["pnt"] = 3051.27,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 2,
         ["pnt"] = 4262.59,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 2020.3,
       },
@@ -5294,23 +5294,23 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 153,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4729.96,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 4831.74,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 2947.78,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 5117.82,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 2838.71,
       },
@@ -5321,27 +5321,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 154,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 3336.03,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 4195.49,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 4474.62,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 4330.6,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 838.71,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 3101.19,
       },
@@ -5352,27 +5352,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 155,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4869.51,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 3832.21,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 4959.39,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 3468.28,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 709.68,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 2277.47,
       },
@@ -5383,19 +5383,19 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 156,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 6260.9,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5341.97,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 5539.74,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 2772.29,
       },
@@ -5406,27 +5406,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 157,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 2563.65,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 2,
         ["pnt"] = 4344.59,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 2,
         ["pnt"] = 4749.2,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 2,
         ["pnt"] = 4210.76,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 903.23,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 3074.65,
       },
@@ -5437,19 +5437,19 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 158,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 2,
         ["pnt"] = 5200.95,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 2,
         ["pnt"] = 5035.48,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 4912.55,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 4368.35,
       },
@@ -5460,27 +5460,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 159,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4606.35,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 4238.14,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 2651.28,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 4413.54,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 516.13,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 2689.85,
       },
@@ -5491,19 +5491,19 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 160,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5794.39,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 4797.83,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 2572.62,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 5477.95,
       },
@@ -5514,19 +5514,19 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 161,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4938.57,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 4343.21,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 5127.9,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 4205.88,
       },
@@ -5537,11 +5537,11 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 162,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 9102.3,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 4,
         ["pnt"] = 9326.42,
       },
@@ -5552,27 +5552,27 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 163,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 3669.9,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 3470.14,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 3933.09,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 3642.85,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 1419.35,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 2140.95,
       },
@@ -5583,19 +5583,19 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 164,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 2,
         ["pnt"] = 5431.77,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 4535.76,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 4717.19,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 3179.63,
       },
@@ -5606,15 +5606,15 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 165,
     ["b"] = {
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 8206.52,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 2466.38,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 7164.18,
       },
@@ -5625,19 +5625,19 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 166,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 2538.0,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 4769.95,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 5172.23,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 5228.66,
       },
@@ -5648,15 +5648,15 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 167,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5917.41,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5502.62,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 6276.94,
       },
@@ -5667,23 +5667,23 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 168,
     ["b"] = {
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 4118.87,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 4914.52,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 5017.87,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 193.55,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 3015.37,
       },
@@ -5694,19 +5694,19 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 169,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 3262.61,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 6070.71,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 5143.78,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 2638.65,
       },
@@ -5717,19 +5717,19 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 170,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4498.47,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 4006.68,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 4764.08,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 3685.48,
       },
@@ -5740,15 +5740,15 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 171,
     ["b"] = {
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 6289.62,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 5060.63,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 5548.39,
       },
@@ -5759,15 +5759,15 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 172,
     ["b"] = {
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 6093.47,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 5935.48,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 4503.31,
       },
@@ -5778,23 +5778,23 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 173,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 2998.77,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 3696.27,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 4410.63,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 4620.31,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 0.0,
       },
@@ -5805,11 +5805,11 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 174,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 8768.47,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 6834.63,
       },
@@ -5820,19 +5820,19 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 175,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 3345.71,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 4257.19,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 4087.81,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 3575.82,
       },
@@ -5843,11 +5843,11 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 176,
     ["b"] = {
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 6922.36,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 7935.48,
       },
@@ -5858,39 +5858,39 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 177,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 1702.68,
       },
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 1242.57,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 2064.84,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 2309.15,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 1628.62,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 322.58,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 1559.77,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 1846.83,
       },
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 1,
         ["pnt"] = 2029.22,
       },
@@ -5901,15 +5901,15 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 178,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4464.17,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 4769.17,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 5367.19,
       },
@@ -5920,11 +5920,11 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 179,
     ["b"] = {
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 7158.47,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 6821.19,
       },
@@ -5935,15 +5935,15 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 180,
     ["b"] = {
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 6341.9,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 1614.46,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 5827.81,
       },
@@ -5954,11 +5954,11 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 181,
     ["b"] = {
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 7461.14,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 6185.82,
       },
@@ -5969,11 +5969,11 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 182,
     ["b"] = {
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 2,
         ["pnt"] = 6506.31,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 2,
         ["pnt"] = 6994.54,
       },
@@ -5984,15 +5984,15 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 183,
     ["b"] = {
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 3347.6,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 4277.08,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 5828.1,
       },
@@ -6003,11 +6003,11 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 184,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 6600.99,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 6756.78,
       },
@@ -6018,11 +6018,11 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 185,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 7093.6,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 6251.27,
       },
@@ -6033,23 +6033,23 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 186,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 1992.68,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 3779.19,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 2001.38,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 3304.2,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 2192.81,
       },
@@ -6060,11 +6060,11 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 187,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 3,
         ["pnt"] = 7192.12,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5895.55,
       },
@@ -6075,19 +6075,19 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 188,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 2542.82,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 2,
         ["pnt"] = 5244.62,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 1032.26,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 4105.96,
       },
@@ -6098,11 +6098,11 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 189,
     ["b"] = {
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 6289.25,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 6611.04,
       },
@@ -6113,15 +6113,15 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 190,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4307.45,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 3857.97,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 4412.69,
       },
@@ -6132,11 +6132,11 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 191,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 2,
         ["pnt"] = 6551.72,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 2,
         ["pnt"] = 6012.21,
       },
@@ -6147,11 +6147,11 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 192,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5834.03,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 6683.15,
       },
@@ -6162,11 +6162,11 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 193,
     ["b"] = {
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5765.08,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 6361.73,
       },
@@ -6177,11 +6177,11 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 194,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5959.27,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 6128.87,
       },
@@ -6192,11 +6192,11 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 195,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5830.71,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5741.54,
       },
@@ -6207,11 +6207,11 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 196,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5352.21,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 6060.45,
       },
@@ -6222,11 +6222,11 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 197,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5617.03,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5488.63,
       },
@@ -6237,11 +6237,11 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 198,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5545.26,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 5438.58,
       },
@@ -6252,15 +6252,15 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 199,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4159.79,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 3161.29,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 2,
         ["pnt"] = 3203.02,
       },
@@ -6271,23 +6271,23 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 200,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 2543.94,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 2122.23,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 2569.87,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 2080.3,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 1057.47,
       },
@@ -6298,11 +6298,11 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 201,
     ["b"] = {
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 5482.76,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 4756.9,
       },
@@ -6313,23 +6313,23 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 202,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 1441.7,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 2240.32,
       },
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 2060.9,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 2474.38,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 1870.97,
       },
@@ -6340,11 +6340,11 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 204,
     ["b"] = {
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 4754.7,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 4087.5,
       },
@@ -6355,7 +6355,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 205,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 8669.95,
       },
@@ -6366,15 +6366,15 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 206,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 3585.39,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 3930.65,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 1106.98,
       },
@@ -6385,7 +6385,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 207,
     ["b"] = {
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 8322.58,
       },
@@ -6396,11 +6396,11 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 209,
     ["b"] = {
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 4516.13,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 3642.38,
       },
@@ -6411,7 +6411,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 210,
     ["b"] = {
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 1,
         ["pnt"] = 8104.91,
       },
@@ -6422,11 +6422,11 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 211,
     ["b"] = {
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 4838.71,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 2909.11,
       },
@@ -6437,15 +6437,15 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 212,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 3339.98,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 4184.94,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 156.25,
       },
@@ -6456,7 +6456,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 213,
     ["b"] = {
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 2,
         ["pnt"] = 7668.39,
       },
@@ -6467,15 +6467,15 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 214,
     ["b"] = {
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 2617.98,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 1,
         ["pnt"] = 2778.47,
       },
-      ["Professor Putricide"] = {
+      ["pp"] = {
         ["k"] = 1,
         ["pnt"] = 2223.56,
       },
@@ -6486,11 +6486,11 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 215,
     ["b"] = {
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 1290.32,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 6158.94,
       },
@@ -6501,7 +6501,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 216,
     ["b"] = {
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 7336.96,
       },
@@ -6512,11 +6512,11 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 217,
     ["b"] = {
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 3525.99,
       },
-      ["Rotface"] = {
+      ["rf"] = {
         ["k"] = 2,
         ["pnt"] = 3772.77,
       },
@@ -6527,7 +6527,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 218,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 6945.81,
       },
@@ -6538,7 +6538,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 219,
     ["b"] = {
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 1,
         ["pnt"] = 6915.98,
       },
@@ -6549,7 +6549,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 220,
     ["b"] = {
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 6754.97,
       },
@@ -6560,7 +6560,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 221,
     ["b"] = {
-      ["The Lich King"] = {
+      ["lk"] = {
         ["k"] = 1,
         ["pnt"] = 6663.31,
       },
@@ -6571,7 +6571,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 222,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 6502.46,
       },
@@ -6582,7 +6582,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 223,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 6403.94,
       },
@@ -6593,11 +6593,11 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 224,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 2071.02,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 4313.13,
       },
@@ -6608,7 +6608,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 225,
     ["b"] = {
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 6347.62,
       },
@@ -6619,7 +6619,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 226,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 6275.87,
       },
@@ -6630,7 +6630,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 227,
     ["b"] = {
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 6,
         ["pnt"] = 6064.52,
       },
@@ -6641,7 +6641,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 228,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5941.36,
       },
@@ -6652,7 +6652,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 229,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5869.14,
       },
@@ -6663,7 +6663,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 230,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5692.9,
       },
@@ -6674,7 +6674,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 231,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5679.6,
       },
@@ -6685,7 +6685,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 232,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5585.19,
       },
@@ -6696,7 +6696,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 233,
     ["b"] = {
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 5539.21,
       },
@@ -6707,7 +6707,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 234,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5444.56,
       },
@@ -6718,7 +6718,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 235,
     ["b"] = {
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 5354.84,
       },
@@ -6729,7 +6729,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 236,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5247.38,
       },
@@ -6740,7 +6740,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 237,
     ["b"] = {
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 5161.29,
       },
@@ -6751,7 +6751,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 240,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 5066.86,
       },
@@ -6762,11 +6762,11 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 241,
     ["b"] = {
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 2000.0,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 2992.86,
       },
@@ -6777,7 +6777,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 244,
     ["b"] = {
-      ["Lady Deathwhisper"] = {
+      ["ldw"] = {
         ["k"] = 1,
         ["pnt"] = 4679.46,
       },
@@ -6788,7 +6788,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 245,
     ["b"] = {
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 4612.74,
       },
@@ -6799,7 +6799,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 246,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4544.36,
       },
@@ -6810,7 +6810,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 247,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4528.49,
       },
@@ -6821,7 +6821,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 248,
     ["b"] = {
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 4508.04,
       },
@@ -6832,23 +6832,23 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 249,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 299.55,
       },
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 2759.72,
       },
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 1096.77,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 234.06,
       },
-      ["Sindragosa"] = {
+      ["sg"] = {
         ["k"] = 1,
         ["pnt"] = 99.49,
       },
@@ -6859,7 +6859,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 250,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4431.34,
       },
@@ -6870,7 +6870,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 251,
     ["b"] = {
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 4341.53,
       },
@@ -6881,7 +6881,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 253,
     ["b"] = {
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 1,
         ["pnt"] = 4325.28,
       },
@@ -6892,7 +6892,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 254,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4276.24,
       },
@@ -6903,7 +6903,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 255,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 4124.84,
       },
@@ -6914,7 +6914,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 256,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 3490.01,
       },
@@ -6925,7 +6925,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 257,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 2,
         ["pnt"] = 3348.1,
       },
@@ -6936,11 +6936,11 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 258,
     ["b"] = {
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 258.06,
       },
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 2975.56,
       },
@@ -6951,7 +6951,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 260,
     ["b"] = {
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 2774.19,
       },
@@ -6962,7 +6962,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 262,
     ["b"] = {
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 2709.68,
       },
@@ -6973,7 +6973,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 263,
     ["b"] = {
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 4,
         ["pnt"] = 2387.1,
       },
@@ -6984,7 +6984,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 264,
     ["b"] = {
-      ["Deathbringer Saurfang"] = {
+      ["ds"] = {
         ["k"] = 2,
         ["pnt"] = 2277.69,
       },
@@ -6995,7 +6995,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 265,
     ["b"] = {
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 2129.03,
       },
@@ -7006,7 +7006,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 266,
     ["b"] = {
-      ["Lord Marrowgar"] = {
+      ["lm"] = {
         ["k"] = 1,
         ["pnt"] = 2116.4,
       },
@@ -7017,7 +7017,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 267,
     ["b"] = {
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 1808.6,
       },
@@ -7028,7 +7028,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 268,
     ["b"] = {
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 3,
         ["pnt"] = 1677.42,
       },
@@ -7039,7 +7039,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 269,
     ["b"] = {
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 2,
         ["pnt"] = 1483.87,
       },
@@ -7050,7 +7050,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 270,
     ["b"] = {
-      ["Blood-Queen Lana'thel"] = {
+      ["bql"] = {
         ["k"] = 1,
         ["pnt"] = 1461.13,
       },
@@ -7061,7 +7061,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 271,
     ["b"] = {
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 645.16,
       },
@@ -7072,7 +7072,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 272,
     ["b"] = {
-      ["Festergut"] = {
+      ["fg"] = {
         ["k"] = 1,
         ["pnt"] = 484.8,
       },
@@ -7083,7 +7083,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 273,
     ["b"] = {
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 451.61,
       },
@@ -7094,7 +7094,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 274,
     ["b"] = {
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 129.03,
       },
@@ -7105,7 +7105,7 @@ UWULogsData[2][1] = {
     ["s"] = "Icecrown",
     ["r"] = 275,
     ["b"] = {
-      ["Blood Prince Council"] = {
+      ["bpc"] = {
         ["k"] = 1,
         ["pnt"] = 64.52,
       },
