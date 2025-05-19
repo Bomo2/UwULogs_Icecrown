@@ -4450,7 +4450,7 @@ UWULogsData[9][1] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 6535.2,
+        ["points"] = 6535.1,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
@@ -4458,7 +4458,7 @@ UWULogsData[9][1] = {
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
-        ["points"] = 5954.9,
+        ["points"] = 5954.8,
       },
       ["Festergut"] = {
         ["kill_count"] = 3,
@@ -4466,11 +4466,11 @@ UWULogsData[9][1] = {
       },
       ["Rotface"] = {
         ["kill_count"] = 6,
-        ["points"] = 5778.9,
+        ["points"] = 5778.8,
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 8060.3,
+        ["points"] = 8060.0,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
@@ -4478,7 +4478,7 @@ UWULogsData[9][1] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 7,
-        ["points"] = 6506.8,
+        ["points"] = 6506.7,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,

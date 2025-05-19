@@ -17550,7 +17550,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 20,
-        ["points"] = 5303.7,
+        ["points"] = 5303.6,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
@@ -43487,23 +43487,23 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 7799.0,
+        ["points"] = 7798.4,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
-        ["points"] = 4627.5,
+        ["points"] = 4627.2,
       },
       ["Festergut"] = {
         ["kill_count"] = 1,
-        ["points"] = 8214.8,
+        ["points"] = 8214.5,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
-        ["points"] = 5904.3,
+        ["points"] = 5904.0,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 5051.8,
+        ["points"] = 5051.6,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -43620,7 +43620,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 7618.0,
+        ["points"] = 7616.89,
       },
     },
   },
@@ -43768,7 +43768,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5646.02,
+        ["points"] = 5644.35,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -43823,7 +43823,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 9168.49,
+        ["points"] = 9168.61,
       },
     },
   },
@@ -43858,7 +43858,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 7748.06,
+        ["points"] = 7746.93,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -43873,7 +43873,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 4,
-        ["points"] = 9119.9,
+        ["points"] = 9118.61,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -43893,7 +43893,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 4,
-        ["points"] = 9433.0,
+        ["points"] = 9433.08,
       },
     },
   },
@@ -43947,7 +43947,7 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 1,
-        ["points"] = 9771.83,
+        ["points"] = 9771.86,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -43955,7 +43955,7 @@ UWULogsData[0][2] = {
       },
       ["Festergut"] = {
         ["kill_count"] = 1,
-        ["points"] = 9209.8,
+        ["points"] = 9209.89,
       },
       ["Rotface"] = {
         ["kill_count"] = 1,
@@ -43967,7 +43967,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 8997.52,
+        ["points"] = 8997.66,
       },
     },
   },
@@ -44041,7 +44041,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 9162.65,
+        ["points"] = 9162.77,
       },
     },
   },
@@ -44052,19 +44052,19 @@ UWULogsData[0][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 12,
-        ["points"] = 7602.5,
+        ["points"] = 7601.9,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 5880.1,
+        ["points"] = 5879.9,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
-        ["points"] = 8554.84,
+        ["points"] = 8555.06,
       },
       ["Festergut"] = {
         ["kill_count"] = 12,
-        ["points"] = 5975.3,
+        ["points"] = 5975.1,
       },
       ["Rotface"] = {
         ["kill_count"] = 12,
@@ -44076,7 +44076,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
-        ["points"] = 9082.75,
+        ["points"] = 9082.89,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 12,
@@ -44107,11 +44107,11 @@ UWULogsData[0][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 1,
-        ["points"] = 7376.38,
+        ["points"] = 7377.05,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 8077.1,
+        ["points"] = 8077.39,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -44146,7 +44146,7 @@ UWULogsData[0][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
-        ["points"] = 9153.44,
+        ["points"] = 9153.57,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
@@ -44259,7 +44259,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 8,
-        ["points"] = 8981.44,
+        ["points"] = 8980.13,
       },
     },
   },
@@ -44368,7 +44368,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 6726.58,
+        ["points"] = 6725.6,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -44489,7 +44489,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 3,
-        ["points"] = 8208.39,
+        ["points"] = 8207.19,
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
@@ -44524,7 +44524,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 2,
-        ["points"] = 8525.5,
+        ["points"] = 8524.25,
       },
     },
   },
@@ -44555,7 +44555,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 11,
-        ["points"] = 7897.12,
+        ["points"] = 7895.97,
       },
     },
   },
@@ -44590,7 +44590,7 @@ UWULogsData[0][2] = {
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 1,
-        ["points"] = 9658.04,
+        ["points"] = 9658.09,
       },
     },
   },

@@ -181,7 +181,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 51,
-        ["points"] = 9969.9,
+        ["points"] = 9969.91,
       },
       ["The Lich King"] = {
         ["kill_count"] = 43,
@@ -232,7 +232,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 47,
-        ["points"] = 9925.23,
+        ["points"] = 9925.25,
       },
     },
   },
@@ -247,7 +247,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 57,
-        ["points"] = 9946.42,
+        ["points"] = 9946.43,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 60,
@@ -263,7 +263,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 57,
-        ["points"] = 9936.34,
+        ["points"] = 9936.35,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 57,
@@ -322,7 +322,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 65,
-        ["points"] = 9935.5,
+        ["points"] = 9935.51,
       },
       ["The Lich King"] = {
         ["kill_count"] = 64,
@@ -369,7 +369,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 39,
-        ["points"] = 9948.4,
+        ["points"] = 9948.41,
       },
       ["The Lich King"] = {
         ["kill_count"] = 40,
@@ -435,7 +435,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 52,
-        ["points"] = 9911.67,
+        ["points"] = 9911.68,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 55,
@@ -451,7 +451,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 53,
-        ["points"] = 9957.56,
+        ["points"] = 9957.57,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 57,
@@ -467,7 +467,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 53,
-        ["points"] = 9970.4,
+        ["points"] = 9970.41,
       },
     },
   },
@@ -482,7 +482,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 41,
-        ["points"] = 9936.29,
+        ["points"] = 9936.3,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 44,
@@ -498,7 +498,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 42,
-        ["points"] = 9908.49,
+        ["points"] = 9908.5,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 44,
@@ -510,7 +510,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 42,
-        ["points"] = 9975.63,
+        ["points"] = 9975.64,
       },
       ["The Lich King"] = {
         ["kill_count"] = 43,
@@ -557,11 +557,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 59,
-        ["points"] = 9962.73,
+        ["points"] = 9962.74,
       },
       ["The Lich King"] = {
         ["kill_count"] = 56,
-        ["points"] = 9853.58,
+        ["points"] = 9853.61,
       },
     },
   },
@@ -576,7 +576,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 55,
-        ["points"] = 9902.98,
+        ["points"] = 9903.0,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 55,
@@ -608,7 +608,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 63,
-        ["points"] = 9947.04,
+        ["points"] = 9947.05,
       },
     },
   },
@@ -639,7 +639,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 36,
-        ["points"] = 9966.84,
+        ["points"] = 9966.85,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 39,
@@ -655,7 +655,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 31,
-        ["points"] = 9953.27,
+        ["points"] = 9953.28,
       },
     },
   },
@@ -670,7 +670,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 40,
-        ["points"] = 9891.4,
+        ["points"] = 9891.41,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 41,
@@ -745,11 +745,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 56,
-        ["points"] = 9961.3,
+        ["points"] = 9961.31,
       },
       ["The Lich King"] = {
         ["kill_count"] = 55,
-        ["points"] = 9806.85,
+        ["points"] = 9806.88,
       },
     },
   },
@@ -792,11 +792,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 48,
-        ["points"] = 9957.0,
+        ["points"] = 9957.01,
       },
       ["The Lich King"] = {
         ["kill_count"] = 52,
-        ["points"] = 9945.48,
+        ["points"] = 9945.49,
       },
     },
   },
@@ -886,11 +886,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 29,
-        ["points"] = 9850.94,
+        ["points"] = 9850.96,
       },
       ["The Lich King"] = {
         ["kill_count"] = 29,
-        ["points"] = 9919.0,
+        ["points"] = 9919.02,
       },
     },
   },
@@ -921,7 +921,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 26,
-        ["points"] = 9912.47,
+        ["points"] = 9912.48,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 33,
@@ -933,11 +933,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 28,
-        ["points"] = 9727.68,
+        ["points"] = 9727.72,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9926.79,
+        ["points"] = 9926.8,
       },
     },
   },
@@ -968,7 +968,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 35,
-        ["points"] = 9935.01,
+        ["points"] = 9935.02,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 38,
@@ -980,11 +980,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 36,
-        ["points"] = 9944.1,
+        ["points"] = 9944.11,
       },
       ["The Lich King"] = {
         ["kill_count"] = 32,
-        ["points"] = 9848.91,
+        ["points"] = 9848.93,
       },
     },
   },
@@ -999,7 +999,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 37,
-        ["points"] = 9853.75,
+        ["points"] = 9853.77,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 37,
@@ -1015,7 +1015,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 29,
-        ["points"] = 9956.23,
+        ["points"] = 9956.24,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 32,
@@ -1027,11 +1027,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 32,
-        ["points"] = 9958.43,
+        ["points"] = 9958.44,
       },
       ["The Lich King"] = {
         ["kill_count"] = 30,
-        ["points"] = 9990.65,
+        ["points"] = 9990.66,
       },
     },
   },
@@ -1046,7 +1046,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 53,
-        ["points"] = 9871.13,
+        ["points"] = 9871.15,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 58,
@@ -1062,7 +1062,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 54,
-        ["points"] = 9949.6,
+        ["points"] = 9949.61,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 56,
@@ -1074,11 +1074,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 55,
-        ["points"] = 9817.97,
+        ["points"] = 9818.0,
       },
       ["The Lich King"] = {
         ["kill_count"] = 63,
-        ["points"] = 9920.56,
+        ["points"] = 9920.57,
       },
     },
   },
@@ -1093,7 +1093,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 38,
-        ["points"] = 9863.89,
+        ["points"] = 9863.91,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 49,
@@ -1109,7 +1109,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 53,
-        ["points"] = 9916.45,
+        ["points"] = 9916.46,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 53,
@@ -1121,11 +1121,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 48,
-        ["points"] = 9906.84,
+        ["points"] = 9906.85,
       },
       ["The Lich King"] = {
         ["kill_count"] = 51,
-        ["points"] = 9875.39,
+        ["points"] = 9875.41,
       },
     },
   },
@@ -1140,7 +1140,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 82,
-        ["points"] = 9833.48,
+        ["points"] = 9833.5,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 89,
@@ -1156,7 +1156,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 86,
-        ["points"] = 9848.81,
+        ["points"] = 9848.83,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 92,
@@ -1168,11 +1168,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 83,
-        ["points"] = 9967.03,
+        ["points"] = 9967.04,
       },
       ["The Lich King"] = {
         ["kill_count"] = 78,
-        ["points"] = 9676.01,
+        ["points"] = 9676.06,
       },
     },
   },
@@ -1187,7 +1187,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 58,
-        ["points"] = 9730.67,
+        ["points"] = 9730.71,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 57,
@@ -1203,7 +1203,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 54,
-        ["points"] = 9925.73,
+        ["points"] = 9925.74,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 56,
@@ -1215,11 +1215,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 55,
-        ["points"] = 9946.97,
+        ["points"] = 9946.98,
       },
       ["The Lich King"] = {
         ["kill_count"] = 52,
-        ["points"] = 9665.11,
+        ["points"] = 9665.16,
       },
     },
   },
@@ -1234,7 +1234,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 9855.2,
+        ["points"] = 9855.22,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 27,
@@ -1250,7 +1250,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 22,
-        ["points"] = 9842.18,
+        ["points"] = 9842.2,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 27,
@@ -1262,11 +1262,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 22,
-        ["points"] = 9942.67,
+        ["points"] = 9942.68,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9957.94,
+        ["points"] = 9957.95,
       },
     },
   },
@@ -1281,7 +1281,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 21,
-        ["points"] = 9888.5,
+        ["points"] = 9888.52,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 22,
@@ -1297,7 +1297,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 21,
-        ["points"] = 9933.69,
+        ["points"] = 9933.7,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -1309,11 +1309,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 21,
-        ["points"] = 9926.9,
+        ["points"] = 9926.91,
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 9683.8,
+        ["points"] = 9683.85,
       },
     },
   },
@@ -1328,7 +1328,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 26,
-        ["points"] = 9849.41,
+        ["points"] = 9849.43,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 30,
@@ -1344,7 +1344,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 26,
-        ["points"] = 9923.08,
+        ["points"] = 9923.09,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 28,
@@ -1356,11 +1356,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 28,
-        ["points"] = 9856.67,
+        ["points"] = 9856.69,
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 9928.35,
+        ["points"] = 9928.36,
       },
     },
   },
@@ -1391,7 +1391,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 46,
-        ["points"] = 9960.21,
+        ["points"] = 9960.22,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 48,
@@ -1403,11 +1403,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 43,
-        ["points"] = 9988.53,
+        ["points"] = 9988.54,
       },
       ["The Lich King"] = {
         ["kill_count"] = 44,
-        ["points"] = 9581.0,
+        ["points"] = 9581.06,
       },
     },
   },
@@ -1422,7 +1422,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 45,
-        ["points"] = 9753.84,
+        ["points"] = 9753.87,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 48,
@@ -1438,7 +1438,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 47,
-        ["points"] = 9984.08,
+        ["points"] = 9984.09,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 48,
@@ -1454,7 +1454,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 42,
-        ["points"] = 9764.8,
+        ["points"] = 9764.83,
       },
     },
   },
@@ -1469,7 +1469,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 40,
-        ["points"] = 9620.62,
+        ["points"] = 9620.67,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 44,
@@ -1497,11 +1497,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 42,
-        ["points"] = 9772.11,
+        ["points"] = 9772.14,
       },
       ["The Lich King"] = {
         ["kill_count"] = 40,
-        ["points"] = 9948.6,
+        ["points"] = 9948.61,
       },
     },
   },
@@ -1516,7 +1516,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 28,
-        ["points"] = 9910.22,
+        ["points"] = 9910.24,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 28,
@@ -1532,7 +1532,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 26,
-        ["points"] = 9962.86,
+        ["points"] = 9962.87,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 27,
@@ -1544,7 +1544,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 27,
-        ["points"] = 9853.81,
+        ["points"] = 9853.83,
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
@@ -1563,7 +1563,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 27,
-        ["points"] = 9859.54,
+        ["points"] = 9859.56,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 27,
@@ -1579,7 +1579,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 27,
-        ["points"] = 9767.9,
+        ["points"] = 9767.94,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 27,
@@ -1591,11 +1591,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 27,
-        ["points"] = 9925.47,
+        ["points"] = 9925.48,
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 9760.12,
+        ["points"] = 9760.16,
       },
     },
   },
@@ -1610,7 +1610,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 32,
-        ["points"] = 9917.46,
+        ["points"] = 9917.48,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 34,
@@ -1626,7 +1626,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 31,
-        ["points"] = 9988.06,
+        ["points"] = 9988.07,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 34,
@@ -1638,11 +1638,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 31,
-        ["points"] = 9965.6,
+        ["points"] = 9965.61,
       },
       ["The Lich King"] = {
         ["kill_count"] = 31,
-        ["points"] = 9708.72,
+        ["points"] = 9708.77,
       },
     },
   },
@@ -1657,7 +1657,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 27,
-        ["points"] = 9949.32,
+        ["points"] = 9949.33,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 36,
@@ -1673,7 +1673,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 30,
-        ["points"] = 9885.94,
+        ["points"] = 9885.96,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 32,
@@ -1685,11 +1685,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 29,
-        ["points"] = 9882.47,
+        ["points"] = 9882.49,
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 9802.18,
+        ["points"] = 9802.21,
       },
     },
   },
@@ -1704,7 +1704,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 28,
-        ["points"] = 9940.63,
+        ["points"] = 9940.64,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 33,
@@ -1732,11 +1732,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 31,
-        ["points"] = 9806.51,
+        ["points"] = 9806.53,
       },
       ["The Lich King"] = {
         ["kill_count"] = 29,
-        ["points"] = 9904.98,
+        ["points"] = 9905.0,
       },
     },
   },
@@ -1751,7 +1751,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 40,
-        ["points"] = 9874.02,
+        ["points"] = 9874.04,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 44,
@@ -1767,7 +1767,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 47,
-        ["points"] = 9927.06,
+        ["points"] = 9927.07,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 47,
@@ -1779,11 +1779,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 43,
-        ["points"] = 9754.91,
+        ["points"] = 9754.94,
       },
       ["The Lich King"] = {
         ["kill_count"] = 47,
-        ["points"] = 9909.66,
+        ["points"] = 9909.67,
       },
     },
   },
@@ -1830,7 +1830,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 51,
-        ["points"] = 9931.46,
+        ["points"] = 9931.47,
       },
     },
   },
@@ -1861,7 +1861,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 20,
-        ["points"] = 9847.48,
+        ["points"] = 9847.5,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
@@ -1873,11 +1873,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 9803.64,
+        ["points"] = 9803.67,
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 9677.57,
+        ["points"] = 9677.62,
       },
     },
   },
@@ -1892,7 +1892,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 36,
-        ["points"] = 9646.68,
+        ["points"] = 9646.74,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 40,
@@ -1908,7 +1908,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 38,
-        ["points"] = 9964.19,
+        ["points"] = 9964.2,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 39,
@@ -1924,7 +1924,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 37,
-        ["points"] = 9459.5,
+        ["points"] = 9459.59,
       },
     },
   },
@@ -1939,7 +1939,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 45,
-        ["points"] = 9934.84,
+        ["points"] = 9934.85,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 64,
@@ -1955,7 +1955,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 49,
-        ["points"] = 9938.99,
+        ["points"] = 9939.0,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 63,
@@ -1967,11 +1967,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 44,
-        ["points"] = 9928.34,
+        ["points"] = 9928.35,
       },
       ["The Lich King"] = {
         ["kill_count"] = 43,
-        ["points"] = 9886.29,
+        ["points"] = 9886.31,
       },
     },
   },
@@ -1986,7 +1986,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 20,
-        ["points"] = 9837.82,
+        ["points"] = 9837.85,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 20,
@@ -2002,7 +2002,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 20,
-        ["points"] = 9818.3,
+        ["points"] = 9818.33,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
@@ -2014,11 +2014,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 20,
-        ["points"] = 9883.9,
+        ["points"] = 9883.92,
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 9936.14,
+        ["points"] = 9936.15,
       },
     },
   },
@@ -2033,7 +2033,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 27,
-        ["points"] = 9926.15,
+        ["points"] = 9926.16,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 27,
@@ -2049,7 +2049,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 30,
-        ["points"] = 9838.2,
+        ["points"] = 9838.22,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 28,
@@ -2061,11 +2061,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 30,
-        ["points"] = 9637.38,
+        ["points"] = 9637.43,
       },
       ["The Lich King"] = {
         ["kill_count"] = 28,
-        ["points"] = 9912.77,
+        ["points"] = 9912.79,
       },
     },
   },
@@ -2080,7 +2080,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 41,
-        ["points"] = 9697.36,
+        ["points"] = 9697.41,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 50,
@@ -2096,7 +2096,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 41,
-        ["points"] = 9919.1,
+        ["points"] = 9919.11,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 49,
@@ -2108,11 +2108,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 42,
-        ["points"] = 9903.97,
+        ["points"] = 9903.98,
       },
       ["The Lich King"] = {
         ["kill_count"] = 39,
-        ["points"] = 9649.53,
+        ["points"] = 9649.59,
       },
     },
   },
@@ -2127,7 +2127,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 49,
-        ["points"] = 9878.37,
+        ["points"] = 9878.38,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 51,
@@ -2155,7 +2155,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 54,
-        ["points"] = 9792.17,
+        ["points"] = 9792.2,
       },
       ["The Lich King"] = {
         ["kill_count"] = 51,
@@ -2174,7 +2174,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 31,
-        ["points"] = 9943.53,
+        ["points"] = 9943.54,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 32,
@@ -2202,7 +2202,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 31,
-        ["points"] = 9878.17,
+        ["points"] = 9878.19,
       },
       ["The Lich King"] = {
         ["kill_count"] = 31,
@@ -2221,7 +2221,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 29,
-        ["points"] = 9826.24,
+        ["points"] = 9826.26,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 33,
@@ -2237,7 +2237,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 30,
-        ["points"] = 9903.18,
+        ["points"] = 9903.2,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 32,
@@ -2249,11 +2249,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 30,
-        ["points"] = 9838.04,
+        ["points"] = 9838.06,
       },
       ["The Lich King"] = {
         ["kill_count"] = 28,
-        ["points"] = 9819.31,
+        ["points"] = 9819.34,
       },
     },
   },
@@ -2268,7 +2268,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 36,
-        ["points"] = 9895.74,
+        ["points"] = 9895.76,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 45,
@@ -2284,7 +2284,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 36,
-        ["points"] = 9704.24,
+        ["points"] = 9704.28,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 44,
@@ -2296,11 +2296,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 35,
-        ["points"] = 9779.27,
+        ["points"] = 9779.31,
       },
       ["The Lich King"] = {
         ["kill_count"] = 37,
-        ["points"] = 9900.31,
+        ["points"] = 9900.33,
       },
     },
   },
@@ -2315,7 +2315,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 51,
-        ["points"] = 9939.18,
+        ["points"] = 9939.19,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 51,
@@ -2331,7 +2331,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 48,
-        ["points"] = 9871.35,
+        ["points"] = 9871.37,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 49,
@@ -2347,7 +2347,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 47,
-        ["points"] = 9450.16,
+        ["points"] = 9450.24,
       },
     },
   },
@@ -2362,7 +2362,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 27,
-        ["points"] = 9616.28,
+        ["points"] = 9616.33,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 27,
@@ -2378,7 +2378,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 27,
-        ["points"] = 9765.25,
+        ["points"] = 9765.28,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 28,
@@ -2390,11 +2390,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 27,
-        ["points"] = 9939.8,
+        ["points"] = 9939.81,
       },
       ["The Lich King"] = {
         ["kill_count"] = 28,
-        ["points"] = 9682.24,
+        ["points"] = 9682.29,
       },
     },
   },
@@ -2409,7 +2409,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 23,
-        ["points"] = 9962.35,
+        ["points"] = 9962.36,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 29,
@@ -2425,7 +2425,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 30,
-        ["points"] = 9973.47,
+        ["points"] = 9973.48,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 31,
@@ -2437,11 +2437,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 25,
-        ["points"] = 9797.91,
+        ["points"] = 9797.94,
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 9537.38,
+        ["points"] = 9537.46,
       },
     },
   },
@@ -2456,7 +2456,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 23,
-        ["points"] = 9901.53,
+        ["points"] = 9901.55,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -2472,7 +2472,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 23,
-        ["points"] = 9576.92,
+        ["points"] = 9576.98,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -2484,7 +2484,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 22,
-        ["points"] = 9807.94,
+        ["points"] = 9807.97,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
@@ -2503,7 +2503,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 30,
-        ["points"] = 9832.03,
+        ["points"] = 9832.05,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 33,
@@ -2519,7 +2519,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 32,
-        ["points"] = 9904.51,
+        ["points"] = 9904.52,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 33,
@@ -2535,7 +2535,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9961.06,
+        ["points"] = 9961.07,
       },
     },
   },
@@ -2550,7 +2550,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 25,
-        ["points"] = 9658.27,
+        ["points"] = 9658.32,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 26,
@@ -2566,7 +2566,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 27,
-        ["points"] = 9858.09,
+        ["points"] = 9858.11,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 27,
@@ -2578,11 +2578,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 25,
-        ["points"] = 9743.44,
+        ["points"] = 9743.48,
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9820.87,
+        ["points"] = 9820.9,
       },
     },
   },
@@ -2597,7 +2597,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 34,
-        ["points"] = 9661.16,
+        ["points"] = 9661.21,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 36,
@@ -2613,7 +2613,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 34,
-        ["points"] = 9928.38,
+        ["points"] = 9928.39,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 33,
@@ -2625,11 +2625,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 33,
-        ["points"] = 9746.31,
+        ["points"] = 9746.35,
       },
       ["The Lich King"] = {
         ["kill_count"] = 33,
-        ["points"] = 9747.66,
+        ["points"] = 9747.7,
       },
     },
   },
@@ -2644,7 +2644,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 56,
-        ["points"] = 9889.95,
+        ["points"] = 9889.97,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 58,
@@ -2660,7 +2660,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 55,
-        ["points"] = 9805.04,
+        ["points"] = 9805.07,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 54,
@@ -2676,7 +2676,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 51,
-        ["points"] = 9844.24,
+        ["points"] = 9844.26,
       },
     },
   },
@@ -2691,7 +2691,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 25,
-        ["points"] = 9913.12,
+        ["points"] = 9913.13,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 25,
@@ -2707,7 +2707,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 25,
-        ["points"] = 9929.71,
+        ["points"] = 9929.72,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 25,
@@ -2719,11 +2719,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 25,
-        ["points"] = 9762.08,
+        ["points"] = 9762.11,
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 9763.24,
+        ["points"] = 9763.28,
       },
     },
   },
@@ -2738,7 +2738,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 32,
-        ["points"] = 9875.47,
+        ["points"] = 9875.49,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 36,
@@ -2766,11 +2766,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 32,
-        ["points"] = 9770.68,
+        ["points"] = 9770.71,
       },
       ["The Lich King"] = {
         ["kill_count"] = 32,
-        ["points"] = 9808.41,
+        ["points"] = 9808.44,
       },
     },
   },
@@ -2785,7 +2785,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 27,
-        ["points"] = 9493.19,
+        ["points"] = 9493.27,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 29,
@@ -2813,11 +2813,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 28,
-        ["points"] = 9763.51,
+        ["points"] = 9763.54,
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 9610.59,
+        ["points"] = 9610.65,
       },
     },
   },
@@ -2832,7 +2832,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 9842.17,
+        ["points"] = 9842.19,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 22,
@@ -2848,7 +2848,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 18,
-        ["points"] = 9737.4,
+        ["points"] = 9737.44,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 21,
@@ -2860,7 +2860,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 9789.31,
+        ["points"] = 9789.34,
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
@@ -2879,7 +2879,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 51,
-        ["points"] = 9777.01,
+        ["points"] = 9777.04,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 56,
@@ -2895,7 +2895,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 53,
-        ["points"] = 9952.25,
+        ["points"] = 9952.26,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 56,
@@ -2907,11 +2907,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 51,
-        ["points"] = 9693.28,
+        ["points"] = 9693.32,
       },
       ["The Lich King"] = {
         ["kill_count"] = 48,
-        ["points"] = 9200.93,
+        ["points"] = 9201.06,
       },
     },
   },
@@ -2926,7 +2926,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 25,
-        ["points"] = 9766.87,
+        ["points"] = 9766.9,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 33,
@@ -2942,7 +2942,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 23,
-        ["points"] = 9342.18,
+        ["points"] = 9342.26,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 32,
@@ -2954,11 +2954,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 23,
-        ["points"] = 9865.27,
+        ["points"] = 9865.29,
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 9629.28,
+        ["points"] = 9629.34,
       },
     },
   },
@@ -2973,7 +2973,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 9869.68,
+        ["points"] = 9869.7,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -2989,7 +2989,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 9953.58,
+        ["points"] = 9953.59,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -3001,11 +3001,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9840.91,
+        ["points"] = 9840.93,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9827.1,
+        ["points"] = 9827.13,
       },
     },
   },
@@ -3020,7 +3020,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 38,
-        ["points"] = 9687.23,
+        ["points"] = 9687.27,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 43,
@@ -3036,7 +3036,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 36,
-        ["points"] = 9889.92,
+        ["points"] = 9889.94,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 37,
@@ -3048,11 +3048,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 38,
-        ["points"] = 9952.7,
+        ["points"] = 9952.71,
       },
       ["The Lich King"] = {
         ["kill_count"] = 34,
-        ["points"] = 9395.64,
+        ["points"] = 9395.73,
       },
     },
   },
@@ -3067,7 +3067,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 28,
-        ["points"] = 9894.29,
+        ["points"] = 9894.31,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 31,
@@ -3083,7 +3083,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 28,
-        ["points"] = 9921.75,
+        ["points"] = 9921.76,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 30,
@@ -3099,7 +3099,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 32,
-        ["points"] = 9652.65,
+        ["points"] = 9652.7,
       },
     },
   },
@@ -3114,7 +3114,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 24,
-        ["points"] = 9759.63,
+        ["points"] = 9759.66,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 24,
@@ -3130,7 +3130,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 24,
-        ["points"] = 9945.62,
+        ["points"] = 9945.63,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 24,
@@ -3142,11 +3142,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 24,
-        ["points"] = 9828.01,
+        ["points"] = 9828.03,
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9822.43,
+        ["points"] = 9822.46,
       },
     },
   },
@@ -3161,7 +3161,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 9313.64,
+        ["points"] = 9313.74,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -3177,7 +3177,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 9744.03,
+        ["points"] = 9744.07,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -3189,11 +3189,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9696.14,
+        ["points"] = 9696.19,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9923.68,
+        ["points"] = 9923.69,
       },
     },
   },
@@ -3208,7 +3208,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 24,
-        ["points"] = 9677.09,
+        ["points"] = 9677.14,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 25,
@@ -3224,7 +3224,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 24,
-        ["points"] = 9738.73,
+        ["points"] = 9738.76,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -3236,11 +3236,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 27,
-        ["points"] = 9916.87,
+        ["points"] = 9916.88,
       },
       ["The Lich King"] = {
         ["kill_count"] = 34,
-        ["points"] = 9568.54,
+        ["points"] = 9568.6,
       },
     },
   },
@@ -3255,7 +3255,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 41,
-        ["points"] = 9947.87,
+        ["points"] = 9947.88,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 41,
@@ -3271,7 +3271,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 43,
-        ["points"] = 9604.77,
+        ["points"] = 9604.83,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 43,
@@ -3283,11 +3283,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 43,
-        ["points"] = 9866.7,
+        ["points"] = 9866.72,
       },
       ["The Lich King"] = {
         ["kill_count"] = 44,
-        ["points"] = 9959.5,
+        ["points"] = 9959.51,
       },
     },
   },
@@ -3302,7 +3302,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 35,
-        ["points"] = 9778.45,
+        ["points"] = 9778.49,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 37,
@@ -3318,7 +3318,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 36,
-        ["points"] = 9891.25,
+        ["points"] = 9891.26,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 37,
@@ -3330,11 +3330,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 35,
-        ["points"] = 9896.8,
+        ["points"] = 9896.82,
       },
       ["The Lich King"] = {
         ["kill_count"] = 36,
-        ["points"] = 9757.01,
+        ["points"] = 9757.05,
       },
     },
   },
@@ -3349,7 +3349,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 27,
-        ["points"] = 9968.14,
+        ["points"] = 9968.15,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 27,
@@ -3365,7 +3365,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 27,
-        ["points"] = 9977.45,
+        ["points"] = 9977.46,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 27,
@@ -3377,11 +3377,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 27,
-        ["points"] = 9858.11,
+        ["points"] = 9858.13,
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9965.73,
+        ["points"] = 9965.74,
       },
     },
   },
@@ -3396,7 +3396,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 39,
-        ["points"] = 9304.95,
+        ["points"] = 9305.05,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 41,
@@ -3412,7 +3412,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 34,
-        ["points"] = 9839.52,
+        ["points"] = 9839.54,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 35,
@@ -3424,7 +3424,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 37,
-        ["points"] = 9869.57,
+        ["points"] = 9869.59,
       },
       ["The Lich King"] = {
         ["kill_count"] = 41,
@@ -3443,7 +3443,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 9785.69,
+        ["points"] = 9785.72,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -3459,7 +3459,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 9881.96,
+        ["points"] = 9881.98,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -3471,11 +3471,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 9892.5,
+        ["points"] = 9892.52,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9895.64,
+        ["points"] = 9895.65,
       },
     },
   },
@@ -3490,7 +3490,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 43,
-        ["points"] = 9823.34,
+        ["points"] = 9823.37,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 46,
@@ -3506,7 +3506,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 46,
-        ["points"] = 9915.12,
+        ["points"] = 9915.13,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 46,
@@ -3518,11 +3518,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 46,
-        ["points"] = 9918.3,
+        ["points"] = 9918.31,
       },
       ["The Lich King"] = {
         ["kill_count"] = 46,
-        ["points"] = 9780.37,
+        ["points"] = 9780.41,
       },
     },
   },
@@ -3537,7 +3537,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 40,
-        ["points"] = 9335.36,
+        ["points"] = 9335.46,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 43,
@@ -3553,7 +3553,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 43,
-        ["points"] = 9863.4,
+        ["points"] = 9863.41,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 43,
@@ -3565,11 +3565,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 44,
-        ["points"] = 9568.58,
+        ["points"] = 9568.64,
       },
       ["The Lich King"] = {
         ["kill_count"] = 44,
-        ["points"] = 9951.71,
+        ["points"] = 9951.72,
       },
     },
   },
@@ -3584,7 +3584,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 48,
-        ["points"] = 9633.65,
+        ["points"] = 9633.7,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 55,
@@ -3600,7 +3600,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 50,
-        ["points"] = 9661.8,
+        ["points"] = 9661.85,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 52,
@@ -3612,11 +3612,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 49,
-        ["points"] = 9875.3,
+        ["points"] = 9875.32,
       },
       ["The Lich King"] = {
         ["kill_count"] = 45,
-        ["points"] = 9859.81,
+        ["points"] = 9859.83,
       },
     },
   },
@@ -3631,7 +3631,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 9562.7,
+        ["points"] = 9562.76,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 20,
@@ -3647,7 +3647,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 18,
-        ["points"] = 9870.03,
+        ["points"] = 9870.04,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 21,
@@ -3659,11 +3659,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 9921.17,
+        ["points"] = 9921.18,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9724.3,
+        ["points"] = 9724.34,
       },
     },
   },
@@ -3710,7 +3710,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9071.65,
+        ["points"] = 9071.8,
       },
     },
   },
@@ -3725,7 +3725,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 49,
-        ["points"] = 9819.0,
+        ["points"] = 9819.02,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 50,
@@ -3741,7 +3741,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 49,
-        ["points"] = 9831.56,
+        ["points"] = 9831.59,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 50,
@@ -3753,11 +3753,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 51,
-        ["points"] = 9908.27,
+        ["points"] = 9908.28,
       },
       ["The Lich King"] = {
         ["kill_count"] = 48,
-        ["points"] = 9964.17,
+        ["points"] = 9964.18,
       },
     },
   },
@@ -3772,7 +3772,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 25,
-        ["points"] = 9839.27,
+        ["points"] = 9839.29,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 27,
@@ -3800,11 +3800,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 25,
-        ["points"] = 9832.31,
+        ["points"] = 9832.33,
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9845.79,
+        ["points"] = 9845.82,
       },
     },
   },
@@ -3835,7 +3835,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 28,
-        ["points"] = 9246.68,
+        ["points"] = 9246.78,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 29,
@@ -3847,11 +3847,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 27,
-        ["points"] = 9876.74,
+        ["points"] = 9876.76,
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 9749.22,
+        ["points"] = 9749.26,
       },
     },
   },
@@ -3866,7 +3866,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 34,
-        ["points"] = 9927.6,
+        ["points"] = 9927.61,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 36,
@@ -3882,7 +3882,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 37,
-        ["points"] = 9852.79,
+        ["points"] = 9852.8,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 37,
@@ -3894,11 +3894,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 37,
-        ["points"] = 9691.84,
+        ["points"] = 9691.89,
       },
       ["The Lich King"] = {
         ["kill_count"] = 38,
-        ["points"] = 9651.09,
+        ["points"] = 9651.14,
       },
     },
   },
@@ -3913,7 +3913,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 30,
-        ["points"] = 9920.36,
+        ["points"] = 9920.37,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 34,
@@ -3929,7 +3929,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 32,
-        ["points"] = 9550.4,
+        ["points"] = 9550.46,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 34,
@@ -3941,11 +3941,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 33,
-        ["points"] = 9473.99,
+        ["points"] = 9474.06,
       },
       ["The Lich King"] = {
         ["kill_count"] = 36,
-        ["points"] = 9869.16,
+        ["points"] = 9869.18,
       },
     },
   },
@@ -3960,7 +3960,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 43,
-        ["points"] = 9664.06,
+        ["points"] = 9664.11,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 47,
@@ -3976,7 +3976,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 44,
-        ["points"] = 9793.1,
+        ["points"] = 9793.13,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 47,
@@ -3988,11 +3988,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 47,
-        ["points"] = 9420.95,
+        ["points"] = 9421.04,
       },
       ["The Lich King"] = {
         ["kill_count"] = 46,
-        ["points"] = 9542.06,
+        ["points"] = 9542.13,
       },
     },
   },
@@ -4007,7 +4007,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 34,
-        ["points"] = 9678.54,
+        ["points"] = 9678.59,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 34,
@@ -4023,7 +4023,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 35,
-        ["points"] = 9872.68,
+        ["points"] = 9872.7,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 34,
@@ -4035,11 +4035,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 34,
-        ["points"] = 9681.81,
+        ["points"] = 9681.86,
       },
       ["The Lich King"] = {
         ["kill_count"] = 35,
-        ["points"] = 9809.97,
+        ["points"] = 9810.0,
       },
     },
   },
@@ -4054,7 +4054,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 27,
-        ["points"] = 9801.62,
+        ["points"] = 9801.65,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 28,
@@ -4070,7 +4070,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 28,
-        ["points"] = 9876.66,
+        ["points"] = 9876.67,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 28,
@@ -4082,11 +4082,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 27,
-        ["points"] = 9680.38,
+        ["points"] = 9680.42,
       },
       ["The Lich King"] = {
         ["kill_count"] = 29,
-        ["points"] = 9855.14,
+        ["points"] = 9855.16,
       },
     },
   },
@@ -4117,7 +4117,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 9924.4,
+        ["points"] = 9924.41,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -4129,11 +4129,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 9951.27,
+        ["points"] = 9951.28,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9906.54,
+        ["points"] = 9906.56,
       },
     },
   },
@@ -4148,7 +4148,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 9711.84,
+        ["points"] = 9711.89,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -4164,7 +4164,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 20,
-        ["points"] = 9874.01,
+        ["points"] = 9874.02,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
@@ -4176,11 +4176,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 9131.43,
+        ["points"] = 9131.56,
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 9618.38,
+        ["points"] = 9618.44,
       },
     },
   },
@@ -4195,7 +4195,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 9465.68,
+        ["points"] = 9465.76,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -4211,7 +4211,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 17,
-        ["points"] = 9432.36,
+        ["points"] = 9432.44,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -4223,11 +4223,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 9833.74,
+        ["points"] = 9833.76,
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 9864.49,
+        ["points"] = 9864.51,
       },
     },
   },
@@ -4242,7 +4242,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 27,
-        ["points"] = 9884.16,
+        ["points"] = 9884.18,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 38,
@@ -4258,7 +4258,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 31,
-        ["points"] = 9671.09,
+        ["points"] = 9671.13,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 37,
@@ -4270,11 +4270,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 30,
-        ["points"] = 9657.45,
+        ["points"] = 9657.49,
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 9638.63,
+        ["points"] = 9638.69,
       },
     },
   },
@@ -4289,7 +4289,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 21,
-        ["points"] = 9510.57,
+        ["points"] = 9510.64,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 34,
@@ -4305,7 +4305,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 21,
-        ["points"] = 9700.27,
+        ["points"] = 9700.3,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 32,
@@ -4317,11 +4317,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 21,
-        ["points"] = 9633.08,
+        ["points"] = 9633.13,
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 9694.7,
+        ["points"] = 9694.75,
       },
     },
   },
@@ -4336,7 +4336,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 32,
-        ["points"] = 9814.65,
+        ["points"] = 9814.68,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 34,
@@ -4352,7 +4352,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 33,
-        ["points"] = 9655.17,
+        ["points"] = 9655.22,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 32,
@@ -4364,11 +4364,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 33,
-        ["points"] = 9731.98,
+        ["points"] = 9732.01,
       },
       ["The Lich King"] = {
         ["kill_count"] = 34,
-        ["points"] = 9559.19,
+        ["points"] = 9559.26,
       },
     },
   },
@@ -4383,7 +4383,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 42,
-        ["points"] = 9829.13,
+        ["points"] = 9829.16,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 41,
@@ -4399,7 +4399,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 43,
-        ["points"] = 9899.2,
+        ["points"] = 9899.22,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 42,
@@ -4411,11 +4411,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 40,
-        ["points"] = 9823.71,
+        ["points"] = 9823.73,
       },
       ["The Lich King"] = {
         ["kill_count"] = 42,
-        ["points"] = 9688.47,
+        ["points"] = 9688.52,
       },
     },
   },
@@ -4430,7 +4430,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 44,
-        ["points"] = 9685.78,
+        ["points"] = 9685.83,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 46,
@@ -4446,7 +4446,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 45,
-        ["points"] = 9824.93,
+        ["points"] = 9824.96,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 46,
@@ -4458,11 +4458,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 43,
-        ["points"] = 9915.44,
+        ["points"] = 9915.45,
       },
       ["The Lich King"] = {
         ["kill_count"] = 44,
-        ["points"] = 9825.55,
+        ["points"] = 9825.57,
       },
     },
   },
@@ -4477,7 +4477,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 19,
-        ["points"] = 9643.79,
+        ["points"] = 9643.84,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 33,
@@ -4493,7 +4493,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 30,
-        ["points"] = 9583.55,
+        ["points"] = 9583.61,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 32,
@@ -4505,11 +4505,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 29,
-        ["points"] = 9891.07,
+        ["points"] = 9891.09,
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 9609.03,
+        ["points"] = 9609.1,
       },
     },
   },
@@ -4524,7 +4524,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 68,
-        ["points"] = 9960.9,
+        ["points"] = 9960.91,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 67,
@@ -4540,7 +4540,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 71,
-        ["points"] = 9745.36,
+        ["points"] = 9745.39,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 71,
@@ -4552,11 +4552,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 69,
-        ["points"] = 9458.22,
+        ["points"] = 9458.3,
       },
       ["The Lich King"] = {
         ["kill_count"] = 70,
-        ["points"] = 9876.95,
+        ["points"] = 9876.97,
       },
     },
   },
@@ -4571,7 +4571,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 9594.56,
+        ["points"] = 9594.61,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -4587,7 +4587,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 9628.65,
+        ["points"] = 9628.7,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -4599,11 +4599,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 9909.7,
+        ["points"] = 9909.72,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9833.33,
+        ["points"] = 9833.36,
       },
     },
   },
@@ -4618,7 +4618,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 9575.73,
+        ["points"] = 9575.79,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -4634,7 +4634,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 14,
-        ["points"] = 9856.76,
+        ["points"] = 9856.78,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -4646,11 +4646,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 9676.08,
+        ["points"] = 9676.12,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9799.07,
+        ["points"] = 9799.1,
       },
     },
   },
@@ -4665,7 +4665,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 33,
-        ["points"] = 9933.39,
+        ["points"] = 9933.4,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 34,
@@ -4681,7 +4681,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 35,
-        ["points"] = 9941.64,
+        ["points"] = 9941.65,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 34,
@@ -4697,7 +4697,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 33,
-        ["points"] = 9194.7,
+        ["points"] = 9194.83,
       },
     },
   },
@@ -4712,7 +4712,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 34,
-        ["points"] = 9501.88,
+        ["points"] = 9501.95,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 36,
@@ -4728,7 +4728,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 37,
-        ["points"] = 9741.38,
+        ["points"] = 9741.41,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 36,
@@ -4740,11 +4740,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 35,
-        ["points"] = 9759.21,
+        ["points"] = 9759.24,
       },
       ["The Lich King"] = {
         ["kill_count"] = 36,
-        ["points"] = 9588.79,
+        ["points"] = 9588.85,
       },
     },
   },
@@ -4775,7 +4775,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 9795.76,
+        ["points"] = 9795.78,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -4791,7 +4791,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9805.3,
+        ["points"] = 9805.33,
       },
     },
   },
@@ -4806,7 +4806,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 20,
-        ["points"] = 9671.3,
+        ["points"] = 9671.35,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -4822,7 +4822,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 28,
-        ["points"] = 9598.14,
+        ["points"] = 9598.2,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 28,
@@ -4834,11 +4834,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 24,
-        ["points"] = 9452.49,
+        ["points"] = 9452.57,
       },
       ["The Lich King"] = {
         ["kill_count"] = 34,
-        ["points"] = 9903.43,
+        ["points"] = 9903.44,
       },
     },
   },
@@ -4853,7 +4853,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 39,
-        ["points"] = 9733.57,
+        ["points"] = 9733.6,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 41,
@@ -4869,7 +4869,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 39,
-        ["points"] = 9866.05,
+        ["points"] = 9866.07,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 39,
@@ -4881,11 +4881,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 39,
-        ["points"] = 9912.57,
+        ["points"] = 9912.58,
       },
       ["The Lich King"] = {
         ["kill_count"] = 38,
-        ["points"] = 9654.21,
+        ["points"] = 9654.26,
       },
     },
   },
@@ -4900,7 +4900,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 43,
-        ["points"] = 9953.66,
+        ["points"] = 9953.67,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 46,
@@ -4916,7 +4916,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 44,
-        ["points"] = 9786.47,
+        ["points"] = 9786.5,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 45,
@@ -4928,11 +4928,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 43,
-        ["points"] = 9713.34,
+        ["points"] = 9713.38,
       },
       ["The Lich King"] = {
         ["kill_count"] = 42,
-        ["points"] = 9887.85,
+        ["points"] = 9887.87,
       },
     },
   },
@@ -4947,7 +4947,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 30,
-        ["points"] = 9914.57,
+        ["points"] = 9914.58,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 34,
@@ -4963,7 +4963,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 30,
-        ["points"] = 9790.45,
+        ["points"] = 9790.48,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 33,
@@ -4975,11 +4975,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 29,
-        ["points"] = 9734.84,
+        ["points"] = 9734.88,
       },
       ["The Lich King"] = {
         ["kill_count"] = 28,
-        ["points"] = 8820.87,
+        ["points"] = 8821.06,
       },
     },
   },
@@ -4994,7 +4994,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 9666.96,
+        ["points"] = 9667.0,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -5010,7 +5010,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 17,
-        ["points"] = 9920.42,
+        ["points"] = 9920.43,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -5022,11 +5022,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 9537.05,
+        ["points"] = 9537.12,
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 9841.12,
+        ["points"] = 9841.15,
       },
     },
   },
@@ -5041,7 +5041,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 20,
-        ["points"] = 9386.04,
+        ["points"] = 9386.13,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
@@ -5057,7 +5057,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 21,
-        ["points"] = 9427.06,
+        ["points"] = 9427.13,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -5069,7 +5069,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 21,
-        ["points"] = 9886.77,
+        ["points"] = 9886.79,
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
@@ -5088,7 +5088,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 9813.21,
+        ["points"] = 9813.23,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 33,
@@ -5104,7 +5104,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 22,
-        ["points"] = 9887.27,
+        ["points"] = 9887.28,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 31,
@@ -5116,11 +5116,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 9690.41,
+        ["points"] = 9690.46,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9464.17,
+        ["points"] = 9464.26,
       },
     },
   },
@@ -5135,7 +5135,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 9830.58,
+        ["points"] = 9830.61,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -5151,7 +5151,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 14,
-        ["points"] = 9797.08,
+        ["points"] = 9797.11,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -5163,11 +5163,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 9554.25,
+        ["points"] = 9554.31,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9767.91,
+        ["points"] = 9767.95,
       },
     },
   },
@@ -5182,7 +5182,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 38,
-        ["points"] = 9425.14,
+        ["points"] = 9425.22,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 44,
@@ -5198,7 +5198,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 37,
-        ["points"] = 9897.88,
+        ["points"] = 9897.89,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 43,
@@ -5210,11 +5210,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 37,
-        ["points"] = 9756.34,
+        ["points"] = 9756.38,
       },
       ["The Lich King"] = {
         ["kill_count"] = 35,
-        ["points"] = 9663.55,
+        ["points"] = 9663.6,
       },
     },
   },
@@ -5229,7 +5229,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 32,
-        ["points"] = 9690.12,
+        ["points"] = 9690.17,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 36,
@@ -5245,7 +5245,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 32,
-        ["points"] = 9785.15,
+        ["points"] = 9785.17,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 34,
@@ -5257,11 +5257,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 31,
-        ["points"] = 9714.78,
+        ["points"] = 9714.82,
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9531.15,
+        ["points"] = 9531.23,
       },
     },
   },
@@ -5276,7 +5276,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 9588.76,
+        ["points"] = 9588.82,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -5304,11 +5304,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 9760.64,
+        ["points"] = 9760.68,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9750.78,
+        ["points"] = 9750.82,
       },
     },
   },
@@ -5323,7 +5323,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 33,
-        ["points"] = 9790.04,
+        ["points"] = 9790.07,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 37,
@@ -5339,7 +5339,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 32,
-        ["points"] = 9664.46,
+        ["points"] = 9664.5,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 35,
@@ -5351,11 +5351,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 33,
-        ["points"] = 9895.37,
+        ["points"] = 9895.39,
       },
       ["The Lich King"] = {
         ["kill_count"] = 31,
-        ["points"] = 9680.69,
+        ["points"] = 9680.74,
       },
     },
   },
@@ -5370,7 +5370,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 9703.16,
+        ["points"] = 9703.2,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -5386,7 +5386,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 21,
-        ["points"] = 9830.24,
+        ["points"] = 9830.26,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 21,
@@ -5398,11 +5398,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 21,
-        ["points"] = 9582.92,
+        ["points"] = 9582.98,
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 9624.61,
+        ["points"] = 9624.67,
       },
     },
   },
@@ -5417,7 +5417,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 30,
-        ["points"] = 9527.95,
+        ["points"] = 9528.02,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 33,
@@ -5433,7 +5433,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 30,
-        ["points"] = 9994.69,
+        ["points"] = 9994.7,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 33,
@@ -5445,11 +5445,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 30,
-        ["points"] = 9919.74,
+        ["points"] = 9919.75,
       },
       ["The Lich King"] = {
         ["kill_count"] = 32,
-        ["points"] = 9775.7,
+        ["points"] = 9775.74,
       },
     },
   },
@@ -5464,7 +5464,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 24,
-        ["points"] = 9740.81,
+        ["points"] = 9740.84,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 24,
@@ -5480,7 +5480,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 25,
-        ["points"] = 9840.85,
+        ["points"] = 9840.87,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 25,
@@ -5492,11 +5492,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 25,
-        ["points"] = 9800.77,
+        ["points"] = 9800.8,
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 9640.19,
+        ["points"] = 9640.24,
       },
     },
   },
@@ -5511,7 +5511,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 48,
-        ["points"] = 9905.88,
+        ["points"] = 9905.89,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 55,
@@ -5527,7 +5527,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 50,
-        ["points"] = 9458.89,
+        ["points"] = 9458.96,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 52,
@@ -5539,11 +5539,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 51,
-        ["points"] = 9694.71,
+        ["points"] = 9694.75,
       },
       ["The Lich King"] = {
         ["kill_count"] = 43,
-        ["points"] = 9383.18,
+        ["points"] = 9383.27,
       },
     },
   },
@@ -5558,7 +5558,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 9624.96,
+        ["points"] = 9625.02,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 25,
@@ -5574,7 +5574,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 9685.68,
+        ["points"] = 9685.72,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -5586,11 +5586,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 9776.41,
+        ["points"] = 9776.44,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9742.99,
+        ["points"] = 9743.03,
       },
     },
   },
@@ -5605,7 +5605,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 9769.77,
+        ["points"] = 9769.8,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 22,
@@ -5621,7 +5621,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 17,
-        ["points"] = 9515.92,
+        ["points"] = 9515.98,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 21,
@@ -5633,11 +5633,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 9342.12,
+        ["points"] = 9342.22,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9942.37,
+        ["points"] = 9942.38,
       },
     },
   },
@@ -5652,7 +5652,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 20,
-        ["points"] = 9438.17,
+        ["points"] = 9438.25,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
@@ -5668,7 +5668,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 20,
-        ["points"] = 9681.7,
+        ["points"] = 9681.74,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 21,
@@ -5680,11 +5680,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 20,
-        ["points"] = 9459.65,
+        ["points"] = 9459.73,
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 9984.42,
+        ["points"] = 9984.43,
       },
     },
   },
@@ -5699,7 +5699,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 30,
-        ["points"] = 9719.08,
+        ["points"] = 9719.13,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 30,
@@ -5715,7 +5715,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 30,
-        ["points"] = 9408.49,
+        ["points"] = 9408.57,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 30,
@@ -5727,7 +5727,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 29,
-        ["points"] = 9618.75,
+        ["points"] = 9618.8,
       },
       ["The Lich King"] = {
         ["kill_count"] = 30,
@@ -5746,7 +5746,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 9866.78,
+        ["points"] = 9866.8,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -5762,7 +5762,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 9492.04,
+        ["points"] = 9492.11,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -5774,11 +5774,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 8711.48,
+        ["points"] = 8711.67,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9690.03,
+        ["points"] = 9690.08,
       },
     },
   },
@@ -5793,7 +5793,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 31,
-        ["points"] = 9772.66,
+        ["points"] = 9772.69,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 36,
@@ -5809,7 +5809,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 34,
-        ["points"] = 9789.12,
+        ["points"] = 9789.15,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 39,
@@ -5825,7 +5825,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 37,
-        ["points"] = 9529.6,
+        ["points"] = 9529.67,
       },
     },
   },
@@ -5856,7 +5856,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 30,
-        ["points"] = 9777.19,
+        ["points"] = 9777.22,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 31,
@@ -5868,11 +5868,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 29,
-        ["points"] = 9279.06,
+        ["points"] = 9279.16,
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 9291.28,
+        ["points"] = 9291.39,
       },
     },
   },
@@ -5887,7 +5887,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 32,
-        ["points"] = 9522.15,
+        ["points"] = 9522.22,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 36,
@@ -5903,7 +5903,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 32,
-        ["points"] = 9478.78,
+        ["points"] = 9478.85,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 35,
@@ -5915,11 +5915,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 33,
-        ["points"] = 9843.77,
+        ["points"] = 9843.79,
       },
       ["The Lich King"] = {
         ["kill_count"] = 30,
-        ["points"] = 9135.51,
+        ["points"] = 9135.65,
       },
     },
   },
@@ -5934,7 +5934,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 31,
-        ["points"] = 9797.28,
+        ["points"] = 9797.31,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 31,
@@ -5950,7 +5950,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 31,
-        ["points"] = 9901.86,
+        ["points"] = 9901.87,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 31,
@@ -5962,11 +5962,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 31,
-        ["points"] = 9835.17,
+        ["points"] = 9835.2,
       },
       ["The Lich King"] = {
         ["kill_count"] = 31,
-        ["points"] = 9937.69,
+        ["points"] = 9937.7,
       },
     },
   },
@@ -5981,7 +5981,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 9834.93,
+        ["points"] = 9834.95,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -5997,7 +5997,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 9724.14,
+        ["points"] = 9724.17,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -6009,11 +6009,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 9174.43,
+        ["points"] = 9174.55,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9574.77,
+        ["points"] = 9574.83,
       },
     },
   },
@@ -6028,7 +6028,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 9545.32,
+        ["points"] = 9545.39,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -6044,7 +6044,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 9374.01,
+        ["points"] = 9374.09,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -6056,11 +6056,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 9899.67,
+        ["points"] = 9899.68,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9978.19,
+        ["points"] = 9978.2,
       },
     },
   },
@@ -6075,7 +6075,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 8980.6,
+        ["points"] = 8980.74,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -6091,7 +6091,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 9779.84,
+        ["points"] = 9779.87,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -6103,11 +6103,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9902.54,
+        ["points"] = 9902.55,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9917.45,
+        ["points"] = 9917.46,
       },
     },
   },
@@ -6122,7 +6122,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9328.12,
+        ["points"] = 9328.22,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -6138,7 +6138,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 9755.97,
+        ["points"] = 9756.0,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
@@ -6150,11 +6150,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9538.48,
+        ["points"] = 9538.55,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9691.59,
+        ["points"] = 9691.64,
       },
     },
   },
@@ -6169,7 +6169,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 25,
-        ["points"] = 9752.39,
+        ["points"] = 9752.43,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 27,
@@ -6185,7 +6185,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 26,
-        ["points"] = 9803.71,
+        ["points"] = 9803.74,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 27,
@@ -6197,11 +6197,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 27,
-        ["points"] = 9349.29,
+        ["points"] = 9349.38,
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 9454.83,
+        ["points"] = 9454.91,
       },
     },
   },
@@ -6232,7 +6232,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 9970.82,
+        ["points"] = 9970.83,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -6244,11 +6244,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 9042.57,
+        ["points"] = 9042.71,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9674.45,
+        ["points"] = 9674.51,
       },
     },
   },
@@ -6263,7 +6263,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 8937.16,
+        ["points"] = 8937.31,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -6279,7 +6279,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 9766.58,
+        ["points"] = 9766.61,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -6291,11 +6291,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9938.37,
+        ["points"] = 9938.38,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9012.46,
+        ["points"] = 9012.61,
       },
     },
   },
@@ -6310,7 +6310,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 21,
-        ["points"] = 9238.34,
+        ["points"] = 9238.45,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 34,
@@ -6326,7 +6326,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 22,
-        ["points"] = 9828.91,
+        ["points"] = 9828.94,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 35,
@@ -6338,11 +6338,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 22,
-        ["points"] = 9597.25,
+        ["points"] = 9597.31,
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 9582.55,
+        ["points"] = 9582.62,
       },
     },
   },
@@ -6357,7 +6357,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 36,
-        ["points"] = 9846.51,
+        ["points"] = 9846.53,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 41,
@@ -6373,7 +6373,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 36,
-        ["points"] = 9631.3,
+        ["points"] = 9631.35,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 41,
@@ -6385,11 +6385,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 36,
-        ["points"] = 9829.44,
+        ["points"] = 9829.46,
       },
       ["The Lich King"] = {
         ["kill_count"] = 31,
-        ["points"] = 9811.53,
+        ["points"] = 9811.56,
       },
     },
   },
@@ -6404,7 +6404,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 25,
-        ["points"] = 9758.18,
+        ["points"] = 9758.22,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 29,
@@ -6420,7 +6420,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 32,
-        ["points"] = 9787.8,
+        ["points"] = 9787.83,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 26,
@@ -6432,11 +6432,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 29,
-        ["points"] = 9415.22,
+        ["points"] = 9415.31,
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 9232.09,
+        ["points"] = 9232.21,
       },
     },
   },
@@ -6451,7 +6451,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 24,
-        ["points"] = 9551.11,
+        ["points"] = 9551.18,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 24,
@@ -6467,7 +6467,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 21,
-        ["points"] = 9834.22,
+        ["points"] = 9834.24,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 21,
@@ -6479,11 +6479,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 21,
-        ["points"] = 9638.81,
+        ["points"] = 9638.87,
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 9890.97,
+        ["points"] = 9890.98,
       },
     },
   },
@@ -6498,7 +6498,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 31,
-        ["points"] = 9768.32,
+        ["points"] = 9768.35,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 32,
@@ -6514,7 +6514,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 31,
-        ["points"] = 9815.65,
+        ["points"] = 9815.67,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 32,
@@ -6526,11 +6526,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 31,
-        ["points"] = 9656.01,
+        ["points"] = 9656.06,
       },
       ["The Lich King"] = {
         ["kill_count"] = 33,
-        ["points"] = 8799.07,
+        ["points"] = 8799.25,
       },
     },
   },
@@ -6545,7 +6545,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 35,
-        ["points"] = 9892.85,
+        ["points"] = 9892.86,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 40,
@@ -6561,7 +6561,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 37,
-        ["points"] = 9262.6,
+        ["points"] = 9262.7,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 39,
@@ -6573,11 +6573,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 34,
-        ["points"] = 9799.34,
+        ["points"] = 9799.37,
       },
       ["The Lich King"] = {
         ["kill_count"] = 34,
-        ["points"] = 9107.48,
+        ["points"] = 9107.62,
       },
     },
   },
@@ -6592,7 +6592,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 37,
-        ["points"] = 9929.05,
+        ["points"] = 9929.06,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 38,
@@ -6608,7 +6608,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 35,
-        ["points"] = 9868.7,
+        ["points"] = 9868.72,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 38,
@@ -6620,11 +6620,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 37,
-        ["points"] = 9846.64,
+        ["points"] = 9846.66,
       },
       ["The Lich King"] = {
         ["kill_count"] = 36,
-        ["points"] = 9866.04,
+        ["points"] = 9866.06,
       },
     },
   },
@@ -6639,7 +6639,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 30,
-        ["points"] = 9329.57,
+        ["points"] = 9329.67,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 41,
@@ -6655,7 +6655,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 36,
-        ["points"] = 9844.83,
+        ["points"] = 9844.85,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 41,
@@ -6667,11 +6667,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 34,
-        ["points"] = 9628.78,
+        ["points"] = 9628.83,
       },
       ["The Lich King"] = {
         ["kill_count"] = 28,
-        ["points"] = 8775.7,
+        ["points"] = 8775.89,
       },
     },
   },
@@ -6686,7 +6686,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 36,
-        ["points"] = 9419.35,
+        ["points"] = 9419.43,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 43,
@@ -6702,7 +6702,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 38,
-        ["points"] = 9709.55,
+        ["points"] = 9709.59,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 42,
@@ -6714,11 +6714,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 37,
-        ["points"] = 9790.74,
+        ["points"] = 9790.77,
       },
       ["The Lich King"] = {
         ["kill_count"] = 38,
-        ["points"] = 9344.24,
+        ["points"] = 9344.34,
       },
     },
   },
@@ -6733,7 +6733,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 36,
-        ["points"] = 9803.07,
+        ["points"] = 9803.1,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 37,
@@ -6765,7 +6765,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 41,
-        ["points"] = 9795.95,
+        ["points"] = 9795.98,
       },
     },
   },
@@ -6780,7 +6780,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 23,
-        ["points"] = 9746.6,
+        ["points"] = 9746.63,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 26,
@@ -6796,7 +6796,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 22,
-        ["points"] = 9717.51,
+        ["points"] = 9717.54,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 26,
@@ -6808,11 +6808,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 24,
-        ["points"] = 9780.71,
+        ["points"] = 9780.74,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9783.49,
+        ["points"] = 9783.52,
       },
     },
   },
@@ -6827,7 +6827,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 9707.5,
+        ["points"] = 9707.54,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 22,
@@ -6843,7 +6843,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 22,
-        ["points"] = 9684.35,
+        ["points"] = 9684.39,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -6855,11 +6855,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 22,
-        ["points"] = 9528.45,
+        ["points"] = 9528.52,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9707.17,
+        ["points"] = 9707.21,
       },
     },
   },
@@ -6874,7 +6874,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 8646.1,
+        ["points"] = 8646.3,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -6890,7 +6890,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 9940.32,
+        ["points"] = 9940.33,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -6902,11 +6902,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 9395.16,
+        ["points"] = 9395.24,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9566.98,
+        ["points"] = 9567.05,
       },
     },
   },
@@ -6921,7 +6921,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 28,
-        ["points"] = 9649.58,
+        ["points"] = 9649.63,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 30,
@@ -6937,7 +6937,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 29,
-        ["points"] = 9456.23,
+        ["points"] = 9456.31,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 29,
@@ -6949,11 +6949,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 29,
-        ["points"] = 9674.65,
+        ["points"] = 9674.69,
       },
       ["The Lich King"] = {
         ["kill_count"] = 32,
-        ["points"] = 9880.06,
+        ["points"] = 9880.08,
       },
     },
   },
@@ -6968,7 +6968,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 33,
-        ["points"] = 9141.33,
+        ["points"] = 9141.45,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 41,
@@ -6984,7 +6984,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 35,
-        ["points"] = 9551.72,
+        ["points"] = 9551.78,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 37,
@@ -6996,11 +6996,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 35,
-        ["points"] = 9830.87,
+        ["points"] = 9830.9,
       },
       ["The Lich King"] = {
         ["kill_count"] = 35,
-        ["points"] = 9434.58,
+        ["points"] = 9434.67,
       },
     },
   },
@@ -7015,7 +7015,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 9930.5,
+        ["points"] = 9930.51,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -7031,7 +7031,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 9911.14,
+        ["points"] = 9911.15,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -7043,11 +7043,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 9161.53,
+        ["points"] = 9161.65,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9366.04,
+        ["points"] = 9366.14,
       },
     },
   },
@@ -7062,7 +7062,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 19,
-        ["points"] = 9887.05,
+        ["points"] = 9887.07,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 20,
@@ -7078,7 +7078,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 20,
-        ["points"] = 9774.54,
+        ["points"] = 9774.57,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
@@ -7094,7 +7094,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 9901.87,
+        ["points"] = 9901.88,
       },
     },
   },
@@ -7109,7 +7109,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 9429.48,
+        ["points"] = 9429.56,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -7125,7 +7125,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 25,
-        ["points"] = 9864.72,
+        ["points"] = 9864.74,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 26,
@@ -7137,11 +7137,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 22,
-        ["points"] = 9931.2,
+        ["points"] = 9931.21,
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 9725.86,
+        ["points"] = 9725.9,
       },
     },
   },
@@ -7156,7 +7156,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 9381.7,
+        ["points"] = 9381.79,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 20,
@@ -7172,7 +7172,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 23,
-        ["points"] = 9641.91,
+        ["points"] = 9641.96,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -7184,11 +7184,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 23,
-        ["points"] = 9786.44,
+        ["points"] = 9786.47,
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 9836.45,
+        ["points"] = 9836.47,
       },
     },
   },
@@ -7203,7 +7203,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 34,
-        ["points"] = 9808.86,
+        ["points"] = 9808.89,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 40,
@@ -7219,7 +7219,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 35,
-        ["points"] = 9771.88,
+        ["points"] = 9771.91,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 38,
@@ -7231,11 +7231,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 37,
-        ["points"] = 9670.35,
+        ["points"] = 9670.39,
       },
       ["The Lich King"] = {
         ["kill_count"] = 33,
-        ["points"] = 9940.81,
+        ["points"] = 9940.82,
       },
     },
   },
@@ -7250,7 +7250,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 25,
-        ["points"] = 9568.49,
+        ["points"] = 9568.55,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 27,
@@ -7266,7 +7266,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 28,
-        ["points"] = 9639.26,
+        ["points"] = 9639.31,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 28,
@@ -7278,11 +7278,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 28,
-        ["points"] = 9327.79,
+        ["points"] = 9327.89,
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 9741.43,
+        ["points"] = 9741.47,
       },
     },
   },
@@ -7297,7 +7297,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 32,
-        ["points"] = 9698.81,
+        ["points"] = 9698.86,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 32,
@@ -7313,7 +7313,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 33,
-        ["points"] = 9917.77,
+        ["points"] = 9917.78,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 34,
@@ -7325,11 +7325,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 33,
-        ["points"] = 9839.47,
+        ["points"] = 9839.5,
       },
       ["The Lich King"] = {
         ["kill_count"] = 31,
-        ["points"] = 9814.64,
+        ["points"] = 9814.67,
       },
     },
   },
@@ -7344,7 +7344,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 9675.64,
+        ["points"] = 9675.69,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 20,
@@ -7360,7 +7360,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 21,
-        ["points"] = 9564.99,
+        ["points"] = 9565.04,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -7372,11 +7372,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 22,
-        ["points"] = 8857.68,
+        ["points"] = 8857.84,
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 9372.27,
+        ["points"] = 9372.37,
       },
     },
   },
@@ -7391,7 +7391,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 27,
-        ["points"] = 9585.87,
+        ["points"] = 9585.93,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 27,
@@ -7407,7 +7407,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 26,
-        ["points"] = 9669.76,
+        ["points"] = 9669.81,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 26,
@@ -7419,11 +7419,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 26,
-        ["points"] = 9716.21,
+        ["points"] = 9716.25,
       },
       ["The Lich King"] = {
         ["kill_count"] = 29,
-        ["points"] = 9817.76,
+        ["points"] = 9817.79,
       },
     },
   },
@@ -7438,7 +7438,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 34,
-        ["points"] = 9756.73,
+        ["points"] = 9756.77,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 42,
@@ -7454,7 +7454,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 35,
-        ["points"] = 9782.49,
+        ["points"] = 9782.52,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 39,
@@ -7466,11 +7466,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 35,
-        ["points"] = 9819.41,
+        ["points"] = 9819.43,
       },
       ["The Lich King"] = {
         ["kill_count"] = 33,
-        ["points"] = 9492.21,
+        ["points"] = 9492.29,
       },
     },
   },
@@ -7485,7 +7485,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 9748.05,
+        ["points"] = 9748.08,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -7501,7 +7501,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 9813.0,
+        ["points"] = 9813.02,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -7513,11 +7513,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 9072.67,
+        ["points"] = 9072.8,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9277.26,
+        ["points"] = 9277.37,
       },
     },
   },
@@ -7532,7 +7532,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 34,
-        ["points"] = 9765.42,
+        ["points"] = 9765.46,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 36,
@@ -7548,7 +7548,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 36,
-        ["points"] = 9457.56,
+        ["points"] = 9457.63,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 35,
@@ -7560,11 +7560,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 36,
-        ["points"] = 9428.12,
+        ["points"] = 9428.2,
       },
       ["The Lich King"] = {
         ["kill_count"] = 33,
-        ["points"] = 9500.0,
+        ["points"] = 9500.08,
       },
     },
   },
@@ -7579,7 +7579,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 31,
-        ["points"] = 9400.52,
+        ["points"] = 9400.61,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 35,
@@ -7595,7 +7595,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 32,
-        ["points"] = 9559.68,
+        ["points"] = 9559.74,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 35,
@@ -7607,11 +7607,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 32,
-        ["points"] = 9663.18,
+        ["points"] = 9663.23,
       },
       ["The Lich King"] = {
         ["kill_count"] = 29,
-        ["points"] = 9884.74,
+        ["points"] = 9884.75,
       },
     },
   },
@@ -7626,7 +7626,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9908.77,
+        ["points"] = 9908.79,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -7642,7 +7642,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 9720.16,
+        ["points"] = 9720.2,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -7654,11 +7654,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9845.21,
+        ["points"] = 9845.23,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9915.89,
+        ["points"] = 9915.9,
       },
     },
   },
@@ -7673,7 +7673,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 19,
-        ["points"] = 9099.33,
+        ["points"] = 9099.46,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
@@ -7689,7 +7689,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 22,
-        ["points"] = 9525.2,
+        ["points"] = 9525.26,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -7705,7 +7705,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9623.05,
+        ["points"] = 9623.11,
       },
     },
   },
@@ -7720,7 +7720,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 9296.26,
+        ["points"] = 9296.37,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -7736,7 +7736,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 9932.36,
+        ["points"] = 9932.37,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -7748,11 +7748,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 9187.33,
+        ["points"] = 9187.45,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9786.6,
+        ["points"] = 9786.64,
       },
     },
   },
@@ -7767,7 +7767,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9885.61,
+        ["points"] = 9885.62,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -7783,7 +7783,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 9884.62,
+        ["points"] = 9884.63,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -7795,11 +7795,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9210.26,
+        ["points"] = 9210.38,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9939.25,
+        ["points"] = 9939.26,
       },
     },
   },
@@ -7814,7 +7814,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 29,
-        ["points"] = 9805.97,
+        ["points"] = 9805.99,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 33,
@@ -7830,7 +7830,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 29,
-        ["points"] = 9893.9,
+        ["points"] = 9893.91,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 31,
@@ -7842,11 +7842,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 28,
-        ["points"] = 9006.74,
+        ["points"] = 9006.88,
       },
       ["The Lich King"] = {
         ["kill_count"] = 35,
-        ["points"] = 9260.12,
+        ["points"] = 9260.24,
       },
     },
   },
@@ -7861,7 +7861,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 37,
-        ["points"] = 9781.35,
+        ["points"] = 9781.38,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 37,
@@ -7877,7 +7877,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 39,
-        ["points"] = 9883.29,
+        ["points"] = 9883.3,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 37,
@@ -7889,11 +7889,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 37,
-        ["points"] = 9666.05,
+        ["points"] = 9666.09,
       },
       ["The Lich King"] = {
         ["kill_count"] = 39,
-        ["points"] = 9484.42,
+        ["points"] = 9484.5,
       },
     },
   },
@@ -7908,7 +7908,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 9374.46,
+        ["points"] = 9374.55,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 18,
@@ -7924,7 +7924,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 9909.81,
+        ["points"] = 9909.83,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
@@ -7936,11 +7936,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 9647.41,
+        ["points"] = 9647.46,
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 9110.59,
+        ["points"] = 9110.73,
       },
     },
   },
@@ -7955,7 +7955,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 26,
-        ["points"] = 9338.26,
+        ["points"] = 9338.35,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 26,
@@ -7971,7 +7971,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 31,
-        ["points"] = 9668.44,
+        ["points"] = 9668.48,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 27,
@@ -7983,11 +7983,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 28,
-        ["points"] = 9352.16,
+        ["points"] = 9352.25,
       },
       ["The Lich King"] = {
         ["kill_count"] = 32,
-        ["points"] = 9791.28,
+        ["points"] = 9791.31,
       },
     },
   },
@@ -8002,7 +8002,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 9548.22,
+        ["points"] = 9548.28,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 24,
@@ -8018,7 +8018,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 23,
-        ["points"] = 9822.28,
+        ["points"] = 9822.3,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -8030,11 +8030,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 26,
-        ["points"] = 9650.28,
+        ["points"] = 9650.33,
       },
       ["The Lich King"] = {
         ["kill_count"] = 28,
-        ["points"] = 9898.75,
+        ["points"] = 9898.77,
       },
     },
   },
@@ -8049,7 +8049,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 68,
-        ["points"] = 9779.9,
+        ["points"] = 9779.93,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 70,
@@ -8065,7 +8065,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 71,
-        ["points"] = 8019.89,
+        ["points"] = 8020.16,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 69,
@@ -8077,11 +8077,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 71,
-        ["points"] = 9605.85,
+        ["points"] = 9605.9,
       },
       ["The Lich King"] = {
         ["kill_count"] = 72,
-        ["points"] = 9889.41,
+        ["points"] = 9889.43,
       },
     },
   },
@@ -8096,7 +8096,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 20,
-        ["points"] = 9158.7,
+        ["points"] = 9158.82,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -8112,7 +8112,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 21,
-        ["points"] = 9750.66,
+        ["points"] = 9750.7,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -8124,11 +8124,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 22,
-        ["points"] = 9795.04,
+        ["points"] = 9795.07,
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 9191.59,
+        ["points"] = 9191.71,
       },
     },
   },
@@ -8143,7 +8143,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 9186.21,
+        ["points"] = 9186.33,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 20,
@@ -8159,7 +8159,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 9535.81,
+        ["points"] = 9535.87,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
@@ -8171,11 +8171,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 21,
-        ["points"] = 9373.66,
+        ["points"] = 9373.75,
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 9718.07,
+        ["points"] = 9718.11,
       },
     },
   },
@@ -8190,7 +8190,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 21,
-        ["points"] = 8983.49,
+        ["points"] = 8983.64,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -8206,7 +8206,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 23,
-        ["points"] = 9770.56,
+        ["points"] = 9770.59,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 24,
@@ -8218,11 +8218,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 25,
-        ["points"] = 9810.81,
+        ["points"] = 9810.83,
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9535.83,
+        ["points"] = 9535.9,
       },
     },
   },
@@ -8237,7 +8237,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 9180.42,
+        ["points"] = 9180.54,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -8253,7 +8253,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 9237.4,
+        ["points"] = 9237.5,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -8265,11 +8265,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 9872.44,
+        ["points"] = 9872.46,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9892.52,
+        ["points"] = 9892.54,
       },
     },
   },
@@ -8284,7 +8284,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 9729.22,
+        ["points"] = 9729.26,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -8300,7 +8300,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 9,
-        ["points"] = 9657.82,
+        ["points"] = 9657.87,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -8312,11 +8312,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 9898.24,
+        ["points"] = 9898.25,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9576.32,
+        ["points"] = 9576.39,
       },
     },
   },
@@ -8331,7 +8331,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 8785.11,
+        ["points"] = 8785.29,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -8347,7 +8347,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 9620.69,
+        ["points"] = 9620.74,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -8359,16 +8359,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 9574.32,
+        ["points"] = 9574.38,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9350.47,
+        ["points"] = 9350.57,
       },
     },
   },
   ["Buzerant"] = {
-    ["percentile"] = 95.75,
+    ["percentile"] = 95.76,
     ["server"] = "Icecrown",
     ["overall_rank"] = 179,
     ["bosses"] = {
@@ -8378,7 +8378,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 50,
-        ["points"] = 9679.99,
+        ["points"] = 9680.03,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 54,
@@ -8394,7 +8394,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 50,
-        ["points"] = 9862.07,
+        ["points"] = 9862.09,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 53,
@@ -8406,11 +8406,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 49,
-        ["points"] = 8337.39,
+        ["points"] = 8337.63,
       },
       ["The Lich King"] = {
         ["kill_count"] = 49,
-        ["points"] = 9739.88,
+        ["points"] = 9739.92,
       },
     },
   },
@@ -8425,7 +8425,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 9577.18,
+        ["points"] = 9577.24,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -8441,7 +8441,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 9942.97,
+        ["points"] = 9942.98,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -8453,11 +8453,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 8368.93,
+        ["points"] = 8369.16,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9593.46,
+        ["points"] = 9593.52,
       },
     },
   },
@@ -8472,7 +8472,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 23,
-        ["points"] = 9432.38,
+        ["points"] = 9432.46,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 24,
@@ -8488,7 +8488,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 24,
-        ["points"] = 9375.33,
+        ["points"] = 9375.41,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 24,
@@ -8500,11 +8500,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 24,
-        ["points"] = 9200.23,
+        ["points"] = 9200.34,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9521.81,
+        ["points"] = 9521.88,
       },
     },
   },
@@ -8519,7 +8519,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 20,
-        ["points"] = 9170.29,
+        ["points"] = 9170.41,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
@@ -8535,7 +8535,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 9716.18,
+        ["points"] = 9716.22,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 21,
@@ -8547,11 +8547,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 20,
-        ["points"] = 9572.88,
+        ["points"] = 9572.94,
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 9433.02,
+        ["points"] = 9433.11,
       },
     },
   },
@@ -8566,7 +8566,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 32,
-        ["points"] = 9942.08,
+        ["points"] = 9942.09,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 32,
@@ -8582,7 +8582,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 33,
-        ["points"] = 9843.5,
+        ["points"] = 9843.52,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 33,
@@ -8594,11 +8594,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 32,
-        ["points"] = 9671.78,
+        ["points"] = 9671.83,
       },
       ["The Lich King"] = {
         ["kill_count"] = 30,
-        ["points"] = 9803.74,
+        ["points"] = 9803.77,
       },
     },
   },
@@ -8613,7 +8613,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 30,
-        ["points"] = 9858.09,
+        ["points"] = 9858.11,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 32,
@@ -8629,7 +8629,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 30,
-        ["points"] = 9652.52,
+        ["points"] = 9652.57,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 32,
@@ -8645,7 +8645,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 30,
-        ["points"] = 9546.73,
+        ["points"] = 9546.8,
       },
     },
   },
@@ -8676,7 +8676,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 28,
-        ["points"] = 9867.37,
+        ["points"] = 9867.39,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 32,
@@ -8688,11 +8688,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 28,
-        ["points"] = 9863.84,
+        ["points"] = 9863.86,
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 9104.36,
+        ["points"] = 9104.5,
       },
     },
   },
@@ -8707,7 +8707,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 9931.94,
+        ["points"] = 9931.95,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 24,
@@ -8723,7 +8723,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 21,
-        ["points"] = 9907.16,
+        ["points"] = 9907.17,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -8735,11 +8735,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 22,
-        ["points"] = 9648.85,
+        ["points"] = 9648.9,
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 7873.83,
+        ["points"] = 7874.16,
       },
     },
   },
@@ -8754,7 +8754,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 24,
-        ["points"] = 9517.81,
+        ["points"] = 9517.88,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 25,
@@ -8770,7 +8770,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 25,
-        ["points"] = 9419.1,
+        ["points"] = 9419.18,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 24,
@@ -8782,11 +8782,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 26,
-        ["points"] = 9333.52,
+        ["points"] = 9333.62,
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9789.72,
+        ["points"] = 9789.75,
       },
     },
   },
@@ -8801,7 +8801,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 9688.68,
+        ["points"] = 9688.72,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -8817,7 +8817,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 9794.43,
+        ["points"] = 9794.46,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -8829,11 +8829,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9534.18,
+        ["points"] = 9534.25,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9462.62,
+        ["points"] = 9462.7,
       },
     },
   },
@@ -8848,7 +8848,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 40,
-        ["points"] = 9309.3,
+        ["points"] = 9309.4,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 43,
@@ -8864,7 +8864,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 40,
-        ["points"] = 9854.11,
+        ["points"] = 9854.13,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 42,
@@ -8876,11 +8876,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 41,
-        ["points"] = 9785.01,
+        ["points"] = 9785.04,
       },
       ["The Lich King"] = {
         ["kill_count"] = 38,
-        ["points"] = 9313.08,
+        ["points"] = 9313.19,
       },
     },
   },
@@ -8895,7 +8895,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 9480.16,
+        ["points"] = 9480.24,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -8911,7 +8911,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 9814.32,
+        ["points"] = 9814.35,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -8923,11 +8923,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9888.2,
+        ["points"] = 9888.22,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9873.83,
+        ["points"] = 9873.85,
       },
     },
   },
@@ -8942,7 +8942,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 8230.52,
+        ["points"] = 8230.78,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -8958,7 +8958,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 9498.67,
+        ["points"] = 9498.74,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
@@ -8970,11 +8970,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 9640.25,
+        ["points"] = 9640.3,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9872.27,
+        ["points"] = 9872.29,
       },
     },
   },
@@ -8989,7 +8989,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 39,
-        ["points"] = 9513.47,
+        ["points"] = 9513.54,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 38,
@@ -9005,7 +9005,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 40,
-        ["points"] = 9656.5,
+        ["points"] = 9656.54,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 41,
@@ -9017,11 +9017,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 38,
-        ["points"] = 9048.3,
+        ["points"] = 9048.44,
       },
       ["The Lich King"] = {
         ["kill_count"] = 41,
-        ["points"] = 8674.45,
+        ["points"] = 8674.66,
       },
     },
   },
@@ -9036,7 +9036,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 9879.81,
+        ["points"] = 9879.83,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -9052,7 +9052,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 14,
-        ["points"] = 9816.98,
+        ["points"] = 9817.0,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -9064,11 +9064,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 8850.51,
+        ["points"] = 8850.67,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9830.22,
+        ["points"] = 9830.24,
       },
     },
   },
@@ -9083,7 +9083,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 28,
-        ["points"] = 9856.65,
+        ["points"] = 9856.67,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 29,
@@ -9099,7 +9099,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 30,
-        ["points"] = 9625.99,
+        ["points"] = 9626.04,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 29,
@@ -9111,11 +9111,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 30,
-        ["points"] = 9071.23,
+        ["points"] = 9071.37,
       },
       ["The Lich King"] = {
         ["kill_count"] = 30,
-        ["points"] = 9577.88,
+        ["points"] = 9577.95,
       },
     },
   },
@@ -9130,7 +9130,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 30,
-        ["points"] = 9865.33,
+        ["points"] = 9865.35,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 31,
@@ -9146,7 +9146,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 28,
-        ["points"] = 9749.34,
+        ["points"] = 9749.37,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 30,
@@ -9158,11 +9158,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 29,
-        ["points"] = 9499.79,
+        ["points"] = 9499.86,
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9794.39,
+        ["points"] = 9794.42,
       },
     },
   },
@@ -9177,7 +9177,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 9619.17,
+        ["points"] = 9619.23,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -9193,7 +9193,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 9392.57,
+        ["points"] = 9392.65,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
@@ -9205,11 +9205,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 20,
-        ["points"] = 9521.28,
+        ["points"] = 9521.35,
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 9042.06,
+        ["points"] = 9042.21,
       },
     },
   },
@@ -9224,7 +9224,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 35,
-        ["points"] = 9317.98,
+        ["points"] = 9318.08,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 35,
@@ -9240,7 +9240,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 37,
-        ["points"] = 9757.29,
+        ["points"] = 9757.33,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 36,
@@ -9252,11 +9252,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 34,
-        ["points"] = 9677.51,
+        ["points"] = 9677.56,
       },
       ["The Lich King"] = {
         ["kill_count"] = 36,
-        ["points"] = 9292.83,
+        ["points"] = 9292.95,
       },
     },
   },
@@ -9271,7 +9271,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 25,
-        ["points"] = 9458.44,
+        ["points"] = 9458.52,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 26,
@@ -9287,7 +9287,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 27,
-        ["points"] = 9461.54,
+        ["points"] = 9461.61,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 27,
@@ -9299,11 +9299,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 26,
-        ["points"] = 9617.31,
+        ["points"] = 9617.37,
       },
       ["The Lich King"] = {
         ["kill_count"] = 29,
-        ["points"] = 9619.94,
+        ["points"] = 9620.0,
       },
     },
   },
@@ -9318,7 +9318,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 9022.59,
+        ["points"] = 9022.73,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -9334,7 +9334,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 9880.64,
+        ["points"] = 9880.65,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -9346,11 +9346,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 9862.41,
+        ["points"] = 9862.42,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9852.02,
+        ["points"] = 9852.05,
       },
     },
   },
@@ -9365,7 +9365,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 27,
-        ["points"] = 9446.86,
+        ["points"] = 9446.94,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 28,
@@ -9381,7 +9381,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 26,
-        ["points"] = 9092.84,
+        ["points"] = 9092.96,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 27,
@@ -9393,11 +9393,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 27,
-        ["points"] = 9737.71,
+        ["points"] = 9737.75,
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9714.95,
+        ["points"] = 9715.0,
       },
     },
   },
@@ -9412,7 +9412,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 9258.62,
+        ["points"] = 9258.72,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -9428,7 +9428,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 9859.42,
+        ["points"] = 9859.44,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -9440,11 +9440,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 9485.45,
+        ["points"] = 9485.53,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 8892.52,
+        ["points"] = 8892.7,
       },
     },
   },
@@ -9459,7 +9459,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 21,
-        ["points"] = 9565.6,
+        ["points"] = 9565.66,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 33,
@@ -9475,7 +9475,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 22,
-        ["points"] = 9710.88,
+        ["points"] = 9710.91,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 31,
@@ -9487,11 +9487,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 9809.37,
+        ["points"] = 9809.4,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 7828.66,
+        ["points"] = 7829.0,
       },
     },
   },
@@ -9506,7 +9506,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 41,
-        ["points"] = 9882.71,
+        ["points"] = 9882.73,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 41,
@@ -9522,7 +9522,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 38,
-        ["points"] = 9624.67,
+        ["points"] = 9624.72,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 40,
@@ -9534,11 +9534,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 38,
-        ["points"] = 9984.23,
+        ["points"] = 9984.24,
       },
       ["The Lich King"] = {
         ["kill_count"] = 38,
-        ["points"] = 9070.09,
+        ["points"] = 9070.24,
       },
     },
   },
@@ -9553,7 +9553,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 9800.17,
+        ["points"] = 9800.2,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -9569,7 +9569,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 9823.61,
+        ["points"] = 9823.63,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -9581,11 +9581,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9224.6,
+        ["points"] = 9224.71,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9598.13,
+        ["points"] = 9598.19,
       },
     },
   },
@@ -9600,7 +9600,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9862.44,
+        ["points"] = 9862.46,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -9616,7 +9616,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 9590.19,
+        ["points"] = 9590.24,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -9628,11 +9628,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 9549.95,
+        ["points"] = 9550.01,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9839.56,
+        ["points"] = 9839.59,
       },
     },
   },
@@ -9647,7 +9647,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 28,
-        ["points"] = 9617.72,
+        ["points"] = 9617.78,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 29,
@@ -9663,7 +9663,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 30,
-        ["points"] = 9931.03,
+        ["points"] = 9931.04,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 29,
@@ -9675,11 +9675,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 29,
-        ["points"] = 9651.71,
+        ["points"] = 9651.76,
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 9605.92,
+        ["points"] = 9605.98,
       },
     },
   },
@@ -9694,7 +9694,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 9763.97,
+        ["points"] = 9764.01,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -9710,7 +9710,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 14,
-        ["points"] = 9799.73,
+        ["points"] = 9799.76,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -9722,11 +9722,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 9023.94,
+        ["points"] = 9024.08,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 8716.51,
+        ["points"] = 8716.71,
       },
     },
   },
@@ -9741,7 +9741,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 37,
-        ["points"] = 9727.77,
+        ["points"] = 9727.81,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 41,
@@ -9757,7 +9757,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 40,
-        ["points"] = 9728.12,
+        ["points"] = 9728.15,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 41,
@@ -9769,11 +9769,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 41,
-        ["points"] = 8970.9,
+        ["points"] = 8971.05,
       },
       ["The Lich King"] = {
         ["kill_count"] = 39,
-        ["points"] = 8995.33,
+        ["points"] = 8995.48,
       },
     },
   },
@@ -9788,7 +9788,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 32,
-        ["points"] = 9843.61,
+        ["points"] = 9843.64,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 33,
@@ -9804,7 +9804,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 35,
-        ["points"] = 9541.11,
+        ["points"] = 9541.17,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 35,
@@ -9816,11 +9816,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 33,
-        ["points"] = 8545.22,
+        ["points"] = 8545.43,
       },
       ["The Lich King"] = {
         ["kill_count"] = 33,
-        ["points"] = 9118.38,
+        ["points"] = 9118.52,
       },
     },
   },
@@ -9835,7 +9835,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 9105.13,
+        ["points"] = 9105.26,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -9851,7 +9851,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 9,
-        ["points"] = 9602.12,
+        ["points"] = 9602.17,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -9863,11 +9863,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 9193.06,
+        ["points"] = 9193.18,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9157.32,
+        ["points"] = 9157.45,
       },
     },
   },
@@ -9882,7 +9882,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 9294.82,
+        ["points"] = 9294.92,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -9898,7 +9898,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 17,
-        ["points"] = 9649.87,
+        ["points"] = 9649.91,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -9910,11 +9910,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 8741.58,
+        ["points"] = 8741.76,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9560.75,
+        ["points"] = 9560.82,
       },
     },
   },
@@ -9929,7 +9929,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 9836.37,
+        ["points"] = 9836.4,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -9945,7 +9945,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 9644.56,
+        ["points"] = 9644.61,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -9957,11 +9957,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 9852.37,
+        ["points"] = 9852.39,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9425.23,
+        ["points"] = 9425.32,
       },
     },
   },
@@ -9976,7 +9976,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 28,
-        ["points"] = 9771.21,
+        ["points"] = 9771.25,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 28,
@@ -9992,7 +9992,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 27,
-        ["points"] = 9529.18,
+        ["points"] = 9529.24,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 27,
@@ -10004,11 +10004,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 28,
-        ["points"] = 9688.98,
+        ["points"] = 9689.02,
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 9476.64,
+        ["points"] = 9476.72,
       },
     },
   },
@@ -10023,7 +10023,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 9478.71,
+        ["points"] = 9478.79,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -10039,7 +10039,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 9595.49,
+        ["points"] = 9595.54,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -10051,11 +10051,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 9173.0,
+        ["points"] = 9173.12,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9788.16,
+        ["points"] = 9788.19,
       },
     },
   },
@@ -10070,7 +10070,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 23,
-        ["points"] = 9604.69,
+        ["points"] = 9604.75,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 26,
@@ -10086,7 +10086,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 20,
-        ["points"] = 9293.1,
+        ["points"] = 9293.2,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 24,
@@ -10098,11 +10098,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 22,
-        ["points"] = 9911.14,
+        ["points"] = 9911.15,
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 9548.29,
+        ["points"] = 9548.36,
       },
     },
   },
@@ -10117,7 +10117,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 24,
-        ["points"] = 9168.84,
+        ["points"] = 9168.96,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 32,
@@ -10133,7 +10133,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 26,
-        ["points"] = 9736.07,
+        ["points"] = 9736.11,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 33,
@@ -10145,11 +10145,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 26,
-        ["points"] = 9885.34,
+        ["points"] = 9885.35,
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 9084.11,
+        ["points"] = 9084.25,
       },
     },
   },
@@ -10164,7 +10164,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 9956.56,
+        ["points"] = 9956.57,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 20,
@@ -10180,7 +10180,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 9697.61,
+        ["points"] = 9697.65,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
@@ -10192,11 +10192,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 9369.36,
+        ["points"] = 9369.45,
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 9133.96,
+        ["points"] = 9134.09,
       },
     },
   },
@@ -10211,7 +10211,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 9868.23,
+        ["points"] = 9868.25,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 22,
@@ -10227,7 +10227,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 25,
-        ["points"] = 9648.54,
+        ["points"] = 9648.59,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 25,
@@ -10239,11 +10239,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 25,
-        ["points"] = 9571.45,
+        ["points"] = 9571.51,
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 9711.84,
+        ["points"] = 9711.88,
       },
     },
   },
@@ -10258,7 +10258,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 9572.84,
+        ["points"] = 9572.9,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 18,
@@ -10274,7 +10274,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 17,
-        ["points"] = 9120.69,
+        ["points"] = 9120.81,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
@@ -10286,11 +10286,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 9684.68,
+        ["points"] = 9684.72,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8925.23,
+        ["points"] = 8925.4,
       },
     },
   },
@@ -10305,7 +10305,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 25,
-        ["points"] = 9653.92,
+        ["points"] = 9653.97,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 27,
@@ -10321,7 +10321,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 24,
-        ["points"] = 8935.01,
+        ["points"] = 8935.15,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 25,
@@ -10333,11 +10333,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 24,
-        ["points"] = 9339.26,
+        ["points"] = 9339.35,
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 9520.25,
+        ["points"] = 9520.32,
       },
     },
   },
@@ -10352,7 +10352,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 8714.16,
+        ["points"] = 8714.35,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -10368,7 +10368,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 9801.06,
+        ["points"] = 9801.09,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
@@ -10380,11 +10380,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9570.02,
+        ["points"] = 9570.08,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9266.36,
+        ["points"] = 9266.47,
       },
     },
   },
@@ -10399,7 +10399,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 32,
-        ["points"] = 9461.34,
+        ["points"] = 9461.42,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 36,
@@ -10415,7 +10415,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 34,
-        ["points"] = 9435.01,
+        ["points"] = 9435.09,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 33,
@@ -10427,11 +10427,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 34,
-        ["points"] = 9848.07,
+        ["points"] = 9848.09,
       },
       ["The Lich King"] = {
         ["kill_count"] = 32,
-        ["points"] = 8788.16,
+        ["points"] = 8788.35,
       },
     },
   },
@@ -10446,7 +10446,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 21,
-        ["points"] = 9791.49,
+        ["points"] = 9791.52,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
@@ -10462,7 +10462,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 21,
-        ["points"] = 9718.83,
+        ["points"] = 9718.87,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 21,
@@ -10474,11 +10474,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 21,
-        ["points"] = 9739.14,
+        ["points"] = 9739.18,
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 9461.06,
+        ["points"] = 9461.14,
       },
     },
   },
@@ -10493,7 +10493,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 37,
-        ["points"] = 8715.61,
+        ["points"] = 8715.8,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 37,
@@ -10509,7 +10509,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 39,
-        ["points"] = 9637.93,
+        ["points"] = 9637.98,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 39,
@@ -10521,11 +10521,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 36,
-        ["points"] = 8912.14,
+        ["points"] = 8912.3,
       },
       ["The Lich King"] = {
         ["kill_count"] = 40,
-        ["points"] = 9185.36,
+        ["points"] = 9185.49,
       },
     },
   },
@@ -10540,7 +10540,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 19,
-        ["points"] = 9399.07,
+        ["points"] = 9399.16,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
@@ -10556,7 +10556,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 17,
-        ["points"] = 9773.21,
+        ["points"] = 9773.24,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
@@ -10568,11 +10568,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 9481.15,
+        ["points"] = 9481.23,
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 8718.07,
+        ["points"] = 8718.27,
       },
     },
   },
@@ -10587,7 +10587,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 9603.24,
+        ["points"] = 9603.3,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 26,
@@ -10603,7 +10603,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 24,
-        ["points"] = 9836.87,
+        ["points"] = 9836.89,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 26,
@@ -10615,11 +10615,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 23,
-        ["points"] = 9162.96,
+        ["points"] = 9163.08,
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 9579.44,
+        ["points"] = 9579.5,
       },
     },
   },
@@ -10634,7 +10634,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 9474.37,
+        ["points"] = 9474.45,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -10650,7 +10650,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 18,
-        ["points"] = 9734.75,
+        ["points"] = 9734.78,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
@@ -10662,11 +10662,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 9297.69,
+        ["points"] = 9297.79,
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 9626.17,
+        ["points"] = 9626.23,
       },
     },
   },
@@ -10681,7 +10681,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 42,
-        ["points"] = 9529.39,
+        ["points"] = 9529.46,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 45,
@@ -10697,7 +10697,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 50,
-        ["points"] = 9403.18,
+        ["points"] = 9403.26,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 48,
@@ -10709,11 +10709,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 49,
-        ["points"] = 9422.39,
+        ["points"] = 9422.47,
       },
       ["The Lich King"] = {
         ["kill_count"] = 57,
-        ["points"] = 9269.47,
+        ["points"] = 9269.58,
       },
     },
   },
@@ -10728,7 +10728,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 25,
-        ["points"] = 9969.59,
+        ["points"] = 9969.6,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 25,
@@ -10744,7 +10744,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 25,
-        ["points"] = 9892.57,
+        ["points"] = 9892.59,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 25,
@@ -10756,11 +10756,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 24,
-        ["points"] = 9914.0,
+        ["points"] = 9914.02,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 8948.6,
+        ["points"] = 8948.76,
       },
     },
   },
@@ -10775,7 +10775,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 28,
-        ["points"] = 9622.07,
+        ["points"] = 9622.12,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 29,
@@ -10791,7 +10791,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 30,
-        ["points"] = 9298.41,
+        ["points"] = 9298.5,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 31,
@@ -10803,11 +10803,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 30,
-        ["points"] = 9140.03,
+        ["points"] = 9140.15,
       },
       ["The Lich King"] = {
         ["kill_count"] = 30,
-        ["points"] = 9471.96,
+        ["points"] = 9472.04,
       },
     },
   },
@@ -10822,7 +10822,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 34,
-        ["points"] = 9426.59,
+        ["points"] = 9426.67,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 35,
@@ -10838,7 +10838,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 39,
-        ["points"] = 9582.23,
+        ["points"] = 9582.28,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 37,
@@ -10850,11 +10850,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 38,
-        ["points"] = 9979.93,
+        ["points"] = 9979.94,
       },
       ["The Lich King"] = {
         ["kill_count"] = 42,
-        ["points"] = 9470.4,
+        ["points"] = 9470.49,
       },
     },
   },
@@ -10869,7 +10869,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 9312.19,
+        ["points"] = 9312.29,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -10885,7 +10885,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 18,
-        ["points"] = 9769.23,
+        ["points"] = 9769.26,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
@@ -10897,11 +10897,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 9544.22,
+        ["points"] = 9544.28,
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 9700.93,
+        ["points"] = 9700.98,
       },
     },
   },
@@ -10916,7 +10916,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 23,
-        ["points"] = 9477.27,
+        ["points"] = 9477.34,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -10932,7 +10932,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 25,
-        ["points"] = 9208.22,
+        ["points"] = 9208.33,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 24,
@@ -10944,11 +10944,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 24,
-        ["points"] = 9330.66,
+        ["points"] = 9330.75,
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9573.21,
+        ["points"] = 9573.28,
       },
     },
   },
@@ -10963,7 +10963,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 9761.08,
+        ["points"] = 9761.11,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -10979,7 +10979,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 9238.73,
+        ["points"] = 9238.83,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -10991,11 +10991,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 9766.38,
+        ["points"] = 9766.41,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 8772.59,
+        ["points"] = 8772.78,
       },
     },
   },
@@ -11010,7 +11010,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 33,
-        ["points"] = 9684.33,
+        ["points"] = 9684.38,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 36,
@@ -11026,7 +11026,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 33,
-        ["points"] = 9568.97,
+        ["points"] = 9569.02,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 36,
@@ -11038,11 +11038,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 34,
-        ["points"] = 9522.72,
+        ["points"] = 9522.79,
       },
       ["The Lich King"] = {
         ["kill_count"] = 35,
-        ["points"] = 9009.35,
+        ["points"] = 9009.5,
       },
     },
   },
@@ -11057,7 +11057,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 9561.25,
+        ["points"] = 9561.31,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 22,
@@ -11073,7 +11073,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 9809.02,
+        ["points"] = 9809.04,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -11085,16 +11085,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 21,
-        ["points"] = 9088.43,
+        ["points"] = 9088.56,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9204.05,
+        ["points"] = 9204.17,
       },
     },
   },
   ["Lexye"] = {
-    ["percentile"] = 94.79,
+    ["percentile"] = 94.8,
     ["server"] = "Icecrown",
     ["overall_rank"] = 237,
     ["bosses"] = {
@@ -11104,7 +11104,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 9638.0,
+        ["points"] = 9638.05,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 18,
@@ -11120,7 +11120,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 9442.97,
+        ["points"] = 9443.04,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
@@ -11132,11 +11132,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 9742.01,
+        ["points"] = 9742.05,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8549.84,
+        ["points"] = 8550.07,
       },
     },
   },
@@ -11151,7 +11151,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 27,
-        ["points"] = 9726.32,
+        ["points"] = 9726.36,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 29,
@@ -11167,7 +11167,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 28,
-        ["points"] = 9322.28,
+        ["points"] = 9322.37,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 28,
@@ -11179,11 +11179,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 29,
-        ["points"] = 8894.94,
+        ["points"] = 8895.1,
       },
       ["The Lich King"] = {
         ["kill_count"] = 32,
-        ["points"] = 9437.69,
+        ["points"] = 9437.78,
       },
     },
   },
@@ -11198,7 +11198,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 38,
-        ["points"] = 8805.39,
+        ["points"] = 8805.56,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 40,
@@ -11214,7 +11214,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 38,
-        ["points"] = 9557.03,
+        ["points"] = 9557.09,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 40,
@@ -11226,11 +11226,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 38,
-        ["points"] = 9376.52,
+        ["points"] = 9376.61,
       },
       ["The Lich King"] = {
         ["kill_count"] = 37,
-        ["points"] = 9403.43,
+        ["points"] = 9403.52,
       },
     },
   },
@@ -11245,7 +11245,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 9713.29,
+        ["points"] = 9713.33,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 18,
@@ -11261,7 +11261,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 18,
-        ["points"] = 9122.02,
+        ["points"] = 9122.13,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
@@ -11273,7 +11273,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 9661.75,
+        ["points"] = 9661.79,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
@@ -11292,7 +11292,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 9194.9,
+        ["points"] = 9195.02,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -11308,7 +11308,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 9721.49,
+        ["points"] = 9721.52,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -11320,11 +11320,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 9720.51,
+        ["points"] = 9720.55,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9883.18,
+        ["points"] = 9883.2,
       },
     },
   },
@@ -11339,7 +11339,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 42,
-        ["points"] = 9916.02,
+        ["points"] = 9916.03,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 43,
@@ -11355,7 +11355,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 44,
-        ["points"] = 9732.1,
+        ["points"] = 9732.13,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 44,
@@ -11367,11 +11367,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 42,
-        ["points"] = 9233.19,
+        ["points"] = 9233.3,
       },
       ["The Lich King"] = {
         ["kill_count"] = 42,
-        ["points"] = 9165.11,
+        ["points"] = 9165.24,
       },
     },
   },
@@ -11386,7 +11386,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 8961.77,
+        ["points"] = 8961.92,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
@@ -11402,7 +11402,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 20,
-        ["points"] = 9729.44,
+        ["points"] = 9729.48,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -11414,11 +11414,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 22,
-        ["points"] = 9667.48,
+        ["points"] = 9667.53,
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 9668.22,
+        ["points"] = 9668.28,
       },
     },
   },
@@ -11433,7 +11433,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 9509.12,
+        ["points"] = 9509.19,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -11449,7 +11449,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 9665.78,
+        ["points"] = 9665.83,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -11461,11 +11461,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 9707.61,
+        ["points"] = 9707.65,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9733.64,
+        ["points"] = 9733.69,
       },
     },
   },
@@ -11480,7 +11480,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 9205.04,
+        ["points"] = 9205.15,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
@@ -11496,7 +11496,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 18,
-        ["points"] = 9549.07,
+        ["points"] = 9549.13,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 21,
@@ -11508,11 +11508,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 9078.4,
+        ["points"] = 9078.53,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8953.27,
+        ["points"] = 8953.43,
       },
     },
   },
@@ -11527,7 +11527,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 8554.88,
+        ["points"] = 8555.09,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -11543,7 +11543,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 9108.75,
+        ["points"] = 9108.87,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -11555,11 +11555,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 9484.02,
+        ["points"] = 9484.09,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9693.15,
+        ["points"] = 9693.19,
       },
     },
   },
@@ -11574,7 +11574,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 9845.06,
+        ["points"] = 9845.08,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -11590,7 +11590,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 9567.64,
+        ["points"] = 9567.7,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -11602,11 +11602,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 9324.92,
+        ["points"] = 9325.02,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9604.36,
+        ["points"] = 9604.42,
       },
     },
   },
@@ -11621,7 +11621,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 25,
-        ["points"] = 8311.61,
+        ["points"] = 8311.86,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 44,
@@ -11637,7 +11637,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 25,
-        ["points"] = 9339.52,
+        ["points"] = 9339.61,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 38,
@@ -11649,11 +11649,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 22,
-        ["points"] = 9132.87,
+        ["points"] = 9132.99,
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 9644.86,
+        ["points"] = 9644.92,
       },
     },
   },
@@ -11668,7 +11668,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 27,
-        ["points"] = 9539.53,
+        ["points"] = 9539.6,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 27,
@@ -11684,7 +11684,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 28,
-        ["points"] = 9453.58,
+        ["points"] = 9453.65,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 28,
@@ -11696,11 +11696,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 27,
-        ["points"] = 9380.82,
+        ["points"] = 9380.91,
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 9777.26,
+        ["points"] = 9777.29,
       },
     },
   },
@@ -11762,7 +11762,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 50,
-        ["points"] = 9110.92,
+        ["points"] = 9111.05,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 50,
@@ -11778,7 +11778,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 50,
-        ["points"] = 9248.01,
+        ["points"] = 9248.11,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 50,
@@ -11790,11 +11790,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 49,
-        ["points"] = 9501.22,
+        ["points"] = 9501.29,
       },
       ["The Lich King"] = {
         ["kill_count"] = 49,
-        ["points"] = 8607.48,
+        ["points"] = 8607.69,
       },
     },
   },
@@ -11809,7 +11809,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 8572.26,
+        ["points"] = 8572.46,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -11825,7 +11825,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 9571.62,
+        ["points"] = 9571.67,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
@@ -11837,11 +11837,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 8889.21,
+        ["points"] = 8889.37,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9797.51,
+        ["points"] = 9797.54,
       },
     },
   },
@@ -11856,7 +11856,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9593.11,
+        ["points"] = 9593.17,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -11872,7 +11872,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 9850.13,
+        ["points"] = 9850.15,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -11884,11 +11884,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9294.83,
+        ["points"] = 9294.93,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8987.54,
+        ["points"] = 8987.7,
       },
     },
   },
@@ -11903,7 +11903,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 9262.96,
+        ["points"] = 9263.07,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -11919,7 +11919,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 9667.11,
+        ["points"] = 9667.15,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
@@ -11931,16 +11931,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 21,
-        ["points"] = 9901.1,
+        ["points"] = 9901.12,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9897.2,
+        ["points"] = 9897.21,
       },
     },
   },
   ["Jebacreborn"] = {
-    ["percentile"] = 94.54,
+    ["percentile"] = 94.55,
     ["server"] = "Icecrown",
     ["overall_rank"] = 255,
     ["bosses"] = {
@@ -11950,7 +11950,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 9596.0,
+        ["points"] = 9596.06,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -11966,7 +11966,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 9107.43,
+        ["points"] = 9107.55,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -11978,11 +11978,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9069.8,
+        ["points"] = 9069.93,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8647.98,
+        ["points"] = 8648.19,
       },
     },
   },
@@ -11997,7 +11997,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 8945.84,
+        ["points"] = 8946.0,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 20,
@@ -12013,7 +12013,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 9396.55,
+        ["points"] = 9396.63,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -12025,11 +12025,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 9512.68,
+        ["points"] = 9512.75,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9400.31,
+        ["points"] = 9400.4,
       },
     },
   },
@@ -12044,7 +12044,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 9310.74,
+        ["points"] = 9310.84,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -12060,7 +12060,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 9713.53,
+        ["points"] = 9713.57,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -12072,11 +12072,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 9359.32,
+        ["points"] = 9359.42,
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 9375.39,
+        ["points"] = 9375.49,
       },
     },
   },
@@ -12091,7 +12091,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 9708.95,
+        ["points"] = 9708.99,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -12107,7 +12107,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 9746.68,
+        ["points"] = 9746.72,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -12119,11 +12119,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 8738.71,
+        ["points"] = 8738.89,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9447.04,
+        ["points"] = 9447.13,
       },
     },
   },
@@ -12138,7 +12138,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 21,
-        ["points"] = 8895.16,
+        ["points"] = 8895.32,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -12154,7 +12154,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 22,
-        ["points"] = 9250.66,
+        ["points"] = 9250.76,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -12166,11 +12166,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 21,
-        ["points"] = 9805.07,
+        ["points"] = 9805.1,
       },
       ["The Lich King"] = {
         ["kill_count"] = 28,
-        ["points"] = 9933.02,
+        ["points"] = 9933.03,
       },
     },
   },
@@ -12185,7 +12185,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 31,
-        ["points"] = 9401.97,
+        ["points"] = 9402.06,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 31,
@@ -12201,7 +12201,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 30,
-        ["points"] = 9712.2,
+        ["points"] = 9712.24,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 28,
@@ -12213,11 +12213,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 28,
-        ["points"] = 8409.06,
+        ["points"] = 8409.29,
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 9369.16,
+        ["points"] = 9369.26,
       },
     },
   },
@@ -12232,7 +12232,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 41,
-        ["points"] = 9923.26,
+        ["points"] = 9923.27,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 42,
@@ -12248,7 +12248,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 44,
-        ["points"] = 8007.96,
+        ["points"] = 8008.22,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 44,
@@ -12260,11 +12260,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 43,
-        ["points"] = 9476.85,
+        ["points"] = 9476.93,
       },
       ["The Lich King"] = {
         ["kill_count"] = 45,
-        ["points"] = 9543.61,
+        ["points"] = 9543.68,
       },
     },
   },
@@ -12279,7 +12279,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 9147.12,
+        ["points"] = 9147.24,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -12295,7 +12295,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 9313.0,
+        ["points"] = 9313.09,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -12307,11 +12307,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9736.28,
+        ["points"] = 9736.31,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9607.48,
+        ["points"] = 9607.54,
       },
     },
   },
@@ -12326,7 +12326,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 8666.38,
+        ["points"] = 8666.57,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -12342,7 +12342,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 9067.64,
+        ["points"] = 9067.76,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -12354,7 +12354,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9472.55,
+        ["points"] = 9472.63,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
@@ -12373,7 +12373,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 19,
-        ["points"] = 8735.88,
+        ["points"] = 8736.06,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 26,
@@ -12389,7 +12389,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 23,
-        ["points"] = 8927.06,
+        ["points"] = 8927.2,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 27,
@@ -12401,11 +12401,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 22,
-        ["points"] = 9929.77,
+        ["points"] = 9929.78,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9087.23,
+        ["points"] = 9087.37,
       },
     },
   },
@@ -12420,7 +12420,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 20,
-        ["points"] = 9750.94,
+        ["points"] = 9750.98,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
@@ -12436,7 +12436,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 20,
-        ["points"] = 9627.32,
+        ["points"] = 9627.37,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 21,
@@ -12448,11 +12448,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 22,
-        ["points"] = 9205.96,
+        ["points"] = 9206.08,
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 9661.99,
+        ["points"] = 9662.05,
       },
     },
   },
@@ -12467,7 +12467,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 23,
-        ["points"] = 9299.16,
+        ["points"] = 9299.26,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -12483,7 +12483,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 23,
-        ["points"] = 9485.41,
+        ["points"] = 9485.48,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -12495,11 +12495,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 23,
-        ["points"] = 8047.87,
+        ["points"] = 8048.15,
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 9495.33,
+        ["points"] = 9495.41,
       },
     },
   },
@@ -12514,7 +12514,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 20,
-        ["points"] = 9700.26,
+        ["points"] = 9700.3,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
@@ -12530,7 +12530,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 23,
-        ["points"] = 9537.14,
+        ["points"] = 9537.2,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -12542,11 +12542,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 22,
-        ["points"] = 9392.29,
+        ["points"] = 9392.38,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 8389.41,
+        ["points"] = 8389.66,
       },
     },
   },
@@ -12561,7 +12561,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 9609.04,
+        ["points"] = 9609.09,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -12577,7 +12577,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 3,
-        ["points"] = 9282.49,
+        ["points"] = 9282.59,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
@@ -12589,11 +12589,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9244.66,
+        ["points"] = 9244.77,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 9327.1,
+        ["points"] = 9327.21,
       },
     },
   },
@@ -12608,7 +12608,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 35,
-        ["points"] = 9245.58,
+        ["points"] = 9245.69,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 35,
@@ -12624,7 +12624,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 36,
-        ["points"] = 9436.34,
+        ["points"] = 9436.41,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 34,
@@ -12636,11 +12636,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 36,
-        ["points"] = 9293.39,
+        ["points"] = 9293.49,
       },
       ["The Lich King"] = {
         ["kill_count"] = 37,
-        ["points"] = 9504.67,
+        ["points"] = 9504.75,
       },
     },
   },
@@ -12655,7 +12655,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 26,
-        ["points"] = 9674.2,
+        ["points"] = 9674.24,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 25,
@@ -12671,7 +12671,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 26,
-        ["points"] = 9123.34,
+        ["points"] = 9123.46,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 28,
@@ -12683,11 +12683,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 31,
-        ["points"] = 9601.55,
+        ["points"] = 9601.61,
       },
       ["The Lich King"] = {
         ["kill_count"] = 30,
-        ["points"] = 8934.58,
+        ["points"] = 8934.75,
       },
     },
   },
@@ -12702,7 +12702,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 9784.25,
+        ["points"] = 9784.28,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -12718,7 +12718,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 9820.95,
+        ["points"] = 9820.98,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -12730,11 +12730,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 9740.58,
+        ["points"] = 9740.61,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9261.68,
+        ["points"] = 9261.8,
       },
     },
   },
@@ -12765,7 +12765,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 32,
-        ["points"] = 9748.01,
+        ["points"] = 9748.04,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 37,
@@ -12777,11 +12777,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 21,
-        ["points"] = 9313.46,
+        ["points"] = 9313.56,
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 9085.67,
+        ["points"] = 9085.81,
       },
     },
   },
@@ -12796,7 +12796,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 7710.69,
+        ["points"] = 7711.02,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -12812,7 +12812,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 9781.17,
+        ["points"] = 9781.2,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -12824,11 +12824,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9871.0,
+        ["points"] = 9871.02,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9341.12,
+        ["points"] = 9341.22,
       },
     },
   },
@@ -12843,7 +12843,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 20,
-        ["points"] = 8698.23,
+        ["points"] = 8698.42,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
@@ -12859,7 +12859,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 22,
-        ["points"] = 9596.82,
+        ["points"] = 9596.87,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -12871,11 +12871,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 21,
-        ["points"] = 9673.21,
+        ["points"] = 9673.26,
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 9518.69,
+        ["points"] = 9518.77,
       },
     },
   },
@@ -12890,7 +12890,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 9569.94,
+        ["points"] = 9570.0,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -12906,7 +12906,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 9338.2,
+        ["points"] = 9338.28,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -12918,11 +12918,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 9183.03,
+        ["points"] = 9183.15,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 8864.49,
+        ["points"] = 8864.66,
       },
     },
   },
@@ -12937,7 +12937,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 8686.65,
+        ["points"] = 8686.84,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 18,
@@ -12953,7 +12953,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 18,
-        ["points"] = 8973.47,
+        ["points"] = 8973.61,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
@@ -12965,16 +12965,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 9613.01,
+        ["points"] = 9613.07,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9721.18,
+        ["points"] = 9721.23,
       },
     },
   },
   ["Ardymvp"] = {
-    ["percentile"] = 94.23,
+    ["percentile"] = 94.24,
     ["server"] = "Icecrown",
     ["overall_rank"] = 277,
     ["bosses"] = {
@@ -12984,7 +12984,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 42,
-        ["points"] = 9409.21,
+        ["points"] = 9409.29,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 44,
@@ -13000,7 +13000,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 44,
-        ["points"] = 9354.11,
+        ["points"] = 9354.2,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 45,
@@ -13012,11 +13012,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 44,
-        ["points"] = 8907.84,
+        ["points"] = 8908.0,
       },
       ["The Lich King"] = {
         ["kill_count"] = 44,
-        ["points"] = 9422.12,
+        ["points"] = 9422.21,
       },
     },
   },
@@ -13031,7 +13031,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9333.91,
+        ["points"] = 9334.01,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -13047,7 +13047,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 9651.19,
+        ["points"] = 9651.24,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -13059,11 +13059,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 9471.12,
+        ["points"] = 9471.2,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9376.95,
+        ["points"] = 9377.04,
       },
     },
   },
@@ -13078,7 +13078,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 9265.86,
+        ["points"] = 9265.96,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -13094,7 +13094,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 9,
-        ["points"] = 9415.12,
+        ["points"] = 9415.2,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -13106,11 +13106,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9654.58,
+        ["points"] = 9654.63,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9538.94,
+        ["points"] = 9539.01,
       },
     },
   },
@@ -13125,7 +13125,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 8214.6,
+        ["points"] = 8214.85,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -13141,7 +13141,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 9761.27,
+        ["points"] = 9761.3,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -13153,11 +13153,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9922.6,
+        ["points"] = 9922.61,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8870.72,
+        ["points"] = 8870.89,
       },
     },
   },
@@ -13172,7 +13172,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 27,
-        ["points"] = 9393.28,
+        ["points"] = 9393.37,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 35,
@@ -13188,7 +13188,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 28,
-        ["points"] = 8612.73,
+        ["points"] = 8612.92,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 33,
@@ -13200,11 +13200,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 23,
-        ["points"] = 9812.24,
+        ["points"] = 9812.27,
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 9317.76,
+        ["points"] = 9317.86,
       },
     },
   },
@@ -13219,7 +13219,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 21,
-        ["points"] = 8757.6,
+        ["points"] = 8757.78,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 31,
@@ -13235,7 +13235,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 22,
-        ["points"] = 9198.94,
+        ["points"] = 9199.05,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 30,
@@ -13247,11 +13247,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 22,
-        ["points"] = 9317.76,
+        ["points"] = 9317.86,
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 8828.66,
+        ["points"] = 8828.84,
       },
     },
   },
@@ -13266,7 +13266,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 46,
-        ["points"] = 9441.07,
+        ["points"] = 9441.15,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 49,
@@ -13282,7 +13282,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 40,
-        ["points"] = 9860.74,
+        ["points"] = 9860.76,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 47,
@@ -13294,11 +13294,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 43,
-        ["points"] = 8503.65,
+        ["points"] = 8503.87,
       },
       ["The Lich King"] = {
         ["kill_count"] = 44,
-        ["points"] = 8872.27,
+        ["points"] = 8872.45,
       },
     },
   },
@@ -13313,7 +13313,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 9860.99,
+        ["points"] = 9861.01,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 28,
@@ -13329,7 +13329,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 21,
-        ["points"] = 9438.99,
+        ["points"] = 9439.07,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 28,
@@ -13341,11 +13341,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 9641.68,
+        ["points"] = 9641.73,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9074.77,
+        ["points"] = 9074.91,
       },
     },
   },
@@ -13360,7 +13360,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 9792.93,
+        ["points"] = 9792.96,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -13376,7 +13376,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 25,
-        ["points"] = 9476.13,
+        ["points"] = 9476.2,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 25,
@@ -13388,11 +13388,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 24,
-        ["points"] = 9509.82,
+        ["points"] = 9509.89,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9280.37,
+        ["points"] = 9280.49,
       },
     },
   },
@@ -13407,7 +13407,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 9651.03,
+        ["points"] = 9651.08,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -13423,7 +13423,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 9846.15,
+        ["points"] = 9846.17,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -13435,11 +13435,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 8641.25,
+        ["points"] = 8641.44,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 9753.89,
+        ["points"] = 9753.93,
       },
     },
   },
@@ -13454,7 +13454,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 21,
-        ["points"] = 9485.95,
+        ["points"] = 9486.03,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
@@ -13470,7 +13470,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 22,
-        ["points"] = 9632.63,
+        ["points"] = 9632.67,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -13482,11 +13482,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 21,
-        ["points"] = 8917.87,
+        ["points"] = 8918.03,
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 9878.5,
+        ["points"] = 9878.52,
       },
     },
   },
@@ -13501,7 +13501,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 8744.57,
+        ["points"] = 8744.75,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -13517,7 +13517,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 9014.59,
+        ["points"] = 9014.72,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -13529,11 +13529,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 9514.12,
+        ["points"] = 9514.19,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9774.14,
+        ["points"] = 9774.18,
       },
     },
   },
@@ -13564,7 +13564,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 8969.5,
+        ["points"] = 8969.63,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
@@ -13576,11 +13576,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 20,
-        ["points"] = 9719.08,
+        ["points"] = 9719.12,
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 9481.31,
+        ["points"] = 9481.39,
       },
     },
   },
@@ -13595,7 +13595,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 28,
-        ["points"] = 9475.82,
+        ["points"] = 9475.89,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 29,
@@ -13611,7 +13611,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 28,
-        ["points"] = 8964.19,
+        ["points"] = 8964.33,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 30,
@@ -13623,11 +13623,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 27,
-        ["points"] = 9429.55,
+        ["points"] = 9429.64,
       },
       ["The Lich King"] = {
         ["kill_count"] = 28,
-        ["points"] = 9188.47,
+        ["points"] = 9188.6,
       },
     },
   },
@@ -13642,7 +13642,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 24,
-        ["points"] = 8886.48,
+        ["points"] = 8886.64,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 26,
@@ -13658,7 +13658,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 24,
-        ["points"] = 9722.81,
+        ["points"] = 9722.85,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 26,
@@ -13670,16 +13670,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 25,
-        ["points"] = 8826.14,
+        ["points"] = 8826.31,
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 9554.52,
+        ["points"] = 9554.59,
       },
     },
   },
   ["Mavverick"] = {
-    ["percentile"] = 93.91,
+    ["percentile"] = 93.92,
     ["server"] = "Icecrown",
     ["overall_rank"] = 292,
     ["bosses"] = {
@@ -13689,7 +13689,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 9668.4,
+        ["points"] = 9668.45,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -13705,7 +13705,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 9287.8,
+        ["points"] = 9287.89,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -13717,11 +13717,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 8629.78,
+        ["points"] = 8629.98,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9308.41,
+        ["points"] = 9308.52,
       },
     },
   },
@@ -13736,7 +13736,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 20,
-        ["points"] = 9234.0,
+        ["points"] = 9234.11,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
@@ -13752,7 +13752,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 23,
-        ["points"] = 9875.33,
+        ["points"] = 9875.35,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -13764,11 +13764,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 20,
-        ["points"] = 9905.4,
+        ["points"] = 9905.42,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9658.88,
+        ["points"] = 9658.93,
       },
     },
   },
@@ -13783,7 +13783,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 32,
-        ["points"] = 9632.2,
+        ["points"] = 9632.26,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 32,
@@ -13799,7 +13799,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 33,
-        ["points"] = 9119.36,
+        ["points"] = 9119.48,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 33,
@@ -13811,11 +13811,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 33,
-        ["points"] = 9752.04,
+        ["points"] = 9752.08,
       },
       ["The Lich King"] = {
         ["kill_count"] = 34,
-        ["points"] = 9493.77,
+        ["points"] = 9493.85,
       },
     },
   },
@@ -13830,7 +13830,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 9323.78,
+        ["points"] = 9323.87,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 18,
@@ -13846,7 +13846,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 18,
-        ["points"] = 9539.79,
+        ["points"] = 9539.85,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
@@ -13858,11 +13858,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 9482.59,
+        ["points"] = 9482.66,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 8417.45,
+        ["points"] = 8417.69,
       },
     },
   },
@@ -13877,7 +13877,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 31,
-        ["points"] = 9119.61,
+        ["points"] = 9119.73,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 32,
@@ -13893,7 +13893,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 33,
-        ["points"] = 9599.47,
+        ["points"] = 9599.52,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 34,
@@ -13905,11 +13905,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 33,
-        ["points"] = 9112.8,
+        ["points"] = 9112.93,
       },
       ["The Lich King"] = {
         ["kill_count"] = 29,
-        ["points"] = 9501.56,
+        ["points"] = 9501.64,
       },
     },
   },
@@ -13940,7 +13940,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 33,
-        ["points"] = 9488.06,
+        ["points"] = 9488.13,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 34,
@@ -13952,11 +13952,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 34,
-        ["points"] = 9757.78,
+        ["points"] = 9757.81,
       },
       ["The Lich King"] = {
         ["kill_count"] = 31,
-        ["points"] = 9406.54,
+        ["points"] = 9406.63,
       },
     },
   },
@@ -13971,7 +13971,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 23,
-        ["points"] = 8789.46,
+        ["points"] = 8789.63,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 25,
@@ -13987,7 +13987,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 25,
-        ["points"] = 8431.03,
+        ["points"] = 8431.24,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 25,
@@ -13999,11 +13999,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 26,
-        ["points"] = 9101.33,
+        ["points"] = 9101.46,
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 9828.66,
+        ["points"] = 9828.69,
       },
     },
   },
@@ -14018,7 +14018,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 33,
-        ["points"] = 9456.99,
+        ["points"] = 9457.07,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 36,
@@ -14034,7 +14034,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 37,
-        ["points"] = 9610.08,
+        ["points"] = 9610.13,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 36,
@@ -14046,11 +14046,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 38,
-        ["points"] = 8260.0,
+        ["points"] = 8260.25,
       },
       ["The Lich King"] = {
         ["kill_count"] = 35,
-        ["points"] = 9861.37,
+        ["points"] = 9861.39,
       },
     },
   },
@@ -14065,7 +14065,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 9720.53,
+        ["points"] = 9720.57,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -14081,7 +14081,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 17,
-        ["points"] = 9083.55,
+        ["points"] = 9083.68,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -14093,11 +14093,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 9306.29,
+        ["points"] = 9306.39,
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 9643.3,
+        ["points"] = 9643.36,
       },
     },
   },
@@ -14112,7 +14112,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 9011.0,
+        ["points"] = 9011.15,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -14128,7 +14128,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 9791.78,
+        ["points"] = 9791.8,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
@@ -14140,11 +14140,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 9849.51,
+        ["points"] = 9849.53,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9602.8,
+        ["points"] = 9602.87,
       },
     },
   },
@@ -14159,7 +14159,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 9165.94,
+        ["points"] = 9166.06,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -14175,7 +14175,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 9832.89,
+        ["points"] = 9832.91,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -14187,11 +14187,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 8940.81,
+        ["points"] = 8940.96,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9255.45,
+        ["points"] = 9255.57,
       },
     },
   },
@@ -14206,7 +14206,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 9571.39,
+        ["points"] = 9571.45,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -14222,7 +14222,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 9905.84,
+        ["points"] = 9905.85,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -14234,11 +14234,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 9248.96,
+        ["points"] = 9249.07,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9954.83,
+        ["points"] = 9954.84,
       },
     },
   },
@@ -14253,7 +14253,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 26,
-        ["points"] = 9413.55,
+        ["points"] = 9413.64,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 30,
@@ -14269,7 +14269,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 24,
-        ["points"] = 9706.9,
+        ["points"] = 9706.94,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 28,
@@ -14281,11 +14281,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 25,
-        ["points"] = 8453.49,
+        ["points"] = 8453.71,
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 9295.95,
+        ["points"] = 9296.06,
       },
     },
   },
@@ -14300,7 +14300,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9798.73,
+        ["points"] = 9798.75,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -14316,7 +14316,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 9607.43,
+        ["points"] = 9607.48,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -14328,11 +14328,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9711.91,
+        ["points"] = 9711.95,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9615.26,
+        ["points"] = 9615.32,
       },
     },
   },
@@ -14347,7 +14347,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 9955.11,
+        ["points"] = 9955.12,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -14363,7 +14363,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 14,
-        ["points"] = 9324.93,
+        ["points"] = 9325.02,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -14375,11 +14375,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 9190.2,
+        ["points"] = 9190.31,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9213.4,
+        ["points"] = 9213.52,
       },
     },
   },
@@ -14394,7 +14394,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 8976.25,
+        ["points"] = 8976.4,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -14410,7 +14410,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 9037.14,
+        ["points"] = 9037.26,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -14422,16 +14422,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9881.04,
+        ["points"] = 9881.05,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9552.96,
+        ["points"] = 9553.03,
       },
     },
   },
   ["Mayislice"] = {
-    ["percentile"] = 93.64,
+    ["percentile"] = 93.65,
     ["server"] = "Icecrown",
     ["overall_rank"] = 308,
     ["bosses"] = {
@@ -14441,7 +14441,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9275.99,
+        ["points"] = 9276.1,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -14457,7 +14457,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 9635.28,
+        ["points"] = 9635.33,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -14469,11 +14469,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 8479.29,
+        ["points"] = 8479.51,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9423.68,
+        ["points"] = 9423.77,
       },
     },
   },
@@ -14488,7 +14488,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 8569.36,
+        ["points"] = 8569.57,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -14504,7 +14504,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 9407.16,
+        ["points"] = 9407.24,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -14516,11 +14516,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 9026.8,
+        ["points"] = 9026.94,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9728.97,
+        ["points"] = 9729.01,
       },
     },
   },
@@ -14535,7 +14535,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 9315.09,
+        ["points"] = 9315.19,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -14551,7 +14551,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 9046.42,
+        ["points"] = 9046.55,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
@@ -14563,11 +14563,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8942.24,
+        ["points"] = 8942.39,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9704.05,
+        ["points"] = 9704.1,
       },
     },
   },
@@ -14582,7 +14582,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 9412.11,
+        ["points"] = 9412.19,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -14598,7 +14598,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 8828.91,
+        ["points"] = 8829.07,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -14610,11 +14610,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 9614.45,
+        ["points"] = 9614.5,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9336.45,
+        ["points"] = 9336.55,
       },
     },
   },
@@ -14629,7 +14629,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 9468.58,
+        ["points"] = 9468.65,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -14645,7 +14645,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 9690.98,
+        ["points"] = 9691.02,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -14657,11 +14657,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 9600.11,
+        ["points"] = 9600.17,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9127.73,
+        ["points"] = 9127.86,
       },
     },
   },
@@ -14676,7 +14676,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 24,
-        ["points"] = 9629.31,
+        ["points"] = 9629.36,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 27,
@@ -14692,7 +14692,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 26,
-        ["points"] = 9675.07,
+        ["points"] = 9675.11,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 26,
@@ -14704,11 +14704,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 26,
-        ["points"] = 9226.03,
+        ["points"] = 9226.14,
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 8299.07,
+        ["points"] = 8299.33,
       },
     },
   },
@@ -14723,7 +14723,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 25,
-        ["points"] = 9359.98,
+        ["points"] = 9360.07,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 30,
@@ -14739,7 +14739,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 27,
-        ["points"] = 9397.88,
+        ["points"] = 9397.96,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 28,
@@ -14751,11 +14751,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 25,
-        ["points"] = 8526.59,
+        ["points"] = 8526.8,
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 9180.69,
+        ["points"] = 9180.81,
       },
     },
   },
@@ -14770,7 +14770,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 26,
-        ["points"] = 8509.99,
+        ["points"] = 8510.21,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 31,
@@ -14786,7 +14786,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 28,
-        ["points"] = 9819.63,
+        ["points"] = 9819.65,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 32,
@@ -14798,11 +14798,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 27,
-        ["points"] = 9021.07,
+        ["points"] = 9021.21,
       },
       ["The Lich King"] = {
         ["kill_count"] = 28,
-        ["points"] = 9020.25,
+        ["points"] = 9020.4,
       },
     },
   },
@@ -14817,7 +14817,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 9762.53,
+        ["points"] = 9762.56,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 28,
@@ -14833,7 +14833,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 17,
-        ["points"] = 9510.61,
+        ["points"] = 9510.67,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 26,
@@ -14845,11 +14845,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 8596.82,
+        ["points"] = 8597.02,
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 8753.89,
+        ["points"] = 8754.09,
       },
     },
   },
@@ -14864,7 +14864,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 9533.74,
+        ["points"] = 9533.81,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 35,
@@ -14880,7 +14880,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 23,
-        ["points"] = 9240.05,
+        ["points"] = 9240.15,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 34,
@@ -14892,11 +14892,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 20,
-        ["points"] = 9314.89,
+        ["points"] = 9314.99,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8711.84,
+        ["points"] = 8712.04,
       },
     },
   },
@@ -14911,7 +14911,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 9219.52,
+        ["points"] = 9219.63,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 18,
@@ -14927,7 +14927,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 17,
-        ["points"] = 8892.57,
+        ["points"] = 8892.72,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -14939,11 +14939,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 9802.21,
+        ["points"] = 9802.24,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9914.33,
+        ["points"] = 9914.34,
       },
     },
   },
@@ -14958,7 +14958,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 21,
-        ["points"] = 9423.69,
+        ["points"] = 9423.77,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 27,
@@ -14974,7 +14974,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 26,
-        ["points"] = 8827.59,
+        ["points"] = 8827.74,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 28,
@@ -14986,11 +14986,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 20,
-        ["points"] = 9687.54,
+        ["points"] = 9687.59,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 7330.22,
+        ["points"] = 7330.63,
       },
     },
   },
@@ -15005,7 +15005,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 21,
-        ["points"] = 8760.5,
+        ["points"] = 8760.68,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 24,
@@ -15021,7 +15021,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 22,
-        ["points"] = 9049.07,
+        ["points"] = 9049.2,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 24,
@@ -15033,11 +15033,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 24,
-        ["points"] = 9453.92,
+        ["points"] = 9454.0,
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 9169.78,
+        ["points"] = 9169.91,
       },
     },
   },
@@ -15052,7 +15052,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 20,
-        ["points"] = 9226.76,
+        ["points"] = 9226.87,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 33,
@@ -15068,7 +15068,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 25,
-        ["points"] = 9309.02,
+        ["points"] = 9309.11,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 33,
@@ -15080,11 +15080,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 23,
-        ["points"] = 9565.72,
+        ["points"] = 9565.78,
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 9540.5,
+        ["points"] = 9540.57,
       },
     },
   },
@@ -15099,7 +15099,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 9283.23,
+        ["points"] = 9283.34,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 18,
@@ -15115,7 +15115,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 9798.41,
+        ["points"] = 9798.44,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -15127,11 +15127,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 9379.39,
+        ["points"] = 9379.48,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9258.57,
+        ["points"] = 9258.68,
       },
     },
   },
@@ -15146,7 +15146,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 9642.34,
+        ["points"] = 9642.39,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -15162,7 +15162,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 9826.26,
+        ["points"] = 9826.28,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -15174,11 +15174,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 8657.02,
+        ["points"] = 8657.21,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9601.25,
+        ["points"] = 9601.31,
       },
     },
   },
@@ -15193,7 +15193,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 33,
-        ["points"] = 8129.16,
+        ["points"] = 8129.43,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 36,
@@ -15209,7 +15209,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 34,
-        ["points"] = 9319.63,
+        ["points"] = 9319.72,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 34,
@@ -15221,11 +15221,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 34,
-        ["points"] = 9046.87,
+        ["points"] = 9047.0,
       },
       ["The Lich King"] = {
         ["kill_count"] = 33,
-        ["points"] = 9514.02,
+        ["points"] = 9514.09,
       },
     },
   },
@@ -15240,7 +15240,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 9257.17,
+        ["points"] = 9257.28,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -15256,7 +15256,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 23,
-        ["points"] = 9543.77,
+        ["points"] = 9543.83,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -15268,16 +15268,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 21,
-        ["points"] = 9717.64,
+        ["points"] = 9717.68,
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 9088.79,
+        ["points"] = 9088.93,
       },
     },
   },
   ["Zaeby"] = {
-    ["percentile"] = 93.39,
+    ["percentile"] = 93.4,
     ["server"] = "Icecrown",
     ["overall_rank"] = 326,
     ["bosses"] = {
@@ -15287,7 +15287,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 36,
-        ["points"] = 9872.57,
+        ["points"] = 9872.59,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 36,
@@ -15303,7 +15303,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 36,
-        ["points"] = 9740.05,
+        ["points"] = 9740.09,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 36,
@@ -15315,11 +15315,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 36,
-        ["points"] = 8439.16,
+        ["points"] = 8439.38,
       },
       ["The Lich King"] = {
         ["kill_count"] = 36,
-        ["points"] = 9168.22,
+        ["points"] = 9168.35,
       },
     },
   },
@@ -15334,7 +15334,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 8630.18,
+        ["points"] = 8630.37,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -15350,7 +15350,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 14,
-        ["points"] = 9555.7,
+        ["points"] = 9555.76,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -15362,11 +15362,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9723.38,
+        ["points"] = 9723.42,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9766.36,
+        ["points"] = 9766.39,
       },
     },
   },
@@ -15381,7 +15381,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 7913.41,
+        ["points"] = 7913.71,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -15397,7 +15397,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 2,
-        ["points"] = 9618.04,
+        ["points"] = 9618.09,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
@@ -15409,11 +15409,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9117.1,
+        ["points"] = 9117.23,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 9671.34,
+        ["points"] = 9671.39,
       },
     },
   },
@@ -15428,7 +15428,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 9459.89,
+        ["points"] = 9459.97,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -15444,7 +15444,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 9879.31,
+        ["points"] = 9879.33,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -15456,11 +15456,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 8874.87,
+        ["points"] = 8875.04,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9758.57,
+        ["points"] = 9758.6,
       },
     },
   },
@@ -15475,7 +15475,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9193.45,
+        ["points"] = 9193.57,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -15491,7 +15491,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 9437.67,
+        ["points"] = 9437.74,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -15503,11 +15503,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9580.05,
+        ["points"] = 9580.11,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9699.38,
+        ["points"] = 9699.42,
       },
     },
   },
@@ -15522,7 +15522,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 9820.45,
+        ["points"] = 9820.47,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -15538,7 +15538,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 8058.36,
+        ["points"] = 8058.61,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -15550,11 +15550,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 9280.49,
+        ["points"] = 9280.6,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9686.92,
+        ["points"] = 9686.96,
       },
     },
   },
@@ -15569,7 +15569,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 9755.29,
+        ["points"] = 9755.32,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -15585,7 +15585,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 9140.58,
+        ["points"] = 9140.7,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -15597,11 +15597,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 9383.69,
+        ["points"] = 9383.78,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9526.48,
+        ["points"] = 9526.55,
       },
     },
   },
@@ -15616,7 +15616,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 9368.66,
+        ["points"] = 9368.76,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -15632,7 +15632,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 8919.1,
+        ["points"] = 8919.24,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -15644,11 +15644,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 9344.99,
+        ["points"] = 9345.08,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9098.13,
+        ["points"] = 9098.27,
       },
     },
   },
@@ -15663,7 +15663,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 73,
-        ["points"] = 9724.88,
+        ["points"] = 9724.92,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 74,
@@ -15679,7 +15679,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 74,
-        ["points"] = 9075.6,
+        ["points"] = 9075.72,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 72,
@@ -15691,11 +15691,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 70,
-        ["points"] = 8396.16,
+        ["points"] = 8396.39,
       },
       ["The Lich King"] = {
         ["kill_count"] = 72,
-        ["points"] = 9404.98,
+        ["points"] = 9405.08,
       },
     },
   },
@@ -15710,7 +15710,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 23,
-        ["points"] = 9591.66,
+        ["points"] = 9591.72,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 24,
@@ -15726,7 +15726,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 25,
-        ["points"] = 9035.81,
+        ["points"] = 9035.94,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 24,
@@ -15738,11 +15738,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 24,
-        ["points"] = 9446.75,
+        ["points"] = 9446.83,
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 9364.49,
+        ["points"] = 9364.58,
       },
     },
   },
@@ -15757,7 +15757,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 33,
-        ["points"] = 9704.6,
+        ["points"] = 9704.65,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 35,
@@ -15773,7 +15773,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 39,
-        ["points"] = 8831.56,
+        ["points"] = 8831.72,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 38,
@@ -15785,11 +15785,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 36,
-        ["points"] = 9475.42,
+        ["points"] = 9475.49,
       },
       ["The Lich King"] = {
         ["kill_count"] = 39,
-        ["points"] = 9322.43,
+        ["points"] = 9322.54,
       },
     },
   },
@@ -15804,7 +15804,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 31,
-        ["points"] = 8942.95,
+        ["points"] = 8943.1,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 37,
@@ -15820,7 +15820,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 32,
-        ["points"] = 8982.76,
+        ["points"] = 8982.89,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 33,
@@ -15832,11 +15832,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 33,
-        ["points"] = 9075.53,
+        ["points"] = 9075.67,
       },
       ["The Lich King"] = {
         ["kill_count"] = 31,
-        ["points"] = 9847.35,
+        ["points"] = 9847.38,
       },
     },
   },
@@ -15851,7 +15851,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 8722.85,
+        ["points"] = 8723.03,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -15867,7 +15867,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 18,
-        ["points"] = 9129.97,
+        ["points"] = 9130.09,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
@@ -15879,11 +15879,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 9455.35,
+        ["points"] = 9455.43,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9585.67,
+        ["points"] = 9585.73,
       },
     },
   },
@@ -15898,7 +15898,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 47,
-        ["points"] = 9582.97,
+        ["points"] = 9583.03,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 50,
@@ -15914,7 +15914,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 54,
-        ["points"] = 9645.89,
+        ["points"] = 9645.94,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 53,
@@ -15926,11 +15926,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 52,
-        ["points"] = 9323.49,
+        ["points"] = 9323.59,
       },
       ["The Lich King"] = {
         ["kill_count"] = 49,
-        ["points"] = 8149.53,
+        ["points"] = 8149.82,
       },
     },
   },
@@ -15945,7 +15945,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 9737.91,
+        ["points"] = 9737.95,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 24,
@@ -15961,7 +15961,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 22,
-        ["points"] = 8440.32,
+        ["points"] = 8440.53,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -15973,11 +15973,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 22,
-        ["points"] = 7771.25,
+        ["points"] = 7771.57,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9831.78,
+        ["points"] = 9831.8,
       },
     },
   },
@@ -15992,7 +15992,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 8515.78,
+        ["points"] = 8516.0,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -16008,7 +16008,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 8899.2,
+        ["points"] = 8899.35,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -16020,11 +16020,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 8480.72,
+        ["points"] = 8480.94,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9557.63,
+        ["points"] = 9557.7,
       },
     },
   },
@@ -16055,7 +16055,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 22,
-        ["points"] = 9811.67,
+        ["points"] = 9811.7,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 27,
@@ -16067,11 +16067,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 22,
-        ["points"] = 9270.46,
+        ["points"] = 9270.56,
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 9029.6,
+        ["points"] = 9029.75,
       },
     },
   },
@@ -16086,7 +16086,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 9532.29,
+        ["points"] = 9532.36,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -16114,11 +16114,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 9893.94,
+        ["points"] = 9893.95,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9929.91,
+        ["points"] = 9929.92,
       },
     },
   },
@@ -16133,7 +16133,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 32,
-        ["points"] = 9897.19,
+        ["points"] = 9897.21,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 32,
@@ -16149,7 +16149,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 35,
-        ["points"] = 9484.08,
+        ["points"] = 9484.15,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 36,
@@ -16161,11 +16161,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 36,
-        ["points"] = 9623.05,
+        ["points"] = 9623.1,
       },
       ["The Lich King"] = {
         ["kill_count"] = 34,
-        ["points"] = 9448.6,
+        ["points"] = 9448.68,
       },
     },
   },
@@ -16180,7 +16180,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 9701.71,
+        ["points"] = 9701.75,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -16196,7 +16196,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 8636.6,
+        ["points"] = 8636.79,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -16208,11 +16208,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 9266.16,
+        ["points"] = 9266.27,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9024.92,
+        ["points"] = 9025.07,
       },
     },
   },
@@ -16227,7 +16227,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 23,
-        ["points"] = 9222.42,
+        ["points"] = 9222.53,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 37,
@@ -16243,7 +16243,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 27,
-        ["points"] = 9340.85,
+        ["points"] = 9340.94,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 32,
@@ -16255,11 +16255,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 27,
-        ["points"] = 8626.92,
+        ["points"] = 8627.11,
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 8783.49,
+        ["points"] = 8783.68,
       },
     },
   },
@@ -16274,7 +16274,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9564.15,
+        ["points"] = 9564.21,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -16290,7 +16290,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 9464.19,
+        ["points"] = 9464.26,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
@@ -16306,7 +16306,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9095.02,
+        ["points"] = 9095.16,
       },
     },
   },
@@ -16321,7 +16321,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 9077.61,
+        ["points"] = 9077.75,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -16337,7 +16337,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 17,
-        ["points"] = 9778.51,
+        ["points"] = 9778.54,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
@@ -16349,16 +16349,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 9518.42,
+        ["points"] = 9518.49,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9867.6,
+        ["points"] = 9867.62,
       },
     },
   },
   ["Paranormal"] = {
-    ["percentile"] = 92.98,
+    ["percentile"] = 92.99,
     ["server"] = "Icecrown",
     ["overall_rank"] = 349,
     ["bosses"] = {
@@ -16368,7 +16368,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 8699.68,
+        ["points"] = 8699.87,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -16384,7 +16384,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 8862.07,
+        ["points"] = 8862.22,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -16396,11 +16396,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9300.56,
+        ["points"] = 9300.66,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9612.15,
+        ["points"] = 9612.21,
       },
     },
   },
@@ -16415,7 +16415,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 9500.43,
+        ["points"] = 9500.51,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -16431,7 +16431,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 9,
-        ["points"] = 9895.23,
+        ["points"] = 9895.24,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -16443,11 +16443,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9777.84,
+        ["points"] = 9777.87,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8155.76,
+        ["points"] = 8156.05,
       },
     },
   },
@@ -16462,7 +16462,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 8088.62,
+        ["points"] = 8088.9,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -16478,7 +16478,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 9913.79,
+        ["points"] = 9913.8,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -16490,11 +16490,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 9336.39,
+        ["points"] = 9336.49,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9339.56,
+        ["points"] = 9339.67,
       },
     },
   },
@@ -16509,7 +16509,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 30,
-        ["points"] = 9410.66,
+        ["points"] = 9410.74,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 30,
@@ -16525,7 +16525,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 29,
-        ["points"] = 9531.83,
+        ["points"] = 9531.89,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 30,
@@ -16537,11 +16537,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 29,
-        ["points"] = 9924.04,
+        ["points"] = 9924.05,
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 8906.54,
+        ["points"] = 8906.71,
       },
     },
   },
@@ -16556,7 +16556,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 34,
-        ["points"] = 9523.6,
+        ["points"] = 9523.67,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 34,
@@ -16572,7 +16572,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 34,
-        ["points"] = 9513.26,
+        ["points"] = 9513.33,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 34,
@@ -16584,11 +16584,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 34,
-        ["points"] = 9061.2,
+        ["points"] = 9061.34,
       },
       ["The Lich King"] = {
         ["kill_count"] = 32,
-        ["points"] = 9210.28,
+        ["points"] = 9210.4,
       },
     },
   },
@@ -16603,7 +16603,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 19,
-        ["points"] = 8889.37,
+        ["points"] = 8889.53,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 20,
@@ -16619,7 +16619,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 9545.09,
+        ["points"] = 9545.15,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
@@ -16631,11 +16631,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 9426.69,
+        ["points"] = 9426.77,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8283.49,
+        ["points"] = 8283.76,
       },
     },
   },
@@ -16650,7 +16650,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 9464.23,
+        ["points"] = 9464.31,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -16666,7 +16666,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 14,
-        ["points"] = 9400.53,
+        ["points"] = 9400.61,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -16678,11 +16678,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 9238.93,
+        ["points"] = 9239.04,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9590.34,
+        ["points"] = 9590.41,
       },
     },
   },
@@ -16697,7 +16697,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 21,
-        ["points"] = 7812.05,
+        ["points"] = 7812.36,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 24,
@@ -16713,7 +16713,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 24,
-        ["points"] = 9594.16,
+        ["points"] = 9594.22,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 24,
@@ -16725,11 +16725,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 23,
-        ["points"] = 8698.58,
+        ["points"] = 8698.77,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9054.52,
+        ["points"] = 9054.66,
       },
     },
   },
@@ -16744,7 +16744,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 23,
-        ["points"] = 8481.03,
+        ["points"] = 8481.25,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 24,
@@ -16760,7 +16760,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 25,
-        ["points"] = 9383.29,
+        ["points"] = 9383.37,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 24,
@@ -16772,11 +16772,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 25,
-        ["points"] = 9038.27,
+        ["points"] = 9038.41,
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 8929.91,
+        ["points"] = 8930.07,
       },
     },
   },
@@ -16791,7 +16791,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 21,
-        ["points"] = 9847.96,
+        ["points"] = 9847.98,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -16807,7 +16807,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 22,
-        ["points"] = 9404.51,
+        ["points"] = 9404.59,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -16819,11 +16819,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 22,
-        ["points"] = 9357.89,
+        ["points"] = 9357.98,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9716.51,
+        ["points"] = 9716.56,
       },
     },
   },
@@ -16838,7 +16838,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 69,
-        ["points"] = 9721.98,
+        ["points"] = 9722.02,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 74,
@@ -16854,7 +16854,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 69,
-        ["points"] = 9096.82,
+        ["points"] = 9096.94,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 70,
@@ -16866,16 +16866,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 69,
-        ["points"] = 8824.71,
+        ["points"] = 8824.88,
       },
       ["The Lich King"] = {
         ["kill_count"] = 68,
-        ["points"] = 9271.03,
+        ["points"] = 9271.14,
       },
     },
   },
   ["Enei"] = {
-    ["percentile"] = 92.85,
+    ["percentile"] = 92.86,
     ["server"] = "Icecrown",
     ["overall_rank"] = 360,
     ["bosses"] = {
@@ -16885,7 +16885,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 9083.41,
+        ["points"] = 9083.54,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -16901,7 +16901,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 9584.88,
+        ["points"] = 9584.94,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
@@ -16913,11 +16913,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 9408.06,
+        ["points"] = 9408.14,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9850.47,
+        ["points"] = 9850.49,
       },
     },
   },
@@ -16932,7 +16932,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 9273.1,
+        ["points"] = 9273.2,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -16948,7 +16948,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 9,
-        ["points"] = 9509.28,
+        ["points"] = 9509.35,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -16960,11 +16960,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 8831.88,
+        ["points"] = 8832.04,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 9289.72,
+        ["points"] = 9289.83,
       },
     },
   },
@@ -16979,7 +16979,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 7289.31,
+        ["points"] = 7289.71,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -16995,7 +16995,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 8924.4,
+        ["points"] = 8924.55,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -17007,11 +17007,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 9815.11,
+        ["points"] = 9815.13,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9722.74,
+        ["points"] = 9722.78,
       },
     },
   },
@@ -17026,7 +17026,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 9600.35,
+        ["points"] = 9600.41,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -17042,7 +17042,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 14,
-        ["points"] = 9501.33,
+        ["points"] = 9501.39,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -17054,11 +17054,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 9105.63,
+        ["points"] = 9105.76,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9411.21,
+        ["points"] = 9411.31,
       },
     },
   },
@@ -17073,7 +17073,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 8085.72,
+        ["points"] = 8086.0,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -17089,7 +17089,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 9493.37,
+        ["points"] = 9493.44,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -17101,11 +17101,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9082.7,
+        ["points"] = 9082.83,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9163.55,
+        ["points"] = 9163.68,
       },
     },
   },
@@ -17120,7 +17120,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 9417.9,
+        ["points"] = 9417.98,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -17136,7 +17136,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 9679.05,
+        ["points"] = 9679.09,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
@@ -17148,11 +17148,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 9107.07,
+        ["points"] = 9107.19,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 8688.47,
+        ["points"] = 8688.68,
       },
     },
   },
@@ -17167,7 +17167,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 44,
-        ["points"] = 9514.91,
+        ["points"] = 9514.98,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 47,
@@ -17183,7 +17183,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 49,
-        ["points"] = 9807.69,
+        ["points"] = 9807.72,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 47,
@@ -17195,11 +17195,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 45,
-        ["points"] = 9005.3,
+        ["points"] = 9005.45,
       },
       ["The Lich King"] = {
         ["kill_count"] = 47,
-        ["points"] = 8599.69,
+        ["points"] = 8599.91,
       },
     },
   },
@@ -17214,7 +17214,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 9171.73,
+        ["points"] = 9171.85,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 22,
@@ -17230,7 +17230,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 23,
-        ["points"] = 9514.59,
+        ["points"] = 9514.65,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -17242,11 +17242,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 22,
-        ["points"] = 9889.64,
+        ["points"] = 9889.65,
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 9439.25,
+        ["points"] = 9439.34,
       },
     },
   },
@@ -17261,7 +17261,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 9112.37,
+        ["points"] = 9112.49,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -17277,7 +17277,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 8629.97,
+        ["points"] = 8630.16,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -17289,65 +17289,18 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 9706.18,
+        ["points"] = 9706.22,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8392.52,
-      },
-    },
-  },
-  ["Hydanblade"] = {
-    ["percentile"] = 92.73,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 369,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 12,
-        ["points"] = 9078.91,
-      },
-      ["Lady Deathwhisper"] = {
-        ["kill_count"] = 11,
-        ["points"] = 8465.1,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 12,
-        ["points"] = 9840.98,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 12,
-        ["points"] = 9655.97,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 12,
-        ["points"] = 9959.0,
-      },
-      ["Professor Putricide"] = {
-        ["kill_count"] = 11,
-        ["points"] = 9137.93,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 12,
-        ["points"] = 9497.95,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 12,
-        ["points"] = 8035.4,
-      },
-      ["Sindragosa"] = {
-        ["kill_count"] = 10,
-        ["points"] = 9598.68,
-      },
-      ["The Lich King"] = {
-        ["kill_count"] = 11,
-        ["points"] = 9409.66,
+        ["points"] = 8392.77,
       },
     },
   },
   ["Veri"] = {
     ["percentile"] = 92.73,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 370,
+    ["overall_rank"] = 369,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 18,
@@ -17355,7 +17308,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 6883.87,
+        ["points"] = 6884.32,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -17371,7 +17324,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 9470.82,
+        ["points"] = 9470.89,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
@@ -17383,11 +17336,58 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 8818.98,
+        ["points"] = 8819.15,
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 9591.9,
+        ["points"] = 9591.96,
+      },
+    },
+  },
+  ["Hydanblade"] = {
+    ["percentile"] = 92.73,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 370,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 12,
+        ["points"] = 9078.91,
+      },
+      ["Lady Deathwhisper"] = {
+        ["kill_count"] = 11,
+        ["points"] = 8465.33,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 12,
+        ["points"] = 9840.98,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 12,
+        ["points"] = 9655.97,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 12,
+        ["points"] = 9959.0,
+      },
+      ["Professor Putricide"] = {
+        ["kill_count"] = 11,
+        ["points"] = 9138.05,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 12,
+        ["points"] = 9497.95,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 12,
+        ["points"] = 8035.4,
+      },
+      ["Sindragosa"] = {
+        ["kill_count"] = 10,
+        ["points"] = 9598.74,
+      },
+      ["The Lich King"] = {
+        ["kill_count"] = 11,
+        ["points"] = 9409.75,
       },
     },
   },
@@ -17402,7 +17402,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 8111.79,
+        ["points"] = 8112.06,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -17418,7 +17418,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 8647.21,
+        ["points"] = 8647.39,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -17430,11 +17430,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 9782.14,
+        ["points"] = 9782.17,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9800.62,
+        ["points"] = 9800.65,
       },
     },
   },
@@ -17449,7 +17449,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 26,
-        ["points"] = 8747.47,
+        ["points"] = 8747.65,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 31,
@@ -17465,7 +17465,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 29,
-        ["points"] = 9217.51,
+        ["points"] = 9217.61,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 31,
@@ -17477,11 +17477,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 28,
-        ["points"] = 9068.37,
+        ["points"] = 9068.5,
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 8836.45,
+        ["points"] = 8836.63,
       },
     },
   },
@@ -17496,7 +17496,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 9325.22,
+        ["points"] = 9325.32,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 22,
@@ -17512,7 +17512,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 9420.42,
+        ["points"] = 9420.5,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 21,
@@ -17524,11 +17524,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 9587.22,
+        ["points"] = 9587.27,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 8311.53,
+        ["points"] = 8311.79,
       },
     },
   },
@@ -17543,7 +17543,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 9322.33,
+        ["points"] = 9322.43,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -17559,7 +17559,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 9176.39,
+        ["points"] = 9176.5,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -17571,11 +17571,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9753.48,
+        ["points"] = 9753.51,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8979.75,
+        ["points"] = 8979.91,
       },
     },
   },
@@ -17590,7 +17590,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 9138.43,
+        ["points"] = 9138.56,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -17606,7 +17606,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 9281.17,
+        ["points"] = 9281.26,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -17618,11 +17618,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 8813.24,
+        ["points"] = 8813.41,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9263.24,
+        ["points"] = 9263.35,
       },
     },
   },
@@ -17637,7 +17637,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 9439.62,
+        ["points"] = 9439.7,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -17653,7 +17653,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 9,
-        ["points"] = 9261.27,
+        ["points"] = 9261.37,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -17665,11 +17665,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 8599.68,
+        ["points"] = 8599.89,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9380.06,
+        ["points"] = 9380.16,
       },
     },
   },
@@ -17684,7 +17684,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 9289.02,
+        ["points"] = 9289.13,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -17700,7 +17700,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 9,
-        ["points"] = 9433.69,
+        ["points"] = 9433.76,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -17712,11 +17712,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 9256.13,
+        ["points"] = 9256.23,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9647.98,
+        ["points"] = 9648.03,
       },
     },
   },
@@ -17731,7 +17731,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 9782.8,
+        ["points"] = 9782.83,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 37,
@@ -17747,7 +17747,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 21,
-        ["points"] = 9562.33,
+        ["points"] = 9562.39,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 33,
@@ -17759,11 +17759,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 9820.84,
+        ["points"] = 9820.87,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9286.6,
+        ["points"] = 9286.72,
       },
     },
   },
@@ -17778,7 +17778,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 9538.08,
+        ["points"] = 9538.15,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -17794,7 +17794,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 9726.79,
+        ["points"] = 9726.83,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
@@ -17806,11 +17806,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 9178.73,
+        ["points"] = 9178.85,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9823.99,
+        ["points"] = 9824.01,
       },
     },
   },
@@ -17825,7 +17825,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 8363.74,
+        ["points"] = 8363.98,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -17841,7 +17841,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 9689.66,
+        ["points"] = 9689.7,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
@@ -17853,11 +17853,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 9578.62,
+        ["points"] = 9578.68,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 7822.43,
+        ["points"] = 7822.77,
       },
     },
   },
@@ -17872,7 +17872,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 9811.76,
+        ["points"] = 9811.79,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -17888,7 +17888,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 17,
-        ["points"] = 8413.79,
+        ["points"] = 8414.0,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -17900,11 +17900,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 9934.07,
+        ["points"] = 9934.08,
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 9249.22,
+        ["points"] = 9249.34,
       },
     },
   },
@@ -17919,7 +17919,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 8819.87,
+        ["points"] = 8820.04,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 18,
@@ -17935,7 +17935,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 17,
-        ["points"] = 9417.77,
+        ["points"] = 9417.85,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -17947,11 +17947,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 8449.19,
+        ["points"] = 8449.41,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9112.15,
+        ["points"] = 9112.29,
       },
     },
   },
@@ -17966,7 +17966,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9584.42,
+        ["points"] = 9584.48,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -17982,7 +17982,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 8718.83,
+        ["points"] = 8719.0,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -17994,16 +17994,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 8993.84,
+        ["points"] = 8993.98,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 9006.23,
+        ["points"] = 9006.39,
       },
     },
   },
   ["Yoggzter"] = {
-    ["percentile"] = 92.6,
+    ["percentile"] = 92.61,
     ["server"] = "Icecrown",
     ["overall_rank"] = 384,
     ["bosses"] = {
@@ -18013,7 +18013,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 31,
-        ["points"] = 9068.93,
+        ["points"] = 9069.06,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 34,
@@ -18029,7 +18029,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 32,
-        ["points"] = 8671.09,
+        ["points"] = 8671.26,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 33,
@@ -18041,11 +18041,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 32,
-        ["points"] = 8171.13,
+        ["points"] = 8171.4,
       },
       ["The Lich King"] = {
         ["kill_count"] = 29,
-        ["points"] = 9119.94,
+        ["points"] = 9120.07,
       },
     },
   },
@@ -18060,7 +18060,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 9142.77,
+        ["points"] = 9142.9,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 24,
@@ -18076,7 +18076,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 18,
-        ["points"] = 9578.25,
+        ["points"] = 9578.31,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -18088,11 +18088,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 8900.67,
+        ["points"] = 8900.83,
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 8736.76,
+        ["points"] = 8736.96,
       },
     },
   },
@@ -18107,7 +18107,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 9044.31,
+        ["points"] = 9044.45,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -18123,7 +18123,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 9381.96,
+        ["points"] = 9382.04,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -18135,11 +18135,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 9442.45,
+        ["points"] = 9442.53,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9126.17,
+        ["points"] = 9126.3,
       },
     },
   },
@@ -18154,7 +18154,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 33,
-        ["points"] = 9277.44,
+        ["points"] = 9277.54,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 34,
@@ -18170,7 +18170,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 34,
-        ["points"] = 9163.13,
+        ["points"] = 9163.24,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 34,
@@ -18182,11 +18182,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 33,
-        ["points"] = 8999.57,
+        ["points"] = 8999.71,
       },
       ["The Lich King"] = {
         ["kill_count"] = 34,
-        ["points"] = 9221.18,
+        ["points"] = 9221.31,
       },
     },
   },
@@ -18201,7 +18201,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 8599.77,
+        ["points"] = 8599.97,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -18217,7 +18217,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 8981.43,
+        ["points"] = 8981.57,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -18229,11 +18229,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 9413.79,
+        ["points"] = 9413.87,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9389.41,
+        ["points"] = 9389.5,
       },
     },
   },
@@ -18248,7 +18248,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 27,
-        ["points"] = 9613.38,
+        ["points"] = 9613.44,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 28,
@@ -18264,7 +18264,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 26,
-        ["points"] = 9236.07,
+        ["points"] = 9236.18,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 28,
@@ -18276,11 +18276,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 27,
-        ["points"] = 8760.21,
+        ["points"] = 8760.39,
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 8827.1,
+        ["points"] = 8827.29,
       },
     },
   },
@@ -18295,7 +18295,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 9742.25,
+        ["points"] = 9742.29,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -18311,7 +18311,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 9606.1,
+        ["points"] = 9606.15,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -18323,11 +18323,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 9032.54,
+        ["points"] = 9032.67,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9172.9,
+        ["points"] = 9173.03,
       },
     },
   },
@@ -18342,7 +18342,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 38,
-        ["points"] = 8366.64,
+        ["points"] = 8366.87,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 42,
@@ -18358,7 +18358,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 38,
-        ["points"] = 9444.3,
+        ["points"] = 9444.37,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 41,
@@ -18370,11 +18370,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 38,
-        ["points"] = 9253.26,
+        ["points"] = 9253.37,
       },
       ["The Lich King"] = {
         ["kill_count"] = 35,
-        ["points"] = 9109.03,
+        ["points"] = 9109.17,
       },
     },
   },
@@ -18389,7 +18389,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 21,
-        ["points"] = 8900.96,
+        ["points"] = 8901.11,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
@@ -18405,7 +18405,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 22,
-        ["points"] = 9377.98,
+        ["points"] = 9378.07,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -18417,11 +18417,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 22,
-        ["points"] = 8636.95,
+        ["points"] = 8637.15,
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 9549.84,
+        ["points"] = 9549.91,
       },
     },
   },
@@ -18436,7 +18436,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 9623.52,
+        ["points"] = 9623.57,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -18452,7 +18452,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 20,
-        ["points"] = 8736.07,
+        ["points"] = 8736.24,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -18464,11 +18464,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 9194.5,
+        ["points"] = 9194.61,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9451.71,
+        ["points"] = 9451.8,
       },
     },
   },
@@ -18483,7 +18483,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 20,
-        ["points"] = 9821.89,
+        ["points"] = 9821.92,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 25,
@@ -18499,7 +18499,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 24,
-        ["points"] = 9291.78,
+        ["points"] = 9291.87,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 25,
@@ -18511,11 +18511,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 23,
-        ["points"] = 9531.32,
+        ["points"] = 9531.38,
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 9132.4,
+        ["points"] = 9132.53,
       },
     },
   },
@@ -18530,7 +18530,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 9669.85,
+        ["points"] = 9669.9,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -18546,7 +18546,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 23,
-        ["points"] = 9663.13,
+        ["points"] = 9663.17,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -18558,11 +18558,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 21,
-        ["points"] = 9098.47,
+        ["points"] = 9098.6,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9000.0,
+        ["points"] = 9000.16,
       },
     },
   },
@@ -18577,7 +18577,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 24,
-        ["points"] = 9274.54,
+        ["points"] = 9274.65,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 35,
@@ -18593,7 +18593,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 25,
-        ["points"] = 9289.12,
+        ["points"] = 9289.22,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 33,
@@ -18605,11 +18605,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 25,
-        ["points"] = 8787.44,
+        ["points"] = 8787.62,
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9227.41,
+        ["points"] = 9227.53,
       },
     },
   },
@@ -18624,7 +18624,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 26,
-        ["points"] = 9336.81,
+        ["points"] = 9336.9,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 27,
@@ -18640,7 +18640,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 26,
-        ["points"] = 8692.31,
+        ["points"] = 8692.48,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 26,
@@ -18652,11 +18652,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 26,
-        ["points"] = 9433.85,
+        ["points"] = 9433.94,
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 9752.34,
+        ["points"] = 9752.38,
       },
     },
   },
@@ -18671,7 +18671,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 29,
-        ["points"] = 9406.31,
+        ["points"] = 9406.4,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 32,
@@ -18687,7 +18687,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 30,
-        ["points"] = 9473.47,
+        ["points"] = 9473.54,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 30,
@@ -18699,11 +18699,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 29,
-        ["points"] = 9855.24,
+        ["points"] = 9855.26,
       },
       ["The Lich King"] = {
         ["kill_count"] = 29,
-        ["points"] = 9781.93,
+        ["points"] = 9781.97,
       },
     },
   },
@@ -18718,7 +18718,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 8982.04,
+        ["points"] = 8982.19,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -18734,7 +18734,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 14,
-        ["points"] = 9366.05,
+        ["points"] = 9366.13,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -18746,11 +18746,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 9704.74,
+        ["points"] = 9704.79,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8260.12,
+        ["points"] = 8260.4,
       },
     },
   },
@@ -18765,7 +18765,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9002.32,
+        ["points"] = 9002.46,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -18781,7 +18781,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 9033.16,
+        ["points"] = 9033.28,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -18793,11 +18793,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 9213.13,
+        ["points"] = 9213.24,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9596.57,
+        ["points"] = 9596.64,
       },
     },
   },
@@ -18812,7 +18812,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 9556.91,
+        ["points"] = 9556.97,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -18828,7 +18828,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 14,
-        ["points"] = 9753.32,
+        ["points"] = 9753.35,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -18840,11 +18840,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 8621.18,
+        ["points"] = 8621.38,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9710.28,
+        ["points"] = 9710.33,
       },
     },
   },
@@ -18859,7 +18859,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 31,
-        ["points"] = 9795.83,
+        ["points"] = 9795.86,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 31,
@@ -18875,7 +18875,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 31,
-        ["points"] = 9572.94,
+        ["points"] = 9573.0,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 30,
@@ -18887,11 +18887,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 32,
-        ["points"] = 8897.81,
+        ["points"] = 8897.97,
       },
       ["The Lich King"] = {
         ["kill_count"] = 32,
-        ["points"] = 9881.62,
+        ["points"] = 9881.64,
       },
     },
   },
@@ -18906,7 +18906,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 23,
-        ["points"] = 9611.93,
+        ["points"] = 9611.99,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 41,
@@ -18922,7 +18922,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 25,
-        ["points"] = 9266.58,
+        ["points"] = 9266.68,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 39,
@@ -18934,11 +18934,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 24,
-        ["points"] = 8601.12,
+        ["points"] = 8601.32,
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 9228.97,
+        ["points"] = 9229.09,
       },
     },
   },
@@ -18953,7 +18953,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 9904.43,
+        ["points"] = 9904.44,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -18969,7 +18969,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 9570.29,
+        ["points"] = 9570.35,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -18981,11 +18981,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 9604.41,
+        ["points"] = 9604.47,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9306.85,
+        ["points"] = 9306.96,
       },
     },
   },
@@ -19000,7 +19000,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 20,
-        ["points"] = 9898.64,
+        ["points"] = 9898.65,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 18,
@@ -19016,7 +19016,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 20,
-        ["points"] = 9290.45,
+        ["points"] = 9290.55,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -19028,11 +19028,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 21,
-        ["points"] = 8239.93,
+        ["points"] = 8240.18,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9046.73,
+        ["points"] = 9046.88,
       },
     },
   },
@@ -19047,7 +19047,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 9239.79,
+        ["points"] = 9239.9,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -19063,7 +19063,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 17,
-        ["points"] = 9006.63,
+        ["points"] = 9006.76,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
@@ -19075,11 +19075,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 7457.36,
+        ["points"] = 7457.72,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 8898.75,
+        ["points"] = 8898.93,
       },
     },
   },
@@ -19094,7 +19094,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 29,
-        ["points"] = 9232.55,
+        ["points"] = 9232.66,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 30,
@@ -19110,7 +19110,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 31,
-        ["points"] = 9518.57,
+        ["points"] = 9518.63,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 32,
@@ -19122,11 +19122,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 31,
-        ["points"] = 8829.01,
+        ["points"] = 8829.18,
       },
       ["The Lich King"] = {
         ["kill_count"] = 35,
-        ["points"] = 9367.6,
+        ["points"] = 9367.7,
       },
     },
   },
@@ -19141,7 +19141,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 9739.36,
+        ["points"] = 9739.39,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -19157,7 +19157,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 9399.2,
+        ["points"] = 9399.28,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
@@ -19169,11 +19169,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9860.97,
+        ["points"] = 9860.99,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 7985.98,
+        ["points"] = 7986.29,
       },
     },
   },
@@ -19188,7 +19188,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 30,
-        ["points"] = 8149.44,
+        ["points"] = 8149.7,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 33,
@@ -19204,7 +19204,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 30,
-        ["points"] = 9519.89,
+        ["points"] = 9519.96,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 31,
@@ -19216,11 +19216,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 31,
-        ["points"] = 8649.85,
+        ["points"] = 8650.04,
       },
       ["The Lich King"] = {
         ["kill_count"] = 28,
-        ["points"] = 8485.98,
+        ["points"] = 8486.22,
       },
     },
   },
@@ -19235,7 +19235,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 31,
-        ["points"] = 9681.44,
+        ["points"] = 9681.48,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 35,
@@ -19251,7 +19251,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 28,
-        ["points"] = 8355.44,
+        ["points"] = 8355.66,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 32,
@@ -19263,11 +19263,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 29,
-        ["points"] = 9729.11,
+        ["points"] = 9729.15,
       },
       ["The Lich King"] = {
         ["kill_count"] = 30,
-        ["points"] = 9660.44,
+        ["points"] = 9660.49,
       },
     },
   },
@@ -19282,7 +19282,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 19,
-        ["points"] = 9370.11,
+        ["points"] = 9370.2,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -19298,7 +19298,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 18,
-        ["points"] = 8600.8,
+        ["points"] = 8600.98,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
@@ -19310,11 +19310,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 9577.18,
+        ["points"] = 9577.24,
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 9370.72,
+        ["points"] = 9370.81,
       },
     },
   },
@@ -19329,7 +19329,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 9656.82,
+        ["points"] = 9656.87,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 22,
@@ -19345,7 +19345,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 20,
-        ["points"] = 9742.71,
+        ["points"] = 9742.74,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -19357,11 +19357,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 20,
-        ["points"] = 9610.15,
+        ["points"] = 9610.2,
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 7984.42,
+        ["points"] = 7984.74,
       },
     },
   },
@@ -19376,7 +19376,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 9512.02,
+        ["points"] = 9512.09,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -19392,7 +19392,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 8978.78,
+        ["points"] = 8978.92,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -19404,11 +19404,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 8724.38,
+        ["points"] = 8724.56,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9141.74,
+        ["points"] = 9141.88,
       },
     },
   },
@@ -19423,7 +19423,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 9640.89,
+        ["points"] = 9640.94,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -19439,7 +19439,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 9202.92,
+        ["points"] = 9203.02,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -19451,11 +19451,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 9535.62,
+        ["points"] = 9535.68,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9199.38,
+        ["points"] = 9199.5,
       },
     },
   },
@@ -19470,7 +19470,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9732.12,
+        ["points"] = 9732.16,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -19486,7 +19486,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 9,
-        ["points"] = 9542.44,
+        ["points"] = 9542.5,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -19498,11 +19498,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 9387.99,
+        ["points"] = 9388.08,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9081.0,
+        ["points"] = 9081.14,
       },
     },
   },
@@ -19517,7 +19517,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 32,
-        ["points"] = 9918.91,
+        ["points"] = 9918.92,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 34,
@@ -19533,7 +19533,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 32,
-        ["points"] = 9659.15,
+        ["points"] = 9659.2,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 34,
@@ -19545,11 +19545,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 33,
-        ["points"] = 9326.36,
+        ["points"] = 9326.45,
       },
       ["The Lich King"] = {
         ["kill_count"] = 34,
-        ["points"] = 9211.84,
+        ["points"] = 9211.96,
       },
     },
   },
@@ -19564,7 +19564,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 20,
-        ["points"] = 9319.43,
+        ["points"] = 9319.53,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 25,
@@ -19580,7 +19580,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 20,
-        ["points"] = 8977.45,
+        ["points"] = 8977.59,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 25,
@@ -19592,11 +19592,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 21,
-        ["points"] = 8571.02,
+        ["points"] = 8571.22,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9496.88,
+        ["points"] = 9496.96,
       },
     },
   },
@@ -19611,7 +19611,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 8689.55,
+        ["points"] = 8689.74,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -19627,7 +19627,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 3,
-        ["points"] = 8810.34,
+        ["points"] = 8810.5,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
@@ -19639,11 +19639,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9234.63,
+        ["points"] = 9234.74,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 8950.16,
+        ["points"] = 8950.32,
       },
     },
   },
@@ -19658,7 +19658,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 9694.47,
+        ["points"] = 9694.51,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -19674,7 +19674,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 20,
-        ["points"] = 9254.64,
+        ["points"] = 9254.74,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 24,
@@ -19686,11 +19686,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 7268.17,
+        ["points"] = 7268.56,
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 8568.54,
+        ["points"] = 8568.76,
       },
     },
   },
@@ -19705,7 +19705,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 29,
-        ["points"] = 9397.63,
+        ["points"] = 9397.71,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 30,
@@ -19721,7 +19721,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 31,
-        ["points"] = 9452.25,
+        ["points"] = 9452.33,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 33,
@@ -19733,11 +19733,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 31,
-        ["points"] = 8525.15,
+        ["points"] = 8525.37,
       },
       ["The Lich King"] = {
         ["kill_count"] = 31,
-        ["points"] = 9123.05,
+        ["points"] = 9123.19,
       },
     },
   },
@@ -19752,7 +19752,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 9345.5,
+        ["points"] = 9345.59,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -19768,7 +19768,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 9171.09,
+        ["points"] = 9171.2,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -19780,11 +19780,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 8770.25,
+        ["points"] = 8770.42,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 9769.47,
+        ["points"] = 9769.51,
       },
     },
   },
@@ -19799,7 +19799,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 9516.36,
+        ["points"] = 9516.43,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 18,
@@ -19815,7 +19815,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 18,
-        ["points"] = 8994.69,
+        ["points"] = 8994.83,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
@@ -19827,11 +19827,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 7830.01,
+        ["points"] = 7830.32,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 8769.47,
+        ["points"] = 8769.66,
       },
     },
   },
@@ -19846,7 +19846,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 8266.72,
+        ["points"] = 8266.98,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -19862,7 +19862,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 9220.16,
+        ["points"] = 9220.26,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -19874,16 +19874,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 9218.86,
+        ["points"] = 9218.97,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9353.58,
+        ["points"] = 9353.68,
       },
     },
   },
   ["Jabrony"] = {
-    ["percentile"] = 92.03,
+    ["percentile"] = 92.04,
     ["server"] = "Icecrown",
     ["overall_rank"] = 425,
     ["bosses"] = {
@@ -19893,7 +19893,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 8835.79,
+        ["points"] = 8835.96,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -19909,7 +19909,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 9265.25,
+        ["points"] = 9265.35,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -19921,11 +19921,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 8978.07,
+        ["points"] = 8978.22,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9073.21,
+        ["points"] = 9073.35,
       },
     },
   },
@@ -19940,7 +19940,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9662.61,
+        ["points"] = 9662.66,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -19956,7 +19956,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 9680.37,
+        ["points"] = 9680.41,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -19968,11 +19968,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9624.48,
+        ["points"] = 9624.53,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9922.12,
+        ["points"] = 9922.13,
       },
     },
   },
@@ -19987,7 +19987,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 9403.42,
+        ["points"] = 9403.5,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 20,
@@ -20003,7 +20003,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 18,
-        ["points"] = 9059.68,
+        ["points"] = 9059.81,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -20015,11 +20015,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 8622.62,
+        ["points"] = 8622.81,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 8730.53,
+        ["points"] = 8730.73,
       },
     },
   },
@@ -20034,7 +20034,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 9387.49,
+        ["points"] = 9387.58,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -20050,7 +20050,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 17,
-        ["points"] = 8843.5,
+        ["points"] = 8843.65,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -20062,11 +20062,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 8228.46,
+        ["points"] = 8228.72,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9387.85,
+        ["points"] = 9387.95,
       },
     },
   },
@@ -20081,7 +20081,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 8163.92,
+        ["points"] = 8164.18,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -20097,7 +20097,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 8590.19,
+        ["points"] = 8590.37,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -20109,16 +20109,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 9559.98,
+        ["points"] = 9560.05,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9414.33,
+        ["points"] = 9414.42,
       },
     },
   },
   ["Jessxl"] = {
-    ["percentile"] = 91.98,
+    ["percentile"] = 91.99,
     ["server"] = "Icecrown",
     ["overall_rank"] = 430,
     ["bosses"] = {
@@ -20128,7 +20128,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 9554.01,
+        ["points"] = 9554.08,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 22,
@@ -20144,7 +20144,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 18,
-        ["points"] = 8948.28,
+        ["points"] = 8948.42,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -20156,11 +20156,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 8634.08,
+        ["points"] = 8634.28,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 8336.45,
+        ["points"] = 8336.71,
       },
     },
   },
@@ -20175,7 +20175,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 8876.34,
+        ["points"] = 8876.5,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -20191,7 +20191,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 8417.77,
+        ["points"] = 8417.98,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -20203,11 +20203,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 8959.44,
+        ["points"] = 8959.59,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9489.1,
+        ["points"] = 9489.18,
       },
     },
   },
@@ -20222,7 +20222,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 9416.45,
+        ["points"] = 9416.53,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 18,
@@ -20238,7 +20238,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 18,
-        ["points"] = 9468.17,
+        ["points"] = 9468.24,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
@@ -20250,11 +20250,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 8588.22,
+        ["points"] = 8588.42,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 8982.87,
+        ["points"] = 8983.02,
       },
     },
   },
@@ -20269,7 +20269,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 7549.96,
+        ["points"] = 7550.31,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -20285,7 +20285,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 8673.74,
+        ["points"] = 8673.92,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -20297,11 +20297,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9643.11,
+        ["points"] = 9643.16,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9506.23,
+        ["points"] = 9506.31,
       },
     },
   },
@@ -20316,7 +20316,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 9422.24,
+        ["points"] = 9422.33,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -20332,7 +20332,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 8598.14,
+        ["points"] = 8598.33,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -20344,11 +20344,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 9448.19,
+        ["points"] = 9448.27,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 9384.74,
+        ["points"] = 9384.83,
       },
     },
   },
@@ -20363,7 +20363,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 9380.25,
+        ["points"] = 9380.34,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -20379,7 +20379,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 24,
-        ["points"] = 9428.38,
+        ["points"] = 9428.46,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -20391,11 +20391,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 20,
-        ["points"] = 9389.42,
+        ["points"] = 9389.51,
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 8914.33,
+        ["points"] = 8914.5,
       },
     },
   },
@@ -20410,7 +20410,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 7567.33,
+        ["points"] = 7567.68,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -20426,7 +20426,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 9326.26,
+        ["points"] = 9326.35,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -20438,11 +20438,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 9478.29,
+        ["points"] = 9478.36,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 7919.0,
+        ["points"] = 7919.33,
       },
     },
   },
@@ -20457,7 +20457,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 9695.92,
+        ["points"] = 9695.96,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -20473,7 +20473,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 9526.53,
+        ["points"] = 9526.59,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -20485,11 +20485,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 9551.38,
+        ["points"] = 9551.45,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9862.93,
+        ["points"] = 9862.95,
       },
     },
   },
@@ -20504,7 +20504,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 8172.6,
+        ["points"] = 8172.87,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -20520,7 +20520,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 8087.53,
+        ["points"] = 8087.79,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -20532,11 +20532,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9410.92,
+        ["points"] = 9411.01,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9225.86,
+        ["points"] = 9225.98,
       },
     },
   },
@@ -20551,7 +20551,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 9810.31,
+        ["points"] = 9810.34,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -20567,7 +20567,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 17,
-        ["points"] = 9521.22,
+        ["points"] = 9521.28,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -20579,11 +20579,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 9505.52,
+        ["points"] = 9505.59,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9685.36,
+        ["points"] = 9685.41,
       },
     },
   },
@@ -20598,7 +20598,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9484.51,
+        ["points"] = 9484.58,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -20614,7 +20614,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 9274.54,
+        ["points"] = 9274.63,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -20626,16 +20626,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9409.49,
+        ["points"] = 9409.57,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9218.07,
+        ["points"] = 9218.19,
       },
     },
   },
   ["Tinylolx"] = {
-    ["percentile"] = 91.89,
+    ["percentile"] = 91.9,
     ["server"] = "Icecrown",
     ["overall_rank"] = 441,
     ["bosses"] = {
@@ -20645,7 +20645,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 23,
-        ["points"] = 8385.46,
+        ["points"] = 8385.7,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 26,
@@ -20661,7 +20661,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 26,
-        ["points"] = 9267.9,
+        ["points"] = 9268.0,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 27,
@@ -20673,11 +20673,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 27,
-        ["points"] = 8697.15,
+        ["points"] = 8697.33,
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 9587.23,
+        ["points"] = 9587.29,
       },
     },
   },
@@ -20692,7 +20692,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 8863.31,
+        ["points"] = 8863.47,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -20708,7 +20708,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 8531.83,
+        ["points"] = 8532.02,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -20720,11 +20720,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9615.88,
+        ["points"] = 9615.94,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 9730.53,
+        ["points"] = 9730.57,
       },
     },
   },
@@ -20739,7 +20739,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 28,
-        ["points"] = 8701.13,
+        ["points"] = 8701.32,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 30,
@@ -20755,7 +20755,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 25,
-        ["points"] = 8836.87,
+        ["points"] = 8837.02,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 29,
@@ -20767,11 +20767,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 25,
-        ["points"] = 8975.2,
+        ["points"] = 8975.35,
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 8457.94,
+        ["points"] = 8458.18,
       },
     },
   },
@@ -20786,7 +20786,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 8995.08,
+        ["points"] = 8995.22,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -20802,7 +20802,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 8795.76,
+        ["points"] = 8795.92,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -20814,11 +20814,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9525.58,
+        ["points"] = 9525.65,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 8830.22,
+        ["points"] = 8830.4,
       },
     },
   },
@@ -20833,7 +20833,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 31,
-        ["points"] = 9774.11,
+        ["points"] = 9774.14,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 31,
@@ -20849,7 +20849,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 32,
-        ["points"] = 9851.46,
+        ["points"] = 9851.48,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 31,
@@ -20861,11 +20861,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 30,
-        ["points"] = 9365.06,
+        ["points"] = 9365.15,
       },
       ["The Lich King"] = {
         ["kill_count"] = 34,
-        ["points"] = 9870.72,
+        ["points"] = 9870.74,
       },
     },
   },
@@ -20880,7 +20880,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 66,
-        ["points"] = 9013.9,
+        ["points"] = 9014.04,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 69,
@@ -20896,7 +20896,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 65,
-        ["points"] = 9440.32,
+        ["points"] = 9440.39,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 67,
@@ -20908,11 +20908,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 64,
-        ["points"] = 9836.61,
+        ["points"] = 9836.63,
       },
       ["The Lich King"] = {
         ["kill_count"] = 64,
-        ["points"] = 9426.79,
+        ["points"] = 9426.88,
       },
     },
   },
@@ -20927,7 +20927,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 9639.44,
+        ["points"] = 9639.5,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 22,
@@ -20943,7 +20943,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 20,
-        ["points"] = 9136.6,
+        ["points"] = 9136.72,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
@@ -20955,11 +20955,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 9822.27,
+        ["points"] = 9822.3,
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 9487.54,
+        ["points"] = 9487.62,
       },
     },
   },
@@ -20974,7 +20974,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 9601.8,
+        ["points"] = 9601.85,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -20990,7 +20990,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 17,
-        ["points"] = 9294.43,
+        ["points"] = 9294.52,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -21002,11 +21002,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 9971.33,
+        ["points"] = 9971.34,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9934.58,
+        ["points"] = 9934.59,
       },
     },
   },
@@ -21021,7 +21021,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 9659.72,
+        ["points"] = 9659.77,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -21037,7 +21037,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 9029.18,
+        ["points"] = 9029.31,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -21049,11 +21049,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 7979.07,
+        ["points"] = 7979.36,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 8970.4,
+        ["points"] = 8970.57,
       },
     },
   },
@@ -21068,7 +21068,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 24,
-        ["points"] = 8285.55,
+        ["points"] = 8285.8,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 24,
@@ -21084,7 +21084,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 24,
-        ["points"] = 8269.23,
+        ["points"] = 8269.46,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 25,
@@ -21096,11 +21096,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 23,
-        ["points"] = 8456.36,
+        ["points"] = 8456.58,
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 9082.55,
+        ["points"] = 9082.7,
       },
     },
   },
@@ -21115,7 +21115,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 25,
-        ["points"] = 9071.82,
+        ["points"] = 9071.96,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 27,
@@ -21131,7 +21131,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 29,
-        ["points"] = 9157.82,
+        ["points"] = 9157.94,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 28,
@@ -21143,11 +21143,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 28,
-        ["points"] = 9402.32,
+        ["points"] = 9402.41,
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 9216.51,
+        ["points"] = 9216.63,
       },
     },
   },
@@ -21162,7 +21162,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 8950.19,
+        ["points"] = 8950.34,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -21178,7 +21178,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 9255.97,
+        ["points"] = 9256.07,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -21190,16 +21190,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 8737.28,
+        ["points"] = 8737.46,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 8429.91,
+        ["points"] = 8430.15,
       },
     },
   },
   ["Wtsxtc"] = {
-    ["percentile"] = 91.68,
+    ["percentile"] = 91.69,
     ["server"] = "Icecrown",
     ["overall_rank"] = 453,
     ["bosses"] = {
@@ -21209,7 +21209,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 9252.82,
+        ["points"] = 9252.93,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -21225,7 +21225,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 9730.77,
+        ["points"] = 9730.8,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -21237,11 +21237,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 9362.19,
+        ["points"] = 9362.28,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9485.98,
+        ["points"] = 9486.06,
       },
     },
   },
@@ -21256,7 +21256,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 8498.41,
+        ["points"] = 8498.62,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -21272,7 +21272,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 9538.46,
+        ["points"] = 9538.52,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -21284,11 +21284,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 8920.74,
+        ["points"] = 8920.89,
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 9571.65,
+        ["points"] = 9571.72,
       },
     },
   },
@@ -21303,7 +21303,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 20,
-        ["points"] = 9816.1,
+        ["points"] = 9816.13,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 24,
@@ -21319,7 +21319,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 21,
-        ["points"] = 8054.38,
+        ["points"] = 8054.63,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 21,
@@ -21331,11 +21331,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 21,
-        ["points"] = 9621.61,
+        ["points"] = 9621.67,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9239.88,
+        ["points"] = 9239.99,
       },
     },
   },
@@ -21350,7 +21350,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 8304.37,
+        ["points"] = 8304.62,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -21366,7 +21366,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 17,
-        ["points"] = 9168.44,
+        ["points"] = 9168.55,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
@@ -21378,11 +21378,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 9591.51,
+        ["points"] = 9591.57,
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 9838.01,
+        ["points"] = 9838.03,
       },
     },
   },
@@ -21397,7 +21397,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 28,
-        ["points"] = 8592.53,
+        ["points"] = 8592.73,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 30,
@@ -21413,7 +21413,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 28,
-        ["points"] = 9362.07,
+        ["points"] = 9362.15,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 31,
@@ -21425,11 +21425,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 27,
-        ["points"] = 8377.53,
+        ["points"] = 8377.76,
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 8771.03,
+        ["points"] = 8771.22,
       },
     },
   },
@@ -21444,7 +21444,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9716.19,
+        ["points"] = 9716.23,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -21460,7 +21460,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 9640.58,
+        ["points"] = 9640.63,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -21472,11 +21472,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9842.34,
+        ["points"] = 9842.36,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 8514.02,
+        ["points"] = 8514.25,
       },
     },
   },
@@ -21491,7 +21491,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 8576.6,
+        ["points"] = 8576.81,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -21507,7 +21507,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 9297.08,
+        ["points"] = 9297.18,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
@@ -21519,11 +21519,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 8864.84,
+        ["points"] = 8865.0,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9635.51,
+        ["points"] = 9635.57,
       },
     },
   },
@@ -21538,7 +21538,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 8426.01,
+        ["points"] = 8426.23,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -21554,7 +21554,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 9351.46,
+        ["points"] = 9351.54,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -21566,11 +21566,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9148.63,
+        ["points"] = 9148.75,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9233.64,
+        ["points"] = 9233.76,
       },
     },
   },
@@ -21585,7 +21585,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 25,
-        ["points"] = 9691.57,
+        ["points"] = 9691.62,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 26,
@@ -21601,7 +21601,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 25,
-        ["points"] = 9629.97,
+        ["points"] = 9630.02,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 25,
@@ -21613,11 +21613,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 26,
-        ["points"] = 8515.12,
+        ["points"] = 8515.33,
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 9778.82,
+        ["points"] = 9778.85,
       },
     },
   },
@@ -21632,7 +21632,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 23,
-        ["points"] = 9807.41,
+        ["points"] = 9807.44,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 27,
@@ -21648,7 +21648,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 27,
-        ["points"] = 7793.1,
+        ["points"] = 7793.4,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 26,
@@ -21660,11 +21660,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 25,
-        ["points"] = 8691.41,
+        ["points"] = 8691.6,
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9267.91,
+        ["points"] = 9268.03,
       },
     },
   },
@@ -21679,7 +21679,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 7609.33,
+        ["points"] = 7609.67,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -21695,7 +21695,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 9356.76,
+        ["points"] = 9356.85,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -21707,11 +21707,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 8583.92,
+        ["points"] = 8584.12,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9475.08,
+        ["points"] = 9475.16,
       },
     },
   },
@@ -21726,7 +21726,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 9824.79,
+        ["points"] = 9824.82,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 22,
@@ -21742,7 +21742,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 22,
-        ["points"] = 8368.7,
+        ["points"] = 8368.92,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -21754,11 +21754,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 23,
-        ["points"] = 8803.21,
+        ["points"] = 8803.38,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 8665.11,
+        ["points"] = 8665.32,
       },
     },
   },
@@ -21773,7 +21773,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 33,
-        ["points"] = 9364.32,
+        ["points"] = 9364.41,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 38,
@@ -21789,7 +21789,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 35,
-        ["points"] = 9106.1,
+        ["points"] = 9106.22,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 40,
@@ -21801,11 +21801,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 35,
-        ["points"] = 9119.97,
+        ["points"] = 9120.09,
       },
       ["The Lich King"] = {
         ["kill_count"] = 35,
-        ["points"] = 8331.78,
+        ["points"] = 8332.04,
       },
     },
   },
@@ -21820,7 +21820,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 8560.67,
+        ["points"] = 8560.88,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -21836,7 +21836,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 9877.98,
+        ["points"] = 9878.0,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -21848,11 +21848,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 9124.27,
+        ["points"] = 9124.39,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9630.84,
+        ["points"] = 9630.9,
       },
     },
   },
@@ -21867,7 +21867,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 31,
-        ["points"] = 9693.02,
+        ["points"] = 9693.07,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 42,
@@ -21883,7 +21883,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 33,
-        ["points"] = 9042.44,
+        ["points"] = 9042.57,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 39,
@@ -21895,11 +21895,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 32,
-        ["points"] = 9257.56,
+        ["points"] = 9257.67,
       },
       ["The Lich King"] = {
         ["kill_count"] = 31,
-        ["points"] = 7060.75,
+        ["points"] = 7061.21,
       },
     },
   },
@@ -21914,7 +21914,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 9150.01,
+        ["points"] = 9150.14,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -21930,7 +21930,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 9636.6,
+        ["points"] = 9636.65,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -21942,11 +21942,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 9545.65,
+        ["points"] = 9545.72,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 7686.92,
+        ["points"] = 7687.28,
       },
     },
   },
@@ -21961,7 +21961,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 26,
-        ["points"] = 9231.1,
+        ["points"] = 9231.21,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 46,
@@ -21977,7 +21977,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 28,
-        ["points"] = 9423.08,
+        ["points"] = 9423.15,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 44,
@@ -21989,11 +21989,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 25,
-        ["points"] = 9462.52,
+        ["points"] = 9462.6,
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 8506.23,
+        ["points"] = 8506.46,
       },
     },
   },
@@ -22008,7 +22008,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 9672.75,
+        ["points"] = 9672.8,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -22024,7 +22024,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 9175.07,
+        ["points"] = 9175.18,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
@@ -22036,11 +22036,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9164.4,
+        ["points"] = 9164.52,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
-        ["points"] = 7669.78,
+        ["points"] = 7670.14,
       },
     },
   },
@@ -22055,7 +22055,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 9115.26,
+        ["points"] = 9115.39,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -22071,7 +22071,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 22,
-        ["points"] = 9534.48,
+        ["points"] = 9534.54,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -22083,11 +22083,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 21,
-        ["points"] = 7705.32,
+        ["points"] = 7705.65,
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 8931.46,
+        ["points"] = 8931.63,
       },
     },
   },
@@ -22102,7 +22102,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 9467.13,
+        ["points"] = 9467.21,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -22118,7 +22118,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 18,
-        ["points"] = 9612.73,
+        ["points"] = 9612.78,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
@@ -22130,11 +22130,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 9025.37,
+        ["points"] = 9025.51,
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 8964.17,
+        ["points"] = 8964.34,
       },
     },
   },
@@ -22145,7 +22145,7 @@ UWULogsData[6][2] = {
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 5,
-        ["points"] = 7211.86,
+        ["points"] = 7212.26,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
@@ -22169,7 +22169,7 @@ UWULogsData[6][2] = {
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
-        ["points"] = 6580.2,
+        ["points"] = 6580.7,
       },
       ["Blood-Queen Lana'thel"] = {
         ["kill_count"] = 5,
@@ -22196,7 +22196,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 8732.99,
+        ["points"] = 8733.17,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -22212,7 +22212,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 8988.06,
+        ["points"] = 8988.2,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -22228,7 +22228,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 9419.0,
+        ["points"] = 9419.09,
       },
     },
   },
@@ -22243,7 +22243,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 9519.26,
+        ["points"] = 9519.33,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -22259,7 +22259,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 9672.41,
+        ["points"] = 9672.46,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -22271,11 +22271,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9932.64,
+        ["points"] = 9932.65,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9294.39,
+        ["points"] = 9294.5,
       },
     },
   },
@@ -22290,7 +22290,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9852.3,
+        ["points"] = 9852.32,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -22306,7 +22306,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 9,
-        ["points"] = 9561.01,
+        ["points"] = 9561.07,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -22318,11 +22318,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9231.76,
+        ["points"] = 9231.87,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 8014.02,
+        ["points"] = 8014.33,
       },
     },
   },
@@ -22337,7 +22337,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 9714.74,
+        ["points"] = 9714.78,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 24,
@@ -22353,7 +22353,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 18,
-        ["points"] = 8356.76,
+        ["points"] = 8356.98,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 24,
@@ -22365,11 +22365,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 7570.59,
+        ["points"] = 7570.94,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9702.49,
+        ["points"] = 9702.54,
       },
     },
   },
@@ -22384,7 +22384,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 8854.62,
+        ["points"] = 8854.79,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -22400,7 +22400,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 14,
-        ["points"] = 9071.62,
+        ["points"] = 9071.74,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -22412,16 +22412,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 9816.54,
+        ["points"] = 9816.57,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9091.9,
+        ["points"] = 9092.04,
       },
     },
   },
   ["Kaarollane"] = {
-    ["percentile"] = 91.24,
+    ["percentile"] = 91.25,
     ["server"] = "Icecrown",
     ["overall_rank"] = 479,
     ["bosses"] = {
@@ -22431,7 +22431,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 51,
-        ["points"] = 9352.74,
+        ["points"] = 9352.83,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 54,
@@ -22447,7 +22447,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 51,
-        ["points"] = 9232.1,
+        ["points"] = 9232.2,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 55,
@@ -22459,11 +22459,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 52,
-        ["points"] = 8006.31,
+        ["points"] = 8006.59,
       },
       ["The Lich King"] = {
         ["kill_count"] = 44,
-        ["points"] = 7728.97,
+        ["points"] = 7729.33,
       },
     },
   },
@@ -22478,7 +22478,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 9080.51,
+        ["points"] = 9080.64,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -22494,7 +22494,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 9112.73,
+        ["points"] = 9112.85,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -22506,11 +22506,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 9653.15,
+        ["points"] = 9653.2,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 8434.58,
+        ["points"] = 8434.82,
       },
     },
   },
@@ -22525,7 +22525,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 9074.72,
+        ["points"] = 9074.85,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -22541,7 +22541,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 23,
-        ["points"] = 9320.95,
+        ["points"] = 9321.04,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -22553,11 +22553,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 23,
-        ["points"] = 9486.89,
+        ["points"] = 9486.96,
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 9144.86,
+        ["points"] = 9144.99,
       },
     },
   },
@@ -22572,7 +22572,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 27,
-        ["points"] = 9206.49,
+        ["points"] = 9206.6,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 27,
@@ -22588,7 +22588,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 25,
-        ["points"] = 9946.95,
+        ["points"] = 9946.96,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 27,
@@ -22600,11 +22600,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 27,
-        ["points"] = 9329.22,
+        ["points"] = 9329.32,
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 8376.95,
+        ["points"] = 8377.2,
       },
     },
   },
@@ -22619,7 +22619,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 8488.27,
+        ["points"] = 8488.49,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -22635,7 +22635,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 8619.36,
+        ["points"] = 8619.55,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -22647,11 +22647,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 8884.91,
+        ["points"] = 8885.07,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9771.03,
+        ["points"] = 9771.06,
       },
     },
   },
@@ -22666,7 +22666,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 19,
-        ["points"] = 9900.09,
+        ["points"] = 9900.1,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 28,
@@ -22682,7 +22682,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 20,
-        ["points"] = 9614.06,
+        ["points"] = 9614.11,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 27,
@@ -22694,11 +22694,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 8446.32,
+        ["points"] = 8446.55,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 7193.15,
+        ["points"] = 7193.58,
       },
     },
   },
@@ -22713,7 +22713,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 9212.28,
+        ["points"] = 9212.39,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -22729,7 +22729,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 9204.24,
+        ["points"] = 9204.35,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -22741,11 +22741,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 9307.73,
+        ["points"] = 9307.82,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9515.58,
+        ["points"] = 9515.65,
       },
     },
   },
@@ -22760,7 +22760,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 9850.85,
+        ["points"] = 9850.88,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -22776,7 +22776,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 9694.96,
+        ["points"] = 9695.0,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
@@ -22788,11 +22788,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 9246.09,
+        ["points"] = 9246.2,
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 9253.89,
+        ["points"] = 9254.01,
       },
     },
   },
@@ -22807,7 +22807,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 7865.62,
+        ["points"] = 7865.93,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -22823,7 +22823,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 7972.15,
+        ["points"] = 7972.42,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -22835,11 +22835,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 8701.45,
+        ["points"] = 8701.63,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9303.74,
+        ["points"] = 9303.85,
       },
     },
   },
@@ -22854,7 +22854,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 8501.3,
+        ["points"] = 8501.52,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -22870,7 +22870,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 9,
-        ["points"] = 9441.64,
+        ["points"] = 9441.72,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -22882,11 +22882,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 8562.42,
+        ["points"] = 8562.63,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9697.82,
+        ["points"] = 9697.87,
       },
     },
   },
@@ -22901,7 +22901,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 9045.76,
+        ["points"] = 9045.9,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -22917,7 +22917,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 9693.63,
+        ["points"] = 9693.67,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -22929,11 +22929,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 9611.58,
+        ["points"] = 9611.64,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8246.11,
+        ["points"] = 8246.38,
       },
     },
   },
@@ -22948,7 +22948,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 9471.47,
+        ["points"] = 9471.55,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
@@ -22964,7 +22964,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 23,
-        ["points"] = 9180.37,
+        ["points"] = 9180.48,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 24,
@@ -22976,11 +22976,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 23,
-        ["points"] = 6541.49,
+        ["points"] = 6541.99,
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 9334.89,
+        ["points"] = 9334.99,
       },
     },
   },
@@ -22995,7 +22995,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 9665.51,
+        ["points"] = 9665.56,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -23011,7 +23011,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 14,
-        ["points"] = 9490.72,
+        ["points"] = 9490.78,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -23023,11 +23023,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 8469.26,
+        ["points"] = 8469.48,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 7795.95,
+        ["points"] = 7796.29,
       },
     },
   },
@@ -23042,7 +23042,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 9540.98,
+        ["points"] = 9541.05,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 24,
@@ -23058,7 +23058,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 22,
-        ["points"] = 9702.92,
+        ["points"] = 9702.96,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 24,
@@ -23070,16 +23070,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 22,
-        ["points"] = 8301.56,
+        ["points"] = 8301.81,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9429.91,
+        ["points"] = 9430.0,
       },
     },
   },
   ["Nookyz"] = {
-    ["percentile"] = 90.99,
+    ["percentile"] = 91.0,
     ["server"] = "Icecrown",
     ["overall_rank"] = 493,
     ["bosses"] = {
@@ -23089,7 +23089,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 9567.04,
+        ["points"] = 9567.11,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -23105,7 +23105,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 8916.45,
+        ["points"] = 8916.59,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
@@ -23117,11 +23117,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 7447.33,
+        ["points"] = 7447.69,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 8797.51,
+        ["points"] = 8797.7,
       },
     },
   },
@@ -23136,7 +23136,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 9184.77,
+        ["points"] = 9184.88,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -23152,7 +23152,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 20,
-        ["points"] = 9677.72,
+        ["points"] = 9677.76,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 21,
@@ -23164,11 +23164,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 9363.62,
+        ["points"] = 9363.71,
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 9732.09,
+        ["points"] = 9732.13,
       },
     },
   },
@@ -23183,7 +23183,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 9497.54,
+        ["points"] = 9497.61,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 27,
@@ -23199,7 +23199,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 9358.09,
+        ["points"] = 9358.18,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -23211,11 +23211,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 9793.61,
+        ["points"] = 9793.64,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 7409.66,
+        ["points"] = 7410.06,
       },
     },
   },
@@ -23230,7 +23230,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 9535.19,
+        ["points"] = 9535.25,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 18,
@@ -23246,7 +23246,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 18,
-        ["points"] = 9224.14,
+        ["points"] = 9224.24,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
@@ -23258,11 +23258,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 9137.16,
+        ["points"] = 9137.29,
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 9355.14,
+        ["points"] = 9355.24,
       },
     },
   },
@@ -23277,7 +23277,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 33,
-        ["points"] = 9047.21,
+        ["points"] = 9047.34,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 36,
@@ -23293,7 +23293,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 32,
-        ["points"] = 9155.17,
+        ["points"] = 9155.28,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 32,
@@ -23305,11 +23305,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 34,
-        ["points"] = 8333.3,
+        ["points"] = 8333.33,
       },
       ["The Lich King"] = {
         ["kill_count"] = 29,
-        ["points"] = 9242.99,
+        ["points"] = 9243.11,
       },
     },
   },
@@ -23324,7 +23324,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 9192.01,
+        ["points"] = 9192.12,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -23340,7 +23340,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 8787.8,
+        ["points"] = 8787.96,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -23352,11 +23352,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 8605.42,
+        ["points"] = 8605.62,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 8576.32,
+        ["points"] = 8576.55,
       },
     },
   },
@@ -23371,7 +23371,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 9003.76,
+        ["points"] = 9003.91,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -23387,7 +23387,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 14,
-        ["points"] = 9310.34,
+        ["points"] = 9310.44,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -23399,11 +23399,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 7408.63,
+        ["points"] = 7409.0,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9392.52,
+        ["points"] = 9392.62,
       },
     },
   },
@@ -23418,7 +23418,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 9390.39,
+        ["points"] = 9390.47,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -23434,7 +23434,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 9472.15,
+        ["points"] = 9472.22,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -23446,11 +23446,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 7490.33,
+        ["points"] = 7490.69,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8903.43,
+        ["points"] = 8903.6,
       },
     },
   },
@@ -23465,7 +23465,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 8499.86,
+        ["points"] = 8500.07,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -23481,7 +23481,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 9802.39,
+        ["points"] = 9802.41,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -23493,11 +23493,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 9175.86,
+        ["points"] = 9175.98,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9551.4,
+        ["points"] = 9551.47,
       },
     },
   },
@@ -23512,7 +23512,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 8104.55,
+        ["points"] = 8104.82,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -23528,7 +23528,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 8549.07,
+        ["points"] = 8549.26,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -23540,11 +23540,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 9350.72,
+        ["points"] = 9350.82,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9669.78,
+        ["points"] = 9669.83,
       },
     },
   },
@@ -23559,7 +23559,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 7607.88,
+        ["points"] = 7608.22,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -23575,7 +23575,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 9676.39,
+        ["points"] = 9676.44,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -23587,11 +23587,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 9506.95,
+        ["points"] = 9507.02,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8479.75,
+        ["points"] = 8479.99,
       },
     },
   },
@@ -23606,7 +23606,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 9163.05,
+        ["points"] = 9163.17,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -23622,7 +23622,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 9896.55,
+        ["points"] = 9896.57,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -23634,11 +23634,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 9859.54,
+        ["points"] = 9859.56,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 8006.23,
+        ["points"] = 8006.54,
       },
     },
   },
@@ -23653,7 +23653,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 8899.51,
+        ["points"] = 8899.67,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -23669,7 +23669,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 9579.58,
+        ["points"] = 9579.63,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -23681,11 +23681,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9631.65,
+        ["points"] = 9631.7,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8806.85,
+        ["points"] = 8807.04,
       },
     },
   },
@@ -23700,7 +23700,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 19,
-        ["points"] = 9606.14,
+        ["points"] = 9606.2,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
@@ -23716,7 +23716,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 22,
-        ["points"] = 8728.12,
+        ["points"] = 8728.29,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
@@ -23728,11 +23728,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 20,
-        ["points"] = 8175.43,
+        ["points"] = 8175.7,
       },
       ["The Lich King"] = {
         ["kill_count"] = 29,
-        ["points"] = 9121.5,
+        ["points"] = 9121.63,
       },
     },
   },
@@ -23747,7 +23747,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 37,
-        ["points"] = 9494.64,
+        ["points"] = 9494.72,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 40,
@@ -23763,7 +23763,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 36,
-        ["points"] = 9061.01,
+        ["points"] = 9061.13,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 39,
@@ -23775,11 +23775,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 35,
-        ["points"] = 8883.47,
+        ["points"] = 8883.63,
       },
       ["The Lich King"] = {
         ["kill_count"] = 34,
-        ["points"] = 9285.05,
+        ["points"] = 9285.16,
       },
     },
   },
@@ -23794,7 +23794,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 7541.27,
+        ["points"] = 7541.62,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -23810,7 +23810,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 9411.14,
+        ["points"] = 9411.22,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -23822,11 +23822,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 9547.08,
+        ["points"] = 9547.15,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9026.48,
+        ["points"] = 9026.63,
       },
     },
   },
@@ -23841,7 +23841,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 9451.2,
+        ["points"] = 9451.28,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -23857,7 +23857,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 9315.65,
+        ["points"] = 9315.74,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -23869,11 +23869,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 9191.63,
+        ["points"] = 9191.75,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 8981.31,
+        ["points"] = 8981.47,
       },
     },
   },
@@ -23888,7 +23888,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 9598.9,
+        ["points"] = 9598.96,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -23904,7 +23904,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 9759.95,
+        ["points"] = 9759.98,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
@@ -23916,11 +23916,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 9699.01,
+        ["points"] = 9699.05,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9137.07,
+        ["points"] = 9137.21,
       },
     },
   },
@@ -23935,7 +23935,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9005.21,
+        ["points"] = 9005.36,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -23951,7 +23951,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 9413.79,
+        ["points"] = 9413.87,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -23963,11 +23963,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 8560.99,
+        ["points"] = 8561.19,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 8742.99,
+        ["points"] = 8743.19,
       },
     },
   },
@@ -23982,7 +23982,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 9148.57,
+        ["points"] = 9148.69,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -23998,7 +23998,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 8733.42,
+        ["points"] = 8733.59,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -24010,11 +24010,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9171.56,
+        ["points"] = 9171.68,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8956.39,
+        ["points"] = 8956.55,
       },
     },
   },
@@ -24029,7 +24029,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 30,
-        ["points"] = 9160.15,
+        ["points"] = 9160.27,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 34,
@@ -24045,7 +24045,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 35,
-        ["points"] = 7786.47,
+        ["points"] = 7786.77,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 35,
@@ -24057,11 +24057,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 38,
-        ["points"] = 7895.94,
+        ["points"] = 7896.25,
       },
       ["The Lich King"] = {
         ["kill_count"] = 37,
-        ["points"] = 9445.48,
+        ["points"] = 9445.57,
       },
     },
   },
@@ -24076,7 +24076,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 8443.38,
+        ["points"] = 8443.61,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -24092,7 +24092,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 14,
-        ["points"] = 8665.78,
+        ["points"] = 8665.96,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -24104,11 +24104,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 7890.21,
+        ["points"] = 7890.51,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9373.83,
+        ["points"] = 9373.93,
       },
     },
   },
@@ -24123,7 +24123,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 8596.87,
+        ["points"] = 8597.08,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -24139,7 +24139,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 9507.96,
+        ["points"] = 9508.02,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
@@ -24151,11 +24151,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 9301.99,
+        ["points"] = 9302.09,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 8834.89,
+        ["points"] = 8835.07,
       },
     },
   },
@@ -24170,7 +24170,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 9183.32,
+        ["points"] = 9183.44,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -24186,7 +24186,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 8009.28,
+        ["points"] = 8009.55,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -24198,11 +24198,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 8886.34,
+        ["points"] = 8886.5,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9457.94,
+        ["points"] = 9458.03,
       },
     },
   },
@@ -24217,7 +24217,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 8825.66,
+        ["points"] = 8825.83,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -24233,7 +24233,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 9429.71,
+        ["points"] = 9429.78,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -24245,11 +24245,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 8529.45,
+        ["points"] = 8529.66,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 8073.21,
+        ["points"] = 8073.51,
       },
     },
   },
@@ -24264,7 +24264,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 33,
-        ["points"] = 9012.45,
+        ["points"] = 9012.6,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 40,
@@ -24280,7 +24280,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 37,
-        ["points"] = 9615.38,
+        ["points"] = 9615.44,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 40,
@@ -24292,11 +24292,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 35,
-        ["points"] = 7811.38,
+        ["points"] = 7811.69,
       },
       ["The Lich King"] = {
         ["kill_count"] = 34,
-        ["points"] = 8760.12,
+        ["points"] = 8760.32,
       },
     },
   },
@@ -24311,7 +24311,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 9383.15,
+        ["points"] = 9383.23,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -24327,7 +24327,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 9143.24,
+        ["points"] = 9143.35,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -24339,11 +24339,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 8811.81,
+        ["points"] = 8811.98,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 8704.05,
+        ["points"] = 8704.25,
       },
     },
   },
@@ -24358,7 +24358,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 7817.84,
+        ["points"] = 7818.16,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 29,
@@ -24374,7 +24374,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 20,
-        ["points"] = 9449.6,
+        ["points"] = 9449.68,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 27,
@@ -24386,11 +24386,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 21,
-        ["points"] = 8606.85,
+        ["points"] = 8607.05,
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 8562.31,
+        ["points"] = 8562.53,
       },
     },
   },
@@ -24405,7 +24405,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 9391.83,
+        ["points"] = 9391.92,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -24421,7 +24421,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 9188.33,
+        ["points"] = 9188.44,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -24433,11 +24433,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 9664.61,
+        ["points"] = 9664.66,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8705.61,
+        ["points"] = 8705.81,
       },
     },
   },
@@ -24452,7 +24452,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 29,
-        ["points"] = 9435.27,
+        ["points"] = 9435.36,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 31,
@@ -24468,7 +24468,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 32,
-        ["points"] = 9486.74,
+        ["points"] = 9486.81,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 32,
@@ -24480,11 +24480,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 32,
-        ["points"] = 8520.85,
+        ["points"] = 8521.07,
       },
       ["The Lich King"] = {
         ["kill_count"] = 31,
-        ["points"] = 9345.79,
+        ["points"] = 9345.9,
       },
     },
   },
@@ -24499,7 +24499,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 26,
-        ["points"] = 9209.38,
+        ["points"] = 9209.5,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 28,
@@ -24515,7 +24515,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 26,
-        ["points"] = 9072.94,
+        ["points"] = 9073.07,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 29,
@@ -24527,11 +24527,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 26,
-        ["points"] = 8383.26,
+        ["points"] = 8383.49,
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 8531.15,
+        ["points"] = 8531.38,
       },
     },
   },
@@ -24546,7 +24546,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 27,
-        ["points"] = 7156.1,
+        ["points"] = 7156.51,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 28,
@@ -24562,7 +24562,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 26,
-        ["points"] = 9758.62,
+        ["points"] = 9758.65,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 27,
@@ -24574,11 +24574,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 27,
-        ["points"] = 8909.27,
+        ["points"] = 8909.43,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 8990.65,
+        ["points"] = 8990.81,
       },
     },
   },
@@ -24593,7 +24593,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 26,
-        ["points"] = 9306.4,
+        ["points"] = 9306.5,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 26,
@@ -24609,7 +24609,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 27,
-        ["points"] = 9446.95,
+        ["points"] = 9447.02,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 28,
@@ -24621,11 +24621,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 25,
-        ["points"] = 8039.27,
+        ["points"] = 8039.55,
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 9275.7,
+        ["points"] = 9275.81,
       },
     },
   },
@@ -24640,7 +24640,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 7034.46,
+        ["points"] = 7034.89,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -24656,7 +24656,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 9364.72,
+        ["points"] = 9364.81,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -24668,11 +24668,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 9562.85,
+        ["points"] = 9562.91,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 8091.9,
+        ["points"] = 8092.2,
       },
     },
   },
@@ -24687,7 +24687,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 21,
-        ["points"] = 9804.52,
+        ["points"] = 9804.55,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 22,
@@ -24703,7 +24703,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 21,
-        ["points"] = 9306.37,
+        ["points"] = 9306.46,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -24715,11 +24715,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 23,
-        ["points"] = 6980.08,
+        ["points"] = 6980.51,
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 9507.79,
+        ["points"] = 9507.86,
       },
     },
   },
@@ -24734,7 +24734,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 9626.41,
+        ["points"] = 9626.47,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -24750,7 +24750,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 22,
-        ["points"] = 9763.93,
+        ["points"] = 9763.96,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -24762,11 +24762,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 23,
-        ["points"] = 7326.93,
+        ["points"] = 7327.31,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 8839.56,
+        ["points"] = 8839.74,
       },
     },
   },
@@ -24781,7 +24781,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 9787.14,
+        ["points"] = 9787.17,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -24797,7 +24797,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 9379.31,
+        ["points"] = 9379.39,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
@@ -24809,11 +24809,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 9710.48,
+        ["points"] = 9710.52,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9599.69,
+        ["points"] = 9599.75,
       },
     },
   },
@@ -24828,7 +24828,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 9581.52,
+        ["points"] = 9581.58,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -24844,7 +24844,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 8594.16,
+        ["points"] = 8594.35,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -24856,11 +24856,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 8287.23,
+        ["points"] = 8287.47,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8264.8,
+        ["points"] = 8265.07,
       },
     },
   },
@@ -24875,7 +24875,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 9026.93,
+        ["points"] = 9027.07,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -24891,7 +24891,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 8860.74,
+        ["points"] = 8860.89,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
@@ -24903,16 +24903,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 8067.94,
+        ["points"] = 8068.21,
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 8216.51,
+        ["points"] = 8216.79,
       },
     },
   },
   ["Yukizza"] = {
-    ["percentile"] = 90.53,
+    ["percentile"] = 90.54,
     ["server"] = "Icecrown",
     ["overall_rank"] = 532,
     ["bosses"] = {
@@ -24922,7 +24922,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 8912.54,
+        ["points"] = 8912.7,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -24938,7 +24938,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 17,
-        ["points"] = 9144.56,
+        ["points"] = 9144.68,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -24950,11 +24950,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 7937.51,
+        ["points"] = 7937.8,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8048.29,
+        ["points"] = 8048.59,
       },
     },
   },
@@ -24969,7 +24969,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 9342.6,
+        ["points"] = 9342.7,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -24985,7 +24985,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 9,
-        ["points"] = 8689.66,
+        ["points"] = 8689.83,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -24997,11 +24997,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 8758.78,
+        ["points"] = 8758.96,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8180.69,
+        ["points"] = 8180.97,
       },
     },
   },
@@ -25016,7 +25016,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 8310.17,
+        ["points"] = 8310.41,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -25032,7 +25032,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 9167.11,
+        ["points"] = 9167.22,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -25044,11 +25044,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 9796.47,
+        ["points"] = 9796.5,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9320.87,
+        ["points"] = 9320.98,
       },
     },
   },
@@ -25063,7 +25063,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 6660.87,
+        ["points"] = 6661.36,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -25079,7 +25079,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 9015.92,
+        ["points"] = 9016.05,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -25091,11 +25091,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 9281.93,
+        ["points"] = 9282.03,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9386.29,
+        ["points"] = 9386.39,
       },
     },
   },
@@ -25110,7 +25110,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 9580.08,
+        ["points"] = 9580.14,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -25126,7 +25126,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 9,
-        ["points"] = 9827.59,
+        ["points"] = 9827.61,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -25138,11 +25138,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 7607.85,
+        ["points"] = 7608.2,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9443.93,
+        ["points"] = 9444.01,
       },
     },
   },
@@ -25157,7 +25157,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 9559.8,
+        ["points"] = 9559.87,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -25173,7 +25173,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 9,
-        ["points"] = 9133.95,
+        ["points"] = 9134.07,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -25185,11 +25185,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 9418.09,
+        ["points"] = 9418.17,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8641.74,
+        ["points"] = 8641.96,
       },
     },
   },
@@ -25204,7 +25204,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9210.83,
+        ["points"] = 9210.95,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -25220,7 +25220,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 9688.33,
+        ["points"] = 9688.37,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -25232,11 +25232,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 7672.35,
+        ["points"] = 7672.69,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9894.08,
+        ["points"] = 9894.1,
       },
     },
   },
@@ -25251,7 +25251,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 8229.08,
+        ["points"] = 8229.33,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -25267,7 +25267,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 9619.36,
+        ["points"] = 9619.41,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -25279,11 +25279,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 8915.01,
+        ["points"] = 8915.16,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 7895.64,
+        ["points"] = 7895.97,
       },
     },
   },
@@ -25298,7 +25298,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 9394.73,
+        ["points"] = 9394.82,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -25314,7 +25314,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 9,
-        ["points"] = 8949.6,
+        ["points"] = 8949.74,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -25326,11 +25326,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 9430.99,
+        ["points"] = 9431.07,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 8677.57,
+        ["points"] = 8677.78,
       },
     },
   },
@@ -25345,7 +25345,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 9433.83,
+        ["points"] = 9433.91,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -25361,7 +25361,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 7904.51,
+        ["points"] = 7904.79,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -25373,11 +25373,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 7847.21,
+        ["points"] = 7847.52,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9115.26,
+        ["points"] = 9115.4,
       },
     },
   },
@@ -25392,7 +25392,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 7053.29,
+        ["points"] = 7053.71,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -25408,7 +25408,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 8319.63,
+        ["points"] = 8319.85,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -25420,11 +25420,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 9456.79,
+        ["points"] = 9456.86,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9378.5,
+        ["points"] = 9378.6,
       },
     },
   },
@@ -25439,7 +25439,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 8811.18,
+        ["points"] = 8811.35,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -25455,7 +25455,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 8868.7,
+        ["points"] = 8868.85,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -25467,11 +25467,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 8771.68,
+        ["points"] = 8771.85,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 7651.09,
+        ["points"] = 7651.46,
       },
     },
   },
@@ -25486,7 +25486,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 9590.21,
+        ["points"] = 9590.27,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -25502,7 +25502,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 9554.38,
+        ["points"] = 9554.44,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -25514,11 +25514,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 7921.74,
+        ["points"] = 7922.04,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9283.49,
+        ["points"] = 9283.6,
       },
     },
   },
@@ -25533,7 +25533,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 8023.46,
+        ["points"] = 8023.74,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -25549,7 +25549,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 9587.53,
+        ["points"] = 9587.59,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -25561,11 +25561,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 8568.15,
+        ["points"] = 8568.36,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9468.85,
+        ["points"] = 9468.93,
       },
     },
   },
@@ -25580,7 +25580,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 7300.9,
+        ["points"] = 7301.29,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -25596,7 +25596,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 9591.51,
+        ["points"] = 9591.57,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -25608,11 +25608,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 9432.42,
+        ["points"] = 9432.5,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8666.67,
+        ["points"] = 8666.87,
       },
     },
   },
@@ -25627,7 +25627,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 9636.55,
+        ["points"] = 9636.6,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -25643,7 +25643,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 9481.43,
+        ["points"] = 9481.5,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -25655,11 +25655,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 7371.36,
+        ["points"] = 7371.74,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8738.32,
+        ["points"] = 8738.51,
       },
     },
   },
@@ -25674,7 +25674,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 25,
-        ["points"] = 9032.73,
+        ["points"] = 9032.87,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 27,
@@ -25690,7 +25690,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 25,
-        ["points"] = 8830.24,
+        ["points"] = 8830.39,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 27,
@@ -25706,7 +25706,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 8138.63,
+        ["points"] = 8138.92,
       },
     },
   },
@@ -25721,7 +25721,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 37,
-        ["points"] = 9136.98,
+        ["points"] = 9137.11,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 39,
@@ -25737,7 +25737,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 40,
-        ["points"] = 9673.74,
+        ["points"] = 9673.78,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 40,
@@ -25749,11 +25749,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 41,
-        ["points"] = 7874.6,
+        ["points"] = 7874.75,
       },
       ["The Lich King"] = {
         ["kill_count"] = 43,
-        ["points"] = 9219.63,
+        ["points"] = 9219.75,
       },
     },
   },
@@ -25768,7 +25768,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 8731.54,
+        ["points"] = 8731.72,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -25784,7 +25784,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 8835.54,
+        ["points"] = 8835.7,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -25796,16 +25796,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 9291.96,
+        ["points"] = 9292.06,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 8940.81,
+        ["points"] = 8940.97,
       },
     },
   },
   ["Dexterrogue"] = {
-    ["percentile"] = 90.2,
+    ["percentile"] = 90.21,
     ["server"] = "Icecrown",
     ["overall_rank"] = 551,
     ["bosses"] = {
@@ -25815,7 +25815,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 8764.84,
+        ["points"] = 8765.02,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -25831,7 +25831,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 8067.64,
+        ["points"] = 8067.9,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -25843,11 +25843,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 8754.48,
+        ["points"] = 8754.66,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8669.78,
+        ["points"] = 8669.99,
       },
     },
   },
@@ -25862,7 +25862,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 9073.27,
+        ["points"] = 9073.4,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -25878,7 +25878,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 9091.51,
+        ["points"] = 9091.63,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -25890,11 +25890,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 8827.58,
+        ["points"] = 8827.74,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9143.3,
+        ["points"] = 9143.44,
       },
     },
   },
@@ -25909,7 +25909,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 25,
-        ["points"] = 8433.25,
+        ["points"] = 8433.47,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 27,
@@ -25925,7 +25925,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 24,
-        ["points"] = 9139.26,
+        ["points"] = 9139.37,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -25937,11 +25937,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 9334.96,
+        ["points"] = 9335.05,
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 9130.84,
+        ["points"] = 9130.98,
       },
     },
   },
@@ -25956,7 +25956,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 9526.5,
+        ["points"] = 9526.57,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -25972,7 +25972,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 3,
-        ["points"] = 9214.85,
+        ["points"] = 9214.96,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
@@ -25984,11 +25984,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9625.91,
+        ["points"] = 9625.97,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 8079.44,
+        ["points"] = 8079.74,
       },
     },
   },
@@ -26003,7 +26003,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 8640.31,
+        ["points"] = 8640.51,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -26019,7 +26019,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 9530.5,
+        ["points"] = 9530.57,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
@@ -26031,11 +26031,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 9749.18,
+        ["points"] = 9749.21,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 8761.68,
+        ["points"] = 8761.88,
       },
     },
   },
@@ -26050,7 +26050,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 8916.88,
+        ["points"] = 8917.04,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -26066,7 +26066,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 9169.76,
+        ["points"] = 9169.87,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -26078,11 +26078,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9873.87,
+        ["points"] = 9873.89,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 8194.7,
+        ["points"] = 8194.99,
       },
     },
   },
@@ -26097,7 +26097,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 8239.21,
+        ["points"] = 8239.47,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -26113,7 +26113,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 9103.45,
+        ["points"] = 9103.57,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -26125,16 +26125,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 9783.57,
+        ["points"] = 9783.61,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9214.95,
+        ["points"] = 9215.08,
       },
     },
   },
   ["Rodram"] = {
-    ["percentile"] = 90.04,
+    ["percentile"] = 90.05,
     ["server"] = "Icecrown",
     ["overall_rank"] = 558,
     ["bosses"] = {
@@ -26144,7 +26144,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 9057.34,
+        ["points"] = 9057.48,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -26160,7 +26160,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 9505.31,
+        ["points"] = 9505.37,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -26172,11 +26172,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 7974.77,
+        ["points"] = 7975.06,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9146.42,
+        ["points"] = 9146.55,
       },
     },
   },
@@ -26191,7 +26191,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 9907.33,
+        ["points"] = 9907.34,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -26207,7 +26207,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 9687.0,
+        ["points"] = 9687.04,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -26219,11 +26219,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 7961.87,
+        ["points"] = 7962.17,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 7605.92,
+        ["points"] = 7606.29,
       },
     },
   },
@@ -26238,7 +26238,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 27,
-        ["points"] = 9354.18,
+        ["points"] = 9354.28,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 28,
@@ -26254,7 +26254,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 27,
-        ["points"] = 8907.16,
+        ["points"] = 8907.31,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 27,
@@ -26270,7 +26270,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 9442.37,
+        ["points"] = 9442.45,
       },
     },
   },
@@ -26285,7 +26285,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 8796.7,
+        ["points"] = 8796.87,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -26301,7 +26301,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 8921.75,
+        ["points"] = 8921.89,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -26313,11 +26313,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 9393.72,
+        ["points"] = 9393.81,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 8657.32,
+        ["points"] = 8657.53,
       },
     },
   },
@@ -26332,7 +26332,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 28,
-        ["points"] = 8415.87,
+        ["points"] = 8416.1,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 34,
@@ -26348,7 +26348,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 33,
-        ["points"] = 9253.32,
+        ["points"] = 9253.41,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 35,
@@ -26360,16 +26360,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 27,
-        ["points"] = 7511.82,
+        ["points"] = 7512.18,
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 8942.37,
+        ["points"] = 8942.53,
       },
     },
   },
   ["Darrow"] = {
-    ["percentile"] = 89.9,
+    ["percentile"] = 89.91,
     ["server"] = "Icecrown",
     ["overall_rank"] = 563,
     ["bosses"] = {
@@ -26379,7 +26379,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 9587.32,
+        ["points"] = 9587.38,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -26395,7 +26395,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 9701.59,
+        ["points"] = 9701.63,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -26407,11 +26407,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 9197.36,
+        ["points"] = 9197.48,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 8227.41,
+        ["points"] = 8227.69,
       },
     },
   },
@@ -26426,7 +26426,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 8048.07,
+        ["points"] = 8048.36,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -26442,7 +26442,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 7720.16,
+        ["points"] = 7720.46,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -26454,11 +26454,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 8794.61,
+        ["points"] = 8794.78,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8831.78,
+        ["points"] = 8831.96,
       },
     },
   },
@@ -26473,7 +26473,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 8171.16,
+        ["points"] = 8171.42,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -26489,7 +26489,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 9200.27,
+        ["points"] = 9200.37,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -26501,11 +26501,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9868.14,
+        ["points"] = 9868.16,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 8059.19,
+        ["points"] = 8059.49,
       },
     },
   },
@@ -26520,7 +26520,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 28,
-        ["points"] = 9244.14,
+        ["points"] = 9244.24,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 28,
@@ -26536,7 +26536,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 25,
-        ["points"] = 9041.11,
+        ["points"] = 9041.24,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 27,
@@ -26548,11 +26548,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 28,
-        ["points"] = 8496.49,
+        ["points"] = 8496.7,
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 8646.42,
+        ["points"] = 8646.63,
       },
     },
   },
@@ -26567,7 +26567,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 9215.18,
+        ["points"] = 9215.29,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -26583,7 +26583,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 8750.66,
+        ["points"] = 8750.83,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
@@ -26595,11 +26595,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9343.56,
+        ["points"] = 9343.65,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 8063.86,
+        ["points"] = 8064.16,
       },
     },
   },
@@ -26614,7 +26614,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 9131.19,
+        ["points"] = 9131.32,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -26630,7 +26630,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 3,
-        ["points"] = 9733.42,
+        ["points"] = 9733.46,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
@@ -26642,11 +26642,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9465.39,
+        ["points"] = 9465.46,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 7965.73,
+        ["points"] = 7966.05,
       },
     },
   },
@@ -26661,7 +26661,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 7639.73,
+        ["points"] = 7640.08,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -26677,7 +26677,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 8047.75,
+        ["points"] = 8048.0,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -26689,11 +26689,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 8979.5,
+        ["points"] = 8979.65,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 9186.92,
+        ["points"] = 9187.04,
       },
     },
   },
@@ -26708,7 +26708,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 9218.07,
+        ["points"] = 9218.18,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -26724,7 +26724,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 8027.85,
+        ["points"] = 8028.11,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -26736,11 +26736,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 7517.56,
+        ["points"] = 7517.91,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9066.98,
+        ["points"] = 9067.12,
       },
     },
   },
@@ -26755,7 +26755,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 20,
-        ["points"] = 8679.41,
+        ["points"] = 8679.6,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 18,
@@ -26771,7 +26771,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 20,
-        ["points"] = 9698.94,
+        ["points"] = 9698.98,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
@@ -26783,11 +26783,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 8659.88,
+        ["points"] = 8660.07,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 7970.4,
+        ["points"] = 7970.72,
       },
     },
   },
@@ -26802,7 +26802,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9635.1,
+        ["points"] = 9635.15,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -26818,7 +26818,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 8877.98,
+        ["points"] = 8878.13,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -26830,11 +26830,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 8023.51,
+        ["points"] = 8023.79,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8412.77,
+        ["points"] = 8413.02,
       },
     },
   },
@@ -26849,7 +26849,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 7830.87,
+        ["points"] = 7831.19,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -26865,7 +26865,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 9633.95,
+        ["points"] = 9634.0,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -26877,11 +26877,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9064.07,
+        ["points"] = 9064.2,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 9398.75,
+        ["points"] = 9398.85,
       },
     },
   },
@@ -26896,7 +26896,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 29,
-        ["points"] = 8585.29,
+        ["points"] = 8585.49,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 29,
@@ -26912,7 +26912,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 35,
-        ["points"] = 8980.11,
+        ["points"] = 8980.24,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 36,
@@ -26924,11 +26924,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 34,
-        ["points"] = 8669.92,
+        ["points"] = 8670.11,
       },
       ["The Lich King"] = {
         ["kill_count"] = 40,
-        ["points"] = 9068.54,
+        ["points"] = 9068.68,
       },
     },
   },
@@ -26943,7 +26943,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 9349.84,
+        ["points"] = 9349.93,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 24,
@@ -26959,7 +26959,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 8913.79,
+        ["points"] = 8913.94,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -26971,11 +26971,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 7563.42,
+        ["points"] = 7563.77,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9247.66,
+        ["points"] = 9247.78,
       },
     },
   },
@@ -26990,7 +26990,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 23,
-        ["points"] = 9016.8,
+        ["points"] = 9016.94,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 25,
@@ -27006,7 +27006,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 24,
-        ["points"] = 8554.38,
+        ["points"] = 8554.57,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 26,
@@ -27018,11 +27018,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 24,
-        ["points"] = 9594.38,
+        ["points"] = 9594.44,
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 8384.74,
+        ["points"] = 8384.99,
       },
     },
   },
@@ -27037,7 +27037,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 9745.15,
+        ["points"] = 9745.19,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -27053,7 +27053,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 7952.25,
+        ["points"] = 7952.53,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
@@ -27065,11 +27065,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 9054.03,
+        ["points"] = 9054.17,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9415.89,
+        ["points"] = 9415.98,
       },
     },
   },
@@ -27084,7 +27084,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 9326.67,
+        ["points"] = 9326.77,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -27100,7 +27100,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 18,
-        ["points"] = 9496.02,
+        ["points"] = 9496.09,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
@@ -27112,11 +27112,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 8744.45,
+        ["points"] = 8744.63,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9330.22,
+        ["points"] = 9330.32,
       },
     },
   },
@@ -27131,7 +27131,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 8392.7,
+        ["points"] = 8392.93,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -27147,7 +27147,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 9285.15,
+        ["points"] = 9285.24,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -27159,11 +27159,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 9108.5,
+        ["points"] = 9108.63,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 8686.92,
+        ["points"] = 8687.12,
       },
     },
   },
@@ -27178,7 +27178,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 8779.32,
+        ["points"] = 8779.5,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -27194,7 +27194,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 3,
-        ["points"] = 9705.57,
+        ["points"] = 9705.61,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
@@ -27206,11 +27206,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9769.24,
+        ["points"] = 9769.27,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 7359.81,
+        ["points"] = 7360.22,
       },
     },
   },
@@ -27225,7 +27225,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 30,
-        ["points"] = 8066.9,
+        ["points"] = 8067.18,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 32,
@@ -27241,7 +27241,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 32,
-        ["points"] = 9210.88,
+        ["points"] = 9210.98,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 33,
@@ -27257,12 +27257,12 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 8288.16,
+        ["points"] = 8288.43,
       },
     },
   },
   ["Samkeba"] = {
-    ["percentile"] = 89.64,
+    ["percentile"] = 89.65,
     ["server"] = "Icecrown",
     ["overall_rank"] = 582,
     ["bosses"] = {
@@ -27272,7 +27272,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 8999.42,
+        ["points"] = 8999.57,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -27288,7 +27288,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 8500.0,
+        ["points"] = 8500.2,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
@@ -27300,11 +27300,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 7596.39,
+        ["points"] = 7596.73,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 8093.46,
+        ["points"] = 8093.75,
       },
     },
   },
@@ -27319,7 +27319,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 8727.19,
+        ["points"] = 8727.38,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -27335,7 +27335,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 8433.69,
+        ["points"] = 8433.89,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -27347,11 +27347,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 9416.65,
+        ["points"] = 9416.74,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9358.26,
+        ["points"] = 9358.36,
       },
     },
   },
@@ -27366,7 +27366,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 9181.87,
+        ["points"] = 9181.99,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -27382,7 +27382,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 9269.23,
+        ["points"] = 9269.33,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -27394,11 +27394,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9709.04,
+        ["points"] = 9709.09,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9151.09,
+        ["points"] = 9151.22,
       },
     },
   },
@@ -27413,7 +27413,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 25,
-        ["points"] = 9102.23,
+        ["points"] = 9102.36,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 31,
@@ -27429,7 +27429,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 24,
-        ["points"] = 8338.2,
+        ["points"] = 8338.42,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 28,
@@ -27441,11 +27441,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 21,
-        ["points"] = 8638.38,
+        ["points"] = 8638.58,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 7390.97,
+        ["points"] = 7391.37,
       },
     },
   },
@@ -27460,7 +27460,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 9092.09,
+        ["points"] = 9092.23,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -27476,7 +27476,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 8941.64,
+        ["points"] = 8941.78,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -27488,11 +27488,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 9322.06,
+        ["points"] = 9322.16,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9436.14,
+        ["points"] = 9436.22,
       },
     },
   },
@@ -27507,7 +27507,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 9614.83,
+        ["points"] = 9614.88,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -27523,7 +27523,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 8755.97,
+        ["points"] = 8756.13,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -27535,11 +27535,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 7934.64,
+        ["points"] = 7934.94,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9202.49,
+        ["points"] = 9202.62,
       },
     },
   },
@@ -27554,7 +27554,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 7839.56,
+        ["points"] = 7839.87,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -27570,7 +27570,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 8043.77,
+        ["points"] = 8044.03,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -27582,11 +27582,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 9607.28,
+        ["points"] = 9607.34,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8277.26,
+        ["points"] = 8277.53,
       },
     },
   },
@@ -27601,7 +27601,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 7477.56,
+        ["points"] = 7477.92,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -27617,7 +27617,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 9431.03,
+        ["points"] = 9431.11,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -27629,16 +27629,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 8956.57,
+        ["points"] = 8956.72,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 8633.96,
+        ["points"] = 8634.17,
       },
     },
   },
   ["Critto"] = {
-    ["percentile"] = 89.51,
+    ["percentile"] = 89.52,
     ["server"] = "Icecrown",
     ["overall_rank"] = 590,
     ["bosses"] = {
@@ -27648,7 +27648,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 8543.3,
+        ["points"] = 8543.51,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -27664,7 +27664,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 8641.91,
+        ["points"] = 8642.09,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -27676,11 +27676,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 8781.71,
+        ["points"] = 8781.89,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9431.46,
+        ["points"] = 9431.55,
       },
     },
   },
@@ -27695,7 +27695,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 9280.34,
+        ["points"] = 9280.44,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -27711,7 +27711,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 9,
-        ["points"] = 9553.05,
+        ["points"] = 9553.11,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -27723,11 +27723,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 6826.72,
+        ["points"] = 6827.17,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8563.86,
+        ["points"] = 8564.09,
       },
     },
   },
@@ -27742,7 +27742,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 9543.87,
+        ["points"] = 9543.94,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -27758,7 +27758,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 8759.95,
+        ["points"] = 8760.11,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
@@ -27774,7 +27774,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 8817.76,
+        ["points"] = 8817.94,
       },
     },
   },
@@ -27789,7 +27789,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 21,
-        ["points"] = 9351.29,
+        ["points"] = 9351.38,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -27805,7 +27805,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 27,
-        ["points"] = 9474.8,
+        ["points"] = 9474.87,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 25,
@@ -27817,16 +27817,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 24,
-        ["points"] = 7821.41,
+        ["points"] = 7821.73,
       },
       ["The Lich King"] = {
         ["kill_count"] = 30,
-        ["points"] = 9230.53,
+        ["points"] = 9230.65,
       },
     },
   },
   ["Letmeslice"] = {
-    ["percentile"] = 89.47,
+    ["percentile"] = 89.48,
     ["server"] = "Icecrown",
     ["overall_rank"] = 594,
     ["bosses"] = {
@@ -27836,7 +27836,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7704.89,
+        ["points"] = 7705.23,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -27852,7 +27852,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 8473.47,
+        ["points"] = 8473.68,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
@@ -27864,11 +27864,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 8965.17,
+        ["points"] = 8965.32,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8819.31,
+        ["points"] = 8819.5,
       },
     },
   },
@@ -27883,7 +27883,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 9028.38,
+        ["points"] = 9028.52,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -27899,7 +27899,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 8950.93,
+        ["points"] = 8951.07,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
@@ -27911,11 +27911,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9299.13,
+        ["points"] = 9299.23,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9971.96,
+        ["points"] = 9971.97,
       },
     },
   },
@@ -27930,7 +27930,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 7574.57,
+        ["points"] = 7574.92,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -27946,7 +27946,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 3,
-        ["points"] = 7482.76,
+        ["points"] = 7483.09,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
@@ -27958,11 +27958,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9592.95,
+        ["points"] = 9593.01,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
-        ["points"] = 9646.42,
+        ["points"] = 9646.47,
       },
     },
   },
@@ -27977,7 +27977,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9267.3,
+        ["points"] = 9267.41,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -27993,7 +27993,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 9192.31,
+        ["points"] = 9192.41,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
@@ -28005,11 +28005,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 8591.08,
+        ["points"] = 8591.29,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9842.68,
+        ["points"] = 9842.7,
       },
     },
   },
@@ -28024,7 +28024,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 7725.17,
+        ["points"] = 7725.5,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -28040,7 +28040,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 7893.9,
+        ["points"] = 7894.18,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -28052,65 +28052,18 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9241.79,
+        ["points"] = 9241.9,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9166.67,
-      },
-    },
-  },
-  ["Oligo"] = {
-    ["percentile"] = 89.34,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 599,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 9,
-        ["points"] = 9652.97,
-      },
-      ["Lady Deathwhisper"] = {
-        ["kill_count"] = 9,
-        ["points"] = 8702.58,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 10,
-        ["points"] = 9223.92,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 10,
-        ["points"] = 9092.91,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 10,
-        ["points"] = 9086.91,
-      },
-      ["Professor Putricide"] = {
-        ["kill_count"] = 9,
-        ["points"] = 9696.29,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 9,
-        ["points"] = 9069.91,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 9,
-        ["points"] = 6509.1,
-      },
-      ["Sindragosa"] = {
-        ["kill_count"] = 8,
-        ["points"] = 9620.18,
-      },
-      ["The Lich King"] = {
-        ["kill_count"] = 8,
-        ["points"] = 8638.63,
+        ["points"] = 9166.8,
       },
     },
   },
   ["Debelak"] = {
     ["percentile"] = 89.34,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 600,
+    ["overall_rank"] = 599,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 15,
@@ -28118,7 +28071,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 9229.66,
+        ["points"] = 9229.77,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -28134,7 +28087,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 14,
-        ["points"] = 9160.48,
+        ["points"] = 9160.59,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -28146,11 +28099,58 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 8245.66,
+        ["points"] = 8245.92,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 7071.65,
+        ["points"] = 7072.11,
+      },
+    },
+  },
+  ["Oligo"] = {
+    ["percentile"] = 89.34,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 600,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 9,
+        ["points"] = 9652.97,
+      },
+      ["Lady Deathwhisper"] = {
+        ["kill_count"] = 9,
+        ["points"] = 8702.77,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 10,
+        ["points"] = 9223.92,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 10,
+        ["points"] = 9092.91,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 10,
+        ["points"] = 9086.91,
+      },
+      ["Professor Putricide"] = {
+        ["kill_count"] = 9,
+        ["points"] = 9696.33,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 9,
+        ["points"] = 9069.91,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 9,
+        ["points"] = 6509.1,
+      },
+      ["Sindragosa"] = {
+        ["kill_count"] = 8,
+        ["points"] = 9620.24,
+      },
+      ["The Lich King"] = {
+        ["kill_count"] = 8,
+        ["points"] = 8638.84,
       },
     },
   },
@@ -28165,7 +28165,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 9407.76,
+        ["points"] = 9407.85,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -28181,7 +28181,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 7661.8,
+        ["points"] = 7662.11,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -28193,11 +28193,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 9539.92,
+        ["points"] = 9539.98,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 8637.07,
+        ["points"] = 8637.28,
       },
     },
   },
@@ -28212,7 +28212,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 9706.05,
+        ["points"] = 9706.1,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -28228,7 +28228,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 9275.86,
+        ["points"] = 9275.96,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -28244,7 +28244,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 8344.24,
+        ["points"] = 8344.49,
       },
     },
   },
@@ -28259,7 +28259,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 8349.26,
+        ["points"] = 8349.5,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -28275,7 +28275,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 7962.86,
+        ["points"] = 7963.13,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -28287,16 +28287,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 9211.7,
+        ["points"] = 9211.81,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 8193.15,
+        ["points"] = 8193.43,
       },
     },
   },
   ["Dzjebanykoks"] = {
-    ["percentile"] = 89.27,
+    ["percentile"] = 89.28,
     ["server"] = "Icecrown",
     ["overall_rank"] = 604,
     ["bosses"] = {
@@ -28306,7 +28306,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 8602.66,
+        ["points"] = 8602.87,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -28322,7 +28322,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 9301.06,
+        ["points"] = 9301.15,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -28334,11 +28334,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 7709.62,
+        ["points"] = 7709.95,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8917.45,
+        ["points"] = 8917.61,
       },
     },
   },
@@ -28353,7 +28353,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 8748.91,
+        ["points"] = 8749.1,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -28369,7 +28369,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 9149.87,
+        ["points"] = 9149.98,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -28381,11 +28381,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 8761.65,
+        ["points"] = 8761.82,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8428.35,
+        ["points"] = 8428.59,
       },
     },
   },
@@ -28400,7 +28400,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 8216.04,
+        ["points"] = 8216.3,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -28416,7 +28416,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 9547.75,
+        ["points"] = 9547.81,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -28428,11 +28428,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 8603.98,
+        ["points"] = 8604.18,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9666.67,
+        ["points"] = 9666.72,
       },
     },
   },
@@ -28447,7 +28447,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 7906.17,
+        ["points"] = 7906.47,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -28463,7 +28463,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 8236.07,
+        ["points"] = 8236.31,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -28475,11 +28475,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 9608.71,
+        ["points"] = 9608.77,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8697.82,
+        ["points"] = 8698.02,
       },
     },
   },
@@ -28494,7 +28494,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 21,
-        ["points"] = 9190.56,
+        ["points"] = 9190.68,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
@@ -28510,7 +28510,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 20,
-        ["points"] = 7883.29,
+        ["points"] = 7883.57,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
@@ -28522,11 +28522,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 20,
-        ["points"] = 9274.76,
+        ["points"] = 9274.86,
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 8700.93,
+        ["points"] = 8701.14,
       },
     },
   },
@@ -28541,7 +28541,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 8405.73,
+        ["points"] = 8405.96,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -28557,7 +28557,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 8623.34,
+        ["points"] = 8623.52,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
@@ -28569,11 +28569,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 8452.06,
+        ["points"] = 8452.28,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9473.52,
+        ["points"] = 9473.6,
       },
     },
   },
@@ -28588,7 +28588,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 39,
-        ["points"] = 9009.56,
+        ["points"] = 9009.7,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 53,
@@ -28604,7 +28604,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 44,
-        ["points"] = 8632.63,
+        ["points"] = 8632.81,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 51,
@@ -28616,11 +28616,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 43,
-        ["points"] = 9668.91,
+        ["points"] = 9668.96,
       },
       ["The Lich King"] = {
         ["kill_count"] = 41,
-        ["points"] = 7901.87,
+        ["points"] = 7902.2,
       },
     },
   },
@@ -28635,7 +28635,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 8408.63,
+        ["points"] = 8408.86,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -28651,7 +28651,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 9482.76,
+        ["points"] = 9482.83,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -28663,11 +28663,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9204.53,
+        ["points"] = 9204.64,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9584.11,
+        ["points"] = 9584.18,
       },
     },
   },
@@ -28682,7 +28682,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 6976.54,
+        ["points"] = 6976.98,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -28698,7 +28698,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 2,
-        ["points"] = 7932.36,
+        ["points"] = 7932.63,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
@@ -28710,11 +28710,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9879.6,
+        ["points"] = 9879.62,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
-        ["points"] = 8498.44,
+        ["points"] = 8498.68,
       },
     },
   },
@@ -28729,7 +28729,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 9050.1,
+        ["points"] = 9050.24,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -28745,7 +28745,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 8198.94,
+        ["points"] = 8199.18,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
@@ -28757,11 +28757,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 8231.33,
+        ["points"] = 8231.58,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9772.59,
+        ["points"] = 9772.62,
       },
     },
   },
@@ -28776,7 +28776,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 7966.99,
+        ["points"] = 7967.28,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -28792,7 +28792,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 3,
-        ["points"] = 7856.76,
+        ["points"] = 7857.05,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
@@ -28804,11 +28804,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 8814.68,
+        ["points"] = 8814.85,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 8766.36,
+        ["points"] = 8766.55,
       },
     },
   },
@@ -28823,7 +28823,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 31,
-        ["points"] = 9597.45,
+        ["points"] = 9597.51,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 37,
@@ -28839,7 +28839,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 37,
-        ["points"] = 9416.45,
+        ["points"] = 9416.52,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 38,
@@ -28851,11 +28851,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 36,
-        ["points"] = 8043.57,
+        ["points"] = 8043.85,
       },
       ["The Lich King"] = {
         ["kill_count"] = 34,
-        ["points"] = 8066.98,
+        ["points"] = 8067.28,
       },
     },
   },
@@ -28870,7 +28870,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 8320.3,
+        ["points"] = 8320.54,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 18,
@@ -28886,7 +28886,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 17,
-        ["points"] = 7696.29,
+        ["points"] = 7696.59,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -28898,11 +28898,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 9277.63,
+        ["points"] = 9277.73,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 8862.93,
+        ["points"] = 8863.11,
       },
     },
   },
@@ -28917,7 +28917,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 8204.46,
+        ["points"] = 8204.72,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -28933,7 +28933,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 22,
-        ["points"] = 8318.3,
+        ["points"] = 8318.53,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -28945,11 +28945,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 21,
-        ["points"] = 9630.21,
+        ["points"] = 9630.27,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9816.2,
+        ["points"] = 9816.23,
       },
     },
   },
@@ -28964,7 +28964,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 9249.93,
+        ["points"] = 9250.04,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -28980,7 +28980,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 8533.16,
+        ["points"] = 8533.35,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -28992,11 +28992,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 8252.83,
+        ["points"] = 8253.08,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8993.77,
+        ["points"] = 8993.93,
       },
     },
   },
@@ -29011,7 +29011,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 6539.24,
+        ["points"] = 6539.74,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -29027,7 +29027,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 9283.82,
+        ["points"] = 9283.91,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -29039,65 +29039,18 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 9764.94,
+        ["points"] = 9764.98,
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 9101.25,
-      },
-    },
-  },
-  ["Elwarogue"] = {
-    ["percentile"] = 89.07,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 620,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 7,
-        ["points"] = 8398.84,
-      },
-      ["Lady Deathwhisper"] = {
-        ["kill_count"] = 6,
-        ["points"] = 9448.31,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 7,
-        ["points"] = 9544.95,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 7,
-        ["points"] = 8842.88,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 7,
-        ["points"] = 8385.84,
-      },
-      ["Professor Putricide"] = {
-        ["kill_count"] = 7,
-        ["points"] = 9494.69,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 7,
-        ["points"] = 9178.92,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 7,
-        ["points"] = 8350.1,
-      },
-      ["Sindragosa"] = {
-        ["kill_count"] = 7,
-        ["points"] = 8184.03,
-      },
-      ["The Lich King"] = {
-        ["kill_count"] = 7,
-        ["points"] = 9196.26,
+        ["points"] = 9101.39,
       },
     },
   },
   ["Enoroz"] = {
     ["percentile"] = 89.07,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 621,
+    ["overall_rank"] = 620,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 29,
@@ -29105,7 +29058,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 28,
-        ["points"] = 9378.8,
+        ["points"] = 9378.89,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 29,
@@ -29121,7 +29074,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 29,
-        ["points"] = 8773.21,
+        ["points"] = 8773.37,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 29,
@@ -29133,11 +29086,58 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 29,
-        ["points"] = 6505.66,
+        ["points"] = 6506.16,
       },
       ["The Lich King"] = {
         ["kill_count"] = 29,
-        ["points"] = 8238.32,
+        ["points"] = 8238.59,
+      },
+    },
+  },
+  ["Elwarogue"] = {
+    ["percentile"] = 89.07,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 621,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 7,
+        ["points"] = 8398.84,
+      },
+      ["Lady Deathwhisper"] = {
+        ["kill_count"] = 6,
+        ["points"] = 9448.39,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 7,
+        ["points"] = 9544.95,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 7,
+        ["points"] = 8842.88,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 7,
+        ["points"] = 8385.84,
+      },
+      ["Professor Putricide"] = {
+        ["kill_count"] = 7,
+        ["points"] = 9494.76,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 7,
+        ["points"] = 9178.92,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 7,
+        ["points"] = 8350.1,
+      },
+      ["Sindragosa"] = {
+        ["kill_count"] = 7,
+        ["points"] = 8184.29,
+      },
+      ["The Lich King"] = {
+        ["kill_count"] = 7,
+        ["points"] = 9196.39,
       },
     },
   },
@@ -29152,7 +29152,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 7063.42,
+        ["points"] = 7063.85,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -29168,7 +29168,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 3,
-        ["points"] = 8135.28,
+        ["points"] = 8135.53,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
@@ -29180,11 +29180,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9286.23,
+        ["points"] = 9286.33,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 8644.86,
+        ["points"] = 8645.07,
       },
     },
   },
@@ -29199,7 +29199,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 8709.82,
+        ["points"] = 8710.0,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -29215,7 +29215,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 9330.24,
+        ["points"] = 9330.33,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -29231,7 +29231,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8992.21,
+        ["points"] = 8992.37,
       },
     },
   },
@@ -29246,7 +29246,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 21,
-        ["points"] = 9552.56,
+        ["points"] = 9552.63,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
@@ -29262,7 +29262,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 9445.62,
+        ["points"] = 9445.7,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
@@ -29274,11 +29274,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 20,
-        ["points"] = 9273.33,
+        ["points"] = 9273.43,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8858.26,
+        ["points"] = 8858.43,
       },
     },
   },
@@ -29293,7 +29293,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 9109.47,
+        ["points"] = 9109.6,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -29309,7 +29309,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 7547.75,
+        ["points"] = 7548.07,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
@@ -29321,11 +29321,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 8648.42,
+        ["points"] = 8648.61,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9314.64,
+        ["points"] = 9314.75,
       },
     },
   },
@@ -29340,7 +29340,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 8282.65,
+        ["points"] = 8282.9,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -29356,7 +29356,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 7834.22,
+        ["points"] = 7834.5,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -29368,11 +29368,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 8497.92,
+        ["points"] = 8498.14,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9129.28,
+        ["points"] = 9129.42,
       },
     },
   },
@@ -29387,7 +29387,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9100.78,
+        ["points"] = 9100.91,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -29403,7 +29403,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 9216.18,
+        ["points"] = 9216.28,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
@@ -29415,11 +29415,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 8235.8,
+        ["points"] = 8235.88,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9048.29,
+        ["points"] = 9048.43,
       },
     },
   },
@@ -29434,7 +29434,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 19,
-        ["points"] = 9251.38,
+        ["points"] = 9251.48,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 20,
@@ -29450,7 +29450,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 22,
-        ["points"] = 8859.42,
+        ["points"] = 8859.57,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 21,
@@ -29462,11 +29462,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 20,
-        ["points"] = 9700.44,
+        ["points"] = 9700.49,
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 9257.01,
+        ["points"] = 9257.13,
       },
     },
   },
@@ -29481,7 +29481,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 9472.92,
+        ["points"] = 9473.0,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -29497,7 +29497,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 9762.6,
+        ["points"] = 9762.63,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -29509,11 +29509,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 9147.2,
+        ["points"] = 9147.32,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9356.7,
+        ["points"] = 9356.8,
       },
     },
   },
@@ -29528,7 +29528,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9710.4,
+        ["points"] = 9710.44,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -29544,7 +29544,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 9030.5,
+        ["points"] = 9030.63,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -29560,7 +29560,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8101.25,
+        ["points"] = 8101.54,
       },
     },
   },
@@ -29575,7 +29575,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 8622.94,
+        ["points"] = 8623.14,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -29591,7 +29591,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 8688.33,
+        ["points"] = 8688.5,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -29603,11 +29603,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 9747.74,
+        ["points"] = 9747.78,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 7683.8,
+        ["points"] = 7684.16,
       },
     },
   },
@@ -29622,7 +29622,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 8253.69,
+        ["points"] = 8253.95,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -29638,7 +29638,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 9888.59,
+        ["points"] = 9888.61,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -29650,11 +29650,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 7226.6,
+        ["points"] = 7227.0,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8954.83,
+        ["points"] = 8954.99,
       },
     },
   },
@@ -29669,7 +29669,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 7138.72,
+        ["points"] = 7139.13,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 18,
@@ -29685,7 +29685,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 8944.3,
+        ["points"] = 8944.44,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -29697,11 +29697,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 8725.81,
+        ["points"] = 8726.0,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9428.35,
+        ["points"] = 9428.44,
       },
     },
   },
@@ -29716,7 +29716,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 19,
-        ["points"] = 9126.85,
+        ["points"] = 9126.97,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -29744,11 +29744,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 21,
-        ["points"] = 8413.36,
+        ["points"] = 8413.59,
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 9672.9,
+        ["points"] = 9672.95,
       },
     },
   },
@@ -29763,7 +29763,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 7098.18,
+        ["points"] = 7098.6,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -29779,7 +29779,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 9212.2,
+        ["points"] = 9212.31,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -29791,11 +29791,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 8274.33,
+        ["points"] = 8274.58,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8895.64,
+        ["points"] = 8895.81,
       },
     },
   },
@@ -29810,7 +29810,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 7610.77,
+        ["points"] = 7611.12,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -29826,7 +29826,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 8275.86,
+        ["points"] = 8276.09,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -29838,11 +29838,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9002.44,
+        ["points"] = 9002.58,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9408.1,
+        ["points"] = 9408.19,
       },
     },
   },
@@ -29857,7 +29857,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 19,
-        ["points"] = 9542.43,
+        ["points"] = 9542.49,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
@@ -29873,7 +29873,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 9389.92,
+        ["points"] = 9390.0,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
@@ -29885,16 +29885,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 8572.45,
+        ["points"] = 8572.66,
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 9456.39,
+        ["points"] = 9456.47,
       },
     },
   },
   ["Notfisx"] = {
-    ["percentile"] = 88.79,
+    ["percentile"] = 88.8,
     ["server"] = "Icecrown",
     ["overall_rank"] = 638,
     ["bosses"] = {
@@ -29904,7 +29904,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 9645.24,
+        ["points"] = 9645.29,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -29920,7 +29920,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 9,
-        ["points"] = 9384.62,
+        ["points"] = 9384.7,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -29932,11 +29932,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 6456.93,
+        ["points"] = 6457.44,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9719.63,
+        ["points"] = 9719.67,
       },
     },
   },
@@ -29951,7 +29951,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 8633.07,
+        ["points"] = 8633.27,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -29967,7 +29967,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 9489.39,
+        ["points"] = 9489.46,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -29979,11 +29979,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 8550.95,
+        ["points"] = 8551.16,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8959.5,
+        ["points"] = 8959.66,
       },
     },
   },
@@ -29998,7 +29998,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 9070.37,
+        ["points"] = 9070.51,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -30014,7 +30014,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 8234.75,
+        ["points"] = 8234.98,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -30030,7 +30030,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 8537.38,
+        ["points"] = 8537.61,
       },
     },
   },
@@ -30045,7 +30045,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 8821.31,
+        ["points"] = 8821.49,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -30061,7 +30061,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 8449.6,
+        ["points"] = 8449.81,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
@@ -30073,11 +30073,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 8543.79,
+        ["points"] = 8544.0,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 7404.98,
+        ["points"] = 7405.39,
       },
     },
   },
@@ -30092,7 +30092,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 23,
-        ["points"] = 9483.06,
+        ["points"] = 9483.13,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 39,
@@ -30108,7 +30108,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 26,
-        ["points"] = 7884.62,
+        ["points"] = 7884.9,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 34,
@@ -30120,7 +30120,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 24,
-        ["points"] = 7484.59,
+        ["points"] = 7484.95,
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
@@ -30139,7 +30139,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 6728.93,
+        ["points"] = 6729.4,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -30155,7 +30155,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 8066.31,
+        ["points"] = 8066.57,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -30167,11 +30167,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 9519.85,
+        ["points"] = 9519.92,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9176.01,
+        ["points"] = 9176.14,
       },
     },
   },
@@ -30186,7 +30186,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 20,
-        ["points"] = 8832.9,
+        ["points"] = 8833.07,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 22,
@@ -30202,7 +30202,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 20,
-        ["points"] = 8912.47,
+        ["points"] = 8912.61,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
@@ -30214,11 +30214,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 20,
-        ["points"] = 9089.87,
+        ["points"] = 9090.0,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 8802.18,
+        ["points"] = 8802.37,
       },
     },
   },
@@ -30233,7 +30233,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 9736.46,
+        ["points"] = 9736.5,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -30249,7 +30249,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 9835.54,
+        ["points"] = 9835.57,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -30261,11 +30261,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9436.72,
+        ["points"] = 9436.8,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 8476.64,
+        ["points"] = 8476.87,
       },
     },
   },
@@ -30280,7 +30280,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 8353.61,
+        ["points"] = 8353.84,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -30296,7 +30296,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 9327.59,
+        ["points"] = 9327.68,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
@@ -30308,11 +30308,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 9283.36,
+        ["points"] = 9283.46,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9523.36,
+        ["points"] = 9523.44,
       },
     },
   },
@@ -30327,7 +30327,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 8843.04,
+        ["points"] = 8843.2,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -30343,7 +30343,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 8289.12,
+        ["points"] = 8289.35,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -30355,11 +30355,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 9730.54,
+        ["points"] = 9730.58,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9755.45,
+        ["points"] = 9755.49,
       },
     },
   },
@@ -30374,7 +30374,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 8767.74,
+        ["points"] = 8767.92,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -30390,7 +30390,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 9086.21,
+        ["points"] = 9086.33,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -30402,11 +30402,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 9461.09,
+        ["points"] = 9461.16,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 8133.96,
+        ["points"] = 8134.25,
       },
     },
   },
@@ -30421,7 +30421,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 9652.48,
+        ["points"] = 9652.53,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -30437,7 +30437,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 18,
-        ["points"] = 7554.38,
+        ["points"] = 7554.7,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -30449,11 +30449,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 7477.43,
+        ["points"] = 7477.79,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 8157.32,
+        ["points"] = 8157.61,
       },
     },
   },
@@ -30468,7 +30468,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 8255.14,
+        ["points"] = 8255.39,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -30484,7 +30484,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 8724.14,
+        ["points"] = 8724.31,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -30496,11 +30496,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 9423.82,
+        ["points"] = 9423.9,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 7501.56,
+        ["points"] = 7501.95,
       },
     },
   },
@@ -30515,7 +30515,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 8263.83,
+        ["points"] = 8264.08,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -30531,7 +30531,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 8616.71,
+        ["points"] = 8616.89,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -30543,11 +30543,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 9516.98,
+        ["points"] = 9517.05,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9031.15,
+        ["points"] = 9031.3,
       },
     },
   },
@@ -30562,7 +30562,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 8260.93,
+        ["points"] = 8261.18,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -30578,7 +30578,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 9318.3,
+        ["points"] = 9318.39,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -30590,11 +30590,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 7883.04,
+        ["points"] = 7883.35,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 8973.52,
+        ["points"] = 8973.68,
       },
     },
   },
@@ -30609,7 +30609,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 9177.53,
+        ["points"] = 9177.65,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -30625,7 +30625,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 8564.99,
+        ["points"] = 8565.18,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -30637,11 +30637,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 7842.91,
+        ["points"] = 7843.22,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9503.12,
+        ["points"] = 9503.19,
       },
     },
   },
@@ -30656,7 +30656,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 8638.86,
+        ["points"] = 8639.06,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -30672,7 +30672,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 9574.27,
+        ["points"] = 9574.33,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -30684,16 +30684,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 8065.07,
+        ["points"] = 8065.35,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9007.79,
+        ["points"] = 9007.94,
       },
     },
   },
   ["Tonystrike"] = {
-    ["percentile"] = 88.54,
+    ["percentile"] = 88.55,
     ["server"] = "Icecrown",
     ["overall_rank"] = 655,
     ["bosses"] = {
@@ -30703,7 +30703,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 8589.63,
+        ["points"] = 8589.84,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 18,
@@ -30719,7 +30719,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 18,
-        ["points"] = 9611.41,
+        ["points"] = 9611.46,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
@@ -30731,11 +30731,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 7140.6,
+        ["points"] = 7141.01,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8652.65,
+        ["points"] = 8652.86,
       },
     },
   },
@@ -30750,7 +30750,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 7652.77,
+        ["points"] = 7653.11,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -30766,7 +30766,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 9057.03,
+        ["points"] = 9057.15,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -30778,11 +30778,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9441.02,
+        ["points"] = 9441.1,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8038.94,
+        ["points"] = 8039.25,
       },
     },
   },
@@ -30797,7 +30797,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 9470.03,
+        ["points"] = 9470.1,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -30813,7 +30813,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 9076.92,
+        ["points"] = 9077.05,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -30825,11 +30825,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 8358.89,
+        ["points"] = 8359.13,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 8853.58,
+        ["points"] = 8853.76,
       },
     },
   },
@@ -30844,7 +30844,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 9876.92,
+        ["points"] = 9876.94,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -30860,7 +30860,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 9299.73,
+        ["points"] = 9299.83,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -30872,11 +30872,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 6587.36,
+        ["points"] = 6587.85,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 9043.61,
+        ["points"] = 9043.76,
       },
     },
   },
@@ -30891,7 +30891,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 8466.55,
+        ["points"] = 8466.77,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 22,
@@ -30907,7 +30907,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 23,
-        ["points"] = 8726.79,
+        ["points"] = 8726.96,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -30919,11 +30919,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 22,
-        ["points"] = 9406.62,
+        ["points"] = 9406.71,
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 7274.14,
+        ["points"] = 7274.57,
       },
     },
   },
@@ -30938,7 +30938,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 36,
-        ["points"] = 9241.24,
+        ["points"] = 9241.35,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 38,
@@ -30954,7 +30954,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 34,
-        ["points"] = 9080.9,
+        ["points"] = 9081.02,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 36,
@@ -30966,11 +30966,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 27,
-        ["points"] = 9686.11,
+        ["points"] = 9686.16,
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 8001.56,
+        ["points"] = 8001.87,
       },
     },
   },
@@ -30985,7 +30985,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 9452.65,
+        ["points"] = 9452.73,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -31001,7 +31001,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 8419.1,
+        ["points"] = 8419.31,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
@@ -31013,11 +31013,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 8510.82,
+        ["points"] = 8511.03,
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 8390.97,
+        ["points"] = 8391.22,
       },
     },
   },
@@ -31032,7 +31032,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 8563.57,
+        ["points"] = 8563.78,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -31048,7 +31048,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 9603.45,
+        ["points"] = 9603.5,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -31060,11 +31060,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 9400.89,
+        ["points"] = 9400.97,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 7627.73,
+        ["points"] = 7628.1,
       },
     },
   },
@@ -31079,7 +31079,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 19,
-        ["points"] = 9487.4,
+        ["points"] = 9487.48,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -31095,7 +31095,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 9683.02,
+        ["points"] = 9683.07,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -31107,11 +31107,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 7348.43,
+        ["points"] = 7348.81,
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 7928.35,
+        ["points"] = 7928.67,
       },
     },
   },
@@ -31126,7 +31126,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 8201.56,
+        ["points"] = 8201.82,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -31142,7 +31142,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 8363.4,
+        ["points"] = 8363.61,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -31154,11 +31154,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9304.86,
+        ["points"] = 9304.96,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9096.57,
+        ["points"] = 9096.71,
       },
     },
   },
@@ -31173,7 +31173,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 7881.55,
+        ["points"] = 7881.86,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 27,
@@ -31189,7 +31189,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 22,
-        ["points"] = 6927.06,
+        ["points"] = 6927.46,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 26,
@@ -31201,11 +31201,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 21,
-        ["points"] = 9529.88,
+        ["points"] = 9529.95,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9040.5,
+        ["points"] = 9040.65,
       },
     },
   },
@@ -31220,7 +31220,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 20,
-        ["points"] = 7106.86,
+        ["points"] = 7107.28,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -31236,7 +31236,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 20,
-        ["points"] = 8809.02,
+        ["points"] = 8809.18,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -31248,11 +31248,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 20,
-        ["points"] = 8206.97,
+        ["points"] = 8207.22,
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 9528.04,
+        ["points"] = 9528.11,
       },
     },
   },
@@ -31267,7 +31267,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 9051.55,
+        ["points"] = 9051.69,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -31283,7 +31283,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 9,
-        ["points"] = 8615.38,
+        ["points"] = 8615.57,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -31295,11 +31295,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 8859.11,
+        ["points"] = 8859.27,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9034.27,
+        ["points"] = 9034.42,
       },
     },
   },
@@ -31314,7 +31314,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 21,
-        ["points"] = 8615.7,
+        ["points"] = 8615.9,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 35,
@@ -31330,7 +31330,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 26,
-        ["points"] = 8160.48,
+        ["points"] = 8160.72,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 33,
@@ -31342,11 +31342,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 27,
-        ["points"] = 8644.12,
+        ["points"] = 8644.31,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 7884.74,
+        ["points"] = 7885.06,
       },
     },
   },
@@ -31361,7 +31361,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 8469.45,
+        ["points"] = 8469.67,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 32,
@@ -31377,7 +31377,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 24,
-        ["points"] = 9370.03,
+        ["points"] = 9370.11,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 33,
@@ -31389,11 +31389,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 20,
-        ["points"] = 7225.17,
+        ["points"] = 7225.57,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 8809.97,
+        ["points"] = 8810.15,
       },
     },
   },
@@ -31408,7 +31408,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 8650.45,
+        ["points"] = 8650.64,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -31424,7 +31424,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 9380.64,
+        ["points"] = 9380.72,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -31436,11 +31436,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 8288.66,
+        ["points"] = 8288.91,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9274.14,
+        ["points"] = 9274.26,
       },
     },
   },
@@ -31455,7 +31455,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 7604.98,
+        ["points"] = 7605.33,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -31471,7 +31471,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 8746.68,
+        ["points"] = 8746.85,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -31483,11 +31483,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 8712.91,
+        ["points"] = 8713.1,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9116.82,
+        ["points"] = 9116.96,
       },
     },
   },
@@ -31502,7 +31502,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 9264.41,
+        ["points"] = 9264.51,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 20,
@@ -31518,7 +31518,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 9027.85,
+        ["points"] = 9027.98,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 21,
@@ -31530,11 +31530,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 7258.13,
+        ["points"] = 7258.53,
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 9140.19,
+        ["points"] = 9140.32,
       },
     },
   },
@@ -31549,7 +31549,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9290.47,
+        ["points"] = 9290.57,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -31565,7 +31565,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 9546.42,
+        ["points"] = 9546.48,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -31577,11 +31577,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 6769.39,
+        ["points"] = 6769.85,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8713.4,
+        ["points"] = 8713.6,
       },
     },
   },
@@ -31612,7 +31612,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 8911.14,
+        ["points"] = 8911.28,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -31624,11 +31624,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 8953.71,
+        ["points"] = 8953.85,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 8172.9,
+        ["points"] = 8173.18,
       },
     },
   },
@@ -31643,7 +31643,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 6384.3,
+        ["points"] = 6384.83,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -31659,7 +31659,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 8106.1,
+        ["points"] = 8106.35,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -31671,11 +31671,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 8958.0,
+        ["points"] = 8958.15,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9908.1,
+        ["points"] = 9908.11,
       },
     },
   },
@@ -31690,7 +31690,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 21,
-        ["points"] = 7842.46,
+        ["points"] = 7842.77,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -31706,7 +31706,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 21,
-        ["points"] = 8266.58,
+        ["points"] = 8266.81,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -31718,11 +31718,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 9115.67,
+        ["points"] = 9115.79,
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 9010.9,
+        ["points"] = 9011.06,
       },
     },
   },
@@ -31737,7 +31737,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 27,
-        ["points"] = 7030.12,
+        ["points"] = 7030.55,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 30,
@@ -31753,7 +31753,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 27,
-        ["points"] = 9391.25,
+        ["points"] = 9391.33,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 32,
@@ -31765,11 +31765,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 26,
-        ["points"] = 9492.62,
+        ["points"] = 9492.69,
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 7635.51,
+        ["points"] = 7635.88,
       },
     },
   },
@@ -31784,7 +31784,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9096.44,
+        ["points"] = 9096.57,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -31800,7 +31800,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 9502.65,
+        ["points"] = 9502.72,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -31812,11 +31812,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 7228.03,
+        ["points"] = 7228.43,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9509.35,
+        ["points"] = 9509.42,
       },
     },
   },
@@ -31831,7 +31831,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 7500.72,
+        ["points"] = 7501.09,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -31847,7 +31847,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 7029.18,
+        ["points"] = 7029.57,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
@@ -31859,11 +31859,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 8980.94,
+        ["points"] = 8981.08,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9272.59,
+        ["points"] = 9272.7,
       },
     },
   },
@@ -31878,7 +31878,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 8670.72,
+        ["points"] = 8670.91,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -31894,7 +31894,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 9,
-        ["points"] = 9209.55,
+        ["points"] = 9209.65,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -31906,11 +31906,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 9355.02,
+        ["points"] = 9355.12,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 9207.17,
+        ["points"] = 9207.29,
       },
     },
   },
@@ -31925,7 +31925,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 9498.99,
+        ["points"] = 9499.06,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -31941,7 +31941,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 14,
-        ["points"] = 9460.21,
+        ["points"] = 9460.28,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -31953,16 +31953,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 8695.71,
+        ["points"] = 8695.9,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8643.3,
+        ["points"] = 8643.51,
       },
     },
   },
   ["Qftence"] = {
-    ["percentile"] = 88.2,
+    ["percentile"] = 88.21,
     ["server"] = "Icecrown",
     ["overall_rank"] = 682,
     ["bosses"] = {
@@ -31972,7 +31972,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 19,
-        ["points"] = 9134.09,
+        ["points"] = 9134.21,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 20,
@@ -31988,7 +31988,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 22,
-        ["points"] = 8551.72,
+        ["points"] = 8551.92,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 21,
@@ -32000,11 +32000,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 20,
-        ["points"] = 9045.44,
+        ["points"] = 9045.57,
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 9244.55,
+        ["points"] = 9244.67,
       },
     },
   },
@@ -32019,7 +32019,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 23,
-        ["points"] = 9373.01,
+        ["points"] = 9373.1,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 36,
@@ -32035,7 +32035,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 23,
-        ["points"] = 7441.64,
+        ["points"] = 7441.98,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 29,
@@ -32047,7 +32047,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 23,
-        ["points"] = 9254.69,
+        ["points"] = 9254.8,
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
@@ -32066,7 +32066,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 9152.91,
+        ["points"] = 9153.03,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -32082,7 +32082,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 9335.54,
+        ["points"] = 9335.63,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
@@ -32094,16 +32094,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 7769.82,
+        ["points"] = 7770.13,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9746.11,
+        ["points"] = 9746.15,
       },
     },
   },
   ["Mafalda"] = {
-    ["percentile"] = 88.16,
+    ["percentile"] = 88.17,
     ["server"] = "Icecrown",
     ["overall_rank"] = 685,
     ["bosses"] = {
@@ -32113,7 +32113,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 8343.47,
+        ["points"] = 8343.71,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 18,
@@ -32129,7 +32129,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 8644.56,
+        ["points"] = 8644.74,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
@@ -32141,11 +32141,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 9726.24,
+        ["points"] = 9726.28,
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 8272.59,
+        ["points"] = 8272.85,
       },
     },
   },
@@ -32160,7 +32160,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 8754.71,
+        ["points"] = 8754.89,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -32176,7 +32176,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 8553.05,
+        ["points"] = 8553.24,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -32188,11 +32188,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 6773.68,
+        ["points"] = 6774.15,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 9556.07,
+        ["points"] = 9556.14,
       },
     },
   },
@@ -32207,7 +32207,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 8142.2,
+        ["points"] = 8142.46,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -32223,7 +32223,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 9002.65,
+        ["points"] = 9002.78,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -32235,11 +32235,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 9001.0,
+        ["points"] = 9001.15,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9362.93,
+        ["points"] = 9363.03,
       },
     },
   },
@@ -32254,7 +32254,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 8434.69,
+        ["points"] = 8434.92,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -32270,7 +32270,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 9244.03,
+        ["points"] = 9244.13,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -32282,11 +32282,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 9488.32,
+        ["points"] = 9488.39,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 8110.59,
+        ["points"] = 8110.89,
       },
     },
   },
@@ -32301,7 +32301,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 8176.95,
+        ["points"] = 8177.21,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -32317,7 +32317,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 7984.08,
+        ["points"] = 7984.35,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -32329,11 +32329,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 9445.32,
+        ["points"] = 9445.4,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 8126.17,
+        ["points"] = 8126.46,
       },
     },
   },
@@ -32348,7 +32348,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 25,
-        ["points"] = 8831.45,
+        ["points"] = 8831.62,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 25,
@@ -32364,7 +32364,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 24,
-        ["points"] = 8893.9,
+        ["points"] = 8894.05,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 24,
@@ -32376,11 +32376,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 25,
-        ["points"] = 7020.21,
+        ["points"] = 7020.64,
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 8850.47,
+        ["points"] = 8850.65,
       },
     },
   },
@@ -32395,7 +32395,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 9717.64,
+        ["points"] = 9717.68,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -32411,7 +32411,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 18,
-        ["points"] = 8942.97,
+        ["points"] = 8943.11,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
@@ -32423,11 +32423,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 8569.59,
+        ["points"] = 8569.79,
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 8699.38,
+        ["points"] = 8699.58,
       },
     },
   },
@@ -32442,7 +32442,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 9648.13,
+        ["points"] = 9648.18,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -32458,7 +32458,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 9647.21,
+        ["points"] = 9647.26,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -32470,11 +32470,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 8801.78,
+        ["points"] = 8801.95,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8163.55,
+        ["points"] = 8163.84,
       },
     },
   },
@@ -32489,7 +32489,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 9549.67,
+        ["points"] = 9549.73,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -32505,7 +32505,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 9523.87,
+        ["points"] = 9523.94,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -32517,11 +32517,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 8272.9,
+        ["points"] = 8273.14,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 8065.42,
+        ["points"] = 8065.72,
       },
     },
   },
@@ -32536,7 +32536,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 19,
-        ["points"] = 9840.72,
+        ["points"] = 9840.74,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
@@ -32552,7 +32552,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 18,
-        ["points"] = 7527.85,
+        ["points"] = 7528.18,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
@@ -32564,11 +32564,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 7044.58,
+        ["points"] = 7045.0,
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 8901.87,
+        ["points"] = 8902.04,
       },
     },
   },
@@ -32583,7 +32583,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 8711.27,
+        ["points"] = 8711.45,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -32599,7 +32599,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 9421.75,
+        ["points"] = 9421.83,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -32611,11 +32611,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 7332.66,
+        ["points"] = 7333.05,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9090.34,
+        ["points"] = 9090.48,
       },
     },
   },
@@ -32630,7 +32630,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 8534.61,
+        ["points"] = 8534.82,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -32646,7 +32646,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 8672.41,
+        ["points"] = 8672.59,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -32662,7 +32662,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8908.1,
+        ["points"] = 8908.27,
       },
     },
   },
@@ -32677,7 +32677,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 8724.3,
+        ["points"] = 8724.48,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -32693,7 +32693,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 8781.17,
+        ["points"] = 8781.33,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -32705,11 +32705,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 8229.9,
+        ["points"] = 8230.15,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 8591.9,
+        ["points"] = 8592.12,
       },
     },
   },
@@ -32724,7 +32724,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9116.71,
+        ["points"] = 9116.84,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -32740,7 +32740,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 7887.27,
+        ["points"] = 7887.55,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -32752,11 +32752,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 6716.35,
+        ["points"] = 6716.82,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8503.12,
+        ["points"] = 8503.35,
       },
     },
   },
@@ -32771,7 +32771,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 24,
-        ["points"] = 8621.49,
+        ["points"] = 8621.69,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 25,
@@ -32787,7 +32787,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 24,
-        ["points"] = 8273.21,
+        ["points"] = 8273.44,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 24,
@@ -32803,7 +32803,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 9297.51,
+        ["points"] = 9297.62,
       },
     },
   },
@@ -32818,7 +32818,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 9607.59,
+        ["points"] = 9607.64,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -32834,7 +32834,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 8453.58,
+        ["points"] = 8453.79,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -32850,7 +32850,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 7616.82,
+        ["points"] = 7617.19,
       },
     },
   },
@@ -32865,7 +32865,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 38,
-        ["points"] = 8591.08,
+        ["points"] = 8591.28,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 38,
@@ -32881,7 +32881,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 38,
-        ["points"] = 9405.84,
+        ["points"] = 9405.91,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 39,
@@ -32893,11 +32893,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 38,
-        ["points"] = 7203.67,
+        ["points"] = 7204.07,
       },
       ["The Lich King"] = {
         ["kill_count"] = 36,
-        ["points"] = 7081.0,
+        ["points"] = 7081.45,
       },
     },
   },
@@ -32912,7 +32912,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 7794.67,
+        ["points"] = 7794.99,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -32928,7 +32928,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 7542.44,
+        ["points"] = 7542.77,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -32940,11 +32940,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9367.92,
+        ["points"] = 9368.01,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 8781.93,
+        ["points"] = 8782.12,
       },
     },
   },
@@ -32959,7 +32959,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 48,
-        ["points"] = 8728.64,
+        ["points"] = 8728.83,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 49,
@@ -32975,7 +32975,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 50,
-        ["points"] = 8550.4,
+        ["points"] = 8550.59,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 49,
@@ -32991,7 +32991,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 47,
-        ["points"] = 9381.62,
+        ["points"] = 9381.72,
       },
     },
   },
@@ -33006,7 +33006,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 6591.37,
+        ["points"] = 6591.86,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -33022,7 +33022,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 9469.5,
+        ["points"] = 9469.57,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -33034,11 +33034,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 8066.5,
+        ["points"] = 8066.78,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 8035.83,
+        ["points"] = 8036.13,
       },
     },
   },
@@ -33053,7 +33053,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 7874.31,
+        ["points"] = 7874.62,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -33069,7 +33069,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 9,
-        ["points"] = 8062.33,
+        ["points"] = 8062.59,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -33081,11 +33081,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 8444.89,
+        ["points"] = 8445.11,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 7697.82,
+        ["points"] = 7698.18,
       },
     },
   },
@@ -33100,7 +33100,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 28,
-        ["points"] = 8428.9,
+        ["points"] = 8429.13,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 36,
@@ -33116,7 +33116,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 37,
-        ["points"] = 9225.46,
+        ["points"] = 9225.57,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 40,
@@ -33128,11 +33128,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 37,
-        ["points"] = 8869.14,
+        ["points"] = 8869.3,
       },
       ["The Lich King"] = {
         ["kill_count"] = 33,
-        ["points"] = 7105.92,
+        ["points"] = 7106.37,
       },
     },
   },
@@ -33147,7 +33147,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 6704.32,
+        ["points"] = 6704.79,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
@@ -33163,7 +33163,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 8993.37,
+        ["points"] = 8993.5,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
@@ -33175,11 +33175,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9588.65,
+        ["points"] = 9588.71,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 7336.45,
+        ["points"] = 7336.86,
       },
     },
   },
@@ -33194,7 +33194,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 8890.82,
+        ["points"] = 8890.98,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -33210,7 +33210,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 3,
-        ["points"] = 9001.33,
+        ["points"] = 9001.46,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
@@ -33222,11 +33222,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 8313.03,
+        ["points"] = 8313.27,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 9565.42,
+        ["points"] = 9565.49,
       },
     },
   },
@@ -33241,7 +33241,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 9203.59,
+        ["points"] = 9203.71,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -33257,7 +33257,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 9026.53,
+        ["points"] = 9026.65,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -33269,11 +33269,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 9557.12,
+        ["points"] = 9557.18,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 7323.99,
+        ["points"] = 7324.4,
       },
     },
   },
@@ -33288,7 +33288,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 24,
-        ["points"] = 8934.26,
+        ["points"] = 8934.41,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 25,
@@ -33304,7 +33304,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 26,
-        ["points"] = 7473.47,
+        ["points"] = 7473.81,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 27,
@@ -33316,11 +33316,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 26,
-        ["points"] = 8628.35,
+        ["points"] = 8628.55,
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 8313.08,
+        ["points"] = 8313.35,
       },
     },
   },
@@ -33351,7 +33351,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 8446.95,
+        ["points"] = 8447.16,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
@@ -33363,11 +33363,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9469.69,
+        ["points"] = 9469.76,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 8524.92,
+        ["points"] = 8525.15,
       },
     },
   },
@@ -33382,7 +33382,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 8511.44,
+        ["points"] = 8511.65,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -33398,7 +33398,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 8640.58,
+        ["points"] = 8640.76,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -33410,11 +33410,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 8530.89,
+        ["points"] = 8531.1,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9015.58,
+        ["points"] = 9015.73,
       },
     },
   },
@@ -33429,7 +33429,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 23,
-        ["points"] = 7018.53,
+        ["points"] = 7018.97,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 35,
@@ -33445,7 +33445,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 33,
-        ["points"] = 9725.46,
+        ["points"] = 9725.5,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 32,
@@ -33457,11 +33457,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 32,
-        ["points"] = 7030.24,
+        ["points"] = 7030.67,
       },
       ["The Lich King"] = {
         ["kill_count"] = 28,
-        ["points"] = 8649.53,
+        ["points"] = 8649.74,
       },
     },
   },
@@ -33476,7 +33476,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 8336.23,
+        ["points"] = 8336.47,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -33492,7 +33492,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 7896.55,
+        ["points"] = 7896.83,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -33504,11 +33504,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9135.73,
+        ["points"] = 9135.86,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8813.08,
+        ["points"] = 8813.27,
       },
     },
   },
@@ -33523,7 +33523,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 7848.25,
+        ["points"] = 7848.56,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -33539,7 +33539,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 8823.61,
+        ["points"] = 8823.76,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -33551,11 +33551,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 8224.17,
+        ["points"] = 8224.42,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9302.18,
+        ["points"] = 9302.29,
       },
     },
   },
@@ -33570,7 +33570,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 6335.07,
+        ["points"] = 6335.6,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -33586,7 +33586,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 9810.34,
+        ["points"] = 9810.37,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
@@ -33598,11 +33598,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9504.08,
+        ["points"] = 9504.16,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9316.2,
+        ["points"] = 9316.31,
       },
     },
   },
@@ -33617,7 +33617,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 8815.52,
+        ["points"] = 8815.69,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 20,
@@ -33633,7 +33633,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 9855.44,
+        ["points"] = 9855.46,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
@@ -33645,11 +33645,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9634.51,
+        ["points"] = 9634.57,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 7809.97,
+        ["points"] = 7810.31,
       },
     },
   },
@@ -33664,7 +33664,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 9775.56,
+        ["points"] = 9775.59,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -33680,7 +33680,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 9401.86,
+        ["points"] = 9401.94,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
@@ -33692,11 +33692,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 8578.19,
+        ["points"] = 8578.39,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 8496.88,
+        ["points"] = 8497.12,
       },
     },
   },
@@ -33711,7 +33711,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 7949.61,
+        ["points"] = 7949.91,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 31,
@@ -33727,7 +33727,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 27,
-        ["points"] = 9189.66,
+        ["points"] = 9189.76,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 30,
@@ -33743,7 +33743,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 7523.36,
+        ["points"] = 7523.75,
       },
     },
   },
@@ -33758,7 +33758,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8763.39,
+        ["points"] = 8763.57,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -33774,7 +33774,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 2,
-        ["points"] = 8189.66,
+        ["points"] = 8189.9,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
@@ -33786,11 +33786,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9660.31,
+        ["points"] = 9660.36,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 8261.68,
+        ["points"] = 8261.95,
       },
     },
   },
@@ -33805,7 +33805,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 8814.07,
+        ["points"] = 8814.25,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 18,
@@ -33821,7 +33821,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 7899.2,
+        ["points"] = 7899.48,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -33833,11 +33833,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 9188.76,
+        ["points"] = 9188.88,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 8052.96,
+        ["points"] = 8053.26,
       },
     },
   },
@@ -33852,7 +33852,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 8654.79,
+        ["points"] = 8654.99,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -33868,7 +33868,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 9090.19,
+        ["points"] = 9090.31,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -33880,11 +33880,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9567.15,
+        ["points"] = 9567.21,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 7358.26,
+        ["points"] = 7358.67,
       },
     },
   },
@@ -33899,7 +33899,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 8068.35,
+        ["points"] = 8068.63,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 25,
@@ -33915,7 +33915,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 25,
-        ["points"] = 9038.46,
+        ["points"] = 9038.59,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 25,
@@ -33927,11 +33927,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 25,
-        ["points"] = 9320.62,
+        ["points"] = 9320.72,
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 7613.71,
+        ["points"] = 7614.08,
       },
     },
   },
@@ -33946,7 +33946,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 7293.66,
+        ["points"] = 7294.05,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 27,
@@ -33962,7 +33962,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 9563.66,
+        ["points"] = 9563.72,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 26,
@@ -33974,16 +33974,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 9258.99,
+        ["points"] = 9259.1,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 7979.75,
+        ["points"] = 7980.07,
       },
     },
   },
   ["Denoxsap"] = {
-    ["percentile"] = 87.73,
+    ["percentile"] = 87.74,
     ["server"] = "Icecrown",
     ["overall_rank"] = 725,
     ["bosses"] = {
@@ -33993,7 +33993,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 8468.0,
+        ["points"] = 8468.22,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -34009,7 +34009,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 8090.19,
+        ["points"] = 8090.44,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -34021,11 +34021,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 7604.99,
+        ["points"] = 7605.33,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8423.68,
+        ["points"] = 8423.92,
       },
     },
   },
@@ -34040,7 +34040,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 8369.53,
+        ["points"] = 8369.77,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -34056,7 +34056,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 9332.89,
+        ["points"] = 9332.98,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
@@ -34068,11 +34068,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 8732.98,
+        ["points"] = 8733.16,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 7936.14,
+        ["points"] = 7936.46,
       },
     },
   },
@@ -34087,7 +34087,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 20,
-        ["points"] = 7935.13,
+        ["points"] = 7935.43,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -34103,7 +34103,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 21,
-        ["points"] = 8803.71,
+        ["points"] = 8803.87,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 21,
@@ -34115,11 +34115,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 21,
-        ["points"] = 7471.69,
+        ["points"] = 7472.06,
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 8841.12,
+        ["points"] = 8841.3,
       },
     },
   },
@@ -34134,7 +34134,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 8010.43,
+        ["points"] = 8010.71,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -34150,7 +34150,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 17,
-        ["points"] = 9153.85,
+        ["points"] = 9153.96,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -34162,11 +34162,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 8717.21,
+        ["points"] = 8717.4,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8693.15,
+        ["points"] = 8693.35,
       },
     },
   },
@@ -34181,7 +34181,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 8634.52,
+        ["points"] = 8634.72,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -34197,7 +34197,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 9623.34,
+        ["points"] = 9623.39,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -34209,11 +34209,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 8492.19,
+        ["points"] = 8492.4,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8900.31,
+        ["points"] = 8900.48,
       },
     },
   },
@@ -34228,7 +34228,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 6469.74,
+        ["points"] = 6470.25,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -34244,7 +34244,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 3,
-        ["points"] = 8762.6,
+        ["points"] = 8762.76,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
@@ -34256,11 +34256,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 8728.68,
+        ["points"] = 8728.86,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9627.73,
+        ["points"] = 9627.78,
       },
     },
   },
@@ -34275,7 +34275,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 9199.25,
+        ["points"] = 9199.36,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -34291,7 +34291,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 2,
-        ["points"] = 8391.25,
+        ["points"] = 8391.46,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
@@ -34307,7 +34307,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 9299.07,
+        ["points"] = 9299.17,
       },
     },
   },
@@ -34322,7 +34322,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 8677.96,
+        ["points"] = 8678.15,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -34338,7 +34338,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 8675.07,
+        ["points"] = 8675.24,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -34350,11 +34350,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 9721.94,
+        ["points"] = 9721.98,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8967.29,
+        ["points"] = 8967.45,
       },
     },
   },
@@ -34385,7 +34385,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 2,
-        ["points"] = 8530.5,
+        ["points"] = 8530.7,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
@@ -34397,11 +34397,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9263.29,
+        ["points"] = 9263.4,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 7959.5,
+        ["points"] = 7959.82,
       },
     },
   },
@@ -34416,7 +34416,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 8567.91,
+        ["points"] = 8568.12,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 18,
@@ -34432,7 +34432,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 7809.02,
+        ["points"] = 7809.31,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -34448,7 +34448,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 8191.59,
+        ["points"] = 8191.87,
       },
     },
   },
@@ -34463,7 +34463,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 7943.82,
+        ["points"] = 7944.11,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -34479,7 +34479,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 9070.29,
+        ["points"] = 9070.42,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -34491,11 +34491,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 9177.3,
+        ["points"] = 9177.41,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8023.36,
+        ["points"] = 8023.67,
       },
     },
   },
@@ -34510,7 +34510,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 19,
-        ["points"] = 8929.92,
+        ["points"] = 8930.07,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
@@ -34526,7 +34526,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 20,
-        ["points"] = 8330.24,
+        ["points"] = 8330.46,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -34538,11 +34538,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 7959.01,
+        ["points"] = 7959.3,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8249.22,
+        ["points"] = 8249.49,
       },
     },
   },
@@ -34557,7 +34557,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 8530.26,
+        ["points"] = 8530.48,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -34573,7 +34573,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 9245.36,
+        ["points"] = 9245.46,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
@@ -34585,11 +34585,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 8877.74,
+        ["points"] = 8877.9,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 8471.96,
+        ["points"] = 8472.2,
       },
     },
   },
@@ -34604,7 +34604,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 8908.2,
+        ["points"] = 8908.35,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -34620,7 +34620,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 7872.68,
+        ["points"] = 7872.96,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -34632,11 +34632,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 7455.93,
+        ["points"] = 7456.29,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8584.11,
+        ["points"] = 8584.33,
       },
     },
   },
@@ -34651,7 +34651,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 8189.98,
+        ["points"] = 8190.24,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -34667,7 +34667,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 8423.08,
+        ["points"] = 8423.29,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
@@ -34679,11 +34679,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 6951.41,
+        ["points"] = 6951.85,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 7724.3,
+        ["points"] = 7724.65,
       },
     },
   },
@@ -34698,7 +34698,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9284.68,
+        ["points"] = 9284.78,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -34714,7 +34714,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 9000.0,
+        ["points"] = 9000.13,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -34730,7 +34730,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 8504.67,
+        ["points"] = 8504.91,
       },
     },
   },
@@ -34745,7 +34745,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 7631.05,
+        ["points"] = 7631.39,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -34761,7 +34761,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 9145.89,
+        ["points"] = 9146.0,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -34773,11 +34773,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 8689.98,
+        ["points"] = 8690.17,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9637.07,
+        ["points"] = 9637.13,
       },
     },
   },
@@ -34792,7 +34792,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 7658.56,
+        ["points"] = 7658.9,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -34808,7 +34808,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 9,
-        ["points"] = 8937.67,
+        ["points"] = 8937.81,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -34824,7 +34824,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8398.75,
+        ["points"] = 8399.0,
       },
     },
   },
@@ -34839,7 +34839,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 7994.5,
+        ["points"] = 7994.79,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -34855,7 +34855,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 8708.22,
+        ["points"] = 8708.39,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -34867,7 +34867,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 9065.5,
+        ["points"] = 9065.63,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
@@ -34886,7 +34886,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 8990.73,
+        ["points"] = 8990.88,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -34902,7 +34902,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 3,
-        ["points"] = 8790.45,
+        ["points"] = 8790.61,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
@@ -34914,11 +34914,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9773.54,
+        ["points"] = 9773.57,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 8165.11,
+        ["points"] = 8165.39,
       },
     },
   },
@@ -34933,7 +34933,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 7256.01,
+        ["points"] = 7256.41,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -34949,7 +34949,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 2,
-        ["points"] = 9104.77,
+        ["points"] = 9104.89,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
@@ -34961,11 +34961,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9515.55,
+        ["points"] = 9515.62,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 7161.99,
+        ["points"] = 7162.44,
       },
     },
   },
@@ -34980,7 +34980,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 25,
-        ["points"] = 7923.54,
+        ["points"] = 7923.85,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 28,
@@ -34996,7 +34996,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 26,
-        ["points"] = 8098.14,
+        ["points"] = 8098.4,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 27,
@@ -35008,11 +35008,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 24,
-        ["points"] = 9049.73,
+        ["points"] = 9049.87,
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 8915.89,
+        ["points"] = 8916.06,
       },
     },
   },
@@ -35027,7 +35027,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 8276.86,
+        ["points"] = 8277.11,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 18,
@@ -35043,7 +35043,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 17,
-        ["points"] = 9303.71,
+        ["points"] = 9303.81,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -35055,11 +35055,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 9181.6,
+        ["points"] = 9181.71,
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 9063.86,
+        ["points"] = 9064.01,
       },
     },
   },
@@ -35074,7 +35074,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 7936.58,
+        ["points"] = 7936.88,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -35090,7 +35090,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 8864.72,
+        ["points"] = 8864.87,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -35102,11 +35102,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 9036.84,
+        ["points"] = 9036.97,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9149.53,
+        ["points"] = 9149.67,
       },
     },
   },
@@ -35121,7 +35121,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9682.88,
+        ["points"] = 9682.93,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -35137,7 +35137,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 9118.04,
+        ["points"] = 9118.15,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -35149,11 +35149,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 7930.34,
+        ["points"] = 7930.64,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8884.74,
+        ["points"] = 8884.91,
       },
     },
   },
@@ -35168,7 +35168,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 31,
-        ["points"] = 8696.79,
+        ["points"] = 8696.97,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 31,
@@ -35184,7 +35184,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 29,
-        ["points"] = 8992.04,
+        ["points"] = 8992.18,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 29,
@@ -35196,11 +35196,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 30,
-        ["points"] = 9443.89,
+        ["points"] = 9443.97,
       },
       ["The Lich King"] = {
         ["kill_count"] = 28,
-        ["points"] = 8411.21,
+        ["points"] = 8411.46,
       },
     },
   },
@@ -35215,7 +35215,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 24,
-        ["points"] = 8252.24,
+        ["points"] = 8252.5,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 24,
@@ -35231,7 +35231,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 24,
-        ["points"] = 7446.95,
+        ["points"] = 7447.29,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 24,
@@ -35243,11 +35243,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 22,
-        ["points"] = 8808.94,
+        ["points"] = 8809.11,
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 8613.71,
+        ["points"] = 8613.92,
       },
     },
   },
@@ -35262,7 +35262,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 7671.59,
+        ["points"] = 7671.93,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -35278,7 +35278,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 8237.4,
+        ["points"] = 8237.63,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
@@ -35290,11 +35290,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 7799.91,
+        ["points"] = 7800.23,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 8473.52,
+        ["points"] = 8473.76,
       },
     },
   },
@@ -35309,7 +35309,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 7618.01,
+        ["points"] = 7618.36,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -35325,7 +35325,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 8643.24,
+        ["points"] = 8643.42,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
@@ -35337,11 +35337,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 8549.52,
+        ["points"] = 8549.73,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9035.83,
+        ["points"] = 9035.98,
       },
     },
   },
@@ -35356,7 +35356,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 21,
-        ["points"] = 9507.67,
+        ["points"] = 9507.75,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 22,
@@ -35372,7 +35372,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 22,
-        ["points"] = 8519.89,
+        ["points"] = 8520.09,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -35384,11 +35384,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 22,
-        ["points"] = 9240.36,
+        ["points"] = 9240.47,
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 7278.82,
+        ["points"] = 7279.24,
       },
     },
   },
@@ -35403,7 +35403,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 41,
-        ["points"] = 8951.64,
+        ["points"] = 8951.79,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 42,
@@ -35419,7 +35419,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 43,
-        ["points"] = 8399.2,
+        ["points"] = 8399.42,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 42,
@@ -35431,11 +35431,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 41,
-        ["points"] = 9059.77,
+        ["points"] = 9059.9,
       },
       ["The Lich King"] = {
         ["kill_count"] = 43,
-        ["points"] = 7433.02,
+        ["points"] = 7433.42,
       },
     },
   },
@@ -35450,7 +35450,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 8308.72,
+        ["points"] = 8308.96,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -35466,7 +35466,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 8442.97,
+        ["points"] = 8443.18,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -35478,11 +35478,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9697.58,
+        ["points"] = 9697.62,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8545.17,
+        ["points"] = 8545.4,
       },
     },
   },
@@ -35497,7 +35497,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 8134.96,
+        ["points"] = 8135.23,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -35513,7 +35513,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 14,
-        ["points"] = 8801.06,
+        ["points"] = 8801.22,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -35525,11 +35525,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 7411.49,
+        ["points"] = 7411.87,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8570.09,
+        ["points"] = 8570.32,
       },
     },
   },
@@ -35544,7 +35544,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 9155.81,
+        ["points"] = 9155.93,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -35560,7 +35560,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 9586.21,
+        ["points"] = 9586.26,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -35572,11 +35572,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 9508.38,
+        ["points"] = 9508.46,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 8694.7,
+        ["points"] = 8694.91,
       },
     },
   },
@@ -35591,7 +35591,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 8473.79,
+        ["points"] = 8474.01,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -35607,7 +35607,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 8222.81,
+        ["points"] = 8223.05,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -35619,11 +35619,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 8004.87,
+        ["points"] = 8005.16,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 7892.52,
+        ["points"] = 7892.85,
       },
     },
   },
@@ -35638,7 +35638,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 9081.96,
+        ["points"] = 9082.09,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -35654,7 +35654,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 8013.26,
+        ["points"] = 8013.53,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -35666,65 +35666,18 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 9527.02,
+        ["points"] = 9527.09,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9161.99,
-      },
-    },
-  },
-  ["Dogcarrier"] = {
-    ["percentile"] = 87.35,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 761,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 6,
-        ["points"] = 7418.74,
-      },
-      ["Lady Deathwhisper"] = {
-        ["kill_count"] = 8,
-        ["points"] = 7909.06,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 8,
-        ["points"] = 8838.88,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 10,
-        ["points"] = 9686.97,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 8,
-        ["points"] = 9222.92,
-      },
-      ["Professor Putricide"] = {
-        ["kill_count"] = 7,
-        ["points"] = 9336.87,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 10,
-        ["points"] = 7399.74,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 9,
-        ["points"] = 9215.92,
-      },
-      ["Sindragosa"] = {
-        ["kill_count"] = 8,
-        ["points"] = 8566.72,
-      },
-      ["The Lich King"] = {
-        ["kill_count"] = 13,
-        ["points"] = 9705.61,
+        ["points"] = 9162.12,
       },
     },
   },
   ["Acdz"] = {
     ["percentile"] = 87.35,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 762,
+    ["overall_rank"] = 761,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 17,
@@ -35732,7 +35685,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 7891.69,
+        ["points"] = 7891.99,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 18,
@@ -35748,7 +35701,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 18,
-        ["points"] = 8794.43,
+        ["points"] = 8794.59,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
@@ -35760,11 +35713,58 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 7017.34,
+        ["points"] = 7017.77,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8869.16,
+        ["points"] = 8869.33,
+      },
+    },
+  },
+  ["Dogcarrier"] = {
+    ["percentile"] = 87.35,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 762,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 6,
+        ["points"] = 7418.74,
+      },
+      ["Lady Deathwhisper"] = {
+        ["kill_count"] = 8,
+        ["points"] = 7909.37,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 8,
+        ["points"] = 8838.88,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 10,
+        ["points"] = 9686.97,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 8,
+        ["points"] = 9222.92,
+      },
+      ["Professor Putricide"] = {
+        ["kill_count"] = 7,
+        ["points"] = 9336.96,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 10,
+        ["points"] = 7399.74,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 9,
+        ["points"] = 9215.92,
+      },
+      ["Sindragosa"] = {
+        ["kill_count"] = 8,
+        ["points"] = 8566.92,
+      },
+      ["The Lich King"] = {
+        ["kill_count"] = 13,
+        ["points"] = 9705.65,
       },
     },
   },
@@ -35779,7 +35779,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 30,
-        ["points"] = 9029.83,
+        ["points"] = 9029.97,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 29,
@@ -35795,7 +35795,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 28,
-        ["points"] = 9058.36,
+        ["points"] = 9058.48,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 31,
@@ -35807,7 +35807,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 28,
-        ["points"] = 8867.71,
+        ["points"] = 8867.87,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
@@ -35826,7 +35826,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 7076.46,
+        ["points"] = 7076.88,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 20,
@@ -35842,7 +35842,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 14,
-        ["points"] = 9517.24,
+        ["points"] = 9517.31,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
@@ -35854,11 +35854,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 7775.55,
+        ["points"] = 7775.87,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8985.98,
+        ["points"] = 8986.14,
       },
     },
   },
@@ -35873,7 +35873,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 8737.33,
+        ["points"] = 8737.51,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -35889,7 +35889,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 9424.4,
+        ["points"] = 9424.48,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -35901,16 +35901,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 7996.27,
+        ["points"] = 7996.56,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 8984.42,
+        ["points"] = 8984.58,
       },
     },
   },
   ["Daisywind"] = {
-    ["percentile"] = 87.31,
+    ["percentile"] = 87.32,
     ["server"] = "Icecrown",
     ["overall_rank"] = 766,
     ["bosses"] = {
@@ -35920,7 +35920,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 8352.16,
+        ["points"] = 8352.4,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -35936,7 +35936,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 8563.66,
+        ["points"] = 8563.85,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -35948,11 +35948,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 8943.67,
+        ["points"] = 8943.82,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 7976.64,
+        ["points"] = 7976.95,
       },
     },
   },
@@ -35967,7 +35967,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 8397.05,
+        ["points"] = 8397.28,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -35983,7 +35983,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 8884.62,
+        ["points"] = 8884.76,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -35999,7 +35999,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 8211.84,
+        ["points"] = 8212.12,
       },
     },
   },
@@ -36014,7 +36014,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 9125.4,
+        ["points"] = 9125.52,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -36030,7 +36030,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 8900.53,
+        ["points"] = 8900.68,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -36042,7 +36042,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9585.78,
+        ["points"] = 9585.84,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
@@ -36061,7 +36061,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 28,
-        ["points"] = 8834.35,
+        ["points"] = 8834.52,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 24,
@@ -36077,7 +36077,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 23,
-        ["points"] = 8985.41,
+        ["points"] = 8985.55,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -36089,11 +36089,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 8823.28,
+        ["points"] = 8823.45,
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 7020.25,
+        ["points"] = 7020.71,
       },
     },
   },
@@ -36108,7 +36108,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 40,
-        ["points"] = 8346.37,
+        ["points"] = 8346.6,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 47,
@@ -36124,7 +36124,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 48,
-        ["points"] = 8216.18,
+        ["points"] = 8216.42,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 46,
@@ -36136,11 +36136,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 46,
-        ["points"] = 8872.01,
+        ["points"] = 8872.17,
       },
       ["The Lich King"] = {
         ["kill_count"] = 45,
-        ["points"] = 8285.05,
+        ["points"] = 8285.31,
       },
     },
   },
@@ -36155,7 +36155,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 25,
-        ["points"] = 8550.54,
+        ["points"] = 8550.75,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 29,
@@ -36171,7 +36171,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 24,
-        ["points"] = 7620.69,
+        ["points"] = 7621.01,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 25,
@@ -36183,11 +36183,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 25,
-        ["points"] = 8535.19,
+        ["points"] = 8535.4,
       },
       ["The Lich King"] = {
         ["kill_count"] = 29,
-        ["points"] = 8314.64,
+        ["points"] = 8314.9,
       },
     },
   },
@@ -36202,7 +36202,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 8174.05,
+        ["points"] = 8174.32,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -36218,7 +36218,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 8660.48,
+        ["points"] = 8660.66,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -36230,11 +36230,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 7875.88,
+        ["points"] = 7876.18,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9352.02,
+        ["points"] = 9352.13,
       },
     },
   },
@@ -36249,7 +36249,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 9627.86,
+        ["points"] = 9627.91,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -36265,7 +36265,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 2,
-        ["points"] = 9692.31,
+        ["points"] = 9692.35,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
@@ -36277,11 +36277,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9733.41,
+        ["points"] = 9733.45,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 8690.03,
+        ["points"] = 8690.24,
       },
     },
   },
@@ -36296,7 +36296,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9445.41,
+        ["points"] = 9445.49,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -36312,7 +36312,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 6763.93,
+        ["points"] = 6764.35,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -36324,11 +36324,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 9141.46,
+        ["points"] = 9141.59,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9174.45,
+        ["points"] = 9174.58,
       },
     },
   },
@@ -36343,7 +36343,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 7910.51,
+        ["points"] = 7910.82,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -36359,7 +36359,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 9506.63,
+        ["points"] = 9506.7,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -36371,11 +36371,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 8532.32,
+        ["points"] = 8532.53,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 8007.79,
+        ["points"] = 8008.1,
       },
     },
   },
@@ -36390,7 +36390,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 8262.38,
+        ["points"] = 8262.63,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -36406,7 +36406,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 8858.09,
+        ["points"] = 8858.24,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -36418,11 +36418,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 8502.22,
+        ["points"] = 8502.44,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 9727.41,
+        ["points"] = 9727.46,
       },
     },
   },
@@ -36437,7 +36437,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 8479.58,
+        ["points"] = 8479.8,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 22,
@@ -36453,7 +36453,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 7726.79,
+        ["points"] = 7727.09,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
@@ -36465,11 +36465,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 9003.87,
+        ["points"] = 9004.01,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8267.91,
+        ["points"] = 8268.18,
       },
     },
   },
@@ -36500,7 +36500,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 8470.82,
+        ["points"] = 8471.03,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
@@ -36516,7 +36516,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 8352.02,
+        ["points"] = 8352.28,
       },
     },
   },
@@ -36531,7 +36531,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 8227.63,
+        ["points"] = 8227.88,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 18,
@@ -36547,7 +36547,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 8722.81,
+        ["points"] = 8722.98,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
@@ -36559,16 +36559,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 8602.55,
+        ["points"] = 8602.75,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9465.73,
+        ["points"] = 9465.82,
       },
     },
   },
   ["Echoash"] = {
-    ["percentile"] = 87.12,
+    ["percentile"] = 87.13,
     ["server"] = "Icecrown",
     ["overall_rank"] = 780,
     ["bosses"] = {
@@ -36594,7 +36594,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 7656.5,
+        ["points"] = 7656.81,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -36606,11 +36606,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 8581.05,
+        ["points"] = 8581.26,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9155.76,
+        ["points"] = 9155.89,
       },
     },
   },
@@ -36625,7 +36625,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 9242.69,
+        ["points"] = 9242.8,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -36641,7 +36641,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 8826.26,
+        ["points"] = 8826.42,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -36653,11 +36653,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 7646.55,
+        ["points"] = 7646.89,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8920.56,
+        ["points"] = 8920.73,
       },
     },
   },
@@ -36672,7 +36672,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 7982.91,
+        ["points"] = 7983.21,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -36688,7 +36688,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 8863.4,
+        ["points"] = 8863.55,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
@@ -36700,11 +36700,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 8615.45,
+        ["points"] = 8615.65,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9224.3,
+        ["points"] = 9224.42,
       },
     },
   },
@@ -36719,7 +36719,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 8384.01,
+        ["points"] = 8384.25,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -36735,7 +36735,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 9,
-        ["points"] = 8705.57,
+        ["points"] = 8705.74,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -36747,11 +36747,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 8773.11,
+        ["points"] = 8773.29,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 8040.5,
+        ["points"] = 8040.8,
       },
     },
   },
@@ -36766,7 +36766,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 9270.2,
+        ["points"] = 9270.31,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -36782,7 +36782,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 9,
-        ["points"] = 9079.58,
+        ["points"] = 9079.7,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -36794,11 +36794,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 8176.87,
+        ["points"] = 8177.13,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8077.88,
+        ["points"] = 8078.18,
       },
     },
   },
@@ -36813,7 +36813,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 26,
-        ["points"] = 7299.45,
+        ["points"] = 7299.84,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 29,
@@ -36829,7 +36829,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 27,
-        ["points"] = 8607.43,
+        ["points"] = 8607.61,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 30,
@@ -36841,11 +36841,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 25,
-        ["points"] = 8966.6,
+        ["points"] = 8966.75,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 7990.65,
+        ["points"] = 7990.97,
       },
     },
   },
@@ -36860,7 +36860,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 8795.25,
+        ["points"] = 8795.42,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -36876,7 +36876,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 8103.45,
+        ["points"] = 8103.7,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -36888,11 +36888,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 8459.22,
+        ["points"] = 8459.44,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 8054.52,
+        ["points"] = 8054.82,
       },
     },
   },
@@ -36923,7 +36923,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 3,
-        ["points"] = 7218.83,
+        ["points"] = 7219.2,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
@@ -36935,11 +36935,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9360.76,
+        ["points"] = 9360.85,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 9331.78,
+        ["points"] = 9331.88,
       },
     },
   },
@@ -36954,7 +36954,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 6319.14,
+        ["points"] = 6319.68,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -36970,7 +36970,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 7652.52,
+        ["points"] = 7652.83,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -36982,11 +36982,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 8939.37,
+        ["points"] = 8939.52,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 8415.89,
+        ["points"] = 8416.13,
       },
     },
   },
@@ -37001,7 +37001,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 9536.63,
+        ["points"] = 9536.7,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -37017,7 +37017,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 9363.4,
+        ["points"] = 9363.48,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
@@ -37029,11 +37029,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 8533.75,
+        ["points"] = 8533.96,
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 9736.76,
+        ["points"] = 9736.8,
       },
     },
   },
@@ -37048,7 +37048,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 21,
-        ["points"] = 9019.69,
+        ["points"] = 9019.83,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 20,
@@ -37064,7 +37064,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 21,
-        ["points"] = 8751.99,
+        ["points"] = 8752.15,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 21,
@@ -37080,12 +37080,12 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 8551.4,
+        ["points"] = 8551.63,
       },
     },
   },
   ["Furyrog"] = {
-    ["percentile"] = 86.98,
+    ["percentile"] = 86.99,
     ["server"] = "Icecrown",
     ["overall_rank"] = 791,
     ["bosses"] = {
@@ -37095,7 +37095,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 8693.89,
+        ["points"] = 8694.08,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -37111,7 +37111,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 8029.18,
+        ["points"] = 8029.44,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -37123,11 +37123,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 8658.45,
+        ["points"] = 8658.64,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9562.31,
+        ["points"] = 9562.37,
       },
     },
   },
@@ -37142,7 +37142,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 8344.92,
+        ["points"] = 8345.16,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -37158,7 +37158,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 8472.15,
+        ["points"] = 8472.35,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -37170,11 +37170,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 8271.46,
+        ["points"] = 8271.71,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 8082.55,
+        ["points"] = 8082.85,
       },
     },
   },
@@ -37189,7 +37189,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 8997.97,
+        ["points"] = 8998.12,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -37205,7 +37205,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 9323.61,
+        ["points"] = 9323.7,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -37217,11 +37217,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 9168.7,
+        ["points"] = 9168.82,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 7878.5,
+        ["points"] = 7878.84,
       },
     },
   },
@@ -37236,7 +37236,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 8523.02,
+        ["points"] = 8523.24,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -37252,7 +37252,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 9181.7,
+        ["points"] = 9181.81,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -37264,11 +37264,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9502.65,
+        ["points"] = 9502.72,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 7945.48,
+        ["points"] = 7945.8,
       },
     },
   },
@@ -37283,7 +37283,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 23,
-        ["points"] = 9496.09,
+        ["points"] = 9496.16,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 26,
@@ -37299,7 +37299,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 23,
-        ["points"] = 8712.2,
+        ["points"] = 8712.37,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 24,
@@ -37311,11 +37311,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 23,
-        ["points"] = 9041.14,
+        ["points"] = 9041.27,
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 8199.38,
+        ["points"] = 8199.66,
       },
     },
   },
@@ -37330,7 +37330,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 9525.05,
+        ["points"] = 9525.12,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -37346,7 +37346,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 3,
-        ["points"] = 9011.94,
+        ["points"] = 9012.07,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
@@ -37362,7 +37362,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 8800.62,
+        ["points"] = 8800.81,
       },
     },
   },
@@ -37377,7 +37377,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 9122.5,
+        ["points"] = 9122.63,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 18,
@@ -37393,7 +37393,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 17,
-        ["points"] = 8074.27,
+        ["points"] = 8074.53,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
@@ -37405,11 +37405,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 8457.79,
+        ["points"] = 8458.01,
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 8359.81,
+        ["points"] = 8360.07,
       },
     },
   },
@@ -37424,7 +37424,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8609.9,
+        ["points"] = 8610.11,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -37440,7 +37440,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 2,
-        ["points"] = 8506.63,
+        ["points"] = 8506.83,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
@@ -37452,11 +37452,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8026.37,
+        ["points"] = 8026.66,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 9616.82,
+        ["points"] = 9616.88,
       },
     },
   },
@@ -37471,7 +37471,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 8376.77,
+        ["points"] = 8377.01,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -37487,7 +37487,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 9263.93,
+        ["points"] = 9264.02,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -37499,11 +37499,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 7616.45,
+        ["points"] = 7616.8,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 8386.29,
+        ["points"] = 8386.54,
       },
     },
   },
@@ -37518,7 +37518,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 8932.81,
+        ["points"] = 8932.97,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -37534,7 +37534,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 23,
-        ["points"] = 8180.37,
+        ["points"] = 8180.61,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
@@ -37546,11 +37546,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 7418.66,
+        ["points"] = 7419.03,
       },
       ["The Lich King"] = {
         ["kill_count"] = 23,
-        ["points"] = 8300.62,
+        ["points"] = 8300.89,
       },
     },
   },
@@ -37565,7 +37565,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 8844.48,
+        ["points"] = 8844.65,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -37581,7 +37581,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 9,
-        ["points"] = 8503.98,
+        ["points"] = 8504.18,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -37593,11 +37593,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 7352.73,
+        ["points"] = 7353.11,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9004.67,
+        ["points"] = 9004.83,
       },
     },
   },
@@ -37612,7 +37612,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9261.51,
+        ["points"] = 9261.62,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -37628,7 +37628,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 8257.29,
+        ["points"] = 8257.53,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -37640,11 +37640,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 7486.03,
+        ["points"] = 7486.39,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8478.19,
+        ["points"] = 8478.43,
       },
     },
   },
@@ -37659,7 +37659,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 6684.04,
+        ["points"] = 6684.52,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -37675,7 +37675,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 2,
-        ["points"] = 9385.94,
+        ["points"] = 9386.02,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
@@ -37687,11 +37687,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 7180.74,
+        ["points"] = 7181.14,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 9177.57,
+        ["points"] = 9177.7,
       },
     },
   },
@@ -37706,7 +37706,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 30,
-        ["points"] = 8020.56,
+        ["points"] = 8020.85,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 32,
@@ -37722,7 +37722,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 25,
-        ["points"] = 8393.9,
+        ["points"] = 8394.11,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 27,
@@ -37734,11 +37734,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 30,
-        ["points"] = 9564.28,
+        ["points"] = 9564.35,
       },
       ["The Lich King"] = {
         ["kill_count"] = 25,
-        ["points"] = 7320.87,
+        ["points"] = 7321.29,
       },
     },
   },
@@ -37753,7 +37753,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 8841.59,
+        ["points"] = 8841.75,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -37769,7 +37769,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 9229.44,
+        ["points"] = 9229.55,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
@@ -37781,11 +37781,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9033.97,
+        ["points"] = 9034.11,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9834.89,
+        ["points"] = 9834.92,
       },
     },
   },
@@ -37800,7 +37800,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9300.61,
+        ["points"] = 9300.71,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -37816,7 +37816,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 8754.64,
+        ["points"] = 8754.81,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -37828,11 +37828,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9180.16,
+        ["points"] = 9180.28,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 7850.47,
+        ["points"] = 7850.8,
       },
     },
   },
@@ -37847,7 +37847,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 8922.68,
+        ["points"] = 8922.83,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -37863,7 +37863,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 9074.27,
+        ["points"] = 9074.39,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
@@ -37879,7 +37879,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 8521.81,
+        ["points"] = 8522.04,
       },
     },
   },
@@ -37894,7 +37894,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 9788.59,
+        ["points"] = 9788.62,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -37910,7 +37910,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 9566.31,
+        ["points"] = 9566.37,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -37922,11 +37922,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 9558.55,
+        ["points"] = 9558.61,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9236.76,
+        ["points"] = 9236.88,
       },
     },
   },
@@ -37941,7 +37941,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 7205.33,
+        ["points"] = 7205.73,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
@@ -37957,7 +37957,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 8668.44,
+        ["points"] = 8668.61,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
@@ -37969,11 +37969,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 8559.55,
+        ["points"] = 8559.76,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8767.91,
+        ["points"] = 8768.1,
       },
     },
   },
@@ -37988,7 +37988,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 8695.34,
+        ["points"] = 8695.53,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -38004,7 +38004,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 7917.77,
+        ["points"] = 7918.05,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -38016,11 +38016,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 9230.33,
+        ["points"] = 9230.44,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9517.13,
+        ["points"] = 9517.21,
       },
     },
   },
@@ -38035,7 +38035,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 7767.16,
+        ["points"] = 7767.48,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -38051,7 +38051,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 3,
-        ["points"] = 9147.21,
+        ["points"] = 9147.33,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
@@ -38063,11 +38063,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 7891.64,
+        ["points"] = 7891.95,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 9182.24,
+        ["points"] = 9182.37,
       },
     },
   },
@@ -38082,7 +38082,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 7801.91,
+        ["points"] = 7802.23,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -38098,7 +38098,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 8814.32,
+        ["points"] = 8814.48,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
@@ -38110,11 +38110,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 6805.22,
+        ["points"] = 6805.67,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 8369.16,
+        ["points"] = 8369.41,
       },
     },
   },
@@ -38129,7 +38129,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 8730.09,
+        ["points"] = 8730.27,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -38145,7 +38145,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 9316.98,
+        ["points"] = 9317.07,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -38157,11 +38157,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 7916.01,
+        ["points"] = 7916.31,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8803.74,
+        ["points"] = 8803.92,
       },
     },
   },
@@ -38176,7 +38176,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 58,
-        ["points"] = 8721.4,
+        ["points"] = 8721.59,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 62,
@@ -38192,7 +38192,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 55,
-        ["points"] = 8313.0,
+        ["points"] = 8313.22,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 61,
@@ -38204,11 +38204,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 44,
-        ["points"] = 7513.26,
+        ["points"] = 7513.61,
       },
       ["The Lich King"] = {
         ["kill_count"] = 30,
-        ["points"] = 6981.31,
+        ["points"] = 6981.78,
       },
     },
   },
@@ -38223,7 +38223,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 20,
-        ["points"] = 9358.53,
+        ["points"] = 9358.62,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 25,
@@ -38239,7 +38239,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 24,
-        ["points"] = 8901.86,
+        ["points"] = 8902.0,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 27,
@@ -38251,11 +38251,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 25,
-        ["points"] = 8528.02,
+        ["points"] = 8528.23,
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 7766.36,
+        ["points"] = 7766.7,
       },
     },
   },
@@ -38270,7 +38270,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 8437.59,
+        ["points"] = 8437.82,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -38286,7 +38286,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 7874.01,
+        ["points"] = 7874.29,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -38298,11 +38298,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 8927.91,
+        ["points"] = 8928.06,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8543.61,
+        ["points"] = 8543.84,
       },
     },
   },
@@ -38317,7 +38317,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 8958.88,
+        ["points"] = 8959.03,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -38333,7 +38333,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 3,
-        ["points"] = 8084.88,
+        ["points"] = 8085.13,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
@@ -38349,7 +38349,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 9333.33,
+        ["points"] = 9333.44,
       },
     },
   },
@@ -38364,7 +38364,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 8992.18,
+        ["points"] = 8992.33,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -38380,7 +38380,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 8648.54,
+        ["points"] = 8648.72,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -38392,11 +38392,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 6494.2,
+        ["points"] = 6494.7,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9152.65,
+        ["points"] = 9152.78,
       },
     },
   },
@@ -38411,7 +38411,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 7396.47,
+        ["points"] = 7396.84,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -38427,7 +38427,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 9465.52,
+        ["points"] = 9465.59,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
@@ -38439,11 +38439,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 8219.87,
+        ["points"] = 8220.12,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9570.09,
+        ["points"] = 9570.16,
       },
     },
   },
@@ -38458,7 +38458,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 8740.23,
+        ["points"] = 8740.41,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -38474,7 +38474,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 8595.49,
+        ["points"] = 8595.68,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -38490,7 +38490,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 7246.11,
+        ["points"] = 7246.53,
       },
     },
   },
@@ -38505,7 +38505,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 6908.49,
+        ["points"] = 6908.93,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -38521,7 +38521,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 2,
-        ["points"] = 8797.08,
+        ["points"] = 8797.24,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
@@ -38533,11 +38533,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9561.42,
+        ["points"] = 9561.48,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 8548.29,
+        ["points"] = 8548.51,
       },
     },
   },
@@ -38552,7 +38552,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 8628.73,
+        ["points"] = 8628.93,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -38568,7 +38568,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 8855.44,
+        ["points"] = 8855.59,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
@@ -38580,11 +38580,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 9079.83,
+        ["points"] = 9079.97,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 9113.71,
+        ["points"] = 9113.85,
       },
     },
   },
@@ -38599,7 +38599,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 28,
-        ["points"] = 6713.0,
+        ["points"] = 6713.48,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 29,
@@ -38615,7 +38615,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 28,
-        ["points"] = 8343.5,
+        ["points"] = 8343.72,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 28,
@@ -38627,11 +38627,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 30,
-        ["points"] = 9058.33,
+        ["points"] = 9058.47,
       },
       ["The Lich King"] = {
         ["kill_count"] = 28,
-        ["points"] = 8682.24,
+        ["points"] = 8682.45,
       },
     },
   },
@@ -38646,7 +38646,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 24,
-        ["points"] = 8853.17,
+        ["points"] = 8853.34,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 24,
@@ -38662,7 +38662,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 26,
-        ["points"] = 8277.19,
+        ["points"] = 8277.42,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 26,
@@ -38674,11 +38674,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 28,
-        ["points"] = 9142.9,
+        ["points"] = 9143.02,
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 8923.68,
+        ["points"] = 8923.84,
       },
     },
   },
@@ -38693,7 +38693,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 8620.04,
+        ["points"] = 8620.24,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -38709,7 +38709,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 9258.62,
+        ["points"] = 9258.72,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -38721,11 +38721,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 7516.12,
+        ["points"] = 7516.48,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 8904.98,
+        ["points"] = 8905.15,
       },
     },
   },
@@ -38740,7 +38740,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 21,
-        ["points"] = 9303.5,
+        ["points"] = 9303.61,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 24,
@@ -38756,7 +38756,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 21,
-        ["points"] = 8769.23,
+        ["points"] = 8769.39,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 24,
@@ -38768,11 +38768,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 20,
-        ["points"] = 7005.88,
+        ["points"] = 7006.31,
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 6920.56,
+        ["points"] = 6921.04,
       },
     },
   },
@@ -38787,7 +38787,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 8996.52,
+        ["points"] = 8996.67,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -38803,7 +38803,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 9359.42,
+        ["points"] = 9359.5,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -38815,11 +38815,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9498.35,
+        ["points"] = 9498.42,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9190.03,
+        ["points"] = 9190.16,
       },
     },
   },
@@ -38834,7 +38834,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 9530.84,
+        ["points"] = 9530.91,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -38850,7 +38850,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 9371.35,
+        ["points"] = 9371.44,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
@@ -38866,7 +38866,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9679.13,
+        ["points"] = 9679.18,
       },
     },
   },
@@ -38881,7 +38881,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6854.91,
+        ["points"] = 6855.36,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -38897,7 +38897,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 1,
-        ["points"] = 7797.08,
+        ["points"] = 7797.37,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
@@ -38909,11 +38909,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9130.0,
+        ["points"] = 9130.12,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9655.76,
+        ["points"] = 9655.82,
       },
     },
   },
@@ -38928,7 +38928,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 9037.07,
+        ["points"] = 9037.21,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -38944,7 +38944,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 9450.93,
+        ["points"] = 9451.0,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -38956,11 +38956,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 9296.26,
+        ["points"] = 9296.36,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8579.44,
+        ["points"] = 8579.66,
       },
     },
   },
@@ -38991,7 +38991,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 8476.13,
+        ["points"] = 8476.33,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -39003,11 +39003,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 7586.36,
+        ["points"] = 7586.7,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9417.45,
+        ["points"] = 9417.54,
       },
     },
   },
@@ -39022,7 +39022,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 9503.33,
+        ["points"] = 9503.4,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -39038,7 +39038,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 8962.86,
+        ["points"] = 8963.0,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -39050,11 +39050,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9575.75,
+        ["points"] = 9575.81,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 8750.78,
+        ["points"] = 8750.97,
       },
     },
   },
@@ -39069,7 +39069,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 8828.55,
+        ["points"] = 8828.72,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -39085,7 +39085,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 14,
-        ["points"] = 7913.79,
+        ["points"] = 7914.07,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -39097,16 +39097,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 7549.09,
+        ["points"] = 7549.44,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 8998.44,
+        ["points"] = 8998.6,
       },
     },
   },
   ["Loueysap"] = {
-    ["percentile"] = 86.46,
+    ["percentile"] = 86.47,
     ["server"] = "Icecrown",
     ["overall_rank"] = 834,
     ["bosses"] = {
@@ -39116,7 +39116,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 8158.12,
+        ["points"] = 8158.39,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -39132,7 +39132,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 8966.84,
+        ["points"] = 8966.98,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -39144,11 +39144,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 8612.58,
+        ["points"] = 8612.78,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 8897.2,
+        ["points"] = 8897.37,
       },
     },
   },
@@ -39163,7 +39163,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 26,
-        ["points"] = 9449.75,
+        ["points"] = 9449.83,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 25,
@@ -39179,7 +39179,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 24,
-        ["points"] = 8287.8,
+        ["points"] = 8288.03,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -39191,16 +39191,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 23,
-        ["points"] = 9044.0,
+        ["points"] = 9044.14,
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 8297.51,
+        ["points"] = 8297.77,
       },
     },
   },
   ["Wabolda"] = {
-    ["percentile"] = 86.42,
+    ["percentile"] = 86.43,
     ["server"] = "Icecrown",
     ["overall_rank"] = 836,
     ["bosses"] = {
@@ -39210,7 +39210,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 9827.69,
+        ["points"] = 9827.71,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -39226,7 +39226,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 14,
-        ["points"] = 9616.71,
+        ["points"] = 9616.76,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -39238,11 +39238,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 7078.97,
+        ["points"] = 7079.39,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 7506.23,
+        ["points"] = 7506.62,
       },
     },
   },
@@ -39257,7 +39257,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 25,
-        ["points"] = 8402.84,
+        ["points"] = 8403.07,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 27,
@@ -39273,7 +39273,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 23,
-        ["points"] = 8774.54,
+        ["points"] = 8774.7,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 27,
@@ -39285,11 +39285,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 26,
-        ["points"] = 8800.34,
+        ["points"] = 8800.52,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 8574.77,
+        ["points"] = 8574.99,
       },
     },
   },
@@ -39304,7 +39304,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 7122.79,
+        ["points"] = 7123.21,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -39320,7 +39320,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 7245.36,
+        ["points"] = 7245.72,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -39332,11 +39332,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9548.52,
+        ["points"] = 9548.58,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9193.15,
+        ["points"] = 9193.27,
       },
     },
   },
@@ -39351,7 +39351,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 9089.2,
+        ["points"] = 9089.33,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -39367,7 +39367,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 9124.67,
+        ["points"] = 9124.78,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -39379,11 +39379,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 9590.08,
+        ["points"] = 9590.14,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 6870.72,
+        ["points"] = 6871.2,
       },
     },
   },
@@ -39398,7 +39398,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 8120.47,
+        ["points"] = 8120.75,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -39414,7 +39414,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 17,
-        ["points"] = 8561.01,
+        ["points"] = 8561.2,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -39426,11 +39426,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 7822.85,
+        ["points"] = 7823.16,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 7831.78,
+        ["points"] = 7832.11,
       },
     },
   },
@@ -39445,7 +39445,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 8931.36,
+        ["points"] = 8931.52,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -39461,7 +39461,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 9031.83,
+        ["points"] = 9031.96,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -39473,7 +39473,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 8281.5,
+        ["points"] = 8281.74,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -39492,7 +39492,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 9106.57,
+        ["points"] = 9106.7,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -39508,7 +39508,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 9271.88,
+        ["points"] = 9271.98,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -39520,11 +39520,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 8042.14,
+        ["points"] = 8042.42,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 7230.53,
+        ["points"] = 7230.96,
       },
     },
   },
@@ -39539,7 +39539,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9178.97,
+        ["points"] = 9179.09,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -39555,7 +39555,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 9197.61,
+        ["points"] = 9197.72,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -39567,11 +39567,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 8962.3,
+        ["points"] = 8962.45,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9252.34,
+        ["points"] = 9252.45,
       },
     },
   },
@@ -39586,7 +39586,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 8879.24,
+        ["points"] = 8879.4,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 22,
@@ -39602,7 +39602,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 22,
-        ["points"] = 6965.52,
+        ["points"] = 6965.92,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 21,
@@ -39614,11 +39614,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 22,
-        ["points"] = 7292.53,
+        ["points"] = 7292.92,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 8224.3,
+        ["points"] = 8224.58,
       },
     },
   },
@@ -39633,7 +39633,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 8887.92,
+        ["points"] = 8888.08,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -39649,7 +39649,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 9131.3,
+        ["points"] = 9131.41,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -39661,11 +39661,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 8419.09,
+        ["points"] = 8419.32,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 8708.72,
+        ["points"] = 8708.92,
       },
     },
   },
@@ -39680,7 +39680,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 19,
-        ["points"] = 8940.05,
+        ["points"] = 8940.21,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 20,
@@ -39696,7 +39696,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 18,
-        ["points"] = 7880.64,
+        ["points"] = 7880.92,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
@@ -39708,11 +39708,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 9109.93,
+        ["points"] = 9110.06,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 6971.96,
+        ["points"] = 6972.43,
       },
     },
   },
@@ -39727,7 +39727,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 8136.4,
+        ["points"] = 8136.67,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 20,
@@ -39743,7 +39743,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 8832.89,
+        ["points"] = 8833.05,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
@@ -39755,11 +39755,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 7814.25,
+        ["points"] = 7814.56,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8364.49,
+        ["points"] = 8364.74,
       },
     },
   },
@@ -39774,7 +39774,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 19,
-        ["points"] = 8870.55,
+        ["points"] = 8870.71,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
@@ -39790,7 +39790,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 8885.94,
+        ["points"] = 8886.09,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -39802,11 +39802,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 20,
-        ["points"] = 6462.66,
+        ["points"] = 6463.17,
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 7347.35,
+        ["points"] = 7347.77,
       },
     },
   },
@@ -39821,7 +39821,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 8746.02,
+        ["points"] = 8746.2,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -39837,7 +39837,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 8737.4,
+        ["points"] = 8737.57,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -39853,7 +39853,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 8733.64,
+        ["points"] = 8733.84,
       },
     },
   },
@@ -39868,7 +39868,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 7888.79,
+        ["points"] = 7889.1,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -39884,7 +39884,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 9088.86,
+        ["points"] = 9088.98,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -39896,11 +39896,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 8472.12,
+        ["points"] = 8472.34,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8490.65,
+        ["points"] = 8490.89,
       },
     },
   },
@@ -39915,7 +39915,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 7080.8,
+        ["points"] = 7081.22,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -39931,7 +39931,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 6468.17,
+        ["points"] = 6468.64,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -39943,11 +39943,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 9532.75,
+        ["points"] = 9532.82,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 9028.04,
+        ["points"] = 9028.19,
       },
     },
   },
@@ -39962,7 +39962,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 9197.8,
+        ["points"] = 9197.92,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -39978,7 +39978,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 3,
-        ["points"] = 9533.16,
+        ["points"] = 9533.22,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
@@ -39990,11 +39990,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9052.6,
+        ["points"] = 9052.74,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 8470.4,
+        ["points"] = 8470.64,
       },
     },
   },
@@ -40009,7 +40009,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 21,
-        ["points"] = 7597.74,
+        ["points"] = 7598.09,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 29,
@@ -40025,7 +40025,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 25,
-        ["points"] = 6864.72,
+        ["points"] = 6865.14,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 27,
@@ -40037,11 +40037,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 8576.75,
+        ["points"] = 8576.96,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 7392.52,
+        ["points"] = 7392.93,
       },
     },
   },
@@ -40056,7 +40056,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 19,
-        ["points"] = 7479.0,
+        ["points"] = 7479.37,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 30,
@@ -40072,7 +40072,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 25,
-        ["points"] = 8493.37,
+        ["points"] = 8493.57,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 29,
@@ -40103,7 +40103,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 7715.03,
+        ["points"] = 7715.36,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -40119,7 +40119,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 8876.66,
+        ["points"] = 8876.81,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -40131,11 +40131,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 8765.95,
+        ["points"] = 8766.12,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 7577.88,
+        ["points"] = 7578.26,
       },
     },
   },
@@ -40166,7 +40166,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 8193.63,
+        ["points"] = 8193.87,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -40178,11 +40178,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 9102.77,
+        ["points"] = 9102.89,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9160.44,
+        ["points"] = 9160.57,
       },
     },
   },
@@ -40197,7 +40197,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 6572.55,
+        ["points"] = 6573.04,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -40213,7 +40213,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 8816.98,
+        ["points"] = 8817.13,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -40225,11 +40225,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 8632.65,
+        ["points"] = 8632.85,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8573.21,
+        ["points"] = 8573.43,
       },
     },
   },
@@ -40244,7 +40244,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 8350.71,
+        ["points"] = 8350.95,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -40260,7 +40260,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 8542.44,
+        ["points"] = 8542.63,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -40272,11 +40272,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 8916.44,
+        ["points"] = 8916.6,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 9205.61,
+        ["points"] = 9205.73,
       },
     },
   },
@@ -40291,7 +40291,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 7438.46,
+        ["points"] = 7438.83,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -40307,7 +40307,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 9270.56,
+        ["points"] = 9270.65,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -40319,11 +40319,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 9494.05,
+        ["points"] = 9494.12,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 8306.85,
+        ["points"] = 8307.12,
       },
     },
   },
@@ -40354,7 +40354,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 8181.7,
+        ["points"] = 8181.94,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -40366,11 +40366,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 8363.19,
+        ["points"] = 8363.43,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8247.66,
+        ["points"] = 8247.94,
       },
     },
   },
@@ -40385,7 +40385,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 9316.54,
+        ["points"] = 9316.64,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -40401,7 +40401,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 8990.72,
+        ["points"] = 8990.85,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -40413,11 +40413,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 9144.33,
+        ["points"] = 9144.45,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8207.17,
+        ["points"] = 8207.44,
       },
     },
   },
@@ -40432,7 +40432,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 6888.21,
+        ["points"] = 6888.66,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -40448,7 +40448,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 8798.41,
+        ["points"] = 8798.57,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -40460,11 +40460,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 7690.98,
+        ["points"] = 7691.32,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 8381.62,
+        ["points"] = 8381.87,
       },
     },
   },
@@ -40479,7 +40479,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 9223.86,
+        ["points"] = 9223.98,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -40495,7 +40495,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 8129.97,
+        ["points"] = 8130.22,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -40507,11 +40507,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 8410.49,
+        ["points"] = 8410.72,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 8401.87,
+        ["points"] = 8402.12,
       },
     },
   },
@@ -40526,7 +40526,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 23,
-        ["points"] = 8750.36,
+        ["points"] = 8750.54,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 26,
@@ -40542,7 +40542,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 21,
-        ["points"] = 8725.46,
+        ["points"] = 8725.63,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 26,
@@ -40554,11 +40554,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 22,
-        ["points"] = 8611.15,
+        ["points"] = 8611.35,
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 7855.14,
+        ["points"] = 7855.47,
       },
     },
   },
@@ -40573,7 +40573,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 8421.66,
+        ["points"] = 8421.89,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -40589,7 +40589,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 8856.76,
+        ["points"] = 8856.92,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -40601,11 +40601,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 8992.4,
+        ["points"] = 8992.55,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9238.32,
+        ["points"] = 9238.44,
       },
     },
   },
@@ -40620,7 +40620,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 8072.69,
+        ["points"] = 8072.97,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -40636,7 +40636,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 8989.39,
+        ["points"] = 8989.52,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -40648,11 +40648,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 6491.33,
+        ["points"] = 6491.83,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8922.12,
+        ["points"] = 8922.29,
       },
     },
   },
@@ -40667,7 +40667,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 8971.91,
+        ["points"] = 8972.06,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -40683,7 +40683,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 8713.53,
+        ["points"] = 8713.7,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -40695,11 +40695,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 7296.83,
+        ["points"] = 7297.22,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 8811.53,
+        ["points"] = 8811.71,
       },
     },
   },
@@ -40714,7 +40714,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 8234.87,
+        ["points"] = 8235.12,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -40730,7 +40730,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 8416.45,
+        ["points"] = 8416.66,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -40742,11 +40742,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 9111.37,
+        ["points"] = 9111.49,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 7694.7,
+        ["points"] = 7695.06,
       },
     },
   },
@@ -40761,7 +40761,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 7762.81,
+        ["points"] = 7763.14,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -40777,7 +40777,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 8221.49,
+        ["points"] = 8221.72,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -40789,11 +40789,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9542.78,
+        ["points"] = 9542.85,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 8185.36,
+        ["points"] = 8185.64,
       },
     },
   },
@@ -40808,7 +40808,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 8824.21,
+        ["points"] = 8824.38,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -40824,7 +40824,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 8625.99,
+        ["points"] = 8626.18,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -40836,11 +40836,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 8174.0,
+        ["points"] = 8174.26,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8749.22,
+        ["points"] = 8749.42,
       },
     },
   },
@@ -40855,7 +40855,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8327.54,
+        ["points"] = 8327.78,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -40871,7 +40871,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 2,
-        ["points"] = 8538.46,
+        ["points"] = 8538.66,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
@@ -40883,11 +40883,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8990.97,
+        ["points"] = 8991.11,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8752.34,
+        ["points"] = 8752.53,
       },
     },
   },
@@ -40918,7 +40918,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 7079.58,
+        ["points"] = 7079.96,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -40930,16 +40930,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 8863.41,
+        ["points"] = 8863.57,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8202.49,
+        ["points"] = 8202.77,
       },
     },
   },
   ["Tehong"] = {
-    ["percentile"] = 86.03,
+    ["percentile"] = 86.04,
     ["server"] = "Icecrown",
     ["overall_rank"] = 873,
     ["bosses"] = {
@@ -40949,7 +40949,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 7722.27,
+        ["points"] = 7722.6,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -40965,7 +40965,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 8945.62,
+        ["points"] = 8945.76,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -40977,65 +40977,18 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9451.05,
+        ["points"] = 9451.13,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 8350.47,
-      },
-    },
-  },
-  ["Glorzo"] = {
-    ["percentile"] = 86.0,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 874,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 3,
-        ["points"] = 8230.82,
-      },
-      ["Lady Deathwhisper"] = {
-        ["kill_count"] = 3,
-        ["points"] = 8077.03,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 3,
-        ["points"] = 8739.87,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 3,
-        ["points"] = 8239.82,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 3,
-        ["points"] = 8857.89,
-      },
-      ["Professor Putricide"] = {
-        ["kill_count"] = 3,
-        ["points"] = 8694.96,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 3,
-        ["points"] = 9454.95,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 3,
-        ["points"] = 6390.9,
-      },
-      ["Sindragosa"] = {
-        ["kill_count"] = 3,
-        ["points"] = 9787.87,
-      },
-      ["The Lich King"] = {
-        ["kill_count"] = 3,
-        ["points"] = 9478.19,
+        ["points"] = 8350.72,
       },
     },
   },
   ["Garouna"] = {
     ["percentile"] = 86.0,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 875,
+    ["overall_rank"] = 874,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 13,
@@ -41043,7 +40996,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 8774.98,
+        ["points"] = 8775.16,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -41059,7 +41012,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 7960.21,
+        ["points"] = 7960.48,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -41071,11 +41024,58 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 8968.04,
+        ["points"] = 8968.19,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 7093.46,
+        ["points"] = 7093.91,
+      },
+    },
+  },
+  ["Glorzo"] = {
+    ["percentile"] = 86.0,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 875,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 3,
+        ["points"] = 8230.82,
+      },
+      ["Lady Deathwhisper"] = {
+        ["kill_count"] = 3,
+        ["points"] = 8077.31,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 3,
+        ["points"] = 8739.87,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 3,
+        ["points"] = 8239.82,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 3,
+        ["points"] = 8857.89,
+      },
+      ["Professor Putricide"] = {
+        ["kill_count"] = 3,
+        ["points"] = 8695.13,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 3,
+        ["points"] = 9454.95,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 3,
+        ["points"] = 6390.9,
+      },
+      ["Sindragosa"] = {
+        ["kill_count"] = 3,
+        ["points"] = 9787.9,
+      },
+      ["The Lich King"] = {
+        ["kill_count"] = 3,
+        ["points"] = 9478.27,
       },
     },
   },
@@ -41090,7 +41090,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 8313.06,
+        ["points"] = 8313.31,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -41106,7 +41106,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 8652.52,
+        ["points"] = 8652.7,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -41122,61 +41122,14 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 8833.33,
-      },
-    },
-  },
-  ["Zarla"] = {
-    ["percentile"] = 85.98,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 877,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 11,
-        ["points"] = 7888.79,
-      },
-      ["Lady Deathwhisper"] = {
-        ["kill_count"] = 11,
-        ["points"] = 8925.57,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 11,
-        ["points"] = 9350.94,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 12,
-        ["points"] = 8303.83,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 12,
-        ["points"] = 9090.91,
-      },
-      ["Professor Putricide"] = {
-        ["kill_count"] = 12,
-        ["points"] = 9600.8,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 12,
-        ["points"] = 8023.8,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 12,
-        ["points"] = 6905.3,
-      },
-      ["Sindragosa"] = {
-        ["kill_count"] = 12,
-        ["points"] = 8861.98,
-      },
-      ["The Lich King"] = {
-        ["kill_count"] = 13,
-        ["points"] = 8978.19,
+        ["points"] = 8833.52,
       },
     },
   },
   ["Nightstyle"] = {
     ["percentile"] = 85.98,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 878,
+    ["overall_rank"] = 877,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 8,
@@ -41184,7 +41137,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 9558.36,
+        ["points"] = 9558.42,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -41200,7 +41153,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 8249.34,
+        ["points"] = 8249.57,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -41212,11 +41165,58 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 8816.11,
+        ["points"] = 8816.28,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 7763.24,
+        ["points"] = 7763.59,
+      },
+    },
+  },
+  ["Zarla"] = {
+    ["percentile"] = 85.98,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 878,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 11,
+        ["points"] = 7888.79,
+      },
+      ["Lady Deathwhisper"] = {
+        ["kill_count"] = 11,
+        ["points"] = 8925.73,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 11,
+        ["points"] = 9350.94,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 12,
+        ["points"] = 8303.83,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 12,
+        ["points"] = 9090.91,
+      },
+      ["Professor Putricide"] = {
+        ["kill_count"] = 12,
+        ["points"] = 9600.85,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 12,
+        ["points"] = 8023.8,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 12,
+        ["points"] = 6905.3,
+      },
+      ["Sindragosa"] = {
+        ["kill_count"] = 12,
+        ["points"] = 8862.14,
+      },
+      ["The Lich King"] = {
+        ["kill_count"] = 13,
+        ["points"] = 8978.35,
       },
     },
   },
@@ -41231,7 +41231,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 20,
-        ["points"] = 9000.87,
+        ["points"] = 9001.01,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
@@ -41247,7 +41247,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 20,
-        ["points"] = 9575.6,
+        ["points"] = 9575.65,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
@@ -41263,7 +41263,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 7922.12,
+        ["points"] = 7922.44,
       },
     },
   },
@@ -41278,7 +41278,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9455.55,
+        ["points"] = 9455.62,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -41294,7 +41294,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 8802.39,
+        ["points"] = 8802.55,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -41306,11 +41306,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 7043.14,
+        ["points"] = 7043.57,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 7823.99,
+        ["points"] = 7824.33,
       },
     },
   },
@@ -41325,7 +41325,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 9202.14,
+        ["points"] = 9202.26,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -41341,7 +41341,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 8488.06,
+        ["points"] = 8488.26,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -41357,7 +41357,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 7609.03,
+        ["points"] = 7609.41,
       },
     },
   },
@@ -41372,7 +41372,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 9287.58,
+        ["points"] = 9287.68,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -41388,7 +41388,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 8887.27,
+        ["points"] = 8887.42,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
@@ -41400,11 +41400,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 6858.25,
+        ["points"] = 6858.7,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 8605.92,
+        ["points"] = 8606.14,
       },
     },
   },
@@ -41419,7 +41419,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 25,
-        ["points"] = 8378.22,
+        ["points"] = 8378.46,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 34,
@@ -41435,7 +41435,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 24,
-        ["points"] = 8834.22,
+        ["points"] = 8834.37,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 35,
@@ -41447,11 +41447,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 8310.16,
+        ["points"] = 8310.4,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 7903.43,
+        ["points"] = 7903.75,
       },
     },
   },
@@ -41466,7 +41466,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 6520.42,
+        ["points"] = 6520.92,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -41482,7 +41482,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 8400.53,
+        ["points"] = 8400.74,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -41494,11 +41494,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 7420.09,
+        ["points"] = 7420.46,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8456.39,
+        ["points"] = 8456.63,
       },
     },
   },
@@ -41513,7 +41513,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 7077.9,
+        ["points"] = 7078.33,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -41529,7 +41529,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 1,
-        ["points"] = 9388.59,
+        ["points"] = 9388.68,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
@@ -41541,11 +41541,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 8012.04,
+        ["points"] = 8012.32,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
-        ["points"] = 7309.97,
+        ["points"] = 7310.39,
       },
     },
   },
@@ -41576,7 +41576,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 25,
-        ["points"] = 8477.45,
+        ["points"] = 8477.66,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 30,
@@ -41588,11 +41588,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 8393.29,
+        ["points"] = 8393.52,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 7736.76,
+        ["points"] = 7737.11,
       },
     },
   },
@@ -41607,7 +41607,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 20,
-        ["points"] = 8598.32,
+        ["points"] = 8598.52,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 20,
@@ -41623,7 +41623,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 8771.88,
+        ["points"] = 8772.05,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
@@ -41635,11 +41635,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 18,
-        ["points"] = 7372.8,
+        ["points"] = 7373.17,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 9311.53,
+        ["points"] = 9311.63,
       },
     },
   },
@@ -41654,7 +41654,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 9743.7,
+        ["points"] = 9743.74,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -41670,7 +41670,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 2,
-        ["points"] = 8891.25,
+        ["points"] = 8891.39,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
@@ -41682,11 +41682,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8890.64,
+        ["points"] = 8890.8,
       },
       ["The Lich King"] = {
         ["kill_count"] = 1,
-        ["points"] = 9713.4,
+        ["points"] = 9713.44,
       },
     },
   },
@@ -41701,7 +41701,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 7975.67,
+        ["points"] = 7975.97,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -41717,7 +41717,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 8484.08,
+        ["points"] = 8484.29,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -41729,11 +41729,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 8320.19,
+        ["points"] = 8320.44,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8263.24,
+        ["points"] = 8263.51,
       },
     },
   },
@@ -41748,7 +41748,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 9213.73,
+        ["points"] = 9213.84,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -41764,7 +41764,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 7820.95,
+        ["points"] = 7821.24,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -41776,11 +41776,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 8642.68,
+        ["points"] = 8642.88,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 8309.97,
+        ["points"] = 8310.23,
       },
     },
   },
@@ -41795,7 +41795,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 7962.64,
+        ["points"] = 7962.94,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -41811,7 +41811,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 2,
-        ["points"] = 7464.19,
+        ["points"] = 7464.53,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
@@ -41823,11 +41823,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 7344.13,
+        ["points"] = 7344.51,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 8844.24,
+        ["points"] = 8844.42,
       },
     },
   },
@@ -41842,7 +41842,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 7295.11,
+        ["points"] = 7295.5,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -41858,7 +41858,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 17,
-        ["points"] = 8651.19,
+        ["points"] = 8651.37,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
@@ -41870,11 +41870,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 8976.64,
+        ["points"] = 8976.78,
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 9056.07,
+        ["points"] = 9056.22,
       },
     },
   },
@@ -41905,7 +41905,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 9344.83,
+        ["points"] = 9344.91,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -41917,11 +41917,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 6618.89,
+        ["points"] = 6619.38,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9154.21,
+        ["points"] = 9154.34,
       },
     },
   },
@@ -41936,7 +41936,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 8514.34,
+        ["points"] = 8514.55,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -41952,7 +41952,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 17,
-        ["points"] = 8838.2,
+        ["points"] = 8838.35,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
@@ -41964,11 +41964,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 8740.15,
+        ["points"] = 8740.33,
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 8012.46,
+        ["points"] = 8012.77,
       },
     },
   },
@@ -41983,7 +41983,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 6743.41,
+        ["points"] = 6743.88,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -41999,7 +41999,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 3,
-        ["points"] = 8811.67,
+        ["points"] = 8811.83,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
@@ -42011,11 +42011,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 8936.51,
+        ["points"] = 8936.66,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 8515.58,
+        ["points"] = 8515.81,
       },
     },
   },
@@ -42030,7 +42030,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9371.56,
+        ["points"] = 9371.65,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -42046,7 +42046,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 9,
-        ["points"] = 9608.75,
+        ["points"] = 9608.81,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -42058,11 +42058,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 7508.96,
+        ["points"] = 7509.31,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 8253.89,
+        ["points"] = 8254.17,
       },
     },
   },
@@ -42124,7 +42124,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 8953.08,
+        ["points"] = 8953.24,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 20,
@@ -42140,7 +42140,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 14,
-        ["points"] = 9009.28,
+        ["points"] = 9009.42,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
@@ -42152,7 +42152,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 7722.52,
+        ["points"] = 7722.84,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
@@ -42171,7 +42171,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 7309.59,
+        ["points"] = 7309.98,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -42187,7 +42187,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 8700.27,
+        ["points"] = 8700.44,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -42199,11 +42199,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 9009.6,
+        ["points"] = 9009.74,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9235.2,
+        ["points"] = 9235.32,
       },
     },
   },
@@ -42218,7 +42218,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 9094.99,
+        ["points"] = 9095.12,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -42234,7 +42234,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 8659.15,
+        ["points"] = 8659.33,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 24,
@@ -42250,7 +42250,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 7707.17,
+        ["points"] = 7707.52,
       },
     },
   },
@@ -42265,7 +42265,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 7437.01,
+        ["points"] = 7437.38,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -42281,7 +42281,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 8452.25,
+        ["points"] = 8452.46,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -42297,7 +42297,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8538.94,
+        ["points"] = 8539.17,
       },
     },
   },
@@ -42312,7 +42312,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 7271.94,
+        ["points"] = 7272.33,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -42328,7 +42328,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 9141.91,
+        ["points"] = 9142.02,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
@@ -42344,7 +42344,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8671.34,
+        ["points"] = 8671.55,
       },
     },
   },
@@ -42359,7 +42359,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 42,
-        ["points"] = 8906.75,
+        ["points"] = 8906.91,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 45,
@@ -42375,7 +42375,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 43,
-        ["points"] = 9273.21,
+        ["points"] = 9273.31,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 44,
@@ -42387,11 +42387,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 43,
-        ["points"] = 9435.29,
+        ["points"] = 9435.37,
       },
       ["The Lich King"] = {
         ["kill_count"] = 40,
-        ["points"] = 8581.0,
+        ["points"] = 8581.22,
       },
     },
   },
@@ -42406,7 +42406,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 6753.55,
+        ["points"] = 6754.02,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -42422,7 +42422,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 8405.84,
+        ["points"] = 8406.05,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -42434,11 +42434,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 8485.02,
+        ["points"] = 8485.24,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 8880.06,
+        ["points"] = 8880.24,
       },
     },
   },
@@ -42453,7 +42453,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 7673.04,
+        ["points"] = 7673.37,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -42469,7 +42469,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 9754.64,
+        ["points"] = 9754.67,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -42481,7 +42481,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 9203.1,
+        ["points"] = 9203.21,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
@@ -42500,7 +42500,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 8776.43,
+        ["points"] = 8776.6,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -42516,7 +42516,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 6588.86,
+        ["points"] = 6589.31,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -42528,11 +42528,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 8075.1,
+        ["points"] = 8075.38,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8433.02,
+        ["points"] = 8433.27,
       },
     },
   },
@@ -42547,7 +42547,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 9481.61,
+        ["points"] = 9481.69,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -42563,7 +42563,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 18,
-        ["points"] = 9206.9,
+        ["points"] = 9207.0,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
@@ -42579,7 +42579,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 9264.8,
+        ["points"] = 9264.91,
       },
     },
   },
@@ -42594,7 +42594,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 8452.07,
+        ["points"] = 8452.29,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 22,
@@ -42610,7 +42610,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 16,
-        ["points"] = 8622.02,
+        ["points"] = 8622.2,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
@@ -42622,11 +42622,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 8721.51,
+        ["points"] = 8721.7,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 7232.09,
+        ["points"] = 7232.52,
       },
     },
   },
@@ -42641,7 +42641,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 8769.19,
+        ["points"] = 8769.36,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -42657,7 +42657,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 9653.85,
+        ["points"] = 9653.89,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
@@ -42669,11 +42669,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 7680.95,
+        ["points"] = 7681.28,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 7911.21,
+        ["points"] = 7911.54,
       },
     },
   },
@@ -42688,7 +42688,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 8712.71,
+        ["points"] = 8712.9,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -42704,7 +42704,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 7964.19,
+        ["points"] = 7964.46,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -42716,11 +42716,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 8437.72,
+        ["points"] = 8437.95,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8197.82,
+        ["points"] = 8198.1,
       },
     },
   },
@@ -42735,7 +42735,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 9255.72,
+        ["points"] = 9255.83,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -42751,7 +42751,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 8965.52,
+        ["points"] = 8965.65,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -42763,11 +42763,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 6991.54,
+        ["points"] = 6991.97,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9099.69,
+        ["points"] = 9099.83,
       },
     },
   },
@@ -42782,7 +42782,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 7445.7,
+        ["points"] = 7446.07,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -42798,7 +42798,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 8486.74,
+        ["points"] = 8486.94,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
@@ -42810,11 +42810,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 7301.13,
+        ["points"] = 7301.52,
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 8526.48,
+        ["points"] = 8526.71,
       },
     },
   },
@@ -42829,7 +42829,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 27,
-        ["points"] = 6879.53,
+        ["points"] = 6879.98,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 35,
@@ -42845,7 +42845,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 28,
-        ["points"] = 8379.31,
+        ["points"] = 8379.53,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 34,
@@ -42857,11 +42857,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 28,
-        ["points"] = 9701.88,
+        ["points"] = 9701.92,
       },
       ["The Lich King"] = {
         ["kill_count"] = 26,
-        ["points"] = 7024.92,
+        ["points"] = 7025.39,
       },
     },
   },
@@ -42876,7 +42876,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 8165.36,
+        ["points"] = 8165.63,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 22,
@@ -42892,7 +42892,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 9376.66,
+        ["points"] = 9376.74,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -42904,11 +42904,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 20,
-        ["points"] = 9227.46,
+        ["points"] = 9227.57,
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 8274.14,
+        ["points"] = 8274.41,
       },
     },
   },
@@ -42923,7 +42923,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 19,
-        ["points"] = 9286.13,
+        ["points"] = 9286.23,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -42939,7 +42939,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 8653.85,
+        ["points"] = 8654.02,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
@@ -42955,12 +42955,12 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 8719.63,
+        ["points"] = 8719.83,
       },
     },
   },
   ["Velynea"] = {
-    ["percentile"] = 85.58,
+    ["percentile"] = 85.59,
     ["server"] = "Icecrown",
     ["overall_rank"] = 916,
     ["bosses"] = {
@@ -42970,7 +42970,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 9320.88,
+        ["points"] = 9320.98,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 8,
@@ -42986,7 +42986,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 8974.8,
+        ["points"] = 8974.94,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 8,
@@ -42998,11 +42998,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 8265.73,
+        ["points"] = 8265.98,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 9347.35,
+        ["points"] = 9347.45,
       },
     },
   },
@@ -43017,7 +43017,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 8062.55,
+        ["points"] = 8062.83,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -43033,7 +43033,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 7828.91,
+        ["points"] = 7829.2,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -43045,11 +43045,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 8268.6,
+        ["points"] = 8268.84,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 9093.46,
+        ["points"] = 9093.6,
       },
     },
   },
@@ -43080,7 +43080,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 8940.32,
+        ["points"] = 8940.46,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
@@ -43092,11 +43092,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9290.53,
+        ["points"] = 9290.63,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9735.2,
+        ["points"] = 9735.24,
       },
     },
   },
@@ -43111,7 +43111,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 9248.48,
+        ["points"] = 9248.59,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -43127,7 +43127,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 8806.37,
+        ["points"] = 8806.52,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -43139,11 +43139,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 8947.97,
+        ["points"] = 8948.12,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 7263.24,
+        ["points"] = 7263.67,
       },
     },
   },
@@ -43158,7 +43158,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 7412.4,
+        ["points"] = 7412.77,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -43174,7 +43174,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 8679.05,
+        ["points"] = 8679.22,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -43186,11 +43186,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9251.83,
+        ["points"] = 9251.93,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 9065.42,
+        ["points"] = 9065.57,
       },
     },
   },
@@ -43205,7 +43205,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 8337.68,
+        ["points"] = 8337.92,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -43221,7 +43221,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 8420.42,
+        ["points"] = 8420.63,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -43233,11 +43233,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 7593.52,
+        ["points"] = 7593.87,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9045.17,
+        ["points"] = 9045.32,
       },
     },
   },
@@ -43252,7 +43252,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 7606.43,
+        ["points"] = 7606.78,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 22,
@@ -43268,7 +43268,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 20,
-        ["points"] = 8140.58,
+        ["points"] = 8140.83,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -43280,11 +43280,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 9066.93,
+        ["points"] = 9067.07,
       },
       ["The Lich King"] = {
         ["kill_count"] = 16,
-        ["points"] = 8482.87,
+        ["points"] = 8483.1,
       },
     },
   },
@@ -43299,7 +43299,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 31,
-        ["points"] = 8582.39,
+        ["points"] = 8582.6,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 32,
@@ -43315,7 +43315,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 33,
-        ["points"] = 9334.22,
+        ["points"] = 9334.31,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 32,
@@ -43327,11 +43327,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 32,
-        ["points"] = 9250.39,
+        ["points"] = 9250.5,
       },
       ["The Lich King"] = {
         ["kill_count"] = 32,
-        ["points"] = 7503.12,
+        ["points"] = 7503.5,
       },
     },
   },
@@ -43346,7 +43346,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 7951.06,
+        ["points"] = 7951.35,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -43362,7 +43362,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 8005.31,
+        ["points"] = 8005.57,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -43374,16 +43374,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 11,
-        ["points"] = 8523.72,
+        ["points"] = 8523.93,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8587.23,
+        ["points"] = 8587.45,
       },
     },
   },
   ["Mozye"] = {
-    ["percentile"] = 85.49,
+    ["percentile"] = 85.5,
     ["server"] = "Icecrown",
     ["overall_rank"] = 925,
     ["bosses"] = {
@@ -43393,7 +43393,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 8770.63,
+        ["points"] = 8770.81,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -43409,7 +43409,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 8,
-        ["points"] = 8030.5,
+        ["points"] = 8030.77,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -43425,7 +43425,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 7880.06,
+        ["points"] = 7880.39,
       },
     },
   },
@@ -43440,7 +43440,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 8793.8,
+        ["points"] = 8793.98,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -43456,7 +43456,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 8698.94,
+        ["points"] = 8699.11,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
@@ -43468,11 +43468,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 7969.04,
+        ["points"] = 7969.33,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 7640.19,
+        ["points"] = 7640.55,
       },
     },
   },
@@ -43503,7 +43503,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 7598.14,
+        ["points"] = 7598.46,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -43515,7 +43515,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 7940.38,
+        ["points"] = 7940.67,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
@@ -43534,7 +43534,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 8656.24,
+        ["points"] = 8656.44,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 20,
@@ -43550,7 +43550,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 18,
-        ["points"] = 9187.0,
+        ["points"] = 9187.11,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 20,
@@ -43562,11 +43562,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 9511.25,
+        ["points"] = 9511.32,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8221.18,
+        ["points"] = 8221.46,
       },
     },
   },
@@ -43581,7 +43581,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 22,
-        ["points"] = 9031.28,
+        ["points"] = 9031.42,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 23,
@@ -43597,7 +43597,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 22,
-        ["points"] = 9328.91,
+        ["points"] = 9329.0,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 23,
@@ -43613,7 +43613,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 8271.03,
+        ["points"] = 8271.3,
       },
     },
   },
@@ -43628,7 +43628,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 8541.85,
+        ["points"] = 8542.06,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 24,
@@ -43644,7 +43644,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 7814.32,
+        ["points"] = 7814.61,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 24,
@@ -43656,7 +43656,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 9260.43,
+        ["points"] = 9260.53,
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
@@ -43675,7 +43675,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 29,
-        ["points"] = 9488.85,
+        ["points"] = 9488.92,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 29,
@@ -43691,7 +43691,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 29,
-        ["points"] = 9051.72,
+        ["points"] = 9051.85,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 28,
@@ -43703,16 +43703,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 29,
-        ["points"] = 6782.28,
+        ["points"] = 6782.75,
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 7897.2,
+        ["points"] = 7897.52,
       },
     },
   },
   ["Penepenepene"] = {
-    ["percentile"] = 85.4,
+    ["percentile"] = 85.41,
     ["server"] = "Icecrown",
     ["overall_rank"] = 932,
     ["bosses"] = {
@@ -43722,7 +43722,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 8954.53,
+        ["points"] = 8954.68,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -43738,7 +43738,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 7940.32,
+        ["points"] = 7940.59,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -43754,7 +43754,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8334.89,
+        ["points"] = 8335.15,
       },
     },
   },
@@ -43769,7 +43769,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 7400.81,
+        ["points"] = 7401.19,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -43785,7 +43785,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 7706.9,
+        ["points"] = 7707.2,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -43797,11 +43797,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 9496.92,
+        ["points"] = 9496.99,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 7112.15,
+        ["points"] = 7112.6,
       },
     },
   },
@@ -43816,7 +43816,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 8472.34,
+        ["points"] = 8472.56,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -43832,7 +43832,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 3,
-        ["points"] = 7281.17,
+        ["points"] = 7281.53,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -43844,11 +43844,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9813.67,
+        ["points"] = 9813.7,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 8090.34,
+        ["points"] = 8090.64,
       },
     },
   },
@@ -43879,7 +43879,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 8583.55,
+        ["points"] = 8583.74,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
@@ -43891,11 +43891,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 7117.67,
+        ["points"] = 7118.09,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 8559.19,
+        ["points"] = 8559.41,
       },
     },
   },
@@ -43910,7 +43910,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 7796.12,
+        ["points"] = 7796.44,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -43926,7 +43926,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 8749.34,
+        ["points"] = 8749.5,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -43938,11 +43938,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 8892.07,
+        ["points"] = 8892.23,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 8475.08,
+        ["points"] = 8475.32,
       },
     },
   },
@@ -43957,7 +43957,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 9216.62,
+        ["points"] = 9216.74,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -43973,7 +43973,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 3,
-        ["points"] = 8909.81,
+        ["points"] = 8909.96,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
@@ -43985,11 +43985,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8735.85,
+        ["points"] = 8736.03,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 7786.6,
+        ["points"] = 7786.95,
       },
     },
   },
@@ -44004,7 +44004,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 8373.88,
+        ["points"] = 8374.11,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -44020,7 +44020,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 6942.97,
+        ["points"] = 6943.38,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -44032,11 +44032,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9774.97,
+        ["points"] = 9775.01,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 9246.11,
+        ["points"] = 9246.22,
       },
     },
   },
@@ -44051,7 +44051,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 8524.47,
+        ["points"] = 8524.69,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -44067,7 +44067,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 8685.68,
+        ["points"] = 8685.85,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -44079,11 +44079,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 8851.94,
+        ["points"] = 8852.11,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8707.17,
+        ["points"] = 8707.37,
       },
     },
   },
@@ -44098,7 +44098,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 16,
-        ["points"] = 7675.93,
+        ["points"] = 7676.27,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 17,
@@ -44114,7 +44114,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 18,
-        ["points"] = 8677.72,
+        ["points"] = 8677.89,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -44126,11 +44126,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 17,
-        ["points"] = 9375.09,
+        ["points"] = 9375.18,
       },
       ["The Lich King"] = {
         ["kill_count"] = 21,
-        ["points"] = 9001.56,
+        ["points"] = 9001.71,
       },
     },
   },
@@ -44145,7 +44145,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 6804.23,
+        ["points"] = 6804.69,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -44161,7 +44161,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 2,
-        ["points"] = 8465.52,
+        ["points"] = 8465.72,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
@@ -44173,16 +44173,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 8727.25,
+        ["points"] = 8727.43,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 9657.32,
+        ["points"] = 9657.37,
       },
     },
   },
   ["Bumbllebee"] = {
-    ["percentile"] = 85.32,
+    ["percentile"] = 85.33,
     ["server"] = "Icecrown",
     ["overall_rank"] = 942,
     ["bosses"] = {
@@ -44192,7 +44192,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 9151.46,
+        ["points"] = 9151.59,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -44208,7 +44208,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 8212.2,
+        ["points"] = 8212.44,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -44220,11 +44220,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 7514.69,
+        ["points"] = 7515.05,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9003.12,
+        ["points"] = 9003.27,
       },
     },
   },
@@ -44239,7 +44239,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 9454.1,
+        ["points"] = 9454.18,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -44255,7 +44255,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 8720.16,
+        ["points"] = 8720.33,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
@@ -44267,11 +44267,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 8960.87,
+        ["points"] = 8961.02,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
-        ["points"] = 7677.57,
+        ["points"] = 7677.93,
       },
     },
   },
@@ -44286,7 +44286,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 8431.8,
+        ["points"] = 8432.03,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -44302,7 +44302,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 9558.36,
+        ["points"] = 9558.41,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -44314,7 +44314,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 7665.19,
+        ["points"] = 7665.52,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
@@ -44323,7 +44323,7 @@ UWULogsData[6][2] = {
     },
   },
   ["Attlethal"] = {
-    ["percentile"] = 85.26,
+    ["percentile"] = 85.27,
     ["server"] = "Icecrown",
     ["overall_rank"] = 945,
     ["bosses"] = {
@@ -44333,7 +44333,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 8873.44,
+        ["points"] = 8873.61,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -44349,7 +44349,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 6960.21,
+        ["points"] = 6960.62,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -44361,11 +44361,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 7345.56,
+        ["points"] = 7345.94,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8861.37,
+        ["points"] = 8861.55,
       },
     },
   },
@@ -44380,7 +44380,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 7638.29,
+        ["points"] = 7638.63,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -44396,7 +44396,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 3,
-        ["points"] = 8709.55,
+        ["points"] = 8709.72,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
@@ -44408,11 +44408,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 8933.64,
+        ["points"] = 8933.79,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 8661.99,
+        ["points"] = 8662.2,
       },
     },
   },
@@ -44427,7 +44427,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 8566.46,
+        ["points"] = 8566.67,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -44443,7 +44443,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 14,
-        ["points"] = 8618.04,
+        ["points"] = 8618.22,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -44455,11 +44455,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 6994.41,
+        ["points"] = 6994.84,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 9613.71,
+        ["points"] = 9613.77,
       },
     },
   },
@@ -44474,7 +44474,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 7092.38,
+        ["points"] = 7092.8,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -44490,7 +44490,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 7622.02,
+        ["points"] = 7622.33,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 6,
@@ -44502,7 +44502,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 6,
-        ["points"] = 8407.63,
+        ["points"] = 8407.85,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -44521,7 +44521,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 8741.67,
+        ["points"] = 8741.86,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -44537,7 +44537,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 9025.2,
+        ["points"] = 9025.33,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -44549,11 +44549,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 7219.44,
+        ["points"] = 7219.83,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 8962.62,
+        ["points"] = 8962.78,
       },
     },
   },
@@ -44568,7 +44568,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 27,
-        ["points"] = 8938.6,
+        ["points"] = 8938.76,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 29,
@@ -44584,7 +44584,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 26,
-        ["points"] = 8229.44,
+        ["points"] = 8229.68,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 27,
@@ -44596,11 +44596,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 26,
-        ["points"] = 6591.66,
+        ["points"] = 6592.15,
       },
       ["The Lich King"] = {
         ["kill_count"] = 24,
-        ["points"] = 8292.83,
+        ["points"] = 8293.1,
       },
     },
   },
@@ -44615,7 +44615,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 9268.75,
+        ["points"] = 9268.86,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -44631,7 +44631,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 14,
-        ["points"] = 9751.99,
+        ["points"] = 9752.02,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -44643,7 +44643,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 6949.98,
+        ["points"] = 6950.42,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
@@ -44662,7 +44662,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 21,
-        ["points"] = 8913.99,
+        ["points"] = 8914.15,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 22,
@@ -44678,7 +44678,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 21,
-        ["points"] = 8839.52,
+        ["points"] = 8839.68,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 22,
@@ -44694,7 +44694,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 9124.61,
+        ["points"] = 9124.75,
       },
     },
   },
@@ -44709,7 +44709,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 7946.71,
+        ["points"] = 7947.01,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -44725,7 +44725,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 9783.82,
+        ["points"] = 9783.85,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -44737,7 +44737,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 9602.98,
+        ["points"] = 9603.04,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
@@ -44756,7 +44756,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 7713.58,
+        ["points"] = 7713.91,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -44772,7 +44772,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 8271.88,
+        ["points"] = 8272.11,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -44784,7 +44784,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 8985.24,
+        ["points"] = 8985.38,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
@@ -44803,7 +44803,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 10,
-        ["points"] = 8245.0,
+        ["points"] = 8245.26,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -44819,7 +44819,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 9302.39,
+        ["points"] = 9302.48,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -44831,11 +44831,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 9145.76,
+        ["points"] = 9145.89,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8764.8,
+        ["points"] = 8764.99,
       },
     },
   },
@@ -44850,7 +44850,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 7222.7,
+        ["points"] = 7223.11,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -44866,7 +44866,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 7298.41,
+        ["points"] = 7298.77,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -44878,11 +44878,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 8677.08,
+        ["points"] = 8677.27,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 8112.15,
+        ["points"] = 8112.44,
       },
     },
   },
@@ -44913,7 +44913,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 13,
-        ["points"] = 6622.02,
+        ["points"] = 6622.46,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -44929,7 +44929,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 6873.83,
+        ["points"] = 6874.32,
       },
     },
   },
@@ -44944,7 +44944,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 8456.41,
+        ["points"] = 8456.64,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -44960,7 +44960,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 9094.16,
+        ["points"] = 9094.28,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -44976,7 +44976,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8387.85,
+        ["points"] = 8388.1,
       },
     },
   },
@@ -44991,7 +44991,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 8110.34,
+        ["points"] = 8110.61,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -45007,7 +45007,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 8248.01,
+        ["points"] = 8248.24,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -45019,11 +45019,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 8774.54,
+        ["points"] = 8774.72,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 8886.29,
+        ["points"] = 8886.47,
       },
     },
   },
@@ -45038,7 +45038,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 7836.66,
+        ["points"] = 7836.98,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -45054,7 +45054,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 3,
-        ["points"] = 7978.78,
+        ["points"] = 7979.05,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
@@ -45066,65 +45066,18 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 9386.56,
+        ["points"] = 9386.64,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 8232.09,
-      },
-    },
-  },
-  ["Ulaniec"] = {
-    ["percentile"] = 85.01,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 961,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 5,
-        ["points"] = 7810.78,
-      },
-      ["Lady Deathwhisper"] = {
-        ["kill_count"] = 5,
-        ["points"] = 9225.31,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 5,
-        ["points"] = 8505.85,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 5,
-        ["points"] = 8253.83,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 5,
-        ["points"] = 9516.95,
-      },
-      ["Professor Putricide"] = {
-        ["kill_count"] = 5,
-        ["points"] = 8527.85,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 5,
-        ["points"] = 9253.93,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 5,
-        ["points"] = 8388.8,
-      },
-      ["Sindragosa"] = {
-        ["kill_count"] = 5,
-        ["points"] = 8876.31,
-      },
-      ["The Lich King"] = {
-        ["kill_count"] = 4,
-        ["points"] = 6604.43,
+        ["points"] = 8232.36,
       },
     },
   },
   ["Tizyroz"] = {
     ["percentile"] = 85.01,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 962,
+    ["overall_rank"] = 961,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 13,
@@ -45132,7 +45085,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 14,
-        ["points"] = 9365.77,
+        ["points"] = 9365.86,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 14,
@@ -45148,7 +45101,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 14,
-        ["points"] = 8055.7,
+        ["points"] = 8055.96,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 14,
@@ -45160,11 +45113,58 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 14,
-        ["points"] = 7531.89,
+        ["points"] = 7532.24,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
-        ["points"] = 8848.91,
+        ["points"] = 8849.09,
+      },
+    },
+  },
+  ["Ulaniec"] = {
+    ["percentile"] = 85.01,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 962,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 5,
+        ["points"] = 7810.78,
+      },
+      ["Lady Deathwhisper"] = {
+        ["kill_count"] = 5,
+        ["points"] = 9225.42,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 5,
+        ["points"] = 8505.85,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 5,
+        ["points"] = 8253.83,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 5,
+        ["points"] = 9516.95,
+      },
+      ["Professor Putricide"] = {
+        ["kill_count"] = 5,
+        ["points"] = 8528.05,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 5,
+        ["points"] = 9253.93,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 5,
+        ["points"] = 8388.8,
+      },
+      ["Sindragosa"] = {
+        ["kill_count"] = 5,
+        ["points"] = 8876.47,
+      },
+      ["The Lich King"] = {
+        ["kill_count"] = 4,
+        ["points"] = 6604.43,
       },
     },
   },
@@ -45179,7 +45179,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 7757.02,
+        ["points"] = 7757.35,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -45195,7 +45195,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 2,
-        ["points"] = 8111.41,
+        ["points"] = 8111.66,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
@@ -45207,11 +45207,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 7766.95,
+        ["points"] = 7767.27,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 8757.01,
+        ["points"] = 8757.2,
       },
     },
   },
@@ -45242,7 +45242,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 1,
-        ["points"] = 7694.96,
+        ["points"] = 7695.27,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -45254,11 +45254,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 2,
-        ["points"] = 9678.95,
+        ["points"] = 9678.99,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 9179.13,
+        ["points"] = 9179.26,
       },
     },
   },
@@ -45273,7 +45273,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 27,
-        ["points"] = 8203.01,
+        ["points"] = 8203.27,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 28,
@@ -45289,7 +45289,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 26,
-        ["points"] = 7513.26,
+        ["points"] = 7513.59,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 26,
@@ -45301,16 +45301,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 27,
-        ["points"] = 9627.35,
+        ["points"] = 9627.4,
       },
       ["The Lich King"] = {
         ["kill_count"] = 22,
-        ["points"] = 6926.79,
+        ["points"] = 6927.27,
       },
     },
   },
   ["Aimera"] = {
-    ["percentile"] = 84.92,
+    ["percentile"] = 84.93,
     ["server"] = "Icecrown",
     ["overall_rank"] = 966,
     ["bosses"] = {
@@ -45320,7 +45320,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 8003.19,
+        ["points"] = 8003.47,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -45336,7 +45336,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 8765.25,
+        ["points"] = 8765.42,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -45348,16 +45348,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 8614.02,
+        ["points"] = 8614.22,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 7933.02,
+        ["points"] = 7933.34,
       },
     },
   },
   ["Illidanlord"] = {
-    ["percentile"] = 84.92,
+    ["percentile"] = 84.93,
     ["server"] = "Icecrown",
     ["overall_rank"] = 967,
     ["bosses"] = {
@@ -45367,7 +45367,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 18,
-        ["points"] = 7338.55,
+        ["points"] = 7338.93,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 21,
@@ -45383,7 +45383,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 21,
-        ["points"] = 8116.71,
+        ["points"] = 8116.96,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 21,
@@ -45399,7 +45399,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 20,
-        ["points"] = 8436.14,
+        ["points"] = 8436.38,
       },
     },
   },
@@ -45414,7 +45414,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 7651.32,
+        ["points"] = 7651.66,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -45430,7 +45430,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 3,
-        ["points"] = 7023.87,
+        ["points"] = 7024.27,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
@@ -45442,65 +45442,18 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 9309.16,
+        ["points"] = 9309.26,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 9397.2,
-      },
-    },
-  },
-  ["Iolxqt"] = {
-    ["percentile"] = 84.92,
-    ["server"] = "Icecrown",
-    ["overall_rank"] = 969,
-    ["bosses"] = {
-      ["Lord Marrowgar"] = {
-        ["kill_count"] = 13,
-        ["points"] = 8203.82,
-      },
-      ["Lady Deathwhisper"] = {
-        ["kill_count"] = 12,
-        ["points"] = 9053.0,
-      },
-      ["Deathbringer Saurfang"] = {
-        ["kill_count"] = 13,
-        ["points"] = 7605.76,
-      },
-      ["Festergut"] = {
-        ["kill_count"] = 13,
-        ["points"] = 7861.79,
-      },
-      ["Rotface"] = {
-        ["kill_count"] = 13,
-        ["points"] = 8613.86,
-      },
-      ["Professor Putricide"] = {
-        ["kill_count"] = 12,
-        ["points"] = 9194.96,
-      },
-      ["Blood Prince Council"] = {
-        ["kill_count"] = 13,
-        ["points"] = 9470.95,
-      },
-      ["Blood-Queen Lana'thel"] = {
-        ["kill_count"] = 12,
-        ["points"] = 8376.5,
-      },
-      ["Sindragosa"] = {
-        ["kill_count"] = 12,
-        ["points"] = 7862.98,
-      },
-      ["The Lich King"] = {
-        ["kill_count"] = 10,
-        ["points"] = 8626.17,
+        ["points"] = 9397.29,
       },
     },
   },
   ["Kaitoukid"] = {
     ["percentile"] = 84.92,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 970,
+    ["overall_rank"] = 969,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 10,
@@ -45508,7 +45461,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 7851.14,
+        ["points"] = 7851.46,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 13,
@@ -45524,7 +45477,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 7262.6,
+        ["points"] = 7262.96,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -45536,11 +45489,58 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 7659.45,
+        ["points"] = 7659.79,
       },
       ["The Lich King"] = {
         ["kill_count"] = 11,
-        ["points"] = 9440.81,
+        ["points"] = 9440.9,
+      },
+    },
+  },
+  ["Iolxqt"] = {
+    ["percentile"] = 84.92,
+    ["server"] = "Icecrown",
+    ["overall_rank"] = 970,
+    ["bosses"] = {
+      ["Lord Marrowgar"] = {
+        ["kill_count"] = 13,
+        ["points"] = 8203.82,
+      },
+      ["Lady Deathwhisper"] = {
+        ["kill_count"] = 12,
+        ["points"] = 9053.13,
+      },
+      ["Deathbringer Saurfang"] = {
+        ["kill_count"] = 13,
+        ["points"] = 7605.76,
+      },
+      ["Festergut"] = {
+        ["kill_count"] = 13,
+        ["points"] = 7861.79,
+      },
+      ["Rotface"] = {
+        ["kill_count"] = 13,
+        ["points"] = 8613.86,
+      },
+      ["Professor Putricide"] = {
+        ["kill_count"] = 12,
+        ["points"] = 9195.07,
+      },
+      ["Blood Prince Council"] = {
+        ["kill_count"] = 13,
+        ["points"] = 9470.95,
+      },
+      ["Blood-Queen Lana'thel"] = {
+        ["kill_count"] = 12,
+        ["points"] = 8376.5,
+      },
+      ["Sindragosa"] = {
+        ["kill_count"] = 12,
+        ["points"] = 7863.28,
+      },
+      ["The Lich King"] = {
+        ["kill_count"] = 10,
+        ["points"] = 8626.38,
       },
     },
   },
@@ -45555,7 +45555,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 8347.81,
+        ["points"] = 8348.05,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -45571,7 +45571,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 7799.73,
+        ["points"] = 7800.03,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -45583,11 +45583,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 8463.52,
+        ["points"] = 8463.74,
       },
       ["The Lich King"] = {
         ["kill_count"] = 13,
-        ["points"] = 6968.85,
+        ["points"] = 6969.32,
       },
     },
   },
@@ -45602,7 +45602,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 17,
-        ["points"] = 9491.75,
+        ["points"] = 9491.82,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -45618,7 +45618,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 7766.58,
+        ["points"] = 7766.87,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 19,
@@ -45630,11 +45630,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 8853.38,
+        ["points"] = 8853.54,
       },
       ["The Lich King"] = {
         ["kill_count"] = 18,
-        ["points"] = 7719.63,
+        ["points"] = 7719.98,
       },
     },
   },
@@ -45649,7 +45649,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 8882.13,
+        ["points"] = 8882.29,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 7,
@@ -45665,7 +45665,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 6583.55,
+        ["points"] = 6584.01,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -45677,11 +45677,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 7,
-        ["points"] = 7852.95,
+        ["points"] = 7853.25,
       },
       ["The Lich King"] = {
         ["kill_count"] = 8,
-        ["points"] = 8725.86,
+        ["points"] = 8726.06,
       },
     },
   },
@@ -45696,7 +45696,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 1,
-        ["points"] = 8743.12,
+        ["points"] = 8743.3,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 1,
@@ -45712,7 +45712,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 9165.78,
+        ["points"] = 9165.89,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 1,
@@ -45724,11 +45724,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 7910.28,
+        ["points"] = 7910.58,
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 7242.99,
+        ["points"] = 7243.42,
       },
     },
   },
@@ -45743,7 +45743,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 23,
-        ["points"] = 7854.04,
+        ["points"] = 7854.35,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 25,
@@ -45759,7 +45759,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 28,
-        ["points"] = 7606.1,
+        ["points"] = 7606.42,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 26,
@@ -45771,11 +45771,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 25,
-        ["points"] = 7855.81,
+        ["points"] = 7856.12,
       },
       ["The Lich King"] = {
         ["kill_count"] = 27,
-        ["points"] = 7883.18,
+        ["points"] = 7883.51,
       },
     },
   },
@@ -45806,7 +45806,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 5,
-        ["points"] = 8141.91,
+        ["points"] = 8142.16,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 17,
@@ -45818,7 +45818,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 7067.51,
+        ["points"] = 7067.93,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
@@ -45837,7 +45837,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 9118.16,
+        ["points"] = 9118.29,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -45853,7 +45853,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 11,
-        ["points"] = 8631.3,
+        ["points"] = 8631.48,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 11,
@@ -45865,11 +45865,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 6938.51,
+        ["points"] = 6938.95,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 8619.94,
+        ["points"] = 8620.15,
       },
     },
   },
@@ -45884,7 +45884,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 8651.9,
+        ["points"] = 8652.09,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -45900,7 +45900,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 9,
-        ["points"] = 6787.8,
+        ["points"] = 6788.22,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -45912,11 +45912,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 9,
-        ["points"] = 7989.11,
+        ["points"] = 7989.4,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 8889.41,
+        ["points"] = 8889.58,
       },
     },
   },
@@ -45931,7 +45931,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 9574.28,
+        ["points"] = 9574.34,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 3,
@@ -45947,7 +45947,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 3,
-        ["points"] = 9775.86,
+        ["points"] = 9775.89,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 3,
@@ -45963,12 +45963,12 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 8714.95,
+        ["points"] = 8715.15,
       },
     },
   },
   ["Refix"] = {
-    ["percentile"] = 84.78,
+    ["percentile"] = 84.79,
     ["server"] = "Icecrown",
     ["overall_rank"] = 980,
     ["bosses"] = {
@@ -45978,7 +45978,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 9,
-        ["points"] = 6653.63,
+        ["points"] = 6654.12,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -45994,7 +45994,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 7086.21,
+        ["points"] = 7086.59,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -46006,11 +46006,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 8635.52,
+        ["points"] = 8635.71,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 7876.95,
+        ["points"] = 7877.28,
       },
     },
   },
@@ -46025,7 +46025,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 7460.18,
+        ["points"] = 7460.55,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -46041,7 +46041,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 8591.51,
+        ["points"] = 8591.7,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -46053,11 +46053,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 9195.93,
+        ["points"] = 9196.04,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 8968.85,
+        ["points"] = 8969.01,
       },
     },
   },
@@ -46072,7 +46072,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8394.15,
+        ["points"] = 8394.38,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -46088,7 +46088,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 8667.11,
+        ["points"] = 8667.29,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
@@ -46100,11 +46100,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9151.5,
+        ["points"] = 9151.62,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 7666.67,
+        ["points"] = 7667.03,
       },
     },
   },
@@ -46119,7 +46119,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 7,
-        ["points"] = 8759.05,
+        ["points"] = 8759.23,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -46135,7 +46135,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 9173.74,
+        ["points"] = 9173.85,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -46147,11 +46147,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 8,
-        ["points"] = 8718.65,
+        ["points"] = 8718.83,
       },
       ["The Lich King"] = {
         ["kill_count"] = 7,
-        ["points"] = 8453.27,
+        ["points"] = 8453.51,
       },
     },
   },
@@ -46166,7 +46166,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 26,
-        ["points"] = 9260.06,
+        ["points"] = 9260.17,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 30,
@@ -46182,7 +46182,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 25,
-        ["points"] = 7474.8,
+        ["points"] = 7475.14,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 28,
@@ -46213,7 +46213,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 9090.65,
+        ["points"] = 9090.78,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -46229,7 +46229,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 6,
-        ["points"] = 6582.23,
+        ["points"] = 6582.68,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -46241,11 +46241,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 7359.9,
+        ["points"] = 7360.28,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 7208.72,
+        ["points"] = 7209.16,
       },
     },
   },
@@ -46260,7 +46260,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 8586.74,
+        ["points"] = 8586.94,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -46276,7 +46276,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 14,
-        ["points"] = 7450.93,
+        ["points"] = 7451.27,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 13,
@@ -46288,7 +46288,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 13,
-        ["points"] = 9170.13,
+        ["points"] = 9170.25,
       },
       ["The Lich King"] = {
         ["kill_count"] = 6,
@@ -46307,7 +46307,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 6,
-        ["points"] = 9610.48,
+        ["points"] = 9610.54,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -46323,7 +46323,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 8881.96,
+        ["points"] = 8882.11,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
@@ -46335,11 +46335,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 4,
-        ["points"] = 6931.35,
+        ["points"] = 6931.79,
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 8945.48,
+        ["points"] = 8945.65,
       },
     },
   },
@@ -46354,7 +46354,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 8195.77,
+        ["points"] = 8196.03,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -46370,7 +46370,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 7,
-        ["points"] = 8505.31,
+        ["points"] = 8505.5,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -46386,7 +46386,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 5,
-        ["points"] = 7781.93,
+        ["points"] = 7782.28,
       },
     },
   },
@@ -46401,7 +46401,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 8295.68,
+        ["points"] = 8295.93,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 27,
@@ -46417,7 +46417,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 21,
-        ["points"] = 8925.73,
+        ["points"] = 8925.87,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 24,
@@ -46429,7 +46429,7 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 7725.38,
+        ["points"] = 7725.71,
       },
       ["The Lich King"] = {
         ["kill_count"] = 15,
@@ -46448,7 +46448,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 15,
-        ["points"] = 9430.93,
+        ["points"] = 9431.01,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 16,
@@ -46464,7 +46464,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 15,
-        ["points"] = 7974.8,
+        ["points"] = 7975.07,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 15,
@@ -46476,11 +46476,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 16,
-        ["points"] = 8707.18,
+        ["points"] = 8707.37,
       },
       ["The Lich King"] = {
         ["kill_count"] = 17,
-        ["points"] = 8878.5,
+        ["points"] = 8878.68,
       },
     },
   },
@@ -46495,7 +46495,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 19,
-        ["points"] = 8521.58,
+        ["points"] = 8521.79,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 19,
@@ -46511,7 +46511,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 19,
-        ["points"] = 8932.36,
+        ["points"] = 8932.5,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 18,
@@ -46523,16 +46523,16 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 19,
-        ["points"] = 7107.64,
+        ["points"] = 7108.05,
       },
       ["The Lich King"] = {
         ["kill_count"] = 19,
-        ["points"] = 7490.65,
+        ["points"] = 7491.05,
       },
     },
   },
   ["Leathermann"] = {
-    ["percentile"] = 84.64,
+    ["percentile"] = 84.65,
     ["server"] = "Icecrown",
     ["overall_rank"] = 992,
     ["bosses"] = {
@@ -46542,7 +46542,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 6972.2,
+        ["points"] = 6972.64,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -46558,7 +46558,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 7980.11,
+        ["points"] = 7980.37,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -46570,11 +46570,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 8423.39,
+        ["points"] = 8423.62,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8577.88,
+        ["points"] = 8578.1,
       },
     },
   },
@@ -46589,7 +46589,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 13,
-        ["points"] = 6394.44,
+        ["points"] = 6394.96,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 15,
@@ -46605,7 +46605,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 17,
-        ["points"] = 7790.45,
+        ["points"] = 7790.74,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 16,
@@ -46617,11 +46617,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 15,
-        ["points"] = 8989.54,
+        ["points"] = 8989.68,
       },
       ["The Lich King"] = {
         ["kill_count"] = 14,
-        ["points"] = 8378.5,
+        ["points"] = 8378.76,
       },
     },
   },
@@ -46636,7 +46636,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 3,
-        ["points"] = 6967.85,
+        ["points"] = 6968.29,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 4,
@@ -46652,7 +46652,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 7161.8,
+        ["points"] = 7162.18,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 4,
@@ -46664,11 +46664,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 3,
-        ["points"] = 7129.14,
+        ["points"] = 7129.55,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,
-        ["points"] = 9696.26,
+        ["points"] = 9696.31,
       },
     },
   },
@@ -46683,7 +46683,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 11,
-        ["points"] = 8806.83,
+        ["points"] = 8807.01,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 11,
@@ -46699,7 +46699,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 7915.12,
+        ["points"] = 7915.4,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -46711,26 +46711,26 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 8476.42,
+        ["points"] = 8476.64,
       },
       ["The Lich King"] = {
         ["kill_count"] = 9,
-        ["points"] = 7462.62,
+        ["points"] = 7463.01,
       },
     },
   },
   ["Omixam"] = {
-    ["percentile"] = 84.58,
+    ["percentile"] = 84.59,
     ["server"] = "Icecrown",
     ["overall_rank"] = 996,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 12,
-        ["points"] = 7626.76,
+        ["points"] = 7627.76,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 12,
-        ["points"] = 8236.32,
+        ["points"] = 8236.57,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 12,
@@ -46746,7 +46746,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 12,
-        ["points"] = 9017.24,
+        ["points"] = 9017.37,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 12,
@@ -46758,11 +46758,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 12,
-        ["points"] = 9267.59,
+        ["points"] = 9267.7,
       },
       ["The Lich King"] = {
         ["kill_count"] = 12,
-        ["points"] = 8774.14,
+        ["points"] = 8774.33,
       },
     },
   },
@@ -46777,7 +46777,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 5,
-        ["points"] = 8379.67,
+        ["points"] = 8379.9,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 5,
@@ -46793,7 +46793,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 7847.48,
+        ["points"] = 7847.77,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 5,
@@ -46805,11 +46805,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 9744.88,
+        ["points"] = 9744.91,
       },
       ["The Lich King"] = {
         ["kill_count"] = 4,
-        ["points"] = 8792.83,
+        ["points"] = 8793.02,
       },
     },
   },
@@ -46824,7 +46824,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 9006.66,
+        ["points"] = 9006.8,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 10,
@@ -46840,7 +46840,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 8846.15,
+        ["points"] = 8846.31,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 10,
@@ -46852,11 +46852,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 7163.54,
+        ["points"] = 7163.94,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9453.27,
+        ["points"] = 9453.36,
       },
     },
   },
@@ -46871,7 +46871,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 2,
-        ["points"] = 9361.42,
+        ["points"] = 9361.52,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 2,
@@ -46887,7 +46887,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 2,
-        ["points"] = 8485.41,
+        ["points"] = 8485.61,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 2,
@@ -46903,7 +46903,7 @@ UWULogsData[6][2] = {
       },
       ["The Lich King"] = {
         ["kill_count"] = 2,
-        ["points"] = 8323.99,
+        ["points"] = 8324.25,
       },
     },
   },
@@ -46918,7 +46918,7 @@ UWULogsData[6][2] = {
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 8,
-        ["points"] = 8593.98,
+        ["points"] = 8594.18,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 9,
@@ -46934,7 +46934,7 @@ UWULogsData[6][2] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 10,
-        ["points"] = 8570.29,
+        ["points"] = 8570.48,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 9,
@@ -46946,11 +46946,11 @@ UWULogsData[6][2] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 10,
-        ["points"] = 8922.17,
+        ["points"] = 8922.33,
       },
       ["The Lich King"] = {
         ["kill_count"] = 10,
-        ["points"] = 9051.4,
+        ["points"] = 9051.55,
       },
     },
   },

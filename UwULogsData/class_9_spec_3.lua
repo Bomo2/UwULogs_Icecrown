@@ -13301,15 +13301,15 @@ UWULogsData[9][3] = {
   ["Draago"] = {
     ["percentile"] = 9.87,
     ["server"] = "Icecrown",
-    ["overall_rank"] = 1743,
+    ["overall_rank"] = 1745,
     ["bosses"] = {
       ["Lord Marrowgar"] = {
         ["kill_count"] = 6,
-        ["points"] = 8653.87,
+        ["points"] = 8652.87,
       },
       ["Lady Deathwhisper"] = {
         ["kill_count"] = 4,
-        ["points"] = 7059.95,
+        ["points"] = 7058.75,
       },
       ["Deathbringer Saurfang"] = {
         ["kill_count"] = 6,
@@ -13325,7 +13325,7 @@ UWULogsData[9][3] = {
       },
       ["Professor Putricide"] = {
         ["kill_count"] = 4,
-        ["points"] = 6688.33,
+        ["points"] = 6687.22,
       },
       ["Blood Prince Council"] = {
         ["kill_count"] = 7,
@@ -13337,7 +13337,7 @@ UWULogsData[9][3] = {
       },
       ["Sindragosa"] = {
         ["kill_count"] = 5,
-        ["points"] = 8422.07,
+        ["points"] = 8421.11,
       },
       ["The Lich King"] = {
         ["kill_count"] = 3,

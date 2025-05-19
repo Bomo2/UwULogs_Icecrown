@@ -24156,7 +24156,7 @@ UWULogsData[3][1] = {
     ["bosses"] = {
       ["Sindragosa"] = {
         ["kill_count"] = 1,
-        ["points"] = 5479.3,
+        ["points"] = 5479.1,
       },
     },
   },
