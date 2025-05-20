@@ -13422,7 +13422,7 @@ UWULogsData[7][1] = {
       },
     },
   },
-  ["Brezyy"] = {
+  ["Bommboclaat"] = {
     ["p"] = 38.77,
     ["s"] = "Icecrown",
     ["r"] = 337,
