@@ -1,10 +1,7133 @@
-UWULogsData_Loaders = UWULogsData_Loaders or {}
-UWULogsData_Loaders["2_1"] = function()
-  local LibDeflate = LibStub("LibDeflate")
-  local compressed = "rX3LkhxHkuR9v4LS55EQfz8Oe2ATTbIbBMkluN3TM7KHqKpAZTCzMqrzAaCwMv8-4jmsrABTLSIU6ZceAQbi9Aw3czdTU1PbdYfjbvvV__9fX331n3_6c7c_dLt__en_ffW_T39T_u7x9CetVKP-7fe_2p_-6k9_ve1ud8OH7Z-e_373P__0-Y83o3XKnzcPn_1F-av16W_yv43-6nF7-J-_zDo0yT3_v_7r317WufsgLKQVWkkr9bL7z1a621da6N29tJDmFtq9q7TQ42OlhW4eb6mVco6hUQat9K8Nu5JvrAYr7bnPnVP2jclgoc1aWogwgNP_Of3Pf_7pn8Nxt2n3h_1qOIyWfnajnBp_9o9pNzLPf1zsRg5_RBubYCk3wgtZHxqH_FH0IrxOdLlxiXEii39YTI1Dhyr6EF4nZd2g7yN6kMHLeNVETzkQ_D4Tnij6D7mQ6D7CgdnUGOTQovfgLxRjbOIfDx45z_3QQueJjf19h3POY5__uNh5PNxy0qZJ8OIgnccp3-QKzpOiayJa5x13pimbxkXGeYTbxYfGI9sQvQeuk4IPTYSPBuc9OZvUqHC99-TsVRPQjjjvkb1Q9B58TQUTG_vHe2rsPT_3x8f--Dh8eBzGtjnyHvX7gc95z9nJFnuPJX-66D3CFa10k9GTIXqP8GS41GjkzuzToy3eD_v0uNgk6u3B66ismowCJdl7hCs6KPyBZO8RfpmJjUZuKHoP3pAJEQeTpPfYmJo09fa86X_rNv163SPX8c3v32TOc_zzHxd7jlFwv9mnxsHfLSc_Ca-kVJPRkYq-I2wpZoMDHNF5hIWCNg0VtwnreJUa6unREe8nhyajt3Ai9cn4E2nTGItWklMfIfk1vsloJTn1CXAhrXKT0anJqQ_8Ssn5NJn5_K3b77vHfv3Qb7EL6YWxW3j-45Wxmy2XNJf4CJ9Q8kXRg_CGfPI4YREdSLLX1GS0H9GB8M0QTbiMxycdCP8ulx02Mdl_sNEnFZvAvT54IZUCPjHRe4QvlFXj0RcSnQfvx3jXhD--hmPn-ff-Y3_X7UaLjh3nnM1MO845ulvsOMKFmKxtAvzZ8uODn12vBNOQkTfsg1FFnB-8I-9Dn3WD8icZeMNGb1LG6YHoPJKJRRxKTjw-OIWK3pKwgfDTgskYMSK9x0UBMBK9B69jdWjiH9_nsfd833e74e64aZH_uMYv9J_0_MflaY8ABeXQKPjmyv6DLw6tEg7s5cRHcETJpeXMR8gQTGoMCuzl1AcvFHTEr6GMuzm8kAuNgxm_6EHClpxL2GAnsh_hKxVfRD9OTn8gcp1sDE1GP44M37LOpvF_tMmxE71uHx_b1XF7wM-Qa8xC4PqcKl0ZvzmbmhDRTyfRg6As_oYkelBySENhb8L96j12ag49SDlonJCR6IFzTjB7EntzOTSc-wiAs7INOngSt3bGNYqK3vDDmpK-zKDHrvP1w67d3vXQb15ykNm66bm-ujx-w69GSKnR5PsjRCfe4FqNHL8JD1lUOMxhwQOvfGMp6A3frDlE02gKexN-mi_wEPf-SB8puSbARIqFD2wyOFzec587hawbdFXJzw82JBVSY_-4obEPPdd-PuHnRzf-jAvMuBHPPxAKADE3Bv522YvgN_TaNYlKgvC7obRvfI3ajwqNQ_shaz86qcuKxLQHoXVi1grvh0WvdVA4YmDRa59UY9COZPRNWEcLF_GaWScVxFRPvUB_GzZPd2N7f3ac5Jq01HF4xkHCu80Ko6Cy40CDD9nnRlPAG95Q1hoDZu_uqXWiJ0k7-C70wWBik-g3EMqILhgBLhP9RkjUjRMyKNFvpFqDxifPRW4pOos3xFV9gvGmsVPIwTf9tnvfbrr97RE7j19Y-HnB6K57dZIvrBbOefDtbHzEC5GMA2NMQwVu-He5yOIGeDvWObwOSTgwBVnhojbhwFLGjAwy64nJJIyVcs4TVcw4LeScJyZlG_fH-Ocz59n1hxZFa8mcr9tZv-G5BvCtSMZKFD_u0YkuuCZS9VIBvki6SSgY4dCCFBymp4l-I2zH20v8Z9Jv8OdRMWAymOw3-HeVhTJcSPQbAYlX-bK0P-k3-Jd5mxsD8aY1t47Tl3XHsd_8tPvXsb_rB-A5MS_mhz7Hldd6TvQuCxQL7sUJKSoMeoqeA-OaFAvRlHpyMlwnKddYKs_B0KmKulEV4jWlUhO5J8fAhZJRZzNZ6DrCFyqZKUWwxoF6Mh5nglylJ8acLi_xseu8Pey6TTv-WmfPSU1cCrTxDAN8Dq7Q0mCYKnoOXsha3VAoG1wmpcLeYvxGYJMZjSMaGWKDv-rEm0AXKsesDsqHM3XxGr_JwSkcI8h-IwAN1jfUi4PTkxQCpv9xxOqoorq86MZu8_pDfzuMf-LZa5ZTqjVPL8DvTS7wAOU0eJ2gPC5Tc4FaKPx_jhQq7CdY_EyIbhPwOl7hOIR7bkLU4Xy4C90GR2rJJTZSw78sZYG8zj03yVvXKMpv8H6sz5eA6thvfv3Qbx-7dv0JuU5o7FJkjWcWQBwwWKlySEPSwZ13v8x3BGDSGwxtv7un1kk-wYqfzMqByxQyDYxnOEQ6-BzZXh4MACunLqkr064DF_LBR9yIwiHSQRuFs1sOkY7ehjM2Bl3nh37bfURu488gx6zb8EwCgzdLtyHgQMSrQFZDcZwWlJBQyMVQ-Luc87heyAVqyZa6CYWpCYGaymwTjxDIRswQZ-M07_25brjMa4SD1wlXrzmvCU6ZS2LY2GteDdvH4QMsgUZ_hpNmW0d5JoEAAWaDuzhICk6MjvUcTHmJymFL5VKcmJLC4DhJwfGlRkyVQHEmUBJfGNFMcNiEhRxGHckSaIhanYmTy1wHr-NKMkkxCPCX1oXsNIWqfdtt220Pmw-iX951zbMH8MtvCoxcIVQLyWuWggM_YFIJJ79cqJZtibGoRwfvJ6vYXB-qJesTZmmQoVosITGHqQkHb13jKfYaPvdcCl1TBv_drh8-3bVjK3g2-JCatLAAY87_7rogK_sAykVfZPDWYxYHF2XFE3-HKsDgYESVYjTHOIPrFFYe1yqNLV753FRAw0JOsdHod5EWH4onV8hNfKmkTnLEfm77u-G2fUQ9mozJ87V6fKKuEKC4miO-e7T3GAgkEwuXI_ZBzuSztmx4JKxjPO46IBlipZXPceER3JBzxmJKMGnzqWQE0JnJW76kTHrqlv_L7Yd2371rbztk9C-SALNGzxfahdDZ2Uaj5JU0en_qxEKBBJcTxGgUjgDIskdh30bqnseRqgtCxy2ZTcfCfqtRLlReN4YzeqGgUwqh19MiY2EnT93z3-y67vHp08PuTjB6s_Sm52vkWPgp2yA0v7PRjTIG125JLbIYo8FlezmexxRvGzIOWOWAHi-kksA445LhGLTGWjkkrzEGI-UG8m2PP7YNiWwohqfvkrWXWeHY9N8-DOt-u1_1-xXqZgzxDBPM2n6lKneOUWMVNhI-zadMluKH4HWCjXhDZCbrTcDEIS6TzUoHHAaycGXyGqfWJO3c6Jl281-Gh3Z9hJljXCrzaPh6MBaWsMlgmg57tVqdMBgn2hfeUA72EmqatC-4TlRaYSyO4x8Fr3OjrodKQoix0VzmKHAtQ2ZlTnAzfvDuMuPjDd4rly9vlrHB_zDsDqiIG0ITFvIfDF_ExV8vRocjABJU9zZnHIlzDO-QXGgqmLvNJFEVW3vKGZOqOKKqV9Fg-RfZ2vGGQghsVxH-QCHHy26ESWvHvyw7KzSmrYV1AlwnZn1piGOv-bG_f2g39zeH0bJnz_HNwjKu4cu4As4UFE7Q2DquCxnTFblAJPgoJFYc3BKsC7j6w8EtISRNVqOE_eSEoXC2jGucEMhzgZHXVmMdHrKOq43npBjxc5MsULAdO87bVXvc9du7HYzh_fkVnpUx5Qu5uElFpyBw20nXyT7U6CqK2ivcxkMWcj2ro423Y7RtNBVi4c-jMp264jYnFZzAQOK6ioKPbFcR_mUmgpa8sc1_t2o3B2jvy1tQn7O6q2MskxybswrIvIuccrzAMbWZa6ITqLOWhSjxOs5q3DlKZhRGObYDVTgv5bEYA2vuNrEvhfDLYrqsyIzN_dWuvW13_YCzaHPexKzJn6HM62AaF4wTyOTkFW-TJ8V2MVpsvMVlQTI60i6ScodC1Jcsbsbn7ngXjMEcJDY8ytlgtiobHlmaVy3Es1bV6EfwOavLeHbsPD-3T-86iO2_FFRnHYev4uJozhlFqx1ix9HxXINe5jjCOsaQBS28jrOZbEgQcCPjyIYE_KFDNKxOqHA5J4PrUCyrOhpBFY_Fn3KqofMRrDOXhN6x43xzPNx0t-NFnz3Hp-VRFl8Kxo9t0BHzj0nPcTp5TDbksoqkEuYNc0lF8N6wGlNwnWwVpmOQjmOsbQKXkFv8nXkoC38hqz1uIyDrYdnjuJhMyEPUF5Sosdv80G82PXpvfDon8rNe8wW1ZFiWTNloXHAlFdmTzRanA_JDgSsePgkqk_JLIdRyVKhRqvApBtgjOPFSBPzLjD8j_EufClyriCZdiBuObexNu1vvH9otanrx9nzgs2bGl23x5RwlAjJZHVBR4e5b8lK1SlAr4qCaoHLCuD4LckYjUMG4S9XnoLEsG3up5lglGrFZaxyHcreqy8le1rXHJv_dMNytjtvDYbTs2OQXVtbs2TWuNHmVHTsxUKisqUAq9uENaeMxWsqJJ3kfBD06zne8dQIgz4knBeN0FfEkl60nG73gOjbR8QjeT_AGS3RwkrHeWjM9bubX7m57HO9t5DdL9f7tOXK5LgN2KXmsDcQlrtlZhfMykpgTrMNxM0nMSSZgQRq2jdd6g9m-bHNIimG64_yb3XZYD4-b32C0apoXuHDGNioVXb0b_UcX3qlCjC64OmdjUeWEWcOcjXmvBckazsa8l0QYyYhXK4MZhqytGg86s7_AVm12LF0B3y7BhGlQ4_vj9tAjdRKvz83zc_bu-EopJkW4JA2tEO09woWC0Rj-5tSwfMwRO-A78mlTAUeXXO3Ih2y4can4hdQuCbKJXOnI2-TwIBZSR86G5DDsStJzdEjkyDr8hRSS9x_7zZvtcD_c9N26Gy_87Dwunc1v1nn085-vq0GFk45VBSjdRWVw_ZbsDTHKkMmrUDtyBjfPkpJYNkYcIXGvhfZWWIetQWmnhcZzsjdE2Xwp9jW21j_v2n67vx123R22Vrv0qucrpkJEEjy8yXj0WmORFy608TYLZ0GGNlZrXKDkQhuXU8CoPGesLuXUcMkiXCfZHPHTTAYkLiiSPyl8n-Aus_vPLuh29-7dcLtaI1qMS4tpYM__kasZlFY5POmSTPRMdLggQco-We2xmCyZ6Nmc2Pm3QjTPi9LiHenkpxX73_T7Q7vuVofRsiPTeAbRZ02Dr-UJL67XVXqZnTYWL0Tehs5GPLeWTfS8aSpchsk4dlwMXMeqiEvFbBFce4sxStJUjY22xrXqlRV0HdfUMtaBSUGfeU632t21d0_IceI5Bpl1HL6cB0PMZK0VtG9J-ohJCo8XI1npIWeMgpMxb9SZlIG1eB0lqJzSssd8pocZXNGGyy80NrEfh3W_7Q79LVRXcS9hyKyV8dU8TJBMOeHrhyOiJu8yfnG5Zp-UQ8S3PNftk5I37PBGWFQ32SVBe46cYaK1vqSCj43j7fC077btAamQuNi88ARmTIOvekm5csDtiuzLHULAsDv5cuucyTnXQgQQNbZ5EqKNRmOxU_LpzskLyCr3dFulDS7Qkk-3c5UqxjEFHGuRb7fR6rIjcew7r4677qPwci-dL-oqlb1icLFR14vgBqMUR-7HUIwzlhwLipMqZQ2uhbKKaI4uzgrZmQeA6Ngqfu7XJxrBBzQSw4VGLyQ2OrHoRZ5osIrE3IV1Yg1Z4xCiMPOIRVAcT1URTF6YhEamDNHlBqUwLP1P60si_djAfuj33WGFjMsvHs_qK4mqehMjjqvJ9zrbTBaYYJ0huqBxGzlXYEohs2rEeD9ROYzBkBXVbAKmWbKsWesTRs1Igpd3AWiqfnYRDpv3w67dd7cQMXyZdzBrrOe39Mrg0kmST2z530jjsNjg0lpykDC-wbSOOPHg7mYbg8XqJSwu5GmON1zI6ChE32z930o6FaysY4yYgssGlyFfknDG3vOqffce9ka45R3Xni8u4Y7PU8s6J52NDdXbfO7sWOY4eEMuWNx9w13zQStPqtoI6whjYEgKYdRaGAjO0m-9tpd6e2P7-nX31G4RL8u5cxY2a1-VSjlJpYTRQta-sjO46kgSs7w2pH3hdaJmkSW8TjYWxpZkI3ApypqpW-fvm0P7vl3De8ct5kC__Lvr7MLmKGiI0RQMHTDPnrMLV-4vf_2D7ZzX2L7IQk4Z4gHHRrEPtnEsgQlbmIvCLB72wdZGGB1MokGF4ZWvr-S4ANRWPrtP28Nhj-YuO7eY5-r5Mg5uyir8FQiMi-aO19ESaYIE2FWR2afAT9wA5TQmuchWCtcxPBgEw5CsCnNpCiL8e3_AfAm7uLbn-aoLzrCN9pjcS76NQYcad2DIWSC0k4BSLhTFCoBSNM5WIRt7i4Zfj83iTbdfwbk4zi4eYehrlVyysxhaoB9ZY0nJSvz5yqtPqSkJyxTtvesBS3-acwSWIZ_YIsICuf5swaXElFh5gHxijUSXpPue4zQn_tXuuF1327sB9Qg507xMf54xeb5YgovvoVw9lCoMTtes8hAS57LQqCNbLMHsDZ0DO7IMLmTL8AocDnJpaFJl5tYff9nYNH4a1oMQNy3vl_BiqYS9CsvFXSEP9UWsu8JN6H3AN-o71kNVlatQJYeny7J3YRnfxLUrCwvZOiMprQkC44JMN8oQ8smheH8b7rrNb8O-G3_5kc0vne0V-AqOYKplrCCVK8B1krEJT-glIZOgapQZkykUUK5ggsPLxBdMsK2mohkwVTB5uxk-3Oxg2Vg3bmHZOJzt57rKXval5Ytj4sCFYpEvNBTmizeUcsAnSmJpqUxXur7IcZpOeKFAPj7P193Trt3e4xYR3ZiFr1vgUXzhIArYXaGhKYQywYi6MjBInYvEQRVmAj30A3-gEHHDPI2CaSAIOzaNP3ft_vBp2Ammoc4BzYxpiAA8eemKzeWsb2nHDjCEEXr2_Jgf_A6k4CoQuUMRK50cEf2q3w6Pq34DSypq8Ti3UAk6j1ZZjHuS7CFtTKMr-KgOCq_D0oe8IxX1cdhTps_XoCFZkTJP6_elmabDX4_79baFsJFaPPkh8Biz4FjW48uShBOtj7gyT15hpsxHup4DEXJpv6rBOJTUvNmWliI5MNVC8nb1dDOMH_CRVZilUWMlkDnGQk-42iiCd4E0Ctz24UaTNJcZBV6n6IZ5DryDC_nIT5vBEJYPQCRobBY_HnerFjJIbF5MvQo8yCzw4EqwTD1HmGhRwGpFGQYmkISQq4iPe9Tg9QWGYfiJzQLiZsL03NkfhuNjD5kfxS6WhimVaOs-xhpAWVASXZO8L1LJy9AxkG1iZYowDgrITCIog5lX5CsS7Sz6sBoEo3BLL4tKjPWYjMXQA9mRnbWtoRkdi4wOhLa4WZDJK4GmSdJ4Tuo3kwWX7mHY9i0k3hZqwMKoIFbCGKPzilThF0KqIgNKFVywYXhrMD-VNIwibl6BNWNqVZ6D8jNe_u2ue9o9INjBpjMTctYu9POfr-R3lWgIHQPd7FeUDq4PO70qE7WvLz27VKKU6wEpV2iIFUrPyiZctmFTkawxNk8WjJUSmsNJEnVZJ01lzD91H1B_nk3n0HnW1HnwFf_molZiKlAZfQEpuc56YUMp1XhknY7Cfjhb106FGsCOsVqxHfr4Q-ssyHaxXpN0qKE9aENONaSQvS49lVMpwk8P7QqGDun8as76jYhMk0ULnxOO4cjEsWgFeArHxJF9LO3OFHMXr1P0H0wNM438tCkMTag5ROG743bVb-5a1Htol88eiDzEDdmpMTvdaCqqzPAoVGJlJPA65UbNFKaA1ynlLHLYK1zIfsG8APylS1-Ynq1n3XTbO8hqtOccf9Y2KgnZRFPKBIxpYC8t3fCK4roK63jBVEkcMip2mKmAT5RAt0KfkSvFdDf1lnx93-9Xw2G06Nkq4plrNWsWPDwNXwGfvccEL-418dYrfOmy_Wc543YJrv_MRxNxwsEFT9amyF49eEOBl-LEC_k5BuHX-_ZhbAQj84pLgxUe5RbgQy0M2ydVr1xOuA2QhDPLUHWuzUhYRyncxkai3Kfh0JrjLuNgxcy9SEWHu73bQUgzNkvvHR7mxtwlHRIEishxlrlICXOal3gdVRSvKCQSr2PLrKopvOnn46Hb9TfHTbvFJ7FUYSpm-ijwFVcGVUJFa5LvqMv42uuJEdF7h3vuScJjsBazu1gwslLdOjgkuT-2jde7drPptpJhLCxFpUpjxWOZi8HFBji2CsliYgQXM8ZYfIsCVoSMNWthTh4pHfIFnCy8kIoz_VE_d7Brzr4gRLNWIULUpJu7IlTCHCZ2hlz0J6gEAK-jjMaz3VleXA4Gw21kLcqVuvVUC-TXN_2hCGLh81yq6v_Cn7uyC1LpTKo945fPZEFViwutsrGOpZcLC_k8zTn9vQvrsd3eCc6V9MLDsHUOw3ud8NtHxstGO1L1SYjfQyLlGvA6WaUqEw1s5IcDY7qQs4CY-7l1tPfDdtPuIbr30iIyaxuVCKw-JtY2hBuz9Ixf35fiktINZRpCuJd9DcUGb1zAZReWdloGI0zqB_-135T7GyN7fnG_cuKhPXygKZjLUTK8YfhCYHXUSyA87cbXYDZH5TLGCFlGckbdB19gGi4gvbTP3vbdbviwGgbIJ_Dn6tmsaVSC94KJmmOTCcuEiOkEJMlQF65NBXWpoidA9rIJ8DHfLonfJTd3afyPZQhhnz9b1axlVBI5SM4K7YBk-T25Mmfn-tsna50vu8e-ouPvlP3McM5X7fuuf8C999Y1aeFBVGq9P7loBSqYj4aVphFcoog1Xx_HB1WktSq0DegvKM3gkC_PCXT-2N-vDre7rnvEb7tbTBNPlcC5EOto1JwAdK6ki99kk6oQBUMubREV2tliESyczPJet7t2NaAm4qI1uvA8cyXipy-DZjhZX-xd3gb8_chYzVuP6w-kEMJJQAQdJ9kOkio1j1lnZkK1V133ePOwaz9AV3-BjmdN4xzTXWcaJqGhUl_xrp5shkdBenp5jyv0EJ_eN8Ol_jj4LqRNVyGKD8EBbb-xafwwbIb1IOd49vyMzBoHj9IJr6kWxAe4e8MXIm6uAAypqGtECU5Hg_VvyYsjfcHUDRzJW-smdQ1f95vNYfgohfJ2sYxBrgQaRq0iHglFXhwlgoTZGdlMYFTAzELu5jAhhYZL8nBmUWksAuxfHVvGm2F_O3xAjafFKhbWaXItuNCrhPF4Nq-QpjiSkcZJAv16qwihoEIV-tRd4KWl8ULWzWl6ve92m6G9g8In1pzTv1nbqEQGTL68gIxpCNUB7_EsGhYwLN_g-qTC2sJbrZByRqiyPz7R7zbD9nAcm8noOJdKW2Qe5ZNcXZg6yaqrWUH0hDtPr6PGMyfJ8yxqb_B3ke0-ZYIMblwgqeWqDhPE2mCbqQD0z5v2E5xoUxoVloaelTrVTyMBFHVbCAxInxsq8sTLpMIcvp4hGk4K3-g9IutOJ055hSqFNpVkTHWZXD2d-e4f-730GIWlgUqtjvfiDDUGrLvsMKJN3l6xiI9eX9g8teDXkH7yjh9-ie9BVxKFqWftm2F72A2bAashmMYvrFLkSvCnN1p4Sci0twSfmmIt4XWCdrhYTaa9RabT1-APex4Uwb_Mz8lkvG4f-0O7PRwPmLlqFjMitOLRVAGF8PlyNNwXmEeyER8riYoEE0l9BbyOLW3gFcxDl1GHFcqbPs-hqb8PeRRvjmdewbxtnP_hlVeHdkJ_MYmKBKub64F2X1S01PVAuwshsXpJcCFjgxYmm6-ZdWKJf9xkvbUfdvttL9TUzHkT86ZRC0zVJlcpuRaFNSgpSOa_RSm4AmEmnFSkK0DtNvFdKYK1zlfnHm5XLZ4JYk2z-NaohKW6Mp4yXH9rJOs0ZrFypmHLVGrczExCGtEL479ZFNTMjdf_53Dcbdr9Yd8-CKe6lOyiVSUwNOUoxFvksRaSs67Afo_W1Rh-HnNM02Tz1937dvuEX2XdxMUHUYmraFww2AxJ2pGNXhh4yJ2ojV4YSEc6anmX_fXvu402XIqenv4F17haGOAQ_qfJk5UGmJlT7yV6dTmCVwweT0Dl4hZbhBOnmrG--9DuHttDL3jO4qCFB3kN_Hy-1CWvrwCHIi_rrk-FT5rn6vpUOJQxQLlCruMCPxoXJzs6z_TpnVoDHnAarBu_sP6rFY_Q4qDFmVhpYFWBvipAcbr0QF3_TLrSOVihSczpMqENmQatG6ZrVKS1rRRfm-ztTF7eHVb9YdVCYf1irEtttRba60pgTF1jOILykuw5W5aOBtNmSQKccwqPgGDL0qbMgOAwG_zAlQLHHyOtsWn8Y9jtD7-tb7r94SM2jqUjVrSqhPdaXYTwrrcOHyUrIx85HxLZi27xOkaxrSwC4skPIhOso6jmTT1y37frbts9CZmDOZ_4jGnoSszZEELAXdtkClfu8ApF7phTrpHCJW9mBmm83faPkmKQWtquoJ8JKlf3C-uivo8uOnpoThLmbJH5QGm9gewREsg8dcRMnMObYdjuj9tNaRLAZ7E4KdCVkEyvgiVnlQn1MW1w9krKemmtGipew9uJhRWKjpRtF3Y89w8nF3muXfjN02N3uBu6fS8Yh158Y9bCMkuGiz4id2G65FWNVgNfBg9BZIOMtGzSbC-58MOKngiXMAohm55pLPp7_74VCMMmLQ-zNA-H4iiiNEfUSBiNVgI1gZOIicoFsgCL3xSdWIkY4W1CjMTxif66GzZ33eNx_DPHR7q0FK4rAavOG6F9kgVWT3og18dZThuNcUMSWE1KGHBCXhtl8i7sNCAxAJ0E4Rpapzbg4iGLAUQlTG4h1ZRLCDBh8d8PN5tevsQWG7yMh3LSby6pQDYe45jFJY1FYcnYJ6lMvm_SfhRGJNgUz8_NPnjTdlD5xiQiWqkEYnoXbY1OV19Gdbvr87tgggAwkfdOzJGdlIX9XFWaAGnK8OtJufOfu_VowbFVLIULNQ8X4kygsEu4QRYCpq9Vjb43X9SpOBqPkLjFKLSrkVUPzc9DwqmSKr9sisfz83Hd3q5QI7V5KULPW0YlqNCnZISZGdw74n2Bwa-vJPsT-e_6GNYWZSpOc0uICK00vJd8RwrIoKcs43V72216-JK86MbMWoaphBT65AzuNGMbqY0wkYDthwwKI_qsZoIGupXjc_ixfNi7YbPBJ7GY7WF0nZNwWQnDHdnCpHVs8VvYkLU4RiMLk7qQB67PM53zDo_1ZIODMj0jVMgmkvaYVsMlE9ood1nhHNvqaUDCrt0fhGtjaRuKNufM47qmyKC9QE3i8glf6m7cYBXhXQoex3tcPuHKlHs89IKTu7WGH6yCF9KFQjjFCv3luG2390dEsDBx6egMbc7_8I-WQaYCBUVW19MQQg6RFR6GC8VQaRJT0HpmWsU3u-Nt3x6GHT4Ks_hJqcTk9IXH6q-_wb0zvrn-SL0LVrh3ySO1lcBoq8sg36mb99fdsdsLRSzz0gA8f6SVoEtvfCSHRAiPu7a4WYxtXy56fBUC8FSJEmJVLaiwYKl2ii78qt9168OwQ6zHYhuLY_lare3W-CqEkGwCtjEWFcoeo0LsmdocsbGycrVqRpXk224zBrjPp_kSFMyfpojxcV8vF0Ou4Fkplsrm9STpGIO-7LMbf7y3x8dudzNse_wF7eIgtRJ9zjmdcaGMvCudyph1SyZCNnpcqWfb2gqnCHkDWdONlQYHm2j8ZdlpbBo_dN2HdvfQwt4Ks1wGWptKiJizIZDFWOHODXUEwp0xuB2NjLGS8ljfmk2SrYq4xEAjYgoMSBwbxz_a3V27FRXkim0tzWJspWZpn5PBdUISFnOlJQ25PGke0Ql6DWQPVPT5EgH_7BJftQ-fjrDFsByEWXoQWjoIVmet9EBdn8LEMp-U0-DD1uzL9Hx0oGxrYLnE_RRQ_H9vV_2q3bf74xremi9g2Pxp8LCP9KLGGuOv3IkqfH1fjfelN4CKkYSKl5LkZEgNgWoa6aXmFf9oZ2Pz-Fv30A8b6KdusayitiLsw8pqldgGnSj7npbBaNf7-2nWaQUCXfBlkMgUL-D_vO_2uNB3bpmbP4VagI-zubn-1fKqTMSpwGJUSdeYTueV0w30Tro4Fy4BqPFhfv2v467vttCr7LnXff48a6E92iWsMsoS1ZJLmIjFWYYuKUO4Ptz1JRWK10OKxjqFJcJJYTKVBTiM48U7My2F-JePj-12390JLQrmJR-bt7FKqJErE2jC9Te3KxXXVME0lMW6gSzz2QShw5WuH9TRkPFhRifzTd--655Qe5mxy3nPthLHzBivMFpB3j06G9Vcb1-mzBOiui7wTaiTwpNOyZunDMaEXXPczWNczMKsa7JPNubEkpvwQj4L48m58b5G5SwYEHWnmqDjdAX0x_7QSWRbu7gCakXYkY2eUsJJCXkRxiJ8er2lhqL27ivA8CYU6jI6UDYOi34ahv_Lb5CVY5fX22wlnND7QjAGP5kl2hpTpaSiinIKWoeFCQsONHECP3ZDQeQkn1ILj8HVoqlpLTR60717GcOjrNiCyhjXY3mHWYCl6BZl5afJCT93t6tu-_QBQ3vmXE-fP1P9_BfXYayuzJyt0DxjtVFk_7rwCUOVUQy6DO7T10cGzlrLivdjLMnwIaywUBHXnSJV_vXQ3rXr_qEdn-DYyM62M2dkImJJXrymNKddjyd5bQxGCNm0JPqmQrRng7dNqoGJlHGVkyMAv28_rPeCWKlZLnOsXSWo0ebSyV_hTY7a4pkW5JscjMElQDJOM2XG2sRBvBrufuvvyv_gk7CLT6Ia3FgUSK5Hlbx2ucYNHgqRFpYVSCctZYWLzOVzn9g9tGVIqXASbulJVAIKYymyXm_K3tgaY6qDipkdVCU8pZVuOZNUmh47811pUd524881OlC9NIl0PCoHn9qkbcR8ALJjJ6igsIQd56MxRX8p9jr-gj-vuu3wAB9-3bzMdpv7gJXgK6ucw7Am27bvi6bj1d_PxsA21eF1nPbYJchCdipNfmgdEr8KJZevAjuV0RYo_Ca7KUrr5yTF4fvjfXfT3jxhS02LXZ3Hi3BOmpxQJSOL4dlVmbfgcwxVemed0iCBGZ_EN8dD323aJxxb6jP_aP4sRLiH7Eu3xpJ9JFr4hk4YzUrOM1HBQV0aVpPHxJmRFb90H9tdj0ufL7pAsyfhKyE-1hfmFNeyChc6eQVYhry-yzIV8kinQsbdKGz5wWRB-ZALsQKcpDQ2jB_6Vubm6eYFNp-zDP38F9el9DEbQZSXu-eSdkaYlU6KkxgkFz_-hG9X_e2q72-O6xbmbmp5u6kXgRESfSvSLGS7KQaForI1Ooiti-zUdYE5VaQfKOaPcGMGg9nRXDxilFGTUnnfDu-Gm_YAn0DVLLaLSuiKKxdLvv7CdMkK6lLchWmyizWYIl5rWkRCSCXLqUx5--un00O6PuITtUtTIV8JprG2jKq8PoVxOvsaajHORVdjuq2zFhMLyBOtNkZfq5kOmX923S2aVGleBmXMW0UlyMilkHE7PXlvJ2twVZi0iuxzDSkP68rQpwrPeuQ7uPGFYWK8pKJ-9gL0mxZd__rlJp43i0p0sFAEOCooS1Wa6eO9zTXEI0xRSTVTvvl2NRz67b6_E04i5aUnUQnBMgUQ4cYr4UCm6IF46trG60SXG-rWFuIqrQSpHS41TpWaQq2KbhrZ_GHY3m-6-z1CjPRLP828ZdQS-jJKkfN8BHDBeswwYq9uSRGZfdCRgvz4JN606-1xjY9h-QtaiRvkAi2qiNc5jbSrECoHSfSOPAanrSAETSbG2gghN_mChpQvMe-xXXx932-gvKxOy0HEUAm68jELomSkXRQ1xHR9WdT4aGrE297FGajo6227uYFF0XIOS_3zub3uav_MNmH5E_IcrLM1Ilyvi8Lb1cdw0iiaZGy87T8-Dv32cPgw4KNwaelRmDpHkbViU1AH1zmx-qdg7P_oH_ptDzUIdGpe2lLnfnglOMWGkCuE09ZFVeOJsEXTrYKohA3OCIV5ssLvtLocevrVF7wR2qnpy-kftzcDjOAI2cXAQzI48irzMyrM8XfeehxMs_3lOgpDtFkMJOZpHeVfu91u2N3ig0hm6UGIKAj3w1MRstPX94kaFwImk5EqK6dpcJPKsuuH7UO7x_UYTQhXhkqIgSlj9VHDFhvtlJvyemq21yXTr0CRLwOrw1T1-rth0z2sjr1wDm7pOVTCC3zWkdRkxOt4JYSLLBuvKHFNCWj9Lmt5aFf4E9qlX7BS544rCn_petDKZe1qMMm9KldihSKvriSBaJX209M-3wzbw_4ThNDi8gw9VMrQbanhhetdIqioLtUYvvqCu6lI4V6foZtg0zRk9WOZVrAZhDdiaftOrJQRO5cFNQbSQVVRX6kAWMXgaoiU2jKWzU291n_52D70W-gPoclLj0FLx8DeyClXAQIKpzRw7CbhqUEI0fj7ve2Hh1aapKLD8vnBUcxk2asgC6rY7G-vhV-7UiKZrC99vW777fGIvuBL9jD_BSulxCbnVCP3sSEHTPRgy9FakbxJvE4oxX34ynKWMd0b-2N_2A2fOox2-mbxaVYiF6Si_eeuRxRCsm46cXzb369aODhB-8WhYqxUPbfWeRwRsNi_jzWaxZ1KsYa2pD3pOE3dyD9-gtG6Ww6iRDHx5HLlkEurTQUCSMwuTQ_5eXvb3vVP-HcvTvRipURPx5KgoeiFVeYwztTQBzeFpJwqFOlt6aq-vidBh5K6V-B6WUT1-op_orX3GT95ZG9DKo1pkLS5pj60MjOanN8O-30PZ6Pol2t63uKrKfkWVOz6kOGEMVVA-3wZCD7J9Pp6e9ftPg1b9AFtk9PSDygmwtyGo1YWGw47BKHMC5pspPtm2Haf8M9OS2_KJOadZMJzYiGhX03iJ6XSHytcBD55f1nu-Oyl-fTY7tadYDiLPe85FLiabF-0ryE5kru5gk4zccUP3f2wafd3j3v80xeLnSYx0-P4TqFIvXKtGnid0gukpi6LV8PD8K7r7jCkb5eXa5OYopGplXWxqVBVKszHCjCLT2Vo3sQH_HUYtt1mwF9vse58qpQShaJuW0F3PpTxLTFN_e5de7sWjMYuvmwrpURR-YTpPuTPNqiBY_yzv-vv2_Z21d7dCT996S-vVAHTOQsBOdsjHHONZNAopXExkkwGrXJ40ABbmy_jpCeDhvbx0L_vDzDFsuc7ZP5E-RQL9oFG7UMVOeOU_SUz8jMXPj4eD-1D-wQxYnOeOzH_0yvF2sY7Q7qxQFJ1rkoSppWRZrKRQKl27pJLPj6Mt8N2u3oSDmLxrcL3Igv3YMo1RkKEoHWjpn721_e7bgOlxPVL-Wz2d-daxaIyecJdT6u1yccaLQjOla8wFb99f2qPHfa3w2c4xegjLqaIv4Bo1xGMgi-zbzTzEfE6RTzSTF3d_9FvD7thLfxuv_R3VyIa-gIjV-h1CyHZ6ZmcPz113QP-1XrxaVeK130MvkagHWzQlzKV41_9867b9a3ws83Sn10p0PalZcxcDwsFbQDv47Of3W9b6Nq6WXzWlcJsn6yqUXnw0elLlv_4R79qd-tNd9-32wH_dOeW_vZKgba3Xug1ZIu4RRRputHk6fjQ367aLf7pZrGtixEpPfSy1kCmlGYmz7zuD-3HQTj0xVJYuVJA6ov-c4Ur3buUpiuMf_nY3h5wYVUvH-eYK5GXvHceU6PZ323T9Hn_eTdsP3U3Xbu7g4euGr_w0I2qFQTqUjHhoFsYwFjttKCvzoqfKns5-2j8Gf_eb2833Uf8Bd3SD6jrfEDjncV6Y5z1mCJ8WmGw_2n8QYXB_kYl1VQoZGjlZ7qyfzxuu-34N45O0yx89Y3iwWjp8jKY6E-SVAqmmKd-ddvvu_t2h3-3XvqzK3GFtHO6uT7AM8apS_WrLzBiJTTHs80CRR2sgkSBTj5dprjj4_yPYXi4QfF6atJiG67Ua-Gid831N8CJ6jIVu_35cLvab2C8npoXtv3cr64Us6bgZri637Sf2ofh07DHG178clSil5yU1yq0r550msP1-JUuvYN5Kn55027a2-MKfr6loshGieEqLydjp0fGvX7a9v29cN5Ls2ijVaUNO5ciHvfGZhah9JZOhUh_uT1c-aPl8GjNbDVp9cJYw0Y17Lptf0AB8fLmHqPF95-MY12qlP6ZjEZXjH_5z7vhZtM9YMX32MSlP71SDGCtzZf-_xV9H50U72BETJKwfLiE5T97c9td2236Pfx6S9UIjBZBMg7BjaGIakyFfL-0T_v104d2s4YEhLj8CdKe3jO20ZLy5-vxTBOj0HdCihybMplvshfw6XHfPsGvt5S9YbQYcbBhoUmmUejlZdleJ5HIyVuyf-j3_Ro2F8Tlj68WYxcuxIxF6i5PHdSb7tAdhrsB73fxM1Sp49B6488l3mWGjsGJIm81OZnl60_748P9sH8cEGkiLC5vGi3DW9QLHLL202Hdv3_s9ofupt1-fLhuy6YSKBXKiMs4ZV0nEtvwbr_u4Y5jXrpjMcxhPTjO6T5_txr2hwf8hUNaul-5fMcZRQj2knM33u63_fvu8KHbvO_gjt3iL1wpOglFmcNPPa_ftX37Aeu7hsWwoKlUMjMq6ioT3G3Rdp9Kcr7e3R6Oux7C6eEckMz_8Epls2CjmWbi_HtbONs3mye84bB0w-Irvme5y3F6WPUv_bbdd9tbbFlm8ReuhBsEU1qHpt6gV_1wP3zE749a7AlfkKcHuF_IK_osVngqMhs9jOT9YmlOY2oVhHIZFDH1_PzS3bW72xUM4180o2Y3bCu9l75IzOqpL_x9t9msjlu43aWz4ozVlbYbspnExt8Ox6LjDne7OK-zptZui9LOlPX2-_1Nf493u3SzlV5Jf5rmMN0wc-jvh_YAt7uURmSs-Ex-gezsZOLzz_ahvRuGA74b3OIPXOl5866IvE6Zw0_r1XBo4W6tXbrbL8hQMTnUzomof7vrfnvC2zWLP26ll80bFy_rNZ9Z7-nWPXz8BDes3dINZ_774h1rNKr5s7tsNQyHm3a_gjtWS58KV-vuVSFMD_n-89DuVsPwDuzXLWZJG3kIJS2pUwk0N6V5YPKXv-22-07SwHDLX56JYYNc37ArT4-b2vLf2tv1Q3to76ACzQsvfH7P4o1D5itBm2nu9zer7n0LN7v49ak1u85556YDva8fh81mOO6FDbulG65E0XLepEsRiPGGfx3etzs4FfhFKWt-u-L1yKomqjTNiP-2e9qtnvB2F0MMtUZhmZyxujYJqsdCqarSkJEETX726itcbcRp4TLlnKdt73W_2bQ3A7493VJf8ZVeOlekP-2U8b0ahof9StjvYkhdHhRFsjZKD7WfQnp-ae-6hyN2Frv48_LlLmG7xl-KoH92FR33a7hXs9ixKwXtp6F8ZsoUXg_r4aHf4Ed0KRPX1JoN4rQBOh_j_b49tId-vUYcSNssttxKz6h1WZ1pu_jN3_X7xyfB15Z3Dptagx2sddONzj9-3HR3cK9msaPVyjHg1LuvvuAVyNFPp65v2t27ftPtUNHOLBYwM8HU-uVxbuDfXz9t2u2-vevxjpdu-AuSFWhXJiAB0M8-8XAYdh_hbm1aul3Hb9fB7dqoL8nf4-3-tD0M28Nxs4Y7Not3zPMV8PctQgeTLYL_hBXy5T1Tpppas9bnqhPc6ffDsL1rr9zsFzS9GGG3fgZ52Wxuul3_Ww-xLd28CKHM7VmuK5DM8jJrfjo5fhwGPKFgOT01fME1buF2Qwjn_yzc7y_DsG03uDVkObslfgFdEdqEPrGnJwGT9jDs-n23fWzxV3ZLv7KsvMoahQt6ul76j8O7ft_2UuSvlrOwYq13LqDWmc_uioOw18U5siwqSmYpyTVT18TP7e7QPbR3u26_xzv2S3fsKn1dNyc6-Hq4XfV4t4tDf1nvkueUzfSBD-unmw7uVoWlu63FgAND05_3-l__DQ"
-  local decoded = LibDeflate:DecodeForPrint(compressed)
-  local decompressed = LibDeflate:DecompressDeflate(decoded)
-  UWULogsData = UWULogsData or {}
-  UWULogsData[2] = UWULogsData[2] or {}
-  UWULogsData[2][1] = assert(loadstring("return "..decompressed))()
-end
+UWULogsData = UWULogsData or {}
+UWULogsData[2] = UWULogsData[2] or {}
+UWULogsData[2][1] = {
+  ["Besterq"] = {
+    ["p"] = 100.0,
+    ["s"] = "Icecrown",
+    ["r"] = 1,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 9,
+        ["pnt"] = 9916.84,
+      },
+      ["ldw"] = {
+        ["k"] = 10,
+        ["pnt"] = 10000.0,
+      },
+      ["ds"] = {
+        ["k"] = 10,
+        ["pnt"] = 10000.0,
+      },
+      ["fg"] = {
+        ["k"] = 11,
+        ["pnt"] = 10000.0,
+      },
+      ["rf"] = {
+        ["k"] = 11,
+        ["pnt"] = 10000.0,
+      },
+      ["pp"] = {
+        ["k"] = 11,
+        ["pnt"] = 10000.0,
+      },
+      ["bpc"] = {
+        ["k"] = 11,
+        ["pnt"] = 9976.02,
+      },
+      ["bql"] = {
+        ["k"] = 11,
+        ["pnt"] = 9975.31,
+      },
+      ["sg"] = {
+        ["k"] = 11,
+        ["pnt"] = 9895.29,
+      },
+      ["lk"] = {
+        ["k"] = 10,
+        ["pnt"] = 10000.0,
+      },
+    },
+  },
+  ["Yourlastshot"] = {
+    ["p"] = 98.51,
+    ["s"] = "Icecrown",
+    ["r"] = 2,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 4,
+        ["pnt"] = 9937.63,
+      },
+      ["ldw"] = {
+        ["k"] = 4,
+        ["pnt"] = 9356.44,
+      },
+      ["ds"] = {
+        ["k"] = 4,
+        ["pnt"] = 9749.48,
+      },
+      ["fg"] = {
+        ["k"] = 3,
+        ["pnt"] = 9978.49,
+      },
+      ["rf"] = {
+        ["k"] = 3,
+        ["pnt"] = 9891.3,
+      },
+      ["pp"] = {
+        ["k"] = 2,
+        ["pnt"] = 9850.75,
+      },
+      ["bpc"] = {
+        ["k"] = 4,
+        ["pnt"] = 10000.0,
+      },
+      ["bql"] = {
+        ["k"] = 4,
+        ["pnt"] = 10000.0,
+      },
+      ["sg"] = {
+        ["k"] = 4,
+        ["pnt"] = 9738.22,
+      },
+      ["lk"] = {
+        ["k"] = 2,
+        ["pnt"] = 9777.78,
+      },
+    },
+  },
+  ["Yourlastgoat"] = {
+    ["p"] = 97.34,
+    ["s"] = "Icecrown",
+    ["r"] = 3,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 5,
+        ["pnt"] = 9812.89,
+      },
+      ["ldw"] = {
+        ["k"] = 4,
+        ["pnt"] = 9405.94,
+      },
+      ["ds"] = {
+        ["k"] = 4,
+        ["pnt"] = 9874.74,
+      },
+      ["fg"] = {
+        ["k"] = 4,
+        ["pnt"] = 9892.47,
+      },
+      ["rf"] = {
+        ["k"] = 4,
+        ["pnt"] = 9956.52,
+      },
+      ["pp"] = {
+        ["k"] = 4,
+        ["pnt"] = 8656.72,
+      },
+      ["bpc"] = {
+        ["k"] = 4,
+        ["pnt"] = 9928.06,
+      },
+      ["bql"] = {
+        ["k"] = 4,
+        ["pnt"] = 9950.62,
+      },
+      ["sg"] = {
+        ["k"] = 4,
+        ["pnt"] = 10000.0,
+      },
+      ["lk"] = {
+        ["k"] = 3,
+        ["pnt"] = 9627.33,
+      },
+    },
+  },
+  ["Piupiupowpow"] = {
+    ["p"] = 97.07,
+    ["s"] = "Icecrown",
+    ["r"] = 4,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 3,
+        ["pnt"] = 10000.0,
+      },
+      ["ldw"] = {
+        ["k"] = 3,
+        ["pnt"] = 9801.98,
+      },
+      ["ds"] = {
+        ["k"] = 3,
+        ["pnt"] = 9948.19,
+      },
+      ["fg"] = {
+        ["k"] = 3,
+        ["pnt"] = 9913.98,
+      },
+      ["rf"] = {
+        ["k"] = 3,
+        ["pnt"] = 9847.83,
+      },
+      ["pp"] = {
+        ["k"] = 3,
+        ["pnt"] = 9090.91,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 9760.19,
+      },
+      ["bql"] = {
+        ["k"] = 3,
+        ["pnt"] = 9827.16,
+      },
+      ["sg"] = {
+        ["k"] = 2,
+        ["pnt"] = 9267.02,
+      },
+      ["lk"] = {
+        ["k"] = 3,
+        ["pnt"] = 9378.88,
+      },
+    },
+  },
+  ["Mijelikki"] = {
+    ["p"] = 95.9,
+    ["s"] = "Icecrown",
+    ["r"] = 5,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 20,
+        ["pnt"] = 9958.42,
+      },
+      ["ldw"] = {
+        ["k"] = 18,
+        ["pnt"] = 9900.99,
+      },
+      ["ds"] = {
+        ["k"] = 20,
+        ["pnt"] = 9792.75,
+      },
+      ["fg"] = {
+        ["k"] = 20,
+        ["pnt"] = 9612.9,
+      },
+      ["rf"] = {
+        ["k"] = 20,
+        ["pnt"] = 9508.2,
+      },
+      ["pp"] = {
+        ["k"] = 17,
+        ["pnt"] = 9696.97,
+      },
+      ["bpc"] = {
+        ["k"] = 19,
+        ["pnt"] = 9712.23,
+      },
+      ["bql"] = {
+        ["k"] = 19,
+        ["pnt"] = 9925.93,
+      },
+      ["sg"] = {
+        ["k"] = 16,
+        ["pnt"] = 9109.95,
+      },
+      ["lk"] = {
+        ["k"] = 17,
+        ["pnt"] = 8458.0,
+      },
+    },
+  },
+  ["Jessepikmin"] = {
+    ["p"] = 95.14,
+    ["s"] = "Icecrown",
+    ["r"] = 6,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 5,
+        ["pnt"] = 9313.93,
+      },
+      ["ldw"] = {
+        ["k"] = 6,
+        ["pnt"] = 9158.42,
+      },
+      ["ds"] = {
+        ["k"] = 5,
+        ["pnt"] = 9585.49,
+      },
+      ["fg"] = {
+        ["k"] = 7,
+        ["pnt"] = 9698.92,
+      },
+      ["rf"] = {
+        ["k"] = 8,
+        ["pnt"] = 9726.78,
+      },
+      ["pp"] = {
+        ["k"] = 5,
+        ["pnt"] = 9494.95,
+      },
+      ["bpc"] = {
+        ["k"] = 9,
+        ["pnt"] = 9807.69,
+      },
+      ["bql"] = {
+        ["k"] = 9,
+        ["pnt"] = 9086.42,
+      },
+      ["sg"] = {
+        ["k"] = 8,
+        ["pnt"] = 9790.58,
+      },
+      ["lk"] = {
+        ["k"] = 9,
+        ["pnt"] = 9254.66,
+      },
+    },
+  },
+  ["Xixider"] = {
+    ["p"] = 95.13,
+    ["s"] = "Icecrown",
+    ["r"] = 7,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 17,
+        ["pnt"] = 9833.68,
+      },
+      ["ldw"] = {
+        ["k"] = 13,
+        ["pnt"] = 9504.95,
+      },
+      ["ds"] = {
+        ["k"] = 16,
+        ["pnt"] = 9707.72,
+      },
+      ["fg"] = {
+        ["k"] = 16,
+        ["pnt"] = 9591.4,
+      },
+      ["rf"] = {
+        ["k"] = 15,
+        ["pnt"] = 9289.62,
+      },
+      ["pp"] = {
+        ["k"] = 8,
+        ["pnt"] = 9797.98,
+      },
+      ["bpc"] = {
+        ["k"] = 14,
+        ["pnt"] = 8753.0,
+      },
+      ["bql"] = {
+        ["k"] = 15,
+        ["pnt"] = 9629.63,
+      },
+      ["sg"] = {
+        ["k"] = 8,
+        ["pnt"] = 9476.44,
+      },
+      ["lk"] = {
+        ["k"] = 8,
+        ["pnt"] = 9316.77,
+      },
+    },
+  },
+  ["Hierodula"] = {
+    ["p"] = 94.53,
+    ["s"] = "Icecrown",
+    ["r"] = 8,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 32,
+        ["pnt"] = 9896.05,
+      },
+      ["ldw"] = {
+        ["k"] = 19,
+        ["pnt"] = 9108.91,
+      },
+      ["ds"] = {
+        ["k"] = 33,
+        ["pnt"] = 9533.68,
+      },
+      ["fg"] = {
+        ["k"] = 32,
+        ["pnt"] = 9728.26,
+      },
+      ["rf"] = {
+        ["k"] = 32,
+        ["pnt"] = 9617.49,
+      },
+      ["pp"] = {
+        ["k"] = 24,
+        ["pnt"] = 9646.46,
+      },
+      ["bpc"] = {
+        ["k"] = 32,
+        ["pnt"] = 9448.44,
+      },
+      ["bql"] = {
+        ["k"] = 32,
+        ["pnt"] = 9753.09,
+      },
+      ["sg"] = {
+        ["k"] = 21,
+        ["pnt"] = 8376.96,
+      },
+      ["lk"] = {
+        ["k"] = 17,
+        ["pnt"] = 9192.55,
+      },
+    },
+  },
+  ["Kappahunter"] = {
+    ["p"] = 94.21,
+    ["s"] = "Icecrown",
+    ["r"] = 9,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 5,
+        ["pnt"] = 9438.67,
+      },
+      ["ldw"] = {
+        ["k"] = 3,
+        ["pnt"] = 9603.96,
+      },
+      ["ds"] = {
+        ["k"] = 3,
+        ["pnt"] = 9378.24,
+      },
+      ["fg"] = {
+        ["k"] = 5,
+        ["pnt"] = 9655.91,
+      },
+      ["rf"] = {
+        ["k"] = 3,
+        ["pnt"] = 8961.75,
+      },
+      ["pp"] = {
+        ["k"] = 3,
+        ["pnt"] = 9444.44,
+      },
+      ["bpc"] = {
+        ["k"] = 4,
+        ["pnt"] = 9496.4,
+      },
+      ["bql"] = {
+        ["k"] = 4,
+        ["pnt"] = 9703.7,
+      },
+      ["sg"] = {
+        ["k"] = 4,
+        ["pnt"] = 9424.08,
+      },
+      ["lk"] = {
+        ["k"] = 4,
+        ["pnt"] = 8881.99,
+      },
+    },
+  },
+  ["Amrandir"] = {
+    ["p"] = 93.93,
+    ["s"] = "Icecrown",
+    ["r"] = 10,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 19,
+        ["pnt"] = 9688.15,
+      },
+      ["ldw"] = {
+        ["k"] = 18,
+        ["pnt"] = 9752.48,
+      },
+      ["ds"] = {
+        ["k"] = 19,
+        ["pnt"] = 9170.98,
+      },
+      ["fg"] = {
+        ["k"] = 20,
+        ["pnt"] = 9505.38,
+      },
+      ["rf"] = {
+        ["k"] = 21,
+        ["pnt"] = 9672.13,
+      },
+      ["pp"] = {
+        ["k"] = 19,
+        ["pnt"] = 9595.96,
+      },
+      ["bpc"] = {
+        ["k"] = 19,
+        ["pnt"] = 9184.65,
+      },
+      ["bql"] = {
+        ["k"] = 19,
+        ["pnt"] = 9382.72,
+      },
+      ["sg"] = {
+        ["k"] = 20,
+        ["pnt"] = 8691.1,
+      },
+      ["lk"] = {
+        ["k"] = 18,
+        ["pnt"] = 9068.32,
+      },
+    },
+  },
+  ["Yourlastzer"] = {
+    ["p"] = 91.56,
+    ["s"] = "Icecrown",
+    ["r"] = 11,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 4,
+        ["pnt"] = 9979.21,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 8514.85,
+      },
+      ["ds"] = {
+        ["k"] = 5,
+        ["pnt"] = 9015.54,
+      },
+      ["fg"] = {
+        ["k"] = 4,
+        ["pnt"] = 9806.45,
+      },
+      ["rf"] = {
+        ["k"] = 4,
+        ["pnt"] = 9180.33,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 7910.45,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 9160.67,
+      },
+      ["bql"] = {
+        ["k"] = 3,
+        ["pnt"] = 9580.25,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 9581.15,
+      },
+      ["lk"] = {
+        ["k"] = 1,
+        ["pnt"] = 8612.19,
+      },
+    },
+  },
+  ["Jolydb"] = {
+    ["p"] = 84.86,
+    ["s"] = "Icecrown",
+    ["r"] = 12,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 8,
+        ["pnt"] = 8690.23,
+      },
+      ["ldw"] = {
+        ["k"] = 5,
+        ["pnt"] = 6959.12,
+      },
+      ["ds"] = {
+        ["k"] = 8,
+        ["pnt"] = 8911.92,
+      },
+      ["fg"] = {
+        ["k"] = 8,
+        ["pnt"] = 8750.0,
+      },
+      ["rf"] = {
+        ["k"] = 8,
+        ["pnt"] = 9562.84,
+      },
+      ["pp"] = {
+        ["k"] = 6,
+        ["pnt"] = 7462.69,
+      },
+      ["bpc"] = {
+        ["k"] = 8,
+        ["pnt"] = 9424.46,
+      },
+      ["bql"] = {
+        ["k"] = 8,
+        ["pnt"] = 9901.23,
+      },
+      ["sg"] = {
+        ["k"] = 4,
+        ["pnt"] = 8743.46,
+      },
+      ["lk"] = {
+        ["k"] = 3,
+        ["pnt"] = 6252.37,
+      },
+    },
+  },
+  ["Cinevalescu"] = {
+    ["p"] = 84.59,
+    ["s"] = "Icecrown",
+    ["r"] = 13,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 4,
+        ["pnt"] = 8578.43,
+      },
+      ["ldw"] = {
+        ["k"] = 4,
+        ["pnt"] = 9257.43,
+      },
+      ["ds"] = {
+        ["k"] = 4,
+        ["pnt"] = 9222.8,
+      },
+      ["fg"] = {
+        ["k"] = 4,
+        ["pnt"] = 8478.26,
+      },
+      ["rf"] = {
+        ["k"] = 4,
+        ["pnt"] = 9344.26,
+      },
+      ["pp"] = {
+        ["k"] = 4,
+        ["pnt"] = 8208.96,
+      },
+      ["bpc"] = {
+        ["k"] = 4,
+        ["pnt"] = 8589.74,
+      },
+      ["bql"] = {
+        ["k"] = 4,
+        ["pnt"] = 7828.95,
+      },
+      ["sg"] = {
+        ["k"] = 4,
+        ["pnt"] = 7079.75,
+      },
+      ["lk"] = {
+        ["k"] = 3,
+        ["pnt"] = 7803.41,
+      },
+    },
+  },
+  ["Critar"] = {
+    ["p"] = 82.92,
+    ["s"] = "Icecrown",
+    ["r"] = 14,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 5,
+        ["pnt"] = 8235.29,
+      },
+      ["ldw"] = {
+        ["k"] = 5,
+        ["pnt"] = 7464.79,
+      },
+      ["ds"] = {
+        ["k"] = 5,
+        ["pnt"] = 9481.87,
+      },
+      ["fg"] = {
+        ["k"] = 5,
+        ["pnt"] = 8641.3,
+      },
+      ["rf"] = {
+        ["k"] = 5,
+        ["pnt"] = 9453.55,
+      },
+      ["pp"] = {
+        ["k"] = 5,
+        ["pnt"] = 7076.22,
+      },
+      ["bpc"] = {
+        ["k"] = 5,
+        ["pnt"] = 8076.92,
+      },
+      ["bql"] = {
+        ["k"] = 5,
+        ["pnt"] = 9209.88,
+      },
+      ["sg"] = {
+        ["k"] = 5,
+        ["pnt"] = 7539.27,
+      },
+      ["lk"] = {
+        ["k"] = 5,
+        ["pnt"] = 7541.93,
+      },
+    },
+  },
+  ["Orquidio"] = {
+    ["p"] = 79.51,
+    ["s"] = "Icecrown",
+    ["r"] = 15,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 5,
+        ["pnt"] = 7549.02,
+      },
+      ["ldw"] = {
+        ["k"] = 4,
+        ["pnt"] = 6870.09,
+      },
+      ["ds"] = {
+        ["k"] = 6,
+        ["pnt"] = 8756.48,
+      },
+      ["fg"] = {
+        ["k"] = 9,
+        ["pnt"] = 8804.35,
+      },
+      ["rf"] = {
+        ["k"] = 7,
+        ["pnt"] = 9071.04,
+      },
+      ["pp"] = {
+        ["k"] = 6,
+        ["pnt"] = 7008.76,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 7820.51,
+      },
+      ["bql"] = {
+        ["k"] = 9,
+        ["pnt"] = 8814.81,
+      },
+      ["sg"] = {
+        ["k"] = 5,
+        ["pnt"] = 6825.33,
+      },
+      ["lk"] = {
+        ["k"] = 8,
+        ["pnt"] = 7798.29,
+      },
+    },
+  },
+  ["Strelac"] = {
+    ["p"] = 78.73,
+    ["s"] = "Icecrown",
+    ["r"] = 16,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 2,
+        ["pnt"] = 7401.96,
+      },
+      ["ldw"] = {
+        ["k"] = 2,
+        ["pnt"] = 7331.8,
+      },
+      ["ds"] = {
+        ["k"] = 2,
+        ["pnt"] = 8860.1,
+      },
+      ["fg"] = {
+        ["k"] = 3,
+        ["pnt"] = 9021.74,
+      },
+      ["rf"] = {
+        ["k"] = 2,
+        ["pnt"] = 7158.47,
+      },
+      ["pp"] = {
+        ["k"] = 2,
+        ["pnt"] = 6056.07,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 9640.29,
+      },
+      ["bql"] = {
+        ["k"] = 2,
+        ["pnt"] = 9135.8,
+      },
+      ["sg"] = {
+        ["k"] = 3,
+        ["pnt"] = 6866.83,
+      },
+      ["lk"] = {
+        ["k"] = 2,
+        ["pnt"] = 7070.35,
+      },
+    },
+  },
+  ["Kwicol"] = {
+    ["p"] = 77.34,
+    ["s"] = "Icecrown",
+    ["r"] = 17,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 5,
+        ["pnt"] = 7990.2,
+      },
+      ["ldw"] = {
+        ["k"] = 5,
+        ["pnt"] = 7605.63,
+      },
+      ["ds"] = {
+        ["k"] = 5,
+        ["pnt"] = 6891.19,
+      },
+      ["fg"] = {
+        ["k"] = 5,
+        ["pnt"] = 7663.04,
+      },
+      ["rf"] = {
+        ["k"] = 6,
+        ["pnt"] = 7650.27,
+      },
+      ["pp"] = {
+        ["k"] = 6,
+        ["pnt"] = 6716.34,
+      },
+      ["bpc"] = {
+        ["k"] = 5,
+        ["pnt"] = 8848.92,
+      },
+      ["bql"] = {
+        ["k"] = 6,
+        ["pnt"] = 7894.74,
+      },
+      ["sg"] = {
+        ["k"] = 5,
+        ["pnt"] = 8534.03,
+      },
+      ["lk"] = {
+        ["k"] = 6,
+        ["pnt"] = 7359.54,
+      },
+    },
+  },
+  ["Twinpeakz"] = {
+    ["p"] = 76.36,
+    ["s"] = "Icecrown",
+    ["r"] = 18,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 6355.91,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 8564.36,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 8652.85,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 8858.7,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 8797.81,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 6597.75,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 9040.77,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 5657.89,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6120.79,
+      },
+      ["lk"] = {
+        ["k"] = 1,
+        ["pnt"] = 7536.59,
+      },
+    },
+  },
+  ["Linex"] = {
+    ["p"] = 75.95,
+    ["s"] = "Icecrown",
+    ["r"] = 19,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 2,
+        ["pnt"] = 7500.0,
+      },
+      ["ldw"] = {
+        ["k"] = 2,
+        ["pnt"] = 6506.48,
+      },
+      ["ds"] = {
+        ["k"] = 2,
+        ["pnt"] = 8601.04,
+      },
+      ["fg"] = {
+        ["k"] = 2,
+        ["pnt"] = 7445.65,
+      },
+      ["rf"] = {
+        ["k"] = 2,
+        ["pnt"] = 8360.66,
+      },
+      ["pp"] = {
+        ["k"] = 2,
+        ["pnt"] = 6009.72,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 8872.9,
+      },
+      ["bql"] = {
+        ["k"] = 2,
+        ["pnt"] = 9555.56,
+      },
+      ["sg"] = {
+        ["k"] = 2,
+        ["pnt"] = 6518.98,
+      },
+      ["lk"] = {
+        ["k"] = 1,
+        ["pnt"] = 6402.05,
+      },
+    },
+  },
+  ["Donpower"] = {
+    ["p"] = 75.87,
+    ["s"] = "Icecrown",
+    ["r"] = 20,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 3,
+        ["pnt"] = 7892.16,
+      },
+      ["ldw"] = {
+        ["k"] = 3,
+        ["pnt"] = 7746.48,
+      },
+      ["ds"] = {
+        ["k"] = 3,
+        ["pnt"] = 8704.66,
+      },
+      ["fg"] = {
+        ["k"] = 3,
+        ["pnt"] = 7880.43,
+      },
+      ["rf"] = {
+        ["k"] = 3,
+        ["pnt"] = 8579.23,
+      },
+      ["pp"] = {
+        ["k"] = 3,
+        ["pnt"] = 6798.03,
+      },
+      ["bpc"] = {
+        ["k"] = 3,
+        ["pnt"] = 6794.87,
+      },
+      ["bql"] = {
+        ["k"] = 3,
+        ["pnt"] = 6710.53,
+      },
+      ["sg"] = {
+        ["k"] = 3,
+        ["pnt"] = 6421.71,
+      },
+      ["lk"] = {
+        ["k"] = 3,
+        ["pnt"] = 8161.73,
+      },
+    },
+  },
+  ["Fenaniin"] = {
+    ["p"] = 75.51,
+    ["s"] = "Icecrown",
+    ["r"] = 21,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 9264.71,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 6851.48,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 8808.29,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 9397.85,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 8907.1,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 8358.21,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 7564.1,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 9234.57,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6944.23,
+      },
+    },
+  },
+  ["Griozdas"] = {
+    ["p"] = 68.82,
+    ["s"] = "Icecrown",
+    ["r"] = 22,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 2,
+        ["pnt"] = 9563.41,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 6835.67,
+      },
+      ["ds"] = {
+        ["k"] = 2,
+        ["pnt"] = 7979.27,
+      },
+      ["fg"] = {
+        ["k"] = 2,
+        ["pnt"] = 8043.48,
+      },
+      ["rf"] = {
+        ["k"] = 2,
+        ["pnt"] = 8688.52,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 8059.7,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 6987.18,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 6907.89,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5589.32,
+      },
+    },
+  },
+  ["Paidocapi"] = {
+    ["p"] = 68.82,
+    ["s"] = "Icecrown",
+    ["r"] = 23,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 2,
+        ["pnt"] = 8480.39,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 7155.83,
+      },
+      ["ds"] = {
+        ["k"] = 2,
+        ["pnt"] = 8497.41,
+      },
+      ["fg"] = {
+        ["k"] = 2,
+        ["pnt"] = 9130.43,
+      },
+      ["rf"] = {
+        ["k"] = 2,
+        ["pnt"] = 9125.68,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 7313.43,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 4423.08,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 8518.52,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6009.13,
+      },
+    },
+  },
+  ["Ecwaseface"] = {
+    ["p"] = 67.33,
+    ["s"] = "Icecrown",
+    ["r"] = 24,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 3,
+        ["pnt"] = 7843.14,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 5591.45,
+      },
+      ["ds"] = {
+        ["k"] = 3,
+        ["pnt"] = 7720.21,
+      },
+      ["fg"] = {
+        ["k"] = 3,
+        ["pnt"] = 9184.78,
+      },
+      ["rf"] = {
+        ["k"] = 3,
+        ["pnt"] = 8469.95,
+      },
+      ["pp"] = {
+        ["k"] = 2,
+        ["pnt"] = 6759.16,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 7051.28,
+      },
+      ["bql"] = {
+        ["k"] = 2,
+        ["pnt"] = 7171.05,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 7382.2,
+      },
+    },
+  },
+  ["Creepyzmrde"] = {
+    ["p"] = 67.22,
+    ["s"] = "Icecrown",
+    ["r"] = 25,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 10,
+        ["pnt"] = 9362.75,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 6022.51,
+      },
+      ["ds"] = {
+        ["k"] = 10,
+        ["pnt"] = 7772.02,
+      },
+      ["fg"] = {
+        ["k"] = 10,
+        ["pnt"] = 8369.57,
+      },
+      ["rf"] = {
+        ["k"] = 10,
+        ["pnt"] = 8087.43,
+      },
+      ["pp"] = {
+        ["k"] = 3,
+        ["pnt"] = 7611.94,
+      },
+      ["bpc"] = {
+        ["k"] = 8,
+        ["pnt"] = 7628.21,
+      },
+      ["bql"] = {
+        ["k"] = 10,
+        ["pnt"] = 7368.42,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4833.71,
+      },
+    },
+  },
+  ["Smokinshisha"] = {
+    ["p"] = 67.03,
+    ["s"] = "Icecrown",
+    ["r"] = 26,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 2,
+        ["pnt"] = 9771.31,
+      },
+      ["ldw"] = {
+        ["k"] = 2,
+        ["pnt"] = 9851.49,
+      },
+      ["ds"] = {
+        ["k"] = 2,
+        ["pnt"] = 9637.31,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 9526.88,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 9016.39,
+      },
+      ["bql"] = {
+        ["k"] = 2,
+        ["pnt"] = 9851.85,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 9214.66,
+      },
+    },
+  },
+  ["Romakus"] = {
+    ["p"] = 67.0,
+    ["s"] = "Icecrown",
+    ["r"] = 27,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 7,
+        ["pnt"] = 8382.35,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 6318.23,
+      },
+      ["ds"] = {
+        ["k"] = 7,
+        ["pnt"] = 8963.73,
+      },
+      ["fg"] = {
+        ["k"] = 7,
+        ["pnt"] = 7010.87,
+      },
+      ["rf"] = {
+        ["k"] = 7,
+        ["pnt"] = 6519.01,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 6677.17,
+      },
+      ["bpc"] = {
+        ["k"] = 5,
+        ["pnt"] = 8269.23,
+      },
+      ["bql"] = {
+        ["k"] = 6,
+        ["pnt"] = 9654.32,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5049.49,
+      },
+    },
+  },
+  ["Lortz"] = {
+    ["p"] = 66.64,
+    ["s"] = "Icecrown",
+    ["r"] = 28,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 5,
+        ["pnt"] = 8774.51,
+      },
+      ["ldw"] = {
+        ["k"] = 3,
+        ["pnt"] = 5399.14,
+      },
+      ["ds"] = {
+        ["k"] = 4,
+        ["pnt"] = 6846.3,
+      },
+      ["fg"] = {
+        ["k"] = 7,
+        ["pnt"] = 7391.3,
+      },
+      ["rf"] = {
+        ["k"] = 7,
+        ["pnt"] = 6899.96,
+      },
+      ["pp"] = {
+        ["k"] = 5,
+        ["pnt"] = 5072.93,
+      },
+      ["bpc"] = {
+        ["k"] = 7,
+        ["pnt"] = 6666.67,
+      },
+      ["bql"] = {
+        ["k"] = 7,
+        ["pnt"] = 7697.37,
+      },
+      ["sg"] = {
+        ["k"] = 5,
+        ["pnt"] = 5943.21,
+      },
+      ["lk"] = {
+        ["k"] = 6,
+        ["pnt"] = 5791.51,
+      },
+    },
+  },
+  ["Nigmalgbt"] = {
+    ["p"] = 65.5,
+    ["s"] = "Icecrown",
+    ["r"] = 29,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 6960.78,
+      },
+      ["ldw"] = {
+        ["k"] = 2,
+        ["pnt"] = 6469.33,
+      },
+      ["ds"] = {
+        ["k"] = 2,
+        ["pnt"] = 6571.28,
+      },
+      ["fg"] = {
+        ["k"] = 2,
+        ["pnt"] = 6346.03,
+      },
+      ["rf"] = {
+        ["k"] = 2,
+        ["pnt"] = 6681.23,
+      },
+      ["pp"] = {
+        ["k"] = 2,
+        ["pnt"] = 6398.1,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 8824.94,
+      },
+      ["bql"] = {
+        ["k"] = 2,
+        ["pnt"] = 5131.58,
+      },
+      ["sg"] = {
+        ["k"] = 2,
+        ["pnt"] = 6125.0,
+      },
+      ["lk"] = {
+        ["k"] = 1,
+        ["pnt"] = 5839.48,
+      },
+    },
+  },
+  ["Shaurindra"] = {
+    ["p"] = 65.17,
+    ["s"] = "Icecrown",
+    ["r"] = 30,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 4,
+        ["pnt"] = 8186.27,
+      },
+      ["ldw"] = {
+        ["k"] = 2,
+        ["pnt"] = 6956.43,
+      },
+      ["ds"] = {
+        ["k"] = 4,
+        ["pnt"] = 7150.26,
+      },
+      ["fg"] = {
+        ["k"] = 3,
+        ["pnt"] = 7500.0,
+      },
+      ["rf"] = {
+        ["k"] = 4,
+        ["pnt"] = 7213.11,
+      },
+      ["pp"] = {
+        ["k"] = 2,
+        ["pnt"] = 6091.94,
+      },
+      ["bpc"] = {
+        ["k"] = 4,
+        ["pnt"] = 9064.75,
+      },
+      ["bql"] = {
+        ["k"] = 4,
+        ["pnt"] = 6578.95,
+      },
+      ["sg"] = {
+        ["k"] = 2,
+        ["pnt"] = 6273.46,
+      },
+    },
+  },
+  ["Ghalta"] = {
+    ["p"] = 64.86,
+    ["s"] = "Icecrown",
+    ["r"] = 31,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 5,
+        ["pnt"] = 8284.31,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 7147.0,
+      },
+      ["ds"] = {
+        ["k"] = 5,
+        ["pnt"] = 6839.8,
+      },
+      ["fg"] = {
+        ["k"] = 5,
+        ["pnt"] = 7934.78,
+      },
+      ["rf"] = {
+        ["k"] = 5,
+        ["pnt"] = 7431.69,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 6204.69,
+      },
+      ["bpc"] = {
+        ["k"] = 5,
+        ["pnt"] = 8205.13,
+      },
+      ["bql"] = {
+        ["k"] = 4,
+        ["pnt"] = 6381.58,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6278.83,
+      },
+    },
+  },
+  ["Dracarious"] = {
+    ["p"] = 62.58,
+    ["s"] = "Icecrown",
+    ["r"] = 32,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 2,
+        ["pnt"] = 4624.83,
+      },
+      ["ldw"] = {
+        ["k"] = 2,
+        ["pnt"] = 6385.98,
+      },
+      ["ds"] = {
+        ["k"] = 2,
+        ["pnt"] = 7253.89,
+      },
+      ["fg"] = {
+        ["k"] = 2,
+        ["pnt"] = 6147.92,
+      },
+      ["rf"] = {
+        ["k"] = 2,
+        ["pnt"] = 6483.15,
+      },
+      ["pp"] = {
+        ["k"] = 2,
+        ["pnt"] = 4622.66,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 8992.81,
+      },
+      ["bql"] = {
+        ["k"] = 2,
+        ["pnt"] = 5394.74,
+      },
+      ["sg"] = {
+        ["k"] = 2,
+        ["pnt"] = 6530.83,
+      },
+      ["lk"] = {
+        ["k"] = 2,
+        ["pnt"] = 5990.03,
+      },
+    },
+  },
+  ["Payfee"] = {
+    ["p"] = 60.39,
+    ["s"] = "Icecrown",
+    ["r"] = 33,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5420.68,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 6317.82,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 6322.21,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6439.04,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 6624.27,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 5672.95,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 6282.05,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 5723.68,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5098.15,
+      },
+      ["lk"] = {
+        ["k"] = 1,
+        ["pnt"] = 6342.65,
+      },
+    },
+  },
+  ["Cutbeck"] = {
+    ["p"] = 58.86,
+    ["s"] = "Icecrown",
+    ["r"] = 34,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 4,
+        ["pnt"] = 6617.65,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 4185.53,
+      },
+      ["ds"] = {
+        ["k"] = 4,
+        ["pnt"] = 8082.9,
+      },
+      ["fg"] = {
+        ["k"] = 3,
+        ["pnt"] = 6552.38,
+      },
+      ["rf"] = {
+        ["k"] = 2,
+        ["pnt"] = 6930.41,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 5233.61,
+      },
+      ["bpc"] = {
+        ["k"] = 3,
+        ["pnt"] = 4166.67,
+      },
+      ["bql"] = {
+        ["k"] = 3,
+        ["pnt"] = 6315.79,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4959.8,
+      },
+      ["lk"] = {
+        ["k"] = 1,
+        ["pnt"] = 5671.7,
+      },
+    },
+  },
+  ["Lillie"] = {
+    ["p"] = 58.48,
+    ["s"] = "Icecrown",
+    ["r"] = 35,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 18,
+        ["pnt"] = 8921.57,
+      },
+      ["ds"] = {
+        ["k"] = 20,
+        ["pnt"] = 8393.78,
+      },
+      ["fg"] = {
+        ["k"] = 17,
+        ["pnt"] = 8586.96,
+      },
+      ["rf"] = {
+        ["k"] = 17,
+        ["pnt"] = 8306.01,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 5876.2,
+      },
+      ["bpc"] = {
+        ["k"] = 16,
+        ["pnt"] = 8525.64,
+      },
+      ["bql"] = {
+        ["k"] = 16,
+        ["pnt"] = 9728.4,
+      },
+    },
+  },
+  ["Marksmanx"] = {
+    ["p"] = 53.57,
+    ["s"] = "Icecrown",
+    ["r"] = 36,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 4,
+        ["pnt"] = 6764.71,
+      },
+      ["ds"] = {
+        ["k"] = 4,
+        ["pnt"] = 6070.07,
+      },
+      ["fg"] = {
+        ["k"] = 3,
+        ["pnt"] = 6302.69,
+      },
+      ["rf"] = {
+        ["k"] = 4,
+        ["pnt"] = 6098.93,
+      },
+      ["pp"] = {
+        ["k"] = 2,
+        ["pnt"] = 6372.08,
+      },
+      ["bpc"] = {
+        ["k"] = 3,
+        ["pnt"] = 5961.54,
+      },
+      ["bql"] = {
+        ["k"] = 3,
+        ["pnt"] = 6973.68,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 3911.82,
+      },
+      ["lk"] = {
+        ["k"] = 1,
+        ["pnt"] = 4983.39,
+      },
+    },
+  },
+  ["Goodhuntt"] = {
+    ["p"] = 53.54,
+    ["s"] = "Icecrown",
+    ["r"] = 37,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 4,
+        ["pnt"] = 6094.84,
+      },
+      ["ldw"] = {
+        ["k"] = 3,
+        ["pnt"] = 5306.85,
+      },
+      ["ds"] = {
+        ["k"] = 4,
+        ["pnt"] = 6125.43,
+      },
+      ["fg"] = {
+        ["k"] = 4,
+        ["pnt"] = 5560.25,
+      },
+      ["rf"] = {
+        ["k"] = 4,
+        ["pnt"] = 5344.94,
+      },
+      ["pp"] = {
+        ["k"] = 4,
+        ["pnt"] = 6241.96,
+      },
+      ["bpc"] = {
+        ["k"] = 4,
+        ["pnt"] = 4935.9,
+      },
+      ["bql"] = {
+        ["k"] = 4,
+        ["pnt"] = 3815.79,
+      },
+      ["sg"] = {
+        ["k"] = 4,
+        ["pnt"] = 4652.76,
+      },
+      ["lk"] = {
+        ["k"] = 4,
+        ["pnt"] = 5332.88,
+      },
+    },
+  },
+  ["Tednug"] = {
+    ["p"] = 53.13,
+    ["s"] = "Icecrown",
+    ["r"] = 38,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4885.55,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 9430.05,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 9634.41,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 9826.09,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 9352.52,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 9876.54,
+      },
+    },
+  },
+  ["Crnokoplje"] = {
+    ["p"] = 52.32,
+    ["s"] = "Icecrown",
+    ["r"] = 39,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5452.32,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 5635.9,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 7098.45,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5515.33,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 5562.69,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 5102.42,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 9256.59,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 3947.37,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4626.65,
+      },
+    },
+  },
+  ["Huntil"] = {
+    ["p"] = 51.77,
+    ["s"] = "Icecrown",
+    ["r"] = 40,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 6,
+        ["pnt"] = 5486.44,
+      },
+      ["ldw"] = {
+        ["k"] = 7,
+        ["pnt"] = 5621.89,
+      },
+      ["ds"] = {
+        ["k"] = 6,
+        ["pnt"] = 5797.32,
+      },
+      ["fg"] = {
+        ["k"] = 4,
+        ["pnt"] = 4606.68,
+      },
+      ["rf"] = {
+        ["k"] = 5,
+        ["pnt"] = 5692.3,
+      },
+      ["pp"] = {
+        ["k"] = 4,
+        ["pnt"] = 5148.74,
+      },
+      ["bpc"] = {
+        ["k"] = 5,
+        ["pnt"] = 5384.62,
+      },
+      ["bql"] = {
+        ["k"] = 5,
+        ["pnt"] = 3684.21,
+      },
+      ["sg"] = {
+        ["k"] = 5,
+        ["pnt"] = 5168.02,
+      },
+      ["lk"] = {
+        ["k"] = 4,
+        ["pnt"] = 5061.75,
+      },
+    },
+  },
+  ["Mnogobiekek"] = {
+    ["p"] = 48.89,
+    ["s"] = "Icecrown",
+    ["r"] = 41,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 2,
+        ["pnt"] = 6331.88,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 4702.31,
+      },
+      ["ds"] = {
+        ["k"] = 3,
+        ["pnt"] = 7202.07,
+      },
+      ["fg"] = {
+        ["k"] = 2,
+        ["pnt"] = 6442.29,
+      },
+      ["rf"] = {
+        ["k"] = 2,
+        ["pnt"] = 7377.05,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 1537.05,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 8141.03,
+      },
+      ["bql"] = {
+        ["k"] = 2,
+        ["pnt"] = 7039.47,
+      },
+    },
+  },
+  ["Brainscored"] = {
+    ["p"] = 48.37,
+    ["s"] = "Icecrown",
+    ["r"] = 42,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5665.3,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 4181.77,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5391.03,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5311.66,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 4986.53,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 4898.6,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 8397.44,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4460.21,
+      },
+      ["lk"] = {
+        ["k"] = 1,
+        ["pnt"] = 4964.43,
+      },
+    },
+  },
+  ["Marffochka"] = {
+    ["p"] = 48.17,
+    ["s"] = "Icecrown",
+    ["r"] = 43,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 6304.97,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 9274.61,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 8315.22,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 9398.91,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 5576.92,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 9185.19,
+      },
+    },
+  },
+  ["Mistakeht"] = {
+    ["p"] = 48.01,
+    ["s"] = "Icecrown",
+    ["r"] = 44,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4751.39,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 4123.39,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5437.99,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5552.6,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 4824.13,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 4307.15,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 6153.85,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 2373.44,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5030.2,
+      },
+      ["lk"] = {
+        ["k"] = 1,
+        ["pnt"] = 5340.98,
+      },
+    },
+  },
+  ["Mehrdady"] = {
+    ["p"] = 47.47,
+    ["s"] = "Icecrown",
+    ["r"] = 45,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 3,
+        ["pnt"] = 8333.33,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 6280.24,
+      },
+      ["ds"] = {
+        ["k"] = 2,
+        ["pnt"] = 6699.84,
+      },
+      ["fg"] = {
+        ["k"] = 2,
+        ["pnt"] = 6719.74,
+      },
+      ["rf"] = {
+        ["k"] = 3,
+        ["pnt"] = 6706.83,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 7884.62,
+      },
+      ["bql"] = {
+        ["k"] = 2,
+        ["pnt"] = 4736.84,
+      },
+    },
+  },
+  ["Nokineticas"] = {
+    ["p"] = 47.44,
+    ["s"] = "Icecrown",
+    ["r"] = 46,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 5,
+        ["pnt"] = 8898.13,
+      },
+      ["ds"] = {
+        ["k"] = 5,
+        ["pnt"] = 8549.22,
+      },
+      ["fg"] = {
+        ["k"] = 7,
+        ["pnt"] = 8967.39,
+      },
+      ["rf"] = {
+        ["k"] = 7,
+        ["pnt"] = 8852.46,
+      },
+      ["bpc"] = {
+        ["k"] = 8,
+        ["pnt"] = 2948.72,
+      },
+      ["bql"] = {
+        ["k"] = 8,
+        ["pnt"] = 9111.11,
+      },
+    },
+  },
+  ["Soysenati"] = {
+    ["p"] = 47.35,
+    ["s"] = "Icecrown",
+    ["r"] = 47,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4706.73,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 4666.41,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5199.49,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5471.13,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 5721.36,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 4985.59,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 3012.82,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 4473.68,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 3786.99,
+      },
+      ["lk"] = {
+        ["k"] = 1,
+        ["pnt"] = 5210.14,
+      },
+    },
+  },
+  ["Durexy"] = {
+    ["p"] = 47.21,
+    ["s"] = "Icecrown",
+    ["r"] = 48,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 7647.06,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 6200.8,
+      },
+      ["fg"] = {
+        ["k"] = 2,
+        ["pnt"] = 8423.91,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 8032.79,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 7435.9,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 9358.02,
+      },
+    },
+  },
+  ["Pikhunttwo"] = {
+    ["p"] = 46.16,
+    ["s"] = "Icecrown",
+    ["r"] = 49,
+    ["b"] = {
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 6630.32,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6678.7,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 6674.26,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 8461.54,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 6250.0,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5749.5,
+      },
+      ["lk"] = {
+        ["k"] = 1,
+        ["pnt"] = 5611.81,
+      },
+    },
+  },
+  ["Liseth"] = {
+    ["p"] = 45.93,
+    ["s"] = "Icecrown",
+    ["r"] = 50,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 3,
+        ["pnt"] = 5277.74,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 939.89,
+      },
+      ["ds"] = {
+        ["k"] = 4,
+        ["pnt"] = 7461.14,
+      },
+      ["fg"] = {
+        ["k"] = 4,
+        ["pnt"] = 8695.65,
+      },
+      ["rf"] = {
+        ["k"] = 4,
+        ["pnt"] = 7704.92,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 5926.57,
+      },
+      ["bpc"] = {
+        ["k"] = 3,
+        ["pnt"] = 4358.97,
+      },
+      ["bql"] = {
+        ["k"] = 3,
+        ["pnt"] = 5460.53,
+      },
+    },
+  },
+  ["Polvoraseca"] = {
+    ["p"] = 45.63,
+    ["s"] = "Icecrown",
+    ["r"] = 51,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4471.05,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 5281.87,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5133.98,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6117.46,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 3763.35,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 4353.61,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 2179.49,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 3374.51,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5577.64,
+      },
+      ["lk"] = {
+        ["k"] = 1,
+        ["pnt"] = 5269.52,
+      },
+    },
+  },
+  ["Dafvck"] = {
+    ["p"] = 45.17,
+    ["s"] = "Icecrown",
+    ["r"] = 52,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 5,
+        ["pnt"] = 6131.56,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 6539.86,
+      },
+      ["ds"] = {
+        ["k"] = 5,
+        ["pnt"] = 6463.95,
+      },
+      ["fg"] = {
+        ["k"] = 4,
+        ["pnt"] = 6105.87,
+      },
+      ["rf"] = {
+        ["k"] = 4,
+        ["pnt"] = 6190.2,
+      },
+      ["bpc"] = {
+        ["k"] = 4,
+        ["pnt"] = 7115.38,
+      },
+      ["bql"] = {
+        ["k"] = 3,
+        ["pnt"] = 6513.16,
+      },
+    },
+  },
+  ["Tryane"] = {
+    ["p"] = 44.68,
+    ["s"] = "Icecrown",
+    ["r"] = 53,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 8088.24,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 6942.03,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 7512.95,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 7717.39,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 7923.5,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6391.22,
+      },
+    },
+  },
+  ["Vltavakk"] = {
+    ["p"] = 44.54,
+    ["s"] = "Icecrown",
+    ["r"] = 54,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 3971.85,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 4716.93,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 4539.58,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4451.95,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 4506.63,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 4324.74,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 6474.36,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 3128.43,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 3692.92,
+      },
+      ["lk"] = {
+        ["k"] = 1,
+        ["pnt"] = 4625.0,
+      },
+    },
+  },
+  ["Tattsu"] = {
+    ["p"] = 44.32,
+    ["s"] = "Icecrown",
+    ["r"] = 55,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 8,
+        ["pnt"] = 8039.22,
+      },
+      ["ds"] = {
+        ["k"] = 8,
+        ["pnt"] = 8186.53,
+      },
+      ["fg"] = {
+        ["k"] = 7,
+        ["pnt"] = 8097.83,
+      },
+      ["rf"] = {
+        ["k"] = 6,
+        ["pnt"] = 8415.3,
+      },
+      ["bpc"] = {
+        ["k"] = 6,
+        ["pnt"] = 2435.9,
+      },
+      ["bql"] = {
+        ["k"] = 5,
+        ["pnt"] = 9037.04,
+      },
+    },
+  },
+  ["Vitka"] = {
+    ["p"] = 43.47,
+    ["s"] = "Icecrown",
+    ["r"] = 56,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 9215.69,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 7616.58,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6996.09,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 6968.06,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 7243.59,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 5328.95,
+      },
+    },
+  },
+  ["Mesher"] = {
+    ["p"] = 43.34,
+    ["s"] = "Icecrown",
+    ["r"] = 57,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4943.57,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 4723.23,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5971.6,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5999.97,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 5402.0,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 4278.45,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 3717.95,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 3241.03,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4957.65,
+      },
+    },
+  },
+  ["Drunkendog"] = {
+    ["p"] = 42.15,
+    ["s"] = "Icecrown",
+    ["r"] = 58,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 2,
+        ["pnt"] = 7696.08,
+      },
+      ["ds"] = {
+        ["k"] = 4,
+        ["pnt"] = 7305.7,
+      },
+      ["fg"] = {
+        ["k"] = 4,
+        ["pnt"] = 7173.91,
+      },
+      ["rf"] = {
+        ["k"] = 3,
+        ["pnt"] = 8196.72,
+      },
+      ["bpc"] = {
+        ["k"] = 3,
+        ["pnt"] = 3589.74,
+      },
+      ["bql"] = {
+        ["k"] = 3,
+        ["pnt"] = 8092.11,
+      },
+    },
+  },
+  ["Ookotsu"] = {
+    ["p"] = 41.77,
+    ["s"] = "Icecrown",
+    ["r"] = 59,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4928.94,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 5628.3,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5556.23,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4950.97,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 5084.19,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 4208.28,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 4230.77,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 3268.72,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 3814.05,
+      },
+    },
+  },
+  ["Jodeljosef"] = {
+    ["p"] = 41.51,
+    ["s"] = "Icecrown",
+    ["r"] = 60,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5655.52,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 8238.34,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 7608.7,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 8251.37,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 6858.97,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 4802.63,
+      },
+    },
+  },
+  ["Slowbro"] = {
+    ["p"] = 41.46,
+    ["s"] = "Icecrown",
+    ["r"] = 61,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 3,
+        ["pnt"] = 9521.83,
+      },
+      ["ldw"] = {
+        ["k"] = 3,
+        ["pnt"] = 7284.26,
+      },
+      ["ds"] = {
+        ["k"] = 3,
+        ["pnt"] = 9896.37,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 7868.85,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 6794.17,
+      },
+    },
+  },
+  ["Keyranged"] = {
+    ["p"] = 41.27,
+    ["s"] = "Icecrown",
+    ["r"] = 62,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 3,
+        ["pnt"] = 7205.88,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 6613.42,
+      },
+      ["ds"] = {
+        ["k"] = 3,
+        ["pnt"] = 6994.82,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6679.57,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 7267.76,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 6410.26,
+      },
+    },
+  },
+  ["Beastzord"] = {
+    ["p"] = 41.09,
+    ["s"] = "Icecrown",
+    ["r"] = 63,
+    ["b"] = {
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 7826.09,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 7814.21,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 9551.28,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 8864.2,
+      },
+      ["lk"] = {
+        ["k"] = 1,
+        ["pnt"] = 6934.59,
+      },
+    },
+  },
+  ["Dinophile"] = {
+    ["p"] = 40.82,
+    ["s"] = "Icecrown",
+    ["r"] = 64,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 7303.92,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 6122.12,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6160.12,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 6654.96,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 5355.26,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 3333.33,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 5789.47,
+      },
+    },
+  },
+  ["Tusknar"] = {
+    ["p"] = 40.64,
+    ["s"] = "Icecrown",
+    ["r"] = 65,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 8835.76,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 7357.51,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 7228.26,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 6998.99,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 7500.0,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 2626.8,
+      },
+    },
+  },
+  ["Shybow"] = {
+    ["p"] = 40.26,
+    ["s"] = "Icecrown",
+    ["r"] = 66,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 7745.1,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 6546.51,
+      },
+      ["fg"] = {
+        ["k"] = 2,
+        ["pnt"] = 6468.82,
+      },
+      ["rf"] = {
+        ["k"] = 2,
+        ["pnt"] = 6070.55,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 5769.23,
+      },
+      ["bql"] = {
+        ["k"] = 2,
+        ["pnt"] = 7565.79,
+      },
+    },
+  },
+  ["Nurhack"] = {
+    ["p"] = 39.63,
+    ["s"] = "Icecrown",
+    ["r"] = 67,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 4,
+        ["pnt"] = 7794.12,
+      },
+      ["ds"] = {
+        ["k"] = 4,
+        ["pnt"] = 6943.01,
+      },
+      ["fg"] = {
+        ["k"] = 5,
+        ["pnt"] = 6669.78,
+      },
+      ["rf"] = {
+        ["k"] = 5,
+        ["pnt"] = 7540.98,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 2564.1,
+      },
+      ["bql"] = {
+        ["k"] = 3,
+        ["pnt"] = 8026.32,
+      },
+    },
+  },
+  ["Loupine"] = {
+    ["p"] = 39.62,
+    ["s"] = "Icecrown",
+    ["r"] = 68,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5778.3,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 6095.65,
+      },
+      ["fg"] = {
+        ["k"] = 2,
+        ["pnt"] = 6841.21,
+      },
+      ["rf"] = {
+        ["k"] = 3,
+        ["pnt"] = 6907.33,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 6602.56,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 7302.63,
+      },
+    },
+  },
+  ["Shoe"] = {
+    ["p"] = 39.43,
+    ["s"] = "Icecrown",
+    ["r"] = 69,
+    ["b"] = {
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 7823.83,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 8913.04,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 7486.34,
+      },
+      ["pp"] = {
+        ["k"] = 3,
+        ["pnt"] = 8507.46,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6606.65,
+      },
+    },
+  },
+  ["Demoniaca"] = {
+    ["p"] = 39.26,
+    ["s"] = "Icecrown",
+    ["r"] = 70,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 7450.98,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 7564.77,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 8532.61,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 7322.4,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 2243.59,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 6052.63,
+      },
+    },
+  },
+  ["Freyrmd"] = {
+    ["p"] = 38.87,
+    ["s"] = "Icecrown",
+    ["r"] = 71,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 3769.1,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 4676.91,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5023.06,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4843.07,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 4512.0,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 4038.19,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 2918.7,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4000.24,
+      },
+      ["lk"] = {
+        ["k"] = 1,
+        ["pnt"] = 5000.87,
+      },
+    },
+  },
+  ["Oewy"] = {
+    ["p"] = 38.79,
+    ["s"] = "Icecrown",
+    ["r"] = 72,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4304.25,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 5267.24,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 4388.83,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4177.24,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 1406.96,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 2310.83,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 5192.31,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 2816.37,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 3698.82,
+      },
+      ["lk"] = {
+        ["k"] = 1,
+        ["pnt"] = 5132.72,
+      },
+    },
+  },
+  ["Omaha"] = {
+    ["p"] = 38.61,
+    ["s"] = "Icecrown",
+    ["r"] = 73,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 3,
+        ["pnt"] = 7598.04,
+      },
+      ["ds"] = {
+        ["k"] = 4,
+        ["pnt"] = 6549.52,
+      },
+      ["fg"] = {
+        ["k"] = 3,
+        ["pnt"] = 6712.85,
+      },
+      ["rf"] = {
+        ["k"] = 3,
+        ["pnt"] = 6884.23,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 5705.13,
+      },
+      ["bql"] = {
+        ["k"] = 2,
+        ["pnt"] = 5065.79,
+      },
+    },
+  },
+  ["Gunhildah"] = {
+    ["p"] = 38.48,
+    ["s"] = "Icecrown",
+    ["r"] = 74,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 8,
+        ["pnt"] = 7941.18,
+      },
+      ["ds"] = {
+        ["k"] = 9,
+        ["pnt"] = 6089.22,
+      },
+      ["fg"] = {
+        ["k"] = 9,
+        ["pnt"] = 6388.98,
+      },
+      ["rf"] = {
+        ["k"] = 9,
+        ["pnt"] = 6679.93,
+      },
+      ["bpc"] = {
+        ["k"] = 9,
+        ["pnt"] = 3525.64,
+      },
+      ["bql"] = {
+        ["k"] = 8,
+        ["pnt"] = 7763.16,
+      },
+    },
+  },
+  ["Beastbender"] = {
+    ["p"] = 38.3,
+    ["s"] = "Icecrown",
+    ["r"] = 75,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 3,
+        ["pnt"] = 7254.9,
+      },
+      ["ds"] = {
+        ["k"] = 3,
+        ["pnt"] = 6200.08,
+      },
+      ["fg"] = {
+        ["k"] = 3,
+        ["pnt"] = 6251.18,
+      },
+      ["rf"] = {
+        ["k"] = 2,
+        ["pnt"] = 6708.1,
+      },
+      ["bpc"] = {
+        ["k"] = 3,
+        ["pnt"] = 6923.08,
+      },
+      ["bql"] = {
+        ["k"] = 3,
+        ["pnt"] = 4868.42,
+      },
+    },
+  },
+  ["Agishot"] = {
+    ["p"] = 37.94,
+    ["s"] = "Icecrown",
+    ["r"] = 76,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 4,
+        ["pnt"] = 5955.94,
+      },
+      ["ds"] = {
+        ["k"] = 4,
+        ["pnt"] = 5350.13,
+      },
+      ["fg"] = {
+        ["k"] = 4,
+        ["pnt"] = 6199.36,
+      },
+      ["rf"] = {
+        ["k"] = 4,
+        ["pnt"] = 5727.07,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 3387.93,
+      },
+      ["bpc"] = {
+        ["k"] = 4,
+        ["pnt"] = 5641.03,
+      },
+      ["bql"] = {
+        ["k"] = 4,
+        ["pnt"] = 5592.11,
+      },
+    },
+  },
+  ["Asamm"] = {
+    ["p"] = 37.71,
+    ["s"] = "Icecrown",
+    ["r"] = 77,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 2,
+        ["pnt"] = 6813.73,
+      },
+      ["ds"] = {
+        ["k"] = 2,
+        ["pnt"] = 6498.38,
+      },
+      ["fg"] = {
+        ["k"] = 2,
+        ["pnt"] = 6399.95,
+      },
+      ["rf"] = {
+        ["k"] = 2,
+        ["pnt"] = 6300.39,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 6346.15,
+      },
+      ["bql"] = {
+        ["k"] = 2,
+        ["pnt"] = 5263.16,
+      },
+    },
+  },
+  ["Huntadre"] = {
+    ["p"] = 37.4,
+    ["s"] = "Icecrown",
+    ["r"] = 78,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 3,
+        ["pnt"] = 9168.4,
+      },
+      ["ldw"] = {
+        ["k"] = 2,
+        ["pnt"] = 9702.97,
+      },
+      ["ds"] = {
+        ["k"] = 2,
+        ["pnt"] = 9067.36,
+      },
+      ["sg"] = {
+        ["k"] = 2,
+        ["pnt"] = 9371.73,
+      },
+    },
+  },
+  ["Puteribulan"] = {
+    ["p"] = 37.35,
+    ["s"] = "Icecrown",
+    ["r"] = 79,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 3992.02,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 8134.72,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 7554.35,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 8633.88,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 2500.0,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 6447.37,
+      },
+    },
+  },
+  ["Krallenn"] = {
+    ["p"] = 37.32,
+    ["s"] = "Icecrown",
+    ["r"] = 80,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 4,
+        ["pnt"] = 7352.94,
+      },
+      ["ds"] = {
+        ["k"] = 3,
+        ["pnt"] = 6683.76,
+      },
+      ["fg"] = {
+        ["k"] = 3,
+        ["pnt"] = 7771.74,
+      },
+      ["rf"] = {
+        ["k"] = 3,
+        ["pnt"] = 6791.67,
+      },
+      ["bpc"] = {
+        ["k"] = 3,
+        ["pnt"] = 4551.28,
+      },
+      ["bql"] = {
+        ["k"] = 3,
+        ["pnt"] = 4078.95,
+      },
+    },
+  },
+  ["Peka"] = {
+    ["p"] = 36.96,
+    ["s"] = "Icecrown",
+    ["r"] = 81,
+    ["b"] = {
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 8445.6,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6974.58,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 6021.11,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 8962.96,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6464.14,
+      },
+    },
+  },
+  ["Abithunt"] = {
+    ["p"] = 36.89,
+    ["s"] = "Icecrown",
+    ["r"] = 82,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 9019.61,
+      },
+      ["fg"] = {
+        ["k"] = 2,
+        ["pnt"] = 9290.32,
+      },
+      ["rf"] = {
+        ["k"] = 2,
+        ["pnt"] = 9234.97,
+      },
+      ["bql"] = {
+        ["k"] = 2,
+        ["pnt"] = 9259.26,
+      },
+    },
+  },
+  ["Drunkenpanda"] = {
+    ["p"] = 36.81,
+    ["s"] = "Icecrown",
+    ["r"] = 83,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5518.35,
+      },
+      ["ds"] = {
+        ["k"] = 2,
+        ["pnt"] = 6214.14,
+      },
+      ["fg"] = {
+        ["k"] = 2,
+        ["pnt"] = 6868.39,
+      },
+      ["rf"] = {
+        ["k"] = 2,
+        ["pnt"] = 6908.05,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 3782.05,
+      },
+      ["bql"] = {
+        ["k"] = 2,
+        ["pnt"] = 7434.21,
+      },
+    },
+  },
+  ["Dragonlash"] = {
+    ["p"] = 35.52,
+    ["s"] = "Icecrown",
+    ["r"] = 84,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5788.35,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 6015.34,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4801.9,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 7595.63,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 5246.24,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 5986.84,
+      },
+    },
+  },
+  ["Iilhunter"] = {
+    ["p"] = 35.34,
+    ["s"] = "Icecrown",
+    ["r"] = 85,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 6862.75,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5835.41,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6925.12,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 7049.18,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 3910.26,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 4671.05,
+      },
+    },
+  },
+  ["Arrowhood"] = {
+    ["p"] = 35.31,
+    ["s"] = "Icecrown",
+    ["r"] = 86,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 4,
+        ["pnt"] = 6271.3,
+      },
+      ["ds"] = {
+        ["k"] = 4,
+        ["pnt"] = 6267.91,
+      },
+      ["fg"] = {
+        ["k"] = 5,
+        ["pnt"] = 6139.27,
+      },
+      ["rf"] = {
+        ["k"] = 4,
+        ["pnt"] = 6328.37,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 6730.77,
+      },
+      ["bql"] = {
+        ["k"] = 2,
+        ["pnt"] = 3486.84,
+      },
+    },
+  },
+  ["Arrowhunt"] = {
+    ["p"] = 35.05,
+    ["s"] = "Icecrown",
+    ["r"] = 87,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 8431.37,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 8465.35,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 9119.17,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 8952.88,
+      },
+    },
+  },
+  ["Daveimdog"] = {
+    ["p"] = 34.8,
+    ["s"] = "Icecrown",
+    ["r"] = 88,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 2,
+        ["pnt"] = 6271.98,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5726.53,
+      },
+      ["fg"] = {
+        ["k"] = 2,
+        ["pnt"] = 6747.22,
+      },
+      ["rf"] = {
+        ["k"] = 2,
+        ["pnt"] = 6091.29,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 1923.08,
+      },
+      ["bql"] = {
+        ["k"] = 2,
+        ["pnt"] = 7960.53,
+      },
+    },
+  },
+  ["Nightcreeper"] = {
+    ["p"] = 34.63,
+    ["s"] = "Icecrown",
+    ["r"] = 89,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 6715.69,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 6498.22,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 7282.61,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 6945.18,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 7105.26,
+      },
+    },
+  },
+  ["Karahoo"] = {
+    ["p"] = 33.93,
+    ["s"] = "Icecrown",
+    ["r"] = 90,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5824.89,
+      },
+      ["ds"] = {
+        ["k"] = 2,
+        ["pnt"] = 6536.18,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6535.15,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 5696.0,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 5833.33,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 3421.05,
+      },
+    },
+  },
+  ["Deepbmrawr"] = {
+    ["p"] = 33.88,
+    ["s"] = "Icecrown",
+    ["r"] = 91,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 2885.19,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 6839.0,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 7119.57,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 6271.25,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 4038.46,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 6644.74,
+      },
+    },
+  },
+  ["Lolokohunter"] = {
+    ["p"] = 33.53,
+    ["s"] = "Icecrown",
+    ["r"] = 92,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 2,
+        ["pnt"] = 6011.83,
+      },
+      ["ds"] = {
+        ["k"] = 2,
+        ["pnt"] = 5843.94,
+      },
+      ["fg"] = {
+        ["k"] = 2,
+        ["pnt"] = 6071.22,
+      },
+      ["rf"] = {
+        ["k"] = 2,
+        ["pnt"] = 4172.86,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 8012.82,
+      },
+      ["bql"] = {
+        ["k"] = 2,
+        ["pnt"] = 3334.0,
+      },
+    },
+  },
+  ["Killtoxhunt"] = {
+    ["p"] = 33.27,
+    ["s"] = "Icecrown",
+    ["r"] = 93,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 7107.84,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 6726.27,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 8206.52,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 2686.7,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 961.54,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 7500.0,
+      },
+    },
+  },
+  ["Moscoww"] = {
+    ["p"] = 33.26,
+    ["s"] = "Icecrown",
+    ["r"] = 94,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5508.32,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5715.22,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6353.62,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 6649.16,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 4615.38,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 4342.11,
+      },
+    },
+  },
+  ["Overloaded"] = {
+    ["p"] = 32.98,
+    ["s"] = "Icecrown",
+    ["r"] = 95,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 3,
+        ["pnt"] = 8544.7,
+      },
+      ["ds"] = {
+        ["k"] = 2,
+        ["pnt"] = 6855.79,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6932.91,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 3389.29,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 7179.49,
+      },
+    },
+  },
+  ["Glontul"] = {
+    ["p"] = 32.82,
+    ["s"] = "Icecrown",
+    ["r"] = 96,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5507.15,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5536.09,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5171.44,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 3556.15,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 4611.31,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 5000.0,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 3363.4,
+      },
+    },
+  },
+  ["Blazth"] = {
+    ["p"] = 32.73,
+    ["s"] = "Icecrown",
+    ["r"] = 97,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 4,
+        ["pnt"] = 6105.07,
+      },
+      ["ds"] = {
+        ["k"] = 4,
+        ["pnt"] = 5659.4,
+      },
+      ["fg"] = {
+        ["k"] = 4,
+        ["pnt"] = 5851.16,
+      },
+      ["rf"] = {
+        ["k"] = 4,
+        ["pnt"] = 6324.72,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 5525.68,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 1217.95,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 1964.5,
+      },
+    },
+  },
+  ["Despised"] = {
+    ["p"] = 32.66,
+    ["s"] = "Icecrown",
+    ["r"] = 98,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5363.77,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5494.37,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5773.99,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 6095.21,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 5448.72,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 4407.89,
+      },
+    },
+  },
+  ["Controlone"] = {
+    ["p"] = 32.55,
+    ["s"] = "Icecrown",
+    ["r"] = 99,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5211.44,
+      },
+      ["ds"] = {
+        ["k"] = 2,
+        ["pnt"] = 5353.16,
+      },
+      ["fg"] = {
+        ["k"] = 2,
+        ["pnt"] = 5614.63,
+      },
+      ["rf"] = {
+        ["k"] = 2,
+        ["pnt"] = 4230.59,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 6538.46,
+      },
+      ["bql"] = {
+        ["k"] = 2,
+        ["pnt"] = 5526.32,
+      },
+    },
+  },
+  ["Kapitantutan"] = {
+    ["p"] = 32.52,
+    ["s"] = "Icecrown",
+    ["r"] = 100,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 2,
+        ["pnt"] = 6059.81,
+      },
+      ["ds"] = {
+        ["k"] = 2,
+        ["pnt"] = 5837.63,
+      },
+      ["fg"] = {
+        ["k"] = 2,
+        ["pnt"] = 6627.04,
+      },
+      ["rf"] = {
+        ["k"] = 2,
+        ["pnt"] = 6369.19,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 1630.7,
+      },
+      ["bql"] = {
+        ["k"] = 2,
+        ["pnt"] = 5921.05,
+      },
+    },
+  },
+  ["Pikhuntone"] = {
+    ["p"] = 32.41,
+    ["s"] = "Icecrown",
+    ["r"] = 101,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5144.25,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 6631.8,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5998.05,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 4668.23,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 2361.33,
+      },
+      ["lk"] = {
+        ["k"] = 1,
+        ["pnt"] = 7525.48,
+      },
+    },
+  },
+  ["Diorsniper"] = {
+    ["p"] = 32.33,
+    ["s"] = "Icecrown",
+    ["r"] = 102,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 2,
+        ["pnt"] = 6129.98,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5228.92,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6238.12,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 6208.25,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 3846.15,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 4605.26,
+      },
+    },
+  },
+  ["Kamchatka"] = {
+    ["p"] = 32.1,
+    ["s"] = "Icecrown",
+    ["r"] = 103,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4704.65,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 8341.97,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 3985.13,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 7756.41,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 7236.84,
+      },
+    },
+  },
+  ["Yourlastsama"] = {
+    ["p"] = 32.05,
+    ["s"] = "Icecrown",
+    ["r"] = 104,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 8970.59,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 8290.16,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6734.13,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 7978.14,
+      },
+    },
+  },
+  ["Kevanyne"] = {
+    ["p"] = 31.75,
+    ["s"] = "Icecrown",
+    ["r"] = 105,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 2462.41,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 3753.95,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 3757.39,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 3668.55,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 3736.47,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 3214.32,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 3974.36,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 2399.98,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 765.49,
+      },
+      ["lk"] = {
+        ["k"] = 1,
+        ["pnt"] = 3943.7,
+      },
+    },
+  },
+  ["Gwarpati"] = {
+    ["p"] = 31.73,
+    ["s"] = "Icecrown",
+    ["r"] = 106,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 2,
+        ["pnt"] = 2534.03,
+      },
+      ["ds"] = {
+        ["k"] = 2,
+        ["pnt"] = 6357.46,
+      },
+      ["fg"] = {
+        ["k"] = 2,
+        ["pnt"] = 6613.03,
+      },
+      ["rf"] = {
+        ["k"] = 2,
+        ["pnt"] = 6278.99,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 4679.49,
+      },
+      ["bql"] = {
+        ["k"] = 2,
+        ["pnt"] = 5197.37,
+      },
+    },
+  },
+  ["Dragoman"] = {
+    ["p"] = 31.57,
+    ["s"] = "Icecrown",
+    ["r"] = 107,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4427.57,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 4773.97,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5164.16,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4683.58,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 4116.59,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 4031.7,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 1346.15,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 2953.05,
+      },
+    },
+  },
+  ["Pethithard"] = {
+    ["p"] = 31.5,
+    ["s"] = "Icecrown",
+    ["r"] = 108,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5441.93,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 6554.96,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6372.53,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 5440.42,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 4294.87,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 3324.1,
+      },
+    },
+  },
+  ["Worstjkbestx"] = {
+    ["p"] = 31.46,
+    ["s"] = "Icecrown",
+    ["r"] = 109,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 3100.23,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5741.93,
+      },
+      ["fg"] = {
+        ["k"] = 2,
+        ["pnt"] = 6568.35,
+      },
+      ["rf"] = {
+        ["k"] = 3,
+        ["pnt"] = 6520.18,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 6089.74,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 3367.27,
+      },
+    },
+  },
+  ["Hakeneye"] = {
+    ["p"] = 31.29,
+    ["s"] = "Icecrown",
+    ["r"] = 110,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 6666.67,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 8031.09,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 7989.13,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 8524.59,
+      },
+    },
+  },
+  ["Snipshot"] = {
+    ["p"] = 30.8,
+    ["s"] = "Icecrown",
+    ["r"] = 111,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 9126.82,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 6685.52,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 7486.91,
+      },
+      ["lk"] = {
+        ["k"] = 1,
+        ["pnt"] = 7431.3,
+      },
+    },
+  },
+  ["Moonsunlight"] = {
+    ["p"] = 30.73,
+    ["s"] = "Icecrown",
+    ["r"] = 112,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 2,
+        ["pnt"] = 5063.52,
+      },
+      ["ds"] = {
+        ["k"] = 2,
+        ["pnt"] = 5312.55,
+      },
+      ["fg"] = {
+        ["k"] = 3,
+        ["pnt"] = 6110.8,
+      },
+      ["rf"] = {
+        ["k"] = 2,
+        ["pnt"] = 5772.81,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 3461.54,
+      },
+      ["bql"] = {
+        ["k"] = 2,
+        ["pnt"] = 4934.21,
+      },
+    },
+  },
+  ["Mypetdoesit"] = {
+    ["p"] = 30.19,
+    ["s"] = "Icecrown",
+    ["r"] = 113,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4943.1,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 4850.18,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5864.47,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 5381.05,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 4871.79,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 4210.53,
+      },
+    },
+  },
+  ["Vivahunt"] = {
+    ["p"] = 28.46,
+    ["s"] = "Icecrown",
+    ["r"] = 114,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 2,
+        ["pnt"] = 6421.57,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 2108.72,
+      },
+      ["ds"] = {
+        ["k"] = 3,
+        ["pnt"] = 7046.63,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6181.74,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 6632.91,
+      },
+    },
+  },
+  ["Troldepus"] = {
+    ["p"] = 28.42,
+    ["s"] = "Icecrown",
+    ["r"] = 115,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4529.17,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 3019.67,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 4121.36,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 3803.01,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 5092.86,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 4184.58,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 576.92,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 2709.78,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 312.5,
+      },
+    },
+  },
+  ["Hoblihunt"] = {
+    ["p"] = 28.2,
+    ["s"] = "Icecrown",
+    ["r"] = 116,
+    ["b"] = {
+      ["ldw"] = {
+        ["k"] = 2,
+        ["pnt"] = 4806.35,
+      },
+      ["ds"] = {
+        ["k"] = 3,
+        ["pnt"] = 6481.64,
+      },
+      ["fg"] = {
+        ["k"] = 3,
+        ["pnt"] = 6809.47,
+      },
+      ["rf"] = {
+        ["k"] = 3,
+        ["pnt"] = 6480.53,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 3552.63,
+      },
+    },
+  },
+  ["Maeda"] = {
+    ["p"] = 28.19,
+    ["s"] = "Icecrown",
+    ["r"] = 117,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5473.69,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5589.49,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6264.96,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 5797.55,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 2051.28,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 2950.72,
+      },
+    },
+  },
+  ["Pek"] = {
+    ["p"] = 28.15,
+    ["s"] = "Icecrown",
+    ["r"] = 118,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 2,
+        ["pnt"] = 5525.91,
+      },
+      ["ds"] = {
+        ["k"] = 2,
+        ["pnt"] = 5110.94,
+      },
+      ["fg"] = {
+        ["k"] = 2,
+        ["pnt"] = 5234.05,
+      },
+      ["rf"] = {
+        ["k"] = 2,
+        ["pnt"] = 5077.82,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 4102.56,
+      },
+      ["bql"] = {
+        ["k"] = 2,
+        ["pnt"] = 3034.08,
+      },
+    },
+  },
+  ["Pukacho"] = {
+    ["p"] = 28.14,
+    ["s"] = "Icecrown",
+    ["r"] = 119,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5882.24,
+      },
+      ["ldw"] = {
+        ["k"] = 2,
+        ["pnt"] = 5531.55,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5627.03,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 3434.39,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 4537.76,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 3063.18,
+      },
+    },
+  },
+  ["Kacelia"] = {
+    ["p"] = 27.91,
+    ["s"] = "Icecrown",
+    ["r"] = 120,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5842.62,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 6824.23,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 8260.87,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 6911.67,
+      },
+    },
+  },
+  ["Necrodoll"] = {
+    ["p"] = 27.75,
+    ["s"] = "Icecrown",
+    ["r"] = 121,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4909.23,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 4344.03,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 4933.47,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4143.74,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 4454.51,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 2884.62,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 815.95,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 1204.15,
+      },
+    },
+  },
+  ["Beastrasta"] = {
+    ["p"] = 27.66,
+    ["s"] = "Icecrown",
+    ["r"] = 122,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 3,
+        ["pnt"] = 6152.41,
+      },
+      ["ds"] = {
+        ["k"] = 3,
+        ["pnt"] = 5324.52,
+      },
+      ["fg"] = {
+        ["k"] = 2,
+        ["pnt"] = 5565.28,
+      },
+      ["rf"] = {
+        ["k"] = 3,
+        ["pnt"] = 4205.64,
+      },
+      ["bpc"] = {
+        ["k"] = 3,
+        ["pnt"] = 3205.13,
+      },
+      ["bql"] = {
+        ["k"] = 3,
+        ["pnt"] = 3136.86,
+      },
+    },
+  },
+  ["Runangun"] = {
+    ["p"] = 27.3,
+    ["s"] = "Icecrown",
+    ["r"] = 123,
+    ["b"] = {
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6461.08,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 6967.67,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 7692.31,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 6118.42,
+      },
+    },
+  },
+  ["Cruciator"] = {
+    ["p"] = 27.25,
+    ["s"] = "Icecrown",
+    ["r"] = 124,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5756.57,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5425.8,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 5463.62,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 7371.79,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 3169.75,
+      },
+    },
+  },
+  ["Truesight"] = {
+    ["p"] = 26.09,
+    ["s"] = "Icecrown",
+    ["r"] = 125,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5257.73,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 4913.44,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5135.09,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 4840.42,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 3076.92,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 2803.34,
+      },
+    },
+  },
+  ["Direktori"] = {
+    ["p"] = 26.01,
+    ["s"] = "Icecrown",
+    ["r"] = 126,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5325.23,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5926.73,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6295.96,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 3397.44,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 5000.0,
+      },
+    },
+  },
+  ["Felp"] = {
+    ["p"] = 25.64,
+    ["s"] = "Icecrown",
+    ["r"] = 127,
+    ["b"] = {
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 9076.09,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 8743.17,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 7761.19,
+      },
+    },
+  },
+  ["Superboni"] = {
+    ["p"] = 25.36,
+    ["s"] = "Icecrown",
+    ["r"] = 128,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4419.63,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 4409.99,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4375.81,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 4631.2,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 4743.59,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 2725.01,
+      },
+    },
+  },
+  ["Leewarmane"] = {
+    ["p"] = 25.34,
+    ["s"] = "Icecrown",
+    ["r"] = 129,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4366.72,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5365.34,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4422.25,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 5805.75,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 2307.69,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 3009.22,
+      },
+    },
+  },
+  ["Wardanhunter"] = {
+    ["p"] = 25.03,
+    ["s"] = "Icecrown",
+    ["r"] = 130,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 2,
+        ["pnt"] = 5982.78,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 6485.11,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4744.37,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 7759.56,
+      },
+    },
+  },
+  ["Shamzuka"] = {
+    ["p"] = 25.02,
+    ["s"] = "Icecrown",
+    ["r"] = 131,
+    ["b"] = {
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 6762.47,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 7065.22,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 3506.61,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 7631.58,
+      },
+    },
+  },
+  ["Uchihasasuke"] = {
+    ["p"] = 24.51,
+    ["s"] = "Icecrown",
+    ["r"] = 132,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4417.02,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 4568.36,
+      },
+      ["fg"] = {
+        ["k"] = 2,
+        ["pnt"] = 5546.19,
+      },
+      ["rf"] = {
+        ["k"] = 2,
+        ["pnt"] = 5107.95,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 1730.77,
+      },
+      ["bql"] = {
+        ["k"] = 2,
+        ["pnt"] = 3077.71,
+      },
+    },
+  },
+  ["Jemiola"] = {
+    ["p"] = 24.27,
+    ["s"] = "Icecrown",
+    ["r"] = 133,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5575.86,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5334.77,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6708.47,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 6588.33,
+      },
+    },
+  },
+  ["Qvesho"] = {
+    ["p"] = 23.7,
+    ["s"] = "Icecrown",
+    ["r"] = 134,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5439.8,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5014.18,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5081.35,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 5041.5,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 3066.62,
+      },
+    },
+  },
+  ["Aquriena"] = {
+    ["p"] = 23.65,
+    ["s"] = "Icecrown",
+    ["r"] = 135,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5148.27,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 3848.58,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 1743.64,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5375.78,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 2340.89,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 5093.44,
+      },
+      ["lk"] = {
+        ["k"] = 1,
+        ["pnt"] = 42.49,
+      },
+    },
+  },
+  ["Expansedshot"] = {
+    ["p"] = 23.59,
+    ["s"] = "Icecrown",
+    ["r"] = 136,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4925.66,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 4911.84,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5030.0,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 5326.49,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 769.23,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 2569.49,
+      },
+    },
+  },
+  ["Miafeyx"] = {
+    ["p"] = 23.46,
+    ["s"] = "Icecrown",
+    ["r"] = 137,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 2250.81,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 1920.6,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 2671.5,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 3180.88,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 2791.93,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 2479.03,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 1798.56,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 1590.13,
+      },
+      ["sg"] = {
+        ["k"] = 2,
+        ["pnt"] = 2099.81,
+      },
+      ["lk"] = {
+        ["k"] = 1,
+        ["pnt"] = 2617.86,
+      },
+    },
+  },
+  ["Nitehunt"] = {
+    ["p"] = 23.3,
+    ["s"] = "Icecrown",
+    ["r"] = 138,
+    ["b"] = {
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5088.19,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5763.48,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 6012.56,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 2628.21,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 3750.0,
+      },
+    },
+  },
+  ["Ejl"] = {
+    ["p"] = 23.09,
+    ["s"] = "Icecrown",
+    ["r"] = 139,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5580.5,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5522.73,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6068.53,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 5859.5,
+      },
+    },
+  },
+  ["Neonhunnt"] = {
+    ["p"] = 23.0,
+    ["s"] = "Icecrown",
+    ["r"] = 140,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5114.87,
+      },
+      ["ds"] = {
+        ["k"] = 2,
+        ["pnt"] = 5319.75,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4609.11,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 4595.22,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 3305.42,
+      },
+    },
+  },
+  ["Pechenywka"] = {
+    ["p"] = 22.79,
+    ["s"] = "Icecrown",
+    ["r"] = 141,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 2,
+        ["pnt"] = 4259.67,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 3120.93,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 3366.52,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 1139.13,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 4333.16,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 3269.23,
+      },
+      ["bql"] = {
+        ["k"] = 2,
+        ["pnt"] = 3248.77,
+      },
+    },
+  },
+  ["Itadakimas"] = {
+    ["p"] = 22.71,
+    ["s"] = "Icecrown",
+    ["r"] = 142,
+    ["b"] = {
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5232.97,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5122.95,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 5375.3,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 3653.85,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 3267.88,
+      },
+    },
+  },
+  ["Hawkstone"] = {
+    ["p"] = 22.55,
+    ["s"] = "Icecrown",
+    ["r"] = 143,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 3930.85,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5713.38,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6622.34,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 6233.9,
+      },
+    },
+  },
+  ["Dodjidodji"] = {
+    ["p"] = 22.35,
+    ["s"] = "Icecrown",
+    ["r"] = 144,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5400.28,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5149.93,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6204.36,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 5546.81,
+      },
+    },
+  },
+  ["Harmarrow"] = {
+    ["p"] = 22.34,
+    ["s"] = "Icecrown",
+    ["r"] = 145,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 7009.8,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5231.9,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 6079.86,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 1153.85,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 2808.11,
+      },
+    },
+  },
+  ["Goldeneg"] = {
+    ["p"] = 22.13,
+    ["s"] = "Icecrown",
+    ["r"] = 146,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 2,
+        ["pnt"] = 8137.25,
+      },
+      ["ldw"] = {
+        ["k"] = 2,
+        ["pnt"] = 6060.46,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 7875.65,
+      },
+    },
+  },
+  ["Phenoms"] = {
+    ["p"] = 21.92,
+    ["s"] = "Icecrown",
+    ["r"] = 147,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 3044.66,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 2574.3,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 3760.94,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 3415.85,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 3810.95,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 2650.06,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 1563.72,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 1051.56,
+      },
+    },
+  },
+  ["Hugebaby"] = {
+    ["p"] = 21.83,
+    ["s"] = "Icecrown",
+    ["r"] = 148,
+    ["b"] = {
+      ["ds"] = {
+        ["k"] = 2,
+        ["pnt"] = 5841.35,
+      },
+      ["fg"] = {
+        ["k"] = 2,
+        ["pnt"] = 5944.63,
+      },
+      ["rf"] = {
+        ["k"] = 2,
+        ["pnt"] = 5976.28,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 4013.16,
+      },
+    },
+  },
+  ["Cutielayne"] = {
+    ["p"] = 21.69,
+    ["s"] = "Icecrown",
+    ["r"] = 149,
+    ["b"] = {
+      ["fg"] = {
+        ["k"] = 3,
+        ["pnt"] = 6323.28,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 5974.33,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 5064.1,
+      },
+      ["bql"] = {
+        ["k"] = 2,
+        ["pnt"] = 4276.32,
+      },
+    },
+  },
+  ["Rexarina"] = {
+    ["p"] = 21.54,
+    ["s"] = "Icecrown",
+    ["r"] = 150,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 3585.14,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 944.6,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 3944.97,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4069.31,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 2729.87,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 6217.95,
+      },
+    },
+  },
+  ["Liahunter"] = {
+    ["p"] = 21.38,
+    ["s"] = "Icecrown",
+    ["r"] = 151,
+    ["b"] = {
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 7927.46,
+      },
+      ["rf"] = {
+        ["k"] = 2,
+        ["pnt"] = 8142.08,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 5256.41,
+      },
+    },
+  },
+  ["Shichiibukai"] = {
+    ["p"] = 20.75,
+    ["s"] = "Icecrown",
+    ["r"] = 152,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 2,
+        ["pnt"] = 4184.23,
+      },
+      ["ldw"] = {
+        ["k"] = 2,
+        ["pnt"] = 3703.62,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 3478.22,
+      },
+      ["fg"] = {
+        ["k"] = 2,
+        ["pnt"] = 3051.27,
+      },
+      ["rf"] = {
+        ["k"] = 2,
+        ["pnt"] = 4262.59,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 2020.3,
+      },
+    },
+  },
+  ["Fofobate"] = {
+    ["p"] = 20.5,
+    ["s"] = "Icecrown",
+    ["r"] = 153,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4729.96,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 4831.74,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 2947.78,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 5117.82,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 2820.51,
+      },
+    },
+  },
+  ["Kyarinaku"] = {
+    ["p"] = 20.32,
+    ["s"] = "Icecrown",
+    ["r"] = 154,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 3336.03,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 4195.49,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4474.62,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 4330.6,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 833.33,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 3101.19,
+      },
+    },
+  },
+  ["Yeech"] = {
+    ["p"] = 20.16,
+    ["s"] = "Icecrown",
+    ["r"] = 155,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4869.51,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 3832.21,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4959.39,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 3468.28,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 705.13,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 2277.47,
+      },
+    },
+  },
+  ["Filae"] = {
+    ["p"] = 19.96,
+    ["s"] = "Icecrown",
+    ["r"] = 156,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 6260.9,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5341.97,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5539.74,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 2772.29,
+      },
+    },
+  },
+  ["Shotinside"] = {
+    ["p"] = 19.89,
+    ["s"] = "Icecrown",
+    ["r"] = 157,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 2563.65,
+      },
+      ["ds"] = {
+        ["k"] = 2,
+        ["pnt"] = 4344.59,
+      },
+      ["fg"] = {
+        ["k"] = 2,
+        ["pnt"] = 4749.2,
+      },
+      ["rf"] = {
+        ["k"] = 2,
+        ["pnt"] = 4210.76,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 897.44,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 3074.65,
+      },
+    },
+  },
+  ["Longlegsy"] = {
+    ["p"] = 19.56,
+    ["s"] = "Icecrown",
+    ["r"] = 158,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 2,
+        ["pnt"] = 5200.95,
+      },
+      ["ds"] = {
+        ["k"] = 2,
+        ["pnt"] = 5035.48,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4912.55,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 4368.35,
+      },
+    },
+  },
+  ["Maknuk"] = {
+    ["p"] = 19.16,
+    ["s"] = "Icecrown",
+    ["r"] = 159,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4606.35,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 4238.14,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 2651.28,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 4413.54,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 512.82,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 2689.85,
+      },
+    },
+  },
+  ["Agilus"] = {
+    ["p"] = 18.69,
+    ["s"] = "Icecrown",
+    ["r"] = 160,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5794.39,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 4797.83,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 2572.62,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 5477.95,
+      },
+    },
+  },
+  ["Analbow"] = {
+    ["p"] = 18.66,
+    ["s"] = "Icecrown",
+    ["r"] = 161,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4938.57,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 4343.21,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5127.9,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 4205.88,
+      },
+    },
+  },
+  ["Sixpointtwo"] = {
+    ["p"] = 18.48,
+    ["s"] = "Icecrown",
+    ["r"] = 162,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 9106.03,
+      },
+      ["ds"] = {
+        ["k"] = 4,
+        ["pnt"] = 9326.42,
+      },
+    },
+  },
+  ["Ziminini"] = {
+    ["p"] = 18.31,
+    ["s"] = "Icecrown",
+    ["r"] = 163,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 3669.9,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 3470.14,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 3933.09,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 3642.85,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 1410.26,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 2140.95,
+      },
+    },
+  },
+  ["Wcboy"] = {
+    ["p"] = 17.91,
+    ["s"] = "Icecrown",
+    ["r"] = 164,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 2,
+        ["pnt"] = 5431.77,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 4535.76,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4717.19,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 3179.63,
+      },
+    },
+  },
+  ["Terrorc"] = {
+    ["p"] = 17.82,
+    ["s"] = "Icecrown",
+    ["r"] = 165,
+    ["b"] = {
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 8152.17,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 2466.38,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 7164.18,
+      },
+    },
+  },
+  ["Pkmnmaster"] = {
+    ["p"] = 17.75,
+    ["s"] = "Icecrown",
+    ["r"] = 166,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 2538.0,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 4769.95,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5172.23,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 5228.66,
+      },
+    },
+  },
+  ["Golemhui"] = {
+    ["p"] = 17.74,
+    ["s"] = "Icecrown",
+    ["r"] = 167,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5917.41,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5502.62,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6276.94,
+      },
+    },
+  },
+  ["Beastratah"] = {
+    ["p"] = 17.3,
+    ["s"] = "Icecrown",
+    ["r"] = 168,
+    ["b"] = {
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 4118.87,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4914.52,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 5017.87,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 192.31,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 3015.37,
+      },
+    },
+  },
+  ["Montsze"] = {
+    ["p"] = 17.16,
+    ["s"] = "Icecrown",
+    ["r"] = 169,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 3262.61,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 6070.71,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5143.78,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 2638.65,
+      },
+    },
+  },
+  ["Naedalor"] = {
+    ["p"] = 17.0,
+    ["s"] = "Icecrown",
+    ["r"] = 170,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4498.47,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 4006.68,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4764.08,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 3685.48,
+      },
+    },
+  },
+  ["Examine"] = {
+    ["p"] = 16.9,
+    ["s"] = "Icecrown",
+    ["r"] = 171,
+    ["b"] = {
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6289.62,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 5060.63,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 5512.82,
+      },
+    },
+  },
+  ["Siomaihunt"] = {
+    ["p"] = 16.57,
+    ["s"] = "Icecrown",
+    ["r"] = 172,
+    ["b"] = {
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 6093.47,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 5897.44,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 4539.47,
+      },
+    },
+  },
+  ["Akainuu"] = {
+    ["p"] = 15.76,
+    ["s"] = "Icecrown",
+    ["r"] = 173,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 2998.77,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 3696.27,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4410.63,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 4620.31,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 0.0,
+      },
+    },
+  },
+  ["Nitrozeus"] = {
+    ["p"] = 15.6,
+    ["s"] = "Icecrown",
+    ["r"] = 174,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 8725.49,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 6834.63,
+      },
+    },
+  },
+  ["Sighaia"] = {
+    ["p"] = 15.3,
+    ["s"] = "Icecrown",
+    ["r"] = 175,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 3345.71,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 4257.19,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4087.81,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 3575.82,
+      },
+    },
+  },
+  ["Nzh"] = {
+    ["p"] = 14.91,
+    ["s"] = "Icecrown",
+    ["r"] = 176,
+    ["b"] = {
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 6922.36,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 7948.72,
+      },
+    },
+  },
+  ["Scadiy"] = {
+    ["p"] = 14.74,
+    ["s"] = "Icecrown",
+    ["r"] = 177,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 1702.68,
+      },
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 1242.57,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 2064.84,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 2309.15,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 1628.62,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 320.51,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 1559.77,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 1846.83,
+      },
+      ["lk"] = {
+        ["k"] = 1,
+        ["pnt"] = 2029.22,
+      },
+    },
+  },
+  ["Fossill"] = {
+    ["p"] = 14.63,
+    ["s"] = "Icecrown",
+    ["r"] = 178,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4464.17,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 4769.17,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 5367.19,
+      },
+    },
+  },
+  ["Anderzon"] = {
+    ["p"] = 13.98,
+    ["s"] = "Icecrown",
+    ["r"] = 179,
+    ["b"] = {
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 7103.83,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 6842.11,
+      },
+    },
+  },
+  ["Conez"] = {
+    ["p"] = 13.84,
+    ["s"] = "Icecrown",
+    ["r"] = 180,
+    ["b"] = {
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6341.9,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 1606.71,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 5855.26,
+      },
+    },
+  },
+  ["Szparken"] = {
+    ["p"] = 13.63,
+    ["s"] = "Icecrown",
+    ["r"] = 181,
+    ["b"] = {
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 7409.33,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6185.82,
+      },
+    },
+  },
+  ["Legolasdps"] = {
+    ["p"] = 13.51,
+    ["s"] = "Icecrown",
+    ["r"] = 182,
+    ["b"] = {
+      ["fg"] = {
+        ["k"] = 2,
+        ["pnt"] = 6506.31,
+      },
+      ["rf"] = {
+        ["k"] = 2,
+        ["pnt"] = 6974.09,
+      },
+    },
+  },
+  ["Domofeeder"] = {
+    ["p"] = 13.48,
+    ["s"] = "Icecrown",
+    ["r"] = 183,
+    ["b"] = {
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 3347.6,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4277.08,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 5828.1,
+      },
+    },
+  },
+  ["Toonelo"] = {
+    ["p"] = 13.36,
+    ["s"] = "Icecrown",
+    ["r"] = 184,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 6568.63,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 6756.78,
+      },
+    },
+  },
+  ["Trackr"] = {
+    ["p"] = 13.34,
+    ["s"] = "Icecrown",
+    ["r"] = 185,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 7058.82,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 6251.27,
+      },
+    },
+  },
+  ["Gigaachadd"] = {
+    ["p"] = 13.3,
+    ["s"] = "Icecrown",
+    ["r"] = 186,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 1992.68,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 3779.19,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 2001.38,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 3304.2,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 2192.81,
+      },
+    },
+  },
+  ["Captivity"] = {
+    ["p"] = 13.08,
+    ["s"] = "Icecrown",
+    ["r"] = 187,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 3,
+        ["pnt"] = 7156.86,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5895.55,
+      },
+    },
+  },
+  ["Tuputamaye"] = {
+    ["p"] = 12.99,
+    ["s"] = "Icecrown",
+    ["r"] = 188,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 2542.82,
+      },
+      ["ds"] = {
+        ["k"] = 2,
+        ["pnt"] = 5244.62,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 1025.64,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 4144.74,
+      },
+    },
+  },
+  ["Sonnhy"] = {
+    ["p"] = 12.93,
+    ["s"] = "Icecrown",
+    ["r"] = 189,
+    ["b"] = {
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6289.25,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 6611.04,
+      },
+    },
+  },
+  ["Agrella"] = {
+    ["p"] = 12.61,
+    ["s"] = "Icecrown",
+    ["r"] = 190,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4307.45,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 3857.97,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4412.69,
+      },
+    },
+  },
+  ["Hunteroscopp"] = {
+    ["p"] = 12.56,
+    ["s"] = "Icecrown",
+    ["r"] = 191,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 2,
+        ["pnt"] = 6519.61,
+      },
+      ["ds"] = {
+        ["k"] = 2,
+        ["pnt"] = 6012.21,
+      },
+    },
+  },
+  ["Zintrok"] = {
+    ["p"] = 12.55,
+    ["s"] = "Icecrown",
+    ["r"] = 192,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5834.03,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 6683.15,
+      },
+    },
+  },
+  ["Oyeem"] = {
+    ["p"] = 12.16,
+    ["s"] = "Icecrown",
+    ["r"] = 193,
+    ["b"] = {
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5765.08,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 6361.73,
+      },
+    },
+  },
+  ["Preria"] = {
+    ["p"] = 12.12,
+    ["s"] = "Icecrown",
+    ["r"] = 194,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5959.27,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 6128.87,
+      },
+    },
+  },
+  ["Pinap"] = {
+    ["p"] = 11.6,
+    ["s"] = "Icecrown",
+    ["r"] = 195,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5830.71,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5741.54,
+      },
+    },
+  },
+  ["Darklegiano"] = {
+    ["p"] = 11.44,
+    ["s"] = "Icecrown",
+    ["r"] = 196,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5352.21,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 6060.45,
+      },
+    },
+  },
+  ["Mayumichan"] = {
+    ["p"] = 11.22,
+    ["s"] = "Icecrown",
+    ["r"] = 197,
+    ["b"] = {
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 7307.69,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 3881.58,
+      },
+    },
+  },
+  ["Kitaxoo"] = {
+    ["p"] = 11.13,
+    ["s"] = "Icecrown",
+    ["r"] = 198,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5617.03,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5488.63,
+      },
+    },
+  },
+  ["Exactus"] = {
+    ["p"] = 11.01,
+    ["s"] = "Icecrown",
+    ["r"] = 199,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5545.26,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 5438.58,
+      },
+    },
+  },
+  ["Bronzebeardo"] = {
+    ["p"] = 10.53,
+    ["s"] = "Icecrown",
+    ["r"] = 200,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4159.79,
+      },
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 3141.03,
+      },
+      ["bql"] = {
+        ["k"] = 2,
+        ["pnt"] = 3203.02,
+      },
+    },
+  },
+  ["Vinclex"] = {
+    ["p"] = 10.4,
+    ["s"] = "Icecrown",
+    ["r"] = 201,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 2543.94,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 2122.23,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 2569.87,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 2080.3,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 1057.47,
+      },
+    },
+  },
+  ["Nuneng"] = {
+    ["p"] = 10.26,
+    ["s"] = "Icecrown",
+    ["r"] = 202,
+    ["b"] = {
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5482.76,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 4756.9,
+      },
+    },
+  },
+  ["Naisegar"] = {
+    ["p"] = 10.1,
+    ["s"] = "Icecrown",
+    ["r"] = 203,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 1441.7,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 2240.32,
+      },
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 2060.9,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 2474.38,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 1858.97,
+      },
+    },
+  },
+  ["Zoomba"] = {
+    ["p"] = 8.86,
+    ["s"] = "Icecrown",
+    ["r"] = 205,
+    ["b"] = {
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4754.7,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 4087.5,
+      },
+    },
+  },
+  ["Btchslap"] = {
+    ["p"] = 8.67,
+    ["s"] = "Icecrown",
+    ["r"] = 206,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 8648.65,
+      },
+    },
+  },
+  ["Cazamozos"] = {
+    ["p"] = 8.64,
+    ["s"] = "Icecrown",
+    ["r"] = 207,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 3585.39,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 3930.65,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 1106.98,
+      },
+    },
+  },
+  ["Malacuh"] = {
+    ["p"] = 8.35,
+    ["s"] = "Icecrown",
+    ["r"] = 208,
+    ["b"] = {
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 8333.33,
+      },
+    },
+  },
+  ["Kyniigos"] = {
+    ["p"] = 8.12,
+    ["s"] = "Icecrown",
+    ["r"] = 210,
+    ["b"] = {
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 4487.18,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 3618.42,
+      },
+    },
+  },
+  ["Ect"] = {
+    ["p"] = 8.12,
+    ["s"] = "Icecrown",
+    ["r"] = 211,
+    ["b"] = {
+      ["lk"] = {
+        ["k"] = 1,
+        ["pnt"] = 8104.91,
+      },
+    },
+  },
+  ["Morenito"] = {
+    ["p"] = 7.74,
+    ["s"] = "Icecrown",
+    ["r"] = 212,
+    ["b"] = {
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 4807.69,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 2909.11,
+      },
+    },
+  },
+  ["Problemone"] = {
+    ["p"] = 7.7,
+    ["s"] = "Icecrown",
+    ["r"] = 213,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 3339.98,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 4184.94,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 156.25,
+      },
+    },
+  },
+  ["Zaraelis"] = {
+    ["p"] = 7.69,
+    ["s"] = "Icecrown",
+    ["r"] = 214,
+    ["b"] = {
+      ["ds"] = {
+        ["k"] = 2,
+        ["pnt"] = 7668.39,
+      },
+    },
+  },
+  ["Rayskywalker"] = {
+    ["p"] = 7.64,
+    ["s"] = "Icecrown",
+    ["r"] = 215,
+    ["b"] = {
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 2617.98,
+      },
+      ["rf"] = {
+        ["k"] = 1,
+        ["pnt"] = 2778.47,
+      },
+      ["pp"] = {
+        ["k"] = 1,
+        ["pnt"] = 2223.56,
+      },
+    },
+  },
+  ["Gypsay"] = {
+    ["p"] = 7.48,
+    ["s"] = "Icecrown",
+    ["r"] = 216,
+    ["b"] = {
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 1282.05,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 6184.21,
+      },
+    },
+  },
+  ["Mimisikuu"] = {
+    ["p"] = 7.35,
+    ["s"] = "Icecrown",
+    ["r"] = 217,
+    ["b"] = {
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 7336.96,
+      },
+    },
+  },
+  ["Metetodo"] = {
+    ["p"] = 7.32,
+    ["s"] = "Icecrown",
+    ["r"] = 218,
+    ["b"] = {
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 3525.99,
+      },
+      ["rf"] = {
+        ["k"] = 2,
+        ["pnt"] = 3772.77,
+      },
+    },
+  },
+  ["Azsumgospod"] = {
+    ["p"] = 6.93,
+    ["s"] = "Icecrown",
+    ["r"] = 219,
+    ["b"] = {
+      ["lk"] = {
+        ["k"] = 1,
+        ["pnt"] = 6915.98,
+      },
+    },
+  },
+  ["Xxestebanxm"] = {
+    ["p"] = 6.93,
+    ["s"] = "Icecrown",
+    ["r"] = 220,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 6911.76,
+      },
+    },
+  },
+  ["Legolofski"] = {
+    ["p"] = 6.79,
+    ["s"] = "Icecrown",
+    ["r"] = 221,
+    ["b"] = {
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 6776.32,
+      },
+    },
+  },
+  ["Ghostmm"] = {
+    ["p"] = 6.68,
+    ["s"] = "Icecrown",
+    ["r"] = 222,
+    ["b"] = {
+      ["lk"] = {
+        ["k"] = 1,
+        ["pnt"] = 6663.31,
+      },
+    },
+  },
+  ["Fivetwelve"] = {
+    ["p"] = 6.49,
+    ["s"] = "Icecrown",
+    ["r"] = 223,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 6470.59,
+      },
+    },
+  },
+  ["Gaiawate"] = {
+    ["p"] = 6.4,
+    ["s"] = "Icecrown",
+    ["r"] = 224,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 2071.02,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 4313.13,
+      },
+    },
+  },
+  ["Arcturius"] = {
+    ["p"] = 6.39,
+    ["s"] = "Icecrown",
+    ["r"] = 225,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 6372.55,
+      },
+    },
+  },
+  ["Xanderbly"] = {
+    ["p"] = 6.36,
+    ["s"] = "Icecrown",
+    ["r"] = 226,
+    ["b"] = {
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 6347.62,
+      },
+    },
+  },
+  ["Rinasence"] = {
+    ["p"] = 6.29,
+    ["s"] = "Icecrown",
+    ["r"] = 227,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 6275.87,
+      },
+    },
+  },
+  ["Diogoxd"] = {
+    ["p"] = 6.04,
+    ["s"] = "Icecrown",
+    ["r"] = 228,
+    ["b"] = {
+      ["bpc"] = {
+        ["k"] = 6,
+        ["pnt"] = 6025.64,
+      },
+    },
+  },
+  ["Mysteriis"] = {
+    ["p"] = 5.96,
+    ["s"] = "Icecrown",
+    ["r"] = 229,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5941.36,
+      },
+    },
+  },
+  ["Redarcher"] = {
+    ["p"] = 5.88,
+    ["s"] = "Icecrown",
+    ["r"] = 230,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5869.14,
+      },
+    },
+  },
+  ["Hellhun"] = {
+    ["p"] = 5.71,
+    ["s"] = "Icecrown",
+    ["r"] = 231,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5692.9,
+      },
+    },
+  },
+  ["Souichi"] = {
+    ["p"] = 5.69,
+    ["s"] = "Icecrown",
+    ["r"] = 232,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5679.6,
+      },
+    },
+  },
+  ["Missbig"] = {
+    ["p"] = 5.6,
+    ["s"] = "Icecrown",
+    ["r"] = 233,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5585.19,
+      },
+    },
+  },
+  ["Antigoat"] = {
+    ["p"] = 5.55,
+    ["s"] = "Icecrown",
+    ["r"] = 234,
+    ["b"] = {
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 5539.21,
+      },
+    },
+  },
+  ["Yamadoots"] = {
+    ["p"] = 5.46,
+    ["s"] = "Icecrown",
+    ["r"] = 235,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5444.56,
+      },
+    },
+  },
+  ["Okhota"] = {
+    ["p"] = 5.33,
+    ["s"] = "Icecrown",
+    ["r"] = 236,
+    ["b"] = {
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 5320.51,
+      },
+    },
+  },
+  ["Frejya"] = {
+    ["p"] = 5.26,
+    ["s"] = "Icecrown",
+    ["r"] = 237,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5247.38,
+      },
+    },
+  },
+  ["Archertxz"] = {
+    ["p"] = 5.14,
+    ["s"] = "Icecrown",
+    ["r"] = 239,
+    ["b"] = {
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 5128.21,
+      },
+    },
+  },
+  ["Shootbash"] = {
+    ["p"] = 5.08,
+    ["s"] = "Icecrown",
+    ["r"] = 241,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 5066.86,
+      },
+    },
+  },
+  ["Boarhoof"] = {
+    ["p"] = 4.99,
+    ["s"] = "Icecrown",
+    ["r"] = 243,
+    ["b"] = {
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 1987.18,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 2992.86,
+      },
+    },
+  },
+  ["Senseihunt"] = {
+    ["p"] = 4.69,
+    ["s"] = "Icecrown",
+    ["r"] = 245,
+    ["b"] = {
+      ["ldw"] = {
+        ["k"] = 1,
+        ["pnt"] = 4679.46,
+      },
+    },
+  },
+  ["Jackmatador"] = {
+    ["p"] = 4.62,
+    ["s"] = "Icecrown",
+    ["r"] = 246,
+    ["b"] = {
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 4612.74,
+      },
+    },
+  },
+  ["Cheva"] = {
+    ["p"] = 4.55,
+    ["s"] = "Icecrown",
+    ["r"] = 247,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4544.36,
+      },
+    },
+  },
+  ["Apollousa"] = {
+    ["p"] = 4.54,
+    ["s"] = "Icecrown",
+    ["r"] = 248,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4528.49,
+      },
+    },
+  },
+  ["Tovaras"] = {
+    ["p"] = 4.52,
+    ["s"] = "Icecrown",
+    ["r"] = 249,
+    ["b"] = {
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 4508.04,
+      },
+    },
+  },
+  ["Feyrhys"] = {
+    ["p"] = 4.49,
+    ["s"] = "Icecrown",
+    ["r"] = 250,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 299.55,
+      },
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 2759.72,
+      },
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 1089.74,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 234.06,
+      },
+      ["sg"] = {
+        ["k"] = 1,
+        ["pnt"] = 99.49,
+      },
+    },
+  },
+  ["Killabot"] = {
+    ["p"] = 4.44,
+    ["s"] = "Icecrown",
+    ["r"] = 251,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4431.34,
+      },
+    },
+  },
+  ["Doomshot"] = {
+    ["p"] = 4.35,
+    ["s"] = "Icecrown",
+    ["r"] = 252,
+    ["b"] = {
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 4341.53,
+      },
+    },
+  },
+  ["Rademus"] = {
+    ["p"] = 4.34,
+    ["s"] = "Icecrown",
+    ["r"] = 254,
+    ["b"] = {
+      ["ds"] = {
+        ["k"] = 1,
+        ["pnt"] = 4325.28,
+      },
+    },
+  },
+  ["Tusk"] = {
+    ["p"] = 4.29,
+    ["s"] = "Icecrown",
+    ["r"] = 255,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4276.24,
+      },
+    },
+  },
+  ["Kokomilr"] = {
+    ["p"] = 4.13,
+    ["s"] = "Icecrown",
+    ["r"] = 256,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 4124.84,
+      },
+    },
+  },
+  ["Statikkx"] = {
+    ["p"] = 3.5,
+    ["s"] = "Icecrown",
+    ["r"] = 257,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 3490.01,
+      },
+    },
+  },
+  ["Crispyshot"] = {
+    ["p"] = 3.36,
+    ["s"] = "Icecrown",
+    ["r"] = 258,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 2,
+        ["pnt"] = 3348.1,
+      },
+    },
+  },
+  ["Nxled"] = {
+    ["p"] = 3.24,
+    ["s"] = "Icecrown",
+    ["r"] = 259,
+    ["b"] = {
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 256.41,
+      },
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 2975.56,
+      },
+    },
+  },
+  ["Marfilero"] = {
+    ["p"] = 2.76,
+    ["s"] = "Icecrown",
+    ["r"] = 262,
+    ["b"] = {
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 2756.41,
+      },
+    },
+  },
+  ["Izlansadi"] = {
+    ["p"] = 2.7,
+    ["s"] = "Icecrown",
+    ["r"] = 263,
+    ["b"] = {
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 2692.31,
+      },
+    },
+  },
+  ["Motorx"] = {
+    ["p"] = 2.38,
+    ["s"] = "Icecrown",
+    ["r"] = 264,
+    ["b"] = {
+      ["bpc"] = {
+        ["k"] = 4,
+        ["pnt"] = 2371.79,
+      },
+    },
+  },
+  ["Ontontulk"] = {
+    ["p"] = 2.28,
+    ["s"] = "Icecrown",
+    ["r"] = 265,
+    ["b"] = {
+      ["ds"] = {
+        ["k"] = 2,
+        ["pnt"] = 2277.69,
+      },
+    },
+  },
+  ["Yuu"] = {
+    ["p"] = 2.12,
+    ["s"] = "Icecrown",
+    ["r"] = 266,
+    ["b"] = {
+      ["lm"] = {
+        ["k"] = 1,
+        ["pnt"] = 2116.4,
+      },
+    },
+  },
+  ["Hoonda"] = {
+    ["p"] = 2.12,
+    ["s"] = "Icecrown",
+    ["r"] = 267,
+    ["b"] = {
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 2115.38,
+      },
+    },
+  },
+  ["Allberijita"] = {
+    ["p"] = 1.81,
+    ["s"] = "Icecrown",
+    ["r"] = 268,
+    ["b"] = {
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 1808.6,
+      },
+    },
+  },
+  ["Japooni"] = {
+    ["p"] = 1.67,
+    ["s"] = "Icecrown",
+    ["r"] = 269,
+    ["b"] = {
+      ["bpc"] = {
+        ["k"] = 3,
+        ["pnt"] = 1666.67,
+      },
+    },
+  },
+  ["Roonaldo"] = {
+    ["p"] = 1.48,
+    ["s"] = "Icecrown",
+    ["r"] = 270,
+    ["b"] = {
+      ["bpc"] = {
+        ["k"] = 2,
+        ["pnt"] = 1474.36,
+      },
+    },
+  },
+  ["Satorisenpai"] = {
+    ["p"] = 1.47,
+    ["s"] = "Icecrown",
+    ["r"] = 271,
+    ["b"] = {
+      ["bql"] = {
+        ["k"] = 1,
+        ["pnt"] = 1461.13,
+      },
+    },
+  },
+  ["Wtfisaimshot"] = {
+    ["p"] = 0.64,
+    ["s"] = "Icecrown",
+    ["r"] = 272,
+    ["b"] = {
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 641.03,
+      },
+    },
+  },
+  ["Htot"] = {
+    ["p"] = 0.49,
+    ["s"] = "Icecrown",
+    ["r"] = 273,
+    ["b"] = {
+      ["fg"] = {
+        ["k"] = 1,
+        ["pnt"] = 484.8,
+      },
+    },
+  },
+  ["Partemadress"] = {
+    ["p"] = 0.45,
+    ["s"] = "Icecrown",
+    ["r"] = 274,
+    ["b"] = {
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 448.72,
+      },
+    },
+  },
+  ["Kochis"] = {
+    ["p"] = 0.13,
+    ["s"] = "Icecrown",
+    ["r"] = 275,
+    ["b"] = {
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 128.21,
+      },
+    },
+  },
+  ["Zokybe"] = {
+    ["p"] = 0.06,
+    ["s"] = "Icecrown",
+    ["r"] = 276,
+    ["b"] = {
+      ["bpc"] = {
+        ["k"] = 1,
+        ["pnt"] = 64.1,
+      },
+    },
+  },
+}
