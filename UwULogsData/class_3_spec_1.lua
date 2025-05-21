@@ -48,7 +48,7 @@ UWULogsData[3][1] = {
       },
     },
   },
-  ["Dredziula"] = {
+  ["Starapijana"] = {
     ["p"] = 99.25,
     ["s"] = "Icecrown",
     ["r"] = 2,
