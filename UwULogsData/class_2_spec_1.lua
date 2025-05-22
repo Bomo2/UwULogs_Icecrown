@@ -6811,7 +6811,7 @@ UWULogsData[2][1] = {
       },
     },
   },
-  ["Boarhoof"] = {
+  ["Doublekill"] = {
     ["p"] = 4.98,
     ["s"] = "Icecrown",
     ["r"] = 244,
