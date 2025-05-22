@@ -43758,7 +43758,7 @@ UWULogsData[9][2] = {
       },
     },
   },
-  ["Samkemamba"] = {
+  ["Ryleqtx"] = {
     ["p"] = 87.05,
     ["s"] = "Icecrown",
     ["r"] = 935,
