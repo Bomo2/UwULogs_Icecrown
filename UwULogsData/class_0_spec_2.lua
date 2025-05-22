@@ -10572,7 +10572,7 @@ UWULogsData[0][2] = {
       },
     },
   },
-  ["Deathzefyra"] = {
+  ["Frostzefyra"] = {
     ["p"] = 82.92,
     ["s"] = "Icecrown",
     ["r"] = 227,
