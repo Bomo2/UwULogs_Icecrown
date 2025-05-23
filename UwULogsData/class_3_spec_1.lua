@@ -24831,7 +24831,7 @@ UWULogsData[3][1] = {
       },
     },
   },
-  ["Pyromaxi"] = {
+  ["Magiciansred"] = {
     ["p"] = 4.54,
     ["s"] = "Icecrown",
     ["r"] = 910,
