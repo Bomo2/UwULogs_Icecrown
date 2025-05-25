@@ -1,12 +1,11 @@
 # UwULogsTooltip
 
-**UwULogsTooltip** is an addon that displays competitive performance rankings directly within the game. It provides a quick and easy way to check if a player appears in the **UwU Logs Top 1000 rankings** based on data from [uwu-logs.xyz](https://uwu-logs.xyz).
+**UwULogsTooltip** is an addon that displays competitive performance rankings directly within the game. It provides a quick and easy way to check if a player appears in the **UwU Logs Top 1000 rankings** based on data from (https://uwu-logs.xyz).
 
 ## Features
 
 - **Search Tool**: Quickly search for any player's name and see if they’re ranked in the top 1000 by class and spec.
 - **Percentile Insights**: View player percentile with intuitive color coding.
-- **Minimap Button**: Convenient access to the addon via a customizable minimap icon.
 - **Modular Design**: Built only with two components:
   
   - **UwULogsTooltip**: The UI and settings panel.
