@@ -5,7 +5,11 @@
 ## Features
 
 - **Search Tool**: Quickly search for any player's name and see if they’re ranked in the top 1000 by class and spec.
+  ![image](https://github.com/user-attachments/assets/c2bf8e43-6ae4-4adc-a196-383a6f672699)
+
 - **Percentile Insights**: View player percentile with intuitive color coding.
+  ![image](https://github.com/user-attachments/assets/7e2ea7b0-c60f-4e88-896a-cf190f1eed39)
+
 - **Modular Design**: Built only with two components:
   
   - **UwULogsTooltip**: The UI and settings panel.
