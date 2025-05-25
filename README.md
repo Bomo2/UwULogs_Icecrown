@@ -23,8 +23,10 @@
 1. Download the .zip :
     - `UwULogsTooltip`
     - `UwULogsCore`
-    - `UwULogsUpdater.bat` 
+    - `UwULogsUpdater.bat`
+      
 2. Place both folders inside your `Interface/AddOns` directory.
+   
 3. Place the .bat next to your wow.exe and run it.
 
 
