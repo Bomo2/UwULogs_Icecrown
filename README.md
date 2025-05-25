@@ -16,7 +16,7 @@
 
 1. Enable or disable the addon using the checkbox in the Interface Options.
 2. Use the search box to enter a player's name.
-3. View real-time ranking, percentile, and spec icon on mouseover.
+3. View ranking, percentile, and max DPS by mouseover a player.
 
 ## Installation
 
