@@ -7,7 +7,8 @@
 - **Search Tool**: Quickly search for any player's name and see if they’re ranked in the top 1000 by class and spec.
 - **Percentile Insights**: View player percentile with intuitive color coding.
 - **Minimap Button**: Convenient access to the addon via a customizable minimap icon.
-- **Modular Design**: Built with two components:
+- **Modular Design**: Built only with two components:
+  
   - **UwULogsTooltip**: The UI and settings panel.
   - **UwULogsCore**: The core functionality and data integration.
 
@@ -24,7 +25,7 @@
     - `UwULogsCore`
     - `UwULogsUpdater.bat` 
 2. Place both folders inside your `Interface/AddOns` directory.
-3. Place the .bat next to your wow.exe folder and run it inside.
+3. Place the .bat next to your wow.exe and run it.
 
 
 ## Credits
