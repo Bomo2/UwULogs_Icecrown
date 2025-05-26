@@ -29,7 +29,7 @@
 
 ## Installation
 
-1. Download the .zip and dezip it :
+1. Download the CLICK_HERE_TO_DOWNLOAD.zip and dezip it, here's what's inside :
     - `UwULogsTooltip`
     - `UwULogsCore`
     - `UwULogsUpdater.bat`
