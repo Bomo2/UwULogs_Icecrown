@@ -8,8 +8,6 @@
   ![image](https://github.com/user-attachments/assets/c2bf8e43-6ae4-4adc-a196-383a6f672699)
 
 - **Percentile Insights**: View player percentile with intuitive color coding.
-  
-  ![image](https://github.com/user-attachments/assets/7e2ea7b0-c60f-4e88-896a-cf190f1eed39)
 
 - **Modular Design**: Built only with two components:
   
@@ -19,8 +17,12 @@
 ## How It Works
 
 1. Enable or disable the addon using the checkbox in the Interface Options.
-2. Use the search box to enter a player's name.
-3. View ranking, percentile, and max DPS by mouseover a player.
+   ![image](https://github.com/user-attachments/assets/e8657ed9-8744-46bd-b1d1-8fbc2fc9d8e0)
+
+3. Use the search box to enter a player's name.
+   
+5. View ranking, percentile, and max DPS by mouseover a player.
+   ![image](https://github.com/user-attachments/assets/7e2ea7b0-c60f-4e88-896a-cf190f1eed39)
 
 ## Installation
 
