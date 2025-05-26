@@ -5,7 +5,6 @@
 ## Features
 
 - **Search Tool**: Quickly search for any player's name and see if they’re ranked in the top 1000 by class and spec.
-  ![image](https://github.com/user-attachments/assets/c2bf8e43-6ae4-4adc-a196-383a6f672699)
 
 - **Percentile Insights**: View player percentile with intuitive color coding.
 
@@ -21,6 +20,8 @@
    ![image](https://github.com/user-attachments/assets/e8657ed9-8744-46bd-b1d1-8fbc2fc9d8e0)
 
 3. Use the search box to enter a player's name.
+
+   ![image](https://github.com/user-attachments/assets/c2bf8e43-6ae4-4adc-a196-383a6f672699)
    
 5. View ranking, percentile, and max DPS by mouseover a player.
    
