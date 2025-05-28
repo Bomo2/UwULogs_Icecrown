@@ -284,7 +284,7 @@ UWULogsData[2][1] = {
     },
   },
   ["Jessepikmin"] = {
-    ["po"] = 95.03,
+    ["po"] = 95.04,
     ["s"] = "Icecrown",
     ["r"] = 7,
     ["b"] = {
@@ -660,7 +660,7 @@ UWULogsData[2][1] = {
     },
   },
   ["Linex"] = {
-    ["po"] = 80.79,
+    ["po"] = 80.8,
     ["s"] = "Icecrown",
     ["r"] = 15,
     ["b"] = {
@@ -707,7 +707,7 @@ UWULogsData[2][1] = {
     },
   },
   ["Orquidio"] = {
-    ["po"] = 79.46,
+    ["po"] = 79.47,
     ["s"] = "Icecrown",
     ["r"] = 16,
     ["b"] = {
@@ -754,7 +754,7 @@ UWULogsData[2][1] = {
     },
   },
   ["Strelac"] = {
-    ["po"] = 78.81,
+    ["po"] = 78.82,
     ["s"] = "Icecrown",
     ["r"] = 17,
     ["b"] = {
@@ -1376,7 +1376,7 @@ UWULogsData[2][1] = {
     },
   },
   ["Shaurindra"] = {
-    ["po"] = 65.0,
+    ["po"] = 65.01,
     ["s"] = "Icecrown",
     ["r"] = 31,
     ["b"] = {
@@ -1685,7 +1685,7 @@ UWULogsData[2][1] = {
     },
   },
   ["Tednug"] = {
-    ["po"] = 53.14,
+    ["po"] = 53.15,
     ["s"] = "Icecrown",
     ["r"] = 38,
     ["b"] = {
@@ -2013,7 +2013,7 @@ UWULogsData[2][1] = {
     },
   },
   ["Nokineticas"] = {
-    ["po"] = 47.36,
+    ["po"] = 47.37,
     ["s"] = "Icecrown",
     ["r"] = 46,
     ["b"] = {
@@ -2570,7 +2570,7 @@ UWULogsData[2][1] = {
     },
   },
   ["Slowbro"] = {
-    ["po"] = 41.48,
+    ["po"] = 41.49,
     ["s"] = "Icecrown",
     ["r"] = 61,
     ["b"] = {
@@ -2690,7 +2690,7 @@ UWULogsData[2][1] = {
     },
   },
   ["Beastzord"] = {
-    ["po"] = 41.09,
+    ["po"] = 41.1,
     ["s"] = "Icecrown",
     ["r"] = 65,
     ["b"] = {
@@ -3701,7 +3701,7 @@ UWULogsData[2][1] = {
     },
   },
   ["Overloaded"] = {
-    ["po"] = 32.98,
+    ["po"] = 32.99,
     ["s"] = "Icecrown",
     ["r"] = 98,
     ["b"] = {
@@ -3891,7 +3891,7 @@ UWULogsData[2][1] = {
     },
   },
   ["Kapitantutan"] = {
-    ["po"] = 32.4,
+    ["po"] = 32.39,
     ["s"] = "Icecrown",
     ["r"] = 104,
     ["b"] = {
