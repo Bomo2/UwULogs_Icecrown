@@ -942,7 +942,7 @@ UWULogsData[7][1] = {
     },
   },
   ["Blackwaffle"] = {
-    ["po"] = 94.52,
+    ["po"] = 94.53,
     ["s"] = "Icecrown",
     ["r"] = 21,
     ["b"] = {
