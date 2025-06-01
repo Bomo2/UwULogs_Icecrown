@@ -6293,7 +6293,7 @@ UWULogsData[2][1] = {
       },
     },
   },
-  ["Preria"] = {
+  ["Pocahuntas"] = {
     ["po"] = 12.12,
     ["s"] = "Icecrown",
     ["r"] = 198,
