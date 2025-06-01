@@ -42,8 +42,9 @@
 ## Credits
 
 - All credits go to Ridepad, as it's thanks to him that the addon was made possible, so please support him.
-- Developed by Bomo.
+- Developed by Bomo & NoM0Re.
 
 ## TO-DO
 
 - Multi-language support like French, German, and Spanish.
+- Reducing RAM memory in-game.
