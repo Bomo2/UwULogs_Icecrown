@@ -988,7 +988,7 @@ UWULogsData[2][3] = {
       },
     },
   },
-  ["Anicuwu"] = {
+  ["Alissics"] = {
     ["po"] = 90.99,
     ["s"] = "Icecrown",
     ["r"] = 22,
