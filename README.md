@@ -47,4 +47,5 @@
 ## TO-DO
 
 - ~~Multi-language support like French, German, and Spanish.~~ (done by NoM0re)
-- Reducing RAM memory in-game.
+- ~~Reducing RAM memory in-game~~.
+- Improve search functionnality
