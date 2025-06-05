@@ -41,11 +41,12 @@
 
 ## Credits
 
-- All credits go to Ridepad, as it's thanks to him that the addon was made possible, so please support him.
-- Developed by Bomo & NoM0Re.
+- All credits go to Ridepad, as it's thanks to him that the addon was made possible, so please support him. (https://github.com/Ridepad)
+- Developed by Bomo.
+- Helped by NoM0re (https://github.com/NoM0Re)
 
 ## TO-DO
 
 - ~~Multi-language support like French, German, and Spanish.~~ (done by NoM0re)
 - ~~Reducing RAM memory in-game~~.
-- Improve search functionnality
+- Improving search functionnality
