@@ -4792,10 +4792,45 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Valaholyprst"] = {
+  ["Mahakek"] = {
     [po] = 49,
     [s] = ICECROWN,
     [r] = 111,
+    [b] = {
+      [lm] = {
+        [dps] = 142,
+        [p] = 51,
+      },
+      [ldw] = {
+        [dps] = 154,
+        [p] = 25,
+      },
+      [fg] = {
+        [dps] = 250,
+        [p] = 80,
+      },
+      [rf] = {
+        [dps] = 278,
+        [p] = 78,
+      },
+      [pp] = {
+        [dps] = 161,
+        [p] = 57,
+      },
+      [bql] = {
+        [dps] = 229,
+        [p] = 80,
+      },
+      [sg] = {
+        [dps] = 148,
+        [p] = 55,
+      },
+    },
+  },
+  ["Valaholyprst"] = {
+    [po] = 49,
+    [s] = ICECROWN,
+    [r] = 112,
     [b] = {
       [lm] = {
         [dps] = 0,
@@ -4836,41 +4871,6 @@ UWULogsData[5][2] = {
       [lk] = {
         [dps] = 122,
         [p] = 59,
-      },
-    },
-  },
-  ["Mahakek"] = {
-    [po] = 49,
-    [s] = ICECROWN,
-    [r] = 112,
-    [b] = {
-      [lm] = {
-        [dps] = 142,
-        [p] = 51,
-      },
-      [ldw] = {
-        [dps] = 154,
-        [p] = 25,
-      },
-      [fg] = {
-        [dps] = 250,
-        [p] = 80,
-      },
-      [rf] = {
-        [dps] = 278,
-        [p] = 78,
-      },
-      [pp] = {
-        [dps] = 161,
-        [p] = 57,
-      },
-      [bql] = {
-        [dps] = 229,
-        [p] = 80,
-      },
-      [sg] = {
-        [dps] = 148,
-        [p] = 55,
       },
     },
   },
@@ -5183,7 +5183,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Yradnegerar"] = {
-    [po] = 47,
+    [po] = 48,
     [s] = ICECROWN,
     [r] = 121,
     [b] = {
@@ -5826,7 +5826,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Depressiva"] = {
-    [po] = 43,
+    [po] = 44,
     [s] = ICECROWN,
     [r] = 140,
     [b] = {
@@ -6102,7 +6102,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Gummo"] = {
-    [po] = 42,
+    [po] = 43,
     [s] = ICECROWN,
     [r] = 148,
     [b] = {
@@ -6404,45 +6404,10 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Wyte"] = {
-    [po] = 41,
-    [s] = ICECROWN,
-    [r] = 157,
-    [b] = {
-      [lm] = {
-        [dps] = 68,
-        [p] = 37,
-      },
-      [ldw] = {
-        [dps] = 139,
-        [p] = 16,
-      },
-      [rf] = {
-        [dps] = 274,
-        [p] = 76,
-      },
-      [pp] = {
-        [dps] = 238,
-        [p] = 94,
-      },
-      [bql] = {
-        [dps] = 176,
-        [p] = 45,
-      },
-      [sg] = {
-        [dps] = 164,
-        [p] = 64,
-      },
-      [lk] = {
-        [dps] = 97,
-        [p] = 29,
-      },
-    },
-  },
   ["Prettylights"] = {
     [po] = 41,
     [s] = ICECROWN,
-    [r] = 158,
+    [r] = 157,
     [b] = {
       [ldw] = {
         [dps] = 203,
@@ -6475,6 +6440,41 @@ UWULogsData[5][2] = {
       [lk] = {
         [dps] = 82,
         [p] = 18,
+      },
+    },
+  },
+  ["Wyte"] = {
+    [po] = 41,
+    [s] = ICECROWN,
+    [r] = 158,
+    [b] = {
+      [lm] = {
+        [dps] = 68,
+        [p] = 37,
+      },
+      [ldw] = {
+        [dps] = 139,
+        [p] = 16,
+      },
+      [rf] = {
+        [dps] = 274,
+        [p] = 76,
+      },
+      [pp] = {
+        [dps] = 238,
+        [p] = 94,
+      },
+      [bql] = {
+        [dps] = 176,
+        [p] = 45,
+      },
+      [sg] = {
+        [dps] = 164,
+        [p] = 64,
+      },
+      [lk] = {
+        [dps] = 97,
+        [p] = 29,
       },
     },
   },
@@ -7771,7 +7771,7 @@ UWULogsData[5][2] = {
   ["Asalam"] = {
     [po] = 35,
     [s] = ICECROWN,
-    [r] = 198,
+    [r] = 197,
     [b] = {
       [lm] = {
         [dps] = 2,
@@ -8279,7 +8279,7 @@ UWULogsData[5][2] = {
   ["Benegesserit"] = {
     [po] = 34,
     [s] = ICECROWN,
-    [r] = 1181,
+    [r] = 1182,
     [b] = {
       [lm] = {
         [dps] = 24143,
@@ -8443,10 +8443,37 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Prisara"] = {
+  ["Sanique"] = {
     [po] = 33,
     [s] = ICECROWN,
     [r] = 219,
+    [b] = {
+      [lm] = {
+        [dps] = 277,
+        [p] = 70,
+      },
+      [fg] = {
+        [dps] = 268,
+        [p] = 86,
+      },
+      [rf] = {
+        [dps] = 0,
+        [p] = 1,
+      },
+      [bpc] = {
+        [dps] = 181,
+        [p] = 64,
+      },
+      [bql] = {
+        [dps] = 240,
+        [p] = 82,
+      },
+    },
+  },
+  ["Prisara"] = {
+    [po] = 33,
+    [s] = ICECROWN,
+    [r] = 220,
     [b] = {
       [lm] = {
         [dps] = 25,
@@ -8475,33 +8502,6 @@ UWULogsData[5][2] = {
       [lk] = {
         [dps] = 82,
         [p] = 19,
-      },
-    },
-  },
-  ["Sanique"] = {
-    [po] = 33,
-    [s] = ICECROWN,
-    [r] = 220,
-    [b] = {
-      [lm] = {
-        [dps] = 277,
-        [p] = 70,
-      },
-      [fg] = {
-        [dps] = 268,
-        [p] = 86,
-      },
-      [rf] = {
-        [dps] = 0,
-        [p] = 1,
-      },
-      [bpc] = {
-        [dps] = 181,
-        [p] = 64,
-      },
-      [bql] = {
-        [dps] = 240,
-        [p] = 82,
       },
     },
   },
@@ -8722,10 +8722,37 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Tonyfaith"] = {
+  ["Solomacabre"] = {
     [po] = 32,
     [s] = ICECROWN,
     [r] = 228,
+    [b] = {
+      [lm] = {
+        [dps] = 38,
+        [p] = 32,
+      },
+      [fg] = {
+        [dps] = 241,
+        [p] = 74,
+      },
+      [rf] = {
+        [dps] = 187,
+        [p] = 40,
+      },
+      [bpc] = {
+        [dps] = 250,
+        [p] = 79,
+      },
+      [bql] = {
+        [dps] = 189,
+        [p] = 53,
+      },
+    },
+  },
+  ["Tonyfaith"] = {
+    [po] = 32,
+    [s] = ICECROWN,
+    [r] = 229,
     [b] = {
       [lm] = {
         [dps] = 274,
@@ -8750,33 +8777,6 @@ UWULogsData[5][2] = {
       [lk] = {
         [dps] = 90,
         [p] = 24,
-      },
-    },
-  },
-  ["Solomacabre"] = {
-    [po] = 32,
-    [s] = ICECROWN,
-    [r] = 229,
-    [b] = {
-      [lm] = {
-        [dps] = 38,
-        [p] = 32,
-      },
-      [fg] = {
-        [dps] = 241,
-        [p] = 74,
-      },
-      [rf] = {
-        [dps] = 187,
-        [p] = 40,
-      },
-      [bpc] = {
-        [dps] = 250,
-        [p] = 79,
-      },
-      [bql] = {
-        [dps] = 189,
-        [p] = 53,
       },
     },
   },
@@ -9787,37 +9787,10 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Sprucebear"] = {
-    [po] = 29,
-    [s] = ICECROWN,
-    [r] = 263,
-    [b] = {
-      [ds] = {
-        [dps] = 272,
-        [p] = 45,
-      },
-      [fg] = {
-        [dps] = 187,
-        [p] = 38,
-      },
-      [rf] = {
-        [dps] = 225,
-        [p] = 57,
-      },
-      [bpc] = {
-        [dps] = 255,
-        [p] = 81,
-      },
-      [bql] = {
-        [dps] = 161,
-        [p] = 35,
-      },
-    },
-  },
   ["Yippikayee"] = {
     [po] = 29,
     [s] = ICECROWN,
-    [r] = 264,
+    [r] = 263,
     [b] = {
       [lm] = {
         [dps] = 477,
@@ -9842,6 +9815,33 @@ UWULogsData[5][2] = {
       [bql] = {
         [dps] = 326,
         [p] = 94,
+      },
+    },
+  },
+  ["Sprucebear"] = {
+    [po] = 29,
+    [s] = ICECROWN,
+    [r] = 264,
+    [b] = {
+      [ds] = {
+        [dps] = 272,
+        [p] = 45,
+      },
+      [fg] = {
+        [dps] = 187,
+        [p] = 38,
+      },
+      [rf] = {
+        [dps] = 225,
+        [p] = 57,
+      },
+      [bpc] = {
+        [dps] = 255,
+        [p] = 81,
+      },
+      [bql] = {
+        [dps] = 161,
+        [p] = 35,
       },
     },
   },
@@ -10008,10 +10008,33 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Seyline"] = {
+  ["Dextervala"] = {
     [po] = 28,
     [s] = ICECROWN,
     [r] = 270,
+    [b] = {
+      [ldw] = {
+        [dps] = 174,
+        [p] = 37,
+      },
+      [rf] = {
+        [dps] = 317,
+        [p] = 88,
+      },
+      [bql] = {
+        [dps] = 205,
+        [p] = 66,
+      },
+      [sg] = {
+        [dps] = 156,
+        [p] = 58,
+      },
+    },
+  },
+  ["Seyline"] = {
+    [po] = 28,
+    [s] = ICECROWN,
+    [r] = 271,
     [b] = {
       [lm] = {
         [dps] = 319,
@@ -10040,29 +10063,6 @@ UWULogsData[5][2] = {
       [bql] = {
         [dps] = 138,
         [p] = 18,
-      },
-    },
-  },
-  ["Dextervala"] = {
-    [po] = 28,
-    [s] = ICECROWN,
-    [r] = 271,
-    [b] = {
-      [ldw] = {
-        [dps] = 174,
-        [p] = 37,
-      },
-      [rf] = {
-        [dps] = 317,
-        [p] = 88,
-      },
-      [bql] = {
-        [dps] = 205,
-        [p] = 66,
-      },
-      [sg] = {
-        [dps] = 156,
-        [p] = 58,
       },
     },
   },
@@ -10210,7 +10210,7 @@ UWULogsData[5][2] = {
     },
   },
   ["Pungence"] = {
-    [po] = 27,
+    [po] = 28,
     [s] = ICECROWN,
     [r] = 277,
     [b] = {
@@ -11631,41 +11631,10 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Valanyrkaa"] = {
-    [po] = 23,
-    [s] = ICECROWN,
-    [r] = 327,
-    [b] = {
-      [lm] = {
-        [dps] = 319,
-        [p] = 77,
-      },
-      [ds] = {
-        [dps] = 216,
-        [p] = 18,
-      },
-      [fg] = {
-        [dps] = 155,
-        [p] = 25,
-      },
-      [rf] = {
-        [dps] = 161,
-        [p] = 32,
-      },
-      [bpc] = {
-        [dps] = 0,
-        [p] = 13,
-      },
-      [bql] = {
-        [dps] = 159,
-        [p] = 33,
-      },
-    },
-  },
   ["Tutantlakon"] = {
     [po] = 23,
     [s] = ICECROWN,
-    [r] = 328,
+    [r] = 327,
     [b] = {
       [lm] = {
         [dps] = 2,
@@ -11698,6 +11667,37 @@ UWULogsData[5][2] = {
       [lk] = {
         [dps] = 80,
         [p] = 17,
+      },
+    },
+  },
+  ["Valanyrkaa"] = {
+    [po] = 23,
+    [s] = ICECROWN,
+    [r] = 328,
+    [b] = {
+      [lm] = {
+        [dps] = 319,
+        [p] = 77,
+      },
+      [ds] = {
+        [dps] = 216,
+        [p] = 18,
+      },
+      [fg] = {
+        [dps] = 155,
+        [p] = 25,
+      },
+      [rf] = {
+        [dps] = 161,
+        [p] = 32,
+      },
+      [bpc] = {
+        [dps] = 0,
+        [p] = 13,
+      },
+      [bql] = {
+        [dps] = 159,
+        [p] = 33,
       },
     },
   },
@@ -13063,10 +13063,25 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Renewspammer"] = {
+  ["Idiotpriest"] = {
     [po] = 17,
     [s] = ICECROWN,
     [r] = 388,
+    [b] = {
+      [bql] = {
+        [dps] = 227,
+        [p] = 79,
+      },
+      [sg] = {
+        [dps] = 210,
+        [p] = 86,
+      },
+    },
+  },
+  ["Renewspammer"] = {
+    [po] = 17,
+    [s] = ICECROWN,
+    [r] = 389,
     [b] = {
       [fg] = {
         [dps] = 175,
@@ -13083,21 +13098,6 @@ UWULogsData[5][2] = {
       [bql] = {
         [dps] = 122,
         [p] = 12,
-      },
-    },
-  },
-  ["Idiotpriest"] = {
-    [po] = 17,
-    [s] = ICECROWN,
-    [r] = 389,
-    [b] = {
-      [bql] = {
-        [dps] = 227,
-        [p] = 79,
-      },
-      [sg] = {
-        [dps] = 210,
-        [p] = 86,
       },
     },
   },
@@ -13196,29 +13196,10 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Synchronice"] = {
-    [po] = 17,
-    [s] = ICECROWN,
-    [r] = 395,
-    [b] = {
-      [bpc] = {
-        [dps] = 185,
-        [p] = 65,
-      },
-      [bql] = {
-        [dps] = 132,
-        [p] = 15,
-      },
-      [sg] = {
-        [dps] = 159,
-        [p] = 60,
-      },
-    },
-  },
   ["Priborpastor"] = {
     [po] = 17,
     [s] = ICECROWN,
-    [r] = 396,
+    [r] = 395,
     [b] = {
       [lm] = {
         [dps] = 0,
@@ -13239,6 +13220,25 @@ UWULogsData[5][2] = {
       [bql] = {
         [dps] = 143,
         [p] = 20,
+      },
+    },
+  },
+  ["Synchronice"] = {
+    [po] = 17,
+    [s] = ICECROWN,
+    [r] = 396,
+    [b] = {
+      [bpc] = {
+        [dps] = 185,
+        [p] = 65,
+      },
+      [bql] = {
+        [dps] = 132,
+        [p] = 15,
+      },
+      [sg] = {
+        [dps] = 159,
+        [p] = 60,
       },
     },
   },
@@ -13532,10 +13532,29 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Findelmundo"] = {
+  ["Schierkee"] = {
     [po] = 15,
     [s] = ICECROWN,
     [r] = 411,
+    [b] = {
+      [lm] = {
+        [dps] = 122,
+        [p] = 48,
+      },
+      [ldw] = {
+        [dps] = 190,
+        [p] = 53,
+      },
+      [sg] = {
+        [dps] = 0,
+        [p] = 21,
+      },
+    },
+  },
+  ["Findelmundo"] = {
+    [po] = 15,
+    [s] = ICECROWN,
+    [r] = 412,
     [b] = {
       [ds] = {
         [dps] = 257,
@@ -13556,25 +13575,6 @@ UWULogsData[5][2] = {
       [sg] = {
         [dps] = 0,
         [p] = 0,
-      },
-    },
-  },
-  ["Schierkee"] = {
-    [po] = 15,
-    [s] = ICECROWN,
-    [r] = 412,
-    [b] = {
-      [lm] = {
-        [dps] = 122,
-        [p] = 48,
-      },
-      [ldw] = {
-        [dps] = 190,
-        [p] = 53,
-      },
-      [sg] = {
-        [dps] = 0,
-        [p] = 21,
       },
     },
   },
@@ -14204,29 +14204,10 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Mindbreak"] = {
-    [po] = 13,
-    [s] = ICECROWN,
-    [r] = 443,
-    [b] = {
-      [rf] = {
-        [dps] = 216,
-        [p] = 53,
-      },
-      [pp] = {
-        [dps] = 156,
-        [p] = 54,
-      },
-      [lk] = {
-        [dps] = 59,
-        [p] = 7,
-      },
-    },
-  },
   ["Madeliefje"] = {
     [po] = 13,
     [s] = ICECROWN,
-    [r] = 444,
+    [r] = 443,
     [b] = {
       [lm] = {
         [dps] = 11,
@@ -14243,6 +14224,25 @@ UWULogsData[5][2] = {
       [rf] = {
         [dps] = 0,
         [p] = 12,
+      },
+    },
+  },
+  ["Mindbreak"] = {
+    [po] = 13,
+    [s] = ICECROWN,
+    [r] = 444,
+    [b] = {
+      [rf] = {
+        [dps] = 216,
+        [p] = 53,
+      },
+      [pp] = {
+        [dps] = 156,
+        [p] = 54,
+      },
+      [lk] = {
+        [dps] = 59,
+        [p] = 7,
       },
     },
   },
@@ -14429,25 +14429,10 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Lunadeluz"] = {
-    [po] = 12,
-    [s] = ICECROWN,
-    [r] = 454,
-    [b] = {
-      [bql] = {
-        [dps] = 184,
-        [p] = 50,
-      },
-      [sg] = {
-        [dps] = 155,
-        [p] = 58,
-      },
-    },
-  },
   ["Widesoul"] = {
     [po] = 12,
     [s] = ICECROWN,
-    [r] = 455,
+    [r] = 454,
     [b] = {
       [lm] = {
         [dps] = 50,
@@ -14464,6 +14449,21 @@ UWULogsData[5][2] = {
       [rf] = {
         [dps] = 169,
         [p] = 34,
+      },
+    },
+  },
+  ["Lunadeluz"] = {
+    [po] = 12,
+    [s] = ICECROWN,
+    [r] = 455,
+    [b] = {
+      [bql] = {
+        [dps] = 184,
+        [p] = 50,
+      },
+      [sg] = {
+        [dps] = 155,
+        [p] = 58,
       },
     },
   },
@@ -14820,10 +14820,29 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Greenfunk"] = {
+  ["Yishu"] = {
     [po] = 11,
     [s] = ICECROWN,
     [r] = 475,
+    [b] = {
+      [ldw] = {
+        [dps] = 166,
+        [p] = 33,
+      },
+      [bql] = {
+        [dps] = 155,
+        [p] = 29,
+      },
+      [lk] = {
+        [dps] = 91,
+        [p] = 25,
+      },
+    },
+  },
+  ["Greenfunk"] = {
+    [po] = 11,
+    [s] = ICECROWN,
+    [r] = 476,
     [b] = {
       [ds] = {
         [dps] = 219,
@@ -14848,25 +14867,6 @@ UWULogsData[5][2] = {
       [bql] = {
         [dps] = 149,
         [p] = 23,
-      },
-    },
-  },
-  ["Yishu"] = {
-    [po] = 11,
-    [s] = ICECROWN,
-    [r] = 476,
-    [b] = {
-      [ldw] = {
-        [dps] = 166,
-        [p] = 33,
-      },
-      [bql] = {
-        [dps] = 155,
-        [p] = 29,
-      },
-      [lk] = {
-        [dps] = 91,
-        [p] = 25,
       },
     },
   },
@@ -14900,29 +14900,10 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Dzepett"] = {
-    [po] = 11,
-    [s] = ICECROWN,
-    [r] = 479,
-    [b] = {
-      [ldw] = {
-        [dps] = 127,
-        [p] = 9,
-      },
-      [ds] = {
-        [dps] = 355,
-        [p] = 81,
-      },
-      [pp] = {
-        [dps] = 101,
-        [p] = 9,
-      },
-    },
-  },
   ["Suavemente"] = {
     [po] = 11,
     [s] = ICECROWN,
-    [r] = 480,
+    [r] = 479,
     [b] = {
       [lm] = {
         [dps] = 0,
@@ -14939,6 +14920,25 @@ UWULogsData[5][2] = {
       [bql] = {
         [dps] = 132,
         [p] = 15,
+      },
+    },
+  },
+  ["Dzepett"] = {
+    [po] = 11,
+    [s] = ICECROWN,
+    [r] = 480,
+    [b] = {
+      [ldw] = {
+        [dps] = 127,
+        [p] = 9,
+      },
+      [ds] = {
+        [dps] = 355,
+        [p] = 81,
+      },
+      [pp] = {
+        [dps] = 101,
+        [p] = 9,
       },
     },
   },
@@ -15664,21 +15664,10 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Fengy"] = {
-    [po] = 9,
-    [s] = ICECROWN,
-    [r] = 533,
-    [b] = {
-      [sg] = {
-        [dps] = 213,
-        [p] = 87,
-      },
-    },
-  },
   ["Gebs"] = {
     [po] = 9,
     [s] = ICECROWN,
-    [r] = 534,
+    [r] = 533,
     [b] = {
       [lm] = {
         [dps] = 8,
@@ -15707,6 +15696,17 @@ UWULogsData[5][2] = {
       [lk] = {
         [dps] = 48,
         [p] = 3,
+      },
+    },
+  },
+  ["Fengy"] = {
+    [po] = 9,
+    [s] = ICECROWN,
+    [r] = 534,
+    [b] = {
+      [sg] = {
+        [dps] = 213,
+        [p] = 87,
       },
     },
   },
@@ -16074,10 +16074,21 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Damljanpicka"] = {
+  ["Daizha"] = {
     [po] = 8,
     [s] = ICECROWN,
     [r] = 563,
+    [b] = {
+      [sg] = {
+        [dps] = 182,
+        [p] = 75,
+      },
+    },
+  },
+  ["Damljanpicka"] = {
+    [po] = 8,
+    [s] = ICECROWN,
+    [r] = 564,
     [b] = {
       [ds] = {
         [dps] = 231,
@@ -16094,17 +16105,6 @@ UWULogsData[5][2] = {
       [bpc] = {
         [dps] = 0,
         [p] = 20,
-      },
-    },
-  },
-  ["Daizha"] = {
-    [po] = 8,
-    [s] = ICECROWN,
-    [r] = 564,
-    [b] = {
-      [sg] = {
-        [dps] = 182,
-        [p] = 75,
       },
     },
   },
@@ -16434,21 +16434,10 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Holybelf"] = {
-    [po] = 7,
-    [s] = ICECROWN,
-    [r] = 587,
-    [b] = {
-      [sg] = {
-        [dps] = 169,
-        [p] = 67,
-      },
-    },
-  },
   ["Vere"] = {
     [po] = 7,
     [s] = ICECROWN,
-    [r] = 588,
+    [r] = 587,
     [b] = {
       [lm] = {
         [dps] = 2,
@@ -16465,6 +16454,17 @@ UWULogsData[5][2] = {
       [bql] = {
         [dps] = 172,
         [p] = 42,
+      },
+    },
+  },
+  ["Holybelf"] = {
+    [po] = 7,
+    [s] = ICECROWN,
+    [r] = 588,
+    [b] = {
+      [sg] = {
+        [dps] = 169,
+        [p] = 67,
       },
     },
   },
@@ -16583,24 +16583,24 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Kupiholy"] = {
+  ["Christiann"] = {
     [po] = 7,
     [s] = ICECROWN,
     [r] = 599,
     [b] = {
-      [sg] = {
-        [dps] = 163,
+      [lm] = {
+        [dps] = 231,
         [p] = 63,
       },
     },
   },
-  ["Christiann"] = {
+  ["Kupiholy"] = {
     [po] = 7,
     [s] = ICECROWN,
     [r] = 600,
     [b] = {
-      [lm] = {
-        [dps] = 231,
+      [sg] = {
+        [dps] = 163,
         [p] = 63,
       },
     },
@@ -16712,10 +16712,25 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Prayergodx"] = {
+  ["Korrey"] = {
     [po] = 7,
     [s] = ICECROWN,
     [r] = 610,
+    [b] = {
+      [fg] = {
+        [dps] = 196,
+        [p] = 46,
+      },
+      [rf] = {
+        [dps] = 0,
+        [p] = 14,
+      },
+    },
+  },
+  ["Prayergodx"] = {
+    [po] = 7,
+    [s] = ICECROWN,
+    [r] = 611,
     [b] = {
       [fg] = {
         [dps] = 0,
@@ -16732,21 +16747,6 @@ UWULogsData[5][2] = {
       [bql] = {
         [dps] = 163,
         [p] = 36,
-      },
-    },
-  },
-  ["Korrey"] = {
-    [po] = 7,
-    [s] = ICECROWN,
-    [r] = 611,
-    [b] = {
-      [fg] = {
-        [dps] = 196,
-        [p] = 46,
-      },
-      [rf] = {
-        [dps] = 0,
-        [p] = 14,
       },
     },
   },
@@ -16913,10 +16913,21 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Redentions"] = {
+  ["Spokko"] = {
     [po] = 6,
     [s] = ICECROWN,
     [r] = 625,
+    [b] = {
+      [sg] = {
+        [dps] = 146,
+        [p] = 54,
+      },
+    },
+  },
+  ["Redentions"] = {
+    [po] = 6,
+    [s] = ICECROWN,
+    [r] = 626,
     [b] = {
       [lm] = {
         [dps] = 0,
@@ -16937,17 +16948,6 @@ UWULogsData[5][2] = {
       [bpc] = {
         [dps] = 0,
         [p] = 10,
-      },
-    },
-  },
-  ["Spokko"] = {
-    [po] = 6,
-    [s] = ICECROWN,
-    [r] = 626,
-    [b] = {
-      [sg] = {
-        [dps] = 146,
-        [p] = 54,
       },
     },
   },
@@ -17300,25 +17300,25 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Speedstyle"] = {
+  ["Qm"] = {
     [po] = 5,
     [s] = ICECROWN,
     [r] = 654,
     [b] = {
-      [bql] = {
-        [dps] = 181,
-        [p] = 48,
+      [sg] = {
+        [dps] = 103,
+        [p] = 43,
       },
     },
   },
-  ["Qm"] = {
+  ["Speedstyle"] = {
     [po] = 5,
     [s] = ICECROWN,
     [r] = 655,
     [b] = {
-      [sg] = {
-        [dps] = 103,
-        [p] = 43,
+      [bql] = {
+        [dps] = 181,
+        [p] = 48,
       },
     },
   },
@@ -17407,25 +17407,10 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Koroa"] = {
-    [po] = 5,
-    [s] = ICECROWN,
-    [r] = 664,
-    [b] = {
-      [fg] = {
-        [dps] = 0,
-        [p] = 8,
-      },
-      [bql] = {
-        [dps] = 167,
-        [p] = 38,
-      },
-    },
-  },
   ["Ezrya"] = {
     [po] = 5,
     [s] = ICECROWN,
-    [r] = 665,
+    [r] = 664,
     [b] = {
       [lm] = {
         [dps] = 62,
@@ -17442,6 +17427,21 @@ UWULogsData[5][2] = {
       [bql] = {
         [dps] = 0,
         [p] = 0,
+      },
+    },
+  },
+  ["Koroa"] = {
+    [po] = 5,
+    [s] = ICECROWN,
+    [r] = 665,
+    [b] = {
+      [fg] = {
+        [dps] = 0,
+        [p] = 8,
+      },
+      [bql] = {
+        [dps] = 167,
+        [p] = 38,
       },
     },
   },
@@ -17470,7 +17470,7 @@ UWULogsData[5][2] = {
   ["Tlana"] = {
     [po] = 5,
     [s] = ICECROWN,
-    [r] = 668,
+    [r] = 669,
     [b] = {
       [sg] = {
         [dps] = 76,
@@ -17519,10 +17519,21 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Vairea"] = {
+  ["Vezdow"] = {
     [po] = 5,
     [s] = ICECROWN,
     [r] = 673,
+    [b] = {
+      [sg] = {
+        [dps] = 60,
+        [p] = 37,
+      },
+    },
+  },
+  ["Vairea"] = {
+    [po] = 5,
+    [s] = ICECROWN,
+    [r] = 674,
     [b] = {
       [fg] = {
         [dps] = 183,
@@ -17531,17 +17542,6 @@ UWULogsData[5][2] = {
       [bql] = {
         [dps] = 22,
         [p] = 4,
-      },
-    },
-  },
-  ["Vezdow"] = {
-    [po] = 5,
-    [s] = ICECROWN,
-    [r] = 674,
-    [b] = {
-      [sg] = {
-        [dps] = 60,
-        [p] = 37,
       },
     },
   },
@@ -17586,10 +17586,21 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Heelmii"] = {
+  ["Cigansmaster"] = {
     [po] = 5,
     [s] = ICECROWN,
     [r] = 678,
+    [b] = {
+      [sg] = {
+        [dps] = 51,
+        [p] = 37,
+      },
+    },
+  },
+  ["Heelmii"] = {
+    [po] = 5,
+    [s] = ICECROWN,
+    [r] = 679,
     [b] = {
       [bpc] = {
         [dps] = 0,
@@ -17598,17 +17609,6 @@ UWULogsData[5][2] = {
       [bql] = {
         [dps] = 168,
         [p] = 40,
-      },
-    },
-  },
-  ["Cigansmaster"] = {
-    [po] = 5,
-    [s] = ICECROWN,
-    [r] = 679,
-    [b] = {
-      [sg] = {
-        [dps] = 51,
-        [p] = 37,
       },
     },
   },
@@ -17844,10 +17844,21 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Careerax"] = {
+  ["Mengmengya"] = {
     [po] = 3,
     [s] = ICECROWN,
     [r] = 701,
+    [b] = {
+      [ldw] = {
+        [dps] = 159,
+        [p] = 28,
+      },
+    },
+  },
+  ["Careerax"] = {
+    [po] = 3,
+    [s] = ICECROWN,
+    [r] = 702,
     [b] = {
       [sg] = {
         [dps] = 0,
@@ -17856,17 +17867,6 @@ UWULogsData[5][2] = {
       [lk] = {
         [dps] = 89,
         [p] = 23,
-      },
-    },
-  },
-  ["Mengmengya"] = {
-    [po] = 3,
-    [s] = ICECROWN,
-    [r] = 702,
-    [b] = {
-      [ldw] = {
-        [dps] = 159,
-        [p] = 28,
       },
     },
   },
@@ -17900,10 +17900,21 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Fakerlove"] = {
+  ["Cilante"] = {
     [po] = 3,
     [s] = ICECROWN,
     [r] = 705,
+    [b] = {
+      [sg] = {
+        [dps] = 3,
+        [p] = 26,
+      },
+    },
+  },
+  ["Fakerlove"] = {
+    [po] = 3,
+    [s] = ICECROWN,
+    [r] = 706,
     [b] = {
       [ds] = {
         [dps] = 154,
@@ -17916,17 +17927,6 @@ UWULogsData[5][2] = {
       [rf] = {
         [dps] = 0,
         [p] = 8,
-      },
-    },
-  },
-  ["Cilante"] = {
-    [po] = 3,
-    [s] = ICECROWN,
-    [r] = 706,
-    [b] = {
-      [sg] = {
-        [dps] = 3,
-        [p] = 26,
       },
     },
   },
@@ -17955,7 +17955,7 @@ UWULogsData[5][2] = {
   ["Omegapadding"] = {
     [po] = 3,
     [s] = ICECROWN,
-    [r] = 709,
+    [r] = 710,
     [b] = {
       [sg] = {
         [dps] = 2,
@@ -17985,25 +17985,25 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Ttriball"] = {
+  ["Malfy"] = {
     [po] = 3,
     [s] = ICECROWN,
     [r] = 713,
     [b] = {
-      [bql] = {
-        [dps] = 155,
-        [p] = 30,
+      [sg] = {
+        [dps] = 0,
+        [p] = 24,
       },
     },
   },
-  ["Malfy"] = {
+  ["Ttriball"] = {
     [po] = 3,
     [s] = ICECROWN,
     [r] = 714,
     [b] = {
-      [sg] = {
-        [dps] = 0,
-        [p] = 24,
+      [bql] = {
+        [dps] = 155,
+        [p] = 30,
       },
     },
   },
@@ -18104,25 +18104,25 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Raidsaveer"] = {
+  ["Zexona"] = {
     [po] = 3,
     [s] = ICECROWN,
     [r] = 722,
     [b] = {
-      [sg] = {
-        [dps] = 0,
-        [p] = 22,
+      [ldw] = {
+        [dps] = 153,
+        [p] = 24,
       },
     },
   },
-  ["Zexona"] = {
+  ["Raidsaveer"] = {
     [po] = 3,
     [s] = ICECROWN,
     [r] = 723,
     [b] = {
-      [ldw] = {
-        [dps] = 153,
-        [p] = 24,
+      [sg] = {
+        [dps] = 0,
+        [p] = 22,
       },
     },
   },
@@ -18382,10 +18382,21 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Beernudraazs"] = {
+  ["Nelcy"] = {
     [po] = 2,
     [s] = ICECROWN,
     [r] = 745,
+    [b] = {
+      [lm] = {
+        [dps] = 0,
+        [p] = 17,
+      },
+    },
+  },
+  ["Beernudraazs"] = {
+    [po] = 2,
+    [s] = ICECROWN,
+    [r] = 746,
     [b] = {
       [ds] = {
         [dps] = 4,
@@ -18398,17 +18409,6 @@ UWULogsData[5][2] = {
       [bql] = {
         [dps] = 47,
         [p] = 5,
-      },
-    },
-  },
-  ["Nelcy"] = {
-    [po] = 2,
-    [s] = ICECROWN,
-    [r] = 746,
-    [b] = {
-      [lm] = {
-        [dps] = 0,
-        [p] = 17,
       },
     },
   },
@@ -18538,10 +18538,21 @@ UWULogsData[5][2] = {
       },
     },
   },
-  ["Helpomw"] = {
+  ["Selenaxt"] = {
     [po] = 1,
     [s] = ICECROWN,
     [r] = 757,
+    [b] = {
+      [bql] = {
+        [dps] = 121,
+        [p] = 11,
+      },
+    },
+  },
+  ["Helpomw"] = {
+    [po] = 1,
+    [s] = ICECROWN,
+    [r] = 758,
     [b] = {
       [bpc] = {
         [dps] = 0,
@@ -18550,17 +18561,6 @@ UWULogsData[5][2] = {
       [bql] = {
         [dps] = 0,
         [p] = 1,
-      },
-    },
-  },
-  ["Selenaxt"] = {
-    [po] = 1,
-    [s] = ICECROWN,
-    [r] = 758,
-    [b] = {
-      [bql] = {
-        [dps] = 121,
-        [p] = 11,
       },
     },
   },

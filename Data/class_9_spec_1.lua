@@ -224,7 +224,7 @@ UWULogsData[9][1] = {
         [p] = 92,
       },
       [bpc] = {
-        [dps] = 15130,
+        [dps] = 15133,
         [p] = 94,
       },
       [bql] = {
@@ -3601,7 +3601,7 @@ UWULogsData[9][1] = {
     },
   },
   ["Kitendo"] = {
-    [po] = 22,
+    [po] = 23,
     [s] = ICECROWN,
     [r] = 100,
     [b] = {
@@ -4560,7 +4560,7 @@ UWULogsData[9][1] = {
   ["Iye"] = {
     [po] = 7,
     [s] = ICECROWN,
-    [r] = 760,
+    [r] = 761,
     [b] = {
       [lm] = {
         [dps] = 3836,
