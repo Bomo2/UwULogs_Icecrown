@@ -859,7 +859,7 @@ UWULogsData[3][1] = {
   "Bahur|6|874|sg:9971:49",
   "Paraimee|6|876|lm:6512:11,fg:6587:10",
   "Capi|6|877|lm:12737:59",
-  "Sunmazu|5|9682|sg:149:32",
+  "Sunmazu|5|9683|sg:149:32",
   "Ralsea|5|879|fg:12357:53",
   "Pyroholick|5|880|lm:12692:59",
   "Rhoden|5|881|lm:12684:59",
