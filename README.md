@@ -32,11 +32,11 @@
 
 4. Run `UwU.exe` you will see a couple of options:
 
-    1. Permit to be updated in live with the ranking from uwu-logs  
-    2. You can compress your combatlog.txt into a .zip file  
-    3. You can remove those combatlog.txt  
-    4. Launch the game  
-    5. Open in your default browser the [https://uwu-logs.xyz/upload](https://uwu-logs.xyz/upload) URL
+    - 1) Permit to be updated in live with the ranking from uwu-logs  
+    - 2) You can compress your combatlog.txt into a .zip file  
+    - 3) You can remove those combatlog.txt  
+    - 4) Launch the game  
+    - 5) Open in your default browser the [https://uwu-logs.xyz/upload](https://uwu-logs.xyz/upload) URL
 
 
 ## Credits
