@@ -22,7 +22,7 @@
 
 ## Installation
 
-1. Download the v.X.X.X.zip and dezip it, here's what's inside :
+1. Download the vX.X.X.zip and dezip it, here's what's inside :
     - `UwULogs_Icecrown`
     - `UwU.exe`
       
@@ -31,11 +31,11 @@
 3. Place `UwU.exe` next to your wow.exe then you can create a shortcut to your Desktop.
 
 4. Run `UwU.exe` you will see couples options :
-      1. Permit to be updated  in live with the ranking from uwu-logs
-      2. You can compress your combatlog.txt into a .zip file 
-      3. You can remove thoses combatlog.txt
-      4. Launch the game
-      5. Open in your default browser the https://uwu-logs.xyz/upload URL
+      1) Permit to be updated  in live with the ranking from uwu-logs
+      2) You can compress your combatlog.txt into a .zip file 
+      3) You can remove thoses combatlog.txt
+      4) Launch the game
+      5) Open in your default browser the https://uwu-logs.xyz/upload URL
 
 
 ## Credits
