@@ -417,7 +417,7 @@ UWULogsData[8][3] = {
   "Demonicmage|0.72|424|bql:148:7.11:197",
   "Kaguyazama|0.72|425|bpc:0:7.08:224",
   "Lockthorm|0.71|426|lm:35:6.98:241",
-  "Darkpuerco|0.71|427|rf:207:6.96:215",
+  "Gryndelwald|0.71|427|rf:207:6.96:215",
   "Prumolock|0.69|428|ds:1463:4.55:211",
   "Kalanguim|0.68|429|ldw:33:6.67:85",
   "Linalee|0.68|430|fg:887:6.67:211",
