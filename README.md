@@ -1,4 +1,4 @@
-# UwULogs for Warmane (Icecrown) [NOT LONGER SUPPORTED]
+# UwULogs for Warmane (Icecrown) [REOPEN IN MID JANUARY 2026]
 
 **UwULogs_Icecrown** is an addon that displays competitive performance rankings directly within the game. It provides a quick and easy way to check if a player appears in the **UwU Logs Top 1000 rankings** based on data from (https://uwu-logs.xyz).
 
