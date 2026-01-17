@@ -1,4 +1,4 @@
-# UwULogs for Warmane (Icecrown) [REOPEN IN MID JANUARY 2026]
+# UwULogs for Warmane (Icecrown)
 
 **UwULogs_Icecrown** is an addon that displays competitive performance rankings directly within the game. It provides a quick and easy way to check if a player appears in the **UwU Logs Top 1000 rankings** based on data from (https://uwu-logs.xyz).
 
@@ -17,7 +17,8 @@
    
 4. View ranking, percentile, and max DPS by mouseover a player.
    
-   ![image](https://github.com/user-attachments/assets/7e2ea7b0-c60f-4e88-896a-cf190f1eed39)
+   <img width="390" height="210" alt="image" src="https://github.com/user-attachments/assets/f5c50b11-8e93-40a6-9498-72f53a2659cf" />
+
    
 
 ## Installation
@@ -34,7 +35,7 @@
 
       '1' Permit to be updated in live with the ranking from uwu-logs  
       '2' You can compress your combatlog.txt into a .zip file  
-      '3' You can remove those combatlog.txt  
+      '3' You can remove those combatlog.txt in your Log folder  
       '4' Launch the game  
       '5' Open in your default browser the [https://uwu-logs.xyz/upload](https://uwu-logs.xyz/upload) URL
 
@@ -45,7 +46,7 @@
   
 - Helped by NoM0re (https://github.com/NoM0Re)
   
-- Developed by Bomo.
+- Developed by me.
 
 
 ## TO-DO
@@ -53,4 +54,4 @@
 - ~~Multi-language support like French, German, and Spanish.~~ (done by NoM0re)
 - ~~Reducing RAM memory in-game~~.
 - ~~Improving search functionnality~~.
-- Waiting ...
+- Waiting your feedback ...
