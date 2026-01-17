@@ -23,7 +23,7 @@
 
 ## Installation
 
-1. Download the vX.X.X.zip and dezip it, here's what's inside :
+1. Download the [latest version](https://github.com/Bomo2/UwULogs_Icecrown/releases/download/v0.9.4-beta/v0.9.4.7z) and dezip it, here's what's inside :
     - `UwULogs_Icecrown`
     - `UwU.exe`
       
