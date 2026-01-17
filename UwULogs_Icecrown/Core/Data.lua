@@ -1,0 +1,1 @@
+UWULogsData = UWULogsData or {}

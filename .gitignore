@@ -2,4 +2,6 @@
 !.gitignore
 !Data/
 !Data/**
+!UwULogs_Icecrown/
+!UwULogs_Icecrown/**
 logs/
