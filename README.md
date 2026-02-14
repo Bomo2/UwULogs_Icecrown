@@ -52,7 +52,7 @@
 ## TO-DO
 
 - ~~Multi-language support like French, German, and Spanish.~~ (done by NoM0re)
-- ~~Reducing RAM memory in-game~~.
-- ~~Improving search functionnality~~.
+- ~~Reducing RAM memory in-game~~. (done)
+- ~~Improving search functionnality~~. (done)
 - Adding Onyxia realm support
 - Waiting your feedback ...
