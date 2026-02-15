@@ -2,4 +2,6 @@
 !.gitignore
 !Data/
 !Data/**
+!Data-Onyxia/
+!Data-Onyxia/**
 logs/
