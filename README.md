@@ -23,9 +23,9 @@
 
 ## Installation
 
-1. Download the [Icecrown latest version](https://github.com/Bomo2/UwULogs_Icecrown/releases/download/v0.9.4-beta/v0.9.4.7z) OR/AND [Onyxia latest version](https://github.com/Bomo2/UwULogs_Icecrown/releases/download/v0.9.4-beta-onyxia/UwULogs_Onyxia.zip) and dezip it.
+1. Download the [latest version](https://github.com/Bomo2/UwULogs_Icecrown/releases/download/v0.9.4-beta/v0.9.4.7z) and dezip it.
       
-2. Place `UwULogs folder` inside your `Interface/AddOns` directory.
+2. Place `UwULogs` inside your `Interface/AddOns` directory.
    
 3. Place `UwU.exe` next to your wow.exe then you can create a shortcut to your Desktop.
 
