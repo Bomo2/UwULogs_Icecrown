@@ -1,6 +1,6 @@
-UWULogsData = UWULogsData or {}
-UWULogsData[6] = UWULogsData[6] or {}
-UWULogsData[6][3] = {
+UWULogsData_Icecrown = UWULogsData_Icecrown or {}
+UWULogsData_Icecrown[6] = UWULogsData_Icecrown[6] or {}
+UWULogsData_Icecrown[6][3] = {
   "Justnoone|100|1|lm:17783:99.34:2,ldw:16948:98.25:2,ds:20232:100.00:1,fg:19145:100.00:1,rf:19956:99.69:2,pp:16233:100.00:1,bpc:15908:100.00:1,bql:30401:100.00:1,sg:14405:100.00:1,lk:13340:100.00:1",
   "Shoupastun|94.44|2|lm:17569:98.68:3,ldw:15316:92.31:3,ds:19408:95.93:5,fg:16792:91.49:5,rf:18559:96.08:3,pp:15438:98.44:2,bpc:15865:99.73:2,bql:18286:88.57:5,sg:11781:87.23:4,lk:11885:93.33:2",
   "Bobbydilder|92.37|3|lm:17486:96.70:4,ldw:17981:100.00:1,ds:20099:99.35:2,fg:17061:93.62:4,rf:18162:94.12:4,pp:14275:90.91:3,bpc:15158:96.39:3,bql:17106:82.86:7,sg:12001:89.47:3,lk:10372:77.75:6",
