@@ -23,7 +23,7 @@
 
 ## Installation
 
-1. Download the [latest version](https://github.com/Bomo2/UwULogs_Icecrown/releases/download/v0.9.6-beta/UwULogs.zip) and dezip it.
+1. Download the [latest version](https://github.com/Bomo2/UwULogs_Icecrown/releases/download/v0.9.7-beta/UwULogs.zip) and dezip it.
       
 2. Place `UwULogs` inside your `Interface/AddOns` directory.
    
